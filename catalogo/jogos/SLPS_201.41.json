@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.41",
+  "cover": {
+    "path": "PS2/SLPS_201.41/SLPS_201.41_COV.png",
+    "kind": "cover",
+    "bytes": 111954,
+    "width": 192,
+    "height": 272,
+    "sha256": "70e84cf49114a08252f84f5823b95cff3217fba228d7ee43696fb12d4b6ae12d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20141.jpg"
+    },
+    "gameId": "SLPS_201.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dream Audition Super Hit Disc 2"
+}

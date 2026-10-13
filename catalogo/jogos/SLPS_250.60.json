@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.60",
+  "cover": {
+    "path": "PS2/SLPS_250.60/SLPS_250.60_COV.png",
+    "kind": "cover",
+    "bytes": 100746,
+    "width": 192,
+    "height": 272,
+    "sha256": "2b356ef08b5c282232bf14cf28e4194e5a41551a324b0351ae805531993cbd36",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25060.jpg"
+    },
+    "gameId": "SLPS_250.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam - Meguriai Sora (Limited Edition)"
+}

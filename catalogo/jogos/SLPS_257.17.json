@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.17",
+  "cover": {
+    "path": "PS2/SLPS_257.17/SLPS_257.17_COV.png",
+    "kind": "cover",
+    "bytes": 111829,
+    "width": 192,
+    "height": 272,
+    "sha256": "71fb13d2837e8891eb06e3cfec18f8eb1d75dfc776cf71bfe48eb8afb3e1fafa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25717.jpg"
+    },
+    "gameId": "SLPS_257.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 ULTIMATE SERIES VOL.33 - URURUN QUEST - KOIYUUKI"
+}

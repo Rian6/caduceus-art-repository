@@ -1,0 +1,90 @@
+{
+  "id": "SLES_541.63",
+  "cover": {
+    "path": "PS2/SLES_541.63/SLES_541.63_COV.png",
+    "kind": "cover",
+    "bytes": 109660,
+    "width": 192,
+    "height": 272,
+    "sha256": "f1319aaab0a802f318e79ff1b6f75ff21009c67014bedc1b3c3cf97e00dc72f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54163.jpg"
+    },
+    "gameId": "SLES_541.63"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.63/SLES_541.63_BG.png",
+    "kind": "background",
+    "bytes": 176182,
+    "width": 640,
+    "height": 480,
+    "sha256": "e8c4738a04bca81b047de4dd9c7eb36707514d645689c9f06f9fd7f8b778bdc5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.63/SLES_541.63_BG_00.png"
+    },
+    "gameId": "SLES_541.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.63/SLES_541.63_BG.png",
+      "kind": "background",
+      "bytes": 176182,
+      "width": 640,
+      "height": 480,
+      "sha256": "e8c4738a04bca81b047de4dd9c7eb36707514d645689c9f06f9fd7f8b778bdc5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.63/SLES_541.63_BG_00.png"
+      },
+      "gameId": "SLES_541.63"
+    },
+    {
+      "path": "PS2/SLES_541.63/SLES_541.63_BG_01.png",
+      "kind": "background",
+      "bytes": 201406,
+      "width": 640,
+      "height": 480,
+      "sha256": "8215909a641f56557a77a32436771f2d623a5b11ed6b0f5fbb5112c070940b77",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.63/SLES_541.63_BG_01.png"
+      },
+      "gameId": "SLES_541.63"
+    },
+    {
+      "path": "PS2/SLES_541.63/SLES_541.63_BG_02.png",
+      "kind": "background",
+      "bytes": 202639,
+      "width": 640,
+      "height": 480,
+      "sha256": "1c6ef29e52ca4d5a2e0b3d89fe9b77ac5aba926f24282268dafbafec8648f8b6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.63/SLES_541.63_BG_02.png"
+      },
+      "gameId": "SLES_541.63"
+    },
+    {
+      "path": "PS2/SLES_541.63/SLES_541.63_BG_03.png",
+      "kind": "background",
+      "bytes": 226001,
+      "width": 640,
+      "height": 480,
+      "sha256": "97050637ebf298df2563264a8d4b20b9c3e2ff998d41c48f8ac4c54b2ce8941f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.63/SLES_541.63_BG_03.png"
+      },
+      "gameId": "SLES_541.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Naruto: Ultimate Ninja"
+}

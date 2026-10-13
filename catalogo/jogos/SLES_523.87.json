@@ -1,0 +1,25 @@
+{
+  "id": "SLES_523.87",
+  "cover": {
+    "path": "PS2/SLES_523.87/SLES_523.87_COV.png",
+    "kind": "cover",
+    "bytes": 92516,
+    "width": 192,
+    "height": 272,
+    "sha256": "d07e2416cb82bfa3891cf8c29ba7a6951589d7cb544c355aaa401c73f7c435d0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52387.jpg"
+    },
+    "gameId": "SLES_523.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPYHUNTER 2"
+}

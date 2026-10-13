@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_209.25",
+  "cover": {
+    "path": "PS2/SLUS_209.25/SLUS_209.25_COV.png",
+    "kind": "cover",
+    "bytes": 91843,
+    "width": 192,
+    "height": 272,
+    "sha256": "b4bd3039be5b98cae90f81146a7e1b9fef12ddc3a419e9f0465b8d4ac478631e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20925.jpg"
+    },
+    "gameId": "SLUS_209.25"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.25/SLUS_209.25_ICO.png",
+    "kind": "disc",
+    "bytes": 30725,
+    "width": 256,
+    "height": 256,
+    "sha256": "6aeb7e9c7509e6d6869f7fcaac6d35c60bf2aea8174aa40e1f6bf7e6b5fad8a8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.25_ICO.png"
+    },
+    "gameId": "SLUS_209.25"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.25/SLUS_209.25_BG.png",
+    "kind": "background",
+    "bytes": 156126,
+    "width": 640,
+    "height": 480,
+    "sha256": "fd4760a045e216b4dc26d63853103fdc994cca41c488b054568176dff0274616",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.25/SLUS_209.25_BG_00.png"
+    },
+    "gameId": "SLUS_209.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.25/SLUS_209.25_BG.png",
+      "kind": "background",
+      "bytes": 156126,
+      "width": 640,
+      "height": 480,
+      "sha256": "fd4760a045e216b4dc26d63853103fdc994cca41c488b054568176dff0274616",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.25/SLUS_209.25_BG_00.png"
+      },
+      "gameId": "SLUS_209.25"
+    },
+    {
+      "path": "PS2/SLUS_209.25/SLUS_209.25_BG_01.png",
+      "kind": "background",
+      "bytes": 202889,
+      "width": 640,
+      "height": 480,
+      "sha256": "561660d994fd8a06939947dff616b8414b29fd4e23af4db6def0ce60da565e9f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.25/SLUS_209.25_BG_01.png"
+      },
+      "gameId": "SLUS_209.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamWorks Shark Tale"
+}

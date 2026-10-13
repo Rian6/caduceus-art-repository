@@ -1,0 +1,51 @@
+{
+  "id": "SLES_517.83",
+  "cover": {
+    "path": "PS2/SLES_517.83/SLES_517.83_COV.png",
+    "kind": "cover",
+    "bytes": 57909,
+    "width": 192,
+    "height": 272,
+    "sha256": "f403aad3219eeedad602f07286ad870187402af3a20f55f8ffd5eca8c3aacb43",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51783.jpg"
+    },
+    "gameId": "SLES_517.83"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_517.83/SLES_517.83_BG.png",
+    "kind": "background",
+    "bytes": 23456,
+    "width": 640,
+    "height": 480,
+    "sha256": "53ad1d02063154366cd26eb19ff9342121210f49b4881e0c86a154a162e41851",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.83/SLES_517.83_BG_00.png"
+    },
+    "gameId": "SLES_517.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.83/SLES_517.83_BG.png",
+      "kind": "background",
+      "bytes": 23456,
+      "width": 640,
+      "height": 480,
+      "sha256": "53ad1d02063154366cd26eb19ff9342121210f49b4881e0c86a154a162e41851",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.83/SLES_517.83_BG_00.png"
+      },
+      "gameId": "SLES_517.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STARSKY & HUTCH"
+}

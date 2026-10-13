@@ -1,0 +1,77 @@
+{
+  "id": "SLES_502.10",
+  "cover": {
+    "path": "PS2/SLES_502.10/SLES_502.10_COV.png",
+    "kind": "cover",
+    "bytes": 99736,
+    "width": 192,
+    "height": 272,
+    "sha256": "75ec051e9fad4cb2ed67c05924ea98f173941f479b2b5cda674cd4f998bcd4fc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50210.jpg"
+    },
+    "gameId": "SLES_502.10"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_502.10/SLES_502.10_BG.png",
+    "kind": "background",
+    "bytes": 159465,
+    "width": 640,
+    "height": 480,
+    "sha256": "4beaca62c966a40337ea1dab75356ff72ada7cbbb0bafb0655ec565e6d595dd7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.10/SLES_502.10_BG_00.png"
+    },
+    "gameId": "SLES_502.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.10/SLES_502.10_BG.png",
+      "kind": "background",
+      "bytes": 159465,
+      "width": 640,
+      "height": 480,
+      "sha256": "4beaca62c966a40337ea1dab75356ff72ada7cbbb0bafb0655ec565e6d595dd7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.10/SLES_502.10_BG_00.png"
+      },
+      "gameId": "SLES_502.10"
+    },
+    {
+      "path": "PS2/SLES_502.10/SLES_502.10_BG_01.png",
+      "kind": "background",
+      "bytes": 171963,
+      "width": 640,
+      "height": 480,
+      "sha256": "ffd9fd9d49c29c8a450b64a00d291315955894f312b09156547e55bdd3f4974d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.10/SLES_502.10_BG_01.png"
+      },
+      "gameId": "SLES_502.10"
+    },
+    {
+      "path": "PS2/SLES_502.10/SLES_502.10_BG_02.png",
+      "kind": "background",
+      "bytes": 83239,
+      "width": 640,
+      "height": 480,
+      "sha256": "9667a6b3f952033c05b89215450d02bbeee8fd9fce35ddd00afa1afc96459cd5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.10/SLES_502.10_BG_02.png"
+      },
+      "gameId": "SLES_502.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "XG3 - Extreme-G Racing"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_500.45",
+  "cover": {
+    "path": "PS2/SLES_500.45/SLES_500.45_COV.png",
+    "kind": "cover",
+    "bytes": 92617,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0e3168b572b47d9d69236e04bd1a59dfc1430720cf4a293fb568e188cc82bcd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50045.jpg"
+    },
+    "gameId": "SLES_500.45"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_500.45/SLES_500.45_BG.png",
+    "kind": "background",
+    "bytes": 193714,
+    "width": 640,
+    "height": 480,
+    "sha256": "48d25bc08858122efb4a7f0fb7c8e60f0a8e1156c39e5daa25c04f348530e989",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.45/SLES_500.45_BG_00.png"
+    },
+    "gameId": "SLES_500.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.45/SLES_500.45_BG.png",
+      "kind": "background",
+      "bytes": 193714,
+      "width": 640,
+      "height": 480,
+      "sha256": "48d25bc08858122efb4a7f0fb7c8e60f0a8e1156c39e5daa25c04f348530e989",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.45/SLES_500.45_BG_00.png"
+      },
+      "gameId": "SLES_500.45"
+    },
+    {
+      "path": "PS2/SLES_500.45/SLES_500.45_BG_01.png",
+      "kind": "background",
+      "bytes": 198769,
+      "width": 640,
+      "height": 480,
+      "sha256": "201696ec477598ef5cb7313434400a4d601d35ecb5ec310bdef529bd1330ce5a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.45/SLES_500.45_BG_01.png"
+      },
+      "gameId": "SLES_500.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Walt Disney - The Jungle Book - Rhythm N'Groove"
+}

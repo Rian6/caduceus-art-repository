@@ -1,0 +1,116 @@
+{
+  "id": "SLPS_250.26",
+  "cover": {
+    "path": "PS2/SLPS_250.26/SLPS_250.26_COV.png",
+    "kind": "cover",
+    "bytes": 89035,
+    "width": 192,
+    "height": 272,
+    "sha256": "c21ba2d1532e5ba303184b31efb19ac99c5e00858018e53242f55a0bec637d14",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25026.jpg"
+    },
+    "gameId": "SLPS_250.26"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_250.26/SLPS_250.26_BG.png",
+    "kind": "background",
+    "bytes": 175463,
+    "width": 640,
+    "height": 480,
+    "sha256": "fc8e4952d4a08e691bf1a38b13ca99cfd9258f6725d6840ad12e0e606c6a3c4e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.26/SLPS_250.26_BG_00.png"
+    },
+    "gameId": "SLPS_250.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_250.26/SLPS_250.26_BG.png",
+      "kind": "background",
+      "bytes": 175463,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc8e4952d4a08e691bf1a38b13ca99cfd9258f6725d6840ad12e0e606c6a3c4e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.26/SLPS_250.26_BG_00.png"
+      },
+      "gameId": "SLPS_250.26"
+    },
+    {
+      "path": "PS2/SLPS_250.26/SLPS_250.26_BG_01.png",
+      "kind": "background",
+      "bytes": 116283,
+      "width": 640,
+      "height": 480,
+      "sha256": "0eccc682574d051966650daed7a39c9ee07eb7abfd28525b34f5375a0115ce97",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.26/SLPS_250.26_BG_01.png"
+      },
+      "gameId": "SLPS_250.26"
+    },
+    {
+      "path": "PS2/SLPS_250.26/SLPS_250.26_BG_02.png",
+      "kind": "background",
+      "bytes": 184302,
+      "width": 640,
+      "height": 480,
+      "sha256": "cc97303c6621eebc00968c157147f7c2dddc0342cc9363c67c3bee57cda27f7e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.26/SLPS_250.26_BG_02.png"
+      },
+      "gameId": "SLPS_250.26"
+    },
+    {
+      "path": "PS2/SLPS_250.26/SLPS_250.26_BG_03.png",
+      "kind": "background",
+      "bytes": 139258,
+      "width": 640,
+      "height": 480,
+      "sha256": "8d9598674de17adfd97024b63b5c8474d06d6568e86bb6644fa6ccaeb1146298",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.26/SLPS_250.26_BG_03.png"
+      },
+      "gameId": "SLPS_250.26"
+    },
+    {
+      "path": "PS2/SLPS_250.26/SLPS_250.26_BG_04.png",
+      "kind": "background",
+      "bytes": 159277,
+      "width": 640,
+      "height": 480,
+      "sha256": "26d422626823121768d977cdb184b2844406ce5bd69c1215f9c4c24dca7ed2ec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.26/SLPS_250.26_BG_04.png"
+      },
+      "gameId": "SLPS_250.26"
+    },
+    {
+      "path": "PS2/SLPS_250.26/SLPS_250.26_BG_05.png",
+      "kind": "background",
+      "bytes": 176393,
+      "width": 640,
+      "height": 480,
+      "sha256": "9c23ac9731698136328bef428bccb8c9ba4eefcb39d72f426775a612f991ce5f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.26/SLPS_250.26_BG_05.png"
+      },
+      "gameId": "SLPS_250.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DOA2: Hardcore"
+}

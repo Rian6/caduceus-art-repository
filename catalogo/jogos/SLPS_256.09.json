@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_256.09",
+  "cover": {
+    "path": "PS2/SLPS_256.09/SLPS_256.09_COV.png",
+    "kind": "cover",
+    "bytes": 92019,
+    "width": 192,
+    "height": 272,
+    "sha256": "f3836a00959b170069fbe7929c13c7c3f439d69f4241d656476c5e88315fa5ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25609.jpg"
+    },
+    "gameId": "SLPS_256.09"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.09/SLPS_256.09_BG.png",
+    "kind": "background",
+    "bytes": 172158,
+    "width": 640,
+    "height": 480,
+    "sha256": "c3f69da74823fa63c2192666ba3a5e9994a5235e729b2a621c6c587400e82fdf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.09/SLPS_256.09_BG_00.png"
+    },
+    "gameId": "SLPS_256.09"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.09/SLPS_256.09_BG.png",
+      "kind": "background",
+      "bytes": 172158,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3f69da74823fa63c2192666ba3a5e9994a5235e729b2a621c6c587400e82fdf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.09/SLPS_256.09_BG_00.png"
+      },
+      "gameId": "SLPS_256.09"
+    },
+    {
+      "path": "PS2/SLPS_256.09/SLPS_256.09_BG_01.png",
+      "kind": "background",
+      "bytes": 134890,
+      "width": 640,
+      "height": 480,
+      "sha256": "8eee8925c07b474b5ad095d175ad2427b4dd4f816ffa4e83414701b733f464d9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.09/SLPS_256.09_BG_01.png"
+      },
+      "gameId": "SLPS_256.09"
+    },
+    {
+      "path": "PS2/SLPS_256.09/SLPS_256.09_BG_02.png",
+      "kind": "background",
+      "bytes": 130290,
+      "width": 640,
+      "height": 480,
+      "sha256": "02d9d4a5066998020c3135bb2503780d389ed99a44d35a2aff4c1f833d0b5b0b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.09/SLPS_256.09_BG_02.png"
+      },
+      "gameId": "SLPS_256.09"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KOF2: Maximum Impact II"
+}

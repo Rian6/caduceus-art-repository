@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.75",
+  "cover": {
+    "path": "PS2/SLPM_621.75/SLPM_621.75_COV.png",
+    "kind": "cover",
+    "bytes": 91203,
+    "width": 192,
+    "height": 272,
+    "sha256": "7d5397f04cae5e3af061a00f0f8a7d9d3a22d11ab2e85f0f698f539f15687418",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62175.jpg"
+    },
+    "gameId": "SLPM_621.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Beatmania Da! Da! Da! - The Best Da"
+}

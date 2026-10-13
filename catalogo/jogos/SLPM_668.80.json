@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.80",
+  "cover": {
+    "path": "PS2/SLPM_668.80/SLPM_668.80_COV.png",
+    "kind": "cover",
+    "bytes": 90097,
+    "width": 192,
+    "height": 272,
+    "sha256": "d276744a83c508e04eac9ff0f6f083d97e92fbcbb5c3b8e2b2714e104036a35c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66880.jpg"
+    },
+    "gameId": "SLPM_668.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STARTRAIN - YOUR PAST MAKES YOUR FUTURE"
+}

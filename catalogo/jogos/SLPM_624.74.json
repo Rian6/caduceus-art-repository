@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.74",
+  "cover": {
+    "path": "PS2/SLPM_624.74/SLPM_624.74_COV.png",
+    "kind": "cover",
+    "bytes": 99954,
+    "width": 192,
+    "height": 272,
+    "sha256": "ab06a12160f039edb93be1cabffca27db32d88cf1d273ee161a54607a248c308",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62474.jpg"
+    },
+    "gameId": "SLPM_624.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series Vol. 46: The Kanji Quiz: Challenge! Kanji Kentei"
+}

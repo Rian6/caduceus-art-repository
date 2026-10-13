@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_150.07",
+  "cover": {
+    "path": "PS2/SLKA_150.07/SLKA_150.07_COV.png",
+    "kind": "cover",
+    "bytes": 105267,
+    "width": 192,
+    "height": 272,
+    "sha256": "d3c4ace8322caf10f28dc38e3dc301a642aa17372a0539ff0161dbf12da1969c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-15007.jpg"
+    },
+    "gameId": "SLKA_150.07"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_150.07/SLKA_150.07_BG.png",
+    "kind": "background",
+    "bytes": 220487,
+    "width": 640,
+    "height": 480,
+    "sha256": "7a3bfc9c94687ac9a76a992622d462ac7e729c8a5170c32b4a5462b4da45209e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_150.07/SLKA_150.07_BG_00.png"
+    },
+    "gameId": "SLKA_150.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_150.07/SLKA_150.07_BG.png",
+      "kind": "background",
+      "bytes": 220487,
+      "width": 640,
+      "height": 480,
+      "sha256": "7a3bfc9c94687ac9a76a992622d462ac7e729c8a5170c32b4a5462b4da45209e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_150.07/SLKA_150.07_BG_00.png"
+      },
+      "gameId": "SLKA_150.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Growlanser II - The Sense of Justice"
+}

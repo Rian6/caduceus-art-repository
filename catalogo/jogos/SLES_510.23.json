@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.23",
+  "cover": {
+    "path": "PS2/SLES_510.23/SLES_510.23_COV.png",
+    "kind": "cover",
+    "bytes": 91267,
+    "width": 192,
+    "height": 272,
+    "sha256": "758c96639b2559ef27a9a661e3ec48361064fcd27882854b28d1c39846a97acd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51023.jpg"
+    },
+    "gameId": "SLES_510.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LMA Manager 2003"
+}

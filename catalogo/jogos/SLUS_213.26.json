@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_213.26",
+  "cover": {
+    "path": "PS2/SLUS_213.26/SLUS_213.26_COV.png",
+    "kind": "cover",
+    "bytes": 101465,
+    "width": 192,
+    "height": 272,
+    "sha256": "611ab65890313918d01fc357fce14ed65d501b6ccd8de53c28a2a1501501076b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21326.jpg"
+    },
+    "gameId": "SLUS_213.26"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.26/SLUS_213.26_ICO.png",
+    "kind": "disc",
+    "bytes": 35925,
+    "width": 256,
+    "height": 256,
+    "sha256": "f7cd0c4e0c1cfbb7d651352b67db6fead2de8ea13292fea7c44c37a6d032c607",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.26_ICO.png"
+    },
+    "gameId": "SLUS_213.26"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.26/SLUS_213.26_BG.png",
+    "kind": "background",
+    "bytes": 215025,
+    "width": 640,
+    "height": 480,
+    "sha256": "66ca521d701c4b32a9c5d30c57cec4b51526738b3bbffb7031f0ae449d85eaea",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.26/SLUS_213.26_BG_00.png"
+    },
+    "gameId": "SLUS_213.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.26/SLUS_213.26_BG.png",
+      "kind": "background",
+      "bytes": 215025,
+      "width": 640,
+      "height": 480,
+      "sha256": "66ca521d701c4b32a9c5d30c57cec4b51526738b3bbffb7031f0ae449d85eaea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.26/SLUS_213.26_BG_00.png"
+      },
+      "gameId": "SLUS_213.26"
+    },
+    {
+      "path": "PS2/SLUS_213.26/SLUS_213.26_BG_01.png",
+      "kind": "background",
+      "bytes": 190229,
+      "width": 640,
+      "height": 480,
+      "sha256": "c71c08b5487f817d766df06199ae0bf8caa1933854c85f036aa3830dc9d57bc6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.26/SLUS_213.26_BG_01.png"
+      },
+      "gameId": "SLUS_213.26"
+    },
+    {
+      "path": "PS2/SLUS_213.26/SLUS_213.26_BG_02.png",
+      "kind": "background",
+      "bytes": 160085,
+      "width": 640,
+      "height": 480,
+      "sha256": "cbaf5dd4e85ba00bc1fa48f913c19cadfa12152f400e09eec94e7620c7002933",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.26/SLUS_213.26_BG_02.png"
+      },
+      "gameId": "SLUS_213.26"
+    },
+    {
+      "path": "PS2/SLUS_213.26/SLUS_213.26_BG_03.png",
+      "kind": "background",
+      "bytes": 169190,
+      "width": 640,
+      "height": 480,
+      "sha256": "9090341a05f7632e2a53655da4e8811e1e005c0cef26d2aa7103f7fd58945573",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.26/SLUS_213.26_BG_03.png"
+      },
+      "gameId": "SLUS_213.26"
+    },
+    {
+      "path": "PS2/SLUS_213.26/SLUS_213.26_BG_04.png",
+      "kind": "background",
+      "bytes": 194654,
+      "width": 640,
+      "height": 480,
+      "sha256": "2fe41413b2c9ea14ff611469039a676337ab3d545c3dfc70f6c56be10533fd92",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.26/SLUS_213.26_BG_04.png"
+      },
+      "gameId": "SLUS_213.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shadow Hearts - From The New World"
+}

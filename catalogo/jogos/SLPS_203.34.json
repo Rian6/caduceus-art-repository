@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.34",
+  "cover": {
+    "path": "PS2/SLPS_203.34/SLPS_203.34_COV.png",
+    "kind": "cover",
+    "bytes": 94773,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea40d89e0c8d9566ed19e883d29d4609fa1c7ec1928526728b784060095dbc52",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20334.jpg"
+    },
+    "gameId": "SLPS_203.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taisen 2 - Igo"
+}

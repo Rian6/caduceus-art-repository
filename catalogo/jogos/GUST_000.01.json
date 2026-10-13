@@ -1,0 +1,25 @@
+{
+  "id": "GUST_000.01",
+  "cover": {
+    "path": "PS2/GUST_000.01/GUST_000.01_COV.png",
+    "kind": "cover",
+    "bytes": 58210,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d738c6b108a030146ac521a615d538f42cfd7b05584e16ac191520b3805ca80",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/GUST_000.01/GUST_000.01_COV.png"
+    },
+    "gameId": "GUST_000.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Judie no Atelier: Gramnad no Renkinjutsushi (Premium Box)"
+}

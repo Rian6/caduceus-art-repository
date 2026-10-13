@@ -1,0 +1,25 @@
+{
+  "id": "SLES_532.38",
+  "cover": {
+    "path": "PS2/SLES_532.38/SLES_532.38_COV.png",
+    "kind": "cover",
+    "bytes": 72638,
+    "width": 192,
+    "height": 272,
+    "sha256": "58c45254f5bc7fba8f20ae39bf9c26084bdab4f6d328b2eb7ee045844f14c3ca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53238.jpg"
+    },
+    "gameId": "SLES_532.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Premier Manager 2005/2006"
+}

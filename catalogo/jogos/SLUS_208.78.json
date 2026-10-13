@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_208.78",
+  "cover": {
+    "path": "PS2/SLUS_208.78/SLUS_208.78_COV.png",
+    "kind": "cover",
+    "bytes": 108642,
+    "width": 192,
+    "height": 272,
+    "sha256": "f6c35eb18979c056eb78232346e51d71772546224a606fcf93d61494d6f2aa51",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20878.jpg"
+    },
+    "gameId": "SLUS_208.78"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.78/SLUS_208.78_ICO.png",
+    "kind": "disc",
+    "bytes": 35654,
+    "width": 256,
+    "height": 256,
+    "sha256": "15b9691c8df6ee729aac0de375348588c422fdb35d82759adb92e59b3ab54eab",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.78_ICO.png"
+    },
+    "gameId": "SLUS_208.78"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.78/SLUS_208.78_BG.png",
+    "kind": "background",
+    "bytes": 214112,
+    "width": 640,
+    "height": 480,
+    "sha256": "96027fa7f3acf83885fa291130fcc9d7cd90c5743a40b222d6a29c0441e3c68f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.78/SLUS_208.78_BG_00.png"
+    },
+    "gameId": "SLUS_208.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.78/SLUS_208.78_BG.png",
+      "kind": "background",
+      "bytes": 214112,
+      "width": 640,
+      "height": 480,
+      "sha256": "96027fa7f3acf83885fa291130fcc9d7cd90c5743a40b222d6a29c0441e3c68f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.78/SLUS_208.78_BG_00.png"
+      },
+      "gameId": "SLUS_208.78"
+    },
+    {
+      "path": "PS2/SLUS_208.78/SLUS_208.78_BG_01.png",
+      "kind": "background",
+      "bytes": 232596,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf7349680c84c405c5bbd4dd13141f73045e343b3df0e5774e0cd099f943fd45",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.78/SLUS_208.78_BG_01.png"
+      },
+      "gameId": "SLUS_208.78"
+    },
+    {
+      "path": "PS2/SLUS_208.78/SLUS_208.78_BG_02.png",
+      "kind": "background",
+      "bytes": 186232,
+      "width": 640,
+      "height": 480,
+      "sha256": "458adee788e790b1ea061552e2f32c6fc603bdeff2efc3778f6a27897d30592d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.78/SLUS_208.78_BG_02.png"
+      },
+      "gameId": "SLUS_208.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Samurai Warriors"
+}

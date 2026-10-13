@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.91",
+  "cover": {
+    "path": "PS2/SLPM_661.91/SLPM_661.91_COV.png",
+    "kind": "cover",
+    "bytes": 74233,
+    "width": 192,
+    "height": 272,
+    "sha256": "eb8bbb7e9b66e5235e2ce87b66d424a419bbc104756d8a90737cb72822677cd8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66191.jpg"
+    },
+    "gameId": "SLPM_661.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tiger Woods PGA Tour '06"
+}

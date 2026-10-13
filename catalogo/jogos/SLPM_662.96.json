@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.96",
+  "cover": {
+    "path": "PS2/SLPM_662.96/SLPM_662.96_COV.png",
+    "kind": "cover",
+    "bytes": 100191,
+    "width": 192,
+    "height": 272,
+    "sha256": "b914f9b27d606d1fb31f5fe89fb51f9c43b0c5ff0a9ad66dd15b3158498caff0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66296.jpg"
+    },
+    "gameId": "SLPM_662.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yamiyo ni Sasayaku - Tantei Sagara Kyouichirou"
+}

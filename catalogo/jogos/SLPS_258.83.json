@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.83",
+  "cover": {
+    "path": "PS2/SLPS_258.83/SLPS_258.83_COV.png",
+    "kind": "cover",
+    "bytes": 107474,
+    "width": 192,
+    "height": 272,
+    "sha256": "837fd1b351ec08713b24154b6b7197064167339187209302789587974acda967",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25883.jpg"
+    },
+    "gameId": "SLPS_258.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KATEIKYOUSHI HITMAN REBORN! - NERAE RING X BONGOLE TRAINERS"
+}

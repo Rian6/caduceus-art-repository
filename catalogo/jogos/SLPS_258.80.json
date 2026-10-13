@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.80",
+  "cover": {
+    "path": "PS2/SLPS_258.80/SLPS_258.80_COV.png",
+    "kind": "cover",
+    "bytes": 71307,
+    "width": 192,
+    "height": 272,
+    "sha256": "14769d7f3e3545729e6bd943d8d1f665d0e36629053301e38684266e5303e03d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25880.jpg"
+    },
+    "gameId": "SLPS_258.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "True Fortune"
+}

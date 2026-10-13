@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.18",
+  "cover": {
+    "path": "PS2/SLES_548.18/SLES_548.18_COV.png",
+    "kind": "cover",
+    "bytes": 86802,
+    "width": 192,
+    "height": 272,
+    "sha256": "657720c619751a1dc32d5be9923ae8b8f536dcd91ee6854b61b0fb4ddc1a6a0e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54818.jpg"
+    },
+    "gameId": "SLES_548.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super PickUps"
+}

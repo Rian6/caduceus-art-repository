@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.14",
+  "cover": {
+    "path": "PS2/SLPS_203.14/SLPS_203.14_COV.png",
+    "kind": "cover",
+    "bytes": 101743,
+    "width": 192,
+    "height": 272,
+    "sha256": "05bf258409d615aa1a52455524e3bfb17bb3a063b34002aaf5610d9312adfc0d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20314.jpg"
+    },
+    "gameId": "SLPS_203.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gold X"
+}

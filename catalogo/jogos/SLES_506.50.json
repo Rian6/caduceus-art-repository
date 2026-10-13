@@ -1,0 +1,117 @@
+{
+  "id": "SLES_506.50",
+  "cover": {
+    "path": "PS2/SLES_506.50/SLES_506.50_COV.png",
+    "kind": "cover",
+    "bytes": 91473,
+    "width": 192,
+    "height": 272,
+    "sha256": "18a7bb3743ec99e2bb514f0fa6c331f8bc08964e1cddb49eff2982d1cea5cb68",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50650.jpg"
+    },
+    "gameId": "SLES_506.50"
+  },
+  "disc": {
+    "path": "PS2/SLES_506.50/SLES_506.50_ICO.png",
+    "kind": "disc",
+    "bytes": 11475,
+    "width": 128,
+    "height": 128,
+    "sha256": "bd9a71fa3a815407f99f5c77ddc606f6987370a0e64a17bab5b4b41de18cb72b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_506.50_ICO.png"
+    },
+    "gameId": "SLES_506.50"
+  },
+  "background": {
+    "path": "PS2/SLES_506.50/SLES_506.50_BG.png",
+    "kind": "background",
+    "bytes": 178786,
+    "width": 640,
+    "height": 480,
+    "sha256": "a78389f56a91747fd914ce20f5b1b184a6f540c92150b1d20ecbf3ed0f28f798",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_506.50/SLES_506.50_BG_00.png"
+    },
+    "gameId": "SLES_506.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_506.50/SLES_506.50_BG.png",
+      "kind": "background",
+      "bytes": 178786,
+      "width": 640,
+      "height": 480,
+      "sha256": "a78389f56a91747fd914ce20f5b1b184a6f540c92150b1d20ecbf3ed0f28f798",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.50/SLES_506.50_BG_00.png"
+      },
+      "gameId": "SLES_506.50"
+    },
+    {
+      "path": "PS2/SLES_506.50/SLES_506.50_BG_01.png",
+      "kind": "background",
+      "bytes": 193569,
+      "width": 640,
+      "height": 480,
+      "sha256": "9d94a840554218f462074097a028be29518358eff9cfaf7aa9fee08418150bcd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.50/SLES_506.50_BG_01.png"
+      },
+      "gameId": "SLES_506.50"
+    },
+    {
+      "path": "PS2/SLES_506.50/SLES_506.50_BG_02.png",
+      "kind": "background",
+      "bytes": 136080,
+      "width": 640,
+      "height": 480,
+      "sha256": "bb183fd5d3f64e66e8e5ea981a12a9e3871a1a4fce27f7acc8d7b406c20ca25b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.50/SLES_506.50_BG_02.png"
+      },
+      "gameId": "SLES_506.50"
+    },
+    {
+      "path": "PS2/SLES_506.50/SLES_506.50_BG_03.png",
+      "kind": "background",
+      "bytes": 187718,
+      "width": 640,
+      "height": 480,
+      "sha256": "111c0ac341cd07be3974f1141594d6be3c0fddea178ef262afb4b75bf87c3ac1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.50/SLES_506.50_BG_03.png"
+      },
+      "gameId": "SLES_506.50"
+    },
+    {
+      "path": "PS2/SLES_506.50/SLES_506.50_BG_04.png",
+      "kind": "background",
+      "bytes": 206576,
+      "width": 640,
+      "height": 480,
+      "sha256": "b7a42d20bd5435961c1b9ebfca11010ce6742a633f60e1bca15705c139151bf8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.50/SLES_506.50_BG_04.png"
+      },
+      "gameId": "SLES_506.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RESIDENT EVIL - SURVIVOR 2 CODE VERONICA"
+}

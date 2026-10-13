@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_213.75",
+  "cover": {
+    "path": "PS2/SLUS_213.75/SLUS_213.75_COV.png",
+    "kind": "cover",
+    "bytes": 84305,
+    "width": 192,
+    "height": 272,
+    "sha256": "3476d2cd60ce5b50c55c924cba030fb539f80f1c2f9bbb77d4c1adcbad8c5472",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21375.jpg"
+    },
+    "gameId": "SLUS_213.75"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.75/SLUS_213.75_ICO.png",
+    "kind": "disc",
+    "bytes": 30427,
+    "width": 256,
+    "height": 256,
+    "sha256": "ddea01e959ab81fefff1223efb74d19b76be35b56e32eb554dea8470d761928f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.75_ICO.png"
+    },
+    "gameId": "SLUS_213.75"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.75/SLUS_213.75_BG.png",
+    "kind": "background",
+    "bytes": 181396,
+    "width": 640,
+    "height": 480,
+    "sha256": "7d4a96c6e0d229f95f63b5637487588e32b522bc658492afed0afa228a61297b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.75/SLUS_213.75_BG_00.png"
+    },
+    "gameId": "SLUS_213.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.75/SLUS_213.75_BG.png",
+      "kind": "background",
+      "bytes": 181396,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d4a96c6e0d229f95f63b5637487588e32b522bc658492afed0afa228a61297b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.75/SLUS_213.75_BG_00.png"
+      },
+      "gameId": "SLUS_213.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Torino 2006"
+}

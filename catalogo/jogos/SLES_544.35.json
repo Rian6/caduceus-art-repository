@@ -1,0 +1,39 @@
+{
+  "id": "SLES_544.35",
+  "cover": {
+    "path": "PS2/SLES_544.35/SLES_544.35_COV.png",
+    "kind": "cover",
+    "bytes": 59283,
+    "width": 192,
+    "height": 272,
+    "sha256": "84d8e2ee0ff38abfdfcc8de4f4b317f1a470dde06bb71d056fdf89a8597720fc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.35/SLES_544.35_COV.png"
+    },
+    "gameId": "SLES_544.35"
+  },
+  "disc": {
+    "path": "PS2/SLES_544.35/SLES_544.35_ICO.png",
+    "kind": "disc",
+    "bytes": 11927,
+    "width": 128,
+    "height": 128,
+    "sha256": "527a71938009e7fe316e3aed867036d36d8a3560aaabba6e338b2f6a42ea37b6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_544.35_ICO.png"
+    },
+    "gameId": "SLES_544.35"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Casper and the Ghostly Trio"
+}

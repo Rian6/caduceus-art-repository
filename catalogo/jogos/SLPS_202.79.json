@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.79",
+  "cover": {
+    "path": "PS2/SLPS_202.79/SLPS_202.79_COV.png",
+    "kind": "cover",
+    "bytes": 117214,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0c5839d24dc6c2bcebd2aa4771f18a9ba678aec2deaaa92791c3e8cf6485cb8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20279.jpg"
+    },
+    "gameId": "SLPS_202.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hissatsu Pachinko Station V7 - Tensai Bakabon 2"
+}

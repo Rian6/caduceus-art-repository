@@ -1,0 +1,104 @@
+{
+  "id": "SLES_534.81",
+  "cover": {
+    "path": "PS2/SLES_534.81/SLES_534.81_COV.png",
+    "kind": "cover",
+    "bytes": 74674,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf327c7ee268ab71961411876c1bdbd40c55b177fc0bea189fecbbde4a9197bb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53481.jpg"
+    },
+    "gameId": "SLES_534.81"
+  },
+  "disc": {
+    "path": "PS2/SLES_534.81/SLES_534.81_ICO.png",
+    "kind": "disc",
+    "bytes": 10855,
+    "width": 128,
+    "height": 128,
+    "sha256": "c32c7ddc2ed1cb15b9f9ab8840970c82409700496155e13d1465e463b2c7e7e5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_534.81_ICO.png"
+    },
+    "gameId": "SLES_534.81"
+  },
+  "background": {
+    "path": "PS2/SLES_534.81/SLES_534.81_BG.png",
+    "kind": "background",
+    "bytes": 153326,
+    "width": 640,
+    "height": 480,
+    "sha256": "6f50e8e719e8431be5f7b12188d55d8de62cb2ccb1041fbfaaf887b3fa5ba4b2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.81/SLES_534.81_BG_00.png"
+    },
+    "gameId": "SLES_534.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.81/SLES_534.81_BG.png",
+      "kind": "background",
+      "bytes": 153326,
+      "width": 640,
+      "height": 480,
+      "sha256": "6f50e8e719e8431be5f7b12188d55d8de62cb2ccb1041fbfaaf887b3fa5ba4b2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.81/SLES_534.81_BG_00.png"
+      },
+      "gameId": "SLES_534.81"
+    },
+    {
+      "path": "PS2/SLES_534.81/SLES_534.81_BG_01.png",
+      "kind": "background",
+      "bytes": 213522,
+      "width": 640,
+      "height": 480,
+      "sha256": "0b00ac205085b76355f2cab5e777136906000ea101de6b43d63484f00bd1d7bd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.81/SLES_534.81_BG_01.png"
+      },
+      "gameId": "SLES_534.81"
+    },
+    {
+      "path": "PS2/SLES_534.81/SLES_534.81_BG_02.png",
+      "kind": "background",
+      "bytes": 170628,
+      "width": 640,
+      "height": 480,
+      "sha256": "35c7d1accaa2423a1f39bd1e3477473f5d843c880d70fa35f222c42ab9ebccfc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.81/SLES_534.81_BG_02.png"
+      },
+      "gameId": "SLES_534.81"
+    },
+    {
+      "path": "PS2/SLES_534.81/SLES_534.81_BG_03.png",
+      "kind": "background",
+      "bytes": 205944,
+      "width": 640,
+      "height": 480,
+      "sha256": "d4758206ba6c7c1a2bad397c34664294e37b61ef9c2461dd7c4d95afba3791fe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.81/SLES_534.81_BG_03.png"
+      },
+      "gameId": "SLES_534.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "10,000 Bullets"
+}

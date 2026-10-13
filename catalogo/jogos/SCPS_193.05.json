@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_193.05",
+  "cover": {
+    "path": "PS2/SCPS_193.05/SCPS_193.05_COV.png",
+    "kind": "cover",
+    "bytes": 79967,
+    "width": 192,
+    "height": 272,
+    "sha256": "29511afb071bd6980d2ef80202817af8b965384e3dd336bbad252bccf482e3af",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19305.jpg"
+    },
+    "gameId": "SCPS_193.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIREN [PLAYSTATION 2 THE BEST]"
+}

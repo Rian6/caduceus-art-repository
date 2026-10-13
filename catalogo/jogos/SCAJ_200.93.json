@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.93",
+  "cover": {
+    "path": "PS2/SCAJ_200.93/SCAJ_200.93_COV.png",
+    "kind": "cover",
+    "bytes": 82070,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc86c1779a44021cffad08f5de26e2de7c471908b3cf248b48957351a13de5f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20093.jpg"
+    },
+    "gameId": "SCAJ_200.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tenchu Kurenai"
+}

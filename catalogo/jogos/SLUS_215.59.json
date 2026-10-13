@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_215.59",
+  "cover": {
+    "path": "PS2/SLUS_215.59/SLUS_215.59_COV.png",
+    "kind": "cover",
+    "bytes": 107230,
+    "width": 192,
+    "height": 272,
+    "sha256": "1922e67a4785f5e6a02f22cb016db34af2362cae243303f9f27873b462102609",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21559.jpg"
+    },
+    "gameId": "SLUS_215.59"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.59/SLUS_215.59_ICO.png",
+    "kind": "disc",
+    "bytes": 28923,
+    "width": 256,
+    "height": 256,
+    "sha256": "81f2ff70762aaeda58e0fcc7946053251ff5775e9a0f96b078d921d69e6db727",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.59_ICO.png"
+    },
+    "gameId": "SLUS_215.59"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.59/SLUS_215.59_BG.png",
+    "kind": "background",
+    "bytes": 145904,
+    "width": 640,
+    "height": 480,
+    "sha256": "00afcaf8ebd4c9cd10136f732294d89a6630fc84ff9c5c50600bb48284016fc4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.59/SLUS_215.59_BG_00.png"
+    },
+    "gameId": "SLUS_215.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.59/SLUS_215.59_BG.png",
+      "kind": "background",
+      "bytes": 145904,
+      "width": 640,
+      "height": 480,
+      "sha256": "00afcaf8ebd4c9cd10136f732294d89a6630fc84ff9c5c50600bb48284016fc4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.59/SLUS_215.59_BG_00.png"
+      },
+      "gameId": "SLUS_215.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Konami Kids Playground - Alphabet Circus"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.72",
+  "cover": {
+    "path": "PS2/SCAJ_201.72/SCAJ_201.72_COV.png",
+    "kind": "cover",
+    "bytes": 69372,
+    "width": 192,
+    "height": 272,
+    "sha256": "c4e749f911698b69976e16a2df5f965a61278979f909710bd3f242c8ddf67e71",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20172.jpg"
+    },
+    "gameId": "SCAJ_201.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XII"
+}

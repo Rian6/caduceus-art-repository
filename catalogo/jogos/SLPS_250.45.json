@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.45",
+  "cover": {
+    "path": "PS2/SLPS_250.45/SLPS_250.45_COV.png",
+    "kind": "cover",
+    "bytes": 98263,
+    "width": 192,
+    "height": 272,
+    "sha256": "55eb384bb2958ff72822fb985d1d6e772c45d827d508982ef511385ca22f5f21",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25045.jpg"
+    },
+    "gameId": "SLPS_250.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ATELIER LILIE - LILIE NO ATELIER - SALBERG NO RENKINJUTSUSHI 3 [PREMIUM BOX]"
+}

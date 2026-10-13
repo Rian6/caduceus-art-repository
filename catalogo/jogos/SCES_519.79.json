@@ -1,0 +1,51 @@
+{
+  "id": "SCES_519.79",
+  "cover": {
+    "path": "PS2/SCES_519.79/SCES_519.79_COV.png",
+    "kind": "cover",
+    "bytes": 109397,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ab81bd560955490d14d6745ae08146ece7a1d7339994c3f84089dc5d102211d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51979.jpg"
+    },
+    "gameId": "SCES_519.79"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_519.79/SCES_519.79_BG.png",
+    "kind": "background",
+    "bytes": 190321,
+    "width": 640,
+    "height": 480,
+    "sha256": "d266f7d2a567021c297f35c193c15d8da0d8b341631180cf0895f595ab58d292",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_519.79/SCES_519.79_BG_00.png"
+    },
+    "gameId": "SCES_519.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_519.79/SCES_519.79_BG.png",
+      "kind": "background",
+      "bytes": 190321,
+      "width": 640,
+      "height": 480,
+      "sha256": "d266f7d2a567021c297f35c193c15d8da0d8b341631180cf0895f595ab58d292",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_519.79/SCES_519.79_BG_00.png"
+      },
+      "gameId": "SCES_519.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Destruction Derby Arenas"
+}

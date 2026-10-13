@@ -1,0 +1,64 @@
+{
+  "id": "SLES_550.32",
+  "cover": {
+    "path": "PS2/SLES_550.32/SLES_550.32_COV.png",
+    "kind": "cover",
+    "bytes": 87899,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc05d71917474686b6ce02cb52988c75d5c3d0cbf05e1c18b35799d360c72ec8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55032.jpg"
+    },
+    "gameId": "SLES_550.32"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_550.32/SLES_550.32_BG.png",
+    "kind": "background",
+    "bytes": 215022,
+    "width": 640,
+    "height": 480,
+    "sha256": "74bdd720dedc05854e92e21409bc855294947627a318e397df5d4fa193787756",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.32/SLES_550.32_BG_00.png"
+    },
+    "gameId": "SLES_550.32"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.32/SLES_550.32_BG.png",
+      "kind": "background",
+      "bytes": 215022,
+      "width": 640,
+      "height": 480,
+      "sha256": "74bdd720dedc05854e92e21409bc855294947627a318e397df5d4fa193787756",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.32/SLES_550.32_BG_00.png"
+      },
+      "gameId": "SLES_550.32"
+    },
+    {
+      "path": "PS2/SLES_550.32/SLES_550.32_BG_01.png",
+      "kind": "background",
+      "bytes": 236192,
+      "width": 640,
+      "height": 480,
+      "sha256": "893d82bd5d95f093e6e7a40a5b64233da97417862d2f0a90ff3c49c44d528774",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.32/SLES_550.32_BG_01.png"
+      },
+      "gameId": "SLES_550.32"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Off-Road"
+}

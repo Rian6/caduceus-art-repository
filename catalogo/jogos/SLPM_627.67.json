@@ -1,0 +1,91 @@
+{
+  "id": "SLPM_627.67",
+  "cover": {
+    "path": "PS2/SLPM_627.67/SLPM_627.67_COV.png",
+    "kind": "cover",
+    "bytes": 101361,
+    "width": 192,
+    "height": 272,
+    "sha256": "268f5b05aadc8cb70ae280a7bd57dbeafe30d388980ddb3d17730b1f49144d07",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62767.jpg"
+    },
+    "gameId": "SLPM_627.67"
+  },
+  "disc": {
+    "path": "PS2/SLPM_627.67/SLPM_627.67_ICO.png",
+    "kind": "disc",
+    "bytes": 12308,
+    "width": 128,
+    "height": 128,
+    "sha256": "b9adcab8273b628652e8499c76118c3dcea4a69b6ca9409b7d4d1533d64a29c8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_627.67_ICO.png"
+    },
+    "gameId": "SLPM_627.67"
+  },
+  "background": {
+    "path": "PS2/SLPM_627.67/SLPM_627.67_BG.png",
+    "kind": "background",
+    "bytes": 147302,
+    "width": 640,
+    "height": 480,
+    "sha256": "714e2261ea49d15ba83fe89b35a431a37c7db84969005a442bb1468c0a1bfd04",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_627.67/SLPM_627.67_BG_00.png"
+    },
+    "gameId": "SLPM_627.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_627.67/SLPM_627.67_BG.png",
+      "kind": "background",
+      "bytes": 147302,
+      "width": 640,
+      "height": 480,
+      "sha256": "714e2261ea49d15ba83fe89b35a431a37c7db84969005a442bb1468c0a1bfd04",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.67/SLPM_627.67_BG_00.png"
+      },
+      "gameId": "SLPM_627.67"
+    },
+    {
+      "path": "PS2/SLPM_627.67/SLPM_627.67_BG_01.png",
+      "kind": "background",
+      "bytes": 217949,
+      "width": 640,
+      "height": 480,
+      "sha256": "26bcf87d123c3cbbab762280f35a6171dc8658ca74bafd51081312d170f56d69",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.67/SLPM_627.67_BG_01.png"
+      },
+      "gameId": "SLPM_627.67"
+    },
+    {
+      "path": "PS2/SLPM_627.67/SLPM_627.67_BG_02.png",
+      "kind": "background",
+      "bytes": 175675,
+      "width": 640,
+      "height": 480,
+      "sha256": "10727c3b4984665f1a6f1689e7950249f5ae0c9d69460e42211006ee5a8d488c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.67/SLPM_627.67_BG_02.png"
+      },
+      "gameId": "SLPM_627.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Ages 2500 Series Vol. 31: Dennou Senki Virtual On"
+}

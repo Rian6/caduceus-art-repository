@@ -1,0 +1,25 @@
+{
+  "id": "SCES_544.96",
+  "cover": {
+    "path": "PS2/SCES_544.96/SCES_544.96_COV.png",
+    "kind": "cover",
+    "bytes": 95063,
+    "width": 192,
+    "height": 272,
+    "sha256": "db248e8211469ecb0df0fb38ef908e85226277c50d63fcd20f90bca5a7f66fd4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54496.jpg"
+    },
+    "gameId": "SCES_544.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! The Mega Quiz"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.65",
+  "cover": {
+    "path": "PS2/SLPS_202.65/SLPS_202.65_COV.png",
+    "kind": "cover",
+    "bytes": 104020,
+    "width": 192,
+    "height": 272,
+    "sha256": "5464090d48c8b94ffb799318a06372d1f98e656ec6a083986c8a23528e37e855",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20265.jpg"
+    },
+    "gameId": "SLPS_202.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fever 7 - Sankyo Koushiki Pachinko Simulation"
+}

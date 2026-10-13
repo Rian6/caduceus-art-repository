@@ -1,0 +1,64 @@
+{
+  "id": "SLES_528.72",
+  "cover": {
+    "path": "PS2/SLES_528.72/SLES_528.72_COV.png",
+    "kind": "cover",
+    "bytes": 71954,
+    "width": 192,
+    "height": 272,
+    "sha256": "e955dfa64bfbb45ac8a9d997fab144df672a6b14b49a173c51b79090bb453f7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52872.jpg"
+    },
+    "gameId": "SLES_528.72"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.72/SLES_528.72_BG.png",
+    "kind": "background",
+    "bytes": 169470,
+    "width": 640,
+    "height": 480,
+    "sha256": "b97e94dd8c684bc0d0c046d4ae703e51eb18a9a7af82553d7eaaabb3356cfa23",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.72/SLES_528.72_BG_00.png"
+    },
+    "gameId": "SLES_528.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.72/SLES_528.72_BG.png",
+      "kind": "background",
+      "bytes": 169470,
+      "width": 640,
+      "height": 480,
+      "sha256": "b97e94dd8c684bc0d0c046d4ae703e51eb18a9a7af82553d7eaaabb3356cfa23",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.72/SLES_528.72_BG_00.png"
+      },
+      "gameId": "SLES_528.72"
+    },
+    {
+      "path": "PS2/SLES_528.72/SLES_528.72_BG_01.png",
+      "kind": "background",
+      "bytes": 193082,
+      "width": 640,
+      "height": 480,
+      "sha256": "ad29a480c62f73ae319638167988772df30fc2133f40189bbe8dc3feb0da5a78",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.72/SLES_528.72_BG_01.png"
+      },
+      "gameId": "SLES_528.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Constantine"
+}

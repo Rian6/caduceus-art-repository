@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.52",
+  "cover": {
+    "path": "PS2/SLES_526.52/SLES_526.52_COV.png",
+    "kind": "cover",
+    "bytes": 90004,
+    "width": 192,
+    "height": 272,
+    "sha256": "97f09dd723a870bf4d4dfa7895908a1679a7be28df478d421e8d0a7d48fb814c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52652.jpg"
+    },
+    "gameId": "SLES_526.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - Liverpool FC"
+}

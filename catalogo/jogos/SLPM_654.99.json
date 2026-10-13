@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_654.99",
+  "cover": {
+    "path": "PS2/SLPM_654.99/SLPM_654.99_COV.png",
+    "kind": "cover",
+    "bytes": 75680,
+    "width": 192,
+    "height": 272,
+    "sha256": "6bf2755963277ac9c142a38aa25beb8788cd4d175243829e96b2b4c773b6eac2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65499.jpg"
+    },
+    "gameId": "SLPM_654.99"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_654.99/SLPM_654.99_BG.png",
+    "kind": "background",
+    "bytes": 158084,
+    "width": 640,
+    "height": 480,
+    "sha256": "7aaa5d642b984856a8455d8df7ce855708b27738ddd81ebe63ed814399dbfb13",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.99/SLPM_654.99_BG_00.png"
+    },
+    "gameId": "SLPM_654.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.99/SLPM_654.99_BG.png",
+      "kind": "background",
+      "bytes": 158084,
+      "width": 640,
+      "height": 480,
+      "sha256": "7aaa5d642b984856a8455d8df7ce855708b27738ddd81ebe63ed814399dbfb13",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.99/SLPM_654.99_BG_00.png"
+      },
+      "gameId": "SLPM_654.99"
+    },
+    {
+      "path": "PS2/SLPM_654.99/SLPM_654.99_BG_01.png",
+      "kind": "background",
+      "bytes": 168703,
+      "width": 640,
+      "height": 480,
+      "sha256": "aeed43cdcc45466fb099192211fc2e31a898c40882f2094df373485328aefadb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.99/SLPM_654.99_BG_01.png"
+      },
+      "gameId": "SLPM_654.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bloody Roar 4"
+}

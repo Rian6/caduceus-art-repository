@@ -1,0 +1,78 @@
+{
+  "id": "SLES_544.41",
+  "cover": {
+    "path": "PS2/SLES_544.41/SLES_544.41_COV.png",
+    "kind": "cover",
+    "bytes": 100099,
+    "width": 192,
+    "height": 272,
+    "sha256": "e7231d147153b0e8cc56bde843764c806ac85955fbcf74f88d9d6de84d3a74e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54441.jpg"
+    },
+    "gameId": "SLES_544.41"
+  },
+  "disc": {
+    "path": "PS2/SLES_544.41/SLES_544.41_ICO.png",
+    "kind": "disc",
+    "bytes": 10739,
+    "width": 128,
+    "height": 128,
+    "sha256": "6cf9eff1789509b4d2e8d7c066c4890581ec4dfee233fd35d32fd94343543a89",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_544.41_ICO.png"
+    },
+    "gameId": "SLES_544.41"
+  },
+  "background": {
+    "path": "PS2/SLES_544.41/SLES_544.41_BG.png",
+    "kind": "background",
+    "bytes": 181704,
+    "width": 640,
+    "height": 480,
+    "sha256": "7aa0e930276b9a1711a2db43ca908c49828118bce91d7328bed1fa912dd71b63",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.41/SLES_544.41_BG_00.png"
+    },
+    "gameId": "SLES_544.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.41/SLES_544.41_BG.png",
+      "kind": "background",
+      "bytes": 181704,
+      "width": 640,
+      "height": 480,
+      "sha256": "7aa0e930276b9a1711a2db43ca908c49828118bce91d7328bed1fa912dd71b63",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.41/SLES_544.41_BG_00.png"
+      },
+      "gameId": "SLES_544.41"
+    },
+    {
+      "path": "PS2/SLES_544.41/SLES_544.41_BG_01.png",
+      "kind": "background",
+      "bytes": 191717,
+      "width": 640,
+      "height": 480,
+      "sha256": "67917f92c5cf45fee980654d7992bfa749798cbdf872658984ea863a9e00566f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.41/SLES_544.41_BG_01.png"
+      },
+      "gameId": "SLES_544.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hawk Kawasaki Racing"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.81",
+  "cover": {
+    "path": "PS2/SLPM_658.81/SLPM_658.81_COV.png",
+    "kind": "cover",
+    "bytes": 77524,
+    "width": 192,
+    "height": 272,
+    "sha256": "9b1d2692f839887573bbe7d03fd2d11540dc980de80e049c123774526840bd26",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65881.jpg"
+    },
+    "gameId": "SLPM_658.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Exciting Pro Wrestling 6 - SmackDown! vs Raw"
+}

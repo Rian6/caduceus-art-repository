@@ -1,0 +1,25 @@
+{
+  "id": "SLES_549.37",
+  "cover": {
+    "path": "PS2/SLES_549.37/SLES_549.37_COV.png",
+    "kind": "cover",
+    "bytes": 88883,
+    "width": 192,
+    "height": 272,
+    "sha256": "116661a276b600931e6b4b97357a5e302134c4d323df62ec0b1b52c133a0c187",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54937.jpg"
+    },
+    "gameId": "SLES_549.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RTL Biathlon 2008"
+}

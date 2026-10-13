@@ -1,0 +1,78 @@
+{
+  "id": "SLES_506.62",
+  "cover": {
+    "path": "PS2/SLES_506.62/SLES_506.62_COV.png",
+    "kind": "cover",
+    "bytes": 72223,
+    "width": 192,
+    "height": 272,
+    "sha256": "63b88b1b8d157137c3be6cbb0b304ace194122a5a5008730ae3c9952200a0cb2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50662.jpg"
+    },
+    "gameId": "SLES_506.62"
+  },
+  "disc": {
+    "path": "PS2/SLES_506.62/SLES_506.62_ICO.png",
+    "kind": "disc",
+    "bytes": 9263,
+    "width": 128,
+    "height": 128,
+    "sha256": "3bfeae3e80501ac357d7ed40ba5018d4f3e425e079cd145ebfc9794fc8265ec1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_506.62_ICO.png"
+    },
+    "gameId": "SLES_506.62"
+  },
+  "background": {
+    "path": "PS2/SLES_506.62/SLES_506.62_BG.png",
+    "kind": "background",
+    "bytes": 216907,
+    "width": 640,
+    "height": 480,
+    "sha256": "e00936a1a9aa4e44b198104d7d1c1f271db3bf5add9d51a1c1b4cd944ad9880b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_506.62/SLES_506.62_BG_00.png"
+    },
+    "gameId": "SLES_506.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_506.62/SLES_506.62_BG.png",
+      "kind": "background",
+      "bytes": 216907,
+      "width": 640,
+      "height": 480,
+      "sha256": "e00936a1a9aa4e44b198104d7d1c1f271db3bf5add9d51a1c1b4cd944ad9880b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.62/SLES_506.62_BG_00.png"
+      },
+      "gameId": "SLES_506.62"
+    },
+    {
+      "path": "PS2/SLES_506.62/SLES_506.62_BG_01.png",
+      "kind": "background",
+      "bytes": 184513,
+      "width": 640,
+      "height": 480,
+      "sha256": "5135f683ece5d2d174db3560d740fdac88735be9fbea463a08ace37f2e4b6286",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.62/SLES_506.62_BG_01.png"
+      },
+      "gameId": "SLES_506.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE SHADOW OF ZORRO"
+}

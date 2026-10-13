@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.35",
+  "cover": {
+    "path": "PS2/SLPS_251.35/SLPS_251.35_COV.png",
+    "kind": "cover",
+    "bytes": 83855,
+    "width": 192,
+    "height": 272,
+    "sha256": "909ce71be649ecf383f42b784245b662aabace16d4d08054de9b86d1c6a3e0d3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25135.jpg"
+    },
+    "gameId": "SLPS_251.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAMAITACHI NO YORU 2"
+}

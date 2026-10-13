@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_213.11",
+  "cover": {
+    "path": "PS2/SLUS_213.11/SLUS_213.11_COV.png",
+    "kind": "cover",
+    "bytes": 97513,
+    "width": 192,
+    "height": 272,
+    "sha256": "155ce98e9bc5c32eb73f76b732f0524a86a9ad16521c2f4bf3d811edaea6a536",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21311.jpg"
+    },
+    "gameId": "SLUS_213.11"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.11/SLUS_213.11_ICO.png",
+    "kind": "disc",
+    "bytes": 36693,
+    "width": 256,
+    "height": 256,
+    "sha256": "719b58aa7dce8334ad505f8ac9a6bf1398d1f4d6f5705c924da57aa42fe8990b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.11_ICO.png"
+    },
+    "gameId": "SLUS_213.11"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.11/SLUS_213.11_BG.png",
+    "kind": "background",
+    "bytes": 177776,
+    "width": 640,
+    "height": 480,
+    "sha256": "270611fd6e42ae97ea84bc45b16b04249dd18651fc5a12f44ecb9e65cc9bc10d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.11/SLUS_213.11_BG_00.png"
+    },
+    "gameId": "SLUS_213.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.11/SLUS_213.11_BG.png",
+      "kind": "background",
+      "bytes": 177776,
+      "width": 640,
+      "height": 480,
+      "sha256": "270611fd6e42ae97ea84bc45b16b04249dd18651fc5a12f44ecb9e65cc9bc10d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.11/SLUS_213.11_BG_00.png"
+      },
+      "gameId": "SLUS_213.11"
+    },
+    {
+      "path": "PS2/SLUS_213.11/SLUS_213.11_BG_01.png",
+      "kind": "background",
+      "bytes": 208032,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff1194f7d9eb941cf6097760e8e92ebf85e9df8902f977ee803acd7d471eb09d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.11/SLUS_213.11_BG_01.png"
+      },
+      "gameId": "SLUS_213.11"
+    },
+    {
+      "path": "PS2/SLUS_213.11/SLUS_213.11_BG_02.png",
+      "kind": "background",
+      "bytes": 213045,
+      "width": 640,
+      "height": 480,
+      "sha256": "784e96503b053beaac263599c4d62f59177b2bcf745b6f152cef258e655059b0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.11/SLUS_213.11_BG_02.png"
+      },
+      "gameId": "SLUS_213.11"
+    },
+    {
+      "path": "PS2/SLUS_213.11/SLUS_213.11_BG_03.png",
+      "kind": "background",
+      "bytes": 208255,
+      "width": 640,
+      "height": 480,
+      "sha256": "f7649ac3fdf0a2adb9778665c42e00ee9c8e12a59419a1a34abdc9d8f32fd919",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.11/SLUS_213.11_BG_03.png"
+      },
+      "gameId": "SLUS_213.11"
+    },
+    {
+      "path": "PS2/SLUS_213.11/SLUS_213.11_BG_04.png",
+      "kind": "background",
+      "bytes": 202578,
+      "width": 640,
+      "height": 480,
+      "sha256": "abff3866ceac5831c3e2f625047e36ef5a70747954eeee87b4b73d59043ca59b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.11/SLUS_213.11_BG_04.png"
+      },
+      "gameId": "SLUS_213.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PETER JACKSON'S KING KONG - THE OFFICIAL GAME OF THE MOVIE"
+}

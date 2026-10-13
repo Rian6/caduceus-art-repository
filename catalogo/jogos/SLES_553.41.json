@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.41",
+  "cover": {
+    "path": "PS2/SLES_553.41/SLES_553.41_COV.png",
+    "kind": "cover",
+    "bytes": 105905,
+    "width": 192,
+    "height": 272,
+    "sha256": "0929004c930feea71f28ed2e785c4ef0452d4cf6b5af23226e0215e0c49de7ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55341.jpg"
+    },
+    "gameId": "SLES_553.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hasbro Familien-Spieleabend"
+}

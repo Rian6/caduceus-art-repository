@@ -1,0 +1,64 @@
+{
+  "id": "SCES_514.28",
+  "cover": {
+    "path": "PS2/SCES_514.28/SCES_514.28_COV.png",
+    "kind": "cover",
+    "bytes": 76181,
+    "width": 192,
+    "height": 272,
+    "sha256": "13ed3d96802c4ce2e36ee590fe27a8f573356b0143997641950115aabfa8855d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51428.jpg"
+    },
+    "gameId": "SCES_514.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_514.28/SCES_514.28_BG.png",
+    "kind": "background",
+    "bytes": 122873,
+    "width": 640,
+    "height": 480,
+    "sha256": "df4f1cd38612b9a6261e07168f25c2159ff18c8759eb2a6cf43bd6f2122756ba",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_514.28/SCES_514.28_BG_00.png"
+    },
+    "gameId": "SCES_514.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_514.28/SCES_514.28_BG.png",
+      "kind": "background",
+      "bytes": 122873,
+      "width": 640,
+      "height": 480,
+      "sha256": "df4f1cd38612b9a6261e07168f25c2159ff18c8759eb2a6cf43bd6f2122756ba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_514.28/SCES_514.28_BG_00.png"
+      },
+      "gameId": "SCES_514.28"
+    },
+    {
+      "path": "PS2/SCES_514.28/SCES_514.28_BG_01.png",
+      "kind": "background",
+      "bytes": 115492,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c7963b04419768ffc7340276b295f7ba6eba550af9dea76e938b9b67fe77b3b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_514.28/SCES_514.28_BG_01.png"
+      },
+      "gameId": "SCES_514.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHINOBI"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.09",
+  "cover": {
+    "path": "PS2/SCAJ_200.09/SCAJ_200.09_COV.png",
+    "kind": "cover",
+    "bytes": 79284,
+    "width": 192,
+    "height": 272,
+    "sha256": "1f70aa8f4da4531961f3bde8ecc14f21a03f8dd25e87aec1a15c8795fac03899",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20009.jpg"
+    },
+    "gameId": "SCAJ_200.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HERDY GERDY"
+}

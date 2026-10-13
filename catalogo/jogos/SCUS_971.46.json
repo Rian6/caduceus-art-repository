@@ -1,0 +1,65 @@
+{
+  "id": "SCUS_971.46",
+  "cover": {
+    "path": "PS2/SCUS_971.46/SCUS_971.46_COV.png",
+    "kind": "cover",
+    "bytes": 107927,
+    "width": 192,
+    "height": 272,
+    "sha256": "ce1444554a10a20e817339da2b6bc2bf3ceb18e5913a5059f627bbd4719a5d26",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97146.jpg"
+    },
+    "gameId": "SCUS_971.46"
+  },
+  "disc": {
+    "path": "PS2/SCUS_971.46/SCUS_971.46_ICO.png",
+    "kind": "disc",
+    "bytes": 30967,
+    "width": 256,
+    "height": 256,
+    "sha256": "400d06ae0777e111e93da154ca27ec191296c78ec0bc7d58b2544c655adefb90",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_971.46_ICO.png"
+    },
+    "gameId": "SCUS_971.46"
+  },
+  "background": {
+    "path": "PS2/SCUS_971.46/SCUS_971.46_BG.png",
+    "kind": "background",
+    "bytes": 165966,
+    "width": 640,
+    "height": 480,
+    "sha256": "a5603d26748924525bc02157821e985fd89dfd6fa9381da4b410780b3b4c041d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_971.46/SCUS_971.46_BG_00.png"
+    },
+    "gameId": "SCUS_971.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_971.46/SCUS_971.46_BG.png",
+      "kind": "background",
+      "bytes": 165966,
+      "width": 640,
+      "height": 480,
+      "sha256": "a5603d26748924525bc02157821e985fd89dfd6fa9381da4b410780b3b4c041d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.46/SCUS_971.46_BG_00.png"
+      },
+      "gameId": "SCUS_971.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Treasure Planet"
+}

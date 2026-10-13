@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_731.08",
+  "cover": {
+    "path": "PS2/SLPS_731.08/SLPS_731.08_COV.png",
+    "kind": "cover",
+    "bytes": 97838,
+    "width": 192,
+    "height": 272,
+    "sha256": "7b289c38a5e25f48489a15ae5e6eb8e0fa5456cabcb3f7280f9d4e53d73c4166",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73108.jpg"
+    },
+    "gameId": "SLPS_731.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Phantom Brave: 2-shuume Hajimemashita."
+}

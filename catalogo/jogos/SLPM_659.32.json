@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.32",
+  "cover": {
+    "path": "PS2/SLPM_659.32/SLPM_659.32_COV.png",
+    "kind": "cover",
+    "bytes": 87181,
+    "width": 192,
+    "height": 272,
+    "sha256": "5bb0a1878230caa7e80453750b54a00ca379d26f9893364f31550327fb70daa3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65932.jpg"
+    },
+    "gameId": "SLPM_659.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sentou Kokka Kai - New Operations (With bonus DVD)"
+}

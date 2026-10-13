@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_208.62",
+  "cover": {
+    "path": "PS2/SLUS_208.62/SLUS_208.62_COV.png",
+    "kind": "cover",
+    "bytes": 89341,
+    "width": 192,
+    "height": 272,
+    "sha256": "1d0af4a7b0cf0d60bd1294fee2789d718dd4f1ab5a37a5b45e68e5085a487adf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20862.jpg"
+    },
+    "gameId": "SLUS_208.62"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.62/SLUS_208.62_ICO.png",
+    "kind": "disc",
+    "bytes": 33543,
+    "width": 256,
+    "height": 256,
+    "sha256": "10a249fb1b67fac8734b1a2da1e5b9009e863ee80a180bc45f6f3e6b31bcd508",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.62_ICO.png"
+    },
+    "gameId": "SLUS_208.62"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.62/SLUS_208.62_BG.png",
+    "kind": "background",
+    "bytes": 205483,
+    "width": 640,
+    "height": 480,
+    "sha256": "be2770c5ef81fa1329e483c38361b21650159a798561565c49614893912eefc3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.62/SLUS_208.62_BG_00.png"
+    },
+    "gameId": "SLUS_208.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.62/SLUS_208.62_BG.png",
+      "kind": "background",
+      "bytes": 205483,
+      "width": 640,
+      "height": 480,
+      "sha256": "be2770c5ef81fa1329e483c38361b21650159a798561565c49614893912eefc3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.62/SLUS_208.62_BG_00.png"
+      },
+      "gameId": "SLUS_208.62"
+    },
+    {
+      "path": "PS2/SLUS_208.62/SLUS_208.62_BG_01.png",
+      "kind": "background",
+      "bytes": 101406,
+      "width": 640,
+      "height": 480,
+      "sha256": "4a9b60cb177b11ea0c76ca66a85eaf11d514e0a7eee65ba63f5ddc808f5aa0cb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.62/SLUS_208.62_BG_01.png"
+      },
+      "gameId": "SLUS_208.62"
+    },
+    {
+      "path": "PS2/SLUS_208.62/SLUS_208.62_BG_02.png",
+      "kind": "background",
+      "bytes": 173371,
+      "width": 640,
+      "height": 480,
+      "sha256": "493703e1a37e78688a771285f823f30165a961a4fa9aa956b61cf5735131d118",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.62/SLUS_208.62_BG_02.png"
+      },
+      "gameId": "SLUS_208.62"
+    },
+    {
+      "path": "PS2/SLUS_208.62/SLUS_208.62_BG_03.png",
+      "kind": "background",
+      "bytes": 172057,
+      "width": 640,
+      "height": 480,
+      "sha256": "5dd0ff86292f8e01956f0672900d5c6a100faf2ea004e18a0dde90889f2aef98",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.62/SLUS_208.62_BG_03.png"
+      },
+      "gameId": "SLUS_208.62"
+    },
+    {
+      "path": "PS2/SLUS_208.62/SLUS_208.62_BG_04.png",
+      "kind": "background",
+      "bytes": 157683,
+      "width": 640,
+      "height": 480,
+      "sha256": "cc0eff01e121450e2c58b352b600a7f9ef71483566914c2c1c322961c7b3a2db",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.62/SLUS_208.62_BG_04.png"
+      },
+      "gameId": "SLUS_208.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BloodRayne 2"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_550.76",
+  "cover": {
+    "path": "PS2/SLES_550.76/SLES_550.76_COV.png",
+    "kind": "cover",
+    "bytes": 110483,
+    "width": 192,
+    "height": 272,
+    "sha256": "862e564f7a02737bfcec0533e2ed8c64f9ff5597498e9ed37725e20f67f9e194",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55076.jpg"
+    },
+    "gameId": "SLES_550.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saint & Sinner"
+}

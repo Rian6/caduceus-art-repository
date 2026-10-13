@@ -1,0 +1,77 @@
+{
+  "id": "SCES_547.60",
+  "cover": {
+    "path": "PS2/SCES_547.60/SCES_547.60_COV.png",
+    "kind": "cover",
+    "bytes": 93028,
+    "width": 192,
+    "height": 272,
+    "sha256": "ba3bcc1ac87a2221baffe198090773250ef782122b206cafe5ca8480e391656f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54760.jpg"
+    },
+    "gameId": "SCES_547.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_547.60/SCES_547.60_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_547.60/SCES_547.60_BG_00.png"
+    },
+    "gameId": "SCES_547.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_547.60/SCES_547.60_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_547.60/SCES_547.60_BG_00.png"
+      },
+      "gameId": "SCES_547.60"
+    },
+    {
+      "path": "PS2/SCES_547.60/SCES_547.60_BG_01.png",
+      "kind": "background",
+      "bytes": 185012,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf03c3f5b74ccf6b06ba91875ca284c118077fb66df1306f8ca37d1db11e28b9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_547.60/SCES_547.60_BG_01.png"
+      },
+      "gameId": "SCES_547.60"
+    },
+    {
+      "path": "PS2/SCES_547.60/SCES_547.60_BG_02.png",
+      "kind": "background",
+      "bytes": 83780,
+      "width": 640,
+      "height": 480,
+      "sha256": "c476287cfc749f6b58e716fa8e36449dd388ef67fb6a0a8dafcca742b29a051b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_547.60/SCES_547.60_BG_02.png"
+      },
+      "gameId": "SCES_547.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar R&B"
+}

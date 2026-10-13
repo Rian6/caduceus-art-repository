@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.14",
+  "cover": {
+    "path": "PS2/SLPS_254.14/SLPS_254.14_COV.png",
+    "kind": "cover",
+    "bytes": 93895,
+    "width": 192,
+    "height": 272,
+    "sha256": "7076d680bf8d9f671287c5ebbec24d95e2e1d31ca4b8df550a82442697f26b12",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25414.jpg"
+    },
+    "gameId": "SLPS_254.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TO HEART 2"
+}

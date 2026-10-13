@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.77",
+  "cover": {
+    "path": "PS2/SLES_510.77/SLES_510.77_COV.png",
+    "kind": "cover",
+    "bytes": 75780,
+    "width": 192,
+    "height": 272,
+    "sha256": "9451ed1c9481605a496a7695a6b8ae777964ab65b6fe549b88583bfe0172ee92",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51077.jpg"
+    },
+    "gameId": "SLES_510.77"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - REAL MADRID"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.64",
+  "cover": {
+    "path": "PS2/SLPM_668.64/SLPM_668.64_COV.png",
+    "kind": "cover",
+    "bytes": 77711,
+    "width": 192,
+    "height": 272,
+    "sha256": "03f2484dca6742c3e5f1bb92e8f465d6aee76559312ebb726ac2cdd1a1f21ff7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66864.jpg"
+    },
+    "gameId": "SLPM_668.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "UMISHO"
+}

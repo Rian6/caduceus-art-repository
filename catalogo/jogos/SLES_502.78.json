@@ -1,0 +1,103 @@
+{
+  "id": "SLES_502.78",
+  "cover": {
+    "path": "PS2/SLES_502.78/SLES_502.78_COV.png",
+    "kind": "cover",
+    "bytes": 82530,
+    "width": 192,
+    "height": 272,
+    "sha256": "3189bcdc9c866060190c2704b1b23f3b7709d8e0cd23a6cc3d3ee4a56a3979af",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50278.jpg"
+    },
+    "gameId": "SLES_502.78"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_502.78/SLES_502.78_BG.png",
+    "kind": "background",
+    "bytes": 217499,
+    "width": 640,
+    "height": 480,
+    "sha256": "aaf71aa04ba3d0039f73a96872f7b718c1a4a6b70c1184565c7592ef6c8a6103",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.78/SLES_502.78_BG_00.png"
+    },
+    "gameId": "SLES_502.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.78/SLES_502.78_BG.png",
+      "kind": "background",
+      "bytes": 217499,
+      "width": 640,
+      "height": 480,
+      "sha256": "aaf71aa04ba3d0039f73a96872f7b718c1a4a6b70c1184565c7592ef6c8a6103",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.78/SLES_502.78_BG_00.png"
+      },
+      "gameId": "SLES_502.78"
+    },
+    {
+      "path": "PS2/SLES_502.78/SLES_502.78_BG_01.png",
+      "kind": "background",
+      "bytes": 116048,
+      "width": 640,
+      "height": 480,
+      "sha256": "c11a1b39da00d246820b87cbc3ab411dbb8071606db29576ff9e12c53781bc2f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.78/SLES_502.78_BG_01.png"
+      },
+      "gameId": "SLES_502.78"
+    },
+    {
+      "path": "PS2/SLES_502.78/SLES_502.78_BG_02.png",
+      "kind": "background",
+      "bytes": 134583,
+      "width": 640,
+      "height": 480,
+      "sha256": "a0a790e5079370dd87c084a8ce1af282d4afcd7560afc77ea86cfad664e12b3a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.78/SLES_502.78_BG_02.png"
+      },
+      "gameId": "SLES_502.78"
+    },
+    {
+      "path": "PS2/SLES_502.78/SLES_502.78_BG_03.png",
+      "kind": "background",
+      "bytes": 233955,
+      "width": 640,
+      "height": 480,
+      "sha256": "21cd210177682aa67eadd0cb42d2fbd900999fb95c0660860ddf99e1cd7b9a22",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.78/SLES_502.78_BG_03.png"
+      },
+      "gameId": "SLES_502.78"
+    },
+    {
+      "path": "PS2/SLES_502.78/SLES_502.78_BG_04.png",
+      "kind": "background",
+      "bytes": 173238,
+      "width": 640,
+      "height": 480,
+      "sha256": "457c00c6c7e26ecf35bd1be0d308290f66606faa2b492667c7e9889513bd5a6d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.78/SLES_502.78_BG_04.png"
+      },
+      "gameId": "SLES_502.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RED FACTION"
+}

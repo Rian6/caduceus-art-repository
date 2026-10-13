@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_207.33",
+  "cover": {
+    "path": "PS2/SLUS_207.33/SLUS_207.33_COV.png",
+    "kind": "cover",
+    "bytes": 113535,
+    "width": 192,
+    "height": 272,
+    "sha256": "61aa5551db6199dbca3bb44c5417e92d123255d8aff298884027adfdc4c12db2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20733.jpg"
+    },
+    "gameId": "SLUS_207.33"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.33/SLUS_207.33_ICO.png",
+    "kind": "disc",
+    "bytes": 37030,
+    "width": 256,
+    "height": 256,
+    "sha256": "d5e865fd1358e5916325d25bbd0c1075a9f0e58685551449988f4b5df75ccd71",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.33_ICO.png"
+    },
+    "gameId": "SLUS_207.33"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.33/SLUS_207.33_BG.png",
+    "kind": "background",
+    "bytes": 246455,
+    "width": 640,
+    "height": 480,
+    "sha256": "65e86c6bf7ed4ebf66e4180653fc88627fc6bf1919374394db64aeeb5cc4cb01",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.33/SLUS_207.33_BG_00.png"
+    },
+    "gameId": "SLUS_207.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.33/SLUS_207.33_BG.png",
+      "kind": "background",
+      "bytes": 246455,
+      "width": 640,
+      "height": 480,
+      "sha256": "65e86c6bf7ed4ebf66e4180653fc88627fc6bf1919374394db64aeeb5cc4cb01",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.33/SLUS_207.33_BG_00.png"
+      },
+      "gameId": "SLUS_207.33"
+    },
+    {
+      "path": "PS2/SLUS_207.33/SLUS_207.33_BG_01.png",
+      "kind": "background",
+      "bytes": 248348,
+      "width": 640,
+      "height": 480,
+      "sha256": "ffff75c76aaea0fb92107fcb5f1bcb20e30cde2a6a582af75647e3a525240b71",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.33/SLUS_207.33_BG_01.png"
+      },
+      "gameId": "SLUS_207.33"
+    },
+    {
+      "path": "PS2/SLUS_207.33/SLUS_207.33_BG_02.png",
+      "kind": "background",
+      "bytes": 152052,
+      "width": 640,
+      "height": 480,
+      "sha256": "68ae20e180f536381d3fc035ee9f9efd3c0a6e3700f59172ba90e07f7451cfd6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.33/SLUS_207.33_BG_02.png"
+      },
+      "gameId": "SLUS_207.33"
+    },
+    {
+      "path": "PS2/SLUS_207.33/SLUS_207.33_BG_03.png",
+      "kind": "background",
+      "bytes": 249593,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff739c9a138cd849150770e3ff7ceb53e0abdbc0e81ecb43beb73abb659c80b0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.33/SLUS_207.33_BG_03.png"
+      },
+      "gameId": "SLUS_207.33"
+    },
+    {
+      "path": "PS2/SLUS_207.33/SLUS_207.33_BG_04.png",
+      "kind": "background",
+      "bytes": 251172,
+      "width": 640,
+      "height": 480,
+      "sha256": "d8921d4d259eec8282df2b791e0bdbb4452d34e57fdea5987d7da221f99f7cbb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.33/SLUS_207.33_BG_04.png"
+      },
+      "gameId": "SLUS_207.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Castlevania: Lament of Innocence"
+}

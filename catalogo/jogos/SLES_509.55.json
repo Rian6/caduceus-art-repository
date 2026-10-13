@@ -1,0 +1,65 @@
+{
+  "id": "SLES_509.55",
+  "cover": {
+    "path": "PS2/SLES_509.55/SLES_509.55_COV.png",
+    "kind": "cover",
+    "bytes": 94852,
+    "width": 192,
+    "height": 272,
+    "sha256": "0acd8f35f2d9e06d64bb8b2d4e94b578d039a0ae050b1e6daf4bccbdd34b1132",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50955.jpg"
+    },
+    "gameId": "SLES_509.55"
+  },
+  "disc": {
+    "path": "PS2/SLES_509.55/SLES_509.55_ICO.png",
+    "kind": "disc",
+    "bytes": 9724,
+    "width": 128,
+    "height": 128,
+    "sha256": "c64f8057982e03d5e5439f8d2db1c6fabc5cd1e2ee7c3f76e38d51c8fca3d4fc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_509.55_ICO.png"
+    },
+    "gameId": "SLES_509.55"
+  },
+  "background": {
+    "path": "PS2/SLES_509.55/SLES_509.55_BG.png",
+    "kind": "background",
+    "bytes": 166029,
+    "width": 640,
+    "height": 480,
+    "sha256": "9612136e46cdb4c7cac713cbff29371d6928b4eb20e87a2771c04f2e885c6815",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_509.55/SLES_509.55_BG_00.png"
+    },
+    "gameId": "SLES_509.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_509.55/SLES_509.55_BG.png",
+      "kind": "background",
+      "bytes": 166029,
+      "width": 640,
+      "height": 480,
+      "sha256": "9612136e46cdb4c7cac713cbff29371d6928b4eb20e87a2771c04f2e885c6815",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.55/SLES_509.55_BG_00.png"
+      },
+      "gameId": "SLES_509.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "London Racer II"
+}

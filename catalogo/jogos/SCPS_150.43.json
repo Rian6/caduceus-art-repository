@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.43",
+  "cover": {
+    "path": "PS2/SCPS_150.43/SCPS_150.43_COV.png",
+    "kind": "cover",
+    "bytes": 99444,
+    "width": 192,
+    "height": 272,
+    "sha256": "97f8c67dce014dad4c43e58530708716064ecbd9b579c2b61339180f4ffce404",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15043.jpg"
+    },
+    "gameId": "SCPS_150.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DekaVoice"
+}

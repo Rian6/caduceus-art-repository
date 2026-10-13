@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.84",
+  "cover": {
+    "path": "PS2/SLPS_256.84/SLPS_256.84_COV.png",
+    "kind": "cover",
+    "bytes": 109406,
+    "width": 192,
+    "height": 272,
+    "sha256": "4fe5514c252d8732bd9ff4b1465e635ec46a4eeccb194e4bf41605fe8381d6c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25684.jpg"
+    },
+    "gameId": "SLPS_256.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MERMAID PRISM [LIMITED EDITION]"
+}

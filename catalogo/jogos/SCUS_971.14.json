@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_971.14",
+  "cover": {
+    "path": "PS2/SCUS_971.14/SCUS_971.14_COV.png",
+    "kind": "cover",
+    "bytes": 86674,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a917a71cca6046dcdde751ea155f51d15aafafdae7f8780a9f16ae5498fc9fc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97114.jpg"
+    },
+    "gameId": "SCUS_971.14"
+  },
+  "disc": {
+    "path": "PS2/SCUS_971.14/SCUS_971.14_ICO.png",
+    "kind": "disc",
+    "bytes": 31928,
+    "width": 256,
+    "height": 256,
+    "sha256": "79889cf74643af8b96857ab19d3f48242c2d98e6ef405f0f83f08e936e33424e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_971.14_ICO.png"
+    },
+    "gameId": "SCUS_971.14"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Shootout 2001"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.70",
+  "cover": {
+    "path": "PS2/SLPM_658.70/SLPM_658.70_COV.png",
+    "kind": "cover",
+    "bytes": 106002,
+    "width": 192,
+    "height": 272,
+    "sha256": "1fcfdaf13923e60934a48f8200b67564b2ea6e8b950060f779613ce98dc2110d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65870.jpg"
+    },
+    "gameId": "SLPM_658.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAHOU SENSEI NEGIMA! 1-JIKANME OKOCHAMA SENSEI WA MAHOUTSUKAI! [YUUTOUSEI VERSION]"
+}

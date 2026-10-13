@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.13",
+  "cover": {
+    "path": "PS2/SLPS_250.13/SLPS_250.13_COV.png",
+    "kind": "cover",
+    "bytes": 82507,
+    "width": 192,
+    "height": 272,
+    "sha256": "c5eef0393285e282b6ad2e40410a7a2efcc2657a8bd2caedca85415f8fe17aae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25013.jpg"
+    },
+    "gameId": "SLPS_250.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KURI KURI MIX"
+}

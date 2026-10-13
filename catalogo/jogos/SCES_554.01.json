@@ -1,0 +1,51 @@
+{
+  "id": "SCES_554.01",
+  "cover": {
+    "path": "PS2/SCES_554.01/SCES_554.01_COV.png",
+    "kind": "cover",
+    "bytes": 55093,
+    "width": 192,
+    "height": 272,
+    "sha256": "db4ed013f9bea0a86da564e7851ad2f427b76a46e9c920cd3879bcb568e7b34e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_554.01/SCES_554.01_COV.png"
+    },
+    "gameId": "SCES_554.01"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_554.01/SCES_554.01_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_554.01/SCES_554.01_BG_00.png"
+    },
+    "gameId": "SCES_554.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_554.01/SCES_554.01_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_554.01/SCES_554.01_BG_00.png"
+      },
+      "gameId": "SCES_554.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Zingt met Disney"
+}

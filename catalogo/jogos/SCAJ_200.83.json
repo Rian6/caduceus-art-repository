@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.83",
+  "cover": {
+    "path": "PS2/SCAJ_200.83/SCAJ_200.83_COV.png",
+    "kind": "cover",
+    "bytes": 104960,
+    "width": 192,
+    "height": 272,
+    "sha256": "7a9842c6a8ad60acced64ad54508b35bb20a5695eb868b8206d9103e91fecda0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20083.jpg"
+    },
+    "gameId": "SCAJ_200.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MT Bikers - Bakusou Mountain Bikers"
+}

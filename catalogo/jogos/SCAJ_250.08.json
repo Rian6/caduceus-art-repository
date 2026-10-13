@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_250.08",
+  "cover": {
+    "path": "PS2/SCAJ_250.08/SCAJ_250.08_COV.png",
+    "kind": "cover",
+    "bytes": 113671,
+    "width": 192,
+    "height": 272,
+    "sha256": "0d5859a57c440c13ed45edf381f8c5fb812cf7e991657e390842ee63b218225b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-25008.jpg"
+    },
+    "gameId": "SCAJ_250.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "INITIAL D SPECIAL STAGE"
+}

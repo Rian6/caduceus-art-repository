@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.30",
+  "cover": {
+    "path": "PS2/SCAJ_201.30/SCAJ_201.30_COV.png",
+    "kind": "cover",
+    "bytes": 118212,
+    "width": 192,
+    "height": 272,
+    "sha256": "71c012424c9f59952cc9d785327e1d05cb4605fa96443926c0b8243f3d873f7e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20130.jpg"
+    },
+    "gameId": "SCAJ_201.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NAMCO X CAPCOM"
+}

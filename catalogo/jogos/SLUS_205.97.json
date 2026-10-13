@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_205.97",
+  "cover": {
+    "path": "PS2/SLUS_205.97/SLUS_205.97_COV.png",
+    "kind": "cover",
+    "bytes": 97755,
+    "width": 192,
+    "height": 272,
+    "sha256": "2b28423537b70a953cfb807222eaaad5b7a6edcdafed04f684a0af7797032d67",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20597.jpg"
+    },
+    "gameId": "SLUS_205.97"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.97/SLUS_205.97_ICO.png",
+    "kind": "disc",
+    "bytes": 38694,
+    "width": 256,
+    "height": 256,
+    "sha256": "12ed0dd311ca480fae6670baf80c3526977a402e70a03d2d652e5f972a193c53",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.97_ICO.png"
+    },
+    "gameId": "SLUS_205.97"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.97/SLUS_205.97_BG.png",
+    "kind": "background",
+    "bytes": 170054,
+    "width": 640,
+    "height": 480,
+    "sha256": "eb8553fc14f37219202ef9ddad8cf99d4dcf876f2c52d3c70d43ca7e2f26cc2f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.97/SLUS_205.97_BG_00.png"
+    },
+    "gameId": "SLUS_205.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.97/SLUS_205.97_BG.png",
+      "kind": "background",
+      "bytes": 170054,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb8553fc14f37219202ef9ddad8cf99d4dcf876f2c52d3c70d43ca7e2f26cc2f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.97/SLUS_205.97_BG_00.png"
+      },
+      "gameId": "SLUS_205.97"
+    },
+    {
+      "path": "PS2/SLUS_205.97/SLUS_205.97_BG_01.png",
+      "kind": "background",
+      "bytes": 254133,
+      "width": 640,
+      "height": 480,
+      "sha256": "faafabbd9e8814bf2f5dcdbe983805afe5e33436111f10bd4435539205a76fa7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.97/SLUS_205.97_BG_01.png"
+      },
+      "gameId": "SLUS_205.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Warhammer 40,000: Fire Warrior"
+}

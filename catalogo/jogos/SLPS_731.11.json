@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_731.11",
+  "cover": {
+    "path": "PS2/SLPS_731.11/SLPS_731.11_COV.png",
+    "kind": "cover",
+    "bytes": 91527,
+    "width": 192,
+    "height": 272,
+    "sha256": "036417e61e792483bce38ba93eccb90f3d796e0c00d4a6eeb82833650cb52e2c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73111.jpg"
+    },
+    "gameId": "SLPS_731.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin - Waku Waku Anime Matsuri (Playstation 2 The Best)"
+}

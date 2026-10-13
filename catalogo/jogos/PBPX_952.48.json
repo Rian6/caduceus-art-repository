@@ -1,0 +1,51 @@
+{
+  "id": "PBPX_952.48",
+  "cover": {
+    "path": "PS2/PBPX_952.48/PBPX_952.48_COV.png",
+    "kind": "cover",
+    "bytes": 53853,
+    "width": 192,
+    "height": 272,
+    "sha256": "3173e10d59123fbe9302e8b75b54f5d513a7197af4193552dcb039e622c3a4c3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PBPX-95248.jpg"
+    },
+    "gameId": "PBPX_952.48"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/PBPX_952.48/PBPX_952.48_BG.png",
+    "kind": "background",
+    "bytes": 133520,
+    "width": 640,
+    "height": 480,
+    "sha256": "2d77edfe6482bd9b208c216010d34481108f376bbe59fd38dab1817ce5eac9f6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/PBPX_952.48/PBPX_952.48_BG_00.png"
+    },
+    "gameId": "PBPX_952.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/PBPX_952.48/PBPX_952.48_BG.png",
+      "kind": "background",
+      "bytes": 133520,
+      "width": 640,
+      "height": 480,
+      "sha256": "2d77edfe6482bd9b208c216010d34481108f376bbe59fd38dab1817ce5eac9f6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/PBPX_952.48/PBPX_952.48_BG_00.png"
+      },
+      "gameId": "PBPX_952.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Online Start-Up Disc 4.0: Broadband Only"
+}

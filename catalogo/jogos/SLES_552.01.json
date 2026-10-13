@@ -1,0 +1,25 @@
+{
+  "id": "SLES_552.01",
+  "cover": {
+    "path": "PS2/SLES_552.01/SLES_552.01_COV.png",
+    "kind": "cover",
+    "bytes": 91613,
+    "width": 192,
+    "height": 272,
+    "sha256": "bfac7cf6a236de019f5276ca468a4bd38f9f8b083aec78a6aed2f7fdd44e8cd8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55201.jpg"
+    },
+    "gameId": "SLES_552.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Riding Star"
+}

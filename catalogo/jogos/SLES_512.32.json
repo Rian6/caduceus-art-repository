@@ -1,0 +1,103 @@
+{
+  "id": "SLES_512.32",
+  "cover": {
+    "path": "PS2/SLES_512.32/SLES_512.32_COV.png",
+    "kind": "cover",
+    "bytes": 86213,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a7490d6334d9db020f5d47f6500f09773b827b7797741fe4c9a20f03f24e53f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51232.jpg"
+    },
+    "gameId": "SLES_512.32"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_512.32/SLES_512.32_BG.png",
+    "kind": "background",
+    "bytes": 177395,
+    "width": 640,
+    "height": 480,
+    "sha256": "a6777b24645852c3c74abc2191533ad0ca9186c3c1b7951e5fd28c228fb81a6d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_512.32/SLES_512.32_BG_00.png"
+    },
+    "gameId": "SLES_512.32"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_512.32/SLES_512.32_BG.png",
+      "kind": "background",
+      "bytes": 177395,
+      "width": 640,
+      "height": 480,
+      "sha256": "a6777b24645852c3c74abc2191533ad0ca9186c3c1b7951e5fd28c228fb81a6d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.32/SLES_512.32_BG_00.png"
+      },
+      "gameId": "SLES_512.32"
+    },
+    {
+      "path": "PS2/SLES_512.32/SLES_512.32_BG_01.png",
+      "kind": "background",
+      "bytes": 152573,
+      "width": 640,
+      "height": 480,
+      "sha256": "d20c2d7cb10b9e84953f835035eeaa1d29a7a3e339265b920ff7eea38ddeacfe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.32/SLES_512.32_BG_01.png"
+      },
+      "gameId": "SLES_512.32"
+    },
+    {
+      "path": "PS2/SLES_512.32/SLES_512.32_BG_02.png",
+      "kind": "background",
+      "bytes": 162020,
+      "width": 640,
+      "height": 480,
+      "sha256": "92ecca950c7274973aa9f20988a87d31c6db6f1dd0bf50d012564ce372136b56",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.32/SLES_512.32_BG_02.png"
+      },
+      "gameId": "SLES_512.32"
+    },
+    {
+      "path": "PS2/SLES_512.32/SLES_512.32_BG_03.png",
+      "kind": "background",
+      "bytes": 246790,
+      "width": 640,
+      "height": 480,
+      "sha256": "9e03dfc40bb50baddc308bf94710aea0b5d78e03af2a697c5b7bd9735c49b7bb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.32/SLES_512.32_BG_03.png"
+      },
+      "gameId": "SLES_512.32"
+    },
+    {
+      "path": "PS2/SLES_512.32/SLES_512.32_BG_04.png",
+      "kind": "background",
+      "bytes": 169111,
+      "width": 640,
+      "height": 480,
+      "sha256": "2f784ef2f6d1f48ffe3d7996e64990ea512e66db89435b098f9984cc2ca8122c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.32/SLES_512.32_BG_04.png"
+      },
+      "gameId": "SLES_512.32"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Virtua Tennis 2"
+}

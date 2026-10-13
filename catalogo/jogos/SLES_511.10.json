@@ -1,0 +1,51 @@
+{
+  "id": "SLES_511.10",
+  "cover": {
+    "path": "PS2/SLES_511.10/SLES_511.10_COV.png",
+    "kind": "cover",
+    "bytes": 41697,
+    "width": 192,
+    "height": 272,
+    "sha256": "1583a085599af3711e61f0ce4ace91f9497bedf041f72e4b297a42921084cba9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51110.jpg"
+    },
+    "gameId": "SLES_511.10"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_511.10/SLES_511.10_BG.png",
+    "kind": "background",
+    "bytes": 84451,
+    "width": 640,
+    "height": 480,
+    "sha256": "fba2d5abb1848234bc2b6b2c16e0d520f84292bb6af44e09d87eb562a9d0ab89",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_511.10/SLES_511.10_BG_00.png"
+    },
+    "gameId": "SLES_511.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_511.10/SLES_511.10_BG.png",
+      "kind": "background",
+      "bytes": 84451,
+      "width": 640,
+      "height": 480,
+      "sha256": "fba2d5abb1848234bc2b6b2c16e0d520f84292bb6af44e09d87eb562a9d0ab89",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.10/SLES_511.10_BG_00.png"
+      },
+      "gameId": "SLES_511.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hitman 2: Silent Assassin"
+}

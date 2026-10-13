@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_215.66",
+  "cover": {
+    "path": "PS2/SLUS_215.66/SLUS_215.66_COV.png",
+    "kind": "cover",
+    "bytes": 74139,
+    "width": 192,
+    "height": 272,
+    "sha256": "dea33e602d3d17bb95074a32f473a87dee093dc12bda3113b2c750d47544fdf2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21566.jpg"
+    },
+    "gameId": "SLUS_215.66"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.66/SLUS_215.66_ICO.png",
+    "kind": "disc",
+    "bytes": 30131,
+    "width": 256,
+    "height": 256,
+    "sha256": "2690de713bc8e4dde545cda17e8db683313117a4186574e954dde66a1aa5e06c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.66_ICO.png"
+    },
+    "gameId": "SLUS_215.66"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.66/SLUS_215.66_BG.png",
+    "kind": "background",
+    "bytes": 165070,
+    "width": 640,
+    "height": 480,
+    "sha256": "1f57d47db062c58ab962c5dd63bd935b8cd2ba0a7d4c3773900f5b3a0cbc7edb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.66/SLUS_215.66_BG_00.png"
+    },
+    "gameId": "SLUS_215.66"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.66/SLUS_215.66_BG.png",
+      "kind": "background",
+      "bytes": 165070,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f57d47db062c58ab962c5dd63bd935b8cd2ba0a7d4c3773900f5b3a0cbc7edb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.66/SLUS_215.66_BG_00.png"
+      },
+      "gameId": "SLUS_215.66"
+    },
+    {
+      "path": "PS2/SLUS_215.66/SLUS_215.66_BG_01.png",
+      "kind": "background",
+      "bytes": 205601,
+      "width": 640,
+      "height": 480,
+      "sha256": "fe5d39ebb8c862367e37f854d534c6887fcde45ed0b379d4ced697ff179d140e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.66/SLUS_215.66_BG_01.png"
+      },
+      "gameId": "SLUS_215.66"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Brunswick Pro Bowling"
+}

@@ -1,0 +1,130 @@
+{
+  "id": "SLUS_212.42",
+  "cover": {
+    "path": "PS2/SLUS_212.42/SLUS_212.42_COV.png",
+    "kind": "cover",
+    "bytes": 97193,
+    "width": 192,
+    "height": 272,
+    "sha256": "2aa599fffadc299a9936869d61d77187a539bdbee934a42b9e4228537bf5d451",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21242.jpg"
+    },
+    "gameId": "SLUS_212.42"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.42/SLUS_212.42_ICO.png",
+    "kind": "disc",
+    "bytes": 34217,
+    "width": 256,
+    "height": 256,
+    "sha256": "d8b162ebd0e4f61d629f040892ceaab4aac23020b47d6e59fd0fe87ee878447e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.42_ICO.png"
+    },
+    "gameId": "SLUS_212.42"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.42/SLUS_212.42_BG.png",
+    "kind": "background",
+    "bytes": 184761,
+    "width": 640,
+    "height": 480,
+    "sha256": "15adba0612598708bf0d8a47ce1496819e05872b9ffc0ddc28d784b3fff66642",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.42/SLUS_212.42_BG_00.png"
+    },
+    "gameId": "SLUS_212.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.42/SLUS_212.42_BG.png",
+      "kind": "background",
+      "bytes": 184761,
+      "width": 640,
+      "height": 480,
+      "sha256": "15adba0612598708bf0d8a47ce1496819e05872b9ffc0ddc28d784b3fff66642",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.42/SLUS_212.42_BG_00.png"
+      },
+      "gameId": "SLUS_212.42"
+    },
+    {
+      "path": "PS2/SLUS_212.42/SLUS_212.42_BG_01.png",
+      "kind": "background",
+      "bytes": 211471,
+      "width": 640,
+      "height": 480,
+      "sha256": "9b177f8ac1750885109d89fda04757281c6dd4b7926cc092c720d17cf16389bc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.42/SLUS_212.42_BG_01.png"
+      },
+      "gameId": "SLUS_212.42"
+    },
+    {
+      "path": "PS2/SLUS_212.42/SLUS_212.42_BG_02.png",
+      "kind": "background",
+      "bytes": 214392,
+      "width": 640,
+      "height": 480,
+      "sha256": "973274f6d05623eb2aca6608f9a7d5f487a532b891fbca319935f20b3cfc4c05",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.42/SLUS_212.42_BG_02.png"
+      },
+      "gameId": "SLUS_212.42"
+    },
+    {
+      "path": "PS2/SLUS_212.42/SLUS_212.42_BG_03.png",
+      "kind": "background",
+      "bytes": 176313,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c3b425db3bee2eb48f11bb01c21d12e8f1f7ffd3f6d294e647fe72675e46694",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.42/SLUS_212.42_BG_03.png"
+      },
+      "gameId": "SLUS_212.42"
+    },
+    {
+      "path": "PS2/SLUS_212.42/SLUS_212.42_BG_04.png",
+      "kind": "background",
+      "bytes": 180341,
+      "width": 640,
+      "height": 480,
+      "sha256": "7fd6be0906c9a61310d11f0a213eb64153fbdd2890651597db5b8bef654e8283",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.42/SLUS_212.42_BG_04.png"
+      },
+      "gameId": "SLUS_212.42"
+    },
+    {
+      "path": "PS2/SLUS_212.42/SLUS_212.42_BG_05.png",
+      "kind": "background",
+      "bytes": 210703,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ef56002cccc06b4e0972238ebbb56050df4fe5e6a1540bdd077b22c78f7e22e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.42/SLUS_212.42_BG_05.png"
+      },
+      "gameId": "SLUS_212.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Burnout Revenge"
+}

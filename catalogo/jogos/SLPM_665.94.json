@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.94",
+  "cover": {
+    "path": "PS2/SLPM_665.94/SLPM_665.94_COV.png",
+    "kind": "cover",
+    "bytes": 84173,
+    "width": 192,
+    "height": 272,
+    "sha256": "9077b65d78023a74206ca485745ca6a779eeb80a4114c8ee185a4b938c825a2b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66594.jpg"
+    },
+    "gameId": "SLPM_665.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rhapsodia (Konami The Best)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_734.03",
+  "cover": {
+    "path": "PS2/SLPS_734.03/SLPS_734.03_COV.png",
+    "kind": "cover",
+    "bytes": 62881,
+    "width": 192,
+    "height": 272,
+    "sha256": "c5600e3dac865b1fcdb6a8f85bda3f86fd7ddb48c933ee37570b990ef18ccd31",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73403.jpg"
+    },
+    "gameId": "SLPS_734.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core 2 (Playstation 2 \tThe Best)"
+}

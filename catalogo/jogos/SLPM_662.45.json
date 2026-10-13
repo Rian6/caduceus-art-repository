@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.45",
+  "cover": {
+    "path": "PS2/SLPM_662.45/SLPM_662.45_COV.png",
+    "kind": "cover",
+    "bytes": 118918,
+    "width": 192,
+    "height": 272,
+    "sha256": "d67fbefad62ee29898ab73dcd636aedb2681c20622778f472bd74390072cb072",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66245.jpg"
+    },
+    "gameId": "SLPM_662.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JEWELS OCEAN - STAR OF SIERRA LEONE"
+}

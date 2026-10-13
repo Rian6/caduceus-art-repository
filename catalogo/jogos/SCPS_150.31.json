@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.31",
+  "cover": {
+    "path": "PS2/SCPS_150.31/SCPS_150.31_COV.png",
+    "kind": "cover",
+    "bytes": 93941,
+    "width": 192,
+    "height": 272,
+    "sha256": "7442d4fd1710f82cb6d1cc26c550cd826323b1f50939f0056d80448ce93f3070",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15031.jpg"
+    },
+    "gameId": "SCPS_150.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE KEIHIN KYUUKOU - TRAIN SIMULATOR REAL [PREMIUM PACK]"
+}

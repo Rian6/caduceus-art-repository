@@ -1,0 +1,78 @@
+{
+  "id": "SLES_535.72",
+  "cover": {
+    "path": "PS2/SLES_535.72/SLES_535.72_COV.png",
+    "kind": "cover",
+    "bytes": 87792,
+    "width": 192,
+    "height": 272,
+    "sha256": "f139584ecaa2fecff33579c40c95bac76be516ae4b83fa2b7298e92666c21cc2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53572.jpg"
+    },
+    "gameId": "SLES_535.72"
+  },
+  "disc": {
+    "path": "PS2/SLES_535.72/SLES_535.72_ICO.png",
+    "kind": "disc",
+    "bytes": 11729,
+    "width": 128,
+    "height": 128,
+    "sha256": "33a7e300c649f1d8ee32c7c9302024a3f5f4ce91d3a7f2c27701790c0695a4a1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_535.72_ICO.png"
+    },
+    "gameId": "SLES_535.72"
+  },
+  "background": {
+    "path": "PS2/SLES_535.72/SLES_535.72_BG.png",
+    "kind": "background",
+    "bytes": 49461,
+    "width": 640,
+    "height": 480,
+    "sha256": "1d286bbd2f332470eb2c630bad87918b31138c7485a34d82f40b7422db518c55",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.72/SLES_535.72_BG_00.png"
+    },
+    "gameId": "SLES_535.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.72/SLES_535.72_BG.png",
+      "kind": "background",
+      "bytes": 49461,
+      "width": 640,
+      "height": 480,
+      "sha256": "1d286bbd2f332470eb2c630bad87918b31138c7485a34d82f40b7422db518c55",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.72/SLES_535.72_BG_00.png"
+      },
+      "gameId": "SLES_535.72"
+    },
+    {
+      "path": "PS2/SLES_535.72/SLES_535.72_BG_01.png",
+      "kind": "background",
+      "bytes": 183848,
+      "width": 640,
+      "height": 480,
+      "sha256": "5f83d9ac8fac777a10fd70e7ccb6c1b28fa6d421164c41e3162f70b4499ede33",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.72/SLES_535.72_BG_01.png"
+      },
+      "gameId": "SLES_535.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rig Racer 2"
+}

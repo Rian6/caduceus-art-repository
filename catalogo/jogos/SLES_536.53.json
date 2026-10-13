@@ -1,0 +1,65 @@
+{
+  "id": "SLES_536.53",
+  "cover": {
+    "path": "PS2/SLES_536.53/SLES_536.53_COV.png",
+    "kind": "cover",
+    "bytes": 95187,
+    "width": 192,
+    "height": 272,
+    "sha256": "7a19fbd8d3b68f63df4af90a77411da9856cffecaa493576708ec9ab5dba5abd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53653.jpg"
+    },
+    "gameId": "SLES_536.53"
+  },
+  "disc": {
+    "path": "PS2/SLES_536.53/SLES_536.53_ICO.png",
+    "kind": "disc",
+    "bytes": 10626,
+    "width": 128,
+    "height": 128,
+    "sha256": "0fec9d4779aa2eba63b6a06f3328ee08a2d1425e3c0cfb1788910902d70e7304",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_536.53_ICO.png"
+    },
+    "gameId": "SLES_536.53"
+  },
+  "background": {
+    "path": "PS2/SLES_536.53/SLES_536.53_BG.png",
+    "kind": "background",
+    "bytes": 175077,
+    "width": 640,
+    "height": 480,
+    "sha256": "291daaabf3d10edb33fe8c3ca8cd9b44e0ed32c3d26a6a664ce657e800198efc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.53/SLES_536.53_BG_00.png"
+    },
+    "gameId": "SLES_536.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_536.53/SLES_536.53_BG.png",
+      "kind": "background",
+      "bytes": 175077,
+      "width": 640,
+      "height": 480,
+      "sha256": "291daaabf3d10edb33fe8c3ca8cd9b44e0ed32c3d26a6a664ce657e800198efc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.53/SLES_536.53_BG_00.png"
+      },
+      "gameId": "SLES_536.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WWII - Battles Over Europe"
+}

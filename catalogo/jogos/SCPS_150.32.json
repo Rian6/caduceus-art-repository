@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.32",
+  "cover": {
+    "path": "PS2/SCPS_150.32/SCPS_150.32_COV.png",
+    "kind": "cover",
+    "bytes": 75830,
+    "width": 192,
+    "height": 272,
+    "sha256": "4d5a8e446b41c462df9c1d98c2e9df1d441ccf8357886f0a285c5dac16530556",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15032.jpg"
+    },
+    "gameId": "SCPS_150.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Formula One 2002"
+}

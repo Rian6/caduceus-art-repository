@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_291.96",
+  "cover": {
+    "path": "PS2/SLUS_291.96/SLUS_291.96_COV.png",
+    "kind": "cover",
+    "bytes": 103493,
+    "width": 192,
+    "height": 272,
+    "sha256": "65b078a7a0439b961b1521a95b090fb6ed2096afe313176560d39fbd9f794328",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-29196.jpg"
+    },
+    "gameId": "SLUS_291.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Destroy All Humans! 2 (Demo)"
+}

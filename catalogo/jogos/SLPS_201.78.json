@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.78",
+  "cover": {
+    "path": "PS2/SLPS_201.78/SLPS_201.78_COV.png",
+    "kind": "cover",
+    "bytes": 68786,
+    "width": 192,
+    "height": 272,
+    "sha256": "3b52d1224efb4e1857f844fbaf8cf9c68d4f1e229e3d897b64a772bd4d19011a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20178.jpg"
+    },
+    "gameId": "SLPS_201.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAMURAI"
+}

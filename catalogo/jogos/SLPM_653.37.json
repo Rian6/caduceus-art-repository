@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.37",
+  "cover": {
+    "path": "PS2/SLPM_653.37/SLPM_653.37_COV.png",
+    "kind": "cover",
+    "bytes": 83850,
+    "width": 192,
+    "height": 272,
+    "sha256": "14065013ee5feaf6c8ad01d56b1e7f1f9dd6e4c60bc7a66e9a0e26d413e6ef64",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65337.jpg"
+    },
+    "gameId": "SLPM_653.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gegege no Kitaro - Ibun Youkaitan"
+}

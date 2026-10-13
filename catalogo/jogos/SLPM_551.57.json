@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.57",
+  "cover": {
+    "path": "PS2/SLPM_551.57/SLPM_551.57_COV.png",
+    "kind": "cover",
+    "bytes": 107567,
+    "width": 192,
+    "height": 272,
+    "sha256": "235c39bcf2a1d3ddedcc83935da481d3cfe49057fa1f14f831182ea3c89bb408",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55157.jpg"
+    },
+    "gameId": "SLPM_551.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sangokushi X (Koei Teiban Series)"
+}

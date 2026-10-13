@@ -1,0 +1,65 @@
+{
+  "id": "SLES_510.93",
+  "cover": {
+    "path": "PS2/SLES_510.93/SLES_510.93_COV.png",
+    "kind": "cover",
+    "bytes": 82440,
+    "width": 192,
+    "height": 272,
+    "sha256": "7c37b1dca78ddaccff2dc5b2813155c3189b37859100fb4a6a1645f0615efcaf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51093.jpg"
+    },
+    "gameId": "SLES_510.93"
+  },
+  "disc": {
+    "path": "PS2/SLES_510.93/SLES_510.93_ICO.png",
+    "kind": "disc",
+    "bytes": 10746,
+    "width": 128,
+    "height": 128,
+    "sha256": "7fcb64798af69b370fccf71088cd7145461d6713c909f34336461822ea35f1e0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_510.93_ICO.png"
+    },
+    "gameId": "SLES_510.93"
+  },
+  "background": {
+    "path": "PS2/SLES_510.93/SLES_510.93_BG.png",
+    "kind": "background",
+    "bytes": 167506,
+    "width": 640,
+    "height": 480,
+    "sha256": "9901dc2d68309f30365179a59b3d0fa33940492527987b0ecaf29a7a5a06c36b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_510.93/SLES_510.93_BG_00.png"
+    },
+    "gameId": "SLES_510.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_510.93/SLES_510.93_BG.png",
+      "kind": "background",
+      "bytes": 167506,
+      "width": 640,
+      "height": 480,
+      "sha256": "9901dc2d68309f30365179a59b3d0fa33940492527987b0ecaf29a7a5a06c36b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_510.93/SLES_510.93_BG_00.png"
+      },
+      "gameId": "SLES_510.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LARGO WINCH - EMPIRE UNDER THREAT"
+}

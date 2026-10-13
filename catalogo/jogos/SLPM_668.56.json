@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.56",
+  "cover": {
+    "path": "PS2/SLPM_668.56/SLPM_668.56_COV.png",
+    "kind": "cover",
+    "bytes": 98785,
+    "width": 192,
+    "height": 272,
+    "sha256": "c72c98157277178df65772fde4a20e3f286889ddfea8d427147094ca171b52c6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66856.jpg"
+    },
+    "gameId": "SLPM_668.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOGAINU NO CHI - TRUE BLOOD"
+}

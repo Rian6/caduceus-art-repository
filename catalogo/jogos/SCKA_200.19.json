@@ -1,0 +1,64 @@
+{
+  "id": "SCKA_200.19",
+  "cover": {
+    "path": "PS2/SCKA_200.19/SCKA_200.19_COV.png",
+    "kind": "cover",
+    "bytes": 67260,
+    "width": 192,
+    "height": 272,
+    "sha256": "b013310c4e51132c6d4814702968f57dc0c6a9e8879fd3fcb29e306e50c8ea08",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20019.jpg"
+    },
+    "gameId": "SCKA_200.19"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.19/SCKA_200.19_BG.png",
+    "kind": "background",
+    "bytes": 155839,
+    "width": 640,
+    "height": 480,
+    "sha256": "d88c0917ea851fb88d77b89db5fb6baef3b8a69ff1ccbb388af45df16711dce9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.19/SCKA_200.19_BG_00.png"
+    },
+    "gameId": "SCKA_200.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.19/SCKA_200.19_BG.png",
+      "kind": "background",
+      "bytes": 155839,
+      "width": 640,
+      "height": 480,
+      "sha256": "d88c0917ea851fb88d77b89db5fb6baef3b8a69ff1ccbb388af45df16711dce9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.19/SCKA_200.19_BG_00.png"
+      },
+      "gameId": "SCKA_200.19"
+    },
+    {
+      "path": "PS2/SCKA_200.19/SCKA_200.19_BG_01.png",
+      "kind": "background",
+      "bytes": 117740,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c5a42291ea895d778c4abde4ce8259f9073d5cb5cea3dae299d754979ee5d22",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.19/SCKA_200.19_BG_01.png"
+      },
+      "gameId": "SCKA_200.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIREN"
+}

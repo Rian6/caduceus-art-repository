@@ -1,0 +1,25 @@
+{
+  "id": "TCPS_100.84",
+  "cover": {
+    "path": "PS2/TCPS_100.84/TCPS_100.84_COV.png",
+    "kind": "cover",
+    "bytes": 95001,
+    "width": 192,
+    "height": 272,
+    "sha256": "b06511cd5c8adde7ae7d9d9177607e447dab0b24f4f3add549c6734daa2cd49e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/TCPS-10084.jpg"
+    },
+    "gameId": "TCPS_100.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zero Shikikan Josentoki (Limited Edition)"
+}

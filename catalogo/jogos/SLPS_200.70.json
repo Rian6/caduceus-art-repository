@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.70",
+  "cover": {
+    "path": "PS2/SLPS_200.70/SLPS_200.70_COV.png",
+    "kind": "cover",
+    "bytes": 100899,
+    "width": 192,
+    "height": 272,
+    "sha256": "ccadf75992c10c454cd1f516082196bced91e4426a5a6f52248947392cd476d0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20070.jpg"
+    },
+    "gameId": "SLPS_200.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Donald Duck: Rescue Daisakusen!!"
+}

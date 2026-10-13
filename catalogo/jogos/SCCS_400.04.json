@@ -1,0 +1,25 @@
+{
+  "id": "SCCS_400.04",
+  "cover": {
+    "path": "PS2/SCCS_400.04/SCCS_400.04_COV.png",
+    "kind": "cover",
+    "bytes": 77623,
+    "width": 192,
+    "height": 272,
+    "sha256": "3d84e3e9673e95efc19d193ac251f6a9ab051a890ea71b2e1eccdaabbba594ef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCCS-40004.jpg"
+    },
+    "gameId": "SCCS_400.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "XI Go"
+}

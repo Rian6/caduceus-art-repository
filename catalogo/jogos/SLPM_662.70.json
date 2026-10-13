@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_662.70",
+  "cover": {
+    "path": "PS2/SLPM_662.70/SLPM_662.70_COV.png",
+    "kind": "cover",
+    "bytes": 103852,
+    "width": 192,
+    "height": 272,
+    "sha256": "0efcb3ddea7f099f6b83b608ad5d25ff088b7a7137fafe12038cd4a465f073e7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66270.jpg"
+    },
+    "gameId": "SLPM_662.70"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_662.70/SLPM_662.70_BG.png",
+    "kind": "background",
+    "bytes": 180686,
+    "width": 640,
+    "height": 480,
+    "sha256": "c99b05facac3a3975df7220f5eeb72f837da8ae775bd46fd85bb2d442be0413d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_662.70/SLPM_662.70_BG_00.png"
+    },
+    "gameId": "SLPM_662.70"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_662.70/SLPM_662.70_BG.png",
+      "kind": "background",
+      "bytes": 180686,
+      "width": 640,
+      "height": 480,
+      "sha256": "c99b05facac3a3975df7220f5eeb72f837da8ae775bd46fd85bb2d442be0413d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.70/SLPM_662.70_BG_00.png"
+      },
+      "gameId": "SLPM_662.70"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Blazing Souls"
+}

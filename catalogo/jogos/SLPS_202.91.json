@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.91",
+  "cover": {
+    "path": "PS2/SLPS_202.91/SLPS_202.91_COV.png",
+    "kind": "cover",
+    "bytes": 88861,
+    "width": 192,
+    "height": 272,
+    "sha256": "b4244f4d9b6f305dd650af36ea9e132f850cb0bd1d17f1e86cb9ff3f7cb72f5a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20291.jpg"
+    },
+    "gameId": "SLPS_202.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fish Eyes 3"
+}

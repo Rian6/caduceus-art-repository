@@ -1,0 +1,25 @@
+{
+  "id": "SCES_553.89",
+  "cover": {
+    "path": "PS2/SCES_553.89/SCES_553.89_COV.png",
+    "kind": "cover",
+    "bytes": 102850,
+    "width": 192,
+    "height": 272,
+    "sha256": "d473f862421288eb084292261ab943e3cf29dcf3ca35041ef8cf5b23132b31b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55389.jpg"
+    },
+    "gameId": "SCES_553.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Il Quizzone Nazionale"
+}

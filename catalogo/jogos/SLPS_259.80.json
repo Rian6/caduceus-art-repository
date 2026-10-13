@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.80",
+  "cover": {
+    "path": "PS2/SLPS_259.80/SLPS_259.80_COV.png",
+    "kind": "cover",
+    "bytes": 126610,
+    "width": 192,
+    "height": 272,
+    "sha256": "ac6b368cc8716bddcb1b37e8630224b788b34cd08fde5c95b038f5ef5ecdd23d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25980.jpg"
+    },
+    "gameId": "SLPS_259.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 16 - Pachinko Hissatsu Shigotonin III"
+}

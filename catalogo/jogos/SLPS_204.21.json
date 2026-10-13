@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.21",
+  "cover": {
+    "path": "PS2/SLPS_204.21/SLPS_204.21_COV.png",
+    "kind": "cover",
+    "bytes": 82239,
+    "width": 192,
+    "height": 272,
+    "sha256": "d8c64bdf720062b4b6e5351559b921c3978371d1606918c3059b2e3781d55966",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20421.jpg"
+    },
+    "gameId": "SLPS_204.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sekai Saikyou Ginsei Igo 6"
+}

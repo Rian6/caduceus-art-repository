@@ -1,0 +1,90 @@
+{
+  "id": "SLPS_256.61",
+  "cover": {
+    "path": "PS2/SLPS_256.61/SLPS_256.61_COV.png",
+    "kind": "cover",
+    "bytes": 103611,
+    "width": 192,
+    "height": 272,
+    "sha256": "cb7600f2f6ed915cf3f296d0df5330e0be64257360cfa4b4078bbc61fd224d50",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25661.jpg"
+    },
+    "gameId": "SLPS_256.61"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.61/SLPS_256.61_BG.png",
+    "kind": "background",
+    "bytes": 141016,
+    "width": 640,
+    "height": 480,
+    "sha256": "f408f7ee5ef530824a099b5ea598cc3056c664a545575e8398463b58334cfddf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.61/SLPS_256.61_BG_00.png"
+    },
+    "gameId": "SLPS_256.61"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.61/SLPS_256.61_BG.png",
+      "kind": "background",
+      "bytes": 141016,
+      "width": 640,
+      "height": 480,
+      "sha256": "f408f7ee5ef530824a099b5ea598cc3056c664a545575e8398463b58334cfddf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.61/SLPS_256.61_BG_00.png"
+      },
+      "gameId": "SLPS_256.61"
+    },
+    {
+      "path": "PS2/SLPS_256.61/SLPS_256.61_BG_01.png",
+      "kind": "background",
+      "bytes": 187799,
+      "width": 640,
+      "height": 480,
+      "sha256": "c50083c525528d1b376c92585ac9494d999787d9763f08ed64296b297917f9c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.61/SLPS_256.61_BG_01.png"
+      },
+      "gameId": "SLPS_256.61"
+    },
+    {
+      "path": "PS2/SLPS_256.61/SLPS_256.61_BG_02.png",
+      "kind": "background",
+      "bytes": 79184,
+      "width": 640,
+      "height": 480,
+      "sha256": "298759542ada82bc0e72f764c4c6a30f87a69311a2c0850077db8d7fd43ad8ca",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.61/SLPS_256.61_BG_02.png"
+      },
+      "gameId": "SLPS_256.61"
+    },
+    {
+      "path": "PS2/SLPS_256.61/SLPS_256.61_BG_03.png",
+      "kind": "background",
+      "bytes": 186787,
+      "width": 640,
+      "height": 480,
+      "sha256": "ad171c845af84b10169d9e67203bf7fb4fce23a20b207718b0c083daf9add51a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.61/SLPS_256.61_BG_03.png"
+      },
+      "gameId": "SLPS_256.61"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters - NESTS Collection (NeoGeo Online Collection Vol. 7)"
+}

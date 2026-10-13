@@ -1,0 +1,65 @@
+{
+  "id": "SLES_538.69",
+  "cover": {
+    "path": "PS2/SLES_538.69/SLES_538.69_COV.png",
+    "kind": "cover",
+    "bytes": 106255,
+    "width": 192,
+    "height": 272,
+    "sha256": "57b9afa51bc9a9944db40c6be6b93b5d9bc77bc941ebba689b7889d0a8ba7b9b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53869.jpg"
+    },
+    "gameId": "SLES_538.69"
+  },
+  "disc": {
+    "path": "PS2/SLES_538.69/SLES_538.69_ICO.png",
+    "kind": "disc",
+    "bytes": 11994,
+    "width": 128,
+    "height": 128,
+    "sha256": "158146c0a4bb720d433a6ba19d0d4c6bfd4a8e6d55a6b577fc3d436a0efff3b0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_538.69_ICO.png"
+    },
+    "gameId": "SLES_538.69"
+  },
+  "background": {
+    "path": "PS2/SLES_538.69/SLES_538.69_BG.png",
+    "kind": "background",
+    "bytes": 122594,
+    "width": 640,
+    "height": 480,
+    "sha256": "88617e1e324aedafd98d0361a5114013d754ac8ddebf3dba5c50e92478d9649f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_538.69/SLES_538.69_BG_00.png"
+    },
+    "gameId": "SLES_538.69"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_538.69/SLES_538.69_BG.png",
+      "kind": "background",
+      "bytes": 122594,
+      "width": 640,
+      "height": 480,
+      "sha256": "88617e1e324aedafd98d0361a5114013d754ac8ddebf3dba5c50e92478d9649f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.69/SLES_538.69_BG_00.png"
+      },
+      "gameId": "SLES_538.69"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Crazy Frog Racer"
+}

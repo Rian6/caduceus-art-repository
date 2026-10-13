@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.65",
+  "cover": {
+    "path": "PS2/SLPS_200.65/SLPS_200.65_COV.png",
+    "kind": "cover",
+    "bytes": 79054,
+    "width": 192,
+    "height": 272,
+    "sha256": "a6d092b0553f439e37b27c82e73ce59da02f51e96a9958cabfcbca5ff4852a2d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20065.jpg"
+    },
+    "gameId": "SLPS_200.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Madden NFL Superbowl 2001"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_551.68",
+  "cover": {
+    "path": "PS2/SLPM_551.68/SLPM_551.68_COV.png",
+    "kind": "cover",
+    "bytes": 94495,
+    "width": 192,
+    "height": 272,
+    "sha256": "55f9eb85d1bd58b2f96a9ad497c6bde5e6d72d567c4b3d77a6c1a86184f4dd89",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55168.jpg"
+    },
+    "gameId": "SLPM_551.68"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_551.68/SLPM_551.68_BG.png",
+    "kind": "background",
+    "bytes": 200514,
+    "width": 640,
+    "height": 480,
+    "sha256": "954317242e71f271145b4da46dc5797320fc286da76de81bf707a5e939beee25",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_551.68/SLPM_551.68_BG_00.png"
+    },
+    "gameId": "SLPM_551.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_551.68/SLPM_551.68_BG.png",
+      "kind": "background",
+      "bytes": 200514,
+      "width": 640,
+      "height": 480,
+      "sha256": "954317242e71f271145b4da46dc5797320fc286da76de81bf707a5e939beee25",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_551.68/SLPM_551.68_BG_00.png"
+      },
+      "gameId": "SLPM_551.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Arcobaleno! (Limited Edition)"
+}

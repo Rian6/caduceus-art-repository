@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.28",
+  "cover": {
+    "path": "PS2/SLPS_254.28/SLPS_254.28_COV.png",
+    "kind": "cover",
+    "bytes": 99789,
+    "width": 192,
+    "height": 272,
+    "sha256": "425911cb10ff2575a51b78d800121d89d56e9af65707c1da3fbb57424f2ac0b7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25428.jpg"
+    },
+    "gameId": "SLPS_254.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL SLUG 3 [SNK BEST COLLECTION]"
+}

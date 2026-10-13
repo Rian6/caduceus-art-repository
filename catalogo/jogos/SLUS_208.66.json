@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_208.66",
+  "cover": {
+    "path": "PS2/SLUS_208.66/SLUS_208.66_COV.png",
+    "kind": "cover",
+    "bytes": 94128,
+    "width": 192,
+    "height": 272,
+    "sha256": "46842b9d4cd38afc8c1cfc460d8c92e5c7f05ab4f4a5d8b92b9507be60cef305",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20866.jpg"
+    },
+    "gameId": "SLUS_208.66"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.66/SLUS_208.66_ICO.png",
+    "kind": "disc",
+    "bytes": 31049,
+    "width": 256,
+    "height": 256,
+    "sha256": "c9443e96888688a25c3974c59e5227c964c87d94ba88742b5b565a881f564ad3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.66_ICO.png"
+    },
+    "gameId": "SLUS_208.66"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.66/SLUS_208.66_BG.png",
+    "kind": "background",
+    "bytes": 81931,
+    "width": 640,
+    "height": 480,
+    "sha256": "e9c163247d013d353d0546d0c4097ac158369c8058c4e60656c30b68cfb2d8d7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.66/SLUS_208.66_BG_00.png"
+    },
+    "gameId": "SLUS_208.66"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.66/SLUS_208.66_BG.png",
+      "kind": "background",
+      "bytes": 81931,
+      "width": 640,
+      "height": 480,
+      "sha256": "e9c163247d013d353d0546d0c4097ac158369c8058c4e60656c30b68cfb2d8d7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.66/SLUS_208.66_BG_00.png"
+      },
+      "gameId": "SLUS_208.66"
+    },
+    {
+      "path": "PS2/SLUS_208.66/SLUS_208.66_BG_01.png",
+      "kind": "background",
+      "bytes": 204320,
+      "width": 640,
+      "height": 480,
+      "sha256": "b712ef5b70201f62d11a08dc1c2d0539a44dafa728bce0427b791a79b2d78b98",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.66/SLUS_208.66_BG_01.png"
+      },
+      "gameId": "SLUS_208.66"
+    },
+    {
+      "path": "PS2/SLUS_208.66/SLUS_208.66_BG_02.png",
+      "kind": "background",
+      "bytes": 171698,
+      "width": 640,
+      "height": 480,
+      "sha256": "366e4c8c2596c0ae07be374f8820f1a32dda3e010c09316e1590883c821159a2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.66/SLUS_208.66_BG_02.png"
+      },
+      "gameId": "SLUS_208.66"
+    },
+    {
+      "path": "PS2/SLUS_208.66/SLUS_208.66_BG_03.png",
+      "kind": "background",
+      "bytes": 135766,
+      "width": 640,
+      "height": 480,
+      "sha256": "05207db856bcc1160d06f9485662164968131e2adaf753ed277653565da45f53",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.66/SLUS_208.66_BG_03.png"
+      },
+      "gameId": "SLUS_208.66"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Asterix & Obelix: Kick Buttix"
+}

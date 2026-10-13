@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.73",
+  "cover": {
+    "path": "PS2/SLPM_665.73/SLPM_665.73_COV.png",
+    "kind": "cover",
+    "bytes": 101377,
+    "width": 192,
+    "height": 272,
+    "sha256": "15abe6566f906f0e9f5f80a6a64b54b056398f0eefbbc06de1e14c6c1f37f780",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66573.jpg"
+    },
+    "gameId": "SLPM_665.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kurogane no Houkou 2 - Warship Gunner (Koei Selection)"
+}

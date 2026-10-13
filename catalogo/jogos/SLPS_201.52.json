@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.52",
+  "cover": {
+    "path": "PS2/SLPS_201.52/SLPS_201.52_COV.png",
+    "kind": "cover",
+    "bytes": 97766,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed1b663432cf2d89b2d12fdf1fdcaeef68c70c6357bcf05051262defab78ccb9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20152.jpg"
+    },
+    "gameId": "SLPS_201.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Stunt GP"
+}

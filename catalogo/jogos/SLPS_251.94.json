@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.94",
+  "cover": {
+    "path": "PS2/SLPS_251.94/SLPS_251.94_COV.png",
+    "kind": "cover",
+    "bytes": 79144,
+    "width": 192,
+    "height": 272,
+    "sha256": "e0fa1ccacc44c459f8500823695695c177f43ffc6c37fed3b8932e0bfc5a89c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25194.jpg"
+    },
+    "gameId": "SLPS_251.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HERDY GERDY"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.04",
+  "cover": {
+    "path": "PS2/SLPS_255.04/SLPS_255.04_COV.png",
+    "kind": "cover",
+    "bytes": 80238,
+    "width": 192,
+    "height": 272,
+    "sha256": "9ecbd0f86607980898a40b52f95ada607b726fcb36cb03a921eb739be31ff4a0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25504.jpg"
+    },
+    "gameId": "SLPS_255.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Garou - Mark of the Wolves (NeoGeo Online Collection Vol.1 Limited Edition)"
+}

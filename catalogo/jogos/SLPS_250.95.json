@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.95",
+  "cover": {
+    "path": "PS2/SLPS_250.95/SLPS_250.95_COV.png",
+    "kind": "cover",
+    "bytes": 97249,
+    "width": 192,
+    "height": 272,
+    "sha256": "c8a9a2bb7977c0b4734fbeeb23722479fa0e94ae0ace003166bf31a7015df415",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25095.jpg"
+    },
+    "gameId": "SLPS_250.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Uchuu Senkan Yamato - Iscandar he no Tsuioku"
+}

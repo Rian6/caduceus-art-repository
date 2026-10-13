@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.09",
+  "cover": {
+    "path": "PS2/SLPM_650.09/SLPM_650.09_COV.png",
+    "kind": "cover",
+    "bytes": 85180,
+    "width": 192,
+    "height": 272,
+    "sha256": "cc0a3c56b57c22e894798bd2d793099a4791a96659fb1671f25321beb12e330e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65009.jpg"
+    },
+    "gameId": "SLPM_650.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN Winter X-Games Snowboarding"
+}

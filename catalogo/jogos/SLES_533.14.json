@@ -1,0 +1,78 @@
+{
+  "id": "SLES_533.14",
+  "cover": {
+    "path": "PS2/SLES_533.14/SLES_533.14_COV.png",
+    "kind": "cover",
+    "bytes": 83754,
+    "width": 192,
+    "height": 272,
+    "sha256": "9d57d1413721f490b65dc06aeeae7529fd87a971dce4b930725504f91b2ec00e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53314.jpg"
+    },
+    "gameId": "SLES_533.14"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.14/SLES_533.14_ICO.png",
+    "kind": "disc",
+    "bytes": 10342,
+    "width": 128,
+    "height": 128,
+    "sha256": "15933771bbe327e405030e96c0d786b841756fff0e7b1bb6ab7d8d370a89f76b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.14_ICO.png"
+    },
+    "gameId": "SLES_533.14"
+  },
+  "background": {
+    "path": "PS2/SLES_533.14/SLES_533.14_BG.png",
+    "kind": "background",
+    "bytes": 180998,
+    "width": 640,
+    "height": 480,
+    "sha256": "94c80edd7c657bfe94a8f1d45da9cc0a52754a8d3026753ed5e71f435344dba3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.14/SLES_533.14_BG_00.png"
+    },
+    "gameId": "SLES_533.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.14/SLES_533.14_BG.png",
+      "kind": "background",
+      "bytes": 180998,
+      "width": 640,
+      "height": 480,
+      "sha256": "94c80edd7c657bfe94a8f1d45da9cc0a52754a8d3026753ed5e71f435344dba3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.14/SLES_533.14_BG_00.png"
+      },
+      "gameId": "SLES_533.14"
+    },
+    {
+      "path": "PS2/SLES_533.14/SLES_533.14_BG_01.png",
+      "kind": "background",
+      "bytes": 171352,
+      "width": 640,
+      "height": 480,
+      "sha256": "f680bc21cebd4bc44a5f2ee430ee6716194402b6ff05cc993cc9fa155cc73191",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.14/SLES_533.14_BG_01.png"
+      },
+      "gameId": "SLES_533.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Frankie Dettori Racing"
+}

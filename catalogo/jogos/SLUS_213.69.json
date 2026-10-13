@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_213.69",
+  "cover": {
+    "path": "PS2/SLUS_213.69/SLUS_213.69_COV.png",
+    "kind": "cover",
+    "bytes": 97008,
+    "width": 192,
+    "height": 272,
+    "sha256": "14b74d9244b7a9808350b8b5d3faeced35bade7bdd27f4089cde13133e9195ed",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21369.jpg"
+    },
+    "gameId": "SLUS_213.69"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.69/SLUS_213.69_ICO.png",
+    "kind": "disc",
+    "bytes": 28929,
+    "width": 256,
+    "height": 256,
+    "sha256": "84cddcd36f987d7f3d938be342581423be0b946bd64af9c49fb9b218862a94b0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.69_ICO.png"
+    },
+    "gameId": "SLUS_213.69"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.69/SLUS_213.69_BG.png",
+    "kind": "background",
+    "bytes": 145103,
+    "width": 640,
+    "height": 480,
+    "sha256": "e83c22cc3de1e5762bea155cac593e67251c339c2cfc16fdf9372af86e455618",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.69/SLUS_213.69_BG_00.png"
+    },
+    "gameId": "SLUS_213.69"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.69/SLUS_213.69_BG.png",
+      "kind": "background",
+      "bytes": 145103,
+      "width": 640,
+      "height": 480,
+      "sha256": "e83c22cc3de1e5762bea155cac593e67251c339c2cfc16fdf9372af86e455618",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.69/SLUS_213.69_BG_00.png"
+      },
+      "gameId": "SLUS_213.69"
+    },
+    {
+      "path": "PS2/SLUS_213.69/SLUS_213.69_BG_01.png",
+      "kind": "background",
+      "bytes": 220271,
+      "width": 640,
+      "height": 480,
+      "sha256": "5f221a7a65963436eba384051c7cd122707db2324dd13d671ebbcbc8dd604de1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.69/SLUS_213.69_BG_01.png"
+      },
+      "gameId": "SLUS_213.69"
+    },
+    {
+      "path": "PS2/SLUS_213.69/SLUS_213.69_BG_02.png",
+      "kind": "background",
+      "bytes": 211399,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff16624eb8f3f41400580e1aa91df44533ee2a69426a77f40581bacdcf6a9e3b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.69/SLUS_213.69_BG_02.png"
+      },
+      "gameId": "SLUS_213.69"
+    },
+    {
+      "path": "PS2/SLUS_213.69/SLUS_213.69_BG_03.png",
+      "kind": "background",
+      "bytes": 197074,
+      "width": 640,
+      "height": 480,
+      "sha256": "1ddbcf17027670c2a347d12c36da19412e2a970f9b3bea850b3b824522f05453",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.69/SLUS_213.69_BG_03.png"
+      },
+      "gameId": "SLUS_213.69"
+    },
+    {
+      "path": "PS2/SLUS_213.69/SLUS_213.69_BG_04.png",
+      "kind": "background",
+      "bytes": 181457,
+      "width": 640,
+      "height": 480,
+      "sha256": "7934c36e489cf143513955f4b31f7f0434bec5205bcd9d155d94187b4962c7ce",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.69/SLUS_213.69_BG_04.png"
+      },
+      "gameId": "SLUS_213.69"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA Street 2"
+}

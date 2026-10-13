@@ -1,0 +1,51 @@
+{
+  "id": "SCES_547.50",
+  "cover": {
+    "path": "PS2/SCES_547.50/SCES_547.50_COV.png",
+    "kind": "cover",
+    "bytes": 64453,
+    "width": 192,
+    "height": 272,
+    "sha256": "398f2b6ca40c42deaf06a376252d2950f7e062d2b88a32140886de5fad0bb1a4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_547.50/SCES_547.50_COV.png"
+    },
+    "gameId": "SCES_547.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_547.50/SCES_547.50_BG.png",
+    "kind": "background",
+    "bytes": 199586,
+    "width": 640,
+    "height": 480,
+    "sha256": "b9e3e71360bbd7f643ed8ca474441ec428391a86be49da87c93cfaa44ed5d7a4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_547.50/SCES_547.50_BG_00.png"
+    },
+    "gameId": "SCES_547.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_547.50/SCES_547.50_BG.png",
+      "kind": "background",
+      "bytes": 199586,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9e3e71360bbd7f643ed8ca474441ec428391a86be49da87c93cfaa44ed5d7a4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_547.50/SCES_547.50_BG_00.png"
+      },
+      "gameId": "SCES_547.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Junior – Dino Den (with Buzz! Buzzers)"
+}

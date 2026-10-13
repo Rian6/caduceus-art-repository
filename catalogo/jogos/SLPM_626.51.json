@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.51",
+  "cover": {
+    "path": "PS2/SLPM_626.51/SLPM_626.51_COV.png",
+    "kind": "cover",
+    "bytes": 92911,
+    "width": 192,
+    "height": 272,
+    "sha256": "f435b6ec7db365f1f9ec4399ffec233b61141f190d20567e7370c564045cfb8a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62651.jpg"
+    },
+    "gameId": "SLPM_626.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.083 - THE KONCHUU SAISHUU"
+}

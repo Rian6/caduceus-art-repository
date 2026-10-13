@@ -1,0 +1,25 @@
+{
+  "id": "SLES_556.68",
+  "cover": {
+    "path": "PS2/SLES_556.68/SLES_556.68_COV.png",
+    "kind": "cover",
+    "bytes": 103827,
+    "width": 192,
+    "height": 272,
+    "sha256": "4320a4c09150b68d14a361f1b2654a87f74f6e01ed6fca829ca67da0ccfc9b39",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55668.jpg"
+    },
+    "gameId": "SLES_556.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Evolution Soccer 2013"
+}

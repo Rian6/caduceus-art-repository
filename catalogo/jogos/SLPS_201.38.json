@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.38",
+  "cover": {
+    "path": "PS2/SLPS_201.38/SLPS_201.38_COV.png",
+    "kind": "cover",
+    "bytes": 104638,
+    "width": 192,
+    "height": 272,
+    "sha256": "45497515b4a18a26280aca784bf9ee9817a7c668ec047d6ffe0b02f7374e92b7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20138.jpg"
+    },
+    "gameId": "SLPS_201.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DIGITAL HOLMES"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_740.03",
+  "cover": {
+    "path": "PS2/SLPM_740.03/SLPM_740.03_COV.png",
+    "kind": "cover",
+    "bytes": 90380,
+    "width": 192,
+    "height": 272,
+    "sha256": "e27ba89137abaae09b56d1781332f5d8c8ecf5267d1948ff10937202e88628bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74003.jpg"
+    },
+    "gameId": "SLPM_740.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CRASH BANDICOOT 4 - SAKURETSU! MAJIN POWER [PLAYSTATION 2 THE BEST]"
+}

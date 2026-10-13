@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.72",
+  "cover": {
+    "path": "PS2/SLPM_668.72/SLPM_668.72_COV.png",
+    "kind": "cover",
+    "bytes": 105332,
+    "width": 192,
+    "height": 272,
+    "sha256": "7a2aa3a32b6393306593bdc3c4d73ee3f093a73056c6c5331f1971b1c62dd3ca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66872.jpg"
+    },
+    "gameId": "SLPM_668.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHOUKAN SHOUJO - ELEMENTAL GIRL CALLING"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_256.21",
+  "cover": {
+    "path": "PS2/SLPS_256.21/SLPS_256.21_COV.png",
+    "kind": "cover",
+    "bytes": 83269,
+    "width": 192,
+    "height": 272,
+    "sha256": "57d4de7e94963318b30d5074354be4b471099efb70335579d3289aad5e4ca2f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25621.jpg"
+    },
+    "gameId": "SLPS_256.21"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.21/SLPS_256.21_BG.png",
+    "kind": "background",
+    "bytes": 225182,
+    "width": 640,
+    "height": 480,
+    "sha256": "d2c3b1290a6b93285a33b91f5e7cde60b52c724bd9ed41c86fe9a59c7f770da0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.21/SLPS_256.21_BG_00.png"
+    },
+    "gameId": "SLPS_256.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.21/SLPS_256.21_BG.png",
+      "kind": "background",
+      "bytes": 225182,
+      "width": 640,
+      "height": 480,
+      "sha256": "d2c3b1290a6b93285a33b91f5e7cde60b52c724bd9ed41c86fe9a59c7f770da0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.21/SLPS_256.21_BG_00.png"
+      },
+      "gameId": "SLPS_256.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KASHIMASHI! GIRL MEETS GIRL [LIMITED EDITION]"
+}

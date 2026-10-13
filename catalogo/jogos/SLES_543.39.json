@@ -1,0 +1,64 @@
+{
+  "id": "SLES_543.39",
+  "cover": {
+    "path": "PS2/SLES_543.39/SLES_543.39_COV.png",
+    "kind": "cover",
+    "bytes": 100596,
+    "width": 192,
+    "height": 272,
+    "sha256": "b418746f98ec3f38bdf038f020c846ad39796e6d066686efdaa6212c8ac58243",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54339.jpg"
+    },
+    "gameId": "SLES_543.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.39/SLES_543.39_BG.png",
+    "kind": "background",
+    "bytes": 49195,
+    "width": 640,
+    "height": 480,
+    "sha256": "0760c90fd5d291de364afca7e6f7a4abde45842d28032995806e951c684551a1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.39/SLES_543.39_BG_00.png"
+    },
+    "gameId": "SLES_543.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.39/SLES_543.39_BG.png",
+      "kind": "background",
+      "bytes": 49195,
+      "width": 640,
+      "height": 480,
+      "sha256": "0760c90fd5d291de364afca7e6f7a4abde45842d28032995806e951c684551a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.39/SLES_543.39_BG_00.png"
+      },
+      "gameId": "SLES_543.39"
+    },
+    {
+      "path": "PS2/SLES_543.39/SLES_543.39_BG_01.png",
+      "kind": "background",
+      "bytes": 201248,
+      "width": 640,
+      "height": 480,
+      "sha256": "1a9b8a810eb82353865637382ee22b98164732d58e87cc6ce88ae7e5e3e0e418",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.39/SLES_543.39_BG_01.png"
+      },
+      "gameId": "SLES_543.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Realm of the Dead"
+}

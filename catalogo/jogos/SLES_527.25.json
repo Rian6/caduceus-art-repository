@@ -1,0 +1,103 @@
+{
+  "id": "SLES_527.25",
+  "cover": {
+    "path": "PS2/SLES_527.25/SLES_527.25_COV.png",
+    "kind": "cover",
+    "bytes": 98356,
+    "width": 192,
+    "height": 272,
+    "sha256": "e2b471f6a0d2601c06502d5a4a08df15a3e3f1dc1f07a43491f3627de03df39e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52725.jpg"
+    },
+    "gameId": "SLES_527.25"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.25/SLES_527.25_BG.png",
+    "kind": "background",
+    "bytes": 178451,
+    "width": 640,
+    "height": 480,
+    "sha256": "763d28f43ea600de5907a565e278057325b444caf6e36f3bd048c77e9497d091",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.25/SLES_527.25_BG_00.png"
+    },
+    "gameId": "SLES_527.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.25/SLES_527.25_BG.png",
+      "kind": "background",
+      "bytes": 178451,
+      "width": 640,
+      "height": 480,
+      "sha256": "763d28f43ea600de5907a565e278057325b444caf6e36f3bd048c77e9497d091",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.25/SLES_527.25_BG_00.png"
+      },
+      "gameId": "SLES_527.25"
+    },
+    {
+      "path": "PS2/SLES_527.25/SLES_527.25_BG_01.png",
+      "kind": "background",
+      "bytes": 181681,
+      "width": 640,
+      "height": 480,
+      "sha256": "444c01ad239b6734ed8c669dc91ef5bb9c09970a9fd5de97097c9e7c9d995e89",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.25/SLES_527.25_BG_01.png"
+      },
+      "gameId": "SLES_527.25"
+    },
+    {
+      "path": "PS2/SLES_527.25/SLES_527.25_BG_02.png",
+      "kind": "background",
+      "bytes": 133347,
+      "width": 640,
+      "height": 480,
+      "sha256": "86d0595a90f1752fe4471b7e05e624f55bd6bbc730cd632b5ae5789dc4e925a4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.25/SLES_527.25_BG_02.png"
+      },
+      "gameId": "SLES_527.25"
+    },
+    {
+      "path": "PS2/SLES_527.25/SLES_527.25_BG_03.png",
+      "kind": "background",
+      "bytes": 157105,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ce31f8f2fffad535069e1f1fbe4bb8df0740c9763a2863bd64bcc9015a4557d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.25/SLES_527.25_BG_03.png"
+      },
+      "gameId": "SLES_527.25"
+    },
+    {
+      "path": "PS2/SLES_527.25/SLES_527.25_BG_04.png",
+      "kind": "background",
+      "bytes": 165438,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f7c9622ee632e914ab2a4297c8f496e0a1c9018998173764989b795c2ca9016",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.25/SLES_527.25_BG_04.png"
+      },
+      "gameId": "SLES_527.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Need for Speed - Underground 2"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_518.41",
+  "cover": {
+    "path": "PS2/SLES_518.41/SLES_518.41_COV.png",
+    "kind": "cover",
+    "bytes": 96963,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea2f846435bd30a50b8cd6d21adf26f439891c9c8a7da4297198b008ce60c635",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51841.jpg"
+    },
+    "gameId": "SLES_518.41"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_518.41/SLES_518.41_BG.png",
+    "kind": "background",
+    "bytes": 155806,
+    "width": 640,
+    "height": 480,
+    "sha256": "3357684d97f609e9b211b9c1cd9d1dbdb76861e767d769dcec96413e82f57aeb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.41/SLES_518.41_BG_00.png"
+    },
+    "gameId": "SLES_518.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.41/SLES_518.41_BG.png",
+      "kind": "background",
+      "bytes": 155806,
+      "width": 640,
+      "height": 480,
+      "sha256": "3357684d97f609e9b211b9c1cd9d1dbdb76861e767d769dcec96413e82f57aeb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.41/SLES_518.41_BG_00.png"
+      },
+      "gameId": "SLES_518.41"
+    },
+    {
+      "path": "PS2/SLES_518.41/SLES_518.41_BG_01.png",
+      "kind": "background",
+      "bytes": 168544,
+      "width": 640,
+      "height": 480,
+      "sha256": "f08fd5088fdb8232acc6063714660c1f0e170490a362a36ec95c57f55b6f8e33",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.41/SLES_518.41_BG_01.png"
+      },
+      "gameId": "SLES_518.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPYHUNTER 2"
+}

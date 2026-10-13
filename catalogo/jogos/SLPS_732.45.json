@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.45",
+  "cover": {
+    "path": "PS2/SLPS_732.45/SLPS_732.45_COV.png",
+    "kind": "cover",
+    "bytes": 79404,
+    "width": 192,
+    "height": 272,
+    "sha256": "f9d5bba46ad518f2ac49d5ebcaf4b3694caa7e2f58b80d39979ed6395f176284",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73245.jpg"
+    },
+    "gameId": "SLPS_732.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zero: Shisei no Koe"
+}

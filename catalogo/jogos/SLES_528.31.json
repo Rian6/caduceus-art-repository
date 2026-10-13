@@ -1,0 +1,91 @@
+{
+  "id": "SLES_528.31",
+  "cover": {
+    "path": "PS2/SLES_528.31/SLES_528.31_COV.png",
+    "kind": "cover",
+    "bytes": 89866,
+    "width": 192,
+    "height": 272,
+    "sha256": "948681ea6c61a5c1e3ced0de17052415ddbd8017cdd733c20270d31739766a4f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52831.jpg"
+    },
+    "gameId": "SLES_528.31"
+  },
+  "disc": {
+    "path": "PS2/SLES_528.31/SLES_528.31_ICO.png",
+    "kind": "disc",
+    "bytes": 11667,
+    "width": 128,
+    "height": 128,
+    "sha256": "ffe48b20f25faa797c19e6e8266e6df3c8b6d435e262aabade31f77e45640548",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_528.31_ICO.png"
+    },
+    "gameId": "SLES_528.31"
+  },
+  "background": {
+    "path": "PS2/SLES_528.31/SLES_528.31_BG.png",
+    "kind": "background",
+    "bytes": 245488,
+    "width": 640,
+    "height": 480,
+    "sha256": "fa51efbb02bed6509a988835efd913d23420ac3a43429c7dd06cf4508236a2ad",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.31/SLES_528.31_BG_00.png"
+    },
+    "gameId": "SLES_528.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.31/SLES_528.31_BG.png",
+      "kind": "background",
+      "bytes": 245488,
+      "width": 640,
+      "height": 480,
+      "sha256": "fa51efbb02bed6509a988835efd913d23420ac3a43429c7dd06cf4508236a2ad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.31/SLES_528.31_BG_00.png"
+      },
+      "gameId": "SLES_528.31"
+    },
+    {
+      "path": "PS2/SLES_528.31/SLES_528.31_BG_01.png",
+      "kind": "background",
+      "bytes": 216410,
+      "width": 640,
+      "height": 480,
+      "sha256": "2bccbbe0e22326400316775c6f3fd042d4d0722a99d6c46425ff47dcfec6c902",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.31/SLES_528.31_BG_01.png"
+      },
+      "gameId": "SLES_528.31"
+    },
+    {
+      "path": "PS2/SLES_528.31/SLES_528.31_BG_02.png",
+      "kind": "background",
+      "bytes": 198991,
+      "width": 640,
+      "height": 480,
+      "sha256": "c8295a0c1dd1f9e9e9fa65b8fe06a7dad66c1b8de50b000414a3a4f2c5bbe82a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.31/SLES_528.31_BG_02.png"
+      },
+      "gameId": "SLES_528.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SYBERIA II"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.72",
+  "cover": {
+    "path": "PS2/SLPM_626.72/SLPM_626.72_COV.png",
+    "kind": "cover",
+    "bytes": 102023,
+    "width": 192,
+    "height": 272,
+    "sha256": "9f0fcf59c761864ff1f10341753f2cd337ced7ff3ae6b623024e7569e6ed22fb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62672.jpg"
+    },
+    "gameId": "SLPM_626.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SEGA AGES 2500 SERIES VOL.07 - COLUMNS [LEGACY EDITION]"
+}

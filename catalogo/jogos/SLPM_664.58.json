@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.58",
+  "cover": {
+    "path": "PS2/SLPM_664.58/SLPM_664.58_COV.png",
+    "kind": "cover",
+    "bytes": 68844,
+    "width": 192,
+    "height": 272,
+    "sha256": "bcb7f598567b075f2dca96237d86975e8002c601c79629815846e30610b6f371",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66458.jpg"
+    },
+    "gameId": "SLPM_664.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fuuraiki"
+}

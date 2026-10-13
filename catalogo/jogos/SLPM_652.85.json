@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.85",
+  "cover": {
+    "path": "PS2/SLPM_652.85/SLPM_652.85_COV.png",
+    "kind": "cover",
+    "bytes": 107001,
+    "width": 192,
+    "height": 272,
+    "sha256": "4081537c7377f00985e57a68b95ea525c468153621d0529f360301c5409129c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65285.jpg"
+    },
+    "gameId": "SLPM_652.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LOVE HINA GOJASU - CHIRATTO HAPPENING!! [LIMITED BOX]"
+}

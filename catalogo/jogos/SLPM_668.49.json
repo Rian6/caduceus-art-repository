@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.49",
+  "cover": {
+    "path": "PS2/SLPM_668.49/SLPM_668.49_COV.png",
+    "kind": "cover",
+    "bytes": 105063,
+    "width": 192,
+    "height": 272,
+    "sha256": "285d54dfdc0af23117d7f6e056bba19cc34c8992ea01788269fb2456a941a80a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66849.jpg"
+    },
+    "gameId": "SLPM_668.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Atelier Iris - Grand Phantasm (Gust Best Prize)"
+}

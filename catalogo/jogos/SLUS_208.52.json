@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_208.52",
+  "cover": {
+    "path": "PS2/SLUS_208.52/SLUS_208.52_COV.png",
+    "kind": "cover",
+    "bytes": 106067,
+    "width": 192,
+    "height": 272,
+    "sha256": "56e18c49958aec1c71d7a258fdc091615e39c9a6763b396c4ac8de8f73c21796",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20852.jpg"
+    },
+    "gameId": "SLUS_208.52"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.52/SLUS_208.52_ICO.png",
+    "kind": "disc",
+    "bytes": 35139,
+    "width": 256,
+    "height": 256,
+    "sha256": "ef594059d3899fa344f9df39b512d996bd36786fd2268660bdd6746241251c1c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.52_ICO.png"
+    },
+    "gameId": "SLUS_208.52"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.52/SLUS_208.52_BG.png",
+    "kind": "background",
+    "bytes": 162109,
+    "width": 640,
+    "height": 480,
+    "sha256": "aa162abf7503ca9d2d0ebbd3cd33e0f3dac330207e905a027c3788b2bb401b6b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.52/SLUS_208.52_BG_00.png"
+    },
+    "gameId": "SLUS_208.52"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.52/SLUS_208.52_BG.png",
+      "kind": "background",
+      "bytes": 162109,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa162abf7503ca9d2d0ebbd3cd33e0f3dac330207e905a027c3788b2bb401b6b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.52/SLUS_208.52_BG_00.png"
+      },
+      "gameId": "SLUS_208.52"
+    },
+    {
+      "path": "PS2/SLUS_208.52/SLUS_208.52_BG_01.png",
+      "kind": "background",
+      "bytes": 189973,
+      "width": 640,
+      "height": 480,
+      "sha256": "6b0b443c5785dbc81cf8194cc958969eb503777ed24778aee739915f1d59510a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.52/SLUS_208.52_BG_01.png"
+      },
+      "gameId": "SLUS_208.52"
+    },
+    {
+      "path": "PS2/SLUS_208.52/SLUS_208.52_BG_02.png",
+      "kind": "background",
+      "bytes": 208122,
+      "width": 640,
+      "height": 480,
+      "sha256": "7f1841b3bff7092d6b28f12a3dd0d171bec1e3d1f9fd14f90cbf5fb076fc3405",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.52/SLUS_208.52_BG_02.png"
+      },
+      "gameId": "SLUS_208.52"
+    },
+    {
+      "path": "PS2/SLUS_208.52/SLUS_208.52_BG_03.png",
+      "kind": "background",
+      "bytes": 216408,
+      "width": 640,
+      "height": 480,
+      "sha256": "6d94b3c401d8a0731fb13864621ca27bddeef4e89df373d2db54a91109b846e1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.52/SLUS_208.52_BG_03.png"
+      },
+      "gameId": "SLUS_208.52"
+    },
+    {
+      "path": "PS2/SLUS_208.52/SLUS_208.52_BG_04.png",
+      "kind": "background",
+      "bytes": 174401,
+      "width": 640,
+      "height": 480,
+      "sha256": "4b0e38109c592b57b95ddc935924e80551cd785fa5541eca11180dc3df0495c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.52/SLUS_208.52_BG_04.png"
+      },
+      "gameId": "SLUS_208.52"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Terminator 3: The Redemption"
+}

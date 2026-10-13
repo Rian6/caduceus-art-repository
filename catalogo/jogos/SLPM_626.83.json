@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.83",
+  "cover": {
+    "path": "PS2/SLPM_626.83/SLPM_626.83_COV.png",
+    "kind": "cover",
+    "bytes": 93927,
+    "width": 192,
+    "height": 272,
+    "sha256": "07a2eadedd918458d77d76963aeb48ec725b09de89ad7aaca20189772b29b0f8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62683.jpg"
+    },
+    "gameId": "SLPM_626.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mahjong Haou - Taikai Battle (Mycom Best)"
+}

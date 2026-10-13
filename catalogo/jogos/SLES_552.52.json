@@ -1,0 +1,25 @@
+{
+  "id": "SLES_552.52",
+  "cover": {
+    "path": "PS2/SLES_552.52/SLES_552.52_COV.png",
+    "kind": "cover",
+    "bytes": 82954,
+    "width": 192,
+    "height": 272,
+    "sha256": "cee8bddf301794c46078d7358925a193c6c85e1f6dbdbe95fc7e957c0896b63d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55252.jpg"
+    },
+    "gameId": "SLES_552.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL 2K9"
+}

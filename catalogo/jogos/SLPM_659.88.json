@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.88",
+  "cover": {
+    "path": "PS2/SLPM_659.88/SLPM_659.88_COV.png",
+    "kind": "cover",
+    "bytes": 104839,
+    "width": 192,
+    "height": 272,
+    "sha256": "738c9cdd20e187697ab82979528dc2e4ced9bd807bd76821dae93c351c1cbea5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65988.jpg"
+    },
+    "gameId": "SLPM_659.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHOUJO YOSHITSUNE-DEN 2 [LIMITED EDITION]"
+}

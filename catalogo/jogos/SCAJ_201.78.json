@@ -1,0 +1,51 @@
+{
+  "id": "SCAJ_201.78",
+  "cover": {
+    "path": "PS2/SCAJ_201.78/SCAJ_201.78_COV.png",
+    "kind": "cover",
+    "bytes": 107654,
+    "width": 192,
+    "height": 272,
+    "sha256": "d87ef74bdcecc42450b9c923ac60a2507993964f37a253a79556951c2c4b7778",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20178.jpg"
+    },
+    "gameId": "SCAJ_201.78"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCAJ_201.78/SCAJ_201.78_BG.png",
+    "kind": "background",
+    "bytes": 233747,
+    "width": 640,
+    "height": 480,
+    "sha256": "1e55b8b297e8babbddd5a338f65882b16cb2bc2cfc8d474aae4286cecb292310",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCAJ_201.78/SCAJ_201.78_BG_00.png"
+    },
+    "gameId": "SCAJ_201.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCAJ_201.78/SCAJ_201.78_BG.png",
+      "kind": "background",
+      "bytes": 233747,
+      "width": 640,
+      "height": 480,
+      "sha256": "1e55b8b297e8babbddd5a338f65882b16cb2bc2cfc8d474aae4286cecb292310",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_201.78/SCAJ_201.78_BG_00.png"
+      },
+      "gameId": "SCAJ_201.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saru Get You - Million Monkeys"
+}

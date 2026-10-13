@@ -1,0 +1,25 @@
+{
+  "id": "SLES_545.88",
+  "cover": {
+    "path": "PS2/SLES_545.88/SLES_545.88_COV.png",
+    "kind": "cover",
+    "bytes": 73144,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc873ff1d0b3003b26e5fac30132f14f4647be4e17fcdcf4b3f80be2788973f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54588.jpg"
+    },
+    "gameId": "SLES_545.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Brunswick Pro Bowling"
+}

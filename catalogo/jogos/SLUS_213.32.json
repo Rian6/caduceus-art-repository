@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_213.32",
+  "cover": {
+    "path": "PS2/SLUS_213.32/SLUS_213.32_COV.png",
+    "kind": "cover",
+    "bytes": 84366,
+    "width": 192,
+    "height": 272,
+    "sha256": "58e53c8383126c097e4d3b9b933dd25887e99fb90dc771208915afb830256394",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21332.jpg"
+    },
+    "gameId": "SLUS_213.32"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.32/SLUS_213.32_ICO.png",
+    "kind": "disc",
+    "bytes": 27721,
+    "width": 256,
+    "height": 256,
+    "sha256": "6f31d62bbdb0e748c058ccf121def66020383d1cfa451d39d17c0f3a7bb315da",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.32_ICO.png"
+    },
+    "gameId": "SLUS_213.32"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Real World Golf"
+}

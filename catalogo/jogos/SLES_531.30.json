@@ -1,0 +1,25 @@
+{
+  "id": "SLES_531.30",
+  "cover": {
+    "path": "PS2/SLES_531.30/SLES_531.30_COV.png",
+    "kind": "cover",
+    "bytes": 93461,
+    "width": 192,
+    "height": 272,
+    "sha256": "90a1da2cb23f59271b5af6c8f9efebf6b5195971dfb36091c38133c1edd93ff4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53130.jpg"
+    },
+    "gameId": "SLES_531.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WORLD CHAMPIONSHIP POKER"
+}

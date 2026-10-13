@@ -1,0 +1,103 @@
+{
+  "id": "SLES_502.15",
+  "cover": {
+    "path": "PS2/SLES_502.15/SLES_502.15_COV.png",
+    "kind": "cover",
+    "bytes": 34869,
+    "width": 192,
+    "height": 272,
+    "sha256": "80672e8c3cbc18342a560c956ec4b1b2f5fb023cdf4866791ee073120c7d6046",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50215.jpg"
+    },
+    "gameId": "SLES_502.15"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_502.15/SLES_502.15_BG.png",
+    "kind": "background",
+    "bytes": 92691,
+    "width": 640,
+    "height": 480,
+    "sha256": "43a406b9ad8fad7fab5a5270fae1728ccd3eb19dca551341f538132ecdc99119",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.15/SLES_502.15_BG_00.png"
+    },
+    "gameId": "SLES_502.15"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.15/SLES_502.15_BG.png",
+      "kind": "background",
+      "bytes": 92691,
+      "width": 640,
+      "height": 480,
+      "sha256": "43a406b9ad8fad7fab5a5270fae1728ccd3eb19dca551341f538132ecdc99119",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.15/SLES_502.15_BG_00.png"
+      },
+      "gameId": "SLES_502.15"
+    },
+    {
+      "path": "PS2/SLES_502.15/SLES_502.15_BG_01.png",
+      "kind": "background",
+      "bytes": 144908,
+      "width": 640,
+      "height": 480,
+      "sha256": "7c7baa21a5ad8aedbe6c7ddbe1a9b000362f7334ec53996a167242d0fac11df5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.15/SLES_502.15_BG_01.png"
+      },
+      "gameId": "SLES_502.15"
+    },
+    {
+      "path": "PS2/SLES_502.15/SLES_502.15_BG_02.png",
+      "kind": "background",
+      "bytes": 222909,
+      "width": 640,
+      "height": 480,
+      "sha256": "00904af1fef1595ceb5a2b1643993de667c33d9059979ffdf03067aaf7f76ae7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.15/SLES_502.15_BG_02.png"
+      },
+      "gameId": "SLES_502.15"
+    },
+    {
+      "path": "PS2/SLES_502.15/SLES_502.15_BG_03.png",
+      "kind": "background",
+      "bytes": 147897,
+      "width": 640,
+      "height": 480,
+      "sha256": "2283cd0b94232c5febf905dbab3a33c9b95551da3c39f267c00fee63d2dad323",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.15/SLES_502.15_BG_03.png"
+      },
+      "gameId": "SLES_502.15"
+    },
+    {
+      "path": "PS2/SLES_502.15/SLES_502.15_BG_04.png",
+      "kind": "background",
+      "bytes": 125635,
+      "width": 640,
+      "height": 480,
+      "sha256": "4fbe65c58dac0c49789545cbfea30c3ea898690ccb74dd5192a94ef62379d4fb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.15/SLES_502.15_BG_04.png"
+      },
+      "gameId": "SLES_502.15"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CRAZY TAXI"
+}

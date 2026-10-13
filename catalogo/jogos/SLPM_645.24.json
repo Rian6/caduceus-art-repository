@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_645.24",
+  "cover": {
+    "path": "PS2/SLPM_645.24/SLPM_645.24_COV.png",
+    "kind": "cover",
+    "bytes": 61398,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e77c51ec92aeecb963d0193edc9cf8b3d1ffe24b27b4ca300d9192b76acdc9d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_645.24/SLPM_645.24_COV.png"
+    },
+    "gameId": "SLPM_645.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shox"
+}

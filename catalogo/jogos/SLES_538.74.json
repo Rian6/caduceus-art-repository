@@ -1,0 +1,91 @@
+{
+  "id": "SLES_538.74",
+  "cover": {
+    "path": "PS2/SLES_538.74/SLES_538.74_COV.png",
+    "kind": "cover",
+    "bytes": 108748,
+    "width": 192,
+    "height": 272,
+    "sha256": "f5bba094298ba80fe13e63c63820e922d5c4595500a21a6c71314abc8ecb25ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53874.jpg"
+    },
+    "gameId": "SLES_538.74"
+  },
+  "disc": {
+    "path": "PS2/SLES_538.74/SLES_538.74_ICO.png",
+    "kind": "disc",
+    "bytes": 10532,
+    "width": 128,
+    "height": 128,
+    "sha256": "7d8c50acedb3710e2615fab5b9868d7950c6f696972d464f1f1f9eb750678b63",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_538.74_ICO.png"
+    },
+    "gameId": "SLES_538.74"
+  },
+  "background": {
+    "path": "PS2/SLES_538.74/SLES_538.74_BG.png",
+    "kind": "background",
+    "bytes": 236371,
+    "width": 640,
+    "height": 480,
+    "sha256": "100e0a9a6f5519bd30ef58ce7624436162024d2447996d6f31160e649c23cd3e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_538.74/SLES_538.74_BG_00.png"
+    },
+    "gameId": "SLES_538.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_538.74/SLES_538.74_BG.png",
+      "kind": "background",
+      "bytes": 236371,
+      "width": 640,
+      "height": 480,
+      "sha256": "100e0a9a6f5519bd30ef58ce7624436162024d2447996d6f31160e649c23cd3e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.74/SLES_538.74_BG_00.png"
+      },
+      "gameId": "SLES_538.74"
+    },
+    {
+      "path": "PS2/SLES_538.74/SLES_538.74_BG_01.png",
+      "kind": "background",
+      "bytes": 207817,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d1d0b483f7622c82d0b7bba8e6c04f928e8a68b5f3dca4d96757469f98ad02f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.74/SLES_538.74_BG_01.png"
+      },
+      "gameId": "SLES_538.74"
+    },
+    {
+      "path": "PS2/SLES_538.74/SLES_538.74_BG_02.png",
+      "kind": "background",
+      "bytes": 204103,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ba82065df10e75c04af54f5878c69168909f22053be3346bae4d78a0b72b8cf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.74/SLES_538.74_BG_02.png"
+      },
+      "gameId": "SLES_538.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Blaze"
+}

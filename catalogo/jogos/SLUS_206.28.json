@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_206.28",
+  "cover": {
+    "path": "PS2/SLUS_206.28/SLUS_206.28_COV.png",
+    "kind": "cover",
+    "bytes": 91627,
+    "width": 192,
+    "height": 272,
+    "sha256": "c00e6ee98b48bdf4d8c5b2b1a8a12413f0e62b059dd1a56f03f430111c46035d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20628.jpg"
+    },
+    "gameId": "SLUS_206.28"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.28/SLUS_206.28_ICO.png",
+    "kind": "disc",
+    "bytes": 28045,
+    "width": 256,
+    "height": 256,
+    "sha256": "07125e0d1879c04682a63b3fb4850adb88ebc3f2c89937b59b06cd8d8eb64d3f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.28_ICO.png"
+    },
+    "gameId": "SLUS_206.28"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.28/SLUS_206.28_BG.png",
+    "kind": "background",
+    "bytes": 155991,
+    "width": 640,
+    "height": 480,
+    "sha256": "71173bc5d4a57f0d6bb7bd500773130e19c95f5c3b365341f65adeeec81ea749",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.28/SLUS_206.28_BG_00.png"
+    },
+    "gameId": "SLUS_206.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.28/SLUS_206.28_BG.png",
+      "kind": "background",
+      "bytes": 155991,
+      "width": 640,
+      "height": 480,
+      "sha256": "71173bc5d4a57f0d6bb7bd500773130e19c95f5c3b365341f65adeeec81ea749",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.28/SLUS_206.28_BG_00.png"
+      },
+      "gameId": "SLUS_206.28"
+    },
+    {
+      "path": "PS2/SLUS_206.28/SLUS_206.28_BG_01.png",
+      "kind": "background",
+      "bytes": 178222,
+      "width": 640,
+      "height": 480,
+      "sha256": "a87b18dbfdb75e7a206b9b1088c78ca09b4e5ff15bf06ef38ffeffea9da617a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.28/SLUS_206.28_BG_01.png"
+      },
+      "gameId": "SLUS_206.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney-Pixar's Finding Nemo"
+}

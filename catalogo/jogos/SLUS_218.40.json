@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_218.40",
+  "cover": {
+    "path": "PS2/SLUS_218.40/SLUS_218.40_COV.png",
+    "kind": "cover",
+    "bytes": 105638,
+    "width": 192,
+    "height": 272,
+    "sha256": "1e1bffb29717fd264294b0a816666e9c50d9ab094328f67cc632ea23c2d9b570",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21840.jpg"
+    },
+    "gameId": "SLUS_218.40"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.40/SLUS_218.40_ICO.png",
+    "kind": "disc",
+    "bytes": 28957,
+    "width": 256,
+    "height": 256,
+    "sha256": "16b24b15837f11bfa67efbb56806d6d1c1d6293a664edc865e777a127b64ca08",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.40_ICO.png"
+    },
+    "gameId": "SLUS_218.40"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.40/SLUS_218.40_BG.png",
+    "kind": "background",
+    "bytes": 167801,
+    "width": 640,
+    "height": 480,
+    "sha256": "4deaef95bcb621d06291cc56aea22efacab32f1a63508392f194b80fe2db2d25",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.40/SLUS_218.40_BG_00.png"
+    },
+    "gameId": "SLUS_218.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.40/SLUS_218.40_BG.png",
+      "kind": "background",
+      "bytes": 167801,
+      "width": 640,
+      "height": 480,
+      "sha256": "4deaef95bcb621d06291cc56aea22efacab32f1a63508392f194b80fe2db2d25",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.40/SLUS_218.40_BG_00.png"
+      },
+      "gameId": "SLUS_218.40"
+    },
+    {
+      "path": "PS2/SLUS_218.40/SLUS_218.40_BG_01.png",
+      "kind": "background",
+      "bytes": 199040,
+      "width": 640,
+      "height": 480,
+      "sha256": "c36270d268f162d78922f100a798bde48744e95b6505b8e18f56297c2afafc12",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.40/SLUS_218.40_BG_01.png"
+      },
+      "gameId": "SLUS_218.40"
+    },
+    {
+      "path": "PS2/SLUS_218.40/SLUS_218.40_BG_02.png",
+      "kind": "background",
+      "bytes": 201432,
+      "width": 640,
+      "height": 480,
+      "sha256": "6b45eb24d02cc45180fda363fbbd6cc6daf0ec457e64efdfd12d031973d155b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.40/SLUS_218.40_BG_02.png"
+      },
+      "gameId": "SLUS_218.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamWorks Madagascar: Escape 2 Africa"
+}

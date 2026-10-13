@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_191.02",
+  "cover": {
+    "path": "PS2/SCPS_191.02/SCPS_191.02_COV.png",
+    "kind": "cover",
+    "bytes": 71498,
+    "width": 192,
+    "height": 272,
+    "sha256": "8ab29ca94d9779a9b3e6745e9293cccdb88d122dd9af95bcbc8b5f331b55599b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19102.jpg"
+    },
+    "gameId": "SCPS_191.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BOKU TO MAO [PLAYSTATION 2 THE BEST]"
+}

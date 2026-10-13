@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_207.01",
+  "cover": {
+    "path": "PS2/SLUS_207.01/SLUS_207.01_COV.png",
+    "kind": "cover",
+    "bytes": 113590,
+    "width": 192,
+    "height": 272,
+    "sha256": "177884131d507846eb4ed6b7344c7e8ca1445f98f7d91559d787065d54842cd6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20701.jpg"
+    },
+    "gameId": "SLUS_207.01"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.01/SLUS_207.01_ICO.png",
+    "kind": "disc",
+    "bytes": 36704,
+    "width": 256,
+    "height": 256,
+    "sha256": "5390fe1514f94f0f3ed5769d994a4a8d6baf09bb3073870953338409f5a35e68",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.01_ICO.png"
+    },
+    "gameId": "SLUS_207.01"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.01/SLUS_207.01_BG.png",
+    "kind": "background",
+    "bytes": 170712,
+    "width": 640,
+    "height": 480,
+    "sha256": "d5966557c440421a9175d0987e0a8c39ea8e0d530cd76aa10ddcdb632236e51e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.01/SLUS_207.01_BG_00.png"
+    },
+    "gameId": "SLUS_207.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.01/SLUS_207.01_BG.png",
+      "kind": "background",
+      "bytes": 170712,
+      "width": 640,
+      "height": 480,
+      "sha256": "d5966557c440421a9175d0987e0a8c39ea8e0d530cd76aa10ddcdb632236e51e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.01/SLUS_207.01_BG_00.png"
+      },
+      "gameId": "SLUS_207.01"
+    },
+    {
+      "path": "PS2/SLUS_207.01/SLUS_207.01_BG_01.png",
+      "kind": "background",
+      "bytes": 190017,
+      "width": 640,
+      "height": 480,
+      "sha256": "8a27a19d737863cb11ac7cc8a2e21c5820df799324fab8321476247c095685a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.01/SLUS_207.01_BG_01.png"
+      },
+      "gameId": "SLUS_207.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCOOBY-DOO! - MYSTERY MAYHEM"
+}

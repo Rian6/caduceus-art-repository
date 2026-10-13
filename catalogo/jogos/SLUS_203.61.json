@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_203.61",
+  "cover": {
+    "path": "PS2/SLUS_203.61/SLUS_203.61_COV.png",
+    "kind": "cover",
+    "bytes": 108820,
+    "width": 192,
+    "height": 272,
+    "sha256": "19969d0730f33e1c86dec4ff4ab052cfbefb60b916193de51c3a7bde66327e0d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20361.jpg"
+    },
+    "gameId": "SLUS_203.61"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.61/SLUS_203.61_ICO.png",
+    "kind": "disc",
+    "bytes": 32105,
+    "width": 256,
+    "height": 256,
+    "sha256": "16d717d8e817751b63a6096b5ed1033e88a38b4d964cde78f04e4d8716061d49",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.61_ICO.png"
+    },
+    "gameId": "SLUS_203.61"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.61/SLUS_203.61_BG.png",
+    "kind": "background",
+    "bytes": 186350,
+    "width": 640,
+    "height": 480,
+    "sha256": "a48a24bfc3d8135036694a6e67f14497a1de4eebf3000bd0b862c2edf2c93778",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.61/SLUS_203.61_BG_00.png"
+    },
+    "gameId": "SLUS_203.61"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.61/SLUS_203.61_BG.png",
+      "kind": "background",
+      "bytes": 186350,
+      "width": 640,
+      "height": 480,
+      "sha256": "a48a24bfc3d8135036694a6e67f14497a1de4eebf3000bd0b862c2edf2c93778",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.61/SLUS_203.61_BG_00.png"
+      },
+      "gameId": "SLUS_203.61"
+    },
+    {
+      "path": "PS2/SLUS_203.61/SLUS_203.61_BG_01.png",
+      "kind": "background",
+      "bytes": 203213,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff103863dfc568dc53d7ddc02a105efa859328ae0b01f7109cf3090c938ad27a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.61/SLUS_203.61_BG_01.png"
+      },
+      "gameId": "SLUS_203.61"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rally Fusion - Race of Champions"
+}

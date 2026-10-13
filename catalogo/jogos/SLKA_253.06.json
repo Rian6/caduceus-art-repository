@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.06",
+  "cover": {
+    "path": "PS2/SLKA_253.06/SLKA_253.06_COV.png",
+    "kind": "cover",
+    "bytes": 94708,
+    "width": 192,
+    "height": 272,
+    "sha256": "2cec00ea9a168570eceda3879774300f0f4952239d87ef9761043aa6f51f1b39",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25306.jpg"
+    },
+    "gameId": "SLKA_253.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EVIL DEAD - REGENERATION"
+}

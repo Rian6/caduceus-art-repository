@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_208.88",
+  "cover": {
+    "path": "PS2/SLUS_208.88/SLUS_208.88_COV.png",
+    "kind": "cover",
+    "bytes": 102426,
+    "width": 192,
+    "height": 272,
+    "sha256": "5e32509e1d66a7f833c098f83616246b2979b1eea22e6a3332124b4f97cb5afa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20888.jpg"
+    },
+    "gameId": "SLUS_208.88"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.88/SLUS_208.88_ICO.png",
+    "kind": "disc",
+    "bytes": 32730,
+    "width": 256,
+    "height": 256,
+    "sha256": "0b929654f0fada3a12e06edebd4e7eb5df1e4f4a0ec3be4c1fd13a9885fd91de",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.88_ICO.png"
+    },
+    "gameId": "SLUS_208.88"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.88/SLUS_208.88_BG.png",
+    "kind": "background",
+    "bytes": 103499,
+    "width": 640,
+    "height": 480,
+    "sha256": "3c2442f93a251ab91109799d27dc1bcb58afdc27551b41122387efb60ecec830",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.88/SLUS_208.88_BG_00.png"
+    },
+    "gameId": "SLUS_208.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.88/SLUS_208.88_BG.png",
+      "kind": "background",
+      "bytes": 103499,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c2442f93a251ab91109799d27dc1bcb58afdc27551b41122387efb60ecec830",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.88/SLUS_208.88_BG_00.png"
+      },
+      "gameId": "SLUS_208.88"
+    },
+    {
+      "path": "PS2/SLUS_208.88/SLUS_208.88_BG_01.png",
+      "kind": "background",
+      "bytes": 210550,
+      "width": 640,
+      "height": 480,
+      "sha256": "fa6f6495a332c2def9093a241ad4183abd517b43c955b599ce248e57bcd6a7b3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.88/SLUS_208.88_BG_01.png"
+      },
+      "gameId": "SLUS_208.88"
+    },
+    {
+      "path": "PS2/SLUS_208.88/SLUS_208.88_BG_02.png",
+      "kind": "background",
+      "bytes": 194477,
+      "width": 640,
+      "height": 480,
+      "sha256": "1ee3efcb9d34e02d74f3c584b456f03fad21b74dd5883d1bb3304f9785fd50f0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.88/SLUS_208.88_BG_02.png"
+      },
+      "gameId": "SLUS_208.88"
+    },
+    {
+      "path": "PS2/SLUS_208.88/SLUS_208.88_BG_03.png",
+      "kind": "background",
+      "bytes": 51927,
+      "width": 640,
+      "height": 480,
+      "sha256": "92cba8e980b6533563e097f3af13ad21890f446d5550a491130bb53d02193889",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.88/SLUS_208.88_BG_03.png"
+      },
+      "gameId": "SLUS_208.88"
+    },
+    {
+      "path": "PS2/SLUS_208.88/SLUS_208.88_BG_04.png",
+      "kind": "background",
+      "bytes": 67877,
+      "width": 640,
+      "height": 480,
+      "sha256": "11c5df3935dbfe7a8b84642b04fb930f409ee07acff68480a965730536c142d3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.88/SLUS_208.88_BG_04.png"
+      },
+      "gameId": "SLUS_208.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FRONT MISSION 4"
+}

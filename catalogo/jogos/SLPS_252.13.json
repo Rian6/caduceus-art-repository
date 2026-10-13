@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.13",
+  "cover": {
+    "path": "PS2/SLPS_252.13/SLPS_252.13_COV.png",
+    "kind": "cover",
+    "bytes": 87299,
+    "width": 192,
+    "height": 272,
+    "sha256": "fecf359c83f60441ffcb77b9a182f10318ab4f673afad96be0c270b3a317d1de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25213.jpg"
+    },
+    "gameId": "SLPS_252.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bass Landing 3"
+}

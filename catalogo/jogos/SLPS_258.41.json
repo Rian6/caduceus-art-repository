@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.41",
+  "cover": {
+    "path": "PS2/SLPS_258.41/SLPS_258.41_COV.png",
+    "kind": "cover",
+    "bytes": 100089,
+    "width": 192,
+    "height": 272,
+    "sha256": "53778f38267e24bf7b1e14e8483e5bcb22ee982a83f306a4370091550beb4aee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25841.jpg"
+    },
+    "gameId": "SLPS_258.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tales of Destiny (Director's Cut)(Premium Box)"
+}

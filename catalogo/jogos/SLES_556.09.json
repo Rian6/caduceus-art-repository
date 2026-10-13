@@ -1,0 +1,64 @@
+{
+  "id": "SLES_556.09",
+  "cover": {
+    "path": "PS2/SLES_556.09/SLES_556.09_COV.png",
+    "kind": "cover",
+    "bytes": 101877,
+    "width": 192,
+    "height": 272,
+    "sha256": "fbac6c7e57810d2d12e6b173d2911335ecbff1d3ce716bf0a46df4d89d1fccec",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55609.jpg"
+    },
+    "gameId": "SLES_556.09"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_556.09/SLES_556.09_BG.png",
+    "kind": "background",
+    "bytes": 191170,
+    "width": 640,
+    "height": 480,
+    "sha256": "3784624ad93c077475c0430db1d1089c2798794302f429f34b32a01ef2f41dfa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_556.09/SLES_556.09_BG_00.png"
+    },
+    "gameId": "SLES_556.09"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_556.09/SLES_556.09_BG.png",
+      "kind": "background",
+      "bytes": 191170,
+      "width": 640,
+      "height": 480,
+      "sha256": "3784624ad93c077475c0430db1d1089c2798794302f429f34b32a01ef2f41dfa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.09/SLES_556.09_BG_00.png"
+      },
+      "gameId": "SLES_556.09"
+    },
+    {
+      "path": "PS2/SLES_556.09/SLES_556.09_BG_01.png",
+      "kind": "background",
+      "bytes": 168546,
+      "width": 640,
+      "height": 480,
+      "sha256": "b470dd093ee5436a63b1500b984d1bcc0679966279c96065f94dcb538506f5bf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.09/SLES_556.09_BG_01.png"
+      },
+      "gameId": "SLES_556.09"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCOOBY-DOO! & THE SPOOKY SWAMP"
+}

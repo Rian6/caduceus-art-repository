@@ -1,0 +1,64 @@
+{
+  "id": "SCPS_150.21",
+  "cover": {
+    "path": "PS2/SCPS_150.21/SCPS_150.21_COV.png",
+    "kind": "cover",
+    "bytes": 109440,
+    "width": 192,
+    "height": 272,
+    "sha256": "c50c3e31fc19bea9ec4a6d19ddeab3a0021caca83cb2a85db4f3a285ac092a2a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15021.jpg"
+    },
+    "gameId": "SCPS_150.21"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.21/SCPS_150.21_BG.png",
+    "kind": "background",
+    "bytes": 195780,
+    "width": 640,
+    "height": 480,
+    "sha256": "a9c2c10a0f0df6952d46d7b6e74d97c795cb253eda1e03b3d922054cb657f2e3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.21/SCPS_150.21_BG_00.png"
+    },
+    "gameId": "SCPS_150.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.21/SCPS_150.21_BG.png",
+      "kind": "background",
+      "bytes": 195780,
+      "width": 640,
+      "height": 480,
+      "sha256": "a9c2c10a0f0df6952d46d7b6e74d97c795cb253eda1e03b3d922054cb657f2e3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.21/SCPS_150.21_BG_00.png"
+      },
+      "gameId": "SCPS_150.21"
+    },
+    {
+      "path": "PS2/SCPS_150.21/SCPS_150.21_BG_01.png",
+      "kind": "background",
+      "bytes": 234641,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4ff2da2bf29d8a3a823bccf06326041844c0dc0bd8ccebe880ebf85681778a8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.21/SCPS_150.21_BG_01.png"
+      },
+      "gameId": "SCPS_150.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jak x Daxter: Kyuu Sekai no Isan"
+}

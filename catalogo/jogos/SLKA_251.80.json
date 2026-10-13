@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.80",
+  "cover": {
+    "path": "PS2/SLKA_251.80/SLKA_251.80_COV.png",
+    "kind": "cover",
+    "bytes": 42245,
+    "width": 192,
+    "height": 272,
+    "sha256": "89d082fa1de76307e76848b984e447d14f199898ac2b6e5b95a17134869db32e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.80/SLKA_251.80_COV.png"
+    },
+    "gameId": "SLKA_251.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Splinter Cell - Pandora Tomorrow"
+}

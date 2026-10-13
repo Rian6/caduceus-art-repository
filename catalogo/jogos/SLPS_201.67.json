@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.67",
+  "cover": {
+    "path": "PS2/SLPS_201.67/SLPS_201.67_COV.png",
+    "kind": "cover",
+    "bytes": 89991,
+    "width": 192,
+    "height": 272,
+    "sha256": "8596b0f325884c54ed7255ba2d46c885578f34fd841b151bde084bbaef06cdec",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20167.jpg"
+    },
+    "gameId": "SLPS_201.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LA PUCELLE"
+}

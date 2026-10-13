@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.96",
+  "cover": {
+    "path": "PS2/SCAJ_200.96/SCAJ_200.96_COV.png",
+    "kind": "cover",
+    "bytes": 106110,
+    "width": 192,
+    "height": 272,
+    "sha256": "3be15b15b71021adfdd46020de2ccac84247c42550861303de20ff5a7f120623",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20096.jpg"
+    },
+    "gameId": "SCAJ_200.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guilty Gear Isuka"
+}

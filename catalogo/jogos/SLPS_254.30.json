@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.30",
+  "cover": {
+    "path": "PS2/SLPS_254.30/SLPS_254.30_COV.png",
+    "kind": "cover",
+    "bytes": 95998,
+    "width": 192,
+    "height": 272,
+    "sha256": "9614edd72e6fcf9293915c495559b2a8a09dc8543977bc9597e088f690d5f5c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25430.jpg"
+    },
+    "gameId": "SLPS_254.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LUPIN SANSEI - COLUMBUS NO ISAN WA AKANISOMARU"
+}

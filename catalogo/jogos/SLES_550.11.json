@@ -1,0 +1,25 @@
+{
+  "id": "SLES_550.11",
+  "cover": {
+    "path": "PS2/SLES_550.11/SLES_550.11_COV.png",
+    "kind": "cover",
+    "bytes": 64690,
+    "width": 192,
+    "height": 272,
+    "sha256": "f707f30c252750a962771922c42e7d790c3ff34b07c9c7bf30d53160b37dd989",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.11/SLES_550.11_COV.png"
+    },
+    "gameId": "SLES_550.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Thrillville - Fuera de Control"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SCKA_200.79",
+  "cover": {
+    "path": "PS2/SCKA_200.79/SCKA_200.79_COV.png",
+    "kind": "cover",
+    "bytes": 90566,
+    "width": 192,
+    "height": 272,
+    "sha256": "30ae8009c1e2b25c3ecec2781206fc23f6c54e71df9a637559eb922b7fcd84bc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20079.jpg"
+    },
+    "gameId": "SCKA_200.79"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.79/SCKA_200.79_BG.png",
+    "kind": "background",
+    "bytes": 200974,
+    "width": 640,
+    "height": 480,
+    "sha256": "f5b6c4428b1da6bcefa41c6db5faf4a9987c771fe8097656d2c089063097d2a3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.79/SCKA_200.79_BG_00.png"
+    },
+    "gameId": "SCKA_200.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.79/SCKA_200.79_BG.png",
+      "kind": "background",
+      "bytes": 200974,
+      "width": 640,
+      "height": 480,
+      "sha256": "f5b6c4428b1da6bcefa41c6db5faf4a9987c771fe8097656d2c089063097d2a3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.79/SCKA_200.79_BG_00.png"
+      },
+      "gameId": "SCKA_200.79"
+    },
+    {
+      "path": "PS2/SCKA_200.79/SCKA_200.79_BG_01.png",
+      "kind": "background",
+      "bytes": 188860,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f2e3b208d36e63afd76946a23fb92236c6f2d0ac160a7169ba7018ab66a211d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.79/SCKA_200.79_BG_01.png"
+      },
+      "gameId": "SCKA_200.79"
+    },
+    {
+      "path": "PS2/SCKA_200.79/SCKA_200.79_BG_02.png",
+      "kind": "background",
+      "bytes": 198340,
+      "width": 640,
+      "height": 480,
+      "sha256": "76706e251e000d008411add0772ecdd5b9d5513746e0026b5ef717333283ee99",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.79/SCKA_200.79_BG_02.png"
+      },
+      "gameId": "SCKA_200.79"
+    },
+    {
+      "path": "PS2/SCKA_200.79/SCKA_200.79_BG_03.png",
+      "kind": "background",
+      "bytes": 204556,
+      "width": 640,
+      "height": 480,
+      "sha256": "11f31f2c100c7b768391ea6e7025978f561d47ec47eac275e2c744783909010d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.79/SCKA_200.79_BG_03.png"
+      },
+      "gameId": "SCKA_200.79"
+    },
+    {
+      "path": "PS2/SCKA_200.79/SCKA_200.79_BG_04.png",
+      "kind": "background",
+      "bytes": 198044,
+      "width": 640,
+      "height": 480,
+      "sha256": "49002e12aeb801c1a00bf35ef25c8398b38c100d8d5815d48acdd275e3f078a4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.79/SCKA_200.79_BG_04.png"
+      },
+      "gameId": "SCKA_200.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Valkyrie Profile 2 - Silmeria"
+}

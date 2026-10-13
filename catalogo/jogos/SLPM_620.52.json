@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.52",
+  "cover": {
+    "path": "PS2/SLPM_620.52/SLPM_620.52_COV.png",
+    "kind": "cover",
+    "bytes": 81827,
+    "width": 192,
+    "height": 272,
+    "sha256": "71b1fb2d02fc2416393293b050e2f697585e6fc8a6c0c743ef832dccdb6d2bc1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62052.jpg"
+    },
+    "gameId": "SLPM_620.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Beatmania Da! Da! Da!"
+}

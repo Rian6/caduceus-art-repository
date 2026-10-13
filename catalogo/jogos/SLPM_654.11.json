@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.11",
+  "cover": {
+    "path": "PS2/SLPM_654.11/SLPM_654.11_COV.png",
+    "kind": "cover",
+    "bytes": 102956,
+    "width": 192,
+    "height": 272,
+    "sha256": "f22b8a2653cb712275d87b664076aa8881dc922121eac61113cd6e7a35c9bc00",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65411.jpg"
+    },
+    "gameId": "SLPM_654.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONIMUSHA BURAIDEN"
+}

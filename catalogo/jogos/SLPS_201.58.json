@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.58",
+  "cover": {
+    "path": "PS2/SLPS_201.58/SLPS_201.58_COV.png",
+    "kind": "cover",
+    "bytes": 108884,
+    "width": 192,
+    "height": 272,
+    "sha256": "c7ae14e4fd4e42bab8b8b6ee91a16a1a9801b57139888757138a05fa4137b055",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20158.jpg"
+    },
+    "gameId": "SLPS_201.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yamasa Digi World 2 - LCD Edition - Time Cross, Qlogos, Trigger Zone"
+}

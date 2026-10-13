@@ -1,0 +1,25 @@
+{
+  "id": "SLES_542.23",
+  "cover": {
+    "path": "PS2/SLES_542.23/SLES_542.23_COV.png",
+    "kind": "cover",
+    "bytes": 87077,
+    "width": 192,
+    "height": 272,
+    "sha256": "ef0d9baf2441cd584263ffedd47fb2d192321917d45b9f9a9e1947cae7fde86c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54223.jpg"
+    },
+    "gameId": "SLES_542.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NASCAR '07"
+}

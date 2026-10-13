@@ -1,0 +1,168 @@
+{
+  "id": "SLPM_660.18",
+  "cover": {
+    "path": "PS2/SLPM_660.18/SLPM_660.18_COV.png",
+    "kind": "cover",
+    "bytes": 89609,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf6641a906d720e4bf6ed92d43dc1aa8aadc1e399d0eda372ce90dc61034b5cb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66018.jpg"
+    },
+    "gameId": "SLPM_660.18"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_660.18/SLPM_660.18_BG.png",
+    "kind": "background",
+    "bytes": 202127,
+    "width": 640,
+    "height": 480,
+    "sha256": "95fa6094eb1571b9ce7a36bf996f3a52ae4c23d0915c512e24a0cc437968c6ed",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_660.18/SLPM_660.18_BG_00.png"
+    },
+    "gameId": "SLPM_660.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_660.18/SLPM_660.18_BG.png",
+      "kind": "background",
+      "bytes": 202127,
+      "width": 640,
+      "height": 480,
+      "sha256": "95fa6094eb1571b9ce7a36bf996f3a52ae4c23d0915c512e24a0cc437968c6ed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.18/SLPM_660.18_BG_00.png"
+      },
+      "gameId": "SLPM_660.18"
+    },
+    {
+      "path": "PS2/SLPM_660.18/SLPM_660.18_BG_01.png",
+      "kind": "background",
+      "bytes": 111832,
+      "width": 640,
+      "height": 480,
+      "sha256": "7dc89ae695dc75c5ed77b85ea6aa40a08331a6a1a3ba180970f7ed2e23557305",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.18/SLPM_660.18_BG_01.png"
+      },
+      "gameId": "SLPM_660.18"
+    },
+    {
+      "path": "PS2/SLPM_660.18/SLPM_660.18_BG_02.png",
+      "kind": "background",
+      "bytes": 235008,
+      "width": 640,
+      "height": 480,
+      "sha256": "3dd2c752655f58c71374755f3012e5c9130de220d4bc441a3f7ee00e3b2136e3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.18/SLPM_660.18_BG_02.png"
+      },
+      "gameId": "SLPM_660.18"
+    },
+    {
+      "path": "PS2/SLPM_660.18/SLPM_660.18_BG_03.png",
+      "kind": "background",
+      "bytes": 173593,
+      "width": 640,
+      "height": 480,
+      "sha256": "f1a370a6e7aadf6792dabba197211570bdc93f94c483f64007fe4738b1cf491d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.18/SLPM_660.18_BG_03.png"
+      },
+      "gameId": "SLPM_660.18"
+    },
+    {
+      "path": "PS2/SLPM_660.18/SLPM_660.18_BG_04.png",
+      "kind": "background",
+      "bytes": 219714,
+      "width": 640,
+      "height": 480,
+      "sha256": "d8474156b183ff1bda5311beb6c12b5a07d16f2529d2cbec0a166c32696a102c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.18/SLPM_660.18_BG_04.png"
+      },
+      "gameId": "SLPM_660.18"
+    },
+    {
+      "path": "PS2/SLPM_660.18/SLPM_660.18_BG_05.png",
+      "kind": "background",
+      "bytes": 180750,
+      "width": 640,
+      "height": 480,
+      "sha256": "01392172960f8d5d523140672285dfc92fff61ab4aec6f7d049f579fa5783100",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.18/SLPM_660.18_BG_05.png"
+      },
+      "gameId": "SLPM_660.18"
+    },
+    {
+      "path": "PS2/SLPM_660.18/SLPM_660.18_BG_06.png",
+      "kind": "background",
+      "bytes": 107021,
+      "width": 640,
+      "height": 480,
+      "sha256": "c1e50ddaa0f0a04318fe2fe3b4e3c9389f46cca88094f6bdb463e71f6c89cea4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.18/SLPM_660.18_BG_06.png"
+      },
+      "gameId": "SLPM_660.18"
+    },
+    {
+      "path": "PS2/SLPM_660.18/SLPM_660.18_BG_07.png",
+      "kind": "background",
+      "bytes": 208454,
+      "width": 640,
+      "height": 480,
+      "sha256": "78bffa3adc5c7b08a961396bb7689d171c8998461c6f72117b981964798b5356",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.18/SLPM_660.18_BG_07.png"
+      },
+      "gameId": "SLPM_660.18"
+    },
+    {
+      "path": "PS2/SLPM_660.18/SLPM_660.18_BG_08.png",
+      "kind": "background",
+      "bytes": 155837,
+      "width": 640,
+      "height": 480,
+      "sha256": "86516b3bfd33ec3f85d4b5f2684e15d66d2142fd7120bb2961758a6992a341d5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.18/SLPM_660.18_BG_08.png"
+      },
+      "gameId": "SLPM_660.18"
+    },
+    {
+      "path": "PS2/SLPM_660.18/SLPM_660.18_BG_09.png",
+      "kind": "background",
+      "bytes": 155586,
+      "width": 640,
+      "height": 480,
+      "sha256": "a11202af2c187363e9466764293f655f93cb4b058890b17566a07272e515f2f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.18/SLPM_660.18_BG_09.png"
+      },
+      "gameId": "SLPM_660.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SILENT HILL 3 [KONAMI DENDOU COLLECTION]"
+}

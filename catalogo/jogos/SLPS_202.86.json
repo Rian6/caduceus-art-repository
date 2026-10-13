@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.86",
+  "cover": {
+    "path": "PS2/SLPS_202.86/SLPS_202.86_COV.png",
+    "kind": "cover",
+    "bytes": 102797,
+    "width": 192,
+    "height": 272,
+    "sha256": "dd674df9b5e717fc49fda0ef5e6f2bacd6bcb682caad52536f940bc6b866ecdf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20286.jpg"
+    },
+    "gameId": "SLPS_202.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLOTTER UP CORE 2 - GOUDA MINAMI NO TEIOU"
+}

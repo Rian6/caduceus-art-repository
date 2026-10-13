@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_210.78",
+  "cover": {
+    "path": "PS2/SLUS_210.78/SLUS_210.78_COV.png",
+    "kind": "cover",
+    "bytes": 76506,
+    "width": 192,
+    "height": 272,
+    "sha256": "4b5db4553952d2d6b22409cd5317fb71fc89038d64b9949203789c852f107db0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21078.jpg"
+    },
+    "gameId": "SLUS_210.78"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.78/SLUS_210.78_ICO.png",
+    "kind": "disc",
+    "bytes": 32807,
+    "width": 256,
+    "height": 256,
+    "sha256": "53f25c5e6e8f0433b1cc3b7c94b5ad020adf104466b21f5d69fce77459bc924c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.78_ICO.png"
+    },
+    "gameId": "SLUS_210.78"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Lemony Snicket's A Series of Unfortunate Events"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SLES_537.64",
+  "cover": {
+    "path": "PS2/SLES_537.64/SLES_537.64_COV.png",
+    "kind": "cover",
+    "bytes": 104993,
+    "width": 192,
+    "height": 272,
+    "sha256": "954b826f6c3645db78f6963b5d528ebab24425b428f34788839cb9ed707787eb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53764.jpg"
+    },
+    "gameId": "SLES_537.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.64/SLES_537.64_BG.png",
+    "kind": "background",
+    "bytes": 227320,
+    "width": 640,
+    "height": 480,
+    "sha256": "32b6fb920c4a728b8646a0ae8991c6e362efccfc99ba2780ef75aa92af0f8ffb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.64/SLES_537.64_BG_00.png"
+    },
+    "gameId": "SLES_537.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.64/SLES_537.64_BG.png",
+      "kind": "background",
+      "bytes": 227320,
+      "width": 640,
+      "height": 480,
+      "sha256": "32b6fb920c4a728b8646a0ae8991c6e362efccfc99ba2780ef75aa92af0f8ffb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.64/SLES_537.64_BG_00.png"
+      },
+      "gameId": "SLES_537.64"
+    },
+    {
+      "path": "PS2/SLES_537.64/SLES_537.64_BG_01.png",
+      "kind": "background",
+      "bytes": 180111,
+      "width": 640,
+      "height": 480,
+      "sha256": "4b1b7378ebd0c1056482a4aa0f8795a5ee780c7294c399ccc6474ee7e420963f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.64/SLES_537.64_BG_01.png"
+      },
+      "gameId": "SLES_537.64"
+    },
+    {
+      "path": "PS2/SLES_537.64/SLES_537.64_BG_02.png",
+      "kind": "background",
+      "bytes": 215915,
+      "width": 640,
+      "height": 480,
+      "sha256": "3767d307704e272358359f9ff979c3c754b426e6451f7d90255dc699d6e914a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.64/SLES_537.64_BG_02.png"
+      },
+      "gameId": "SLES_537.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Atelier Iris: Eternal Mana"
+}

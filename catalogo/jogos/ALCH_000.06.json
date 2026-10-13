@@ -1,0 +1,25 @@
+{
+  "id": "ALCH_000.06",
+  "cover": {
+    "path": "PS2/ALCH_000.06/ALCH_000.06_COV.png",
+    "kind": "cover",
+    "bytes": 73138,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a8bc66cb0b7db6459157e1070614835a3fff1260fb25571946aaf9871ec917d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/ALCH_000.06/ALCH_000.06_COV.png"
+    },
+    "gameId": "ALCH_000.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Baldr Force EXE (Simalcrum Pack Alchemist Best)"
+}

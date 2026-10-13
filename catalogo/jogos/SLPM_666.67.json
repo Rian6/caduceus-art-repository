@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.67",
+  "cover": {
+    "path": "PS2/SLPM_666.67/SLPM_666.67_COV.png",
+    "kind": "cover",
+    "bytes": 110794,
+    "width": 192,
+    "height": 272,
+    "sha256": "b20101615c76c05e5b508ea7dec6b14c505347924b81713048325caec94b43dd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66667.jpg"
+    },
+    "gameId": "SLPM_666.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEINE LIEBE II - HOKORI TO SEIGI TO AI [KONAMI DENDOU SELECTION]"
+}

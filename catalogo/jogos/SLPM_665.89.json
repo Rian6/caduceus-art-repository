@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.89",
+  "cover": {
+    "path": "PS2/SLPM_665.89/SLPM_665.89_COV.png",
+    "kind": "cover",
+    "bytes": 89127,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c447aac48145daeddbc9911ee4a65c47cbbb83542c64307071b0935277b2163",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66589.jpg"
+    },
+    "gameId": "SLPM_665.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live '07"
+}

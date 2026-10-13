@@ -1,0 +1,78 @@
+{
+  "id": "SLES_528.45",
+  "cover": {
+    "path": "PS2/SLES_528.45/SLES_528.45_COV.png",
+    "kind": "cover",
+    "bytes": 107547,
+    "width": 192,
+    "height": 272,
+    "sha256": "b341db60ef10e0e38d63ca49cc578d53ba736cc7792a01ff754f58199a61592a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52845.jpg"
+    },
+    "gameId": "SLES_528.45"
+  },
+  "disc": {
+    "path": "PS2/SLES_528.45/SLES_528.45_ICO.png",
+    "kind": "disc",
+    "bytes": 11611,
+    "width": 128,
+    "height": 128,
+    "sha256": "66f2b52f7cb2a67bbd893e640ef1d5993e5e7f23c6ea75fc80b6a5549f9ee4ef",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_528.45_ICO.png"
+    },
+    "gameId": "SLES_528.45"
+  },
+  "background": {
+    "path": "PS2/SLES_528.45/SLES_528.45_BG.png",
+    "kind": "background",
+    "bytes": 204551,
+    "width": 640,
+    "height": 480,
+    "sha256": "b8985361ec7cdfd9536436f5d45d5ae28d81befdfa1b0b11c450b3815dbd24e6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.45/SLES_528.45_BG_00.png"
+    },
+    "gameId": "SLES_528.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.45/SLES_528.45_BG.png",
+      "kind": "background",
+      "bytes": 204551,
+      "width": 640,
+      "height": 480,
+      "sha256": "b8985361ec7cdfd9536436f5d45d5ae28d81befdfa1b0b11c450b3815dbd24e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.45/SLES_528.45_BG_00.png"
+      },
+      "gameId": "SLES_528.45"
+    },
+    {
+      "path": "PS2/SLES_528.45/SLES_528.45_BG_01.png",
+      "kind": "background",
+      "bytes": 100193,
+      "width": 640,
+      "height": 480,
+      "sha256": "62f34c881dd5878304bf2ff6375c0d779b73b98dab50795c6736db3335833e26",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.45/SLES_528.45_BG_01.png"
+      },
+      "gameId": "SLES_528.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GADGET & GADGETINIS"
+}

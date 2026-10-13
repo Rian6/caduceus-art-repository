@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.67",
+  "cover": {
+    "path": "PS2/SLPM_550.67/SLPM_550.67_COV.png",
+    "kind": "cover",
+    "bytes": 116466,
+    "width": 192,
+    "height": 272,
+    "sha256": "157e914ce40e91d534b12d27dbda09d1351ebf4c5fc5f71ffe88bc8a22e0d5a4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55067.jpg"
+    },
+    "gameId": "SLPM_550.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KOIHIME MUSOU [LIMITED EDITION]"
+}

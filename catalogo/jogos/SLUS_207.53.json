@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_207.53",
+  "cover": {
+    "path": "PS2/SLUS_207.53/SLUS_207.53_COV.png",
+    "kind": "cover",
+    "bytes": 108233,
+    "width": 192,
+    "height": 272,
+    "sha256": "ee3492d4cb2e9184d024baee9af073f86765343b2b1b6cd5ccdb88daa51521b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20753.jpg"
+    },
+    "gameId": "SLUS_207.53"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.53/SLUS_207.53_ICO.png",
+    "kind": "disc",
+    "bytes": 34569,
+    "width": 256,
+    "height": 256,
+    "sha256": "ae1ab33d5eba2ac8e2157bd38a4902430325437d7f3af6460e7c3247534fe1fc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.53_ICO.png"
+    },
+    "gameId": "SLUS_207.53"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.53/SLUS_207.53_BG.png",
+    "kind": "background",
+    "bytes": 160996,
+    "width": 640,
+    "height": 480,
+    "sha256": "0cf4c971931ed08fce49fcec5c5858b6ee3b5989cba3d01039f69b13ab47f863",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.53/SLUS_207.53_BG_00.png"
+    },
+    "gameId": "SLUS_207.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.53/SLUS_207.53_BG.png",
+      "kind": "background",
+      "bytes": 160996,
+      "width": 640,
+      "height": 480,
+      "sha256": "0cf4c971931ed08fce49fcec5c5858b6ee3b5989cba3d01039f69b13ab47f863",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.53/SLUS_207.53_BG_00.png"
+      },
+      "gameId": "SLUS_207.53"
+    },
+    {
+      "path": "PS2/SLUS_207.53/SLUS_207.53_BG_01.png",
+      "kind": "background",
+      "bytes": 129134,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac83a1422d7e2879c4254e55798160e6731c91aefcd5afcbb2888fef92750927",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.53/SLUS_207.53_BG_01.png"
+      },
+      "gameId": "SLUS_207.53"
+    },
+    {
+      "path": "PS2/SLUS_207.53/SLUS_207.53_BG_02.png",
+      "kind": "background",
+      "bytes": 185894,
+      "width": 640,
+      "height": 480,
+      "sha256": "54a5ca158dd209138064dd5a277f145fb53a3e70698409a6212121c5cd0bfa18",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.53/SLUS_207.53_BG_02.png"
+      },
+      "gameId": "SLUS_207.53"
+    },
+    {
+      "path": "PS2/SLUS_207.53/SLUS_207.53_BG_03.png",
+      "kind": "background",
+      "bytes": 173156,
+      "width": 640,
+      "height": 480,
+      "sha256": "0427434b6b1efdb94305c29b64f893617c121d0b698a4365fb690b95c4d1cb16",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.53/SLUS_207.53_BG_03.png"
+      },
+      "gameId": "SLUS_207.53"
+    },
+    {
+      "path": "PS2/SLUS_207.53/SLUS_207.53_BG_04.png",
+      "kind": "background",
+      "bytes": 198774,
+      "width": 640,
+      "height": 480,
+      "sha256": "48237bca70c84d80b390f3c786486dc13b8c89912b0ba85127902a1928cf0353",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.53/SLUS_207.53_BG_04.png"
+      },
+      "gameId": "SLUS_207.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEDAL OF HONOR - RISING SUN"
+}

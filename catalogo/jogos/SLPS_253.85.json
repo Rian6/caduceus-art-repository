@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.85",
+  "cover": {
+    "path": "PS2/SLPS_253.85/SLPS_253.85_COV.png",
+    "kind": "cover",
+    "bytes": 38810,
+    "width": 192,
+    "height": 272,
+    "sha256": "85db4a95de489f93ee8614eb1c63dd5e7a5c29a3ed2906465d553a3a37962373",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25385.jpg"
+    },
+    "gameId": "SLPS_253.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FRIENDS - SEISHUN NO KAGAYAKI"
+}

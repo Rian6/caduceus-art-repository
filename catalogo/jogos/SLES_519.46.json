@@ -1,0 +1,25 @@
+{
+  "id": "SLES_519.46",
+  "cover": {
+    "path": "PS2/SLES_519.46/SLES_519.46_COV.png",
+    "kind": "cover",
+    "bytes": 104597,
+    "width": 192,
+    "height": 272,
+    "sha256": "61a5d8e0614a2d72016cfca7dcc5a6a8efe06e64fca2a13e6ee9bffc6d7f31e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51946.jpg"
+    },
+    "gameId": "SLES_519.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Robin Hood - Defender of the Crown"
+}

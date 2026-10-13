@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_211.23",
+  "cover": {
+    "path": "PS2/SLUS_211.23/SLUS_211.23_COV.png",
+    "kind": "cover",
+    "bytes": 81842,
+    "width": 192,
+    "height": 272,
+    "sha256": "b3c1e3269cbf34572896229b5b260effaa7298720c4bcd363fbb1367ac406b54",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21123.jpg"
+    },
+    "gameId": "SLUS_211.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Ball Z - Budokai 3 (Limited Edition)"
+}

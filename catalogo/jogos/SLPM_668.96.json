@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.96",
+  "cover": {
+    "path": "PS2/SLPM_668.96/SLPM_668.96_COV.png",
+    "kind": "cover",
+    "bytes": 107705,
+    "width": 192,
+    "height": 272,
+    "sha256": "5e6a0b8c278ba7ba3803f24e3907f0bc7387b57b89f17b34713a4c787d869798",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66896.jpg"
+    },
+    "gameId": "SLPM_668.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PIA CARROT E YOUKOSO!! G.O. SUMMER FAIR"
+}

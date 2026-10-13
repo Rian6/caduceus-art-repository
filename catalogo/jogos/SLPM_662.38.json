@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.38",
+  "cover": {
+    "path": "PS2/SLPM_662.38/SLPM_662.38_COV.png",
+    "kind": "cover",
+    "bytes": 103830,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b99a370261ef40b2733343fedc8376e86c2fd70fde27125d559b0cb8f5cd4d4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66238.jpg"
+    },
+    "gameId": "SLPM_662.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OTOMETEKI KOI KAKUMEI - LOVE REVO!!"
+}

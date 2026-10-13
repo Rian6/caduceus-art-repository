@@ -1,0 +1,65 @@
+{
+  "id": "SLES_548.88",
+  "cover": {
+    "path": "PS2/SLES_548.88/SLES_548.88_COV.png",
+    "kind": "cover",
+    "bytes": 90325,
+    "width": 192,
+    "height": 272,
+    "sha256": "5aba6ab363e1f30df0c373fb0865459674c6375e1edef2ca501c9fb96f1961bc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54888.jpg"
+    },
+    "gameId": "SLES_548.88"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.88/SLES_548.88_ICO.png",
+    "kind": "disc",
+    "bytes": 12618,
+    "width": 128,
+    "height": 128,
+    "sha256": "32962b0ffb7ae97eb77822b0b24ba18db24034153e093ed948c871d38d95b446",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.88_ICO.png"
+    },
+    "gameId": "SLES_548.88"
+  },
+  "background": {
+    "path": "PS2/SLES_548.88/SLES_548.88_BG.png",
+    "kind": "background",
+    "bytes": 151791,
+    "width": 640,
+    "height": 480,
+    "sha256": "5f15611c061e07de2fd27f03503159cb49e7dbe3d8f3ce547df0026eb1431556",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.88/SLES_548.88_BG_00.png"
+    },
+    "gameId": "SLES_548.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.88/SLES_548.88_BG.png",
+      "kind": "background",
+      "bytes": 151791,
+      "width": 640,
+      "height": 480,
+      "sha256": "5f15611c061e07de2fd27f03503159cb49e7dbe3d8f3ce547df0026eb1431556",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.88/SLES_548.88_BG_00.png"
+      },
+      "gameId": "SLES_548.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Biker 2"
+}

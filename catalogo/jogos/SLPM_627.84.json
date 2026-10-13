@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.84",
+  "cover": {
+    "path": "PS2/SLPM_627.84/SLPM_627.84_COV.png",
+    "kind": "cover",
+    "bytes": 112931,
+    "width": 192,
+    "height": 272,
+    "sha256": "22460e2c1dac2d9615cc61a5a0f7610543ad5ed549ef0bfc026a93485e6cc29e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62784.jpg"
+    },
+    "gameId": "SLPM_627.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAO NO NAI TSUKI - SELECT STORY"
+}

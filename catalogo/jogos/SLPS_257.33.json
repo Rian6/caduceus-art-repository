@@ -1,0 +1,104 @@
+{
+  "id": "SLPS_257.33",
+  "cover": {
+    "path": "PS2/SLPS_257.33/SLPS_257.33_COV.png",
+    "kind": "cover",
+    "bytes": 121130,
+    "width": 192,
+    "height": 272,
+    "sha256": "e7fd5914affacb46afb436d3d43eef034f1a9f5cb7c8ce7520e9ddbb1ba85228",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25733.jpg"
+    },
+    "gameId": "SLPS_257.33"
+  },
+  "disc": {
+    "path": "PS2/SLPS_257.33/SLPS_257.33_ICO.png",
+    "kind": "disc",
+    "bytes": 9777,
+    "width": 128,
+    "height": 128,
+    "sha256": "e27a82853aa1ee2de0a991c13450ef921412756f0311c80ca14c01601027cee8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_257.33_ICO.png"
+    },
+    "gameId": "SLPS_257.33"
+  },
+  "background": {
+    "path": "PS2/SLPS_257.33/SLPS_257.33_BG.png",
+    "kind": "background",
+    "bytes": 226182,
+    "width": 640,
+    "height": 480,
+    "sha256": "a15b43bb472b9765b465379e7f4eea27be0e9d53e0b0dec6d351637fa3ef18fa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.33/SLPS_257.33_BG_00.png"
+    },
+    "gameId": "SLPS_257.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.33/SLPS_257.33_BG.png",
+      "kind": "background",
+      "bytes": 226182,
+      "width": 640,
+      "height": 480,
+      "sha256": "a15b43bb472b9765b465379e7f4eea27be0e9d53e0b0dec6d351637fa3ef18fa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.33/SLPS_257.33_BG_00.png"
+      },
+      "gameId": "SLPS_257.33"
+    },
+    {
+      "path": "PS2/SLPS_257.33/SLPS_257.33_BG_01.png",
+      "kind": "background",
+      "bytes": 210239,
+      "width": 640,
+      "height": 480,
+      "sha256": "ec626bdb353c44b55eb2e38cf509675c7cc3a35a6f1dc9b20af6efd0da7bdd00",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.33/SLPS_257.33_BG_01.png"
+      },
+      "gameId": "SLPS_257.33"
+    },
+    {
+      "path": "PS2/SLPS_257.33/SLPS_257.33_BG_02.png",
+      "kind": "background",
+      "bytes": 215802,
+      "width": 640,
+      "height": 480,
+      "sha256": "d31a3986c873577e2ffa7391e576637b90ae7a4d8c78d6f0bf1950fcb5903781",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.33/SLPS_257.33_BG_02.png"
+      },
+      "gameId": "SLPS_257.33"
+    },
+    {
+      "path": "PS2/SLPS_257.33/SLPS_257.33_BG_03.png",
+      "kind": "background",
+      "bytes": 233484,
+      "width": 640,
+      "height": 480,
+      "sha256": "3abc4b827ae14e496ba592068fdd5491026bfd7c3a223c222bc26b98742f331d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.33/SLPS_257.33_BG_03.png"
+      },
+      "gameId": "SLPS_257.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Robot Taisen OG: Original Generations"
+}

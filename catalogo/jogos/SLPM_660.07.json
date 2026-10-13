@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.07",
+  "cover": {
+    "path": "PS2/SLPM_660.07/SLPM_660.07_COV.png",
+    "kind": "cover",
+    "bytes": 90427,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b626c23f661651428068357cd612d751ba08d961a1d9fb1409b6ef9ecabc006",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66007.jpg"
+    },
+    "gameId": "SLPM_660.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zoids Tactics"
+}

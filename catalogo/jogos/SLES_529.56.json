@@ -1,0 +1,65 @@
+{
+  "id": "SLES_529.56",
+  "cover": {
+    "path": "PS2/SLES_529.56/SLES_529.56_COV.png",
+    "kind": "cover",
+    "bytes": 101909,
+    "width": 192,
+    "height": 272,
+    "sha256": "0aa7a27d95364e271e8581f4b0badae512aac845e97d67d21acad3a1046198b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52956.jpg"
+    },
+    "gameId": "SLES_529.56"
+  },
+  "disc": {
+    "path": "PS2/SLES_529.56/SLES_529.56_ICO.png",
+    "kind": "disc",
+    "bytes": 11636,
+    "width": 128,
+    "height": 128,
+    "sha256": "6f09f3d5547d03ec02da4847d447f577957a9c0d8e52071f1e82669af22c912b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_529.56_ICO.png"
+    },
+    "gameId": "SLES_529.56"
+  },
+  "background": {
+    "path": "PS2/SLES_529.56/SLES_529.56_BG.png",
+    "kind": "background",
+    "bytes": 172005,
+    "width": 640,
+    "height": 480,
+    "sha256": "44abd2a3479bc9cd38ec0b027571183f262f548e4c35490026a9fb75c12a4991",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.56/SLES_529.56_BG_00.png"
+    },
+    "gameId": "SLES_529.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.56/SLES_529.56_BG.png",
+      "kind": "background",
+      "bytes": 172005,
+      "width": 640,
+      "height": 480,
+      "sha256": "44abd2a3479bc9cd38ec0b027571183f262f548e4c35490026a9fb75c12a4991",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.56/SLES_529.56_BG_00.png"
+      },
+      "gameId": "SLES_529.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Action Girlz Racing"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_214.89",
+  "cover": {
+    "path": "PS2/SLUS_214.89/SLUS_214.89_COV.png",
+    "kind": "cover",
+    "bytes": 112021,
+    "width": 192,
+    "height": 272,
+    "sha256": "7bf43c13dbcce89dffea4eef0e313d431580e37e35105fdc4f34b9ae81619ca7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21489.jpg"
+    },
+    "gameId": "SLUS_214.89"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.89/SLUS_214.89_ICO.png",
+    "kind": "disc",
+    "bytes": 31488,
+    "width": 256,
+    "height": 256,
+    "sha256": "abf656cc3c7fa14ea53fd14e94694cbc96d34f48e45458bba223ef1c206d10aa",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.89_ICO.png"
+    },
+    "gameId": "SLUS_214.89"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.89/SLUS_214.89_BG.png",
+    "kind": "background",
+    "bytes": 241776,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a2fed1eae4b1284c9e8fafefacd82e02ffdf4b6df7d237d91888a227689e1fa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.89/SLUS_214.89_BG_00.png"
+    },
+    "gameId": "SLUS_214.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.89/SLUS_214.89_BG.png",
+      "kind": "background",
+      "bytes": 241776,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a2fed1eae4b1284c9e8fafefacd82e02ffdf4b6df7d237d91888a227689e1fa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.89/SLUS_214.89_BG_00.png"
+      },
+      "gameId": "SLUS_214.89"
+    },
+    {
+      "path": "PS2/SLUS_214.89/SLUS_214.89_BG_01.png",
+      "kind": "background",
+      "bytes": 210916,
+      "width": 640,
+      "height": 480,
+      "sha256": "1aad69856dcc39df3f9e7f8dac89fcae97a7be89904e40e9ee7c0a21797f2156",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.89/SLUS_214.89_BG_01.png"
+      },
+      "gameId": "SLUS_214.89"
+    },
+    {
+      "path": "PS2/SLUS_214.89/SLUS_214.89_BG_02.png",
+      "kind": "background",
+      "bytes": 190730,
+      "width": 640,
+      "height": 480,
+      "sha256": "42b36e8481c448561f3d8717d45fa16c82a0598cecef140400a80b2bc21b8e19",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.89/SLUS_214.89_BG_02.png"
+      },
+      "gameId": "SLUS_214.89"
+    },
+    {
+      "path": "PS2/SLUS_214.89/SLUS_214.89_BG_03.png",
+      "kind": "background",
+      "bytes": 214147,
+      "width": 640,
+      "height": 480,
+      "sha256": "a5d2118aaf7109fb0720709442b717ef572e317b6f07314f0497e885ca7c8e7f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.89/SLUS_214.89_BG_03.png"
+      },
+      "gameId": "SLUS_214.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": ".Hack - G.U. Vol.3 - Redemption"
+}

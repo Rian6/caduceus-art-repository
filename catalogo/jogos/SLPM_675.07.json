@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_675.07",
+  "cover": {
+    "path": "PS2/SLPM_675.07/SLPM_675.07_COV.png",
+    "kind": "cover",
+    "bytes": 61830,
+    "width": 192,
+    "height": 272,
+    "sha256": "f5a4f0592551a24d341a333fd2798a7ec162be94bee56255cbe5da835726a21e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_675.07/SLPM_675.07_COV.png"
+    },
+    "gameId": "SLPM_675.07"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_675.07/SLPM_675.07_BG.png",
+    "kind": "background",
+    "bytes": 212535,
+    "width": 640,
+    "height": 480,
+    "sha256": "18377d50fccb74ab56c50c8fea71399e6335818edc40a8a1c9ea6e33e2a71c93",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_675.07/SLPM_675.07_BG_00.png"
+    },
+    "gameId": "SLPM_675.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_675.07/SLPM_675.07_BG.png",
+      "kind": "background",
+      "bytes": 212535,
+      "width": 640,
+      "height": 480,
+      "sha256": "18377d50fccb74ab56c50c8fea71399e6335818edc40a8a1c9ea6e33e2a71c93",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_675.07/SLPM_675.07_BG_00.png"
+      },
+      "gameId": "SLPM_675.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Onimusha Wsrlords"
+}

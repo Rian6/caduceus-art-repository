@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_219.31",
+  "cover": {
+    "path": "PS2/SLUS_219.31/SLUS_219.31_COV.png",
+    "kind": "cover",
+    "bytes": 87704,
+    "width": 192,
+    "height": 272,
+    "sha256": "fb892210d091ea4ef4433b93aabc582ba3ad42d5521919681c3212cf693c351a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21931.jpg"
+    },
+    "gameId": "SLUS_219.31"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.31/SLUS_219.31_ICO.png",
+    "kind": "disc",
+    "bytes": 9702,
+    "width": 128,
+    "height": 128,
+    "sha256": "3815543dc2db804d75200a431f0245171bbcbe24c4fc3fbbfa0ae645443046d4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLUS_219.31_ICO.png"
+    },
+    "gameId": "SLUS_219.31"
+  },
+  "background": {
+    "path": "PS2/SLUS_219.31/SLUS_219.31_BG.png",
+    "kind": "background",
+    "bytes": 209245,
+    "width": 640,
+    "height": 480,
+    "sha256": "66a25bb6a78737bc4a3d1262161ac27d041638d86f59d58c6417e571973d4706",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_219.31/SLUS_219.31_BG_00.png"
+    },
+    "gameId": "SLUS_219.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_219.31/SLUS_219.31_BG.png",
+      "kind": "background",
+      "bytes": 209245,
+      "width": 640,
+      "height": 480,
+      "sha256": "66a25bb6a78737bc4a3d1262161ac27d041638d86f59d58c6417e571973d4706",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.31/SLUS_219.31_BG_00.png"
+      },
+      "gameId": "SLUS_219.31"
+    },
+    {
+      "path": "PS2/SLUS_219.31/SLUS_219.31_BG_01.png",
+      "kind": "background",
+      "bytes": 152147,
+      "width": 640,
+      "height": 480,
+      "sha256": "5715e691e922ccd8983b05fe77bb9448e4df41546e1b4cec262aba58b294199b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.31/SLUS_219.31_BG_01.png"
+      },
+      "gameId": "SLUS_219.31"
+    },
+    {
+      "path": "PS2/SLUS_219.31/SLUS_219.31_BG_02.png",
+      "kind": "background",
+      "bytes": 173319,
+      "width": 640,
+      "height": 480,
+      "sha256": "1a7bd461778735a7381ac2bc280b1b75aee1baa0311b313884f70d7d80d4eb71",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.31/SLUS_219.31_BG_02.png"
+      },
+      "gameId": "SLUS_219.31"
+    },
+    {
+      "path": "PS2/SLUS_219.31/SLUS_219.31_BG_03.png",
+      "kind": "background",
+      "bytes": 187160,
+      "width": 640,
+      "height": 480,
+      "sha256": "12584c1e7f865005ab6385f536b6a522e25b6fba4afe564346f641f69f801637",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.31/SLUS_219.31_BG_03.png"
+      },
+      "gameId": "SLUS_219.31"
+    },
+    {
+      "path": "PS2/SLUS_219.31/SLUS_219.31_BG_04.png",
+      "kind": "background",
+      "bytes": 199361,
+      "width": 640,
+      "height": 480,
+      "sha256": "6aa9ae5a8f00235a476ccafcf52b996730e3191ef81897d0678dd846d2037866",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.31/SLUS_219.31_BG_04.png"
+      },
+      "gameId": "SLUS_219.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar Toy Story 3"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.83",
+  "cover": {
+    "path": "PS2/SLPM_654.83/SLPM_654.83_COV.png",
+    "kind": "cover",
+    "bytes": 90149,
+    "width": 192,
+    "height": 272,
+    "sha256": "3bcb8c9f35a37c2ecb044b34f59617c8eb9b0065a9acad10556fe830f34b288e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65483.jpg"
+    },
+    "gameId": "SLPM_654.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SECRET WEAPONS OVER NORMANDY"
+}

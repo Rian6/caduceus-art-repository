@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_211.27",
+  "cover": {
+    "path": "PS2/SLUS_211.27/SLUS_211.27_COV.png",
+    "kind": "cover",
+    "bytes": 103774,
+    "width": 192,
+    "height": 272,
+    "sha256": "0e0178bb9f29cd5b20bb507af53d7750adecb3086a5d016069302be6693a5f44",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21127.jpg"
+    },
+    "gameId": "SLUS_211.27"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.27/SLUS_211.27_ICO.png",
+    "kind": "disc",
+    "bytes": 33716,
+    "width": 256,
+    "height": 256,
+    "sha256": "1821e3910ecd4d631f0d17b2ac90061fa0617fabcc45acafd0d3908e9ec4475c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.27_ICO.png"
+    },
+    "gameId": "SLUS_211.27"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.27/SLUS_211.27_BG.png",
+    "kind": "background",
+    "bytes": 210150,
+    "width": 640,
+    "height": 480,
+    "sha256": "81bbe141bb499caff1271d24ff1cf27e60bb51121d725b257787a98a599ebaa2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.27/SLUS_211.27_BG_00.png"
+    },
+    "gameId": "SLUS_211.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.27/SLUS_211.27_BG.png",
+      "kind": "background",
+      "bytes": 210150,
+      "width": 640,
+      "height": 480,
+      "sha256": "81bbe141bb499caff1271d24ff1cf27e60bb51121d725b257787a98a599ebaa2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.27/SLUS_211.27_BG_00.png"
+      },
+      "gameId": "SLUS_211.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Brave: The Search for Spirit Dancer"
+}

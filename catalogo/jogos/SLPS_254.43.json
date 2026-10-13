@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.43",
+  "cover": {
+    "path": "PS2/SLPS_254.43/SLPS_254.43_COV.png",
+    "kind": "cover",
+    "bytes": 105895,
+    "width": 192,
+    "height": 272,
+    "sha256": "d09ab007c69d5de34e5989fe5ac775bf738be20de268fcc44517c1be9440a5cc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25443.jpg"
+    },
+    "gameId": "SLPS_254.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAWA NO NUSHI TSURI - WONDERFUL JOURNEY"
+}

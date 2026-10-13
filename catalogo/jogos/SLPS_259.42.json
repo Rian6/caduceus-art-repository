@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.42",
+  "cover": {
+    "path": "PS2/SLPS_259.42/SLPS_259.42_COV.png",
+    "kind": "cover",
+    "bytes": 115050,
+    "width": 192,
+    "height": 272,
+    "sha256": "a26e77920d10f8e98d5610ac116ef8e80ee28d73e0bde010292f42398c13282a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25942.jpg"
+    },
+    "gameId": "SLPS_259.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hisshou Pachinko*Pachi-Slot Kouryoku Series Vol. 14 - CR Shinseiki Evangelion: Saigo no Mono"
+}

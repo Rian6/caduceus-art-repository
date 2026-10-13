@@ -1,0 +1,91 @@
+{
+  "id": "SLES_531.73",
+  "cover": {
+    "path": "PS2/SLES_531.73/SLES_531.73_COV.png",
+    "kind": "cover",
+    "bytes": 92634,
+    "width": 192,
+    "height": 272,
+    "sha256": "245d370b338796db904b5e1f9f41f2634415e48bbdf4bf3c64863be95ade6e88",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53173.jpg"
+    },
+    "gameId": "SLES_531.73"
+  },
+  "disc": {
+    "path": "PS2/SLES_531.73/SLES_531.73_ICO.png",
+    "kind": "disc",
+    "bytes": 11044,
+    "width": 128,
+    "height": 128,
+    "sha256": "d02ea1fe76df56e31d0854a930092fc6d2f9c0444bea15ced238eec8053a69f8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_531.73_ICO.png"
+    },
+    "gameId": "SLES_531.73"
+  },
+  "background": {
+    "path": "PS2/SLES_531.73/SLES_531.73_BG.png",
+    "kind": "background",
+    "bytes": 188700,
+    "width": 640,
+    "height": 480,
+    "sha256": "38165088caca6ecb52fe6a391ceca7249376a132b029b94138fa388d95e3cfd1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.73/SLES_531.73_BG_00.png"
+    },
+    "gameId": "SLES_531.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.73/SLES_531.73_BG.png",
+      "kind": "background",
+      "bytes": 188700,
+      "width": 640,
+      "height": 480,
+      "sha256": "38165088caca6ecb52fe6a391ceca7249376a132b029b94138fa388d95e3cfd1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.73/SLES_531.73_BG_00.png"
+      },
+      "gameId": "SLES_531.73"
+    },
+    {
+      "path": "PS2/SLES_531.73/SLES_531.73_BG_01.png",
+      "kind": "background",
+      "bytes": 178620,
+      "width": 640,
+      "height": 480,
+      "sha256": "f064c033b38aa5aecd44f528da055b175dc0e7a2bb3717f79b31a486b2e3c7d0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.73/SLES_531.73_BG_01.png"
+      },
+      "gameId": "SLES_531.73"
+    },
+    {
+      "path": "PS2/SLES_531.73/SLES_531.73_BG_02.png",
+      "kind": "background",
+      "bytes": 158238,
+      "width": 640,
+      "height": 480,
+      "sha256": "a5c18c19e677b07c78107dee07abfc5e9802007f0c780e8edb35cc8083f94fb1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.73/SLES_531.73_BG_02.png"
+      },
+      "gameId": "SLES_531.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Truck Racing 2"
+}

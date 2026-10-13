@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.37",
+  "cover": {
+    "path": "PS2/SLPS_203.37/SLPS_203.37_COV.png",
+    "kind": "cover",
+    "bytes": 90153,
+    "width": 192,
+    "height": 272,
+    "sha256": "795aafc899e9f704e3e852b2767ca06445e7b9aeb0123429484d65e49dfa2b9d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20337.jpg"
+    },
+    "gameId": "SLPS_203.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Slotter Up Core Alpha - Shuku Tora! Yuushou Panel!"
+}

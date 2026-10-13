@@ -1,0 +1,25 @@
+{
+  "id": "SCES_508.50",
+  "cover": {
+    "path": "PS2/SCES_508.50/SCES_508.50_COV.png",
+    "kind": "cover",
+    "bytes": 72567,
+    "width": 192,
+    "height": 272,
+    "sha256": "c2a49a5afb7249a36af67f6ef8eec64dd335efa9e2b6f499dc77ab7b1a086d2b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50850.jpg"
+    },
+    "gameId": "SCES_508.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo - Concept 2002 Tokyo-Geneva"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_656.99",
+  "cover": {
+    "path": "PS2/SLPM_656.99/SLPM_656.99_COV.png",
+    "kind": "cover",
+    "bytes": 99793,
+    "width": 192,
+    "height": 272,
+    "sha256": "b37c3b9c46c48c124fd0b3ec12a0ea7102673bdc12805fc9a7293af48309aa8c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65699.jpg"
+    },
+    "gameId": "SLPM_656.99"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_656.99/SLPM_656.99_BG.png",
+    "kind": "background",
+    "bytes": 181218,
+    "width": 640,
+    "height": 480,
+    "sha256": "a74f82ae1500932d078c82b38714adb0198dd47825721b0bc190c0b0ffbf9028",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_656.99/SLPM_656.99_BG_00.png"
+    },
+    "gameId": "SLPM_656.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_656.99/SLPM_656.99_BG.png",
+      "kind": "background",
+      "bytes": 181218,
+      "width": 640,
+      "height": 480,
+      "sha256": "a74f82ae1500932d078c82b38714adb0198dd47825721b0bc190c0b0ffbf9028",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.99/SLPM_656.99_BG_00.png"
+      },
+      "gameId": "SLPM_656.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Viewtiful Joe - Aratanaru Kibo"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_624.62",
+  "cover": {
+    "path": "PS2/SLPM_624.62/SLPM_624.62_COV.png",
+    "kind": "cover",
+    "bytes": 100737,
+    "width": 192,
+    "height": 272,
+    "sha256": "f1a64ff597a2fcfeec017bb2cc26cd99aa62b6dfa680c9e93921747abe7b8d38",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62462.jpg"
+    },
+    "gameId": "SLPM_624.62"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.62/SLPM_624.62_BG.png",
+    "kind": "background",
+    "bytes": 170636,
+    "width": 640,
+    "height": 480,
+    "sha256": "3c8160dd505cb99a77e7aae240fefadc62acedab2c80593eab10f2dee236984d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.62/SLPM_624.62_BG_00.png"
+    },
+    "gameId": "SLPM_624.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.62/SLPM_624.62_BG.png",
+      "kind": "background",
+      "bytes": 170636,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c8160dd505cb99a77e7aae240fefadc62acedab2c80593eab10f2dee236984d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.62/SLPM_624.62_BG_00.png"
+      },
+      "gameId": "SLPM_624.62"
+    },
+    {
+      "path": "PS2/SLPM_624.62/SLPM_624.62_BG_01.png",
+      "kind": "background",
+      "bytes": 182262,
+      "width": 640,
+      "height": 480,
+      "sha256": "f664c393015b88cbd8665225a76e3c290888940c9335e29e5c9618586b4ed64f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.62/SLPM_624.62_BG_01.png"
+      },
+      "gameId": "SLPM_624.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRADIUS V"
+}

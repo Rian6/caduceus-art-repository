@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.39",
+  "cover": {
+    "path": "PS2/SLPS_204.39/SLPS_204.39_COV.png",
+    "kind": "cover",
+    "bytes": 95073,
+    "width": 192,
+    "height": 272,
+    "sha256": "56f0ecf0d94c85686b4c0b4765b8339fed9784f72ace0263c294dad772d419fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20439.jpg"
+    },
+    "gameId": "SLPS_204.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.079 - THE PARTY QUIZ: AKKO NI OMAKASE"
+}

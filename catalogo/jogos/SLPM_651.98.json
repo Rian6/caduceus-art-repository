@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.98",
+  "cover": {
+    "path": "PS2/SLPM_651.98/SLPM_651.98_COV.png",
+    "kind": "cover",
+    "bytes": 88156,
+    "width": 192,
+    "height": 272,
+    "sha256": "15872437f070e422b6351244e069ad3001c5a27466e973edc62ac8aee4b920d7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65198.jpg"
+    },
+    "gameId": "SLPM_651.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shaun Palmer's Pro Snowboarder"
+}

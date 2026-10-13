@@ -1,0 +1,103 @@
+{
+  "id": "SCES_509.16",
+  "cover": {
+    "path": "PS2/SCES_509.16/SCES_509.16_COV.png",
+    "kind": "cover",
+    "bytes": 93922,
+    "width": 192,
+    "height": 272,
+    "sha256": "8af2317c5db0f7a6793673cbe44cf949ef4eaac8282d192d7db8831fafa6ec8b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50916.jpg"
+    },
+    "gameId": "SCES_509.16"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_509.16/SCES_509.16_BG.png",
+    "kind": "background",
+    "bytes": 202104,
+    "width": 640,
+    "height": 480,
+    "sha256": "9a8191e6b66e882b379b9797a6da1685fc0c77b3d6a5e99182d9b89a5b8ce97c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_509.16/SCES_509.16_BG_00.png"
+    },
+    "gameId": "SCES_509.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_509.16/SCES_509.16_BG.png",
+      "kind": "background",
+      "bytes": 202104,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a8191e6b66e882b379b9797a6da1685fc0c77b3d6a5e99182d9b89a5b8ce97c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.16/SCES_509.16_BG_00.png"
+      },
+      "gameId": "SCES_509.16"
+    },
+    {
+      "path": "PS2/SCES_509.16/SCES_509.16_BG_01.png",
+      "kind": "background",
+      "bytes": 144048,
+      "width": 640,
+      "height": 480,
+      "sha256": "41d85c8e80e4cfee32fdd1a3795211ff17fc8565845772b48bded93a5e4216dc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.16/SCES_509.16_BG_01.png"
+      },
+      "gameId": "SCES_509.16"
+    },
+    {
+      "path": "PS2/SCES_509.16/SCES_509.16_BG_02.png",
+      "kind": "background",
+      "bytes": 166405,
+      "width": 640,
+      "height": 480,
+      "sha256": "14d065b38dfe1d60d0d78e47b208541e81aa0ff2194c9c49d55d96f63ead70e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.16/SCES_509.16_BG_02.png"
+      },
+      "gameId": "SCES_509.16"
+    },
+    {
+      "path": "PS2/SCES_509.16/SCES_509.16_BG_03.png",
+      "kind": "background",
+      "bytes": 176692,
+      "width": 640,
+      "height": 480,
+      "sha256": "bc7aeaf4302f87da3f38ecbc74a533f466158f95cd6803997c99d9b0933ed017",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.16/SCES_509.16_BG_03.png"
+      },
+      "gameId": "SCES_509.16"
+    },
+    {
+      "path": "PS2/SCES_509.16/SCES_509.16_BG_04.png",
+      "kind": "background",
+      "bytes": 150905,
+      "width": 640,
+      "height": 480,
+      "sha256": "8937efe6e30b1b86fa6b716341c070bc5d3ea9ffa10615d65e2de5b785341ecd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.16/SCES_509.16_BG_04.png"
+      },
+      "gameId": "SCES_509.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RATCHET & CLANK"
+}

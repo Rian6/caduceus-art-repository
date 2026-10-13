@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.38",
+  "cover": {
+    "path": "PS2/SLKA_250.38/SLKA_250.38_COV.png",
+    "kind": "cover",
+    "bytes": 100904,
+    "width": 192,
+    "height": 272,
+    "sha256": "6cf8791d9ab0be52ae407828179138cce57a04e816a362099c28697b68de8533",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25038.jpg"
+    },
+    "gameId": "SLKA_250.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUN SURVIVOR 4 - BIOHAZARD - HEROES NEVER DIE"
+}

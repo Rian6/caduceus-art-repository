@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.51",
+  "cover": {
+    "path": "PS2/SLPS_200.51/SLPS_200.51_COV.png",
+    "kind": "cover",
+    "bytes": 111475,
+    "width": 192,
+    "height": 272,
+    "sha256": "713b270ab8bcf874f570a67b255c2a193d74b7a8e016ef3a2d517529fc45bf78",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20051.jpg"
+    },
+    "gameId": "SLPS_200.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hissatsu Pachinko Station V - Honoo no Bakushougun"
+}

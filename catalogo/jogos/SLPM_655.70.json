@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.70",
+  "cover": {
+    "path": "PS2/SLPM_655.70/SLPM_655.70_COV.png",
+    "kind": "cover",
+    "bytes": 86359,
+    "width": 192,
+    "height": 272,
+    "sha256": "b3de371161434bc74e7fb54c6c114b8ab003ae7296cd1d9dea39764fcdf71909",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65570.jpg"
+    },
+    "gameId": "SLPM_655.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Frogger (Konami Dendouu Collection)"
+}

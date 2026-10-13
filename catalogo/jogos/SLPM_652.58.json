@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.58",
+  "cover": {
+    "path": "PS2/SLPM_652.58/SLPM_652.58_COV.png",
+    "kind": "cover",
+    "bytes": 100575,
+    "width": 192,
+    "height": 272,
+    "sha256": "a498fdee79816ee76beae76f0556083ef4dab3e70bf59618eb0434466f42d983",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65258.jpg"
+    },
+    "gameId": "SLPM_652.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EX JINSEI GAME II [LIMITED EDITION]"
+}

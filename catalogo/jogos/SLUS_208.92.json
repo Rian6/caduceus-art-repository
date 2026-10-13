@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_208.92",
+  "cover": {
+    "path": "PS2/SLUS_208.92/SLUS_208.92_COV.png",
+    "kind": "cover",
+    "bytes": 96750,
+    "width": 192,
+    "height": 272,
+    "sha256": "620b62ac34e70fb492486e15ecd911814574b3b138741510f10f304fffd8f1f7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20892.jpg"
+    },
+    "gameId": "SLUS_208.92"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.92/SLUS_208.92_ICO.png",
+    "kind": "disc",
+    "bytes": 33984,
+    "width": 256,
+    "height": 256,
+    "sha256": "0c94bdad862e97883f2635cb4e062528c49ccc144ef2fbedfee1314573b13b71",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.92_ICO.png"
+    },
+    "gameId": "SLUS_208.92"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.92/SLUS_208.92_BG.png",
+    "kind": "background",
+    "bytes": 143314,
+    "width": 640,
+    "height": 480,
+    "sha256": "6c018e43c9ac333d715e8909a6ba6cb4fbd8926e047d9bc15630cab8664db501",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.92/SLUS_208.92_BG_00.png"
+    },
+    "gameId": "SLUS_208.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.92/SLUS_208.92_BG.png",
+      "kind": "background",
+      "bytes": 143314,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c018e43c9ac333d715e8909a6ba6cb4fbd8926e047d9bc15630cab8664db501",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.92/SLUS_208.92_BG_00.png"
+      },
+      "gameId": "SLUS_208.92"
+    },
+    {
+      "path": "PS2/SLUS_208.92/SLUS_208.92_BG_01.png",
+      "kind": "background",
+      "bytes": 186772,
+      "width": 640,
+      "height": 480,
+      "sha256": "1d15fae07f492addd93dd56cc37880c4886f063b79892c17e14dc61da80c73cf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.92/SLUS_208.92_BG_01.png"
+      },
+      "gameId": "SLUS_208.92"
+    },
+    {
+      "path": "PS2/SLUS_208.92/SLUS_208.92_BG_02.png",
+      "kind": "background",
+      "bytes": 132567,
+      "width": 640,
+      "height": 480,
+      "sha256": "7f1bcc7823bffecc50a0752e120035b67fa0e598bfac1d6663fd6bbb7dda0556",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.92/SLUS_208.92_BG_02.png"
+      },
+      "gameId": "SLUS_208.92"
+    },
+    {
+      "path": "PS2/SLUS_208.92/SLUS_208.92_BG_03.png",
+      "kind": "background",
+      "bytes": 120306,
+      "width": 640,
+      "height": 480,
+      "sha256": "8d711c037f3383b184351edc352bc5ad76faabf4fd484376cdea3e0bc5f24fe3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.92/SLUS_208.92_BG_03.png"
+      },
+      "gameId": "SLUS_208.92"
+    },
+    {
+      "path": "PS2/SLUS_208.92/SLUS_208.92_BG_04.png",
+      "kind": "background",
+      "bytes": 123596,
+      "width": 640,
+      "height": 480,
+      "sha256": "1fb0ce121fc4e2fb3fc1c950c25c4134c564ff02423948eed3cc7b54eec03c5d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.92/SLUS_208.92_BG_04.png"
+      },
+      "gameId": "SLUS_208.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Xenosaga Episode II: Jenseits von Gut und Böse (Disc 1)"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_211.94",
+  "cover": {
+    "path": "PS2/SLUS_211.94/SLUS_211.94_COV.png",
+    "kind": "cover",
+    "bytes": 108882,
+    "width": 192,
+    "height": 272,
+    "sha256": "035b721a58ba3303d3412f79790fda403c48d82432d1f645f2f91d76bf516af9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21194.jpg"
+    },
+    "gameId": "SLUS_211.94"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.94/SLUS_211.94_ICO.png",
+    "kind": "disc",
+    "bytes": 33703,
+    "width": 256,
+    "height": 256,
+    "sha256": "d9e42a7430ab1e086cf238d4961d210894ba708e15685f36f51d23b86c7ccad0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.94_ICO.png"
+    },
+    "gameId": "SLUS_211.94"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.94/SLUS_211.94_BG.png",
+    "kind": "background",
+    "bytes": 167511,
+    "width": 640,
+    "height": 480,
+    "sha256": "20dd3b874d04f87ac67bc789d6b5a3d62bd2f51f8b817c8eec18109df6df895f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.94/SLUS_211.94_BG_00.png"
+    },
+    "gameId": "SLUS_211.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.94/SLUS_211.94_BG.png",
+      "kind": "background",
+      "bytes": 167511,
+      "width": 640,
+      "height": 480,
+      "sha256": "20dd3b874d04f87ac67bc789d6b5a3d62bd2f51f8b817c8eec18109df6df895f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.94/SLUS_211.94_BG_00.png"
+      },
+      "gameId": "SLUS_211.94"
+    },
+    {
+      "path": "PS2/SLUS_211.94/SLUS_211.94_BG_01.png",
+      "kind": "background",
+      "bytes": 188328,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3428f3a2375dcfeb01c62a4e52b57e4aeedd257f6c831dc7531689595550cfb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.94/SLUS_211.94_BG_01.png"
+      },
+      "gameId": "SLUS_211.94"
+    },
+    {
+      "path": "PS2/SLUS_211.94/SLUS_211.94_BG_02.png",
+      "kind": "background",
+      "bytes": 187938,
+      "width": 640,
+      "height": 480,
+      "sha256": "e78112071047bdc25e72dc61f8c83a661956ebb53f023bec5b9c3ffa7979156b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.94/SLUS_211.94_BG_02.png"
+      },
+      "gameId": "SLUS_211.94"
+    },
+    {
+      "path": "PS2/SLUS_211.94/SLUS_211.94_BG_03.png",
+      "kind": "background",
+      "bytes": 190652,
+      "width": 640,
+      "height": 480,
+      "sha256": "c9e46dd6ac5f5b113a8031bc6c93253c427b8a21bd669092bd1549a71d9c96ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.94/SLUS_211.94_BG_03.png"
+      },
+      "gameId": "SLUS_211.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Phantasy Star Universe"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.78",
+  "cover": {
+    "path": "PS2/SLPM_552.78/SLPM_552.78_COV.png",
+    "kind": "cover",
+    "bytes": 113230,
+    "width": 192,
+    "height": 272,
+    "sha256": "441b29429e0d92746da7d4b5e60957668a19bb0a296c7b564f27f43b590a170e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55278.jpg"
+    },
+    "gameId": "SLPM_552.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Hime 2 Honoo: Hyakubana, Senran Tatsukaze no Gotoku"
+}

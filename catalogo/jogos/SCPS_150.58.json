@@ -1,0 +1,129 @@
+{
+  "id": "SCPS_150.58",
+  "cover": {
+    "path": "PS2/SCPS_150.58/SCPS_150.58_COV.png",
+    "kind": "cover",
+    "bytes": 85518,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c28a52a38f0b9b8635892312a188438173b98b41a3509d8087f1b1120d1bd2e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15058.jpg"
+    },
+    "gameId": "SCPS_150.58"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.58/SCPS_150.58_BG.png",
+    "kind": "background",
+    "bytes": 112219,
+    "width": 640,
+    "height": 480,
+    "sha256": "9518fc2893d2ce7c7ee997beaa7e010965d9361b185ceb1988a1770bb5a67c03",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.58/SCPS_150.58_BG_00.png"
+    },
+    "gameId": "SCPS_150.58"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.58/SCPS_150.58_BG.png",
+      "kind": "background",
+      "bytes": 112219,
+      "width": 640,
+      "height": 480,
+      "sha256": "9518fc2893d2ce7c7ee997beaa7e010965d9361b185ceb1988a1770bb5a67c03",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.58/SCPS_150.58_BG_00.png"
+      },
+      "gameId": "SCPS_150.58"
+    },
+    {
+      "path": "PS2/SCPS_150.58/SCPS_150.58_BG_01.png",
+      "kind": "background",
+      "bytes": 117923,
+      "width": 640,
+      "height": 480,
+      "sha256": "e5676ce44c708a67320c6680e8ebdabee29a4edfd01b2324a827054263df398c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.58/SCPS_150.58_BG_01.png"
+      },
+      "gameId": "SCPS_150.58"
+    },
+    {
+      "path": "PS2/SCPS_150.58/SCPS_150.58_BG_02.png",
+      "kind": "background",
+      "bytes": 102910,
+      "width": 640,
+      "height": 480,
+      "sha256": "7ed47713158e4b69d0a64b80567fe80d149f9142c0d21597390fe825c876df59",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.58/SCPS_150.58_BG_02.png"
+      },
+      "gameId": "SCPS_150.58"
+    },
+    {
+      "path": "PS2/SCPS_150.58/SCPS_150.58_BG_03.png",
+      "kind": "background",
+      "bytes": 119954,
+      "width": 640,
+      "height": 480,
+      "sha256": "835e46293796ca23394c44a88ce3db32d37c4e02deaa6490be8b96e215339117",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.58/SCPS_150.58_BG_03.png"
+      },
+      "gameId": "SCPS_150.58"
+    },
+    {
+      "path": "PS2/SCPS_150.58/SCPS_150.58_BG_04.png",
+      "kind": "background",
+      "bytes": 138355,
+      "width": 640,
+      "height": 480,
+      "sha256": "301e5aed1adada3198e35e5cc72651e49a0d45fa76dae524f1336c849dfe5378",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.58/SCPS_150.58_BG_04.png"
+      },
+      "gameId": "SCPS_150.58"
+    },
+    {
+      "path": "PS2/SCPS_150.58/SCPS_150.58_BG_05.png",
+      "kind": "background",
+      "bytes": 238318,
+      "width": 640,
+      "height": 480,
+      "sha256": "3d30eb32f813558c5876e3e446760f325f230be6b8688c6bcde21aab843ee03c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.58/SCPS_150.58_BG_05.png"
+      },
+      "gameId": "SCPS_150.58"
+    },
+    {
+      "path": "PS2/SCPS_150.58/SCPS_150.58_BG_06.png",
+      "kind": "background",
+      "bytes": 149336,
+      "width": 640,
+      "height": 480,
+      "sha256": "c693a63b3f940baa7b9994b06c285fa42a060f71d4065d543b5807a6b16f4e7f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.58/SCPS_150.58_BG_06.png"
+      },
+      "gameId": "SCPS_150.58"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Arc the Lad - Generation"
+}

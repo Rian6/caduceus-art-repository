@@ -1,0 +1,25 @@
+{
+  "id": "SLES_549.82",
+  "cover": {
+    "path": "PS2/SLES_549.82/SLES_549.82_COV.png",
+    "kind": "cover",
+    "bytes": 56120,
+    "width": 192,
+    "height": 272,
+    "sha256": "8aba1006b54d190a286d6752434a0de07685d047f04da03dcfaf721b63dd2acb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.82/SLES_549.82_COV.png"
+    },
+    "gameId": "SLES_549.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bob The Builder - Festival of Fun"
+}

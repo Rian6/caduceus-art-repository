@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.19",
+  "cover": {
+    "path": "PS2/SLPM_669.19/SLPM_669.19_COV.png",
+    "kind": "cover",
+    "bytes": 111472,
+    "width": 192,
+    "height": 272,
+    "sha256": "6662ee3448866a94335ebd6a460e926bb447de01db2066f1b9c898b4477e3b27",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66919.jpg"
+    },
+    "gameId": "SLPM_669.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KYUUKETSU KITAN MOONTIES"
+}

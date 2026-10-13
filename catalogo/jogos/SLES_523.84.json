@@ -1,0 +1,103 @@
+{
+  "id": "SLES_523.84",
+  "cover": {
+    "path": "PS2/SLES_523.84/SLES_523.84_COV.png",
+    "kind": "cover",
+    "bytes": 86289,
+    "width": 192,
+    "height": 272,
+    "sha256": "8cfce80ce272bd196647e5e6249ada6ffe46cfa27ebb3b038e5db10de3ef97bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52384.jpg"
+    },
+    "gameId": "SLES_523.84"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_523.84/SLES_523.84_BG.png",
+    "kind": "background",
+    "bytes": 203053,
+    "width": 640,
+    "height": 480,
+    "sha256": "bc218b591c339914dac60487a8df0bfaeca436b2b70d691fcaf944d0486adb6b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.84/SLES_523.84_BG_00.png"
+    },
+    "gameId": "SLES_523.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.84/SLES_523.84_BG.png",
+      "kind": "background",
+      "bytes": 203053,
+      "width": 640,
+      "height": 480,
+      "sha256": "bc218b591c339914dac60487a8df0bfaeca436b2b70d691fcaf944d0486adb6b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.84/SLES_523.84_BG_00.png"
+      },
+      "gameId": "SLES_523.84"
+    },
+    {
+      "path": "PS2/SLES_523.84/SLES_523.84_BG_01.png",
+      "kind": "background",
+      "bytes": 207901,
+      "width": 640,
+      "height": 480,
+      "sha256": "e6ced736be2c5903fbfd883c76418e93242b13a51eae12c731c44ac5a24654e9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.84/SLES_523.84_BG_01.png"
+      },
+      "gameId": "SLES_523.84"
+    },
+    {
+      "path": "PS2/SLES_523.84/SLES_523.84_BG_02.png",
+      "kind": "background",
+      "bytes": 209061,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3fd740a1b0a310a420717ffdfc03d31872c7203b793ea8e7caf606bf18a8e3b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.84/SLES_523.84_BG_02.png"
+      },
+      "gameId": "SLES_523.84"
+    },
+    {
+      "path": "PS2/SLES_523.84/SLES_523.84_BG_03.png",
+      "kind": "background",
+      "bytes": 249634,
+      "width": 640,
+      "height": 480,
+      "sha256": "f99655ad711ea34ba9f548a76212e31aa8e3fae5ee85982a53de3ec9279d8a1c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.84/SLES_523.84_BG_03.png"
+      },
+      "gameId": "SLES_523.84"
+    },
+    {
+      "path": "PS2/SLES_523.84/SLES_523.84_BG_04.png",
+      "kind": "background",
+      "bytes": 206421,
+      "width": 640,
+      "height": 480,
+      "sha256": "784b6fc6ea7c47f771d4c187d83e013067ef0e51d13c56721cb461bf306448c8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.84/SLES_523.84_BG_04.png"
+      },
+      "gameId": "SLES_523.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PROJECT ZERO II - CRIMSON BUTTERFLY"
+}

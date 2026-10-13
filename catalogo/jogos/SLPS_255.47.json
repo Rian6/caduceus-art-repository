@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.47",
+  "cover": {
+    "path": "PS2/SLPS_255.47/SLPS_255.47_COV.png",
+    "kind": "cover",
+    "bytes": 95201,
+    "width": 192,
+    "height": 272,
+    "sha256": "7996d14cb600a0f3c7df08b44efd9bb6aa9421ba9ad5e95c654e6611e39c6c18",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25547.jpg"
+    },
+    "gameId": "SLPS_255.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ICHIGO MASHIMARO"
+}

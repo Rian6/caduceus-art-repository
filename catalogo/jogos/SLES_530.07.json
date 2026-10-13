@@ -1,0 +1,64 @@
+{
+  "id": "SLES_530.07",
+  "cover": {
+    "path": "PS2/SLES_530.07/SLES_530.07_COV.png",
+    "kind": "cover",
+    "bytes": 100093,
+    "width": 192,
+    "height": 272,
+    "sha256": "3443666ae745c9c9b6f723d011cc98dde9c08261c84372d43c3553a5ab1a4727",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53007.jpg"
+    },
+    "gameId": "SLES_530.07"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_530.07/SLES_530.07_BG.png",
+    "kind": "background",
+    "bytes": 134937,
+    "width": 640,
+    "height": 480,
+    "sha256": "bd7930fd55bb9c7ce8d7172f45a4ebd96db7519f374925fe646ba65e63780796",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.07/SLES_530.07_BG_00.png"
+    },
+    "gameId": "SLES_530.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.07/SLES_530.07_BG.png",
+      "kind": "background",
+      "bytes": 134937,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd7930fd55bb9c7ce8d7172f45a4ebd96db7519f374925fe646ba65e63780796",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.07/SLES_530.07_BG_00.png"
+      },
+      "gameId": "SLES_530.07"
+    },
+    {
+      "path": "PS2/SLES_530.07/SLES_530.07_BG_01.png",
+      "kind": "background",
+      "bytes": 142929,
+      "width": 640,
+      "height": 480,
+      "sha256": "b7d0eac4c3bc6f7b7e963da614664d80151143d3182dc03474d1df566ad91232",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.07/SLES_530.07_BG_01.png"
+      },
+      "gameId": "SLES_530.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Splinter Cell - Chaos Theory"
+}

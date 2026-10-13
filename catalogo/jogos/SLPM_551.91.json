@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.91",
+  "cover": {
+    "path": "PS2/SLPM_551.91/SLPM_551.91_COV.png",
+    "kind": "cover",
+    "bytes": 94691,
+    "width": 192,
+    "height": 272,
+    "sha256": "ac8c9b71f775881a5e61fa368776d946c765b790f04566d0169193fb872c9f39",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55191.jpg"
+    },
+    "gameId": "SLPM_551.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "L2 - Love x Loop"
+}

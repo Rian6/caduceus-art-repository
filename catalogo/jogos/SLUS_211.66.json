@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_211.66",
+  "cover": {
+    "path": "PS2/SLUS_211.66/SLUS_211.66_COV.png",
+    "kind": "cover",
+    "bytes": 101426,
+    "width": 192,
+    "height": 272,
+    "sha256": "a67262e2736a7480d6741751dbf376abe7b3003821ec6f53ee7200bbe8ed4962",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21166.jpg"
+    },
+    "gameId": "SLUS_211.66"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.66/SLUS_211.66_ICO.png",
+    "kind": "disc",
+    "bytes": 23399,
+    "width": 256,
+    "height": 256,
+    "sha256": "0842e24f8fa2573fecf069e325fbcab26ee5eeb449876c9f2adaa15c45b20215",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.66_ICO.png"
+    },
+    "gameId": "SLUS_211.66"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.66/SLUS_211.66_BG.png",
+    "kind": "background",
+    "bytes": 200345,
+    "width": 640,
+    "height": 480,
+    "sha256": "b7172d080d8e1be5360412152ce86a95ca3d253d44eb509b21565f5c803afa3d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.66/SLUS_211.66_BG_00.png"
+    },
+    "gameId": "SLUS_211.66"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.66/SLUS_211.66_BG.png",
+      "kind": "background",
+      "bytes": 200345,
+      "width": 640,
+      "height": 480,
+      "sha256": "b7172d080d8e1be5360412152ce86a95ca3d253d44eb509b21565f5c803afa3d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.66/SLUS_211.66_BG_00.png"
+      },
+      "gameId": "SLUS_211.66"
+    },
+    {
+      "path": "PS2/SLUS_211.66/SLUS_211.66_BG_01.png",
+      "kind": "background",
+      "bytes": 197196,
+      "width": 640,
+      "height": 480,
+      "sha256": "453e18e5141fe21cb05b05d123ee7bda7440fedef84f67af0880c91d6a39f41d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.66/SLUS_211.66_BG_01.png"
+      },
+      "gameId": "SLUS_211.66"
+    },
+    {
+      "path": "PS2/SLUS_211.66/SLUS_211.66_BG_02.png",
+      "kind": "background",
+      "bytes": 192378,
+      "width": 640,
+      "height": 480,
+      "sha256": "6d7259891f0f799586afba356d0521766d3d203f4e1a3a85d99bfa3f9ab74872",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.66/SLUS_211.66_BG_02.png"
+      },
+      "gameId": "SLUS_211.66"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fullmetal Alchemist 2: Curse of the Crimson Elixir"
+}

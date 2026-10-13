@@ -1,0 +1,25 @@
+{
+  "id": "SLES_533.70",
+  "cover": {
+    "path": "PS2/SLES_533.70/SLES_533.70_COV.png",
+    "kind": "cover",
+    "bytes": 88663,
+    "width": 192,
+    "height": 272,
+    "sha256": "afd5e18027eab7f2412a3a3f1fc5c3a50b5140fa0923ebdec893a0bd1828d096",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53370.jpg"
+    },
+    "gameId": "SLES_533.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Real World Golf"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SLES_515.23",
+  "cover": {
+    "path": "PS2/SLES_515.23/SLES_515.23_COV.png",
+    "kind": "cover",
+    "bytes": 90366,
+    "width": 192,
+    "height": 272,
+    "sha256": "0461466811c311631ae15e5fd5aeee9fc63e38547f4d5d48d82d8c2c1f1b978a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51523.jpg"
+    },
+    "gameId": "SLES_515.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_515.23/SLES_515.23_BG.png",
+    "kind": "background",
+    "bytes": 217677,
+    "width": 640,
+    "height": 480,
+    "sha256": "4e02030d2314d9a6f7f41dea5146d3971b1d6dd1490bcabab26d3b225e81bd3a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_515.23/SLES_515.23_BG_00.png"
+    },
+    "gameId": "SLES_515.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_515.23/SLES_515.23_BG.png",
+      "kind": "background",
+      "bytes": 217677,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e02030d2314d9a6f7f41dea5146d3971b1d6dd1490bcabab26d3b225e81bd3a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.23/SLES_515.23_BG_00.png"
+      },
+      "gameId": "SLES_515.23"
+    },
+    {
+      "path": "PS2/SLES_515.23/SLES_515.23_BG_01.png",
+      "kind": "background",
+      "bytes": 191426,
+      "width": 640,
+      "height": 480,
+      "sha256": "4f94bed5793ec7cd425aafa89a9f6a6ef7ac56e5f9400aa1df939a8f26104d6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.23/SLES_515.23_BG_01.png"
+      },
+      "gameId": "SLES_515.23"
+    },
+    {
+      "path": "PS2/SLES_515.23/SLES_515.23_BG_02.png",
+      "kind": "background",
+      "bytes": 174177,
+      "width": 640,
+      "height": 480,
+      "sha256": "a679bddc189fdbd8cce2bd876ba9f0334386b13113477e557d42c6eba624e6e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.23/SLES_515.23_BG_02.png"
+      },
+      "gameId": "SLES_515.23"
+    },
+    {
+      "path": "PS2/SLES_515.23/SLES_515.23_BG_03.png",
+      "kind": "background",
+      "bytes": 210616,
+      "width": 640,
+      "height": 480,
+      "sha256": "717edfe86c0c85ce3b4598ee9c403a31f50e4a5b6ed9d2f0420c38b5ff94c36c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.23/SLES_515.23_BG_03.png"
+      },
+      "gameId": "SLES_515.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Conflict: Desert Storm II"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_103.80",
+  "cover": {
+    "path": "PS2/SCUS_103.80/SCUS_103.80_COV.png",
+    "kind": "cover",
+    "bytes": 92352,
+    "width": 192,
+    "height": 272,
+    "sha256": "990f4da64adeb7ce28c49981f100cc7750b7c47da56a23b982bdef6bac8ba8c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-10380.jpg"
+    },
+    "gameId": "SCUS_103.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGO BATMAN - THE VIDEOGAME [LIMITED EDITION BUNDLE]"
+}

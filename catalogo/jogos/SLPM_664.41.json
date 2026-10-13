@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.41",
+  "cover": {
+    "path": "PS2/SLPM_664.41/SLPM_664.41_COV.png",
+    "kind": "cover",
+    "bytes": 97648,
+    "width": 192,
+    "height": 272,
+    "sha256": "67695e86febd378436c0b6be68d03b726dcdfbf52516ec54d61020915aa62bcb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66441.jpg"
+    },
+    "gameId": "SLPM_664.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OOOKUKI"
+}

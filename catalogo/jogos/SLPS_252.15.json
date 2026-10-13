@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.15",
+  "cover": {
+    "path": "PS2/SLPS_252.15/SLPS_252.15_COV.png",
+    "kind": "cover",
+    "bytes": 89166,
+    "width": 192,
+    "height": 272,
+    "sha256": "eb1aa5e33fc82b2fad85bae686f8f38c4a7687ddb2a7ec4cf6d4b72a933dfbf2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25215.jpg"
+    },
+    "gameId": "SLPS_252.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "IRIS [LIMITED EDITION]"
+}

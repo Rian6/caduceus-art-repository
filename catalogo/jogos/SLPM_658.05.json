@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_658.05",
+  "cover": {
+    "path": "PS2/SLPM_658.05/SLPM_658.05_COV.png",
+    "kind": "cover",
+    "bytes": 108008,
+    "width": 192,
+    "height": 272,
+    "sha256": "0fbf08207a0f210e2f0766d2b27d70030d423765a1573a7bb1b71cb907ba227e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65805.jpg"
+    },
+    "gameId": "SLPM_658.05"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_658.05/SLPM_658.05_BG.png",
+    "kind": "background",
+    "bytes": 236169,
+    "width": 640,
+    "height": 480,
+    "sha256": "00ddc9bfa580fb7339e169b060ffc9cafee1c44e8e900fd54e6c84b73ea755a1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_658.05/SLPM_658.05_BG_00.png"
+    },
+    "gameId": "SLPM_658.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_658.05/SLPM_658.05_BG.png",
+      "kind": "background",
+      "bytes": 236169,
+      "width": 640,
+      "height": 480,
+      "sha256": "00ddc9bfa580fb7339e169b060ffc9cafee1c44e8e900fd54e6c84b73ea755a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.05/SLPM_658.05_BG_00.png"
+      },
+      "gameId": "SLPM_658.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Godzilla: Kaijuu Dairantou: Chikyuu Saishuu Kessen"
+}

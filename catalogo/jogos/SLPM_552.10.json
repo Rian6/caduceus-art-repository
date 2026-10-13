@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.10",
+  "cover": {
+    "path": "PS2/SLPM_552.10/SLPM_552.10_COV.png",
+    "kind": "cover",
+    "bytes": 80262,
+    "width": 192,
+    "height": 272,
+    "sha256": "482252f6a3e0c92a9baf83c79124478224177006aa8d41b55c30f22c2b5becd0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55210.jpg"
+    },
+    "gameId": "SLPM_552.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XII International: Zodiac Job System (Ultimate Hits)"
+}

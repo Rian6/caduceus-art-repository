@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_663.87",
+  "cover": {
+    "path": "PS2/SLPM_663.87/SLPM_663.87_COV.png",
+    "kind": "cover",
+    "bytes": 93433,
+    "width": 192,
+    "height": 272,
+    "sha256": "68025b8e5432bfefff30aca6d90b0db79565a54e1bb8f2a303526a514e76ad27",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66387.jpg"
+    },
+    "gameId": "SLPM_663.87"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_663.87/SLPM_663.87_BG.png",
+    "kind": "background",
+    "bytes": 174659,
+    "width": 640,
+    "height": 480,
+    "sha256": "7edd417a3064164bc8d356abc9ac6c140afcfeb8e092a36e1b9a5b8e5f16caa0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_663.87/SLPM_663.87_BG_00.png"
+    },
+    "gameId": "SLPM_663.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_663.87/SLPM_663.87_BG.png",
+      "kind": "background",
+      "bytes": 174659,
+      "width": 640,
+      "height": 480,
+      "sha256": "7edd417a3064164bc8d356abc9ac6c140afcfeb8e092a36e1b9a5b8e5f16caa0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_663.87/SLPM_663.87_BG_00.png"
+      },
+      "gameId": "SLPM_663.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Bakusou Dekotora Densetsu (Spike the Best)"
+}

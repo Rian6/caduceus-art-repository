@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.20",
+  "cover": {
+    "path": "PS2/SLPS_255.20/SLPS_255.20_COV.png",
+    "kind": "cover",
+    "bytes": 98059,
+    "width": 192,
+    "height": 272,
+    "sha256": "3c7b6378b08fb4590928299e725dbaf1fc3390e03a0abeaf08658531e877743d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25520.jpg"
+    },
+    "gameId": "SLPS_255.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUNDAM TRUE ODYSSEY - USHINAWARETA G NO DENSETSU"
+}

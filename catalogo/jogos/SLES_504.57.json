@@ -1,0 +1,64 @@
+{
+  "id": "SLES_504.57",
+  "cover": {
+    "path": "PS2/SLES_504.57/SLES_504.57_COV.png",
+    "kind": "cover",
+    "bytes": 88762,
+    "width": 192,
+    "height": 272,
+    "sha256": "bab1d1e60c4ac172d2c584262fd8d6a80758013941a52654a2bb7000a5a5bb9f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50457.jpg"
+    },
+    "gameId": "SLES_504.57"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_504.57/SLES_504.57_BG.png",
+    "kind": "background",
+    "bytes": 146327,
+    "width": 640,
+    "height": 480,
+    "sha256": "861e81da8083ca988ae14f989fbd05ae5ae63032161ea9859c2d3355cb65365e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_504.57/SLES_504.57_BG_00.png"
+    },
+    "gameId": "SLES_504.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_504.57/SLES_504.57_BG.png",
+      "kind": "background",
+      "bytes": 146327,
+      "width": 640,
+      "height": 480,
+      "sha256": "861e81da8083ca988ae14f989fbd05ae5ae63032161ea9859c2d3355cb65365e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.57/SLES_504.57_BG_00.png"
+      },
+      "gameId": "SLES_504.57"
+    },
+    {
+      "path": "PS2/SLES_504.57/SLES_504.57_BG_01.png",
+      "kind": "background",
+      "bytes": 179741,
+      "width": 640,
+      "height": 480,
+      "sha256": "1af0a8f4a1029fe0a498f4771ce681d6813971b8b79ae508dcf176e4df3ca46f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.57/SLES_504.57_BG_01.png"
+      },
+      "gameId": "SLES_504.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rayman M"
+}

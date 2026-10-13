@@ -1,0 +1,25 @@
+{
+  "id": "SLES_541.09",
+  "cover": {
+    "path": "PS2/SLES_541.09/SLES_541.09_COV.png",
+    "kind": "cover",
+    "bytes": 111384,
+    "width": 192,
+    "height": 272,
+    "sha256": "288d781c9358e95f736e2eca501857d8781972c4c305a87ae2bff16f0fc06468",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54109.jpg"
+    },
+    "gameId": "SLES_541.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Offroad Extreme! Special Edition"
+}

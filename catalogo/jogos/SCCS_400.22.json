@@ -1,0 +1,25 @@
+{
+  "id": "SCCS_400.22",
+  "cover": {
+    "path": "PS2/SCCS_400.22/SCCS_400.22_COV.png",
+    "kind": "cover",
+    "bytes": 55960,
+    "width": 192,
+    "height": 272,
+    "sha256": "91f8ea1642ab2b21060822de7246478dcb7242646f47b3c49d46823dc2bfd238",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCCS_400.22/SCCS_400.22_COV.png"
+    },
+    "gameId": "SCCS_400.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 8 - Asia Championship"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.31",
+  "cover": {
+    "path": "PS2/SLPS_250.31/SLPS_250.31_COV.png",
+    "kind": "cover",
+    "bytes": 104260,
+    "width": 192,
+    "height": 272,
+    "sha256": "fe41e31375c977d5608e5ae7860771a71f9759cab51a786de08e98bc05469bc8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25031.jpg"
+    },
+    "gameId": "SLPS_250.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Might and Magic: Day of the Destroyer"
+}

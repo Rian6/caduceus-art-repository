@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.55",
+  "cover": {
+    "path": "PS2/SLPS_259.55/SLPS_259.55_COV.png",
+    "kind": "cover",
+    "bytes": 119646,
+    "width": 192,
+    "height": 272,
+    "sha256": "e58655326aafe18864cd96957bfa8b5fe00606ab6556b021b927feabbb4d09af",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25955.jpg"
+    },
+    "gameId": "SLPS_259.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MOE MOE 2 - JI DAISENRYAKU 2 [PREMIUM EDITION]"
+}

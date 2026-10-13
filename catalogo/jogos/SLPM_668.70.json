@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.70",
+  "cover": {
+    "path": "PS2/SLPM_668.70/SLPM_668.70_COV.png",
+    "kind": "cover",
+    "bytes": 93757,
+    "width": 192,
+    "height": 272,
+    "sha256": "21ed5a86c0b63bf54b6439359b78fd216ef5cd0bb1c3a5d5f48945edacb55caa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66870.jpg"
+    },
+    "gameId": "SLPM_668.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HOSHIIRO NO OKURIMONO [FIRST PRINT SPECIAL LIMITED EDITION]"
+}

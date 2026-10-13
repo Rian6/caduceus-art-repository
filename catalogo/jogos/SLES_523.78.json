@@ -1,0 +1,65 @@
+{
+  "id": "SLES_523.78",
+  "cover": {
+    "path": "PS2/SLES_523.78/SLES_523.78_COV.png",
+    "kind": "cover",
+    "bytes": 78986,
+    "width": 192,
+    "height": 272,
+    "sha256": "19e808eecbaf329ad702c08d88727ffc046d41c34ef9d647284f323a08083ec5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52378.jpg"
+    },
+    "gameId": "SLES_523.78"
+  },
+  "disc": {
+    "path": "PS2/SLES_523.78/SLES_523.78_ICO.png",
+    "kind": "disc",
+    "bytes": 11338,
+    "width": 128,
+    "height": 128,
+    "sha256": "3afd82804580dcce1b967776b1e476365435e42aeffa45e13c792e94f74eb8d3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_523.78_ICO.png"
+    },
+    "gameId": "SLES_523.78"
+  },
+  "background": {
+    "path": "PS2/SLES_523.78/SLES_523.78_BG.png",
+    "kind": "background",
+    "bytes": 147879,
+    "width": 640,
+    "height": 480,
+    "sha256": "76677da0c6ebdad439e11ba04d0466754e847945ab116fe405fcc449939d6b28",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.78/SLES_523.78_BG_00.png"
+    },
+    "gameId": "SLES_523.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.78/SLES_523.78_BG.png",
+      "kind": "background",
+      "bytes": 147879,
+      "width": 640,
+      "height": 480,
+      "sha256": "76677da0c6ebdad439e11ba04d0466754e847945ab116fe405fcc449939d6b28",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.78/SLES_523.78_BG_00.png"
+      },
+      "gameId": "SLES_523.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EURO RALLY CHAMPION"
+}

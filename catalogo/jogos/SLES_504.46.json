@@ -1,0 +1,90 @@
+{
+  "id": "SLES_504.46",
+  "cover": {
+    "path": "PS2/SLES_504.46/SLES_504.46_COV.png",
+    "kind": "cover",
+    "bytes": 63237,
+    "width": 192,
+    "height": 272,
+    "sha256": "2651d960cc42a3c822d5810d3b4fa43f73ea13ca3d3f2fb9a10f4e261f99ea62",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50446.jpg"
+    },
+    "gameId": "SLES_504.46"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_504.46/SLES_504.46_BG.png",
+    "kind": "background",
+    "bytes": 175265,
+    "width": 640,
+    "height": 480,
+    "sha256": "db4f0f7b12bb54a4f6c23d7bf52629fbeb2fa1cc4d7c4cbd7aa1da54e2a9654c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_504.46/SLES_504.46_BG_00.png"
+    },
+    "gameId": "SLES_504.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_504.46/SLES_504.46_BG.png",
+      "kind": "background",
+      "bytes": 175265,
+      "width": 640,
+      "height": 480,
+      "sha256": "db4f0f7b12bb54a4f6c23d7bf52629fbeb2fa1cc4d7c4cbd7aa1da54e2a9654c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.46/SLES_504.46_BG_00.png"
+      },
+      "gameId": "SLES_504.46"
+    },
+    {
+      "path": "PS2/SLES_504.46/SLES_504.46_BG_01.png",
+      "kind": "background",
+      "bytes": 127753,
+      "width": 640,
+      "height": 480,
+      "sha256": "85039ae0c2af46e1f1089c9d1402e07377a3e6f45954662c211ec38ac09bb2e1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.46/SLES_504.46_BG_01.png"
+      },
+      "gameId": "SLES_504.46"
+    },
+    {
+      "path": "PS2/SLES_504.46/SLES_504.46_BG_02.png",
+      "kind": "background",
+      "bytes": 182761,
+      "width": 640,
+      "height": 480,
+      "sha256": "82312a75df46566f1b1be642927dd1a495b3a32d647a7a06d7e839ff52e0556b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.46/SLES_504.46_BG_02.png"
+      },
+      "gameId": "SLES_504.46"
+    },
+    {
+      "path": "PS2/SLES_504.46/SLES_504.46_BG_03.png",
+      "kind": "background",
+      "bytes": 165443,
+      "width": 640,
+      "height": 480,
+      "sha256": "5e3c6eb6e308eb53581747b8c5311fe22949fca72fb09200fe7c989acf67ce59",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.46/SLES_504.46_BG_03.png"
+      },
+      "gameId": "SLES_504.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shadow Man: 2econd Coming"
+}

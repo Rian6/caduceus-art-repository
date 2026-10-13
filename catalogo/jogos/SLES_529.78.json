@@ -1,0 +1,64 @@
+{
+  "id": "SLES_529.78",
+  "cover": {
+    "path": "PS2/SLES_529.78/SLES_529.78_COV.png",
+    "kind": "cover",
+    "bytes": 99945,
+    "width": 192,
+    "height": 272,
+    "sha256": "d7e366a2215ee99646b186468271d2f4404984fde95845a3fd510be1c225867d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52978.jpg"
+    },
+    "gameId": "SLES_529.78"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_529.78/SLES_529.78_BG.png",
+    "kind": "background",
+    "bytes": 215605,
+    "width": 640,
+    "height": 480,
+    "sha256": "8fb99360c9fa565e850ec03efff0e639298baa7ebb1830cdd65b90cccc3e6f41",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.78/SLES_529.78_BG_00.png"
+    },
+    "gameId": "SLES_529.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.78/SLES_529.78_BG.png",
+      "kind": "background",
+      "bytes": 215605,
+      "width": 640,
+      "height": 480,
+      "sha256": "8fb99360c9fa565e850ec03efff0e639298baa7ebb1830cdd65b90cccc3e6f41",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.78/SLES_529.78_BG_00.png"
+      },
+      "gameId": "SLES_529.78"
+    },
+    {
+      "path": "PS2/SLES_529.78/SLES_529.78_BG_01.png",
+      "kind": "background",
+      "bytes": 225425,
+      "width": 640,
+      "height": 480,
+      "sha256": "42012ee7282132ba79e919693c6e9c34b533994baddd808addc8fcb97e8a8a36",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.78/SLES_529.78_BG_01.png"
+      },
+      "gameId": "SLES_529.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LA PUCELLE - TACTICS"
+}

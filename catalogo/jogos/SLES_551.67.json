@@ -1,0 +1,64 @@
+{
+  "id": "SLES_551.67",
+  "cover": {
+    "path": "PS2/SLES_551.67/SLES_551.67_COV.png",
+    "kind": "cover",
+    "bytes": 106043,
+    "width": 192,
+    "height": 272,
+    "sha256": "b976c0671400d6ea41bdcab66908ed9bf7572341dcef63293272b773bb6ffa70",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55167.jpg"
+    },
+    "gameId": "SLES_551.67"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_551.67/SLES_551.67_BG.png",
+    "kind": "background",
+    "bytes": 226612,
+    "width": 640,
+    "height": 480,
+    "sha256": "18b1457a6b1c8c70c68b327148f55f3e7a511fe26fe613782f3d04f35dbe3d8d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_551.67/SLES_551.67_BG_00.png"
+    },
+    "gameId": "SLES_551.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_551.67/SLES_551.67_BG.png",
+      "kind": "background",
+      "bytes": 226612,
+      "width": 640,
+      "height": 480,
+      "sha256": "18b1457a6b1c8c70c68b327148f55f3e7a511fe26fe613782f3d04f35dbe3d8d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.67/SLES_551.67_BG_00.png"
+      },
+      "gameId": "SLES_551.67"
+    },
+    {
+      "path": "PS2/SLES_551.67/SLES_551.67_BG_01.png",
+      "kind": "background",
+      "bytes": 212026,
+      "width": 640,
+      "height": 480,
+      "sha256": "ae8031f182d63cc5878cb21339ce7e30bc4b05c237ce72c3aa6eeb9b1f277f6b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.67/SLES_551.67_BG_01.png"
+      },
+      "gameId": "SLES_551.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOUL NOMAD & THE WORLD EATERS"
+}

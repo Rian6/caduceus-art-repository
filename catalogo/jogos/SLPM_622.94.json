@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.94",
+  "cover": {
+    "path": "PS2/SLPM_622.94/SLPM_622.94_COV.png",
+    "kind": "cover",
+    "bytes": 101163,
+    "width": 192,
+    "height": 272,
+    "sha256": "47e4a8fdf6d200c060232c2c200def0e5fe812fc2285d1005f60cb96f97077f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62294.jpg"
+    },
+    "gameId": "SLPM_622.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.21 - The Bishoujo Simulation RPG  - Moonlight Tale"
+}

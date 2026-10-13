@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_250.28",
+  "cover": {
+    "path": "PS2/SLPS_250.28/SLPS_250.28_COV.png",
+    "kind": "cover",
+    "bytes": 58563,
+    "width": 192,
+    "height": 272,
+    "sha256": "bab4494486e698547e5bcfe6e1f7681dd2842fa2d218f57c955c0d881f0e17b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25028.jpg"
+    },
+    "gameId": "SLPS_250.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_250.28/SLPS_250.28_BG.png",
+    "kind": "background",
+    "bytes": 30567,
+    "width": 640,
+    "height": 480,
+    "sha256": "356addef490ecb9ee07a23391dee22583bb6a6674192f6b6fb0796cfbc530ebd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.28/SLPS_250.28_BG_00.png"
+    },
+    "gameId": "SLPS_250.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_250.28/SLPS_250.28_BG.png",
+      "kind": "background",
+      "bytes": 30567,
+      "width": 640,
+      "height": 480,
+      "sha256": "356addef490ecb9ee07a23391dee22583bb6a6674192f6b6fb0796cfbc530ebd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.28/SLPS_250.28_BG_00.png"
+      },
+      "gameId": "SLPS_250.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shutokou Battle 0"
+}

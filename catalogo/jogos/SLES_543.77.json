@@ -1,0 +1,25 @@
+{
+  "id": "SLES_543.77",
+  "cover": {
+    "path": "PS2/SLES_543.77/SLES_543.77_COV.png",
+    "kind": "cover",
+    "bytes": 108411,
+    "width": 192,
+    "height": 272,
+    "sha256": "d28683625be2fdea4e6c9844c2b0c33085f9f7b128bc6bc23e3cc1f45ddbd551",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54377.jpg"
+    },
+    "gameId": "SLES_543.77"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nick: Der tierisch verrückte Bauernhof"
+}

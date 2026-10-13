@@ -1,0 +1,25 @@
+{
+  "id": "SLES_522.58",
+  "cover": {
+    "path": "PS2/SLES_522.58/SLES_522.58_COV.png",
+    "kind": "cover",
+    "bytes": 93714,
+    "width": 192,
+    "height": 272,
+    "sha256": "a7852c9ddb4aa2e9b3fb0e2be2a884b524446b8e16e4a32d6203d3e87a768b0d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52258.jpg"
+    },
+    "gameId": "SLES_522.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Romance of the Three Kingdoms VIII"
+}

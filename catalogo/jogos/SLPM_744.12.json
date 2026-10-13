@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_744.12",
+  "cover": {
+    "path": "PS2/SLPM_744.12/SLPM_744.12_COV.png",
+    "kind": "cover",
+    "bytes": 80862,
+    "width": 192,
+    "height": 272,
+    "sha256": "c5e96d1fa2f96761998d67dbbcf2c78c40a071803e60520d4e62ac499532e044",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74412.jpg"
+    },
+    "gameId": "SLPM_744.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KENGO 2 [PLAYSTATION 2 THE BEST]"
+}

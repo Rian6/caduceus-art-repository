@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_510.12",
+  "cover": {
+    "path": "PS2/SCPS_510.12/SCPS_510.12_COV.png",
+    "kind": "cover",
+    "bytes": 102186,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed875d7cb8775c89556da651f7c47e685cef7d5236650192a939a0671a0f4e13",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-51012.jpg"
+    },
+    "gameId": "SCPS_510.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GIGANTIC DRIVE"
+}

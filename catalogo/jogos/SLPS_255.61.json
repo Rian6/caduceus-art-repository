@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.61",
+  "cover": {
+    "path": "PS2/SLPS_255.61/SLPS_255.61_COV.png",
+    "kind": "cover",
+    "bytes": 85014,
+    "width": 192,
+    "height": 272,
+    "sha256": "da232a9318c45baaa5823446e6bf93cb8f9ea73e1e1b6953591815332a427fa9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25561.jpg"
+    },
+    "gameId": "SLPS_255.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Moto GP 4"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_534.91",
+  "cover": {
+    "path": "PS2/SLES_534.91/SLES_534.91_COV.png",
+    "kind": "cover",
+    "bytes": 104227,
+    "width": 192,
+    "height": 272,
+    "sha256": "d92ffdb8711b3c42ff7b37c655ad64b3f9359ca7a5c2c10e43c6d1a584bb3a6a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53491.jpg"
+    },
+    "gameId": "SLES_534.91"
+  },
+  "disc": {
+    "path": "PS2/SLES_534.91/SLES_534.91_ICO.png",
+    "kind": "disc",
+    "bytes": 10757,
+    "width": 128,
+    "height": 128,
+    "sha256": "ddac3916c4367bf691f65e8a5bb00165d7acdb1b6aafcb2e3d444b81bfab379e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_534.91_ICO.png"
+    },
+    "gameId": "SLES_534.91"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Karaoke Stage II"
+}

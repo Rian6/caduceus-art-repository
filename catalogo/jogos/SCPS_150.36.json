@@ -1,0 +1,155 @@
+{
+  "id": "SCPS_150.36",
+  "cover": {
+    "path": "PS2/SCPS_150.36/SCPS_150.36_COV.png",
+    "kind": "cover",
+    "bytes": 97329,
+    "width": 192,
+    "height": 272,
+    "sha256": "58fb9068fc7d7f456db0b1047f470ffe1befa49f27b004c2da6a6a5be3f519fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15036.jpg"
+    },
+    "gameId": "SCPS_150.36"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.36/SCPS_150.36_BG.png",
+    "kind": "background",
+    "bytes": 166440,
+    "width": 640,
+    "height": 480,
+    "sha256": "d4efcc8775560c0beb30088fd91d0e4462bf9439b8dfb6570d56d631c7cdc741",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.36/SCPS_150.36_BG_00.png"
+    },
+    "gameId": "SCPS_150.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.36/SCPS_150.36_BG.png",
+      "kind": "background",
+      "bytes": 166440,
+      "width": 640,
+      "height": 480,
+      "sha256": "d4efcc8775560c0beb30088fd91d0e4462bf9439b8dfb6570d56d631c7cdc741",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.36/SCPS_150.36_BG_00.png"
+      },
+      "gameId": "SCPS_150.36"
+    },
+    {
+      "path": "PS2/SCPS_150.36/SCPS_150.36_BG_01.png",
+      "kind": "background",
+      "bytes": 144051,
+      "width": 640,
+      "height": 480,
+      "sha256": "96836d615957e6ef6fec10bd5e94003a98b0a345ed6dcd669620ca99f1e40408",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.36/SCPS_150.36_BG_01.png"
+      },
+      "gameId": "SCPS_150.36"
+    },
+    {
+      "path": "PS2/SCPS_150.36/SCPS_150.36_BG_02.png",
+      "kind": "background",
+      "bytes": 90371,
+      "width": 640,
+      "height": 480,
+      "sha256": "a395be9cfa7598aaa956ee31a9d46782838e646917a1020008cc270f654519b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.36/SCPS_150.36_BG_02.png"
+      },
+      "gameId": "SCPS_150.36"
+    },
+    {
+      "path": "PS2/SCPS_150.36/SCPS_150.36_BG_03.png",
+      "kind": "background",
+      "bytes": 137900,
+      "width": 640,
+      "height": 480,
+      "sha256": "9e6acc70f824e800ab0faad31eaffb7fe241932f6f817a158a8f96c08ceef2c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.36/SCPS_150.36_BG_03.png"
+      },
+      "gameId": "SCPS_150.36"
+    },
+    {
+      "path": "PS2/SCPS_150.36/SCPS_150.36_BG_04.png",
+      "kind": "background",
+      "bytes": 169590,
+      "width": 640,
+      "height": 480,
+      "sha256": "6de28a331bf28e939edbaec1af735a14612695e83d746047df93686a36a6cf13",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.36/SCPS_150.36_BG_04.png"
+      },
+      "gameId": "SCPS_150.36"
+    },
+    {
+      "path": "PS2/SCPS_150.36/SCPS_150.36_BG_05.png",
+      "kind": "background",
+      "bytes": 138740,
+      "width": 640,
+      "height": 480,
+      "sha256": "7ee0d22836bd016e501a87221267807265e68a6e59ebb4976e0fdc74e8285414",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.36/SCPS_150.36_BG_05.png"
+      },
+      "gameId": "SCPS_150.36"
+    },
+    {
+      "path": "PS2/SCPS_150.36/SCPS_150.36_BG_06.png",
+      "kind": "background",
+      "bytes": 163455,
+      "width": 640,
+      "height": 480,
+      "sha256": "891a5c8490b0335758235ba2498f58f6007a872f19a871c85b75394890f51efe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.36/SCPS_150.36_BG_06.png"
+      },
+      "gameId": "SCPS_150.36"
+    },
+    {
+      "path": "PS2/SCPS_150.36/SCPS_150.36_BG_07.png",
+      "kind": "background",
+      "bytes": 165525,
+      "width": 640,
+      "height": 480,
+      "sha256": "d66927459d563daae83ebcf502938bed0f7738364cfdd0f2bb10a007b2531f04",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.36/SCPS_150.36_BG_07.png"
+      },
+      "gameId": "SCPS_150.36"
+    },
+    {
+      "path": "PS2/SCPS_150.36/SCPS_150.36_BG_08.png",
+      "kind": "background",
+      "bytes": 172033,
+      "width": 640,
+      "height": 480,
+      "sha256": "794502378c72d59e275c04c4afbeb65dcb9610abb59c47f1fa85269e70989e78",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.36/SCPS_150.36_BG_08.png"
+      },
+      "gameId": "SCPS_150.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kaitou Sly Cooper"
+}

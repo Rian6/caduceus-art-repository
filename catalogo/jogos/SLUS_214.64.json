@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_214.64",
+  "cover": {
+    "path": "PS2/SLUS_214.64/SLUS_214.64_COV.png",
+    "kind": "cover",
+    "bytes": 99171,
+    "width": 192,
+    "height": 272,
+    "sha256": "761e25d7f332304f032a7b40e72a9afd99710043388cd281b86176f13357598e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21464.jpg"
+    },
+    "gameId": "SLUS_214.64"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.64/SLUS_214.64_ICO.png",
+    "kind": "disc",
+    "bytes": 31473,
+    "width": 256,
+    "height": 256,
+    "sha256": "3d0f1571901baaa819e499c8736b662ee8045402d8ed452e60e5935f0182bde3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.64_ICO.png"
+    },
+    "gameId": "SLUS_214.64"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.64/SLUS_214.64_BG.png",
+    "kind": "background",
+    "bytes": 157542,
+    "width": 640,
+    "height": 480,
+    "sha256": "8539eac67323ce4de9b944de7c5bd85d70bd7a32e0efcc4e231395af9a9c7d49",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.64/SLUS_214.64_BG_00.png"
+    },
+    "gameId": "SLUS_214.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.64/SLUS_214.64_BG.png",
+      "kind": "background",
+      "bytes": 157542,
+      "width": 640,
+      "height": 480,
+      "sha256": "8539eac67323ce4de9b944de7c5bd85d70bd7a32e0efcc4e231395af9a9c7d49",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.64/SLUS_214.64_BG_00.png"
+      },
+      "gameId": "SLUS_214.64"
+    },
+    {
+      "path": "PS2/SLUS_214.64/SLUS_214.64_BG_01.png",
+      "kind": "background",
+      "bytes": 167238,
+      "width": 640,
+      "height": 480,
+      "sha256": "921d9ec936ea9922e42023b67b76289bc03f8710c4d41d958ee0697bbc9523bf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.64/SLUS_214.64_BG_01.png"
+      },
+      "gameId": "SLUS_214.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winning Eleven - Pro Evolution Soccer 2007"
+}

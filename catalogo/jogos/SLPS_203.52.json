@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.52",
+  "cover": {
+    "path": "PS2/SLPS_203.52/SLPS_203.52_COV.png",
+    "kind": "cover",
+    "bytes": 101582,
+    "width": 192,
+    "height": 272,
+    "sha256": "d64ca44d9b8e5238f0882f085a4f30d5b2009eaa93172b50d568939846830fa5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20352.jpg"
+    },
+    "gameId": "SLPS_203.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUKI NAMONO WA SUKI DAKARASHOU GANAI!! FIRST LIMIT & TARGET NIGHTS - SUKISYO EPISODE #1 & #2 [2 DISCS]"
+}

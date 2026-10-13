@@ -1,0 +1,156 @@
+{
+  "id": "SLUS_213.55",
+  "cover": {
+    "path": "PS2/SLUS_213.55/SLUS_213.55_COV.png",
+    "kind": "cover",
+    "bytes": 110463,
+    "width": 192,
+    "height": 272,
+    "sha256": "ef5b403f3af35a5d360d24537369ddb0ed35808600ca8ae16fc21066d4bf0a5a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21355.jpg"
+    },
+    "gameId": "SLUS_213.55"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.55/SLUS_213.55_ICO.png",
+    "kind": "disc",
+    "bytes": 42343,
+    "width": 128,
+    "height": 128,
+    "sha256": "ea8d633f7d8d8cf280a6870a78e79693d49492a797fc8583d5391613f4774b87",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLUS_213.55_ICO.png"
+    },
+    "gameId": "SLUS_213.55"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.55/SLUS_213.55_BG.png",
+    "kind": "background",
+    "bytes": 175516,
+    "width": 640,
+    "height": 480,
+    "sha256": "706b2423a38c78f1fd877d68aba065e0b959bc08645170392121243ae4f09bf9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.55/SLUS_213.55_BG_00.png"
+    },
+    "gameId": "SLUS_213.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.55/SLUS_213.55_BG.png",
+      "kind": "background",
+      "bytes": 175516,
+      "width": 640,
+      "height": 480,
+      "sha256": "706b2423a38c78f1fd877d68aba065e0b959bc08645170392121243ae4f09bf9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.55/SLUS_213.55_BG_00.png"
+      },
+      "gameId": "SLUS_213.55"
+    },
+    {
+      "path": "PS2/SLUS_213.55/SLUS_213.55_BG_01.png",
+      "kind": "background",
+      "bytes": 168956,
+      "width": 640,
+      "height": 480,
+      "sha256": "b5360e6f5f2b57c70f88b01b04fab8bd22b731591719ce3d48d3715ead06187e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.55/SLUS_213.55_BG_01.png"
+      },
+      "gameId": "SLUS_213.55"
+    },
+    {
+      "path": "PS2/SLUS_213.55/SLUS_213.55_BG_02.png",
+      "kind": "background",
+      "bytes": 167320,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1b3aab52d3e2506e018e4ab8dd5f94d35dd5b887c309f87f7b062e88a34fe73",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.55/SLUS_213.55_BG_02.png"
+      },
+      "gameId": "SLUS_213.55"
+    },
+    {
+      "path": "PS2/SLUS_213.55/SLUS_213.55_BG_03.png",
+      "kind": "background",
+      "bytes": 182664,
+      "width": 640,
+      "height": 480,
+      "sha256": "36ca5b9a2073fcce0e72f3f4d223179e64ac42eb25875d7060cc83d93854ea0e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.55/SLUS_213.55_BG_03.png"
+      },
+      "gameId": "SLUS_213.55"
+    },
+    {
+      "path": "PS2/SLUS_213.55/SLUS_213.55_BG_04.png",
+      "kind": "background",
+      "bytes": 172691,
+      "width": 640,
+      "height": 480,
+      "sha256": "bb67d08b8fa69825dd06b4735b805a37f6a840ff938b8f839422cb00537f8517",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.55/SLUS_213.55_BG_04.png"
+      },
+      "gameId": "SLUS_213.55"
+    },
+    {
+      "path": "PS2/SLUS_213.55/SLUS_213.55_BG_05.png",
+      "kind": "background",
+      "bytes": 177949,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3eeb10952fb4fe4cef1356a16ba350b2947d4805b98a6f9e3b335dd410e7be4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.55/SLUS_213.55_BG_05.png"
+      },
+      "gameId": "SLUS_213.55"
+    },
+    {
+      "path": "PS2/SLUS_213.55/SLUS_213.55_BG_06.png",
+      "kind": "background",
+      "bytes": 185307,
+      "width": 640,
+      "height": 480,
+      "sha256": "59de6416db5fead793d48e002eea18ecc78d29d07e9968f17078a27dc4bbe6c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.55/SLUS_213.55_BG_06.png"
+      },
+      "gameId": "SLUS_213.55"
+    },
+    {
+      "path": "PS2/SLUS_213.55/SLUS_213.55_BG_07.png",
+      "kind": "background",
+      "bytes": 163162,
+      "width": 640,
+      "height": 480,
+      "sha256": "80de3a6d6446d0a4e8fa505d5aa17db8e25a194b9115296d90bb35e50f0adc46",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.55/SLUS_213.55_BG_07.png"
+      },
+      "gameId": "SLUS_213.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Midnight Club 3 - DUB Edition Remix Greatest Hits"
+}

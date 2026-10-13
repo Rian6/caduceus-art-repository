@@ -1,0 +1,25 @@
+{
+  "id": "PBPX_955.06",
+  "cover": {
+    "path": "PS2/PBPX_955.06/PBPX_955.06_COV.png",
+    "kind": "cover",
+    "bytes": 8757,
+    "width": 192,
+    "height": 272,
+    "sha256": "588116bb283620a8f002abcfb36ee4eca092476ab2ce0e5dc7ff4727e6ecae18",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PBPX-95506.jpg"
+    },
+    "gameId": "PBPX_955.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Demo Disc"
+}

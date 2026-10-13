@@ -1,0 +1,65 @@
+{
+  "id": "SLES_535.71",
+  "cover": {
+    "path": "PS2/SLES_535.71/SLES_535.71_COV.png",
+    "kind": "cover",
+    "bytes": 90128,
+    "width": 192,
+    "height": 272,
+    "sha256": "6ecda7dc0132af74c19edb70f4835982edf4c92bcc0fc3656732c0db9b0adb98",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53571.jpg"
+    },
+    "gameId": "SLES_535.71"
+  },
+  "disc": {
+    "path": "PS2/SLES_535.71/SLES_535.71_ICO.png",
+    "kind": "disc",
+    "bytes": 9893,
+    "width": 128,
+    "height": 128,
+    "sha256": "f8bac93395e17f2cbe982ace1339daa7a89f54040288fbe18fe5bb2c4faf1b09",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_535.71_ICO.png"
+    },
+    "gameId": "SLES_535.71"
+  },
+  "background": {
+    "path": "PS2/SLES_535.71/SLES_535.71_BG.png",
+    "kind": "background",
+    "bytes": 167106,
+    "width": 640,
+    "height": 480,
+    "sha256": "484b8edafd51598402c7c6bef160fedfc4575a539cfac1db1840909e05a06a49",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.71/SLES_535.71_BG_00.png"
+    },
+    "gameId": "SLES_535.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.71/SLES_535.71_BG.png",
+      "kind": "background",
+      "bytes": 167106,
+      "width": 640,
+      "height": 480,
+      "sha256": "484b8edafd51598402c7c6bef160fedfc4575a539cfac1db1840909e05a06a49",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.71/SLES_535.71_BG_00.png"
+      },
+      "gameId": "SLES_535.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Anubis II"
+}

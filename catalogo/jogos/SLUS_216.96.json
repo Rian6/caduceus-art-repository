@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_216.96",
+  "cover": {
+    "path": "PS2/SLUS_216.96/SLUS_216.96_COV.png",
+    "kind": "cover",
+    "bytes": 77174,
+    "width": 192,
+    "height": 272,
+    "sha256": "038e55cdeb0d39d3e26223974074963e1cf6720d4e4cb8cc2fcc11c3818fd954",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21696.jpg"
+    },
+    "gameId": "SLUS_216.96"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.96/SLUS_216.96_ICO.png",
+    "kind": "disc",
+    "bytes": 32156,
+    "width": 256,
+    "height": 256,
+    "sha256": "01d8ae858dd215b9d527556d067ce6ebafc452485fe9db4adf89d8573e047b10",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.96_ICO.png"
+    },
+    "gameId": "SLUS_216.96"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.96/SLUS_216.96_BG.png",
+    "kind": "background",
+    "bytes": 209520,
+    "width": 640,
+    "height": 480,
+    "sha256": "97d4a00a77ff6026a8d4d1f0c7324fe458cd4c9741fae33369b807b728c5abd9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.96/SLUS_216.96_BG_00.png"
+    },
+    "gameId": "SLUS_216.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.96/SLUS_216.96_BG.png",
+      "kind": "background",
+      "bytes": 209520,
+      "width": 640,
+      "height": 480,
+      "sha256": "97d4a00a77ff6026a8d4d1f0c7324fe458cd4c9741fae33369b807b728c5abd9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.96/SLUS_216.96_BG_00.png"
+      },
+      "gameId": "SLUS_216.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ford Racing: Off Road"
+}

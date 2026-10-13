@@ -1,0 +1,77 @@
+{
+  "id": "SLES_545.41",
+  "cover": {
+    "path": "PS2/SLES_545.41/SLES_545.41_COV.png",
+    "kind": "cover",
+    "bytes": 86300,
+    "width": 192,
+    "height": 272,
+    "sha256": "b96dd0c1f470cec24632fabf699539d33ef265c5d30b023a1f862279d98ef20e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54541.jpg"
+    },
+    "gameId": "SLES_545.41"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_545.41/SLES_545.41_BG.png",
+    "kind": "background",
+    "bytes": 227343,
+    "width": 640,
+    "height": 480,
+    "sha256": "416005f5b129a4579f5f28b7fc61f60dd3f767d0eccd6b95a2d6c1207e2f121a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.41/SLES_545.41_BG_00.png"
+    },
+    "gameId": "SLES_545.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_545.41/SLES_545.41_BG.png",
+      "kind": "background",
+      "bytes": 227343,
+      "width": 640,
+      "height": 480,
+      "sha256": "416005f5b129a4579f5f28b7fc61f60dd3f767d0eccd6b95a2d6c1207e2f121a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.41/SLES_545.41_BG_00.png"
+      },
+      "gameId": "SLES_545.41"
+    },
+    {
+      "path": "PS2/SLES_545.41/SLES_545.41_BG_01.png",
+      "kind": "background",
+      "bytes": 155935,
+      "width": 640,
+      "height": 480,
+      "sha256": "7b35e7cb1f3364279ce3e3510de5ed2641d318a21d8c733cb62d7cb1da8bf0d0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.41/SLES_545.41_BG_01.png"
+      },
+      "gameId": "SLES_545.41"
+    },
+    {
+      "path": "PS2/SLES_545.41/SLES_545.41_BG_02.png",
+      "kind": "background",
+      "bytes": 128099,
+      "width": 640,
+      "height": 480,
+      "sha256": "a0bb29b18269d9fa96b2b3ee65ee03369f67984f08501f88237604f2ad9958b0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.41/SLES_545.41_BG_02.png"
+      },
+      "gameId": "SLES_545.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Xena - Warrior Princess"
+}

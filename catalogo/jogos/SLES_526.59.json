@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.59",
+  "cover": {
+    "path": "PS2/SLES_526.59/SLES_526.59_COV.png",
+    "kind": "cover",
+    "bytes": 95336,
+    "width": 192,
+    "height": 272,
+    "sha256": "8d9f2b0fbb1ae9ad8eee3f83a69b21853c15fdd996442fa1bb69b6476c97fbca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52659.jpg"
+    },
+    "gameId": "SLES_526.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - Paris Saint-Germain"
+}

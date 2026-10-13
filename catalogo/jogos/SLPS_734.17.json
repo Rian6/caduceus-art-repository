@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_734.17",
+  "cover": {
+    "path": "PS2/SLPS_734.17/SLPS_734.17_COV.png",
+    "kind": "cover",
+    "bytes": 84354,
+    "width": 192,
+    "height": 272,
+    "sha256": "1be5bb859840238d5a4380a82d586fd0e340db07c8e28b0064c95f852ad60237",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73417.jpg"
+    },
+    "gameId": "SLPS_734.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core 3 (Playstaion 2 The Best)"
+}

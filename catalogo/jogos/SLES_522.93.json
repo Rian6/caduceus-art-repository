@@ -1,0 +1,39 @@
+{
+  "id": "SLES_522.93",
+  "cover": {
+    "path": "PS2/SLES_522.93/SLES_522.93_COV.png",
+    "kind": "cover",
+    "bytes": 112252,
+    "width": 192,
+    "height": 272,
+    "sha256": "74bfb691f2efa6c4ddf639d1197199cfa6db6e82c56cee44396f1f6d48a6f168",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52293.jpg"
+    },
+    "gameId": "SLES_522.93"
+  },
+  "disc": {
+    "path": "PS2/SLES_522.93/SLES_522.93_ICO.png",
+    "kind": "disc",
+    "bytes": 10626,
+    "width": 128,
+    "height": 128,
+    "sha256": "4bad5b442f31f0015ba9a654288ffe8f9bbaaef469cb2997b39097cbea392e5c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_522.93_ICO.png"
+    },
+    "gameId": "SLES_522.93"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Son of the Lion King"
+}

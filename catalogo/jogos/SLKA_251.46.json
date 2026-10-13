@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.46",
+  "cover": {
+    "path": "PS2/SLKA_251.46/SLKA_251.46_COV.png",
+    "kind": "cover",
+    "bytes": 50222,
+    "width": 192,
+    "height": 272,
+    "sha256": "098b844ae08c4644a52819d0afc68892a912ad2d841468361eed0ace1cfaf9fb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.46/SLKA_251.46_COV.png"
+    },
+    "gameId": "SLKA_251.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kaido Battle 2 - Chain Reaction"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.26",
+  "cover": {
+    "path": "PS2/SLPM_656.26/SLPM_656.26_COV.png",
+    "kind": "cover",
+    "bytes": 75619,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e7f21b7e0cb5e1d81a747d979e832c847acd450c8ba34f1240e6e7375c7ef0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65626.jpg"
+    },
+    "gameId": "SLPM_656.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KYUFU SHINBUN (HEISEI-HAN) KAIKI! SHINREI FILE [KONAMI THE BEST]"
+}

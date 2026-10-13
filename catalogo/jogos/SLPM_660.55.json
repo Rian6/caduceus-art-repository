@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.55",
+  "cover": {
+    "path": "PS2/SLPM_660.55/SLPM_660.55_COV.png",
+    "kind": "cover",
+    "bytes": 103822,
+    "width": 192,
+    "height": 272,
+    "sha256": "6a9c07d8ddad26bce2399b7ca83c55b0ca588f58381294801697356dbdaa1abb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66055.jpg"
+    },
+    "gameId": "SLPM_660.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Generation of Chaos V - Shinten Makai"
+}

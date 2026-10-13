@@ -1,0 +1,64 @@
+{
+  "id": "SLES_537.38",
+  "cover": {
+    "path": "PS2/SLES_537.38/SLES_537.38_COV.png",
+    "kind": "cover",
+    "bytes": 91950,
+    "width": 192,
+    "height": 272,
+    "sha256": "38eaa4729f39ac42f37c4fdb703fad8d5996756de986b5f72ac3a3401f7b8162",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53738.jpg"
+    },
+    "gameId": "SLES_537.38"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.38/SLES_537.38_BG.png",
+    "kind": "background",
+    "bytes": 160777,
+    "width": 640,
+    "height": 480,
+    "sha256": "c7898626a99a70e6d3c3df2a2e9621f49f64a4318b6d8e3c6173c26d4e845893",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.38/SLES_537.38_BG_00.png"
+    },
+    "gameId": "SLES_537.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.38/SLES_537.38_BG.png",
+      "kind": "background",
+      "bytes": 160777,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7898626a99a70e6d3c3df2a2e9621f49f64a4318b6d8e3c6173c26d4e845893",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.38/SLES_537.38_BG_00.png"
+      },
+      "gameId": "SLES_537.38"
+    },
+    {
+      "path": "PS2/SLES_537.38/SLES_537.38_BG_01.png",
+      "kind": "background",
+      "bytes": 171749,
+      "width": 640,
+      "height": 480,
+      "sha256": "cdcb3581b400c266c547640a83073edb623310454b218eab24f9dff8260bf0ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.38/SLES_537.38_BG_01.png"
+      },
+      "gameId": "SLES_537.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Chicken Little"
+}

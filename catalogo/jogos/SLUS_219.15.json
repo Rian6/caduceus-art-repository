@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_219.15",
+  "cover": {
+    "path": "PS2/SLUS_219.15/SLUS_219.15_COV.png",
+    "kind": "cover",
+    "bytes": 114264,
+    "width": 192,
+    "height": 272,
+    "sha256": "4bcb8574b7e191caf9dac1cd6e43a001b49219295ce6906ae8c2d05c9c8f8c74",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21915.jpg"
+    },
+    "gameId": "SLUS_219.15"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.15/SLUS_219.15_ICO.png",
+    "kind": "disc",
+    "bytes": 32617,
+    "width": 256,
+    "height": 256,
+    "sha256": "94b9041be6f87f685b5e37ceb562b2233f3e899940cd79ed8dbef4c945253373",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_219.15_ICO.png"
+    },
+    "gameId": "SLUS_219.15"
+  },
+  "background": {
+    "path": "PS2/SLUS_219.15/SLUS_219.15_BG.png",
+    "kind": "background",
+    "bytes": 210070,
+    "width": 640,
+    "height": 480,
+    "sha256": "16d139d343d228acb44648b786ec4a238911b067a9165780c51eea16f55be34e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_219.15/SLUS_219.15_BG_00.png"
+    },
+    "gameId": "SLUS_219.15"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_219.15/SLUS_219.15_BG.png",
+      "kind": "background",
+      "bytes": 210070,
+      "width": 640,
+      "height": 480,
+      "sha256": "16d139d343d228acb44648b786ec4a238911b067a9165780c51eea16f55be34e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.15/SLUS_219.15_BG_00.png"
+      },
+      "gameId": "SLUS_219.15"
+    },
+    {
+      "path": "PS2/SLUS_219.15/SLUS_219.15_BG_01.png",
+      "kind": "background",
+      "bytes": 177935,
+      "width": 640,
+      "height": 480,
+      "sha256": "89f3bd5371dc25c409cf4946614ca04ae5270562a0b0c2b8a7c1e4426ebbdccd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.15/SLUS_219.15_BG_01.png"
+      },
+      "gameId": "SLUS_219.15"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Lord of the Rings - Aragorn's Quest"
+}

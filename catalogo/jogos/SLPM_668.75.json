@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.75",
+  "cover": {
+    "path": "PS2/SLPM_668.75/SLPM_668.75_COV.png",
+    "kind": "cover",
+    "bytes": 101729,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e024b728a7ec2bb19df140326a18a8b0e483a9579f33a27700499871099ad9d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66875.jpg"
+    },
+    "gameId": "SLPM_668.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jikkyou Powerful Major League 2"
+}

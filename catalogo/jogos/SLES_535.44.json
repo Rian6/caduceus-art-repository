@@ -1,0 +1,64 @@
+{
+  "id": "SLES_535.44",
+  "cover": {
+    "path": "PS2/SLES_535.44/SLES_535.44_COV.png",
+    "kind": "cover",
+    "bytes": 93872,
+    "width": 192,
+    "height": 272,
+    "sha256": "7c49dfa123207e451c594b18c00740b1563e0092f991dff0f24080952ef1bb63",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53544.jpg"
+    },
+    "gameId": "SLES_535.44"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_535.44/SLES_535.44_BG.png",
+    "kind": "background",
+    "bytes": 257785,
+    "width": 640,
+    "height": 480,
+    "sha256": "c4d75943a7929a3c1c2cc99a491605e4690b8731cb0e1204e8ae1707a01a92a4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.44/SLES_535.44_BG_00.png"
+    },
+    "gameId": "SLES_535.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.44/SLES_535.44_BG.png",
+      "kind": "background",
+      "bytes": 257785,
+      "width": 640,
+      "height": 480,
+      "sha256": "c4d75943a7929a3c1c2cc99a491605e4690b8731cb0e1204e8ae1707a01a92a4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.44/SLES_535.44_BG_00.png"
+      },
+      "gameId": "SLES_535.44"
+    },
+    {
+      "path": "PS2/SLES_535.44/SLES_535.44_BG_01.png",
+      "kind": "background",
+      "bytes": 164033,
+      "width": 640,
+      "height": 480,
+      "sha256": "0a3432e969b7a68e44091591f280c4d7a33e1045dd44b2dade7fdc8edf9de441",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.44/SLES_535.44_BG_01.png"
+      },
+      "gameId": "SLES_535.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Evolution Soccer 5"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_539.21",
+  "cover": {
+    "path": "PS2/SLES_539.21/SLES_539.21_COV.png",
+    "kind": "cover",
+    "bytes": 90586,
+    "width": 192,
+    "height": 272,
+    "sha256": "58a27c57066978adddeadf0cf1b896d6b4c1a3e7ae7921df4062d78c3ac856b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53921.jpg"
+    },
+    "gameId": "SLES_539.21"
+  },
+  "disc": {
+    "path": "PS2/SLES_539.21/SLES_539.21_ICO.png",
+    "kind": "disc",
+    "bytes": 11459,
+    "width": 128,
+    "height": 128,
+    "sha256": "5d87e4e28fb19a44a3c28d6cf7c4c21e480403cb7e9f6d433f73876712c4e69b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_539.21_ICO.png"
+    },
+    "gameId": "SLES_539.21"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Chemist Tycoon"
+}

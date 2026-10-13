@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.31",
+  "cover": {
+    "path": "PS2/KOEI_201.31/KOEI_201.31_COV.png",
+    "kind": "cover",
+    "bytes": 51070,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d59c47f0f57139383789b44481c997d8def7edf93414655396e885290dcbcf0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_201.31/KOEI_201.31_COV.png"
+    },
+    "gameId": "KOEI_201.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Musou 2 Mushouden (Treasure Box)"
+}

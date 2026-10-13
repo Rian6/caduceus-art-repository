@@ -1,0 +1,51 @@
+{
+  "id": "SLES_537.01",
+  "cover": {
+    "path": "PS2/SLES_537.01/SLES_537.01_COV.png",
+    "kind": "cover",
+    "bytes": 96032,
+    "width": 192,
+    "height": 272,
+    "sha256": "f4e90247536a2a1779b212e615d0321af3a0cccc51266340ed7c5e3a8659f141",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53701.jpg"
+    },
+    "gameId": "SLES_537.01"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.01/SLES_537.01_BG.png",
+    "kind": "background",
+    "bytes": 236114,
+    "width": 640,
+    "height": 480,
+    "sha256": "b0ac5243b658a8bfd98fd0af3b9f3bb90933ceee18edb9a7d5ad8ee2456dc388",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.01/SLES_537.01_BG_00.png"
+    },
+    "gameId": "SLES_537.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.01/SLES_537.01_BG.png",
+      "kind": "background",
+      "bytes": 236114,
+      "width": 640,
+      "height": 480,
+      "sha256": "b0ac5243b658a8bfd98fd0af3b9f3bb90933ceee18edb9a7d5ad8ee2456dc388",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.01/SLES_537.01_BG_00.png"
+      },
+      "gameId": "SLES_537.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUPER MONKEY BALL ADVENTURE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_518.87",
+  "cover": {
+    "path": "PS2/SLES_518.87/SLES_518.87_COV.png",
+    "kind": "cover",
+    "bytes": 86381,
+    "width": 192,
+    "height": 272,
+    "sha256": "b1e4f443d3be7b4b2ebf7c9f5243c27fed4708d33082e75f8f3996c8567d1565",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51887.jpg"
+    },
+    "gameId": "SLES_518.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tiger Woods PGA Tour 2004"
+}

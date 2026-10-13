@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.71",
+  "cover": {
+    "path": "PS2/SLPS_253.71/SLPS_253.71_COV.png",
+    "kind": "cover",
+    "bytes": 103881,
+    "width": 192,
+    "height": 272,
+    "sha256": "9ccd54b31800eb48564d7fc591e4bb4dfa9c2bf066a4482ac6560fc7bc6387c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25371.jpg"
+    },
+    "gameId": "SLPS_253.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEARS [LIMITED EDITION]"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_200.11",
+  "cover": {
+    "path": "PS2/SLUS_200.11/SLUS_200.11_COV.png",
+    "kind": "cover",
+    "bytes": 104504,
+    "width": 192,
+    "height": 272,
+    "sha256": "f6467aedaf28a416bc628eb58bea77bd1a955bd772345b5ce24e2ac37bd13bfa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20011.jpg"
+    },
+    "gameId": "SLUS_200.11"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.11/SLUS_200.11_ICO.png",
+    "kind": "disc",
+    "bytes": 33727,
+    "width": 256,
+    "height": 256,
+    "sha256": "3d7984c0ea8673e133e617ffaf80248a49c5b0d58d538979dd5f792b2a268bcf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.11_ICO.png"
+    },
+    "gameId": "SLUS_200.11"
+  },
+  "background": {
+    "path": "PS2/SLUS_200.11/SLUS_200.11_BG.png",
+    "kind": "background",
+    "bytes": 154519,
+    "width": 640,
+    "height": 480,
+    "sha256": "6ea07758ae910e5ecdeb9fd71f351d676fd735396b519901964d1aa8e14b783b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_200.11/SLUS_200.11_BG_00.png"
+    },
+    "gameId": "SLUS_200.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_200.11/SLUS_200.11_BG.png",
+      "kind": "background",
+      "bytes": 154519,
+      "width": 640,
+      "height": 480,
+      "sha256": "6ea07758ae910e5ecdeb9fd71f351d676fd735396b519901964d1aa8e14b783b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.11/SLUS_200.11_BG_00.png"
+      },
+      "gameId": "SLUS_200.11"
+    },
+    {
+      "path": "PS2/SLUS_200.11/SLUS_200.11_BG_01.png",
+      "kind": "background",
+      "bytes": 228068,
+      "width": 640,
+      "height": 480,
+      "sha256": "93eef3287592a971d029ccc6946578da3a468822fda7e42e42794314b87fc03e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.11/SLUS_200.11_BG_01.png"
+      },
+      "gameId": "SLUS_200.11"
+    },
+    {
+      "path": "PS2/SLUS_200.11/SLUS_200.11_BG_02.png",
+      "kind": "background",
+      "bytes": 212403,
+      "width": 640,
+      "height": 480,
+      "sha256": "039bf858ee6b09b5718761533eff4bec3691b7d19e519dec9f19c65c3c3d43d0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.11/SLUS_200.11_BG_02.png"
+      },
+      "gameId": "SLUS_200.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ORPHEN - SCION OF SORCERY"
+}

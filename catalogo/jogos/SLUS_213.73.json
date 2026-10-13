@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_213.73",
+  "cover": {
+    "path": "PS2/SLUS_213.73/SLUS_213.73_COV.png",
+    "kind": "cover",
+    "bytes": 96542,
+    "width": 192,
+    "height": 272,
+    "sha256": "e870c4631cb5bdb91d1f97398af8327c9f2288ea894e88f920e0b84de8b1df27",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21373.jpg"
+    },
+    "gameId": "SLUS_213.73"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.73/SLUS_213.73_ICO.png",
+    "kind": "disc",
+    "bytes": 29283,
+    "width": 256,
+    "height": 256,
+    "sha256": "1dde118aac1dad8ab09a9ba9dc8a23b7657fddf3f93c468f1397ee3a64eceb03",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.73_ICO.png"
+    },
+    "gameId": "SLUS_213.73"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.73/SLUS_213.73_BG.png",
+    "kind": "background",
+    "bytes": 161872,
+    "width": 640,
+    "height": 480,
+    "sha256": "448424a0c7640d91d0c995d92bc446dd0ae01de03877b2c745fbae4b1f779098",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.73/SLUS_213.73_BG_00.png"
+    },
+    "gameId": "SLUS_213.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.73/SLUS_213.73_BG.png",
+      "kind": "background",
+      "bytes": 161872,
+      "width": 640,
+      "height": 480,
+      "sha256": "448424a0c7640d91d0c995d92bc446dd0ae01de03877b2c745fbae4b1f779098",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.73/SLUS_213.73_BG_00.png"
+      },
+      "gameId": "SLUS_213.73"
+    },
+    {
+      "path": "PS2/SLUS_213.73/SLUS_213.73_BG_01.png",
+      "kind": "background",
+      "bytes": 115051,
+      "width": 640,
+      "height": 480,
+      "sha256": "8cecd47603c76ff1ce12a7530e8e521f63dd7ee573b4a265ae9f2e890451b477",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.73/SLUS_213.73_BG_01.png"
+      },
+      "gameId": "SLUS_213.73"
+    },
+    {
+      "path": "PS2/SLUS_213.73/SLUS_213.73_BG_02.png",
+      "kind": "background",
+      "bytes": 165538,
+      "width": 640,
+      "height": 480,
+      "sha256": "78a719929c0c32dde0eddcd036d419056990fc3eb7e4f8c388335dd72de583cc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.73/SLUS_213.73_BG_02.png"
+      },
+      "gameId": "SLUS_213.73"
+    },
+    {
+      "path": "PS2/SLUS_213.73/SLUS_213.73_BG_03.png",
+      "kind": "background",
+      "bytes": 222379,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f723c33125ac1c6fb7e50b17a4aa53ed7dedbf2fe8d5f77cf0cbb78c2e48095",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.73/SLUS_213.73_BG_03.png"
+      },
+      "gameId": "SLUS_213.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Drakengard 2"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_531.97",
+  "cover": {
+    "path": "PS2/SLES_531.97/SLES_531.97_COV.png",
+    "kind": "cover",
+    "bytes": 110970,
+    "width": 192,
+    "height": 272,
+    "sha256": "f6a2fbbc25e42b89d3193a8ee3a703031114952e5c4ab5ecb3ef5e554a64c065",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53197.jpg"
+    },
+    "gameId": "SLES_531.97"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_531.97/SLES_531.97_BG.png",
+    "kind": "background",
+    "bytes": 190248,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a84e11f2e71cb85e7089cf100c4ac7152df02a0de61d1a2e57412bbce465d72",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.97/SLES_531.97_BG_00.png"
+    },
+    "gameId": "SLES_531.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.97/SLES_531.97_BG.png",
+      "kind": "background",
+      "bytes": 190248,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a84e11f2e71cb85e7089cf100c4ac7152df02a0de61d1a2e57412bbce465d72",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.97/SLES_531.97_BG_00.png"
+      },
+      "gameId": "SLES_531.97"
+    },
+    {
+      "path": "PS2/SLES_531.97/SLES_531.97_BG_01.png",
+      "kind": "background",
+      "bytes": 192922,
+      "width": 640,
+      "height": 480,
+      "sha256": "131fe04dd858f190a0dd4e72317588f921f6a467684157795c79779c9ee92f7d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.97/SLES_531.97_BG_01.png"
+      },
+      "gameId": "SLES_531.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Destroy All Humans!"
+}

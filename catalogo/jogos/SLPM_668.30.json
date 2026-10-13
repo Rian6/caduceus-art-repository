@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.30",
+  "cover": {
+    "path": "PS2/SLPM_668.30/SLPM_668.30_COV.png",
+    "kind": "cover",
+    "bytes": 98051,
+    "width": 192,
+    "height": 272,
+    "sha256": "047c8150ceb8445fe329979e16bd5e98cf2f3c14a62df0ce17e6a6b6d435d9a2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66830.jpg"
+    },
+    "gameId": "SLPM_668.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S LEWIS TO MIRAI DOROBOU"
+}

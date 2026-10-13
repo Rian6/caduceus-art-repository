@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.69",
+  "cover": {
+    "path": "PS2/SLPS_250.69/SLPS_250.69_COV.png",
+    "kind": "cover",
+    "bytes": 81735,
+    "width": 192,
+    "height": 272,
+    "sha256": "b72a2f311f0aee23121e37d453d570b03d1be30c45fe2318ca6ae9c2addcedd6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25069.jpg"
+    },
+    "gameId": "SLPS_250.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fifa 2002 - Road to World Cup"
+}

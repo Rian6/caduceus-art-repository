@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.50",
+  "cover": {
+    "path": "PS2/SLES_505.50/SLES_505.50_COV.png",
+    "kind": "cover",
+    "bytes": 92037,
+    "width": 192,
+    "height": 272,
+    "sha256": "c4c90c20febc2ddf13adcff6fcb672cbce69f18d086e47dccefebb0b0870110a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50550.jpg"
+    },
+    "gameId": "SLES_505.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MANAGER DE LIGA 2002"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.98",
+  "cover": {
+    "path": "PS2/SLPS_258.98/SLPS_258.98_COV.png",
+    "kind": "cover",
+    "bytes": 104476,
+    "width": 192,
+    "height": 272,
+    "sha256": "bcea74e441207b0bac1e6f7f631a55385eb394818b4d9f494490a56f73228ee5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25898.jpg"
+    },
+    "gameId": "SLPS_258.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zero no Tsukaima - Maigo no Period to Ikusen no Symphony"
+}

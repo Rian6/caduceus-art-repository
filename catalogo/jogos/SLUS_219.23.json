@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_219.23",
+  "cover": {
+    "path": "PS2/SLUS_219.23/SLUS_219.23_COV.png",
+    "kind": "cover",
+    "bytes": 103615,
+    "width": 192,
+    "height": 272,
+    "sha256": "ad8352ed77e17970435ff113d84f39f306675ddcd8914be101f4665eb8a9c605",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21923.jpg"
+    },
+    "gameId": "SLUS_219.23"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.23/SLUS_219.23_ICO.png",
+    "kind": "disc",
+    "bytes": 28808,
+    "width": 256,
+    "height": 256,
+    "sha256": "c58dd5c3491c26032fbc949d8837ee5bc681a6b7a3098768e2f498a5d31cfe64",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_219.23_ICO.png"
+    },
+    "gameId": "SLUS_219.23"
+  },
+  "background": {
+    "path": "PS2/SLUS_219.23/SLUS_219.23_BG.png",
+    "kind": "background",
+    "bytes": 101711,
+    "width": 640,
+    "height": 480,
+    "sha256": "b881724e4a9d11541e36f647ef952fa91ab693134d30e1cb3947b9f6d3c51b47",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_219.23/SLUS_219.23_BG_00.png"
+    },
+    "gameId": "SLUS_219.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_219.23/SLUS_219.23_BG.png",
+      "kind": "background",
+      "bytes": 101711,
+      "width": 640,
+      "height": 480,
+      "sha256": "b881724e4a9d11541e36f647ef952fa91ab693134d30e1cb3947b9f6d3c51b47",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.23/SLUS_219.23_BG_00.png"
+      },
+      "gameId": "SLUS_219.23"
+    },
+    {
+      "path": "PS2/SLUS_219.23/SLUS_219.23_BG_01.png",
+      "kind": "background",
+      "bytes": 126327,
+      "width": 640,
+      "height": 480,
+      "sha256": "3db817dd9454591bbf388797406423374c7e901c3e0e29ab0347e2d751de3ffd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.23/SLUS_219.23_BG_01.png"
+      },
+      "gameId": "SLUS_219.23"
+    },
+    {
+      "path": "PS2/SLUS_219.23/SLUS_219.23_BG_02.png",
+      "kind": "background",
+      "bytes": 163643,
+      "width": 640,
+      "height": 480,
+      "sha256": "f69d86e1890f2c9c5b8dc6f8adec552683754f0f6fd179bb01b0a882a6a84b51",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.23/SLUS_219.23_BG_02.png"
+      },
+      "gameId": "SLUS_219.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nickelodeon Dora the Explorer: Dora Saves the Crystal Kingdom"
+}

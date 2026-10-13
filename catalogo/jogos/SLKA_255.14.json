@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_255.14",
+  "cover": {
+    "path": "PS2/SLKA_255.14/SLKA_255.14_COV.png",
+    "kind": "cover",
+    "bytes": 71489,
+    "width": 192,
+    "height": 272,
+    "sha256": "eb22a9e99549a701ae94b7408d9d4207d20e6a8c9cfdf5f191001eef11326953",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25514.jpg"
+    },
+    "gameId": "SLKA_255.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FINAL FANTASY X INTERNATIONAL [PLAYSTATION 2 BIG HIT SERIES]"
+}

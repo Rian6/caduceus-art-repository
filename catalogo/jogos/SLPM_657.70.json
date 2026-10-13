@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_657.70",
+  "cover": {
+    "path": "PS2/SLPM_657.70/SLPM_657.70_COV.png",
+    "kind": "cover",
+    "bytes": 97860,
+    "width": 192,
+    "height": 272,
+    "sha256": "840d3e7c9f789b8ecaedca63a42f0b5e026be65cce30c0426325b444d205fc64",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65770.jpg"
+    },
+    "gameId": "SLPM_657.70"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_657.70/SLPM_657.70_BG.png",
+    "kind": "background",
+    "bytes": 146939,
+    "width": 640,
+    "height": 480,
+    "sha256": "0b10a262d3c3783505b6c57705c7bc2ef8f85a4340f29b9495c82da0ae021482",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_657.70/SLPM_657.70_BG_00.png"
+    },
+    "gameId": "SLPM_657.70"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_657.70/SLPM_657.70_BG.png",
+      "kind": "background",
+      "bytes": 146939,
+      "width": 640,
+      "height": 480,
+      "sha256": "0b10a262d3c3783505b6c57705c7bc2ef8f85a4340f29b9495c82da0ae021482",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.70/SLPM_657.70_BG_00.png"
+      },
+      "gameId": "SLPM_657.70"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pop'n'Music 10"
+}

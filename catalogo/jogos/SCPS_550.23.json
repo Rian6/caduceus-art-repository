@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.23",
+  "cover": {
+    "path": "PS2/SCPS_550.23/SCPS_550.23_COV.png",
+    "kind": "cover",
+    "bytes": 91389,
+    "width": 192,
+    "height": 272,
+    "sha256": "c74c688458d0a0b647fc60eb857436b79a71a51ac3714afe9333c5dab0cc115f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55023.jpg"
+    },
+    "gameId": "SCPS_550.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OTOSTAZ"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_544.37",
+  "cover": {
+    "path": "PS2/SLES_544.37/SLES_544.37_COV.png",
+    "kind": "cover",
+    "bytes": 78614,
+    "width": 192,
+    "height": 272,
+    "sha256": "e0318de181f55ce4375ba05de47cf69ca3a1d0fce3fd6b249a034c6c4baad06f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54437.jpg"
+    },
+    "gameId": "SLES_544.37"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_544.37/SLES_544.37_BG.png",
+    "kind": "background",
+    "bytes": 102902,
+    "width": 640,
+    "height": 480,
+    "sha256": "e5b1e30133d0645e2a50df01136d5bd7633e7f27bc973789f6ad3e64d5b62b59",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.37/SLES_544.37_BG_00.png"
+    },
+    "gameId": "SLES_544.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.37/SLES_544.37_BG.png",
+      "kind": "background",
+      "bytes": 102902,
+      "width": 640,
+      "height": 480,
+      "sha256": "e5b1e30133d0645e2a50df01136d5bd7633e7f27bc973789f6ad3e64d5b62b59",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.37/SLES_544.37_BG_00.png"
+      },
+      "gameId": "SLES_544.37"
+    },
+    {
+      "path": "PS2/SLES_544.37/SLES_544.37_BG_01.png",
+      "kind": "background",
+      "bytes": 137282,
+      "width": 640,
+      "height": 480,
+      "sha256": "8f68a4350e18e5d36542da2068182c91744edf0c0c49af699e6f4c2c4084774d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.37/SLES_544.37_BG_01.png"
+      },
+      "gameId": "SLES_544.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters XI"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.03",
+  "cover": {
+    "path": "PS2/SLPM_667.03/SLPM_667.03_COV.png",
+    "kind": "cover",
+    "bytes": 85805,
+    "width": 192,
+    "height": 272,
+    "sha256": "b440371d787904781f7a5ac1dcd322fae492e4aa639c2b6d72691b699d5692be",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66703.jpg"
+    },
+    "gameId": "SLPM_667.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Racing Game: Chuui!!!!"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.22",
+  "cover": {
+    "path": "PS2/SLPM_665.22/SLPM_665.22_COV.png",
+    "kind": "cover",
+    "bytes": 97914,
+    "width": 192,
+    "height": 272,
+    "sha256": "5cadc38de28cd077d8df3b33fc0038a995674126ceb8ab7ebd63baaff82e1fe9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66522.jpg"
+    },
+    "gameId": "SLPM_665.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 3 (Koei Selection)"
+}

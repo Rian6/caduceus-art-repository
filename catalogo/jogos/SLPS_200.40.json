@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.40",
+  "cover": {
+    "path": "PS2/SLPS_200.40/SLPS_200.40_COV.png",
+    "kind": "cover",
+    "bytes": 88845,
+    "width": 192,
+    "height": 272,
+    "sha256": "070e2d8051787f2edf921ac5acbf35369e9df37c03c088cdb58ae8be6465787b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20040.jpg"
+    },
+    "gameId": "SLPS_200.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MOTOGP"
+}

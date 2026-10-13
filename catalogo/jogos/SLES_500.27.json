@@ -1,0 +1,25 @@
+{
+  "id": "SLES_500.27",
+  "cover": {
+    "path": "PS2/SLES_500.27/SLES_500.27_COV.png",
+    "kind": "cover",
+    "bytes": 78851,
+    "width": 192,
+    "height": 272,
+    "sha256": "47ab6666bb945a63f9770ebcba2a1ae0be52235a1948d43ea0869088191ec3a9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50027.jpg"
+    },
+    "gameId": "SLES_500.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL 2001"
+}

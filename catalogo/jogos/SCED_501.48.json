@@ -1,0 +1,25 @@
+{
+  "id": "SCED_501.48",
+  "cover": {
+    "path": "PS2/SCED_501.48/SCED_501.48_COV.png",
+    "kind": "cover",
+    "bytes": 60298,
+    "width": 192,
+    "height": 272,
+    "sha256": "8bdf2c808c33ef4aa322806e5cebc17c35d820e7f334e566e1d8d4d334bee5f2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCED_501.48/SCED_501.48_COV.png"
+    },
+    "gameId": "SCED_501.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Official PlayStation 2 Magazine Demo 13"
+}

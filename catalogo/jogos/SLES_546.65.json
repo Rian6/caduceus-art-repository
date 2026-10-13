@@ -1,0 +1,39 @@
+{
+  "id": "SLES_546.65",
+  "cover": {
+    "path": "PS2/SLES_546.65/SLES_546.65_COV.png",
+    "kind": "cover",
+    "bytes": 91228,
+    "width": 192,
+    "height": 272,
+    "sha256": "c53a498fb44e3f40d8759fccb4bf2f0798b59f3a0e29eb30441b7dd8e440c5e9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54665.jpg"
+    },
+    "gameId": "SLES_546.65"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.65/SLES_546.65_ICO.png",
+    "kind": "disc",
+    "bytes": 11475,
+    "width": 128,
+    "height": 128,
+    "sha256": "123c15033821e5446a09b78ce0e59e2a19e798bf9bc7004c9e0dcc7ed7cff858",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.65_ICO.png"
+    },
+    "gameId": "SLES_546.65"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PADDINGTON BEAR"
+}

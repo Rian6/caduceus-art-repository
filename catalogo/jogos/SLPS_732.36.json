@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.36",
+  "cover": {
+    "path": "PS2/SLPS_732.36/SLPS_732.36_COV.png",
+    "kind": "cover",
+    "bytes": 88952,
+    "width": 192,
+    "height": 272,
+    "sha256": "bccc506f15161eb5f8db905ce22c22537a1d12e60c84d5159604a2fa127680bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73236.jpg"
+    },
+    "gameId": "SLPS_732.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Venus & Braves (Playstation 2 The Best)"
+}

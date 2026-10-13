@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.64",
+  "cover": {
+    "path": "PS2/SLPS_252.64/SLPS_252.64_COV.png",
+    "kind": "cover",
+    "bytes": 63378,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1b9a3251afc119bc6560fb88b08f5a9812f225e2ef840dfb7dd8b95e6b425ee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25264.jpg"
+    },
+    "gameId": "SLPS_252.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RahXephon (Limited Edition)"
+}

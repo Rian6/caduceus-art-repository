@@ -1,0 +1,25 @@
+{
+  "id": "SLES_534.99",
+  "cover": {
+    "path": "PS2/SLES_534.99/SLES_534.99_COV.png",
+    "kind": "cover",
+    "bytes": 64575,
+    "width": 192,
+    "height": 272,
+    "sha256": "77a9d55539fb8b9abbb51179c6c9ab8b03597fedee97e1465dd15196cd479923",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.99/SLES_534.99_COV.png"
+    },
+    "gameId": "SLES_534.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SpongeBob Squarepants - Licht uit, Camera aan!"
+}

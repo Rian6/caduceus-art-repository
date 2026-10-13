@@ -1,0 +1,65 @@
+{
+  "id": "SLPM_660.35",
+  "cover": {
+    "path": "PS2/SLPM_660.35/SLPM_660.35_COV.png",
+    "kind": "cover",
+    "bytes": 78857,
+    "width": 192,
+    "height": 272,
+    "sha256": "ae44e39dcf3d380d25d8fec06707935f3b26b72153fc4b3560c822aa0f968b00",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66035.jpg"
+    },
+    "gameId": "SLPM_660.35"
+  },
+  "disc": {
+    "path": "PS2/SLPM_660.35/SLPM_660.35_ICO.png",
+    "kind": "disc",
+    "bytes": 9787,
+    "width": 128,
+    "height": 128,
+    "sha256": "7745fb1273274a3d0f31c8f7c8844f26d3da0c551a72881b4ae33ca7eafa7031",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_660.35_ICO.png"
+    },
+    "gameId": "SLPM_660.35"
+  },
+  "background": {
+    "path": "PS2/SLPM_660.35/SLPM_660.35_BG.png",
+    "kind": "background",
+    "bytes": 197094,
+    "width": 640,
+    "height": 480,
+    "sha256": "942825800d01448668042c82ff815b5f6a30445976188bdcec68196008b1d475",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_660.35/SLPM_660.35_BG_00.png"
+    },
+    "gameId": "SLPM_660.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_660.35/SLPM_660.35_BG.png",
+      "kind": "background",
+      "bytes": 197094,
+      "width": 640,
+      "height": 480,
+      "sha256": "942825800d01448668042c82ff815b5f6a30445976188bdcec68196008b1d475",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.35/SLPM_660.35_BG_00.png"
+      },
+      "gameId": "SLPM_660.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KENKA BANCHOU"
+}

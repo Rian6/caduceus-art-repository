@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.31",
+  "cover": {
+    "path": "PS2/SLPS_202.31/SLPS_202.31_COV.png",
+    "kind": "cover",
+    "bytes": 110680,
+    "width": 192,
+    "height": 272,
+    "sha256": "fc6c3585eae0a0be10d1adad5d0048f12bd12bfcfdb5823229d674c5df6a0d9f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20231.jpg"
+    },
+    "gameId": "SLPS_202.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FREEKSTYLE"
+}

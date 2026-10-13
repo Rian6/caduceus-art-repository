@@ -1,0 +1,51 @@
+{
+  "id": "SLES_547.71",
+  "cover": {
+    "path": "PS2/SLES_547.71/SLES_547.71_COV.png",
+    "kind": "cover",
+    "bytes": 84331,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e5a4c4fc77429e8dcd0127c9e26c17d657bfdd58233d215464b118bbc198eb4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54771.jpg"
+    },
+    "gameId": "SLES_547.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_547.71/SLES_547.71_BG.png",
+    "kind": "background",
+    "bytes": 147217,
+    "width": 640,
+    "height": 480,
+    "sha256": "138c9190fb38d9bc35df93597cd86a39d0f9bdbf7a9bbdfb50044b3af3bd4576",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_547.71/SLES_547.71_BG_00.png"
+    },
+    "gameId": "SLES_547.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_547.71/SLES_547.71_BG.png",
+      "kind": "background",
+      "bytes": 147217,
+      "width": 640,
+      "height": 480,
+      "sha256": "138c9190fb38d9bc35df93597cd86a39d0f9bdbf7a9bbdfb50044b3af3bd4576",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.71/SLES_547.71_BG_00.png"
+      },
+      "gameId": "SLES_547.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamWorks Shrek the Third"
+}

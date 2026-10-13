@@ -1,0 +1,51 @@
+{
+  "id": "SLES_508.74",
+  "cover": {
+    "path": "PS2/SLES_508.74/SLES_508.74_COV.png",
+    "kind": "cover",
+    "bytes": 98370,
+    "width": 192,
+    "height": 272,
+    "sha256": "9a93b317c898f0d0e5b16adbc31f7020df09a40b30236e0c0d9428ad4a27fb1e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50874.jpg"
+    },
+    "gameId": "SLES_508.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_508.74/SLES_508.74_BG.png",
+    "kind": "background",
+    "bytes": 81714,
+    "width": 640,
+    "height": 480,
+    "sha256": "e4df69565a8468246ba1b40957e7b997d38e863ddd7da017866f250cb2de1299",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_508.74/SLES_508.74_BG_00.png"
+    },
+    "gameId": "SLES_508.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_508.74/SLES_508.74_BG.png",
+      "kind": "background",
+      "bytes": 81714,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4df69565a8468246ba1b40957e7b997d38e863ddd7da017866f250cb2de1299",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.74/SLES_508.74_BG_00.png"
+      },
+      "gameId": "SLES_508.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "F1 2002"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_527.74",
+  "cover": {
+    "path": "PS2/SLES_527.74/SLES_527.74_COV.png",
+    "kind": "cover",
+    "bytes": 86200,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2feda2a62f21cc3ad8efac67b56391c41a9e3e4b7bed30acb65285a5a202cbc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52774.jpg"
+    },
+    "gameId": "SLES_527.74"
+  },
+  "disc": {
+    "path": "PS2/SLES_527.74/SLES_527.74_ICO.png",
+    "kind": "disc",
+    "bytes": 11077,
+    "width": 128,
+    "height": 128,
+    "sha256": "62d0d231e512bfffaac9f19664722f558fa6cabcba388548e4b9563ea05073ab",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_527.74_ICO.png"
+    },
+    "gameId": "SLES_527.74"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sprint Car Challenge"
+}

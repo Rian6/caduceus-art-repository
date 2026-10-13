@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.35",
+  "cover": {
+    "path": "PS2/SLPM_667.35/SLPM_667.35_COV.png",
+    "kind": "cover",
+    "bytes": 108542,
+    "width": 192,
+    "height": 272,
+    "sha256": "4cd4689979e383bc0e25276cbd4559bad3289b3623437be7cccb552053d201ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66735.jpg"
+    },
+    "gameId": "SLPM_667.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "QUILT ANATA TO TSUGUMU YUME TO KOI NO DRESS"
+}

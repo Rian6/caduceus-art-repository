@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_207.66",
+  "cover": {
+    "path": "PS2/SLUS_207.66/SLUS_207.66_COV.png",
+    "kind": "cover",
+    "bytes": 74538,
+    "width": 192,
+    "height": 272,
+    "sha256": "267b51e35b24c704af1908b42d0d3e060898c38a0dbb8be5dc8a4cba47b536ee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20766.jpg"
+    },
+    "gameId": "SLUS_207.66"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.66/SLUS_207.66_ICO.png",
+    "kind": "disc",
+    "bytes": 34256,
+    "width": 256,
+    "height": 256,
+    "sha256": "bb4f02e2fdf55d2905f3eb8afe94007493531ce647f30711094e2aa5fbad605b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.66_ICO.png"
+    },
+    "gameId": "SLUS_207.66"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.66/SLUS_207.66_BG.png",
+    "kind": "background",
+    "bytes": 203755,
+    "width": 640,
+    "height": 480,
+    "sha256": "9d141e26233e0f4039470f00b2967c0a051cd8bcc2ebdcc62dd8f434c46c1315",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.66/SLUS_207.66_BG_00.png"
+    },
+    "gameId": "SLUS_207.66"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.66/SLUS_207.66_BG.png",
+      "kind": "background",
+      "bytes": 203755,
+      "width": 640,
+      "height": 480,
+      "sha256": "9d141e26233e0f4039470f00b2967c0a051cd8bcc2ebdcc62dd8f434c46c1315",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.66/SLUS_207.66_BG_00.png"
+      },
+      "gameId": "SLUS_207.66"
+    },
+    {
+      "path": "PS2/SLUS_207.66/SLUS_207.66_BG_01.png",
+      "kind": "background",
+      "bytes": 193737,
+      "width": 640,
+      "height": 480,
+      "sha256": "060b799583611b5f5c957fe676cd14bb46ec766136ee3b2d5fe5b5d9b5d5147f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.66/SLUS_207.66_BG_01.png"
+      },
+      "gameId": "SLUS_207.66"
+    },
+    {
+      "path": "PS2/SLUS_207.66/SLUS_207.66_BG_02.png",
+      "kind": "background",
+      "bytes": 160789,
+      "width": 640,
+      "height": 480,
+      "sha256": "a5f3cd4e230b77cdd505d70bf65c1fbeb5f4d026fe88b78bbf55f6e5d9d11027",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.66/SLUS_207.66_BG_02.png"
+      },
+      "gameId": "SLUS_207.66"
+    },
+    {
+      "path": "PS2/SLUS_207.66/SLUS_207.66_BG_03.png",
+      "kind": "background",
+      "bytes": 209061,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3fd740a1b0a310a420717ffdfc03d31872c7203b793ea8e7caf606bf18a8e3b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.66/SLUS_207.66_BG_03.png"
+      },
+      "gameId": "SLUS_207.66"
+    },
+    {
+      "path": "PS2/SLUS_207.66/SLUS_207.66_BG_04.png",
+      "kind": "background",
+      "bytes": 207209,
+      "width": 640,
+      "height": 480,
+      "sha256": "d1b064ff631b549c604465674701c80a3b438a8e4cc0b1389fb50865f4f4d4a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.66/SLUS_207.66_BG_04.png"
+      },
+      "gameId": "SLUS_207.66"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FATAL FRAME II - CRIMSON BUTTERFLY"
+}

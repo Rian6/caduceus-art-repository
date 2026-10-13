@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_200.18",
+  "cover": {
+    "path": "PS2/SLUS_200.18/SLUS_200.18_COV.png",
+    "kind": "cover",
+    "bytes": 82629,
+    "width": 192,
+    "height": 272,
+    "sha256": "d7401ef6e7a00c830a3ac7a73072ff52cfe3e4f84a332c53dbbdab5b3bb907b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20018.jpg"
+    },
+    "gameId": "SLUS_200.18"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.18/SLUS_200.18_ICO.png",
+    "kind": "disc",
+    "bytes": 35551,
+    "width": 256,
+    "height": 256,
+    "sha256": "b0af54b00cd986a41f13e7e1c0f8316b76763644fd3e874a80140846e8ee7c78",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.18_ICO.png"
+    },
+    "gameId": "SLUS_200.18"
+  },
+  "background": {
+    "path": "PS2/SLUS_200.18/SLUS_200.18_BG.png",
+    "kind": "background",
+    "bytes": 154433,
+    "width": 640,
+    "height": 480,
+    "sha256": "fb1f25dea21b4828afbff4a3caa0533a863d92c11f262e4576360bb179eaf98b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_200.18/SLUS_200.18_BG_00.png"
+    },
+    "gameId": "SLUS_200.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_200.18/SLUS_200.18_BG.png",
+      "kind": "background",
+      "bytes": 154433,
+      "width": 640,
+      "height": 480,
+      "sha256": "fb1f25dea21b4828afbff4a3caa0533a863d92c11f262e4576360bb179eaf98b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.18/SLUS_200.18_BG_00.png"
+      },
+      "gameId": "SLUS_200.18"
+    },
+    {
+      "path": "PS2/SLUS_200.18/SLUS_200.18_BG_01.png",
+      "kind": "background",
+      "bytes": 166861,
+      "width": 640,
+      "height": 480,
+      "sha256": "275cbc2c23d49271ce727962c35c46efb5b822128ed7ace86b08ac873baad6ef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.18/SLUS_200.18_BG_01.png"
+      },
+      "gameId": "SLUS_200.18"
+    },
+    {
+      "path": "PS2/SLUS_200.18/SLUS_200.18_BG_02.png",
+      "kind": "background",
+      "bytes": 172214,
+      "width": 640,
+      "height": 480,
+      "sha256": "60ad7797565326ca94795aa1b8d60bd0545b2c6da15478f724f796406121325b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.18/SLUS_200.18_BG_02.png"
+      },
+      "gameId": "SLUS_200.18"
+    },
+    {
+      "path": "PS2/SLUS_200.18/SLUS_200.18_BG_03.png",
+      "kind": "background",
+      "bytes": 164255,
+      "width": 640,
+      "height": 480,
+      "sha256": "845b13cf7fbfa45cf3e52919ea0b0da1af9b31106b380dd5f7ec7e7d42ea6a47",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.18/SLUS_200.18_BG_03.png"
+      },
+      "gameId": "SLUS_200.18"
+    },
+    {
+      "path": "PS2/SLUS_200.18/SLUS_200.18_BG_04.png",
+      "kind": "background",
+      "bytes": 206268,
+      "width": 640,
+      "height": 480,
+      "sha256": "f7bc6bcffabb2841be68a31f88e168e3d4a475ceecd040a41fefd2792d34bd90",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.18/SLUS_200.18_BG_04.png"
+      },
+      "gameId": "SLUS_200.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Onimusha: Warlords"
+}

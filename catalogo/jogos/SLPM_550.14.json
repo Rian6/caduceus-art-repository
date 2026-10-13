@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_550.14",
+  "cover": {
+    "path": "PS2/SLPM_550.14/SLPM_550.14_COV.png",
+    "kind": "cover",
+    "bytes": 98050,
+    "width": 192,
+    "height": 272,
+    "sha256": "de535f2c00157f2089aee87df6b8034a8980a46c56fbbd4a001b67cbd8c45ac8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55014.jpg"
+    },
+    "gameId": "SLPM_550.14"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_550.14/SLPM_550.14_BG.png",
+    "kind": "background",
+    "bytes": 179545,
+    "width": 640,
+    "height": 480,
+    "sha256": "1cb9bd06a2ff99f9a5a527c34a3ba7c9f81adc84aa7d1b506065bf7948e9c344",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_550.14/SLPM_550.14_BG_00.png"
+    },
+    "gameId": "SLPM_550.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_550.14/SLPM_550.14_BG.png",
+      "kind": "background",
+      "bytes": 179545,
+      "width": 640,
+      "height": 480,
+      "sha256": "1cb9bd06a2ff99f9a5a527c34a3ba7c9f81adc84aa7d1b506065bf7948e9c344",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.14/SLPM_550.14_BG_00.png"
+      },
+      "gameId": "SLPM_550.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Aria: The Origination ~Aoi Hoshi no El Cielo~"
+}

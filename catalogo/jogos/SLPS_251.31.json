@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.31",
+  "cover": {
+    "path": "PS2/SLPS_251.31/SLPS_251.31_COV.png",
+    "kind": "cover",
+    "bytes": 58893,
+    "width": 192,
+    "height": 272,
+    "sha256": "fc936c9e7d5c8c4fa5e6f3d258e15b9fc742f61840a874893ed7471e27899e8b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25131.jpg"
+    },
+    "gameId": "SLPS_251.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ghost Vibration"
+}

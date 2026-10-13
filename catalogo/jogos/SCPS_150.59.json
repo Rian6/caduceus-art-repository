@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.59",
+  "cover": {
+    "path": "PS2/SCPS_150.59/SCPS_150.59_COV.png",
+    "kind": "cover",
+    "bytes": 92359,
+    "width": 192,
+    "height": 272,
+    "sha256": "be90e489b31330ea3f0a23bb33b2c9c2333dcd8987e77d04f31da715f9db6017",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15059.jpg"
+    },
+    "gameId": "SCPS_150.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.59/SCPS_150.59_BG.png",
+    "kind": "background",
+    "bytes": 176392,
+    "width": 640,
+    "height": 480,
+    "sha256": "4ae33f6784ded9f4500f38422bb839f2ad22cf73e512ad388782317ffb5caf87",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.59/SCPS_150.59_BG_00.png"
+    },
+    "gameId": "SCPS_150.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.59/SCPS_150.59_BG.png",
+      "kind": "background",
+      "bytes": 176392,
+      "width": 640,
+      "height": 480,
+      "sha256": "4ae33f6784ded9f4500f38422bb839f2ad22cf73e512ad388782317ffb5caf87",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.59/SCPS_150.59_BG_00.png"
+      },
+      "gameId": "SCPS_150.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Minna no Golf 4"
+}

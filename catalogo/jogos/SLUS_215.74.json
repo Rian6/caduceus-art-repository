@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_215.74",
+  "cover": {
+    "path": "PS2/SLUS_215.74/SLUS_215.74_COV.png",
+    "kind": "cover",
+    "bytes": 111119,
+    "width": 192,
+    "height": 272,
+    "sha256": "9563b29283b0b9d4480b6db2c6838210460eec298750bd174b00754efa6e251b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21574.jpg"
+    },
+    "gameId": "SLUS_215.74"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.74/SLUS_215.74_ICO.png",
+    "kind": "disc",
+    "bytes": 33045,
+    "width": 256,
+    "height": 256,
+    "sha256": "da070cf44687b271a18cd75a8c9a1588a6fcdb90ed566f977ccb07a507ec549e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.74_ICO.png"
+    },
+    "gameId": "SLUS_215.74"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.74/SLUS_215.74_BG.png",
+    "kind": "background",
+    "bytes": 230699,
+    "width": 640,
+    "height": 480,
+    "sha256": "3c9cb0c2cff6097c13b2abbafce26f4c9aacc59e595b164b39145d3687efee5d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.74/SLUS_215.74_BG_00.png"
+    },
+    "gameId": "SLUS_215.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.74/SLUS_215.74_BG.png",
+      "kind": "background",
+      "bytes": 230699,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c9cb0c2cff6097c13b2abbafce26f4c9aacc59e595b164b39145d3687efee5d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.74/SLUS_215.74_BG_00.png"
+      },
+      "gameId": "SLUS_215.74"
+    },
+    {
+      "path": "PS2/SLUS_215.74/SLUS_215.74_BG_01.png",
+      "kind": "background",
+      "bytes": 253359,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9e3d90bdd61190ff22ed5dc541267c973380e091474d734f48c683030f41743",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.74/SLUS_215.74_BG_01.png"
+      },
+      "gameId": "SLUS_215.74"
+    },
+    {
+      "path": "PS2/SLUS_215.74/SLUS_215.74_BG_02.png",
+      "kind": "background",
+      "bytes": 251200,
+      "width": 640,
+      "height": 480,
+      "sha256": "4c0d1580dd263f1071986cfae6773f7f132d47e1fad03cf3c8ea7ba2da59f06d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.74/SLUS_215.74_BG_02.png"
+      },
+      "gameId": "SLUS_215.74"
+    },
+    {
+      "path": "PS2/SLUS_215.74/SLUS_215.74_BG_03.png",
+      "kind": "background",
+      "bytes": 254054,
+      "width": 640,
+      "height": 480,
+      "sha256": "78204776055fdd46f6321050e3b14a76d5d81b139c05a5d9e301fd048f3f1d4d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.74/SLUS_215.74_BG_03.png"
+      },
+      "gameId": "SLUS_215.74"
+    },
+    {
+      "path": "PS2/SLUS_215.74/SLUS_215.74_BG_04.png",
+      "kind": "background",
+      "bytes": 151001,
+      "width": 640,
+      "height": 480,
+      "sha256": "88bac20f364003a66897c239890dc82a73243017203322bb4fdf976b1ef3e6d9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.74/SLUS_215.74_BG_04.png"
+      },
+      "gameId": "SLUS_215.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DAWN OF MANA"
+}

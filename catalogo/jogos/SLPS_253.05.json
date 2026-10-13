@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_253.05",
+  "cover": {
+    "path": "PS2/SLPS_253.05/SLPS_253.05_COV.png",
+    "kind": "cover",
+    "bytes": 99625,
+    "width": 192,
+    "height": 272,
+    "sha256": "323c10b0d8711557070fabadf30f7e3b060d208f201fab18f3a5270d0e068026",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25305.jpg"
+    },
+    "gameId": "SLPS_253.05"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_253.05/SLPS_253.05_BG.png",
+    "kind": "background",
+    "bytes": 193890,
+    "width": 640,
+    "height": 480,
+    "sha256": "5961e12ff4d636eddb82966e0ad7e494dc82bf1ee47f69758e86dd3adb536672",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.05/SLPS_253.05_BG_00.png"
+    },
+    "gameId": "SLPS_253.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.05/SLPS_253.05_BG.png",
+      "kind": "background",
+      "bytes": 193890,
+      "width": 640,
+      "height": 480,
+      "sha256": "5961e12ff4d636eddb82966e0ad7e494dc82bf1ee47f69758e86dd3adb536672",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.05/SLPS_253.05_BG_00.png"
+      },
+      "gameId": "SLPS_253.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Z Gundam - AEUG Vs. Titans"
+}

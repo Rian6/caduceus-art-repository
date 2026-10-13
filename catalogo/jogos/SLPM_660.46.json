@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_660.46",
+  "cover": {
+    "path": "PS2/SLPM_660.46/SLPM_660.46_COV.png",
+    "kind": "cover",
+    "bytes": 87006,
+    "width": 192,
+    "height": 272,
+    "sha256": "7546df3df319d9993ea03dee3814f8c53f37049b014ccde823b4aee81d063912",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66046.jpg"
+    },
+    "gameId": "SLPM_660.46"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_660.46/SLPM_660.46_BG.png",
+    "kind": "background",
+    "bytes": 200433,
+    "width": 640,
+    "height": 480,
+    "sha256": "3bbd4f9fdeb1e4f755a5d52cfb411b14a06ef2c0f78ee4401f90b5a1f35c9f60",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_660.46/SLPM_660.46_BG_00.png"
+    },
+    "gameId": "SLPM_660.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_660.46/SLPM_660.46_BG.png",
+      "kind": "background",
+      "bytes": 200433,
+      "width": 640,
+      "height": 480,
+      "sha256": "3bbd4f9fdeb1e4f755a5d52cfb411b14a06ef2c0f78ee4401f90b5a1f35c9f60",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.46/SLPM_660.46_BG_00.png"
+      },
+      "gameId": "SLPM_660.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR WARS - EPISODE III - REVENGE OF THE SITH - SITH NO FUKUSHUU"
+}

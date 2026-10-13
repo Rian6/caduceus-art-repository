@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.03",
+  "cover": {
+    "path": "PS2/SLKA_253.03/SLKA_253.03_COV.png",
+    "kind": "cover",
+    "bytes": 57969,
+    "width": 192,
+    "height": 272,
+    "sha256": "53bb1dc76ce1595b4f87df1a6313ede809d3cb8d94fb21f3ffac3b67a99ac415",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.03/SLKA_253.03_COV.png"
+    },
+    "gameId": "SLKA_253.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Matrix Path of Neo"
+}

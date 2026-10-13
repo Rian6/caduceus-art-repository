@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.51",
+  "cover": {
+    "path": "PS2/SLPS_732.51/SLPS_732.51_COV.png",
+    "kind": "cover",
+    "bytes": 93872,
+    "width": 192,
+    "height": 272,
+    "sha256": "ac8f650289e585d37beddad632ce49d95a241a72f29d8909d974be224569a996",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73251.jpg"
+    },
+    "gameId": "SLPS_732.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Naruto - Narutimate Hero 3 (Playstation 2 The Best)"
+}

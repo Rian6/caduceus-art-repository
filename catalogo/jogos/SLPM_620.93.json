@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_620.93",
+  "cover": {
+    "path": "PS2/SLPM_620.93/SLPM_620.93_COV.png",
+    "kind": "cover",
+    "bytes": 90825,
+    "width": 192,
+    "height": 272,
+    "sha256": "38a7fdd45ab46c827b811f1281af5bd6cd7a594b12ac3fbc5175c8bc37226b28",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62093.jpg"
+    },
+    "gameId": "SLPM_620.93"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_620.93/SLPM_620.93_BG.png",
+    "kind": "background",
+    "bytes": 160793,
+    "width": 640,
+    "height": 480,
+    "sha256": "7dfbfa24b56a27f5fe3d2dc84b764bb61ecae30cac2153517aa0d2000f8fb69a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_620.93/SLPM_620.93_BG_00.png"
+    },
+    "gameId": "SLPM_620.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_620.93/SLPM_620.93_BG.png",
+      "kind": "background",
+      "bytes": 160793,
+      "width": 640,
+      "height": 480,
+      "sha256": "7dfbfa24b56a27f5fe3d2dc84b764bb61ecae30cac2153517aa0d2000f8fb69a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.93/SLPM_620.93_BG_00.png"
+      },
+      "gameId": "SLPM_620.93"
+    },
+    {
+      "path": "PS2/SLPM_620.93/SLPM_620.93_BG_01.png",
+      "kind": "background",
+      "bytes": 150411,
+      "width": 640,
+      "height": 480,
+      "sha256": "6194023e856c0565f2357b6fffac830f8366dccf64ba81cd3ab23ca7fd34e6b7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.93/SLPM_620.93_BG_01.png"
+      },
+      "gameId": "SLPM_620.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 ULTIMATE SERIES VOL.01 - LOVE SMASH"
+}

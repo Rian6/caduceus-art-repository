@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_972.80",
+  "cover": {
+    "path": "PS2/SCUS_972.80/SCUS_972.80_COV.png",
+    "kind": "cover",
+    "bytes": 103103,
+    "width": 192,
+    "height": 272,
+    "sha256": "aa9ee9011cff6a5fef9ee724c6ccb273b4cb26e7a4711a2056d5f4f807d4948c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97280.jpg"
+    },
+    "gameId": "SCUS_972.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jampack: Summer 2003"
+}

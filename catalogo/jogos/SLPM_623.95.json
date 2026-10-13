@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_623.95",
+  "cover": {
+    "path": "PS2/SLPM_623.95/SLPM_623.95_COV.png",
+    "kind": "cover",
+    "bytes": 84177,
+    "width": 192,
+    "height": 272,
+    "sha256": "32e2c0913f3f163678804d89c8506bd632165834d62ff7156afdc80c250f0448",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62395.jpg"
+    },
+    "gameId": "SLPM_623.95"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_623.95/SLPM_623.95_BG.png",
+    "kind": "background",
+    "bytes": 165702,
+    "width": 640,
+    "height": 480,
+    "sha256": "06f38510cb923eecf32f17c379eb5ff35ebf2b00a3ca3c0dc6084e4bf823feff",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_623.95/SLPM_623.95_BG_00.png"
+    },
+    "gameId": "SLPM_623.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_623.95/SLPM_623.95_BG.png",
+      "kind": "background",
+      "bytes": 165702,
+      "width": 640,
+      "height": 480,
+      "sha256": "06f38510cb923eecf32f17c379eb5ff35ebf2b00a3ca3c0dc6084e4bf823feff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_623.95/SLPM_623.95_BG_00.png"
+      },
+      "gameId": "SLPM_623.95"
+    },
+    {
+      "path": "PS2/SLPM_623.95/SLPM_623.95_BG_01.png",
+      "kind": "background",
+      "bytes": 206551,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e00ae52f9fba632037e80b439bfe084ec828f695b1451fa767edb933850df7b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_623.95/SLPM_623.95_BG_01.png"
+      },
+      "gameId": "SLPM_623.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.37 - The Shooting - Double Shienryu"
+}

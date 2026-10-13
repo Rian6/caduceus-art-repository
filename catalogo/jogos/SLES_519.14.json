@@ -1,0 +1,103 @@
+{
+  "id": "SLES_519.14",
+  "cover": {
+    "path": "PS2/SLES_519.14/SLES_519.14_COV.png",
+    "kind": "cover",
+    "bytes": 90286,
+    "width": 192,
+    "height": 272,
+    "sha256": "942402e2aa80ec6200f5f59810c439d0291bb1e3c77f5d63458fe8d510feda0c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51914.jpg"
+    },
+    "gameId": "SLES_519.14"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_519.14/SLES_519.14_BG.png",
+    "kind": "background",
+    "bytes": 129242,
+    "width": 640,
+    "height": 480,
+    "sha256": "db8bed99041c1f0e6ca36e6ec54b5f6457a49aa8d34d41e34c1bb83b487126a4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.14/SLES_519.14_BG_00.png"
+    },
+    "gameId": "SLES_519.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.14/SLES_519.14_BG.png",
+      "kind": "background",
+      "bytes": 129242,
+      "width": 640,
+      "height": 480,
+      "sha256": "db8bed99041c1f0e6ca36e6ec54b5f6457a49aa8d34d41e34c1bb83b487126a4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.14/SLES_519.14_BG_00.png"
+      },
+      "gameId": "SLES_519.14"
+    },
+    {
+      "path": "PS2/SLES_519.14/SLES_519.14_BG_01.png",
+      "kind": "background",
+      "bytes": 93426,
+      "width": 640,
+      "height": 480,
+      "sha256": "d595ae8892f5a62384a782064ce48e279edb8266e3059fe6a41d81ab26369d02",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.14/SLES_519.14_BG_01.png"
+      },
+      "gameId": "SLES_519.14"
+    },
+    {
+      "path": "PS2/SLES_519.14/SLES_519.14_BG_02.png",
+      "kind": "background",
+      "bytes": 198156,
+      "width": 640,
+      "height": 480,
+      "sha256": "aebb3d9f8b045c1513040dcce5259b69917880da4a9479cfacb20588ec61fb61",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.14/SLES_519.14_BG_02.png"
+      },
+      "gameId": "SLES_519.14"
+    },
+    {
+      "path": "PS2/SLES_519.14/SLES_519.14_BG_03.png",
+      "kind": "background",
+      "bytes": 185063,
+      "width": 640,
+      "height": 480,
+      "sha256": "20e2eb3b572ad956ea593932e87da00d4447651b7dc897ac34d628a295f4cdf5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.14/SLES_519.14_BG_03.png"
+      },
+      "gameId": "SLES_519.14"
+    },
+    {
+      "path": "PS2/SLES_519.14/SLES_519.14_BG_04.png",
+      "kind": "background",
+      "bytes": 211924,
+      "width": 640,
+      "height": 480,
+      "sha256": "4609ca0d54793a65e3c59a638dbc5caa23f2c3341a7c531ae536b506df8a97a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.14/SLES_519.14_BG_04.png"
+      },
+      "gameId": "SLES_519.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONIMUSHA 3"
+}

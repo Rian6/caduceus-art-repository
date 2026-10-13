@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_625.99",
+  "cover": {
+    "path": "PS2/SLPS_625.99/SLPS_625.99_COV.png",
+    "kind": "cover",
+    "bytes": 58939,
+    "width": 192,
+    "height": 272,
+    "sha256": "52f81af32f2f9989809d81ec6f9756c300e81e65481de4c554a176749ec15704",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_625.99/SLPS_625.99_COV.png"
+    },
+    "gameId": "SLPS_625.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bomberman Kart DX (Hudson the Best)"
+}

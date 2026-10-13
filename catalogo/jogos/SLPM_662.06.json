@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.06",
+  "cover": {
+    "path": "PS2/SLPM_662.06/SLPM_662.06_COV.png",
+    "kind": "cover",
+    "bytes": 102458,
+    "width": 192,
+    "height": 272,
+    "sha256": "205db2f2e9e2ed774e7fa76dfc39d7b8c0d0f05c10a08c17a52b9a36bef1d90b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66206.jpg"
+    },
+    "gameId": "SLPM_662.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BATTLEFIELD 2 - MODERN COMBAT"
+}

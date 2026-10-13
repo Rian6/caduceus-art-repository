@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.86",
+  "cover": {
+    "path": "PS2/SLPM_626.86/SLPM_626.86_COV.png",
+    "kind": "cover",
+    "bytes": 106795,
+    "width": 192,
+    "height": 272,
+    "sha256": "5997a0de4a5d847223722738b94841034b8c51c6584f9038d9d58df68720b5c8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62686.jpg"
+    },
+    "gameId": "SLPM_626.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PSIKYO SHOOTING COLLECTION VOL. 2 - SENGOKU ACE & SENGOKU BLADE [TAITO THE BEST]"
+}

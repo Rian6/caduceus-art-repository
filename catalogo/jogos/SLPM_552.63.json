@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_552.63",
+  "cover": {
+    "path": "PS2/SLPM_552.63/SLPM_552.63_COV.png",
+    "kind": "cover",
+    "bytes": 109570,
+    "width": 192,
+    "height": 272,
+    "sha256": "bdea5d4eee3914bb6904637e1d33c8a3b27d58cccfa4884760a371e3cb5142f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55263.jpg"
+    },
+    "gameId": "SLPM_552.63"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_552.63/SLPM_552.63_BG.png",
+    "kind": "background",
+    "bytes": 174682,
+    "width": 640,
+    "height": 480,
+    "sha256": "b4adc811f1bc074079fc5dac28031cf1f3927f62193e29cf55ab261befb90159",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_552.63/SLPM_552.63_BG_00.png"
+    },
+    "gameId": "SLPM_552.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_552.63/SLPM_552.63_BG.png",
+      "kind": "background",
+      "bytes": 174682,
+      "width": 640,
+      "height": 480,
+      "sha256": "b4adc811f1bc074079fc5dac28031cf1f3927f62193e29cf55ab261befb90159",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_552.63/SLPM_552.63_BG_00.png"
+      },
+      "gameId": "SLPM_552.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hana to Otome ni Shukufuku o: Harukaze no Okurimono"
+}

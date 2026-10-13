@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_252.03",
+  "cover": {
+    "path": "PS2/SLPS_252.03/SLPS_252.03_COV.png",
+    "kind": "cover",
+    "bytes": 90431,
+    "width": 192,
+    "height": 272,
+    "sha256": "878b7f8a0c5954c108cad2e5f998280461722ab6c0b307136af361c8362ba65d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25203.jpg"
+    },
+    "gameId": "SLPS_252.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_252.03/SLPS_252.03_BG.png",
+    "kind": "background",
+    "bytes": 164332,
+    "width": 640,
+    "height": 480,
+    "sha256": "9049ce91d88105551e894580046804739c20d777f283b7603d79770ae70ecd11",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_252.03/SLPS_252.03_BG_00.png"
+    },
+    "gameId": "SLPS_252.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_252.03/SLPS_252.03_BG.png",
+      "kind": "background",
+      "bytes": 164332,
+      "width": 640,
+      "height": 480,
+      "sha256": "9049ce91d88105551e894580046804739c20d777f283b7603d79770ae70ecd11",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.03/SLPS_252.03_BG_00.png"
+      },
+      "gameId": "SLPS_252.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007 - NIGHTFIRE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_191.05",
+  "cover": {
+    "path": "PS2/SCPS_191.05/SCPS_191.05_COV.png",
+    "kind": "cover",
+    "bytes": 83295,
+    "width": 192,
+    "height": 272,
+    "sha256": "573791ead718a422e7a19062e2dc9c43b0ae7e2572ff259cd87414ebcdecb51c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19105.jpg"
+    },
+    "gameId": "SCPS_191.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BRAVO MUSIC [PLAYSTATION 2 THE BEST]"
+}

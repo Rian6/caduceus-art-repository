@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.07",
+  "cover": {
+    "path": "PS2/SLPM_661.07/SLPM_661.07_COV.png",
+    "kind": "cover",
+    "bytes": 95911,
+    "width": 192,
+    "height": 272,
+    "sha256": "812dd30eb2ef77f2e17eb7c935e7370f2e34fc94a79ab83e202db4ac5b96f497",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66107.jpg"
+    },
+    "gameId": "SLPM_661.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HOSHI NO FURU TOKI"
+}

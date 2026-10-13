@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.56",
+  "cover": {
+    "path": "PS2/SLPS_202.56/SLPS_202.56_COV.png",
+    "kind": "cover",
+    "bytes": 81427,
+    "width": 192,
+    "height": 272,
+    "sha256": "ab05ecc970aa1830c63334e61ea74b87230a100e3f6c5adf27103e5380181dc9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20256.jpg"
+    },
+    "gameId": "SLPS_202.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cool Shoot - Yukawa Keiko"
+}

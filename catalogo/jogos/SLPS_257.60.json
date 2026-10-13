@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.60",
+  "cover": {
+    "path": "PS2/SLPS_257.60/SLPS_257.60_COV.png",
+    "kind": "cover",
+    "bytes": 75494,
+    "width": 192,
+    "height": 272,
+    "sha256": "9ddbd9efdeb19d5fe14fe4e38e04d22212b9b5ff512b95576c537294cd36092f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25760.jpg"
+    },
+    "gameId": "SLPS_257.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "VITAMIN X [LIMITED EDITION]"
+}

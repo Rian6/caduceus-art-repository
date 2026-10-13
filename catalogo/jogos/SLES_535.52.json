@@ -1,0 +1,90 @@
+{
+  "id": "SLES_535.52",
+  "cover": {
+    "path": "PS2/SLES_535.52/SLES_535.52_COV.png",
+    "kind": "cover",
+    "bytes": 112579,
+    "width": 192,
+    "height": 272,
+    "sha256": "db4933abd2e794f0c8ef358c74ee661d7eb73c240b3e504ebef6ea27462b7a76",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53552.jpg"
+    },
+    "gameId": "SLES_535.52"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_535.52/SLES_535.52_BG.png",
+    "kind": "background",
+    "bytes": 211201,
+    "width": 640,
+    "height": 480,
+    "sha256": "89808dddf090cdecbc2075a43d03859a8dfee58342d00275c914730450257e2a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.52/SLES_535.52_BG_00.png"
+    },
+    "gameId": "SLES_535.52"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.52/SLES_535.52_BG.png",
+      "kind": "background",
+      "bytes": 211201,
+      "width": 640,
+      "height": 480,
+      "sha256": "89808dddf090cdecbc2075a43d03859a8dfee58342d00275c914730450257e2a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.52/SLES_535.52_BG_00.png"
+      },
+      "gameId": "SLES_535.52"
+    },
+    {
+      "path": "PS2/SLES_535.52/SLES_535.52_BG_01.png",
+      "kind": "background",
+      "bytes": 219347,
+      "width": 640,
+      "height": 480,
+      "sha256": "89e8b629c6d665819a53dd1bf682704559a80e93c957df97a75c334e778a5293",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.52/SLES_535.52_BG_01.png"
+      },
+      "gameId": "SLES_535.52"
+    },
+    {
+      "path": "PS2/SLES_535.52/SLES_535.52_BG_02.png",
+      "kind": "background",
+      "bytes": 212416,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a27431515746a3325ced8abeb04be4abae451c72d4ca3cb4af74812f0e3820f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.52/SLES_535.52_BG_02.png"
+      },
+      "gameId": "SLES_535.52"
+    },
+    {
+      "path": "PS2/SLES_535.52/SLES_535.52_BG_03.png",
+      "kind": "background",
+      "bytes": 137360,
+      "width": 640,
+      "height": 480,
+      "sha256": "4972e19b2879b1f81f8eea28d745d6ad48858e021db07ddc3a2d5e0d4517f4fb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.52/SLES_535.52_BG_03.png"
+      },
+      "gameId": "SLES_535.52"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SSX - On Tour"
+}

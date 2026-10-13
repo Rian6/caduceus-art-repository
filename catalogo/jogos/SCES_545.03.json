@@ -1,0 +1,25 @@
+{
+  "id": "SCES_545.03",
+  "cover": {
+    "path": "PS2/SCES_545.03/SCES_545.03_COV.png",
+    "kind": "cover",
+    "bytes": 62163,
+    "width": 192,
+    "height": 272,
+    "sha256": "022a25ff32cf53cbf9181900b5103fcea9917a4d7a2d5b3cc1c62039961ef2ee",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_545.03/SCES_545.03_COV.png"
+    },
+    "gameId": "SCES_545.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Megavisa"
+}

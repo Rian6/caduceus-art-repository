@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.82",
+  "cover": {
+    "path": "PS2/SLPM_660.82/SLPM_660.82_COV.png",
+    "kind": "cover",
+    "bytes": 64677,
+    "width": 192,
+    "height": 272,
+    "sha256": "75bca88a3e87a381f865f2a13f9915ec722c8652c3c2727727df0212a7a8c49a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66082.jpg"
+    },
+    "gameId": "SLPM_660.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fire Pro Wrestling Returns"
+}

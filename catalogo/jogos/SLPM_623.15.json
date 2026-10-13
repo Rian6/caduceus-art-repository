@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.15",
+  "cover": {
+    "path": "PS2/SLPM_623.15/SLPM_623.15_COV.png",
+    "kind": "cover",
+    "bytes": 76633,
+    "width": 192,
+    "height": 272,
+    "sha256": "b2f579aa058c94f3b0d606e9e55e6219e12a7fe48c51d8576c644787d020adab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62315.jpg"
+    },
+    "gameId": "SLPM_623.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PUCHI COPTER [WITH CONTROLLER]"
+}

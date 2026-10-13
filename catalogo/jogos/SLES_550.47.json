@@ -1,0 +1,65 @@
+{
+  "id": "SLES_550.47",
+  "cover": {
+    "path": "PS2/SLES_550.47/SLES_550.47_COV.png",
+    "kind": "cover",
+    "bytes": 102816,
+    "width": 192,
+    "height": 272,
+    "sha256": "0443b71a6299e3fc51b485938f7d50c2951e09d4d324a255bd8c0e4885ecf8f6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55047.jpg"
+    },
+    "gameId": "SLES_550.47"
+  },
+  "disc": {
+    "path": "PS2/SLES_550.47/SLES_550.47_ICO.png",
+    "kind": "disc",
+    "bytes": 12330,
+    "width": 128,
+    "height": 128,
+    "sha256": "728b3500d8f57e1272e1ecabbd51466e50ca498f2e838e2be2083e8a42c0a354",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_550.47_ICO.png"
+    },
+    "gameId": "SLES_550.47"
+  },
+  "background": {
+    "path": "PS2/SLES_550.47/SLES_550.47_BG.png",
+    "kind": "background",
+    "bytes": 181499,
+    "width": 640,
+    "height": 480,
+    "sha256": "425a8069a58fb16f84cb606ce3f851f629c8c2183582eb3bdc95dd273209905a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.47/SLES_550.47_BG_00.png"
+    },
+    "gameId": "SLES_550.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.47/SLES_550.47_BG.png",
+      "kind": "background",
+      "bytes": 181499,
+      "width": 640,
+      "height": 480,
+      "sha256": "425a8069a58fb16f84cb606ce3f851f629c8c2183582eb3bdc95dd273209905a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.47/SLES_550.47_BG_00.png"
+      },
+      "gameId": "SLES_550.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ocean Commander"
+}

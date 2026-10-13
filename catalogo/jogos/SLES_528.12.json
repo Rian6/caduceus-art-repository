@@ -1,0 +1,64 @@
+{
+  "id": "SLES_528.12",
+  "cover": {
+    "path": "PS2/SLES_528.12/SLES_528.12_COV.png",
+    "kind": "cover",
+    "bytes": 62095,
+    "width": 192,
+    "height": 272,
+    "sha256": "f1deb7ffc4b228957ec3a7d7bdb1d67dd22b85e4401e6dae422b94795cee2a9a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52812.jpg"
+    },
+    "gameId": "SLES_528.12"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.12/SLES_528.12_BG.png",
+    "kind": "background",
+    "bytes": 161457,
+    "width": 640,
+    "height": 480,
+    "sha256": "c837eedb0c6d0dad84d47659ad64d82872c0c76d75d3dc040ef7ef77e9c7603a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.12/SLES_528.12_BG_00.png"
+    },
+    "gameId": "SLES_528.12"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.12/SLES_528.12_BG.png",
+      "kind": "background",
+      "bytes": 161457,
+      "width": 640,
+      "height": 480,
+      "sha256": "c837eedb0c6d0dad84d47659ad64d82872c0c76d75d3dc040ef7ef77e9c7603a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.12/SLES_528.12_BG_00.png"
+      },
+      "gameId": "SLES_528.12"
+    },
+    {
+      "path": "PS2/SLES_528.12/SLES_528.12_BG_01.png",
+      "kind": "background",
+      "bytes": 132304,
+      "width": 640,
+      "height": 480,
+      "sha256": "5c62580fd1470dd1f172962be977269a8e0a0bc754944ce2d6db849df3d70ea9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.12/SLES_528.12_BG_01.png"
+      },
+      "gameId": "SLES_528.12"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar The Incredibles"
+}

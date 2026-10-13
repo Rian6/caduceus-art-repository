@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.44",
+  "cover": {
+    "path": "PS2/SLPS_253.44/SLPS_253.44_COV.png",
+    "kind": "cover",
+    "bytes": 68649,
+    "width": 192,
+    "height": 272,
+    "sha256": "7cc18d8936b7e3b79bae58dbb11eab2fb819a6259b9ed72fd2acefd99ad43a9e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.44/SLPS_253.44_COV.png"
+    },
+    "gameId": "SLPS_253.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saiyuki Reload"
+}

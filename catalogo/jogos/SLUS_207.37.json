@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_207.37",
+  "cover": {
+    "path": "PS2/SLUS_207.37/SLUS_207.37_COV.png",
+    "kind": "cover",
+    "bytes": 107112,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0f007f9905d370e636ac3b103915e46c59aaf3efcae83970ab5805c3d73a767",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20737.jpg"
+    },
+    "gameId": "SLUS_207.37"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.37/SLUS_207.37_ICO.png",
+    "kind": "disc",
+    "bytes": 31288,
+    "width": 256,
+    "height": 256,
+    "sha256": "c90c97decc65fe76d276aefba4933c17889a8eae12d6862e438aea118381e0d6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.37_ICO.png"
+    },
+    "gameId": "SLUS_207.37"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.37/SLUS_207.37_BG.png",
+    "kind": "background",
+    "bytes": 222280,
+    "width": 640,
+    "height": 480,
+    "sha256": "cb0467525a37a9237b1392b57ee7f977aa83f5ebdba1e3e6fd65ec6459964796",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.37/SLUS_207.37_BG_00.png"
+    },
+    "gameId": "SLUS_207.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.37/SLUS_207.37_BG.png",
+      "kind": "background",
+      "bytes": 222280,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb0467525a37a9237b1392b57ee7f977aa83f5ebdba1e3e6fd65ec6459964796",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.37/SLUS_207.37_BG_00.png"
+      },
+      "gameId": "SLUS_207.37"
+    },
+    {
+      "path": "PS2/SLUS_207.37/SLUS_207.37_BG_01.png",
+      "kind": "background",
+      "bytes": 183952,
+      "width": 640,
+      "height": 480,
+      "sha256": "56a88e3e0583e3cb8969f5e2a49bbfc8b4fc6c8567950b0aa77b8955a34f392d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.37/SLUS_207.37_BG_01.png"
+      },
+      "gameId": "SLUS_207.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hot Wheels - World Race"
+}

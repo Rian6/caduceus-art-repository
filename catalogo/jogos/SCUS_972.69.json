@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_972.69",
+  "cover": {
+    "path": "PS2/SCUS_972.69/SCUS_972.69_COV.png",
+    "kind": "cover",
+    "bytes": 54351,
+    "width": 192,
+    "height": 272,
+    "sha256": "3aadde21c8722af99f762a578dd8c1500cc7987bc9d983628ff881a9402035f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97269.jpg"
+    },
+    "gameId": "SCUS_972.69"
+  },
+  "disc": {
+    "path": "PS2/SCUS_972.69/SCUS_972.69_ICO.png",
+    "kind": "disc",
+    "bytes": 8940,
+    "width": 128,
+    "height": 128,
+    "sha256": "17dd1957a7d83341a07f0ac16b222fee49d9bea64c192266801997019df6792e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCUS_972.69_ICO.png"
+    },
+    "gameId": "SCUS_972.69"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PlayOnline Viewer and Tetra Master"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SLES_534.43",
+  "cover": {
+    "path": "PS2/SLES_534.43/SLES_534.43_COV.png",
+    "kind": "cover",
+    "bytes": 103575,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ece409e1e2a39e48d6172eaf4a8986f19048b967f09938947a3f29861e27340",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53443.jpg"
+    },
+    "gameId": "SLES_534.43"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_534.43/SLES_534.43_BG.png",
+    "kind": "background",
+    "bytes": 227784,
+    "width": 640,
+    "height": 480,
+    "sha256": "d66670c15e8442275642a0b00985f6865c6e51a3804513e26574ce999bc67151",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.43/SLES_534.43_BG_00.png"
+    },
+    "gameId": "SLES_534.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.43/SLES_534.43_BG.png",
+      "kind": "background",
+      "bytes": 227784,
+      "width": 640,
+      "height": 480,
+      "sha256": "d66670c15e8442275642a0b00985f6865c6e51a3804513e26574ce999bc67151",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.43/SLES_534.43_BG_00.png"
+      },
+      "gameId": "SLES_534.43"
+    },
+    {
+      "path": "PS2/SLES_534.43/SLES_534.43_BG_01.png",
+      "kind": "background",
+      "bytes": 176828,
+      "width": 640,
+      "height": 480,
+      "sha256": "cc2430dc7a0c6080f891f6004177c50590143e4cb5ce6c86484f3127f9ceca65",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.43/SLES_534.43_BG_01.png"
+      },
+      "gameId": "SLES_534.43"
+    },
+    {
+      "path": "PS2/SLES_534.43/SLES_534.43_BG_02.png",
+      "kind": "background",
+      "bytes": 177275,
+      "width": 640,
+      "height": 480,
+      "sha256": "25ed036f3074fad13234267a807f68a82511e22d99a86d6514c8d15747ad3f2e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.43/SLES_534.43_BG_02.png"
+      },
+      "gameId": "SLES_534.43"
+    },
+    {
+      "path": "PS2/SLES_534.43/SLES_534.43_BG_03.png",
+      "kind": "background",
+      "bytes": 221315,
+      "width": 640,
+      "height": 480,
+      "sha256": "f39c3d2e80bb4973eaea0df9668302665f1c37a4f66fd85982944ea39c0bbcb5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.43/SLES_534.43_BG_03.png"
+      },
+      "gameId": "SLES_534.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Warriors"
+}

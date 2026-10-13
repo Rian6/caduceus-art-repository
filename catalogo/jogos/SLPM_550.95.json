@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.95",
+  "cover": {
+    "path": "PS2/SLPM_550.95/SLPM_550.95_COV.png",
+    "kind": "cover",
+    "bytes": 100823,
+    "width": 192,
+    "height": 272,
+    "sha256": "5afa6fd05f8c6593f7880f4b58603f45cd3507624cc13e39bf35b50aa2c69429",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55095.jpg"
+    },
+    "gameId": "SLPM_550.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHINKYOUKU SOUKAI POLYPHONICA - THE BLACK - EPISODE 1 & 2 - CS EDITION"
+}

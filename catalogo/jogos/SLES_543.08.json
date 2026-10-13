@@ -1,0 +1,64 @@
+{
+  "id": "SLES_543.08",
+  "cover": {
+    "path": "PS2/SLES_543.08/SLES_543.08_COV.png",
+    "kind": "cover",
+    "bytes": 108636,
+    "width": 192,
+    "height": 272,
+    "sha256": "57363443a391b5b269ee0ce397ffd2fe07857eb89180eba9f807ec63d7d42978",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54308.jpg"
+    },
+    "gameId": "SLES_543.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.08/SLES_543.08_BG.png",
+    "kind": "background",
+    "bytes": 194320,
+    "width": 640,
+    "height": 480,
+    "sha256": "8e46b92ecc25bd5eb31712ea86f56037eb85e1f9cb0b0cbce1d29e00ece3fb7e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.08/SLES_543.08_BG_00.png"
+    },
+    "gameId": "SLES_543.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.08/SLES_543.08_BG.png",
+      "kind": "background",
+      "bytes": 194320,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e46b92ecc25bd5eb31712ea86f56037eb85e1f9cb0b0cbce1d29e00ece3fb7e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.08/SLES_543.08_BG_00.png"
+      },
+      "gameId": "SLES_543.08"
+    },
+    {
+      "path": "PS2/SLES_543.08/SLES_543.08_BG_01.png",
+      "kind": "background",
+      "bytes": 188328,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3428f3a2375dcfeb01c62a4e52b57e4aeedd257f6c831dc7531689595550cfb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.08/SLES_543.08_BG_01.png"
+      },
+      "gameId": "SLES_543.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Phantasy Star Universe"
+}

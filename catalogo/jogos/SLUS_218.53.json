@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_218.53",
+  "cover": {
+    "path": "PS2/SLUS_218.53/SLUS_218.53_COV.png",
+    "kind": "cover",
+    "bytes": 101993,
+    "width": 192,
+    "height": 272,
+    "sha256": "0d0362b81b2bd4d39826fa2a6b8549dd44e655b07bde8d6525836aaab230758c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21853.jpg"
+    },
+    "gameId": "SLUS_218.53"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.53/SLUS_218.53_ICO.png",
+    "kind": "disc",
+    "bytes": 34882,
+    "width": 256,
+    "height": 256,
+    "sha256": "8f79b1c062a94067661298b50170391f62f5561b79c51b967f0558eb64b7dcdf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.53_ICO.png"
+    },
+    "gameId": "SLUS_218.53"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.53/SLUS_218.53_BG.png",
+    "kind": "background",
+    "bytes": 1714512,
+    "width": 640,
+    "height": 480,
+    "sha256": "972ab8d735310c143e2013b6bcf2cce751844bac7ab5e70c0c80bc6e7e8d18c2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.53/SLUS_218.53_BG_00.png"
+    },
+    "gameId": "SLUS_218.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.53/SLUS_218.53_BG.png",
+      "kind": "background",
+      "bytes": 1714512,
+      "width": 640,
+      "height": 480,
+      "sha256": "972ab8d735310c143e2013b6bcf2cce751844bac7ab5e70c0c80bc6e7e8d18c2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.53/SLUS_218.53_BG_00.png"
+      },
+      "gameId": "SLUS_218.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHAUN WHITE SNOWBOARDING"
+}

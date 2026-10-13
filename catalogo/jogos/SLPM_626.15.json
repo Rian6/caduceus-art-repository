@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.15",
+  "cover": {
+    "path": "PS2/SLPM_626.15/SLPM_626.15_COV.png",
+    "kind": "cover",
+    "bytes": 101616,
+    "width": 192,
+    "height": 272,
+    "sha256": "917a7ba398516724099456eb516146801ab110f3cec8b3e726e019411dde15da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62615.jpg"
+    },
+    "gameId": "SLPM_626.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLOTTER UP MANIA 6 - OKI NO NEPPUU PIONEER SPECIAL 2"
+}

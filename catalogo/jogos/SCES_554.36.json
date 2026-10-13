@@ -1,0 +1,64 @@
+{
+  "id": "SCES_554.36",
+  "cover": {
+    "path": "PS2/SCES_554.36/SCES_554.36_COV.png",
+    "kind": "cover",
+    "bytes": 77884,
+    "width": 192,
+    "height": 272,
+    "sha256": "286eea0cfa5186f9747be7c3a1fe59c20edc7e290e27835dcdd3ef3c95661696",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55436.jpg"
+    },
+    "gameId": "SCES_554.36"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_554.36/SCES_554.36_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_554.36/SCES_554.36_BG_00.png"
+    },
+    "gameId": "SCES_554.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_554.36/SCES_554.36_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_554.36/SCES_554.36_BG_00.png"
+      },
+      "gameId": "SCES_554.36"
+    },
+    {
+      "path": "PS2/SCES_554.36/SCES_554.36_BG_01.png",
+      "kind": "background",
+      "bytes": 158290,
+      "width": 640,
+      "height": 480,
+      "sha256": "acc54873c1b73b587e7348d5090b161488ee43d8d269d5302795369b7a74b242",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_554.36/SCES_554.36_BG_01.png"
+      },
+      "gameId": "SCES_554.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Abba"
+}

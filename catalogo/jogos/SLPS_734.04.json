@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_734.04",
+  "cover": {
+    "path": "PS2/SLPS_734.04/SLPS_734.04_COV.png",
+    "kind": "cover",
+    "bytes": 80627,
+    "width": 192,
+    "height": 272,
+    "sha256": "090c8c0fe97adbd72f0c506c2eefd59846e1f73dee3d8c9cdad934804c70d010",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73404.jpg"
+    },
+    "gameId": "SLPS_734.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAZE NO KLONOA 2 - SEKAI GA NOZONDA WASUREMONO [PLAYSTATION 2 THE BEST]"
+}

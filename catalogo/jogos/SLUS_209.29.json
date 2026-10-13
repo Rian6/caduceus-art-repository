@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_209.29",
+  "cover": {
+    "path": "PS2/SLUS_209.29/SLUS_209.29_COV.png",
+    "kind": "cover",
+    "bytes": 103652,
+    "width": 192,
+    "height": 272,
+    "sha256": "4a785844df712da7cc1519f6aee900b957567291d8bf686cd7cadc504915392e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20929.jpg"
+    },
+    "gameId": "SLUS_209.29"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.29/SLUS_209.29_ICO.png",
+    "kind": "disc",
+    "bytes": 32655,
+    "width": 256,
+    "height": 256,
+    "sha256": "c066887d6af45b5177f001cb0e10e3b51aad00722696c85e5d59e5b75b4d53df",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.29_ICO.png"
+    },
+    "gameId": "SLUS_209.29"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.29/SLUS_209.29_BG.png",
+    "kind": "background",
+    "bytes": 207116,
+    "width": 640,
+    "height": 480,
+    "sha256": "51f0c2e69a6baf336bcbe45cc8e53be6fbc2174dbd50d8170309e3e04259f231",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.29/SLUS_209.29_BG_00.png"
+    },
+    "gameId": "SLUS_209.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.29/SLUS_209.29_BG.png",
+      "kind": "background",
+      "bytes": 207116,
+      "width": 640,
+      "height": 480,
+      "sha256": "51f0c2e69a6baf336bcbe45cc8e53be6fbc2174dbd50d8170309e3e04259f231",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.29/SLUS_209.29_BG_00.png"
+      },
+      "gameId": "SLUS_209.29"
+    },
+    {
+      "path": "PS2/SLUS_209.29/SLUS_209.29_BG_01.png",
+      "kind": "background",
+      "bytes": 196385,
+      "width": 640,
+      "height": 480,
+      "sha256": "40e2f670759f46215195e77a4f77979737cd47750e028ac73a2617834aa1c630",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.29/SLUS_209.29_BG_01.png"
+      },
+      "gameId": "SLUS_209.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gundam Battle Assault 3 featuring Gundam Seed"
+}

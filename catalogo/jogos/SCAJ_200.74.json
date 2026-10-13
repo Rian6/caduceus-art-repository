@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.74",
+  "cover": {
+    "path": "PS2/SCAJ_200.74/SCAJ_200.74_COV.png",
+    "kind": "cover",
+    "bytes": 90879,
+    "width": 192,
+    "height": 272,
+    "sha256": "38c1b1f8b8cb7a6345ecd1d12b5d1641f46c83cb92bcc5f5b4437cf7d7940373",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20074.jpg"
+    },
+    "gameId": "SCAJ_200.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters 2002"
+}

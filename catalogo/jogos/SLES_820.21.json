@@ -1,0 +1,51 @@
+{
+  "id": "SLES_820.21",
+  "cover": {
+    "path": "PS2/SLES_820.21/SLES_820.21_COV.png",
+    "kind": "cover",
+    "bytes": 67415,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b26acfa89eb5822db4a6f1c370af2171e0927360906706c777ae4c2efa69589",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-82021.jpg"
+    },
+    "gameId": "SLES_820.21"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_820.21/SLES_820.21_BG.png",
+    "kind": "background",
+    "bytes": 152674,
+    "width": 640,
+    "height": 480,
+    "sha256": "3aa5b2e300044a259fe024ee83d573f4f57dddc1a3323be2fc58471f86b9d163",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_820.21/SLES_820.21_BG_00.png"
+    },
+    "gameId": "SLES_820.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_820.21/SLES_820.21_BG.png",
+      "kind": "background",
+      "bytes": 152674,
+      "width": 640,
+      "height": 480,
+      "sha256": "3aa5b2e300044a259fe024ee83d573f4f57dddc1a3323be2fc58471f86b9d163",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.21/SLES_820.21_BG_00.png"
+      },
+      "gameId": "SLES_820.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cy Girls (Aska Disc)"
+}

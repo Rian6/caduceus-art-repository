@@ -1,0 +1,90 @@
+{
+  "id": "SCES_545.35",
+  "cover": {
+    "path": "PS2/SCES_545.35/SCES_545.35_COV.png",
+    "kind": "cover",
+    "bytes": 103899,
+    "width": 192,
+    "height": 272,
+    "sha256": "6c5c5cdfea048a595cb85127ea3ce8dfc2a2a615fbcc002b5f44e3bf52e8ebb7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54535.jpg"
+    },
+    "gameId": "SCES_545.35"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_545.35/SCES_545.35_BG.png",
+    "kind": "background",
+    "bytes": 189669,
+    "width": 640,
+    "height": 480,
+    "sha256": "4e8ede6befaa5c09f1e035fcc27956f3aad3a1c7db04cdfef08cd111ec96225c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_545.35/SCES_545.35_BG_00.png"
+    },
+    "gameId": "SCES_545.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_545.35/SCES_545.35_BG.png",
+      "kind": "background",
+      "bytes": 189669,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e8ede6befaa5c09f1e035fcc27956f3aad3a1c7db04cdfef08cd111ec96225c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.35/SCES_545.35_BG_00.png"
+      },
+      "gameId": "SCES_545.35"
+    },
+    {
+      "path": "PS2/SCES_545.35/SCES_545.35_BG_01.png",
+      "kind": "background",
+      "bytes": 211315,
+      "width": 640,
+      "height": 480,
+      "sha256": "4fc81db32e3530711ae468c25ab0552ae4231ba0584f57339afb09029a252f5e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.35/SCES_545.35_BG_01.png"
+      },
+      "gameId": "SCES_545.35"
+    },
+    {
+      "path": "PS2/SCES_545.35/SCES_545.35_BG_02.png",
+      "kind": "background",
+      "bytes": 190992,
+      "width": 640,
+      "height": 480,
+      "sha256": "e881e84d94c047cd8e63168de4d1fda7c38b041f32083dd897793cbc8c4369dc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.35/SCES_545.35_BG_02.png"
+      },
+      "gameId": "SCES_545.35"
+    },
+    {
+      "path": "PS2/SCES_545.35/SCES_545.35_BG_03.png",
+      "kind": "background",
+      "bytes": 194484,
+      "width": 640,
+      "height": 480,
+      "sha256": "a66ed0c1bedc1e22915e158fb69707372471693ddd43e66008d0df04047845e7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.35/SCES_545.35_BG_03.png"
+      },
+      "gameId": "SCES_545.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Everybody's Tennis"
+}

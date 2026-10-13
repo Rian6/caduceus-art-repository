@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.80",
+  "cover": {
+    "path": "PS2/SLPM_550.80/SLPM_550.80_COV.png",
+    "kind": "cover",
+    "bytes": 90171,
+    "width": 192,
+    "height": 272,
+    "sha256": "69ee43ae4885c63ac65efbbb4526d7bf85e3e514440016be6c72cc4808b66e16",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55080.jpg"
+    },
+    "gameId": "SLPM_550.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DRAG-ON-DRAGOON [ULTIMATE HITS]"
+}

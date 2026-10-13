@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.57",
+  "cover": {
+    "path": "PS2/SLPS_252.57/SLPS_252.57_COV.png",
+    "kind": "cover",
+    "bytes": 90274,
+    "width": 192,
+    "height": 272,
+    "sha256": "956d7a5c6e5f28fd7653036913fae3dbfe09a38dd2862fd5d992953b2b07bcf7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25257.jpg"
+    },
+    "gameId": "SLPS_252.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OMOI NO KAKERA - CLOSE TO"
+}

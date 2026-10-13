@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.24",
+  "cover": {
+    "path": "PS2/SCPS_150.24/SCPS_150.24_COV.png",
+    "kind": "cover",
+    "bytes": 84284,
+    "width": 192,
+    "height": 272,
+    "sha256": "f9fec2dc522005219b349788cd0fa1f5abace4dadadcd5c3bf9577d05902af8f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15024.jpg"
+    },
+    "gameId": "SCPS_150.24"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.24/SCPS_150.24_BG.png",
+    "kind": "background",
+    "bytes": 152977,
+    "width": 640,
+    "height": 480,
+    "sha256": "cb28c82d86bc46f955503a99549ab08831569d7ac22aff19f6864460bbaee79f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.24/SCPS_150.24_BG_00.png"
+    },
+    "gameId": "SCPS_150.24"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.24/SCPS_150.24_BG.png",
+      "kind": "background",
+      "bytes": 152977,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb28c82d86bc46f955503a99549ab08831569d7ac22aff19f6864460bbaee79f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.24/SCPS_150.24_BG_00.png"
+      },
+      "gameId": "SCPS_150.24"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WILD ARMS - ADVANCED 3RD"
+}

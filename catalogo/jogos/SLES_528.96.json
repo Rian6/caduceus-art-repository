@@ -1,0 +1,25 @@
+{
+  "id": "SLES_528.96",
+  "cover": {
+    "path": "PS2/SLES_528.96/SLES_528.96_COV.png",
+    "kind": "cover",
+    "bytes": 100515,
+    "width": 192,
+    "height": 272,
+    "sha256": "4aee0f147b7f03d114178b105a9c5ae2fb4582a64b0a056fd9f6fe6386177164",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52896.jpg"
+    },
+    "gameId": "SLES_528.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPONGEBOB SQUAREPANTS - THE MOVIE"
+}

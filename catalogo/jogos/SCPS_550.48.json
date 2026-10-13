@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.48",
+  "cover": {
+    "path": "PS2/SCPS_550.48/SCPS_550.48_COV.png",
+    "kind": "cover",
+    "bytes": 120043,
+    "width": 192,
+    "height": 272,
+    "sha256": "aab4d7b067985656bce843dd2bc1c268dd794eb6cde8cbb92c6d1cbcbc8ceb10",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55048.jpg"
+    },
+    "gameId": "SCPS_550.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DARK CHRONICLE"
+}

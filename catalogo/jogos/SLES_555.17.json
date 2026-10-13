@@ -1,0 +1,25 @@
+{
+  "id": "SLES_555.17",
+  "cover": {
+    "path": "PS2/SLES_555.17/SLES_555.17_COV.png",
+    "kind": "cover",
+    "bytes": 46892,
+    "width": 192,
+    "height": 272,
+    "sha256": "9a728441d83b743ced46d707b48bc28e1f1ad39d0aa1092747bf592f4ec627f1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_555.17/SLES_555.17_COV.png"
+    },
+    "gameId": "SLES_555.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Trivial Pursuit"
+}

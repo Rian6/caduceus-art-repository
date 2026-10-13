@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_668.22",
+  "cover": {
+    "path": "PS2/SLPM_668.22/SLPM_668.22_COV.png",
+    "kind": "cover",
+    "bytes": 96877,
+    "width": 192,
+    "height": 272,
+    "sha256": "546cdcea2804a8f72a5844d0e53f2ca295d643467c30301e470017510e840b8d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66822.jpg"
+    },
+    "gameId": "SLPM_668.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_668.22/SLPM_668.22_BG.png",
+    "kind": "background",
+    "bytes": 42651,
+    "width": 640,
+    "height": 480,
+    "sha256": "22cad76b6afdcc380a3b2ac95de1f6281a303434eacb6d30490dedb0ca3fc9ba",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_668.22/SLPM_668.22_BG_00.png"
+    },
+    "gameId": "SLPM_668.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_668.22/SLPM_668.22_BG.png",
+      "kind": "background",
+      "bytes": 42651,
+      "width": 640,
+      "height": 480,
+      "sha256": "22cad76b6afdcc380a3b2ac95de1f6281a303434eacb6d30490dedb0ca3fc9ba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_668.22/SLPM_668.22_BG_00.png"
+      },
+      "gameId": "SLPM_668.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guitar Freaks V-3 & Drummania V-3"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_539.03",
+  "cover": {
+    "path": "PS2/SLES_539.03/SLES_539.03_COV.png",
+    "kind": "cover",
+    "bytes": 102618,
+    "width": 192,
+    "height": 272,
+    "sha256": "6a0c8af406c540da6df6548ad63aae96be019943bd259f7bb6973e4f36568bc0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53903.jpg"
+    },
+    "gameId": "SLES_539.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Franklin the Turtle: A Birthday Surprise"
+}

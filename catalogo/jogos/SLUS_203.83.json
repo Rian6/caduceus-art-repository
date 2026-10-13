@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_203.83",
+  "cover": {
+    "path": "PS2/SLUS_203.83/SLUS_203.83_COV.png",
+    "kind": "cover",
+    "bytes": 104479,
+    "width": 192,
+    "height": 272,
+    "sha256": "0beb5796ef6be41da5f3239e6a90633e12f45e59a571610803f338a154d615c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20383.jpg"
+    },
+    "gameId": "SLUS_203.83"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.83/SLUS_203.83_ICO.png",
+    "kind": "disc",
+    "bytes": 31528,
+    "width": 256,
+    "height": 256,
+    "sha256": "9e750394c79106f91cd31e0427331fa200ad0b93c24562b581d96a701a465390",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.83_ICO.png"
+    },
+    "gameId": "SLUS_203.83"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.83/SLUS_203.83_BG.png",
+    "kind": "background",
+    "bytes": 185174,
+    "width": 640,
+    "height": 480,
+    "sha256": "96f8b034cb8979c69b71bb0324003055c82438040f886039e2d921fe235aaede",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.83/SLUS_203.83_BG_00.png"
+    },
+    "gameId": "SLUS_203.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.83/SLUS_203.83_BG.png",
+      "kind": "background",
+      "bytes": 185174,
+      "width": 640,
+      "height": 480,
+      "sha256": "96f8b034cb8979c69b71bb0324003055c82438040f886039e2d921fe235aaede",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.83/SLUS_203.83_BG_00.png"
+      },
+      "gameId": "SLUS_203.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Vexx"
+}

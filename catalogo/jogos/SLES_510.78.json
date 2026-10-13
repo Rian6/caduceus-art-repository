@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.78",
+  "cover": {
+    "path": "PS2/SLES_510.78/SLES_510.78_COV.png",
+    "kind": "cover",
+    "bytes": 80369,
+    "width": 192,
+    "height": 272,
+    "sha256": "83ab19845c6255c5a65c9b04505ca8fcecd94cea5cdd30f38b17d9f0a02c9de6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51078.jpg"
+    },
+    "gameId": "SLES_510.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - FC BARCELONA"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_620.97",
+  "cover": {
+    "path": "PS2/SLPM_620.97/SLPM_620.97_COV.png",
+    "kind": "cover",
+    "bytes": 97217,
+    "width": 192,
+    "height": 272,
+    "sha256": "5f91c1cdc4c2dfdc35016956567fb082d5ed68f67fbb3040c9d970de2e5b52de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62097.jpg"
+    },
+    "gameId": "SLPM_620.97"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_620.97/SLPM_620.97_BG.png",
+    "kind": "background",
+    "bytes": 189288,
+    "width": 640,
+    "height": 480,
+    "sha256": "6e8532f979c113aa798192158bc48a632d8c9f88e108c3a09f2f5f13706541d6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_620.97/SLPM_620.97_BG_00.png"
+    },
+    "gameId": "SLPM_620.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_620.97/SLPM_620.97_BG.png",
+      "kind": "background",
+      "bytes": 189288,
+      "width": 640,
+      "height": 480,
+      "sha256": "6e8532f979c113aa798192158bc48a632d8c9f88e108c3a09f2f5f13706541d6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.97/SLPM_620.97_BG_00.png"
+      },
+      "gameId": "SLPM_620.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE KEISATSUKAN - SHINJUKU COP 24 HOURS"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_538.85",
+  "cover": {
+    "path": "PS2/SLES_538.85/SLES_538.85_COV.png",
+    "kind": "cover",
+    "bytes": 109871,
+    "width": 192,
+    "height": 272,
+    "sha256": "eafa401eef557724197853608c85b17917b8283ff10a987f99c5e5296a1e1a51",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53885.jpg"
+    },
+    "gameId": "SLES_538.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cabela's Dangerous Hunts 2"
+}

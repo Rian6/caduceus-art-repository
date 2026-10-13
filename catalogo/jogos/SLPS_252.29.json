@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.29",
+  "cover": {
+    "path": "PS2/SLPS_252.29/SLPS_252.29_COV.png",
+    "kind": "cover",
+    "bytes": 98477,
+    "width": 192,
+    "height": 272,
+    "sha256": "52f237e2661de88a6fc6d91778e5e2ef14067d7925b2eee37d7335ba9f9b6a94",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25229.jpg"
+    },
+    "gameId": "SLPS_252.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "America Oudan Ultra-Quiz (DigiCube Best Selection)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.50",
+  "cover": {
+    "path": "PS2/SLPS_200.50/SLPS_200.50_COV.png",
+    "kind": "cover",
+    "bytes": 93812,
+    "width": 192,
+    "height": 272,
+    "sha256": "d5d60d28de64d81de63df1460f58fccb6910e5ffc8f94d157393eb511fbdfcbe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20050.jpg"
+    },
+    "gameId": "SLPS_200.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAPPY! HAPPY!! BOARDERS IN HOKKAIDO"
+}

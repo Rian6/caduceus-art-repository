@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.54",
+  "cover": {
+    "path": "PS2/SLPM_622.54/SLPM_622.54_COV.png",
+    "kind": "cover",
+    "bytes": 88171,
+    "width": 192,
+    "height": 272,
+    "sha256": "8623449f92c138b132a95276d2cf2ae31f393cdf1e8b48ceab4d9ad1d6f670a2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62254.jpg"
+    },
+    "gameId": "SLPM_622.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAEZARU NO MORI"
+}

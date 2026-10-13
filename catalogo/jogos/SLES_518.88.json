@@ -1,0 +1,39 @@
+{
+  "id": "SLES_518.88",
+  "cover": {
+    "path": "PS2/SLES_518.88/SLES_518.88_COV.png",
+    "kind": "cover",
+    "bytes": 88413,
+    "width": 192,
+    "height": 272,
+    "sha256": "a9ddb54aef9bcb7f32a08e2d816ffa0831fb27c53ac65ab51bdbba3299997d53",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51888.jpg"
+    },
+    "gameId": "SLES_518.88"
+  },
+  "disc": {
+    "path": "PS2/SLES_518.88/SLES_518.88_ICO.png",
+    "kind": "disc",
+    "bytes": 10707,
+    "width": 128,
+    "height": 128,
+    "sha256": "e1bbec9335ad831632c8422c88f58246d6f79522d8a0fb7627ccb03d935ae545",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_518.88_ICO.png"
+    },
+    "gameId": "SLES_518.88"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RTL Skijumping 2004"
+}

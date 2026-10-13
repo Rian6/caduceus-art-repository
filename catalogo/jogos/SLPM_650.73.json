@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.73",
+  "cover": {
+    "path": "PS2/SLPM_650.73/SLPM_650.73_COV.png",
+    "kind": "cover",
+    "bytes": 79020,
+    "width": 192,
+    "height": 272,
+    "sha256": "ef915e87bf436bf06e5bb2703b5a4e8b14fcaec3bd87d21c7f0f422042072a12",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65073.jpg"
+    },
+    "gameId": "SLPM_650.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Genso Suikoden III (Limited Edition)"
+}

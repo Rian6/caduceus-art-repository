@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.37",
+  "cover": {
+    "path": "PS2/SLPS_253.37/SLPS_253.37_COV.png",
+    "kind": "cover",
+    "bytes": 75054,
+    "width": 192,
+    "height": 272,
+    "sha256": "41a4f4035752ea8cdaf6609d0d7476d1549aef344b26d71a5a03ac85ad0e3d4a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25337.jpg"
+    },
+    "gameId": "SLPS_253.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bass Landing 3 (Sammy Best)"
+}

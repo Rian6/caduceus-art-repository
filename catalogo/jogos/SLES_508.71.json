@@ -1,0 +1,25 @@
+{
+  "id": "SLES_508.71",
+  "cover": {
+    "path": "PS2/SLES_508.71/SLES_508.71_COV.png",
+    "kind": "cover",
+    "bytes": 87811,
+    "width": 192,
+    "height": 272,
+    "sha256": "6cef837b48b7c874407848bfbd8d470d2e8b1907cde3df0eedfc3742d8f8fc9d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50871.jpg"
+    },
+    "gameId": "SLES_508.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAT HOFFMAN'S PRO BMX 2"
+}

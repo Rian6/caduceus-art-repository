@@ -1,0 +1,25 @@
+{
+  "id": "SCCS_400.15",
+  "cover": {
+    "path": "PS2/SCCS_400.15/SCCS_400.15_COV.png",
+    "kind": "cover",
+    "bytes": 66257,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e293988365c47e6db74a1cf6c14f1a4900eeaa9b4d68c4e8fa623cba1b5d8e5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCCS_400.15/SCCS_400.15_COV.png"
+    },
+    "gameId": "SCCS_400.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Viorate no Atelier: Gramnad no Renkinjutsushi 2"
+}

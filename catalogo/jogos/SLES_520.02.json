@@ -1,0 +1,64 @@
+{
+  "id": "SLES_520.02",
+  "cover": {
+    "path": "PS2/SLES_520.02/SLES_520.02_COV.png",
+    "kind": "cover",
+    "bytes": 91554,
+    "width": 192,
+    "height": 272,
+    "sha256": "6070949ba20ed040ddead0b8fdad4d5f58d38a25a6bcce9b122d60249f5633f6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52002.jpg"
+    },
+    "gameId": "SLES_520.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_520.02/SLES_520.02_BG.png",
+    "kind": "background",
+    "bytes": 145935,
+    "width": 640,
+    "height": 480,
+    "sha256": "2284fb81547e4e1a219b2a68e12cee58266675ff54624e440eac84e76bf70302",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_520.02/SLES_520.02_BG_00.png"
+    },
+    "gameId": "SLES_520.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_520.02/SLES_520.02_BG.png",
+      "kind": "background",
+      "bytes": 145935,
+      "width": 640,
+      "height": 480,
+      "sha256": "2284fb81547e4e1a219b2a68e12cee58266675ff54624e440eac84e76bf70302",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.02/SLES_520.02_BG_00.png"
+      },
+      "gameId": "SLES_520.02"
+    },
+    {
+      "path": "PS2/SLES_520.02/SLES_520.02_BG_01.png",
+      "kind": "background",
+      "bytes": 180616,
+      "width": 640,
+      "height": 480,
+      "sha256": "a0c84da6862b597545fe67154c1885a6b1ae1e950fbfd0014674558cdd459d31",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.02/SLES_520.02_BG_01.png"
+      },
+      "gameId": "SLES_520.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROGUE OPS"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.14",
+  "cover": {
+    "path": "PS2/SLPS_251.14/SLPS_251.14_COV.png",
+    "kind": "cover",
+    "bytes": 101011,
+    "width": 192,
+    "height": 272,
+    "sha256": "2dab6e64266cc1ccb22df7677d2694cae09e592883552353ab1e7be884965ffd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25114.jpg"
+    },
+    "gameId": "SLPS_251.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kikou Busou G-Breaker - Daisanshi Cloudia Taisen"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.93",
+  "cover": {
+    "path": "PS2/SLPS_256.93/SLPS_256.93_COV.png",
+    "kind": "cover",
+    "bytes": 108656,
+    "width": 192,
+    "height": 272,
+    "sha256": "95c7d37990a837d0dc4b6a950f00620a675facaa7e6d931269e79e3cff174572",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25693.jpg"
+    },
+    "gameId": "SLPS_256.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Princess Princess (First Print Limited Edition)"
+}

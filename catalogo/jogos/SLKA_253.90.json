@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_253.90",
+  "cover": {
+    "path": "PS2/SLKA_253.90/SLKA_253.90_COV.png",
+    "kind": "cover",
+    "bytes": 62609,
+    "width": 192,
+    "height": 272,
+    "sha256": "fc6f391530f4c809ea39491fa3fb6677eb0d63e9c099a4f806308fc4d6b25494",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.90/SLKA_253.90_COV.png"
+    },
+    "gameId": "SLKA_253.90"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_253.90/SLKA_253.90_BG.png",
+    "kind": "background",
+    "bytes": 196105,
+    "width": 640,
+    "height": 480,
+    "sha256": "dd976d80007ca63543efb1ddfa5942cdde4f792139ecb0ab0778883a15ef1695",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.90/SLKA_253.90_BG_00.png"
+    },
+    "gameId": "SLKA_253.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_253.90/SLKA_253.90_BG.png",
+      "kind": "background",
+      "bytes": 196105,
+      "width": 640,
+      "height": 480,
+      "sha256": "dd976d80007ca63543efb1ddfa5942cdde4f792139ecb0ab0778883a15ef1695",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_253.90/SLKA_253.90_BG_00.png"
+      },
+      "gameId": "SLKA_253.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 4: Empires"
+}

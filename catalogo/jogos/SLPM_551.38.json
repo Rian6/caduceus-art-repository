@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.38",
+  "cover": {
+    "path": "PS2/SLPM_551.38/SLPM_551.38_COV.png",
+    "kind": "cover",
+    "bytes": 104295,
+    "width": 192,
+    "height": 272,
+    "sha256": "2b6acf307fe4e4165f880cde7e6d887f2e1a71a706f50e75712f52f7f362ea01",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55138.jpg"
+    },
+    "gameId": "SLPM_551.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE - YUME NO UKIHASHI SPECIAL"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.16",
+  "cover": {
+    "path": "PS2/SLKA_252.16/SLKA_252.16_COV.png",
+    "kind": "cover",
+    "bytes": 90850,
+    "width": 192,
+    "height": 272,
+    "sha256": "64ee64f7b2befb4ba2c8b7ba1bb46423b4d1f631bdd64e87c68cc65664ad4024",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25216.jpg"
+    },
+    "gameId": "SLKA_252.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GITAROO MAN [PLAYSTATION 2 BIG HIT SERIES]"
+}

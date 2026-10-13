@@ -1,0 +1,25 @@
+{
+  "id": "SLES_538.61",
+  "cover": {
+    "path": "PS2/SLES_538.61/SLES_538.61_COV.png",
+    "kind": "cover",
+    "bytes": 61986,
+    "width": 192,
+    "height": 272,
+    "sha256": "c00541d7e614e5d1612e20b7814feb00e783906a9d4337d28d41c48763f885da",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_538.61/SLES_538.61_COV.png"
+    },
+    "gameId": "SLES_538.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 5 - Xtreme Legends"
+}

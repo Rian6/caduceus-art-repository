@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_202.04",
+  "cover": {
+    "path": "PS2/SLUS_202.04/SLUS_202.04_COV.png",
+    "kind": "cover",
+    "bytes": 92793,
+    "width": 192,
+    "height": 272,
+    "sha256": "7e4d6430a8a015f0bf8d63a5150637df5926dec401239ad8d8a643f4084d6a8f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20204.jpg"
+    },
+    "gameId": "SLUS_202.04"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.04/SLUS_202.04_ICO.png",
+    "kind": "disc",
+    "bytes": 30971,
+    "width": 256,
+    "height": 256,
+    "sha256": "7a7b59e74295489460aeff9ec8b2fe70b4bae489010706956486f48d95a7cad8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.04_ICO.png"
+    },
+    "gameId": "SLUS_202.04"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.04/SLUS_202.04_BG.png",
+    "kind": "background",
+    "bytes": 57886,
+    "width": 640,
+    "height": 480,
+    "sha256": "ac23cc453019acffba7ce7f62f50b4873ac289684d6f4d61ee5395ef1cea1bd2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.04/SLUS_202.04_BG_00.png"
+    },
+    "gameId": "SLUS_202.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.04/SLUS_202.04_BG.png",
+      "kind": "background",
+      "bytes": 57886,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac23cc453019acffba7ce7f62f50b4873ac289684d6f4d61ee5395ef1cea1bd2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.04/SLUS_202.04_BG_00.png"
+      },
+      "gameId": "SLUS_202.04"
+    },
+    {
+      "path": "PS2/SLUS_202.04/SLUS_202.04_BG_01.png",
+      "kind": "background",
+      "bytes": 186070,
+      "width": 640,
+      "height": 480,
+      "sha256": "73b15fef160f8b715c933c4a55c984d5474f1f85addfc3c93b9e00b9f551034f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.04/SLUS_202.04_BG_01.png"
+      },
+      "gameId": "SLUS_202.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Smuggler's Run 2 - Hostile Territory"
+}

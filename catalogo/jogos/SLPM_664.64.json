@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.64",
+  "cover": {
+    "path": "PS2/SLPM_664.64/SLPM_664.64_COV.png",
+    "kind": "cover",
+    "bytes": 96753,
+    "width": 192,
+    "height": 272,
+    "sha256": "36a3e971996e83aa75b610e9c99fa3667e3acdfe0d09662bae9779104ae9d1ff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66464.jpg"
+    },
+    "gameId": "SLPM_664.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MVP Baseball 2005 (EA Best Hits)"
+}

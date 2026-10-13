@@ -1,0 +1,65 @@
+{
+  "id": "SCES_542.64",
+  "cover": {
+    "path": "PS2/SCES_542.64/SCES_542.64_COV.png",
+    "kind": "cover",
+    "bytes": 103609,
+    "width": 192,
+    "height": 272,
+    "sha256": "9ff562ee351c2d36830ebb4382720d36544fbb6630d39322744fc1bc0800ee1e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54264.jpg"
+    },
+    "gameId": "SCES_542.64"
+  },
+  "disc": {
+    "path": "PS2/SCES_542.64/SCES_542.64_ICO.png",
+    "kind": "disc",
+    "bytes": 10631,
+    "width": 128,
+    "height": 128,
+    "sha256": "131d343d540c9014b616916c7bd2a74ec05454a7e687f5e77f6f5676e21d9108",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_542.64_ICO.png"
+    },
+    "gameId": "SCES_542.64"
+  },
+  "background": {
+    "path": "PS2/SCES_542.64/SCES_542.64_BG.png",
+    "kind": "background",
+    "bytes": 183395,
+    "width": 640,
+    "height": 480,
+    "sha256": "d6659030eace191585af0adfd9ef56243560a508f0082a7a5b61b32901358b1d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_542.64/SCES_542.64_BG_00.png"
+    },
+    "gameId": "SCES_542.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_542.64/SCES_542.64_BG.png",
+      "kind": "background",
+      "bytes": 183395,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6659030eace191585af0adfd9ef56243560a508f0082a7a5b61b32901358b1d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.64/SCES_542.64_BG_00.png"
+      },
+      "gameId": "SCES_542.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BUZZ! - THE SPORTS QUIZ"
+}

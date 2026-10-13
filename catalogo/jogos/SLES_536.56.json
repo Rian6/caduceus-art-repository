@@ -1,0 +1,25 @@
+{
+  "id": "SLES_536.56",
+  "cover": {
+    "path": "PS2/SLES_536.56/SLES_536.56_COV.png",
+    "kind": "cover",
+    "bytes": 103771,
+    "width": 192,
+    "height": 272,
+    "sha256": "92c080e85af514421a30c34f2884e77dae949eefe12788d0e25574d704f57dc0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53656.jpg"
+    },
+    "gameId": "SLES_536.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Full Spectrum Warrior: Ten Hammers"
+}

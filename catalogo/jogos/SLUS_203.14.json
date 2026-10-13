@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_203.14",
+  "cover": {
+    "path": "PS2/SLUS_203.14/SLUS_203.14_COV.png",
+    "kind": "cover",
+    "bytes": 87730,
+    "width": 192,
+    "height": 272,
+    "sha256": "b47cd886f3b17a41c0cfddf970bbbebc8c6e5f8d062becece3c8dee97fe8fe36",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20314.jpg"
+    },
+    "gameId": "SLUS_203.14"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.14/SLUS_203.14_ICO.png",
+    "kind": "disc",
+    "bytes": 30144,
+    "width": 256,
+    "height": 256,
+    "sha256": "60f5670f8bdf36451d5edba5bb43dd8085d8e7565678307b18435d7fa84f5714",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.14_ICO.png"
+    },
+    "gameId": "SLUS_203.14"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.14/SLUS_203.14_BG.png",
+    "kind": "background",
+    "bytes": 152923,
+    "width": 640,
+    "height": 480,
+    "sha256": "ac65f4a9700ec0ba7466016186922893c6e03c0a8649c2879edffd71b2db5758",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.14/SLUS_203.14_BG_00.png"
+    },
+    "gameId": "SLUS_203.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.14/SLUS_203.14_BG.png",
+      "kind": "background",
+      "bytes": 152923,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac65f4a9700ec0ba7466016186922893c6e03c0a8649c2879edffd71b2db5758",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.14/SLUS_203.14_BG_00.png"
+      },
+      "gameId": "SLUS_203.14"
+    },
+    {
+      "path": "PS2/SLUS_203.14/SLUS_203.14_BG_01.png",
+      "kind": "background",
+      "bytes": 135838,
+      "width": 640,
+      "height": 480,
+      "sha256": "f74b44a4c1ba1f83ab6032f65a8c3bcaacd7aadac71addb0ade628c8d62041bf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.14/SLUS_203.14_BG_01.png"
+      },
+      "gameId": "SLUS_203.14"
+    },
+    {
+      "path": "PS2/SLUS_203.14/SLUS_203.14_BG_02.png",
+      "kind": "background",
+      "bytes": 185757,
+      "width": 640,
+      "height": 480,
+      "sha256": "23da153a36901137ca198e8bc0beb1979b3fc075e2a002dc88e61bc8096ccfad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.14/SLUS_203.14_BG_02.png"
+      },
+      "gameId": "SLUS_203.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TIMESPLITTERS 2"
+}

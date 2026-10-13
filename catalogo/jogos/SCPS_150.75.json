@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.75",
+  "cover": {
+    "path": "PS2/SCPS_150.75/SCPS_150.75_COV.png",
+    "kind": "cover",
+    "bytes": 57436,
+    "width": 192,
+    "height": 272,
+    "sha256": "4356981df198862e15d3011f1739a78708dc021fa712a29208acad75a2b0e5f5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.75/SCPS_150.75_COV.png"
+    },
+    "gameId": "SCPS_150.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DJ Box (Premium Kit)"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_213.87",
+  "cover": {
+    "path": "PS2/SLUS_213.87/SLUS_213.87_COV.png",
+    "kind": "cover",
+    "bytes": 95849,
+    "width": 192,
+    "height": 272,
+    "sha256": "4e5a35e4ab261292e367fbabe59b815318c30f94ac35d05b44fb69fe7ed17c4d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21387.jpg"
+    },
+    "gameId": "SLUS_213.87"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.87/SLUS_213.87_ICO.png",
+    "kind": "disc",
+    "bytes": 30559,
+    "width": 256,
+    "height": 256,
+    "sha256": "2c7f59f7cbd8af30348877f5df5c8072432331d923492da2e4b90220e532d31c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.87_ICO.png"
+    },
+    "gameId": "SLUS_213.87"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.87/SLUS_213.87_BG.png",
+    "kind": "background",
+    "bytes": 195948,
+    "width": 640,
+    "height": 480,
+    "sha256": "6b3d3ee12cc902ce39727bc17a460ea500634ba9e6b1307c2889059c07c6bbd4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.87/SLUS_213.87_BG_00.png"
+    },
+    "gameId": "SLUS_213.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.87/SLUS_213.87_BG.png",
+      "kind": "background",
+      "bytes": 195948,
+      "width": 640,
+      "height": 480,
+      "sha256": "6b3d3ee12cc902ce39727bc17a460ea500634ba9e6b1307c2889059c07c6bbd4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.87/SLUS_213.87_BG_00.png"
+      },
+      "gameId": "SLUS_213.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Warship Gunner 2"
+}

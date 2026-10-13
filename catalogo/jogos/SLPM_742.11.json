@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.11",
+  "cover": {
+    "path": "PS2/SLPM_742.11/SLPM_742.11_COV.png",
+    "kind": "cover",
+    "bytes": 69266,
+    "width": 192,
+    "height": 272,
+    "sha256": "a88ff176f4cab4ebbf35ae9c7e35021948ec93a125e9144329f2318ff897adcf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74211.jpg"
+    },
+    "gameId": "SLPM_742.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shutokou Battle 0 (Playstation 2 The Best Reprint)"
+}

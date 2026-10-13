@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_255.40",
+  "cover": {
+    "path": "PS2/SLPS_255.40/SLPS_255.40_COV.png",
+    "kind": "cover",
+    "bytes": 91495,
+    "width": 192,
+    "height": 272,
+    "sha256": "b56b2653c61fe5e7b312e20fb3822829459bc2bbe349fb3c08ebfb9a5554b26a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25540.jpg"
+    },
+    "gameId": "SLPS_255.40"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_255.40/SLPS_255.40_BG.png",
+    "kind": "background",
+    "bytes": 167393,
+    "width": 640,
+    "height": 480,
+    "sha256": "39f39802bf109a97beec19d3c75b49c1ea8d72d0d0c7f91a3971e32656e498a1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.40/SLPS_255.40_BG_00.png"
+    },
+    "gameId": "SLPS_255.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.40/SLPS_255.40_BG.png",
+      "kind": "background",
+      "bytes": 167393,
+      "width": 640,
+      "height": 480,
+      "sha256": "39f39802bf109a97beec19d3c75b49c1ea8d72d0d0c7f91a3971e32656e498a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.40/SLPS_255.40_BG_00.png"
+      },
+      "gameId": "SLPS_255.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCHOOL RUMBLE"
+}

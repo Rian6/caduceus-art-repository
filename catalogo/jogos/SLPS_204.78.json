@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.78",
+  "cover": {
+    "path": "PS2/SLPS_204.78/SLPS_204.78_COV.png",
+    "kind": "cover",
+    "bytes": 91850,
+    "width": 192,
+    "height": 272,
+    "sha256": "d0aff4ecb90b6cbaedd7b3001b692f5ecdb35a53cf9b385d7db919aba2d8662d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20478.jpg"
+    },
+    "gameId": "SLPS_204.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.109 - The Taxti 2  - Utenshi ha Yappari Kimi da!"
+}

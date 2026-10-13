@@ -1,0 +1,90 @@
+{
+  "id": "SCES_533.72",
+  "cover": {
+    "path": "PS2/SCES_533.72/SCES_533.72_COV.png",
+    "kind": "cover",
+    "bytes": 65091,
+    "width": 192,
+    "height": 272,
+    "sha256": "1b167a7343f919be1f2fe2791c5c1ba15ff1394eb36b891b2a6b6ce9c735d125",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53372.jpg"
+    },
+    "gameId": "SCES_533.72"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_533.72/SCES_533.72_BG.png",
+    "kind": "background",
+    "bytes": 175813,
+    "width": 640,
+    "height": 480,
+    "sha256": "136a4f1afa31d6d6dbe38143838280ebd915bb73d9b6ed3b523cc91bb1d206e2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_533.72/SCES_533.72_BG_00.png"
+    },
+    "gameId": "SCES_533.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_533.72/SCES_533.72_BG.png",
+      "kind": "background",
+      "bytes": 175813,
+      "width": 640,
+      "height": 480,
+      "sha256": "136a4f1afa31d6d6dbe38143838280ebd915bb73d9b6ed3b523cc91bb1d206e2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.72/SCES_533.72_BG_00.png"
+      },
+      "gameId": "SCES_533.72"
+    },
+    {
+      "path": "PS2/SCES_533.72/SCES_533.72_BG_01.png",
+      "kind": "background",
+      "bytes": 129998,
+      "width": 640,
+      "height": 480,
+      "sha256": "63bc5d6f24d6484c22f96dcef52116d44ab33e2c8e469c0c4ff8ab217348f0bc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.72/SCES_533.72_BG_01.png"
+      },
+      "gameId": "SCES_533.72"
+    },
+    {
+      "path": "PS2/SCES_533.72/SCES_533.72_BG_02.png",
+      "kind": "background",
+      "bytes": 139005,
+      "width": 640,
+      "height": 480,
+      "sha256": "4c6c5d46239d0b0c7753dc9b72b41256e4353930bd9f44c2751684977c7be3d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.72/SCES_533.72_BG_02.png"
+      },
+      "gameId": "SCES_533.72"
+    },
+    {
+      "path": "PS2/SCES_533.72/SCES_533.72_BG_03.png",
+      "kind": "background",
+      "bytes": 154647,
+      "width": 640,
+      "height": 480,
+      "sha256": "3874e8c032c1d842606d48e045288f9d6055f32ccb3c5d89fbcc7bf9dc2314f4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.72/SCES_533.72_BG_03.png"
+      },
+      "gameId": "SCES_533.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tourist Trophy - The Real Riding Simulator"
+}

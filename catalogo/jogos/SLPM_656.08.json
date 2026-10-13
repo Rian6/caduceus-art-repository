@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.08",
+  "cover": {
+    "path": "PS2/SLPM_656.08/SLPM_656.08_COV.png",
+    "kind": "cover",
+    "bytes": 90672,
+    "width": 192,
+    "height": 272,
+    "sha256": "0b1ae8cac2c7603667427947887d222b1dbc6bc53fbfbc698653449935781de8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65608.jpg"
+    },
+    "gameId": "SLPM_656.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "3LDK: Shiawase ni Narou yo"
+}

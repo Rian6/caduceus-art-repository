@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.93",
+  "cover": {
+    "path": "PS2/SLPS_253.93/SLPS_253.93_COV.png",
+    "kind": "cover",
+    "bytes": 117981,
+    "width": 192,
+    "height": 272,
+    "sha256": "75a578aaa17c4d815014eedc4092ad2943ce951e1883740fff1bfa007d5b998d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25393.jpg"
+    },
+    "gameId": "SLPS_253.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RIM RUNNERS"
+}

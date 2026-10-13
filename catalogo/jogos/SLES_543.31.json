@@ -1,0 +1,39 @@
+{
+  "id": "SLES_543.31",
+  "cover": {
+    "path": "PS2/SLES_543.31/SLES_543.31_COV.png",
+    "kind": "cover",
+    "bytes": 101487,
+    "width": 192,
+    "height": 272,
+    "sha256": "53d93b1e4db12331a99394b2eef6b94dd8853a20e33a381abcb38b0547fb2cd9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54331.jpg"
+    },
+    "gameId": "SLES_543.31"
+  },
+  "disc": {
+    "path": "PS2/SLES_543.31/SLES_543.31_ICO.png",
+    "kind": "disc",
+    "bytes": 11205,
+    "width": 128,
+    "height": 128,
+    "sha256": "98526f8478800f37cb1faeffd73b357ecd3ecfdbb6534d06534ef18908de8445",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_543.31_ICO.png"
+    },
+    "gameId": "SLES_543.31"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Street Dance"
+}

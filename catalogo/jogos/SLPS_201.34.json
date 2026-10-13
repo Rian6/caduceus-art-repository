@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.34",
+  "cover": {
+    "path": "PS2/SLPS_201.34/SLPS_201.34_COV.png",
+    "kind": "cover",
+    "bytes": 93740,
+    "width": 192,
+    "height": 272,
+    "sha256": "13e4061253e6d8fe47489f92a197a9b147a538987c0d2ca9531cbdb3d2bc50fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20134.jpg"
+    },
+    "gameId": "SLPS_201.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mahjong Haou - Jansou Battle"
+}

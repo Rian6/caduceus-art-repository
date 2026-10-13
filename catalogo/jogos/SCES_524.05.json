@@ -1,0 +1,65 @@
+{
+  "id": "SCES_524.05",
+  "cover": {
+    "path": "PS2/SCES_524.05/SCES_524.05_COV.png",
+    "kind": "cover",
+    "bytes": 68047,
+    "width": 192,
+    "height": 272,
+    "sha256": "978c8d08995dc616c4937aca2a0ba1a04fc8d0d8eecb2396e1b03ce8b96ea77a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52405.jpg"
+    },
+    "gameId": "SCES_524.05"
+  },
+  "disc": {
+    "path": "PS2/SCES_524.05/SCES_524.05_ICO.png",
+    "kind": "disc",
+    "bytes": 9949,
+    "width": 128,
+    "height": 128,
+    "sha256": "c9b6180238d8dc7599dbe51920ac08e7b74e86c83e5a657d8611467dc6372326",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_524.05_ICO.png"
+    },
+    "gameId": "SCES_524.05"
+  },
+  "background": {
+    "path": "PS2/SCES_524.05/SCES_524.05_BG.png",
+    "kind": "background",
+    "bytes": 169179,
+    "width": 640,
+    "height": 480,
+    "sha256": "7fb039efd859c045006969d7b55191f64ee9b3973a808a14e6e90f007183be18",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_524.05/SCES_524.05_BG_00.png"
+    },
+    "gameId": "SCES_524.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_524.05/SCES_524.05_BG.png",
+      "kind": "background",
+      "bytes": 169179,
+      "width": 640,
+      "height": 480,
+      "sha256": "7fb039efd859c045006969d7b55191f64ee9b3973a808a14e6e90f007183be18",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.05/SCES_524.05_BG_00.png"
+      },
+      "gameId": "SCES_524.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DJ Decks & FX - House EDITION"
+}

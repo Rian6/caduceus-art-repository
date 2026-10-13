@@ -1,0 +1,25 @@
+{
+  "id": "WLFD_008.10",
+  "cover": {
+    "path": "PS2/WLFD_008.10/WLFD_008.10_COV.png",
+    "kind": "cover",
+    "bytes": 61787,
+    "width": 192,
+    "height": 272,
+    "sha256": "d936f69d69eda63cc6c32eee16b9104abf3bd8ce73f82cab37859ceefc744a3e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/WLFD-00810.jpg"
+    },
+    "gameId": "WLFD_008.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WILL O' WISP - EASTER NO KISEKI [TWIN PACK]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.87",
+  "cover": {
+    "path": "PS2/SLPM_656.87/SLPM_656.87_COV.png",
+    "kind": "cover",
+    "bytes": 103972,
+    "width": 192,
+    "height": 272,
+    "sha256": "173c79988ba9b72c7f1565f597379bddd43b2ba5440e1245653f3079becfb442",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65687.jpg"
+    },
+    "gameId": "SLPM_656.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR WARS - BATTLEFRONT"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_529.89",
+  "cover": {
+    "path": "PS2/SLES_529.89/SLES_529.89_COV.png",
+    "kind": "cover",
+    "bytes": 96617,
+    "width": 192,
+    "height": 272,
+    "sha256": "976eb2d3860d12290882e3235f564172f0d9eab5993426c9b58b6f5747ee8b42",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52989.jpg"
+    },
+    "gameId": "SLES_529.89"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_529.89/SLES_529.89_BG.png",
+    "kind": "background",
+    "bytes": 231363,
+    "width": 640,
+    "height": 480,
+    "sha256": "07623827c51868995f175cc81ca276df3b33f124718be1beb5022c96406a9a78",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.89/SLES_529.89_BG_00.png"
+    },
+    "gameId": "SLES_529.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.89/SLES_529.89_BG.png",
+      "kind": "background",
+      "bytes": 231363,
+      "width": 640,
+      "height": 480,
+      "sha256": "07623827c51868995f175cc81ca276df3b33f124718be1beb5022c96406a9a78",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.89/SLES_529.89_BG_00.png"
+      },
+      "gameId": "SLES_529.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Blowout"
+}

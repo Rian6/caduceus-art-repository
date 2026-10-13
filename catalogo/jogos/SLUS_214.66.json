@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_214.66",
+  "cover": {
+    "path": "PS2/SLUS_214.66/SLUS_214.66_COV.png",
+    "kind": "cover",
+    "bytes": 95057,
+    "width": 192,
+    "height": 272,
+    "sha256": "11545651c87867ccf36ef882fb556815329ea423f94f5b20703b224673beecbc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21466.jpg"
+    },
+    "gameId": "SLUS_214.66"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.66/SLUS_214.66_ICO.png",
+    "kind": "disc",
+    "bytes": 10735,
+    "width": 128,
+    "height": 128,
+    "sha256": "bc28b35e06e76ba1634a9f246e103cc794f32faf98ae947bfe427455df6324a2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLUS_214.66_ICO.png"
+    },
+    "gameId": "SLUS_214.66"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.66/SLUS_214.66_BG.png",
+    "kind": "background",
+    "bytes": 192188,
+    "width": 640,
+    "height": 480,
+    "sha256": "74e09c12356e33aa7a6c101d14ec9cf5efbc019f378b7135ebf85b1b8759eef9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.66/SLUS_214.66_BG_00.png"
+    },
+    "gameId": "SLUS_214.66"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.66/SLUS_214.66_BG.png",
+      "kind": "background",
+      "bytes": 192188,
+      "width": 640,
+      "height": 480,
+      "sha256": "74e09c12356e33aa7a6c101d14ec9cf5efbc019f378b7135ebf85b1b8759eef9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.66/SLUS_214.66_BG_00.png"
+      },
+      "gameId": "SLUS_214.66"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Th3 Plan"
+}

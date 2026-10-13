@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.65",
+  "cover": {
+    "path": "PS2/SLPS_255.65/SLPS_255.65_COV.png",
+    "kind": "cover",
+    "bytes": 101658,
+    "width": 192,
+    "height": 272,
+    "sha256": "057727ceb4f0f8b72134d7422469d85b434295adfae15cc071fec61fc0ff5236",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25565.jpg"
+    },
+    "gameId": "SLPS_255.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hisshou Pachinko Kouryaku Series Vol. 1: CR Shin Seiki Evangelion"
+}

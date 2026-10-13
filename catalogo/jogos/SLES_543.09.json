@@ -1,0 +1,51 @@
+{
+  "id": "SLES_543.09",
+  "cover": {
+    "path": "PS2/SLES_543.09/SLES_543.09_COV.png",
+    "kind": "cover",
+    "bytes": 91980,
+    "width": 192,
+    "height": 272,
+    "sha256": "58b71379035df4b968bc4989e556f159f3979db4e71f1bd012e23c0f234dc82e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54309.jpg"
+    },
+    "gameId": "SLES_543.09"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.09/SLES_543.09_BG.png",
+    "kind": "background",
+    "bytes": 140064,
+    "width": 640,
+    "height": 480,
+    "sha256": "6cbd2c0621a60114ac88f99dd8e4f2bc30fe6c9caf017e8856be3a18490490de",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.09/SLES_543.09_BG_00.png"
+    },
+    "gameId": "SLES_543.09"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.09/SLES_543.09_BG.png",
+      "kind": "background",
+      "bytes": 140064,
+      "width": 640,
+      "height": 480,
+      "sha256": "6cbd2c0621a60114ac88f99dd8e4f2bc30fe6c9caf017e8856be3a18490490de",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.09/SLES_543.09_BG_00.png"
+      },
+      "gameId": "SLES_543.09"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Strawberry Shortcake: The Sweet Dreams Game"
+}

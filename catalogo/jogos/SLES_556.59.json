@@ -1,0 +1,103 @@
+{
+  "id": "SLES_556.59",
+  "cover": {
+    "path": "PS2/SLES_556.59/SLES_556.59_COV.png",
+    "kind": "cover",
+    "bytes": 88221,
+    "width": 192,
+    "height": 272,
+    "sha256": "05f8f593eb8c435054a72038481593d51e7a322c8d188942ae6671589c56ce3f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55659.jpg"
+    },
+    "gameId": "SLES_556.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_556.59/SLES_556.59_BG.png",
+    "kind": "background",
+    "bytes": 184286,
+    "width": 640,
+    "height": 480,
+    "sha256": "7286000b5d16b7af70d4dccd3c00bd229fc8a987c81e8bcc99eacbf76a80182d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_556.59/SLES_556.59_BG_00.png"
+    },
+    "gameId": "SLES_556.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_556.59/SLES_556.59_BG.png",
+      "kind": "background",
+      "bytes": 184286,
+      "width": 640,
+      "height": 480,
+      "sha256": "7286000b5d16b7af70d4dccd3c00bd229fc8a987c81e8bcc99eacbf76a80182d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.59/SLES_556.59_BG_00.png"
+      },
+      "gameId": "SLES_556.59"
+    },
+    {
+      "path": "PS2/SLES_556.59/SLES_556.59_BG_01.png",
+      "kind": "background",
+      "bytes": 220991,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3ff4bc40c220414f38d94d345e8207c05a84ecc9cee97196b5c68537c3adad1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.59/SLES_556.59_BG_01.png"
+      },
+      "gameId": "SLES_556.59"
+    },
+    {
+      "path": "PS2/SLES_556.59/SLES_556.59_BG_02.png",
+      "kind": "background",
+      "bytes": 175284,
+      "width": 640,
+      "height": 480,
+      "sha256": "6601874495b6890db0bce57270232abf2a6ba17c4cc3e121125bad69563b81b2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.59/SLES_556.59_BG_02.png"
+      },
+      "gameId": "SLES_556.59"
+    },
+    {
+      "path": "PS2/SLES_556.59/SLES_556.59_BG_03.png",
+      "kind": "background",
+      "bytes": 173266,
+      "width": 640,
+      "height": 480,
+      "sha256": "b447971d9b79fde62319f992cbde7cba5983b4a11a2d6ca1f8597556d5f382b6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.59/SLES_556.59_BG_03.png"
+      },
+      "gameId": "SLES_556.59"
+    },
+    {
+      "path": "PS2/SLES_556.59/SLES_556.59_BG_04.png",
+      "kind": "background",
+      "bytes": 236572,
+      "width": 640,
+      "height": 480,
+      "sha256": "712def572112f531509b5b7ce367d9aba5b0ed205d66921c0ee1306ab713d987",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.59/SLES_556.59_BG_04.png"
+      },
+      "gameId": "SLES_556.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA 2K12"
+}

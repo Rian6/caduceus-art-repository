@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.79",
+  "cover": {
+    "path": "PS2/SLPM_623.79/SLPM_623.79_COV.png",
+    "kind": "cover",
+    "bytes": 50825,
+    "width": 192,
+    "height": 272,
+    "sha256": "717bbfbbd62ef0c02d406181c48ec097d152b39352e02b30604a3a3185d80eef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62379.jpg"
+    },
+    "gameId": "SLPM_623.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Karaoke Revolution - J-Pop Vol.2"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SCUS_974.68",
+  "cover": {
+    "path": "PS2/SCUS_974.68/SCUS_974.68_COV.png",
+    "kind": "cover",
+    "bytes": 104929,
+    "width": 192,
+    "height": 272,
+    "sha256": "46641fc2ca089c4986537400872faec5e93c6c47d5662f4cc66c31048273bc5d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97468.jpg"
+    },
+    "gameId": "SCUS_974.68"
+  },
+  "disc": {
+    "path": "PS2/SCUS_974.68/SCUS_974.68_ICO.png",
+    "kind": "disc",
+    "bytes": 10738,
+    "width": 128,
+    "height": 128,
+    "sha256": "ca21172c8d04ff18c1efa0206466bdd0e61beb00a43366195aa477d63efcacd5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCUS_974.68_ICO.png"
+    },
+    "gameId": "SCUS_974.68"
+  },
+  "background": {
+    "path": "PS2/SCUS_974.68/SCUS_974.68_BG.png",
+    "kind": "background",
+    "bytes": 147499,
+    "width": 640,
+    "height": 480,
+    "sha256": "9ff82f35ccdde4cfb6fdc64ce0c89b661e025e6d5852ad3da865686e69b14bce",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_974.68/SCUS_974.68_BG_00.png"
+    },
+    "gameId": "SCUS_974.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_974.68/SCUS_974.68_BG.png",
+      "kind": "background",
+      "bytes": 147499,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ff82f35ccdde4cfb6fdc64ce0c89b661e025e6d5852ad3da865686e69b14bce",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.68/SCUS_974.68_BG_00.png"
+      },
+      "gameId": "SCUS_974.68"
+    },
+    {
+      "path": "PS2/SCUS_974.68/SCUS_974.68_BG_01.png",
+      "kind": "background",
+      "bytes": 160775,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc75752ea40a7e2c355c976c1c040fd97a4f10289bac2cd240cd30a5cd68e5d7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.68/SCUS_974.68_BG_01.png"
+      },
+      "gameId": "SCUS_974.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy: Play 2"
+}

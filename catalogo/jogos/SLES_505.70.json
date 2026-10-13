@@ -1,0 +1,65 @@
+{
+  "id": "SLES_505.70",
+  "cover": {
+    "path": "PS2/SLES_505.70/SLES_505.70_COV.png",
+    "kind": "cover",
+    "bytes": 97468,
+    "width": 192,
+    "height": 272,
+    "sha256": "01dbc499bcd462226feb49be4203cb29a06dd969b8de2c71daa7c74612c8fabb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50570.jpg"
+    },
+    "gameId": "SLES_505.70"
+  },
+  "disc": {
+    "path": "PS2/SLES_505.70/SLES_505.70_ICO.png",
+    "kind": "disc",
+    "bytes": 11437,
+    "width": 128,
+    "height": 128,
+    "sha256": "476601581003bcd8aa4d0a8d33a41254ed3dc1750d0cbf71bf78717dc43e991d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_505.70_ICO.png"
+    },
+    "gameId": "SLES_505.70"
+  },
+  "background": {
+    "path": "PS2/SLES_505.70/SLES_505.70_BG.png",
+    "kind": "background",
+    "bytes": 211714,
+    "width": 640,
+    "height": 480,
+    "sha256": "ffd9e1a1fd11ca887450ccc99384cdda13e75240ad9efd72228df4a823d46931",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_505.70/SLES_505.70_BG_00.png"
+    },
+    "gameId": "SLES_505.70"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_505.70/SLES_505.70_BG.png",
+      "kind": "background",
+      "bytes": 211714,
+      "width": 640,
+      "height": 480,
+      "sha256": "ffd9e1a1fd11ca887450ccc99384cdda13e75240ad9efd72228df4a823d46931",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.70/SLES_505.70_BG_00.png"
+      },
+      "gameId": "SLES_505.70"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LE TOUR DE FRANCE"
+}

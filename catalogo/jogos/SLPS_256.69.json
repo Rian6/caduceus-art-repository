@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.69",
+  "cover": {
+    "path": "PS2/SLPS_256.69/SLPS_256.69_COV.png",
+    "kind": "cover",
+    "bytes": 66972,
+    "width": 192,
+    "height": 272,
+    "sha256": "ce092bf769fc8ee4500a84e655ef56dbc2168ea5925921dcd75a7f18d902dad1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25669.jpg"
+    },
+    "gameId": "SLPS_256.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCHOOL RUMBLE NI-GAKKI [LIMITED EDITION]"
+}

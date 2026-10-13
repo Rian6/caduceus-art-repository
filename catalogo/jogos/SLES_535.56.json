@@ -1,0 +1,90 @@
+{
+  "id": "SLES_535.56",
+  "cover": {
+    "path": "PS2/SLES_535.56/SLES_535.56_COV.png",
+    "kind": "cover",
+    "bytes": 94910,
+    "width": 192,
+    "height": 272,
+    "sha256": "9064e171afcb479754f9388303addc1ffe2ce45e011d1ea030f7d1fe87f149ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53556.jpg"
+    },
+    "gameId": "SLES_535.56"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_535.56/SLES_535.56_BG.png",
+    "kind": "background",
+    "bytes": 156925,
+    "width": 640,
+    "height": 480,
+    "sha256": "ab00a418e04d7fa0a3bc60b1fd531def37a43aa195fed770800edaa2aaae884e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.56/SLES_535.56_BG_00.png"
+    },
+    "gameId": "SLES_535.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.56/SLES_535.56_BG.png",
+      "kind": "background",
+      "bytes": 156925,
+      "width": 640,
+      "height": 480,
+      "sha256": "ab00a418e04d7fa0a3bc60b1fd531def37a43aa195fed770800edaa2aaae884e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.56/SLES_535.56_BG_00.png"
+      },
+      "gameId": "SLES_535.56"
+    },
+    {
+      "path": "PS2/SLES_535.56/SLES_535.56_BG_01.png",
+      "kind": "background",
+      "bytes": 204446,
+      "width": 640,
+      "height": 480,
+      "sha256": "c304e0c3f1a152b09ee705429922a739e2fb460a1afc6049184dac85721be785",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.56/SLES_535.56_BG_01.png"
+      },
+      "gameId": "SLES_535.56"
+    },
+    {
+      "path": "PS2/SLES_535.56/SLES_535.56_BG_02.png",
+      "kind": "background",
+      "bytes": 179346,
+      "width": 640,
+      "height": 480,
+      "sha256": "7fa2453611a6c8db1f2810894f1383991c43b9b8b12afff9c9d2fc6c9d54faec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.56/SLES_535.56_BG_02.png"
+      },
+      "gameId": "SLES_535.56"
+    },
+    {
+      "path": "PS2/SLES_535.56/SLES_535.56_BG_03.png",
+      "kind": "background",
+      "bytes": 205058,
+      "width": 640,
+      "height": 480,
+      "sha256": "4870c457c559f4e7639146d4dc1aca312403f955e9affdf4af93f717962cc9f1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.56/SLES_535.56_BG_03.png"
+      },
+      "gameId": "SLES_535.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Driver - Parallel Lines"
+}

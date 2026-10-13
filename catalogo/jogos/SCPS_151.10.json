@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_151.10",
+  "cover": {
+    "path": "PS2/SCPS_151.10/SCPS_151.10_COV.png",
+    "kind": "cover",
+    "bytes": 78594,
+    "width": 192,
+    "height": 272,
+    "sha256": "49f3d7c1a2c237564719459dc77699107bdb53bb38b8e36c5643c6307ac786ae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15110.jpg"
+    },
+    "gameId": "SCPS_151.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUNPARADE ORCHESTRA - AO NO SHOU"
+}

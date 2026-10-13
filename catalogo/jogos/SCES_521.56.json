@@ -1,0 +1,51 @@
+{
+  "id": "SCES_521.56",
+  "cover": {
+    "path": "PS2/SCES_521.56/SCES_521.56_COV.png",
+    "kind": "cover",
+    "bytes": 91559,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea43634d9af3510bd5840453a002923671e7cf7dd8bf7f69a2f315dca1480790",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52156.jpg"
+    },
+    "gameId": "SCES_521.56"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_521.56/SCES_521.56_BG.png",
+    "kind": "background",
+    "bytes": 164817,
+    "width": 640,
+    "height": 480,
+    "sha256": "e80d06c55a16d9460c689f705531b19ba6437f9c5a9555631c3a9fd5f5ac2c1b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_521.56/SCES_521.56_BG_00.png"
+    },
+    "gameId": "SCES_521.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_521.56/SCES_521.56_BG.png",
+      "kind": "background",
+      "bytes": 164817,
+      "width": 640,
+      "height": 480,
+      "sha256": "e80d06c55a16d9460c689f705531b19ba6437f9c5a9555631c3a9fd5f5ac2c1b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_521.56/SCES_521.56_BG_00.png"
+      },
+      "gameId": "SCES_521.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GHOSTHUNTER"
+}

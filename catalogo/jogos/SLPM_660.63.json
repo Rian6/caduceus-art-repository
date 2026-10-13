@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.63",
+  "cover": {
+    "path": "PS2/SLPM_660.63/SLPM_660.63_COV.png",
+    "kind": "cover",
+    "bytes": 108661,
+    "width": 192,
+    "height": 272,
+    "sha256": "56d2c8387d3ef96df6fd1e8ac8e6e0f07d7a29e2a2c1c434dd1d5673fae18d8c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66063.jpg"
+    },
+    "gameId": "SLPM_660.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAHOU SENSEI NEGIMA! 2-JIKANME ~TATAKAU OTOMETACHI! MAHORA DAIUNDOKAI SP~ [SILVER MEDAL]"
+}

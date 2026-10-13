@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.05",
+  "cover": {
+    "path": "PS2/SLPM_550.05/SLPM_550.05_COV.png",
+    "kind": "cover",
+    "bytes": 109718,
+    "width": 192,
+    "height": 272,
+    "sha256": "cec7d0af536e709cc9bc8e31481cf1ebcc3a13618f539186154ef7bd1c87ebc7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55005.jpg"
+    },
+    "gameId": "SLPM_550.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mana-Khemia 2: Ochita Gakuen to Renkinjutsushi-tachi"
+}

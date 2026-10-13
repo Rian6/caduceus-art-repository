@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.28",
+  "cover": {
+    "path": "PS2/SLKA_250.28/SLKA_250.28_COV.png",
+    "kind": "cover",
+    "bytes": 89896,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea1e9411944a5cfe8144d6e15fd7417ea72f0df7d8a0868f2f2a7fc98cee6b1b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25028.jpg"
+    },
+    "gameId": "SLKA_250.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MISSION IMPOSSIBLE - OPERATION SURMA"
+}

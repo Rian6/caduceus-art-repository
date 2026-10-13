@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_734.21",
+  "cover": {
+    "path": "PS2/SLPS_734.21/SLPS_734.21_COV.png",
+    "kind": "cover",
+    "bytes": 92403,
+    "width": 192,
+    "height": 272,
+    "sha256": "4a62fc3ee8d36d7202d6a801db038c5dff9d0a13829484cbde86a37ed63bd7ad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73421.jpg"
+    },
+    "gameId": "SLPS_734.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENCHU SAN [PLAYSTATION 2 THE BEST REPRINT]"
+}

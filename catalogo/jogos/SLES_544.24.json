@@ -1,0 +1,25 @@
+{
+  "id": "SLES_544.24",
+  "cover": {
+    "path": "PS2/SLES_544.24/SLES_544.24_COV.png",
+    "kind": "cover",
+    "bytes": 78289,
+    "width": 192,
+    "height": 272,
+    "sha256": "cf39db8e1af7cddce7867d5f27909f80ec9ea6f6be93c38b13189449c60f125b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54424.jpg"
+    },
+    "gameId": "SLES_544.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dr. Dolittle"
+}

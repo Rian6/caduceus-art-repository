@@ -1,0 +1,25 @@
+{
+  "id": "SCCS_400.14",
+  "cover": {
+    "path": "PS2/SCCS_400.14/SCCS_400.14_COV.png",
+    "kind": "cover",
+    "bytes": 37228,
+    "width": 192,
+    "height": 272,
+    "sha256": "1a678fe68c837569471bfaf52435c143f4b3c6922885db5bc585a6e8cf767805",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCCS_400.14/SCCS_400.14_COV.png"
+    },
+    "gameId": "SCCS_400.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 7: International"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SLES_549.52",
+  "cover": {
+    "path": "PS2/SLES_549.52/SLES_549.52_COV.png",
+    "kind": "cover",
+    "bytes": 92353,
+    "width": 192,
+    "height": 272,
+    "sha256": "996561710d0da279f167dd7e1a019e8454487748307e164d8815c7f8342de9ac",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54952.jpg"
+    },
+    "gameId": "SLES_549.52"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_549.52/SLES_549.52_BG.png",
+    "kind": "background",
+    "bytes": 204131,
+    "width": 640,
+    "height": 480,
+    "sha256": "089eca16d271671cbd6730bbd2a8cc5463d9c18cc0c717e680cbde54488c419b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.52/SLES_549.52_BG_00.png"
+    },
+    "gameId": "SLES_549.52"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_549.52/SLES_549.52_BG.png",
+      "kind": "background",
+      "bytes": 204131,
+      "width": 640,
+      "height": 480,
+      "sha256": "089eca16d271671cbd6730bbd2a8cc5463d9c18cc0c717e680cbde54488c419b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.52/SLES_549.52_BG_00.png"
+      },
+      "gameId": "SLES_549.52"
+    },
+    {
+      "path": "PS2/SLES_549.52/SLES_549.52_BG_01.png",
+      "kind": "background",
+      "bytes": 70748,
+      "width": 640,
+      "height": 480,
+      "sha256": "2051fed5272de11c3ce80cbd5345c103326f8ed97d5daaa2789fec9bf11e0c2b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.52/SLES_549.52_BG_01.png"
+      },
+      "gameId": "SLES_549.52"
+    },
+    {
+      "path": "PS2/SLES_549.52/SLES_549.52_BG_02.png",
+      "kind": "background",
+      "bytes": 147417,
+      "width": 640,
+      "height": 480,
+      "sha256": "bdbf7ff5f3adcbc3c5907757c80a23f52e4d0ec8ffa26e183e6e4638b3dae6f7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.52/SLES_549.52_BG_02.png"
+      },
+      "gameId": "SLES_549.52"
+    },
+    {
+      "path": "PS2/SLES_549.52/SLES_549.52_BG_03.png",
+      "kind": "background",
+      "bytes": 175171,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac7a8ec6c0432b79f911e38390ba53b0cbb0d246821579bc98c0ae12590044f2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.52/SLES_549.52_BG_03.png"
+      },
+      "gameId": "SLES_549.52"
+    },
+    {
+      "path": "PS2/SLES_549.52/SLES_549.52_BG_04.png",
+      "kind": "background",
+      "bytes": 178177,
+      "width": 640,
+      "height": 480,
+      "sha256": "39aa756baf9c4dbe220e28e6caf745211c53ed24ca835fd23e7b30f8511e2e18",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.52/SLES_549.52_BG_04.png"
+      },
+      "gameId": "SLES_549.52"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ben 10: Protector of Earth"
+}

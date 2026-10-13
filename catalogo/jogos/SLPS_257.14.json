@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_257.14",
+  "cover": {
+    "path": "PS2/SLPS_257.14/SLPS_257.14_COV.png",
+    "kind": "cover",
+    "bytes": 111499,
+    "width": 192,
+    "height": 272,
+    "sha256": "09cd6d3defb0b7dcce09ce26bae6e80fad1ac440d69f4cf2274f6ea3b6481533",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25714.jpg"
+    },
+    "gameId": "SLPS_257.14"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_257.14/SLPS_257.14_BG.png",
+    "kind": "background",
+    "bytes": 191500,
+    "width": 640,
+    "height": 480,
+    "sha256": "b31cd6727defff323ae3a231d15004784f9f70753d75f77462a8df6ac087e6a0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.14/SLPS_257.14_BG_00.png"
+    },
+    "gameId": "SLPS_257.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.14/SLPS_257.14_BG.png",
+      "kind": "background",
+      "bytes": 191500,
+      "width": 640,
+      "height": 480,
+      "sha256": "b31cd6727defff323ae3a231d15004784f9f70753d75f77462a8df6ac087e6a0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.14/SLPS_257.14_BG_00.png"
+      },
+      "gameId": "SLPS_257.14"
+    },
+    {
+      "path": "PS2/SLPS_257.14/SLPS_257.14_BG_01.png",
+      "kind": "background",
+      "bytes": 225809,
+      "width": 640,
+      "height": 480,
+      "sha256": "db652083c19a064b0b885e328f19d2fe615dc2c0e3bba77a3f8df3931eece18f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.14/SLPS_257.14_BG_01.png"
+      },
+      "gameId": "SLPS_257.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Naruto - Konoha Spirits"
+}

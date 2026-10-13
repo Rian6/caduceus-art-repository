@@ -1,0 +1,64 @@
+{
+  "id": "SLKA_253.46",
+  "cover": {
+    "path": "PS2/SLKA_253.46/SLKA_253.46_COV.png",
+    "kind": "cover",
+    "bytes": 105835,
+    "width": 192,
+    "height": 272,
+    "sha256": "be47cee134987e3e0433eb4efcced0e389397fdd5f017965a0f49d74ccd1e50a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25346.jpg"
+    },
+    "gameId": "SLKA_253.46"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_253.46/SLKA_253.46_BG.png",
+    "kind": "background",
+    "bytes": 222578,
+    "width": 640,
+    "height": 480,
+    "sha256": "2d4be2d8ae5a6fc3457abcc20446994eacbe3d08ce6a2d9448b7f69e349b544b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.46/SLKA_253.46_BG_00.png"
+    },
+    "gameId": "SLKA_253.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_253.46/SLKA_253.46_BG.png",
+      "kind": "background",
+      "bytes": 222578,
+      "width": 640,
+      "height": 480,
+      "sha256": "2d4be2d8ae5a6fc3457abcc20446994eacbe3d08ce6a2d9448b7f69e349b544b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_253.46/SLKA_253.46_BG_00.png"
+      },
+      "gameId": "SLKA_253.46"
+    },
+    {
+      "path": "PS2/SLKA_253.46/SLKA_253.46_BG_01.png",
+      "kind": "background",
+      "bytes": 245244,
+      "width": 640,
+      "height": 480,
+      "sha256": "7fa1010ba8466a7ae3498d700aa462bc315c55acc0bd54f2b26735d6dfe2b47d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_253.46/SLKA_253.46_BG_01.png"
+      },
+      "gameId": "SLKA_253.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Prince of Persia: The Two Thrones"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_526.55",
+  "cover": {
+    "path": "PS2/SLES_526.55/SLES_526.55_COV.png",
+    "kind": "cover",
+    "bytes": 96638,
+    "width": 192,
+    "height": 272,
+    "sha256": "af6d818eafe33abb5c728ba0f1b7438f955b7f0e4dee4698d3d6d6fe3a0385d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52655.jpg"
+    },
+    "gameId": "SLES_526.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_526.55/SLES_526.55_BG.png",
+    "kind": "background",
+    "bytes": 194059,
+    "width": 640,
+    "height": 480,
+    "sha256": "cec40a11288f09fffccde55a59533bd09c3108ca2521223094d87d98cfef0197",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_526.55/SLES_526.55_BG_00.png"
+    },
+    "gameId": "SLES_526.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_526.55/SLES_526.55_BG.png",
+      "kind": "background",
+      "bytes": 194059,
+      "width": 640,
+      "height": 480,
+      "sha256": "cec40a11288f09fffccde55a59533bd09c3108ca2521223094d87d98cfef0197",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.55/SLES_526.55_BG_00.png"
+      },
+      "gameId": "SLES_526.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - FC Bayern Munchen"
+}

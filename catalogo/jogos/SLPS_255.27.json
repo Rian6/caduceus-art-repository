@@ -1,0 +1,78 @@
+{
+  "id": "SLPS_255.27",
+  "cover": {
+    "path": "PS2/SLPS_255.27/SLPS_255.27_COV.png",
+    "kind": "cover",
+    "bytes": 73633,
+    "width": 192,
+    "height": 272,
+    "sha256": "e5eab9a6046bbbec73b32d0c46dc57a29d351073956f05e7315351b67d0741ae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25527.jpg"
+    },
+    "gameId": "SLPS_255.27"
+  },
+  "disc": {
+    "path": "PS2/SLPS_255.27/SLPS_255.27_ICO.png",
+    "kind": "disc",
+    "bytes": 23798,
+    "width": 128,
+    "height": 128,
+    "sha256": "1f4f6ca6573a2610d9cf997b47ee1d4fa4bab929ec037a7dafdd18253f88ab3c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_255.27_ICO.png"
+    },
+    "gameId": "SLPS_255.27"
+  },
+  "background": {
+    "path": "PS2/SLPS_255.27/SLPS_255.27_BG.png",
+    "kind": "background",
+    "bytes": 114116,
+    "width": 640,
+    "height": 480,
+    "sha256": "b9a8d799d086e257ad2382d6c6159197715ed0fc9e81937aad4d69533bd71325",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.27/SLPS_255.27_BG_00.png"
+    },
+    "gameId": "SLPS_255.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.27/SLPS_255.27_BG.png",
+      "kind": "background",
+      "bytes": 114116,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9a8d799d086e257ad2382d6c6159197715ed0fc9e81937aad4d69533bd71325",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.27/SLPS_255.27_BG_00.png"
+      },
+      "gameId": "SLPS_255.27"
+    },
+    {
+      "path": "PS2/SLPS_255.27/SLPS_255.27_BG_01.png",
+      "kind": "background",
+      "bytes": 181999,
+      "width": 640,
+      "height": 480,
+      "sha256": "904b66213845e2a27db707aec3f52b2d0c68d78f551aaced5c4eb46acbffc361",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.27/SLPS_255.27_BG_01.png"
+      },
+      "gameId": "SLPS_255.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": ".Hack - Fragment"
+}

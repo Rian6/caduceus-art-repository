@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.09",
+  "cover": {
+    "path": "PS2/SLKA_250.09/SLKA_250.09_COV.png",
+    "kind": "cover",
+    "bytes": 85174,
+    "width": 192,
+    "height": 272,
+    "sha256": "d35d7b5d678d7c59337005417fd71ae2590900a9be97a5153d87e437f85ccd0e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25009.jpg"
+    },
+    "gameId": "SLKA_250.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KENGO 2"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_215.60",
+  "cover": {
+    "path": "PS2/SLUS_215.60/SLUS_215.60_COV.png",
+    "kind": "cover",
+    "bytes": 103331,
+    "width": 192,
+    "height": 272,
+    "sha256": "dab915d211f2a3e74bf9fa3447f12c06a5f35c111c50eaa4a2bbcb3f96e2272d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21560.jpg"
+    },
+    "gameId": "SLUS_215.60"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.60/SLUS_215.60_ICO.png",
+    "kind": "disc",
+    "bytes": 31438,
+    "width": 256,
+    "height": 256,
+    "sha256": "7bd21666b8fb3865aa379923dc3b65545e4f7db1f99cb1d6930220b48f8bf6de",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.60_ICO.png"
+    },
+    "gameId": "SLUS_215.60"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.60/SLUS_215.60_BG.png",
+    "kind": "background",
+    "bytes": 48920,
+    "width": 640,
+    "height": 480,
+    "sha256": "f643c535dc7039bae4304db8c2e89925febf7e3267c28e05aa0632e7fcfa2d46",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.60/SLUS_215.60_BG_00.png"
+    },
+    "gameId": "SLUS_215.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.60/SLUS_215.60_BG.png",
+      "kind": "background",
+      "bytes": 48920,
+      "width": 640,
+      "height": 480,
+      "sha256": "f643c535dc7039bae4304db8c2e89925febf7e3267c28e05aa0632e7fcfa2d46",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.60/SLUS_215.60_BG_00.png"
+      },
+      "gameId": "SLUS_215.60"
+    },
+    {
+      "path": "PS2/SLUS_215.60/SLUS_215.60_BG_01.png",
+      "kind": "background",
+      "bytes": 109614,
+      "width": 640,
+      "height": 480,
+      "sha256": "be89543d17eea61bc0a940d79dd6d09849d5cef55bdcd4491d9b853a5491d8b9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.60/SLUS_215.60_BG_01.png"
+      },
+      "gameId": "SLUS_215.60"
+    },
+    {
+      "path": "PS2/SLUS_215.60/SLUS_215.60_BG_02.png",
+      "kind": "background",
+      "bytes": 106549,
+      "width": 640,
+      "height": 480,
+      "sha256": "a949745ccc90429653cb931caa0eccb58bda47bf80709ffbd3d377fa36c6ab39",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.60/SLUS_215.60_BG_02.png"
+      },
+      "gameId": "SLUS_215.60"
+    },
+    {
+      "path": "PS2/SLUS_215.60/SLUS_215.60_BG_03.png",
+      "kind": "background",
+      "bytes": 85211,
+      "width": 640,
+      "height": 480,
+      "sha256": "3ea9eeb540c5bf9ee40bb9329aecf2528d47695b8674993d5fc2e0d018c49c05",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.60/SLUS_215.60_BG_03.png"
+      },
+      "gameId": "SLUS_215.60"
+    },
+    {
+      "path": "PS2/SLUS_215.60/SLUS_215.60_BG_04.png",
+      "kind": "background",
+      "bytes": 132248,
+      "width": 640,
+      "height": 480,
+      "sha256": "76f1bfb21421f58ad203f7462bc2742ff282818df1fe55120cc7189ea099d9df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.60/SLUS_215.60_BG_04.png"
+      },
+      "gameId": "SLUS_215.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Family Guy: Video Game!"
+}

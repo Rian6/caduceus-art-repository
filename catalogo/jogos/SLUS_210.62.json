@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_210.62",
+  "cover": {
+    "path": "PS2/SLUS_210.62/SLUS_210.62_COV.png",
+    "kind": "cover",
+    "bytes": 85738,
+    "width": 192,
+    "height": 272,
+    "sha256": "aefcad484134b48375facd18ddb23e8dce3743976cc1b3f04fb8db92c1d41598",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21062.jpg"
+    },
+    "gameId": "SLUS_210.62"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.62/SLUS_210.62_ICO.png",
+    "kind": "disc",
+    "bytes": 32134,
+    "width": 256,
+    "height": 256,
+    "sha256": "942e0eced77a452f3a920e6110407bf08ee9a0b287e634b35731c12432902179",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.62_ICO.png"
+    },
+    "gameId": "SLUS_210.62"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.62/SLUS_210.62_BG.png",
+    "kind": "background",
+    "bytes": 132029,
+    "width": 640,
+    "height": 480,
+    "sha256": "d70550bcef6b1ae6e82c1c4231033e1d696bee97971ef43e9346e7ba2e4680c7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.62/SLUS_210.62_BG_00.png"
+    },
+    "gameId": "SLUS_210.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.62/SLUS_210.62_BG.png",
+      "kind": "background",
+      "bytes": 132029,
+      "width": 640,
+      "height": 480,
+      "sha256": "d70550bcef6b1ae6e82c1c4231033e1d696bee97971ef43e9346e7ba2e4680c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.62/SLUS_210.62_BG_00.png"
+      },
+      "gameId": "SLUS_210.62"
+    },
+    {
+      "path": "PS2/SLUS_210.62/SLUS_210.62_BG_01.png",
+      "kind": "background",
+      "bytes": 218446,
+      "width": 640,
+      "height": 480,
+      "sha256": "482d6fa5e6bd4233a7e7ebef580d45b8ae24835b69d3af1b5b5551940bd93dad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.62/SLUS_210.62_BG_01.png"
+      },
+      "gameId": "SLUS_210.62"
+    },
+    {
+      "path": "PS2/SLUS_210.62/SLUS_210.62_BG_02.png",
+      "kind": "background",
+      "bytes": 150717,
+      "width": 640,
+      "height": 480,
+      "sha256": "273a043beac7af68ba04e7cfbd3313daddd1164fc6bdc51ef0cb823b30fb7417",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.62/SLUS_210.62_BG_02.png"
+      },
+      "gameId": "SLUS_210.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jaws Unleashed"
+}

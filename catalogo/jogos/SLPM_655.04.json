@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.04",
+  "cover": {
+    "path": "PS2/SLPM_655.04/SLPM_655.04_COV.png",
+    "kind": "cover",
+    "bytes": 81963,
+    "width": 192,
+    "height": 272,
+    "sha256": "5818d760f173e3778ac50f50542791207e15826054c05e9a91ebd5c74cca747f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65504.jpg"
+    },
+    "gameId": "SLPM_655.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "COOL GIRL [LIMITED EDITION] [2 DISCS]"
+}

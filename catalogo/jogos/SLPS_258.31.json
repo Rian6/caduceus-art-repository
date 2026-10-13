@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.31",
+  "cover": {
+    "path": "PS2/SLPS_258.31/SLPS_258.31_COV.png",
+    "kind": "cover",
+    "bytes": 90227,
+    "width": 192,
+    "height": 272,
+    "sha256": "e942e4044062d9749b57cba8f2d1b0a60620e5db4093fcb7a3cddb837162fba3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25831.jpg"
+    },
+    "gameId": "SLPS_258.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zero no Tsukaima - Muma ga Tsumugu Yokaze no Nocturne"
+}

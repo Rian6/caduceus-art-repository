@@ -1,0 +1,25 @@
+{
+  "id": "SCCS_400.06",
+  "cover": {
+    "path": "PS2/SCCS_400.06/SCCS_400.06_COV.png",
+    "kind": "cover",
+    "bytes": 85345,
+    "width": 192,
+    "height": 272,
+    "sha256": "642bc623fff84a5b22110b57b4e4586d59294543e5110f228237e27b3e065de9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCCS-40006.jpg"
+    },
+    "gameId": "SCCS_400.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 2"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_203.05",
+  "cover": {
+    "path": "PS2/SLUS_203.05/SLUS_203.05_COV.png",
+    "kind": "cover",
+    "bytes": 104945,
+    "width": 192,
+    "height": 272,
+    "sha256": "e04fac1aa51c799b92d821ab3def63d60341851a95f276fe9e8977659b42e886",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20305.jpg"
+    },
+    "gameId": "SLUS_203.05"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.05/SLUS_203.05_ICO.png",
+    "kind": "disc",
+    "bytes": 29991,
+    "width": 256,
+    "height": 256,
+    "sha256": "4cadd8c72debecf8e6f11beaba9b5d7194185c33a727d98312b5d4fbba4c6e13",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.05_ICO.png"
+    },
+    "gameId": "SLUS_203.05"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.05/SLUS_203.05_BG.png",
+    "kind": "background",
+    "bytes": 163846,
+    "width": 640,
+    "height": 480,
+    "sha256": "dd8cfe07a03edf1c8c7141db582d49c97874849d0e8b74b192e87d513e88be2d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.05/SLUS_203.05_BG_00.png"
+    },
+    "gameId": "SLUS_203.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.05/SLUS_203.05_BG.png",
+      "kind": "background",
+      "bytes": 163846,
+      "width": 640,
+      "height": 480,
+      "sha256": "dd8cfe07a03edf1c8c7141db582d49c97874849d0e8b74b192e87d513e88be2d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.05/SLUS_203.05_BG_00.png"
+      },
+      "gameId": "SLUS_203.05"
+    },
+    {
+      "path": "PS2/SLUS_203.05/SLUS_203.05_BG_01.png",
+      "kind": "background",
+      "bytes": 117868,
+      "width": 640,
+      "height": 480,
+      "sha256": "06424ae0d44f2968a06f28fb409cba9ab59eb0f03bf71092d4c4522969ad993c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.05/SLUS_203.05_BG_01.png"
+      },
+      "gameId": "SLUS_203.05"
+    },
+    {
+      "path": "PS2/SLUS_203.05/SLUS_203.05_BG_02.png",
+      "kind": "background",
+      "bytes": 113450,
+      "width": 640,
+      "height": 480,
+      "sha256": "a56b441e1856ccf1d5084d67e0701f827a6610e51e2784d2bfb07c7d8eedbb73",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.05/SLUS_203.05_BG_02.png"
+      },
+      "gameId": "SLUS_203.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE SIMPSONS - ROAD RAGE"
+}

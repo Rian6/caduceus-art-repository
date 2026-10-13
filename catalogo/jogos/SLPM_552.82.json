@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_552.82",
+  "cover": {
+    "path": "PS2/SLPM_552.82/SLPM_552.82_COV.png",
+    "kind": "cover",
+    "bytes": 101883,
+    "width": 192,
+    "height": 272,
+    "sha256": "76a3e8ad14f13a20b426fa88683121536375bdf5cae2ce4c91bb548c4430f3cb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55282.jpg"
+    },
+    "gameId": "SLPM_552.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_552.82/SLPM_552.82_BG.png",
+    "kind": "background",
+    "bytes": 217109,
+    "width": 640,
+    "height": 480,
+    "sha256": "c3c030cb83f9e9bf60d0533b4520f92152f91296d79e67ee180726af6ce12b25",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_552.82/SLPM_552.82_BG_00.png"
+    },
+    "gameId": "SLPM_552.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_552.82/SLPM_552.82_BG.png",
+      "kind": "background",
+      "bytes": 217109,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3c030cb83f9e9bf60d0533b4520f92152f91296d79e67ee180726af6ce12b25",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_552.82/SLPM_552.82_BG_00.png"
+      },
+      "gameId": "SLPM_552.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ARMEN NOIR"
+}

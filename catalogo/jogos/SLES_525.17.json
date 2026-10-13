@@ -1,0 +1,65 @@
+{
+  "id": "SLES_525.17",
+  "cover": {
+    "path": "PS2/SLES_525.17/SLES_525.17_COV.png",
+    "kind": "cover",
+    "bytes": 67502,
+    "width": 192,
+    "height": 272,
+    "sha256": "fc00b25eda94dc54b21189e6e7bab68dc3234aabbab0d8dd2173fb55055fe448",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52517.jpg"
+    },
+    "gameId": "SLES_525.17"
+  },
+  "disc": {
+    "path": "PS2/SLES_525.17/SLES_525.17_ICO.png",
+    "kind": "disc",
+    "bytes": 9925,
+    "width": 128,
+    "height": 128,
+    "sha256": "0c91cc6afb5ebf6eb61e2feaffe880e50179cb4a40953a56d0799bf45cc16e77",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_525.17_ICO.png"
+    },
+    "gameId": "SLES_525.17"
+  },
+  "background": {
+    "path": "PS2/SLES_525.17/SLES_525.17_BG.png",
+    "kind": "background",
+    "bytes": 177675,
+    "width": 640,
+    "height": 480,
+    "sha256": "06da20bcbbada55ae8f525a24b5d4add4298e43c6e653f33dc12ef9d26cb087d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.17/SLES_525.17_BG_00.png"
+    },
+    "gameId": "SLES_525.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.17/SLES_525.17_BG.png",
+      "kind": "background",
+      "bytes": 177675,
+      "width": 640,
+      "height": 480,
+      "sha256": "06da20bcbbada55ae8f525a24b5d4add4298e43c6e653f33dc12ef9d26cb087d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.17/SLES_525.17_BG_00.png"
+      },
+      "gameId": "SLES_525.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Radio Helicopter"
+}

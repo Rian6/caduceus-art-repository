@@ -1,0 +1,25 @@
+{
+  "id": "SLES_530.09",
+  "cover": {
+    "path": "PS2/SLES_530.09/SLES_530.09_COV.png",
+    "kind": "cover",
+    "bytes": 103063,
+    "width": 192,
+    "height": 272,
+    "sha256": "b2a38b301449f3022aacb729a1c238b99d675071f294216da5680b01cfef6fe9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53009.jpg"
+    },
+    "gameId": "SLES_530.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dance Factory"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_000.49",
+  "cover": {
+    "path": "PS2/KOEI_000.49/KOEI_000.49_COV.png",
+    "kind": "cover",
+    "bytes": 62560,
+    "width": 192,
+    "height": 272,
+    "sha256": "c07b3672c6c5210dde927fdb1f85d04e9f5aeeaa891c7fafb81169b1e1547996",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_000.49/KOEI_000.49_COV.png"
+    },
+    "gameId": "KOEI_000.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 4 - Mushouden (Premium Pack)"
+}

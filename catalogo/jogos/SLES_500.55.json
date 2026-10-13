@@ -1,0 +1,51 @@
+{
+  "id": "SLES_500.55",
+  "cover": {
+    "path": "PS2/SLES_500.55/SLES_500.55_COV.png",
+    "kind": "cover",
+    "bytes": 79448,
+    "width": 192,
+    "height": 272,
+    "sha256": "50922bcaad74b9bb4cd35d7909ddd297e8c828971c2222a847d52fd74d4e2707",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50055.jpg"
+    },
+    "gameId": "SLES_500.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_500.55/SLES_500.55_BG.png",
+    "kind": "background",
+    "bytes": 71531,
+    "width": 640,
+    "height": 480,
+    "sha256": "5cf5c3c53bb3704567f174e018ec27cc3fc137f81c447176e702d6e9475b3c11",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.55/SLES_500.55_BG_00.png"
+    },
+    "gameId": "SLES_500.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.55/SLES_500.55_BG.png",
+      "kind": "background",
+      "bytes": 71531,
+      "width": 640,
+      "height": 480,
+      "sha256": "5cf5c3c53bb3704567f174e018ec27cc3fc137f81c447176e702d6e9475b3c11",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.55/SLES_500.55_BG_00.png"
+      },
+      "gameId": "SLES_500.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SMUGGLER'S RUN"
+}

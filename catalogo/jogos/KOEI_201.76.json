@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.76",
+  "cover": {
+    "path": "PS2/KOEI_201.76/KOEI_201.76_COV.png",
+    "kind": "cover",
+    "bytes": 79216,
+    "width": 192,
+    "height": 272,
+    "sha256": "214e6fc95822f1da2189d9af5b254ef46efe4b58bfa33ee42a32c52bf5d723b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/KOEI-20176.jpg"
+    },
+    "gameId": "KOEI_201.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KIN'IRO NO KORUDA 3 [TREASURE BOX]"
+}

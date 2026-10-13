@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.35",
+  "cover": {
+    "path": "PS2/SLKA_253.35/SLKA_253.35_COV.png",
+    "kind": "cover",
+    "bytes": 97727,
+    "width": 192,
+    "height": 272,
+    "sha256": "6c909b5a1f26adb24505b8ef20e470ce4dd8264c57760fadff34f4acf0d789bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25335.jpg"
+    },
+    "gameId": "SLKA_253.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHADOW THE HEDGEHOG"
+}

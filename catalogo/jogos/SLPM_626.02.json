@@ -1,0 +1,77 @@
+{
+  "id": "SLPM_626.02",
+  "cover": {
+    "path": "PS2/SLPM_626.02/SLPM_626.02_COV.png",
+    "kind": "cover",
+    "bytes": 109610,
+    "width": 192,
+    "height": 272,
+    "sha256": "67f34d8874a54601a82ad7a8a7f168d6d842ddde78ead224ca2cd268061c6df8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62602.jpg"
+    },
+    "gameId": "SLPM_626.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_626.02/SLPM_626.02_BG.png",
+    "kind": "background",
+    "bytes": 151437,
+    "width": 640,
+    "height": 480,
+    "sha256": "b0725f7063525907b45e71ccbaef8789086c4b62b942ee4ead242138cb73418f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_626.02/SLPM_626.02_BG_00.png"
+    },
+    "gameId": "SLPM_626.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_626.02/SLPM_626.02_BG.png",
+      "kind": "background",
+      "bytes": 151437,
+      "width": 640,
+      "height": 480,
+      "sha256": "b0725f7063525907b45e71ccbaef8789086c4b62b942ee4ead242138cb73418f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.02/SLPM_626.02_BG_00.png"
+      },
+      "gameId": "SLPM_626.02"
+    },
+    {
+      "path": "PS2/SLPM_626.02/SLPM_626.02_BG_01.png",
+      "kind": "background",
+      "bytes": 211393,
+      "width": 640,
+      "height": 480,
+      "sha256": "108df73c268a4a8c06026ee1ca426a365eec12cf91fbdb07a3722f3d409cdac3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.02/SLPM_626.02_BG_01.png"
+      },
+      "gameId": "SLPM_626.02"
+    },
+    {
+      "path": "PS2/SLPM_626.02/SLPM_626.02_BG_02.png",
+      "kind": "background",
+      "bytes": 193540,
+      "width": 640,
+      "height": 480,
+      "sha256": "e96605c0cc475b43175a0454695a791424e98c28c8f4b56c6373aea6887f1b95",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.02/SLPM_626.02_BG_02.png"
+      },
+      "gameId": "SLPM_626.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yokushin: Giga Wing Generations"
+}

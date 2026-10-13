@@ -1,0 +1,90 @@
+{
+  "id": "SLES_501.96",
+  "cover": {
+    "path": "PS2/SLES_501.96/SLES_501.96_COV.png",
+    "kind": "cover",
+    "bytes": 103687,
+    "width": 192,
+    "height": 272,
+    "sha256": "eec732328d6a76b8d2f84e3eb7ecfa968b62d9e897fc9112791e755a188bbefd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50196.jpg"
+    },
+    "gameId": "SLES_501.96"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_501.96/SLES_501.96_BG.png",
+    "kind": "background",
+    "bytes": 184202,
+    "width": 640,
+    "height": 480,
+    "sha256": "52edc1dcc7d82c8d0f971ce13dd1139949a12c4edce064fd61eefae3b8f75138",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_501.96/SLES_501.96_BG_00.png"
+    },
+    "gameId": "SLES_501.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_501.96/SLES_501.96_BG.png",
+      "kind": "background",
+      "bytes": 184202,
+      "width": 640,
+      "height": 480,
+      "sha256": "52edc1dcc7d82c8d0f971ce13dd1139949a12c4edce064fd61eefae3b8f75138",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.96/SLES_501.96_BG_00.png"
+      },
+      "gameId": "SLES_501.96"
+    },
+    {
+      "path": "PS2/SLES_501.96/SLES_501.96_BG_01.png",
+      "kind": "background",
+      "bytes": 216677,
+      "width": 640,
+      "height": 480,
+      "sha256": "ceab626fe258cf162f2f106d85e3b9c1bc8854d81a3e179a107d0033e658ce13",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.96/SLES_501.96_BG_01.png"
+      },
+      "gameId": "SLES_501.96"
+    },
+    {
+      "path": "PS2/SLES_501.96/SLES_501.96_BG_02.png",
+      "kind": "background",
+      "bytes": 191796,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac06c80b7d5526fd14493f115d4bece933b74e6446328621f3fbd2a0ee325e5a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.96/SLES_501.96_BG_02.png"
+      },
+      "gameId": "SLES_501.96"
+    },
+    {
+      "path": "PS2/SLES_501.96/SLES_501.96_BG_03.png",
+      "kind": "background",
+      "bytes": 197765,
+      "width": 640,
+      "height": 480,
+      "sha256": "2b0cf1ab109acd79e61f166842c5c49216620dc0e85f3b79653b1ff6b81f8686",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.96/SLES_501.96_BG_03.png"
+      },
+      "gameId": "SLES_501.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGACY OF KAIN - SOUL REAVER 2"
+}

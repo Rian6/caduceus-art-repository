@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.96",
+  "cover": {
+    "path": "PS2/SLPS_254.96/SLPS_254.96_COV.png",
+    "kind": "cover",
+    "bytes": 91573,
+    "width": 192,
+    "height": 272,
+    "sha256": "071bf6c5e1879f7a5d77a1dfdd9ab0ef28eedd0fb6ff9d2b4b6b34652077ce26",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25496.jpg"
+    },
+    "gameId": "SLPS_254.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TearRing Saga Series - Berwick Saga (Premium Box)"
+}

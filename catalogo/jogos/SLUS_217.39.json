@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_217.39",
+  "cover": {
+    "path": "PS2/SLUS_217.39/SLUS_217.39_COV.png",
+    "kind": "cover",
+    "bytes": 95159,
+    "width": 192,
+    "height": 272,
+    "sha256": "b1759091cb54aa6a9f13762c963c9b6060fc9f55b37ece85fe92ecb4bf750673",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21739.jpg"
+    },
+    "gameId": "SLUS_217.39"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.39/SLUS_217.39_ICO.png",
+    "kind": "disc",
+    "bytes": 34719,
+    "width": 256,
+    "height": 256,
+    "sha256": "56873cbbf7d86c8a0eeded291158688f0e026b631a40eb9388ecb371df7bae26",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.39_ICO.png"
+    },
+    "gameId": "SLUS_217.39"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.39/SLUS_217.39_BG.png",
+    "kind": "background",
+    "bytes": 181818,
+    "width": 640,
+    "height": 480,
+    "sha256": "601315e17c3e850c87e9294e7d27ae57cf507731b80df7218feaa22be0410c24",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.39/SLUS_217.39_BG_00.png"
+    },
+    "gameId": "SLUS_217.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.39/SLUS_217.39_BG.png",
+      "kind": "background",
+      "bytes": 181818,
+      "width": 640,
+      "height": 480,
+      "sha256": "601315e17c3e850c87e9294e7d27ae57cf507731b80df7218feaa22be0410c24",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.39/SLUS_217.39_BG_00.png"
+      },
+      "gameId": "SLUS_217.39"
+    },
+    {
+      "path": "PS2/SLUS_217.39/SLUS_217.39_BG_01.png",
+      "kind": "background",
+      "bytes": 172340,
+      "width": 640,
+      "height": 480,
+      "sha256": "a989ebb0d3c83673411e4fc3e417c9504fb37d124945eb4ccc900ad4bc9792b7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.39/SLUS_217.39_BG_01.png"
+      },
+      "gameId": "SLUS_217.39"
+    },
+    {
+      "path": "PS2/SLUS_217.39/SLUS_217.39_BG_02.png",
+      "kind": "background",
+      "bytes": 194728,
+      "width": 640,
+      "height": 480,
+      "sha256": "bed69e46dd344487812daac93dbe1c3049fb7ca050b2245818f3f1eb51eb2877",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.39/SLUS_217.39_BG_02.png"
+      },
+      "gameId": "SLUS_217.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Iron Man"
+}

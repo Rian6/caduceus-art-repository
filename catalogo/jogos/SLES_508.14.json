@@ -1,0 +1,51 @@
+{
+  "id": "SLES_508.14",
+  "cover": {
+    "path": "PS2/SLES_508.14/SLES_508.14_COV.png",
+    "kind": "cover",
+    "bytes": 73259,
+    "width": 192,
+    "height": 272,
+    "sha256": "a16b33df39451cb4965dabd79b1df1f3bee8c3c5c49172bdea7b6ea133493bcc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50814.jpg"
+    },
+    "gameId": "SLES_508.14"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_508.14/SLES_508.14_BG.png",
+    "kind": "background",
+    "bytes": 101681,
+    "width": 640,
+    "height": 480,
+    "sha256": "c197ee2b3fd728cf4bcf17a8f2256e863ea48ac9258e5d4dc67d9b01acc43b18",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_508.14/SLES_508.14_BG_00.png"
+    },
+    "gameId": "SLES_508.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_508.14/SLES_508.14_BG.png",
+      "kind": "background",
+      "bytes": 101681,
+      "width": 640,
+      "height": 480,
+      "sha256": "c197ee2b3fd728cf4bcf17a8f2256e863ea48ac9258e5d4dc67d9b01acc43b18",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.14/SLES_508.14_BG_00.png"
+      },
+      "gameId": "SLES_508.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPIDER-MAN"
+}

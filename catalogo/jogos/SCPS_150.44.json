@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.44",
+  "cover": {
+    "path": "PS2/SCPS_150.44/SCPS_150.44_COV.png",
+    "kind": "cover",
+    "bytes": 94675,
+    "width": 192,
+    "height": 272,
+    "sha256": "8089e38fac3864e5f205c971ba847707749902706166a7e7da28816e519210cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15044.jpg"
+    },
+    "gameId": "SCPS_150.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOCOM - U.S. NAVY SEALS"
+}

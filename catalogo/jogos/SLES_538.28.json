@@ -1,0 +1,64 @@
+{
+  "id": "SLES_538.28",
+  "cover": {
+    "path": "PS2/SLES_538.28/SLES_538.28_COV.png",
+    "kind": "cover",
+    "bytes": 72828,
+    "width": 192,
+    "height": 272,
+    "sha256": "6840037286d5dfc9bda0e5e32d49fbc4aa2c09a4520bbb5b9c7e8d0b6d9daebb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53828.jpg"
+    },
+    "gameId": "SLES_538.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_538.28/SLES_538.28_BG.png",
+    "kind": "background",
+    "bytes": 80805,
+    "width": 640,
+    "height": 480,
+    "sha256": "5f8d447eea906d0807e856b5a5bbbbcf5c9b58df7127688d6b6419579c63d24c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_538.28/SLES_538.28_BG_00.png"
+    },
+    "gameId": "SLES_538.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_538.28/SLES_538.28_BG.png",
+      "kind": "background",
+      "bytes": 80805,
+      "width": 640,
+      "height": 480,
+      "sha256": "5f8d447eea906d0807e856b5a5bbbbcf5c9b58df7127688d6b6419579c63d24c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.28/SLES_538.28_BG_00.png"
+      },
+      "gameId": "SLES_538.28"
+    },
+    {
+      "path": "PS2/SLES_538.28/SLES_538.28_BG_01.png",
+      "kind": "background",
+      "bytes": 170608,
+      "width": 640,
+      "height": 480,
+      "sha256": "e5a1e4e633660598c8766ad66f63dd8b56a04c1315d0f6e614b6d35bd1b1cb9f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.28/SLES_538.28_BG_01.png"
+      },
+      "gameId": "SLES_538.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WE LOVE KATAMARI"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.87",
+  "cover": {
+    "path": "PS2/SLPS_202.87/SLPS_202.87_COV.png",
+    "kind": "cover",
+    "bytes": 93719,
+    "width": 192,
+    "height": 272,
+    "sha256": "f87e3a6bf3f72c14624529e85ea209c60697fc205c07e6e3a1081d6b5e324b34",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20287.jpg"
+    },
+    "gameId": "SLPS_202.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "YAKINIKU BUGYOU BONFIRE!"
+}

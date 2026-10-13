@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.30",
+  "cover": {
+    "path": "PS2/SLPM_623.30/SLPM_623.30_COV.png",
+    "kind": "cover",
+    "bytes": 97305,
+    "width": 192,
+    "height": 272,
+    "sha256": "81a87bee1c3a2ee094b513f189cbcaa359b7ab324e2bea4fb5a15dd3078f11bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62330.jpg"
+    },
+    "gameId": "SLPM_623.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AI Mahjong 2003"
+}

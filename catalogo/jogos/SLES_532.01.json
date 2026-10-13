@@ -1,0 +1,117 @@
+{
+  "id": "SLES_532.01",
+  "cover": {
+    "path": "PS2/SLES_532.01/SLES_532.01_COV.png",
+    "kind": "cover",
+    "bytes": 124359,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a8142c9175f370f4fdc169cde260c8b9590dd82ab99a5f1bb696a6180ae18e1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53201.jpg"
+    },
+    "gameId": "SLES_532.01"
+  },
+  "disc": {
+    "path": "PS2/SLES_532.01/SLES_532.01_ICO.png",
+    "kind": "disc",
+    "bytes": 10814,
+    "width": 128,
+    "height": 128,
+    "sha256": "e6d12310b8c96a6feef579348cdb2e4c5828c51505056137230e33a1c654bb4f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_532.01_ICO.png"
+    },
+    "gameId": "SLES_532.01"
+  },
+  "background": {
+    "path": "PS2/SLES_532.01/SLES_532.01_BG.png",
+    "kind": "background",
+    "bytes": 205483,
+    "width": 640,
+    "height": 480,
+    "sha256": "94fcbbdcefc1a3059c240bbb7c3ab470c49f70101701132f92730ce97dc1c5d7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_532.01/SLES_532.01_BG_00.png"
+    },
+    "gameId": "SLES_532.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_532.01/SLES_532.01_BG.png",
+      "kind": "background",
+      "bytes": 205483,
+      "width": 640,
+      "height": 480,
+      "sha256": "94fcbbdcefc1a3059c240bbb7c3ab470c49f70101701132f92730ce97dc1c5d7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.01/SLES_532.01_BG_00.png"
+      },
+      "gameId": "SLES_532.01"
+    },
+    {
+      "path": "PS2/SLES_532.01/SLES_532.01_BG_01.png",
+      "kind": "background",
+      "bytes": 212923,
+      "width": 640,
+      "height": 480,
+      "sha256": "00f3fa7ba0071701f11238fd76173da65e8d3f2677eae21dccd6436bc5cf1f1a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.01/SLES_532.01_BG_01.png"
+      },
+      "gameId": "SLES_532.01"
+    },
+    {
+      "path": "PS2/SLES_532.01/SLES_532.01_BG_02.png",
+      "kind": "background",
+      "bytes": 204448,
+      "width": 640,
+      "height": 480,
+      "sha256": "3e61997d57e417beb99375aa046eac96cef759b2bad47c6a50d351d57222a924",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.01/SLES_532.01_BG_02.png"
+      },
+      "gameId": "SLES_532.01"
+    },
+    {
+      "path": "PS2/SLES_532.01/SLES_532.01_BG_03.png",
+      "kind": "background",
+      "bytes": 226843,
+      "width": 640,
+      "height": 480,
+      "sha256": "1332b4a7feb9ce4e1f26e3f0f2256a9bed5994f4c423a7b96f904f778693b418",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.01/SLES_532.01_BG_03.png"
+      },
+      "gameId": "SLES_532.01"
+    },
+    {
+      "path": "PS2/SLES_532.01/SLES_532.01_BG_04.png",
+      "kind": "background",
+      "bytes": 171025,
+      "width": 640,
+      "height": 480,
+      "sha256": "ede98d9bd248aadcc34869439c17592e17ce337744363978e9a1faf00bf96bbd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.01/SLES_532.01_BG_04.png"
+      },
+      "gameId": "SLES_532.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saint Seiya: The Sanctuary"
+}

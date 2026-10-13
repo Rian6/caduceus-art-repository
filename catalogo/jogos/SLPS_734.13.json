@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_734.13",
+  "cover": {
+    "path": "PS2/SLPS_734.13/SLPS_734.13_COV.png",
+    "kind": "cover",
+    "bytes": 73170,
+    "width": 192,
+    "height": 272,
+    "sha256": "3bdbefe68aeeaeeb8a2186cf350a43c865d75d033c1311de3356fbfc13c79380",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73413.jpg"
+    },
+    "gameId": "SLPS_734.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAMAITACHI NO YORU 2 [PLAYSTATION 2 THE BEST]"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_663.60",
+  "cover": {
+    "path": "PS2/SLPM_663.60/SLPM_663.60_COV.png",
+    "kind": "cover",
+    "bytes": 120541,
+    "width": 192,
+    "height": 272,
+    "sha256": "53d50092f53e76a6138947f1fb99a9c4ef6124f927b158603adfde176306a6c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66360.jpg"
+    },
+    "gameId": "SLPM_663.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_663.60/SLPM_663.60_BG.png",
+    "kind": "background",
+    "bytes": 207689,
+    "width": 640,
+    "height": 480,
+    "sha256": "66b8b132f957afe70ad6baf1a9aaeb0231ab304767ecda6e300338746c2b0ecf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_663.60/SLPM_663.60_BG_00.png"
+    },
+    "gameId": "SLPM_663.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_663.60/SLPM_663.60_BG.png",
+      "kind": "background",
+      "bytes": 207689,
+      "width": 640,
+      "height": 480,
+      "sha256": "66b8b132f957afe70ad6baf1a9aaeb0231ab304767ecda6e300338746c2b0ecf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_663.60/SLPM_663.60_BG_00.png"
+      },
+      "gameId": "SLPM_663.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ys V - Lost Kefin, Kingdom of Sand"
+}

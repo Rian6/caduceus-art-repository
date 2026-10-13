@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_212.21",
+  "cover": {
+    "path": "PS2/SLUS_212.21/SLUS_212.21_COV.png",
+    "kind": "cover",
+    "bytes": 101145,
+    "width": 192,
+    "height": 272,
+    "sha256": "6eb628f3e09af4466b535c566f385d1ff2d93a57705d9ed3b2bc253e46e4121a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21221.jpg"
+    },
+    "gameId": "SLUS_212.21"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.21/SLUS_212.21_ICO.png",
+    "kind": "disc",
+    "bytes": 32410,
+    "width": 256,
+    "height": 256,
+    "sha256": "1c90dd61634e993374bce77f7ad6ec03312df5c1dd4612749266657230094abf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.21_ICO.png"
+    },
+    "gameId": "SLUS_212.21"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.21/SLUS_212.21_BG.png",
+    "kind": "background",
+    "bytes": 205013,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a3a46a03fe4862773a763fd63d12608187f8a6d851d3fd750da41ee71728257",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.21/SLUS_212.21_BG_00.png"
+    },
+    "gameId": "SLUS_212.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.21/SLUS_212.21_BG.png",
+      "kind": "background",
+      "bytes": 205013,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a3a46a03fe4862773a763fd63d12608187f8a6d851d3fd750da41ee71728257",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.21/SLUS_212.21_BG_00.png"
+      },
+      "gameId": "SLUS_212.21"
+    },
+    {
+      "path": "PS2/SLUS_212.21/SLUS_212.21_BG_01.png",
+      "kind": "background",
+      "bytes": 123299,
+      "width": 640,
+      "height": 480,
+      "sha256": "75f34f7e6df91828ee9b6e11f503394dde1f0effa026e1dcbc9951a0defa6fc7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.21/SLUS_212.21_BG_01.png"
+      },
+      "gameId": "SLUS_212.21"
+    },
+    {
+      "path": "PS2/SLUS_212.21/SLUS_212.21_BG_02.png",
+      "kind": "background",
+      "bytes": 172167,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf79425f552d49243742b8b7cc109ffcbf235a751a3bc10057788730d64c3755",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.21/SLUS_212.21_BG_02.png"
+      },
+      "gameId": "SLUS_212.21"
+    },
+    {
+      "path": "PS2/SLUS_212.21/SLUS_212.21_BG_03.png",
+      "kind": "background",
+      "bytes": 209100,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1a2929bd4cd01866ff11295f0418e8b547f31b1b4f0a796e4b943263dc4876e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.21/SLUS_212.21_BG_03.png"
+      },
+      "gameId": "SLUS_212.21"
+    },
+    {
+      "path": "PS2/SLUS_212.21/SLUS_212.21_BG_04.png",
+      "kind": "background",
+      "bytes": 210964,
+      "width": 640,
+      "height": 480,
+      "sha256": "d39d796fe4151862b941d5faa79c46143dd6cb252661a594b88fade164859c4d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.21/SLUS_212.21_BG_04.png"
+      },
+      "gameId": "SLUS_212.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Magna Carta - Tears of Blood"
+}

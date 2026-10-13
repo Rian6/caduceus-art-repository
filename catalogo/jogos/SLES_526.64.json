@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.64",
+  "cover": {
+    "path": "PS2/SLES_526.64/SLES_526.64_COV.png",
+    "kind": "cover",
+    "bytes": 93292,
+    "width": 192,
+    "height": 272,
+    "sha256": "8feb15da388d5c3097fa4ca20e16035f02e1aff183058e7fbd55309f6d18607e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52664.jpg"
+    },
+    "gameId": "SLES_526.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - Rangers"
+}

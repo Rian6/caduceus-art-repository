@@ -1,0 +1,64 @@
+{
+  "id": "SLES_552.94",
+  "cover": {
+    "path": "PS2/SLES_552.94/SLES_552.94_COV.png",
+    "kind": "cover",
+    "bytes": 69650,
+    "width": 192,
+    "height": 272,
+    "sha256": "2a57b66fbbd2f455a372961c6b6751365d75c88bbd5634af7215e8fc91051324",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55294.jpg"
+    },
+    "gameId": "SLES_552.94"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_552.94/SLES_552.94_BG.png",
+    "kind": "background",
+    "bytes": 124762,
+    "width": 640,
+    "height": 480,
+    "sha256": "2257d92ae6649ecdb37c27e788ffe94c8e25556453c19b7e371373a6f03e11ba",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_552.94/SLES_552.94_BG_00.png"
+    },
+    "gameId": "SLES_552.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_552.94/SLES_552.94_BG.png",
+      "kind": "background",
+      "bytes": 124762,
+      "width": 640,
+      "height": 480,
+      "sha256": "2257d92ae6649ecdb37c27e788ffe94c8e25556453c19b7e371373a6f03e11ba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.94/SLES_552.94_BG_00.png"
+      },
+      "gameId": "SLES_552.94"
+    },
+    {
+      "path": "PS2/SLES_552.94/SLES_552.94_BG_01.png",
+      "kind": "background",
+      "bytes": 116946,
+      "width": 640,
+      "height": 480,
+      "sha256": "0501cfa44f3b8d7ce9b8672b3a429f7b2c6df05489b64385071dff7f0163e0da",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.94/SLES_552.94_BG_01.png"
+      },
+      "gameId": "SLES_552.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ferrari Challenge - Trofeo Pirelli"
+}

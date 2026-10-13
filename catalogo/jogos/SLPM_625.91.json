@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.91",
+  "cover": {
+    "path": "PS2/SLPM_625.91/SLPM_625.91_COV.png",
+    "kind": "cover",
+    "bytes": 87119,
+    "width": 192,
+    "height": 272,
+    "sha256": "23bf31e3fca7b529fa3c44ff13b121c1cfae00dc4ccd9600962fd203e24a4b09",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62591.jpg"
+    },
+    "gameId": "SLPM_625.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "G1 Jockey 3 - 2005 Nendoban"
+}

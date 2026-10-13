@@ -1,0 +1,78 @@
+{
+  "id": "SLES_538.10",
+  "cover": {
+    "path": "PS2/SLES_538.10/SLES_538.10_COV.png",
+    "kind": "cover",
+    "bytes": 93373,
+    "width": 192,
+    "height": 272,
+    "sha256": "43568f0db014456f366de81e5442ef668a98ac9fb77b92fae1f10d0d2f8e1f18",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53810.jpg"
+    },
+    "gameId": "SLES_538.10"
+  },
+  "disc": {
+    "path": "PS2/SLES_538.10/SLES_538.10_ICO.png",
+    "kind": "disc",
+    "bytes": 10321,
+    "width": 128,
+    "height": 128,
+    "sha256": "fd62a12d18defe764d8e78dec0cee8320ee9f1b15c82055639632444094459c3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_538.10_ICO.png"
+    },
+    "gameId": "SLES_538.10"
+  },
+  "background": {
+    "path": "PS2/SLES_538.10/SLES_538.10_BG.png",
+    "kind": "background",
+    "bytes": 51972,
+    "width": 640,
+    "height": 480,
+    "sha256": "15b319504e8493a82acc835b7a49383760c91b3d2da40c46a18445574e9c034e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_538.10/SLES_538.10_BG_00.png"
+    },
+    "gameId": "SLES_538.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_538.10/SLES_538.10_BG.png",
+      "kind": "background",
+      "bytes": 51972,
+      "width": 640,
+      "height": 480,
+      "sha256": "15b319504e8493a82acc835b7a49383760c91b3d2da40c46a18445574e9c034e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.10/SLES_538.10_BG_00.png"
+      },
+      "gameId": "SLES_538.10"
+    },
+    {
+      "path": "PS2/SLES_538.10/SLES_538.10_BG_01.png",
+      "kind": "background",
+      "bytes": 211056,
+      "width": 640,
+      "height": 480,
+      "sha256": "35a78aabca16384fb7252d27afbb59ab943bb21daf8320d3f6d0063cecad0288",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.10/SLES_538.10_BG_01.png"
+      },
+      "gameId": "SLES_538.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SENSIBLE SOCCER 2006"
+}

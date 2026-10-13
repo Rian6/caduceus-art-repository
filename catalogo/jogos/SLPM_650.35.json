@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.35",
+  "cover": {
+    "path": "PS2/SLPM_650.35/SLPM_650.35_COV.png",
+    "kind": "cover",
+    "bytes": 99401,
+    "width": 192,
+    "height": 272,
+    "sha256": "eb0268d323cf98ac9cce96f40c8d706c2100cc80fa50289ec740362f09972b4a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65035.jpg"
+    },
+    "gameId": "SLPM_650.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kitakata Kenzou Sangokushi (Disc 2)"
+}

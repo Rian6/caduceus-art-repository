@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.10",
+  "cover": {
+    "path": "PS2/SLPM_653.10/SLPM_653.10_COV.png",
+    "kind": "cover",
+    "bytes": 108347,
+    "width": 192,
+    "height": 272,
+    "sha256": "0d6d3eb8020f0844b2eaff5757ff2cd9ffe875fcbf8c9d14a2ff7980ea3b64c5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65310.jpg"
+    },
+    "gameId": "SLPM_653.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Mark of Kri"
+}

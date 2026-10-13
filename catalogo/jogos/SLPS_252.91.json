@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.91",
+  "cover": {
+    "path": "PS2/SLPS_252.91/SLPS_252.91_COV.png",
+    "kind": "cover",
+    "bytes": 87828,
+    "width": 192,
+    "height": 272,
+    "sha256": "9b2402a24d5b56c457994c1d5969e4bb806a49613a881b0391d05f2fb81fde26",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25291.jpg"
+    },
+    "gameId": "SLPS_252.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Baldur's Gate - Dark Alliance (PCW The Best)"
+}

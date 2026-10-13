@@ -1,0 +1,25 @@
+{
+  "id": "SLES_514.62",
+  "cover": {
+    "path": "PS2/SLES_514.62/SLES_514.62_COV.png",
+    "kind": "cover",
+    "bytes": 97217,
+    "width": 192,
+    "height": 272,
+    "sha256": "72dc6b61f68b639a19c69a3402d870b40e7bd7676a361855d9861bfb049b4d05",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51462.jpg"
+    },
+    "gameId": "SLES_514.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shrek Super Party"
+}

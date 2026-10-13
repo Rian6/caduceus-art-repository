@@ -1,0 +1,25 @@
+{
+  "id": "SCED_529.52",
+  "cover": {
+    "path": "PS2/SCED_529.52/SCED_529.52_COV.png",
+    "kind": "cover",
+    "bytes": 95996,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a51e2283e984bc1163a494c8d6ac96752a5006bf15ec141617c8a57867e9041",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCED-52952.jpg"
+    },
+    "gameId": "SCED_529.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jak 3 (Demo)"
+}

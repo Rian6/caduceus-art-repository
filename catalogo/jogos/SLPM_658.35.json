@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.35",
+  "cover": {
+    "path": "PS2/SLPM_658.35/SLPM_658.35_COV.png",
+    "kind": "cover",
+    "bytes": 101500,
+    "width": 192,
+    "height": 272,
+    "sha256": "8884f8e16499ba9c4cc3a2620fda9e80551ab40abe7d221ac3a4131dc0397bf8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65835.jpg"
+    },
+    "gameId": "SLPM_658.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BAKUMATSU RENKA - SHINSENGUMI"
+}

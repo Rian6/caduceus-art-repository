@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.35",
+  "cover": {
+    "path": "PS2/SLAJ_250.35/SLAJ_250.35_COV.png",
+    "kind": "cover",
+    "bytes": 93450,
+    "width": 192,
+    "height": 272,
+    "sha256": "24e9fa64719966983966a2390017ec035fd0bd321a523e5a5baa2a6c033a14d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25035.jpg"
+    },
+    "gameId": "SLAJ_250.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Musou"
+}

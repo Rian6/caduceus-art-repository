@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_250.99",
+  "cover": {
+    "path": "PS2/SLPS_250.99/SLPS_250.99_COV.png",
+    "kind": "cover",
+    "bytes": 94865,
+    "width": 192,
+    "height": 272,
+    "sha256": "7149dcbdb26a4c0bf8892e676e3e05a68d4a934ff2d2d35442841e95cac6eb68",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25099.jpg"
+    },
+    "gameId": "SLPS_250.99"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_250.99/SLPS_250.99_BG.png",
+    "kind": "background",
+    "bytes": 229095,
+    "width": 640,
+    "height": 480,
+    "sha256": "b67360131a293af35fe36478674054afe690e305f55c75f2e85f264aba3a3e53",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.99/SLPS_250.99_BG_00.png"
+    },
+    "gameId": "SLPS_250.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_250.99/SLPS_250.99_BG.png",
+      "kind": "background",
+      "bytes": 229095,
+      "width": 640,
+      "height": 480,
+      "sha256": "b67360131a293af35fe36478674054afe690e305f55c75f2e85f264aba3a3e53",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.99/SLPS_250.99_BG_00.png"
+      },
+      "gameId": "SLPS_250.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WRC: World Rally Championship - Sekai Rally Senshuken"
+}

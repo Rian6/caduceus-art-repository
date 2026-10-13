@@ -1,0 +1,51 @@
+{
+  "id": "SLES_540.63",
+  "cover": {
+    "path": "PS2/SLES_540.63/SLES_540.63_COV.png",
+    "kind": "cover",
+    "bytes": 80186,
+    "width": 192,
+    "height": 272,
+    "sha256": "02c892b0f6fb36b247eabd8daef15603fb26ec195f65c38d0626505694209121",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54063.jpg"
+    },
+    "gameId": "SLES_540.63"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_540.63/SLES_540.63_BG.png",
+    "kind": "background",
+    "bytes": 135079,
+    "width": 640,
+    "height": 480,
+    "sha256": "f541efcff0e5e5e29c3a3f1072291279c95ae25447201463949ed8abb9796240",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_540.63/SLES_540.63_BG_00.png"
+    },
+    "gameId": "SLES_540.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_540.63/SLES_540.63_BG.png",
+      "kind": "background",
+      "bytes": 135079,
+      "width": 640,
+      "height": 480,
+      "sha256": "f541efcff0e5e5e29c3a3f1072291279c95ae25447201463949ed8abb9796240",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.63/SLES_540.63_BG_00.png"
+      },
+      "gameId": "SLES_540.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fifa World Cup Germany 2006"
+}

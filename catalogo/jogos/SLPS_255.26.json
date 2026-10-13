@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.26",
+  "cover": {
+    "path": "PS2/SLPS_255.26/SLPS_255.26_COV.png",
+    "kind": "cover",
+    "bytes": 113988,
+    "width": 192,
+    "height": 272,
+    "sha256": "2aadf88f4418e9793fdca8701394cd338fee7bf7ae3c0b2c5b832a80ccad9aa2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25526.jpg"
+    },
+    "gameId": "SLPS_255.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEDICAL 91"
+}

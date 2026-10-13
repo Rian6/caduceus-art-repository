@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_207.12",
+  "cover": {
+    "path": "PS2/SLUS_207.12/SLUS_207.12_COV.png",
+    "kind": "cover",
+    "bytes": 91689,
+    "width": 192,
+    "height": 272,
+    "sha256": "309bb504a761f9853728a5f96d960e69fb87870b67df6a374be07fd39f727e7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20712.jpg"
+    },
+    "gameId": "SLUS_207.12"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.12/SLUS_207.12_ICO.png",
+    "kind": "disc",
+    "bytes": 32020,
+    "width": 256,
+    "height": 256,
+    "sha256": "97b42af3efa3467c3a7e66cabd3c65305135693795fd6e783d736bf711984bf4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.12_ICO.png"
+    },
+    "gameId": "SLUS_207.12"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.12/SLUS_207.12_BG.png",
+    "kind": "background",
+    "bytes": 174066,
+    "width": 640,
+    "height": 480,
+    "sha256": "8c77308fe8ea0dda4ae88ce7f8bc1f50b333c887e4d94cde0e5c4353cf45f13a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.12/SLUS_207.12_BG_00.png"
+    },
+    "gameId": "SLUS_207.12"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.12/SLUS_207.12_BG.png",
+      "kind": "background",
+      "bytes": 174066,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c77308fe8ea0dda4ae88ce7f8bc1f50b333c887e4d94cde0e5c4353cf45f13a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.12/SLUS_207.12_BG_00.png"
+      },
+      "gameId": "SLUS_207.12"
+    },
+    {
+      "path": "PS2/SLUS_207.12/SLUS_207.12_BG_01.png",
+      "kind": "background",
+      "bytes": 77034,
+      "width": 640,
+      "height": 480,
+      "sha256": "6fbc42e2b336dfddfc6913540378329c79f1de7aaa69082c709511f4f963bf62",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.12/SLUS_207.12_BG_01.png"
+      },
+      "gameId": "SLUS_207.12"
+    },
+    {
+      "path": "PS2/SLUS_207.12/SLUS_207.12_BG_02.png",
+      "kind": "background",
+      "bytes": 170636,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c8160dd505cb99a77e7aae240fefadc62acedab2c80593eab10f2dee236984d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.12/SLUS_207.12_BG_02.png"
+      },
+      "gameId": "SLUS_207.12"
+    },
+    {
+      "path": "PS2/SLUS_207.12/SLUS_207.12_BG_03.png",
+      "kind": "background",
+      "bytes": 41644,
+      "width": 640,
+      "height": 480,
+      "sha256": "f066e50478fc50940c9562c42cfec0a5625a1e2f16da5cd862494ae734e109fd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.12/SLUS_207.12_BG_03.png"
+      },
+      "gameId": "SLUS_207.12"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRADIUS V"
+}

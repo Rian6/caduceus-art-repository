@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.43",
+  "cover": {
+    "path": "PS2/SLPS_255.43/SLPS_255.43_COV.png",
+    "kind": "cover",
+    "bytes": 105106,
+    "width": 192,
+    "height": 272,
+    "sha256": "93bc56dc62894077c188f836e85b0eaa9c1e6ac69b06c245e764fc92968a8c48",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25543.jpg"
+    },
+    "gameId": "SLPS_255.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FUTAKOI - KOI TO MIZUGI NO SURVIVAL"
+}

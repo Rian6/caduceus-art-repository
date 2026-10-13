@@ -1,0 +1,117 @@
+{
+  "id": "SLES_526.36",
+  "cover": {
+    "path": "PS2/SLES_526.36/SLES_526.36_COV.png",
+    "kind": "cover",
+    "bytes": 76806,
+    "width": 192,
+    "height": 272,
+    "sha256": "e67098b8921bb41d6f0c7d97d4dd0052a4f10d3aed3e3787b5dd04a618b840d8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52636.jpg"
+    },
+    "gameId": "SLES_526.36"
+  },
+  "disc": {
+    "path": "PS2/SLES_526.36/SLES_526.36_ICO.png",
+    "kind": "disc",
+    "bytes": 9902,
+    "width": 128,
+    "height": 128,
+    "sha256": "c28d66c7d8fd49863d1ea89eebaf66f07420294ed5e592e56f242be395dff5ac",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_526.36_ICO.png"
+    },
+    "gameId": "SLES_526.36"
+  },
+  "background": {
+    "path": "PS2/SLES_526.36/SLES_526.36_BG.png",
+    "kind": "background",
+    "bytes": 195862,
+    "width": 640,
+    "height": 480,
+    "sha256": "abc280069223271e9b34acfe4e38b7b548cf648c35c12d525a0383157b6c6963",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_526.36/SLES_526.36_BG_00.png"
+    },
+    "gameId": "SLES_526.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_526.36/SLES_526.36_BG.png",
+      "kind": "background",
+      "bytes": 195862,
+      "width": 640,
+      "height": 480,
+      "sha256": "abc280069223271e9b34acfe4e38b7b548cf648c35c12d525a0383157b6c6963",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.36/SLES_526.36_BG_00.png"
+      },
+      "gameId": "SLES_526.36"
+    },
+    {
+      "path": "PS2/SLES_526.36/SLES_526.36_BG_01.png",
+      "kind": "background",
+      "bytes": 187209,
+      "width": 640,
+      "height": 480,
+      "sha256": "032781d8dceec4f15a213bbe5b0a8a7eabb1929d0c516498864dd9843c647686",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.36/SLES_526.36_BG_01.png"
+      },
+      "gameId": "SLES_526.36"
+    },
+    {
+      "path": "PS2/SLES_526.36/SLES_526.36_BG_02.png",
+      "kind": "background",
+      "bytes": 180828,
+      "width": 640,
+      "height": 480,
+      "sha256": "e0ba91fc45c0b33762de553b8f9c59eebea52055e096a54cb45e40a18cf57c46",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.36/SLES_526.36_BG_02.png"
+      },
+      "gameId": "SLES_526.36"
+    },
+    {
+      "path": "PS2/SLES_526.36/SLES_526.36_BG_03.png",
+      "kind": "background",
+      "bytes": 209293,
+      "width": 640,
+      "height": 480,
+      "sha256": "387215bcb65fcc0c672b525a8fe55462eaaa26c3016f6097c5736d710a3bef13",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.36/SLES_526.36_BG_03.png"
+      },
+      "gameId": "SLES_526.36"
+    },
+    {
+      "path": "PS2/SLES_526.36/SLES_526.36_BG_04.png",
+      "kind": "background",
+      "bytes": 247883,
+      "width": 640,
+      "height": 480,
+      "sha256": "76ad29cecf4bffd79634994b4b77df2ac327e16318496582085129d5bec218ef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.36/SLES_526.36_BG_04.png"
+      },
+      "gameId": "SLES_526.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Colin McRae Rally 2005"
+}

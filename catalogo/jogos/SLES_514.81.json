@@ -1,0 +1,64 @@
+{
+  "id": "SLES_514.81",
+  "cover": {
+    "path": "PS2/SLES_514.81/SLES_514.81_COV.png",
+    "kind": "cover",
+    "bytes": 106113,
+    "width": 192,
+    "height": 272,
+    "sha256": "b8022cbb61d2225f5ba21eadaaa56de34b70a992c6d1b1a808a8f8d791eda545",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51481.jpg"
+    },
+    "gameId": "SLES_514.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_514.81/SLES_514.81_BG.png",
+    "kind": "background",
+    "bytes": 171499,
+    "width": 640,
+    "height": 480,
+    "sha256": "a99bcfe3e8f4e0e337dc77e1017f8e57f1fecaba72f33a1821876decc0e6242c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_514.81/SLES_514.81_BG_00.png"
+    },
+    "gameId": "SLES_514.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_514.81/SLES_514.81_BG.png",
+      "kind": "background",
+      "bytes": 171499,
+      "width": 640,
+      "height": 480,
+      "sha256": "a99bcfe3e8f4e0e337dc77e1017f8e57f1fecaba72f33a1821876decc0e6242c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.81/SLES_514.81_BG_00.png"
+      },
+      "gameId": "SLES_514.81"
+    },
+    {
+      "path": "PS2/SLES_514.81/SLES_514.81_BG_01.png",
+      "kind": "background",
+      "bytes": 210714,
+      "width": 640,
+      "height": 480,
+      "sha256": "68e6f4d27f2e9dbbe2c5efc816332eed988e6e0d807e0324bbff8e228dd1b5ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.81/SLES_514.81_BG_01.png"
+      },
+      "gameId": "SLES_514.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Street Vol. 2"
+}

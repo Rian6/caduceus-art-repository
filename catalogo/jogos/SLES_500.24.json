@@ -1,0 +1,25 @@
+{
+  "id": "SLES_500.24",
+  "cover": {
+    "path": "PS2/SLES_500.24/SLES_500.24_COV.png",
+    "kind": "cover",
+    "bytes": 85542,
+    "width": 192,
+    "height": 272,
+    "sha256": "23b8407ef682041272be55e23baf637fee528366a2142155e772eb3b8260d661",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50024.jpg"
+    },
+    "gameId": "SLES_500.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live 2001"
+}

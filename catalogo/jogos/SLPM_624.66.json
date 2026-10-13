@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.66",
+  "cover": {
+    "path": "PS2/SLPM_624.66/SLPM_624.66_COV.png",
+    "kind": "cover",
+    "bytes": 83170,
+    "width": 192,
+    "height": 272,
+    "sha256": "3eb19353983b31a6133a20c454979ea179443edd078357e188051c261dfa66fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62466.jpg"
+    },
+    "gameId": "SLPM_624.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SuperLite 2000 Vol. 15 - Zooo"
+}

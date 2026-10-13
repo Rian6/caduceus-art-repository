@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_217.86",
+  "cover": {
+    "path": "PS2/SLUS_217.86/SLUS_217.86_COV.png",
+    "kind": "cover",
+    "bytes": 98549,
+    "width": 192,
+    "height": 272,
+    "sha256": "29fd703c30e839cef6b3fd835e0d393bbf50a13d5590d4201e150ea7ed56fb72",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21786.jpg"
+    },
+    "gameId": "SLUS_217.86"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.86/SLUS_217.86_ICO.png",
+    "kind": "disc",
+    "bytes": 30182,
+    "width": 256,
+    "height": 256,
+    "sha256": "bf51e1283ef671143b5b89807852fc3fd0de8fb91b18a3027fe90adf1d1ff869",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.86_ICO.png"
+    },
+    "gameId": "SLUS_217.86"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Summer Athletics: The Ultimate Challenge"
+}

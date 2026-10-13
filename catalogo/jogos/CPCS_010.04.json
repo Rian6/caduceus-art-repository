@@ -1,0 +1,25 @@
+{
+  "id": "CPCS_010.04",
+  "cover": {
+    "path": "PS2/CPCS_010.04/CPCS_010.04_COV.png",
+    "kind": "cover",
+    "bytes": 112745,
+    "width": 192,
+    "height": 272,
+    "sha256": "d65778ed4e5ec977dec1e7805880d5d0856db8f4ac6f12ca2ab73f9a1155a1f4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/CPCS-01004.jpg"
+    },
+    "gameId": "CPCS_010.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MARVEL VS. CAPCOM 2 [MODEM PACK]"
+}

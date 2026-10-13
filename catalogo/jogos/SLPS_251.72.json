@@ -1,0 +1,78 @@
+{
+  "id": "SLPS_251.72",
+  "cover": {
+    "path": "PS2/SLPS_251.72/SLPS_251.72_COV.png",
+    "kind": "cover",
+    "bytes": 98671,
+    "width": 192,
+    "height": 272,
+    "sha256": "c32d0050abcd3cf84ee487f9a19728df5e0fdc520038be189b9b9ab78d0d0959",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25172.jpg"
+    },
+    "gameId": "SLPS_251.72"
+  },
+  "disc": {
+    "path": "PS2/SLPS_251.72/SLPS_251.72_ICO.png",
+    "kind": "disc",
+    "bytes": 11250,
+    "width": 128,
+    "height": 128,
+    "sha256": "a489072a114747edba4504e2beb569fa2aec7330c57802897e08737481895411",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_251.72_ICO.png"
+    },
+    "gameId": "SLPS_251.72"
+  },
+  "background": {
+    "path": "PS2/SLPS_251.72/SLPS_251.72_BG.png",
+    "kind": "background",
+    "bytes": 210011,
+    "width": 640,
+    "height": 480,
+    "sha256": "6f18dd55d440b85c4d699da003106bf60b4e02656f130ca64a42ceba19f6cacc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_251.72/SLPS_251.72_BG_00.png"
+    },
+    "gameId": "SLPS_251.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_251.72/SLPS_251.72_BG.png",
+      "kind": "background",
+      "bytes": 210011,
+      "width": 640,
+      "height": 480,
+      "sha256": "6f18dd55d440b85c4d699da003106bf60b4e02656f130ca64a42ceba19f6cacc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.72/SLPS_251.72_BG_00.png"
+      },
+      "gameId": "SLPS_251.72"
+    },
+    {
+      "path": "PS2/SLPS_251.72/SLPS_251.72_BG_01.png",
+      "kind": "background",
+      "bytes": 183422,
+      "width": 640,
+      "height": 480,
+      "sha256": "1ed033332bfa1f0502cac411e0eef3c38aef778d9e66749bd86fcb1769e49098",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.72/SLPS_251.72_BG_01.png"
+      },
+      "gameId": "SLPS_251.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tales of Destiny 2"
+}

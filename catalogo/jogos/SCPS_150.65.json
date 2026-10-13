@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.65",
+  "cover": {
+    "path": "PS2/SCPS_150.65/SCPS_150.65_COV.png",
+    "kind": "cover",
+    "bytes": 68304,
+    "width": 192,
+    "height": 272,
+    "sha256": "3136cdd9b172e3b053951eeb7a3235ccc2fdbbb3ea1025fbf2936d4a9fd6b72c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.65/SCPS_150.65_COV.png"
+    },
+    "gameId": "SCPS_150.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOCOM  II- U.S. Navy SEALs"
+}

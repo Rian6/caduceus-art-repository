@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_150.30",
+  "cover": {
+    "path": "PS2/SLKA_150.30/SLKA_150.30_COV.png",
+    "kind": "cover",
+    "bytes": 54277,
+    "width": 192,
+    "height": 272,
+    "sha256": "2a94eb781bf411ac8cebd83e9d974febb818921e84904be529384abedeb567f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-15030.jpg"
+    },
+    "gameId": "SLKA_150.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.05 - THE BLOCK KUZUSHI HYPER"
+}

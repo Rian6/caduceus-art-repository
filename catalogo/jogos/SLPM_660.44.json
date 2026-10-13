@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.44",
+  "cover": {
+    "path": "PS2/SLPM_660.44/SLPM_660.44_COV.png",
+    "kind": "cover",
+    "bytes": 107296,
+    "width": 192,
+    "height": 272,
+    "sha256": "265bb11ae50cbcc3a8a2e7d1cdab0c0199a49f0631bb59108cacc31c6f0a6b9c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66044.jpg"
+    },
+    "gameId": "SLPM_660.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MVP Baseball 2005"
+}

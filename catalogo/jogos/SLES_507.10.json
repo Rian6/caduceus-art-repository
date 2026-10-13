@@ -1,0 +1,51 @@
+{
+  "id": "SLES_507.10",
+  "cover": {
+    "path": "PS2/SLES_507.10/SLES_507.10_COV.png",
+    "kind": "cover",
+    "bytes": 104202,
+    "width": 192,
+    "height": 272,
+    "sha256": "f9b244aa4b72a3d22333c51cd6e511168d09afa407ee28b565d0b9d608214a14",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50710.jpg"
+    },
+    "gameId": "SLES_507.10"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_507.10/SLES_507.10_BG.png",
+    "kind": "background",
+    "bytes": 239743,
+    "width": 640,
+    "height": 480,
+    "sha256": "340246be9922a6604a9010afbe61def86dea88a5dd54bbbf59233ce26880ac47",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.10/SLES_507.10_BG_00.png"
+    },
+    "gameId": "SLES_507.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_507.10/SLES_507.10_BG.png",
+      "kind": "background",
+      "bytes": 239743,
+      "width": 640,
+      "height": 480,
+      "sha256": "340246be9922a6604a9010afbe61def86dea88a5dd54bbbf59233ce26880ac47",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.10/SLES_507.10_BG_00.png"
+      },
+      "gameId": "SLES_507.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DR. MUTO"
+}

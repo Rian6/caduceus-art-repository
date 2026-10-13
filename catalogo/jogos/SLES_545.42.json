@@ -1,0 +1,65 @@
+{
+  "id": "SLES_545.42",
+  "cover": {
+    "path": "PS2/SLES_545.42/SLES_545.42_COV.png",
+    "kind": "cover",
+    "bytes": 83021,
+    "width": 192,
+    "height": 272,
+    "sha256": "0b219ac77bdd1695f2f8b9260f2c0521ae7b29b4a12b41e9ce1202b2573f18f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54542.jpg"
+    },
+    "gameId": "SLES_545.42"
+  },
+  "disc": {
+    "path": "PS2/SLES_545.42/SLES_545.42_ICO.png",
+    "kind": "disc",
+    "bytes": 11571,
+    "width": 128,
+    "height": 128,
+    "sha256": "4061d1f218957a5c082ac053955549b5f5b26b56e6942fe4b57b5f4b92e01d32",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_545.42_ICO.png"
+    },
+    "gameId": "SLES_545.42"
+  },
+  "background": {
+    "path": "PS2/SLES_545.42/SLES_545.42_BG.png",
+    "kind": "background",
+    "bytes": 210486,
+    "width": 640,
+    "height": 480,
+    "sha256": "d32083aecf43727d4294b886954c877ec3fcf748282bc6cc3f685bbc765311a4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.42/SLES_545.42_BG_00.png"
+    },
+    "gameId": "SLES_545.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_545.42/SLES_545.42_BG.png",
+      "kind": "background",
+      "bytes": 210486,
+      "width": 640,
+      "height": 480,
+      "sha256": "d32083aecf43727d4294b886954c877ec3fcf748282bc6cc3f685bbc765311a4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.42/SLES_545.42_BG_00.png"
+      },
+      "gameId": "SLES_545.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Xena: Warrior Princess"
+}

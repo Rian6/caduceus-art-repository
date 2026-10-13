@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.75",
+  "cover": {
+    "path": "PS2/SLPS_257.75/SLPS_257.75_COV.png",
+    "kind": "cover",
+    "bytes": 109540,
+    "width": 192,
+    "height": 272,
+    "sha256": "6fbfec38055758431cc577f8d5522087a63b2bf5e0f83ae9a8c38fbf16df1fcc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25775.jpg"
+    },
+    "gameId": "SLPS_257.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Magician's Academy"
+}

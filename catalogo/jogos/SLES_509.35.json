@@ -1,0 +1,65 @@
+{
+  "id": "SLES_509.35",
+  "cover": {
+    "path": "PS2/SLES_509.35/SLES_509.35_COV.png",
+    "kind": "cover",
+    "bytes": 97502,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b26a916156e0c4e13708582f4fd8e69678af3015124f18297e706f75f6eeff5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50935.jpg"
+    },
+    "gameId": "SLES_509.35"
+  },
+  "disc": {
+    "path": "PS2/SLES_509.35/SLES_509.35_ICO.png",
+    "kind": "disc",
+    "bytes": 11870,
+    "width": 128,
+    "height": 128,
+    "sha256": "ab689ef53af4af18c3eff7e44bd2198420d23a29779d48719947c02ec482efaa",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_509.35_ICO.png"
+    },
+    "gameId": "SLES_509.35"
+  },
+  "background": {
+    "path": "PS2/SLES_509.35/SLES_509.35_BG.png",
+    "kind": "background",
+    "bytes": 205316,
+    "width": 640,
+    "height": 480,
+    "sha256": "222eb643a52944818fa85a72f2fe5a865bb6dd9965bcb3ce1bacf4356227300b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_509.35/SLES_509.35_BG_00.png"
+    },
+    "gameId": "SLES_509.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_509.35/SLES_509.35_BG.png",
+      "kind": "background",
+      "bytes": 205316,
+      "width": 640,
+      "height": 480,
+      "sha256": "222eb643a52944818fa85a72f2fe5a865bb6dd9965bcb3ce1bacf4356227300b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.35/SLES_509.35_BG_00.png"
+      },
+      "gameId": "SLES_509.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Circus Maximus: Chariot Wars"
+}

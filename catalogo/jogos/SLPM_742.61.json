@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.61",
+  "cover": {
+    "path": "PS2/SLPM_742.61/SLPM_742.61_COV.png",
+    "kind": "cover",
+    "bytes": 79841,
+    "width": 192,
+    "height": 272,
+    "sha256": "59a898ffdd49592c0ef81f4f3a2d5f6919eb6411157b919e396753beea84f454",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74261.jpg"
+    },
+    "gameId": "SLPM_742.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHINING WIND [PLAYSTATION 2 THE BEST]"
+}

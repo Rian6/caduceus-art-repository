@@ -1,0 +1,39 @@
+{
+  "id": "SLES_524.49",
+  "cover": {
+    "path": "PS2/SLES_524.49/SLES_524.49_COV.png",
+    "kind": "cover",
+    "bytes": 100426,
+    "width": 192,
+    "height": 272,
+    "sha256": "c6bd8522063d3451df8a56ab728ce8eaf49b498b3b9088c55262816fad1c5e33",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52449.jpg"
+    },
+    "gameId": "SLES_524.49"
+  },
+  "disc": {
+    "path": "PS2/SLES_524.49/SLES_524.49_ICO.png",
+    "kind": "disc",
+    "bytes": 12513,
+    "width": 128,
+    "height": 128,
+    "sha256": "12ef329d9983cb9ce5caeae69ea64ff9b0c216e5812be4caa94aa40c8237dcaf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_524.49_ICO.png"
+    },
+    "gameId": "SLES_524.49"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidz Sports Basketball"
+}

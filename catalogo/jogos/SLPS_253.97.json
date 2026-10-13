@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.97",
+  "cover": {
+    "path": "PS2/SLPS_253.97/SLPS_253.97_COV.png",
+    "kind": "cover",
+    "bytes": 97143,
+    "width": 192,
+    "height": 272,
+    "sha256": "be31bb15cdb820b5b69c36530dfbf21060bbdff2eadf6f7e2bf8d91add0ea97b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25397.jpg"
+    },
+    "gameId": "SLPS_253.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sinbad Adventure wa Eimoto Kanako Dedousesuka (Limited Edition)"
+}

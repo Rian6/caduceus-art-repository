@@ -1,0 +1,25 @@
+{
+  "id": "SLES_512.01",
+  "cover": {
+    "path": "PS2/SLES_512.01/SLES_512.01_COV.png",
+    "kind": "cover",
+    "bytes": 108688,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c756eb2d6ff6f694025206fa8d96a9901c62780f29e814f7f70a97c1772bea8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51201.jpg"
+    },
+    "gameId": "SLES_512.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KELLY SLATER'S PRO SURFER"
+}

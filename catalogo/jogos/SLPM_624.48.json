@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.48",
+  "cover": {
+    "path": "PS2/SLPM_624.48/SLPM_624.48_COV.png",
+    "kind": "cover",
+    "bytes": 57911,
+    "width": 192,
+    "height": 272,
+    "sha256": "a1ce65f3d3b809dee8f75d1a3f66e33288b8eb61d11d749f3dc74fe26deca189",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62448.jpg"
+    },
+    "gameId": "SLPM_624.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SuperLite 2000 Vol. 14 - Crossword"
+}

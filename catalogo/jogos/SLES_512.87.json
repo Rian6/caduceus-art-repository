@@ -1,0 +1,25 @@
+{
+  "id": "SLES_512.87",
+  "cover": {
+    "path": "PS2/SLES_512.87/SLES_512.87_COV.png",
+    "kind": "cover",
+    "bytes": 93419,
+    "width": 192,
+    "height": 272,
+    "sha256": "3ae375a83280422e68dffe397dd71c5a9b0d073674a1ad6493f18413f3fd80df",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51287.jpg"
+    },
+    "gameId": "SLES_512.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "X-Men 2: La Vengeance de Wolverine"
+}

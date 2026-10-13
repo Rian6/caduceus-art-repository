@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.82",
+  "cover": {
+    "path": "PS2/SLPM_658.82/SLPM_658.82_COV.png",
+    "kind": "cover",
+    "bytes": 110262,
+    "width": 192,
+    "height": 272,
+    "sha256": "4b88f0cc9f141b854e5988740585eb22bf6f14d8f63a8e5594a202964f136a71",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65882.jpg"
+    },
+    "gameId": "SLPM_658.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Duel Masters - Birth of Super Dragon"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_204.84",
+  "cover": {
+    "path": "PS2/SLUS_204.84/SLUS_204.84_COV.png",
+    "kind": "cover",
+    "bytes": 94982,
+    "width": 192,
+    "height": 272,
+    "sha256": "7472a109625fc99a3a2216b47e22c1a6b6895473b65080365bae89e4a79fa015",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20484.jpg"
+    },
+    "gameId": "SLUS_204.84"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.84/SLUS_204.84_ICO.png",
+    "kind": "disc",
+    "bytes": 32585,
+    "width": 256,
+    "height": 256,
+    "sha256": "db5caabc2a41851f1348881c799569937594837bb85e42be6eb8bb8b043d4183",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.84_ICO.png"
+    },
+    "gameId": "SLUS_204.84"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.84/SLUS_204.84_BG.png",
+    "kind": "background",
+    "bytes": 221200,
+    "width": 640,
+    "height": 480,
+    "sha256": "fe5ad5e5dc1b74950c202253d0ff861a856c580489e3c4e1e282f0a4951c54a9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.84/SLUS_204.84_BG_00.png"
+    },
+    "gameId": "SLUS_204.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.84/SLUS_204.84_BG.png",
+      "kind": "background",
+      "bytes": 221200,
+      "width": 640,
+      "height": 480,
+      "sha256": "fe5ad5e5dc1b74950c202253d0ff861a856c580489e3c4e1e282f0a4951c54a9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.84/SLUS_204.84_BG_00.png"
+      },
+      "gameId": "SLUS_204.84"
+    },
+    {
+      "path": "PS2/SLUS_204.84/SLUS_204.84_BG_01.png",
+      "kind": "background",
+      "bytes": 185863,
+      "width": 640,
+      "height": 480,
+      "sha256": "34bdfe9db0cec9830a49fa0f7fc24931ea13800efd68d91b94ea97004760776b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.84/SLUS_204.84_BG_01.png"
+      },
+      "gameId": "SLUS_204.84"
+    },
+    {
+      "path": "PS2/SLUS_204.84/SLUS_204.84_BG_02.png",
+      "kind": "background",
+      "bytes": 194490,
+      "width": 640,
+      "height": 480,
+      "sha256": "480fb6261fea81e169541c3b84e41e23fb9c05591528136785de47145ffb2637",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.84/SLUS_204.84_BG_02.png"
+      },
+      "gameId": "SLUS_204.84"
+    },
+    {
+      "path": "PS2/SLUS_204.84/SLUS_204.84_BG_03.png",
+      "kind": "background",
+      "bytes": 173759,
+      "width": 640,
+      "height": 480,
+      "sha256": "a9decd8fe4d9b516b4d76d2ee4e419e4fd411d246548cd48b444f21244360274",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.84/SLUS_204.84_BG_03.png"
+      },
+      "gameId": "SLUS_204.84"
+    },
+    {
+      "path": "PS2/SLUS_204.84/SLUS_204.84_BG_04.png",
+      "kind": "background",
+      "bytes": 142905,
+      "width": 640,
+      "height": 480,
+      "sha256": "847c0cca769ccdfc631183d64b4b7c69a235437f388f1190a25faf930daf355c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.84/SLUS_204.84_BG_04.png"
+      },
+      "gameId": "SLUS_204.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Devil May Cry 2 (Disc 1)"
+}

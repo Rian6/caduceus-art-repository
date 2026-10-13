@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.28",
+  "cover": {
+    "path": "PS2/SLPM_665.28/SLPM_665.28_COV.png",
+    "kind": "cover",
+    "bytes": 102824,
+    "width": 192,
+    "height": 272,
+    "sha256": "ca07b3a197f301ba0afe5533945ca07f52ae1902efe4af2e9782e78c1817777a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66528.jpg"
+    },
+    "gameId": "SLPM_665.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nobunaga no Yabou -  Tenka Sousei (with Power-Up Kit)(Koei The Best)"
+}

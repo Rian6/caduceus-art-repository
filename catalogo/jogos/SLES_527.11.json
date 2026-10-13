@@ -1,0 +1,65 @@
+{
+  "id": "SLES_527.11",
+  "cover": {
+    "path": "PS2/SLES_527.11/SLES_527.11_COV.png",
+    "kind": "cover",
+    "bytes": 79226,
+    "width": 192,
+    "height": 272,
+    "sha256": "bfd88c3f38357151c4218da93f4141283a67673b419530cf9a12217f74c64de2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52711.jpg"
+    },
+    "gameId": "SLES_527.11"
+  },
+  "disc": {
+    "path": "PS2/SLES_527.11/SLES_527.11_ICO.png",
+    "kind": "disc",
+    "bytes": 11471,
+    "width": 128,
+    "height": 128,
+    "sha256": "04a567a372941028dce144ecf4a1e01b58629da219107e53f09313859e82bef3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_527.11_ICO.png"
+    },
+    "gameId": "SLES_527.11"
+  },
+  "background": {
+    "path": "PS2/SLES_527.11/SLES_527.11_BG.png",
+    "kind": "background",
+    "bytes": 206978,
+    "width": 640,
+    "height": 480,
+    "sha256": "7e96fbbc985b57b650be9bf9fb8868bb5057071d44b56405bee46666fbd0707f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.11/SLES_527.11_BG_00.png"
+    },
+    "gameId": "SLES_527.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.11/SLES_527.11_BG.png",
+      "kind": "background",
+      "bytes": 206978,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e96fbbc985b57b650be9bf9fb8868bb5057071d44b56405bee46666fbd0707f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.11/SLES_527.11_BG_00.png"
+      },
+      "gameId": "SLES_527.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Titeuf Mega Compet"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SCPS_150.95",
+  "cover": {
+    "path": "PS2/SCPS_150.95/SCPS_150.95_COV.png",
+    "kind": "cover",
+    "bytes": 93458,
+    "width": 192,
+    "height": 272,
+    "sha256": "b424af38054824ea61be0b62f48b1d6b1a8a01f84130aa2f6af822a93da9ad84",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15095.jpg"
+    },
+    "gameId": "SCPS_150.95"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.95/SCPS_150.95_BG.png",
+    "kind": "background",
+    "bytes": 238508,
+    "width": 640,
+    "height": 480,
+    "sha256": "410206bf0579e6b098543f7dff963292f38f56daadc967cf3b4fb56a3a7ca8e9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.95/SCPS_150.95_BG_00.png"
+    },
+    "gameId": "SCPS_150.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.95/SCPS_150.95_BG.png",
+      "kind": "background",
+      "bytes": 238508,
+      "width": 640,
+      "height": 480,
+      "sha256": "410206bf0579e6b098543f7dff963292f38f56daadc967cf3b4fb56a3a7ca8e9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.95/SCPS_150.95_BG_00.png"
+      },
+      "gameId": "SCPS_150.95"
+    },
+    {
+      "path": "PS2/SCPS_150.95/SCPS_150.95_BG_01.png",
+      "kind": "background",
+      "bytes": 228136,
+      "width": 640,
+      "height": 480,
+      "sha256": "3383ff1a53c6ea02a3ecb7a2ac1a92efdb5c0f1ad3feea70365e314d78cb4340",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.95/SCPS_150.95_BG_01.png"
+      },
+      "gameId": "SCPS_150.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GENJI"
+}

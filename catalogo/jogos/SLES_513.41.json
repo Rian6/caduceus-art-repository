@@ -1,0 +1,25 @@
+{
+  "id": "SLES_513.41",
+  "cover": {
+    "path": "PS2/SLES_513.41/SLES_513.41_COV.png",
+    "kind": "cover",
+    "bytes": 72585,
+    "width": 192,
+    "height": 272,
+    "sha256": "c67269c621ac1b9bf4d146a8246df6f0b781c9295de964f3c2dbc8b458b99bf4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51341.jpg"
+    },
+    "gameId": "SLES_513.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL 2K3"
+}

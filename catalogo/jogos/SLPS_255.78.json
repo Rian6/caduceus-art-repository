@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.78",
+  "cover": {
+    "path": "PS2/SLPS_255.78/SLPS_255.78_COV.png",
+    "kind": "cover",
+    "bytes": 93604,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c2dbf6e496c31baf8fa2eecf1b4ee2eb2330aa7a6fdcf256ae9c377aa7d99f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25578.jpg"
+    },
+    "gameId": "SLPS_255.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "K-1 World GP 2005"
+}

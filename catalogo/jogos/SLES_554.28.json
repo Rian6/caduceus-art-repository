@@ -1,0 +1,25 @@
+{
+  "id": "SLES_554.28",
+  "cover": {
+    "path": "PS2/SLES_554.28/SLES_554.28_COV.png",
+    "kind": "cover",
+    "bytes": 93768,
+    "width": 192,
+    "height": 272,
+    "sha256": "dccbb6951b5df23bb6fb813601e3a9b692cc45236893f0bde48ca549b26e782d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55428.jpg"
+    },
+    "gameId": "SLES_554.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney Bolt"
+}

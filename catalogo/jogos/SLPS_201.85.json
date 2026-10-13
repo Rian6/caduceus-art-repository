@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_201.85",
+  "cover": {
+    "path": "PS2/SLPS_201.85/SLPS_201.85_COV.png",
+    "kind": "cover",
+    "bytes": 105850,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d7048be8ece41828e8041fce544071151feccdf16b6d34bbde29d86eefd8737",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20185.jpg"
+    },
+    "gameId": "SLPS_201.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_201.85/SLPS_201.85_BG.png",
+    "kind": "background",
+    "bytes": 152700,
+    "width": 640,
+    "height": 480,
+    "sha256": "90a2040aac5ffd8662037ac7ca27f758d1611f1e4b8c0aecaeb27820c565f765",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_201.85/SLPS_201.85_BG_00.png"
+    },
+    "gameId": "SLPS_201.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_201.85/SLPS_201.85_BG.png",
+      "kind": "background",
+      "bytes": 152700,
+      "width": 640,
+      "height": 480,
+      "sha256": "90a2040aac5ffd8662037ac7ca27f758d1611f1e4b8c0aecaeb27820c565f765",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.85/SLPS_201.85_BG_00.png"
+      },
+      "gameId": "SLPS_201.85"
+    },
+    {
+      "path": "PS2/SLPS_201.85/SLPS_201.85_BG_01.png",
+      "kind": "background",
+      "bytes": 196582,
+      "width": 640,
+      "height": 480,
+      "sha256": "0eb6d79e369daf5420b5be25ced264bd11e464df74abfcec0f75a298493c7f19",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.85/SLPS_201.85_BG_01.png"
+      },
+      "gameId": "SLPS_201.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wangan Midnight"
+}

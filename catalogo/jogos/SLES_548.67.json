@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.67",
+  "cover": {
+    "path": "PS2/SLES_548.67/SLES_548.67_COV.png",
+    "kind": "cover",
+    "bytes": 84518,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1b0f84ad0492c77d49093eac84f971c18cb373a81fbdef9c5058356f77d5e04",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54867.jpg"
+    },
+    "gameId": "SLES_548.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tiger Woods PGA Tour '08"
+}

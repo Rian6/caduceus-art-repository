@@ -1,0 +1,25 @@
+{
+  "id": "SLES_545.34",
+  "cover": {
+    "path": "PS2/SLES_545.34/SLES_545.34_COV.png",
+    "kind": "cover",
+    "bytes": 39423,
+    "width": 192,
+    "height": 272,
+    "sha256": "72745593a90b5b9bc3bb15c42ea1a786f08034f3da394ef4c3768554856a2026",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54534.jpg"
+    },
+    "gameId": "SLES_545.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Scarface: The World Is Yours (Collectors Edition)"
+}

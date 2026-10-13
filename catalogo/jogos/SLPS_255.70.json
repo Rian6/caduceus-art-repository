@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.70",
+  "cover": {
+    "path": "PS2/SLPS_255.70/SLPS_255.70_COV.png",
+    "kind": "cover",
+    "bytes": 98072,
+    "width": 192,
+    "height": 272,
+    "sha256": "ccba834ab87b17bfea86fbc2d930b06efc4fd88940048bab89d5c15f139ba6e3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25570.jpg"
+    },
+    "gameId": "SLPS_255.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KINO NO TABI II - THE BEAUTIFUL WORLD"
+}

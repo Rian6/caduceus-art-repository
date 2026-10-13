@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.93",
+  "cover": {
+    "path": "PS2/SLPS_200.93/SLPS_200.93_COV.png",
+    "kind": "cover",
+    "bytes": 106155,
+    "width": 192,
+    "height": 272,
+    "sha256": "0554d31c7a9862adae1c97771d9b5a74d5cd588da969afbb398eafc42e0e51ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20093.jpg"
+    },
+    "gameId": "SLPS_200.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Mic-chan"
+}

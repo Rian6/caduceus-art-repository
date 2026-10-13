@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_203.95",
+  "cover": {
+    "path": "PS2/SLUS_203.95/SLUS_203.95_COV.png",
+    "kind": "cover",
+    "bytes": 96119,
+    "width": 192,
+    "height": 272,
+    "sha256": "e75f942d0a7ec936802c4ca75bbd9f8cbdfe305597d19f30113416300f47de98",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20395.jpg"
+    },
+    "gameId": "SLUS_203.95"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.95/SLUS_203.95_ICO.png",
+    "kind": "disc",
+    "bytes": 31763,
+    "width": 256,
+    "height": 256,
+    "sha256": "8167d6bb254943170a73c556942c79d5eb79558588cfc60860880c4e7ec10bf4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.95_ICO.png"
+    },
+    "gameId": "SLUS_203.95"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.95/SLUS_203.95_BG.png",
+    "kind": "background",
+    "bytes": 187547,
+    "width": 640,
+    "height": 480,
+    "sha256": "e143731241fa8136a88661f9295f5048998c8f4d9a468d071db7e7764cf345cd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.95/SLUS_203.95_BG_00.png"
+    },
+    "gameId": "SLUS_203.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.95/SLUS_203.95_BG.png",
+      "kind": "background",
+      "bytes": 187547,
+      "width": 640,
+      "height": 480,
+      "sha256": "e143731241fa8136a88661f9295f5048998c8f4d9a468d071db7e7764cf345cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.95/SLUS_203.95_BG_00.png"
+      },
+      "gameId": "SLUS_203.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GLOBAL TOURING CHALLENGE - GTC AFRICA"
+}

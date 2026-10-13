@@ -1,0 +1,25 @@
+{
+  "id": "SLES_511.51",
+  "cover": {
+    "path": "PS2/SLES_511.51/SLES_511.51_COV.png",
+    "kind": "cover",
+    "bytes": 96860,
+    "width": 192,
+    "height": 272,
+    "sha256": "917d360a48575eccd59726f3d42eb421fcfff45e251135bd093919c6e70ffe6a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51151.jpg"
+    },
+    "gameId": "SLES_511.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL 2003"
+}

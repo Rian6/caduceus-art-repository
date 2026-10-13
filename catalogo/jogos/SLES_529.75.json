@@ -1,0 +1,51 @@
+{
+  "id": "SLES_529.75",
+  "cover": {
+    "path": "PS2/SLES_529.75/SLES_529.75_COV.png",
+    "kind": "cover",
+    "bytes": 83536,
+    "width": 192,
+    "height": 272,
+    "sha256": "db58272537b4924ec6e9a56cd0d94fb52f222181f60dafc2ae9aa302a58e5289",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52975.jpg"
+    },
+    "gameId": "SLES_529.75"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_529.75/SLES_529.75_BG.png",
+    "kind": "background",
+    "bytes": 194942,
+    "width": 640,
+    "height": 480,
+    "sha256": "d0dc426b935e96bde5439d1ff64079ab4b370ee060cca640e4e34958e38b9479",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.75/SLES_529.75_BG_00.png"
+    },
+    "gameId": "SLES_529.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.75/SLES_529.75_BG.png",
+      "kind": "background",
+      "bytes": 194942,
+      "width": 640,
+      "height": 480,
+      "sha256": "d0dc426b935e96bde5439d1ff64079ab4b370ee060cca640e4e34958e38b9479",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.75/SLES_529.75_BG_00.png"
+      },
+      "gameId": "SLES_529.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007 - GOLDENEYE - AU SERVICE DU MAL"
+}

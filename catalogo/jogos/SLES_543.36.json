@@ -1,0 +1,51 @@
+{
+  "id": "SLES_543.36",
+  "cover": {
+    "path": "PS2/SLES_543.36/SLES_543.36_COV.png",
+    "kind": "cover",
+    "bytes": 77522,
+    "width": 192,
+    "height": 272,
+    "sha256": "69dc1b7dc3925cf3cf3e9bae26d8298e979e2d0aff5487aa59bac87d2cb4443c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54336.jpg"
+    },
+    "gameId": "SLES_543.36"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.36/SLES_543.36_BG.png",
+    "kind": "background",
+    "bytes": 178409,
+    "width": 640,
+    "height": 480,
+    "sha256": "58a9840bc39bdabe13e98f7bffe62cc3b9893386a2d2b5db609883a30badf539",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.36/SLES_543.36_BG_00.png"
+    },
+    "gameId": "SLES_543.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.36/SLES_543.36_BG.png",
+      "kind": "background",
+      "bytes": 178409,
+      "width": 640,
+      "height": 480,
+      "sha256": "58a9840bc39bdabe13e98f7bffe62cc3b9893386a2d2b5db609883a30badf539",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.36/SLES_543.36_BG_00.png"
+      },
+      "gameId": "SLES_543.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Lumines Plus"
+}

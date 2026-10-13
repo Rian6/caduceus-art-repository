@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_217.42",
+  "cover": {
+    "path": "PS2/SLUS_217.42/SLUS_217.42_COV.png",
+    "kind": "cover",
+    "bytes": 88203,
+    "width": 192,
+    "height": 272,
+    "sha256": "1e52d05910c1271adbf09971f2d7e177ea96e44f435305586f1a262f5f478d45",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21742.jpg"
+    },
+    "gameId": "SLUS_217.42"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.42/SLUS_217.42_ICO.png",
+    "kind": "disc",
+    "bytes": 31687,
+    "width": 256,
+    "height": 256,
+    "sha256": "bcd8e1092b08354b7671cf56cd7c6149bcfcd8dae71c2786bad7cf996958ed75",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.42_ICO.png"
+    },
+    "gameId": "SLUS_217.42"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.42/SLUS_217.42_BG.png",
+    "kind": "background",
+    "bytes": 193422,
+    "width": 640,
+    "height": 480,
+    "sha256": "04e726c7561e561a6d04738b519b553dab2b4c4f51e0528b1de20594cb960d5a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.42/SLUS_217.42_BG_00.png"
+    },
+    "gameId": "SLUS_217.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.42/SLUS_217.42_BG.png",
+      "kind": "background",
+      "bytes": 193422,
+      "width": 640,
+      "height": 480,
+      "sha256": "04e726c7561e561a6d04738b519b553dab2b4c4f51e0528b1de20594cb960d5a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.42/SLUS_217.42_BG_00.png"
+      },
+      "gameId": "SLUS_217.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Women's Volleyball Championship"
+}

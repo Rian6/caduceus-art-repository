@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_657.40",
+  "cover": {
+    "path": "PS2/SLPM_657.40/SLPM_657.40_COV.png",
+    "kind": "cover",
+    "bytes": 74301,
+    "width": 192,
+    "height": 272,
+    "sha256": "5506a4a6152ef7d0c5b2a2e51b623ab133f83d0af20f6c9735288d7fd2a9c8d0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65740.jpg"
+    },
+    "gameId": "SLPM_657.40"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_657.40/SLPM_657.40_BG.png",
+    "kind": "background",
+    "bytes": 155588,
+    "width": 640,
+    "height": 480,
+    "sha256": "e0aec418a3cce6cfffd494b67b7885d7f2c4b4cc1a3e6a9e805543e2ae485eab",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_657.40/SLPM_657.40_BG_00.png"
+    },
+    "gameId": "SLPM_657.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_657.40/SLPM_657.40_BG.png",
+      "kind": "background",
+      "bytes": 155588,
+      "width": 640,
+      "height": 480,
+      "sha256": "e0aec418a3cce6cfffd494b67b7885d7f2c4b4cc1a3e6a9e805543e2ae485eab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.40/SLPM_657.40_BG_00.png"
+      },
+      "gameId": "SLPM_657.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "J-League Winning Eleven 8 Asian Championship"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.15",
+  "cover": {
+    "path": "PS2/SLPM_668.15/SLPM_668.15_COV.png",
+    "kind": "cover",
+    "bytes": 86857,
+    "width": 192,
+    "height": 272,
+    "sha256": "75f86a4a0336a3334de362ee83fd6b44a7530c7d44be506be01d621bc809b317",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66815.jpg"
+    },
+    "gameId": "SLPM_668.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Baldr Bullet Equilibrium"
+}

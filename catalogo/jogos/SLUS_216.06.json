@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_216.06",
+  "cover": {
+    "path": "PS2/SLUS_216.06/SLUS_216.06_COV.png",
+    "kind": "cover",
+    "bytes": 110716,
+    "width": 192,
+    "height": 272,
+    "sha256": "4cebef1cc77f0bb6bb2b361e0db10a747483c9c418da13c95a31d685b4741d5f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21606.jpg"
+    },
+    "gameId": "SLUS_216.06"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.06/SLUS_216.06_ICO.png",
+    "kind": "disc",
+    "bytes": 27503,
+    "width": 256,
+    "height": 256,
+    "sha256": "672d30fdd7be9f0eb56a891e7e6019c247cd965b0cdb4ba873b52445db953bab",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.06_ICO.png"
+    },
+    "gameId": "SLUS_216.06"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.06/SLUS_216.06_BG.png",
+    "kind": "background",
+    "bytes": 217318,
+    "width": 640,
+    "height": 480,
+    "sha256": "21b915f38c65b3380a7383b5aec79f8dc648f179a633217a108f495a87e2a46d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.06/SLUS_216.06_BG_00.png"
+    },
+    "gameId": "SLUS_216.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.06/SLUS_216.06_BG.png",
+      "kind": "background",
+      "bytes": 217318,
+      "width": 640,
+      "height": 480,
+      "sha256": "21b915f38c65b3380a7383b5aec79f8dc648f179a633217a108f495a87e2a46d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.06/SLUS_216.06_BG_00.png"
+      },
+      "gameId": "SLUS_216.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Metropolismania 2"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.21",
+  "cover": {
+    "path": "PS2/SCPS_110.21/SCPS_110.21_COV.png",
+    "kind": "cover",
+    "bytes": 93622,
+    "width": 192,
+    "height": 272,
+    "sha256": "0fe5028fd8287a527258d843822f27859103fc5acf73d8d0ff300f6ca4fa497e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11021.jpg"
+    },
+    "gameId": "SCPS_110.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yoake no Mariko 2nd Act (With Microphone)"
+}

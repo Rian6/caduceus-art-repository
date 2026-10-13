@@ -1,0 +1,25 @@
+{
+  "id": "SLES_518.60",
+  "cover": {
+    "path": "PS2/SLES_518.60/SLES_518.60_COV.png",
+    "kind": "cover",
+    "bytes": 99758,
+    "width": 192,
+    "height": 272,
+    "sha256": "87f66bcce4dfea5276882590328ea33d204511c8aa0192cf27ffa03868ce7eb4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51860.jpg"
+    },
+    "gameId": "SLES_518.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tennis Court Smash"
+}

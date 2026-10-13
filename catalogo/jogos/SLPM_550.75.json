@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.75",
+  "cover": {
+    "path": "PS2/SLPM_550.75/SLPM_550.75_COV.png",
+    "kind": "cover",
+    "bytes": 108696,
+    "width": 192,
+    "height": 272,
+    "sha256": "c11334590786e16b186c90a94c6b9ad723921ea507e58b5ad4860d443493a5b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55075.jpg"
+    },
+    "gameId": "SLPM_550.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCARLETT - NICHIJOU NO KYOUKAISEN [DELUXE PACK]"
+}

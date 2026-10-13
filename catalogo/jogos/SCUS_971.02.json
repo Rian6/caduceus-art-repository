@@ -1,0 +1,117 @@
+{
+  "id": "SCUS_971.02",
+  "cover": {
+    "path": "PS2/SCUS_971.02/SCUS_971.02_COV.png",
+    "kind": "cover",
+    "bytes": 73667,
+    "width": 192,
+    "height": 272,
+    "sha256": "36db6e9b5042a9f08e5848c5abb4c9969544df72877cdade5111f7f4b6cd4a24",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97102.jpg"
+    },
+    "gameId": "SCUS_971.02"
+  },
+  "disc": {
+    "path": "PS2/SCUS_971.02/SCUS_971.02_ICO.png",
+    "kind": "disc",
+    "bytes": 30365,
+    "width": 256,
+    "height": 256,
+    "sha256": "84e8dd2ea2bf8ecac50ad0e6720584008e4be396b1c27f275a8a1445797ba4af",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_971.02_ICO.png"
+    },
+    "gameId": "SCUS_971.02"
+  },
+  "background": {
+    "path": "PS2/SCUS_971.02/SCUS_971.02_BG.png",
+    "kind": "background",
+    "bytes": 183181,
+    "width": 640,
+    "height": 480,
+    "sha256": "6d1d13dafa0b45914336d77f52587c800eb6ef3395fa0e7f16b733327bd50929",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_971.02/SCUS_971.02_BG_00.png"
+    },
+    "gameId": "SCUS_971.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_971.02/SCUS_971.02_BG.png",
+      "kind": "background",
+      "bytes": 183181,
+      "width": 640,
+      "height": 480,
+      "sha256": "6d1d13dafa0b45914336d77f52587c800eb6ef3395fa0e7f16b733327bd50929",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.02/SCUS_971.02_BG_00.png"
+      },
+      "gameId": "SCUS_971.02"
+    },
+    {
+      "path": "PS2/SCUS_971.02/SCUS_971.02_BG_01.png",
+      "kind": "background",
+      "bytes": 130589,
+      "width": 640,
+      "height": 480,
+      "sha256": "cdbafd519f24f6ffaa6c7c2faa37734bb292e29715a95909edb43c65b7f711b7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.02/SCUS_971.02_BG_01.png"
+      },
+      "gameId": "SCUS_971.02"
+    },
+    {
+      "path": "PS2/SCUS_971.02/SCUS_971.02_BG_02.png",
+      "kind": "background",
+      "bytes": 202719,
+      "width": 640,
+      "height": 480,
+      "sha256": "fd39aa7e1b2bf63e82a7d967c5616b8f09213f2c91e2263379ead44c54035ae9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.02/SCUS_971.02_BG_02.png"
+      },
+      "gameId": "SCUS_971.02"
+    },
+    {
+      "path": "PS2/SCUS_971.02/SCUS_971.02_BG_03.png",
+      "kind": "background",
+      "bytes": 197986,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e41d9ce63b47c34da5235a42ea009b8b8b3fb84d610a07595aecce447770673",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.02/SCUS_971.02_BG_03.png"
+      },
+      "gameId": "SCUS_971.02"
+    },
+    {
+      "path": "PS2/SCUS_971.02/SCUS_971.02_BG_04.png",
+      "kind": "background",
+      "bytes": 138060,
+      "width": 640,
+      "height": 480,
+      "sha256": "5bc766d7f9737e7f4b9bebc04e64763652afc78db7aa9adfb1605205c4523e2b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.02/SCUS_971.02_BG_04.png"
+      },
+      "gameId": "SCUS_971.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 3: A-spec"
+}

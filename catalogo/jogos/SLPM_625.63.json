@@ -1,0 +1,77 @@
+{
+  "id": "SLPM_625.63",
+  "cover": {
+    "path": "PS2/SLPM_625.63/SLPM_625.63_COV.png",
+    "kind": "cover",
+    "bytes": 108410,
+    "width": 192,
+    "height": 272,
+    "sha256": "9f73296bc95cd579f8a17751045fa68d93895103a1f88058f88c3d185d8060fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62563.jpg"
+    },
+    "gameId": "SLPM_625.63"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_625.63/SLPM_625.63_BG.png",
+    "kind": "background",
+    "bytes": 257223,
+    "width": 640,
+    "height": 480,
+    "sha256": "72f95756ae096b9fcb512c238e446f761b2b565557920d1bb71d0f6a2f8e6d59",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_625.63/SLPM_625.63_BG_00.png"
+    },
+    "gameId": "SLPM_625.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_625.63/SLPM_625.63_BG.png",
+      "kind": "background",
+      "bytes": 257223,
+      "width": 640,
+      "height": 480,
+      "sha256": "72f95756ae096b9fcb512c238e446f761b2b565557920d1bb71d0f6a2f8e6d59",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_625.63/SLPM_625.63_BG_00.png"
+      },
+      "gameId": "SLPM_625.63"
+    },
+    {
+      "path": "PS2/SLPM_625.63/SLPM_625.63_BG_01.png",
+      "kind": "background",
+      "bytes": 195496,
+      "width": 640,
+      "height": 480,
+      "sha256": "537b26cf2696245b3c5d0dbb4d5c18c5a77dced5f5a1a56bab8d1667d78274e2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_625.63/SLPM_625.63_BG_01.png"
+      },
+      "gameId": "SLPM_625.63"
+    },
+    {
+      "path": "PS2/SLPM_625.63/SLPM_625.63_BG_02.png",
+      "kind": "background",
+      "bytes": 153718,
+      "width": 640,
+      "height": 480,
+      "sha256": "5ec6f750876d8dd8c1044786d9c47c0c7d6529676dc13ff82b8040bff2851b8b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_625.63/SLPM_625.63_BG_02.png"
+      },
+      "gameId": "SLPM_625.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Psikyo Shooting Collection Vol. 2: Sengoku Ace + Sengoku Blade"
+}

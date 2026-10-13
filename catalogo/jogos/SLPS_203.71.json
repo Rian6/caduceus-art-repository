@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.71",
+  "cover": {
+    "path": "PS2/SLPS_203.71/SLPS_203.71_COV.png",
+    "kind": "cover",
+    "bytes": 89779,
+    "width": 192,
+    "height": 272,
+    "sha256": "26e673cad157071747cf32af7521f9eb2d902041b79ef33578ec42a521d9c5d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20371.jpg"
+    },
+    "gameId": "SLPS_203.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mahjong Haoh: Shinken Battle"
+}

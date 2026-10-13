@@ -1,0 +1,51 @@
+{
+  "id": "SCES_531.81",
+  "cover": {
+    "path": "PS2/SCES_531.81/SCES_531.81_COV.png",
+    "kind": "cover",
+    "bytes": 49020,
+    "width": 192,
+    "height": 272,
+    "sha256": "88d5f9afd08d06a16e26e2c64881c51edeeff4f57cbb2b5183186ecb9475babb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_531.81/SCES_531.81_COV.png"
+    },
+    "gameId": "SCES_531.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_531.81/SCES_531.81_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_531.81/SCES_531.81_BG_00.png"
+    },
+    "gameId": "SCES_531.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_531.81/SCES_531.81_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_531.81/SCES_531.81_BG_00.png"
+      },
+      "gameId": "SCES_531.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Radio 105"
+}

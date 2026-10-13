@@ -1,0 +1,65 @@
+{
+  "id": "SLES_533.60",
+  "cover": {
+    "path": "PS2/SLES_533.60/SLES_533.60_COV.png",
+    "kind": "cover",
+    "bytes": 96596,
+    "width": 192,
+    "height": 272,
+    "sha256": "a211df6cf58b6fc8b6abeab70d6309e3f90e8a2f94e15c35e4e129e789e68644",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53360.jpg"
+    },
+    "gameId": "SLES_533.60"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.60/SLES_533.60_ICO.png",
+    "kind": "disc",
+    "bytes": 10394,
+    "width": 128,
+    "height": 128,
+    "sha256": "bc2fa34c91605cb041cfd004507f829aac15faaf7ca7b6ae10478ffb218f59af",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.60_ICO.png"
+    },
+    "gameId": "SLES_533.60"
+  },
+  "background": {
+    "path": "PS2/SLES_533.60/SLES_533.60_BG.png",
+    "kind": "background",
+    "bytes": 164727,
+    "width": 640,
+    "height": 480,
+    "sha256": "a7c2e9f4bde5edac634580f4d22e76ec3888e4204d4953c04579446cd21376ac",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.60/SLES_533.60_BG_00.png"
+    },
+    "gameId": "SLES_533.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.60/SLES_533.60_BG.png",
+      "kind": "background",
+      "bytes": 164727,
+      "width": 640,
+      "height": 480,
+      "sha256": "a7c2e9f4bde5edac634580f4d22e76ec3888e4204d4953c04579446cd21376ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.60/SLES_533.60_BG_00.png"
+      },
+      "gameId": "SLES_533.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Alarm for Cobra 11 Vol. 2: Hot Pursuit"
+}

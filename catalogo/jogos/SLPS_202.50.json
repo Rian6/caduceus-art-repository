@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.50",
+  "cover": {
+    "path": "PS2/SLPS_202.50/SLPS_202.50_COV.png",
+    "kind": "cover",
+    "bytes": 106143,
+    "width": 192,
+    "height": 272,
+    "sha256": "597d763d8e8d1630a71e0e17704ff465fe376db83abf79091d200147a9e34c03",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20250.jpg"
+    },
+    "gameId": "SLPS_202.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Makai Senki Disgaea (Limited Edition)"
+}

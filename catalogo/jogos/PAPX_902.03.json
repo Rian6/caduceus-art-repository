@@ -1,0 +1,77 @@
+{
+  "id": "PAPX_902.03",
+  "cover": {
+    "path": "PS2/PAPX_902.03/PAPX_902.03_COV.png",
+    "kind": "cover",
+    "bytes": 78763,
+    "width": 192,
+    "height": 272,
+    "sha256": "85dfdd54dfe767b544a0d53bb74aa49619cb6f7a1973e7eebdeff6cf6bb2abf0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PAPX-90203.jpg"
+    },
+    "gameId": "PAPX_902.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/PAPX_902.03/PAPX_902.03_BG.png",
+    "kind": "background",
+    "bytes": 157160,
+    "width": 640,
+    "height": 480,
+    "sha256": "fc5ea671346e0b29576ee577ae96f52f5fc4235a05b878e34b24fb26dfbc35f1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/PAPX_902.03/PAPX_902.03_BG_00.png"
+    },
+    "gameId": "PAPX_902.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/PAPX_902.03/PAPX_902.03_BG.png",
+      "kind": "background",
+      "bytes": 157160,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc5ea671346e0b29576ee577ae96f52f5fc4235a05b878e34b24fb26dfbc35f1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/PAPX_902.03/PAPX_902.03_BG_00.png"
+      },
+      "gameId": "PAPX_902.03"
+    },
+    {
+      "path": "PS2/PAPX_902.03/PAPX_902.03_BG_01.png",
+      "kind": "background",
+      "bytes": 154375,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd7dabf0379d61a65ac0367ccc6a00cc291ebda2d7c9a8db177164541137e236",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/PAPX_902.03/PAPX_902.03_BG_01.png"
+      },
+      "gameId": "PAPX_902.03"
+    },
+    {
+      "path": "PS2/PAPX_902.03/PAPX_902.03_BG_02.png",
+      "kind": "background",
+      "bytes": 169535,
+      "width": 640,
+      "height": 480,
+      "sha256": "34878eca81c2592e35762fa48ac3de4fe3b4ce5cd4722926e14e281395622ca9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/PAPX_902.03/PAPX_902.03_BG_02.png"
+      },
+      "gameId": "PAPX_902.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 2000"
+}

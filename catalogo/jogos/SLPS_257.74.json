@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.74",
+  "cover": {
+    "path": "PS2/SLPS_257.74/SLPS_257.74_COV.png",
+    "kind": "cover",
+    "bytes": 97780,
+    "width": 192,
+    "height": 272,
+    "sha256": "81a041e6e113eb711f55effbaf2a8e19e1488528cf292ba3f3c18b2ca96dea29",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25774.jpg"
+    },
+    "gameId": "SLPS_257.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tales of Fandom Vol. 2 (Luke Version)"
+}

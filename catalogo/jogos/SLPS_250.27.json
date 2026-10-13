@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.27",
+  "cover": {
+    "path": "PS2/SLPS_250.27/SLPS_250.27_COV.png",
+    "kind": "cover",
+    "bytes": 91893,
+    "width": 192,
+    "height": 272,
+    "sha256": "03312365af2265342816c4c94bfa89fafdafca5d64217fccbb11a182cfd1215e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25027.jpg"
+    },
+    "gameId": "SLPS_250.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GOLF PARADISE DX"
+}

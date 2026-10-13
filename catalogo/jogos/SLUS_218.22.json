@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_218.22",
+  "cover": {
+    "path": "PS2/SLUS_218.22/SLUS_218.22_COV.png",
+    "kind": "cover",
+    "bytes": 84528,
+    "width": 192,
+    "height": 272,
+    "sha256": "8708ed468bede24caac2159532bfbd8a5d294c0ec8b47cf7d646e7db62cdd8bc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21822.jpg"
+    },
+    "gameId": "SLUS_218.22"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.22/SLUS_218.22_ICO.png",
+    "kind": "disc",
+    "bytes": 29802,
+    "width": 256,
+    "height": 256,
+    "sha256": "3fd96d40c78668d559a86e091f7dbd4aaf962ba6403b62a1b9ce6f15369dca14",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.22_ICO.png"
+    },
+    "gameId": "SLUS_218.22"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.22/SLUS_218.22_BG.png",
+    "kind": "background",
+    "bytes": 197020,
+    "width": 640,
+    "height": 480,
+    "sha256": "37e726c3eee39287b353c8c58752360aa465dd92cb678647289743f040e1e9ab",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.22/SLUS_218.22_BG_00.png"
+    },
+    "gameId": "SLUS_218.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.22/SLUS_218.22_BG.png",
+      "kind": "background",
+      "bytes": 197020,
+      "width": 640,
+      "height": 480,
+      "sha256": "37e726c3eee39287b353c8c58752360aa465dd92cb678647289743f040e1e9ab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.22/SLUS_218.22_BG_00.png"
+      },
+      "gameId": "SLUS_218.22"
+    },
+    {
+      "path": "PS2/SLUS_218.22/SLUS_218.22_BG_01.png",
+      "kind": "background",
+      "bytes": 171795,
+      "width": 640,
+      "height": 480,
+      "sha256": "afee76f1cc9e4e4e0e492cdd1a6439445d603a011cb11a334bd9db57ed534640",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.22/SLUS_218.22_BG_01.png"
+      },
+      "gameId": "SLUS_218.22"
+    },
+    {
+      "path": "PS2/SLUS_218.22/SLUS_218.22_BG_02.png",
+      "kind": "background",
+      "bytes": 214442,
+      "width": 640,
+      "height": 480,
+      "sha256": "521dbb5d2a7cf46d81079aa411d7403b7366e2a7a49499c30e99cfc53cdadfb3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.22/SLUS_218.22_BG_02.png"
+      },
+      "gameId": "SLUS_218.22"
+    },
+    {
+      "path": "PS2/SLUS_218.22/SLUS_218.22_BG_03.png",
+      "kind": "background",
+      "bytes": 218474,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d42751a3b97dd09eba75aae5da6e345e169f7d85c0a7ea086e63620a5e68bdd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.22/SLUS_218.22_BG_03.png"
+      },
+      "gameId": "SLUS_218.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Spider-Man - Web of Shadows - Amazing Allies Edition"
+}

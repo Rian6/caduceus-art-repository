@@ -1,0 +1,91 @@
+{
+  "id": "SLPM_625.06",
+  "cover": {
+    "path": "PS2/SLPM_625.06/SLPM_625.06_COV.png",
+    "kind": "cover",
+    "bytes": 113930,
+    "width": 192,
+    "height": 272,
+    "sha256": "a01d08e0f8036ddf7c996896f06d14d80df9fd4376b8a9c3731242c0018385ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62506.jpg"
+    },
+    "gameId": "SLPM_625.06"
+  },
+  "disc": {
+    "path": "PS2/SLPM_625.06/SLPM_625.06_ICO.png",
+    "kind": "disc",
+    "bytes": 10307,
+    "width": 128,
+    "height": 128,
+    "sha256": "e49e84190230e133176dbcd512647964b71cc8869233bfbc5d69a2b236bc9bda",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_625.06_ICO.png"
+    },
+    "gameId": "SLPM_625.06"
+  },
+  "background": {
+    "path": "PS2/SLPM_625.06/SLPM_625.06_BG.png",
+    "kind": "background",
+    "bytes": 210360,
+    "width": 640,
+    "height": 480,
+    "sha256": "ffd7ccf81aa9b26ede05cb3f0c1d7c7beeda8e3e4a8481a5d68995cd32fa7c2a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_625.06/SLPM_625.06_BG_00.png"
+    },
+    "gameId": "SLPM_625.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_625.06/SLPM_625.06_BG.png",
+      "kind": "background",
+      "bytes": 210360,
+      "width": 640,
+      "height": 480,
+      "sha256": "ffd7ccf81aa9b26ede05cb3f0c1d7c7beeda8e3e4a8481a5d68995cd32fa7c2a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_625.06/SLPM_625.06_BG_00.png"
+      },
+      "gameId": "SLPM_625.06"
+    },
+    {
+      "path": "PS2/SLPM_625.06/SLPM_625.06_BG_01.png",
+      "kind": "background",
+      "bytes": 194684,
+      "width": 640,
+      "height": 480,
+      "sha256": "782a607926d80f77abd30911ed754ffaa77f919bf301d58bfebc70ea868817b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_625.06/SLPM_625.06_BG_01.png"
+      },
+      "gameId": "SLPM_625.06"
+    },
+    {
+      "path": "PS2/SLPM_625.06/SLPM_625.06_BG_02.png",
+      "kind": "background",
+      "bytes": 186560,
+      "width": 640,
+      "height": 480,
+      "sha256": "04aacec8dd14e773edef27b370f880820bba366c74a0addd263239c9f6094e35",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_625.06/SLPM_625.06_BG_02.png"
+      },
+      "gameId": "SLPM_625.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Vampire Panic"
+}

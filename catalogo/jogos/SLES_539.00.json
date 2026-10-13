@@ -1,0 +1,77 @@
+{
+  "id": "SLES_539.00",
+  "cover": {
+    "path": "PS2/SLES_539.00/SLES_539.00_COV.png",
+    "kind": "cover",
+    "bytes": 94807,
+    "width": 192,
+    "height": 272,
+    "sha256": "5f47c617e28b4fbe2a6b1937e8596f6141292f4dee9234ecf0b59e4d62073b26",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53900.jpg"
+    },
+    "gameId": "SLES_539.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_539.00/SLES_539.00_BG.png",
+    "kind": "background",
+    "bytes": 187086,
+    "width": 640,
+    "height": 480,
+    "sha256": "2a7f638178bad5f65ac23190674c1907772348fbf1a6eae1512481c1054b111b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.00/SLES_539.00_BG_00.png"
+    },
+    "gameId": "SLES_539.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.00/SLES_539.00_BG.png",
+      "kind": "background",
+      "bytes": 187086,
+      "width": 640,
+      "height": 480,
+      "sha256": "2a7f638178bad5f65ac23190674c1907772348fbf1a6eae1512481c1054b111b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.00/SLES_539.00_BG_00.png"
+      },
+      "gameId": "SLES_539.00"
+    },
+    {
+      "path": "PS2/SLES_539.00/SLES_539.00_BG_01.png",
+      "kind": "background",
+      "bytes": 150074,
+      "width": 640,
+      "height": 480,
+      "sha256": "e9af661db685e06f77f24aa70521d28b9183e3f193071ffac99c4220c385ec47",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.00/SLES_539.00_BG_01.png"
+      },
+      "gameId": "SLES_539.00"
+    },
+    {
+      "path": "PS2/SLES_539.00/SLES_539.00_BG_02.png",
+      "kind": "background",
+      "bytes": 191488,
+      "width": 640,
+      "height": 480,
+      "sha256": "406198e9eb7d9318c8d1649aa95bbe1bb02bc9e5d16d355e3e014b2612af452e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.00/SLES_539.00_BG_02.png"
+      },
+      "gameId": "SLES_539.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kaido Racer 2"
+}

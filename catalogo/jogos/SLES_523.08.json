@@ -1,0 +1,25 @@
+{
+  "id": "SLES_523.08",
+  "cover": {
+    "path": "PS2/SLES_523.08/SLES_523.08_COV.png",
+    "kind": "cover",
+    "bytes": 96470,
+    "width": 192,
+    "height": 272,
+    "sha256": "1a615736595bb728a56df63f8e2b0736bae80af528d0a08e5874abc25d2c5b0b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52308.jpg"
+    },
+    "gameId": "SLES_523.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Karaoke Stage"
+}

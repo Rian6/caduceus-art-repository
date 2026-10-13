@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_218.13",
+  "cover": {
+    "path": "PS2/SLUS_218.13/SLUS_218.13_COV.png",
+    "kind": "cover",
+    "bytes": 64324,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea28035ed98b6f954b08217337eda1df93eca61c39d23d6980aceaaa08ea3471",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21813.jpg"
+    },
+    "gameId": "SLUS_218.13"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.13/SLUS_218.13_ICO.png",
+    "kind": "disc",
+    "bytes": 29789,
+    "width": 256,
+    "height": 256,
+    "sha256": "b95bbd63d7c29b74149bc4e6cfbba7418c0d3b35c817f0ec12a2fbb02ccb85c9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.13_ICO.png"
+    },
+    "gameId": "SLUS_218.13"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.13/SLUS_218.13_BG.png",
+    "kind": "background",
+    "bytes": 144892,
+    "width": 640,
+    "height": 480,
+    "sha256": "ba33f82660201676c2addeb6cf2189aa562fdd22dd76d169e4c83d8fdb0e3106",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.13/SLUS_218.13_BG_00.png"
+    },
+    "gameId": "SLUS_218.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.13/SLUS_218.13_BG.png",
+      "kind": "background",
+      "bytes": 144892,
+      "width": 640,
+      "height": 480,
+      "sha256": "ba33f82660201676c2addeb6cf2189aa562fdd22dd76d169e4c83d8fdb0e3106",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.13/SLUS_218.13_BG_00.png"
+      },
+      "gameId": "SLUS_218.13"
+    },
+    {
+      "path": "PS2/SLUS_218.13/SLUS_218.13_BG_01.png",
+      "kind": "background",
+      "bytes": 183536,
+      "width": 640,
+      "height": 480,
+      "sha256": "f2ab03ad984aebe979d5225a07e7a221d10a6fdc31ff5f6ba9b39932ebc063b5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.13/SLUS_218.13_BG_01.png"
+      },
+      "gameId": "SLUS_218.13"
+    },
+    {
+      "path": "PS2/SLUS_218.13/SLUS_218.13_BG_02.png",
+      "kind": "background",
+      "bytes": 111916,
+      "width": 640,
+      "height": 480,
+      "sha256": "e38988428623955c1bccf93a54be70c4c4a40d2e44779cfff7e4ec8a567fb4d6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.13/SLUS_218.13_BG_02.png"
+      },
+      "gameId": "SLUS_218.13"
+    },
+    {
+      "path": "PS2/SLUS_218.13/SLUS_218.13_BG_03.png",
+      "kind": "background",
+      "bytes": 38515,
+      "width": 640,
+      "height": 480,
+      "sha256": "9547ae3f3eec91df5480809447893962fbbfdb9aa6491b1eb8e10f663106c68d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.13/SLUS_218.13_BG_03.png"
+      },
+      "gameId": "SLUS_218.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007 - QUANTUM OF SOLACE"
+}

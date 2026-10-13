@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.60",
+  "cover": {
+    "path": "PS2/SLPM_668.60/SLPM_668.60_COV.png",
+    "kind": "cover",
+    "bytes": 109445,
+    "width": 192,
+    "height": 272,
+    "sha256": "0a75ecef6aa685ee1b62964b1899c3751b75afcbd962105ef3e9140b9bbf7d59",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66860.jpg"
+    },
+    "gameId": "SLPM_668.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NETTAI TEIKIATSU SHOUJO [LIMITED EDITION]"
+}

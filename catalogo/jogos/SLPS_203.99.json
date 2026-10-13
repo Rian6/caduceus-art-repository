@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.99",
+  "cover": {
+    "path": "PS2/SLPS_203.99/SLPS_203.99_COV.png",
+    "kind": "cover",
+    "bytes": 119093,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ec052bbf5d2ea979fca9320c22a2563426a0da62203d1339f22128a41c88062",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20399.jpg"
+    },
+    "gameId": "SLPS_203.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin - Go! Go! Godaime (With Tatacon)"
+}

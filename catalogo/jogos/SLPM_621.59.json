@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_621.59",
+  "cover": {
+    "path": "PS2/SLPM_621.59/SLPM_621.59_COV.png",
+    "kind": "cover",
+    "bytes": 79561,
+    "width": 192,
+    "height": 272,
+    "sha256": "94e92bce240686c61a4cc9d7602a5ea47786b96e542572fa33b217843badfa81",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62159.jpg"
+    },
+    "gameId": "SLPM_621.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_621.59/SLPM_621.59_BG.png",
+    "kind": "background",
+    "bytes": 107672,
+    "width": 640,
+    "height": 480,
+    "sha256": "f78d4c136a9eb9974795852f0b5945d2b520d97daf1f37f11a392b3bf8262861",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_621.59/SLPM_621.59_BG_00.png"
+    },
+    "gameId": "SLPM_621.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_621.59/SLPM_621.59_BG.png",
+      "kind": "background",
+      "bytes": 107672,
+      "width": 640,
+      "height": 480,
+      "sha256": "f78d4c136a9eb9974795852f0b5945d2b520d97daf1f37f11a392b3bf8262861",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_621.59/SLPM_621.59_BG_00.png"
+      },
+      "gameId": "SLPM_621.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 6"
+}

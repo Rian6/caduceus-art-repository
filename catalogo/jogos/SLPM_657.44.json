@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.44",
+  "cover": {
+    "path": "PS2/SLPM_657.44/SLPM_657.44_COV.png",
+    "kind": "cover",
+    "bytes": 64793,
+    "width": 192,
+    "height": 272,
+    "sha256": "924b04e25a9eec5a0938a5708c434b228695deb5b6c58a4714128616cadb92bb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65744.jpg"
+    },
+    "gameId": "SLPM_657.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIREFIGHTER F.D. 18 [KONAMI THE BEST]"
+}

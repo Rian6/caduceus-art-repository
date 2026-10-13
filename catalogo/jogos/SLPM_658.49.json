@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.49",
+  "cover": {
+    "path": "PS2/SLPM_658.49/SLPM_658.49_COV.png",
+    "kind": "cover",
+    "bytes": 106258,
+    "width": 192,
+    "height": 272,
+    "sha256": "dfeca595dd0b9ab0e99aa7bf59f398571c20c54cc3157010ac129ee0532cbda0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65849.jpg"
+    },
+    "gameId": "SLPM_658.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE 3 [PREMIUM BOX]"
+}

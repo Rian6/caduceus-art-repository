@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.25",
+  "cover": {
+    "path": "PS2/SLPM_655.25/SLPM_655.25_COV.png",
+    "kind": "cover",
+    "bytes": 101413,
+    "width": 192,
+    "height": 272,
+    "sha256": "961a109fbc559bd534874729a09b8af2d9331a9c52b9f1905bde9b8e00391a8e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65525.jpg"
+    },
+    "gameId": "SLPM_655.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ORANGE POCKET - ROOT"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_212.98",
+  "cover": {
+    "path": "PS2/SLUS_212.98/SLUS_212.98_COV.png",
+    "kind": "cover",
+    "bytes": 83303,
+    "width": 192,
+    "height": 272,
+    "sha256": "8fcd55921cd6aaff2c8f9f6029e3bd6ee720cb6f6f072ad9d8defe5022d376bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21298.jpg"
+    },
+    "gameId": "SLUS_212.98"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.98/SLUS_212.98_ICO.png",
+    "kind": "disc",
+    "bytes": 32970,
+    "width": 256,
+    "height": 256,
+    "sha256": "b8dfe14b814a79eae9a75ef304cd71a3b51721d845008c8cf9c956141cab83a4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.98_ICO.png"
+    },
+    "gameId": "SLUS_212.98"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NCAA March Madness 06"
+}

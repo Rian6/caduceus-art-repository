@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.45",
+  "cover": {
+    "path": "PS2/SLPS_204.45/SLPS_204.45_COV.png",
+    "kind": "cover",
+    "bytes": 92659,
+    "width": 192,
+    "height": 272,
+    "sha256": "2f8c755f8d97e053dd700ba2167a13141326162bbe86f1594b312f2dd6538de1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20445.jpg"
+    },
+    "gameId": "SLPS_204.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 ULTIMATE SERIES VOL.28 - BOUSOU! KENKA GRAND PRIX, DRIVE TO SURVIVE"
+}

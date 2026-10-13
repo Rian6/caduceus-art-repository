@@ -1,0 +1,25 @@
+{
+  "id": "SLES_534.70",
+  "cover": {
+    "path": "PS2/SLES_534.70/SLES_534.70_COV.png",
+    "kind": "cover",
+    "bytes": 88476,
+    "width": 192,
+    "height": 272,
+    "sha256": "d51aae8b4f747a44e7657deae6517ca1eb148e7a1b97d2bd4798d0c78ecca2bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53470.jpg"
+    },
+    "gameId": "SLES_534.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "De Grote Nederlandse Voetbalquiz"
+}

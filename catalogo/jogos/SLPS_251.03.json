@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_251.03",
+  "cover": {
+    "path": "PS2/SLPS_251.03/SLPS_251.03_COV.png",
+    "kind": "cover",
+    "bytes": 113092,
+    "width": 192,
+    "height": 272,
+    "sha256": "7b67fd27e63825d2af859054c4d5204000af1e87fc36e8dccfeb06bcb620d34c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25103.jpg"
+    },
+    "gameId": "SLPS_251.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_251.03/SLPS_251.03_BG.png",
+    "kind": "background",
+    "bytes": 84088,
+    "width": 640,
+    "height": 480,
+    "sha256": "9c0c3a6efe318dd81bf504a420ea848a6dbca4602967f4fc017c7e19e5d2255f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_251.03/SLPS_251.03_BG_00.png"
+    },
+    "gameId": "SLPS_251.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_251.03/SLPS_251.03_BG.png",
+      "kind": "background",
+      "bytes": 84088,
+      "width": 640,
+      "height": 480,
+      "sha256": "9c0c3a6efe318dd81bf504a420ea848a6dbca4602967f4fc017c7e19e5d2255f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.03/SLPS_251.03_BG_00.png"
+      },
+      "gameId": "SLPS_251.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Robot Taisen Impact (Limited Edition)"
+}

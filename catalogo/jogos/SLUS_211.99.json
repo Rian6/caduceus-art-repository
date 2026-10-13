@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_211.99",
+  "cover": {
+    "path": "PS2/SLUS_211.99/SLUS_211.99_COV.png",
+    "kind": "cover",
+    "bytes": 103956,
+    "width": 192,
+    "height": 272,
+    "sha256": "53faee9ef5cf0c0ff8c11d9f8fcd67d98bab5a229521d8f82159a0c3fed4e296",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21199.jpg"
+    },
+    "gameId": "SLUS_211.99"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.99/SLUS_211.99_ICO.png",
+    "kind": "disc",
+    "bytes": 35870,
+    "width": 256,
+    "height": 256,
+    "sha256": "bb86f3350684ce55ac80ee15b193b179a45f1269efdd481620e7deb64ef34e32",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.99_ICO.png"
+    },
+    "gameId": "SLUS_211.99"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.99/SLUS_211.99_BG.png",
+    "kind": "background",
+    "bytes": 184702,
+    "width": 640,
+    "height": 480,
+    "sha256": "acadf92bc6e49ffee1db81d08f6ab4615791f6af9ee990913021b73a612e6ca3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.99/SLUS_211.99_BG_00.png"
+    },
+    "gameId": "SLUS_211.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.99/SLUS_211.99_BG.png",
+      "kind": "background",
+      "bytes": 184702,
+      "width": 640,
+      "height": 480,
+      "sha256": "acadf92bc6e49ffee1db81d08f6ab4615791f6af9ee990913021b73a612e6ca3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.99/SLUS_211.99_BG_00.png"
+      },
+      "gameId": "SLUS_211.99"
+    },
+    {
+      "path": "PS2/SLUS_211.99/SLUS_211.99_BG_01.png",
+      "kind": "background",
+      "bytes": 227658,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c0d0aa0c80e7bf63943c523f027cd554fb00080079f769d72743e7d274ef354",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.99/SLUS_211.99_BG_01.png"
+      },
+      "gameId": "SLUS_211.99"
+    },
+    {
+      "path": "PS2/SLUS_211.99/SLUS_211.99_BG_02.png",
+      "kind": "background",
+      "bytes": 114625,
+      "width": 640,
+      "height": 480,
+      "sha256": "e84db404b27fbc990db0d7964ddb4f213129f1358c8c98baf9fdcb9d044b9a84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.99/SLUS_211.99_BG_02.png"
+      },
+      "gameId": "SLUS_211.99"
+    },
+    {
+      "path": "PS2/SLUS_211.99/SLUS_211.99_BG_03.png",
+      "kind": "background",
+      "bytes": 202122,
+      "width": 640,
+      "height": 480,
+      "sha256": "31ef541d008c91133961b71b224a2bcdb539aaca1db2092f60e2f90878e1044d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.99/SLUS_211.99_BG_03.png"
+      },
+      "gameId": "SLUS_211.99"
+    },
+    {
+      "path": "PS2/SLUS_211.99/SLUS_211.99_BG_04.png",
+      "kind": "background",
+      "bytes": 252695,
+      "width": 640,
+      "height": 480,
+      "sha256": "9dc0bd32531f61bf3ca0b8f7708908da46e1a1e4f61aea89b2e232ca2f8f0bd3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.99/SLUS_211.99_BG_04.png"
+      },
+      "gameId": "SLUS_211.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Medal of Honor: European Assault"
+}

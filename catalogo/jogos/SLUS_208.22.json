@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_208.22",
+  "cover": {
+    "path": "PS2/SLUS_208.22/SLUS_208.22_COV.png",
+    "kind": "cover",
+    "bytes": 100909,
+    "width": 192,
+    "height": 272,
+    "sha256": "363ac4f1dc8ed13b18252633f741e89bf338eacdfbb309866cfa7aac2e667e09",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20822.jpg"
+    },
+    "gameId": "SLUS_208.22"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.22/SLUS_208.22_ICO.png",
+    "kind": "disc",
+    "bytes": 30278,
+    "width": 256,
+    "height": 256,
+    "sha256": "e5a8210c116b0be39584ce8297b3908e2bb5ada3df0868aa00e33989d1695cdc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.22_ICO.png"
+    },
+    "gameId": "SLUS_208.22"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.22/SLUS_208.22_BG.png",
+    "kind": "background",
+    "bytes": 174861,
+    "width": 640,
+    "height": 480,
+    "sha256": "a4d77c5e41af7fc19a186d2e552f7cf8a3224f5885f894e91387545e02c9ad06",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.22/SLUS_208.22_BG_00.png"
+    },
+    "gameId": "SLUS_208.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.22/SLUS_208.22_BG.png",
+      "kind": "background",
+      "bytes": 174861,
+      "width": 640,
+      "height": 480,
+      "sha256": "a4d77c5e41af7fc19a186d2e552f7cf8a3224f5885f894e91387545e02c9ad06",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.22/SLUS_208.22_BG_00.png"
+      },
+      "gameId": "SLUS_208.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Galactic Wrestling featuring Ultimate Muscle: The Kinnikuman Legacy"
+}

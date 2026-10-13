@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_200.43",
+  "cover": {
+    "path": "PS2/SLUS_200.43/SLUS_200.43_COV.png",
+    "kind": "cover",
+    "bytes": 111753,
+    "width": 192,
+    "height": 272,
+    "sha256": "1950b0617768fc8e0345025624233e7860e191a610ee9c5ebdec340e20ba2d1a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20043.jpg"
+    },
+    "gameId": "SLUS_200.43"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.43/SLUS_200.43_ICO.png",
+    "kind": "disc",
+    "bytes": 36965,
+    "width": 256,
+    "height": 256,
+    "sha256": "ef26275443e6e1d535e098430f49094e37d7b6827a3a641dfeee811813cbd5fc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.43_ICO.png"
+    },
+    "gameId": "SLUS_200.43"
+  },
+  "background": {
+    "path": "PS2/SLUS_200.43/SLUS_200.43_BG.png",
+    "kind": "background",
+    "bytes": 207199,
+    "width": 640,
+    "height": 480,
+    "sha256": "218d2b7cab4d46e125d935148d23af99e47b952e316021432f227e467ea9fe13",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_200.43/SLUS_200.43_BG_00.png"
+    },
+    "gameId": "SLUS_200.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_200.43/SLUS_200.43_BG.png",
+      "kind": "background",
+      "bytes": 207199,
+      "width": 640,
+      "height": 480,
+      "sha256": "218d2b7cab4d46e125d935148d23af99e47b952e316021432f227e467ea9fe13",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.43/SLUS_200.43_BG_00.png"
+      },
+      "gameId": "SLUS_200.43"
+    },
+    {
+      "path": "PS2/SLUS_200.43/SLUS_200.43_BG_01.png",
+      "kind": "background",
+      "bytes": 199348,
+      "width": 640,
+      "height": 480,
+      "sha256": "4abbb05bd509c255b9f684fc2e112f9ad753fce88bd9f72c65d233d3ccc74000",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.43/SLUS_200.43_BG_01.png"
+      },
+      "gameId": "SLUS_200.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR WARS - SUPER BOMBAD RACING"
+}

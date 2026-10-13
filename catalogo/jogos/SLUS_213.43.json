@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_213.43",
+  "cover": {
+    "path": "PS2/SLUS_213.43/SLUS_213.43_COV.png",
+    "kind": "cover",
+    "bytes": 98770,
+    "width": 192,
+    "height": 272,
+    "sha256": "1bf4252cab4b7321594c31912805874f6d99d6d477d41cb04bbb4bc077138a92",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21343.jpg"
+    },
+    "gameId": "SLUS_213.43"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.43/SLUS_213.43_ICO.png",
+    "kind": "disc",
+    "bytes": 32183,
+    "width": 256,
+    "height": 256,
+    "sha256": "6fa32da10f0de9cfdeaa725caf700e9c1521496c747aff9a3ac997bf24174920",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.43_ICO.png"
+    },
+    "gameId": "SLUS_213.43"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.43/SLUS_213.43_BG.png",
+    "kind": "background",
+    "bytes": 184165,
+    "width": 640,
+    "height": 480,
+    "sha256": "8c2fecab01113cc743f98c9b599aae20f28866150d2f07b01c1af6063a5e4716",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.43/SLUS_213.43_BG_00.png"
+    },
+    "gameId": "SLUS_213.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.43/SLUS_213.43_BG.png",
+      "kind": "background",
+      "bytes": 184165,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c2fecab01113cc743f98c9b599aae20f28866150d2f07b01c1af6063a5e4716",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.43/SLUS_213.43_BG_00.png"
+      },
+      "gameId": "SLUS_213.43"
+    },
+    {
+      "path": "PS2/SLUS_213.43/SLUS_213.43_BG_01.png",
+      "kind": "background",
+      "bytes": 78646,
+      "width": 640,
+      "height": 480,
+      "sha256": "4586a4fd3c126512f6e49ff636527d0f5a2cb0e53fc9272f7e642588f9b0b9f4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.43/SLUS_213.43_BG_01.png"
+      },
+      "gameId": "SLUS_213.43"
+    },
+    {
+      "path": "PS2/SLUS_213.43/SLUS_213.43_BG_02.png",
+      "kind": "background",
+      "bytes": 186560,
+      "width": 640,
+      "height": 480,
+      "sha256": "e79c914cfed4774c7e1cd4b7748913aa8bdf10ba99bdb3609e8f2ea71eb6bd7b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.43/SLUS_213.43_BG_02.png"
+      },
+      "gameId": "SLUS_213.43"
+    },
+    {
+      "path": "PS2/SLUS_213.43/SLUS_213.43_BG_03.png",
+      "kind": "background",
+      "bytes": 129120,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf9b39ea1f5ee5268c4fbffc78cd34283c75c1033b089dbc2f6da937eedc6391",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.43/SLUS_213.43_BG_03.png"
+      },
+      "gameId": "SLUS_213.43"
+    },
+    {
+      "path": "PS2/SLUS_213.43/SLUS_213.43_BG_04.png",
+      "kind": "background",
+      "bytes": 150195,
+      "width": 640,
+      "height": 480,
+      "sha256": "f370e4678b8fe94745a1d0028a6758e287486e1527e08994ef440b7cf9967518",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.43/SLUS_213.43_BG_04.png"
+      },
+      "gameId": "SLUS_213.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAMURAI CHAMPLOO - SIDETRACKER"
+}

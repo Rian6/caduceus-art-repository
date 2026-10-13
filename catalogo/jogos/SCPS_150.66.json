@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.66",
+  "cover": {
+    "path": "PS2/SCPS_150.66/SCPS_150.66_COV.png",
+    "kind": "cover",
+    "bytes": 93917,
+    "width": 192,
+    "height": 272,
+    "sha256": "1aa99cad4e5357f8411caf660809e8aeb1bac0209226304af9933df863fb839f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15066.jpg"
+    },
+    "gameId": "SCPS_150.66"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.66/SCPS_150.66_BG.png",
+    "kind": "background",
+    "bytes": 195354,
+    "width": 640,
+    "height": 480,
+    "sha256": "38699f5d40e7dcf3d6c1062f46c8f7debfb4a64431ba3eab8ac18d944a70714e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.66/SCPS_150.66_BG_00.png"
+    },
+    "gameId": "SCPS_150.66"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.66/SCPS_150.66_BG.png",
+      "kind": "background",
+      "bytes": 195354,
+      "width": 640,
+      "height": 480,
+      "sha256": "38699f5d40e7dcf3d6c1062f46c8f7debfb4a64431ba3eab8ac18d944a70714e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.66/SCPS_150.66_BG_00.png"
+      },
+      "gameId": "SCPS_150.66"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PRINCE OF PERSIA - JIKAN NO SUNA"
+}

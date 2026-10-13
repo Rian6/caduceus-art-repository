@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.40",
+  "cover": {
+    "path": "PS2/SLPM_664.40/SLPM_664.40_COV.png",
+    "kind": "cover",
+    "bytes": 108870,
+    "width": 192,
+    "height": 272,
+    "sha256": "045c997bd2cd90379b0a4570fabce3f1525e42ed01426abc6d039a8a0a66988f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66440.jpg"
+    },
+    "gameId": "SLPM_664.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HOKENSHITSU E YOUKOSO"
+}

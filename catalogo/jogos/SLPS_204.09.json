@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.09",
+  "cover": {
+    "path": "PS2/SLPS_204.09/SLPS_204.09_COV.png",
+    "kind": "cover",
+    "bytes": 103854,
+    "width": 192,
+    "height": 272,
+    "sha256": "e2ed395caace3b822fbb20c94fcc8fa86f91a8cc881ff70fb2adf9a374b0207e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20409.jpg"
+    },
+    "gameId": "SLPS_204.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PHANTOM KINGDOM [FIRST PRINT LIMITED EDITION]"
+}

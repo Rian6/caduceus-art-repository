@@ -1,0 +1,25 @@
+{
+  "id": "SLES_506.52",
+  "cover": {
+    "path": "PS2/SLES_506.52/SLES_506.52_COV.png",
+    "kind": "cover",
+    "bytes": 81207,
+    "width": 192,
+    "height": 272,
+    "sha256": "0a7d56750e182bdadd1dcc5998eadbd63b441590c389560b6ab8e8d80bfe538a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50652.jpg"
+    },
+    "gameId": "SLES_506.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Iron Eagle Max"
+}

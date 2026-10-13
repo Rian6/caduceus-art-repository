@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.58",
+  "cover": {
+    "path": "PS2/SLPM_657.58/SLPM_657.58_COV.png",
+    "kind": "cover",
+    "bytes": 102045,
+    "width": 192,
+    "height": 272,
+    "sha256": "b9ea0568b17fb9912f61761b83991c76e8a544b4ec1aa8c31e653f26c4b2e6d7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65758.jpg"
+    },
+    "gameId": "SLPM_657.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sonic Mega Collection Plus"
+}

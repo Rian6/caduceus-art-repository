@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_193.18",
+  "cover": {
+    "path": "PS2/SCPS_193.18/SCPS_193.18_COV.png",
+    "kind": "cover",
+    "bytes": 82380,
+    "width": 192,
+    "height": 272,
+    "sha256": "68ee4213b9169778b9c509cc2cc6052593cb6472f9b04712f994adafe9563fa8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19318.jpg"
+    },
+    "gameId": "SCPS_193.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GENJI [PLAYSTATION 2 THE BEST]"
+}

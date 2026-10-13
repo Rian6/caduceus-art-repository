@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.31",
+  "cover": {
+    "path": "PS2/SCPS_550.31/SCPS_550.31_COV.png",
+    "kind": "cover",
+    "bytes": 55350,
+    "width": 192,
+    "height": 272,
+    "sha256": "4ffd7c38617c3b94f0845620b122aa9a837a277b62222a54aa060f7f481d0fdb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55031.jpg"
+    },
+    "gameId": "SCPS_550.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ghost Vibration"
+}

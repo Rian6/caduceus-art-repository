@@ -1,0 +1,64 @@
+{
+  "id": "SLES_543.40",
+  "cover": {
+    "path": "PS2/SLES_543.40/SLES_543.40_COV.png",
+    "kind": "cover",
+    "bytes": 100612,
+    "width": 192,
+    "height": 272,
+    "sha256": "d92203e2abca5fc8916abd7e46da6830d6b9077f482d3ffd9783f0452e3e3864",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54340.jpg"
+    },
+    "gameId": "SLES_543.40"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.40/SLES_543.40_BG.png",
+    "kind": "background",
+    "bytes": 218140,
+    "width": 640,
+    "height": 480,
+    "sha256": "eab893f602d23c329ce14a0b3a74e7345b1ac58809578e0838d86af959131bc7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.40/SLES_543.40_BG_00.png"
+    },
+    "gameId": "SLES_543.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.40/SLES_543.40_BG.png",
+      "kind": "background",
+      "bytes": 218140,
+      "width": 640,
+      "height": 480,
+      "sha256": "eab893f602d23c329ce14a0b3a74e7345b1ac58809578e0838d86af959131bc7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.40/SLES_543.40_BG_00.png"
+      },
+      "gameId": "SLES_543.40"
+    },
+    {
+      "path": "PS2/SLES_543.40/SLES_543.40_BG_01.png",
+      "kind": "background",
+      "bytes": 223232,
+      "width": 640,
+      "height": 480,
+      "sha256": "5bb0fc13a34032c7c70f141d85f02eb52b4cbeb6541fbd2abba804408d598221",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.40/SLES_543.40_BG_01.png"
+      },
+      "gameId": "SLES_543.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Samurai Warriors 2"
+}

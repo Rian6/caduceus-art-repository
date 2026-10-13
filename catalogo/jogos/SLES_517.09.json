@@ -1,0 +1,25 @@
+{
+  "id": "SLES_517.09",
+  "cover": {
+    "path": "PS2/SLES_517.09/SLES_517.09_COV.png",
+    "kind": "cover",
+    "bytes": 92636,
+    "width": 192,
+    "height": 272,
+    "sha256": "f930362465f0662914cac917eff1100db0c5e44228065a3f17869d4ab147dd36",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51709.jpg"
+    },
+    "gameId": "SLES_517.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SECRET WEAPONS OVER NORMANDY"
+}

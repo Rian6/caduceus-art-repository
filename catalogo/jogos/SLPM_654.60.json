@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.60",
+  "cover": {
+    "path": "PS2/SLPM_654.60/SLPM_654.60_COV.png",
+    "kind": "cover",
+    "bytes": 78214,
+    "width": 192,
+    "height": 272,
+    "sha256": "46d744590e2f8e414886d598ac25f8f0d87fe637d7777527154575ed40be1e1e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65460.jpg"
+    },
+    "gameId": "SLPM_654.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Conflict Delta - Wangan War 1991"
+}

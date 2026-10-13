@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.02",
+  "cover": {
+    "path": "PS2/SLPM_661.02/SLPM_661.02_COV.png",
+    "kind": "cover",
+    "bytes": 92418,
+    "width": 192,
+    "height": 272,
+    "sha256": "be7e237a5fec009ad51b8ee247125b735195adc47bba3022ebae1e3766aac186",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66102.jpg"
+    },
+    "gameId": "SLPM_661.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zwei!! (Tatito The Best)"
+}

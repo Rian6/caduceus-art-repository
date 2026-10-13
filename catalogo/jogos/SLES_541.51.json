@@ -1,0 +1,39 @@
+{
+  "id": "SLES_541.51",
+  "cover": {
+    "path": "PS2/SLES_541.51/SLES_541.51_COV.png",
+    "kind": "cover",
+    "bytes": 100578,
+    "width": 192,
+    "height": 272,
+    "sha256": "6b18a5ca820253f90a467d5db74b3da346f9af1436f71a133cb57c49941ecd80",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54151.jpg"
+    },
+    "gameId": "SLES_541.51"
+  },
+  "disc": {
+    "path": "PS2/SLES_541.51/SLES_541.51_ICO.png",
+    "kind": "disc",
+    "bytes": 11148,
+    "width": 128,
+    "height": 128,
+    "sha256": "17781b1d53063bd146c818d5fd8aafa378c55a9b100ce2488b8f966561ab65b7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_541.51_ICO.png"
+    },
+    "gameId": "SLES_541.51"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LET'S MAKE A SOCCER TEAM"
+}

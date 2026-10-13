@@ -1,0 +1,39 @@
+{
+  "id": "SLES_549.56",
+  "cover": {
+    "path": "PS2/SLES_549.56/SLES_549.56_COV.png",
+    "kind": "cover",
+    "bytes": 100988,
+    "width": 192,
+    "height": 272,
+    "sha256": "c80c331700f935d89b53ac6c4a38f9d198cea7e34204f8c9e9e0077a51367bb2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54956.jpg"
+    },
+    "gameId": "SLES_549.56"
+  },
+  "disc": {
+    "path": "PS2/SLES_549.56/SLES_549.56_ICO.png",
+    "kind": "disc",
+    "bytes": 12229,
+    "width": 128,
+    "height": 128,
+    "sha256": "3b951e7de4f4f0bacf8c2240e8f7a022769da9e8e2dcffb0320837eeb27abd5f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_549.56_ICO.png"
+    },
+    "gameId": "SLES_549.56"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wacky Zoo GP"
+}

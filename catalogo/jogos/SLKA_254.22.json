@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_254.22",
+  "cover": {
+    "path": "PS2/SLKA_254.22/SLKA_254.22_COV.png",
+    "kind": "cover",
+    "bytes": 88496,
+    "width": 192,
+    "height": 272,
+    "sha256": "61858ef2465dc87deec60dc577c44da3ecc767b00b006940ddc59dfa1c9cc61a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25422.jpg"
+    },
+    "gameId": "SLKA_254.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_254.22/SLKA_254.22_BG.png",
+    "kind": "background",
+    "bytes": 127274,
+    "width": 640,
+    "height": 480,
+    "sha256": "8bba184c46adf7c7bac5a93c4039085e80ff1ebe89682b9f22881789aaa3de79",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_254.22/SLKA_254.22_BG_00.png"
+    },
+    "gameId": "SLKA_254.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_254.22/SLKA_254.22_BG.png",
+      "kind": "background",
+      "bytes": 127274,
+      "width": 640,
+      "height": 480,
+      "sha256": "8bba184c46adf7c7bac5a93c4039085e80ff1ebe89682b9f22881789aaa3de79",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_254.22/SLKA_254.22_BG_00.png"
+      },
+      "gameId": "SLKA_254.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SILENT HILL - ORIGINS"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.30",
+  "cover": {
+    "path": "PS2/SLPM_666.30/SLPM_666.30_COV.png",
+    "kind": "cover",
+    "bytes": 97790,
+    "width": 192,
+    "height": 272,
+    "sha256": "814d344c0784a6f887e869cfc066071add13cc3647e5d6e775e5d367fa4dd1ae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66630.jpg"
+    },
+    "gameId": "SLPM_666.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MARHEAVEN ARM FIGHT DREAM [KONAMI THE BEST]"
+}

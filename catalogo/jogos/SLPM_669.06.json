@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.06",
+  "cover": {
+    "path": "PS2/SLPM_669.06/SLPM_669.06_COV.png",
+    "kind": "cover",
+    "bytes": 88532,
+    "width": 192,
+    "height": 272,
+    "sha256": "350d4c194b6d8eef47313396a2fbc9a9323938a5a64f6b0ea8759f9750958a5d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66906.jpg"
+    },
+    "gameId": "SLPM_669.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENSHOU GAKUEN GEKKOUROKU [ASMIK SHIRODANE SERIES]"
+}

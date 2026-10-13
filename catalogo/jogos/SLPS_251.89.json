@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.89",
+  "cover": {
+    "path": "PS2/SLPS_251.89/SLPS_251.89_COV.png",
+    "kind": "cover",
+    "bytes": 70747,
+    "width": 192,
+    "height": 272,
+    "sha256": "c83944cbc057ef665fc6eeb296534350dddea924730d5268337419214001c6f6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25189.jpg"
+    },
+    "gameId": "SLPS_251.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOUKON INOKI MICHI - PUZZLE DE DAA!"
+}

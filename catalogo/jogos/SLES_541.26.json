@@ -1,0 +1,64 @@
+{
+  "id": "SLES_541.26",
+  "cover": {
+    "path": "PS2/SLES_541.26/SLES_541.26_COV.png",
+    "kind": "cover",
+    "bytes": 99536,
+    "width": 192,
+    "height": 272,
+    "sha256": "4dcbd8b56f03aca887def4305413b1dd866e5ae8d7a8e254151de4bcfd1a72c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54126.jpg"
+    },
+    "gameId": "SLES_541.26"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.26/SLES_541.26_BG.png",
+    "kind": "background",
+    "bytes": 135574,
+    "width": 640,
+    "height": 480,
+    "sha256": "1ed4f4ac42bf34bb8e07482b43a51af981f0a8c0112b00881f9377715f835876",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.26/SLES_541.26_BG_00.png"
+    },
+    "gameId": "SLES_541.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.26/SLES_541.26_BG.png",
+      "kind": "background",
+      "bytes": 135574,
+      "width": 640,
+      "height": 480,
+      "sha256": "1ed4f4ac42bf34bb8e07482b43a51af981f0a8c0112b00881f9377715f835876",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.26/SLES_541.26_BG_00.png"
+      },
+      "gameId": "SLES_541.26"
+    },
+    {
+      "path": "PS2/SLES_541.26/SLES_541.26_BG_01.png",
+      "kind": "background",
+      "bytes": 136143,
+      "width": 640,
+      "height": 480,
+      "sha256": "0fbd215c90a92e7ac0d21b43cc9f9abc3b73db87bce675f381754920a5356ea6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.26/SLES_541.26_BG_01.png"
+      },
+      "gameId": "SLES_541.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Family Guy: Video Game!"
+}

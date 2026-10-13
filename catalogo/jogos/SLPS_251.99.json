@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.99",
+  "cover": {
+    "path": "PS2/SLPS_251.99/SLPS_251.99_COV.png",
+    "kind": "cover",
+    "bytes": 73397,
+    "width": 192,
+    "height": 272,
+    "sha256": "2763681336d71812eaee45cadfa9de1bea74d6d6af1fc4b25afacaaa950161de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25199.jpg"
+    },
+    "gameId": "SLPS_251.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Unlimited Saga"
+}

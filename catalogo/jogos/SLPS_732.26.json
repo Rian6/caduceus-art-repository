@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.26",
+  "cover": {
+    "path": "PS2/SLPS_732.26/SLPS_732.26_COV.png",
+    "kind": "cover",
+    "bytes": 85697,
+    "width": 192,
+    "height": 272,
+    "sha256": "29a6d1296cb77bc8a7d3f3f921ef37bfbd0eb6487060d8d0536c84e0d00c7440",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73226.jpg"
+    },
+    "gameId": "SLPS_732.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tenchu Kurenai (Playstation 2 The Best)"
+}

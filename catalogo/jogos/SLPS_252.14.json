@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.14",
+  "cover": {
+    "path": "PS2/SLPS_252.14/SLPS_252.14_COV.png",
+    "kind": "cover",
+    "bytes": 102345,
+    "width": 192,
+    "height": 272,
+    "sha256": "aa5e5a3ec6d17e19be25f441ad3140de11a7a8dbc96cb61225c0d673d96fb4ee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25214.jpg"
+    },
+    "gameId": "SLPS_252.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUARDIAN ANGEL"
+}

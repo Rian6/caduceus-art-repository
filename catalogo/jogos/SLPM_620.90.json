@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.90",
+  "cover": {
+    "path": "PS2/SLPM_620.90/SLPM_620.90_COV.png",
+    "kind": "cover",
+    "bytes": 66705,
+    "width": 192,
+    "height": 272,
+    "sha256": "a278b2faf0a9ef285da3e341b864343439abbc34f5a62ce062e1c3826af797dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62090.jpg"
+    },
+    "gameId": "SLPM_620.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SILENT SCOPE [KONAMI THE BEST]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.22",
+  "cover": {
+    "path": "PS2/SLPM_626.22/SLPM_626.22_COV.png",
+    "kind": "cover",
+    "bytes": 107673,
+    "width": 192,
+    "height": 272,
+    "sha256": "30918619a57c0c4de479baf85a344128108f7fb26ddeaf570db96f9ea123aed4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62622.jpg"
+    },
+    "gameId": "SLPM_626.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLOTTER UP CORE 7 - DEKITOU DA! STREET FIGHTER II"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.01",
+  "cover": {
+    "path": "PS2/SLPM_657.01/SLPM_657.01_COV.png",
+    "kind": "cover",
+    "bytes": 77157,
+    "width": 192,
+    "height": 272,
+    "sha256": "14e5e4ed16c47e186c2956a287f5a694fd00a46161f0a1ad482038c5a2233ba2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65701.jpg"
+    },
+    "gameId": "SLPM_657.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GHOSTHUNTER"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_211.44",
+  "cover": {
+    "path": "PS2/SLUS_211.44/SLUS_211.44_COV.png",
+    "kind": "cover",
+    "bytes": 109646,
+    "width": 192,
+    "height": 272,
+    "sha256": "fa2a843032b4a53deca0343139eb50796e0b168a85004ef636f8e658e5b8ab45",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21144.jpg"
+    },
+    "gameId": "SLUS_211.44"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.44/SLUS_211.44_ICO.png",
+    "kind": "disc",
+    "bytes": 34304,
+    "width": 256,
+    "height": 256,
+    "sha256": "e37e4b2c381f6e0bd3a5854b75251890c469405923dc936376668009b70d3f4e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.44_ICO.png"
+    },
+    "gameId": "SLUS_211.44"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.44/SLUS_211.44_BG.png",
+    "kind": "background",
+    "bytes": 191097,
+    "width": 640,
+    "height": 480,
+    "sha256": "74e2f1fdf9da6c95858c285d80c3ecfaba17b178814d3e029c78f7bc81379916",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.44/SLUS_211.44_BG_00.png"
+    },
+    "gameId": "SLUS_211.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.44/SLUS_211.44_BG.png",
+      "kind": "background",
+      "bytes": 191097,
+      "width": 640,
+      "height": 480,
+      "sha256": "74e2f1fdf9da6c95858c285d80c3ecfaba17b178814d3e029c78f7bc81379916",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.44/SLUS_211.44_BG_00.png"
+      },
+      "gameId": "SLUS_211.44"
+    },
+    {
+      "path": "PS2/SLUS_211.44/SLUS_211.44_BG_01.png",
+      "kind": "background",
+      "bytes": 171019,
+      "width": 640,
+      "height": 480,
+      "sha256": "4661befff4d90f8eb6f9038e548877b8fe3c8113b96df6485646e8f292746c1d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.44/SLUS_211.44_BG_01.png"
+      },
+      "gameId": "SLUS_211.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Rainbow Six - Lockdown"
+}

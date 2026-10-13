@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.07",
+  "cover": {
+    "path": "PS2/SLPM_656.07/SLPM_656.07_COV.png",
+    "kind": "cover",
+    "bytes": 111704,
+    "width": 192,
+    "height": 272,
+    "sha256": "d58315fd2be78f64edb7e56337eca3287c155d6e2adafdb63f4092239b8686eb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65607.jpg"
+    },
+    "gameId": "SLPM_656.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "3LDK - SHIAWASE NI NAROUYO [LIMITED EDITION]"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_255.37",
+  "cover": {
+    "path": "PS2/SLPS_255.37/SLPS_255.37_COV.png",
+    "kind": "cover",
+    "bytes": 101308,
+    "width": 192,
+    "height": 272,
+    "sha256": "5718350c8594e3fb0b7fed4d681887bf826aef0700cf09b13401d1ade8b4ad8f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25537.jpg"
+    },
+    "gameId": "SLPS_255.37"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_255.37/SLPS_255.37_BG.png",
+    "kind": "background",
+    "bytes": 228532,
+    "width": 640,
+    "height": 480,
+    "sha256": "31cf2d48c2a2543a32186d1878702fecfc8efa8d60834d6990482e4f30a37cb8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.37/SLPS_255.37_BG_00.png"
+    },
+    "gameId": "SLPS_255.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.37/SLPS_255.37_BG.png",
+      "kind": "background",
+      "bytes": 228532,
+      "width": 640,
+      "height": 480,
+      "sha256": "31cf2d48c2a2543a32186d1878702fecfc8efa8d60834d6990482e4f30a37cb8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.37/SLPS_255.37_BG_00.png"
+      },
+      "gameId": "SLPS_255.37"
+    },
+    {
+      "path": "PS2/SLPS_255.37/SLPS_255.37_BG_01.png",
+      "kind": "background",
+      "bytes": 176460,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e2139d0e1add67f6cdafab9744f26d41ae174e9262aea13873685a5dc0b7abc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.37/SLPS_255.37_BG_01.png"
+      },
+      "gameId": "SLPS_255.37"
+    },
+    {
+      "path": "PS2/SLPS_255.37/SLPS_255.37_BG_02.png",
+      "kind": "background",
+      "bytes": 168187,
+      "width": 640,
+      "height": 480,
+      "sha256": "58d9648c170e75ca40ce617ae666e1e5d7fa53cf339299b9e73cffafc87a78c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.37/SLPS_255.37_BG_02.png"
+      },
+      "gameId": "SLPS_255.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dai-3-Ji Super Robot Taisen Alpha - Shuuen no Ginga e"
+}

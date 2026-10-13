@@ -1,0 +1,65 @@
+{
+  "id": "SLES_533.42",
+  "cover": {
+    "path": "PS2/SLES_533.42/SLES_533.42_COV.png",
+    "kind": "cover",
+    "bytes": 78739,
+    "width": 192,
+    "height": 272,
+    "sha256": "a22492d69bd4b7ea5f258077f148917764f7e687f15c5f2b2e1a2915a3e44b39",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53342.jpg"
+    },
+    "gameId": "SLES_533.42"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.42/SLES_533.42_ICO.png",
+    "kind": "disc",
+    "bytes": 11304,
+    "width": 128,
+    "height": 128,
+    "sha256": "9b99c2c07632460e9b6f2b33b1e8e83c17691fbe5c224c8aecbb3df34a862a06",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.42_ICO.png"
+    },
+    "gameId": "SLES_533.42"
+  },
+  "background": {
+    "path": "PS2/SLES_533.42/SLES_533.42_BG.png",
+    "kind": "background",
+    "bytes": 171207,
+    "width": 640,
+    "height": 480,
+    "sha256": "64ce19f7036caed52339949063b553d9074776b0478ac7f544b2696ea9aeb365",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.42/SLES_533.42_BG_00.png"
+    },
+    "gameId": "SLES_533.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.42/SLES_533.42_BG.png",
+      "kind": "background",
+      "bytes": 171207,
+      "width": 640,
+      "height": 480,
+      "sha256": "64ce19f7036caed52339949063b553d9074776b0478ac7f544b2696ea9aeb365",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.42/SLES_533.42_BG_00.png"
+      },
+      "gameId": "SLES_533.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EA Sports Cricket 2005"
+}

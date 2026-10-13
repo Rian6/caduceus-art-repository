@@ -1,0 +1,64 @@
+{
+  "id": "SCPS_191.51",
+  "cover": {
+    "path": "PS2/SCPS_191.51/SCPS_191.51_COV.png",
+    "kind": "cover",
+    "bytes": 85197,
+    "width": 192,
+    "height": 272,
+    "sha256": "8c84a2dd78929248f004e46b87f8bc6a5685624075e8e80ce921b8ab63928a84",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19151.jpg"
+    },
+    "gameId": "SCPS_191.51"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_191.51/SCPS_191.51_BG.png",
+    "kind": "background",
+    "bytes": 201253,
+    "width": 640,
+    "height": 480,
+    "sha256": "523970005f24cc589996ff31e273cf49df2699f798acde33dee064fc22e667e0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_191.51/SCPS_191.51_BG_00.png"
+    },
+    "gameId": "SCPS_191.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_191.51/SCPS_191.51_BG.png",
+      "kind": "background",
+      "bytes": 201253,
+      "width": 640,
+      "height": 480,
+      "sha256": "523970005f24cc589996ff31e273cf49df2699f798acde33dee064fc22e667e0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_191.51/SCPS_191.51_BG_00.png"
+      },
+      "gameId": "SCPS_191.51"
+    },
+    {
+      "path": "PS2/SCPS_191.51/SCPS_191.51_BG_01.png",
+      "kind": "background",
+      "bytes": 182749,
+      "width": 640,
+      "height": 480,
+      "sha256": "df34fbe6d26ddb1af5a203ec70b2b515de39d027135f0f6137a6d613ac0b7758",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_191.51/SCPS_191.51_BG_01.png"
+      },
+      "gameId": "SCPS_191.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ICO [PLAYSTATION 2 THE BEST REPRINT]"
+}

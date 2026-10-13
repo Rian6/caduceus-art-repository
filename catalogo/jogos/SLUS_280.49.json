@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_280.49",
+  "cover": {
+    "path": "PS2/SLUS_280.49/SLUS_280.49_COV.png",
+    "kind": "cover",
+    "bytes": 90979,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf6b8d08f9b1313739fcf0e5f5c506fd4ec197794b735fdd478f0d92e6e70223",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-28049.jpg"
+    },
+    "gameId": "SLUS_280.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Megami Tensei: Digital Devil Saga (Demo)"
+}

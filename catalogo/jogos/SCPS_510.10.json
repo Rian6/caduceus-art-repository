@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_510.10",
+  "cover": {
+    "path": "PS2/SCPS_510.10/SCPS_510.10_COV.png",
+    "kind": "cover",
+    "bytes": 104869,
+    "width": 192,
+    "height": 272,
+    "sha256": "4727133583b9f1d2efd496848442a195196e34b097bd1f861d62040e6826186c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-51010.jpg"
+    },
+    "gameId": "SCPS_510.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shikigami no Shiro"
+}

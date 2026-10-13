@@ -1,0 +1,25 @@
+{
+  "id": "SLES_549.14",
+  "cover": {
+    "path": "PS2/SLES_549.14/SLES_549.14_COV.png",
+    "kind": "cover",
+    "bytes": 96019,
+    "width": 192,
+    "height": 272,
+    "sha256": "42c2b6ebf970eef81148af4b570da7e4c92ab2241f6447a9d75b83e850b13bde",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54914.jpg"
+    },
+    "gameId": "SLES_549.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Evolution Soccer 2008"
+}

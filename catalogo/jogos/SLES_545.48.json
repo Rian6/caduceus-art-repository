@@ -1,0 +1,25 @@
+{
+  "id": "SLES_545.48",
+  "cover": {
+    "path": "PS2/SLES_545.48/SLES_545.48_COV.png",
+    "kind": "cover",
+    "bytes": 107443,
+    "width": 192,
+    "height": 272,
+    "sha256": "b11a42d2c41fbaf010b3ca562af23d2fb7e88b4ec98abb0372d299785d4e3bf7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54548.jpg"
+    },
+    "gameId": "SLES_545.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cocoto Fishing Master"
+}

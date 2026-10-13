@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_200.03",
+  "cover": {
+    "path": "PS2/SLUS_200.03/SLUS_200.03_COV.png",
+    "kind": "cover",
+    "bytes": 109887,
+    "width": 192,
+    "height": 272,
+    "sha256": "9b38643623b3c7f6599efc9883c065cf68587278378814c7e7fc9ab82a06cc33",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20003.jpg"
+    },
+    "gameId": "SLUS_200.03"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.03/SLUS_200.03_ICO.png",
+    "kind": "disc",
+    "bytes": 35175,
+    "width": 256,
+    "height": 256,
+    "sha256": "c0d6fca7ab0999f121906c1b7c5a818ecde75bec9edc74d942d8e6c5102541b8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.03_ICO.png"
+    },
+    "gameId": "SLUS_200.03"
+  },
+  "background": {
+    "path": "PS2/SLUS_200.03/SLUS_200.03_BG.png",
+    "kind": "background",
+    "bytes": 201182,
+    "width": 640,
+    "height": 480,
+    "sha256": "b537d0b68658c24222e365e750ae321c0f10c00077a0e4a7041ab288e8794b51",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_200.03/SLUS_200.03_BG_00.png"
+    },
+    "gameId": "SLUS_200.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_200.03/SLUS_200.03_BG.png",
+      "kind": "background",
+      "bytes": 201182,
+      "width": 640,
+      "height": 480,
+      "sha256": "b537d0b68658c24222e365e750ae321c0f10c00077a0e4a7041ab288e8794b51",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.03/SLUS_200.03_BG_00.png"
+      },
+      "gameId": "SLUS_200.03"
+    },
+    {
+      "path": "PS2/SLUS_200.03/SLUS_200.03_BG_01.png",
+      "kind": "background",
+      "bytes": 201588,
+      "width": 640,
+      "height": 480,
+      "sha256": "44dc9ce71f4617c126007d5dbb7415c05e148cef00e6a36dc4b26cab8d9d2ed7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.03/SLUS_200.03_BG_01.png"
+      },
+      "gameId": "SLUS_200.03"
+    },
+    {
+      "path": "PS2/SLUS_200.03/SLUS_200.03_BG_02.png",
+      "kind": "background",
+      "bytes": 205274,
+      "width": 640,
+      "height": 480,
+      "sha256": "f68d7c4804c15f0a9e6178e125ae81c1716555e18118a274235ae2f0e380ce02",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.03/SLUS_200.03_BG_02.png"
+      },
+      "gameId": "SLUS_200.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PORTAL RUNNER"
+}

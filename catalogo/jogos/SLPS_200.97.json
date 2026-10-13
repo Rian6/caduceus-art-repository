@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.97",
+  "cover": {
+    "path": "PS2/SLPS_200.97/SLPS_200.97_COV.png",
+    "kind": "cover",
+    "bytes": 95545,
+    "width": 192,
+    "height": 272,
+    "sha256": "92da7eb35bdf20d0864a8ec145aa3e1b057649db4d79da34cec98c07fce5e286",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20097.jpg"
+    },
+    "gameId": "SLPS_200.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Magical Sports - 2001 Koushien"
+}

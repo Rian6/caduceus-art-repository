@@ -1,0 +1,65 @@
+{
+  "id": "SLES_530.46",
+  "cover": {
+    "path": "PS2/SLES_530.46/SLES_530.46_COV.png",
+    "kind": "cover",
+    "bytes": 98589,
+    "width": 192,
+    "height": 272,
+    "sha256": "b906c3fd5b1e354770feeb02939b255e2186635d45a6e5453434b21fdc2482b2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53046.jpg"
+    },
+    "gameId": "SLES_530.46"
+  },
+  "disc": {
+    "path": "PS2/SLES_530.46/SLES_530.46_ICO.png",
+    "kind": "disc",
+    "bytes": 11448,
+    "width": 128,
+    "height": 128,
+    "sha256": "8ddb4deeab6511746f16145a878fbf93f35012931d9a4c76fdfcd6ce96f97acd",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_530.46_ICO.png"
+    },
+    "gameId": "SLES_530.46"
+  },
+  "background": {
+    "path": "PS2/SLES_530.46/SLES_530.46_BG.png",
+    "kind": "background",
+    "bytes": 182033,
+    "width": 640,
+    "height": 480,
+    "sha256": "7e85d7bf9f7f364dccc1085dbfb8eb8163b355fd83f052b64b1a35305ece5d58",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.46/SLES_530.46_BG_00.png"
+    },
+    "gameId": "SLES_530.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.46/SLES_530.46_BG.png",
+      "kind": "background",
+      "bytes": 182033,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e85d7bf9f7f364dccc1085dbfb8eb8163b355fd83f052b64b1a35305ece5d58",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.46/SLES_530.46_BG_00.png"
+      },
+      "gameId": "SLES_530.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Counter Terrorist Special Forces: Fire for Effect"
+}

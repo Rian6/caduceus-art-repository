@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.15",
+  "cover": {
+    "path": "PS2/SCPS_110.15/SCPS_110.15_COV.png",
+    "kind": "cover",
+    "bytes": 98718,
+    "width": 192,
+    "height": 272,
+    "sha256": "e242538e7123e9c4ed0f40eb5680329a35f97ba31d68ea5703a665f79741ec53",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11015.jpg"
+    },
+    "gameId": "SCPS_110.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Check-i-Tv"
+}

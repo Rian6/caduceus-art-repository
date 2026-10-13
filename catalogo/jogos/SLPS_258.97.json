@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_258.97",
+  "cover": {
+    "path": "PS2/SLPS_258.97/SLPS_258.97_COV.png",
+    "kind": "cover",
+    "bytes": 107270,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea6f53f3e3e2e22e7d130feeaf24d9db6c0f8002d052b7b93b2ed072f001f26b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25897.jpg"
+    },
+    "gameId": "SLPS_258.97"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_258.97/SLPS_258.97_BG.png",
+    "kind": "background",
+    "bytes": 166466,
+    "width": 640,
+    "height": 480,
+    "sha256": "fabc20183e3bed992b83ec4533eefcd067f90ee39fae46dfb10da1dd18507f08",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_258.97/SLPS_258.97_BG_00.png"
+    },
+    "gameId": "SLPS_258.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_258.97/SLPS_258.97_BG.png",
+      "kind": "background",
+      "bytes": 166466,
+      "width": 640,
+      "height": 480,
+      "sha256": "fabc20183e3bed992b83ec4533eefcd067f90ee39fae46dfb10da1dd18507f08",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_258.97/SLPS_258.97_BG_00.png"
+      },
+      "gameId": "SLPS_258.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zero no Tsukaima: Maigo no Period to Ikusen no Symphony"
+}

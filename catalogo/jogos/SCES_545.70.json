@@ -1,0 +1,90 @@
+{
+  "id": "SCES_545.70",
+  "cover": {
+    "path": "PS2/SCES_545.70/SCES_545.70_COV.png",
+    "kind": "cover",
+    "bytes": 91523,
+    "width": 192,
+    "height": 272,
+    "sha256": "2ad86331a6ae2d94f86d5c168999f0d2abf53a721c228cc7d6aed238af223b6f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54570.jpg"
+    },
+    "gameId": "SCES_545.70"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_545.70/SCES_545.70_BG.png",
+    "kind": "background",
+    "bytes": 185012,
+    "width": 640,
+    "height": 480,
+    "sha256": "bf03c3f5b74ccf6b06ba91875ca284c118077fb66df1306f8ca37d1db11e28b9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_545.70/SCES_545.70_BG_00.png"
+    },
+    "gameId": "SCES_545.70"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_545.70/SCES_545.70_BG.png",
+      "kind": "background",
+      "bytes": 185012,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf03c3f5b74ccf6b06ba91875ca284c118077fb66df1306f8ca37d1db11e28b9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.70/SCES_545.70_BG_00.png"
+      },
+      "gameId": "SCES_545.70"
+    },
+    {
+      "path": "PS2/SCES_545.70/SCES_545.70_BG_01.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.70/SCES_545.70_BG_01.png"
+      },
+      "gameId": "SCES_545.70"
+    },
+    {
+      "path": "PS2/SCES_545.70/SCES_545.70_BG_02.png",
+      "kind": "background",
+      "bytes": 151449,
+      "width": 640,
+      "height": 480,
+      "sha256": "d5e5a3af508d2ed1e1481107f0f03787932c67b63a83d123f420335c398759f8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.70/SCES_545.70_BG_02.png"
+      },
+      "gameId": "SCES_545.70"
+    },
+    {
+      "path": "PS2/SCES_545.70/SCES_545.70_BG_03.png",
+      "kind": "background",
+      "bytes": 158290,
+      "width": 640,
+      "height": 480,
+      "sha256": "acc54873c1b73b587e7348d5090b161488ee43d8d269d5302795369b7a74b242",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.70/SCES_545.70_BG_03.png"
+      },
+      "gameId": "SCES_545.70"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Pop Hits"
+}

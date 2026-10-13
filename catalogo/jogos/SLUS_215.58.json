@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_215.58",
+  "cover": {
+    "path": "PS2/SLUS_215.58/SLUS_215.58_COV.png",
+    "kind": "cover",
+    "bytes": 98234,
+    "width": 192,
+    "height": 272,
+    "sha256": "69c9989ded35ad48cd75c15977b413da857b3b1f54579439915d3b59e5259416",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21558.jpg"
+    },
+    "gameId": "SLUS_215.58"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.58/SLUS_215.58_ICO.png",
+    "kind": "disc",
+    "bytes": 29124,
+    "width": 256,
+    "height": 256,
+    "sha256": "546ac75a61c336d0c30d350496ecedf92258b8d23fc6442ea2fa4a1621479984",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.58_ICO.png"
+    },
+    "gameId": "SLUS_215.58"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Konami Kids Playground - Toy Pals Fun with Numbers"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_252.44",
+  "cover": {
+    "path": "PS2/SLKA_252.44/SLKA_252.44_COV.png",
+    "kind": "cover",
+    "bytes": 58512,
+    "width": 192,
+    "height": 272,
+    "sha256": "78c286eba54f436010fddb253594e8ec9f32a7e6e75ab84036afa469abdb5fe5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.44/SLKA_252.44_COV.png"
+    },
+    "gameId": "SLKA_252.44"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_252.44/SLKA_252.44_BG.png",
+    "kind": "background",
+    "bytes": 190932,
+    "width": 640,
+    "height": 480,
+    "sha256": "f210f48cc29dad4a38ccd37f808ac6f6d9aefba84a32abbf2d47048c1ad49dcf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.44/SLKA_252.44_BG_00.png"
+    },
+    "gameId": "SLKA_252.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_252.44/SLKA_252.44_BG.png",
+      "kind": "background",
+      "bytes": 190932,
+      "width": 640,
+      "height": 480,
+      "sha256": "f210f48cc29dad4a38ccd37f808ac6f6d9aefba84a32abbf2d47048c1ad49dcf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_252.44/SLKA_252.44_BG_00.png"
+      },
+      "gameId": "SLKA_252.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WWE SmackDown vs. RAW"
+}

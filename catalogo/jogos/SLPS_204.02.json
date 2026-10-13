@@ -1,0 +1,65 @@
+{
+  "id": "SLPS_204.02",
+  "cover": {
+    "path": "PS2/SLPS_204.02/SLPS_204.02_COV.png",
+    "kind": "cover",
+    "bytes": 93937,
+    "width": 192,
+    "height": 272,
+    "sha256": "35bc3997862e5ab0df06d65737a23c944b523e803a410d0bc1984cfee322c886",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20402.jpg"
+    },
+    "gameId": "SLPS_204.02"
+  },
+  "disc": {
+    "path": "PS2/SLPS_204.02/SLPS_204.02_ICO.png",
+    "kind": "disc",
+    "bytes": 11715,
+    "width": 128,
+    "height": 128,
+    "sha256": "f6a8c8ee8205e61606ac974d48d14a7db5aadccc169c7100d9c3a5a374ed3a9a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_204.02_ICO.png"
+    },
+    "gameId": "SLPS_204.02"
+  },
+  "background": {
+    "path": "PS2/SLPS_204.02/SLPS_204.02_BG.png",
+    "kind": "background",
+    "bytes": 162632,
+    "width": 640,
+    "height": 480,
+    "sha256": "f279fd0e409977fc0db9d0c8e89f0f16e9dff9c91818352ccb652fddd6eee56e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_204.02/SLPS_204.02_BG_00.png"
+    },
+    "gameId": "SLPS_204.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_204.02/SLPS_204.02_BG.png",
+      "kind": "background",
+      "bytes": 162632,
+      "width": 640,
+      "height": 480,
+      "sha256": "f279fd0e409977fc0db9d0c8e89f0f16e9dff9c91818352ccb652fddd6eee56e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.02/SLPS_204.02_BG_00.png"
+      },
+      "gameId": "SLPS_204.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAMEN RIDER BLADE"
+}

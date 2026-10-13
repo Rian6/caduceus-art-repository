@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_200.37",
+  "cover": {
+    "path": "PS2/SLUS_200.37/SLUS_200.37_COV.png",
+    "kind": "cover",
+    "bytes": 97651,
+    "width": 192,
+    "height": 272,
+    "sha256": "8340b04f1f411edc5d3fb6bb326a94cc10ea108e306925f52764925e5f641c3d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20037.jpg"
+    },
+    "gameId": "SLUS_200.37"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.37/SLUS_200.37_ICO.png",
+    "kind": "disc",
+    "bytes": 37883,
+    "width": 256,
+    "height": 256,
+    "sha256": "c52202d0d74d8144ee1b82ec6db2e298d0f3b9987eafeda8546da664b0ea8f51",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.37_ICO.png"
+    },
+    "gameId": "SLUS_200.37"
+  },
+  "background": {
+    "path": "PS2/SLUS_200.37/SLUS_200.37_BG.png",
+    "kind": "background",
+    "bytes": 196219,
+    "width": 640,
+    "height": 480,
+    "sha256": "c3d45012c24dfb71648d831d08b948ffecfd86006d970eae369bbc805b7e0e43",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_200.37/SLUS_200.37_BG_00.png"
+    },
+    "gameId": "SLUS_200.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_200.37/SLUS_200.37_BG.png",
+      "kind": "background",
+      "bytes": 196219,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3d45012c24dfb71648d831d08b948ffecfd86006d970eae369bbc805b7e0e43",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.37/SLUS_200.37_BG_00.png"
+      },
+      "gameId": "SLUS_200.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RLH - RUN LIKE HELL"
+}

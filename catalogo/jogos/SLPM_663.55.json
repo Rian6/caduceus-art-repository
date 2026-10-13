@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.55",
+  "cover": {
+    "path": "PS2/SLPM_663.55/SLPM_663.55_COV.png",
+    "kind": "cover",
+    "bytes": 105009,
+    "width": 192,
+    "height": 272,
+    "sha256": "513ba5eb672ccb51f33b13409100735f09da6dc4ce0ff46ff1807d6ce80404b7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66355.jpg"
+    },
+    "gameId": "SLPM_663.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RAKUGAKI OUKAKU 2 [TAITO BEST]"
+}

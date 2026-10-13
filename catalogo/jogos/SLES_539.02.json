@@ -1,0 +1,65 @@
+{
+  "id": "SLES_539.02",
+  "cover": {
+    "path": "PS2/SLES_539.02/SLES_539.02_COV.png",
+    "kind": "cover",
+    "bytes": 91539,
+    "width": 192,
+    "height": 272,
+    "sha256": "00c1143c4b7575f8b404834ac171cb0894db54e79022071ec5ce6a0115fa280d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53902.jpg"
+    },
+    "gameId": "SLES_539.02"
+  },
+  "disc": {
+    "path": "PS2/SLES_539.02/SLES_539.02_ICO.png",
+    "kind": "disc",
+    "bytes": 10518,
+    "width": 128,
+    "height": 128,
+    "sha256": "73e572f23ae1591dc292e7faf2c135f98ba43e1313e070e7960e72350a316e1e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_539.02_ICO.png"
+    },
+    "gameId": "SLES_539.02"
+  },
+  "background": {
+    "path": "PS2/SLES_539.02/SLES_539.02_BG.png",
+    "kind": "background",
+    "bytes": 154529,
+    "width": 640,
+    "height": 480,
+    "sha256": "aa2f2848f60addfb9aa96389b39865ea2e4f1dc5c456aafa62dd86032bc87a0e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.02/SLES_539.02_BG_00.png"
+    },
+    "gameId": "SLES_539.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.02/SLES_539.02_BG.png",
+      "kind": "background",
+      "bytes": 154529,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa2f2848f60addfb9aa96389b39865ea2e4f1dc5c456aafa62dd86032bc87a0e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.02/SLES_539.02_BG_00.png"
+      },
+      "gameId": "SLES_539.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Leaderboard Golf"
+}

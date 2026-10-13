@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_191.01",
+  "cover": {
+    "path": "PS2/SCPS_191.01/SCPS_191.01_COV.png",
+    "kind": "cover",
+    "bytes": 67612,
+    "width": 192,
+    "height": 272,
+    "sha256": "86ea8abdad11de5117af802f2b54c035ee519574b4845141684f50b97192570f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19101.jpg"
+    },
+    "gameId": "SCPS_191.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KA [PLAYSTATION 2 THE BEST]"
+}

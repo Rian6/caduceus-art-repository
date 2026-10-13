@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_200.27",
+  "cover": {
+    "path": "PS2/SLPS_200.27/SLPS_200.27_COV.png",
+    "kind": "cover",
+    "bytes": 61367,
+    "width": 192,
+    "height": 272,
+    "sha256": "c3a5a8b37a06fde7c760e32a03cf9f02f6abe9995ff1704dc49d840d1bd2b2fe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20027.jpg"
+    },
+    "gameId": "SLPS_200.27"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_200.27/SLPS_200.27_BG.png",
+    "kind": "background",
+    "bytes": 141899,
+    "width": 640,
+    "height": 480,
+    "sha256": "06af3039cb5a968d231e18402420dcf1480fde02455a1ce903f6737ac3d6a9fb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_200.27/SLPS_200.27_BG_00.png"
+    },
+    "gameId": "SLPS_200.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_200.27/SLPS_200.27_BG.png",
+      "kind": "background",
+      "bytes": 141899,
+      "width": 640,
+      "height": 480,
+      "sha256": "06af3039cb5a968d231e18402420dcf1480fde02455a1ce903f6737ac3d6a9fb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_200.27/SLPS_200.27_BG_00.png"
+      },
+      "gameId": "SLPS_200.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Aquaqua"
+}

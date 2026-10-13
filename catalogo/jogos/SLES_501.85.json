@@ -1,0 +1,117 @@
+{
+  "id": "SLES_501.85",
+  "cover": {
+    "path": "PS2/SLES_501.85/SLES_501.85_COV.png",
+    "kind": "cover",
+    "bytes": 90684,
+    "width": 192,
+    "height": 272,
+    "sha256": "44dca906e1c04bd95e10a5319d699626d9f3821377057a18025ca43a2bcb04be",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50185.jpg"
+    },
+    "gameId": "SLES_501.85"
+  },
+  "disc": {
+    "path": "PS2/SLES_501.85/SLES_501.85_ICO.png",
+    "kind": "disc",
+    "bytes": 12216,
+    "width": 128,
+    "height": 128,
+    "sha256": "658c8107324c222d71edf6246dd08da73c84315906f97853a13e13c054b42af5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_501.85_ICO.png"
+    },
+    "gameId": "SLES_501.85"
+  },
+  "background": {
+    "path": "PS2/SLES_501.85/SLES_501.85_BG.png",
+    "kind": "background",
+    "bytes": 192984,
+    "width": 640,
+    "height": 480,
+    "sha256": "88cafbcb364327372b4ae02c94d845c741d26c5c4ed53e591c72b3ac9d259d26",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_501.85/SLES_501.85_BG_00.png"
+    },
+    "gameId": "SLES_501.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_501.85/SLES_501.85_BG.png",
+      "kind": "background",
+      "bytes": 192984,
+      "width": 640,
+      "height": 480,
+      "sha256": "88cafbcb364327372b4ae02c94d845c741d26c5c4ed53e591c72b3ac9d259d26",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.85/SLES_501.85_BG_00.png"
+      },
+      "gameId": "SLES_501.85"
+    },
+    {
+      "path": "PS2/SLES_501.85/SLES_501.85_BG_01.png",
+      "kind": "background",
+      "bytes": 127711,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf3e0a4629131c0db0829e174ad2dff1acca8b9e2f5932de9c133afed0dfa020",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.85/SLES_501.85_BG_01.png"
+      },
+      "gameId": "SLES_501.85"
+    },
+    {
+      "path": "PS2/SLES_501.85/SLES_501.85_BG_02.png",
+      "kind": "background",
+      "bytes": 185668,
+      "width": 640,
+      "height": 480,
+      "sha256": "73e403748ff6111699c4e1b77f0c06b89a4b6d4ebe944e233d3f3c59e60842d7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.85/SLES_501.85_BG_02.png"
+      },
+      "gameId": "SLES_501.85"
+    },
+    {
+      "path": "PS2/SLES_501.85/SLES_501.85_BG_03.png",
+      "kind": "background",
+      "bytes": 131616,
+      "width": 640,
+      "height": 480,
+      "sha256": "16e56ef936544cc2411759c2030d8d8f6b757d53796afcc4aae363db1cc2bdb4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.85/SLES_501.85_BG_03.png"
+      },
+      "gameId": "SLES_501.85"
+    },
+    {
+      "path": "PS2/SLES_501.85/SLES_501.85_BG_04.png",
+      "kind": "background",
+      "bytes": 203224,
+      "width": 640,
+      "height": 480,
+      "sha256": "e10b11c4151356779d20baaf46fd5afa01680ade6eae65e816d2a21a4252677e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.85/SLES_501.85_BG_04.png"
+      },
+      "gameId": "SLES_501.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Alone in the Dark - The New Nightmare"
+}

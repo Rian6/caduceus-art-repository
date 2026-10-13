@@ -1,0 +1,39 @@
+{
+  "id": "SLES_502.61",
+  "cover": {
+    "path": "PS2/SLES_502.61/SLES_502.61_COV.png",
+    "kind": "cover",
+    "bytes": 94775,
+    "width": 192,
+    "height": 272,
+    "sha256": "36eab8f0f79046d6c0dc1e14a78e5cf955a8dc801f2b58129580124f8cd97c1d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50261.jpg"
+    },
+    "gameId": "SLES_502.61"
+  },
+  "disc": {
+    "path": "PS2/SLES_502.61/SLES_502.61_ICO.png",
+    "kind": "disc",
+    "bytes": 11057,
+    "width": 128,
+    "height": 128,
+    "sha256": "d03e3630f91eb3d5471a6c1510d7e9515906de61c8cd0efc76721f675c4dbcb1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_502.61_ICO.png"
+    },
+    "gameId": "SLES_502.61"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ski Surfer"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_201.94",
+  "cover": {
+    "path": "PS2/SLPS_201.94/SLPS_201.94_COV.png",
+    "kind": "cover",
+    "bytes": 73290,
+    "width": 192,
+    "height": 272,
+    "sha256": "d65b94fe7e4502a598528be07e84b2e67eb4fcc3ee1e46170f4c712a233c7c45",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20194.jpg"
+    },
+    "gameId": "SLPS_201.94"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_201.94/SLPS_201.94_BG.png",
+    "kind": "background",
+    "bytes": 100034,
+    "width": 640,
+    "height": 480,
+    "sha256": "b4c5fdf12c82ada918d4bee4f4ffee6cbcff68ff18c4ea508c3f87005dfdfabd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_201.94/SLPS_201.94_BG_00.png"
+    },
+    "gameId": "SLPS_201.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_201.94/SLPS_201.94_BG.png",
+      "kind": "background",
+      "bytes": 100034,
+      "width": 640,
+      "height": 480,
+      "sha256": "b4c5fdf12c82ada918d4bee4f4ffee6cbcff68ff18c4ea508c3f87005dfdfabd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.94/SLPS_201.94_BG_00.png"
+      },
+      "gameId": "SLPS_201.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "U - UNDERWATER UNIT"
+}

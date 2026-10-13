@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_150.13",
+  "cover": {
+    "path": "PS2/SLKA_150.13/SLKA_150.13_COV.png",
+    "kind": "cover",
+    "bytes": 52441,
+    "width": 192,
+    "height": 272,
+    "sha256": "a0e670abe7f2a4525056dcc3689aa94b8977ad827d1b010c161b5ea7d754f6d4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_150.13/SLKA_150.13_COV.png"
+    },
+    "gameId": "SLKA_150.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Grand Slam 2003 Tennis"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.92",
+  "cover": {
+    "path": "PS2/SCAJ_200.92/SCAJ_200.92_COV.png",
+    "kind": "cover",
+    "bytes": 111486,
+    "width": 192,
+    "height": 272,
+    "sha256": "56bda1ccaa4a47efe4b2308e1284969ad60394b1ac09883f2af0a80cbefc1187",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20092.jpg"
+    },
+    "gameId": "SCAJ_200.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAMURAI SHODOWN ZERO"
+}

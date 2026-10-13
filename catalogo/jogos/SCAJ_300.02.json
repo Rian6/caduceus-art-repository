@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_300.02",
+  "cover": {
+    "path": "PS2/SCAJ_300.02/SCAJ_300.02_COV.png",
+    "kind": "cover",
+    "bytes": 96899,
+    "width": 192,
+    "height": 272,
+    "sha256": "f5a73cec4f59fabdcc011c4497010261c6eefb3147f52a3bfb2db3cbc606f639",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-30002.jpg"
+    },
+    "gameId": "SCAJ_300.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WILD ARMS - ALTER CODE F"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_100.15",
+  "cover": {
+    "path": "PS2/SCAJ_100.15/SCAJ_100.15_COV.png",
+    "kind": "cover",
+    "bytes": 116756,
+    "width": 192,
+    "height": 272,
+    "sha256": "391f764a8cc04c346df435ed9f4ebf6f30813753a65a49d3f3cd1c176db40198",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-10015.jpg"
+    },
+    "gameId": "SCAJ_100.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin - Doka! to Oomori Nanadaim"
+}

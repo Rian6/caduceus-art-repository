@@ -1,0 +1,78 @@
+{
+  "id": "SLES_517.16",
+  "cover": {
+    "path": "PS2/SLES_517.16/SLES_517.16_COV.png",
+    "kind": "cover",
+    "bytes": 118311,
+    "width": 192,
+    "height": 272,
+    "sha256": "b644a6ecce1f0e54ca5666802a1f70074c720179b4ae131d040991cf452bb18f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51716.jpg"
+    },
+    "gameId": "SLES_517.16"
+  },
+  "disc": {
+    "path": "PS2/SLES_517.16/SLES_517.16_ICO.png",
+    "kind": "disc",
+    "bytes": 11770,
+    "width": 128,
+    "height": 128,
+    "sha256": "a6e471be44b77133859aeffa97ca2208f74f994701c8eff1301e810ad705a7f3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_517.16_ICO.png"
+    },
+    "gameId": "SLES_517.16"
+  },
+  "background": {
+    "path": "PS2/SLES_517.16/SLES_517.16_BG.png",
+    "kind": "background",
+    "bytes": 159613,
+    "width": 640,
+    "height": 480,
+    "sha256": "82563a26741496fbc08e9a733c0a40a46ff013385cee407f67ff6f2636b6c886",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.16/SLES_517.16_BG_00.png"
+    },
+    "gameId": "SLES_517.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.16/SLES_517.16_BG.png",
+      "kind": "background",
+      "bytes": 159613,
+      "width": 640,
+      "height": 480,
+      "sha256": "82563a26741496fbc08e9a733c0a40a46ff013385cee407f67ff6f2636b6c886",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.16/SLES_517.16_BG_00.png"
+      },
+      "gameId": "SLES_517.16"
+    },
+    {
+      "path": "PS2/SLES_517.16/SLES_517.16_BG_01.png",
+      "kind": "background",
+      "bytes": 210790,
+      "width": 640,
+      "height": 480,
+      "sha256": "6eecca68baceb6cabc240dd8ec430e42e3b1deeadebfe3afd53bd7fc2f03a5b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.16/SLES_517.16_BG_01.png"
+      },
+      "gameId": "SLES_517.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "A TRAIN 6"
+}

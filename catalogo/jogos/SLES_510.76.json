@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.76",
+  "cover": {
+    "path": "PS2/SLES_510.76/SLES_510.76_COV.png",
+    "kind": "cover",
+    "bytes": 89847,
+    "width": 192,
+    "height": 272,
+    "sha256": "82d10f0de269f28b06fce99db669cdc3241178a154ee26e17109313cf09d00cc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51076.jpg"
+    },
+    "gameId": "SLES_510.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - LIVERPOOL FC"
+}

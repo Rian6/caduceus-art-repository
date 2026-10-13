@@ -1,0 +1,65 @@
+{
+  "id": "SLES_516.30",
+  "cover": {
+    "path": "PS2/SLES_516.30/SLES_516.30_COV.png",
+    "kind": "cover",
+    "bytes": 91252,
+    "width": 192,
+    "height": 272,
+    "sha256": "a640784f0bd9d50e228e9e95c50d7a30e3ef96ecfef6316200fe5a4a61c764ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51630.jpg"
+    },
+    "gameId": "SLES_516.30"
+  },
+  "disc": {
+    "path": "PS2/SLES_516.30/SLES_516.30_ICO.png",
+    "kind": "disc",
+    "bytes": 9636,
+    "width": 128,
+    "height": 128,
+    "sha256": "907c7c48093a36a499058cd1893d38b851a7fecb06ed7776b06438904ff7d45a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_516.30_ICO.png"
+    },
+    "gameId": "SLES_516.30"
+  },
+  "background": {
+    "path": "PS2/SLES_516.30/SLES_516.30_BG.png",
+    "kind": "background",
+    "bytes": 188285,
+    "width": 640,
+    "height": 480,
+    "sha256": "83012646f4079d44bb1d04f22f9af06711c2a8b9a8aedb723123e60e38988183",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_516.30/SLES_516.30_BG_00.png"
+    },
+    "gameId": "SLES_516.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_516.30/SLES_516.30_BG.png",
+      "kind": "background",
+      "bytes": 188285,
+      "width": 640,
+      "height": 480,
+      "sha256": "83012646f4079d44bb1d04f22f9af06711c2a8b9a8aedb723123e60e38988183",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.30/SLES_516.30_BG_00.png"
+      },
+      "gameId": "SLES_516.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CHESS CHALLENGER"
+}

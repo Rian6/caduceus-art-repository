@@ -1,0 +1,142 @@
+{
+  "id": "SLPM_732.14",
+  "cover": {
+    "path": "PS2/SLPM_732.14/SLPM_732.14_COV.png",
+    "kind": "cover",
+    "bytes": 75550,
+    "width": 192,
+    "height": 272,
+    "sha256": "220c379142912c92732376112ce0251b9fcf7935091206b4f8a5c6f7b56331a9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-73214.jpg"
+    },
+    "gameId": "SLPM_732.14"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_732.14/SLPM_732.14_BG.png",
+    "kind": "background",
+    "bytes": 190720,
+    "width": 640,
+    "height": 480,
+    "sha256": "69c4daa53607f69ce4577aae626987312bf9984efd2ab1eaf7d76e0bd750b144",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_732.14/SLPM_732.14_BG_00.png"
+    },
+    "gameId": "SLPM_732.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_732.14/SLPM_732.14_BG.png",
+      "kind": "background",
+      "bytes": 190720,
+      "width": 640,
+      "height": 480,
+      "sha256": "69c4daa53607f69ce4577aae626987312bf9984efd2ab1eaf7d76e0bd750b144",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_732.14/SLPM_732.14_BG_00.png"
+      },
+      "gameId": "SLPM_732.14"
+    },
+    {
+      "path": "PS2/SLPM_732.14/SLPM_732.14_BG_01.png",
+      "kind": "background",
+      "bytes": 229743,
+      "width": 640,
+      "height": 480,
+      "sha256": "eba5031fac4f9d731c59dfeab07075375fb224e9c709f23f1f12faaebe9a8add",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_732.14/SLPM_732.14_BG_01.png"
+      },
+      "gameId": "SLPM_732.14"
+    },
+    {
+      "path": "PS2/SLPM_732.14/SLPM_732.14_BG_02.png",
+      "kind": "background",
+      "bytes": 206152,
+      "width": 640,
+      "height": 480,
+      "sha256": "9702dc85ed3abec1e98bf1afdc9c06a5892cfeae9082246ab4793a9cbdf097b1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_732.14/SLPM_732.14_BG_02.png"
+      },
+      "gameId": "SLPM_732.14"
+    },
+    {
+      "path": "PS2/SLPM_732.14/SLPM_732.14_BG_03.png",
+      "kind": "background",
+      "bytes": 178072,
+      "width": 640,
+      "height": 480,
+      "sha256": "0c3cebd2f1ee28ad010105d92fe7b74255631d4e266454200ed33783c5faef0e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_732.14/SLPM_732.14_BG_03.png"
+      },
+      "gameId": "SLPM_732.14"
+    },
+    {
+      "path": "PS2/SLPM_732.14/SLPM_732.14_BG_04.png",
+      "kind": "background",
+      "bytes": 178660,
+      "width": 640,
+      "height": 480,
+      "sha256": "c1072cc2ccc16aaff6116760a6ada6a19cca4481e795da5c91519d5d7048c340",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_732.14/SLPM_732.14_BG_04.png"
+      },
+      "gameId": "SLPM_732.14"
+    },
+    {
+      "path": "PS2/SLPM_732.14/SLPM_732.14_BG_05.png",
+      "kind": "background",
+      "bytes": 187512,
+      "width": 640,
+      "height": 480,
+      "sha256": "f04f465847dc2317a2dd3160691d05bc036ab6f943096b72f563b0136986b53f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_732.14/SLPM_732.14_BG_05.png"
+      },
+      "gameId": "SLPM_732.14"
+    },
+    {
+      "path": "PS2/SLPM_732.14/SLPM_732.14_BG_06.png",
+      "kind": "background",
+      "bytes": 214242,
+      "width": 640,
+      "height": 480,
+      "sha256": "05a683517827cf4ce4a9b3507a8635e9d5c61618471be93c75d7ef838708dbad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_732.14/SLPM_732.14_BG_06.png"
+      },
+      "gameId": "SLPM_732.14"
+    },
+    {
+      "path": "PS2/SLPM_732.14/SLPM_732.14_BG_07.png",
+      "kind": "background",
+      "bytes": 193819,
+      "width": 640,
+      "height": 480,
+      "sha256": "5ca6e0895416f062508f10101c68026a9f4dd2cf9bfb7d0557c358a06548e66d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_732.14/SLPM_732.14_BG_07.png"
+      },
+      "gameId": "SLPM_732.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shadow Hearts II: Director's Cut (PlayStation 2 the Best)"
+}

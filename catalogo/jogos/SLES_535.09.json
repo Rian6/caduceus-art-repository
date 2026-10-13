@@ -1,0 +1,65 @@
+{
+  "id": "SLES_535.09",
+  "cover": {
+    "path": "PS2/SLES_535.09/SLES_535.09_COV.png",
+    "kind": "cover",
+    "bytes": 88549,
+    "width": 192,
+    "height": 272,
+    "sha256": "9859fcceeaa2e5c11da12e57b287430916533f7b9e1b06d023be73e9549d4349",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53509.jpg"
+    },
+    "gameId": "SLES_535.09"
+  },
+  "disc": {
+    "path": "PS2/SLES_535.09/SLES_535.09_ICO.png",
+    "kind": "disc",
+    "bytes": 10845,
+    "width": 128,
+    "height": 128,
+    "sha256": "fd5a789754b85e7f34b28e408a5e1898ad3066346cf54a1ca36c08451c70d7d7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_535.09_ICO.png"
+    },
+    "gameId": "SLES_535.09"
+  },
+  "background": {
+    "path": "PS2/SLES_535.09/SLES_535.09_BG.png",
+    "kind": "background",
+    "bytes": 165215,
+    "width": 640,
+    "height": 480,
+    "sha256": "d7c336a475f7f4e95bb637e25f41c85bd9a4d83ababe4c7a6f8e42acccd0a235",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.09/SLES_535.09_BG_00.png"
+    },
+    "gameId": "SLES_535.09"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.09/SLES_535.09_BG.png",
+      "kind": "background",
+      "bytes": 165215,
+      "width": 640,
+      "height": 480,
+      "sha256": "d7c336a475f7f4e95bb637e25f41c85bd9a4d83ababe4c7a6f8e42acccd0a235",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.09/SLES_535.09_BG_00.png"
+      },
+      "gameId": "SLES_535.09"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hello Kitty: Roller Rescue"
+}

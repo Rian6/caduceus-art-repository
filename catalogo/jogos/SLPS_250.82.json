@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.82",
+  "cover": {
+    "path": "PS2/SLPS_250.82/SLPS_250.82_COV.png",
+    "kind": "cover",
+    "bytes": 33786,
+    "width": 192,
+    "height": 272,
+    "sha256": "b310013e094141b70fb19bb48bdd7ed21ed526c9c5f449e0de99505ae9ec2219",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.82/SLPS_250.82_COV.png"
+    },
+    "gameId": "SLPS_250.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "A-Ressha de Ikou 2001"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_527.67",
+  "cover": {
+    "path": "PS2/SLES_527.67/SLES_527.67_COV.png",
+    "kind": "cover",
+    "bytes": 96804,
+    "width": 192,
+    "height": 272,
+    "sha256": "7105a55b4a557e79f56497da3d03c89265408fbb472dceeeb3b6ec1ce730be8a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52767.jpg"
+    },
+    "gameId": "SLES_527.67"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.67/SLES_527.67_BG.png",
+    "kind": "background",
+    "bytes": 194832,
+    "width": 640,
+    "height": 480,
+    "sha256": "14f2bd73611412506a232617c466d6c649ce041dff8711d88cca9555e07ba841",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.67/SLES_527.67_BG_00.png"
+    },
+    "gameId": "SLES_527.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.67/SLES_527.67_BG.png",
+      "kind": "background",
+      "bytes": 194832,
+      "width": 640,
+      "height": 480,
+      "sha256": "14f2bd73611412506a232617c466d6c649ce041dff8711d88cca9555e07ba841",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.67/SLES_527.67_BG_00.png"
+      },
+      "gameId": "SLES_527.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hugo: CannonCruise"
+}

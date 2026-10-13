@@ -1,0 +1,25 @@
+{
+  "id": "SLES_539.11",
+  "cover": {
+    "path": "PS2/SLES_539.11/SLES_539.11_COV.png",
+    "kind": "cover",
+    "bytes": 84435,
+    "width": 192,
+    "height": 272,
+    "sha256": "46a31c1eccb45004a9307c652c05fea97bdefebfcc11dae3536c1bd658db7b72",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53911.jpg"
+    },
+    "gameId": "SLES_539.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EA Sports Rugby '06"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.71",
+  "cover": {
+    "path": "PS2/SLPS_200.71/SLPS_200.71_COV.png",
+    "kind": "cover",
+    "bytes": 90656,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ca531380c97e2d4846b028401cf35fd4f3629b6229d2a25d681181b611bece4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20071.jpg"
+    },
+    "gameId": "SLPS_200.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Game Select 5 You"
+}

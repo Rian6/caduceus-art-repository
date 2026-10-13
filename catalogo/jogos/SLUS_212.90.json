@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_212.90",
+  "cover": {
+    "path": "PS2/SLUS_212.90/SLUS_212.90_COV.png",
+    "kind": "cover",
+    "bytes": 78794,
+    "width": 192,
+    "height": 272,
+    "sha256": "f395fffb3e72af383aba8fb4bbf6bf4d369f9484a9456ea5b8eb7d34269ffb6e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21290.jpg"
+    },
+    "gameId": "SLUS_212.90"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.90/SLUS_212.90_ICO.png",
+    "kind": "disc",
+    "bytes": 30577,
+    "width": 256,
+    "height": 256,
+    "sha256": "bca36ed7716fc01825cf80bc2bee33e3c14652e1d19c9c95d3ea623b9567dbcc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.90_ICO.png"
+    },
+    "gameId": "SLUS_212.90"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.90/SLUS_212.90_BG.png",
+    "kind": "background",
+    "bytes": 215022,
+    "width": 640,
+    "height": 480,
+    "sha256": "74bdd720dedc05854e92e21409bc855294947627a318e397df5d4fa193787756",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.90/SLUS_212.90_BG_00.png"
+    },
+    "gameId": "SLUS_212.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.90/SLUS_212.90_BG.png",
+      "kind": "background",
+      "bytes": 215022,
+      "width": 640,
+      "height": 480,
+      "sha256": "74bdd720dedc05854e92e21409bc855294947627a318e397df5d4fa193787756",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.90/SLUS_212.90_BG_00.png"
+      },
+      "gameId": "SLUS_212.90"
+    },
+    {
+      "path": "PS2/SLUS_212.90/SLUS_212.90_BG_01.png",
+      "kind": "background",
+      "bytes": 137113,
+      "width": 640,
+      "height": 480,
+      "sha256": "6e45f60c8970968c45ceb0168db0eff1d323e19bbd137f6e497c8a77ca8b7de3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.90/SLUS_212.90_BG_01.png"
+      },
+      "gameId": "SLUS_212.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ford Bold Moves Street Racing"
+}

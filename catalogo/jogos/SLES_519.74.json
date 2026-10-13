@@ -1,0 +1,25 @@
+{
+  "id": "SLES_519.74",
+  "cover": {
+    "path": "PS2/SLES_519.74/SLES_519.74_COV.png",
+    "kind": "cover",
+    "bytes": 113553,
+    "width": 192,
+    "height": 272,
+    "sha256": "868e5fb9779e36477199ee0b3c8dbba45748ebb9a6ddb03f7a40d2202739307d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51974.jpg"
+    },
+    "gameId": "SLES_519.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "XS Juniior League Soccer"
+}

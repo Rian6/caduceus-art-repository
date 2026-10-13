@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_200.32",
+  "cover": {
+    "path": "PS2/SLUS_200.32/SLUS_200.32_COV.png",
+    "kind": "cover",
+    "bytes": 71105,
+    "width": 192,
+    "height": 272,
+    "sha256": "da5fff2ef7520a47889a27acb2cc9354d9ec276b2e280f765f340a14cceb8801",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20032.jpg"
+    },
+    "gameId": "SLUS_200.32"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.32/SLUS_200.32_ICO.png",
+    "kind": "disc",
+    "bytes": 30945,
+    "width": 256,
+    "height": 256,
+    "sha256": "485726709632642efc72ba9dfe4e5714310e9d8a90054778a0d288e4710e7737",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.32_ICO.png"
+    },
+    "gameId": "SLUS_200.32"
+  },
+  "background": {
+    "path": "PS2/SLUS_200.32/SLUS_200.32_BG.png",
+    "kind": "background",
+    "bytes": 116119,
+    "width": 640,
+    "height": 480,
+    "sha256": "3a951acca3146d814c5d871502e524801f42c22559562a48b8ea7445411c7031",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_200.32/SLUS_200.32_BG_00.png"
+    },
+    "gameId": "SLUS_200.32"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_200.32/SLUS_200.32_BG.png",
+      "kind": "background",
+      "bytes": 116119,
+      "width": 640,
+      "height": 480,
+      "sha256": "3a951acca3146d814c5d871502e524801f42c22559562a48b8ea7445411c7031",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.32/SLUS_200.32_BG_00.png"
+      },
+      "gameId": "SLUS_200.32"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Real Pool"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.03",
+  "cover": {
+    "path": "PS2/SLPS_256.03/SLPS_256.03_COV.png",
+    "kind": "cover",
+    "bytes": 72641,
+    "width": 192,
+    "height": 272,
+    "sha256": "d807220a87e906dd3c5c24b318379b8b8bfd5c02f9af1ffd0bba2e230efbb5b0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25603.jpg"
+    },
+    "gameId": "SLPS_256.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tian Xing - Swords of Destiny (Best Collection)"
+}

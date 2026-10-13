@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_651.76",
+  "cover": {
+    "path": "PS2/SLPM_651.76/SLPM_651.76_COV.png",
+    "kind": "cover",
+    "bytes": 98175,
+    "width": 192,
+    "height": 272,
+    "sha256": "030eadc0405cdfb12934de628cab230596d51f758a7680bb166c178953d4dae0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65176.jpg"
+    },
+    "gameId": "SLPM_651.76"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_651.76/SLPM_651.76_BG.png",
+    "kind": "background",
+    "bytes": 143491,
+    "width": 640,
+    "height": 480,
+    "sha256": "a99fb112dfbc2654f0a549eb097bc81ed69e001211901e5d02bed6069ad2ea98",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_651.76/SLPM_651.76_BG_00.png"
+    },
+    "gameId": "SLPM_651.76"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_651.76/SLPM_651.76_BG.png",
+      "kind": "background",
+      "bytes": 143491,
+      "width": 640,
+      "height": 480,
+      "sha256": "a99fb112dfbc2654f0a549eb097bc81ed69e001211901e5d02bed6069ad2ea98",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_651.76/SLPM_651.76_BG_00.png"
+      },
+      "gameId": "SLPM_651.76"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "King of Colosseum: Shin Nippon x Zen Nippon x Pancrase Disc"
+}

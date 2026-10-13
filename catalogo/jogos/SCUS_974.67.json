@@ -1,0 +1,51 @@
+{
+  "id": "SCUS_974.67",
+  "cover": {
+    "path": "PS2/SCUS_974.67/SCUS_974.67_COV.png",
+    "kind": "cover",
+    "bytes": 99599,
+    "width": 192,
+    "height": 272,
+    "sha256": "1d5cd03208d9d93a8605f270dcd598f73797b729fc2868314ccdd3af95e78c81",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97467.jpg"
+    },
+    "gameId": "SCUS_974.67"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCUS_974.67/SCUS_974.67_BG.png",
+    "kind": "background",
+    "bytes": 248417,
+    "width": 640,
+    "height": 480,
+    "sha256": "a5beedbf969d061564c4fc61411bfc0e9c4122d3336a1abb4037d529d799d019",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_974.67/SCUS_974.67_BG_00.png"
+    },
+    "gameId": "SCUS_974.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_974.67/SCUS_974.67_BG.png",
+      "kind": "background",
+      "bytes": 248417,
+      "width": 640,
+      "height": 480,
+      "sha256": "a5beedbf969d061564c4fc61411bfc0e9c4122d3336a1abb4037d529d799d019",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.67/SCUS_974.67_BG_00.png"
+      },
+      "gameId": "SCUS_974.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "God of War - The Hydra Battle (Demo)"
+}

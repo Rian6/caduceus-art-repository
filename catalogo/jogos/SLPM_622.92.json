@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.92",
+  "cover": {
+    "path": "PS2/SLPM_622.92/SLPM_622.92_COV.png",
+    "kind": "cover",
+    "bytes": 116479,
+    "width": 192,
+    "height": 272,
+    "sha256": "20b7079535ead2bf8c60114580d0120e00012798ddd3e4cc760342748dcd45d3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62292.jpg"
+    },
+    "gameId": "SLPM_622.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WARRIOR BLADE - RASTAN VS. BARBARIAN"
+}

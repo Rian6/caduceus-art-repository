@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.79",
+  "cover": {
+    "path": "PS2/SLPS_257.79/SLPS_257.79_COV.png",
+    "kind": "cover",
+    "bytes": 84023,
+    "width": 192,
+    "height": 272,
+    "sha256": "1754e0d65894b0bcba62160e80a75af379a55f608b2c45fb467252495fccb925",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25779.jpg"
+    },
+    "gameId": "SLPS_257.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters - Maximum Impact 2 (SNK Best Collection)"
+}

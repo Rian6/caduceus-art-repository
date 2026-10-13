@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.90",
+  "cover": {
+    "path": "PS2/SLPS_251.90/SLPS_251.90_COV.png",
+    "kind": "cover",
+    "bytes": 106643,
+    "width": 192,
+    "height": 272,
+    "sha256": "af090b7c09086f5e4948db526503cbc370ae42a73e73b73abc77ef100a1d520b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25190.jpg"
+    },
+    "gameId": "SLPS_251.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SWEET LEGACY - BOKU TO KANOJO NO NAMONAI OKASHI"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_204.93",
+  "cover": {
+    "path": "PS2/SLUS_204.93/SLUS_204.93_COV.png",
+    "kind": "cover",
+    "bytes": 103560,
+    "width": 192,
+    "height": 272,
+    "sha256": "aa74b3eb3f59f431bcf5025a140335d885b7963b8e76f88a806078b64f7dde9e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20493.jpg"
+    },
+    "gameId": "SLUS_204.93"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.93/SLUS_204.93_ICO.png",
+    "kind": "disc",
+    "bytes": 18352,
+    "width": 256,
+    "height": 256,
+    "sha256": "0e14040e572d04ca046f4c2fb4eef7412048c740ec268686b743e6cfa09b53b4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.93_ICO.png"
+    },
+    "gameId": "SLUS_204.93"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.93/SLUS_204.93_BG.png",
+    "kind": "background",
+    "bytes": 151710,
+    "width": 640,
+    "height": 480,
+    "sha256": "626eabeaa50afde9580669a1d2e45c9ec3863711ad04080b22a27c8ee82622dd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.93/SLUS_204.93_BG_00.png"
+    },
+    "gameId": "SLUS_204.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.93/SLUS_204.93_BG.png",
+      "kind": "background",
+      "bytes": 151710,
+      "width": 640,
+      "height": 480,
+      "sha256": "626eabeaa50afde9580669a1d2e45c9ec3863711ad04080b22a27c8ee82622dd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.93/SLUS_204.93_BG_00.png"
+      },
+      "gameId": "SLUS_204.93"
+    },
+    {
+      "path": "PS2/SLUS_204.93/SLUS_204.93_BG_01.png",
+      "kind": "background",
+      "bytes": 233858,
+      "width": 640,
+      "height": 480,
+      "sha256": "f9137013c36487651af5c01cd3afd78bed6fe44f14f38df3cc27d0ac5e5e98eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.93/SLUS_204.93_BG_01.png"
+      },
+      "gameId": "SLUS_204.93"
+    },
+    {
+      "path": "PS2/SLUS_204.93/SLUS_204.93_BG_02.png",
+      "kind": "background",
+      "bytes": 138090,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3f0281bb3b24a4ad4ab9ea23370eafdfc28ade2a446c6fde7f71df48f7f9bba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.93/SLUS_204.93_BG_02.png"
+      },
+      "gameId": "SLUS_204.93"
+    },
+    {
+      "path": "PS2/SLUS_204.93/SLUS_204.93_BG_03.png",
+      "kind": "background",
+      "bytes": 203452,
+      "width": 640,
+      "height": 480,
+      "sha256": "93e93ee71ab1641d796040e132d115642cca88959e7e5b29bdd47886ef0ab35d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.93/SLUS_204.93_BG_03.png"
+      },
+      "gameId": "SLUS_204.93"
+    },
+    {
+      "path": "PS2/SLUS_204.93/SLUS_204.93_BG_04.png",
+      "kind": "background",
+      "bytes": 84223,
+      "width": 640,
+      "height": 480,
+      "sha256": "601d4c1d8d95472e5e40c0dbd398b57a8b2c41dfc5ea7d653c02055febee24e2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.93/SLUS_204.93_BG_04.png"
+      },
+      "gameId": "SLUS_204.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUNGRAVE"
+}

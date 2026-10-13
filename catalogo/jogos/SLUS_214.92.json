@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_214.92",
+  "cover": {
+    "path": "PS2/SLUS_214.92/SLUS_214.92_COV.png",
+    "kind": "cover",
+    "bytes": 29671,
+    "width": 192,
+    "height": 272,
+    "sha256": "b7cc660f4cd1eba7f268e7d6df34f68978314ac9dbab942d452e9c73449e7c60",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21492.jpg"
+    },
+    "gameId": "SLUS_214.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCARFACE - THE WORLD IS YOURS [COLLECTOR'S EDITION]"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_208.24",
+  "cover": {
+    "path": "PS2/SLUS_208.24/SLUS_208.24_COV.png",
+    "kind": "cover",
+    "bytes": 98443,
+    "width": 192,
+    "height": 272,
+    "sha256": "71635e377f7ff0933e09b03ac47e5d2047ea5a99ca19daa727f371b1553a259c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20824.jpg"
+    },
+    "gameId": "SLUS_208.24"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.24/SLUS_208.24_ICO.png",
+    "kind": "disc",
+    "bytes": 29972,
+    "width": 256,
+    "height": 256,
+    "sha256": "aad481e96f48d37e9f169c3646f93893247411d0353016db34fbdba7c7a173e4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.24_ICO.png"
+    },
+    "gameId": "SLUS_208.24"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.24/SLUS_208.24_BG.png",
+    "kind": "background",
+    "bytes": 221787,
+    "width": 640,
+    "height": 480,
+    "sha256": "cfadec5c4163ad19bebd21c06e9698e42f6d6f2a0eab9d0b01b74b0c741af107",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.24/SLUS_208.24_BG_00.png"
+    },
+    "gameId": "SLUS_208.24"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.24/SLUS_208.24_BG.png",
+      "kind": "background",
+      "bytes": 221787,
+      "width": 640,
+      "height": 480,
+      "sha256": "cfadec5c4163ad19bebd21c06e9698e42f6d6f2a0eab9d0b01b74b0c741af107",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.24/SLUS_208.24_BG_00.png"
+      },
+      "gameId": "SLUS_208.24"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NASCAR - Thunder 2004"
+}

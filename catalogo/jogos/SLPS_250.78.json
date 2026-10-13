@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.78",
+  "cover": {
+    "path": "PS2/SLPS_250.78/SLPS_250.78_COV.png",
+    "kind": "cover",
+    "bytes": 97374,
+    "width": 192,
+    "height": 272,
+    "sha256": "2500b28cc86183948779c0bf067ac1cd0bef3232062fe2d0f1268a912f155a6f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25078.jpg"
+    },
+    "gameId": "SLPS_250.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SSX Tricky"
+}

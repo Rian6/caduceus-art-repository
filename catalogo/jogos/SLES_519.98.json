@@ -1,0 +1,77 @@
+{
+  "id": "SLES_519.98",
+  "cover": {
+    "path": "PS2/SLES_519.98/SLES_519.98_COV.png",
+    "kind": "cover",
+    "bytes": 94740,
+    "width": 192,
+    "height": 272,
+    "sha256": "f950769fe4f006c12731c1fec7009c2a955b7b7086a810d53547984d32cd2623",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51998.jpg"
+    },
+    "gameId": "SLES_519.98"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_519.98/SLES_519.98_BG.png",
+    "kind": "background",
+    "bytes": 59352,
+    "width": 640,
+    "height": 480,
+    "sha256": "0d484317d3cbbf8101ee590830d996494efd39433b9c9d8f71cbaf7d72f1159b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.98/SLES_519.98_BG_00.png"
+    },
+    "gameId": "SLES_519.98"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.98/SLES_519.98_BG.png",
+      "kind": "background",
+      "bytes": 59352,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d484317d3cbbf8101ee590830d996494efd39433b9c9d8f71cbaf7d72f1159b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.98/SLES_519.98_BG_00.png"
+      },
+      "gameId": "SLES_519.98"
+    },
+    {
+      "path": "PS2/SLES_519.98/SLES_519.98_BG_01.png",
+      "kind": "background",
+      "bytes": 156391,
+      "width": 640,
+      "height": 480,
+      "sha256": "34c3b8cf9e829b633b3c10a39405edcf707f43a9281ef4928f5acbd020abb31f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.98/SLES_519.98_BG_01.png"
+      },
+      "gameId": "SLES_519.98"
+    },
+    {
+      "path": "PS2/SLES_519.98/SLES_519.98_BG_02.png",
+      "kind": "background",
+      "bytes": 174084,
+      "width": 640,
+      "height": 480,
+      "sha256": "4c6315141574b3e1e625bbd92d22984a4626fae47b1959a3f576039adcf378f1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.98/SLES_519.98_BG_02.png"
+      },
+      "gameId": "SLES_519.98"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAO THE KANGAROO - ROUND 2"
+}

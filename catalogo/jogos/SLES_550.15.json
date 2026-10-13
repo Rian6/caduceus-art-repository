@@ -1,0 +1,64 @@
+{
+  "id": "SLES_550.15",
+  "cover": {
+    "path": "PS2/SLES_550.15/SLES_550.15_COV.png",
+    "kind": "cover",
+    "bytes": 107927,
+    "width": 192,
+    "height": 272,
+    "sha256": "f02334f0367e587ef7eee1e426962c30d8c1e24c32c5db06b276bb1041b320da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55015.jpg"
+    },
+    "gameId": "SLES_550.15"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_550.15/SLES_550.15_BG.png",
+    "kind": "background",
+    "bytes": 220557,
+    "width": 640,
+    "height": 480,
+    "sha256": "aedc66b520233b61d3772f9aa2b4c1fa54beb48dc773d679448e4d5b25632f6a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.15/SLES_550.15_BG_00.png"
+    },
+    "gameId": "SLES_550.15"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.15/SLES_550.15_BG.png",
+      "kind": "background",
+      "bytes": 220557,
+      "width": 640,
+      "height": 480,
+      "sha256": "aedc66b520233b61d3772f9aa2b4c1fa54beb48dc773d679448e4d5b25632f6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.15/SLES_550.15_BG_00.png"
+      },
+      "gameId": "SLES_550.15"
+    },
+    {
+      "path": "PS2/SLES_550.15/SLES_550.15_BG_01.png",
+      "kind": "background",
+      "bytes": 173539,
+      "width": 640,
+      "height": 480,
+      "sha256": "33b645e64d3863d4a32f08bce1598b23340a8c55a77accfd3e1e0db89d5989f0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.15/SLES_550.15_BG_01.png"
+      },
+      "gameId": "SLES_550.15"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Barbie as The Island Princess"
+}

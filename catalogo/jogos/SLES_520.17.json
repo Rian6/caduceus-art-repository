@@ -1,0 +1,77 @@
+{
+  "id": "SLES_520.17",
+  "cover": {
+    "path": "PS2/SLES_520.17/SLES_520.17_COV.png",
+    "kind": "cover",
+    "bytes": 100218,
+    "width": 192,
+    "height": 272,
+    "sha256": "54a1b333d576d2831da0027db5f767f5e72dcbf1cf4b21f558316aad37c3b2a0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52017.jpg"
+    },
+    "gameId": "SLES_520.17"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_520.17/SLES_520.17_BG.png",
+    "kind": "background",
+    "bytes": 244650,
+    "width": 640,
+    "height": 480,
+    "sha256": "c85cdf11304d8b2d88bb3f6877e49ec9ce6156cce46d8ec081030b0ef9fde90c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_520.17/SLES_520.17_BG_00.png"
+    },
+    "gameId": "SLES_520.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_520.17/SLES_520.17_BG.png",
+      "kind": "background",
+      "bytes": 244650,
+      "width": 640,
+      "height": 480,
+      "sha256": "c85cdf11304d8b2d88bb3f6877e49ec9ce6156cce46d8ec081030b0ef9fde90c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.17/SLES_520.17_BG_00.png"
+      },
+      "gameId": "SLES_520.17"
+    },
+    {
+      "path": "PS2/SLES_520.17/SLES_520.17_BG_01.png",
+      "kind": "background",
+      "bytes": 228765,
+      "width": 640,
+      "height": 480,
+      "sha256": "dfa373c83915e034fd4c1d00312f04181fe83994a97a3b74c97102c88cbf2ef3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.17/SLES_520.17_BG_01.png"
+      },
+      "gameId": "SLES_520.17"
+    },
+    {
+      "path": "PS2/SLES_520.17/SLES_520.17_BG_02.png",
+      "kind": "background",
+      "bytes": 218358,
+      "width": 640,
+      "height": 480,
+      "sha256": "d4dc6bacb8f2a9ecb5bba75254044110563369f3872e5e80676d3148b36eeafe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.17/SLES_520.17_BG_02.png"
+      },
+      "gameId": "SLES_520.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Lord of the Rings: The Return of the King"
+}

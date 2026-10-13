@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_211.87",
+  "cover": {
+    "path": "PS2/SLUS_211.87/SLUS_211.87_COV.png",
+    "kind": "cover",
+    "bytes": 79334,
+    "width": 192,
+    "height": 272,
+    "sha256": "303f7db3cc7bfd09acd6f26024b5dd2ce8b034499b95e738a7e51278d834d436",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21187.jpg"
+    },
+    "gameId": "SLUS_211.87"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.87/SLUS_211.87_ICO.png",
+    "kind": "disc",
+    "bytes": 31229,
+    "width": 256,
+    "height": 256,
+    "sha256": "98afc95b5632c2973b5b56d632a405b22705ef10b51ec66dc3b8b1f90e43793c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.87_ICO.png"
+    },
+    "gameId": "SLUS_211.87"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.87/SLUS_211.87_BG.png",
+    "kind": "background",
+    "bytes": 206834,
+    "width": 640,
+    "height": 480,
+    "sha256": "4773940ea1ccd6a7ffb7add57780a15b8126432dba5897c137c4def3497d27d7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.87/SLUS_211.87_BG_00.png"
+    },
+    "gameId": "SLUS_211.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.87/SLUS_211.87_BG.png",
+      "kind": "background",
+      "bytes": 206834,
+      "width": 640,
+      "height": 480,
+      "sha256": "4773940ea1ccd6a7ffb7add57780a15b8126432dba5897c137c4def3497d27d7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.87/SLUS_211.87_BG_00.png"
+      },
+      "gameId": "SLUS_211.87"
+    },
+    {
+      "path": "PS2/SLUS_211.87/SLUS_211.87_BG_01.png",
+      "kind": "background",
+      "bytes": 254458,
+      "width": 640,
+      "height": 480,
+      "sha256": "443b5a9eb116a65e4183a0bccf9cc1e7e7b57a3998207f23f14fd8446142a689",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.87/SLUS_211.87_BG_01.png"
+      },
+      "gameId": "SLUS_211.87"
+    },
+    {
+      "path": "PS2/SLUS_211.87/SLUS_211.87_BG_02.png",
+      "kind": "background",
+      "bytes": 199658,
+      "width": 640,
+      "height": 480,
+      "sha256": "41fb10e76c96097b3cf65ecca590c6b7e4fbbfcd5e4b4474dd6d0c0ede7e64d7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.87/SLUS_211.87_BG_02.png"
+      },
+      "gameId": "SLUS_211.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAMURAI WESTERN"
+}

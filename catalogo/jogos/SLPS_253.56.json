@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.56",
+  "cover": {
+    "path": "PS2/SLPS_253.56/SLPS_253.56_COV.png",
+    "kind": "cover",
+    "bytes": 110991,
+    "width": 192,
+    "height": 272,
+    "sha256": "625cf0e67b52efd4499de82b285a215c191eca20d0a3661e785ef0c7c64817f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25356.jpg"
+    },
+    "gameId": "SLPS_253.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BROKEN SWORD - NEMURERU RYUU NO DENSETSU"
+}

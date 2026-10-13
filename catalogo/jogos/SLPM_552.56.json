@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.56",
+  "cover": {
+    "path": "PS2/SLPM_552.56/SLPM_552.56_COV.png",
+    "kind": "cover",
+    "bytes": 103122,
+    "width": 192,
+    "height": 272,
+    "sha256": "1cfe88d6663267e2f4db9386b686e14658f238ee7ce7253d668b36b8ade3d62c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55256.jpg"
+    },
+    "gameId": "SLPM_552.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Lucian Bee's - Justice Yellow"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_218.75",
+  "cover": {
+    "path": "PS2/SLUS_218.75/SLUS_218.75_COV.png",
+    "kind": "cover",
+    "bytes": 106157,
+    "width": 192,
+    "height": 272,
+    "sha256": "283899420f33c81a8956f3d6ed53f0fb95f7fcbd4d7fa83be600b20609d2573c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21875.jpg"
+    },
+    "gameId": "SLUS_218.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "M&M's Adventure"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_530.11",
+  "cover": {
+    "path": "PS2/SLES_530.11/SLES_530.11_COV.png",
+    "kind": "cover",
+    "bytes": 94628,
+    "width": 192,
+    "height": 272,
+    "sha256": "e982ee5a7462e4c237a3fb3aad14ad757a95c4186b08599d13aa1fb65b6bbd7c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53011.jpg"
+    },
+    "gameId": "SLES_530.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gallop Racer 2"
+}

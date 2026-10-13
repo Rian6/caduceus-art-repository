@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_661.75",
+  "cover": {
+    "path": "PS2/SLPM_661.75/SLPM_661.75_COV.png",
+    "kind": "cover",
+    "bytes": 117143,
+    "width": 192,
+    "height": 272,
+    "sha256": "a4cf6fdf8b2c8e1aeb15d434ff72beb673622f0dd303de193e6cd630f107c234",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66175.jpg"
+    },
+    "gameId": "SLPM_661.75"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_661.75/SLPM_661.75_BG.png",
+    "kind": "background",
+    "bytes": 237561,
+    "width": 640,
+    "height": 480,
+    "sha256": "02807d057e99bcbcc18e77cc205ae3ecbdb62c5bad94685699f4c8156f4225b4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_661.75/SLPM_661.75_BG_00.png"
+    },
+    "gameId": "SLPM_661.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_661.75/SLPM_661.75_BG.png",
+      "kind": "background",
+      "bytes": 237561,
+      "width": 640,
+      "height": 480,
+      "sha256": "02807d057e99bcbcc18e77cc205ae3ecbdb62c5bad94685699f4c8156f4225b4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_661.75/SLPM_661.75_BG_00.png"
+      },
+      "gameId": "SLPM_661.75"
+    },
+    {
+      "path": "PS2/SLPM_661.75/SLPM_661.75_BG_01.png",
+      "kind": "background",
+      "bytes": 200045,
+      "width": 640,
+      "height": 480,
+      "sha256": "17e4e083b16a8243060a99353960d9faaaed980f4c7b669edaa6a639d5632a0c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_661.75/SLPM_661.75_BG_01.png"
+      },
+      "gameId": "SLPM_661.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Akumajo Dracula - Yami no Juin"
+}

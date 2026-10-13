@@ -1,0 +1,25 @@
+{
+  "id": "SLES_546.06",
+  "cover": {
+    "path": "PS2/SLES_546.06/SLES_546.06_COV.png",
+    "kind": "cover",
+    "bytes": 89771,
+    "width": 192,
+    "height": 272,
+    "sha256": "402a3c2785134ce09b18e70518802363ad3f39f3c7001c9655e73a398f80b6b7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54606.jpg"
+    },
+    "gameId": "SLES_546.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARLEY-DAVIDSON MOTOR CYCLES - RACE TO THE RALLY"
+}

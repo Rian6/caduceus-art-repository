@@ -1,0 +1,65 @@
+{
+  "id": "SLES_548.90",
+  "cover": {
+    "path": "PS2/SLES_548.90/SLES_548.90_COV.png",
+    "kind": "cover",
+    "bytes": 110645,
+    "width": 192,
+    "height": 272,
+    "sha256": "408036deaa536325f791c7503a2e95184a769777c0e74006fe911e55255da318",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54890.jpg"
+    },
+    "gameId": "SLES_548.90"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.90/SLES_548.90_ICO.png",
+    "kind": "disc",
+    "bytes": 11922,
+    "width": 128,
+    "height": 128,
+    "sha256": "f4f772b65dcffe6504d9d45abb6bce0a08d8947dea4c1a275e36052ea4983e66",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.90_ICO.png"
+    },
+    "gameId": "SLES_548.90"
+  },
+  "background": {
+    "path": "PS2/SLES_548.90/SLES_548.90_BG.png",
+    "kind": "background",
+    "bytes": 97821,
+    "width": 640,
+    "height": 480,
+    "sha256": "8e2c3340a6b1ba41c5c4344381d0b1cc81541e4e0ee56dee1c1c475c7a547cd4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.90/SLES_548.90_BG_00.png"
+    },
+    "gameId": "SLES_548.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.90/SLES_548.90_BG.png",
+      "kind": "background",
+      "bytes": 97821,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e2c3340a6b1ba41c5c4344381d0b1cc81541e4e0ee56dee1c1c475c7a547cd4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.90/SLES_548.90_BG_00.png"
+      },
+      "gameId": "SLES_548.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLEVER KIDS - DINO LAND"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_523.98",
+  "cover": {
+    "path": "PS2/SLES_523.98/SLES_523.98_COV.png",
+    "kind": "cover",
+    "bytes": 75781,
+    "width": 192,
+    "height": 272,
+    "sha256": "bce306cf61a22da215e62bcddecd41b521114cfbdb2a1763efa97b0aa1c37769",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52398.jpg"
+    },
+    "gameId": "SLES_523.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "UEFA Euro 2004 Portugal"
+}

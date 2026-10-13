@@ -1,0 +1,51 @@
+{
+  "id": "SCES_533.04",
+  "cover": {
+    "path": "PS2/SCES_533.04/SCES_533.04_COV.png",
+    "kind": "cover",
+    "bytes": 91354,
+    "width": 192,
+    "height": 272,
+    "sha256": "2bd61418abd0c47ebda547913d6ef4a5baea7cb6540fa96b53172dfd3577816e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53304.jpg"
+    },
+    "gameId": "SCES_533.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_533.04/SCES_533.04_BG.png",
+    "kind": "background",
+    "bytes": 141784,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a00e233ac192eb8d1f02fb06e25504aeeb2078a6fa92b458e6557f846903923",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_533.04/SCES_533.04_BG_00.png"
+    },
+    "gameId": "SCES_533.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_533.04/SCES_533.04_BG.png",
+      "kind": "background",
+      "bytes": 141784,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a00e233ac192eb8d1f02fb06e25504aeeb2078a6fa92b458e6557f846903923",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.04/SCES_533.04_BG_00.png"
+      },
+      "gameId": "SCES_533.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BUZZ! - THE MUSIC QUIZ"
+}

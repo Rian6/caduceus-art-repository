@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.23",
+  "cover": {
+    "path": "PS2/SLPS_252.23/SLPS_252.23_COV.png",
+    "kind": "cover",
+    "bytes": 100398,
+    "width": 192,
+    "height": 272,
+    "sha256": "0d57ebd87faa58aca781276fdd84bdf2d203952e47aab95976173a73ba4260c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25223.jpg"
+    },
+    "gameId": "SLPS_252.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Canvas: Sepia-iro no Motif"
+}

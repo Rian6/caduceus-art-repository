@@ -1,0 +1,39 @@
+{
+  "id": "SLES_534.01",
+  "cover": {
+    "path": "PS2/SLES_534.01/SLES_534.01_COV.png",
+    "kind": "cover",
+    "bytes": 90919,
+    "width": 192,
+    "height": 272,
+    "sha256": "bca59c76a3233d989f734568a7c820e3490979c170785ad1e37111030f4620ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53401.jpg"
+    },
+    "gameId": "SLES_534.01"
+  },
+  "disc": {
+    "path": "PS2/SLES_534.01/SLES_534.01_ICO.png",
+    "kind": "disc",
+    "bytes": 11859,
+    "width": 128,
+    "height": 128,
+    "sha256": "273fa11e2716d59271744e631303f667b4d5f8713d890977c13f622aa58dbe3b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_534.01_ICO.png"
+    },
+    "gameId": "SLES_534.01"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Iron Sea"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_533.55",
+  "cover": {
+    "path": "PS2/SLES_533.55/SLES_533.55_COV.png",
+    "kind": "cover",
+    "bytes": 93932,
+    "width": 192,
+    "height": 272,
+    "sha256": "8403577aba49fd599da2d5937ba0ad1b67d25dbdd65d39d43b54f8ef6b74ebdc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53355.jpg"
+    },
+    "gameId": "SLES_533.55"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.55/SLES_533.55_ICO.png",
+    "kind": "disc",
+    "bytes": 11722,
+    "width": 128,
+    "height": 128,
+    "sha256": "26e3180f3d405fc118d22fbda1a870d33d109268c756588ca81f1019c05ce4a5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.55_ICO.png"
+    },
+    "gameId": "SLES_533.55"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Obliterate"
+}

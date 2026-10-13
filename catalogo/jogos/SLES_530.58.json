@@ -1,0 +1,25 @@
+{
+  "id": "SLES_530.58",
+  "cover": {
+    "path": "PS2/SLES_530.58/SLES_530.58_COV.png",
+    "kind": "cover",
+    "bytes": 87597,
+    "width": 192,
+    "height": 272,
+    "sha256": "056eb6bf40e297ddac72c37fbadafcafb4ef3aa78515aa2ff90a009de71d13ee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53058.jpg"
+    },
+    "gameId": "SLES_530.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ricky Ponting International Cricket 2005"
+}

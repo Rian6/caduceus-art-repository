@@ -1,0 +1,64 @@
+{
+  "id": "SLES_507.25",
+  "cover": {
+    "path": "PS2/SLES_507.25/SLES_507.25_COV.png",
+    "kind": "cover",
+    "bytes": 89310,
+    "width": 192,
+    "height": 272,
+    "sha256": "cf58cabfd424019327a2614493d504b3c030906833e5e4fb7191a81d912967e9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50725.jpg"
+    },
+    "gameId": "SLES_507.25"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_507.25/SLES_507.25_BG.png",
+    "kind": "background",
+    "bytes": 160114,
+    "width": 640,
+    "height": 480,
+    "sha256": "641d8295e7c0c96109ba8f4582cbeeb6a203da80db9a15ad376702c711e80698",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.25/SLES_507.25_BG_00.png"
+    },
+    "gameId": "SLES_507.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_507.25/SLES_507.25_BG.png",
+      "kind": "background",
+      "bytes": 160114,
+      "width": 640,
+      "height": 480,
+      "sha256": "641d8295e7c0c96109ba8f4582cbeeb6a203da80db9a15ad376702c711e80698",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.25/SLES_507.25_BG_00.png"
+      },
+      "gameId": "SLES_507.25"
+    },
+    {
+      "path": "PS2/SLES_507.25/SLES_507.25_BG_01.png",
+      "kind": "background",
+      "bytes": 191048,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7ce9c4cb7bb69930a90358303c2c57351620c1c79d63f7bcc44112fac160590",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.25/SLES_507.25_BG_01.png"
+      },
+      "gameId": "SLES_507.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "V-Rally 3"
+}

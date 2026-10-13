@@ -1,0 +1,51 @@
+{
+  "id": "SLES_552.40",
+  "cover": {
+    "path": "PS2/SLES_552.40/SLES_552.40_COV.png",
+    "kind": "cover",
+    "bytes": 90089,
+    "width": 192,
+    "height": 272,
+    "sha256": "fb9e8cae8174661bc2f0d7025eabcd570ff8191b1208640f3505774691606d2e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55240.jpg"
+    },
+    "gameId": "SLES_552.40"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_552.40/SLES_552.40_BG.png",
+    "kind": "background",
+    "bytes": 176086,
+    "width": 640,
+    "height": 480,
+    "sha256": "933294e8c81b1fc6fd16f60451130c8ade9008e1575103bacf5f7ecf460291ca",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_552.40/SLES_552.40_BG_00.png"
+    },
+    "gameId": "SLES_552.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_552.40/SLES_552.40_BG.png",
+      "kind": "background",
+      "bytes": 176086,
+      "width": 640,
+      "height": 480,
+      "sha256": "933294e8c81b1fc6fd16f60451130c8ade9008e1575103bacf5f7ecf460291ca",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.40/SLES_552.40_BG_00.png"
+      },
+      "gameId": "SLES_552.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pipe Mania"
+}

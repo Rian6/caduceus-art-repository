@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_300.10",
+  "cover": {
+    "path": "PS2/SCAJ_300.10/SCAJ_300.10_COV.png",
+    "kind": "cover",
+    "bytes": 97784,
+    "width": 192,
+    "height": 272,
+    "sha256": "ffb4dd8c2b02e639d468332629f3fb3ac6e71ea01131c8039138c5ba7304cc56",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-30010.jpg"
+    },
+    "gameId": "SCAJ_300.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GOD OF WAR"
+}

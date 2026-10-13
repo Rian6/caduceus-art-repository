@@ -1,0 +1,25 @@
+{
+  "id": "SCES_542.69",
+  "cover": {
+    "path": "PS2/SCES_542.69/SCES_542.69_COV.png",
+    "kind": "cover",
+    "bytes": 100978,
+    "width": 192,
+    "height": 272,
+    "sha256": "30dd397a305216e1e007e54ed81ad2b83b8ea8078cb43665efcaca9fd15f03cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54269.jpg"
+    },
+    "gameId": "SCES_542.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! The Sports Quiz"
+}

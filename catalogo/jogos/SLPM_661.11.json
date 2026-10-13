@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.11",
+  "cover": {
+    "path": "PS2/SLPM_661.11/SLPM_661.11_COV.png",
+    "kind": "cover",
+    "bytes": 110640,
+    "width": 192,
+    "height": 272,
+    "sha256": "e5e934b7de4aba0d57a7050e468c06a89802ed0523db205787d429760fd51b0f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66111.jpg"
+    },
+    "gameId": "SLPM_661.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fushigi no Umi no Nadia - Dennou Battle - Miss Nautilus Contest"
+}

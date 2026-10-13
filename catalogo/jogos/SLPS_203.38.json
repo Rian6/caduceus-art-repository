@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.38",
+  "cover": {
+    "path": "PS2/SLPS_203.38/SLPS_203.38_COV.png",
+    "kind": "cover",
+    "bytes": 101736,
+    "width": 192,
+    "height": 272,
+    "sha256": "f44b1ee2f9ee39774ee61791645f273b1912dbd0f1e12512d1f436d4c06a88e0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20338.jpg"
+    },
+    "gameId": "SLPS_203.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLOTTER UP MANIA 3 - DENSETSU FUKKATSU! NEW PEGASUS SPECIAL"
+}

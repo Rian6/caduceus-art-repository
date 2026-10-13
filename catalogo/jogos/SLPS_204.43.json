@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.43",
+  "cover": {
+    "path": "PS2/SLPS_204.43/SLPS_204.43_COV.png",
+    "kind": "cover",
+    "bytes": 110238,
+    "width": 192,
+    "height": 272,
+    "sha256": "8d4a4bb6b5db0462af6e40b46add57a56302a781a31dfc245f6c9ac166bd4392",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20443.jpg"
+    },
+    "gameId": "SLPS_204.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Blocks Club with Bumpy Trot"
+}

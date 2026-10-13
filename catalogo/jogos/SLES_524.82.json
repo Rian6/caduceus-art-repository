@@ -1,0 +1,91 @@
+{
+  "id": "SLES_524.82",
+  "cover": {
+    "path": "PS2/SLES_524.82/SLES_524.82_COV.png",
+    "kind": "cover",
+    "bytes": 102299,
+    "width": 192,
+    "height": 272,
+    "sha256": "a02b6b31f186428d1dcef9c209f9e5cf1d2c0238c466f3a7e10dc7248e70eebe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52482.jpg"
+    },
+    "gameId": "SLES_524.82"
+  },
+  "disc": {
+    "path": "PS2/SLES_524.82/SLES_524.82_ICO.png",
+    "kind": "disc",
+    "bytes": 11204,
+    "width": 128,
+    "height": 128,
+    "sha256": "919e119ad4fdd04ad56d605518a240adb055c35b643231e703e68b1572a40100",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_524.82_ICO.png"
+    },
+    "gameId": "SLES_524.82"
+  },
+  "background": {
+    "path": "PS2/SLES_524.82/SLES_524.82_BG.png",
+    "kind": "background",
+    "bytes": 160027,
+    "width": 640,
+    "height": 480,
+    "sha256": "f6d95db3412f445bb35673d473b8af131cc79b337924bdb4375bce887f0228aa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_524.82/SLES_524.82_BG_00.png"
+    },
+    "gameId": "SLES_524.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_524.82/SLES_524.82_BG.png",
+      "kind": "background",
+      "bytes": 160027,
+      "width": 640,
+      "height": 480,
+      "sha256": "f6d95db3412f445bb35673d473b8af131cc79b337924bdb4375bce887f0228aa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.82/SLES_524.82_BG_00.png"
+      },
+      "gameId": "SLES_524.82"
+    },
+    {
+      "path": "PS2/SLES_524.82/SLES_524.82_BG_01.png",
+      "kind": "background",
+      "bytes": 210109,
+      "width": 640,
+      "height": 480,
+      "sha256": "0675296387b910bc65e1f45adb516279b9c04eaf433ed4a3ac66e0991fa58f2b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.82/SLES_524.82_BG_01.png"
+      },
+      "gameId": "SLES_524.82"
+    },
+    {
+      "path": "PS2/SLES_524.82/SLES_524.82_BG_02.png",
+      "kind": "background",
+      "bytes": 163032,
+      "width": 640,
+      "height": 480,
+      "sha256": "26167adef10821b3b5ab21746b474731e6a2231ae68a0516f91016200b66433e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.82/SLES_524.82_BG_02.png"
+      },
+      "gameId": "SLES_524.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Steel Dragon EX"
+}

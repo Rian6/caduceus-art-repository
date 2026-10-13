@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.34",
+  "cover": {
+    "path": "PS2/SCPS_110.34/SCPS_110.34_COV.png",
+    "kind": "cover",
+    "bytes": 116975,
+    "width": 192,
+    "height": 272,
+    "sha256": "428fd3e1a804e59629cca96a55f10155d404e917499ce3071337cb6c81472149",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11034.jpg"
+    },
+    "gameId": "SCPS_110.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GACHAROKU 2 - KONDO WA SEKAI ISSHUU YO!!"
+}

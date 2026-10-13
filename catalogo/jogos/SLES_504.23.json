@@ -1,0 +1,51 @@
+{
+  "id": "SLES_504.23",
+  "cover": {
+    "path": "PS2/SLES_504.23/SLES_504.23_COV.png",
+    "kind": "cover",
+    "bytes": 82867,
+    "width": 192,
+    "height": 272,
+    "sha256": "2e938fa3dec56e9f1b8dbcaeda03730857697179de14ef974df610bafce4654c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50423.jpg"
+    },
+    "gameId": "SLES_504.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_504.23/SLES_504.23_BG.png",
+    "kind": "background",
+    "bytes": 164186,
+    "width": 640,
+    "height": 480,
+    "sha256": "9af310bf156ffd5b139dfbade59800e060b7171fa8c200a312d1b570759ac507",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_504.23/SLES_504.23_BG_00.png"
+    },
+    "gameId": "SLES_504.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_504.23/SLES_504.23_BG.png",
+      "kind": "background",
+      "bytes": 164186,
+      "width": 640,
+      "height": 480,
+      "sha256": "9af310bf156ffd5b139dfbade59800e060b7171fa8c200a312d1b570759ac507",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.23/SLES_504.23_BG_00.png"
+      },
+      "gameId": "SLES_504.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "F1 2001"
+}

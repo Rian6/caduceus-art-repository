@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.52",
+  "cover": {
+    "path": "PS2/SLPS_202.52/SLPS_202.52_COV.png",
+    "kind": "cover",
+    "bytes": 105518,
+    "width": 192,
+    "height": 272,
+    "sha256": "99da9d4079ba947f7a1955d4a047875e020c8bf8ad1431c7ad1ca6bedd7e5cf3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20252.jpg"
+    },
+    "gameId": "SLPS_202.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shogi World Champion Gekihashi 2"
+}

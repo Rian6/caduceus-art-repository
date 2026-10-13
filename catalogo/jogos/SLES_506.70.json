@@ -1,0 +1,25 @@
+{
+  "id": "SLES_506.70",
+  "cover": {
+    "path": "PS2/SLES_506.70/SLES_506.70_COV.png",
+    "kind": "cover",
+    "bytes": 86997,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e20d37a1ad34b9b6160a035f8affb841896de995705d64344999b66e16738d4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50670.jpg"
+    },
+    "gameId": "SLES_506.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winter X-Games Snowboarding 2"
+}

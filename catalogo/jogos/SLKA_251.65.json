@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.65",
+  "cover": {
+    "path": "PS2/SLKA_251.65/SLKA_251.65_COV.png",
+    "kind": "cover",
+    "bytes": 93687,
+    "width": 192,
+    "height": 272,
+    "sha256": "31495d577b8e3ea387549fb083dacb3076ba26e71ebc909630aec47e38cc1145",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25165.jpg"
+    },
+    "gameId": "SLKA_251.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam Seed Destiny - Rengou vs Z.A.F.T. II Plus"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_511.96",
+  "cover": {
+    "path": "PS2/SLES_511.96/SLES_511.96_COV.png",
+    "kind": "cover",
+    "bytes": 91956,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f9dc9db178a14b9016fd93a60d577d1e9dc46c271411d9dcb4ec40815ea8222",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51196.jpg"
+    },
+    "gameId": "SLES_511.96"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_511.96/SLES_511.96_BG.png",
+    "kind": "background",
+    "bytes": 177753,
+    "width": 640,
+    "height": 480,
+    "sha256": "3e652e3f217b50744447fde4f52f6281c995692a9fa01e246be8f7ffab47fffa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_511.96/SLES_511.96_BG_00.png"
+    },
+    "gameId": "SLES_511.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_511.96/SLES_511.96_BG.png",
+      "kind": "background",
+      "bytes": 177753,
+      "width": 640,
+      "height": 480,
+      "sha256": "3e652e3f217b50744447fde4f52f6281c995692a9fa01e246be8f7ffab47fffa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.96/SLES_511.96_BG_00.png"
+      },
+      "gameId": "SLES_511.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harry Potter e la Camera dei Segreti"
+}

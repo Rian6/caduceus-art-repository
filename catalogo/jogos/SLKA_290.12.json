@@ -1,0 +1,24 @@
+{
+  "id": "SLKA_290.12",
+  "cover": {
+    "path": "PS2/SLKA_290.12/SLKA_290.12_COV.png",
+    "kind": "cover",
+    "bytes": 91199,
+    "width": 192,
+    "height": 272,
+    "sha256": "0f19a508e8b5007f5b6f21744799ed1d8fcaba626fbd4b9a18ae6b3902f37c38",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-29012.jpg"
+    },
+    "gameId": "SLKA_290.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

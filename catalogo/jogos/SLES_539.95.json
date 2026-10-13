@@ -1,0 +1,25 @@
+{
+  "id": "SLES_539.95",
+  "cover": {
+    "path": "PS2/SLES_539.95/SLES_539.95_COV.png",
+    "kind": "cover",
+    "bytes": 106399,
+    "width": 192,
+    "height": 272,
+    "sha256": "025e2d8960ebf4a56c0eb5c1755715f351b876d0b785c1844a4d92067269bf0f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53995.jpg"
+    },
+    "gameId": "SLES_539.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Championship Poker 2 featuring Howard Lederer"
+}

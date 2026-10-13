@@ -1,0 +1,64 @@
+{
+  "id": "SLES_534.80",
+  "cover": {
+    "path": "PS2/SLES_534.80/SLES_534.80_COV.png",
+    "kind": "cover",
+    "bytes": 75143,
+    "width": 192,
+    "height": 272,
+    "sha256": "1fa43042b37007e7e90e140cb94734b805610f6df0dd96c11a803f6e42f02936",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53480.jpg"
+    },
+    "gameId": "SLES_534.80"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_534.80/SLES_534.80_BG.png",
+    "kind": "background",
+    "bytes": 198640,
+    "width": 640,
+    "height": 480,
+    "sha256": "34af6993eacdc61f56a8b09283f07319a587a2cf1df880f20d40b26f66cf21c0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.80/SLES_534.80_BG_00.png"
+    },
+    "gameId": "SLES_534.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.80/SLES_534.80_BG.png",
+      "kind": "background",
+      "bytes": 198640,
+      "width": 640,
+      "height": 480,
+      "sha256": "34af6993eacdc61f56a8b09283f07319a587a2cf1df880f20d40b26f66cf21c0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.80/SLES_534.80_BG_00.png"
+      },
+      "gameId": "SLES_534.80"
+    },
+    {
+      "path": "PS2/SLES_534.80/SLES_534.80_BG_01.png",
+      "kind": "background",
+      "bytes": 271283,
+      "width": 640,
+      "height": 480,
+      "sha256": "5990edde700eca36e1a4bf5a0b80c1144a5d704f698d01a8b94affd121d7edd8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.80/SLES_534.80_BG_01.png"
+      },
+      "gameId": "SLES_534.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARVEST MOON - A WONDERFUL LIFE - SPECIAL EDITION"
+}

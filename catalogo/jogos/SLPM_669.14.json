@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.14",
+  "cover": {
+    "path": "PS2/SLPM_669.14/SLPM_669.14_COV.png",
+    "kind": "cover",
+    "bytes": 96298,
+    "width": 192,
+    "height": 272,
+    "sha256": "c03d207e65c13577344e78214e0f2d020114c904a259b2db8847e9c4f60c38fb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66914.jpg"
+    },
+    "gameId": "SLPM_669.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HOUKAGO WA GIN NO SHIRABE"
+}

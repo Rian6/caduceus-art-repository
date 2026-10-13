@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.13",
+  "cover": {
+    "path": "PS2/SLKA_250.13/SLKA_250.13_COV.png",
+    "kind": "cover",
+    "bytes": 97214,
+    "width": 192,
+    "height": 272,
+    "sha256": "02d94e932a482294eb7b443ce349e3863596ecaf9d86473a80719f0481958afa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25013.jpg"
+    },
+    "gameId": "SLKA_250.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Devil May Cry 2 (Disc 2) (Lucia)"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SLES_529.99",
+  "cover": {
+    "path": "PS2/SLES_529.99/SLES_529.99_COV.png",
+    "kind": "cover",
+    "bytes": 105228,
+    "width": 192,
+    "height": 272,
+    "sha256": "da74c473f48e58681ffc8d4be9e5cd18baedc33228495906b6cd6e50c77d5927",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52999.jpg"
+    },
+    "gameId": "SLES_529.99"
+  },
+  "disc": {
+    "path": "PS2/SLES_529.99/SLES_529.99_ICO.png",
+    "kind": "disc",
+    "bytes": 12683,
+    "width": 128,
+    "height": 128,
+    "sha256": "f74222ade0ac27ac91be677217141d1c8f91c295e0c1766ed19fcb73f06e72e3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_529.99_ICO.png"
+    },
+    "gameId": "SLES_529.99"
+  },
+  "background": {
+    "path": "PS2/SLES_529.99/SLES_529.99_BG.png",
+    "kind": "background",
+    "bytes": 142993,
+    "width": 640,
+    "height": 480,
+    "sha256": "40c83ce812463ea89cb3ea800eb4875600502ecb79164ed8538b1522a62a8616",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.99/SLES_529.99_BG_00.png"
+    },
+    "gameId": "SLES_529.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.99/SLES_529.99_BG.png",
+      "kind": "background",
+      "bytes": 142993,
+      "width": 640,
+      "height": 480,
+      "sha256": "40c83ce812463ea89cb3ea800eb4875600502ecb79164ed8538b1522a62a8616",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.99/SLES_529.99_BG_00.png"
+      },
+      "gameId": "SLES_529.99"
+    },
+    {
+      "path": "PS2/SLES_529.99/SLES_529.99_BG_01.png",
+      "kind": "background",
+      "bytes": 188284,
+      "width": 640,
+      "height": 480,
+      "sha256": "29d5f33a9ebb5af25bf592e5ba9b4437f014941725caaaf39544fef3b8b187d6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.99/SLES_529.99_BG_01.png"
+      },
+      "gameId": "SLES_529.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RC Toy Machines"
+}

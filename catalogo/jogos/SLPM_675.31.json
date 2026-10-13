@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_675.31",
+  "cover": {
+    "path": "PS2/SLPM_675.31/SLPM_675.31_COV.png",
+    "kind": "cover",
+    "bytes": 58634,
+    "width": 192,
+    "height": 272,
+    "sha256": "da93cfd6365c7fdbdc8a4b3bf8410155594029f9f9bf9afab827fbb903a3e8ab",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_675.31/SLPM_675.31_COV.png"
+    },
+    "gameId": "SLPM_675.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_675.31/SLPM_675.31_BG.png",
+    "kind": "background",
+    "bytes": 202148,
+    "width": 640,
+    "height": 480,
+    "sha256": "c05d45b0926d1a49bdcf463623b58e7d0fc43b8e4f61d6de323cfa7c0c8ad263",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_675.31/SLPM_675.31_BG_00.png"
+    },
+    "gameId": "SLPM_675.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_675.31/SLPM_675.31_BG.png",
+      "kind": "background",
+      "bytes": 202148,
+      "width": 640,
+      "height": 480,
+      "sha256": "c05d45b0926d1a49bdcf463623b58e7d0fc43b8e4f61d6de323cfa7c0c8ad263",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_675.31/SLPM_675.31_BG_00.png"
+      },
+      "gameId": "SLPM_675.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kessen II"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.46",
+  "cover": {
+    "path": "PS2/SLPS_202.46/SLPS_202.46_COV.png",
+    "kind": "cover",
+    "bytes": 103492,
+    "width": 192,
+    "height": 272,
+    "sha256": "9594a65db7bc4f3e7ce9d112075fb3f141034d29dc1bd5715a67ae297f102346",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20246.jpg"
+    },
+    "gameId": "SLPS_202.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rally Shox"
+}

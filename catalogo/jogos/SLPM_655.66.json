@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.66",
+  "cover": {
+    "path": "PS2/SLPM_655.66/SLPM_655.66_COV.png",
+    "kind": "cover",
+    "bytes": 95051,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea29fddd500e77097db6736e5391decf164c995cf73ff1068da499979af463ce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65566.jpg"
+    },
+    "gameId": "SLPM_655.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KIN'IRO NO KORUDA - LA CORDA D'ORO [PREMIUM BOX]"
+}

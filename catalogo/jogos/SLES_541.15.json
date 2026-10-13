@@ -1,0 +1,64 @@
+{
+  "id": "SLES_541.15",
+  "cover": {
+    "path": "PS2/SLES_541.15/SLES_541.15_COV.png",
+    "kind": "cover",
+    "bytes": 100871,
+    "width": 192,
+    "height": 272,
+    "sha256": "22f5140d818d592dd0daf42ce5ccc6787bc859b2ad73a38a1444714c989bc23f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54115.jpg"
+    },
+    "gameId": "SLES_541.15"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.15/SLES_541.15_BG.png",
+    "kind": "background",
+    "bytes": 194204,
+    "width": 640,
+    "height": 480,
+    "sha256": "b2ead90a4d494a4c5fbe29ebe089b438dee753fea63c19649412d5397f843179",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.15/SLES_541.15_BG_00.png"
+    },
+    "gameId": "SLES_541.15"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.15/SLES_541.15_BG.png",
+      "kind": "background",
+      "bytes": 194204,
+      "width": 640,
+      "height": 480,
+      "sha256": "b2ead90a4d494a4c5fbe29ebe089b438dee753fea63c19649412d5397f843179",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.15/SLES_541.15_BG_00.png"
+      },
+      "gameId": "SLES_541.15"
+    },
+    {
+      "path": "PS2/SLES_541.15/SLES_541.15_BG_01.png",
+      "kind": "background",
+      "bytes": 214986,
+      "width": 640,
+      "height": 480,
+      "sha256": "0cd92d571d7a534a9789b6a577838d3c7d2e9c219cdde6de07fd32c81642aad8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.15/SLES_541.15_BG_01.png"
+      },
+      "gameId": "SLES_541.15"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Delta Force: Black Hawk Down - Team Sabre"
+}

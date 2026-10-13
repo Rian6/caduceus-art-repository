@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.61",
+  "cover": {
+    "path": "PS2/SLPM_627.61/SLPM_627.61_COV.png",
+    "kind": "cover",
+    "bytes": 103510,
+    "width": 192,
+    "height": 272,
+    "sha256": "b178d71c742f1d514e5686ce1b9774d6293de4b8ac0b89465593d3e420b117e8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62761.jpg"
+    },
+    "gameId": "SLPM_627.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Choro Q HG 2 (Atlus Best Collection)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_744.03",
+  "cover": {
+    "path": "PS2/SLPM_744.03/SLPM_744.03_COV.png",
+    "kind": "cover",
+    "bytes": 77256,
+    "width": 192,
+    "height": 272,
+    "sha256": "46199e489a724e665b60bd9073fdffe21e94d353b6e0ea6ff44e2682cfb525df",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74403.jpg"
+    },
+    "gameId": "SLPM_744.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DENSHA DE GO! SHINKANSEN - SANYOU SHINKANSEN-HEN [PLAYSTATION 2 THE BEST]"
+}

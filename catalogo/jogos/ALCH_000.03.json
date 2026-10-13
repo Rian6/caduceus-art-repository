@@ -1,0 +1,25 @@
+{
+  "id": "ALCH_000.03",
+  "cover": {
+    "path": "PS2/ALCH_000.03/ALCH_000.03_COV.png",
+    "kind": "cover",
+    "bytes": 105478,
+    "width": 192,
+    "height": 272,
+    "sha256": "fcd6e2d2a3713a49ea9858f1ae0dbf8e9bce68f3b7481f916a378ac09f740d2e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/ALCH-00003.jpg"
+    },
+    "gameId": "ALCH_000.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Chocolat: Maid Cafe Curio (Deluxe Edition)"
+}

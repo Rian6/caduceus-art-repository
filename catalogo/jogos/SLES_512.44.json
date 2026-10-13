@@ -1,0 +1,90 @@
+{
+  "id": "SLES_512.44",
+  "cover": {
+    "path": "PS2/SLES_512.44/SLES_512.44_COV.png",
+    "kind": "cover",
+    "bytes": 91508,
+    "width": 192,
+    "height": 272,
+    "sha256": "ae4cc7d802125638015646535f7a0e9e0d005938186f2e09faf732b3cc9df3d7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51244.jpg"
+    },
+    "gameId": "SLES_512.44"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_512.44/SLES_512.44_BG.png",
+    "kind": "background",
+    "bytes": 182164,
+    "width": 640,
+    "height": 480,
+    "sha256": "db002e66eae8b232de421ce4725a15b6bae78594e0ac0dbe5b914c387bda62e1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_512.44/SLES_512.44_BG_00.png"
+    },
+    "gameId": "SLES_512.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_512.44/SLES_512.44_BG.png",
+      "kind": "background",
+      "bytes": 182164,
+      "width": 640,
+      "height": 480,
+      "sha256": "db002e66eae8b232de421ce4725a15b6bae78594e0ac0dbe5b914c387bda62e1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.44/SLES_512.44_BG_00.png"
+      },
+      "gameId": "SLES_512.44"
+    },
+    {
+      "path": "PS2/SLES_512.44/SLES_512.44_BG_01.png",
+      "kind": "background",
+      "bytes": 124797,
+      "width": 640,
+      "height": 480,
+      "sha256": "b4a71e3b45beb0bb0ae6df58bc1b2159ce3b1d2f394dc2e3e53fd74850fe19ea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.44/SLES_512.44_BG_01.png"
+      },
+      "gameId": "SLES_512.44"
+    },
+    {
+      "path": "PS2/SLES_512.44/SLES_512.44_BG_02.png",
+      "kind": "background",
+      "bytes": 122657,
+      "width": 640,
+      "height": 480,
+      "sha256": "4052718f83ac117dc44f3dd5562275c310c3067e314319a8e2fcbc68e8b48d8f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.44/SLES_512.44_BG_02.png"
+      },
+      "gameId": "SLES_512.44"
+    },
+    {
+      "path": "PS2/SLES_512.44/SLES_512.44_BG_03.png",
+      "kind": "background",
+      "bytes": 183082,
+      "width": 640,
+      "height": 480,
+      "sha256": "692f655339d55327d305ff8016581c8ee02f3ca361ea992b69aa402325bfe30e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.44/SLES_512.44_BG_03.png"
+      },
+      "gameId": "SLES_512.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "XIII"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLES_503.97",
+  "cover": {
+    "path": "PS2/SLES_503.97/SLES_503.97_COV.png",
+    "kind": "cover",
+    "bytes": 83634,
+    "width": 192,
+    "height": 272,
+    "sha256": "2a8f0145f2a979ecde7d2890dd454b6d1e5b1104a12f06a7e4dcf12ef5e2ac4b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50397.jpg"
+    },
+    "gameId": "SLES_503.97"
+  },
+  "disc": {
+    "path": "PS2/SLES_503.97/SLES_503.97_ICO.png",
+    "kind": "disc",
+    "bytes": 10403,
+    "width": 128,
+    "height": 128,
+    "sha256": "c7a6a62e584f32e5873b31ad962307884fd84794e466892bc50002eb2308093d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_503.97_ICO.png"
+    },
+    "gameId": "SLES_503.97"
+  },
+  "background": {
+    "path": "PS2/SLES_503.97/SLES_503.97_BG.png",
+    "kind": "background",
+    "bytes": 196422,
+    "width": 640,
+    "height": 480,
+    "sha256": "28fd2f1322e5761413e9e1a006149c95b65f13f2a6f9bc33e7b966a1bb7b8118",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_503.97/SLES_503.97_BG_00.png"
+    },
+    "gameId": "SLES_503.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_503.97/SLES_503.97_BG.png",
+      "kind": "background",
+      "bytes": 196422,
+      "width": 640,
+      "height": 480,
+      "sha256": "28fd2f1322e5761413e9e1a006149c95b65f13f2a6f9bc33e7b966a1bb7b8118",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.97/SLES_503.97_BG_00.png"
+      },
+      "gameId": "SLES_503.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Prisoner of War"
+}

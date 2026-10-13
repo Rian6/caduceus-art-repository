@@ -1,0 +1,103 @@
+{
+  "id": "SCES_507.60",
+  "cover": {
+    "path": "PS2/SCES_507.60/SCES_507.60_COV.png",
+    "kind": "cover",
+    "bytes": 90426,
+    "width": 192,
+    "height": 272,
+    "sha256": "e9d6a7b6f2d4f6882d502c9b1c7e2466fc63e8d4d7e40fe1564722b8e2eb5335",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50760.jpg"
+    },
+    "gameId": "SCES_507.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_507.60/SCES_507.60_BG.png",
+    "kind": "background",
+    "bytes": 202511,
+    "width": 640,
+    "height": 480,
+    "sha256": "3daec1a9da8844a5187732fcd3347980d721b0784de357202eb937feb3f971e0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_507.60/SCES_507.60_BG_00.png"
+    },
+    "gameId": "SCES_507.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_507.60/SCES_507.60_BG.png",
+      "kind": "background",
+      "bytes": 202511,
+      "width": 640,
+      "height": 480,
+      "sha256": "3daec1a9da8844a5187732fcd3347980d721b0784de357202eb937feb3f971e0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_507.60/SCES_507.60_BG_00.png"
+      },
+      "gameId": "SCES_507.60"
+    },
+    {
+      "path": "PS2/SCES_507.60/SCES_507.60_BG_01.png",
+      "kind": "background",
+      "bytes": 159094,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9ce967a4e1b602ddb7a6232f644fa22211b1c3230075552e39a8898b13c6d73",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_507.60/SCES_507.60_BG_01.png"
+      },
+      "gameId": "SCES_507.60"
+    },
+    {
+      "path": "PS2/SCES_507.60/SCES_507.60_BG_02.png",
+      "kind": "background",
+      "bytes": 182283,
+      "width": 640,
+      "height": 480,
+      "sha256": "61b1f87e0057ca9b56e9d8b38480feaef15bf25e2cd3d3eb2e033316a7583686",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_507.60/SCES_507.60_BG_02.png"
+      },
+      "gameId": "SCES_507.60"
+    },
+    {
+      "path": "PS2/SCES_507.60/SCES_507.60_BG_03.png",
+      "kind": "background",
+      "bytes": 182749,
+      "width": 640,
+      "height": 480,
+      "sha256": "df34fbe6d26ddb1af5a203ec70b2b515de39d027135f0f6137a6d613ac0b7758",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_507.60/SCES_507.60_BG_03.png"
+      },
+      "gameId": "SCES_507.60"
+    },
+    {
+      "path": "PS2/SCES_507.60/SCES_507.60_BG_04.png",
+      "kind": "background",
+      "bytes": 201253,
+      "width": 640,
+      "height": 480,
+      "sha256": "523970005f24cc589996ff31e273cf49df2699f798acde33dee064fc22e667e0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_507.60/SCES_507.60_BG_04.png"
+      },
+      "gameId": "SCES_507.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ICO"
+}

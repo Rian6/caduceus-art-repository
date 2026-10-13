@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.08",
+  "cover": {
+    "path": "PS2/SLKA_253.08/SLKA_253.08_COV.png",
+    "kind": "cover",
+    "bytes": 66274,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1cae3a47ce5237c76ef2d61b76ddb2594af29fc6703c05fd54a261fe8b934f8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.08/SLKA_253.08_COV.png"
+    },
+    "gameId": "SLKA_253.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Full Spectrum Warrior: Ten Hammers"
+}

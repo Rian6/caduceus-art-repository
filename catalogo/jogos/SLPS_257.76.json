@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.76",
+  "cover": {
+    "path": "PS2/SLPS_257.76/SLPS_257.76_COV.png",
+    "kind": "cover",
+    "bytes": 97360,
+    "width": 192,
+    "height": 272,
+    "sha256": "8e6be567ce78f5ded5275de2cbb2c37bf1f32c3372828647c50e7d3d28fc3cae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25776.jpg"
+    },
+    "gameId": "SLPS_257.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 12 - Pachinko Ultraman"
+}

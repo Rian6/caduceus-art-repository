@@ -1,0 +1,39 @@
+{
+  "id": "SLES_551.52",
+  "cover": {
+    "path": "PS2/SLES_551.52/SLES_551.52_COV.png",
+    "kind": "cover",
+    "bytes": 86659,
+    "width": 192,
+    "height": 272,
+    "sha256": "7bbd77d9bc81fb06c3626b062dd5d1f40bab739d69a73e9267383bd99e175ecb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55152.jpg"
+    },
+    "gameId": "SLES_551.52"
+  },
+  "disc": {
+    "path": "PS2/SLES_551.52/SLES_551.52_ICO.png",
+    "kind": "disc",
+    "bytes": 11969,
+    "width": 128,
+    "height": 128,
+    "sha256": "9287741fb72df2006f8ea34b575329bce5907484c51f69fa497eba14b6d557a1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_551.52_ICO.png"
+    },
+    "gameId": "SLES_551.52"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Skyscraper"
+}

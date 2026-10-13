@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.74",
+  "cover": {
+    "path": "PS2/SLPM_669.74/SLPM_669.74_COV.png",
+    "kind": "cover",
+    "bytes": 105382,
+    "width": 192,
+    "height": 272,
+    "sha256": "862e3faf94900aa6f3a6c8e1eb8f463ec9e7d8ec63edc3e2b24e9e509c47ee39",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66974.jpg"
+    },
+    "gameId": "SLPM_669.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Slotter Up Core 10: Mach GoGoGo2"
+}

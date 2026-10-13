@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_975.89",
+  "cover": {
+    "path": "PS2/SCUS_975.89/SCUS_975.89_COV.png",
+    "kind": "cover",
+    "bytes": 77850,
+    "width": 192,
+    "height": 272,
+    "sha256": "ce524a46aef8fc14277c83b9cce160a4a6d3e552dd737e649bee70b9e0f45e5d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97589.jpg"
+    },
+    "gameId": "SCUS_975.89"
+  },
+  "disc": {
+    "path": "PS2/SCUS_975.89/SCUS_975.89_ICO.png",
+    "kind": "disc",
+    "bytes": 33544,
+    "width": 256,
+    "height": 256,
+    "sha256": "86fd5e44f038b9498aee7c65068431a7da98112cc7a0089629fa7dc03ac52a6e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_975.89_ICO.png"
+    },
+    "gameId": "SCUS_975.89"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA '08 featuring The Life V3"
+}

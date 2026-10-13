@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_210.00",
+  "cover": {
+    "path": "PS2/SLUS_210.00/SLUS_210.00_COV.png",
+    "kind": "cover",
+    "bytes": 97898,
+    "width": 192,
+    "height": 272,
+    "sha256": "9ef2d3d7b1065bb47074741cd1bbe6e731caab711a8fc4004ec3f40c0a24206e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21000.jpg"
+    },
+    "gameId": "SLUS_210.00"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.00/SLUS_210.00_ICO.png",
+    "kind": "disc",
+    "bytes": 31343,
+    "width": 256,
+    "height": 256,
+    "sha256": "dddc619af2d5c9ed1668a0787c03d3eb8f831dd54b49068dc9baf34a4de7e598",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.00_ICO.png"
+    },
+    "gameId": "SLUS_210.00"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.00/SLUS_210.00_BG.png",
+    "kind": "background",
+    "bytes": 179162,
+    "width": 640,
+    "height": 480,
+    "sha256": "0b4df7aa176df340ab3b3a546cf81dfea8f84d6e8f0e9709d6dcd7d4a384285b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.00/SLUS_210.00_BG_00.png"
+    },
+    "gameId": "SLUS_210.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.00/SLUS_210.00_BG.png",
+      "kind": "background",
+      "bytes": 179162,
+      "width": 640,
+      "height": 480,
+      "sha256": "0b4df7aa176df340ab3b3a546cf81dfea8f84d6e8f0e9709d6dcd7d4a384285b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.00/SLUS_210.00_BG_00.png"
+      },
+      "gameId": "SLUS_210.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Madden NFL 2005"
+}

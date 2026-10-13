@@ -1,0 +1,39 @@
+{
+  "id": "SLES_513.91",
+  "cover": {
+    "path": "PS2/SLES_513.91/SLES_513.91_COV.png",
+    "kind": "cover",
+    "bytes": 89996,
+    "width": 192,
+    "height": 272,
+    "sha256": "7d2cc37443304fb47073c0233cd19187751d341ed0fca905cf4ea993c1314e1d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51391.jpg"
+    },
+    "gameId": "SLES_513.91"
+  },
+  "disc": {
+    "path": "PS2/SLES_513.91/SLES_513.91_ICO.png",
+    "kind": "disc",
+    "bytes": 11251,
+    "width": 128,
+    "height": 128,
+    "sha256": "595d137c9b193a835ea89cf33b4787530d47d0f089e03f275bed7ee748e8ad9f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_513.91_ICO.png"
+    },
+    "gameId": "SLES_513.91"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RTL Skijumping 2003"
+}

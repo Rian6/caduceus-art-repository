@@ -1,0 +1,65 @@
+{
+  "id": "SLES_550.35",
+  "cover": {
+    "path": "PS2/SLES_550.35/SLES_550.35_COV.png",
+    "kind": "cover",
+    "bytes": 101254,
+    "width": 192,
+    "height": 272,
+    "sha256": "15eae2a13be59002d04ad3b56e1c0a09e0d00e1c42495aed33e7da9a2ada5c15",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55035.jpg"
+    },
+    "gameId": "SLES_550.35"
+  },
+  "disc": {
+    "path": "PS2/SLES_550.35/SLES_550.35_ICO.png",
+    "kind": "disc",
+    "bytes": 10452,
+    "width": 128,
+    "height": 128,
+    "sha256": "bc06683f12c3ec81186455684e22e59046152b644949a75bfd24d263cde0b72f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_550.35_ICO.png"
+    },
+    "gameId": "SLES_550.35"
+  },
+  "background": {
+    "path": "PS2/SLES_550.35/SLES_550.35_BG.png",
+    "kind": "background",
+    "bytes": 139179,
+    "width": 640,
+    "height": 480,
+    "sha256": "82eb37ce09df70f0735b7b0f2eb8f32274eeb420c54e8359a016cb72911c6602",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.35/SLES_550.35_BG_00.png"
+    },
+    "gameId": "SLES_550.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.35/SLES_550.35_BG.png",
+      "kind": "background",
+      "bytes": 139179,
+      "width": 640,
+      "height": 480,
+      "sha256": "82eb37ce09df70f0735b7b0f2eb8f32274eeb420c54e8359a016cb72911c6602",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.35/SLES_550.35_BG_00.png"
+      },
+      "gameId": "SLES_550.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Asterix at the Olympic Games"
+}

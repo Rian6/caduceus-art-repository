@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.83",
+  "cover": {
+    "path": "PS2/SLPS_256.83/SLPS_256.83_COV.png",
+    "kind": "cover",
+    "bytes": 95407,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e6bd0fa99e659547d918b9a16053800cbf90639f1b04e98573ef165bef940b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25683.jpg"
+    },
+    "gameId": "SLPS_256.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PONCOTSU ROMAN DAIKATSUGEKI - BUMPY TROT [IREM COLLECTION]"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_537.47",
+  "cover": {
+    "path": "PS2/SLES_537.47/SLES_537.47_COV.png",
+    "kind": "cover",
+    "bytes": 108683,
+    "width": 192,
+    "height": 272,
+    "sha256": "51a88833639a264024e2c37d34afdd9d952488be7c01dc75d0acf3c86335f96f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53747.jpg"
+    },
+    "gameId": "SLES_537.47"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.47/SLES_537.47_BG.png",
+    "kind": "background",
+    "bytes": 128251,
+    "width": 640,
+    "height": 480,
+    "sha256": "361494495e48b2d0cd525d19db2aea64d393f9c8f5a54ad7fc5855e4443c33eb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.47/SLES_537.47_BG_00.png"
+    },
+    "gameId": "SLES_537.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.47/SLES_537.47_BG.png",
+      "kind": "background",
+      "bytes": 128251,
+      "width": 640,
+      "height": 480,
+      "sha256": "361494495e48b2d0cd525d19db2aea64d393f9c8f5a54ad7fc5855e4443c33eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.47/SLES_537.47_BG_00.png"
+      },
+      "gameId": "SLES_537.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ed, Edd, 'n Eddy - The Misadventure"
+}

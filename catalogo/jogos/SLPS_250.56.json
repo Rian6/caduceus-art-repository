@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.56",
+  "cover": {
+    "path": "PS2/SLPS_250.56/SLPS_250.56_COV.png",
+    "kind": "cover",
+    "bytes": 83694,
+    "width": 192,
+    "height": 272,
+    "sha256": "8953ae68bfbcef7a61499e9ea866c56f9b22b54c603ec3fa434379f7d6974ea3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25056.jpg"
+    },
+    "gameId": "SLPS_250.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GOLF NAVIGATOR VOL.4"
+}

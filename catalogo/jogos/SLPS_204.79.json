@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.79",
+  "cover": {
+    "path": "PS2/SLPS_204.79/SLPS_204.79_COV.png",
+    "kind": "cover",
+    "bytes": 80855,
+    "width": 192,
+    "height": 272,
+    "sha256": "612205175aa3b7d1d4b66e84c71376774ecaff400be67d817569343459c307f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20479.jpg"
+    },
+    "gameId": "SLPS_204.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sokudoku Master"
+}

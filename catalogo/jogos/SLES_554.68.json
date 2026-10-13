@@ -1,0 +1,25 @@
+{
+  "id": "SLES_554.68",
+  "cover": {
+    "path": "PS2/SLES_554.68/SLES_554.68_COV.png",
+    "kind": "cover",
+    "bytes": 101454,
+    "width": 192,
+    "height": 272,
+    "sha256": "d29d93af03225bec44c52023ee0b8155187a80fe89e3fa603a0d1d5da8c4fb29",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55468.jpg"
+    },
+    "gameId": "SLES_554.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DORA SAVES THE SNOW PRINCESS"
+}

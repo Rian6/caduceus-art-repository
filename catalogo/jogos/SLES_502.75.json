@@ -1,0 +1,25 @@
+{
+  "id": "SLES_502.75",
+  "cover": {
+    "path": "PS2/SLES_502.75/SLES_502.75_COV.png",
+    "kind": "cover",
+    "bytes": 92113,
+    "width": 192,
+    "height": 272,
+    "sha256": "52fcc721b0db1709b7eda71d2df9131dfc1e9713626d3c923c4f548db8eb9541",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50275.jpg"
+    },
+    "gameId": "SLES_502.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EA SPORTS RUGBY"
+}

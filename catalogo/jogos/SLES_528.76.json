@@ -1,0 +1,64 @@
+{
+  "id": "SLES_528.76",
+  "cover": {
+    "path": "PS2/SLES_528.76/SLES_528.76_COV.png",
+    "kind": "cover",
+    "bytes": 94194,
+    "width": 192,
+    "height": 272,
+    "sha256": "2a6f74173ea6d173b873e2a395a686a88e5c8e9d9c677326df8200175d2c4a97",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52876.jpg"
+    },
+    "gameId": "SLES_528.76"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.76/SLES_528.76_BG.png",
+    "kind": "background",
+    "bytes": 130015,
+    "width": 640,
+    "height": 480,
+    "sha256": "998b0e4d5a3fd3f2485f2609e33e5112134d07be3ecb5ea2d3c73273ee662940",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.76/SLES_528.76_BG_00.png"
+    },
+    "gameId": "SLES_528.76"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.76/SLES_528.76_BG.png",
+      "kind": "background",
+      "bytes": 130015,
+      "width": 640,
+      "height": 480,
+      "sha256": "998b0e4d5a3fd3f2485f2609e33e5112134d07be3ecb5ea2d3c73273ee662940",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.76/SLES_528.76_BG_00.png"
+      },
+      "gameId": "SLES_528.76"
+    },
+    {
+      "path": "PS2/SLES_528.76/SLES_528.76_BG_01.png",
+      "kind": "background",
+      "bytes": 160334,
+      "width": 640,
+      "height": 480,
+      "sha256": "07465c05b2685cdee178554789448b74c18fef95c6fa2cabea9020fe5de90135",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.76/SLES_528.76_BG_01.png"
+      },
+      "gameId": "SLES_528.76"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters 2000-2001"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_541.67",
+  "cover": {
+    "path": "PS2/SLES_541.67/SLES_541.67_COV.png",
+    "kind": "cover",
+    "bytes": 111550,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d0c73345befebd70538e271d19dfae00825cadaffa80c43d128c39fd743d15d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54167.jpg"
+    },
+    "gameId": "SLES_541.67"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.67/SLES_541.67_BG.png",
+    "kind": "background",
+    "bytes": 239218,
+    "width": 640,
+    "height": 480,
+    "sha256": "e9b1f8bcbaaa96a430892235f09b47ba8cc55e41d4a79882ad493a255094fbf9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.67/SLES_541.67_BG_00.png"
+    },
+    "gameId": "SLES_541.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.67/SLES_541.67_BG.png",
+      "kind": "background",
+      "bytes": 239218,
+      "width": 640,
+      "height": 480,
+      "sha256": "e9b1f8bcbaaa96a430892235f09b47ba8cc55e41d4a79882ad493a255094fbf9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.67/SLES_541.67_BG_00.png"
+      },
+      "gameId": "SLES_541.67"
+    },
+    {
+      "path": "PS2/SLES_541.67/SLES_541.67_BG_01.png",
+      "kind": "background",
+      "bytes": 185845,
+      "width": 640,
+      "height": 480,
+      "sha256": "a7be399dfda61317dca4304d6e87a7b66a87bdf7a00cd71ba9e56b8c9c5e2985",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.67/SLES_541.67_BG_01.png"
+      },
+      "gameId": "SLES_541.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CALL OF DUTY 3"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_525.33",
+  "cover": {
+    "path": "PS2/SLES_525.33/SLES_525.33_COV.png",
+    "kind": "cover",
+    "bytes": 82123,
+    "width": 192,
+    "height": 272,
+    "sha256": "c1307500aec32f42eed01f81aba9ed1fa4a0cf55b3155ae2852cf6d1fd023116",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52533.jpg"
+    },
+    "gameId": "SLES_525.33"
+  },
+  "disc": {
+    "path": "PS2/SLES_525.33/SLES_525.33_ICO.png",
+    "kind": "disc",
+    "bytes": 11113,
+    "width": 128,
+    "height": 128,
+    "sha256": "96ef5872a222c298807a32066d9f0a57d43b3030015281ff71b0a91f6fb14717",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_525.33_ICO.png"
+    },
+    "gameId": "SLES_525.33"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zoo Puzzle"
+}

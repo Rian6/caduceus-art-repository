@@ -1,0 +1,24 @@
+{
+  "id": "GUST_000.09",
+  "cover": {
+    "path": "PS2/GUST_000.09/GUST_000.09_COV.png",
+    "kind": "cover",
+    "bytes": 88590,
+    "width": 192,
+    "height": 272,
+    "sha256": "fe760bff40f0c7d6dedda9ae42a71ecb4dbc5147a411d552ad9953cccb6d397f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/GUST-00009.jpg"
+    },
+    "gameId": "GUST_000.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

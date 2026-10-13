@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_206.11",
+  "cover": {
+    "path": "PS2/SLUS_206.11/SLUS_206.11_COV.png",
+    "kind": "cover",
+    "bytes": 88993,
+    "width": 192,
+    "height": 272,
+    "sha256": "0a694690bb67535ab211ec4b4533c79c301288525c08416b44a561d83dba01e5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20611.jpg"
+    },
+    "gameId": "SLUS_206.11"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.11/SLUS_206.11_ICO.png",
+    "kind": "disc",
+    "bytes": 28822,
+    "width": 256,
+    "height": 256,
+    "sha256": "22f8822de4817db90e4d1c7e8412cb8249f1bd1fd2973462c831c140e317239e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.11_ICO.png"
+    },
+    "gameId": "SLUS_206.11"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Series Baseball 2K3"
+}

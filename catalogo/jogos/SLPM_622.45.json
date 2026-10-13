@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.45",
+  "cover": {
+    "path": "PS2/SLPM_622.45/SLPM_622.45_COV.png",
+    "kind": "cover",
+    "bytes": 92650,
+    "width": 192,
+    "height": 272,
+    "sha256": "d22bde640886e63de03ee6ceb101d700bc5a657c4458511e83aae5c6d124e729",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62245.jpg"
+    },
+    "gameId": "SLPM_622.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yuusei Kara no Buttai X - Episode II"
+}

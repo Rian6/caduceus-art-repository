@@ -1,0 +1,90 @@
+{
+  "id": "SCES_514.63",
+  "cover": {
+    "path": "PS2/SCES_514.63/SCES_514.63_COV.png",
+    "kind": "cover",
+    "bytes": 91478,
+    "width": 192,
+    "height": 272,
+    "sha256": "36f887e15cb4cb5cb98f4960cb9395d950bf9dc09c1a233bdf988c5c665a3ccb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51463.jpg"
+    },
+    "gameId": "SCES_514.63"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_514.63/SCES_514.63_BG.png",
+    "kind": "background",
+    "bytes": 188078,
+    "width": 640,
+    "height": 480,
+    "sha256": "2d61d1e3f27c58470a8a734a8fc02601e38ef10a55754686dabb3361212d0397",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_514.63/SCES_514.63_BG_00.png"
+    },
+    "gameId": "SCES_514.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_514.63/SCES_514.63_BG.png",
+      "kind": "background",
+      "bytes": 188078,
+      "width": 640,
+      "height": 480,
+      "sha256": "2d61d1e3f27c58470a8a734a8fc02601e38ef10a55754686dabb3361212d0397",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_514.63/SCES_514.63_BG_00.png"
+      },
+      "gameId": "SCES_514.63"
+    },
+    {
+      "path": "PS2/SCES_514.63/SCES_514.63_BG_01.png",
+      "kind": "background",
+      "bytes": 164506,
+      "width": 640,
+      "height": 480,
+      "sha256": "99a549fc64f334be1c6278b6d466e58ff19599d274fdcff1095586c2078bbde4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_514.63/SCES_514.63_BG_01.png"
+      },
+      "gameId": "SCES_514.63"
+    },
+    {
+      "path": "PS2/SCES_514.63/SCES_514.63_BG_02.png",
+      "kind": "background",
+      "bytes": 233548,
+      "width": 640,
+      "height": 480,
+      "sha256": "ae342475c9b8dcbf7be27c9fcef7e9b29163b2707621ccf7c334b8da530c57df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_514.63/SCES_514.63_BG_02.png"
+      },
+      "gameId": "SCES_514.63"
+    },
+    {
+      "path": "PS2/SCES_514.63/SCES_514.63_BG_03.png",
+      "kind": "background",
+      "bytes": 218691,
+      "width": 640,
+      "height": 480,
+      "sha256": "14d99ccdbb0e8f7db910ec398bf365b3e605f977970f06eb0e02c193394c83ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_514.63/SCES_514.63_BG_03.png"
+      },
+      "gameId": "SCES_514.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GHOSTHUNTER"
+}

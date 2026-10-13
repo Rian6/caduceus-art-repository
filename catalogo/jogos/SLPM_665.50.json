@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_665.50",
+  "cover": {
+    "path": "PS2/SLPM_665.50/SLPM_665.50_COV.png",
+    "kind": "cover",
+    "bytes": 82947,
+    "width": 192,
+    "height": 272,
+    "sha256": "41142e6ba0925e4ea2f743e75ded2f0eae25bec00f902eb6f23ff079a07614a8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66550.jpg"
+    },
+    "gameId": "SLPM_665.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_665.50/SLPM_665.50_BG.png",
+    "kind": "background",
+    "bytes": 239378,
+    "width": 640,
+    "height": 480,
+    "sha256": "120a8f2bacf339b1e1c1b211e813c3fab231d03c94d5598a0203a0f47d6917e6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_665.50/SLPM_665.50_BG_00.png"
+    },
+    "gameId": "SLPM_665.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_665.50/SLPM_665.50_BG.png",
+      "kind": "background",
+      "bytes": 239378,
+      "width": 640,
+      "height": 480,
+      "sha256": "120a8f2bacf339b1e1c1b211e813c3fab231d03c94d5598a0203a0f47d6917e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_665.50/SLPM_665.50_BG_00.png"
+      },
+      "gameId": "SLPM_665.50"
+    },
+    {
+      "path": "PS2/SLPM_665.50/SLPM_665.50_BG_01.png",
+      "kind": "background",
+      "bytes": 226296,
+      "width": 640,
+      "height": 480,
+      "sha256": "c2c5dbc69631c9a5c4d304c5de781d03a351ae0fa9325dc1211f1f90357dc80d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_665.50/SLPM_665.50_BG_01.png"
+      },
+      "gameId": "SLPM_665.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "God Hand"
+}

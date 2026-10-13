@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.61",
+  "cover": {
+    "path": "PS2/SLES_526.61/SLES_526.61_COV.png",
+    "kind": "cover",
+    "bytes": 94173,
+    "width": 192,
+    "height": 272,
+    "sha256": "77e537b6c103b68131ab8965b14c6671416508f7bdc1b96b7c4ff0b60eaf76d5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52661.jpg"
+    },
+    "gameId": "SLES_526.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - Ajax Amsterdam"
+}

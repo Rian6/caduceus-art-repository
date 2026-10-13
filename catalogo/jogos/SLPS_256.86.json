@@ -1,0 +1,117 @@
+{
+  "id": "SLPS_256.86",
+  "cover": {
+    "path": "PS2/SLPS_256.86/SLPS_256.86_COV.png",
+    "kind": "cover",
+    "bytes": 108477,
+    "width": 192,
+    "height": 272,
+    "sha256": "be97b24b175126cdb7c53fee626d51e4f0fa0c5347f1f7885985f6d8c182244a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25686.jpg"
+    },
+    "gameId": "SLPS_256.86"
+  },
+  "disc": {
+    "path": "PS2/SLPS_256.86/SLPS_256.86_ICO.png",
+    "kind": "disc",
+    "bytes": 11722,
+    "width": 128,
+    "height": 128,
+    "sha256": "1d5b490bbad7cf9e587cdb46d1c2e8e72c882a8ddc81b8b3a66797b72abc8af7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_256.86_ICO.png"
+    },
+    "gameId": "SLPS_256.86"
+  },
+  "background": {
+    "path": "PS2/SLPS_256.86/SLPS_256.86_BG.png",
+    "kind": "background",
+    "bytes": 223281,
+    "width": 640,
+    "height": 480,
+    "sha256": "20a17567e5c759b11ff9a9aa5a2f5ac0aa0a5e753d291840c381624888122cc8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.86/SLPS_256.86_BG_00.png"
+    },
+    "gameId": "SLPS_256.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.86/SLPS_256.86_BG.png",
+      "kind": "background",
+      "bytes": 223281,
+      "width": 640,
+      "height": 480,
+      "sha256": "20a17567e5c759b11ff9a9aa5a2f5ac0aa0a5e753d291840c381624888122cc8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.86/SLPS_256.86_BG_00.png"
+      },
+      "gameId": "SLPS_256.86"
+    },
+    {
+      "path": "PS2/SLPS_256.86/SLPS_256.86_BG_01.png",
+      "kind": "background",
+      "bytes": 221019,
+      "width": 640,
+      "height": 480,
+      "sha256": "a69d598a5bf2a4103dbfc88354b4c6926884d2c5b22f46cb40d6874ed4d79071",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.86/SLPS_256.86_BG_01.png"
+      },
+      "gameId": "SLPS_256.86"
+    },
+    {
+      "path": "PS2/SLPS_256.86/SLPS_256.86_BG_02.png",
+      "kind": "background",
+      "bytes": 194822,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b092efd42b016c4cf79f86543413314c23a274c29562646d0eda0f7a1cb2fed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.86/SLPS_256.86_BG_02.png"
+      },
+      "gameId": "SLPS_256.86"
+    },
+    {
+      "path": "PS2/SLPS_256.86/SLPS_256.86_BG_03.png",
+      "kind": "background",
+      "bytes": 229534,
+      "width": 640,
+      "height": 480,
+      "sha256": "7203399e4f3ac1a6daab2b5530a60210c7f23c2719cb6459ce5cd274d6f60c0f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.86/SLPS_256.86_BG_03.png"
+      },
+      "gameId": "SLPS_256.86"
+    },
+    {
+      "path": "PS2/SLPS_256.86/SLPS_256.86_BG_04.png",
+      "kind": "background",
+      "bytes": 230653,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e09cf8f96c587ae6cc5536e5cd23667fbf80bf2db2b7274ea93aa827b46ec1e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.86/SLPS_256.86_BG_04.png"
+      },
+      "gameId": "SLPS_256.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JoJo no Kimyou na Bouken - Phantom Blood"
+}

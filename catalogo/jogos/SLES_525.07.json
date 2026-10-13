@@ -1,0 +1,90 @@
+{
+  "id": "SLES_525.07",
+  "cover": {
+    "path": "PS2/SLES_525.07/SLES_525.07_COV.png",
+    "kind": "cover",
+    "bytes": 80653,
+    "width": 192,
+    "height": 272,
+    "sha256": "872174b1ac2e9aaf341259bbece077bb125459cb7a73367698ef544576b90f4e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52507.jpg"
+    },
+    "gameId": "SLES_525.07"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.07/SLES_525.07_BG.png",
+    "kind": "background",
+    "bytes": 219203,
+    "width": 640,
+    "height": 480,
+    "sha256": "4f93e13f7dea7ba13efe14a86ef77614e3888ff842100406bdd474f458ef269c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.07/SLES_525.07_BG_00.png"
+    },
+    "gameId": "SLES_525.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.07/SLES_525.07_BG.png",
+      "kind": "background",
+      "bytes": 219203,
+      "width": 640,
+      "height": 480,
+      "sha256": "4f93e13f7dea7ba13efe14a86ef77614e3888ff842100406bdd474f458ef269c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.07/SLES_525.07_BG_00.png"
+      },
+      "gameId": "SLES_525.07"
+    },
+    {
+      "path": "PS2/SLES_525.07/SLES_525.07_BG_01.png",
+      "kind": "background",
+      "bytes": 238271,
+      "width": 640,
+      "height": 480,
+      "sha256": "b7fa6fbbd1cfe5f2373ee4c708af296a4c08a3562ce8ec8ad780865360f39579",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.07/SLES_525.07_BG_01.png"
+      },
+      "gameId": "SLES_525.07"
+    },
+    {
+      "path": "PS2/SLES_525.07/SLES_525.07_BG_02.png",
+      "kind": "background",
+      "bytes": 135609,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a7520fed915ffa2c2699ccdacc4dfde4ef211daf0c03d71d9741e98753860ea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.07/SLES_525.07_BG_02.png"
+      },
+      "gameId": "SLES_525.07"
+    },
+    {
+      "path": "PS2/SLES_525.07/SLES_525.07_BG_03.png",
+      "kind": "background",
+      "bytes": 234558,
+      "width": 640,
+      "height": 480,
+      "sha256": "a34b6c0d89a8cf7121dbb979a33e19c55a50fe7094a11f47f9542734ff99f7cb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.07/SLES_525.07_BG_03.png"
+      },
+      "gameId": "SLES_525.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEF JAM - FIGHT FOR NY"
+}

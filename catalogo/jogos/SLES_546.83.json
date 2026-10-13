@@ -1,0 +1,64 @@
+{
+  "id": "SLES_546.83",
+  "cover": {
+    "path": "PS2/SLES_546.83/SLES_546.83_COV.png",
+    "kind": "cover",
+    "bytes": 103544,
+    "width": 192,
+    "height": 272,
+    "sha256": "4425389388f148db48da7d1e19579b7aebdb3cf152fb3f26cea899d3f92899db",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54683.jpg"
+    },
+    "gameId": "SLES_546.83"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_546.83/SLES_546.83_BG.png",
+    "kind": "background",
+    "bytes": 168660,
+    "width": 640,
+    "height": 480,
+    "sha256": "f15ea834cfdffbc55bcde0e0630c69642df36097eb212ca27ee56eb2788311e1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.83/SLES_546.83_BG_00.png"
+    },
+    "gameId": "SLES_546.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_546.83/SLES_546.83_BG.png",
+      "kind": "background",
+      "bytes": 168660,
+      "width": 640,
+      "height": 480,
+      "sha256": "f15ea834cfdffbc55bcde0e0630c69642df36097eb212ca27ee56eb2788311e1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.83/SLES_546.83_BG_00.png"
+      },
+      "gameId": "SLES_546.83"
+    },
+    {
+      "path": "PS2/SLES_546.83/SLES_546.83_BG_01.png",
+      "kind": "background",
+      "bytes": 236118,
+      "width": 640,
+      "height": 480,
+      "sha256": "40ebc2841238bf6674ae93527b4178bebfc2019b4f39f4afd0d3d2ce9fcb18ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.83/SLES_546.83_BG_01.png"
+      },
+      "gameId": "SLES_546.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Medal of Honor: Vanguard"
+}

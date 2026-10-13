@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.37",
+  "cover": {
+    "path": "PS2/SLAJ_250.37/SLAJ_250.37_COV.png",
+    "kind": "cover",
+    "bytes": 111720,
+    "width": 192,
+    "height": 272,
+    "sha256": "b1bc4b6cb26e1523ba348373e0b03c0334761d84a61dc1d3fcd1bfbbed29c84e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25037.jpg"
+    },
+    "gameId": "SLAJ_250.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ASTRO BOY - TETSU WAN ATOM"
+}

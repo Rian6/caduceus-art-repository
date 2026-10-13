@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_210.48",
+  "cover": {
+    "path": "PS2/SLUS_210.48/SLUS_210.48_COV.png",
+    "kind": "cover",
+    "bytes": 104598,
+    "width": 192,
+    "height": 272,
+    "sha256": "da394f8dfa223cda933a9f0f3388b92082a0a6c139b96ad56e41339fa11e8bc1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21048.jpg"
+    },
+    "gameId": "SLUS_210.48"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.48/SLUS_210.48_ICO.png",
+    "kind": "disc",
+    "bytes": 32934,
+    "width": 256,
+    "height": 256,
+    "sha256": "de3b95d09c6eaa24c11f0e9a3605b5967e3cb68eaeaa2345c9d996a989fbd2ab",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.48_ICO.png"
+    },
+    "gameId": "SLUS_210.48"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.48/SLUS_210.48_BG.png",
+    "kind": "background",
+    "bytes": 112650,
+    "width": 640,
+    "height": 480,
+    "sha256": "fe2cc0362f17f84c79e510141cb48c0de3714afc43306871b5fd4cda09573d5b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.48/SLUS_210.48_BG_00.png"
+    },
+    "gameId": "SLUS_210.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.48/SLUS_210.48_BG.png",
+      "kind": "background",
+      "bytes": 112650,
+      "width": 640,
+      "height": 480,
+      "sha256": "fe2cc0362f17f84c79e510141cb48c0de3714afc43306871b5fd4cda09573d5b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.48/SLUS_210.48_BG_00.png"
+      },
+      "gameId": "SLUS_210.48"
+    },
+    {
+      "path": "PS2/SLUS_210.48/SLUS_210.48_BG_01.png",
+      "kind": "background",
+      "bytes": 190399,
+      "width": 640,
+      "height": 480,
+      "sha256": "21aceff1682ee46f101c4d6d3b1ff4398d664b4c85961deddc819d8e5d9ecdb0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.48/SLUS_210.48_BG_01.png"
+      },
+      "gameId": "SLUS_210.48"
+    },
+    {
+      "path": "PS2/SLUS_210.48/SLUS_210.48_BG_02.png",
+      "kind": "background",
+      "bytes": 167897,
+      "width": 640,
+      "height": 480,
+      "sha256": "67852ec7ee7eeebe04f7f57c445fb3f14f1e50c692ef867bd1f8ec5be54b6d8d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.48/SLUS_210.48_BG_02.png"
+      },
+      "gameId": "SLUS_210.48"
+    },
+    {
+      "path": "PS2/SLUS_210.48/SLUS_210.48_BG_03.png",
+      "kind": "background",
+      "bytes": 153953,
+      "width": 640,
+      "height": 480,
+      "sha256": "0e7085a20408ff9de0d39318f0a033748a36c34b62866a66f16c9593eb803b7b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.48/SLUS_210.48_BG_03.png"
+      },
+      "gameId": "SLUS_210.48"
+    },
+    {
+      "path": "PS2/SLUS_210.48/SLUS_210.48_BG_04.png",
+      "kind": "background",
+      "bytes": 131126,
+      "width": 640,
+      "height": 480,
+      "sha256": "07117d249a195de9aa273fea134d26e4269fa5c1b4f7d7a723d3a0a17901fe07",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.48/SLUS_210.48_BG_04.png"
+      },
+      "gameId": "SLUS_210.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EVIL DEAD - REGENERATION"
+}

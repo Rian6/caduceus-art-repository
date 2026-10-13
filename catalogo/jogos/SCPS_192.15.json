@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_192.15",
+  "cover": {
+    "path": "PS2/SCPS_192.15/SCPS_192.15_COV.png",
+    "kind": "cover",
+    "bytes": 95147,
+    "width": 192,
+    "height": 272,
+    "sha256": "467454d29479ef39e0cd9e7c53d3b0623a432ca8bccc85a7961273c1ea64c8b7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19215.jpg"
+    },
+    "gameId": "SCPS_192.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DARK CHRONICLE [PLAYSTATION 2 THE BEST]"
+}

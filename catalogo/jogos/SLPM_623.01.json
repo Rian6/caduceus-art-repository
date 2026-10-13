@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.01",
+  "cover": {
+    "path": "PS2/SLPM_623.01/SLPM_623.01_COV.png",
+    "kind": "cover",
+    "bytes": 77229,
+    "width": 192,
+    "height": 272,
+    "sha256": "9805ce08d14ed23831bcd3f2c235be354e7c55167156577dd24b7c08ca1e3091",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62301.jpg"
+    },
+    "gameId": "SLPM_623.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Aerobics Revolution"
+}

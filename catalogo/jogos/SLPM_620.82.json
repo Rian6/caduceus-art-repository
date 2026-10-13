@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.82",
+  "cover": {
+    "path": "PS2/SLPM_620.82/SLPM_620.82_COV.png",
+    "kind": "cover",
+    "bytes": 94286,
+    "width": 192,
+    "height": 272,
+    "sha256": "3906af2a47597751efc6089e6de715085dd71b9f9a0a60fae2d2509b3f000cfe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62082.jpg"
+    },
+    "gameId": "SLPM_620.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nihon Pro Yakyuu Kikou Kounin - Pro Yakyuu Japan 2001"
+}

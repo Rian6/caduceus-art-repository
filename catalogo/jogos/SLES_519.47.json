@@ -1,0 +1,77 @@
+{
+  "id": "SLES_519.47",
+  "cover": {
+    "path": "PS2/SLES_519.47/SLES_519.47_COV.png",
+    "kind": "cover",
+    "bytes": 76458,
+    "width": 192,
+    "height": 272,
+    "sha256": "91134571d31846c43bf268e99b97a621043ceadf11ab4bc42c30a3c7a08f92f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51947.jpg"
+    },
+    "gameId": "SLES_519.47"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_519.47/SLES_519.47_BG.png",
+    "kind": "background",
+    "bytes": 186161,
+    "width": 640,
+    "height": 480,
+    "sha256": "65ed0850c6b4e86a682d67630456043b3676c8240ed4a20312f0052e4a75bbbb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.47/SLES_519.47_BG_00.png"
+    },
+    "gameId": "SLES_519.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.47/SLES_519.47_BG.png",
+      "kind": "background",
+      "bytes": 186161,
+      "width": 640,
+      "height": 480,
+      "sha256": "65ed0850c6b4e86a682d67630456043b3676c8240ed4a20312f0052e4a75bbbb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.47/SLES_519.47_BG_00.png"
+      },
+      "gameId": "SLES_519.47"
+    },
+    {
+      "path": "PS2/SLES_519.47/SLES_519.47_BG_01.png",
+      "kind": "background",
+      "bytes": 169377,
+      "width": 640,
+      "height": 480,
+      "sha256": "cdaee0d2ac9298699a0a81defd63aa1dd97ce3dc2f052a432fee1f19ece282ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.47/SLES_519.47_BG_01.png"
+      },
+      "gameId": "SLES_519.47"
+    },
+    {
+      "path": "PS2/SLES_519.47/SLES_519.47_BG_02.png",
+      "kind": "background",
+      "bytes": 213082,
+      "width": 640,
+      "height": 480,
+      "sha256": "5e70f68b316c82a50f420aec8720258514dbb5ec148e4daa89ad0e821b21192e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.47/SLES_519.47_BG_02.png"
+      },
+      "gameId": "SLES_519.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN NFL Football"
+}

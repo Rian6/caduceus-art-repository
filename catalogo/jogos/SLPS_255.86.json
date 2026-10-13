@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_255.86",
+  "cover": {
+    "path": "PS2/SLPS_255.86/SLPS_255.86_COV.png",
+    "kind": "cover",
+    "bytes": 104078,
+    "width": 192,
+    "height": 272,
+    "sha256": "367ed7c00cc92275b58ac9f4feba8292aecebc890840ef0e9c53d7bc76114dc8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25586.jpg"
+    },
+    "gameId": "SLPS_255.86"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_255.86/SLPS_255.86_BG.png",
+    "kind": "background",
+    "bytes": 233526,
+    "width": 640,
+    "height": 480,
+    "sha256": "3c50212b618670c61be435136a83373bfa6dc81efbc44636f00c0f72560f9bdb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.86/SLPS_255.86_BG_00.png"
+    },
+    "gameId": "SLPS_255.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.86/SLPS_255.86_BG.png",
+      "kind": "background",
+      "bytes": 233526,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c50212b618670c61be435136a83373bfa6dc81efbc44636f00c0f72560f9bdb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.86/SLPS_255.86_BG_00.png"
+      },
+      "gameId": "SLPS_255.86"
+    },
+    {
+      "path": "PS2/SLPS_255.86/SLPS_255.86_BG_01.png",
+      "kind": "background",
+      "bytes": 173637,
+      "width": 640,
+      "height": 480,
+      "sha256": "c152e71b8524997076a1766b81de5d51b169301d17f2651ad23ec436509da002",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.86/SLPS_255.86_BG_01.png"
+      },
+      "gameId": "SLPS_255.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TALES OF THE ABYSS"
+}

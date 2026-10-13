@@ -1,0 +1,25 @@
+{
+  "id": "SLES_502.60",
+  "cover": {
+    "path": "PS2/SLES_502.60/SLES_502.60_COV.png",
+    "kind": "cover",
+    "bytes": 74850,
+    "width": 192,
+    "height": 272,
+    "sha256": "742337f62283314f259ddc0c5e861d46eca9287ae2094b678e311f84cd036d8b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50260.jpg"
+    },
+    "gameId": "SLES_502.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HIDDEN INVASION"
+}

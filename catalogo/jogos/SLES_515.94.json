@@ -1,0 +1,51 @@
+{
+  "id": "SLES_515.94",
+  "cover": {
+    "path": "PS2/SLES_515.94/SLES_515.94_COV.png",
+    "kind": "cover",
+    "bytes": 96581,
+    "width": 192,
+    "height": 272,
+    "sha256": "f44cd6afb766c4b1a76c1750903b810fb2c5e72ba84c0f4ab7f42822374c75c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51594.jpg"
+    },
+    "gameId": "SLES_515.94"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_515.94/SLES_515.94_BG.png",
+    "kind": "background",
+    "bytes": 208835,
+    "width": 640,
+    "height": 480,
+    "sha256": "13b994097f00d21e39c8c9956bda32b95e656ee11a18597d8f1b9345cb11727e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_515.94/SLES_515.94_BG_00.png"
+    },
+    "gameId": "SLES_515.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_515.94/SLES_515.94_BG.png",
+      "kind": "background",
+      "bytes": 208835,
+      "width": 640,
+      "height": 480,
+      "sha256": "13b994097f00d21e39c8c9956bda32b95e656ee11a18597d8f1b9345cb11727e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.94/SLES_515.94_BG_00.png"
+      },
+      "gameId": "SLES_515.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Piglet's Big Game"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.00",
+  "cover": {
+    "path": "PS2/SLKA_252.00/SLKA_252.00_COV.png",
+    "kind": "cover",
+    "bytes": 84586,
+    "width": 192,
+    "height": 272,
+    "sha256": "d3f964dc5acb8a4b3d61655073b70d5989ce440901ab2e04f58a9084c8621788",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25200.jpg"
+    },
+    "gameId": "SLKA_252.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SSX 3 [BIG HIT VERSION]"
+}

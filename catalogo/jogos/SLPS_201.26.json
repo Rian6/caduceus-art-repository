@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.26",
+  "cover": {
+    "path": "PS2/SLPS_201.26/SLPS_201.26_COV.png",
+    "kind": "cover",
+    "bytes": 53898,
+    "width": 192,
+    "height": 272,
+    "sha256": "9f976952669c7e78d59f44fc7d7c5baa225220d3c1b95bc34e84f8ec8f968066",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_201.26/SLPS_201.26_COV.png"
+    },
+    "gameId": "SLPS_201.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Street Mahjong Trans-Asakami 2 (Super Value 2800)"
+}

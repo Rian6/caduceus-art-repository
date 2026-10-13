@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_650.78",
+  "cover": {
+    "path": "PS2/SLPM_650.78/SLPM_650.78_COV.png",
+    "kind": "cover",
+    "bytes": 82365,
+    "width": 192,
+    "height": 272,
+    "sha256": "e80d4cdbe8d2d2f687d3cf34179477472daddb133666e9c6e2216bd12c202a05",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65078.jpg"
+    },
+    "gameId": "SLPM_650.78"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_650.78/SLPM_650.78_BG.png",
+    "kind": "background",
+    "bytes": 134430,
+    "width": 640,
+    "height": 480,
+    "sha256": "2ab62efcad4cb6f6a4e3d3b60b20e33e72778aeb77148490b03ddf4511ee7c4a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_650.78/SLPM_650.78_BG_00.png"
+    },
+    "gameId": "SLPM_650.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_650.78/SLPM_650.78_BG.png",
+      "kind": "background",
+      "bytes": 134430,
+      "width": 640,
+      "height": 480,
+      "sha256": "2ab62efcad4cb6f6a4e3d3b60b20e33e72778aeb77148490b03ddf4511ee7c4a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.78/SLPM_650.78_BG_00.png"
+      },
+      "gameId": "SLPM_650.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL GEAR SOLID 2 - SONS OF LIBERTY"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.19",
+  "cover": {
+    "path": "PS2/SCAJ_201.19/SCAJ_201.19_COV.png",
+    "kind": "cover",
+    "bytes": 90376,
+    "width": 192,
+    "height": 272,
+    "sha256": "23cdc0a8a654621ebf22141d7efaf1156af987f958366f357ae3b3928ce20746",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20119.jpg"
+    },
+    "gameId": "SCAJ_201.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gladiator: Road to Freedom"
+}

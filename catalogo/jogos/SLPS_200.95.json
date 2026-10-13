@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.95",
+  "cover": {
+    "path": "PS2/SLPS_200.95/SLPS_200.95_COV.png",
+    "kind": "cover",
+    "bytes": 88358,
+    "width": 192,
+    "height": 272,
+    "sha256": "933c7c54396c82e6ae15087df4321f1b4d8869c459faec32cd0439ff03084997",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20095.jpg"
+    },
+    "gameId": "SLPS_200.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Knockout Kings 2001"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.15",
+  "cover": {
+    "path": "PS2/SLPM_661.15/SLPM_661.15_COV.png",
+    "kind": "cover",
+    "bytes": 91502,
+    "width": 192,
+    "height": 272,
+    "sha256": "dac950ec9c4e3840ab110540e5d0be7d22f17514f2f3a05129837f0de6c7d2b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66115.jpg"
+    },
+    "gameId": "SLPM_661.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MIZU NO SENRITSU"
+}

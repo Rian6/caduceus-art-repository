@@ -1,0 +1,25 @@
+{
+  "id": "SLES_532.21",
+  "cover": {
+    "path": "PS2/SLES_532.21/SLES_532.21_COV.png",
+    "kind": "cover",
+    "bytes": 89583,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ac1ca7f01228a00fdf460ea206b4479acbcd47957527d2fc5e6cdba123bd14e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53221.jpg"
+    },
+    "gameId": "SLES_532.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "L'Entraineur 5"
+}

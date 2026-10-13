@@ -1,0 +1,25 @@
+{
+  "id": "SLES_508.62",
+  "cover": {
+    "path": "PS2/SLES_508.62/SLES_508.62_COV.png",
+    "kind": "cover",
+    "bytes": 100068,
+    "width": 192,
+    "height": 272,
+    "sha256": "cfdf3ec7285bb1864f6627b44dea0108b159ded962764fee6f34f383ff670be5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50862.jpg"
+    },
+    "gameId": "SLES_508.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Street Hoops"
+}

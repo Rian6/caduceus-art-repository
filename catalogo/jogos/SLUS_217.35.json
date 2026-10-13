@@ -1,0 +1,130 @@
+{
+  "id": "SLUS_217.35",
+  "cover": {
+    "path": "PS2/SLUS_217.35/SLUS_217.35_COV.png",
+    "kind": "cover",
+    "bytes": 111670,
+    "width": 192,
+    "height": 272,
+    "sha256": "f1e7f986fe03bdc185ce45bc3c2de1ba92a813f2ecd9163f379fddd23d434a34",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21735.jpg"
+    },
+    "gameId": "SLUS_217.35"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.35/SLUS_217.35_ICO.png",
+    "kind": "disc",
+    "bytes": 36093,
+    "width": 256,
+    "height": 256,
+    "sha256": "728ed2ab8722f148f7231c8239e6b1bfa837b21fce901a3aae1da593b204c9fb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.35_ICO.png"
+    },
+    "gameId": "SLUS_217.35"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.35/SLUS_217.35_BG.png",
+    "kind": "background",
+    "bytes": 183833,
+    "width": 640,
+    "height": 480,
+    "sha256": "2db402341384013e6e2160b973259be17b3d03c87b0f90437c9306a7e94f44df",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.35/SLUS_217.35_BG_00.png"
+    },
+    "gameId": "SLUS_217.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.35/SLUS_217.35_BG.png",
+      "kind": "background",
+      "bytes": 183833,
+      "width": 640,
+      "height": 480,
+      "sha256": "2db402341384013e6e2160b973259be17b3d03c87b0f90437c9306a7e94f44df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.35/SLUS_217.35_BG_00.png"
+      },
+      "gameId": "SLUS_217.35"
+    },
+    {
+      "path": "PS2/SLUS_217.35/SLUS_217.35_BG_01.png",
+      "kind": "background",
+      "bytes": 192480,
+      "width": 640,
+      "height": 480,
+      "sha256": "dabde9ac8a9c3bf2225c1361cb84abd01e9e9b81adb26bfc52d05b37924eb7a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.35/SLUS_217.35_BG_01.png"
+      },
+      "gameId": "SLUS_217.35"
+    },
+    {
+      "path": "PS2/SLUS_217.35/SLUS_217.35_BG_02.png",
+      "kind": "background",
+      "bytes": 188624,
+      "width": 640,
+      "height": 480,
+      "sha256": "d19c4278a67f19c7dfc1a97c1a164ed95b4db87648031297f182b5af6f044eb9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.35/SLUS_217.35_BG_02.png"
+      },
+      "gameId": "SLUS_217.35"
+    },
+    {
+      "path": "PS2/SLUS_217.35/SLUS_217.35_BG_03.png",
+      "kind": "background",
+      "bytes": 191736,
+      "width": 640,
+      "height": 480,
+      "sha256": "42f365c3fa5a38cedad6b6d75482da3bdd143574b3354dd020d8d09cf2505b2e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.35/SLUS_217.35_BG_03.png"
+      },
+      "gameId": "SLUS_217.35"
+    },
+    {
+      "path": "PS2/SLUS_217.35/SLUS_217.35_BG_04.png",
+      "kind": "background",
+      "bytes": 168211,
+      "width": 640,
+      "height": 480,
+      "sha256": "de4e00bccf9df0efad1a50c89fb0def4a136e21ea36b01321fb1280d649701ec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.35/SLUS_217.35_BG_04.png"
+      },
+      "gameId": "SLUS_217.35"
+    },
+    {
+      "path": "PS2/SLUS_217.35/SLUS_217.35_BG_05.png",
+      "kind": "background",
+      "bytes": 194257,
+      "width": 640,
+      "height": 480,
+      "sha256": "4d13da268b3956f60d48f071b2da8040edccef18c7cb9b60283b8b1c0ef7f8c0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.35/SLUS_217.35_BG_05.png"
+      },
+      "gameId": "SLUS_217.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mana Khemia - Alchemists of Al-Revis"
+}

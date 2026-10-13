@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.65",
+  "cover": {
+    "path": "PS2/SLPS_204.65/SLPS_204.65_COV.png",
+    "kind": "cover",
+    "bytes": 95322,
+    "width": 192,
+    "height": 272,
+    "sha256": "3aaa00d298ba41c2df24d9d406e5897d341aa8c3354b6816f874452ee2c5f632",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20465.jpg"
+    },
+    "gameId": "SLPS_204.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.100 - The Otokotachi no Kijuuhouza"
+}

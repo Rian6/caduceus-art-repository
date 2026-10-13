@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.34",
+  "cover": {
+    "path": "PS2/SLPS_258.34/SLPS_258.34_COV.png",
+    "kind": "cover",
+    "bytes": 83919,
+    "width": 192,
+    "height": 272,
+    "sha256": "11893d054b49246ff30ec17b7ff179b86bc7308cab3a6101beb31debb7dca29d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25834.jpg"
+    },
+    "gameId": "SLPS_258.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Transformers: The Game"
+}

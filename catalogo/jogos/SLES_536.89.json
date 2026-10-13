@@ -1,0 +1,25 @@
+{
+  "id": "SLES_536.89",
+  "cover": {
+    "path": "PS2/SLES_536.89/SLES_536.89_COV.png",
+    "kind": "cover",
+    "bytes": 88171,
+    "width": 192,
+    "height": 272,
+    "sha256": "bfb866e29501479085e65ccc8129367b59d0662dc6a4fd593efe239bca853b2e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53689.jpg"
+    },
+    "gameId": "SLES_536.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Poker Tour"
+}

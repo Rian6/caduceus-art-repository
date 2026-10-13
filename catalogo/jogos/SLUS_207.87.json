@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_207.87",
+  "cover": {
+    "path": "PS2/SLUS_207.87/SLUS_207.87_COV.png",
+    "kind": "cover",
+    "bytes": 96764,
+    "width": 192,
+    "height": 272,
+    "sha256": "aedfcd7b9411e0bb285b6959967d57027310a0ad1c71769179596fa0138fe477",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20787.jpg"
+    },
+    "gameId": "SLUS_207.87"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.87/SLUS_207.87_ICO.png",
+    "kind": "disc",
+    "bytes": 35423,
+    "width": 256,
+    "height": 256,
+    "sha256": "8ea269bfff9bc489559775442ae5faea69d1f94e8ce921655ff99e1a900aa51a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.87_ICO.png"
+    },
+    "gameId": "SLUS_207.87"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.87/SLUS_207.87_BG.png",
+    "kind": "background",
+    "bytes": 178005,
+    "width": 640,
+    "height": 480,
+    "sha256": "d566ba523f1f843bc55c44d3723d062a54d32a6b898d0490aa08ef8b08393eed",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.87/SLUS_207.87_BG_00.png"
+    },
+    "gameId": "SLUS_207.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.87/SLUS_207.87_BG.png",
+      "kind": "background",
+      "bytes": 178005,
+      "width": 640,
+      "height": 480,
+      "sha256": "d566ba523f1f843bc55c44d3723d062a54d32a6b898d0490aa08ef8b08393eed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.87/SLUS_207.87_BG_00.png"
+      },
+      "gameId": "SLUS_207.87"
+    },
+    {
+      "path": "PS2/SLUS_207.87/SLUS_207.87_BG_01.png",
+      "kind": "background",
+      "bytes": 125743,
+      "width": 640,
+      "height": 480,
+      "sha256": "1a9ac74944e063d163a47a76d7b4789e6acb96f4d3bfade39ebce9e7b7a17623",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.87/SLUS_207.87_BG_01.png"
+      },
+      "gameId": "SLUS_207.87"
+    },
+    {
+      "path": "PS2/SLUS_207.87/SLUS_207.87_BG_02.png",
+      "kind": "background",
+      "bytes": 178144,
+      "width": 640,
+      "height": 480,
+      "sha256": "cee0aea1287836f544bcb9d266c6a4cee6314273687bf4a1ea0822dad28cdca6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.87/SLUS_207.87_BG_02.png"
+      },
+      "gameId": "SLUS_207.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WWE Smackdown! - Here Comes the Pain"
+}

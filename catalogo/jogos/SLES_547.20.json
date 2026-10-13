@@ -1,0 +1,25 @@
+{
+  "id": "SLES_547.20",
+  "cover": {
+    "path": "PS2/SLES_547.20/SLES_547.20_COV.png",
+    "kind": "cover",
+    "bytes": 80435,
+    "width": 192,
+    "height": 272,
+    "sha256": "1cf670fc26f738f2df1b68f4624d0e8fa5b53a2e1dfe4e8cbf0bcc9a4326f0e8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54720.jpg"
+    },
+    "gameId": "SLES_547.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Shield: The Game"
+}

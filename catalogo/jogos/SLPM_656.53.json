@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.53",
+  "cover": {
+    "path": "PS2/SLPM_656.53/SLPM_656.53_COV.png",
+    "kind": "cover",
+    "bytes": 106564,
+    "width": 192,
+    "height": 272,
+    "sha256": "ecaef4a2c7c21efe017e0544bdcad13eb6dad51dba555d34ab018de9f3f65547",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65653.jpg"
+    },
+    "gameId": "SLPM_656.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DARLING SPECIAL BACKLASH - KOI NO EXHAUST HEAT"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.79",
+  "cover": {
+    "path": "PS2/SLPS_203.79/SLPS_203.79_COV.png",
+    "kind": "cover",
+    "bytes": 97598,
+    "width": 192,
+    "height": 272,
+    "sha256": "057cce0b61c83033a8340e3108dd87187251c6625bb363c3d09b771e6cf6e860",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20379.jpg"
+    },
+    "gameId": "SLPS_203.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Eikan wa Kimini 2004 - Koshien no Kodou (Artdink Best Choice)"
+}

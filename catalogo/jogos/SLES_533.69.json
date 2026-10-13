@@ -1,0 +1,25 @@
+{
+  "id": "SLES_533.69",
+  "cover": {
+    "path": "PS2/SLES_533.69/SLES_533.69_COV.png",
+    "kind": "cover",
+    "bytes": 96035,
+    "width": 192,
+    "height": 272,
+    "sha256": "958eda62bffa04f741e051b5be9d210ed5bbb7e2ecd8754f77cfd1b3d4f5d146",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53369.jpg"
+    },
+    "gameId": "SLES_533.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Twenty 2 Party"
+}

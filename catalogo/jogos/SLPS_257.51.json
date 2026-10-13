@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.51",
+  "cover": {
+    "path": "PS2/SLPS_257.51/SLPS_257.51_COV.png",
+    "kind": "cover",
+    "bytes": 97183,
+    "width": 192,
+    "height": 272,
+    "sha256": "ab4e84af1fbf6ce5cfc35a3b9a3d3c7fb4254e2c806a0afad532a70ed1499cca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25751.jpg"
+    },
+    "gameId": "SLPS_257.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GAKUEN UTOPIA MANABI STRAIGHT! KIRAKIRA HAPPY FESTA! [LIMITED EDITION]"
+}

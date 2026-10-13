@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.89",
+  "cover": {
+    "path": "PS2/SLPS_256.89/SLPS_256.89_COV.png",
+    "kind": "cover",
+    "bytes": 107015,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2890cf35c0386ded6271644da8382a1c8f416505936a7ee02b268f4edede14d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25689.jpg"
+    },
+    "gameId": "SLPS_256.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMOUN - SHOUBI SENSOU - FUUIN NO REMERSION"
+}

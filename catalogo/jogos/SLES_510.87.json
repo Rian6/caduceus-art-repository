@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.87",
+  "cover": {
+    "path": "PS2/SLES_510.87/SLES_510.87_COV.png",
+    "kind": "cover",
+    "bytes": 76915,
+    "width": 192,
+    "height": 272,
+    "sha256": "b58c25c543b4e3f0d8f629f215b3a0d73150de7ce1fb401caa01acc097a60ed7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51087.jpg"
+    },
+    "gameId": "SLES_510.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football: Leeds United"
+}

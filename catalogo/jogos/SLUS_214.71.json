@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_214.71",
+  "cover": {
+    "path": "PS2/SLUS_214.71/SLUS_214.71_COV.png",
+    "kind": "cover",
+    "bytes": 109070,
+    "width": 192,
+    "height": 272,
+    "sha256": "5ba9984b8be37085737dd5f916e194b271462a091585df123e7c0a0dcb590279",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21471.jpg"
+    },
+    "gameId": "SLUS_214.71"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.71/SLUS_214.71_ICO.png",
+    "kind": "disc",
+    "bytes": 39108,
+    "width": 256,
+    "height": 256,
+    "sha256": "d59c7bd5385ae50c87d011efa2e62d4eddfbe611c6fde843ca951490b850e09b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.71_ICO.png"
+    },
+    "gameId": "SLUS_214.71"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.71/SLUS_214.71_BG.png",
+    "kind": "background",
+    "bytes": 95036,
+    "width": 640,
+    "height": 480,
+    "sha256": "d7016be7ee96db40c32a136f002d2c8ab959254349620b07b7319afa52e1d760",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.71/SLUS_214.71_BG_00.png"
+    },
+    "gameId": "SLUS_214.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.71/SLUS_214.71_BG.png",
+      "kind": "background",
+      "bytes": 95036,
+      "width": 640,
+      "height": 480,
+      "sha256": "d7016be7ee96db40c32a136f002d2c8ab959254349620b07b7319afa52e1d760",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.71/SLUS_214.71_BG_00.png"
+      },
+      "gameId": "SLUS_214.71"
+    },
+    {
+      "path": "PS2/SLUS_214.71/SLUS_214.71_BG_01.png",
+      "kind": "background",
+      "bytes": 72418,
+      "width": 640,
+      "height": 480,
+      "sha256": "70a65c095fc5c8c0a59bdd42478cb4dd22ebbf88618bd6cf84531fa57d208ce2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.71/SLUS_214.71_BG_01.png"
+      },
+      "gameId": "SLUS_214.71"
+    },
+    {
+      "path": "PS2/SLUS_214.71/SLUS_214.71_BG_02.png",
+      "kind": "background",
+      "bytes": 68032,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2d92e5ef14cbe9a84946b4fa66196bd2a120c381b0d293c9c60dc978c7719cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.71/SLUS_214.71_BG_02.png"
+      },
+      "gameId": "SLUS_214.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tokobot Plus: Mysteries of the Karakuri"
+}

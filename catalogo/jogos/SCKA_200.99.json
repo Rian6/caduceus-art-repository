@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.99",
+  "cover": {
+    "path": "PS2/SCKA_200.99/SCKA_200.99_COV.png",
+    "kind": "cover",
+    "bytes": 104050,
+    "width": 192,
+    "height": 272,
+    "sha256": "525761ff5e4ab16ce32e69afb669b6674fd467987ba05d7de3d4d80dc536a3c8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20099.jpg"
+    },
+    "gameId": "SCKA_200.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PERSONA 3"
+}

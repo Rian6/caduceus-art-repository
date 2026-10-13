@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.68",
+  "cover": {
+    "path": "PS2/SCAJ_200.68/SCAJ_200.68_COV.png",
+    "kind": "cover",
+    "bytes": 91089,
+    "width": 192,
+    "height": 272,
+    "sha256": "cd88c160845b7dbd85c5b929646994ec0986ce99a2147982781161dbd6d50346",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20068.jpg"
+    },
+    "gameId": "SCAJ_200.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FINAL FANTASY X-2 INTERNATIONAL + LAST MISSION"
+}

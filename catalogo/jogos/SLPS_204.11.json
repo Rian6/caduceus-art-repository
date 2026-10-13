@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.11",
+  "cover": {
+    "path": "PS2/SLPS_204.11/SLPS_204.11_COV.png",
+    "kind": "cover",
+    "bytes": 110719,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2d1b9ef32eab9d6581c08b9956580f88f388e4c0767970e147f3cb238083339",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20411.jpg"
+    },
+    "gameId": "SLPS_204.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hissatsu Pachinko Station V9 - Osomatsu-kun"
+}

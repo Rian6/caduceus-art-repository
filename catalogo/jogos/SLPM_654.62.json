@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_654.62",
+  "cover": {
+    "path": "PS2/SLPM_654.62/SLPM_654.62_COV.png",
+    "kind": "cover",
+    "bytes": 61106,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc299da8d618c9ac5763ac7de91d7a876af09f5a976303ed4247a65f2bdd73ac",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65462.jpg"
+    },
+    "gameId": "SLPM_654.62"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_654.62/SLPM_654.62_BG.png",
+    "kind": "background",
+    "bytes": 178317,
+    "width": 640,
+    "height": 480,
+    "sha256": "e76031219b25b22c194ef36b59287d499b376324d5a2f20dc5d3135c89a651e7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.62/SLPM_654.62_BG_00.png"
+    },
+    "gameId": "SLPM_654.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.62/SLPM_654.62_BG.png",
+      "kind": "background",
+      "bytes": 178317,
+      "width": 640,
+      "height": 480,
+      "sha256": "e76031219b25b22c194ef36b59287d499b376324d5a2f20dc5d3135c89a651e7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.62/SLPM_654.62_BG_00.png"
+      },
+      "gameId": "SLPM_654.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHIN MEGAMI TENSEI III - NOCTURNE MANIAX"
+}

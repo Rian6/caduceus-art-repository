@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.06",
+  "cover": {
+    "path": "PS2/SLPS_200.06/SLPS_200.06_COV.png",
+    "kind": "cover",
+    "bytes": 118701,
+    "width": 192,
+    "height": 272,
+    "sha256": "7da03abddafe51d661b0d7f4abee9c61d2c97f56d1276277382a52ab730899b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20006.jpg"
+    },
+    "gameId": "SLPS_200.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "A6: A Ressha de Ikou 6"
+}

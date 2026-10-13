@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.64",
+  "cover": {
+    "path": "PS2/SCKA_200.64/SCKA_200.64_COV.png",
+    "kind": "cover",
+    "bytes": 93860,
+    "width": 192,
+    "height": 272,
+    "sha256": "a89acd917808ae7737831303ccf6205d4ce919f09348f8af1753fc7c102aa48d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20064.jpg"
+    },
+    "gameId": "SCKA_200.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOCOM 3 - U.S. Navy SEALs"
+}

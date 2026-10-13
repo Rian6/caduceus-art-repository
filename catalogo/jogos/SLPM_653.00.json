@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_653.00",
+  "cover": {
+    "path": "PS2/SLPM_653.00/SLPM_653.00_COV.png",
+    "kind": "cover",
+    "bytes": 89874,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0d6ed95da2a0412e7be3fd12812bc97fb4195579ee24f339b271f8b58e27d72",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65300.jpg"
+    },
+    "gameId": "SLPM_653.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_653.00/SLPM_653.00_BG.png",
+    "kind": "background",
+    "bytes": 215940,
+    "width": 640,
+    "height": 480,
+    "sha256": "59cc3421c866ce7747867aaa2b4f738d9aa09bd3f99273a419b0e0f653b5f4e7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_653.00/SLPM_653.00_BG_00.png"
+    },
+    "gameId": "SLPM_653.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_653.00/SLPM_653.00_BG.png",
+      "kind": "background",
+      "bytes": 215940,
+      "width": 640,
+      "height": 480,
+      "sha256": "59cc3421c866ce7747867aaa2b4f738d9aa09bd3f99273a419b0e0f653b5f4e7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_653.00/SLPM_653.00_BG_00.png"
+      },
+      "gameId": "SLPM_653.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "All-Star Professional Wrestling III"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_510.57",
+  "cover": {
+    "path": "PS2/SLES_510.57/SLES_510.57_COV.png",
+    "kind": "cover",
+    "bytes": 76211,
+    "width": 192,
+    "height": 272,
+    "sha256": "b7603919efa39c91687d9b02a327115a8c51e4744d93156515761d9477a16ea8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51057.jpg"
+    },
+    "gameId": "SLES_510.57"
+  },
+  "disc": {
+    "path": "PS2/SLES_510.57/SLES_510.57_ICO.png",
+    "kind": "disc",
+    "bytes": 10698,
+    "width": 128,
+    "height": 128,
+    "sha256": "cb65bf098f27f2ceee5af8f0e99d7c04411d591ca1a368586e8044cf5310208f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_510.57_ICO.png"
+    },
+    "gameId": "SLES_510.57"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hard Hitter 2"
+}

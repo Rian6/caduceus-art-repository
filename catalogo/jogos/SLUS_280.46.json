@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_280.46",
+  "cover": {
+    "path": "PS2/SLUS_280.46/SLUS_280.46_COV.png",
+    "kind": "cover",
+    "bytes": 63967,
+    "width": 192,
+    "height": 272,
+    "sha256": "257416753db092fb51398ee321b56413924d233618152f10f60a2cc0f096a848",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_280.46/SLUS_280.46_COV.png"
+    },
+    "gameId": "SLUS_280.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guilty Gear Isuka"
+}

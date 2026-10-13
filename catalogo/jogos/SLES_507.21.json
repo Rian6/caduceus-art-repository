@@ -1,0 +1,25 @@
+{
+  "id": "SLES_507.21",
+  "cover": {
+    "path": "PS2/SLES_507.21/SLES_507.21_COV.png",
+    "kind": "cover",
+    "bytes": 99375,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d04d0ba775a2b5c1d7d1cd96838dc0fe750f44e1f6e3eee2136e33b0362aa28",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50721.jpg"
+    },
+    "gameId": "SLES_507.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PRYZM CHAPTER ONE - THE DARK UNICORN"
+}

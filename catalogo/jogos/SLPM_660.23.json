@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.23",
+  "cover": {
+    "path": "PS2/SLPM_660.23/SLPM_660.23_COV.png",
+    "kind": "cover",
+    "bytes": 100234,
+    "width": 192,
+    "height": 272,
+    "sha256": "4da64eeded628ad2a8548eed1648dc0be9e5225093f010668ddd27fb2fc1b270",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66023.jpg"
+    },
+    "gameId": "SLPM_660.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FUSHIGI YUUGI - GENBU KAIDEN GAIDEN - KAGAMI NO MIKO [LIMITED EDITION]"
+}

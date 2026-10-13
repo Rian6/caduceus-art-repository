@@ -1,0 +1,39 @@
+{
+  "id": "SLES_546.19",
+  "cover": {
+    "path": "PS2/SLES_546.19/SLES_546.19_COV.png",
+    "kind": "cover",
+    "bytes": 102730,
+    "width": 192,
+    "height": 272,
+    "sha256": "17a6fb77f0d93e243281e9a77f598e16aedae7078f200d19a325d65884b895f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54619.jpg"
+    },
+    "gameId": "SLES_546.19"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.19/SLES_546.19_ICO.png",
+    "kind": "disc",
+    "bytes": 11636,
+    "width": 128,
+    "height": 128,
+    "sha256": "b29fb59804a0205ba06b5a58f766beb578da5accdc38fee21a13e773ab3d0b45",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.19_ICO.png"
+    },
+    "gameId": "SLES_546.19"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pinocchio"
+}

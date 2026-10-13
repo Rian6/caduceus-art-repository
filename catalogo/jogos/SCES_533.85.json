@@ -1,0 +1,25 @@
+{
+  "id": "SCES_533.85",
+  "cover": {
+    "path": "PS2/SCES_533.85/SCES_533.85_COV.png",
+    "kind": "cover",
+    "bytes": 64377,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d4ff65b60e4cc7d10523cdec22c86f6bc6e3727bc76aee905a36d3e97b89f9d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_533.85/SCES_533.85_COV.png"
+    },
+    "gameId": "SCES_533.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Brain of the World"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.08",
+  "cover": {
+    "path": "PS2/SLKA_252.08/SLKA_252.08_COV.png",
+    "kind": "cover",
+    "bytes": 127564,
+    "width": 192,
+    "height": 272,
+    "sha256": "9a32e5ee611babbc983f441feb450029780a4870328029b592b6fdad7df846e7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25208.jpg"
+    },
+    "gameId": "SLKA_252.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FROM TV ANIMATION - ONE PIECE - ROUND THE LAND!"
+}

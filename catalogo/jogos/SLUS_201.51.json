@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_201.51",
+  "cover": {
+    "path": "PS2/SLUS_201.51/SLUS_201.51_COV.png",
+    "kind": "cover",
+    "bytes": 101761,
+    "width": 192,
+    "height": 272,
+    "sha256": "e82152acb1e902b55f4a9f1271ccf484af7a457fc15eaa116d752ec060ad91cb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20151.jpg"
+    },
+    "gameId": "SLUS_201.51"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.51/SLUS_201.51_ICO.png",
+    "kind": "disc",
+    "bytes": 36580,
+    "width": 256,
+    "height": 256,
+    "sha256": "9058236e6ddaf88b9999a5e1dabe4226efd17a889c0d3bb4473814f4121f88fd",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.51_ICO.png"
+    },
+    "gameId": "SLUS_201.51"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.51/SLUS_201.51_BG.png",
+    "kind": "background",
+    "bytes": 194187,
+    "width": 640,
+    "height": 480,
+    "sha256": "fb29395b51cf1a29e7cdfd53022189dd608eeb4b8fe697c4e81a05400aeb5f34",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.51/SLUS_201.51_BG_00.png"
+    },
+    "gameId": "SLUS_201.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.51/SLUS_201.51_BG.png",
+      "kind": "background",
+      "bytes": 194187,
+      "width": 640,
+      "height": 480,
+      "sha256": "fb29395b51cf1a29e7cdfd53022189dd608eeb4b8fe697c4e81a05400aeb5f34",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.51/SLUS_201.51_BG_00.png"
+      },
+      "gameId": "SLUS_201.51"
+    },
+    {
+      "path": "PS2/SLUS_201.51/SLUS_201.51_BG_01.png",
+      "kind": "background",
+      "bytes": 197544,
+      "width": 640,
+      "height": 480,
+      "sha256": "484fa6961f3339dd417fbbf2d2c80dcbb28e0b2ee957e4f4ef1510f989bfcab4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.51/SLUS_201.51_BG_01.png"
+      },
+      "gameId": "SLUS_201.51"
+    },
+    {
+      "path": "PS2/SLUS_201.51/SLUS_201.51_BG_02.png",
+      "kind": "background",
+      "bytes": 178855,
+      "width": 640,
+      "height": 480,
+      "sha256": "c2b42bd23ebb8d547c64370127851e534a664d6d6df3cd9f21db2dd6c59e6074",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.51/SLUS_201.51_BG_02.png"
+      },
+      "gameId": "SLUS_201.51"
+    },
+    {
+      "path": "PS2/SLUS_201.51/SLUS_201.51_BG_03.png",
+      "kind": "background",
+      "bytes": 154995,
+      "width": 640,
+      "height": 480,
+      "sha256": "2dc2e166743a56fe95328c43344c00138c1e4533efeb0d1de1c21bbd489823b1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.51/SLUS_201.51_BG_03.png"
+      },
+      "gameId": "SLUS_201.51"
+    },
+    {
+      "path": "PS2/SLUS_201.51/SLUS_201.51_BG_04.png",
+      "kind": "background",
+      "bytes": 213128,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1d029a5c355f5996288daa96ed572ebfb68266dcefc0944b59994b7814e64e2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.51/SLUS_201.51_BG_04.png"
+      },
+      "gameId": "SLUS_201.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KLONOA 2 - LUNATEA'S VEIL"
+}

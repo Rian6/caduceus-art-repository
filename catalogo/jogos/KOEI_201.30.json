@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.30",
+  "cover": {
+    "path": "PS2/KOEI_201.30/KOEI_201.30_COV.png",
+    "kind": "cover",
+    "bytes": 62844,
+    "width": 192,
+    "height": 272,
+    "sha256": "450e9610dc563ae7b8e0d1989bde4ae55c074f67e8fbd77cd9b502e715c93b94",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_201.30/KOEI_201.30_COV.png"
+    },
+    "gameId": "KOEI_201.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Musou 2 Moushouden (Super Premium Pack)"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SCES_553.85",
+  "cover": {
+    "path": "PS2/SCES_553.85/SCES_553.85_COV.png",
+    "kind": "cover",
+    "bytes": 101366,
+    "width": 192,
+    "height": 272,
+    "sha256": "3f2529d65a285a810c8b3570771c6d666dc87d1445305aa54e2a577c880401a3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55385.jpg"
+    },
+    "gameId": "SCES_553.85"
+  },
+  "disc": {
+    "path": "PS2/SCES_553.85/SCES_553.85_ICO.png",
+    "kind": "disc",
+    "bytes": 11044,
+    "width": 128,
+    "height": 128,
+    "sha256": "5e8477032ecfe3c2dff1b3beaa781c745efbf836a4224d6a9f99d2e41b04f2dc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_553.85_ICO.png"
+    },
+    "gameId": "SCES_553.85"
+  },
+  "background": {
+    "path": "PS2/SCES_553.85/SCES_553.85_BG.png",
+    "kind": "background",
+    "bytes": 167585,
+    "width": 640,
+    "height": 480,
+    "sha256": "c9aed94c1c0f671947ef7bd5014d0d83895437853f5250d2a69ade4760e16b79",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_553.85/SCES_553.85_BG_00.png"
+    },
+    "gameId": "SCES_553.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_553.85/SCES_553.85_BG.png",
+      "kind": "background",
+      "bytes": 167585,
+      "width": 640,
+      "height": 480,
+      "sha256": "c9aed94c1c0f671947ef7bd5014d0d83895437853f5250d2a69ade4760e16b79",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_553.85/SCES_553.85_BG_00.png"
+      },
+      "gameId": "SCES_553.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Brain of the UK"
+}

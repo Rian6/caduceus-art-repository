@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.17",
+  "cover": {
+    "path": "PS2/SLPS_256.17/SLPS_256.17_COV.png",
+    "kind": "cover",
+    "bytes": 101282,
+    "width": 192,
+    "height": 272,
+    "sha256": "d01e7280649c1026e48e9cee9fac0760728ff8c832117fbf856cf90552a7eb8b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25617.jpg"
+    },
+    "gameId": "SLPS_256.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "E'TUDE PROLOGUE - YUREUGOKU KOKORO NO KATACHI"
+}

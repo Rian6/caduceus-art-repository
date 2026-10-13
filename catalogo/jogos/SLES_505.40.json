@@ -1,0 +1,51 @@
+{
+  "id": "SLES_505.40",
+  "cover": {
+    "path": "PS2/SLES_505.40/SLES_505.40_COV.png",
+    "kind": "cover",
+    "bytes": 104906,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f17bddbd4ed6a9853906aebee2601d1ea803f44babc02bafa40809d597a7f3f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50540.jpg"
+    },
+    "gameId": "SLES_505.40"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_505.40/SLES_505.40_BG.png",
+    "kind": "background",
+    "bytes": 185069,
+    "width": 640,
+    "height": 480,
+    "sha256": "856d27a9e694fc8f9cd907091998c8a07d01774ad03f84d1ab875632ffbd754b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_505.40/SLES_505.40_BG_00.png"
+    },
+    "gameId": "SLES_505.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_505.40/SLES_505.40_BG.png",
+      "kind": "background",
+      "bytes": 185069,
+      "width": 640,
+      "height": 480,
+      "sha256": "856d27a9e694fc8f9cd907091998c8a07d01774ad03f84d1ab875632ffbd754b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.40/SLES_505.40_BG_00.png"
+      },
+      "gameId": "SLES_505.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE SIMPSONS - ROAD RAGE"
+}

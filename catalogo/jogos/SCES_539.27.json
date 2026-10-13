@@ -1,0 +1,25 @@
+{
+  "id": "SCES_539.27",
+  "cover": {
+    "path": "PS2/SCES_539.27/SCES_539.27_COV.png",
+    "kind": "cover",
+    "bytes": 96071,
+    "width": 192,
+    "height": 272,
+    "sha256": "50850714af3a0b93bb24769cc7dc136f7501fd09edb46dd39c6619a3fd1d9871",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53927.jpg"
+    },
+    "gameId": "SCES_539.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Suuri Tietovisa"
+}

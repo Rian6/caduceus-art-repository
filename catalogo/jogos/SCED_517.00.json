@@ -1,0 +1,25 @@
+{
+  "id": "SCED_517.00",
+  "cover": {
+    "path": "PS2/SCED_517.00/SCED_517.00_COV.png",
+    "kind": "cover",
+    "bytes": 91118,
+    "width": 192,
+    "height": 272,
+    "sha256": "ad9029824c4dae67582d5d5bdf959e07135ce8fc916991315926d7b58d2bc00e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCED-51700.jpg"
+    },
+    "gameId": "SCED_517.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jak II: Renegade (Demo)"
+}

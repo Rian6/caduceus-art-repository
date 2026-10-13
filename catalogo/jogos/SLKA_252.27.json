@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.27",
+  "cover": {
+    "path": "PS2/SLKA_252.27/SLKA_252.27_COV.png",
+    "kind": "cover",
+    "bytes": 102974,
+    "width": 192,
+    "height": 272,
+    "sha256": "b4b0380452116e1002cb48849e9d1928cc549551c81c20669f85c1ab28663eb5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25227.jpg"
+    },
+    "gameId": "SLKA_252.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NEO CONTRA"
+}

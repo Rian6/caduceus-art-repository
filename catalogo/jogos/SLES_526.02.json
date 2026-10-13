@@ -1,0 +1,65 @@
+{
+  "id": "SLES_526.02",
+  "cover": {
+    "path": "PS2/SLES_526.02/SLES_526.02_COV.png",
+    "kind": "cover",
+    "bytes": 92664,
+    "width": 192,
+    "height": 272,
+    "sha256": "f382e9b8ff927aec3a825204b09edbe9f9852f81aff3dc177579131f769ffafe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52602.jpg"
+    },
+    "gameId": "SLES_526.02"
+  },
+  "disc": {
+    "path": "PS2/SLES_526.02/SLES_526.02_ICO.png",
+    "kind": "disc",
+    "bytes": 9733,
+    "width": 128,
+    "height": 128,
+    "sha256": "b967b759aeaf83594818959ba9e89f07c4e8ed34a34f9dda5e126c7387b16d61",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_526.02_ICO.png"
+    },
+    "gameId": "SLES_526.02"
+  },
+  "background": {
+    "path": "PS2/SLES_526.02/SLES_526.02_BG.png",
+    "kind": "background",
+    "bytes": 214567,
+    "width": 640,
+    "height": 480,
+    "sha256": "5ab8e3b099fe01d55bf6558b4e98ae2a6c73ae20d70902dc7ecdf0fa02075085",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_526.02/SLES_526.02_BG_00.png"
+    },
+    "gameId": "SLES_526.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_526.02/SLES_526.02_BG.png",
+      "kind": "background",
+      "bytes": 214567,
+      "width": 640,
+      "height": 480,
+      "sha256": "5ab8e3b099fe01d55bf6558b4e98ae2a6c73ae20d70902dc7ecdf0fa02075085",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.02/SLES_526.02_BG_00.png"
+      },
+      "gameId": "SLES_526.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GT RACERS"
+}

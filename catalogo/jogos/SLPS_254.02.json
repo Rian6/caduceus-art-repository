@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_254.02",
+  "cover": {
+    "path": "PS2/SLPS_254.02/SLPS_254.02_COV.png",
+    "kind": "cover",
+    "bytes": 108217,
+    "width": 192,
+    "height": 272,
+    "sha256": "0a4f41333379daa9c84c9188d5316d79806d62a65aecea120431b1b24f04d165",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25402.jpg"
+    },
+    "gameId": "SLPS_254.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_254.02/SLPS_254.02_BG.png",
+    "kind": "background",
+    "bytes": 188920,
+    "width": 640,
+    "height": 480,
+    "sha256": "6f672eb850928887db63c4b45d08ccd5a978b2e5c2c3c69518127b5cb9d90287",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_254.02/SLPS_254.02_BG_00.png"
+    },
+    "gameId": "SLPS_254.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_254.02/SLPS_254.02_BG.png",
+      "kind": "background",
+      "bytes": 188920,
+      "width": 640,
+      "height": 480,
+      "sha256": "6f672eb850928887db63c4b45d08ccd5a978b2e5c2c3c69518127b5cb9d90287",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.02/SLPS_254.02_BG_00.png"
+      },
+      "gameId": "SLPS_254.02"
+    },
+    {
+      "path": "PS2/SLPS_254.02/SLPS_254.02_BG_01.png",
+      "kind": "background",
+      "bytes": 141050,
+      "width": 640,
+      "height": 480,
+      "sha256": "a68f3021f04358d1b9c9349ffb74ffbbf0e98c9e4a871b2bf4af3b37b74ea38c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.02/SLPS_254.02_BG_01.png"
+      },
+      "gameId": "SLPS_254.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hagane no Renkinjutsushi: Dream Carnival"
+}

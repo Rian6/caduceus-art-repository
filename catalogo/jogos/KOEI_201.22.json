@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.22",
+  "cover": {
+    "path": "PS2/KOEI_201.22/KOEI_201.22_COV.png",
+    "kind": "cover",
+    "bytes": 95275,
+    "width": 192,
+    "height": 272,
+    "sha256": "8c050fc82de93406a7d0b9d2870c09405f6061affb29fdf54e2ea0d78492b2cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/KOEI-20122.jpg"
+    },
+    "gameId": "KOEI_201.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KIN'IRO NO KORUDA 2 [PREMIUM BOX]"
+}

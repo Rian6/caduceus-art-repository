@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.65",
+  "cover": {
+    "path": "PS2/SLES_510.65/SLES_510.65_COV.png",
+    "kind": "cover",
+    "bytes": 82883,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f631627b2ad41fed551265cb59ad735be6623cb8ca6ffc9b419a502a3d6a717",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51065.jpg"
+    },
+    "gameId": "SLES_510.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GLADIUS"
+}

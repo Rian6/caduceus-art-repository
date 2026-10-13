@@ -1,0 +1,103 @@
+{
+  "id": "SLES_503.82",
+  "cover": {
+    "path": "PS2/SLES_503.82/SLES_503.82_COV.png",
+    "kind": "cover",
+    "bytes": 57269,
+    "width": 192,
+    "height": 272,
+    "sha256": "ae9dee9acb280092614eb3c1dd64c6284cabbf9432c41bae7640ef3b79ae27b2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50382.jpg"
+    },
+    "gameId": "SLES_503.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_503.82/SLES_503.82_BG.png",
+    "kind": "background",
+    "bytes": 185050,
+    "width": 640,
+    "height": 480,
+    "sha256": "e374f5234c331a79166fa0c7bdb56c6ab055b70ccc28500097fded8a9a2879c0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_503.82/SLES_503.82_BG_00.png"
+    },
+    "gameId": "SLES_503.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_503.82/SLES_503.82_BG.png",
+      "kind": "background",
+      "bytes": 185050,
+      "width": 640,
+      "height": 480,
+      "sha256": "e374f5234c331a79166fa0c7bdb56c6ab055b70ccc28500097fded8a9a2879c0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.82/SLES_503.82_BG_00.png"
+      },
+      "gameId": "SLES_503.82"
+    },
+    {
+      "path": "PS2/SLES_503.82/SLES_503.82_BG_01.png",
+      "kind": "background",
+      "bytes": 115383,
+      "width": 640,
+      "height": 480,
+      "sha256": "75e99e2021e481f7e2d6227ddc0de8c484376211efc25b523f16cd48590a7eaa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.82/SLES_503.82_BG_01.png"
+      },
+      "gameId": "SLES_503.82"
+    },
+    {
+      "path": "PS2/SLES_503.82/SLES_503.82_BG_02.png",
+      "kind": "background",
+      "bytes": 194109,
+      "width": 640,
+      "height": 480,
+      "sha256": "f94a6610265b9c55cecbae91c8a41043fed6a2ffd6644a05628c58c066e7e5aa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.82/SLES_503.82_BG_02.png"
+      },
+      "gameId": "SLES_503.82"
+    },
+    {
+      "path": "PS2/SLES_503.82/SLES_503.82_BG_03.png",
+      "kind": "background",
+      "bytes": 148348,
+      "width": 640,
+      "height": 480,
+      "sha256": "f368c667a6884608e35681efd27cd5976d08dce730bac27160657725c0fdaaf8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.82/SLES_503.82_BG_03.png"
+      },
+      "gameId": "SLES_503.82"
+    },
+    {
+      "path": "PS2/SLES_503.82/SLES_503.82_BG_04.png",
+      "kind": "background",
+      "bytes": 194712,
+      "width": 640,
+      "height": 480,
+      "sha256": "05227b306f24b7b6e3a8237fb9dd03db40b4675c07b620b5284ee3b4c686d22c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.82/SLES_503.82_BG_04.png"
+      },
+      "gameId": "SLES_503.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Silent Hill 2"
+}

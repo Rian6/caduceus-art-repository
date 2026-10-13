@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.16",
+  "cover": {
+    "path": "PS2/SLPM_623.16/SLPM_623.16_COV.png",
+    "kind": "cover",
+    "bytes": 44880,
+    "width": 192,
+    "height": 272,
+    "sha256": "565e86be560e533419f0b09663748470c53b3d1ff13707b3d86306906c4d1b81",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62316.jpg"
+    },
+    "gameId": "SLPM_623.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SuperLite 2000 Vol. 1 - Mahjong"
+}

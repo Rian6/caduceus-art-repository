@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.15",
+  "cover": {
+    "path": "PS2/SLPM_659.15/SLPM_659.15_COV.png",
+    "kind": "cover",
+    "bytes": 89616,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff0dfee8952406d6c67839ad38ad14cafa6ae78ed0c94b78e14d714b0bc70da4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65915.jpg"
+    },
+    "gameId": "SLPM_659.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fallout: Brotherhood of Steel"
+}

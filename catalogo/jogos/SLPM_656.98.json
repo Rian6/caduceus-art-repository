@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.98",
+  "cover": {
+    "path": "PS2/SLPM_656.98/SLPM_656.98_COV.png",
+    "kind": "cover",
+    "bytes": 105284,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf767596154d8fee4ed1f3025f01106cbb607dea1fc578d1867fa9860e8431a0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65698.jpg"
+    },
+    "gameId": "SLPM_656.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LOVE SONGS - ADV FUTABA RIHO 14-SAI NATSU"
+}

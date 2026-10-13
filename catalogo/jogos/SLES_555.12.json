@@ -1,0 +1,78 @@
+{
+  "id": "SLES_555.12",
+  "cover": {
+    "path": "PS2/SLES_555.12/SLES_555.12_COV.png",
+    "kind": "cover",
+    "bytes": 112248,
+    "width": 192,
+    "height": 272,
+    "sha256": "47b1900dc093749329e5c79843fad0b622ef19ecf7688a3e0843798c5c9ffdb8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55512.jpg"
+    },
+    "gameId": "SLES_555.12"
+  },
+  "disc": {
+    "path": "PS2/SLES_555.12/SLES_555.12_ICO.png",
+    "kind": "disc",
+    "bytes": 10677,
+    "width": 128,
+    "height": 128,
+    "sha256": "88d99ae7af8096f790519cf21ca5692a932a58eb022c5dad1050b7383cd99b10",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_555.12_ICO.png"
+    },
+    "gameId": "SLES_555.12"
+  },
+  "background": {
+    "path": "PS2/SLES_555.12/SLES_555.12_BG.png",
+    "kind": "background",
+    "bytes": 182136,
+    "width": 640,
+    "height": 480,
+    "sha256": "e2bf58052eeea9c88735e6301d061c9e889cb38f45d57b1c1fe4c0925e669551",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_555.12/SLES_555.12_BG_00.png"
+    },
+    "gameId": "SLES_555.12"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_555.12/SLES_555.12_BG.png",
+      "kind": "background",
+      "bytes": 182136,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2bf58052eeea9c88735e6301d061c9e889cb38f45d57b1c1fe4c0925e669551",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.12/SLES_555.12_BG_00.png"
+      },
+      "gameId": "SLES_555.12"
+    },
+    {
+      "path": "PS2/SLES_555.12/SLES_555.12_BG_01.png",
+      "kind": "background",
+      "bytes": 192785,
+      "width": 640,
+      "height": 480,
+      "sha256": "cf36de7bd9b97a48445c3f2269fff279a0a1795096d8351e5f5fa8683f3c1636",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.12/SLES_555.12_BG_01.png"
+      },
+      "gameId": "SLES_555.12"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Anthology"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.21",
+  "cover": {
+    "path": "PS2/SLPM_622.21/SLPM_622.21_COV.png",
+    "kind": "cover",
+    "bytes": 103984,
+    "width": 192,
+    "height": 272,
+    "sha256": "a01e598236bd15ee38ac6dd2e56d944c5ec6590132f39a417a361ea380efb3bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62221.jpg"
+    },
+    "gameId": "SLPM_622.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WINNING POST 5 - MAXIMUM 2002"
+}

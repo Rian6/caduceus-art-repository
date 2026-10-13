@@ -1,0 +1,39 @@
+{
+  "id": "SLES_543.68",
+  "cover": {
+    "path": "PS2/SLES_543.68/SLES_543.68_COV.png",
+    "kind": "cover",
+    "bytes": 70227,
+    "width": 192,
+    "height": 272,
+    "sha256": "4b11b204b7c8d5f94be5a0b49f8c671e9cf4c33932f0bc6feb2e9efa6ccdb1f7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54368.jpg"
+    },
+    "gameId": "SLES_543.68"
+  },
+  "disc": {
+    "path": "PS2/SLES_543.68/SLES_543.68_ICO.png",
+    "kind": "disc",
+    "bytes": 11183,
+    "width": 128,
+    "height": 128,
+    "sha256": "7c2b3325659eb3eed4cf13e1d2ecab04279fd042f4747b8f5e307a11a277b052",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_543.68_ICO.png"
+    },
+    "gameId": "SLES_543.68"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RTL Skijumping 2007"
+}

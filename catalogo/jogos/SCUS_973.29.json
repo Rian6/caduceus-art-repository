@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_973.29",
+  "cover": {
+    "path": "PS2/SCUS_973.29/SCUS_973.29_COV.png",
+    "kind": "cover",
+    "bytes": 62456,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc9a95df02383d72fdd9102229e062538501b681715176b53dbc11a048c8c0b1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_973.29/SCUS_973.29_COV.png"
+    },
+    "gameId": "SCUS_973.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Downhill Domination"
+}

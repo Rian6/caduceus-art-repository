@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_207.56",
+  "cover": {
+    "path": "PS2/SLUS_207.56/SLUS_207.56_COV.png",
+    "kind": "cover",
+    "bytes": 90791,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c5d7d0c64d243a24d15cfc5b4f9b5274099c93cb5c48efcb3d4a2f46ab93e31",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20756.jpg"
+    },
+    "gameId": "SLUS_207.56"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.56/SLUS_207.56_ICO.png",
+    "kind": "disc",
+    "bytes": 23617,
+    "width": 256,
+    "height": 256,
+    "sha256": "c7582aa7035295331b9a43193e5de187ffe3ce7ae85ad5b4e08f9466c3ef42c3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.56_ICO.png"
+    },
+    "gameId": "SLUS_207.56"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.56/SLUS_207.56_BG.png",
+    "kind": "background",
+    "bytes": 154107,
+    "width": 640,
+    "height": 480,
+    "sha256": "4d3a4e478cbafd3546735e885310b6449140cf7e5c58e00359061970b7f0e097",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.56/SLUS_207.56_BG_00.png"
+    },
+    "gameId": "SLUS_207.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.56/SLUS_207.56_BG.png",
+      "kind": "background",
+      "bytes": 154107,
+      "width": 640,
+      "height": 480,
+      "sha256": "4d3a4e478cbafd3546735e885310b6449140cf7e5c58e00359061970b7f0e097",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.56/SLUS_207.56_BG_00.png"
+      },
+      "gameId": "SLUS_207.56"
+    },
+    {
+      "path": "PS2/SLUS_207.56/SLUS_207.56_BG_01.png",
+      "kind": "background",
+      "bytes": 159530,
+      "width": 640,
+      "height": 480,
+      "sha256": "dd49dc87d8d4be7efb671a270eeccb210c9211bdc1ee6aecf2450bb725676be0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.56/SLUS_207.56_BG_01.png"
+      },
+      "gameId": "SLUS_207.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL 2004"
+}

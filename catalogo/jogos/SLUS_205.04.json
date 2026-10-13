@@ -1,0 +1,143 @@
+{
+  "id": "SLUS_205.04",
+  "cover": {
+    "path": "PS2/SLUS_205.04/SLUS_205.04_COV.png",
+    "kind": "cover",
+    "bytes": 105612,
+    "width": 192,
+    "height": 272,
+    "sha256": "88e2a3c36d9ed45e5784ce8e480b332b205e468859f2dc7e4a8c24ec107ac3a9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20504.jpg"
+    },
+    "gameId": "SLUS_205.04"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.04/SLUS_205.04_ICO.png",
+    "kind": "disc",
+    "bytes": 33442,
+    "width": 256,
+    "height": 256,
+    "sha256": "fcf5998c6ce07d6d32f4a8383782fa53799c6a3e69b41be5b8fb0503d933cd4e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.04_ICO.png"
+    },
+    "gameId": "SLUS_205.04"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.04/SLUS_205.04_BG.png",
+    "kind": "background",
+    "bytes": 210360,
+    "width": 640,
+    "height": 480,
+    "sha256": "00f3923abb79590469e35bc0ff3d326e2b4cfb91caba4742c35fa18016e88ef5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.04/SLUS_205.04_BG_00.png"
+    },
+    "gameId": "SLUS_205.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.04/SLUS_205.04_BG.png",
+      "kind": "background",
+      "bytes": 210360,
+      "width": 640,
+      "height": 480,
+      "sha256": "00f3923abb79590469e35bc0ff3d326e2b4cfb91caba4742c35fa18016e88ef5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.04/SLUS_205.04_BG_00.png"
+      },
+      "gameId": "SLUS_205.04"
+    },
+    {
+      "path": "PS2/SLUS_205.04/SLUS_205.04_BG_01.png",
+      "kind": "background",
+      "bytes": 166684,
+      "width": 640,
+      "height": 480,
+      "sha256": "25f45d9b023e2e8c44dec723156b808d750e01a48dbc70cd8056830f44631e39",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.04/SLUS_205.04_BG_01.png"
+      },
+      "gameId": "SLUS_205.04"
+    },
+    {
+      "path": "PS2/SLUS_205.04/SLUS_205.04_BG_02.png",
+      "kind": "background",
+      "bytes": 194401,
+      "width": 640,
+      "height": 480,
+      "sha256": "538ebc04409b349f58c12f4d57c53b280e8083ffb078e55d0bf342b23c87b3de",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.04/SLUS_205.04_BG_02.png"
+      },
+      "gameId": "SLUS_205.04"
+    },
+    {
+      "path": "PS2/SLUS_205.04/SLUS_205.04_BG_03.png",
+      "kind": "background",
+      "bytes": 128567,
+      "width": 640,
+      "height": 480,
+      "sha256": "aad6283a99d4fad828e37eb95ae6ed187ac03384c201d38e35cba0e9e8a7ca13",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.04/SLUS_205.04_BG_03.png"
+      },
+      "gameId": "SLUS_205.04"
+    },
+    {
+      "path": "PS2/SLUS_205.04/SLUS_205.04_BG_04.png",
+      "kind": "background",
+      "bytes": 175001,
+      "width": 640,
+      "height": 480,
+      "sha256": "d1dbf18a8aff74412e1ed22450dc6de9cf4dfd2df91ae9648aab21967cc7bf3f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.04/SLUS_205.04_BG_04.png"
+      },
+      "gameId": "SLUS_205.04"
+    },
+    {
+      "path": "PS2/SLUS_205.04/SLUS_205.04_BG_05.png",
+      "kind": "background",
+      "bytes": 185295,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c4125dfa886e2b239f43be7f4f31e430aaba17dae791478c3b1442445f64e19",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.04/SLUS_205.04_BG_05.png"
+      },
+      "gameId": "SLUS_205.04"
+    },
+    {
+      "path": "PS2/SLUS_205.04/SLUS_205.04_BG_06.png",
+      "kind": "background",
+      "bytes": 25014,
+      "width": 640,
+      "height": 480,
+      "sha256": "842b0069a9607c1039435cc8bdd20dda912d945d67acfe09f67fa175e845b551",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.04/SLUS_205.04_BG_06.png"
+      },
+      "gameId": "SLUS_205.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tony Hawk's Pro Skater 4"
+}

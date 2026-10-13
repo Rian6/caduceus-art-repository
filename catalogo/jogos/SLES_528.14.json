@@ -1,0 +1,51 @@
+{
+  "id": "SLES_528.14",
+  "cover": {
+    "path": "PS2/SLES_528.14/SLES_528.14_COV.png",
+    "kind": "cover",
+    "bytes": 69801,
+    "width": 192,
+    "height": 272,
+    "sha256": "3d715f985a51185c9aadd6d9780a5b3f2331d199a4c1de14bdcb66dcd80c7e1e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52814.jpg"
+    },
+    "gameId": "SLES_528.14"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.14/SLES_528.14_BG.png",
+    "kind": "background",
+    "bytes": 139584,
+    "width": 640,
+    "height": 480,
+    "sha256": "725eee31c1645c0334c29efd01ae89bb0923895e5113f0a88dbfb25f980cc0c1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.14/SLES_528.14_BG_00.png"
+    },
+    "gameId": "SLES_528.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.14/SLES_528.14_BG.png",
+      "kind": "background",
+      "bytes": 139584,
+      "width": 640,
+      "height": 480,
+      "sha256": "725eee31c1645c0334c29efd01ae89bb0923895e5113f0a88dbfb25f980cc0c1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.14/SLES_528.14_BG_00.png"
+      },
+      "gameId": "SLES_528.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S PIXAR - GLI INCREDIBILI"
+}

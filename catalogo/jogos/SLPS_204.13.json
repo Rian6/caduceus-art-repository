@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_204.13",
+  "cover": {
+    "path": "PS2/SLPS_204.13/SLPS_204.13_COV.png",
+    "kind": "cover",
+    "bytes": 114986,
+    "width": 192,
+    "height": 272,
+    "sha256": "3ea1ecca24cef67b03b111a4227644e98652e54792c49f90796df5c6781e2b94",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20413.jpg"
+    },
+    "gameId": "SLPS_204.13"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_204.13/SLPS_204.13_BG.png",
+    "kind": "background",
+    "bytes": 118480,
+    "width": 640,
+    "height": 480,
+    "sha256": "df08c00d7454707fb33eade8cdcfc45f03ac76eb0757d92702f3afe0d1a0d47b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_204.13/SLPS_204.13_BG_00.png"
+    },
+    "gameId": "SLPS_204.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_204.13/SLPS_204.13_BG.png",
+      "kind": "background",
+      "bytes": 118480,
+      "width": 640,
+      "height": 480,
+      "sha256": "df08c00d7454707fb33eade8cdcfc45f03ac76eb0757d92702f3afe0d1a0d47b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.13/SLPS_204.13_BG_00.png"
+      },
+      "gameId": "SLPS_204.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TAIKO NO TATSUJIN - TAIKO DRUM MASTER [WITH TATAKON]"
+}

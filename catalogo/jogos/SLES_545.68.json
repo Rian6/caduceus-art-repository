@@ -1,0 +1,65 @@
+{
+  "id": "SLES_545.68",
+  "cover": {
+    "path": "PS2/SLES_545.68/SLES_545.68_COV.png",
+    "kind": "cover",
+    "bytes": 98327,
+    "width": 192,
+    "height": 272,
+    "sha256": "19e34eca6c6b292fa7a3bf71ac3f5a741e37de1d4d9b6cb0755464b217f0b37d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54568.jpg"
+    },
+    "gameId": "SLES_545.68"
+  },
+  "disc": {
+    "path": "PS2/SLES_545.68/SLES_545.68_ICO.png",
+    "kind": "disc",
+    "bytes": 11116,
+    "width": 128,
+    "height": 128,
+    "sha256": "8137c9819789815b801432bf206d274dd40390f2d20b4985d358893a16d99427",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_545.68_ICO.png"
+    },
+    "gameId": "SLES_545.68"
+  },
+  "background": {
+    "path": "PS2/SLES_545.68/SLES_545.68_BG.png",
+    "kind": "background",
+    "bytes": 205580,
+    "width": 640,
+    "height": 480,
+    "sha256": "660697ac0c294feabd687da7acbe3911ab73ce3d8f459f2bdf0086e0996a0914",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.68/SLES_545.68_BG_00.png"
+    },
+    "gameId": "SLES_545.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_545.68/SLES_545.68_BG.png",
+      "kind": "background",
+      "bytes": 205580,
+      "width": 640,
+      "height": 480,
+      "sha256": "660697ac0c294feabd687da7acbe3911ab73ce3d8f459f2bdf0086e0996a0914",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.68/SLES_545.68_BG_00.png"
+      },
+      "gameId": "SLES_545.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Covert Command"
+}

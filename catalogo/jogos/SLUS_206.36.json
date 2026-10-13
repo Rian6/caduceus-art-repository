@@ -1,0 +1,143 @@
+{
+  "id": "SLUS_206.36",
+  "cover": {
+    "path": "PS2/SLUS_206.36/SLUS_206.36_COV.png",
+    "kind": "cover",
+    "bytes": 96807,
+    "width": 192,
+    "height": 272,
+    "sha256": "01ebf130244ea5e5baea138a92f55a6d0093757c4f8161b46ab08ea0c6d6863b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20636.jpg"
+    },
+    "gameId": "SLUS_206.36"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.36/SLUS_206.36_ICO.png",
+    "kind": "disc",
+    "bytes": 36571,
+    "width": 256,
+    "height": 256,
+    "sha256": "fdd2ce773fc3ab5c84156626ac59727e06ed7693bb1658909a6c9af84f3e5aa0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.36_ICO.png"
+    },
+    "gameId": "SLUS_206.36"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.36/SLUS_206.36_BG.png",
+    "kind": "background",
+    "bytes": 206302,
+    "width": 640,
+    "height": 480,
+    "sha256": "6060b08903000b822d328da6519012adae1ac14ba1a83a6a48758162a82df035",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.36/SLUS_206.36_BG_00.png"
+    },
+    "gameId": "SLUS_206.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.36/SLUS_206.36_BG.png",
+      "kind": "background",
+      "bytes": 206302,
+      "width": 640,
+      "height": 480,
+      "sha256": "6060b08903000b822d328da6519012adae1ac14ba1a83a6a48758162a82df035",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.36/SLUS_206.36_BG_00.png"
+      },
+      "gameId": "SLUS_206.36"
+    },
+    {
+      "path": "PS2/SLUS_206.36/SLUS_206.36_BG_01.png",
+      "kind": "background",
+      "bytes": 55518,
+      "width": 640,
+      "height": 480,
+      "sha256": "9898317893c809615cab0e5be73aa203c6d4e1845f6d1d9dc7f3dd3ca09aeae9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.36/SLUS_206.36_BG_01.png"
+      },
+      "gameId": "SLUS_206.36"
+    },
+    {
+      "path": "PS2/SLUS_206.36/SLUS_206.36_BG_02.png",
+      "kind": "background",
+      "bytes": 170079,
+      "width": 640,
+      "height": 480,
+      "sha256": "1a880e939cdbfecbe2ef102b37cb5648337815c24d811c49a7fdb20312a09178",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.36/SLUS_206.36_BG_02.png"
+      },
+      "gameId": "SLUS_206.36"
+    },
+    {
+      "path": "PS2/SLUS_206.36/SLUS_206.36_BG_03.png",
+      "kind": "background",
+      "bytes": 77822,
+      "width": 640,
+      "height": 480,
+      "sha256": "ef8192305e00425ff1852f63fa5f87ad87e32e6409f75eefdaa3c2ea37aa7391",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.36/SLUS_206.36_BG_03.png"
+      },
+      "gameId": "SLUS_206.36"
+    },
+    {
+      "path": "PS2/SLUS_206.36/SLUS_206.36_BG_04.png",
+      "kind": "background",
+      "bytes": 188831,
+      "width": 640,
+      "height": 480,
+      "sha256": "5adc69a5884bed01f1f608d036ae8047d11bd73d0a6ec7aae3a9f1f6c7428d1a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.36/SLUS_206.36_BG_04.png"
+      },
+      "gameId": "SLUS_206.36"
+    },
+    {
+      "path": "PS2/SLUS_206.36/SLUS_206.36_BG_05.png",
+      "kind": "background",
+      "bytes": 54881,
+      "width": 640,
+      "height": 480,
+      "sha256": "3b261f4706a25092f9f5395133f7e9b8112d8aa92d79a9894e19f89d8ff81124",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.36/SLUS_206.36_BG_05.png"
+      },
+      "gameId": "SLUS_206.36"
+    },
+    {
+      "path": "PS2/SLUS_206.36/SLUS_206.36_BG_06.png",
+      "kind": "background",
+      "bytes": 163819,
+      "width": 640,
+      "height": 480,
+      "sha256": "f7b2eedf59f38438faec61e8375d879c20f60a001cf1d033e595b27aee0ecd70",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.36/SLUS_206.36_BG_06.png"
+      },
+      "gameId": "SLUS_206.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Suffering"
+}

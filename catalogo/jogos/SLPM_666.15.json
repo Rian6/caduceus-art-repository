@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.15",
+  "cover": {
+    "path": "PS2/SLPM_666.15/SLPM_666.15_COV.png",
+    "kind": "cover",
+    "bytes": 87021,
+    "width": 192,
+    "height": 272,
+    "sha256": "76e71b0399dadede976cd451fcae9867ead5c173e4a53e28e35799b629af68b0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66615.jpg"
+    },
+    "gameId": "SLPM_666.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007: Nightfire"
+}

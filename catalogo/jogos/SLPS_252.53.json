@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.53",
+  "cover": {
+    "path": "PS2/SLPS_252.53/SLPS_252.53_COV.png",
+    "kind": "cover",
+    "bytes": 81231,
+    "width": 192,
+    "height": 272,
+    "sha256": "c5a5917229faef17a4949de49045bb2d96c5d09f6253b6cea28aa11448ca9daf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25253.jpg"
+    },
+    "gameId": "SLPS_252.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mezamashi TV - 10th Anniversary - Kyou no Wanko"
+}

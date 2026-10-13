@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_654.80",
+  "cover": {
+    "path": "PS2/SLPM_654.80/SLPM_654.80_COV.png",
+    "kind": "cover",
+    "bytes": 51172,
+    "width": 192,
+    "height": 272,
+    "sha256": "c10e9e1ab081e92da1a98489580351bced89d4ead6fa9182bca2d3067f5c8764",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65480.jpg"
+    },
+    "gameId": "SLPM_654.80"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_654.80/SLPM_654.80_BG.png",
+    "kind": "background",
+    "bytes": 178078,
+    "width": 640,
+    "height": 480,
+    "sha256": "a340f2bde0b48f29c7dffeafadebee2989025827d4937baf844aa255ebd63c96",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.80/SLPM_654.80_BG_00.png"
+    },
+    "gameId": "SLPM_654.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.80/SLPM_654.80_BG.png",
+      "kind": "background",
+      "bytes": 178078,
+      "width": 640,
+      "height": 480,
+      "sha256": "a340f2bde0b48f29c7dffeafadebee2989025827d4937baf844aa255ebd63c96",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.80/SLPM_654.80_BG_00.png"
+      },
+      "gameId": "SLPM_654.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MICHIGAN"
+}

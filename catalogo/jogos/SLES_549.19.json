@@ -1,0 +1,64 @@
+{
+  "id": "SLES_549.19",
+  "cover": {
+    "path": "PS2/SLES_549.19/SLES_549.19_COV.png",
+    "kind": "cover",
+    "bytes": 105120,
+    "width": 192,
+    "height": 272,
+    "sha256": "c918195ae09f8d95559e7b31785503722fb86909413ec772f0e6ad3192271e84",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54919.jpg"
+    },
+    "gameId": "SLES_549.19"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_549.19/SLES_549.19_BG.png",
+    "kind": "background",
+    "bytes": 167998,
+    "width": 640,
+    "height": 480,
+    "sha256": "0b3cf3744a3ce503adc978a77cee60a2e18cace926c1c913321dab7b8f79f07f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.19/SLES_549.19_BG_00.png"
+    },
+    "gameId": "SLES_549.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_549.19/SLES_549.19_BG.png",
+      "kind": "background",
+      "bytes": 167998,
+      "width": 640,
+      "height": 480,
+      "sha256": "0b3cf3744a3ce503adc978a77cee60a2e18cace926c1c913321dab7b8f79f07f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.19/SLES_549.19_BG_00.png"
+      },
+      "gameId": "SLES_549.19"
+    },
+    {
+      "path": "PS2/SLES_549.19/SLES_549.19_BG_01.png",
+      "kind": "background",
+      "bytes": 155630,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb99f214e13e1bf139a256c0b72f77c7275a9dbea887a483f0a93405ea556fe1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.19/SLES_549.19_BG_01.png"
+      },
+      "gameId": "SLES_549.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Agent Hugo: Lemoon Twist"
+}

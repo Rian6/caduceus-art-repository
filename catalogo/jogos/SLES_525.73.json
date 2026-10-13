@@ -1,0 +1,64 @@
+{
+  "id": "SLES_525.73",
+  "cover": {
+    "path": "PS2/SLES_525.73/SLES_525.73_COV.png",
+    "kind": "cover",
+    "bytes": 96516,
+    "width": 192,
+    "height": 272,
+    "sha256": "a6d17abe8334f92f69130d0cba6030e8f0230782a671bfef74b45d07228a25ae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52573.jpg"
+    },
+    "gameId": "SLES_525.73"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.73/SLES_525.73_BG.png",
+    "kind": "background",
+    "bytes": 193987,
+    "width": 640,
+    "height": 480,
+    "sha256": "4892ed92dc3d3cec62444f178bd168b817f806e51e1a67005da5327b6d4e3b8e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.73/SLES_525.73_BG_00.png"
+    },
+    "gameId": "SLES_525.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.73/SLES_525.73_BG.png",
+      "kind": "background",
+      "bytes": 193987,
+      "width": 640,
+      "height": 480,
+      "sha256": "4892ed92dc3d3cec62444f178bd168b817f806e51e1a67005da5327b6d4e3b8e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.73/SLES_525.73_BG_00.png"
+      },
+      "gameId": "SLES_525.73"
+    },
+    {
+      "path": "PS2/SLES_525.73/SLES_525.73_BG_01.png",
+      "kind": "background",
+      "bytes": 181681,
+      "width": 640,
+      "height": 480,
+      "sha256": "bb13c3f672f17c93ca369db66c8844c4a3bd7bb0e45b4a9cbe9fd40e71ae6765",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.73/SLES_525.73_BG_01.png"
+      },
+      "gameId": "SLES_525.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Conflict: Global Storm"
+}

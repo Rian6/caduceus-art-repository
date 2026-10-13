@@ -1,0 +1,39 @@
+{
+  "id": "SLES_543.66",
+  "cover": {
+    "path": "PS2/SLES_543.66/SLES_543.66_COV.png",
+    "kind": "cover",
+    "bytes": 87743,
+    "width": 192,
+    "height": 272,
+    "sha256": "70684f1b2ba07b8c0bbf08e7a1cbafaa782bed10acde3afcac7aeda7cff22837",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54366.jpg"
+    },
+    "gameId": "SLES_543.66"
+  },
+  "disc": {
+    "path": "PS2/SLES_543.66/SLES_543.66_ICO.png",
+    "kind": "disc",
+    "bytes": 11688,
+    "width": 128,
+    "height": 128,
+    "sha256": "c9136e55e74ee06bcfe0a0c8747d542b52b23ac03ceee976fcec7f5edb167798",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_543.66_ICO.png"
+    },
+    "gameId": "SLES_543.66"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "David Douillet Judo"
+}

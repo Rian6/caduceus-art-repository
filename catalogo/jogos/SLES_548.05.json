@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.05",
+  "cover": {
+    "path": "PS2/SLES_548.05/SLES_548.05_COV.png",
+    "kind": "cover",
+    "bytes": 84714,
+    "width": 192,
+    "height": 272,
+    "sha256": "8bcc5ae4d89611ced03b9223ae1524908897a3086e1fd1a84ade17854e823d84",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54805.jpg"
+    },
+    "gameId": "SLES_548.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wer wird Millionär - Party Edition"
+}

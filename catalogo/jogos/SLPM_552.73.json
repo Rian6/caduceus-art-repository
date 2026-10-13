@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.73",
+  "cover": {
+    "path": "PS2/SLPM_552.73/SLPM_552.73_COV.png",
+    "kind": "cover",
+    "bytes": 114962,
+    "width": 192,
+    "height": 272,
+    "sha256": "b739ccabee4a9f671f0a59008438d7f11ed7a83aa73402cf8b119345b804a001",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55273.jpg"
+    },
+    "gameId": "SLPM_552.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAKUOKI - REIMEIROKU"
+}

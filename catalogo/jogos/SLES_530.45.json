@@ -1,0 +1,103 @@
+{
+  "id": "SLES_530.45",
+  "cover": {
+    "path": "PS2/SLES_530.45/SLES_530.45_COV.png",
+    "kind": "cover",
+    "bytes": 99000,
+    "width": 192,
+    "height": 272,
+    "sha256": "426199bf47be89320f88b42b946cc2da34768d63d3e4c83449483a0461d38a71",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53045.jpg"
+    },
+    "gameId": "SLES_530.45"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_530.45/SLES_530.45_BG.png",
+    "kind": "background",
+    "bytes": 161035,
+    "width": 640,
+    "height": 480,
+    "sha256": "bda4cc06378ca42974f23245a06d93740e9e51b843327848e5891474eb0143e2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.45/SLES_530.45_BG_00.png"
+    },
+    "gameId": "SLES_530.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.45/SLES_530.45_BG.png",
+      "kind": "background",
+      "bytes": 161035,
+      "width": 640,
+      "height": 480,
+      "sha256": "bda4cc06378ca42974f23245a06d93740e9e51b843327848e5891474eb0143e2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.45/SLES_530.45_BG_00.png"
+      },
+      "gameId": "SLES_530.45"
+    },
+    {
+      "path": "PS2/SLES_530.45/SLES_530.45_BG_01.png",
+      "kind": "background",
+      "bytes": 153755,
+      "width": 640,
+      "height": 480,
+      "sha256": "390330f1ae309e3683cb5094478f0b25b3e4a77d78702a6da8b7f21ffa8ac1de",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.45/SLES_530.45_BG_01.png"
+      },
+      "gameId": "SLES_530.45"
+    },
+    {
+      "path": "PS2/SLES_530.45/SLES_530.45_BG_02.png",
+      "kind": "background",
+      "bytes": 149789,
+      "width": 640,
+      "height": 480,
+      "sha256": "37946ec27ed03218f5491f46b48f34e362d1f71633be5d99d935e157d41b4d48",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.45/SLES_530.45_BG_02.png"
+      },
+      "gameId": "SLES_530.45"
+    },
+    {
+      "path": "PS2/SLES_530.45/SLES_530.45_BG_03.png",
+      "kind": "background",
+      "bytes": 137302,
+      "width": 640,
+      "height": 480,
+      "sha256": "84e8f0992c1a4da1fec337189bfda5ea51e53fe91458ba72516106b72dd03233",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.45/SLES_530.45_BG_03.png"
+      },
+      "gameId": "SLES_530.45"
+    },
+    {
+      "path": "PS2/SLES_530.45/SLES_530.45_BG_04.png",
+      "kind": "background",
+      "bytes": 178468,
+      "width": 640,
+      "height": 480,
+      "sha256": "a92e7a3c66026fbf7e30eb44d7656a96bf27f4b9317e284deaa2f9b44ca02a45",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.45/SLES_530.45_BG_04.png"
+      },
+      "gameId": "SLES_530.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Street Racing Syndicate"
+}

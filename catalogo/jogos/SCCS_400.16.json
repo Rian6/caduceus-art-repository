@@ -1,0 +1,64 @@
+{
+  "id": "SCCS_400.16",
+  "cover": {
+    "path": "PS2/SCCS_400.16/SCCS_400.16_COV.png",
+    "kind": "cover",
+    "bytes": 74939,
+    "width": 192,
+    "height": 272,
+    "sha256": "df0f3387cbc8d4675ab5b838ffccff63d42a14c4dde7a32d2e5b5af813784708",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCCS_400.16/SCCS_400.16_COV.png"
+    },
+    "gameId": "SCCS_400.16"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCCS_400.16/SCCS_400.16_BG.png",
+    "kind": "background",
+    "bytes": 178922,
+    "width": 640,
+    "height": 480,
+    "sha256": "d30a3a7c6c0959c3333753864bd5e832c40a945a050c00a4b20f960eeef29e71",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCCS_400.16/SCCS_400.16_BG_00.png"
+    },
+    "gameId": "SCCS_400.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCCS_400.16/SCCS_400.16_BG.png",
+      "kind": "background",
+      "bytes": 178922,
+      "width": 640,
+      "height": 480,
+      "sha256": "d30a3a7c6c0959c3333753864bd5e832c40a945a050c00a4b20f960eeef29e71",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCCS_400.16/SCCS_400.16_BG_00.png"
+      },
+      "gameId": "SCCS_400.16"
+    },
+    {
+      "path": "PS2/SCCS_400.16/SCCS_400.16_BG_01.png",
+      "kind": "background",
+      "bytes": 176348,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c745108c5695a32ac46868d017a40c62186f803bda5fb408c8b183df1342cb7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCCS_400.16/SCCS_400.16_BG_01.png"
+      },
+      "gameId": "SCCS_400.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ape Escape - Pumped & Primed"
+}

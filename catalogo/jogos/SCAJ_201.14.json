@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.14",
+  "cover": {
+    "path": "PS2/SCAJ_201.14/SCAJ_201.14_COV.png",
+    "kind": "cover",
+    "bytes": 84609,
+    "width": 192,
+    "height": 272,
+    "sha256": "b38cc2df88601db7889911fabbf4a1091be17f925478440c72c9ed5adc37f045",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20114.jpg"
+    },
+    "gameId": "SCAJ_201.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TSUKIYO NI SARABA"
+}

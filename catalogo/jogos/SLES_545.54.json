@@ -1,0 +1,25 @@
+{
+  "id": "SLES_545.54",
+  "cover": {
+    "path": "PS2/SLES_545.54/SLES_545.54_COV.png",
+    "kind": "cover",
+    "bytes": 83408,
+    "width": 192,
+    "height": 272,
+    "sha256": "5bccacd3398519491abdd54f80c7a943c282983240a14c43c1842c995dd36ae4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54554.jpg"
+    },
+    "gameId": "SLES_545.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Star Trek - Encounters"
+}

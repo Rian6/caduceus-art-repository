@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.44",
+  "cover": {
+    "path": "PS2/SLPS_200.44/SLPS_200.44_COV.png",
+    "kind": "cover",
+    "bytes": 89369,
+    "width": 192,
+    "height": 272,
+    "sha256": "fcfcc9f6151f77557291e5dab03bae841355828eeaeccd8ab37b10a2ccd5d936",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20044.jpg"
+    },
+    "gameId": "SLPS_200.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "F1 Championship Season 2000"
+}

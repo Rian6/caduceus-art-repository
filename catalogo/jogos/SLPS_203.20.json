@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.20",
+  "cover": {
+    "path": "PS2/SLPS_203.20/SLPS_203.20_COV.png",
+    "kind": "cover",
+    "bytes": 116485,
+    "width": 192,
+    "height": 272,
+    "sha256": "20c8fcb1f957d31802b3d169ee52b00e4a07cf04e7a1e2d8e1f4d37773d4b20a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20320.jpg"
+    },
+    "gameId": "SLPS_203.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin: Appare Sandaime (w/TataKon)"
+}

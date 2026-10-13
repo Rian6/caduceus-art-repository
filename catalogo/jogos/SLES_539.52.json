@@ -1,0 +1,39 @@
+{
+  "id": "SLES_539.52",
+  "cover": {
+    "path": "PS2/SLES_539.52/SLES_539.52_COV.png",
+    "kind": "cover",
+    "bytes": 61822,
+    "width": 192,
+    "height": 272,
+    "sha256": "46c594216830e7f55b5f4d591a345bff03b0297b88dfa281ebcb262656139209",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53952.jpg"
+    },
+    "gameId": "SLES_539.52"
+  },
+  "disc": {
+    "path": "PS2/SLES_539.52/SLES_539.52_ICO.png",
+    "kind": "disc",
+    "bytes": 10591,
+    "width": 128,
+    "height": 128,
+    "sha256": "cb6c4dd8eed29afbfec84dded50d9b38bf4c62c2117df33efd90b97eb23b323e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_539.52_ICO.png"
+    },
+    "gameId": "SLES_539.52"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cue Academy (Snooker-Pool-Billiards)"
+}

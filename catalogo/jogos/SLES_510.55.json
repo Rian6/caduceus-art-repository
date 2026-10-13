@@ -1,0 +1,65 @@
+{
+  "id": "SLES_510.55",
+  "cover": {
+    "path": "PS2/SLES_510.55/SLES_510.55_COV.png",
+    "kind": "cover",
+    "bytes": 95604,
+    "width": 192,
+    "height": 272,
+    "sha256": "bd14b4dcca236df4d263657efe998d9a2de70362297e9cd8da453f79c96b07f7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51055.jpg"
+    },
+    "gameId": "SLES_510.55"
+  },
+  "disc": {
+    "path": "PS2/SLES_510.55/SLES_510.55_ICO.png",
+    "kind": "disc",
+    "bytes": 11258,
+    "width": 128,
+    "height": 128,
+    "sha256": "e8c0019a8df8bb45344d87280f04505c34469af860c00ecc7f6c6e43300b2f15",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_510.55_ICO.png"
+    },
+    "gameId": "SLES_510.55"
+  },
+  "background": {
+    "path": "PS2/SLES_510.55/SLES_510.55_BG.png",
+    "kind": "background",
+    "bytes": 194404,
+    "width": 640,
+    "height": 480,
+    "sha256": "f7edb74946388001f3f2f5b47441ee6829d3022628f22b628c3258a021bd02df",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_510.55/SLES_510.55_BG_00.png"
+    },
+    "gameId": "SLES_510.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_510.55/SLES_510.55_BG.png",
+      "kind": "background",
+      "bytes": 194404,
+      "width": 640,
+      "height": 480,
+      "sha256": "f7edb74946388001f3f2f5b47441ee6829d3022628f22b628c3258a021bd02df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_510.55/SLES_510.55_BG_00.png"
+      },
+      "gameId": "SLES_510.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GO GO GOLF"
+}

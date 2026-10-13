@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_207.24",
+  "cover": {
+    "path": "PS2/SLUS_207.24/SLUS_207.24_COV.png",
+    "kind": "cover",
+    "bytes": 110069,
+    "width": 192,
+    "height": 272,
+    "sha256": "4d2c32e5c739631d2203fb9a508a233be505a4779c8d939003ee77af3285c2a5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20724.jpg"
+    },
+    "gameId": "SLUS_207.24"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.24/SLUS_207.24_ICO.png",
+    "kind": "disc",
+    "bytes": 38111,
+    "width": 256,
+    "height": 256,
+    "sha256": "58678a9b7f4ac28f74722d7a7dcfd35ec3b1d22c7e2a9da0c4ec9797c5295335",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.24_ICO.png"
+    },
+    "gameId": "SLUS_207.24"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.24/SLUS_207.24_BG.png",
+    "kind": "background",
+    "bytes": 133300,
+    "width": 640,
+    "height": 480,
+    "sha256": "5680937730d05e8d8157833e13c5647f696987bcecb47690d85d44832eb051c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.24/SLUS_207.24_BG_00.png"
+    },
+    "gameId": "SLUS_207.24"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.24/SLUS_207.24_BG.png",
+      "kind": "background",
+      "bytes": 133300,
+      "width": 640,
+      "height": 480,
+      "sha256": "5680937730d05e8d8157833e13c5647f696987bcecb47690d85d44832eb051c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.24/SLUS_207.24_BG_00.png"
+      },
+      "gameId": "SLUS_207.24"
+    },
+    {
+      "path": "PS2/SLUS_207.24/SLUS_207.24_BG_01.png",
+      "kind": "background",
+      "bytes": 231312,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f52e83c217a6bcffe52cf6d954063d3e517ab93636efd2771b5310704131bcb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.24/SLUS_207.24_BG_01.png"
+      },
+      "gameId": "SLUS_207.24"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIREFIGHTER F.D. 18"
+}

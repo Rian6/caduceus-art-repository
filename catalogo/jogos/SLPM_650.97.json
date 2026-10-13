@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.97",
+  "cover": {
+    "path": "PS2/SLPM_650.97/SLPM_650.97_COV.png",
+    "kind": "cover",
+    "bytes": 91153,
+    "width": 192,
+    "height": 272,
+    "sha256": "12ee17a498d65d3ae7d4ac4b777de8baf87b122bdb68e58a243c0ad89bffbf49",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65097.jpg"
+    },
+    "gameId": "SLPM_650.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GALACTA MEISAKU GEKIJOU - RAKUGAKI OUKOUKO"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ROSE_000.01",
+  "cover": {
+    "path": "PS2/ROSE_000.01/ROSE_000.01_COV.png",
+    "kind": "cover",
+    "bytes": 104052,
+    "width": 192,
+    "height": 272,
+    "sha256": "99ec60a06dbfbea465a6fe0deaf5f88929ac53f5069e4b2d2e51c06d630a0c57",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/ROSE-00001.jpg"
+    },
+    "gameId": "ROSE_000.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CRIMSON EMPIRE [DELUXE EDITION]"
+}

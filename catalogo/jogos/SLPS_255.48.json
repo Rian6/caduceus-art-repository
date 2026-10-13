@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.48",
+  "cover": {
+    "path": "PS2/SLPS_255.48/SLPS_255.48_COV.png",
+    "kind": "cover",
+    "bytes": 107155,
+    "width": 192,
+    "height": 272,
+    "sha256": "44f64655f87a1a016bacfb2d288be682670642f33b423c6b25a51ca966d47fce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25548.jpg"
+    },
+    "gameId": "SLPS_255.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 8 - Ultra Seven"
+}

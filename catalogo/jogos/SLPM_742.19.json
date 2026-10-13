@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.19",
+  "cover": {
+    "path": "PS2/SLPM_742.19/SLPM_742.19_COV.png",
+    "kind": "cover",
+    "bytes": 80620,
+    "width": 192,
+    "height": 272,
+    "sha256": "734347211ad9e9fc34e2b87efdec66e9729565b936d9a8147b4d12f0420c7d55",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74219.jpg"
+    },
+    "gameId": "SLPM_742.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 3 - Empires (Playstation 2 The Best)"
+}

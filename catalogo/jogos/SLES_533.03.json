@@ -1,0 +1,65 @@
+{
+  "id": "SLES_533.03",
+  "cover": {
+    "path": "PS2/SLES_533.03/SLES_533.03_COV.png",
+    "kind": "cover",
+    "bytes": 78296,
+    "width": 192,
+    "height": 272,
+    "sha256": "10937fdfd56f0ca510fb23478e91d89e4fdf457da15e5d475e6aa8796b40c54d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53303.jpg"
+    },
+    "gameId": "SLES_533.03"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.03/SLES_533.03_ICO.png",
+    "kind": "disc",
+    "bytes": 10526,
+    "width": 128,
+    "height": 128,
+    "sha256": "b4af72a2e259d04ebbdf10bab9ef21c128faf9ff211515197bad243383536da2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.03_ICO.png"
+    },
+    "gameId": "SLES_533.03"
+  },
+  "background": {
+    "path": "PS2/SLES_533.03/SLES_533.03_BG.png",
+    "kind": "background",
+    "bytes": 178287,
+    "width": 640,
+    "height": 480,
+    "sha256": "db536cbbcb31784d1ca7a04e373c4b8b3648f655dd4c5978e43540ce82defdbb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.03/SLES_533.03_BG_00.png"
+    },
+    "gameId": "SLES_533.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.03/SLES_533.03_BG.png",
+      "kind": "background",
+      "bytes": 178287,
+      "width": 640,
+      "height": 480,
+      "sha256": "db536cbbcb31784d1ca7a04e373c4b8b3648f655dd4c5978e43540ce82defdbb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.03/SLES_533.03_BG_00.png"
+      },
+      "gameId": "SLES_533.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RTL Skijumping 2006"
+}

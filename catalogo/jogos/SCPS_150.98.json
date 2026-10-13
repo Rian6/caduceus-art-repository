@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.98",
+  "cover": {
+    "path": "PS2/SCPS_150.98/SCPS_150.98_COV.png",
+    "kind": "cover",
+    "bytes": 89470,
+    "width": 192,
+    "height": 272,
+    "sha256": "dafb7ea21421893e45152c82681c03942dce5dd1addc24cc36491617f8d3386a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15098.jpg"
+    },
+    "gameId": "SCPS_150.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Formula One '05"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_525.57",
+  "cover": {
+    "path": "PS2/SLES_525.57/SLES_525.57_COV.png",
+    "kind": "cover",
+    "bytes": 103257,
+    "width": 192,
+    "height": 272,
+    "sha256": "63cbd0eb87dc6db6f628366243521b5fc4946d656ddac05627bd65aba8e23b82",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52557.jpg"
+    },
+    "gameId": "SLES_525.57"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.57/SLES_525.57_BG.png",
+    "kind": "background",
+    "bytes": 171188,
+    "width": 640,
+    "height": 480,
+    "sha256": "51493453540e57cdf14a8e89ba9273948bc53471109002ca80f2b3f4b1736364",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.57/SLES_525.57_BG_00.png"
+    },
+    "gameId": "SLES_525.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.57/SLES_525.57_BG.png",
+      "kind": "background",
+      "bytes": 171188,
+      "width": 640,
+      "height": 480,
+      "sha256": "51493453540e57cdf14a8e89ba9273948bc53471109002ca80f2b3f4b1736364",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.57/SLES_525.57_BG_00.png"
+      },
+      "gameId": "SLES_525.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Crimson Sea 2"
+}

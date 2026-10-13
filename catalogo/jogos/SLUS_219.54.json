@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_219.54",
+  "cover": {
+    "path": "PS2/SLUS_219.54/SLUS_219.54_COV.png",
+    "kind": "cover",
+    "bytes": 101859,
+    "width": 192,
+    "height": 272,
+    "sha256": "929a2a99e9255fc0e0c18749d121286bb1f2ed479e7b9732b2bce2bfa6fececf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21954.jpg"
+    },
+    "gameId": "SLUS_219.54"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.54/SLUS_219.54_ICO.png",
+    "kind": "disc",
+    "bytes": 35585,
+    "width": 256,
+    "height": 256,
+    "sha256": "bdd12f9e0b841828371173645200220fb88009cf1ed888a9764dfba92cb35fff",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_219.54_ICO.png"
+    },
+    "gameId": "SLUS_219.54"
+  },
+  "background": {
+    "path": "PS2/SLUS_219.54/SLUS_219.54_BG.png",
+    "kind": "background",
+    "bytes": 222176,
+    "width": 640,
+    "height": 480,
+    "sha256": "bd22dd68dd6f93b4ea0337cafcd51e00fe776b8a290c0331e3a3f3291559625f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_219.54/SLUS_219.54_BG_00.png"
+    },
+    "gameId": "SLUS_219.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_219.54/SLUS_219.54_BG.png",
+      "kind": "background",
+      "bytes": 222176,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd22dd68dd6f93b4ea0337cafcd51e00fe776b8a290c0331e3a3f3291559625f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.54/SLUS_219.54_BG_00.png"
+      },
+      "gameId": "SLUS_219.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA 13"
+}

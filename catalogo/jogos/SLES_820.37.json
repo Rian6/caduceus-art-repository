@@ -1,0 +1,64 @@
+{
+  "id": "SLES_820.37",
+  "cover": {
+    "path": "PS2/SLES_820.37/SLES_820.37_COV.png",
+    "kind": "cover",
+    "bytes": 76449,
+    "width": 192,
+    "height": 272,
+    "sha256": "d728154a5d47d2c9818e811371bbd3e3e4f8d4d7de1f90de22891d4f50872f95",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-82037.jpg"
+    },
+    "gameId": "SLES_820.37"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_820.37/SLES_820.37_BG.png",
+    "kind": "background",
+    "bytes": 207312,
+    "width": 640,
+    "height": 480,
+    "sha256": "920277d4503f6d248e60084d87fdf197db4a636410523c9b2fcaba9d7b0736cd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_820.37/SLES_820.37_BG_00.png"
+    },
+    "gameId": "SLES_820.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_820.37/SLES_820.37_BG.png",
+      "kind": "background",
+      "bytes": 207312,
+      "width": 640,
+      "height": 480,
+      "sha256": "920277d4503f6d248e60084d87fdf197db4a636410523c9b2fcaba9d7b0736cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.37/SLES_820.37_BG_00.png"
+      },
+      "gameId": "SLES_820.37"
+    },
+    {
+      "path": "PS2/SLES_820.37/SLES_820.37_BG_01.png",
+      "kind": "background",
+      "bytes": 201457,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c74a2a2c216d3103ce639043f9d674b1a8e6cf9b49e655179940d709d5b3ae9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.37/SLES_820.37_BG_01.png"
+      },
+      "gameId": "SLES_820.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core - Nexus"
+}

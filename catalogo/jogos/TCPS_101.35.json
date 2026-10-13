@@ -1,0 +1,25 @@
+{
+  "id": "TCPS_101.35",
+  "cover": {
+    "path": "PS2/TCPS_101.35/TCPS_101.35_COV.png",
+    "kind": "cover",
+    "bytes": 103011,
+    "width": 192,
+    "height": 272,
+    "sha256": "55311e5e9f182500e97dbaeffd7254045a401e6d0ba50547f2ac862589981906",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/TCPS-10135.jpg"
+    },
+    "gameId": "TCPS_101.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PSYCHIC FORCE COMPLETE [WITH WENDY FIGURINE]"
+}

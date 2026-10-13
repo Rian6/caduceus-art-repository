@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.94",
+  "cover": {
+    "path": "PS2/SLES_526.94/SLES_526.94_COV.png",
+    "kind": "cover",
+    "bytes": 77871,
+    "width": 192,
+    "height": 272,
+    "sha256": "95bbf32e2b548579539804275d6b80952ba175f4d8dedccd35bc1bd9e2b0ae6e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52694.jpg"
+    },
+    "gameId": "SLES_526.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BDFL Manager 2005"
+}

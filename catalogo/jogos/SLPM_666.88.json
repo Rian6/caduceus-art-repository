@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.88",
+  "cover": {
+    "path": "PS2/SLPM_666.88/SLPM_666.88_COV.png",
+    "kind": "cover",
+    "bytes": 109661,
+    "width": 192,
+    "height": 272,
+    "sha256": "a8639e55e9951459931fefd071d45dc4d7bec1dad2480c002157c3277fef108a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66688.jpg"
+    },
+    "gameId": "SLPM_666.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE 3 [KOEI THE BEST]"
+}

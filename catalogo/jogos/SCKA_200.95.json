@@ -1,0 +1,181 @@
+{
+  "id": "SCKA_200.95",
+  "cover": {
+    "path": "PS2/SCKA_200.95/SCKA_200.95_COV.png",
+    "kind": "cover",
+    "bytes": 102554,
+    "width": 192,
+    "height": 272,
+    "sha256": "8286315e07c2e594791ecf7261c0532c12eb64592d6e175655ccc079daa1e300",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20095.jpg"
+    },
+    "gameId": "SCKA_200.95"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.95/SCKA_200.95_BG.png",
+    "kind": "background",
+    "bytes": 164647,
+    "width": 640,
+    "height": 480,
+    "sha256": "efd754ab44b24e18e66c536e1bb657506ee42e25957baedad76ff12d4d6b7ace",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.95/SCKA_200.95_BG_00.png"
+    },
+    "gameId": "SCKA_200.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.95/SCKA_200.95_BG.png",
+      "kind": "background",
+      "bytes": 164647,
+      "width": 640,
+      "height": 480,
+      "sha256": "efd754ab44b24e18e66c536e1bb657506ee42e25957baedad76ff12d4d6b7ace",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.95/SCKA_200.95_BG_00.png"
+      },
+      "gameId": "SCKA_200.95"
+    },
+    {
+      "path": "PS2/SCKA_200.95/SCKA_200.95_BG_01.png",
+      "kind": "background",
+      "bytes": 235482,
+      "width": 640,
+      "height": 480,
+      "sha256": "0f3a289956a4eb977bf1f00c94b2286f4df22cf441e7d452db0c794a02be27d3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.95/SCKA_200.95_BG_01.png"
+      },
+      "gameId": "SCKA_200.95"
+    },
+    {
+      "path": "PS2/SCKA_200.95/SCKA_200.95_BG_02.png",
+      "kind": "background",
+      "bytes": 187410,
+      "width": 640,
+      "height": 480,
+      "sha256": "968876d544a39261f80aa9b82058707824077d0e335b92fb9c12c316889ffa6c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.95/SCKA_200.95_BG_02.png"
+      },
+      "gameId": "SCKA_200.95"
+    },
+    {
+      "path": "PS2/SCKA_200.95/SCKA_200.95_BG_03.png",
+      "kind": "background",
+      "bytes": 205715,
+      "width": 640,
+      "height": 480,
+      "sha256": "d4d7c6ab314241937fd45a456bcc18eb63dcbfe9d6ecf5fb1e5dfaed1c594a9f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.95/SCKA_200.95_BG_03.png"
+      },
+      "gameId": "SCKA_200.95"
+    },
+    {
+      "path": "PS2/SCKA_200.95/SCKA_200.95_BG_04.png",
+      "kind": "background",
+      "bytes": 210822,
+      "width": 640,
+      "height": 480,
+      "sha256": "1e2f6ca2fbae160ac2830fc447dbcf289c232093bc85d08faad19c6d7a40331c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.95/SCKA_200.95_BG_04.png"
+      },
+      "gameId": "SCKA_200.95"
+    },
+    {
+      "path": "PS2/SCKA_200.95/SCKA_200.95_BG_05.png",
+      "kind": "background",
+      "bytes": 246394,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d891d74c5367a40d929bc57bf3b4435bed241dd7256daa47b7b73396e7790b0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.95/SCKA_200.95_BG_05.png"
+      },
+      "gameId": "SCKA_200.95"
+    },
+    {
+      "path": "PS2/SCKA_200.95/SCKA_200.95_BG_06.png",
+      "kind": "background",
+      "bytes": 208332,
+      "width": 640,
+      "height": 480,
+      "sha256": "870d46e968b881d13865e883ee70591ec6b1999a71ef9c0ad3e42876480a8ca0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.95/SCKA_200.95_BG_06.png"
+      },
+      "gameId": "SCKA_200.95"
+    },
+    {
+      "path": "PS2/SCKA_200.95/SCKA_200.95_BG_07.png",
+      "kind": "background",
+      "bytes": 231859,
+      "width": 640,
+      "height": 480,
+      "sha256": "62912530155c15a5c203237a15bf11884fd1c9d6a4cda032eb372de761b9a97f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.95/SCKA_200.95_BG_07.png"
+      },
+      "gameId": "SCKA_200.95"
+    },
+    {
+      "path": "PS2/SCKA_200.95/SCKA_200.95_BG_08.png",
+      "kind": "background",
+      "bytes": 246645,
+      "width": 640,
+      "height": 480,
+      "sha256": "02ede74aa0ca9aa755e12aec60ba04ee4be3b14691600c37a1cb5bb965aa31c0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.95/SCKA_200.95_BG_08.png"
+      },
+      "gameId": "SCKA_200.95"
+    },
+    {
+      "path": "PS2/SCKA_200.95/SCKA_200.95_BG_09.png",
+      "kind": "background",
+      "bytes": 207302,
+      "width": 640,
+      "height": 480,
+      "sha256": "81535bfdf9d922834775aa5dd32b1432e12ad98388d808600ac5f53b7a5d3352",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.95/SCKA_200.95_BG_09.png"
+      },
+      "gameId": "SCKA_200.95"
+    },
+    {
+      "path": "PS2/SCKA_200.95/SCKA_200.95_BG_10.png",
+      "kind": "background",
+      "bytes": 206811,
+      "width": 640,
+      "height": 480,
+      "sha256": "0638c90a7a60d6a61b15438fdce7bb8636cfa490f3481dae00aee28851b4eecf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.95/SCKA_200.95_BG_10.png"
+      },
+      "gameId": "SCKA_200.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OKAMI"
+}

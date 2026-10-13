@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.83",
+  "cover": {
+    "path": "PS2/SLPM_657.83/SLPM_657.83_COV.png",
+    "kind": "cover",
+    "bytes": 96673,
+    "width": 192,
+    "height": 272,
+    "sha256": "e1aa3906cf17f4775d429e3af370659fb76ae5bcead90fa59d15261a6241880f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65783.jpg"
+    },
+    "gameId": "SLPM_657.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nobunaga no Yabou -  Online - Tappi no Shou"
+}

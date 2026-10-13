@@ -1,0 +1,25 @@
+{
+  "id": "SLES_532.24",
+  "cover": {
+    "path": "PS2/SLES_532.24/SLES_532.24_COV.png",
+    "kind": "cover",
+    "bytes": 88625,
+    "width": 192,
+    "height": 272,
+    "sha256": "6d976915efc8ea40839a8a150564d9251b65c0ec18bdec1d41f4d582acb8a738",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53224.jpg"
+    },
+    "gameId": "SLES_532.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Championship Manager 5"
+}

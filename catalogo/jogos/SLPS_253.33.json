@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.33",
+  "cover": {
+    "path": "PS2/SLPS_253.33/SLPS_253.33_COV.png",
+    "kind": "cover",
+    "bytes": 110049,
+    "width": 192,
+    "height": 272,
+    "sha256": "09779392c17efee9ce22e609b3d6f64b39954a8429c434709609004e11b72619",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25333.jpg"
+    },
+    "gameId": "SLPS_253.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gallop Racer - Lucky 7"
+}

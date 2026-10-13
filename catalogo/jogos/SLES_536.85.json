@@ -1,0 +1,51 @@
+{
+  "id": "SLES_536.85",
+  "cover": {
+    "path": "PS2/SLES_536.85/SLES_536.85_COV.png",
+    "kind": "cover",
+    "bytes": 107960,
+    "width": 192,
+    "height": 272,
+    "sha256": "a27dc8df694d50d0427f84a4f07035cd13eb22220d0fe9f668f70e97ee9f9cd1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53685.jpg"
+    },
+    "gameId": "SLES_536.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_536.85/SLES_536.85_BG.png",
+    "kind": "background",
+    "bytes": 162766,
+    "width": 640,
+    "height": 480,
+    "sha256": "47c1f491a5568ba9d32d3a89347dacb1a59b25e64929a2490a94b8ad9dce5131",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.85/SLES_536.85_BG_00.png"
+    },
+    "gameId": "SLES_536.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_536.85/SLES_536.85_BG.png",
+      "kind": "background",
+      "bytes": 162766,
+      "width": 640,
+      "height": 480,
+      "sha256": "47c1f491a5568ba9d32d3a89347dacb1a59b25e64929a2490a94b8ad9dce5131",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.85/SLES_536.85_BG_00.png"
+      },
+      "gameId": "SLES_536.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Codename: Kids Next Door: Operation: V.I.D.E.O.G.A.M.E."
+}

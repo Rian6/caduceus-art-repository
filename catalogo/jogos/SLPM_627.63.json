@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.63",
+  "cover": {
+    "path": "PS2/SLPM_627.63/SLPM_627.63_COV.png",
+    "kind": "cover",
+    "bytes": 94172,
+    "width": 192,
+    "height": 272,
+    "sha256": "2351bf686d73409d527e5bf218ba748203ab829973ca66ec2ac0086e261a6dbf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62763.jpg"
+    },
+    "gameId": "SLPM_627.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bomberman Land 3 (Hudson the Best)"
+}

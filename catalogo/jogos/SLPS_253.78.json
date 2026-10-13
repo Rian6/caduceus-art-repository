@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.78",
+  "cover": {
+    "path": "PS2/SLPS_253.78/SLPS_253.78_COV.png",
+    "kind": "cover",
+    "bytes": 103084,
+    "width": 192,
+    "height": 272,
+    "sha256": "993009a529ac2f3b82259c3ca9a8702d40e1966a458bc39641920ac5cfca0839",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25378.jpg"
+    },
+    "gameId": "SLPS_253.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOKYO MAJIN GAKUEN - KAIHOUJYOU KEFUROKOU [LIMITED EDITION]"
+}

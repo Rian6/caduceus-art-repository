@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_210.37",
+  "cover": {
+    "path": "PS2/SLUS_210.37/SLUS_210.37_COV.png",
+    "kind": "cover",
+    "bytes": 83199,
+    "width": 192,
+    "height": 272,
+    "sha256": "0bef841aa3099fdbff1cea993b3bc5712a25a3fb68d0731e9698815f1bc1216b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21037.jpg"
+    },
+    "gameId": "SLUS_210.37"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.37/SLUS_210.37_ICO.png",
+    "kind": "disc",
+    "bytes": 36352,
+    "width": 256,
+    "height": 256,
+    "sha256": "e323ef3ba6628e15b81967a5e2b8723c7297ea075bb69723db32c003e727784a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.37_ICO.png"
+    },
+    "gameId": "SLUS_210.37"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.37/SLUS_210.37_BG.png",
+    "kind": "background",
+    "bytes": 195615,
+    "width": 640,
+    "height": 480,
+    "sha256": "6382e0a3a77fda01c3953e8a4d0dd2fdc5ec2b472f3668d4a280b40fd7d0b7dd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.37/SLUS_210.37_BG_00.png"
+    },
+    "gameId": "SLUS_210.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.37/SLUS_210.37_BG.png",
+      "kind": "background",
+      "bytes": 195615,
+      "width": 640,
+      "height": 480,
+      "sha256": "6382e0a3a77fda01c3953e8a4d0dd2fdc5ec2b472f3668d4a280b40fd7d0b7dd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.37/SLUS_210.37_BG_00.png"
+      },
+      "gameId": "SLUS_210.37"
+    },
+    {
+      "path": "PS2/SLUS_210.37/SLUS_210.37_BG_01.png",
+      "kind": "background",
+      "bytes": 173995,
+      "width": 640,
+      "height": 480,
+      "sha256": "1452038720cf42a050d7080656b92c6af2b7fd5e49cff749c7fbfdac0d8df6fc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.37/SLUS_210.37_BG_01.png"
+      },
+      "gameId": "SLUS_210.37"
+    },
+    {
+      "path": "PS2/SLUS_210.37/SLUS_210.37_BG_02.png",
+      "kind": "background",
+      "bytes": 218474,
+      "width": 640,
+      "height": 480,
+      "sha256": "42d5f81724f8398af3bfde11c3d34241f9e872218d32839e1a5268f8ec7b745e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.37/SLUS_210.37_BG_02.png"
+      },
+      "gameId": "SLUS_210.37"
+    },
+    {
+      "path": "PS2/SLUS_210.37/SLUS_210.37_BG_03.png",
+      "kind": "background",
+      "bytes": 151162,
+      "width": 640,
+      "height": 480,
+      "sha256": "ce0f0929cc0a4d92cb7bac6c2bf95f7cd1e8b1c623917b2c8b48ae60adbce56b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.37/SLUS_210.37_BG_03.png"
+      },
+      "gameId": "SLUS_210.37"
+    },
+    {
+      "path": "PS2/SLUS_210.37/SLUS_210.37_BG_04.png",
+      "kind": "background",
+      "bytes": 227288,
+      "width": 640,
+      "height": 480,
+      "sha256": "358cf6235d18ebe527e15627a97ac2ed9cf1578a727711caf3a4e1ac5cd7aedd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.37/SLUS_210.37_BG_04.png"
+      },
+      "gameId": "SLUS_210.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PROJECT - SNOWBLIND"
+}

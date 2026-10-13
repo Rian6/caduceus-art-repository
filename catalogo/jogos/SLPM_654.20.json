@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.20",
+  "cover": {
+    "path": "PS2/SLPM_654.20/SLPM_654.20_COV.png",
+    "kind": "cover",
+    "bytes": 96571,
+    "width": 192,
+    "height": 272,
+    "sha256": "cad36768910cf03ce06ada593dfd515db02264902859366ee57613f83594cc5c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65420.jpg"
+    },
+    "gameId": "SLPM_654.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Derby Tsuku 3 - Derby Uma o Tsukurou!"
+}

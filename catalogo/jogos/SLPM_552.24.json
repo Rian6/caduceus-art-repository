@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.24",
+  "cover": {
+    "path": "PS2/SLPM_552.24/SLPM_552.24_COV.png",
+    "kind": "cover",
+    "bytes": 108975,
+    "width": 192,
+    "height": 272,
+    "sha256": "e271fa9df14fd4b8b8b8fc56c912e2a6cffffd8e61186b7d9dd8040468efec7f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55224.jpg"
+    },
+    "gameId": "SLPM_552.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SENGOKU BASARA X [BEST PRICE]"
+}

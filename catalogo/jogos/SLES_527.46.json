@@ -1,0 +1,25 @@
+{
+  "id": "SLES_527.46",
+  "cover": {
+    "path": "PS2/SLES_527.46/SLES_527.46_COV.png",
+    "kind": "cover",
+    "bytes": 94551,
+    "width": 192,
+    "height": 272,
+    "sha256": "65a6e27ed46a0c515f83f0db17bc909f46063b5b4e17c60c9016295c4a277a40",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52746.jpg"
+    },
+    "gameId": "SLES_527.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hugo: CannonCruise"
+}

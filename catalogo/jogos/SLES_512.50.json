@@ -1,0 +1,51 @@
+{
+  "id": "SLES_512.50",
+  "cover": {
+    "path": "PS2/SLES_512.50/SLES_512.50_COV.png",
+    "kind": "cover",
+    "bytes": 100770,
+    "width": 192,
+    "height": 272,
+    "sha256": "f268eaf14a3130071bfd313a6925123e87f3c8c56c55026672b0c267a8d11c7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51250.jpg"
+    },
+    "gameId": "SLES_512.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_512.50/SLES_512.50_BG.png",
+    "kind": "background",
+    "bytes": 111923,
+    "width": 640,
+    "height": 480,
+    "sha256": "b4c51bfbf6761a338c0634444c5d96c6cd2cb627cef04e64c94e39fd2d06624a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_512.50/SLES_512.50_BG_00.png"
+    },
+    "gameId": "SLES_512.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_512.50/SLES_512.50_BG.png",
+      "kind": "background",
+      "bytes": 111923,
+      "width": 640,
+      "height": 480,
+      "sha256": "b4c51bfbf6761a338c0634444c5d96c6cd2cb627cef04e64c94e39fd2d06624a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.50/SLES_512.50_BG_00.png"
+      },
+      "gameId": "SLES_512.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shox: Rally Reinvented"
+}

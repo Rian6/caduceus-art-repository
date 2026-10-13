@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.50",
+  "cover": {
+    "path": "PS2/SLPS_251.50/SLPS_251.50_COV.png",
+    "kind": "cover",
+    "bytes": 104415,
+    "width": 192,
+    "height": 272,
+    "sha256": "e9e5ac733939ad8dfae6c819c9da88dda46d5f7f00e74932e610498111a9e984",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25150.jpg"
+    },
+    "gameId": "SLPS_251.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONLY YOU LIBER CROSS [WITH DRAMA CD]"
+}

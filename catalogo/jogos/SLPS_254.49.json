@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_254.49",
+  "cover": {
+    "path": "PS2/SLPS_254.49/SLPS_254.49_COV.png",
+    "kind": "cover",
+    "bytes": 86580,
+    "width": 192,
+    "height": 272,
+    "sha256": "9ef6e0b227f1f34bfd717afa3846b1826b51fc770a487ad287dafa168632f571",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25449.jpg"
+    },
+    "gameId": "SLPS_254.49"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_254.49/SLPS_254.49_BG.png",
+    "kind": "background",
+    "bytes": 140447,
+    "width": 640,
+    "height": 480,
+    "sha256": "dd64d6c04b6b7e413f005df8281be1e1716f04478c4433cd76f52cebc8ea54dd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_254.49/SLPS_254.49_BG_00.png"
+    },
+    "gameId": "SLPS_254.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_254.49/SLPS_254.49_BG.png",
+      "kind": "background",
+      "bytes": 140447,
+      "width": 640,
+      "height": 480,
+      "sha256": "dd64d6c04b6b7e413f005df8281be1e1716f04478c4433cd76f52cebc8ea54dd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.49/SLPS_254.49_BG_00.png"
+      },
+      "gameId": "SLPS_254.49"
+    },
+    {
+      "path": "PS2/SLPS_254.49/SLPS_254.49_BG_01.png",
+      "kind": "background",
+      "bytes": 160115,
+      "width": 640,
+      "height": 480,
+      "sha256": "579e9bcbded8acd36ed6f820578e47b09ff52530a84842e3bd9330f69d7a36a9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.49/SLPS_254.49_BG_01.png"
+      },
+      "gameId": "SLPS_254.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters '94 - Re-Bout"
+}

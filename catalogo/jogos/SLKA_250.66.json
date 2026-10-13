@@ -1,0 +1,64 @@
+{
+  "id": "SLKA_250.66",
+  "cover": {
+    "path": "PS2/SLKA_250.66/SLKA_250.66_COV.png",
+    "kind": "cover",
+    "bytes": 80950,
+    "width": 192,
+    "height": 272,
+    "sha256": "9bf0b730c8ee825e43792a4b7515c196758df62910f0df96eef5623d6a6c4829",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25066.jpg"
+    },
+    "gameId": "SLKA_250.66"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_250.66/SLKA_250.66_BG.png",
+    "kind": "background",
+    "bytes": 206172,
+    "width": 640,
+    "height": 480,
+    "sha256": "dd119fb74d7442c563f84e76a30772c577300e934a8c1371712ff2ea70b79688",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.66/SLKA_250.66_BG_00.png"
+    },
+    "gameId": "SLKA_250.66"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_250.66/SLKA_250.66_BG.png",
+      "kind": "background",
+      "bytes": 206172,
+      "width": 640,
+      "height": 480,
+      "sha256": "dd119fb74d7442c563f84e76a30772c577300e934a8c1371712ff2ea70b79688",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.66/SLKA_250.66_BG_00.png"
+      },
+      "gameId": "SLKA_250.66"
+    },
+    {
+      "path": "PS2/SLKA_250.66/SLKA_250.66_BG_01.png",
+      "kind": "background",
+      "bytes": 190974,
+      "width": 640,
+      "height": 480,
+      "sha256": "72b8025cdc34524af939ac1546cef98e9d817febe80f119b805035946dca9e0f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.66/SLKA_250.66_BG_01.png"
+      },
+      "gameId": "SLKA_250.66"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zone of the Enders - The 2nd Runner"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_193.29",
+  "cover": {
+    "path": "PS2/SCPS_193.29/SCPS_193.29_COV.png",
+    "kind": "cover",
+    "bytes": 78079,
+    "width": 192,
+    "height": 272,
+    "sha256": "341e9008e55899e557282b0b356ab4fc05afa58a514d7cc8d109431e700208ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19329.jpg"
+    },
+    "gameId": "SCPS_193.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bleach - Blade Battles (Playstation 2 The Best)"
+}

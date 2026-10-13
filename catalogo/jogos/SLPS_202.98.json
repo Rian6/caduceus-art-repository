@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.98",
+  "cover": {
+    "path": "PS2/SLPS_202.98/SLPS_202.98_COV.png",
+    "kind": "cover",
+    "bytes": 106872,
+    "width": 192,
+    "height": 272,
+    "sha256": "141b6ee8a7d35b600ca13853abfb54a325dca83c3dbf0c721b66436e475e6521",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20298.jpg"
+    },
+    "gameId": "SLPS_202.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fever 8 - Sankyo Koushiki Pachinko Simulation"
+}

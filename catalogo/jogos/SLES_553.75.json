@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.75",
+  "cover": {
+    "path": "PS2/SLES_553.75/SLES_553.75_COV.png",
+    "kind": "cover",
+    "bytes": 100550,
+    "width": 192,
+    "height": 272,
+    "sha256": "0027fc0d49851ce9ed49c5b75c542d62bc3576883a409c533a7aa8bbd48f9946",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55375.jpg"
+    },
+    "gameId": "SLES_553.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamWorks' Madagascar 2 - Escape 2 Africa"
+}

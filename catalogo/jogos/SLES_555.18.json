@@ -1,0 +1,25 @@
+{
+  "id": "SLES_555.18",
+  "cover": {
+    "path": "PS2/SLES_555.18/SLES_555.18_COV.png",
+    "kind": "cover",
+    "bytes": 69523,
+    "width": 192,
+    "height": 272,
+    "sha256": "a51d0162357043878dbab1bcea1f575d6c99202cd1172fe091c4896d796aec18",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_555.18/SLES_555.18_COV.png"
+    },
+    "gameId": "SLES_555.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guitar Hero: Van Halen"
+}

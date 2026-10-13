@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.66",
+  "cover": {
+    "path": "PS2/SLPS_257.66/SLPS_257.66_COV.png",
+    "kind": "cover",
+    "bytes": 100636,
+    "width": 192,
+    "height": 272,
+    "sha256": "645cdcddafea69e2e3ed1417814c3672c60ca10d9e47e928a0d80119b1c65ebe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25766.jpg"
+    },
+    "gameId": "SLPS_257.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ORANGE HONEY BOKU WA KIMI NI KOISHITERU [LIMITED EDITION]"
+}

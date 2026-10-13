@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.08",
+  "cover": {
+    "path": "PS2/SLPM_666.08/SLPM_666.08_COV.png",
+    "kind": "cover",
+    "bytes": 107013,
+    "width": 192,
+    "height": 272,
+    "sha256": "7571f095908b7780da4ff11ad8106bad5864d4756d44fa8552b784d16a264b59",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66608.jpg"
+    },
+    "gameId": "SLPM_666.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tennis no Oji-Sama - DokiDoki Survival - Sanroku no Mystic"
+}

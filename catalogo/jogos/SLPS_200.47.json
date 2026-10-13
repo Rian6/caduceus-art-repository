@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.47",
+  "cover": {
+    "path": "PS2/SLPS_200.47/SLPS_200.47_COV.png",
+    "kind": "cover",
+    "bytes": 99193,
+    "width": 192,
+    "height": 272,
+    "sha256": "199e4887f4b6a66ea69df6c735a8662904f839d0416a2cae7d2012dabdd49679",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20047.jpg"
+    },
+    "gameId": "SLPS_200.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Toudai Shogi"
+}

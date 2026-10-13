@@ -1,0 +1,51 @@
+{
+  "id": "SLES_502.80",
+  "cover": {
+    "path": "PS2/SLES_502.80/SLES_502.80_COV.png",
+    "kind": "cover",
+    "bytes": 91062,
+    "width": 192,
+    "height": 272,
+    "sha256": "71db965eff7431c5f5e5662c0f68cfdc87d553315d14d7abf525e26d4c796d1b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50280.jpg"
+    },
+    "gameId": "SLES_502.80"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_502.80/SLES_502.80_BG.png",
+    "kind": "background",
+    "bytes": 139016,
+    "width": 640,
+    "height": 480,
+    "sha256": "e4721f38df0fefceed6e8606f38d26c26a6b912b0b63844951d8ecfae31c0154",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.80/SLES_502.80_BG_00.png"
+    },
+    "gameId": "SLES_502.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.80/SLES_502.80_BG.png",
+      "kind": "background",
+      "bytes": 139016,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4721f38df0fefceed6e8606f38d26c26a6b912b0b63844951d8ecfae31c0154",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.80/SLES_502.80_BG_00.png"
+      },
+      "gameId": "SLES_502.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Victorious Boxers – Ippo’s Road Ato Glory"
+}

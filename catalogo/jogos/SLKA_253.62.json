@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.62",
+  "cover": {
+    "path": "PS2/SLKA_253.62/SLKA_253.62_COV.png",
+    "kind": "cover",
+    "bytes": 87294,
+    "width": 192,
+    "height": 272,
+    "sha256": "eeb27ce431bd689ae0ba32dab1d2e167e965d1fb086249669861ef78cee9ad16",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25362.jpg"
+    },
+    "gameId": "SLKA_253.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SEGA RALLY 2006"
+}

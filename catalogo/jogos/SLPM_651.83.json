@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.83",
+  "cover": {
+    "path": "PS2/SLPM_651.83/SLPM_651.83_COV.png",
+    "kind": "cover",
+    "bytes": 81542,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0d769ed785183fc14951b6d744b5fa00b4092e0682f40175c3b7ca0e94158bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65183.jpg"
+    },
+    "gameId": "SLPM_651.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AUTO MODELLISTA [MODEM PACK]"
+}

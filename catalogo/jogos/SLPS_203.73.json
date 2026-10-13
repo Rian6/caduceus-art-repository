@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.73",
+  "cover": {
+    "path": "PS2/SLPS_203.73/SLPS_203.73_COV.png",
+    "kind": "cover",
+    "bytes": 97518,
+    "width": 192,
+    "height": 272,
+    "sha256": "c2a920d5b3718eebf471a742ed959e5ecedff1bbe27b666f59442b0970cac65e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20373.jpg"
+    },
+    "gameId": "SLPS_203.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JISSEN PACHI-SLOT HISSHOUHOU! HOKUTO NO KEN"
+}

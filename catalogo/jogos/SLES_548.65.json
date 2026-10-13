@@ -1,0 +1,78 @@
+{
+  "id": "SLES_548.65",
+  "cover": {
+    "path": "PS2/SLES_548.65/SLES_548.65_COV.png",
+    "kind": "cover",
+    "bytes": 106736,
+    "width": 192,
+    "height": 272,
+    "sha256": "0627f9e9c1235491354547cb8dac83f6d9b1529c5c8d4e67c0edcb4801d842b9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54865.jpg"
+    },
+    "gameId": "SLES_548.65"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.65/SLES_548.65_ICO.png",
+    "kind": "disc",
+    "bytes": 11637,
+    "width": 128,
+    "height": 128,
+    "sha256": "30d4a36c45919c82dfa34de5e1751737c1db59615959e5b325f0d5c9535b5fef",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.65_ICO.png"
+    },
+    "gameId": "SLES_548.65"
+  },
+  "background": {
+    "path": "PS2/SLES_548.65/SLES_548.65_BG.png",
+    "kind": "background",
+    "bytes": 86960,
+    "width": 640,
+    "height": 480,
+    "sha256": "bf706d45458ce0ab6d53219eec61255c7f2f741c22f55d9427a32231e27640b2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.65/SLES_548.65_BG_00.png"
+    },
+    "gameId": "SLES_548.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.65/SLES_548.65_BG.png",
+      "kind": "background",
+      "bytes": 86960,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf706d45458ce0ab6d53219eec61255c7f2f741c22f55d9427a32231e27640b2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.65/SLES_548.65_BG_00.png"
+      },
+      "gameId": "SLES_548.65"
+    },
+    {
+      "path": "PS2/SLES_548.65/SLES_548.65_BG_01.png",
+      "kind": "background",
+      "bytes": 168048,
+      "width": 640,
+      "height": 480,
+      "sha256": "91a8e6b85010d0de66a6c1102daad04bc73d31882fe09cf211bef83fbcc9cd74",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.65/SLES_548.65_BG_01.png"
+      },
+      "gameId": "SLES_548.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Crabby Adventure"
+}

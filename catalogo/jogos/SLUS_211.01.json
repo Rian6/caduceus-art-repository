@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_211.01",
+  "cover": {
+    "path": "PS2/SLUS_211.01/SLUS_211.01_COV.png",
+    "kind": "cover",
+    "bytes": 86673,
+    "width": 192,
+    "height": 272,
+    "sha256": "841d9e55b171148b02954a2d979ce9e56b4c5e6f1b03660d64d5df32a442f880",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21101.jpg"
+    },
+    "gameId": "SLUS_211.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mortal Kombat - Deception (Premium Pack)"
+}

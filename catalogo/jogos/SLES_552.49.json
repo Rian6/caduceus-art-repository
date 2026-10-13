@@ -1,0 +1,103 @@
+{
+  "id": "SLES_552.49",
+  "cover": {
+    "path": "PS2/SLES_552.49/SLES_552.49_COV.png",
+    "kind": "cover",
+    "bytes": 77162,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d65d2703601721f243fb70b6ec58bb327edaddba04ddac6b0a122d3be9f8951",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55249.jpg"
+    },
+    "gameId": "SLES_552.49"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_552.49/SLES_552.49_BG.png",
+    "kind": "background",
+    "bytes": 182473,
+    "width": 640,
+    "height": 480,
+    "sha256": "345a042df6edcc9e3a2eb121537a58231fe4c24cb24f105454a09817c239f63a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_552.49/SLES_552.49_BG_00.png"
+    },
+    "gameId": "SLES_552.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_552.49/SLES_552.49_BG.png",
+      "kind": "background",
+      "bytes": 182473,
+      "width": 640,
+      "height": 480,
+      "sha256": "345a042df6edcc9e3a2eb121537a58231fe4c24cb24f105454a09817c239f63a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.49/SLES_552.49_BG_00.png"
+      },
+      "gameId": "SLES_552.49"
+    },
+    {
+      "path": "PS2/SLES_552.49/SLES_552.49_BG_01.png",
+      "kind": "background",
+      "bytes": 191467,
+      "width": 640,
+      "height": 480,
+      "sha256": "59ad7489021ce81d40a31bcf925933f838a8d3168b62843f1fc9e91694a1b09f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.49/SLES_552.49_BG_01.png"
+      },
+      "gameId": "SLES_552.49"
+    },
+    {
+      "path": "PS2/SLES_552.49/SLES_552.49_BG_02.png",
+      "kind": "background",
+      "bytes": 230295,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9170cb22687c449ff2c63ad196cc7ec0a3a38f6ac279be9433b1eb5abaaf1ec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.49/SLES_552.49_BG_02.png"
+      },
+      "gameId": "SLES_552.49"
+    },
+    {
+      "path": "PS2/SLES_552.49/SLES_552.49_BG_03.png",
+      "kind": "background",
+      "bytes": 188770,
+      "width": 640,
+      "height": 480,
+      "sha256": "8368b0257b031b1807b11acf5eb7dd8ebdf043a0021772f6cb447f992dc3f8a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.49/SLES_552.49_BG_03.png"
+      },
+      "gameId": "SLES_552.49"
+    },
+    {
+      "path": "PS2/SLES_552.49/SLES_552.49_BG_04.png",
+      "kind": "background",
+      "bytes": 169770,
+      "width": 640,
+      "height": 480,
+      "sha256": "c9e831fb8b281ffe3fe4c2378d393d2cdc6b2ac823c6323cdaf8dd0af9fae79b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.49/SLES_552.49_BG_04.png"
+      },
+      "gameId": "SLES_552.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harry Potter and the Half-Blood Prince"
+}

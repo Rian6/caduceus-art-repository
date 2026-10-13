@@ -1,0 +1,25 @@
+{
+  "id": "SLES_518.33",
+  "cover": {
+    "path": "PS2/SLES_518.33/SLES_518.33_COV.png",
+    "kind": "cover",
+    "bytes": 95668,
+    "width": 192,
+    "height": 272,
+    "sha256": "648058f5cf4b104b5cfcd56e611cc54e5548fd081dfb2ada48458f165eb77c81",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51833.jpg"
+    },
+    "gameId": "SLES_518.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Premier Manager 2003/2004"
+}

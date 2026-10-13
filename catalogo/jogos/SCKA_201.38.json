@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_201.38",
+  "cover": {
+    "path": "PS2/SCKA_201.38/SCKA_201.38_COV.png",
+    "kind": "cover",
+    "bytes": 84590,
+    "width": 192,
+    "height": 272,
+    "sha256": "b285fb026b582c545b8f7ac763d34db322a0adad7636390f11e00640a934f1eb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20138.jpg"
+    },
+    "gameId": "SCKA_201.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XII International Zodiac Job System (Ultimate Hits)"
+}

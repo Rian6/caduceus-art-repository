@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.82",
+  "cover": {
+    "path": "PS2/SLPS_255.82/SLPS_255.82_COV.png",
+    "kind": "cover",
+    "bytes": 104526,
+    "width": 192,
+    "height": 272,
+    "sha256": "f7b576440fec68214c00fbbf3b16d79552f23ec0de68c376d601c747f29d1201",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25582.jpg"
+    },
+    "gameId": "SLPS_255.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Astro Kyuudan Kessen"
+}

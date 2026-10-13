@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.68",
+  "cover": {
+    "path": "PS2/SCKA_200.68/SCKA_200.68_COV.png",
+    "kind": "cover",
+    "bytes": 104270,
+    "width": 192,
+    "height": 272,
+    "sha256": "5a3a2a6c78959b0acd60b8d1088e9687c327ca52453fed514c77048ba279a9e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20068.jpg"
+    },
+    "gameId": "SCKA_200.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar Cars"
+}

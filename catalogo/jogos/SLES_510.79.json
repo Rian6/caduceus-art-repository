@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.79",
+  "cover": {
+    "path": "PS2/SLES_510.79/SLES_510.79_COV.png",
+    "kind": "cover",
+    "bytes": 80094,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f7b3ee69db76b5020ac185285eb508245cf118e959c8f32fc7aeed7ebd7ccf5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51079.jpg"
+    },
+    "gameId": "SLES_510.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - AJAX AMSTERDAM"
+}

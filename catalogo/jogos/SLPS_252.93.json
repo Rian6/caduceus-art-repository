@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_252.93",
+  "cover": {
+    "path": "PS2/SLPS_252.93/SLPS_252.93_COV.png",
+    "kind": "cover",
+    "bytes": 111825,
+    "width": 192,
+    "height": 272,
+    "sha256": "9a8cfd600a1522598c97ce340b043fa34d8bdebbfe630c76c4bf3e2e74a83d59",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25293.jpg"
+    },
+    "gameId": "SLPS_252.93"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_252.93/SLPS_252.93_BG.png",
+    "kind": "background",
+    "bytes": 177942,
+    "width": 640,
+    "height": 480,
+    "sha256": "c0b690636b9711886654aff723c2d7b123adf45e6900836fdacfa8abff45b935",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_252.93/SLPS_252.93_BG_00.png"
+    },
+    "gameId": "SLPS_252.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_252.93/SLPS_252.93_BG.png",
+      "kind": "background",
+      "bytes": 177942,
+      "width": 640,
+      "height": 480,
+      "sha256": "c0b690636b9711886654aff723c2d7b123adf45e6900836fdacfa8abff45b935",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.93/SLPS_252.93_BG_00.png"
+      },
+      "gameId": "SLPS_252.93"
+    },
+    {
+      "path": "PS2/SLPS_252.93/SLPS_252.93_BG_01.png",
+      "kind": "background",
+      "bytes": 211011,
+      "width": 640,
+      "height": 480,
+      "sha256": "ec7b7abf3a5bbed47b324c5d1eb3ced0e442fe708cd062eb6ddb1ce55f460aba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.93/SLPS_252.93_BG_01.png"
+      },
+      "gameId": "SLPS_252.93"
+    },
+    {
+      "path": "PS2/SLPS_252.93/SLPS_252.93_BG_02.png",
+      "kind": "background",
+      "bytes": 100150,
+      "width": 640,
+      "height": 480,
+      "sha256": "e5402087d5afbd2dae7c4e69304257e2647e8bfde6eac67dd7471780864405e9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.93/SLPS_252.93_BG_02.png"
+      },
+      "gameId": "SLPS_252.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Naruto: Narutimate Hero"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.14",
+  "cover": {
+    "path": "PS2/SLPS_202.14/SLPS_202.14_COV.png",
+    "kind": "cover",
+    "bytes": 111249,
+    "width": 192,
+    "height": 272,
+    "sha256": "7c0ae0a5dcc37b68a56eefac4aa9b8483d9dde4680daa862b21d00e101e609a5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20214.jpg"
+    },
+    "gameId": "SLPS_202.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "3-D Kakutou Tsukuru 2"
+}

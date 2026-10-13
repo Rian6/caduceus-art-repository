@@ -1,0 +1,65 @@
+{
+  "id": "SCES_536.69",
+  "cover": {
+    "path": "PS2/SCES_536.69/SCES_536.69_COV.png",
+    "kind": "cover",
+    "bytes": 97742,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed3ddb2868c48a703441fd26394ea004437d04fa2c4a86b6d410327750f34244",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53669.jpg"
+    },
+    "gameId": "SCES_536.69"
+  },
+  "disc": {
+    "path": "PS2/SCES_536.69/SCES_536.69_ICO.png",
+    "kind": "disc",
+    "bytes": 10962,
+    "width": 128,
+    "height": 128,
+    "sha256": "0baf4a3c30a1c2285735866f5266e953d9dab0f98043c9e002d358c3aced5603",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_536.69_ICO.png"
+    },
+    "gameId": "SCES_536.69"
+  },
+  "background": {
+    "path": "PS2/SCES_536.69/SCES_536.69_BG.png",
+    "kind": "background",
+    "bytes": 159794,
+    "width": 640,
+    "height": 480,
+    "sha256": "30ac99f01d4e236416b6daca7daaad1b5ec00069a52a1e34874d45d7aab10a4b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_536.69/SCES_536.69_BG_00.png"
+    },
+    "gameId": "SCES_536.69"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_536.69/SCES_536.69_BG.png",
+      "kind": "background",
+      "bytes": 159794,
+      "width": 640,
+      "height": 480,
+      "sha256": "30ac99f01d4e236416b6daca7daaad1b5ec00069a52a1e34874d45d7aab10a4b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_536.69/SCES_536.69_BG_00.png"
+      },
+      "gameId": "SCES_536.69"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BUZZ! - THE MUSIC QUIZ"
+}

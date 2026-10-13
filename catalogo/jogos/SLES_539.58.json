@@ -1,0 +1,65 @@
+{
+  "id": "SLES_539.58",
+  "cover": {
+    "path": "PS2/SLES_539.58/SLES_539.58_COV.png",
+    "kind": "cover",
+    "bytes": 92534,
+    "width": 192,
+    "height": 272,
+    "sha256": "7b0d2410774bcb5318a60f19d3389bff0a880916885c4670b8acaab5c1eba145",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53958.jpg"
+    },
+    "gameId": "SLES_539.58"
+  },
+  "disc": {
+    "path": "PS2/SLES_539.58/SLES_539.58_ICO.png",
+    "kind": "disc",
+    "bytes": 10601,
+    "width": 128,
+    "height": 128,
+    "sha256": "4f64eac2d7b3a962c1a806a953a4e1e39e6d33a9f4b4cdbf5dedc0593486641f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_539.58_ICO.png"
+    },
+    "gameId": "SLES_539.58"
+  },
+  "background": {
+    "path": "PS2/SLES_539.58/SLES_539.58_BG.png",
+    "kind": "background",
+    "bytes": 121016,
+    "width": 640,
+    "height": 480,
+    "sha256": "35eb3cfaec5f6f4eb5f70f9676757feedf2f744c971a0533b7c276be73a4c02f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.58/SLES_539.58_BG_00.png"
+    },
+    "gameId": "SLES_539.58"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.58/SLES_539.58_BG.png",
+      "kind": "background",
+      "bytes": 121016,
+      "width": 640,
+      "height": 480,
+      "sha256": "35eb3cfaec5f6f4eb5f70f9676757feedf2f744c971a0533b7c276be73a4c02f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.58/SLES_539.58_BG_00.png"
+      },
+      "gameId": "SLES_539.58"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Noble Racing"
+}

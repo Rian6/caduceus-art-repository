@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_206.74",
+  "cover": {
+    "path": "PS2/SLUS_206.74/SLUS_206.74_COV.png",
+    "kind": "cover",
+    "bytes": 112451,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff0d0b20a581dc6ad9ba256de199c9fcbb988f25d04893d629d19a1989bf01bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20674.jpg"
+    },
+    "gameId": "SLUS_206.74"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.74/SLUS_206.74_ICO.png",
+    "kind": "disc",
+    "bytes": 31565,
+    "width": 256,
+    "height": 256,
+    "sha256": "181129a08e011103ff4410f9805b33054cdf2b584c8f68b5a2fa4835b9edcfa6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.74_ICO.png"
+    },
+    "gameId": "SLUS_206.74"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.74/SLUS_206.74_BG.png",
+    "kind": "background",
+    "bytes": 241332,
+    "width": 640,
+    "height": 480,
+    "sha256": "b9b388214f30dbb4a500b4c4d79f18cb0978e0de91d249d6b563eff069a5d8f5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.74/SLUS_206.74_BG_00.png"
+    },
+    "gameId": "SLUS_206.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.74/SLUS_206.74_BG.png",
+      "kind": "background",
+      "bytes": 241332,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9b388214f30dbb4a500b4c4d79f18cb0978e0de91d249d6b563eff069a5d8f5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.74/SLUS_206.74_BG_00.png"
+      },
+      "gameId": "SLUS_206.74"
+    },
+    {
+      "path": "PS2/SLUS_206.74/SLUS_206.74_BG_01.png",
+      "kind": "background",
+      "bytes": 121584,
+      "width": 640,
+      "height": 480,
+      "sha256": "789e74e2635b012bb076787448ccb0717a167c28eb6ef6fbdb094812cb9c0d3a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.74/SLUS_206.74_BG_01.png"
+      },
+      "gameId": "SLUS_206.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CYBER TROOPERS VIRTUAL-ON - MARZ"
+}

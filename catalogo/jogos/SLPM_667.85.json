@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_667.85",
+  "cover": {
+    "path": "PS2/SLPM_667.85/SLPM_667.85_COV.png",
+    "kind": "cover",
+    "bytes": 99919,
+    "width": 192,
+    "height": 272,
+    "sha256": "9adb6043d282ac7ed472b3caebee07f43b49488572744f1b6615f9b923fbb93c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66785.jpg"
+    },
+    "gameId": "SLPM_667.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_667.85/SLPM_667.85_BG.png",
+    "kind": "background",
+    "bytes": 80154,
+    "width": 640,
+    "height": 480,
+    "sha256": "73de53525da83965d018d254cb3b45e449616fcb8af8faa7991aa4a6ba54fbd2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_667.85/SLPM_667.85_BG_00.png"
+    },
+    "gameId": "SLPM_667.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_667.85/SLPM_667.85_BG.png",
+      "kind": "background",
+      "bytes": 80154,
+      "width": 640,
+      "height": 480,
+      "sha256": "73de53525da83965d018d254cb3b45e449616fcb8af8faa7991aa4a6ba54fbd2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_667.85/SLPM_667.85_BG_00.png"
+      },
+      "gameId": "SLPM_667.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "IDOL JANSHI SUCHIE PAI IV"
+}

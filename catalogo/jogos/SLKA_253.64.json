@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.64",
+  "cover": {
+    "path": "PS2/SLKA_253.64/SLKA_253.64_COV.png",
+    "kind": "cover",
+    "bytes": 94420,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf1dbe34f7a40f14089194aa1270e7f563c68f1781b88ad15495ea7945ddfbbf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25364.jpg"
+    },
+    "gameId": "SLKA_253.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam - Climax U.C."
+}

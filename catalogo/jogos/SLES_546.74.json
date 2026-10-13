@@ -1,0 +1,103 @@
+{
+  "id": "SLES_546.74",
+  "cover": {
+    "path": "PS2/SLES_546.74/SLES_546.74_COV.png",
+    "kind": "cover",
+    "bytes": 90690,
+    "width": 192,
+    "height": 272,
+    "sha256": "7d3c2feaab9913560f93499465535d0e785ce6bd4cd2db44a1d781a914bd1eb6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54674.jpg"
+    },
+    "gameId": "SLES_546.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_546.74/SLES_546.74_BG.png",
+    "kind": "background",
+    "bytes": 157307,
+    "width": 640,
+    "height": 480,
+    "sha256": "abc33ce3e5d83169c09bffb1ceb8f428146c322605ef1a382c9ff513a0d85583",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.74/SLES_546.74_BG_00.png"
+    },
+    "gameId": "SLES_546.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_546.74/SLES_546.74_BG.png",
+      "kind": "background",
+      "bytes": 157307,
+      "width": 640,
+      "height": 480,
+      "sha256": "abc33ce3e5d83169c09bffb1ceb8f428146c322605ef1a382c9ff513a0d85583",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.74/SLES_546.74_BG_00.png"
+      },
+      "gameId": "SLES_546.74"
+    },
+    {
+      "path": "PS2/SLES_546.74/SLES_546.74_BG_01.png",
+      "kind": "background",
+      "bytes": 179353,
+      "width": 640,
+      "height": 480,
+      "sha256": "028520dcdc095f5679e1c0842b06c7fa34c2d256f46951c66c432f4b600f5f44",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.74/SLES_546.74_BG_01.png"
+      },
+      "gameId": "SLES_546.74"
+    },
+    {
+      "path": "PS2/SLES_546.74/SLES_546.74_BG_02.png",
+      "kind": "background",
+      "bytes": 199803,
+      "width": 640,
+      "height": 480,
+      "sha256": "b459bad9d3eaa3cf7bdd752a7bd2f5aced9abf35d0812723100f76e096d6a79e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.74/SLES_546.74_BG_02.png"
+      },
+      "gameId": "SLES_546.74"
+    },
+    {
+      "path": "PS2/SLES_546.74/SLES_546.74_BG_03.png",
+      "kind": "background",
+      "bytes": 213780,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a151aa5ac33b0ff7d16cb5c5fb5d95ec5abcbceece5cfadd79bee540beb674d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.74/SLES_546.74_BG_03.png"
+      },
+      "gameId": "SLES_546.74"
+    },
+    {
+      "path": "PS2/SLES_546.74/SLES_546.74_BG_04.png",
+      "kind": "background",
+      "bytes": 156630,
+      "width": 640,
+      "height": 480,
+      "sha256": "0dcc2d666afc1f9357551b6f8fbf2efa010e25357d0543a05c7c7ad187332991",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.74/SLES_546.74_BG_04.png"
+      },
+      "gameId": "SLES_546.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LARA CROFT - TOMB RAIDER - ANNIVERSARY"
+}

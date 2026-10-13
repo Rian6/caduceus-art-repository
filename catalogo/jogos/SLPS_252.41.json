@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_252.41",
+  "cover": {
+    "path": "PS2/SLPS_252.41/SLPS_252.41_COV.png",
+    "kind": "cover",
+    "bytes": 94671,
+    "width": 192,
+    "height": 272,
+    "sha256": "cf53ec85b16aeadc52d27c4f2d1a302db617231d2406d1c0f9a32d0b7ebf3938",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25241.jpg"
+    },
+    "gameId": "SLPS_252.41"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_252.41/SLPS_252.41_BG.png",
+    "kind": "background",
+    "bytes": 182497,
+    "width": 640,
+    "height": 480,
+    "sha256": "298b02b15705c0c309ddba44ba23c961f7adb0371ff6cb2cf1fbc5631247ec60",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_252.41/SLPS_252.41_BG_00.png"
+    },
+    "gameId": "SLPS_252.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_252.41/SLPS_252.41_BG.png",
+      "kind": "background",
+      "bytes": 182497,
+      "width": 640,
+      "height": 480,
+      "sha256": "298b02b15705c0c309ddba44ba23c961f7adb0371ff6cb2cf1fbc5631247ec60",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.41/SLPS_252.41_BG_00.png"
+      },
+      "gameId": "SLPS_252.41"
+    },
+    {
+      "path": "PS2/SLPS_252.41/SLPS_252.41_BG_01.png",
+      "kind": "background",
+      "bytes": 180889,
+      "width": 640,
+      "height": 480,
+      "sha256": "6abf9b5b716a87eee062f7296a6cedb9f6ad49f14535c7f96c60f4c66abc6528",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.41/SLPS_252.41_BG_01.png"
+      },
+      "gameId": "SLPS_252.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Motion Gravure Series: Mori Hinoko"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_256.27",
+  "cover": {
+    "path": "PS2/SLPS_256.27/SLPS_256.27_COV.png",
+    "kind": "cover",
+    "bytes": 113044,
+    "width": 192,
+    "height": 272,
+    "sha256": "73b06e4dab2ede1c6adecb9ce3ba15f9fdd340c2fdf890805f447596bbadb87d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25627.jpg"
+    },
+    "gameId": "SLPS_256.27"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.27/SLPS_256.27_BG.png",
+    "kind": "background",
+    "bytes": 194604,
+    "width": 640,
+    "height": 480,
+    "sha256": "0b343af8bfb6af84ad17d7e82182b06cb1c454b1f5f30bd82096eac6dae1deff",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.27/SLPS_256.27_BG_00.png"
+    },
+    "gameId": "SLPS_256.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.27/SLPS_256.27_BG.png",
+      "kind": "background",
+      "bytes": 194604,
+      "width": 640,
+      "height": 480,
+      "sha256": "0b343af8bfb6af84ad17d7e82182b06cb1c454b1f5f30bd82096eac6dae1deff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.27/SLPS_256.27_BG_00.png"
+      },
+      "gameId": "SLPS_256.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MOBILE SUIT GUNDAM - CLIMAX U.C."
+}

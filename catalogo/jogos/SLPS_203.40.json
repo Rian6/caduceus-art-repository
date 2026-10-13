@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.40",
+  "cover": {
+    "path": "PS2/SLPS_203.40/SLPS_203.40_COV.png",
+    "kind": "cover",
+    "bytes": 95101,
+    "width": 192,
+    "height": 272,
+    "sha256": "c4288a52e98fe5fde488db3cd841a9329d0b6a32ae453079a1565e87550cbc10",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20340.jpg"
+    },
+    "gameId": "SLPS_203.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JISSEN PACHI-SLOT HISSHOUHOU! SAMMY COLLECTION 2"
+}

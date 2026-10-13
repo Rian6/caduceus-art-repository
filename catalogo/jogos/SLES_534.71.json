@@ -1,0 +1,25 @@
+{
+  "id": "SLES_534.71",
+  "cover": {
+    "path": "PS2/SLES_534.71/SLES_534.71_COV.png",
+    "kind": "cover",
+    "bytes": 83579,
+    "width": 192,
+    "height": 272,
+    "sha256": "aec6213a4d2eec72b4c77949711eea1ad3b1c33b72fcfc556e4a5da8ada4c69b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53471.jpg"
+    },
+    "gameId": "SLES_534.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LMA Manager 2006"
+}

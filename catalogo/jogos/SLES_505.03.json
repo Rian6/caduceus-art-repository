@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.03",
+  "cover": {
+    "path": "PS2/SLES_505.03/SLES_505.03_COV.png",
+    "kind": "cover",
+    "bytes": 84213,
+    "width": 192,
+    "height": 272,
+    "sha256": "9cf32721b5ec5ed0f1013c13b03ee0454f459d696395b610470ac9b86d539a53",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50503.jpg"
+    },
+    "gameId": "SLES_505.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Weakest Link"
+}

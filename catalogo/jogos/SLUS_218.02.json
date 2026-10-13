@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_218.02",
+  "cover": {
+    "path": "PS2/SLUS_218.02/SLUS_218.02_COV.png",
+    "kind": "cover",
+    "bytes": 103271,
+    "width": 192,
+    "height": 272,
+    "sha256": "a9d491889b5e58d9cc6787405e54280e2e60bf52a8af681f791025733e181b13",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21802.jpg"
+    },
+    "gameId": "SLUS_218.02"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.02/SLUS_218.02_ICO.png",
+    "kind": "disc",
+    "bytes": 27107,
+    "width": 256,
+    "height": 256,
+    "sha256": "919bf4cc9c5ea6dbed0a075b19a77a7bea2a4586463ec7cc1ab13c78bef5d809",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.02_ICO.png"
+    },
+    "gameId": "SLUS_218.02"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nickelodeon The Naked Brothers Band: The Video Game"
+}

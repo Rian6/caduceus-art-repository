@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_551.89",
+  "cover": {
+    "path": "PS2/SLPM_551.89/SLPM_551.89_COV.png",
+    "kind": "cover",
+    "bytes": 114072,
+    "width": 192,
+    "height": 272,
+    "sha256": "ba87ff90caf6236fb88f855af879db83b21ff75758d4c1152c73b37998822bdd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55189.jpg"
+    },
+    "gameId": "SLPM_551.89"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_551.89/SLPM_551.89_BG.png",
+    "kind": "background",
+    "bytes": 179403,
+    "width": 640,
+    "height": 480,
+    "sha256": "1f7567033547c6cc4d170c6dee1e72e66d4398a884b1f71e36f6600c95199410",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_551.89/SLPM_551.89_BG_00.png"
+    },
+    "gameId": "SLPM_551.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_551.89/SLPM_551.89_BG.png",
+      "kind": "background",
+      "bytes": 179403,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f7567033547c6cc4d170c6dee1e72e66d4398a884b1f71e36f6600c95199410",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_551.89/SLPM_551.89_BG_00.png"
+      },
+      "gameId": "SLPM_551.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rosario to Vampire Capu 2 - Koi to Yume no Rhapsodia"
+}

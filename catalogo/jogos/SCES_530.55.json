@@ -1,0 +1,51 @@
+{
+  "id": "SCES_530.55",
+  "cover": {
+    "path": "PS2/SCES_530.55/SCES_530.55_COV.png",
+    "kind": "cover",
+    "bytes": 94636,
+    "width": 192,
+    "height": 272,
+    "sha256": "f141848007193ae331b1034d567231aac53255ad3291e788f79364e91ce6adda",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53055.jpg"
+    },
+    "gameId": "SCES_530.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_530.55/SCES_530.55_BG.png",
+    "kind": "background",
+    "bytes": 199219,
+    "width": 640,
+    "height": 480,
+    "sha256": "911f3cee5909260b58007d88ec58588e67bd6da0e89e7963de2bc8bf74f0472e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_530.55/SCES_530.55_BG_00.png"
+    },
+    "gameId": "SCES_530.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_530.55/SCES_530.55_BG.png",
+      "kind": "background",
+      "bytes": 199219,
+      "width": 640,
+      "height": 480,
+      "sha256": "911f3cee5909260b58007d88ec58588e67bd6da0e89e7963de2bc8bf74f0472e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_530.55/SCES_530.55_BG_00.png"
+      },
+      "gameId": "SCES_530.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy – Antigrav"
+}

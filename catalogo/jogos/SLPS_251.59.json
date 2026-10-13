@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.59",
+  "cover": {
+    "path": "PS2/SLPS_251.59/SLPS_251.59_COV.png",
+    "kind": "cover",
+    "bytes": 114044,
+    "width": 192,
+    "height": 272,
+    "sha256": "71d4787ef756f11ffac00dc6e54b6266eec3e5c674a24106d909164d07deaa73",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25159.jpg"
+    },
+    "gameId": "SLPS_251.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Technic Beat"
+}

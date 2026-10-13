@@ -1,0 +1,103 @@
+{
+  "id": "SCES_502.41",
+  "cover": {
+    "path": "PS2/SCES_502.41/SCES_502.41_COV.png",
+    "kind": "cover",
+    "bytes": 99844,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea0e02cb035dbb3caeaf3463ce634ddaa195e714d2dad0237cea44ca641cae35",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50241.jpg"
+    },
+    "gameId": "SCES_502.41"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_502.41/SCES_502.41_BG.png",
+    "kind": "background",
+    "bytes": 242303,
+    "width": 640,
+    "height": 480,
+    "sha256": "32a185ace8fcce3b1af23949a2e750501aa2942e22cc5974c0f4aea91566bdb8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_502.41/SCES_502.41_BG_00.png"
+    },
+    "gameId": "SCES_502.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_502.41/SCES_502.41_BG.png",
+      "kind": "background",
+      "bytes": 242303,
+      "width": 640,
+      "height": 480,
+      "sha256": "32a185ace8fcce3b1af23949a2e750501aa2942e22cc5974c0f4aea91566bdb8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_502.41/SCES_502.41_BG_00.png"
+      },
+      "gameId": "SCES_502.41"
+    },
+    {
+      "path": "PS2/SCES_502.41/SCES_502.41_BG_01.png",
+      "kind": "background",
+      "bytes": 193066,
+      "width": 640,
+      "height": 480,
+      "sha256": "29421f552df409e0cc0930991048afb48886f338753408c52fa31eb01774430d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_502.41/SCES_502.41_BG_01.png"
+      },
+      "gameId": "SCES_502.41"
+    },
+    {
+      "path": "PS2/SCES_502.41/SCES_502.41_BG_02.png",
+      "kind": "background",
+      "bytes": 247716,
+      "width": 640,
+      "height": 480,
+      "sha256": "cdae888e843c251f70e89cdb5f824b975d3c2c0428ffe7421fe5130ed9f0bf97",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_502.41/SCES_502.41_BG_02.png"
+      },
+      "gameId": "SCES_502.41"
+    },
+    {
+      "path": "PS2/SCES_502.41/SCES_502.41_BG_03.png",
+      "kind": "background",
+      "bytes": 225702,
+      "width": 640,
+      "height": 480,
+      "sha256": "682cdba856e8ea98e27fd88d4de9b798a415c94643f5505959e42bcdb6775e47",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_502.41/SCES_502.41_BG_03.png"
+      },
+      "gameId": "SCES_502.41"
+    },
+    {
+      "path": "PS2/SCES_502.41/SCES_502.41_BG_04.png",
+      "kind": "background",
+      "bytes": 198418,
+      "width": 640,
+      "height": 480,
+      "sha256": "20eca9f11f95caf8eda5eb584094ea0143099697b60bc0005eeac96d59d34b34",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_502.41/SCES_502.41_BG_04.png"
+      },
+      "gameId": "SCES_502.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Bouncer"
+}

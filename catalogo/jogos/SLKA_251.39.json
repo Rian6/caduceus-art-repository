@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_251.39",
+  "cover": {
+    "path": "PS2/SLKA_251.39/SLKA_251.39_COV.png",
+    "kind": "cover",
+    "bytes": 88217,
+    "width": 192,
+    "height": 272,
+    "sha256": "1934ddc0fa03e239ecb324ca45a459d74b5eb8a4cadb457808e262e63ee1db39",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25139.jpg"
+    },
+    "gameId": "SLKA_251.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_251.39/SLKA_251.39_BG.png",
+    "kind": "background",
+    "bytes": 136641,
+    "width": 640,
+    "height": 480,
+    "sha256": "5f54783282db207e58253bd9f39f52e84abff33ce17b33d418ae0e9a6b301687",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.39/SLKA_251.39_BG_00.png"
+    },
+    "gameId": "SLKA_251.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_251.39/SLKA_251.39_BG.png",
+      "kind": "background",
+      "bytes": 136641,
+      "width": 640,
+      "height": 480,
+      "sha256": "5f54783282db207e58253bd9f39f52e84abff33ce17b33d418ae0e9a6b301687",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.39/SLKA_251.39_BG_00.png"
+      },
+      "gameId": "SLKA_251.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fuun Shinshengumi"
+}

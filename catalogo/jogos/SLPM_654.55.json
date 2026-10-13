@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.55",
+  "cover": {
+    "path": "PS2/SLPM_654.55/SLPM_654.55_COV.png",
+    "kind": "cover",
+    "bytes": 97850,
+    "width": 192,
+    "height": 272,
+    "sha256": "6d1e3f6e4115aa3b4f7f22233e342ff24e3d8454da45c34dbe61080ec6858c8e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65455.jpg"
+    },
+    "gameId": "SLPM_654.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nobunaga no Yabou -  Soutensoku (with Power-Up Kit)"
+}

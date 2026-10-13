@@ -1,0 +1,51 @@
+{
+  "id": "SLES_552.71",
+  "cover": {
+    "path": "PS2/SLES_552.71/SLES_552.71_COV.png",
+    "kind": "cover",
+    "bytes": 110093,
+    "width": 192,
+    "height": 272,
+    "sha256": "a97a1832dab67ee2ce7eb090ab7b96a2e45d1fc65c75d83815f2089fdcc217c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55271.jpg"
+    },
+    "gameId": "SLES_552.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_552.71/SLES_552.71_BG.png",
+    "kind": "background",
+    "bytes": 128180,
+    "width": 640,
+    "height": 480,
+    "sha256": "76c962382fc2458760f59b071adf6d5f4db148e5ef6f87b6d1e8ba7fc08c18a0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_552.71/SLES_552.71_BG_00.png"
+    },
+    "gameId": "SLES_552.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_552.71/SLES_552.71_BG.png",
+      "kind": "background",
+      "bytes": 128180,
+      "width": 640,
+      "height": 480,
+      "sha256": "76c962382fc2458760f59b071adf6d5f4db148e5ef6f87b6d1e8ba7fc08c18a0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.71/SLES_552.71_BG_00.png"
+      },
+      "gameId": "SLES_552.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPONGEBOB SQUAREPANTS FEATURING NICKTOONS - GLOBS OF DOOM"
+}

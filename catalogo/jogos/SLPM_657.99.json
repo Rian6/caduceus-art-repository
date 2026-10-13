@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.99",
+  "cover": {
+    "path": "PS2/SLPM_657.99/SLPM_657.99_COV.png",
+    "kind": "cover",
+    "bytes": 116046,
+    "width": 192,
+    "height": 272,
+    "sha256": "4b205b73737d2ef15b21d7bcfb2a0da115e39c7e819b9acedc25135888c68637",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65799.jpg"
+    },
+    "gameId": "SLPM_657.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "New Jinsei Game"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_209.43",
+  "cover": {
+    "path": "PS2/SLUS_209.43/SLUS_209.43_COV.png",
+    "kind": "cover",
+    "bytes": 99324,
+    "width": 192,
+    "height": 272,
+    "sha256": "ade9788da00c782988bf058bb33ec6e1084f17cc1117655eda38105167149ac9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20943.jpg"
+    },
+    "gameId": "SLUS_209.43"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.43/SLUS_209.43_ICO.png",
+    "kind": "disc",
+    "bytes": 35805,
+    "width": 256,
+    "height": 256,
+    "sha256": "69e35bcbc452e81bbf0bbf2e2bc3d84ef91c1adb7e68c334ecce29af55626cb6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.43_ICO.png"
+    },
+    "gameId": "SLUS_209.43"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.43/SLUS_209.43_BG.png",
+    "kind": "background",
+    "bytes": 557248,
+    "width": 640,
+    "height": 480,
+    "sha256": "422fda8138a8d606ff488594fb85213b8903cc11793b90741342fcf4e6ca146b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.43/SLUS_209.43_BG_00.png"
+    },
+    "gameId": "SLUS_209.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.43/SLUS_209.43_BG.png",
+      "kind": "background",
+      "bytes": 557248,
+      "width": 640,
+      "height": 480,
+      "sha256": "422fda8138a8d606ff488594fb85213b8903cc11793b90741342fcf4e6ca146b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.43/SLUS_209.43_BG_00.png"
+      },
+      "gameId": "SLUS_209.43"
+    },
+    {
+      "path": "PS2/SLUS_209.43/SLUS_209.43_BG_01.png",
+      "kind": "background",
+      "bytes": 166782,
+      "width": 640,
+      "height": 480,
+      "sha256": "08c6540a4efdfa73f77260312359d457ad664890c5e14ca27aa3913b32d1aa89",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.43/SLUS_209.43_BG_01.png"
+      },
+      "gameId": "SLUS_209.43"
+    },
+    {
+      "path": "PS2/SLUS_209.43/SLUS_209.43_BG_02.png",
+      "kind": "background",
+      "bytes": 511700,
+      "width": 640,
+      "height": 480,
+      "sha256": "ad45d9166665c05e2da09e9cf1062e16d4e7293c6849037e5bd801a2e7d00573",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.43/SLUS_209.43_BG_02.png"
+      },
+      "gameId": "SLUS_209.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Heroes of the Pacific"
+}

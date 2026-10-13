@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.07",
+  "cover": {
+    "path": "PS2/SLPS_203.07/SLPS_203.07_COV.png",
+    "kind": "cover",
+    "bytes": 109418,
+    "width": 192,
+    "height": 272,
+    "sha256": "e215632e07625610cb9bcfa8e188ec6579e122e6480a66101313409ef59aee0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20307.jpg"
+    },
+    "gameId": "SLPS_203.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rakushou! Pachi-Slot Sengen"
+}

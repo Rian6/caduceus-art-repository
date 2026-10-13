@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.77",
+  "cover": {
+    "path": "PS2/SLPS_253.77/SLPS_253.77_COV.png",
+    "kind": "cover",
+    "bytes": 100155,
+    "width": 192,
+    "height": 272,
+    "sha256": "6aef9021cc2f900a2b42f5fe22117234ceb7fe66067c3238c5964f86ca29e423",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25377.jpg"
+    },
+    "gameId": "SLPS_253.77"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE NIGHTMARE OF DRUAGA - FUSHIGI NO DUNGEON"
+}

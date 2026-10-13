@@ -1,0 +1,91 @@
+{
+  "id": "SLES_538.72",
+  "cover": {
+    "path": "PS2/SLES_538.72/SLES_538.72_COV.png",
+    "kind": "cover",
+    "bytes": 67092,
+    "width": 192,
+    "height": 272,
+    "sha256": "49639303e4425bc12bc1c4327c9ef1d4c2f5bab49d645ae88f474535f4b04746",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53872.jpg"
+    },
+    "gameId": "SLES_538.72"
+  },
+  "disc": {
+    "path": "PS2/SLES_538.72/SLES_538.72_ICO.png",
+    "kind": "disc",
+    "bytes": 11054,
+    "width": 128,
+    "height": 128,
+    "sha256": "642f6932ced0e47b031b189450b868cc12333f5a4ca873756cb1cfe622ce22f1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_538.72_ICO.png"
+    },
+    "gameId": "SLES_538.72"
+  },
+  "background": {
+    "path": "PS2/SLES_538.72/SLES_538.72_BG.png",
+    "kind": "background",
+    "bytes": 29234,
+    "width": 640,
+    "height": 480,
+    "sha256": "48cdfac63195d4ba40382159cbce5e114a976493ed045e2c11edf898eb6deffd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_538.72/SLES_538.72_BG_00.png"
+    },
+    "gameId": "SLES_538.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_538.72/SLES_538.72_BG.png",
+      "kind": "background",
+      "bytes": 29234,
+      "width": 640,
+      "height": 480,
+      "sha256": "48cdfac63195d4ba40382159cbce5e114a976493ed045e2c11edf898eb6deffd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.72/SLES_538.72_BG_00.png"
+      },
+      "gameId": "SLES_538.72"
+    },
+    {
+      "path": "PS2/SLES_538.72/SLES_538.72_BG_01.png",
+      "kind": "background",
+      "bytes": 206889,
+      "width": 640,
+      "height": 480,
+      "sha256": "ffe09a4308db63bde78c27102ad646864b79d6497cf80b3d9fa6206dc53fa1d5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.72/SLES_538.72_BG_01.png"
+      },
+      "gameId": "SLES_538.72"
+    },
+    {
+      "path": "PS2/SLES_538.72/SLES_538.72_BG_02.png",
+      "kind": "background",
+      "bytes": 222925,
+      "width": 640,
+      "height": 480,
+      "sha256": "12e4342ff705e7dcc316dcf86fc448d67af542b82d249af8300546208c79a31e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.72/SLES_538.72_BG_02.png"
+      },
+      "gameId": "SLES_538.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAMURAI ACES"
+}

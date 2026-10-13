@@ -1,0 +1,25 @@
+{
+  "id": "CPCS_010.32",
+  "cover": {
+    "path": "PS2/CPCS_010.32/CPCS_010.32_COV.png",
+    "kind": "cover",
+    "bytes": 69867,
+    "width": 192,
+    "height": 272,
+    "sha256": "244f11ba7d004d3acb8c9e69def5de7989422f83958401779da0270a674f520c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/CPCS_010.32/CPCS_010.32_COV.png"
+    },
+    "gameId": "CPCS_010.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Basara 2 (Double Pack)"
+}

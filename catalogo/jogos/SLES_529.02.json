@@ -1,0 +1,78 @@
+{
+  "id": "SLES_529.02",
+  "cover": {
+    "path": "PS2/SLES_529.02/SLES_529.02_COV.png",
+    "kind": "cover",
+    "bytes": 103341,
+    "width": 192,
+    "height": 272,
+    "sha256": "05f5d05118fd344fbbe274fe223d4b1648a177f7204cdaa8875bdd408a1eb3ce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52902.jpg"
+    },
+    "gameId": "SLES_529.02"
+  },
+  "disc": {
+    "path": "PS2/SLES_529.02/SLES_529.02_ICO.png",
+    "kind": "disc",
+    "bytes": 10533,
+    "width": 128,
+    "height": 128,
+    "sha256": "d0397480372f59e53642b69302990623aa95142150ef4d912989199b75e4515a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_529.02_ICO.png"
+    },
+    "gameId": "SLES_529.02"
+  },
+  "background": {
+    "path": "PS2/SLES_529.02/SLES_529.02_BG.png",
+    "kind": "background",
+    "bytes": 195903,
+    "width": 640,
+    "height": 480,
+    "sha256": "86b4fae9b2c2e5c34a704d44ff8d463fffaaa631b5de622ce5fc8ff7d7c61e21",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.02/SLES_529.02_BG_00.png"
+    },
+    "gameId": "SLES_529.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.02/SLES_529.02_BG.png",
+      "kind": "background",
+      "bytes": 195903,
+      "width": 640,
+      "height": 480,
+      "sha256": "86b4fae9b2c2e5c34a704d44ff8d463fffaaa631b5de622ce5fc8ff7d7c61e21",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.02/SLES_529.02_BG_00.png"
+      },
+      "gameId": "SLES_529.02"
+    },
+    {
+      "path": "PS2/SLES_529.02/SLES_529.02_BG_01.png",
+      "kind": "background",
+      "bytes": 141379,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f56da73f6e26c3930504c4d2a015e7a6f47c159e7dc6ffcefdfa11b41b390eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.02/SLES_529.02_BG_01.png"
+      },
+      "gameId": "SLES_529.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Arcade Classics Vol.1"
+}

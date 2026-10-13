@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.88",
+  "cover": {
+    "path": "PS2/SLPS_251.88/SLPS_251.88_COV.png",
+    "kind": "cover",
+    "bytes": 87717,
+    "width": 192,
+    "height": 272,
+    "sha256": "f4f7d1097a33a846164890aa3b22686f5683680208b376249f84dbbab538cdd0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25188.jpg"
+    },
+    "gameId": "SLPS_251.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ERDE NEZU NO KI NO SHITADE"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SLES_503.83",
+  "cover": {
+    "path": "PS2/SLES_503.83/SLES_503.83_COV.png",
+    "kind": "cover",
+    "bytes": 101082,
+    "width": 192,
+    "height": 272,
+    "sha256": "b9318e3cf1e219a5191e3c9c4628001bbd6a9e8cd15355c913c71eeb2bc53a48",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50383.jpg"
+    },
+    "gameId": "SLES_503.83"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_503.83/SLES_503.83_BG.png",
+    "kind": "background",
+    "bytes": 207385,
+    "width": 640,
+    "height": 480,
+    "sha256": "eb2615391bba94a3d58085df019c59838b8d770131179eeb613708825d32e351",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_503.83/SLES_503.83_BG_00.png"
+    },
+    "gameId": "SLES_503.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_503.83/SLES_503.83_BG.png",
+      "kind": "background",
+      "bytes": 207385,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb2615391bba94a3d58085df019c59838b8d770131179eeb613708825d32e351",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.83/SLES_503.83_BG_00.png"
+      },
+      "gameId": "SLES_503.83"
+    },
+    {
+      "path": "PS2/SLES_503.83/SLES_503.83_BG_01.png",
+      "kind": "background",
+      "bytes": 156574,
+      "width": 640,
+      "height": 480,
+      "sha256": "6335a4ad838e09d57d0178c78816ab9b120e00c93be4915bbaf9405dbc351473",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.83/SLES_503.83_BG_01.png"
+      },
+      "gameId": "SLES_503.83"
+    },
+    {
+      "path": "PS2/SLES_503.83/SLES_503.83_BG_02.png",
+      "kind": "background",
+      "bytes": 213100,
+      "width": 640,
+      "height": 480,
+      "sha256": "15a2131300d3b978449a216e52a0ebef449f9ece83db185760e62175a7df5326",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.83/SLES_503.83_BG_02.png"
+      },
+      "gameId": "SLES_503.83"
+    },
+    {
+      "path": "PS2/SLES_503.83/SLES_503.83_BG_03.png",
+      "kind": "background",
+      "bytes": 143928,
+      "width": 640,
+      "height": 480,
+      "sha256": "d041fc29286fbc25d263736af63f29082ec7d1d5ec2ba92cbda5e69ac83554cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.83/SLES_503.83_BG_03.png"
+      },
+      "gameId": "SLES_503.83"
+    },
+    {
+      "path": "PS2/SLES_503.83/SLES_503.83_BG_04.png",
+      "kind": "background",
+      "bytes": 77605,
+      "width": 640,
+      "height": 480,
+      "sha256": "ade8bc12255a97d3ec0f3b17173429efa7039d2ed93dd2bd8b28a45264d9933d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.83/SLES_503.83_BG_04.png"
+      },
+      "gameId": "SLES_503.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Metal Gear Solid 2: Sons of Liberty"
+}

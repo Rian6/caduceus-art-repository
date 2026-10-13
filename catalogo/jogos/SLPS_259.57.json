@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.57",
+  "cover": {
+    "path": "PS2/SLPS_259.57/SLPS_259.57_COV.png",
+    "kind": "cover",
+    "bytes": 96639,
+    "width": 192,
+    "height": 272,
+    "sha256": "8b8667c75eff87fb70161cd60e8dfb553975240aeceaf8ceb55d0b93f2b895fb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25957.jpg"
+    },
+    "gameId": "SLPS_259.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LAST ESCORT - CLUB KATZE [LIMITED EDITION]"
+}

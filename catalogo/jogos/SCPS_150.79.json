@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.79",
+  "cover": {
+    "path": "PS2/SCPS_150.79/SCPS_150.79_COV.png",
+    "kind": "cover",
+    "bytes": 108164,
+    "width": 192,
+    "height": 272,
+    "sha256": "1f36fd41593627486cdf336f84e967606f8218f721e7b1688ecd6efbcebcd9ca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15079.jpg"
+    },
+    "gameId": "SCPS_150.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bakufuu Slash! Kizuna Arashi [With Camera]"
+}

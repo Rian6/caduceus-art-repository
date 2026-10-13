@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_251.99",
+  "cover": {
+    "path": "PS2/SLKA_251.99/SLKA_251.99_COV.png",
+    "kind": "cover",
+    "bytes": 77646,
+    "width": 192,
+    "height": 272,
+    "sha256": "4ab104233f8804f4b750250f9b8d5b534a7ec555925c1215f9826bd9ad6fcb36",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25199.jpg"
+    },
+    "gameId": "SLKA_251.99"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_251.99/SLKA_251.99_BG.png",
+    "kind": "background",
+    "bytes": 190585,
+    "width": 640,
+    "height": 480,
+    "sha256": "fbd9bc658233c3fb6504fbf0ec7f9f8b7087ae954529f7a86ff43449cf090c20",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.99/SLKA_251.99_BG_00.png"
+    },
+    "gameId": "SLKA_251.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_251.99/SLKA_251.99_BG.png",
+      "kind": "background",
+      "bytes": 190585,
+      "width": 640,
+      "height": 480,
+      "sha256": "fbd9bc658233c3fb6504fbf0ec7f9f8b7087ae954529f7a86ff43449cf090c20",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.99/SLKA_251.99_BG_00.png"
+      },
+      "gameId": "SLKA_251.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KENGO 3"
+}

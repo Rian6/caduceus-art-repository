@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_214.30",
+  "cover": {
+    "path": "PS2/SLUS_214.30/SLUS_214.30_COV.png",
+    "kind": "cover",
+    "bytes": 112594,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b62573acc0ad2d7ce33cd2611d3a09b4b52fe728ef6a3045c3ba397e3c95226",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21430.jpg"
+    },
+    "gameId": "SLUS_214.30"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.30/SLUS_214.30_ICO.png",
+    "kind": "disc",
+    "bytes": 33485,
+    "width": 256,
+    "height": 256,
+    "sha256": "f2bb591996e9cbab568cdd8c97721381ccd0361353559a94043018ef9541560c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.30_ICO.png"
+    },
+    "gameId": "SLUS_214.30"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.30/SLUS_214.30_BG.png",
+    "kind": "background",
+    "bytes": 133214,
+    "width": 640,
+    "height": 480,
+    "sha256": "7535553b9f3bb5a431da5aa896f120c27b045f43a6560dd99e44d821efcc0ef8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.30/SLUS_214.30_BG_00.png"
+    },
+    "gameId": "SLUS_214.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.30/SLUS_214.30_BG.png",
+      "kind": "background",
+      "bytes": 133214,
+      "width": 640,
+      "height": 480,
+      "sha256": "7535553b9f3bb5a431da5aa896f120c27b045f43a6560dd99e44d821efcc0ef8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.30/SLUS_214.30_BG_00.png"
+      },
+      "gameId": "SLUS_214.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "IGPX - Immortal Grand Prix"
+}

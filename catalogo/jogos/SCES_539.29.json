@@ -1,0 +1,25 @@
+{
+  "id": "SCES_539.29",
+  "cover": {
+    "path": "PS2/SCES_539.29/SCES_539.29_COV.png",
+    "kind": "cover",
+    "bytes": 92441,
+    "width": 192,
+    "height": 272,
+    "sha256": "0d07c4349fdf08d7646db5d58c0f8abc58a89fe1d1d1ce752ef9e852d5034136",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53929.jpg"
+    },
+    "gameId": "SCES_539.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! O Grande Quiz"
+}

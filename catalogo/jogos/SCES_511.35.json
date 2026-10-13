@@ -1,0 +1,103 @@
+{
+  "id": "SCES_511.35",
+  "cover": {
+    "path": "PS2/SCES_511.35/SCES_511.35_COV.png",
+    "kind": "cover",
+    "bytes": 89369,
+    "width": 192,
+    "height": 272,
+    "sha256": "aa5310c3068effe0200b409080748ace3d224f83545b0e456ea78535808e4ab1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51135.jpg"
+    },
+    "gameId": "SCES_511.35"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_511.35/SCES_511.35_BG.png",
+    "kind": "background",
+    "bytes": 150386,
+    "width": 640,
+    "height": 480,
+    "sha256": "9e38df56330a5105ae7972b1b7e455c63bb0075b997642585e6b9d3554e91a32",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_511.35/SCES_511.35_BG_00.png"
+    },
+    "gameId": "SCES_511.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_511.35/SCES_511.35_BG.png",
+      "kind": "background",
+      "bytes": 150386,
+      "width": 640,
+      "height": 480,
+      "sha256": "9e38df56330a5105ae7972b1b7e455c63bb0075b997642585e6b9d3554e91a32",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.35/SCES_511.35_BG_00.png"
+      },
+      "gameId": "SCES_511.35"
+    },
+    {
+      "path": "PS2/SCES_511.35/SCES_511.35_BG_01.png",
+      "kind": "background",
+      "bytes": 167859,
+      "width": 640,
+      "height": 480,
+      "sha256": "afd88cb163682c0774813fef76084eac9ab7f7e3345b5a03961b40f4c5b73d10",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.35/SCES_511.35_BG_01.png"
+      },
+      "gameId": "SCES_511.35"
+    },
+    {
+      "path": "PS2/SCES_511.35/SCES_511.35_BG_02.png",
+      "kind": "background",
+      "bytes": 206237,
+      "width": 640,
+      "height": 480,
+      "sha256": "b6679ee88d0348c82f6fe90d7e98fa56d96a5763a86536ee1d3a42ce4a240f28",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.35/SCES_511.35_BG_02.png"
+      },
+      "gameId": "SCES_511.35"
+    },
+    {
+      "path": "PS2/SCES_511.35/SCES_511.35_BG_03.png",
+      "kind": "background",
+      "bytes": 154719,
+      "width": 640,
+      "height": 480,
+      "sha256": "0c1c9576eba970267489f3488ce2f516808605d46cb2961066dd0b74ddf49f8d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.35/SCES_511.35_BG_03.png"
+      },
+      "gameId": "SCES_511.35"
+    },
+    {
+      "path": "PS2/SCES_511.35/SCES_511.35_BG_04.png",
+      "kind": "background",
+      "bytes": 138284,
+      "width": 640,
+      "height": 480,
+      "sha256": "4bee1440f0ca5ae8cad782a366e8280c5663c41f344d42a9f473f673681a62c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.35/SCES_511.35_BG_04.png"
+      },
+      "gameId": "SCES_511.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Primal"
+}

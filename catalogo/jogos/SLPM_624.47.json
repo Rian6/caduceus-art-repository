@@ -1,0 +1,90 @@
+{
+  "id": "SLPM_624.47",
+  "cover": {
+    "path": "PS2/SLPM_624.47/SLPM_624.47_COV.png",
+    "kind": "cover",
+    "bytes": 96576,
+    "width": 192,
+    "height": 272,
+    "sha256": "60def8aae12e9f997b5f3f3b8f63d7049c3643690e9980ba4a103976db224230",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62447.jpg"
+    },
+    "gameId": "SLPM_624.47"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.47/SLPM_624.47_BG.png",
+    "kind": "background",
+    "bytes": 192986,
+    "width": 640,
+    "height": 480,
+    "sha256": "e05d485a1f46877ce44847206615588d06ebc12b1de9ba8d21658ba531504f85",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.47/SLPM_624.47_BG_00.png"
+    },
+    "gameId": "SLPM_624.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.47/SLPM_624.47_BG.png",
+      "kind": "background",
+      "bytes": 192986,
+      "width": 640,
+      "height": 480,
+      "sha256": "e05d485a1f46877ce44847206615588d06ebc12b1de9ba8d21658ba531504f85",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.47/SLPM_624.47_BG_00.png"
+      },
+      "gameId": "SLPM_624.47"
+    },
+    {
+      "path": "PS2/SLPM_624.47/SLPM_624.47_BG_01.png",
+      "kind": "background",
+      "bytes": 182184,
+      "width": 640,
+      "height": 480,
+      "sha256": "da5c4231bf30c8feafdf029b95644ac9da980436cf77f0b3d0384658e0bc15ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.47/SLPM_624.47_BG_01.png"
+      },
+      "gameId": "SLPM_624.47"
+    },
+    {
+      "path": "PS2/SLPM_624.47/SLPM_624.47_BG_02.png",
+      "kind": "background",
+      "bytes": 147709,
+      "width": 640,
+      "height": 480,
+      "sha256": "0888ea3ae9a64a891f6e0a3188829d19683e00d41789976e8fdcf0a490917455",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.47/SLPM_624.47_BG_02.png"
+      },
+      "gameId": "SLPM_624.47"
+    },
+    {
+      "path": "PS2/SLPM_624.47/SLPM_624.47_BG_03.png",
+      "kind": "background",
+      "bytes": 169933,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a327911feb1ff62faed0c80931753ec0cafdada119c7fc8eb1378e08da4701e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.47/SLPM_624.47_BG_03.png"
+      },
+      "gameId": "SLPM_624.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SEGA AGES 2500 SERIES VOL.13 - OUT RUN"
+}

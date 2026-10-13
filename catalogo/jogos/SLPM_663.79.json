@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.79",
+  "cover": {
+    "path": "PS2/SLPM_663.79/SLPM_663.79_COV.png",
+    "kind": "cover",
+    "bytes": 103132,
+    "width": 192,
+    "height": 272,
+    "sha256": "ab1fc9cd8bd9ee8e2455de7c22911bb5e44089bd07a5f6e50b1866adca66acc6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66379.jpg"
+    },
+    "gameId": "SLPM_663.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KISHIN HOUKOU DEMONBANE [KADOKAWA THE BEST]"
+}

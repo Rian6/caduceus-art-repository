@@ -1,0 +1,51 @@
+{
+  "id": "SLES_508.48",
+  "cover": {
+    "path": "PS2/SLES_508.48/SLES_508.48_COV.png",
+    "kind": "cover",
+    "bytes": 95390,
+    "width": 192,
+    "height": 272,
+    "sha256": "9c1cc9649bf748c438e07bec2ff015746f1f9ff2173560e0060df1e35cd7a89f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50848.jpg"
+    },
+    "gameId": "SLES_508.48"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_508.48/SLES_508.48_BG.png",
+    "kind": "background",
+    "bytes": 158206,
+    "width": 640,
+    "height": 480,
+    "sha256": "4a3960566f7df7e7b1d85c11e8f89460e874a4f041d7a90da22c98b58516e830",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_508.48/SLES_508.48_BG_00.png"
+    },
+    "gameId": "SLES_508.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_508.48/SLES_508.48_BG.png",
+      "kind": "background",
+      "bytes": 158206,
+      "width": 640,
+      "height": 480,
+      "sha256": "4a3960566f7df7e7b1d85c11e8f89460e874a4f041d7a90da22c98b58516e830",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.48/SLES_508.48_BG_00.png"
+      },
+      "gameId": "SLES_508.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Speed Kings"
+}

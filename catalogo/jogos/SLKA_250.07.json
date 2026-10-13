@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.07",
+  "cover": {
+    "path": "PS2/SLKA_250.07/SLKA_250.07_COV.png",
+    "kind": "cover",
+    "bytes": 102489,
+    "width": 192,
+    "height": 272,
+    "sha256": "805ce4974a183582575b481eb246e6739fa903a09c3522e6ec8197d88c3fc42c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25007.jpg"
+    },
+    "gameId": "SLKA_250.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPY FICTION"
+}

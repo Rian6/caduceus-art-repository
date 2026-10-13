@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.01",
+  "cover": {
+    "path": "PS2/SLPM_667.01/SLPM_667.01_COV.png",
+    "kind": "cover",
+    "bytes": 97121,
+    "width": 192,
+    "height": 272,
+    "sha256": "75aa25f13d2d23a3c66c756aed016352084f88d7b0bf7a59d4ca14de1b2abff3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66701.jpg"
+    },
+    "gameId": "SLPM_667.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sangokushi XI With Power-Up Kit"
+}

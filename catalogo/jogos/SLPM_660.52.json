@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.52",
+  "cover": {
+    "path": "PS2/SLPM_660.52/SLPM_660.52_COV.png",
+    "kind": "cover",
+    "bytes": 100441,
+    "width": 192,
+    "height": 272,
+    "sha256": "c4f9308f73906a8bd14ab8a6d806b0dcab64b5af67e0682631de453f12f1df1b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66052.jpg"
+    },
+    "gameId": "SLPM_660.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MIKO MAI - EIEN NO OMOI"
+}

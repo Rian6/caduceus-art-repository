@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.05",
+  "cover": {
+    "path": "PS2/SLPS_200.05/SLPS_200.05_COV.png",
+    "kind": "cover",
+    "bytes": 94944,
+    "width": 192,
+    "height": 272,
+    "sha256": "cd92d2d8f5619a0f0493680cb813bbfa44d0a3684c34dddf5e1e086226597ec0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20005.jpg"
+    },
+    "gameId": "SLPS_200.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EX Billiards"
+}

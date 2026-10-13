@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.13",
+  "cover": {
+    "path": "PS2/SLPM_550.13/SLPM_550.13_COV.png",
+    "kind": "cover",
+    "bytes": 104061,
+    "width": 192,
+    "height": 272,
+    "sha256": "1231bdd84eb110e7a810b4e703d43a2c269967d874a66d139c6e9d428dc8c321",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55013.jpg"
+    },
+    "gameId": "SLPM_550.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sora Yume"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SCES_531.82",
+  "cover": {
+    "path": "PS2/SCES_531.82/SCES_531.82_COV.png",
+    "kind": "cover",
+    "bytes": 88198,
+    "width": 192,
+    "height": 272,
+    "sha256": "f641c841a12236fb92a150b28c2d02cfb1443807df3ccf4930c2242dc63ba75e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53182.jpg"
+    },
+    "gameId": "SCES_531.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_531.82/SCES_531.82_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_531.82/SCES_531.82_BG_00.png"
+    },
+    "gameId": "SCES_531.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_531.82/SCES_531.82_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_531.82/SCES_531.82_BG_00.png"
+      },
+      "gameId": "SCES_531.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Pop"
+}

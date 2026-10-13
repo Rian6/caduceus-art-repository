@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.29",
+  "cover": {
+    "path": "PS2/SLPM_650.29/SLPM_650.29_COV.png",
+    "kind": "cover",
+    "bytes": 111935,
+    "width": 192,
+    "height": 272,
+    "sha256": "b290ae539650ff37f8047bbae1e82bcacf5afa7e147ae3e79927cb4750f3b40e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65029.jpg"
+    },
+    "gameId": "SLPM_650.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ANIME EIKAIWA - TONDEMO NEZUMI DAIKATSUYAKU"
+}

@@ -1,0 +1,116 @@
+{
+  "id": "SLPM_550.85",
+  "cover": {
+    "path": "PS2/SLPM_550.85/SLPM_550.85_COV.png",
+    "kind": "cover",
+    "bytes": 112347,
+    "width": 192,
+    "height": 272,
+    "sha256": "120c77758cb87355f14a32157d0403ef3af234f8dbb09ab265d83c1627b7a9d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55085.jpg"
+    },
+    "gameId": "SLPM_550.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_550.85/SLPM_550.85_BG.png",
+    "kind": "background",
+    "bytes": 195815,
+    "width": 640,
+    "height": 480,
+    "sha256": "008d8c5351ee6acaa7e32a35f2aa36d8e625d6c7d39293fcb2b99578516fefe6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_550.85/SLPM_550.85_BG_00.png"
+    },
+    "gameId": "SLPM_550.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_550.85/SLPM_550.85_BG.png",
+      "kind": "background",
+      "bytes": 195815,
+      "width": 640,
+      "height": 480,
+      "sha256": "008d8c5351ee6acaa7e32a35f2aa36d8e625d6c7d39293fcb2b99578516fefe6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.85/SLPM_550.85_BG_00.png"
+      },
+      "gameId": "SLPM_550.85"
+    },
+    {
+      "path": "PS2/SLPM_550.85/SLPM_550.85_BG_01.png",
+      "kind": "background",
+      "bytes": 206537,
+      "width": 640,
+      "height": 480,
+      "sha256": "458425ed5a2e054dd4b5b752738e8394721ffe84779338ca3e414cb1b355e33e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.85/SLPM_550.85_BG_01.png"
+      },
+      "gameId": "SLPM_550.85"
+    },
+    {
+      "path": "PS2/SLPM_550.85/SLPM_550.85_BG_02.png",
+      "kind": "background",
+      "bytes": 198882,
+      "width": 640,
+      "height": 480,
+      "sha256": "7315a34e473c1014d59ff621d140dc2a11c93abe455245e32775b60a8ea330c6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.85/SLPM_550.85_BG_02.png"
+      },
+      "gameId": "SLPM_550.85"
+    },
+    {
+      "path": "PS2/SLPM_550.85/SLPM_550.85_BG_03.png",
+      "kind": "background",
+      "bytes": 206689,
+      "width": 640,
+      "height": 480,
+      "sha256": "595c4501fc62bf44aa02f6b1a50f57c60804b315d66959b2c314163ffd277af8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.85/SLPM_550.85_BG_03.png"
+      },
+      "gameId": "SLPM_550.85"
+    },
+    {
+      "path": "PS2/SLPM_550.85/SLPM_550.85_BG_04.png",
+      "kind": "background",
+      "bytes": 199341,
+      "width": 640,
+      "height": 480,
+      "sha256": "fae78ecb442b5bce19880d7d473c357386bd7d38155df1fcbbf37a780499640f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.85/SLPM_550.85_BG_04.png"
+      },
+      "gameId": "SLPM_550.85"
+    },
+    {
+      "path": "PS2/SLPM_550.85/SLPM_550.85_BG_05.png",
+      "kind": "background",
+      "bytes": 177556,
+      "width": 640,
+      "height": 480,
+      "sha256": "aaa8027501e965c305dbacf08c3f0e6a1e16d58f3fdd622986eb34811cdcad3a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.85/SLPM_550.85_BG_05.png"
+      },
+      "gameId": "SLPM_550.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Angel Profile (Best Hit Selection)"
+}

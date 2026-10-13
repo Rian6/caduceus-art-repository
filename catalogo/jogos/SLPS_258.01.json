@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.01",
+  "cover": {
+    "path": "PS2/SLPS_258.01/SLPS_258.01_COV.png",
+    "kind": "cover",
+    "bytes": 106398,
+    "width": 192,
+    "height": 272,
+    "sha256": "5009ad562755e92aa080e72b2935f58bf50e86e35abc4e75fe28996e0385f945",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25801.jpg"
+    },
+    "gameId": "SLPS_258.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KYO KARA MAOH! SHIN MAKOKU NO KYUUJITSU [LIMITED BOX]"
+}

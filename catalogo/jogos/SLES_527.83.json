@@ -1,0 +1,90 @@
+{
+  "id": "SLES_527.83",
+  "cover": {
+    "path": "PS2/SLES_527.83/SLES_527.83_COV.png",
+    "kind": "cover",
+    "bytes": 96517,
+    "width": 192,
+    "height": 272,
+    "sha256": "1daaa4ca076053821722f035059a7aa60ba5db76aee5fb0c4e11220f7dc7a709",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52783.jpg"
+    },
+    "gameId": "SLES_527.83"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.83/SLES_527.83_BG.png",
+    "kind": "background",
+    "bytes": 220463,
+    "width": 640,
+    "height": 480,
+    "sha256": "39e754ac059b6395cc434068dbb0cfe467d826123655c24722da58e244263546",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.83/SLES_527.83_BG_00.png"
+    },
+    "gameId": "SLES_527.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.83/SLES_527.83_BG.png",
+      "kind": "background",
+      "bytes": 220463,
+      "width": 640,
+      "height": 480,
+      "sha256": "39e754ac059b6395cc434068dbb0cfe467d826123655c24722da58e244263546",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.83/SLES_527.83_BG_00.png"
+      },
+      "gameId": "SLES_527.83"
+    },
+    {
+      "path": "PS2/SLES_527.83/SLES_527.83_BG_01.png",
+      "kind": "background",
+      "bytes": 219667,
+      "width": 640,
+      "height": 480,
+      "sha256": "f149dbfbb8240b03bf632c31d0e9e60af355465a39a17b9c29ebf1f0c8f39826",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.83/SLES_527.83_BG_01.png"
+      },
+      "gameId": "SLES_527.83"
+    },
+    {
+      "path": "PS2/SLES_527.83/SLES_527.83_BG_02.png",
+      "kind": "background",
+      "bytes": 213075,
+      "width": 640,
+      "height": 480,
+      "sha256": "b797d5a807631da710c5facf7d1eea0645f10069d0671e28f9e25e0ff86bdf9c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.83/SLES_527.83_BG_02.png"
+      },
+      "gameId": "SLES_527.83"
+    },
+    {
+      "path": "PS2/SLES_527.83/SLES_527.83_BG_03.png",
+      "kind": "background",
+      "bytes": 201912,
+      "width": 640,
+      "height": 480,
+      "sha256": "362a16ba0a36aaa049576eb751d2713894dd3ee1a6005ac35485731963a6388e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.83/SLES_527.83_BG_03.png"
+      },
+      "gameId": "SLES_527.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CALL OF DUTY - FINEST HOUR"
+}

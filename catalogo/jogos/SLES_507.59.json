@@ -1,0 +1,25 @@
+{
+  "id": "SLES_507.59",
+  "cover": {
+    "path": "PS2/SLES_507.59/SLES_507.59_COV.png",
+    "kind": "cover",
+    "bytes": 62790,
+    "width": 192,
+    "height": 272,
+    "sha256": "9fa507b2b00c57809098e5c063f869428e75a5d3a2c7ddc3bcce36330ee6e46c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.59/SLES_507.59_COV.png"
+    },
+    "gameId": "SLES_507.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Virtua Fighter 4"
+}

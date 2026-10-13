@@ -1,0 +1,91 @@
+{
+  "id": "SLPM_685.13",
+  "cover": {
+    "path": "PS2/SLPM_685.13/SLPM_685.13_COV.png",
+    "kind": "cover",
+    "bytes": 107851,
+    "width": 192,
+    "height": 272,
+    "sha256": "ddb1dacfa889817c4a44154a0b2944900fceb96f6d2f3136167a03db017fdebf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-68513.jpg"
+    },
+    "gameId": "SLPM_685.13"
+  },
+  "disc": {
+    "path": "PS2/SLPM_685.13/SLPM_685.13_ICO.png",
+    "kind": "disc",
+    "bytes": 10285,
+    "width": 128,
+    "height": 128,
+    "sha256": "c84220c3abb442b751164059146e9304c775375e5aa997452d6b2f5a707c7082",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_685.13_ICO.png"
+    },
+    "gameId": "SLPM_685.13"
+  },
+  "background": {
+    "path": "PS2/SLPM_685.13/SLPM_685.13_BG.png",
+    "kind": "background",
+    "bytes": 197650,
+    "width": 640,
+    "height": 480,
+    "sha256": "bef7ce0cb8ee33a6525d2f008224418acc9864e28d53a7a19529485f88b183cb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_685.13/SLPM_685.13_BG_00.png"
+    },
+    "gameId": "SLPM_685.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_685.13/SLPM_685.13_BG.png",
+      "kind": "background",
+      "bytes": 197650,
+      "width": 640,
+      "height": 480,
+      "sha256": "bef7ce0cb8ee33a6525d2f008224418acc9864e28d53a7a19529485f88b183cb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_685.13/SLPM_685.13_BG_00.png"
+      },
+      "gameId": "SLPM_685.13"
+    },
+    {
+      "path": "PS2/SLPM_685.13/SLPM_685.13_BG_01.png",
+      "kind": "background",
+      "bytes": 169029,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa5517c96a8d9e80c7fc33050f0803d248a09d4cfa5281a10909c0c533c7fa63",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_685.13/SLPM_685.13_BG_01.png"
+      },
+      "gameId": "SLPM_685.13"
+    },
+    {
+      "path": "PS2/SLPM_685.13/SLPM_685.13_BG_02.png",
+      "kind": "background",
+      "bytes": 616831,
+      "width": 640,
+      "height": 480,
+      "sha256": "250b12158df964278c96ba5cca620ff874d3312aacfd7a83b5f5be7c4f91aff9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_685.13/SLPM_685.13_BG_02.png"
+      },
+      "gameId": "SLPM_685.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Ball Z 2V"
+}

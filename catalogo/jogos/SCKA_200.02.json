@@ -1,0 +1,64 @@
+{
+  "id": "SCKA_200.02",
+  "cover": {
+    "path": "PS2/SCKA_200.02/SCKA_200.02_COV.png",
+    "kind": "cover",
+    "bytes": 65703,
+    "width": 192,
+    "height": 272,
+    "sha256": "1944cde4c75324e72f22c7b15c08227716906dca67aac694a145a493ba507f79",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.02/SCKA_200.02_COV.png"
+    },
+    "gameId": "SCKA_200.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.02/SCKA_200.02_BG.png",
+    "kind": "background",
+    "bytes": 159161,
+    "width": 640,
+    "height": 480,
+    "sha256": "873e65a9e975783bb33c6fe459e95866aadaf62a53f3389a827e96ab9853ca80",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.02/SCKA_200.02_BG_00.png"
+    },
+    "gameId": "SCKA_200.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.02/SCKA_200.02_BG.png",
+      "kind": "background",
+      "bytes": 159161,
+      "width": 640,
+      "height": 480,
+      "sha256": "873e65a9e975783bb33c6fe459e95866aadaf62a53f3389a827e96ab9853ca80",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.02/SCKA_200.02_BG_00.png"
+      },
+      "gameId": "SCKA_200.02"
+    },
+    {
+      "path": "PS2/SCKA_200.02/SCKA_200.02_BG_01.png",
+      "kind": "background",
+      "bytes": 166616,
+      "width": 640,
+      "height": 480,
+      "sha256": "f1b18430b8ce059bbcb41caa95f237ab1f8be96d6006d1839f4ce9d3db7def50",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.02/SCKA_200.02_BG_01.png"
+      },
+      "gameId": "SCKA_200.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Time Crisis II"
+}

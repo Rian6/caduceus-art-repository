@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.38",
+  "cover": {
+    "path": "PS2/SLPS_257.38/SLPS_257.38_COV.png",
+    "kind": "cover",
+    "bytes": 115890,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed1825b73d94bfb792536a9adfcff28353b38e8795f27fc4683c7f1fc811a7f0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25738.jpg"
+    },
+    "gameId": "SLPS_257.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOUL CRADLE - SEKAI O KURAU MONO [FIRST PRINT LIMITED EDITION]"
+}

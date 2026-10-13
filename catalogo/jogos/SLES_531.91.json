@@ -1,0 +1,91 @@
+{
+  "id": "SLES_531.91",
+  "cover": {
+    "path": "PS2/SLES_531.91/SLES_531.91_COV.png",
+    "kind": "cover",
+    "bytes": 90957,
+    "width": 192,
+    "height": 272,
+    "sha256": "dfbcb2e6b344df7f0aa219d89da6de84e0e50f96f70b0d88cc06053342e2f483",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53191.jpg"
+    },
+    "gameId": "SLES_531.91"
+  },
+  "disc": {
+    "path": "PS2/SLES_531.91/SLES_531.91_ICO.png",
+    "kind": "disc",
+    "bytes": 10439,
+    "width": 128,
+    "height": 128,
+    "sha256": "8742da2ed513e1d3c3a66e307831f345290027b240afbac55b6cf785e38101d9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_531.91_ICO.png"
+    },
+    "gameId": "SLES_531.91"
+  },
+  "background": {
+    "path": "PS2/SLES_531.91/SLES_531.91_BG.png",
+    "kind": "background",
+    "bytes": 190374,
+    "width": 640,
+    "height": 480,
+    "sha256": "44c1bf7c02bb1d77d859a1ed8d8ebbf79b7f8628815b5fa3adfcb96db47d7e08",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.91/SLES_531.91_BG_00.png"
+    },
+    "gameId": "SLES_531.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.91/SLES_531.91_BG.png",
+      "kind": "background",
+      "bytes": 190374,
+      "width": 640,
+      "height": 480,
+      "sha256": "44c1bf7c02bb1d77d859a1ed8d8ebbf79b7f8628815b5fa3adfcb96db47d7e08",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.91/SLES_531.91_BG_00.png"
+      },
+      "gameId": "SLES_531.91"
+    },
+    {
+      "path": "PS2/SLES_531.91/SLES_531.91_BG_01.png",
+      "kind": "background",
+      "bytes": 181882,
+      "width": 640,
+      "height": 480,
+      "sha256": "d7ea2d5d6e8625f2b13c41a5d3e29039da192262c0ddea206da4a530aae66d5e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.91/SLES_531.91_BG_01.png"
+      },
+      "gameId": "SLES_531.91"
+    },
+    {
+      "path": "PS2/SLES_531.91/SLES_531.91_BG_02.png",
+      "kind": "background",
+      "bytes": 178182,
+      "width": 640,
+      "height": 480,
+      "sha256": "b8632364bbcf954fa1bb043b9c6c84f1c9ba2393e3ad33bbad3003d8d085524c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.91/SLES_531.91_BG_02.png"
+      },
+      "gameId": "SLES_531.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kaido Racer"
+}

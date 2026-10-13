@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.11",
+  "cover": {
+    "path": "PS2/SLPM_652.11/SLPM_652.11_COV.png",
+    "kind": "cover",
+    "bytes": 65719,
+    "width": 192,
+    "height": 272,
+    "sha256": "246787d15f1e220073512cbf1dc6f02b184c62161ddac4677b029d0d39f82034",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_652.11/SLPM_652.11_COV.png"
+    },
+    "gameId": "SLPM_652.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Houshin Engi 2"
+}

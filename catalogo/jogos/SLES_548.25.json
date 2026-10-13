@@ -1,0 +1,51 @@
+{
+  "id": "SLES_548.25",
+  "cover": {
+    "path": "PS2/SLES_548.25/SLES_548.25_COV.png",
+    "kind": "cover",
+    "bytes": 91508,
+    "width": 192,
+    "height": 272,
+    "sha256": "f5aa2641686abc0e3076761601fdcce1532902753933df57c1d1c66525f8ec21",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54825.jpg"
+    },
+    "gameId": "SLES_548.25"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_548.25/SLES_548.25_BG.png",
+    "kind": "background",
+    "bytes": 196607,
+    "width": 640,
+    "height": 480,
+    "sha256": "a3493c8bb65936d840cbd6f6c9f259105fb3aee328844cc0c55bf7cd4b89a653",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.25/SLES_548.25_BG_00.png"
+    },
+    "gameId": "SLES_548.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.25/SLES_548.25_BG.png",
+      "kind": "background",
+      "bytes": 196607,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3493c8bb65936d840cbd6f6c9f259105fb3aee328844cc0c55bf7cd4b89a653",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.25/SLES_548.25_BG_00.png"
+      },
+      "gameId": "SLES_548.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bob The Builder"
+}

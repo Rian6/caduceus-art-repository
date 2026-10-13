@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.40",
+  "cover": {
+    "path": "PS2/SLPS_250.40/SLPS_250.40_COV.png",
+    "kind": "cover",
+    "bytes": 78626,
+    "width": 192,
+    "height": 272,
+    "sha256": "1e106d4a04e5082682e6eff2c57be17917a0e6f491756a0878c52a90751e03b4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25040.jpg"
+    },
+    "gameId": "SLPS_250.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core 2 - Another Age"
+}

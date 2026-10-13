@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.61",
+  "cover": {
+    "path": "PS2/SLPS_201.61/SLPS_201.61_COV.png",
+    "kind": "cover",
+    "bytes": 95324,
+    "width": 192,
+    "height": 272,
+    "sha256": "db3cbf836e56d9800775d46280c3c7c227d33d377f6c5e15fd7a595a8cea659b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20161.jpg"
+    },
+    "gameId": "SLPS_201.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saikyou Toudai Shogi Special"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_525.27",
+  "cover": {
+    "path": "PS2/SLES_525.27/SLES_525.27_COV.png",
+    "kind": "cover",
+    "bytes": 100938,
+    "width": 192,
+    "height": 272,
+    "sha256": "e6ba8a1a3295c8bbaf895de495e57e394c4e89b7bc8aabc6ff3fb881bf6f8e24",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52527.jpg"
+    },
+    "gameId": "SLES_525.27"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.27/SLES_525.27_BG.png",
+    "kind": "background",
+    "bytes": 185338,
+    "width": 640,
+    "height": 480,
+    "sha256": "4f706d602f0f2e15f7b983469cf1f3b123eda49a6f52eed2c550f9e1b959a67d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.27/SLES_525.27_BG_00.png"
+    },
+    "gameId": "SLES_525.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.27/SLES_525.27_BG.png",
+      "kind": "background",
+      "bytes": 185338,
+      "width": 640,
+      "height": 480,
+      "sha256": "4f706d602f0f2e15f7b983469cf1f3b123eda49a6f52eed2c550f9e1b959a67d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.27/SLES_525.27_BG_00.png"
+      },
+      "gameId": "SLES_525.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harry Potter og Fangen fra Azkaban"
+}

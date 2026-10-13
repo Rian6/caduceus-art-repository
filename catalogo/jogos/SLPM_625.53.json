@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_625.53",
+  "cover": {
+    "path": "PS2/SLPM_625.53/SLPM_625.53_COV.png",
+    "kind": "cover",
+    "bytes": 119406,
+    "width": 192,
+    "height": 272,
+    "sha256": "34488185dd9ae104d4662a644f440cc4ee9d33c03bce37b9033d08de87eab6c6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62553.jpg"
+    },
+    "gameId": "SLPM_625.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_625.53/SLPM_625.53_BG.png",
+    "kind": "background",
+    "bytes": 192733,
+    "width": 640,
+    "height": 480,
+    "sha256": "cccb2ceaffca1d8cad439d1f7a5013a43cac86d98cc096e937167ec3b1027ce6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_625.53/SLPM_625.53_BG_00.png"
+    },
+    "gameId": "SLPM_625.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_625.53/SLPM_625.53_BG.png",
+      "kind": "background",
+      "bytes": 192733,
+      "width": 640,
+      "height": 480,
+      "sha256": "cccb2ceaffca1d8cad439d1f7a5013a43cac86d98cc096e937167ec3b1027ce6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_625.53/SLPM_625.53_BG_00.png"
+      },
+      "gameId": "SLPM_625.53"
+    },
+    {
+      "path": "PS2/SLPM_625.53/SLPM_625.53_BG_01.png",
+      "kind": "background",
+      "bytes": 132537,
+      "width": 640,
+      "height": 480,
+      "sha256": "e9d283a2299b62f3d3b00f082809cfcfd58be7bb969b280f56008d6357b141c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_625.53/SLPM_625.53_BG_01.png"
+      },
+      "gameId": "SLPM_625.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Ages 2500 Series Vol. 17 - Phantasy Star Generation 2"
+}

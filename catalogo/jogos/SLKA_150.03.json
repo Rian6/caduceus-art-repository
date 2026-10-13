@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_150.03",
+  "cover": {
+    "path": "PS2/SLKA_150.03/SLKA_150.03_COV.png",
+    "kind": "cover",
+    "bytes": 108731,
+    "width": 192,
+    "height": 272,
+    "sha256": "b3a0295925fc9bf47c18fc4fa77dd4818dd9bd02867e3133b33df6325f370616",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-15003.jpg"
+    },
+    "gameId": "SLKA_150.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_150.03/SLKA_150.03_BG.png",
+    "kind": "background",
+    "bytes": 173755,
+    "width": 640,
+    "height": 480,
+    "sha256": "21fcb60211f3227df22de85cda55531c63c82e814857e2a9427e697042839eda",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_150.03/SLKA_150.03_BG_00.png"
+    },
+    "gameId": "SLKA_150.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_150.03/SLKA_150.03_BG.png",
+      "kind": "background",
+      "bytes": 173755,
+      "width": 640,
+      "height": 480,
+      "sha256": "21fcb60211f3227df22de85cda55531c63c82e814857e2a9427e697042839eda",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_150.03/SLKA_150.03_BG_00.png"
+      },
+      "gameId": "SLKA_150.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shikigami no Shiro II"
+}

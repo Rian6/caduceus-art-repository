@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_205.08",
+  "cover": {
+    "path": "PS2/SLUS_205.08/SLUS_205.08_COV.png",
+    "kind": "cover",
+    "bytes": 98458,
+    "width": 192,
+    "height": 272,
+    "sha256": "1a2a16cb06c804c8bb51fcbaa56fe0e47d9ad9b55297db37679c9dd72aa09b87",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20508.jpg"
+    },
+    "gameId": "SLUS_205.08"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.08/SLUS_205.08_ICO.png",
+    "kind": "disc",
+    "bytes": 32085,
+    "width": 256,
+    "height": 256,
+    "sha256": "290dbae39187f9cb2f7a8d303e0c7ae1bc1dcf8e23b0322abf13e198be04c363",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.08_ICO.png"
+    },
+    "gameId": "SLUS_205.08"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.08/SLUS_205.08_BG.png",
+    "kind": "background",
+    "bytes": 222197,
+    "width": 640,
+    "height": 480,
+    "sha256": "88a72f7ea76b904d61af79394feac2b3720f2258cbb4933c564913f170e643ba",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.08/SLUS_205.08_BG_00.png"
+    },
+    "gameId": "SLUS_205.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.08/SLUS_205.08_BG.png",
+      "kind": "background",
+      "bytes": 222197,
+      "width": 640,
+      "height": 480,
+      "sha256": "88a72f7ea76b904d61af79394feac2b3720f2258cbb4933c564913f170e643ba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.08/SLUS_205.08_BG_00.png"
+      },
+      "gameId": "SLUS_205.08"
+    },
+    {
+      "path": "PS2/SLUS_205.08/SLUS_205.08_BG_01.png",
+      "kind": "background",
+      "bytes": 211702,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a4b2d96ab84560b12d70f8aedf450f3b0d5fd286d5812fbf9eb0ca0901087b5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.08/SLUS_205.08_BG_01.png"
+      },
+      "gameId": "SLUS_205.08"
+    },
+    {
+      "path": "PS2/SLUS_205.08/SLUS_205.08_BG_02.png",
+      "kind": "background",
+      "bytes": 212650,
+      "width": 640,
+      "height": 480,
+      "sha256": "39afb086d306ecc6454ceea2c76328e103434b7d4e151cea04ea89ec01038ab5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.08/SLUS_205.08_BG_02.png"
+      },
+      "gameId": "SLUS_205.08"
+    },
+    {
+      "path": "PS2/SLUS_205.08/SLUS_205.08_BG_03.png",
+      "kind": "background",
+      "bytes": 229397,
+      "width": 640,
+      "height": 480,
+      "sha256": "6a1c7c7e60595a79ea62c4b7933b90f1a826d7ca165e82e8dee668ea9784fe68",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.08/SLUS_205.08_BG_03.png"
+      },
+      "gameId": "SLUS_205.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Indiana Jones and the Emperor's Tomb"
+}

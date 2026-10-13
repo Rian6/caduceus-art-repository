@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.68",
+  "cover": {
+    "path": "PS2/SLPS_204.68/SLPS_204.68_COV.png",
+    "kind": "cover",
+    "bytes": 85035,
+    "width": 192,
+    "height": 272,
+    "sha256": "3370f188f5dc9e91bea42ecdcab7140e0d56c11e4adef5ce83cd1dfa48626147",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20468.jpg"
+    },
+    "gameId": "SLPS_204.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.106 - The Block Kuzushi Quest - Dragon Kingdom"
+}

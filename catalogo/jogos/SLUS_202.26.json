@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_202.26",
+  "cover": {
+    "path": "PS2/SLUS_202.26/SLUS_202.26_COV.png",
+    "kind": "cover",
+    "bytes": 70127,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e66941d47c54cb6af3ac33e561729971db3d3f129765d96a9486bf607a60f9e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20226.jpg"
+    },
+    "gameId": "SLUS_202.26"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.26/SLUS_202.26_ICO.png",
+    "kind": "disc",
+    "bytes": 21079,
+    "width": 256,
+    "height": 256,
+    "sha256": "4209d0351d3db3dc3eaed2c4286fd2a4b4a86709ef4804431483dc292c8af140",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.26_ICO.png"
+    },
+    "gameId": "SLUS_202.26"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.26/SLUS_202.26_BG.png",
+    "kind": "background",
+    "bytes": 186936,
+    "width": 640,
+    "height": 480,
+    "sha256": "8d520d0a44727106875db78ddd71ff755fb77fe1c15faf0fbc6772943b34e305",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.26/SLUS_202.26_BG_00.png"
+    },
+    "gameId": "SLUS_202.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.26/SLUS_202.26_BG.png",
+      "kind": "background",
+      "bytes": 186936,
+      "width": 640,
+      "height": 480,
+      "sha256": "8d520d0a44727106875db78ddd71ff755fb77fe1c15faf0fbc6772943b34e305",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.26/SLUS_202.26_BG_00.png"
+      },
+      "gameId": "SLUS_202.26"
+    },
+    {
+      "path": "PS2/SLUS_202.26/SLUS_202.26_BG_01.png",
+      "kind": "background",
+      "bytes": 209399,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e9607c6a775383de3f47a0b9d3ee2cf1f2da5c07eaff075f5cffd1e1e586ce4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.26/SLUS_202.26_BG_01.png"
+      },
+      "gameId": "SLUS_202.26"
+    },
+    {
+      "path": "PS2/SLUS_202.26/SLUS_202.26_BG_02.png",
+      "kind": "background",
+      "bytes": 146060,
+      "width": 640,
+      "height": 480,
+      "sha256": "2d595de995ef2b818f6db602817680681ba2ccacfb5b4de7dba9cbbd36d11a90",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.26/SLUS_202.26_BG_02.png"
+      },
+      "gameId": "SLUS_202.26"
+    },
+    {
+      "path": "PS2/SLUS_202.26/SLUS_202.26_BG_03.png",
+      "kind": "background",
+      "bytes": 187214,
+      "width": 640,
+      "height": 480,
+      "sha256": "1dd590039851a1bb2cd6f5f99c4debc78985dc79d8009e1023ee81a0b09ca2e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.26/SLUS_202.26_BG_03.png"
+      },
+      "gameId": "SLUS_202.26"
+    },
+    {
+      "path": "PS2/SLUS_202.26/SLUS_202.26_BG_04.png",
+      "kind": "background",
+      "bytes": 172698,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a3a714c3b1779381c411fea5835c527f984068e9556736b941893f3181fabf8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.26/SLUS_202.26_BG_04.png"
+      },
+      "gameId": "SLUS_202.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Batman: Vengeance"
+}

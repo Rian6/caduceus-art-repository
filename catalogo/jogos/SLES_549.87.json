@@ -1,0 +1,25 @@
+{
+  "id": "SLES_549.87",
+  "cover": {
+    "path": "PS2/SLES_549.87/SLES_549.87_COV.png",
+    "kind": "cover",
+    "bytes": 108244,
+    "width": 192,
+    "height": 272,
+    "sha256": "646e5d80acd0c5d575bb55d3c8f6da4ea5a1a9e3d6deb4e365a74ed95752d0e6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54987.jpg"
+    },
+    "gameId": "SLES_549.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bratz - The Movie"
+}

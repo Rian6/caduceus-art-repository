@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.60",
+  "cover": {
+    "path": "PS2/SLPM_552.60/SLPM_552.60_COV.png",
+    "kind": "cover",
+    "bytes": 99940,
+    "width": 192,
+    "height": 272,
+    "sha256": "8c807d84f130b3e7755ff0092c7d3a8af03335132d72d198256424965fc5dc81",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55260.jpg"
+    },
+    "gameId": "SLPM_552.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MYSTEREET ~YASOGAMI KAORU NO CHOUSEN!~ [ABEL THE BEST]"
+}

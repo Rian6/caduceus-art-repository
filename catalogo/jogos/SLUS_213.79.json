@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_213.79",
+  "cover": {
+    "path": "PS2/SLUS_213.79/SLUS_213.79_COV.png",
+    "kind": "cover",
+    "bytes": 105153,
+    "width": 192,
+    "height": 272,
+    "sha256": "4852cc6c666684244904d369d56ce40277aa7a2568f177806cd617d484ae2212",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21379.jpg"
+    },
+    "gameId": "SLUS_213.79"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.79/SLUS_213.79_ICO.png",
+    "kind": "disc",
+    "bytes": 29521,
+    "width": 256,
+    "height": 256,
+    "sha256": "a02f8db017a78031dcf46d50d3928f2dccc087507310ae357d8e7e51a3abf813",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.79_ICO.png"
+    },
+    "gameId": "SLUS_213.79"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.79/SLUS_213.79_BG.png",
+    "kind": "background",
+    "bytes": 217546,
+    "width": 640,
+    "height": 480,
+    "sha256": "f6d34e4b6dafb698d48cd52955c0916ecb5ab13d3f97ba33887386188d4ad683",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.79/SLUS_213.79_BG_00.png"
+    },
+    "gameId": "SLUS_213.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.79/SLUS_213.79_BG.png",
+      "kind": "background",
+      "bytes": 217546,
+      "width": 640,
+      "height": 480,
+      "sha256": "f6d34e4b6dafb698d48cd52955c0916ecb5ab13d3f97ba33887386188d4ad683",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.79/SLUS_213.79_BG_00.png"
+      },
+      "gameId": "SLUS_213.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cabela's African Safari"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_205.09",
+  "cover": {
+    "path": "PS2/SLPS_205.09/SLPS_205.09_COV.png",
+    "kind": "cover",
+    "bytes": 106266,
+    "width": 192,
+    "height": 272,
+    "sha256": "b8e9e1d6f248ca3a784d84c271873cbd5a1d3dcd8d7779006154aeb4940efb90",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20509.jpg"
+    },
+    "gameId": "SLPS_205.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HACHI-ONE DIVER"
+}

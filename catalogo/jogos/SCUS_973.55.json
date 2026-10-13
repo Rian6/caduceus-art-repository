@@ -1,0 +1,91 @@
+{
+  "id": "SCUS_973.55",
+  "cover": {
+    "path": "PS2/SCUS_973.55/SCUS_973.55_COV.png",
+    "kind": "cover",
+    "bytes": 96266,
+    "width": 192,
+    "height": 272,
+    "sha256": "42e665d317f662dd234dc28da3f72c02d496fab378e6452467283ba026a52230",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97355.jpg"
+    },
+    "gameId": "SCUS_973.55"
+  },
+  "disc": {
+    "path": "PS2/SCUS_973.55/SCUS_973.55_ICO.png",
+    "kind": "disc",
+    "bytes": 35035,
+    "width": 256,
+    "height": 256,
+    "sha256": "811f8976dd251cbea329572f981f332c58de86ae4b14559dd440a7c924660ad6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_973.55_ICO.png"
+    },
+    "gameId": "SCUS_973.55"
+  },
+  "background": {
+    "path": "PS2/SCUS_973.55/SCUS_973.55_BG.png",
+    "kind": "background",
+    "bytes": 147312,
+    "width": 640,
+    "height": 480,
+    "sha256": "e22260e502e22496ebc18d1ee7970af0e94729f366a3a4fab69222dd4edbe8d2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_973.55/SCUS_973.55_BG_00.png"
+    },
+    "gameId": "SCUS_973.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_973.55/SCUS_973.55_BG.png",
+      "kind": "background",
+      "bytes": 147312,
+      "width": 640,
+      "height": 480,
+      "sha256": "e22260e502e22496ebc18d1ee7970af0e94729f366a3a4fab69222dd4edbe8d2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_973.55/SCUS_973.55_BG_00.png"
+      },
+      "gameId": "SCUS_973.55"
+    },
+    {
+      "path": "PS2/SCUS_973.55/SCUS_973.55_BG_01.png",
+      "kind": "background",
+      "bytes": 228763,
+      "width": 640,
+      "height": 480,
+      "sha256": "693163d291fd304534762bb73ba1a438c66cf68ffb940522e14ceae15e30bc2b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_973.55/SCUS_973.55_BG_01.png"
+      },
+      "gameId": "SCUS_973.55"
+    },
+    {
+      "path": "PS2/SCUS_973.55/SCUS_973.55_BG_02.png",
+      "kind": "background",
+      "bytes": 198511,
+      "width": 640,
+      "height": 480,
+      "sha256": "601695f078e5090c99b13fed327f2bfa98a690718f2d6de2f9f6f9f6d7b39714",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_973.55/SCUS_973.55_BG_02.png"
+      },
+      "gameId": "SCUS_973.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIREN"
+}

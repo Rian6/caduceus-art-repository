@@ -1,0 +1,25 @@
+{
+  "id": "SLES_540.15",
+  "cover": {
+    "path": "PS2/SLES_540.15/SLES_540.15_COV.png",
+    "kind": "cover",
+    "bytes": 97863,
+    "width": 192,
+    "height": 272,
+    "sha256": "3f9bb59f9f73c2267a5f52eff197372cd84e00e971c4d7db8731694f690ecbc7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54015.jpg"
+    },
+    "gameId": "SLES_540.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar Cars"
+}

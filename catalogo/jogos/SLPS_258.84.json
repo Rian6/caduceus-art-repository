@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.84",
+  "cover": {
+    "path": "PS2/SLPS_258.84/SLPS_258.84_COV.png",
+    "kind": "cover",
+    "bytes": 86346,
+    "width": 192,
+    "height": 272,
+    "sha256": "cec48b573bae8a1a9631aaca2c3649f610a98ae65974a20cbe56cbe5aa204671",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25884.jpg"
+    },
+    "gameId": "SLPS_258.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRIMGRIMOIRE [THE BEST PRICE]"
+}

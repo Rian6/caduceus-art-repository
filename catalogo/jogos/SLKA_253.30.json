@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.30",
+  "cover": {
+    "path": "PS2/SLKA_253.30/SLKA_253.30_COV.png",
+    "kind": "cover",
+    "bytes": 95673,
+    "width": 192,
+    "height": 272,
+    "sha256": "5c5454f66b55a92d61ac859508d4e2074bca93f5cff67f18e3b2154f9198cd2f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25330.jpg"
+    },
+    "gameId": "SLKA_253.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BATTLEFIELD 2 - MODERN COMBAT"
+}

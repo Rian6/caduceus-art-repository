@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.36",
+  "cover": {
+    "path": "PS2/SLPM_653.36/SLPM_653.36_COV.png",
+    "kind": "cover",
+    "bytes": 94896,
+    "width": 192,
+    "height": 272,
+    "sha256": "6489884f47ac0c5062eba3102189a69385efa91aa95e122f64d3e82aed6df9bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65336.jpg"
+    },
+    "gameId": "SLPM_653.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "K-1 World Grand Prix - The Beast Attack!"
+}

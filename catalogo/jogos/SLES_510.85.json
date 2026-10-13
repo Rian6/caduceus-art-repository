@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.85",
+  "cover": {
+    "path": "PS2/SLES_510.85/SLES_510.85_COV.png",
+    "kind": "cover",
+    "bytes": 86941,
+    "width": 192,
+    "height": 272,
+    "sha256": "a07ce39f42bf5b029993be11aae1f1166a4b2ae6bb9db536b3e744f9fcbff4cc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51085.jpg"
+    },
+    "gameId": "SLES_510.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - ASTON VILLA"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.01",
+  "cover": {
+    "path": "PS2/SLPS_250.01/SLPS_250.01_COV.png",
+    "kind": "cover",
+    "bytes": 62046,
+    "width": 192,
+    "height": 272,
+    "sha256": "ce69f7ad010d235541eeb626b7ab11c1b5f4636edebc0b0077ccf46dd1890aea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25001.jpg"
+    },
+    "gameId": "SLPS_250.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Eternal Ring"
+}

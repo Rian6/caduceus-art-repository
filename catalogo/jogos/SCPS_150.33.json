@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.33",
+  "cover": {
+    "path": "PS2/SCPS_150.33/SCPS_150.33_COV.png",
+    "kind": "cover",
+    "bytes": 112609,
+    "width": 192,
+    "height": 272,
+    "sha256": "fa0bb27419656777d15e1b103de2658495344219c631f5ca7afb5d003bdaddd4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15033.jpg"
+    },
+    "gameId": "SCPS_150.33"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.33/SCPS_150.33_BG.png",
+    "kind": "background",
+    "bytes": 255173,
+    "width": 640,
+    "height": 480,
+    "sha256": "25b36d59cbfdb66fef4932e07f48e6598104bb0936f9c64460b2808366f6904a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.33/SCPS_150.33_BG_00.png"
+    },
+    "gameId": "SCPS_150.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.33/SCPS_150.33_BG.png",
+      "kind": "background",
+      "bytes": 255173,
+      "width": 640,
+      "height": 480,
+      "sha256": "25b36d59cbfdb66fef4932e07f48e6598104bb0936f9c64460b2808366f6904a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.33/SCPS_150.33_BG_00.png"
+      },
+      "gameId": "SCPS_150.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DARK CHRONICLE"
+}

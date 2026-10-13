@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.16",
+  "cover": {
+    "path": "PS2/SLPS_258.16/SLPS_258.16_COV.png",
+    "kind": "cover",
+    "bytes": 87996,
+    "width": 192,
+    "height": 272,
+    "sha256": "a0c909dc3ad9112a3c70c4ce8973337091809b91155ae51e2b213b7e378b2cb6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25816.jpg"
+    },
+    "gameId": "SLPS_258.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yamasa Digi World - Collaboration SP Pachi-Slot Ridge Racer"
+}

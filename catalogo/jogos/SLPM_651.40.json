@@ -1,0 +1,104 @@
+{
+  "id": "SLPM_651.40",
+  "cover": {
+    "path": "PS2/SLPM_651.40/SLPM_651.40_COV.png",
+    "kind": "cover",
+    "bytes": 105263,
+    "width": 192,
+    "height": 272,
+    "sha256": "612e4509e55c1348e938f84da4677f1c3688b2e471534cd0e49720c3b2474227",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65140.jpg"
+    },
+    "gameId": "SLPM_651.40"
+  },
+  "disc": {
+    "path": "PS2/SLPM_651.40/SLPM_651.40_ICO.png",
+    "kind": "disc",
+    "bytes": 10146,
+    "width": 128,
+    "height": 128,
+    "sha256": "9b7eb5ec16c5566abc1084ab13f44a10b43373f70f693c40abbb22699d4d3e21",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_651.40_ICO.png"
+    },
+    "gameId": "SLPM_651.40"
+  },
+  "background": {
+    "path": "PS2/SLPM_651.40/SLPM_651.40_BG.png",
+    "kind": "background",
+    "bytes": 198000,
+    "width": 640,
+    "height": 480,
+    "sha256": "9d7a130c02b9094f7edf4f6cfe5f05aa40aa9f95c039a23b02d58ea31b3121a7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_651.40/SLPM_651.40_BG_00.png"
+    },
+    "gameId": "SLPM_651.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_651.40/SLPM_651.40_BG.png",
+      "kind": "background",
+      "bytes": 198000,
+      "width": 640,
+      "height": 480,
+      "sha256": "9d7a130c02b9094f7edf4f6cfe5f05aa40aa9f95c039a23b02d58ea31b3121a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_651.40/SLPM_651.40_BG_00.png"
+      },
+      "gameId": "SLPM_651.40"
+    },
+    {
+      "path": "PS2/SLPM_651.40/SLPM_651.40_BG_01.png",
+      "kind": "background",
+      "bytes": 194850,
+      "width": 640,
+      "height": 480,
+      "sha256": "ea56ebefa3f3c28400980983e53d523a6e10bf940c816c2cd92b259a5ac6c434",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_651.40/SLPM_651.40_BG_01.png"
+      },
+      "gameId": "SLPM_651.40"
+    },
+    {
+      "path": "PS2/SLPM_651.40/SLPM_651.40_BG_02.png",
+      "kind": "background",
+      "bytes": 229961,
+      "width": 640,
+      "height": 480,
+      "sha256": "2595f4de318432d38421a2708db5434fbfedb975de75478058cd4514788391f3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_651.40/SLPM_651.40_BG_02.png"
+      },
+      "gameId": "SLPM_651.40"
+    },
+    {
+      "path": "PS2/SLPM_651.40/SLPM_651.40_BG_03.png",
+      "kind": "background",
+      "bytes": 221029,
+      "width": 640,
+      "height": 480,
+      "sha256": "78c8d231c844c691cd3eb958253cab106979f76df8bae467c9c8845f746d7447",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_651.40/SLPM_651.40_BG_03.png"
+      },
+      "gameId": "SLPM_651.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jojo no Kimyou na Bouken: Ougon no Kaze"
+}

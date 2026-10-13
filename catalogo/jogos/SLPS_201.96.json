@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.96",
+  "cover": {
+    "path": "PS2/SLPS_201.96/SLPS_201.96_COV.png",
+    "kind": "cover",
+    "bytes": 63196,
+    "width": 192,
+    "height": 272,
+    "sha256": "46a3d847d74eda5ceb0b695d1fab0d8c69ba375560afda65f00b68dc402c69cc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20196.jpg"
+    },
+    "gameId": "SLPS_201.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TSUKI NO HIKARI - SHIZUMERU KANE NO SATSUJIN"
+}

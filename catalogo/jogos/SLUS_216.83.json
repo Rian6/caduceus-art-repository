@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_216.83",
+  "cover": {
+    "path": "PS2/SLUS_216.83/SLUS_216.83_COV.png",
+    "kind": "cover",
+    "bytes": 117811,
+    "width": 192,
+    "height": 272,
+    "sha256": "026ed1e31b15ad37e94bb5879feb9001081b27ce40c9aae72f6c7a36b8bbfc8f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21683.jpg"
+    },
+    "gameId": "SLUS_216.83"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.83/SLUS_216.83_ICO.png",
+    "kind": "disc",
+    "bytes": 30996,
+    "width": 256,
+    "height": 256,
+    "sha256": "e0ba5d702eeb9166a38345d4827b2fbd490a6686c3d43c53e0a8d29b499067b5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.83_ICO.png"
+    },
+    "gameId": "SLUS_216.83"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.83/SLUS_216.83_BG.png",
+    "kind": "background",
+    "bytes": 155492,
+    "width": 640,
+    "height": 480,
+    "sha256": "a52e1be10dc7eab0270fb2daa734270897d2fc2e96791ffd09c8a883aaa2b066",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.83/SLUS_216.83_BG_00.png"
+    },
+    "gameId": "SLUS_216.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.83/SLUS_216.83_BG.png",
+      "kind": "background",
+      "bytes": 155492,
+      "width": 640,
+      "height": 480,
+      "sha256": "a52e1be10dc7eab0270fb2daa734270897d2fc2e96791ffd09c8a883aaa2b066",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.83/SLUS_216.83_BG_00.png"
+      },
+      "gameId": "SLUS_216.83"
+    },
+    {
+      "path": "PS2/SLUS_216.83/SLUS_216.83_BG_01.png",
+      "kind": "background",
+      "bytes": 195755,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd1cab5512a3674c2657a4dd974cfa0dbb7528abd9286477c546ba9484ef2ef7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.83/SLUS_216.83_BG_01.png"
+      },
+      "gameId": "SLUS_216.83"
+    },
+    {
+      "path": "PS2/SLUS_216.83/SLUS_216.83_BG_02.png",
+      "kind": "background",
+      "bytes": 197110,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc3ffdc17bccb2ab7772eb5e7bc01e2498c196950a45a47f03557922e1f2bd76",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.83/SLUS_216.83_BG_02.png"
+      },
+      "gameId": "SLUS_216.83"
+    },
+    {
+      "path": "PS2/SLUS_216.83/SLUS_216.83_BG_03.png",
+      "kind": "background",
+      "bytes": 192722,
+      "width": 640,
+      "height": 480,
+      "sha256": "bcc905021b046cf685db8b5d33692be55841245e3b6babf68c1690ce1b9ed350",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.83/SLUS_216.83_BG_03.png"
+      },
+      "gameId": "SLUS_216.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yu-Gi-Oh! GX - The Beginning of Destiny"
+}

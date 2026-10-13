@@ -1,0 +1,25 @@
+{
+  "id": "SLES_516.63",
+  "cover": {
+    "path": "PS2/SLES_516.63/SLES_516.63_COV.png",
+    "kind": "cover",
+    "bytes": 92697,
+    "width": 192,
+    "height": 272,
+    "sha256": "0222d491a8e7bf90202ce028219a20f8548027a0d40d40dfde07108c2f44b99b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51663.jpg"
+    },
+    "gameId": "SLES_516.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 4"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.80",
+  "cover": {
+    "path": "PS2/SLES_548.80/SLES_548.80_COV.png",
+    "kind": "cover",
+    "bytes": 69711,
+    "width": 192,
+    "height": 272,
+    "sha256": "9ab1b38d2941f776eae58b136df859a69bdf1a289ba968ac6a0edf4dbede70ec",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54880.jpg"
+    },
+    "gameId": "SLES_548.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA 2K8"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SLES_539.98",
+  "cover": {
+    "path": "PS2/SLES_539.98/SLES_539.98_COV.png",
+    "kind": "cover",
+    "bytes": 80469,
+    "width": 192,
+    "height": 272,
+    "sha256": "82b96de868472667a30a164d6f7a674f2310a9a6571e3ff58516628adbf12b10",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53998.jpg"
+    },
+    "gameId": "SLES_539.98"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_539.98/SLES_539.98_BG.png",
+    "kind": "background",
+    "bytes": 180946,
+    "width": 640,
+    "height": 480,
+    "sha256": "7e41395a61baef87d515f64725df419881d0bd82e194880d8a6e07fbaa6ebd29",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.98/SLES_539.98_BG_00.png"
+    },
+    "gameId": "SLES_539.98"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.98/SLES_539.98_BG.png",
+      "kind": "background",
+      "bytes": 180946,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e41395a61baef87d515f64725df419881d0bd82e194880d8a6e07fbaa6ebd29",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.98/SLES_539.98_BG_00.png"
+      },
+      "gameId": "SLES_539.98"
+    },
+    {
+      "path": "PS2/SLES_539.98/SLES_539.98_BG_01.png",
+      "kind": "background",
+      "bytes": 183272,
+      "width": 640,
+      "height": 480,
+      "sha256": "82f2e43bbbff949fd91b6a17521109ab61a53caeb6de725351bb7b38f65c8fe4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.98/SLES_539.98_BG_01.png"
+      },
+      "gameId": "SLES_539.98"
+    },
+    {
+      "path": "PS2/SLES_539.98/SLES_539.98_BG_02.png",
+      "kind": "background",
+      "bytes": 176642,
+      "width": 640,
+      "height": 480,
+      "sha256": "b2aafc40cd59c80c1f53e741f5f35963fb16c20c5526af0870955038b02a34a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.98/SLES_539.98_BG_02.png"
+      },
+      "gameId": "SLES_539.98"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OUTRUN 2006 - COAST 2 COAST"
+}

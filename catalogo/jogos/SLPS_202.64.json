@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.64",
+  "cover": {
+    "path": "PS2/SLPS_202.64/SLPS_202.64_COV.png",
+    "kind": "cover",
+    "bytes": 94906,
+    "width": 192,
+    "height": 272,
+    "sha256": "344aa9a8f518541da207dc9c8c337800bfaffa45118aa10f9634320d066ba19d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20264.jpg"
+    },
+    "gameId": "SLPS_202.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "USAGI YASEI NO TOPAI - THE ARCADE"
+}

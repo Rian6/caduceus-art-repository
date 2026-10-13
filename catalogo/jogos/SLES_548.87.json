@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.87",
+  "cover": {
+    "path": "PS2/SLES_548.87/SLES_548.87_COV.png",
+    "kind": "cover",
+    "bytes": 104100,
+    "width": 192,
+    "height": 272,
+    "sha256": "c0a683a791cb92055fd4d6d68d98865d9e5a0fe8c4a36206fe69be39e142a772",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54887.jpg"
+    },
+    "gameId": "SLES_548.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Thrillville - Verrückte Achterbahn"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.28",
+  "cover": {
+    "path": "PS2/SLES_526.28/SLES_526.28_COV.png",
+    "kind": "cover",
+    "bytes": 110852,
+    "width": 192,
+    "height": 272,
+    "sha256": "b6c543fd70b40327186a1f886aafa5ad4ee40bd0664d61137137e96f560e64b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52628.jpg"
+    },
+    "gameId": "SLES_526.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Ballers"
+}

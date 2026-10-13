@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.30",
+  "cover": {
+    "path": "PS2/SLPS_259.30/SLPS_259.30_COV.png",
+    "kind": "cover",
+    "bytes": 94402,
+    "width": 192,
+    "height": 272,
+    "sha256": "27a22be53bfa81e46fde2a0fb34403b2e8fa12af748f9a67168bbe107f723341",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25930.jpg"
+    },
+    "gameId": "SLPS_259.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Major League Baseball 2K9"
+}

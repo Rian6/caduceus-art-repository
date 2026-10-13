@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_204.87",
+  "cover": {
+    "path": "PS2/SLUS_204.87/SLUS_204.87_COV.png",
+    "kind": "cover",
+    "bytes": 113669,
+    "width": 192,
+    "height": 272,
+    "sha256": "7f096d59aed03fc9d6754d6c20fb8da51c149c3ff6f1b2af37fc806e8843ef67",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20487.jpg"
+    },
+    "gameId": "SLUS_204.87"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.87/SLUS_204.87_ICO.png",
+    "kind": "disc",
+    "bytes": 31416,
+    "width": 256,
+    "height": 256,
+    "sha256": "4c99f97864c950feac6b8b720a873d8cf47c1537bb2217e58f2bf72ee6d60a5c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.87_ICO.png"
+    },
+    "gameId": "SLUS_204.87"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.87/SLUS_204.87_BG.png",
+    "kind": "background",
+    "bytes": 37315,
+    "width": 640,
+    "height": 480,
+    "sha256": "167d465fa39b218d51cb60c2554892808f4b97c43be0b70f95c3a1cc643d96cd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.87/SLUS_204.87_BG_00.png"
+    },
+    "gameId": "SLUS_204.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.87/SLUS_204.87_BG.png",
+      "kind": "background",
+      "bytes": 37315,
+      "width": 640,
+      "height": 480,
+      "sha256": "167d465fa39b218d51cb60c2554892808f4b97c43be0b70f95c3a1cc643d96cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.87/SLUS_204.87_BG_00.png"
+      },
+      "gameId": "SLUS_204.87"
+    },
+    {
+      "path": "PS2/SLUS_204.87/SLUS_204.87_BG_01.png",
+      "kind": "background",
+      "bytes": 179452,
+      "width": 640,
+      "height": 480,
+      "sha256": "923467da3dd0079dc621047c41a9931869b878d95fe549294e0e46881df40de8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.87/SLUS_204.87_BG_01.png"
+      },
+      "gameId": "SLUS_204.87"
+    },
+    {
+      "path": "PS2/SLUS_204.87/SLUS_204.87_BG_02.png",
+      "kind": "background",
+      "bytes": 116999,
+      "width": 640,
+      "height": 480,
+      "sha256": "fea1a84b001d0903124fe6ccdcb001cf90625dd399afcadb77a5032f78f41d1b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.87/SLUS_204.87_BG_02.png"
+      },
+      "gameId": "SLUS_204.87"
+    },
+    {
+      "path": "PS2/SLUS_204.87/SLUS_204.87_BG_03.png",
+      "kind": "background",
+      "bytes": 178317,
+      "width": 640,
+      "height": 480,
+      "sha256": "792615a945aae6e8fc341495e34a3fae7d06608e5e201e54c4da0e80d9bdd5ed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.87/SLUS_204.87_BG_03.png"
+      },
+      "gameId": "SLUS_204.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEGAMAN X7"
+}

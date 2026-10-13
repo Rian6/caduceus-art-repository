@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_203.43",
+  "cover": {
+    "path": "PS2/SLUS_203.43/SLUS_203.43_COV.png",
+    "kind": "cover",
+    "bytes": 107276,
+    "width": 192,
+    "height": 272,
+    "sha256": "9995b605957bfe1f4179f4b663fbefd784d763c6b282aa6238a6145589066732",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20343.jpg"
+    },
+    "gameId": "SLUS_203.43"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.43/SLUS_203.43_ICO.png",
+    "kind": "disc",
+    "bytes": 33340,
+    "width": 256,
+    "height": 256,
+    "sha256": "9a73af7037f602bf5bf47dfed8fa9a4c1439637afa948dd081037dab25442de6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.43_ICO.png"
+    },
+    "gameId": "SLUS_203.43"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.43/SLUS_203.43_BG.png",
+    "kind": "background",
+    "bytes": 218734,
+    "width": 640,
+    "height": 480,
+    "sha256": "ff5441de9c85a8a936655b4c59c775bbd0a7dd4bd3953d8f5e491b6246f6296c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.43/SLUS_203.43_BG_00.png"
+    },
+    "gameId": "SLUS_203.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.43/SLUS_203.43_BG.png",
+      "kind": "background",
+      "bytes": 218734,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff5441de9c85a8a936655b4c59c775bbd0a7dd4bd3953d8f5e491b6246f6296c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.43/SLUS_203.43_BG_00.png"
+      },
+      "gameId": "SLUS_203.43"
+    },
+    {
+      "path": "PS2/SLUS_203.43/SLUS_203.43_BG_01.png",
+      "kind": "background",
+      "bytes": 200072,
+      "width": 640,
+      "height": 480,
+      "sha256": "0f1f23e97b500fa4dbbada1649ced280938d2f558ddded49b6d71dd96e969fd9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.43/SLUS_203.43_BG_01.png"
+      },
+      "gameId": "SLUS_203.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Forever Kingdom"
+}

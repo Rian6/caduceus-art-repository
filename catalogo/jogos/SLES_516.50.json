@@ -1,0 +1,51 @@
+{
+  "id": "SLES_516.50",
+  "cover": {
+    "path": "PS2/SLES_516.50/SLES_516.50_COV.png",
+    "kind": "cover",
+    "bytes": 83022,
+    "width": 192,
+    "height": 272,
+    "sha256": "32a76fb9a14140627c37e05073436a061ddc4677a8ccad25f5b54b9848e42c4b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51650.jpg"
+    },
+    "gameId": "SLES_516.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_516.50/SLES_516.50_BG.png",
+    "kind": "background",
+    "bytes": 212878,
+    "width": 640,
+    "height": 480,
+    "sha256": "d22313f8c9e4f1d57da1be33b54cf19850b76f282344be080bbf8c37f7b1f03e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_516.50/SLES_516.50_BG_00.png"
+    },
+    "gameId": "SLES_516.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_516.50/SLES_516.50_BG.png",
+      "kind": "background",
+      "bytes": 212878,
+      "width": 640,
+      "height": 480,
+      "sha256": "d22313f8c9e4f1d57da1be33b54cf19850b76f282344be080bbf8c37f7b1f03e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.50/SLES_516.50_BG_00.png"
+      },
+      "gameId": "SLES_516.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JUDGE DREDD - DREDD VS DEATH"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.34",
+  "cover": {
+    "path": "PS2/SLPM_656.34/SLPM_656.34_COV.png",
+    "kind": "cover",
+    "bytes": 108107,
+    "width": 192,
+    "height": 272,
+    "sha256": "c2abe1bc321898c7b355c1ed28af36a11ed56710dda153f819caeaad114ea234",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65634.jpg"
+    },
+    "gameId": "SLPM_656.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NATSU SHOUJO - PROMISED SUMMER"
+}

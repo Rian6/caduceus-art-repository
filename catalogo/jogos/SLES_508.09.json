@@ -1,0 +1,39 @@
+{
+  "id": "SLES_508.09",
+  "cover": {
+    "path": "PS2/SLES_508.09/SLES_508.09_COV.png",
+    "kind": "cover",
+    "bytes": 93623,
+    "width": 192,
+    "height": 272,
+    "sha256": "91f3afa36022a3b572bd1d25753a7f779aad095ff79be8c86745ad253f7d2bcd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50809.jpg"
+    },
+    "gameId": "SLES_508.09"
+  },
+  "disc": {
+    "path": "PS2/SLES_508.09/SLES_508.09_ICO.png",
+    "kind": "disc",
+    "bytes": 10118,
+    "width": 128,
+    "height": 128,
+    "sha256": "155056f7a16aacfaf6ff8be294f33894424ff8d68205419355219d5e4359a534",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_508.09_ICO.png"
+    },
+    "gameId": "SLES_508.09"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Roland Garros French Open 2002"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.18",
+  "cover": {
+    "path": "PS2/SLPM_625.18/SLPM_625.18_COV.png",
+    "kind": "cover",
+    "bytes": 124033,
+    "width": 192,
+    "height": 272,
+    "sha256": "b5ed62ed7b48ed9328c59b58ce77bd8ed5b674a84c4afb5a124471eef0c5e819",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62518.jpg"
+    },
+    "gameId": "SLPM_625.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Teitoku no Ketsudan 4 (Koei The Best)"
+}

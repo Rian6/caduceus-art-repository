@@ -1,0 +1,65 @@
+{
+  "id": "SLES_522.77",
+  "cover": {
+    "path": "PS2/SLES_522.77/SLES_522.77_COV.png",
+    "kind": "cover",
+    "bytes": 82736,
+    "width": 192,
+    "height": 272,
+    "sha256": "b2a502e8d9f66e67aa4b619c53e2725410d786717b8a5c0c11f735cc7fe76698",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52277.jpg"
+    },
+    "gameId": "SLES_522.77"
+  },
+  "disc": {
+    "path": "PS2/SLES_522.77/SLES_522.77_ICO.png",
+    "kind": "disc",
+    "bytes": 10415,
+    "width": 128,
+    "height": 128,
+    "sha256": "d77ddd984504932d823458afbdda45bdddf6883527d1650f8f08ec2330b72fec",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_522.77_ICO.png"
+    },
+    "gameId": "SLES_522.77"
+  },
+  "background": {
+    "path": "PS2/SLES_522.77/SLES_522.77_BG.png",
+    "kind": "background",
+    "bytes": 114201,
+    "width": 640,
+    "height": 480,
+    "sha256": "096448c410e0006e9f809ff82dc6005e2702cdfdff63ab0380835021cc4c2a94",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_522.77/SLES_522.77_BG_00.png"
+    },
+    "gameId": "SLES_522.77"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_522.77/SLES_522.77_BG.png",
+      "kind": "background",
+      "bytes": 114201,
+      "width": 640,
+      "height": 480,
+      "sha256": "096448c410e0006e9f809ff82dc6005e2702cdfdff63ab0380835021cc4c2a94",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.77/SLES_522.77_BG_00.png"
+      },
+      "gameId": "SLES_522.77"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RS2 - Riding Spirits"
+}

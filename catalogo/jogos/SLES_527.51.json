@@ -1,0 +1,39 @@
+{
+  "id": "SLES_527.51",
+  "cover": {
+    "path": "PS2/SLES_527.51/SLES_527.51_COV.png",
+    "kind": "cover",
+    "bytes": 110879,
+    "width": 192,
+    "height": 272,
+    "sha256": "e7804f10cdb7343fcf5251fc65b4f41090bed5f24ceb667512088e185876323b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52751.jpg"
+    },
+    "gameId": "SLES_527.51"
+  },
+  "disc": {
+    "path": "PS2/SLES_527.51/SLES_527.51_ICO.png",
+    "kind": "disc",
+    "bytes": 12332,
+    "width": 128,
+    "height": 128,
+    "sha256": "98c773497c069b6bcb772543b2e5f130e435328620cda11765ee92f8cddbf8cb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_527.51_ICO.png"
+    },
+    "gameId": "SLES_527.51"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Off-Road Extreme"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_552.76",
+  "cover": {
+    "path": "PS2/SLES_552.76/SLES_552.76_COV.png",
+    "kind": "cover",
+    "bytes": 101725,
+    "width": 192,
+    "height": 272,
+    "sha256": "70c9438737e612192eab001a5a3f05a0da48b3118480e89938eaa3f9d8371af0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55276.jpg"
+    },
+    "gameId": "SLES_552.76"
+  },
+  "disc": {
+    "path": "PS2/SLES_552.76/SLES_552.76_ICO.png",
+    "kind": "disc",
+    "bytes": 11769,
+    "width": 128,
+    "height": 128,
+    "sha256": "46b0ca13b5da2d8a6dcb5b0751d120b05ff0208f7c8fb441fb50ba1c6f1145c9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_552.76_ICO.png"
+    },
+    "gameId": "SLES_552.76"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jello"
+}

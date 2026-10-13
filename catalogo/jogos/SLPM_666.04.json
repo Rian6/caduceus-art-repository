@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.04",
+  "cover": {
+    "path": "PS2/SLPM_666.04/SLPM_666.04_COV.png",
+    "kind": "cover",
+    "bytes": 103311,
+    "width": 192,
+    "height": 272,
+    "sha256": "df584337e29457b940ef95940c3ab34d9e089dafb891e2e89f296068362a86ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66604.jpg"
+    },
+    "gameId": "SLPM_666.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Galaxy Angel - Monolith Lovers (Broccoli The Best Quality)"
+}

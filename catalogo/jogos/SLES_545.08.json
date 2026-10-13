@@ -1,0 +1,39 @@
+{
+  "id": "SLES_545.08",
+  "cover": {
+    "path": "PS2/SLES_545.08/SLES_545.08_COV.png",
+    "kind": "cover",
+    "bytes": 96534,
+    "width": 192,
+    "height": 272,
+    "sha256": "57bca63e6db01a2fb1ab17f6ca3d695ac9a295ac79b269b8d61aeff951e56aad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54508.jpg"
+    },
+    "gameId": "SLES_545.08"
+  },
+  "disc": {
+    "path": "PS2/SLES_545.08/SLES_545.08_ICO.png",
+    "kind": "disc",
+    "bytes": 10789,
+    "width": 128,
+    "height": 128,
+    "sha256": "9a33bb2ace21c8860a6c5c3eda1f54af0a45fca09f5b4c1ce2fd748bdb81adf9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_545.08_ICO.png"
+    },
+    "gameId": "SLES_545.08"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NATIONAL GEOGRAPHIC - SAFARI ADVENTURES AFRICA"
+}

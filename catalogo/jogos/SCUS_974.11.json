@@ -1,0 +1,51 @@
+{
+  "id": "SCUS_974.11",
+  "cover": {
+    "path": "PS2/SCUS_974.11/SCUS_974.11_COV.png",
+    "kind": "cover",
+    "bytes": 56560,
+    "width": 192,
+    "height": 272,
+    "sha256": "c1a92c246bc6c442f97db9278894e2f2543b8a2274fb7ab6cb10683bdb777448",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_974.11/SCUS_974.11_COV.png"
+    },
+    "gameId": "SCUS_974.11"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCUS_974.11/SCUS_974.11_BG.png",
+    "kind": "background",
+    "bytes": 136828,
+    "width": 640,
+    "height": 480,
+    "sha256": "9f057ff6cf02f690640b1e09a40359e943f4a28b1ad8985859e0a7a1e57b210f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_974.11/SCUS_974.11_BG_00.png"
+    },
+    "gameId": "SCUS_974.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_974.11/SCUS_974.11_BG.png",
+      "kind": "background",
+      "bytes": 136828,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f057ff6cf02f690640b1e09a40359e943f4a28b1ad8985859e0a7a1e57b210f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.11/SCUS_974.11_BG_00.png"
+      },
+      "gameId": "SCUS_974.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ratchet & Clank: Up Your Arsenal (DEMO)"
+}

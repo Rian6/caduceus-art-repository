@@ -1,0 +1,25 @@
+{
+  "id": "SLES_502.64",
+  "cover": {
+    "path": "PS2/SLES_502.64/SLES_502.64_COV.png",
+    "kind": "cover",
+    "bytes": 57182,
+    "width": 192,
+    "height": 272,
+    "sha256": "32bf9506b7a2702f8a4addb38e523944abeda579ab6df726c1f67bc78620f1ce",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.64/SLES_502.64_COV.png"
+    },
+    "gameId": "SLES_502.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hype - The Time Quest"
+}

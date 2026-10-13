@@ -1,0 +1,25 @@
+{
+  "id": "SLES_535.77",
+  "cover": {
+    "path": "PS2/SLES_535.77/SLES_535.77_COV.png",
+    "kind": "cover",
+    "bytes": 101638,
+    "width": 192,
+    "height": 272,
+    "sha256": "dd744488703956b6dd91d4b7f6642d5ec29c16bec19cbd96f862d841802a6bf5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53577.jpg"
+    },
+    "gameId": "SLES_535.77"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bratz - Rock Angelz"
+}

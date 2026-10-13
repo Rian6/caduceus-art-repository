@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.31",
+  "cover": {
+    "path": "PS2/SLPM_622.31/SLPM_622.31_COV.png",
+    "kind": "cover",
+    "bytes": 98161,
+    "width": 192,
+    "height": 272,
+    "sha256": "d5435f56bc4097cc3d77e395495d986dbf36b7efc674fcbe2eaa32356f79cd20",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62231.jpg"
+    },
+    "gameId": "SLPM_622.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.12 - THE QUIZ 20000 MON"
+}

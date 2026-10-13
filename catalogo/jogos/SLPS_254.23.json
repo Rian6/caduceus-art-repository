@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.23",
+  "cover": {
+    "path": "PS2/SLPS_254.23/SLPS_254.23_COV.png",
+    "kind": "cover",
+    "bytes": 105161,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0553a96b2dd71443e9845270e60f62adfc51cd375c0dedb56ed2830f425f2a1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25423.jpg"
+    },
+    "gameId": "SLPS_254.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAITOU APRICOT KANZENBAN [LIMITED EDITION]"
+}

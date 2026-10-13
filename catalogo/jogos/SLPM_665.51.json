@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_665.51",
+  "cover": {
+    "path": "PS2/SLPM_665.51/SLPM_665.51_COV.png",
+    "kind": "cover",
+    "bytes": 98136,
+    "width": 192,
+    "height": 272,
+    "sha256": "706c3d5868099b69ed57acd5a9afb1f7d7691a235dc930eae713a5b936775168",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66551.jpg"
+    },
+    "gameId": "SLPM_665.51"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_665.51/SLPM_665.51_BG.png",
+    "kind": "background",
+    "bytes": 260879,
+    "width": 640,
+    "height": 480,
+    "sha256": "504f4870eb6cdfa9661843f9c39241bac9fa7aa410345d774536e8133c8b6fd7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_665.51/SLPM_665.51_BG_00.png"
+    },
+    "gameId": "SLPM_665.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_665.51/SLPM_665.51_BG.png",
+      "kind": "background",
+      "bytes": 260879,
+      "width": 640,
+      "height": 480,
+      "sha256": "504f4870eb6cdfa9661843f9c39241bac9fa7aa410345d774536e8133c8b6fd7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_665.51/SLPM_665.51_BG_00.png"
+      },
+      "gameId": "SLPM_665.51"
+    },
+    {
+      "path": "PS2/SLPM_665.51/SLPM_665.51_BG_01.png",
+      "kind": "background",
+      "bytes": 182077,
+      "width": 640,
+      "height": 480,
+      "sha256": "9d46e8512c627cc5a87bd26b271c4cf141b13c3d16b6e101b6349dc16dc53897",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_665.51/SLPM_665.51_BG_01.png"
+      },
+      "gameId": "SLPM_665.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Appleseed EX"
+}

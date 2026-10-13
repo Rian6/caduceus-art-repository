@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.96",
+  "cover": {
+    "path": "PS2/SLPS_203.96/SLPS_203.96_COV.png",
+    "kind": "cover",
+    "bytes": 100922,
+    "width": 192,
+    "height": 272,
+    "sha256": "842e02893c6f0da8835c80a0bfbdfcd9f0c2a14abadde6e6a9caaf6f6121960e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20396.jpg"
+    },
+    "gameId": "SLPS_203.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLOTTER UP MANIA 5 - SOUKAIGEKIDA MACH GO GO GO & DARUMA NEKO"
+}

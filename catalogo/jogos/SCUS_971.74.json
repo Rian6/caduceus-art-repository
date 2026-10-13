@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_971.74",
+  "cover": {
+    "path": "PS2/SCUS_971.74/SCUS_971.74_COV.png",
+    "kind": "cover",
+    "bytes": 90701,
+    "width": 192,
+    "height": 272,
+    "sha256": "939d29640c44d615933236c659a62d623073a24105af4a8a82ba54a54adf08ae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97174.jpg"
+    },
+    "gameId": "SCUS_971.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kiosk Demo Disc 2.4"
+}

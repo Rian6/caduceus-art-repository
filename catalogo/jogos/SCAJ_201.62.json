@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.62",
+  "cover": {
+    "path": "PS2/SCAJ_201.62/SCAJ_201.62_COV.png",
+    "kind": "cover",
+    "bytes": 104938,
+    "width": 192,
+    "height": 272,
+    "sha256": "72d3c02b2b13d325962447d62175d953f81078474d178191d624b06f5d805635",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20162.jpg"
+    },
+    "gameId": "SCAJ_201.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROGUE GALAXY"
+}

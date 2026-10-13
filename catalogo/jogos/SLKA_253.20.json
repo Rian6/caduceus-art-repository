@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_253.20",
+  "cover": {
+    "path": "PS2/SLKA_253.20/SLKA_253.20_COV.png",
+    "kind": "cover",
+    "bytes": 80677,
+    "width": 192,
+    "height": 272,
+    "sha256": "d3d01a08fac2ede782cef9a84574a761d813f21333354af3d3b5e96272d3a809",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25320.jpg"
+    },
+    "gameId": "SLKA_253.20"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_253.20/SLKA_253.20_BG.png",
+    "kind": "background",
+    "bytes": 221941,
+    "width": 640,
+    "height": 480,
+    "sha256": "ab9f507b33b119f5ffeb341240386b29cbd073d2031dfef04b36838567318561",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.20/SLKA_253.20_BG_00.png"
+    },
+    "gameId": "SLKA_253.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_253.20/SLKA_253.20_BG.png",
+      "kind": "background",
+      "bytes": 221941,
+      "width": 640,
+      "height": 480,
+      "sha256": "ab9f507b33b119f5ffeb341240386b29cbd073d2031dfef04b36838567318561",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_253.20/SLKA_253.20_BG_00.png"
+      },
+      "gameId": "SLKA_253.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ikusa Gami"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_513.12",
+  "cover": {
+    "path": "PS2/SLES_513.12/SLES_513.12_COV.png",
+    "kind": "cover",
+    "bytes": 91260,
+    "width": 192,
+    "height": 272,
+    "sha256": "262da15e8e6df8f495b54d3c917a7e32b9a8e70fb8cb05255687315e126cdc49",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51312.jpg"
+    },
+    "gameId": "SLES_513.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rugrats: Royal Ransom"
+}

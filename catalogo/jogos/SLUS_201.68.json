@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_201.68",
+  "cover": {
+    "path": "PS2/SLUS_201.68/SLUS_201.68_COV.png",
+    "kind": "cover",
+    "bytes": 89211,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d5dff4b3b9023084f021c56181ef70840e96c8c5f4073fa6c0a954e496ad163",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20168.jpg"
+    },
+    "gameId": "SLUS_201.68"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.68/SLUS_201.68_ICO.png",
+    "kind": "disc",
+    "bytes": 26355,
+    "width": 256,
+    "height": 256,
+    "sha256": "c025ecbeece531a67e8d7816e91ce169039a3a2c3c19a3503be37451179188f4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.68_ICO.png"
+    },
+    "gameId": "SLUS_201.68"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.68/SLUS_201.68_BG.png",
+    "kind": "background",
+    "bytes": 165622,
+    "width": 640,
+    "height": 480,
+    "sha256": "82e943c62be61eab1f551c19276b7f4e251f14fb0322216e5ea21871747f7b88",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.68/SLUS_201.68_BG_00.png"
+    },
+    "gameId": "SLUS_201.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.68/SLUS_201.68_BG.png",
+      "kind": "background",
+      "bytes": 165622,
+      "width": 640,
+      "height": 480,
+      "sha256": "82e943c62be61eab1f551c19276b7f4e251f14fb0322216e5ea21871747f7b88",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.68/SLUS_201.68_BG_00.png"
+      },
+      "gameId": "SLUS_201.68"
+    },
+    {
+      "path": "PS2/SLUS_201.68/SLUS_201.68_BG_01.png",
+      "kind": "background",
+      "bytes": 161739,
+      "width": 640,
+      "height": 480,
+      "sha256": "583282ef912cc1c4a95eba22edc18d6b6be30a1023fa8f7db87f3b9acae3f13e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.68/SLUS_201.68_BG_01.png"
+      },
+      "gameId": "SLUS_201.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Triple Play Baseball"
+}

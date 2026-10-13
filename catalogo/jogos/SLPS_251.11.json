@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.11",
+  "cover": {
+    "path": "PS2/SLPS_251.11/SLPS_251.11_COV.png",
+    "kind": "cover",
+    "bytes": 75059,
+    "width": 192,
+    "height": 272,
+    "sha256": "d91c9b17fcd6f3ab3ff2ee7cc3c4a443bfe69b99142a45d646a30a554d9ba4c9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25111.jpg"
+    },
+    "gameId": "SLPS_251.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HIGANBANA"
+}

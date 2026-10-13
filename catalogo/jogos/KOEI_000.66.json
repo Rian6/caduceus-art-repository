@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_000.66",
+  "cover": {
+    "path": "PS2/KOEI_000.66/KOEI_000.66_COV.png",
+    "kind": "cover",
+    "bytes": 59837,
+    "width": 192,
+    "height": 272,
+    "sha256": "bde8c45d1f262a9e9229b12d5c7f6a4e8b7b0e8cfe883b7a788d65ce1e3aebb5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_000.66/KOEI_000.66_COV.png"
+    },
+    "gameId": "KOEI_000.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nobunaga no Yabou: Kakushin (Premium Box)"
+}

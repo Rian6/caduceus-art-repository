@@ -1,0 +1,65 @@
+{
+  "id": "SLES_522.44",
+  "cover": {
+    "path": "PS2/SLES_522.44/SLES_522.44_COV.png",
+    "kind": "cover",
+    "bytes": 111267,
+    "width": 192,
+    "height": 272,
+    "sha256": "580bda783443baf82589904cd4952aa4b2d93b26636054d5d3282d086feb022c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52244.jpg"
+    },
+    "gameId": "SLES_522.44"
+  },
+  "disc": {
+    "path": "PS2/SLES_522.44/SLES_522.44_ICO.png",
+    "kind": "disc",
+    "bytes": 11065,
+    "width": 128,
+    "height": 128,
+    "sha256": "d01dd95a846ce0f0e5d1ff456e99757c0cb5b42c2d9bec642fdd166090ac1823",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_522.44_ICO.png"
+    },
+    "gameId": "SLES_522.44"
+  },
+  "background": {
+    "path": "PS2/SLES_522.44/SLES_522.44_BG.png",
+    "kind": "background",
+    "bytes": 205735,
+    "width": 640,
+    "height": 480,
+    "sha256": "5be3281fa0edf7aa0ed1e24aac0288198def3f70721af27cfb1074bda1153ff7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_522.44/SLES_522.44_BG_00.png"
+    },
+    "gameId": "SLES_522.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_522.44/SLES_522.44_BG.png",
+      "kind": "background",
+      "bytes": 205735,
+      "width": 640,
+      "height": 480,
+      "sha256": "5be3281fa0edf7aa0ed1e24aac0288198def3f70721af27cfb1074bda1153ff7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.44/SLES_522.44_BG_00.png"
+      },
+      "gameId": "SLES_522.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Legend of Hercules"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_522.90",
+  "cover": {
+    "path": "PS2/SLES_522.90/SLES_522.90_COV.png",
+    "kind": "cover",
+    "bytes": 106379,
+    "width": 192,
+    "height": 272,
+    "sha256": "c987b048f4d21fd049101bd8160b66e0173a3db51375b0b969618fe49577d534",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52290.jpg"
+    },
+    "gameId": "SLES_522.90"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_522.90/SLES_522.90_BG.png",
+    "kind": "background",
+    "bytes": 161619,
+    "width": 640,
+    "height": 480,
+    "sha256": "393834ebc722488e2660b0879751497180f3d493317b3677e39ae9f762d4f59f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_522.90/SLES_522.90_BG_00.png"
+    },
+    "gameId": "SLES_522.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_522.90/SLES_522.90_BG.png",
+      "kind": "background",
+      "bytes": 161619,
+      "width": 640,
+      "height": 480,
+      "sha256": "393834ebc722488e2660b0879751497180f3d493317b3677e39ae9f762d4f59f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.90/SLES_522.90_BG_00.png"
+      },
+      "gameId": "SLES_522.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MTX Mototrax"
+}

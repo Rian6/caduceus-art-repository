@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_151.07",
+  "cover": {
+    "path": "PS2/SCPS_151.07/SCPS_151.07_COV.png",
+    "kind": "cover",
+    "bytes": 74003,
+    "width": 192,
+    "height": 272,
+    "sha256": "7c7cea95a683341ec52299525985d51a7c20be65f593e57f5550e4d9c959c5ef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15107.jpg"
+    },
+    "gameId": "SCPS_151.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUNPARADE ORCHESTRA - MIDORI NO SHOU [LIMITED EDITION]"
+}

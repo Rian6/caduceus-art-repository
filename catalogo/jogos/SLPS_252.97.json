@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.97",
+  "cover": {
+    "path": "PS2/SLPS_252.97/SLPS_252.97_COV.png",
+    "kind": "cover",
+    "bytes": 93322,
+    "width": 192,
+    "height": 272,
+    "sha256": "8b8f54092ce2e5a71e8814afa0f39de9d74b5b9e6ca2b9c9464b28bd7f5ee413",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25297.jpg"
+    },
+    "gameId": "SLPS_252.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live 2004"
+}

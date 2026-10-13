@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_200.59",
+  "cover": {
+    "path": "PS2/SLPS_200.59/SLPS_200.59_COV.png",
+    "kind": "cover",
+    "bytes": 82681,
+    "width": 192,
+    "height": 272,
+    "sha256": "00cd21a65f8916f7ca57b7efa2fcc51727e147dcd59e0802a769ca0d1d8a7b52",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20059.jpg"
+    },
+    "gameId": "SLPS_200.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_200.59/SLPS_200.59_BG.png",
+    "kind": "background",
+    "bytes": 263996,
+    "width": 640,
+    "height": 480,
+    "sha256": "1a7d3208a7cdbd3d542b503e32e896bd6395ce9983dc137c3123523b10c40b6a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_200.59/SLPS_200.59_BG_00.png"
+    },
+    "gameId": "SLPS_200.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_200.59/SLPS_200.59_BG.png",
+      "kind": "background",
+      "bytes": 263996,
+      "width": 640,
+      "height": 480,
+      "sha256": "1a7d3208a7cdbd3d542b503e32e896bd6395ce9983dc137c3123523b10c40b6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_200.59/SLPS_200.59_BG_00.png"
+      },
+      "gameId": "SLPS_200.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HRESVELGR - INTERNATIONAL EDITION"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_501.32",
+  "cover": {
+    "path": "PS2/SLES_501.32/SLES_501.32_COV.png",
+    "kind": "cover",
+    "bytes": 94913,
+    "width": 192,
+    "height": 272,
+    "sha256": "bdee50244841b8b078e55894fccd04fb0a506a89fc9c3ebd29c7c5cca913c38b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50132.jpg"
+    },
+    "gameId": "SLES_501.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MX Rider"
+}

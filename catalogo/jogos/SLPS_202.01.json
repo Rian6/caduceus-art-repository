@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.01",
+  "cover": {
+    "path": "PS2/SLPS_202.01/SLPS_202.01_COV.png",
+    "kind": "cover",
+    "bytes": 103271,
+    "width": 192,
+    "height": 272,
+    "sha256": "ba70edea5b2a2304011cf566bf067bb217a5946e943e0c7a070f881dec4bb1d7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20201.jpg"
+    },
+    "gameId": "SLPS_202.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saikyou Toudai Shogi 4"
+}

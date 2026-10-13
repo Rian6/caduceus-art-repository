@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_972.73",
+  "cover": {
+    "path": "PS2/SCUS_972.73/SCUS_972.73_COV.png",
+    "kind": "cover",
+    "bytes": 93384,
+    "width": 192,
+    "height": 272,
+    "sha256": "a32a008d42b2fc350cc0fb05f2f4dd9c7dee4c0c77466582b6795bdf6fce9ab1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97273.jpg"
+    },
+    "gameId": "SCUS_972.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jak II (DEMO)"
+}

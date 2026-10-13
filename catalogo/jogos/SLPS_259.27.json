@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.27",
+  "cover": {
+    "path": "PS2/SLPS_259.27/SLPS_259.27_COV.png",
+    "kind": "cover",
+    "bytes": 90407,
+    "width": 192,
+    "height": 272,
+    "sha256": "53856f031b40c22a19f59f785db3dbc159bd292e840d682d6e33e202d1cfe788",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25927.jpg"
+    },
+    "gameId": "SLPS_259.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LARA CROFT - TOMB RAIDER - UNDERWORLD"
+}

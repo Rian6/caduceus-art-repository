@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.85",
+  "cover": {
+    "path": "PS2/SLKA_253.85/SLKA_253.85_COV.png",
+    "kind": "cover",
+    "bytes": 58380,
+    "width": 192,
+    "height": 272,
+    "sha256": "f95265afee5d6d606023b0e0511f2e9f6081be44de88594726bd4904248beeb0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.85/SLKA_253.85_COV.png"
+    },
+    "gameId": "SLKA_253.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Spider-Man 3"
+}

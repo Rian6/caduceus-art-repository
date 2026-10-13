@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_217.54",
+  "cover": {
+    "path": "PS2/SLUS_217.54/SLUS_217.54_COV.png",
+    "kind": "cover",
+    "bytes": 90230,
+    "width": 192,
+    "height": 272,
+    "sha256": "116cd67bfabcefb2564fa82234bff7bec532db7c5ea0864da21aaea5322560c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21754.jpg"
+    },
+    "gameId": "SLUS_217.54"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.54/SLUS_217.54_ICO.png",
+    "kind": "disc",
+    "bytes": 32114,
+    "width": 256,
+    "height": 256,
+    "sha256": "4f16f3588fb4889c221843a8432acd977ed83b68a8dae8e24ee98df9765cb8e3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.54_ICO.png"
+    },
+    "gameId": "SLUS_217.54"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CID The Dummy"
+}

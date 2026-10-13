@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_203.53",
+  "cover": {
+    "path": "PS2/SLUS_203.53/SLUS_203.53_COV.png",
+    "kind": "cover",
+    "bytes": 91112,
+    "width": 192,
+    "height": 272,
+    "sha256": "5a7450d66ddc2cbb805937a5b1d551ab01842653d44655b0d94f7940b348d0bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20353.jpg"
+    },
+    "gameId": "SLUS_203.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "King's Field IV - The Ancient City"
+}

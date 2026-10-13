@@ -1,0 +1,25 @@
+{
+  "id": "SLES_516.78",
+  "cover": {
+    "path": "PS2/SLES_516.78/SLES_516.78_COV.png",
+    "kind": "cover",
+    "bytes": 108839,
+    "width": 192,
+    "height": 272,
+    "sha256": "3ddb7c40ec33ac5ea765b8fa604e426c19a8d7c97e25f86eaddb7ec861299d0d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51678.jpg"
+    },
+    "gameId": "SLES_516.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Farm"
+}

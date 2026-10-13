@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.32",
+  "cover": {
+    "path": "PS2/SLPM_665.32/SLPM_665.32_COV.png",
+    "kind": "cover",
+    "bytes": 101196,
+    "width": 192,
+    "height": 272,
+    "sha256": "dfae2e68b054ad5a60876fef61ebf246f0b25bd10786a83f75c6939cc1bc9ef9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66532.jpg"
+    },
+    "gameId": "SLPM_665.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MIZU NO SENRITSU 2 - HI NO KIOKU"
+}

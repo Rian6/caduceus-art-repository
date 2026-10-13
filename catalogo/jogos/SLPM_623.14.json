@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.14",
+  "cover": {
+    "path": "PS2/SLPM_623.14/SLPM_623.14_COV.png",
+    "kind": "cover",
+    "bytes": 83979,
+    "width": 192,
+    "height": 272,
+    "sha256": "a11329533db68315daa60ff8b7faa96f887b6fea37b09cfa37b6f5c351875eb9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62314.jpg"
+    },
+    "gameId": "SLPM_623.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Ultimate Series Vol.07 - Saikyou! Shiro Biking - Security Police"
+}

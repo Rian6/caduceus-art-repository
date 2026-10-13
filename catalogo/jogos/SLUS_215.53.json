@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_215.53",
+  "cover": {
+    "path": "PS2/SLUS_215.53/SLUS_215.53_COV.png",
+    "kind": "cover",
+    "bytes": 77570,
+    "width": 192,
+    "height": 272,
+    "sha256": "85da1d57fd2dbe33dd6f1bbefbb4e8a6930cd55f5419210056b0216eeed4016f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21553.jpg"
+    },
+    "gameId": "SLUS_215.53"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.53/SLUS_215.53_ICO.png",
+    "kind": "disc",
+    "bytes": 28718,
+    "width": 256,
+    "height": 256,
+    "sha256": "927710a6048e68f0362e493e5ecfe9e1b4a1f9352f15bc66eaf1ded3f0ccd5e1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.53_ICO.png"
+    },
+    "gameId": "SLUS_215.53"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.53/SLUS_215.53_BG.png",
+    "kind": "background",
+    "bytes": 178409,
+    "width": 640,
+    "height": 480,
+    "sha256": "58a9840bc39bdabe13e98f7bffe62cc3b9893386a2d2b5db609883a30badf539",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.53/SLUS_215.53_BG_00.png"
+    },
+    "gameId": "SLUS_215.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.53/SLUS_215.53_BG.png",
+      "kind": "background",
+      "bytes": 178409,
+      "width": 640,
+      "height": 480,
+      "sha256": "58a9840bc39bdabe13e98f7bffe62cc3b9893386a2d2b5db609883a30badf539",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.53/SLUS_215.53_BG_00.png"
+      },
+      "gameId": "SLUS_215.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Lumines Plus"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_541.87",
+  "cover": {
+    "path": "PS2/SLES_541.87/SLES_541.87_COV.png",
+    "kind": "cover",
+    "bytes": 76149,
+    "width": 192,
+    "height": 272,
+    "sha256": "14886768ee7e5fb7fc9886f04c26bfe237ecb6971ab143266eb7ed30c753b202",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54187.jpg"
+    },
+    "gameId": "SLES_541.87"
+  },
+  "disc": {
+    "path": "PS2/SLES_541.87/SLES_541.87_ICO.png",
+    "kind": "disc",
+    "bytes": 10573,
+    "width": 128,
+    "height": 128,
+    "sha256": "b4944b323bfac2befc17c9f21bba95c8864b1ef52a8d8cab7668d24d4352290b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_541.87_ICO.png"
+    },
+    "gameId": "SLES_541.87"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Real World Golf 2007"
+}

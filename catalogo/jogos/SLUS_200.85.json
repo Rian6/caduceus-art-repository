@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_200.85",
+  "cover": {
+    "path": "PS2/SLUS_200.85/SLUS_200.85_COV.png",
+    "kind": "cover",
+    "bytes": 99361,
+    "width": 192,
+    "height": 272,
+    "sha256": "0bd0a1663d031d8eba9812559bcf8d14e033021c101108a3b2cd901d552828aa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20085.jpg"
+    },
+    "gameId": "SLUS_200.85"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.85/SLUS_200.85_ICO.png",
+    "kind": "disc",
+    "bytes": 33182,
+    "width": 256,
+    "height": 256,
+    "sha256": "fc9ae0cf3de7fe2af40fc229dc97b0edb38ba560555185670bdeab76e80216ae",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.85_ICO.png"
+    },
+    "gameId": "SLUS_200.85"
+  },
+  "background": {
+    "path": "PS2/SLUS_200.85/SLUS_200.85_BG.png",
+    "kind": "background",
+    "bytes": 202602,
+    "width": 640,
+    "height": 480,
+    "sha256": "de824439595e1628fba55540a1b2f6591218d27cfe0265b19c0119a96980b3bf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_200.85/SLUS_200.85_BG_00.png"
+    },
+    "gameId": "SLUS_200.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_200.85/SLUS_200.85_BG.png",
+      "kind": "background",
+      "bytes": 202602,
+      "width": 640,
+      "height": 480,
+      "sha256": "de824439595e1628fba55540a1b2f6591218d27cfe0265b19c0119a96980b3bf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.85/SLUS_200.85_BG_00.png"
+      },
+      "gameId": "SLUS_200.85"
+    },
+    {
+      "path": "PS2/SLUS_200.85/SLUS_200.85_BG_01.png",
+      "kind": "background",
+      "bytes": 184155,
+      "width": 640,
+      "height": 480,
+      "sha256": "cae788ea08d7b848ddfbeba3da57b9afacdc4fda70864ad4551030cefb8b3277",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.85/SLUS_200.85_BG_01.png"
+      },
+      "gameId": "SLUS_200.85"
+    },
+    {
+      "path": "PS2/SLUS_200.85/SLUS_200.85_BG_02.png",
+      "kind": "background",
+      "bytes": 202729,
+      "width": 640,
+      "height": 480,
+      "sha256": "e76329a05e9864d0e7d38acc4f68b58a77fdd46186ac6abad5b2e1c38ebf12c6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.85/SLUS_200.85_BG_02.png"
+      },
+      "gameId": "SLUS_200.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SILPHEED - THE LOST PLANET"
+}

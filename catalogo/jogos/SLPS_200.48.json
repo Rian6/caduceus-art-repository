@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.48",
+  "cover": {
+    "path": "PS2/SLPS_200.48/SLPS_200.48_COV.png",
+    "kind": "cover",
+    "bytes": 97268,
+    "width": 192,
+    "height": 272,
+    "sha256": "dd1265407d734157fd380bab1b7337860a9ddf86ca54c6756e6927bfb00d3ea6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20048.jpg"
+    },
+    "gameId": "SLPS_200.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sim Theme Park 2001"
+}

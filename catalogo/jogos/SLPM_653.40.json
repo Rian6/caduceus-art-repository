@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.40",
+  "cover": {
+    "path": "PS2/SLPM_653.40/SLPM_653.40_COV.png",
+    "kind": "cover",
+    "bytes": 99876,
+    "width": 192,
+    "height": 272,
+    "sha256": "36b1fa61687c44fedaa093d4f57ea67ef6e73207d1c549198778176c3387c537",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65340.jpg"
+    },
+    "gameId": "SLPM_653.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHINSEIKI EVANGELION - AYANAMI IKUSEI KEIKAKU WITH ASUKA HOKAN KEIKAKU"
+}

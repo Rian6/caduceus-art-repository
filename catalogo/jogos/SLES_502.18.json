@@ -1,0 +1,25 @@
+{
+  "id": "SLES_502.18",
+  "cover": {
+    "path": "PS2/SLES_502.18/SLES_502.18_COV.png",
+    "kind": "cover",
+    "bytes": 101436,
+    "width": 192,
+    "height": 272,
+    "sha256": "7429f2b7e413b557e830319cddda860c8f9b988fc62a15687bc7c20e52c54d7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50218.jpg"
+    },
+    "gameId": "SLES_502.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "All-Star Baseball 2002"
+}

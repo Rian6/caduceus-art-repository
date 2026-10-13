@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_205.03",
+  "cover": {
+    "path": "PS2/SLPS_205.03/SLPS_205.03_COV.png",
+    "kind": "cover",
+    "bytes": 103898,
+    "width": 192,
+    "height": 272,
+    "sha256": "ecfab24ab59a6ab591da39e84c8620e2996fc9d06a4932f0da895991c46d37c0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20503.jpg"
+    },
+    "gameId": "SLPS_205.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.121 - The Boku No Machi Dukuri 2  - Machi-ing Maker 2.1"
+}

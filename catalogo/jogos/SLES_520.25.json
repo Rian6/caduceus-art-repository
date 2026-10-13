@@ -1,0 +1,64 @@
+{
+  "id": "SLES_520.25",
+  "cover": {
+    "path": "PS2/SLES_520.25/SLES_520.25_COV.png",
+    "kind": "cover",
+    "bytes": 109425,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0fd44b9550ff74781df4083d4ac9f49c695c6e9efaef9014c837ea45107fddd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52025.jpg"
+    },
+    "gameId": "SLES_520.25"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_520.25/SLES_520.25_BG.png",
+    "kind": "background",
+    "bytes": 160914,
+    "width": 640,
+    "height": 480,
+    "sha256": "57f69904bf2cbb24df48de9fbd544e191516d8d386844fc9589ecf856ac8b09d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_520.25/SLES_520.25_BG_00.png"
+    },
+    "gameId": "SLES_520.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_520.25/SLES_520.25_BG.png",
+      "kind": "background",
+      "bytes": 160914,
+      "width": 640,
+      "height": 480,
+      "sha256": "57f69904bf2cbb24df48de9fbd544e191516d8d386844fc9589ecf856ac8b09d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.25/SLES_520.25_BG_00.png"
+      },
+      "gameId": "SLES_520.25"
+    },
+    {
+      "path": "PS2/SLES_520.25/SLES_520.25_BG_01.png",
+      "kind": "background",
+      "bytes": 188659,
+      "width": 640,
+      "height": 480,
+      "sha256": "da2e719f6d21da4753079b4cb0d2c58a9903cc3dfd16bad8ad1878ecd14c101e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.25/SLES_520.25_BG_01.png"
+      },
+      "gameId": "SLES_520.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NFL Street"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCED_501.43",
+  "cover": {
+    "path": "PS2/SCED_501.43/SCED_501.43_COV.png",
+    "kind": "cover",
+    "bytes": 62143,
+    "width": 192,
+    "height": 272,
+    "sha256": "5719e7e87ec2893d3b4412dfb46b79fd9098283702e73c933e88cfdc3e28a1c1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCED_501.43/SCED_501.43_COV.png"
+    },
+    "gameId": "SCED_501.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Official PlayStation 2 Magazine Demo 8"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "PBPX_955.09",
+  "cover": {
+    "path": "PS2/PBPX_955.09/PBPX_955.09_COV.png",
+    "kind": "cover",
+    "bytes": 36274,
+    "width": 192,
+    "height": 272,
+    "sha256": "5a5a5cf77382e1dc49ff035310dbed5db5081b5625b279e511bcee05a7d2a652",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PBPX-95509.jpg"
+    },
+    "gameId": "PBPX_955.09"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/PBPX_955.09/PBPX_955.09_BG.png",
+    "kind": "background",
+    "bytes": 128282,
+    "width": 640,
+    "height": 480,
+    "sha256": "3515db2528e78f6ec93bd7dbc21048174f1c1ae450c83327547e666f97c6058a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/PBPX_955.09/PBPX_955.09_BG_00.png"
+    },
+    "gameId": "PBPX_955.09"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/PBPX_955.09/PBPX_955.09_BG.png",
+      "kind": "background",
+      "bytes": 128282,
+      "width": 640,
+      "height": 480,
+      "sha256": "3515db2528e78f6ec93bd7dbc21048174f1c1ae450c83327547e666f97c6058a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/PBPX_955.09/PBPX_955.09_BG_00.png"
+      },
+      "gameId": "PBPX_955.09"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PS2 Linux"
+}

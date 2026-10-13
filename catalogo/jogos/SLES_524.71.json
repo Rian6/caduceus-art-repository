@@ -1,0 +1,25 @@
+{
+  "id": "SLES_524.71",
+  "cover": {
+    "path": "PS2/SLES_524.71/SLES_524.71_COV.png",
+    "kind": "cover",
+    "bytes": 106184,
+    "width": 192,
+    "height": 272,
+    "sha256": "8ffd2bbd328de79546ca142a35619f13395d454bd59ad1652ef49f673b6a6125",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52471.jpg"
+    },
+    "gameId": "SLES_524.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Naval Ops - Commander"
+}

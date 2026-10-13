@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.92",
+  "cover": {
+    "path": "PS2/SLKA_250.92/SLKA_250.92_COV.png",
+    "kind": "cover",
+    "bytes": 98095,
+    "width": 192,
+    "height": 272,
+    "sha256": "618f76e2d35daf78c061e29cfa7381df68eccaeac2fc75eb8859a6c31908f353",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25092.jpg"
+    },
+    "gameId": "SLKA_250.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONIMUSHA BURAIDEN"
+}

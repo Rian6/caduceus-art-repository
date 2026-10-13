@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_550.56",
+  "cover": {
+    "path": "PS2/SLPM_550.56/SLPM_550.56_COV.png",
+    "kind": "cover",
+    "bytes": 106293,
+    "width": 192,
+    "height": 272,
+    "sha256": "80c35d34d690b803887721bec4a562139070afa91c22f21b94495a3f73e548cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55056.jpg"
+    },
+    "gameId": "SLPM_550.56"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_550.56/SLPM_550.56_BG.png",
+    "kind": "background",
+    "bytes": 190355,
+    "width": 640,
+    "height": 480,
+    "sha256": "c46df7f17c0d675a1697dd8b513eab82c65600e14480bc09b5046184114bae79",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_550.56/SLPM_550.56_BG_00.png"
+    },
+    "gameId": "SLPM_550.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_550.56/SLPM_550.56_BG.png",
+      "kind": "background",
+      "bytes": 190355,
+      "width": 640,
+      "height": 480,
+      "sha256": "c46df7f17c0d675a1697dd8b513eab82c65600e14480bc09b5046184114bae79",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.56/SLPM_550.56_BG_00.png"
+      },
+      "gameId": "SLPM_550.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wrestle Angels Survivor 2"
+}

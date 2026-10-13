@@ -1,0 +1,117 @@
+{
+  "id": "SLPM_659.98",
+  "cover": {
+    "path": "PS2/SLPM_659.98/SLPM_659.98_COV.png",
+    "kind": "cover",
+    "bytes": 101552,
+    "width": 192,
+    "height": 272,
+    "sha256": "98360c72210fcb9a7b238f606867e0768995fbd006b17d652ab6df934fcffcb4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65998.jpg"
+    },
+    "gameId": "SLPM_659.98"
+  },
+  "disc": {
+    "path": "PS2/SLPM_659.98/SLPM_659.98_ICO.png",
+    "kind": "disc",
+    "bytes": 8665,
+    "width": 128,
+    "height": 128,
+    "sha256": "c60edf5eec6d681eee7a80c749ee6f08183cc00325409512a991972d0c007c57",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_659.98_ICO.png"
+    },
+    "gameId": "SLPM_659.98"
+  },
+  "background": {
+    "path": "PS2/SLPM_659.98/SLPM_659.98_BG.png",
+    "kind": "background",
+    "bytes": 222475,
+    "width": 640,
+    "height": 480,
+    "sha256": "efd8609f8635a261b381ae344571d5ff7e20847262195f463ef95804e3036c1d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_659.98/SLPM_659.98_BG_00.png"
+    },
+    "gameId": "SLPM_659.98"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_659.98/SLPM_659.98_BG.png",
+      "kind": "background",
+      "bytes": 222475,
+      "width": 640,
+      "height": 480,
+      "sha256": "efd8609f8635a261b381ae344571d5ff7e20847262195f463ef95804e3036c1d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.98/SLPM_659.98_BG_00.png"
+      },
+      "gameId": "SLPM_659.98"
+    },
+    {
+      "path": "PS2/SLPM_659.98/SLPM_659.98_BG_01.png",
+      "kind": "background",
+      "bytes": 198758,
+      "width": 640,
+      "height": 480,
+      "sha256": "5101d18cee12c770313b6b4f5a543dcef7c125088ae0dc0f163c76495dd62264",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.98/SLPM_659.98_BG_01.png"
+      },
+      "gameId": "SLPM_659.98"
+    },
+    {
+      "path": "PS2/SLPM_659.98/SLPM_659.98_BG_02.png",
+      "kind": "background",
+      "bytes": 204545,
+      "width": 640,
+      "height": 480,
+      "sha256": "60abe987cbf1466e8af6d38137a7aa4b3425b3ce018891749d7bdac14ff530b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.98/SLPM_659.98_BG_02.png"
+      },
+      "gameId": "SLPM_659.98"
+    },
+    {
+      "path": "PS2/SLPM_659.98/SLPM_659.98_BG_03.png",
+      "kind": "background",
+      "bytes": 241344,
+      "width": 640,
+      "height": 480,
+      "sha256": "fb79be1d6e9b748ccbd90b8aabb42c11c10d2e762b95a281f904bc822b2b8c42",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.98/SLPM_659.98_BG_03.png"
+      },
+      "gameId": "SLPM_659.98"
+    },
+    {
+      "path": "PS2/SLPM_659.98/SLPM_659.98_BG_04.png",
+      "kind": "background",
+      "bytes": 188160,
+      "width": 640,
+      "height": 480,
+      "sha256": "020469efbd8f69b9f77fdd10853ebb963cc100cfdae5357e1b07b136dc48f5f6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.98/SLPM_659.98_BG_04.png"
+      },
+      "gameId": "SLPM_659.98"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Vampire Darkstalkers Collection"
+}

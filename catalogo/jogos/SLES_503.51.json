@@ -1,0 +1,65 @@
+{
+  "id": "SLES_503.51",
+  "cover": {
+    "path": "PS2/SLES_503.51/SLES_503.51_COV.png",
+    "kind": "cover",
+    "bytes": 66867,
+    "width": 192,
+    "height": 272,
+    "sha256": "7436f69759614adb1cf3e6efaddb9efaf16ed59f2322a494e3255c79622ba8bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50351.jpg"
+    },
+    "gameId": "SLES_503.51"
+  },
+  "disc": {
+    "path": "PS2/SLES_503.51/SLES_503.51_ICO.png",
+    "kind": "disc",
+    "bytes": 11868,
+    "width": 128,
+    "height": 128,
+    "sha256": "fd146169509528359b0c20b39f6b173736569a0a9c72258ec198518ae8fdef13",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_503.51_ICO.png"
+    },
+    "gameId": "SLES_503.51"
+  },
+  "background": {
+    "path": "PS2/SLES_503.51/SLES_503.51_BG.png",
+    "kind": "background",
+    "bytes": 214352,
+    "width": 640,
+    "height": 480,
+    "sha256": "cd27684ba6d799a17233ef96d62bb907d95922e54d807fdc53c76605f59eaaba",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_503.51/SLES_503.51_BG_00.png"
+    },
+    "gameId": "SLES_503.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_503.51/SLES_503.51_BG.png",
+      "kind": "background",
+      "bytes": 214352,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd27684ba6d799a17233ef96d62bb907d95922e54d807fdc53c76605f59eaaba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.51/SLES_503.51_BG_00.png"
+      },
+      "gameId": "SLES_503.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Lake Masters EX"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_610.09",
+  "cover": {
+    "path": "PS2/SLPM_610.09/SLPM_610.09_COV.png",
+    "kind": "cover",
+    "bytes": 61886,
+    "width": 192,
+    "height": 272,
+    "sha256": "c2d9308dff3d2662d0fedda40721fcec9c2f2442958cccc99b6186c710625f0e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-61009.jpg"
+    },
+    "gameId": "SLPM_610.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Silent Hill 2"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SCUS_972.58",
+  "cover": {
+    "path": "PS2/SCUS_972.58/SCUS_972.58_COV.png",
+    "kind": "cover",
+    "bytes": 86487,
+    "width": 192,
+    "height": 272,
+    "sha256": "2c656898b5083229b657eb51bce59614bbe78458acc6119cba6e39adb9a548d4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97258.jpg"
+    },
+    "gameId": "SCUS_972.58"
+  },
+  "disc": {
+    "path": "PS2/SCUS_972.58/SCUS_972.58_ICO.png",
+    "kind": "disc",
+    "bytes": 26155,
+    "width": 256,
+    "height": 256,
+    "sha256": "ccab51e6f17101c77f320a944fd145c33566ffbb59c667187ed6380854fd570a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_972.58_ICO.png"
+    },
+    "gameId": "SCUS_972.58"
+  },
+  "background": {
+    "path": "PS2/SCUS_972.58/SCUS_972.58_BG.png",
+    "kind": "background",
+    "bytes": 146705,
+    "width": 640,
+    "height": 480,
+    "sha256": "8ff840e8f2885b3180fb1934d742de36950b6936f0aeec4f8aab09707bf2cdf1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_972.58/SCUS_972.58_BG_00.png"
+    },
+    "gameId": "SCUS_972.58"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_972.58/SCUS_972.58_BG.png",
+      "kind": "background",
+      "bytes": 146705,
+      "width": 640,
+      "height": 480,
+      "sha256": "8ff840e8f2885b3180fb1934d742de36950b6936f0aeec4f8aab09707bf2cdf1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_972.58/SCUS_972.58_BG_00.png"
+      },
+      "gameId": "SCUS_972.58"
+    },
+    {
+      "path": "PS2/SCUS_972.58/SCUS_972.58_BG_01.png",
+      "kind": "background",
+      "bytes": 169687,
+      "width": 640,
+      "height": 480,
+      "sha256": "97fd2c8cde3b638b8515729dd79e8f6c16aa4450b9f4cea014ba5a4c139034f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_972.58/SCUS_972.58_BG_01.png"
+      },
+      "gameId": "SCUS_972.58"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Amplitude"
+}

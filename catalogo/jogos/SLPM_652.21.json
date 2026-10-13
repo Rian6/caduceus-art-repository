@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_652.21",
+  "cover": {
+    "path": "PS2/SLPM_652.21/SLPM_652.21_COV.png",
+    "kind": "cover",
+    "bytes": 86412,
+    "width": 192,
+    "height": 272,
+    "sha256": "df578ed93247af5c2d0d665a510b08cde76a5484ad824d63a30241d137e77156",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65221.jpg"
+    },
+    "gameId": "SLPM_652.21"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_652.21/SLPM_652.21_BG.png",
+    "kind": "background",
+    "bytes": 184172,
+    "width": 640,
+    "height": 480,
+    "sha256": "0b27623f1e7a686c534d6656d5eeeb503ca13d4c576f0835bed39aee981c72e8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_652.21/SLPM_652.21_BG_00.png"
+    },
+    "gameId": "SLPM_652.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_652.21/SLPM_652.21_BG.png",
+      "kind": "background",
+      "bytes": 184172,
+      "width": 640,
+      "height": 480,
+      "sha256": "0b27623f1e7a686c534d6656d5eeeb503ca13d4c576f0835bed39aee981c72e8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_652.21/SLPM_652.21_BG_00.png"
+      },
+      "gameId": "SLPM_652.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Clock Tower 3"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SCES_539.50",
+  "cover": {
+    "path": "PS2/SCES_539.50/SCES_539.50_COV.png",
+    "kind": "cover",
+    "bytes": 85135,
+    "width": 192,
+    "height": 272,
+    "sha256": "83dd1308fe2a9b95559ee53267c62f02a437bf1d2ad8a1991fa89ccc97790997",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53950.jpg"
+    },
+    "gameId": "SCES_539.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_539.50/SCES_539.50_BG.png",
+    "kind": "background",
+    "bytes": 175912,
+    "width": 640,
+    "height": 480,
+    "sha256": "922c4e1fd655fa34b5871dfb0ac23528f1f4e4f2cec8ddaed16e9fd4cb7cfde0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_539.50/SCES_539.50_BG_00.png"
+    },
+    "gameId": "SCES_539.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_539.50/SCES_539.50_BG.png",
+      "kind": "background",
+      "bytes": 175912,
+      "width": 640,
+      "height": 480,
+      "sha256": "922c4e1fd655fa34b5871dfb0ac23528f1f4e4f2cec8ddaed16e9fd4cb7cfde0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_539.50/SCES_539.50_BG_00.png"
+      },
+      "gameId": "SCES_539.50"
+    },
+    {
+      "path": "PS2/SCES_539.50/SCES_539.50_BG_01.png",
+      "kind": "background",
+      "bytes": 141048,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9594c87309ad11e3eefef473a0e6f15658b143c5c2b5222338ccdf6ddd33cc8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_539.50/SCES_539.50_BG_01.png"
+      },
+      "gameId": "SCES_539.50"
+    },
+    {
+      "path": "PS2/SCES_539.50/SCES_539.50_BG_02.png",
+      "kind": "background",
+      "bytes": 164910,
+      "width": 640,
+      "height": 480,
+      "sha256": "4221010ccb2390809e38a83e4f36fead503494dc419d1b886f57f4f8630a56a9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_539.50/SCES_539.50_BG_02.png"
+      },
+      "gameId": "SCES_539.50"
+    },
+    {
+      "path": "PS2/SCES_539.50/SCES_539.50_BG_03.png",
+      "kind": "background",
+      "bytes": 169593,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e34696974d8edb2666369971e23c07faede5acf0e388c0457c33984e8610962",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_539.50/SCES_539.50_BG_03.png"
+      },
+      "gameId": "SCES_539.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Formula One 06"
+}

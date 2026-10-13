@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_257.35",
+  "cover": {
+    "path": "PS2/SLPS_257.35/SLPS_257.35_COV.png",
+    "kind": "cover",
+    "bytes": 105255,
+    "width": 192,
+    "height": 272,
+    "sha256": "b407d336aaa5754dbcce431bd681f8e09b93b321aa4010753be26941662ac51d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25735.jpg"
+    },
+    "gameId": "SLPS_257.35"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_257.35/SLPS_257.35_BG.png",
+    "kind": "background",
+    "bytes": 205445,
+    "width": 640,
+    "height": 480,
+    "sha256": "8414faf7acea5599fb419860390cf287f8fc406b4dc439329c5196e8bd26c76b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.35/SLPS_257.35_BG_00.png"
+    },
+    "gameId": "SLPS_257.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.35/SLPS_257.35_BG.png",
+      "kind": "background",
+      "bytes": 205445,
+      "width": 640,
+      "height": 480,
+      "sha256": "8414faf7acea5599fb419860390cf287f8fc406b4dc439329c5196e8bd26c76b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.35/SLPS_257.35_BG_00.png"
+      },
+      "gameId": "SLPS_257.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Shadow Spell"
+}

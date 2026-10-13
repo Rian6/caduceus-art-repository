@@ -1,0 +1,39 @@
+{
+  "id": "SLES_544.85",
+  "cover": {
+    "path": "PS2/SLES_544.85/SLES_544.85_COV.png",
+    "kind": "cover",
+    "bytes": 98665,
+    "width": 192,
+    "height": 272,
+    "sha256": "e1ad474c9a20d983eee9d67b296163531c10e3e5ff079120bd97861b3544a18f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54485.jpg"
+    },
+    "gameId": "SLES_544.85"
+  },
+  "disc": {
+    "path": "PS2/SLES_544.85/SLES_544.85_ICO.png",
+    "kind": "disc",
+    "bytes": 11951,
+    "width": 128,
+    "height": 128,
+    "sha256": "955a5e6f72e055b8962bd20ccff570f7af018f0e3277404ce22cdd8d7b3931a6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_544.85_ICO.png"
+    },
+    "gameId": "SLES_544.85"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CINDERELLA"
+}

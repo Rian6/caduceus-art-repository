@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_654.44",
+  "cover": {
+    "path": "PS2/SLPM_654.44/SLPM_654.44_COV.png",
+    "kind": "cover",
+    "bytes": 112392,
+    "width": 192,
+    "height": 272,
+    "sha256": "3ad188d91b092e681e248b654032ae0e9731589f156c0d441447612d1d39ab8e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65444.jpg"
+    },
+    "gameId": "SLPM_654.44"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_654.44/SLPM_654.44_BG.png",
+    "kind": "background",
+    "bytes": 155437,
+    "width": 640,
+    "height": 480,
+    "sha256": "69d97802d1e9d5c0b40891a51c42ee876096699fc2fb9c0e10b4d42e1860d27e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.44/SLPM_654.44_BG_00.png"
+    },
+    "gameId": "SLPM_654.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.44/SLPM_654.44_BG.png",
+      "kind": "background",
+      "bytes": 155437,
+      "width": 640,
+      "height": 480,
+      "sha256": "69d97802d1e9d5c0b40891a51c42ee876096699fc2fb9c0e10b4d42e1860d27e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.44/SLPM_654.44_BG_00.png"
+      },
+      "gameId": "SLPM_654.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Castlevania"
+}

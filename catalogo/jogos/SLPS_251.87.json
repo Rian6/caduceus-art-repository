@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.87",
+  "cover": {
+    "path": "PS2/SLPS_251.87/SLPS_251.87_COV.png",
+    "kind": "cover",
+    "bytes": 88062,
+    "width": 192,
+    "height": 272,
+    "sha256": "1559ade58d321b0b412630c8ea7910e1260d5d86b1f62d74f38bc7090cb627a2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25187.jpg"
+    },
+    "gameId": "SLPS_251.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PANEL QUIZ ATTACK 25 [DIGICUBE BEST SELECTION]"
+}

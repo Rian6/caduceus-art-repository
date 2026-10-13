@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.48",
+  "cover": {
+    "path": "PS2/SLPS_250.48/SLPS_250.48_COV.png",
+    "kind": "cover",
+    "bytes": 104750,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f65c3a63543109673d90e3db59adf1053b61d2f63d3ce598d2ded94c837b8b0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25048.jpg"
+    },
+    "gameId": "SLPS_250.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zeonic Front - Kidou Senshi Gundam 0079"
+}

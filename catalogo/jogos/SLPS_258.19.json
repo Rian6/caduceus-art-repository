@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.19",
+  "cover": {
+    "path": "PS2/SLPS_258.19/SLPS_258.19_COV.png",
+    "kind": "cover",
+    "bytes": 90104,
+    "width": 192,
+    "height": 272,
+    "sha256": "5fe35307c45c812ccfa90f93eadbf89be905fecf71ba2f5c6cf909c95f24adc9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25819.jpg"
+    },
+    "gameId": "SLPS_258.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ar Tonelico II - Sekai ni Hibiku Shoujo Tachi no Souzoushi"
+}

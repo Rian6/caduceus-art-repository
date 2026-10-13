@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.31",
+  "cover": {
+    "path": "PS2/SLPS_200.31/SLPS_200.31_COV.png",
+    "kind": "cover",
+    "bytes": 82850,
+    "width": 192,
+    "height": 272,
+    "sha256": "a9c41a5f6f3a53349a318d782518d121564ee35e55e40efd176a002710945bde",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20031.jpg"
+    },
+    "gameId": "SLPS_200.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The MechSmith: Run=Dim"
+}

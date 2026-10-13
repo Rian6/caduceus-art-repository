@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.15",
+  "cover": {
+    "path": "PS2/SLPS_256.15/SLPS_256.15_COV.png",
+    "kind": "cover",
+    "bytes": 91010,
+    "width": 192,
+    "height": 272,
+    "sha256": "179c236bbe34f67bf161cc62133bd2ed7182d5a21f2afcbe4282cb2a45668096",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25615.jpg"
+    },
+    "gameId": "SLPS_256.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "My Home o Tsukurou! 2 - Juujitsu! Kantan Sekkei!!"
+}

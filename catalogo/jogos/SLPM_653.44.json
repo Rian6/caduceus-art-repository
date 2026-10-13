@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.44",
+  "cover": {
+    "path": "PS2/SLPM_653.44/SLPM_653.44_COV.png",
+    "kind": "cover",
+    "bytes": 96847,
+    "width": 192,
+    "height": 272,
+    "sha256": "0daeda9cd6255d6d143a1ab77e023dafc4d935ce313dadba89b255b78e3b4ab1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65344.jpg"
+    },
+    "gameId": "SLPM_653.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Project Minerva - Proffesional"
+}

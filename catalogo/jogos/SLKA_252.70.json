@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.70",
+  "cover": {
+    "path": "PS2/SLKA_252.70/SLKA_252.70_COV.png",
+    "kind": "cover",
+    "bytes": 84248,
+    "width": 192,
+    "height": 272,
+    "sha256": "15f81be7ff4508a9c3e5aba12da050d046910882f27497f897809a4b214d7b43",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25270.jpg"
+    },
+    "gameId": "SLKA_252.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core - Formula Front"
+}

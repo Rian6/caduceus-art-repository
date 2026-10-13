@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_193.09",
+  "cover": {
+    "path": "PS2/SCPS_193.09/SCPS_193.09_COV.png",
+    "kind": "cover",
+    "bytes": 86176,
+    "width": 192,
+    "height": 272,
+    "sha256": "d96ae5cc3c32b66287dff6d02057820e4c973901ae70590836dd65cada438d84",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19309.jpg"
+    },
+    "gameId": "SCPS_193.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ratchet & Clank 3 (Playstation 2 The Best)"
+}

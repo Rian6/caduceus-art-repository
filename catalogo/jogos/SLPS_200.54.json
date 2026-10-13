@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.54",
+  "cover": {
+    "path": "PS2/SLPS_200.54/SLPS_200.54_COV.png",
+    "kind": "cover",
+    "bytes": 83973,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d89641067810f4c70374461f79c8da315458c325ad0210c7c241a595f1df8aa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20054.jpg"
+    },
+    "gameId": "SLPS_200.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fifa 2001 World Championship"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_522.80",
+  "cover": {
+    "path": "PS2/SLES_522.80/SLES_522.80_COV.png",
+    "kind": "cover",
+    "bytes": 47235,
+    "width": 192,
+    "height": 272,
+    "sha256": "4951fa2811394544cf5cf4ea95ad9c2c58cfc687245d62cfc67438f72215f1a1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52280.jpg"
+    },
+    "gameId": "SLES_522.80"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_522.80/SLES_522.80_BG.png",
+    "kind": "background",
+    "bytes": 67911,
+    "width": 640,
+    "height": 480,
+    "sha256": "f1899e6ad1ccf95ff1df44647552ec23b22eb4b43bbc29800a9defa06388c2ff",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_522.80/SLES_522.80_BG_00.png"
+    },
+    "gameId": "SLES_522.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_522.80/SLES_522.80_BG.png",
+      "kind": "background",
+      "bytes": 67911,
+      "width": 640,
+      "height": 480,
+      "sha256": "f1899e6ad1ccf95ff1df44647552ec23b22eb4b43bbc29800a9defa06388c2ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.80/SLES_522.80_BG_00.png"
+      },
+      "gameId": "SLES_522.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mafia"
+}

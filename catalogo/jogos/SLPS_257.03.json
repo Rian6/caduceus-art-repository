@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.03",
+  "cover": {
+    "path": "PS2/SLPS_257.03/SLPS_257.03_COV.png",
+    "kind": "cover",
+    "bytes": 97291,
+    "width": 192,
+    "height": 272,
+    "sha256": "788da44d7ae0cc24d358f7e601b8f135a941ffde9dfc5c41b67c0f2e49058768",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25703.jpg"
+    },
+    "gameId": "SLPS_257.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.111 - The Itadaki Rider  - Omae no Bike ha Ore no Mono"
+}

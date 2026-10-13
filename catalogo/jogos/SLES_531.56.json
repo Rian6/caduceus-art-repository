@@ -1,0 +1,51 @@
+{
+  "id": "SLES_531.56",
+  "cover": {
+    "path": "PS2/SLES_531.56/SLES_531.56_COV.png",
+    "kind": "cover",
+    "bytes": 88441,
+    "width": 192,
+    "height": 272,
+    "sha256": "f1a0d8d45beb432febf261d0149fbdadf8046e772f6e55585cf5da39584d4619",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53156.jpg"
+    },
+    "gameId": "SLES_531.56"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_531.56/SLES_531.56_BG.png",
+    "kind": "background",
+    "bytes": 194158,
+    "width": 640,
+    "height": 480,
+    "sha256": "74441f5387d8e3fc3da741e2df878d7d32177139012723d417efab206fb9277a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.56/SLES_531.56_BG_00.png"
+    },
+    "gameId": "SLES_531.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.56/SLES_531.56_BG.png",
+      "kind": "background",
+      "bytes": 194158,
+      "width": 640,
+      "height": 480,
+      "sha256": "74441f5387d8e3fc3da741e2df878d7d32177139012723d417efab206fb9277a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.56/SLES_531.56_BG_00.png"
+      },
+      "gameId": "SLES_531.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR WARS - EPISODE III - LA REVANCHE DES SITH"
+}

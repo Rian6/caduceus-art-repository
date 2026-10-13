@@ -1,0 +1,91 @@
+{
+  "id": "SLES_552.74",
+  "cover": {
+    "path": "PS2/SLES_552.74/SLES_552.74_COV.png",
+    "kind": "cover",
+    "bytes": 82923,
+    "width": 192,
+    "height": 272,
+    "sha256": "ecefdcd9b681a13ab70afb83c85e8b88b26a7d84f4e221c706af2eee3aa52977",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55274.jpg"
+    },
+    "gameId": "SLES_552.74"
+  },
+  "disc": {
+    "path": "PS2/SLES_552.74/SLES_552.74_ICO.png",
+    "kind": "disc",
+    "bytes": 10418,
+    "width": 128,
+    "height": 128,
+    "sha256": "19e83cedbf65ab3e1728c3e7368a169ccd8dc7e99261a77a46bbc795c59a5161",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_552.74_ICO.png"
+    },
+    "gameId": "SLES_552.74"
+  },
+  "background": {
+    "path": "PS2/SLES_552.74/SLES_552.74_BG.png",
+    "kind": "background",
+    "bytes": 78483,
+    "width": 640,
+    "height": 480,
+    "sha256": "00990b97ef66235a6be74a360ecc91197a783aa7198c16c313cd6a233acd34fe",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_552.74/SLES_552.74_BG_00.png"
+    },
+    "gameId": "SLES_552.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_552.74/SLES_552.74_BG.png",
+      "kind": "background",
+      "bytes": 78483,
+      "width": 640,
+      "height": 480,
+      "sha256": "00990b97ef66235a6be74a360ecc91197a783aa7198c16c313cd6a233acd34fe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.74/SLES_552.74_BG_00.png"
+      },
+      "gameId": "SLES_552.74"
+    },
+    {
+      "path": "PS2/SLES_552.74/SLES_552.74_BG_01.png",
+      "kind": "background",
+      "bytes": 166909,
+      "width": 640,
+      "height": 480,
+      "sha256": "5d00a69bff820d728f26207aac94105022074f975544d66dc43abd5788edaf07",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.74/SLES_552.74_BG_01.png"
+      },
+      "gameId": "SLES_552.74"
+    },
+    {
+      "path": "PS2/SLES_552.74/SLES_552.74_BG_02.png",
+      "kind": "background",
+      "bytes": 119240,
+      "width": 640,
+      "height": 480,
+      "sha256": "7f8e60b15bfc9605132f2dbc2a8e35961c370b85a664e1081f643041ddb7c019",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.74/SLES_552.74_BG_02.png"
+      },
+      "gameId": "SLES_552.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Diabolik: The Original Sin"
+}

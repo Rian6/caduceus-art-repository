@@ -1,0 +1,51 @@
+{
+  "id": "SLES_503.41",
+  "cover": {
+    "path": "PS2/SLES_503.41/SLES_503.41_COV.png",
+    "kind": "cover",
+    "bytes": 92756,
+    "width": 192,
+    "height": 272,
+    "sha256": "91b97b26ca62cbf8cdc8512dcad2d6e6fa9b3c7a945a44e9521c7ceac3ffdd84",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50341.jpg"
+    },
+    "gameId": "SLES_503.41"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_503.41/SLES_503.41_BG.png",
+    "kind": "background",
+    "bytes": 197523,
+    "width": 640,
+    "height": 480,
+    "sha256": "e429e7a2d9f9e5330710395df1c716002f919b9f855988a06953eea012d03d4b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_503.41/SLES_503.41_BG_00.png"
+    },
+    "gameId": "SLES_503.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_503.41/SLES_503.41_BG.png",
+      "kind": "background",
+      "bytes": 197523,
+      "width": 640,
+      "height": 480,
+      "sha256": "e429e7a2d9f9e5330710395df1c716002f919b9f855988a06953eea012d03d4b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.41/SLES_503.41_BG_00.png"
+      },
+      "gameId": "SLES_503.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Smuggler's Run 2 - Hostile Territory"
+}

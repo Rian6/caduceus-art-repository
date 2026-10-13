@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.22",
+  "cover": {
+    "path": "PS2/SLPM_657.22/SLPM_657.22_COV.png",
+    "kind": "cover",
+    "bytes": 79260,
+    "width": 192,
+    "height": 272,
+    "sha256": "ca5240a0223a0e2f0570dc2021a811d74fc905a2c75d7e60318316d283f655a4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65722.jpg"
+    },
+    "gameId": "SLPM_657.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AirForce Delta: Blue Wing Knights"
+}

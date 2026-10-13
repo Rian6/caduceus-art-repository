@@ -1,0 +1,25 @@
+{
+  "id": "PBPX_952.99",
+  "cover": {
+    "path": "PS2/PBPX_952.99/PBPX_952.99_COV.png",
+    "kind": "cover",
+    "bytes": 52545,
+    "width": 192,
+    "height": 272,
+    "sha256": "79c6661e036c87b53ca22f2288fccead20bef28d5a88630b264d0cc42964c61e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/PBPX_952.99/PBPX_952.99_COV.png"
+    },
+    "gameId": "PBPX_952.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mage Racing Construction"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_554.62",
+  "cover": {
+    "path": "PS2/SLES_554.62/SLES_554.62_COV.png",
+    "kind": "cover",
+    "bytes": 78699,
+    "width": 192,
+    "height": 272,
+    "sha256": "3fd484d6d3ddf1a7784b7fdf75ac4b1f7ed69887c473135b779a71e11368d9fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55462.jpg"
+    },
+    "gameId": "SLES_554.62"
+  },
+  "disc": {
+    "path": "PS2/SLES_554.62/SLES_554.62_ICO.png",
+    "kind": "disc",
+    "bytes": 10821,
+    "width": 128,
+    "height": 128,
+    "sha256": "75965858b2cbf8f90ea8d048e0f4df25027fa2d336ba778554da5e295920b611",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_554.62_ICO.png"
+    },
+    "gameId": "SLES_554.62"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dance Party Club Hits"
+}

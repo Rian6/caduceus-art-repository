@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_217.71",
+  "cover": {
+    "path": "PS2/SLUS_217.71/SLUS_217.71_COV.png",
+    "kind": "cover",
+    "bytes": 97384,
+    "width": 192,
+    "height": 272,
+    "sha256": "ceba03f0bda922a58c8f9bdde84057dbfbb365f8850e2f648cd056e1a936e5c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21771.jpg"
+    },
+    "gameId": "SLUS_217.71"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.71/SLUS_217.71_ICO.png",
+    "kind": "disc",
+    "bytes": 26112,
+    "width": 256,
+    "height": 256,
+    "sha256": "b439d3fa7e0f27b48384473a140cbf181421139ae13e72b6be8e36734f346fdf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.71_ICO.png"
+    },
+    "gameId": "SLUS_217.71"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL '09"
+}

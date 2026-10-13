@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.94",
+  "cover": {
+    "path": "PS2/SLPM_621.94/SLPM_621.94_COV.png",
+    "kind": "cover",
+    "bytes": 102823,
+    "width": 192,
+    "height": 272,
+    "sha256": "fc91725b39714855f88ea2f3d212e2a81342c7c3422aea2550888d0a88f341fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62194.jpg"
+    },
+    "gameId": "SLPM_621.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nihon Sumou Kyoukai Kounin: Nihon Oozumou: Gekitou Honbasho-hen"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SLES_525.85",
+  "cover": {
+    "path": "PS2/SLES_525.85/SLES_525.85_COV.png",
+    "kind": "cover",
+    "bytes": 100371,
+    "width": 192,
+    "height": 272,
+    "sha256": "3b443c4ac0df27b0b1dd167fa97854cbf3e6f0830b20e7474dc7ea1710749178",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52585.jpg"
+    },
+    "gameId": "SLES_525.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.85/SLES_525.85_BG.png",
+    "kind": "background",
+    "bytes": 190186,
+    "width": 640,
+    "height": 480,
+    "sha256": "bbbed166a09c012fc8aa1f0c4a7e329be4ccae447928bd4c99c827a1b13b08d1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.85/SLES_525.85_BG_00.png"
+    },
+    "gameId": "SLES_525.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.85/SLES_525.85_BG.png",
+      "kind": "background",
+      "bytes": 190186,
+      "width": 640,
+      "height": 480,
+      "sha256": "bbbed166a09c012fc8aa1f0c4a7e329be4ccae447928bd4c99c827a1b13b08d1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.85/SLES_525.85_BG_00.png"
+      },
+      "gameId": "SLES_525.85"
+    },
+    {
+      "path": "PS2/SLES_525.85/SLES_525.85_BG_01.png",
+      "kind": "background",
+      "bytes": 222424,
+      "width": 640,
+      "height": 480,
+      "sha256": "e49a0fd706ac135b4a33de762fb3a63d0a3b04d16a728d79ea588191952d73dc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.85/SLES_525.85_BG_01.png"
+      },
+      "gameId": "SLES_525.85"
+    },
+    {
+      "path": "PS2/SLES_525.85/SLES_525.85_BG_02.png",
+      "kind": "background",
+      "bytes": 184355,
+      "width": 640,
+      "height": 480,
+      "sha256": "52776887c3f55b417c81d65de5becb578568753d14a59c170c38e321b002db9f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.85/SLES_525.85_BG_02.png"
+      },
+      "gameId": "SLES_525.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Burnout 3 - Takedown"
+}

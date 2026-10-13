@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.86",
+  "cover": {
+    "path": "PS2/SLPS_254.86/SLPS_254.86_COV.png",
+    "kind": "cover",
+    "bytes": 70150,
+    "width": 192,
+    "height": 272,
+    "sha256": "899d446181f393fc8d645bad55e68af82d5338577fbae8d3f0738aff69680bbe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25486.jpg"
+    },
+    "gameId": "SLPS_254.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam Senki - Lost  War Chronicles (Gundam The Best)"
+}

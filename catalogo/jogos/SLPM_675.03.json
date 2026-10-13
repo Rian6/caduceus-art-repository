@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_675.03",
+  "cover": {
+    "path": "PS2/SLPM_675.03/SLPM_675.03_COV.png",
+    "kind": "cover",
+    "bytes": 55805,
+    "width": 192,
+    "height": 272,
+    "sha256": "d919a487285c942c27fd821eba42e670a481321ba48540c1892ce72181d3dfd4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_675.03/SLPM_675.03_COV.png"
+    },
+    "gameId": "SLPM_675.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA Football 2002"
+}

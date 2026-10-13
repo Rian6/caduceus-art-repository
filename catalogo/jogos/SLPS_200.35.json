@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.35",
+  "cover": {
+    "path": "PS2/SLPS_200.35/SLPS_200.35_COV.png",
+    "kind": "cover",
+    "bytes": 79026,
+    "width": 192,
+    "height": 272,
+    "sha256": "711af24333d837db8f510ef34da202db19f0bcbd0ac6790dea43bb18f663ccfa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20035.jpg"
+    },
+    "gameId": "SLPS_200.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Mahjong Kiwame Next"
+}

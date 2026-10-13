@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_663.29",
+  "cover": {
+    "path": "PS2/SLPM_663.29/SLPM_663.29_COV.png",
+    "kind": "cover",
+    "bytes": 108753,
+    "width": 192,
+    "height": 272,
+    "sha256": "f43fcddd2f49c3e8e1395b4ca1c9dff255b5bd0980e89b135e1994a2f6e906ec",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66329.jpg"
+    },
+    "gameId": "SLPM_663.29"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_663.29/SLPM_663.29_BG.png",
+    "kind": "background",
+    "bytes": 190450,
+    "width": 640,
+    "height": 480,
+    "sha256": "b36343b50ed29b6da5552a3fefec7257f49e1f2a24b944f038671eb232f588ea",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_663.29/SLPM_663.29_BG_00.png"
+    },
+    "gameId": "SLPM_663.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_663.29/SLPM_663.29_BG.png",
+      "kind": "background",
+      "bytes": 190450,
+      "width": 640,
+      "height": 480,
+      "sha256": "b36343b50ed29b6da5552a3fefec7257f49e1f2a24b944f038671eb232f588ea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_663.29/SLPM_663.29_BG_00.png"
+      },
+      "gameId": "SLPM_663.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAHOU SENSEI NEGIMA! KAGAI JUGYOU - OTOME NO DOKIDOKI BEACHSIDE"
+}

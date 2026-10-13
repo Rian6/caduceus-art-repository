@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_211.90",
+  "cover": {
+    "path": "PS2/SLUS_211.90/SLUS_211.90_COV.png",
+    "kind": "cover",
+    "bytes": 108381,
+    "width": 192,
+    "height": 272,
+    "sha256": "c59ef310ac557369a1b65f6f302850c1019aca82b70a638718d827c34821f806",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21190.jpg"
+    },
+    "gameId": "SLUS_211.90"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.90/SLUS_211.90_ICO.png",
+    "kind": "disc",
+    "bytes": 33927,
+    "width": 256,
+    "height": 256,
+    "sha256": "df1303abf057e8756ad5b183c899b6c867f255410018a3c24001edb97d56f5ec",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.90_ICO.png"
+    },
+    "gameId": "SLUS_211.90"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.90/SLUS_211.90_BG.png",
+    "kind": "background",
+    "bytes": 203680,
+    "width": 640,
+    "height": 480,
+    "sha256": "e5daff1f0f80db437791ce0523a61af9317d32651d620aaa85db4eb77019fb50",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.90/SLUS_211.90_BG_00.png"
+    },
+    "gameId": "SLUS_211.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.90/SLUS_211.90_BG.png",
+      "kind": "background",
+      "bytes": 203680,
+      "width": 640,
+      "height": 480,
+      "sha256": "e5daff1f0f80db437791ce0523a61af9317d32651d620aaa85db4eb77019fb50",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.90/SLUS_211.90_BG_00.png"
+      },
+      "gameId": "SLUS_211.90"
+    },
+    {
+      "path": "PS2/SLUS_211.90/SLUS_211.90_BG_01.png",
+      "kind": "background",
+      "bytes": 229104,
+      "width": 640,
+      "height": 480,
+      "sha256": "79c03b82ba5ffb81e1d01de6a0a310cff7e05a7aaa65f5209f2bce143f4a4ccb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.90/SLUS_211.90_BG_01.png"
+      },
+      "gameId": "SLUS_211.90"
+    },
+    {
+      "path": "PS2/SLUS_211.90/SLUS_211.90_BG_02.png",
+      "kind": "background",
+      "bytes": 46616,
+      "width": 640,
+      "height": 480,
+      "sha256": "7ff573935728b2d327a5f34eaf206f08f6e4988e26553ea2baea553e975d867b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.90/SLUS_211.90_BG_02.png"
+      },
+      "gameId": "SLUS_211.90"
+    },
+    {
+      "path": "PS2/SLUS_211.90/SLUS_211.90_BG_03.png",
+      "kind": "background",
+      "bytes": 172477,
+      "width": 640,
+      "height": 480,
+      "sha256": "f615e9599dfe827e209c538ad211300f5cbf3ef2ff43f8c7ef2d156f0927dce3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.90/SLUS_211.90_BG_03.png"
+      },
+      "gameId": "SLUS_211.90"
+    },
+    {
+      "path": "PS2/SLUS_211.90/SLUS_211.90_BG_04.png",
+      "kind": "background",
+      "bytes": 190713,
+      "width": 640,
+      "height": 480,
+      "sha256": "97d78bb4d5e5f677f5c718af3927663f3c0fc19e9d7d09d2b5a4cdcbd4de7a35",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.90/SLUS_211.90_BG_04.png"
+      },
+      "gameId": "SLUS_211.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OUTLAW TENNIS"
+}

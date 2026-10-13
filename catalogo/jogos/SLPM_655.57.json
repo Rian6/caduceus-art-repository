@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.57",
+  "cover": {
+    "path": "PS2/SLPM_655.57/SLPM_655.57_COV.png",
+    "kind": "cover",
+    "bytes": 96529,
+    "width": 192,
+    "height": 272,
+    "sha256": "5f3b721534ea71e8511eda3cb24d3faf8bd64fd72fe1f49159c019d38d85be17",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65557.jpg"
+    },
+    "gameId": "SLPM_655.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STEADY X STUDY [LIMITED EDITION]"
+}

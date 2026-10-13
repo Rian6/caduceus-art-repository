@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_218.00",
+  "cover": {
+    "path": "PS2/SLUS_218.00/SLUS_218.00_COV.png",
+    "kind": "cover",
+    "bytes": 93139,
+    "width": 192,
+    "height": 272,
+    "sha256": "a9ddb2d45b655c572bfd7cc5fa59802a0b1b6b9c1ad61312db049c9f327a5b0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21800.jpg"
+    },
+    "gameId": "SLUS_218.00"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.00/SLUS_218.00_ICO.png",
+    "kind": "disc",
+    "bytes": 31710,
+    "width": 256,
+    "height": 256,
+    "sha256": "029f1063d1383598edd2d88f7492d65efdbe308eacf9f8ca0d567bfe8374d296",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.00_ICO.png"
+    },
+    "gameId": "SLUS_218.00"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.00/SLUS_218.00_BG.png",
+    "kind": "background",
+    "bytes": 197246,
+    "width": 640,
+    "height": 480,
+    "sha256": "33d5d7ee047345bb92e559ac2da592ebc27a05ef8668df2cea585f7ace126d90",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.00/SLUS_218.00_BG_00.png"
+    },
+    "gameId": "SLUS_218.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.00/SLUS_218.00_BG.png",
+      "kind": "background",
+      "bytes": 197246,
+      "width": 640,
+      "height": 480,
+      "sha256": "33d5d7ee047345bb92e559ac2da592ebc27a05ef8668df2cea585f7ace126d90",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.00/SLUS_218.00_BG_00.png"
+      },
+      "gameId": "SLUS_218.00"
+    },
+    {
+      "path": "PS2/SLUS_218.00/SLUS_218.00_BG_01.png",
+      "kind": "background",
+      "bytes": 194794,
+      "width": 640,
+      "height": 480,
+      "sha256": "d3732f7fc39319601ca47f3325b214581ed09153ca6f6600202250806832d696",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.00/SLUS_218.00_BG_01.png"
+      },
+      "gameId": "SLUS_218.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rock Band 2"
+}

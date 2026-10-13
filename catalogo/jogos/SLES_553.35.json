@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.35",
+  "cover": {
+    "path": "PS2/SLES_553.35/SLES_553.35_COV.png",
+    "kind": "cover",
+    "bytes": 88815,
+    "width": 192,
+    "height": 272,
+    "sha256": "6453a683db4b1cfd89b6f377801962d0a655fd54ed16b8cd0411daa6dd2019ae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55335.jpg"
+    },
+    "gameId": "SLES_553.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live '09"
+}

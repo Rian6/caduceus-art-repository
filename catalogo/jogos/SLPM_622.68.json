@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_622.68",
+  "cover": {
+    "path": "PS2/SLPM_622.68/SLPM_622.68_COV.png",
+    "kind": "cover",
+    "bytes": 97170,
+    "width": 192,
+    "height": 272,
+    "sha256": "a7b878dfb90910a66855730990ace18c42a8bf77615743a4d62e5c1c333b57d8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62268.jpg"
+    },
+    "gameId": "SLPM_622.68"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_622.68/SLPM_622.68_BG.png",
+    "kind": "background",
+    "bytes": 169634,
+    "width": 640,
+    "height": 480,
+    "sha256": "6092c39ec0ab3320e5b463444eb6514f1f3ca41d7acd7bfe0cf82927294fc78e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_622.68/SLPM_622.68_BG_00.png"
+    },
+    "gameId": "SLPM_622.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_622.68/SLPM_622.68_BG.png",
+      "kind": "background",
+      "bytes": 169634,
+      "width": 640,
+      "height": 480,
+      "sha256": "6092c39ec0ab3320e5b463444eb6514f1f3ca41d7acd7bfe0cf82927294fc78e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_622.68/SLPM_622.68_BG_00.png"
+      },
+      "gameId": "SLPM_622.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 6 Final Evolution"
+}

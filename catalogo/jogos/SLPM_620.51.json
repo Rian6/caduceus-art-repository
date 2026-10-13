@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.51",
+  "cover": {
+    "path": "PS2/SLPM_620.51/SLPM_620.51_COV.png",
+    "kind": "cover",
+    "bytes": 106198,
+    "width": 192,
+    "height": 272,
+    "sha256": "a039a28b7af7782ae741d770f818523e9e9f7ee499f5170b7074debc9bb547ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62051.jpg"
+    },
+    "gameId": "SLPM_620.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yanya Caballista featuring Gawoo"
+}

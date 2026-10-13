@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.64",
+  "cover": {
+    "path": "PS2/SLPS_250.64/SLPS_250.64_COV.png",
+    "kind": "cover",
+    "bytes": 83489,
+    "width": 192,
+    "height": 272,
+    "sha256": "be124eb86bfd3f2e0f1f8140011cf3577f74d6ca32dd016741d0afa7ae069ea0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25064.jpg"
+    },
+    "gameId": "SLPS_250.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Seaman - Kindan no Pet - Gaze Hakushi no Jikken Shima (Limited Edition)"
+}

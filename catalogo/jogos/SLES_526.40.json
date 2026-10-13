@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.40",
+  "cover": {
+    "path": "PS2/SLES_526.40/SLES_526.40_COV.png",
+    "kind": "cover",
+    "bytes": 85288,
+    "width": 192,
+    "height": 272,
+    "sha256": "126f862328abe65bf5ab35fb3880a56da66fbf752187c11e01ad36e56a0a2ff4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52640.jpg"
+    },
+    "gameId": "SLES_526.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dance:UK XL"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_659.99",
+  "cover": {
+    "path": "PS2/SLPM_659.99/SLPM_659.99_COV.png",
+    "kind": "cover",
+    "bytes": 81579,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc79eabd1e00d182919157ee1ab7223d0cb775eb443c4164920a8a85e89cbef8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65999.jpg"
+    },
+    "gameId": "SLPM_659.99"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_659.99/SLPM_659.99_BG.png",
+    "kind": "background",
+    "bytes": 221229,
+    "width": 640,
+    "height": 480,
+    "sha256": "25fe549c0dc7b0e18b744268d315c186023a3f9b0a40c03d5f04df4c035305f2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_659.99/SLPM_659.99_BG_00.png"
+    },
+    "gameId": "SLPM_659.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_659.99/SLPM_659.99_BG.png",
+      "kind": "background",
+      "bytes": 221229,
+      "width": 640,
+      "height": 480,
+      "sha256": "25fe549c0dc7b0e18b744268d315c186023a3f9b0a40c03d5f04df4c035305f2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.99/SLPM_659.99_BG_00.png"
+      },
+      "gameId": "SLPM_659.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Drag-on-Dragoon 2 -Fuuin no Kurenai"
+}

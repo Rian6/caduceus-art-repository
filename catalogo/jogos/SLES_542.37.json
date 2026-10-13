@@ -1,0 +1,77 @@
+{
+  "id": "SLES_542.37",
+  "cover": {
+    "path": "PS2/SLES_542.37/SLES_542.37_COV.png",
+    "kind": "cover",
+    "bytes": 90429,
+    "width": 192,
+    "height": 272,
+    "sha256": "9c654796cc2f82366835883ecf3e9ace56d68cc2fc572cf03598fc274fd83e22",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54237.jpg"
+    },
+    "gameId": "SLES_542.37"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_542.37/SLES_542.37_BG.png",
+    "kind": "background",
+    "bytes": 183366,
+    "width": 640,
+    "height": 480,
+    "sha256": "40c64adb50a78c661b3ac628855298ecc802efbed0545318ac6f553638c93be0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_542.37/SLES_542.37_BG_00.png"
+    },
+    "gameId": "SLES_542.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_542.37/SLES_542.37_BG.png",
+      "kind": "background",
+      "bytes": 183366,
+      "width": 640,
+      "height": 480,
+      "sha256": "40c64adb50a78c661b3ac628855298ecc802efbed0545318ac6f553638c93be0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.37/SLES_542.37_BG_00.png"
+      },
+      "gameId": "SLES_542.37"
+    },
+    {
+      "path": "PS2/SLES_542.37/SLES_542.37_BG_01.png",
+      "kind": "background",
+      "bytes": 199889,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c770e5e9c0680303ecddf5d1a80d4f7cb1e80fe260efcb0e991eca7703fcb79",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.37/SLES_542.37_BG_01.png"
+      },
+      "gameId": "SLES_542.37"
+    },
+    {
+      "path": "PS2/SLES_542.37/SLES_542.37_BG_02.png",
+      "kind": "background",
+      "bytes": 84583,
+      "width": 640,
+      "height": 480,
+      "sha256": "e961744c95b8dbf2a66226adf8c5ac31a039397d0403e8d6a7cead9b099a489c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.37/SLES_542.37_BG_02.png"
+      },
+      "gameId": "SLES_542.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pirates of the Caribbean: The Legend of Jack Sparrow"
+}

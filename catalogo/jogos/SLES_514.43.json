@@ -1,0 +1,25 @@
+{
+  "id": "SLES_514.43",
+  "cover": {
+    "path": "PS2/SLES_514.43/SLES_514.43_COV.png",
+    "kind": "cover",
+    "bytes": 90821,
+    "width": 192,
+    "height": 272,
+    "sha256": "f4ea0bd0c50cf8f617581c4865a3085a1bd2283456fe59ed1767d742c1a71662",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51443.jpg"
+    },
+    "gameId": "SLES_514.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 3 - Xtreme Legnds"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.15",
+  "cover": {
+    "path": "PS2/SLPS_201.15/SLPS_201.15_COV.png",
+    "kind": "cover",
+    "bytes": 89774,
+    "width": 192,
+    "height": 272,
+    "sha256": "91aea57637ad720f680d893c562acb34029c6575a2cfd4ffdbb4d2f613f1537d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20115.jpg"
+    },
+    "gameId": "SLPS_201.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TVware Jouhou Kakumei Series: Gendai Yougo no Kiso Chishiki 2001"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SCUS_974.74",
+  "cover": {
+    "path": "PS2/SCUS_974.74/SCUS_974.74_COV.png",
+    "kind": "cover",
+    "bytes": 112944,
+    "width": 192,
+    "height": 272,
+    "sha256": "e0294822a4c6400601532d4a63f1ca468604d89d1afc8ebf86ec334385f0dba9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97474.jpg"
+    },
+    "gameId": "SCUS_974.74"
+  },
+  "disc": {
+    "path": "PS2/SCUS_974.74/SCUS_974.74_ICO.png",
+    "kind": "disc",
+    "bytes": 35079,
+    "width": 256,
+    "height": 256,
+    "sha256": "379af37add8e4b9ee254dee7f7aeadf665a9cfc0576077c8d51cee14c149138b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_974.74_ICO.png"
+    },
+    "gameId": "SCUS_974.74"
+  },
+  "background": {
+    "path": "PS2/SCUS_974.74/SCUS_974.74_BG.png",
+    "kind": "background",
+    "bytes": 207192,
+    "width": 640,
+    "height": 480,
+    "sha256": "0d0275ac812f944020023655d6347787de4795a39528cf1eb6a7ebfa9891a924",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_974.74/SCUS_974.74_BG_00.png"
+    },
+    "gameId": "SCUS_974.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_974.74/SCUS_974.74_BG.png",
+      "kind": "background",
+      "bytes": 207192,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d0275ac812f944020023655d6347787de4795a39528cf1eb6a7ebfa9891a924",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.74/SCUS_974.74_BG_00.png"
+      },
+      "gameId": "SCUS_974.74"
+    },
+    {
+      "path": "PS2/SCUS_974.74/SCUS_974.74_BG_01.png",
+      "kind": "background",
+      "bytes": 227109,
+      "width": 640,
+      "height": 480,
+      "sha256": "c60af87dd540fe3096550691588e359216bb93afc6c0520fe4b8d4c581ce1f32",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.74/SCUS_974.74_BG_01.png"
+      },
+      "gameId": "SCUS_974.74"
+    },
+    {
+      "path": "PS2/SCUS_974.74/SCUS_974.74_BG_02.png",
+      "kind": "background",
+      "bytes": 233682,
+      "width": 640,
+      "height": 480,
+      "sha256": "63fb2494d7ebe0368c7868873d07290c695fd282c22d6181ac44fc54e975333c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.74/SCUS_974.74_BG_02.png"
+      },
+      "gameId": "SCUS_974.74"
+    },
+    {
+      "path": "PS2/SCUS_974.74/SCUS_974.74_BG_03.png",
+      "kind": "background",
+      "bytes": 100759,
+      "width": 640,
+      "height": 480,
+      "sha256": "2d68278fd7fa7cae78a4122fe87be974047bb40a3d7a23be032b2bc128115437",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.74/SCUS_974.74_BG_03.png"
+      },
+      "gameId": "SCUS_974.74"
+    },
+    {
+      "path": "PS2/SCUS_974.74/SCUS_974.74_BG_04.png",
+      "kind": "background",
+      "bytes": 205850,
+      "width": 640,
+      "height": 480,
+      "sha256": "9523e70c8215a4d92328f5954deba87d7894e4a43fb2acc222205590a1b06387",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.74/SCUS_974.74_BG_04.png"
+      },
+      "gameId": "SCUS_974.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOCOM 3 - U.S. Navy SEALs"
+}

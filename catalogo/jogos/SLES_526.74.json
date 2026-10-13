@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.74",
+  "cover": {
+    "path": "PS2/SLES_526.74/SLES_526.74_COV.png",
+    "kind": "cover",
+    "bytes": 80315,
+    "width": 192,
+    "height": 272,
+    "sha256": "cc8427bee9474953487c9ae1198f4bab78a061ddf4c7fab213230702448d15cc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52674.jpg"
+    },
+    "gameId": "SLES_526.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Total Club Manager 2005"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_250.20",
+  "cover": {
+    "path": "PS2/SLPS_250.20/SLPS_250.20_COV.png",
+    "kind": "cover",
+    "bytes": 88306,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f1f5c21b3022f286edd5026ec1c209341b0e3bbfe767111b965ee3b2a74c441",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25020.jpg"
+    },
+    "gameId": "SLPS_250.20"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_250.20/SLPS_250.20_BG.png",
+    "kind": "background",
+    "bytes": 160619,
+    "width": 640,
+    "height": 480,
+    "sha256": "40aa09e8f84decdc395d48587ed4ea35631d34e40058b1787d4c9c5315326b55",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.20/SLPS_250.20_BG_00.png"
+    },
+    "gameId": "SLPS_250.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_250.20/SLPS_250.20_BG.png",
+      "kind": "background",
+      "bytes": 160619,
+      "width": 640,
+      "height": 480,
+      "sha256": "40aa09e8f84decdc395d48587ed4ea35631d34e40058b1787d4c9c5315326b55",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.20/SLPS_250.20_BG_00.png"
+      },
+      "gameId": "SLPS_250.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KIDOU SENSHI GUNDAM"
+}

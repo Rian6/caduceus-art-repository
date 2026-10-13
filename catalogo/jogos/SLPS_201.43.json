@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.43",
+  "cover": {
+    "path": "PS2/SLPS_201.43/SLPS_201.43_COV.png",
+    "kind": "cover",
+    "bytes": 117287,
+    "width": 192,
+    "height": 272,
+    "sha256": "c6430a4b05841ba7635b927b80e1adaf7390645035702a676aca3543e33c0e22",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20143.jpg"
+    },
+    "gameId": "SLPS_201.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RPG Tsukuru 5"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_255.19",
+  "cover": {
+    "path": "PS2/SLPS_255.19/SLPS_255.19_COV.png",
+    "kind": "cover",
+    "bytes": 101189,
+    "width": 192,
+    "height": 272,
+    "sha256": "8418523e5d0cf21981f02c294a4a8bd9a383032843506ebe9589aa53ee2e0f72",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25519.jpg"
+    },
+    "gameId": "SLPS_255.19"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_255.19/SLPS_255.19_BG.png",
+    "kind": "background",
+    "bytes": 205893,
+    "width": 640,
+    "height": 480,
+    "sha256": "b4936b4eb5ba17aaefb69fdfeb1d933c5782de5ca8f5c0169c59cfd942dc29fb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.19/SLPS_255.19_BG_00.png"
+    },
+    "gameId": "SLPS_255.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.19/SLPS_255.19_BG.png",
+      "kind": "background",
+      "bytes": 205893,
+      "width": 640,
+      "height": 480,
+      "sha256": "b4936b4eb5ba17aaefb69fdfeb1d933c5782de5ca8f5c0169c59cfd942dc29fb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.19/SLPS_255.19_BG_00.png"
+      },
+      "gameId": "SLPS_255.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sousei no Aquarion"
+}

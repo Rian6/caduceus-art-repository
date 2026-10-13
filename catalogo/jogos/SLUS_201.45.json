@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_201.45",
+  "cover": {
+    "path": "PS2/SLUS_201.45/SLUS_201.45_COV.png",
+    "kind": "cover",
+    "bytes": 105585,
+    "width": 192,
+    "height": 272,
+    "sha256": "97fedd5da27d47fd2271a43bf4c112c9351d95d7463354910aae1d5d1d98b8ff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20145.jpg"
+    },
+    "gameId": "SLUS_201.45"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.45/SLUS_201.45_ICO.png",
+    "kind": "disc",
+    "bytes": 30924,
+    "width": 256,
+    "height": 256,
+    "sha256": "10e58e5bf9e0ed78947c81ebb6e4b0bd587ebde9b6190fb0fed8bea0dc615f6c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.45_ICO.png"
+    },
+    "gameId": "SLUS_201.45"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.45/SLUS_201.45_BG.png",
+    "kind": "background",
+    "bytes": 145484,
+    "width": 640,
+    "height": 480,
+    "sha256": "f226d9987c8a24965ef8052dba3f51ede864eb1801b94138bce3ba590ca2a336",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.45/SLUS_201.45_BG_00.png"
+    },
+    "gameId": "SLUS_201.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.45/SLUS_201.45_BG.png",
+      "kind": "background",
+      "bytes": 145484,
+      "width": 640,
+      "height": 480,
+      "sha256": "f226d9987c8a24965ef8052dba3f51ede864eb1801b94138bce3ba590ca2a336",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.45/SLUS_201.45_BG_00.png"
+      },
+      "gameId": "SLUS_201.45"
+    },
+    {
+      "path": "PS2/SLUS_201.45/SLUS_201.45_BG_01.png",
+      "kind": "background",
+      "bytes": 143359,
+      "width": 640,
+      "height": 480,
+      "sha256": "295cc8e0992664aa85dd90a5fc36111eccc0d0febcb98f2cdebf656f73438758",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.45/SLUS_201.45_BG_01.png"
+      },
+      "gameId": "SLUS_201.45"
+    },
+    {
+      "path": "PS2/SLUS_201.45/SLUS_201.45_BG_02.png",
+      "kind": "background",
+      "bytes": 227976,
+      "width": 640,
+      "height": 480,
+      "sha256": "441bcb6a11865f0be5ae5c250a8e3b0748a13d6cb2b8da0bf52c6756184edadd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.45/SLUS_201.45_BG_02.png"
+      },
+      "gameId": "SLUS_201.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ring of Red"
+}

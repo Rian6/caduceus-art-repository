@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_650.03",
+  "cover": {
+    "path": "PS2/SLPM_650.03/SLPM_650.03_COV.png",
+    "kind": "cover",
+    "bytes": 67676,
+    "width": 192,
+    "height": 272,
+    "sha256": "8d516a82976da849a5e6145285653d9c7b9567865ddf63ad63397505ca32af92",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65003.jpg"
+    },
+    "gameId": "SLPM_650.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_650.03/SLPM_650.03_BG.png",
+    "kind": "background",
+    "bytes": 159027,
+    "width": 640,
+    "height": 480,
+    "sha256": "7ed12e13aaca9da22c2120844d0ab21ef4da1bc4732f5b12a564653a50128c02",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_650.03/SLPM_650.03_BG_00.png"
+    },
+    "gameId": "SLPM_650.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_650.03/SLPM_650.03_BG.png",
+      "kind": "background",
+      "bytes": 159027,
+      "width": 640,
+      "height": 480,
+      "sha256": "7ed12e13aaca9da22c2120844d0ab21ef4da1bc4732f5b12a564653a50128c02",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.03/SLPM_650.03_BG_00.png"
+      },
+      "gameId": "SLPM_650.03"
+    },
+    {
+      "path": "PS2/SLPM_650.03/SLPM_650.03_BG_01.png",
+      "kind": "background",
+      "bytes": 128579,
+      "width": 640,
+      "height": 480,
+      "sha256": "5801e46af646886cbf5045376b1b4e8c1a75ac6bbaca61f2800273306b25ff42",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.03/SLPM_650.03_BG_01.png"
+      },
+      "gameId": "SLPM_650.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "0 Story (Disc 2)"
+}

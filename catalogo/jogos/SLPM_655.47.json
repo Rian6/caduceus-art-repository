@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.47",
+  "cover": {
+    "path": "PS2/SLPM_655.47/SLPM_655.47_COV.png",
+    "kind": "cover",
+    "bytes": 98101,
+    "width": 192,
+    "height": 272,
+    "sha256": "2f61d6c60ba154840cc82dd0b5a02482a7640e164e0213cf758c7c8d5ff5876c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65547.jpg"
+    },
+    "gameId": "SLPM_655.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CROSS CHANNEL - TO ALL PEOPLE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.20",
+  "cover": {
+    "path": "PS2/SLPS_252.20/SLPS_252.20_COV.png",
+    "kind": "cover",
+    "bytes": 115190,
+    "width": 192,
+    "height": 272,
+    "sha256": "d392ebf77122248ab6da4d3f8c792c52910281936f1e5d56234c0e89f669587c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25220.jpg"
+    },
+    "gameId": "SLPS_252.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ELYSION - EIEN NO SANCTUARY [NEW BEST COLLECTION]"
+}

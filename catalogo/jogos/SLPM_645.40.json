@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_645.40",
+  "cover": {
+    "path": "PS2/SLPM_645.40/SLPM_645.40_COV.png",
+    "kind": "cover",
+    "bytes": 66132,
+    "width": 192,
+    "height": 272,
+    "sha256": "7c73b94c7972efc772259aa21d6dd2b1469fe25012d8a2cd79c2bf9ca814b921",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_645.40/SLPM_645.40_COV.png"
+    },
+    "gameId": "SLPM_645.40"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_645.40/SLPM_645.40_BG.png",
+    "kind": "background",
+    "bytes": 170715,
+    "width": 640,
+    "height": 480,
+    "sha256": "90292900cbedd3a73d7a473f8418b6e2eee6e96bd7680672bba386e5c6af5e62",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_645.40/SLPM_645.40_BG_00.png"
+    },
+    "gameId": "SLPM_645.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_645.40/SLPM_645.40_BG.png",
+      "kind": "background",
+      "bytes": 170715,
+      "width": 640,
+      "height": 480,
+      "sha256": "90292900cbedd3a73d7a473f8418b6e2eee6e96bd7680672bba386e5c6af5e62",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_645.40/SLPM_645.40_BG_00.png"
+      },
+      "gameId": "SLPM_645.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Sims"
+}

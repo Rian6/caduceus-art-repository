@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.62",
+  "cover": {
+    "path": "PS2/SLPM_667.62/SLPM_667.62_COV.png",
+    "kind": "cover",
+    "bytes": 102321,
+    "width": 192,
+    "height": 272,
+    "sha256": "0683fb64972a4a035a427a1cd18c5d1289fe8be7f3bd913f20be86a67564b325",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66762.jpg"
+    },
+    "gameId": "SLPM_667.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PANIC PALETTE"
+}

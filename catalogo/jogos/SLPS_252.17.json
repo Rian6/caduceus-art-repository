@@ -1,0 +1,78 @@
+{
+  "id": "SLPS_252.17",
+  "cover": {
+    "path": "PS2/SLPS_252.17/SLPS_252.17_COV.png",
+    "kind": "cover",
+    "bytes": 92419,
+    "width": 192,
+    "height": 272,
+    "sha256": "8941ccbd8ec1654cfd888eaff50b98576c70fd6971e5e3373c5e8459484c15c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25217.jpg"
+    },
+    "gameId": "SLPS_252.17"
+  },
+  "disc": {
+    "path": "PS2/SLPS_252.17/SLPS_252.17_ICO.png",
+    "kind": "disc",
+    "bytes": 10448,
+    "width": 128,
+    "height": 128,
+    "sha256": "a5e2ee6005671bc04df37cc708f7de4e98df41a71d59035a03d13430e0bc65c6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_252.17_ICO.png"
+    },
+    "gameId": "SLPS_252.17"
+  },
+  "background": {
+    "path": "PS2/SLPS_252.17/SLPS_252.17_BG.png",
+    "kind": "background",
+    "bytes": 213411,
+    "width": 640,
+    "height": 480,
+    "sha256": "bd86b6233378dbd66a908a3a823d72e44cf3cb6c070471c6e4bc43ecd878f104",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_252.17/SLPS_252.17_BG_00.png"
+    },
+    "gameId": "SLPS_252.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_252.17/SLPS_252.17_BG.png",
+      "kind": "background",
+      "bytes": 213411,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd86b6233378dbd66a908a3a823d72e44cf3cb6c070471c6e4bc43ecd878f104",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.17/SLPS_252.17_BG_00.png"
+      },
+      "gameId": "SLPS_252.17"
+    },
+    {
+      "path": "PS2/SLPS_252.17/SLPS_252.17_BG_01.png",
+      "kind": "background",
+      "bytes": 165128,
+      "width": 640,
+      "height": 480,
+      "sha256": "a5172c1ca3d508854fef65da2b3054f015302519271112b39c6982a01ebae78c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.17/SLPS_252.17_BG_01.png"
+      },
+      "gameId": "SLPS_252.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shadow Tower - Abyss"
+}

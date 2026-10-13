@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_205.04",
+  "cover": {
+    "path": "PS2/SLPS_205.04/SLPS_205.04_COV.png",
+    "kind": "cover",
+    "bytes": 108476,
+    "width": 192,
+    "height": 272,
+    "sha256": "9c8bd7c8f03eddd5d2929f51fbb75d7f080806a45a5a8091ebbf71dad5b505ef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20504.jpg"
+    },
+    "gameId": "SLPS_205.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Daito Giken Koushiki Pachi-Slot Simulator - Shin Yoshimune"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_513.97",
+  "cover": {
+    "path": "PS2/SLES_513.97/SLES_513.97_COV.png",
+    "kind": "cover",
+    "bytes": 93627,
+    "width": 192,
+    "height": 272,
+    "sha256": "3b7c1c45aff7b0050dbadc083f225d91ada99b9104f8d06548b3931d9be06b83",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51397.jpg"
+    },
+    "gameId": "SLES_513.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "IndyCar Series"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.88",
+  "cover": {
+    "path": "PS2/SLKA_252.88/SLKA_252.88_COV.png",
+    "kind": "cover",
+    "bytes": 63852,
+    "width": 192,
+    "height": 272,
+    "sha256": "2fd524d68d60968caddb85b98747c5b88cb688725ac20fd97f07b20d1287aab6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.88/SLKA_252.88_COV.png"
+    },
+    "gameId": "SLKA_252.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Metal Slug 5"
+}

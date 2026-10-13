@@ -1,0 +1,51 @@
+{
+  "id": "SLES_500.75",
+  "cover": {
+    "path": "PS2/SLES_500.75/SLES_500.75_COV.png",
+    "kind": "cover",
+    "bytes": 76184,
+    "width": 192,
+    "height": 272,
+    "sha256": "19852e25eb1fa6782508e2267e3d60a73d80a8ce322014d79dffa9e1c1a3c45e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50075.jpg"
+    },
+    "gameId": "SLES_500.75"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_500.75/SLES_500.75_BG.png",
+    "kind": "background",
+    "bytes": 139550,
+    "width": 640,
+    "height": 480,
+    "sha256": "446bb7269d66dc96f654827e45e527d39147c0f7dd34c600afefeab64aade994",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.75/SLES_500.75_BG_00.png"
+    },
+    "gameId": "SLES_500.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.75/SLES_500.75_BG.png",
+      "kind": "background",
+      "bytes": 139550,
+      "width": 640,
+      "height": 480,
+      "sha256": "446bb7269d66dc96f654827e45e527d39147c0f7dd34c600afefeab64aade994",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.75/SLES_500.75_BG_00.png"
+      },
+      "gameId": "SLES_500.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN NBA 2Night"
+}

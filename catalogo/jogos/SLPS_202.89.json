@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.89",
+  "cover": {
+    "path": "PS2/SLPS_202.89/SLPS_202.89_COV.png",
+    "kind": "cover",
+    "bytes": 107004,
+    "width": 192,
+    "height": 272,
+    "sha256": "49556af0606ee712f20b4a065e2272acdf2e363a9aa84ae24715d78f8d51f192",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20289.jpg"
+    },
+    "gameId": "SLPS_202.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "YAMASA DIGI WORLD SP - UMI ICHI BAN R"
+}

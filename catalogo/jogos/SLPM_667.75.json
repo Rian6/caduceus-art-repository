@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.75",
+  "cover": {
+    "path": "PS2/SLPM_667.75/SLPM_667.75_COV.png",
+    "kind": "cover",
+    "bytes": 87181,
+    "width": 192,
+    "height": 272,
+    "sha256": "c26337be90699fda1c857d080d70438dceaadf19a3a8e81aa47596ed52fdc09d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66775.jpg"
+    },
+    "gameId": "SLPM_667.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TAITO MEMORIES JOUKAN [ETERNAL HITS]"
+}

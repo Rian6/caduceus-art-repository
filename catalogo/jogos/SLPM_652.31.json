@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.31",
+  "cover": {
+    "path": "PS2/SLPM_652.31/SLPM_652.31_COV.png",
+    "kind": "cover",
+    "bytes": 103042,
+    "width": 192,
+    "height": 272,
+    "sha256": "554433328ad1a8bbe2b04885dfc54ebe5b8b3529d2b6c3aa6a5b18f5bace4e8d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65231.jpg"
+    },
+    "gameId": "SLPM_652.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Evolution Snowboarding"
+}

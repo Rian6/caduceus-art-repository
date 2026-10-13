@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_207.79",
+  "cover": {
+    "path": "PS2/SLUS_207.79/SLUS_207.79_COV.png",
+    "kind": "cover",
+    "bytes": 114215,
+    "width": 192,
+    "height": 272,
+    "sha256": "e8f73b4c715be313c99bd9a9e96b4f0247b8cce1a2c7ae7a5edffe35fb059eb6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20779.jpg"
+    },
+    "gameId": "SLUS_207.79"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.79/SLUS_207.79_ICO.png",
+    "kind": "disc",
+    "bytes": 30707,
+    "width": 256,
+    "height": 256,
+    "sha256": "ef97c7d46a84330efe4abbf558e55e356b095cfbeb5758120c83f25293f84311",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.79_ICO.png"
+    },
+    "gameId": "SLUS_207.79"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.79/SLUS_207.79_BG.png",
+    "kind": "background",
+    "bytes": 206392,
+    "width": 640,
+    "height": 480,
+    "sha256": "6563fc72d05ed9934a78643f3f8a02c6f199122af177736a8bbde43db703eeee",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.79/SLUS_207.79_BG_00.png"
+    },
+    "gameId": "SLUS_207.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.79/SLUS_207.79_BG.png",
+      "kind": "background",
+      "bytes": 206392,
+      "width": 640,
+      "height": 480,
+      "sha256": "6563fc72d05ed9934a78643f3f8a02c6f199122af177736a8bbde43db703eeee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.79/SLUS_207.79_BG_00.png"
+      },
+      "gameId": "SLUS_207.79"
+    },
+    {
+      "path": "PS2/SLUS_207.79/SLUS_207.79_BG_01.png",
+      "kind": "background",
+      "bytes": 189463,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a061f9316ec19cce4e2f1b6bff820638bae3aeba238c450df95fbe578389b61",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.79/SLUS_207.79_BG_01.png"
+      },
+      "gameId": "SLUS_207.79"
+    },
+    {
+      "path": "PS2/SLUS_207.79/SLUS_207.79_BG_02.png",
+      "kind": "background",
+      "bytes": 135265,
+      "width": 640,
+      "height": 480,
+      "sha256": "66d7a3009d02130a04eeea72e7156328bffe4c1cac7bbbe03891a883f70a9c45",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.79/SLUS_207.79_BG_02.png"
+      },
+      "gameId": "SLUS_207.79"
+    },
+    {
+      "path": "PS2/SLUS_207.79/SLUS_207.79_BG_03.png",
+      "kind": "background",
+      "bytes": 154672,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc91507e01bee156380b43cb46ceca78674fb9333a0025ae844c11b150c3b280",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.79/SLUS_207.79_BG_03.png"
+      },
+      "gameId": "SLUS_207.79"
+    },
+    {
+      "path": "PS2/SLUS_207.79/SLUS_207.79_BG_04.png",
+      "kind": "background",
+      "bytes": 156092,
+      "width": 640,
+      "height": 480,
+      "sha256": "37bd4f657361b3bb96538ad29ce51f5cd66edd1b7a76e8343bc577143dd11f6d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.79/SLUS_207.79_BG_04.png"
+      },
+      "gameId": "SLUS_207.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DRAGON BALL Z - BUDOKAI 2"
+}

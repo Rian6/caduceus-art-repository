@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.46",
+  "cover": {
+    "path": "PS2/SLPM_667.46/SLPM_667.46_COV.png",
+    "kind": "cover",
+    "bytes": 108280,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a0b540745eb08ba846d441e0366bad895a05260dd1214f601dea7eefc0f6fa9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66746.jpg"
+    },
+    "gameId": "SLPM_667.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guilty Gear XX - Accent Core"
+}

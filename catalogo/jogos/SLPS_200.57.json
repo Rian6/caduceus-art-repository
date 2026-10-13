@@ -1,0 +1,65 @@
+{
+  "id": "SLPS_200.57",
+  "cover": {
+    "path": "PS2/SLPS_200.57/SLPS_200.57_COV.png",
+    "kind": "cover",
+    "bytes": 82307,
+    "width": 192,
+    "height": 272,
+    "sha256": "5317a2e9f43462d898e1f6dca0b2d2b1be3ca5c189a9f2a1e3ca5db6ba467821",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20057.jpg"
+    },
+    "gameId": "SLPS_200.57"
+  },
+  "disc": {
+    "path": "PS2/SLPS_200.57/SLPS_200.57_ICO.png",
+    "kind": "disc",
+    "bytes": 9849,
+    "width": 128,
+    "height": 128,
+    "sha256": "bb8ec92055ae9fe5ceb7c917ad5259993ad340de70de640ded7466480d56a98c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_200.57_ICO.png"
+    },
+    "gameId": "SLPS_200.57"
+  },
+  "background": {
+    "path": "PS2/SLPS_200.57/SLPS_200.57_BG.png",
+    "kind": "background",
+    "bytes": 165979,
+    "width": 640,
+    "height": 480,
+    "sha256": "fd6c0ff551622684c473a19862ba3c005b61baadc57bee51cf3b18d97f3e4f4b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_200.57/SLPS_200.57_BG_00.png"
+    },
+    "gameId": "SLPS_200.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_200.57/SLPS_200.57_BG.png",
+      "kind": "background",
+      "bytes": 165979,
+      "width": 640,
+      "height": 480,
+      "sha256": "fd6c0ff551622684c473a19862ba3c005b61baadc57bee51cf3b18d97f3e4f4b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_200.57/SLPS_200.57_BG_00.png"
+      },
+      "gameId": "SLPS_200.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dog of Bay"
+}

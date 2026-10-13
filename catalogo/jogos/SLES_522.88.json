@@ -1,0 +1,64 @@
+{
+  "id": "SLES_522.88",
+  "cover": {
+    "path": "PS2/SLES_522.88/SLES_522.88_COV.png",
+    "kind": "cover",
+    "bytes": 108296,
+    "width": 192,
+    "height": 272,
+    "sha256": "898b3203c1685498b73c90748086beda32afbaf525bfa0c1da4a6cf899b9f4ce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52288.jpg"
+    },
+    "gameId": "SLES_522.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_522.88/SLES_522.88_BG.png",
+    "kind": "background",
+    "bytes": 195517,
+    "width": 640,
+    "height": 480,
+    "sha256": "059281e081953a60b10e8ac7464fc7a5df08d3460de7c0fece8fe4213cac0fda",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_522.88/SLES_522.88_BG_00.png"
+    },
+    "gameId": "SLES_522.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_522.88/SLES_522.88_BG.png",
+      "kind": "background",
+      "bytes": 195517,
+      "width": 640,
+      "height": 480,
+      "sha256": "059281e081953a60b10e8ac7464fc7a5df08d3460de7c0fece8fe4213cac0fda",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.88/SLES_522.88_BG_00.png"
+      },
+      "gameId": "SLES_522.88"
+    },
+    {
+      "path": "PS2/SLES_522.88/SLES_522.88_BG_01.png",
+      "kind": "background",
+      "bytes": 191537,
+      "width": 640,
+      "height": 480,
+      "sha256": "07a330753c508d1c9cbec3e2b92daf91b5549b4c3784691d9ffd10d961b5c020",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.88/SLES_522.88_BG_01.png"
+      },
+      "gameId": "SLES_522.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOM CLANCY'S RAINBOW SIX 3"
+}

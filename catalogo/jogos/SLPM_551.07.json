@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.07",
+  "cover": {
+    "path": "PS2/SLPM_551.07/SLPM_551.07_COV.png",
+    "kind": "cover",
+    "bytes": 53093,
+    "width": 192,
+    "height": 272,
+    "sha256": "b5dbd511cee5302b243ffa5809576794c7a40a8b57c586b61a143eecc3377c3a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_551.07/SLPM_551.07_COV.png"
+    },
+    "gameId": "SLPM_551.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Baroque International"
+}

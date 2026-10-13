@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.63",
+  "cover": {
+    "path": "PS2/SLPS_202.63/SLPS_202.63_COV.png",
+    "kind": "cover",
+    "bytes": 76297,
+    "width": 192,
+    "height": 272,
+    "sha256": "9efda2db414ab608fc8dbdef6517349195bec1eed6cd3973de3ee430e1c02874",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20263.jpg"
+    },
+    "gameId": "SLPS_202.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "J-League Tactics Manager"
+}

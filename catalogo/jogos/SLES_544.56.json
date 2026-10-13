@@ -1,0 +1,78 @@
+{
+  "id": "SLES_544.56",
+  "cover": {
+    "path": "PS2/SLES_544.56/SLES_544.56_COV.png",
+    "kind": "cover",
+    "bytes": 88216,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a44ffb97967419507243789ba36dbeb58d74aa0ce243f22e792bdd8c5021777",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54456.jpg"
+    },
+    "gameId": "SLES_544.56"
+  },
+  "disc": {
+    "path": "PS2/SLES_544.56/SLES_544.56_ICO.png",
+    "kind": "disc",
+    "bytes": 11168,
+    "width": 128,
+    "height": 128,
+    "sha256": "33e30a8480295b228de6763cf912fbfbd3a76029f9b6f023f50fae5c58ed7ced",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_544.56_ICO.png"
+    },
+    "gameId": "SLES_544.56"
+  },
+  "background": {
+    "path": "PS2/SLES_544.56/SLES_544.56_BG.png",
+    "kind": "background",
+    "bytes": 86793,
+    "width": 640,
+    "height": 480,
+    "sha256": "bf65b998b57655326d098f691ef25aecdf6cee5a3596552ea024de5f3cf03e7a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.56/SLES_544.56_BG_00.png"
+    },
+    "gameId": "SLES_544.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.56/SLES_544.56_BG.png",
+      "kind": "background",
+      "bytes": 86793,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf65b998b57655326d098f691ef25aecdf6cee5a3596552ea024de5f3cf03e7a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.56/SLES_544.56_BG_00.png"
+      },
+      "gameId": "SLES_544.56"
+    },
+    {
+      "path": "PS2/SLES_544.56/SLES_544.56_BG_01.png",
+      "kind": "background",
+      "bytes": 161295,
+      "width": 640,
+      "height": 480,
+      "sha256": "96175b0effbd49d0695379cf2724fe55b4b4d0b8d4558823f0f638195827f0a8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.56/SLES_544.56_BG_01.png"
+      },
+      "gameId": "SLES_544.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Beverly Hills Cop"
+}

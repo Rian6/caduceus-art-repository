@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.14",
+  "cover": {
+    "path": "PS2/SLPS_201.14/SLPS_201.14_COV.png",
+    "kind": "cover",
+    "bytes": 76608,
+    "width": 192,
+    "height": 272,
+    "sha256": "26ccfa35e972bb9bf7573ebed3ed935616db52d3d02938b36aeba377718a98db",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20114.jpg"
+    },
+    "gameId": "SLPS_201.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Katei no Igaku (TVWare Series)"
+}

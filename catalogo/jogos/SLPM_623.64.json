@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_623.64",
+  "cover": {
+    "path": "PS2/SLPM_623.64/SLPM_623.64_COV.png",
+    "kind": "cover",
+    "bytes": 88669,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea9592256e688572d0bc9dfdd70e2eb2bfb2982334533d0b98dba1130312d9e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62364.jpg"
+    },
+    "gameId": "SLPM_623.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_623.64/SLPM_623.64_BG.png",
+    "kind": "background",
+    "bytes": 135903,
+    "width": 640,
+    "height": 480,
+    "sha256": "926b954baa6bc6ce470f7bd782a39daf427a18272bc5dce6c58508b707169f94",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_623.64/SLPM_623.64_BG_00.png"
+    },
+    "gameId": "SLPM_623.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_623.64/SLPM_623.64_BG.png",
+      "kind": "background",
+      "bytes": 135903,
+      "width": 640,
+      "height": 480,
+      "sha256": "926b954baa6bc6ce470f7bd782a39daf427a18272bc5dce6c58508b707169f94",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_623.64/SLPM_623.64_BG_00.png"
+      },
+      "gameId": "SLPM_623.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Ages 2500 Series Vol. 2: Monaco GP"
+}

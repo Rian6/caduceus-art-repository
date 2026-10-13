@@ -1,0 +1,65 @@
+{
+  "id": "SLES_532.19",
+  "cover": {
+    "path": "PS2/SLES_532.19/SLES_532.19_COV.png",
+    "kind": "cover",
+    "bytes": 106742,
+    "width": 192,
+    "height": 272,
+    "sha256": "43089e0f4c032daed646be5672b68d592ee77806e3d913bead98757a49f9763b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53219.jpg"
+    },
+    "gameId": "SLES_532.19"
+  },
+  "disc": {
+    "path": "PS2/SLES_532.19/SLES_532.19_ICO.png",
+    "kind": "disc",
+    "bytes": 11977,
+    "width": 128,
+    "height": 128,
+    "sha256": "3c7272f6be331681a03b685300e5567eb1310e8535f4e2e4b12c6b73fad146e4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_532.19_ICO.png"
+    },
+    "gameId": "SLES_532.19"
+  },
+  "background": {
+    "path": "PS2/SLES_532.19/SLES_532.19_BG.png",
+    "kind": "background",
+    "bytes": 197772,
+    "width": 640,
+    "height": 480,
+    "sha256": "304a3f32524802cd60911b63df57738c78faf537388260f5d506fd52c5b538e1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_532.19/SLES_532.19_BG_00.png"
+    },
+    "gameId": "SLES_532.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_532.19/SLES_532.19_BG.png",
+      "kind": "background",
+      "bytes": 197772,
+      "width": 640,
+      "height": 480,
+      "sha256": "304a3f32524802cd60911b63df57738c78faf537388260f5d506fd52c5b538e1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.19/SLES_532.19_BG_00.png"
+      },
+      "gameId": "SLES_532.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winx Club"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.39",
+  "cover": {
+    "path": "PS2/SCAJ_201.39/SCAJ_201.39_COV.png",
+    "kind": "cover",
+    "bytes": 91793,
+    "width": 192,
+    "height": 272,
+    "sha256": "f050fff0939582f726e4cd712e4af86a765de8490ee53da2a985343a6a37ae19",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20139.jpg"
+    },
+    "gameId": "SCAJ_201.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZERO - SHISEI NO KOE"
+}

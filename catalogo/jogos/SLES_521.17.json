@@ -1,0 +1,65 @@
+{
+  "id": "SLES_521.17",
+  "cover": {
+    "path": "PS2/SLES_521.17/SLES_521.17_COV.png",
+    "kind": "cover",
+    "bytes": 80347,
+    "width": 192,
+    "height": 272,
+    "sha256": "494215c3a17efb13a1a7be80bd51f3fb5e57b55c8f83748eeea3b00b1060fdcd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52117.jpg"
+    },
+    "gameId": "SLES_521.17"
+  },
+  "disc": {
+    "path": "PS2/SLES_521.17/SLES_521.17_ICO.png",
+    "kind": "disc",
+    "bytes": 9992,
+    "width": 128,
+    "height": 128,
+    "sha256": "b6d49d24c7863802ef5af0fab2b3c11960a8dffc252daafc682008e2d94a00b5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_521.17_ICO.png"
+    },
+    "gameId": "SLES_521.17"
+  },
+  "background": {
+    "path": "PS2/SLES_521.17/SLES_521.17_BG.png",
+    "kind": "background",
+    "bytes": 170456,
+    "width": 640,
+    "height": 480,
+    "sha256": "3abf6298d08f5a7fbb2c928943de07250b905f8df9e46eb5ca13395a2d3a4a62",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_521.17/SLES_521.17_BG_00.png"
+    },
+    "gameId": "SLES_521.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_521.17/SLES_521.17_BG.png",
+      "kind": "background",
+      "bytes": 170456,
+      "width": 640,
+      "height": 480,
+      "sha256": "3abf6298d08f5a7fbb2c928943de07250b905f8df9e46eb5ca13395a2d3a4a62",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.17/SLES_521.17_BG_00.png"
+      },
+      "gameId": "SLES_521.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GO GO COPTER - REMOTE CONTROL HELICOPTER"
+}

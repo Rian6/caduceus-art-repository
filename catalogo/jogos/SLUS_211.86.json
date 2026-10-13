@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_211.86",
+  "cover": {
+    "path": "PS2/SLUS_211.86/SLUS_211.86_COV.png",
+    "kind": "cover",
+    "bytes": 113898,
+    "width": 192,
+    "height": 272,
+    "sha256": "bdce4f6873391fae22d43dffdd6a6aa05c4800a112ba83e830a8980d73948116",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21186.jpg"
+    },
+    "gameId": "SLUS_211.86"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.86/SLUS_211.86_ICO.png",
+    "kind": "disc",
+    "bytes": 36489,
+    "width": 256,
+    "height": 256,
+    "sha256": "fb1844d55e5a6f9725c69f39407780de387eac3e4ecff5f2d6b0422abae48327",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.86_ICO.png"
+    },
+    "gameId": "SLUS_211.86"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.86/SLUS_211.86_BG.png",
+    "kind": "background",
+    "bytes": 201765,
+    "width": 640,
+    "height": 480,
+    "sha256": "9f2bb242ab35c3f14b08408ef32406ea35b2a1466ec74898e135c2a5a7707db1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.86/SLUS_211.86_BG_00.png"
+    },
+    "gameId": "SLUS_211.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.86/SLUS_211.86_BG.png",
+      "kind": "background",
+      "bytes": 201765,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f2bb242ab35c3f14b08408ef32406ea35b2a1466ec74898e135c2a5a7707db1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.86/SLUS_211.86_BG_00.png"
+      },
+      "gameId": "SLUS_211.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Ballers - Phenom"
+}

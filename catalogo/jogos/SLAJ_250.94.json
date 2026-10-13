@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.94",
+  "cover": {
+    "path": "PS2/SLAJ_250.94/SLAJ_250.94_COV.png",
+    "kind": "cover",
+    "bytes": 98992,
+    "width": 192,
+    "height": 272,
+    "sha256": "006c47fb6678eec55c8637a40e762f1def9a5db5b150227dd85352146e949493",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25094.jpg"
+    },
+    "gameId": "SLAJ_250.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Burnout - Dominator"
+}

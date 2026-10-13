@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_151.20",
+  "cover": {
+    "path": "PS2/SCPS_151.20/SCPS_151.20_COV.png",
+    "kind": "cover",
+    "bytes": 113639,
+    "width": 192,
+    "height": 272,
+    "sha256": "677489f973a385ee6947e00051ff5dc3c36cb007edac2c784957758d91fb1716",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15120.jpg"
+    },
+    "gameId": "SCPS_151.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ratchet & Clank 5 - Gekitotsu! Dodeka Ginga no Mirimiri Gundan"
+}

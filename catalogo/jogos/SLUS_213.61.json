@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_213.61",
+  "cover": {
+    "path": "PS2/SLUS_213.61/SLUS_213.61_COV.png",
+    "kind": "cover",
+    "bytes": 91315,
+    "width": 192,
+    "height": 272,
+    "sha256": "09dcba38b5993e0d6112952723b11e443acb3436c321a9806b319d92dbe4f715",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21361.jpg"
+    },
+    "gameId": "SLUS_213.61"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.61/SLUS_213.61_ICO.png",
+    "kind": "disc",
+    "bytes": 34465,
+    "width": 256,
+    "height": 256,
+    "sha256": "d83ebfa0acbca3b477ae59e908d284bf1310295062d24dafc6f2e7724f34c0b0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.61_ICO.png"
+    },
+    "gameId": "SLUS_213.61"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.61/SLUS_213.61_BG.png",
+    "kind": "background",
+    "bytes": 168258,
+    "width": 640,
+    "height": 480,
+    "sha256": "d53455f13875f180269a54bacea5c399df51a1398fe3b77a9c8d30dc3bb4239c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.61/SLUS_213.61_BG_00.png"
+    },
+    "gameId": "SLUS_213.61"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.61/SLUS_213.61_BG.png",
+      "kind": "background",
+      "bytes": 168258,
+      "width": 640,
+      "height": 480,
+      "sha256": "d53455f13875f180269a54bacea5c399df51a1398fe3b77a9c8d30dc3bb4239c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.61/SLUS_213.61_BG_00.png"
+      },
+      "gameId": "SLUS_213.61"
+    },
+    {
+      "path": "PS2/SLUS_213.61/SLUS_213.61_BG_01.png",
+      "kind": "background",
+      "bytes": 182668,
+      "width": 640,
+      "height": 480,
+      "sha256": "163027f63405daa06a0fe5945bc2adeb43c9b52a253f78fe91d2189a1241e056",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.61/SLUS_213.61_BG_01.png"
+      },
+      "gameId": "SLUS_213.61"
+    },
+    {
+      "path": "PS2/SLUS_213.61/SLUS_213.61_BG_02.png",
+      "kind": "background",
+      "bytes": 163691,
+      "width": 640,
+      "height": 480,
+      "sha256": "244df4e4a74d4df14fa8dbf0ea8e135dbc7b873000401f0ef775eeed47bd6ec5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.61/SLUS_213.61_BG_02.png"
+      },
+      "gameId": "SLUS_213.61"
+    },
+    {
+      "path": "PS2/SLUS_213.61/SLUS_213.61_BG_03.png",
+      "kind": "background",
+      "bytes": 175920,
+      "width": 640,
+      "height": 480,
+      "sha256": "61f06dc000028f6b2b58be791b25164497bb3aa367ad8cc5aef028462f717780",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.61/SLUS_213.61_BG_03.png"
+      },
+      "gameId": "SLUS_213.61"
+    },
+    {
+      "path": "PS2/SLUS_213.61/SLUS_213.61_BG_04.png",
+      "kind": "background",
+      "bytes": 237038,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac96064d69b017fbf2be47d8019fb74197abb5eb48c046fc6716cba683f6431d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.61/SLUS_213.61_BG_04.png"
+      },
+      "gameId": "SLUS_213.61"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Devil May Cry 3 - Dante's Awakening (Special Edition)"
+}

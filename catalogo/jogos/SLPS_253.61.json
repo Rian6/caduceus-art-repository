@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.61",
+  "cover": {
+    "path": "PS2/SLPS_253.61/SLPS_253.61_COV.png",
+    "kind": "cover",
+    "bytes": 100093,
+    "width": 192,
+    "height": 272,
+    "sha256": "f100f76ca646bb3b684033ec5b12e48408ce3279d59840df9582551349297bc1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25361.jpg"
+    },
+    "gameId": "SLPS_253.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SMASH COURT PRO TOURNAMENT 2"
+}

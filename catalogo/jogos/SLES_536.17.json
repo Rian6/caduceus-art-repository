@@ -1,0 +1,64 @@
+{
+  "id": "SLES_536.17",
+  "cover": {
+    "path": "PS2/SLES_536.17/SLES_536.17_COV.png",
+    "kind": "cover",
+    "bytes": 88678,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f438e723da95eca009eb33b5e5ae7bb504a0a7df83d124e5b81c7cdfdee8870",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53617.jpg"
+    },
+    "gameId": "SLES_536.17"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_536.17/SLES_536.17_BG.png",
+    "kind": "background",
+    "bytes": 208248,
+    "width": 640,
+    "height": 480,
+    "sha256": "50376170ecc8cc601456f5c69bf351f0db0575fd2974d622322e75e85896c1f4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.17/SLES_536.17_BG_00.png"
+    },
+    "gameId": "SLES_536.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_536.17/SLES_536.17_BG.png",
+      "kind": "background",
+      "bytes": 208248,
+      "width": 640,
+      "height": 480,
+      "sha256": "50376170ecc8cc601456f5c69bf351f0db0575fd2974d622322e75e85896c1f4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.17/SLES_536.17_BG_00.png"
+      },
+      "gameId": "SLES_536.17"
+    },
+    {
+      "path": "PS2/SLES_536.17/SLES_536.17_BG_01.png",
+      "kind": "background",
+      "bytes": 158624,
+      "width": 640,
+      "height": 480,
+      "sha256": "bfbee928e3f40fe19003aec4f7e5f354bd38f28b78ea7136bbc9690c59bfcc2b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.17/SLES_536.17_BG_01.png"
+      },
+      "gameId": "SLES_536.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "True Crime: New York City"
+}

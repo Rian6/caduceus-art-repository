@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_627.30",
+  "cover": {
+    "path": "PS2/SLPM_627.30/SLPM_627.30_COV.png",
+    "kind": "cover",
+    "bytes": 79375,
+    "width": 192,
+    "height": 272,
+    "sha256": "10016a9bc8b54afc58d04f4f8b08151e307957d08e2f8d588a1faa50a95bd506",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62730.jpg"
+    },
+    "gameId": "SLPM_627.30"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_627.30/SLPM_627.30_BG.png",
+    "kind": "background",
+    "bytes": 248925,
+    "width": 640,
+    "height": 480,
+    "sha256": "6cfa560d8945248e32b0ac468d17a9f151d20b517f11d81bd3f4328d4d50901f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_627.30/SLPM_627.30_BG_00.png"
+    },
+    "gameId": "SLPM_627.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_627.30/SLPM_627.30_BG.png",
+      "kind": "background",
+      "bytes": 248925,
+      "width": 640,
+      "height": 480,
+      "sha256": "6cfa560d8945248e32b0ac468d17a9f151d20b517f11d81bd3f4328d4d50901f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.30/SLPM_627.30_BG_00.png"
+      },
+      "gameId": "SLPM_627.30"
+    },
+    {
+      "path": "PS2/SLPM_627.30/SLPM_627.30_BG_01.png",
+      "kind": "background",
+      "bytes": 78569,
+      "width": 640,
+      "height": 480,
+      "sha256": "ab9158c2d2b806e461667095bc8b9b067d23f52862799b52535428878f8bc1bb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.30/SLPM_627.30_BG_01.png"
+      },
+      "gameId": "SLPM_627.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Oretachi Game Center Zoku - Contra"
+}

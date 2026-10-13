@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.15",
+  "cover": {
+    "path": "PS2/SLPS_202.15/SLPS_202.15_COV.png",
+    "kind": "cover",
+    "bytes": 98278,
+    "width": 192,
+    "height": 272,
+    "sha256": "92001f2f5e1617e40edf79afee8abb1885d795a913e489865cdd252e51fe1aa6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20215.jpg"
+    },
+    "gameId": "SLPS_202.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jissen Pachi-Slot Hisshouhou! Aladdin A"
+}

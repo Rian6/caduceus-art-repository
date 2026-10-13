@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.93",
+  "cover": {
+    "path": "PS2/SLPM_663.93/SLPM_663.93_COV.png",
+    "kind": "cover",
+    "bytes": 104025,
+    "width": 192,
+    "height": 272,
+    "sha256": "71c2b5140fbfaa5aac279073dc752020c088eafd8f1b6cd2ceff6e2f1802521e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66393.jpg"
+    },
+    "gameId": "SLPM_663.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XI: All in One Pack 2006"
+}

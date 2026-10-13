@@ -1,0 +1,64 @@
+{
+  "id": "SLES_533.74",
+  "cover": {
+    "path": "PS2/SLES_533.74/SLES_533.74_COV.png",
+    "kind": "cover",
+    "bytes": 90532,
+    "width": 192,
+    "height": 272,
+    "sha256": "e5c6b860351ca2aeb7d4a71822350630b543f3d6779dca6a5ee9bc38510cd2fc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53374.jpg"
+    },
+    "gameId": "SLES_533.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_533.74/SLES_533.74_BG.png",
+    "kind": "background",
+    "bytes": 190883,
+    "width": 640,
+    "height": 480,
+    "sha256": "a0bc7f141337c4858fd11d834925c4edee316b4e0d4716399d963794561dffcc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.74/SLES_533.74_BG_00.png"
+    },
+    "gameId": "SLES_533.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.74/SLES_533.74_BG.png",
+      "kind": "background",
+      "bytes": 190883,
+      "width": 640,
+      "height": 480,
+      "sha256": "a0bc7f141337c4858fd11d834925c4edee316b4e0d4716399d963794561dffcc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.74/SLES_533.74_BG_00.png"
+      },
+      "gameId": "SLES_533.74"
+    },
+    {
+      "path": "PS2/SLES_533.74/SLES_533.74_BG_01.png",
+      "kind": "background",
+      "bytes": 195896,
+      "width": 640,
+      "height": 480,
+      "sha256": "1e36a65eeab84e2dfc82af7088064c593a6e19ceed2fbc74b7bc786a850a5798",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.74/SLES_533.74_BG_01.png"
+      },
+      "gameId": "SLES_533.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "X-Men Legends II - Rise of the Apocalypse"
+}

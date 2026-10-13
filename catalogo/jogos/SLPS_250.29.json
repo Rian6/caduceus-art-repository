@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.29",
+  "cover": {
+    "path": "PS2/SLPS_250.29/SLPS_250.29_COV.png",
+    "kind": "cover",
+    "bytes": 100366,
+    "width": 192,
+    "height": 272,
+    "sha256": "e73887721e0faf3e989ffbad6c3b97347200e4d73594e077db19c55076a875d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25029.jpg"
+    },
+    "gameId": "SLPS_250.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rayman Revolution"
+}

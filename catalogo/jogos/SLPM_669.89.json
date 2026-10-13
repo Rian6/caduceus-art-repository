@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.89",
+  "cover": {
+    "path": "PS2/SLPM_669.89/SLPM_669.89_COV.png",
+    "kind": "cover",
+    "bytes": 111227,
+    "width": 192,
+    "height": 272,
+    "sha256": "654e47b47e35dd37cb9d5200e95d8df35c2847de3fafa3d18f7d76b8aa267fed",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66989.jpg"
+    },
+    "gameId": "SLPM_669.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CASTLE FANTASIA - ARIHATO SENKI [BEST EDITION]"
+}

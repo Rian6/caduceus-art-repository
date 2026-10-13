@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.79",
+  "cover": {
+    "path": "PS2/SLPS_251.79/SLPS_251.79_COV.png",
+    "kind": "cover",
+    "bytes": 100574,
+    "width": 192,
+    "height": 272,
+    "sha256": "9a83279cf50ea7a58f7f610700fd843574bc39a2be1cdb09a15b3bf79fff3eee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25179.jpg"
+    },
+    "gameId": "SLPS_251.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fifa 2003 - Europe Soccer"
+}

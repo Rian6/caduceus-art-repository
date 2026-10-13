@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.07",
+  "cover": {
+    "path": "PS2/SCAJ_200.07/SCAJ_200.07_COV.png",
+    "kind": "cover",
+    "bytes": 48917,
+    "width": 192,
+    "height": 272,
+    "sha256": "a4b5bcfd5934c1cf8dbef0421bda52e33344734b2bdd8832154cb5a189b192ad",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCAJ_200.07/SCAJ_200.07_COV.png"
+    },
+    "gameId": "SCAJ_200.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "XI Go"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.50",
+  "cover": {
+    "path": "PS2/SLPM_660.50/SLPM_660.50_COV.png",
+    "kind": "cover",
+    "bytes": 101591,
+    "width": 192,
+    "height": 272,
+    "sha256": "07e931994292f12785e18cb09465f33925cfa99f4164a6393bdbb1c908e465bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66050.jpg"
+    },
+    "gameId": "SLPM_660.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Daisan Teikoku Koubouki II - Aufstieg und Fall des Dritten Reiches"
+}

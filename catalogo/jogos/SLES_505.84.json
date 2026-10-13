@@ -1,0 +1,65 @@
+{
+  "id": "SLES_505.84",
+  "cover": {
+    "path": "PS2/SLES_505.84/SLES_505.84_COV.png",
+    "kind": "cover",
+    "bytes": 94967,
+    "width": 192,
+    "height": 272,
+    "sha256": "42bd549df2271d19de68042416d05b71125e57aaf063b227438e5360f075d32f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50584.jpg"
+    },
+    "gameId": "SLES_505.84"
+  },
+  "disc": {
+    "path": "PS2/SLES_505.84/SLES_505.84_ICO.png",
+    "kind": "disc",
+    "bytes": 10641,
+    "width": 128,
+    "height": 128,
+    "sha256": "170604e3fde8cc3176238f7056befc50a9de8ffd9f2fcdfc3a836d456bd9d47e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_505.84_ICO.png"
+    },
+    "gameId": "SLES_505.84"
+  },
+  "background": {
+    "path": "PS2/SLES_505.84/SLES_505.84_BG.png",
+    "kind": "background",
+    "bytes": 179883,
+    "width": 640,
+    "height": 480,
+    "sha256": "3da3d887612e26c0db8197e292bfe44b536691f9efd81c3d3468e2638dda426e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_505.84/SLES_505.84_BG_00.png"
+    },
+    "gameId": "SLES_505.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_505.84/SLES_505.84_BG.png",
+      "kind": "background",
+      "bytes": 179883,
+      "width": 640,
+      "height": 480,
+      "sha256": "3da3d887612e26c0db8197e292bfe44b536691f9efd81c3d3468e2638dda426e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.84/SLES_505.84_BG_00.png"
+      },
+      "gameId": "SLES_505.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "G1 Jockey"
+}

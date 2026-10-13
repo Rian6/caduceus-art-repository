@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.02",
+  "cover": {
+    "path": "PS2/SCPS_550.02/SCPS_550.02_COV.png",
+    "kind": "cover",
+    "bytes": 94425,
+    "width": 192,
+    "height": 272,
+    "sha256": "15b546367c9c017336068bad6aba104b9156e26f188cd528fa9ed863ea9383ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55002.jpg"
+    },
+    "gameId": "SCPS_550.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZERO"
+}

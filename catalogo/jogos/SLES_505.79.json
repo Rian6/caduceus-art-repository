@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.79",
+  "cover": {
+    "path": "PS2/SLES_505.79/SLES_505.79_COV.png",
+    "kind": "cover",
+    "bytes": 97767,
+    "width": 192,
+    "height": 272,
+    "sha256": "6ff6ee6eabc143f420261f52899e32b5fe2d1e1c8989208934d06b5365f2b2be",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50579.jpg"
+    },
+    "gameId": "SLES_505.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kessen II"
+}

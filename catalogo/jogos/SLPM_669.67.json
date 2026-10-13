@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.67",
+  "cover": {
+    "path": "PS2/SLPM_669.67/SLPM_669.67_COV.png",
+    "kind": "cover",
+    "bytes": 103164,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0d7fa23c5c83bfe378ee86dd79f049260782e82a15017aadf380290c861fdb2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66967.jpg"
+    },
+    "gameId": "SLPM_669.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ARIA THE NATURAL ~TOOI YUME NO MIRAGE~ [ALCHEMIST BEST COLLECTION]"
+}

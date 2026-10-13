@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.55",
+  "cover": {
+    "path": "PS2/SLPM_669.55/SLPM_669.55_COV.png",
+    "kind": "cover",
+    "bytes": 65042,
+    "width": 192,
+    "height": 272,
+    "sha256": "cc552af2aa9516e5c585fc0c8e09780ac291d90680eb3086f93def3363eb4e0e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66955.jpg"
+    },
+    "gameId": "SLPM_669.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NEO ANGELIQUE - FULL VOICE [Premium Box]"
+}

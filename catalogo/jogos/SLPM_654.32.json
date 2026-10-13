@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_654.32",
+  "cover": {
+    "path": "PS2/SLPM_654.32/SLPM_654.32_COV.png",
+    "kind": "cover",
+    "bytes": 89966,
+    "width": 192,
+    "height": 272,
+    "sha256": "70bab3a4e479748cbcfcf069c0c1199b437238b444629cdfcef48842f4c08643",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65432.jpg"
+    },
+    "gameId": "SLPM_654.32"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_654.32/SLPM_654.32_BG.png",
+    "kind": "background",
+    "bytes": 81053,
+    "width": 640,
+    "height": 480,
+    "sha256": "32836b28bc2ee8be5008db7fd46d1f8ce4265803fb35f41fc8c4160030c5fda6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.32/SLPM_654.32_BG_00.png"
+    },
+    "gameId": "SLPM_654.32"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.32/SLPM_654.32_BG.png",
+      "kind": "background",
+      "bytes": 81053,
+      "width": 640,
+      "height": 480,
+      "sha256": "32836b28bc2ee8be5008db7fd46d1f8ce4265803fb35f41fc8c4160030c5fda6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.32/SLPM_654.32_BG_00.png"
+      },
+      "gameId": "SLPM_654.32"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "J-League Winning Eleven Tactics"
+}

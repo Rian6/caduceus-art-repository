@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_203.31",
+  "cover": {
+    "path": "PS2/SLUS_203.31/SLUS_203.31_COV.png",
+    "kind": "cover",
+    "bytes": 88416,
+    "width": 192,
+    "height": 272,
+    "sha256": "f11575fd744c04f16e801a6e15c0e9252d1bae49478ecb07c0853d94e1312e29",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20331.jpg"
+    },
+    "gameId": "SLUS_203.31"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.31/SLUS_203.31_ICO.png",
+    "kind": "disc",
+    "bytes": 35153,
+    "width": 256,
+    "height": 256,
+    "sha256": "0dfd2ec88244dc93fdd622005af6e893dbbe19bc25e2bdd6b17bcd56b0bf623a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.31_ICO.png"
+    },
+    "gameId": "SLUS_203.31"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.31/SLUS_203.31_BG.png",
+    "kind": "background",
+    "bytes": 165661,
+    "width": 640,
+    "height": 480,
+    "sha256": "c9f3d2dfc9a265e14638c056383e4a4a2fc605d5563678f0067494627bcf4f5f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.31/SLUS_203.31_BG_00.png"
+    },
+    "gameId": "SLUS_203.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.31/SLUS_203.31_BG.png",
+      "kind": "background",
+      "bytes": 165661,
+      "width": 640,
+      "height": 480,
+      "sha256": "c9f3d2dfc9a265e14638c056383e4a4a2fc605d5563678f0067494627bcf4f5f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.31/SLUS_203.31_BG_00.png"
+      },
+      "gameId": "SLUS_203.31"
+    },
+    {
+      "path": "PS2/SLUS_203.31/SLUS_203.31_BG_01.png",
+      "kind": "background",
+      "bytes": 156940,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e5fb0cf186f7e207a688dfb1066aa5e3231bffc2db399e4b99d469aafc59325",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.31/SLUS_203.31_BG_01.png"
+      },
+      "gameId": "SLUS_203.31"
+    },
+    {
+      "path": "PS2/SLUS_203.31/SLUS_203.31_BG_02.png",
+      "kind": "background",
+      "bytes": 202705,
+      "width": 640,
+      "height": 480,
+      "sha256": "b8df73e1c37d17f35a3a314e1b9866ad52cc97cfce34705c6dd1b44145a6f465",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.31/SLUS_203.31_BG_02.png"
+      },
+      "gameId": "SLUS_203.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Minority Report: Everybody Runs"
+}

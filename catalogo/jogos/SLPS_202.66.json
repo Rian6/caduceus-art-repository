@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.66",
+  "cover": {
+    "path": "PS2/SLPS_202.66/SLPS_202.66_COV.png",
+    "kind": "cover",
+    "bytes": 105212,
+    "width": 192,
+    "height": 272,
+    "sha256": "3964c993e90ff433ef708593d581373b5353a39df2d3375456bfaf6801656de6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20266.jpg"
+    },
+    "gameId": "SLPS_202.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Baskelian"
+}

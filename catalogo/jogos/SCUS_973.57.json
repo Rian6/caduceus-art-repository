@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_973.57",
+  "cover": {
+    "path": "PS2/SCUS_973.57/SCUS_973.57_COV.png",
+    "kind": "cover",
+    "bytes": 68812,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c7416f44ca494115381875108fa8b051a9a9c8c86ec1cb6b4724a4d99f9935a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97357.jpg"
+    },
+    "gameId": "SCUS_973.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Online Start-Up Disc 4.0"
+}

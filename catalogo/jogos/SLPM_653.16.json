@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_653.16",
+  "cover": {
+    "path": "PS2/SLPM_653.16/SLPM_653.16_COV.png",
+    "kind": "cover",
+    "bytes": 97919,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b7f6c37477348c4cc7e141630a41f5c7fbcfc915cc30fceb312fb1193e3102c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65316.jpg"
+    },
+    "gameId": "SLPM_653.16"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_653.16/SLPM_653.16_BG.png",
+    "kind": "background",
+    "bytes": 174291,
+    "width": 640,
+    "height": 480,
+    "sha256": "915b814d8cb0e859c8fe224fbb8fd591c9fe3ac293da4ea8032f9921f6731586",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_653.16/SLPM_653.16_BG_00.png"
+    },
+    "gameId": "SLPM_653.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_653.16/SLPM_653.16_BG.png",
+      "kind": "background",
+      "bytes": 174291,
+      "width": 640,
+      "height": 480,
+      "sha256": "915b814d8cb0e859c8fe224fbb8fd591c9fe3ac293da4ea8032f9921f6731586",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_653.16/SLPM_653.16_BG_00.png"
+      },
+      "gameId": "SLPM_653.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pop'n'Music 8"
+}

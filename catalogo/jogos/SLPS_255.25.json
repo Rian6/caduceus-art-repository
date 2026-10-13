@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_255.25",
+  "cover": {
+    "path": "PS2/SLPS_255.25/SLPS_255.25_COV.png",
+    "kind": "cover",
+    "bytes": 101629,
+    "width": 192,
+    "height": 272,
+    "sha256": "4e533e8d14282e43b8fda3a7bb8a535d7871864b8ff5ad20dceaeeaf6d5d8a10",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25525.jpg"
+    },
+    "gameId": "SLPS_255.25"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_255.25/SLPS_255.25_BG.png",
+    "kind": "background",
+    "bytes": 136406,
+    "width": 640,
+    "height": 480,
+    "sha256": "3fd98bb3ca17250dd5258cdb4f20abe24d1224d69be07a5b8851ca64d9f324d6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.25/SLPS_255.25_BG_00.png"
+    },
+    "gameId": "SLPS_255.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.25/SLPS_255.25_BG.png",
+      "kind": "background",
+      "bytes": 136406,
+      "width": 640,
+      "height": 480,
+      "sha256": "3fd98bb3ca17250dd5258cdb4f20abe24d1224d69be07a5b8851ca64d9f324d6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.25/SLPS_255.25_BG_00.png"
+      },
+      "gameId": "SLPS_255.25"
+    },
+    {
+      "path": "PS2/SLPS_255.25/SLPS_255.25_BG_01.png",
+      "kind": "background",
+      "bytes": 198039,
+      "width": 640,
+      "height": 480,
+      "sha256": "9c284198f63fc63bd79b1773e0ea77e51008cf631a02ffd8084e1d72c80d046c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.25/SLPS_255.25_BG_01.png"
+      },
+      "gameId": "SLPS_255.25"
+    },
+    {
+      "path": "PS2/SLPS_255.25/SLPS_255.25_BG_02.png",
+      "kind": "background",
+      "bytes": 174462,
+      "width": 640,
+      "height": 480,
+      "sha256": "12e10a904dc040df705109c7ac54ffa85648068c5a0235096e3a64d849d6dcf9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.25/SLPS_255.25_BG_02.png"
+      },
+      "gameId": "SLPS_255.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters NeoWave"
+}

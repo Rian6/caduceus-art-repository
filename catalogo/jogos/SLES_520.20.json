@@ -1,0 +1,64 @@
+{
+  "id": "SLES_520.20",
+  "cover": {
+    "path": "PS2/SLES_520.20/SLES_520.20_COV.png",
+    "kind": "cover",
+    "bytes": 101597,
+    "width": 192,
+    "height": 272,
+    "sha256": "9965c3d29d1d10dd8d9ee25753707b20a7e7ca5402526c3d5c97919588fb9637",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52020.jpg"
+    },
+    "gameId": "SLES_520.20"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_520.20/SLES_520.20_BG.png",
+    "kind": "background",
+    "bytes": 210292,
+    "width": 640,
+    "height": 480,
+    "sha256": "4c2c617cded320352969beb51f0c2a950c31a877f16a87660573f122aa2527fa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_520.20/SLES_520.20_BG_00.png"
+    },
+    "gameId": "SLES_520.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_520.20/SLES_520.20_BG.png",
+      "kind": "background",
+      "bytes": 210292,
+      "width": 640,
+      "height": 480,
+      "sha256": "4c2c617cded320352969beb51f0c2a950c31a877f16a87660573f122aa2527fa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.20/SLES_520.20_BG_00.png"
+      },
+      "gameId": "SLES_520.20"
+    },
+    {
+      "path": "PS2/SLES_520.20/SLES_520.20_BG_01.png",
+      "kind": "background",
+      "bytes": 213945,
+      "width": 640,
+      "height": 480,
+      "sha256": "efcad28c2388f20139159467462c9d87e22bdfe068b5368064c2ca9cd70c1877",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.20/SLES_520.20_BG_01.png"
+      },
+      "gameId": "SLES_520.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "El Señor de los Anillos: El Retorno del Rey"
+}

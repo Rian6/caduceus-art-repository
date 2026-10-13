@@ -1,0 +1,51 @@
+{
+  "id": "SCAJ_300.07",
+  "cover": {
+    "path": "PS2/SCAJ_300.07/SCAJ_300.07_COV.png",
+    "kind": "cover",
+    "bytes": 51221,
+    "width": 192,
+    "height": 272,
+    "sha256": "ab9c9ad9451e3d3d9dc03e46fe761c7e57371e4264dc33ffb0f7bbcc5d4f6e9f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-30007.jpg"
+    },
+    "gameId": "SCAJ_300.07"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCAJ_300.07/SCAJ_300.07_BG.png",
+    "kind": "background",
+    "bytes": 187090,
+    "width": 640,
+    "height": 480,
+    "sha256": "22fc7835c956fcdec4fff3186981c77da23f07d1d1e982b125e7fbced90f6f63",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCAJ_300.07/SCAJ_300.07_BG_00.png"
+    },
+    "gameId": "SCAJ_300.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCAJ_300.07/SCAJ_300.07_BG.png",
+      "kind": "background",
+      "bytes": 187090,
+      "width": 640,
+      "height": 480,
+      "sha256": "22fc7835c956fcdec4fff3186981c77da23f07d1d1e982b125e7fbced90f6f63",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_300.07/SCAJ_300.07_BG_00.png"
+      },
+      "gameId": "SCAJ_300.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 4"
+}

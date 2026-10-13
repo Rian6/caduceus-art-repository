@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.57",
+  "cover": {
+    "path": "PS2/SLPS_201.57/SLPS_201.57_COV.png",
+    "kind": "cover",
+    "bytes": 74178,
+    "width": 192,
+    "height": 272,
+    "sha256": "9cef30c263029ba5c7c5f82bfbb933e50e3d8aa1c6d24af1e74dbd0b96586d2f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20157.jpg"
+    },
+    "gameId": "SLPS_201.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin: CR Nettou Power Pro Kun"
+}

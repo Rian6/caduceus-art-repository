@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.38",
+  "cover": {
+    "path": "PS2/SCAJ_201.38/SCAJ_201.38_COV.png",
+    "kind": "cover",
+    "bytes": 99300,
+    "width": 192,
+    "height": 272,
+    "sha256": "9f42a08bd631a71414c6db5f38e7d961466e6dc188a81de8d6b559715e0a226d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20138.jpg"
+    },
+    "gameId": "SCAJ_201.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SARU! GET YOU! 3"
+}

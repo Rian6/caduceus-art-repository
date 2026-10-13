@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.86",
+  "cover": {
+    "path": "PS2/SLES_510.86/SLES_510.86_COV.png",
+    "kind": "cover",
+    "bytes": 77714,
+    "width": 192,
+    "height": 272,
+    "sha256": "71d1077b3b55e2d9653123d4c86c922a5537d992b1ae43d3374edbf50ee2138e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51086.jpg"
+    },
+    "gameId": "SLES_510.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - CHELSEA"
+}

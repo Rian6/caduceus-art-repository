@@ -1,0 +1,24 @@
+{
+  "id": "CZP2_011.01",
+  "cover": {
+    "path": "PS2/CZP2_011.01/CZP2_011.01_COV.png",
+    "kind": "cover",
+    "bytes": 105630,
+    "width": 192,
+    "height": 272,
+    "sha256": "96eaa8f6758d2e9c98988a20a6c40cb306e1015bc27d1f4d352405d01796af83",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/CZP2-01101.jpg"
+    },
+    "gameId": "CZP2_011.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

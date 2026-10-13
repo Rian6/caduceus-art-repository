@@ -1,0 +1,64 @@
+{
+  "id": "SCES_534.22",
+  "cover": {
+    "path": "PS2/SCES_534.22/SCES_534.22_COV.png",
+    "kind": "cover",
+    "bytes": 99170,
+    "width": 192,
+    "height": 272,
+    "sha256": "e8ca5e9501fe9cbfdc74ba549a6794c9352d21870849c9c09c54730357f397ca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53422.jpg"
+    },
+    "gameId": "SCES_534.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_534.22/SCES_534.22_BG.png",
+    "kind": "background",
+    "bytes": 171070,
+    "width": 640,
+    "height": 480,
+    "sha256": "1f4236d7694889fcd2e5e1859ce8064ce4af319835fdb9c6e97cb41e1dc21903",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_534.22/SCES_534.22_BG_00.png"
+    },
+    "gameId": "SCES_534.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_534.22/SCES_534.22_BG.png",
+      "kind": "background",
+      "bytes": 171070,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f4236d7694889fcd2e5e1859ce8064ce4af319835fdb9c6e97cb41e1dc21903",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_534.22/SCES_534.22_BG_00.png"
+      },
+      "gameId": "SCES_534.22"
+    },
+    {
+      "path": "PS2/SCES_534.22/SCES_534.22_BG_01.png",
+      "kind": "background",
+      "bytes": 169027,
+      "width": 640,
+      "height": 480,
+      "sha256": "1ca3176e0715a037a52f544bd956c19939f06a57d0c7a40a6ce70f86f272663c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_534.22/SCES_534.22_BG_01.png"
+      },
+      "gameId": "SCES_534.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Stuart Little 3: Big Photo Adventure"
+}

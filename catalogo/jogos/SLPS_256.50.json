@@ -1,0 +1,104 @@
+{
+  "id": "SLPS_256.50",
+  "cover": {
+    "path": "PS2/SLPS_256.50/SLPS_256.50_COV.png",
+    "kind": "cover",
+    "bytes": 106357,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc819df82aa78b1abf976c33722b05874fd037c9e50e10807b45ac261f227361",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25650.jpg"
+    },
+    "gameId": "SLPS_256.50"
+  },
+  "disc": {
+    "path": "PS2/SLPS_256.50/SLPS_256.50_ICO.png",
+    "kind": "disc",
+    "bytes": 33966,
+    "width": 128,
+    "height": 128,
+    "sha256": "1a605908d1de8b92973631d6c5d55131085ec99a129491881604535eaabd5192",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_256.50_ICO.png"
+    },
+    "gameId": "SLPS_256.50"
+  },
+  "background": {
+    "path": "PS2/SLPS_256.50/SLPS_256.50_BG.png",
+    "kind": "background",
+    "bytes": 190829,
+    "width": 640,
+    "height": 480,
+    "sha256": "ed5a7873b3577470efd0813186f2db388bb99ebc8202923c30ac85543e243812",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.50/SLPS_256.50_BG_00.png"
+    },
+    "gameId": "SLPS_256.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.50/SLPS_256.50_BG.png",
+      "kind": "background",
+      "bytes": 190829,
+      "width": 640,
+      "height": 480,
+      "sha256": "ed5a7873b3577470efd0813186f2db388bb99ebc8202923c30ac85543e243812",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.50/SLPS_256.50_BG_00.png"
+      },
+      "gameId": "SLPS_256.50"
+    },
+    {
+      "path": "PS2/SLPS_256.50/SLPS_256.50_BG_01.png",
+      "kind": "background",
+      "bytes": 212900,
+      "width": 640,
+      "height": 480,
+      "sha256": "0f2aa377e3655639f540b7a3cf2d3eb1ecf123cdaefddbc10d5e6fbfdc5a5d45",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.50/SLPS_256.50_BG_01.png"
+      },
+      "gameId": "SLPS_256.50"
+    },
+    {
+      "path": "PS2/SLPS_256.50/SLPS_256.50_BG_02.png",
+      "kind": "background",
+      "bytes": 222009,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac477c9ecfe772c6dfacbaaad7417b7b35663f317756ef86e9ba8326bd851739",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.50/SLPS_256.50_BG_02.png"
+      },
+      "gameId": "SLPS_256.50"
+    },
+    {
+      "path": "PS2/SLPS_256.50/SLPS_256.50_BG_03.png",
+      "kind": "background",
+      "bytes": 192156,
+      "width": 640,
+      "height": 480,
+      "sha256": "fa5d05d50972b26c6e4f4be4e6845b8dbcadc70032c0176513dafb386f216152",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.50/SLPS_256.50_BG_03.png"
+      },
+      "gameId": "SLPS_256.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL SLUG 3D"
+}

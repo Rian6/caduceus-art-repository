@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.06",
+  "cover": {
+    "path": "PS2/SLPS_255.06/SLPS_255.06_COV.png",
+    "kind": "cover",
+    "bytes": 106561,
+    "width": 192,
+    "height": 272,
+    "sha256": "9c830ee58dd01128d7ab74f32607b8e6f23318c323ecf03ae9d440f395ce7f8c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25506.jpg"
+    },
+    "gameId": "SLPS_255.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FOR SYMPHONY ~WITH ALL ONE'S HEART~"
+}

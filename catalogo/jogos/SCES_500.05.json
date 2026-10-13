@@ -1,0 +1,51 @@
+{
+  "id": "SCES_500.05",
+  "cover": {
+    "path": "PS2/SCES_500.05/SCES_500.05_COV.png",
+    "kind": "cover",
+    "bytes": 94754,
+    "width": 192,
+    "height": 272,
+    "sha256": "013e8541c82bddbf4508ef0170b0ee57dca0f6737246f287822b42c637488b4f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50005.jpg"
+    },
+    "gameId": "SCES_500.05"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_500.05/SCES_500.05_BG.png",
+    "kind": "background",
+    "bytes": 164871,
+    "width": 640,
+    "height": 480,
+    "sha256": "01ca97ecb8ec33558f7fefedba3e8665df924d0ef14a4750009fa82352f6bed6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_500.05/SCES_500.05_BG_00.png"
+    },
+    "gameId": "SCES_500.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_500.05/SCES_500.05_BG.png",
+      "kind": "background",
+      "bytes": 164871,
+      "width": 640,
+      "height": 480,
+      "sha256": "01ca97ecb8ec33558f7fefedba3e8665df924d0ef14a4750009fa82352f6bed6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_500.05/SCES_500.05_BG_00.png"
+      },
+      "gameId": "SCES_500.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wipeout Fusion"
+}

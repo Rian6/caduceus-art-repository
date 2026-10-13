@@ -1,0 +1,194 @@
+{
+  "id": "SLES_537.02",
+  "cover": {
+    "path": "PS2/SLES_537.02/SLES_537.02_COV.png",
+    "kind": "cover",
+    "bytes": 86147,
+    "width": 192,
+    "height": 272,
+    "sha256": "8cdac62e48d862b2e4509116ad17117d6f296c6215b7274629dbf8b35412f2dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53702.jpg"
+    },
+    "gameId": "SLES_537.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.02/SLES_537.02_BG.png",
+    "kind": "background",
+    "bytes": 178287,
+    "width": 640,
+    "height": 480,
+    "sha256": "f209351e8c60d3c5dcc5d96ea201804c2feeca7b3ae90cf622f27357bf4c0f6f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.02/SLES_537.02_BG_00.png"
+    },
+    "gameId": "SLES_537.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.02/SLES_537.02_BG.png",
+      "kind": "background",
+      "bytes": 178287,
+      "width": 640,
+      "height": 480,
+      "sha256": "f209351e8c60d3c5dcc5d96ea201804c2feeca7b3ae90cf622f27357bf4c0f6f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.02/SLES_537.02_BG_00.png"
+      },
+      "gameId": "SLES_537.02"
+    },
+    {
+      "path": "PS2/SLES_537.02/SLES_537.02_BG_01.png",
+      "kind": "background",
+      "bytes": 218735,
+      "width": 640,
+      "height": 480,
+      "sha256": "d53469b13906c88d9552a0022c5b246a7fd94e2f812117d194a3f247315e50c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.02/SLES_537.02_BG_01.png"
+      },
+      "gameId": "SLES_537.02"
+    },
+    {
+      "path": "PS2/SLES_537.02/SLES_537.02_BG_02.png",
+      "kind": "background",
+      "bytes": 240314,
+      "width": 640,
+      "height": 480,
+      "sha256": "a118482e93b636c7c122000b1c563c0cb7d3dcb3c4c063cee1d759e2749476cb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.02/SLES_537.02_BG_02.png"
+      },
+      "gameId": "SLES_537.02"
+    },
+    {
+      "path": "PS2/SLES_537.02/SLES_537.02_BG_03.png",
+      "kind": "background",
+      "bytes": 173407,
+      "width": 640,
+      "height": 480,
+      "sha256": "b8dea2850cdcf489c0686bac6ecccd411b3da7736b251d625d5e23d8b314b25b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.02/SLES_537.02_BG_03.png"
+      },
+      "gameId": "SLES_537.02"
+    },
+    {
+      "path": "PS2/SLES_537.02/SLES_537.02_BG_04.png",
+      "kind": "background",
+      "bytes": 201193,
+      "width": 640,
+      "height": 480,
+      "sha256": "43ee16fe4d5cc2622b17b0e9df4efbae4d1eda71dc7511ee80b0c734c1985faf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.02/SLES_537.02_BG_04.png"
+      },
+      "gameId": "SLES_537.02"
+    },
+    {
+      "path": "PS2/SLES_537.02/SLES_537.02_BG_05.png",
+      "kind": "background",
+      "bytes": 164348,
+      "width": 640,
+      "height": 480,
+      "sha256": "5b32ff8dfb67fc0db2f0571e8a3d7ff803d24ebef3443a2191634208a0237157",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.02/SLES_537.02_BG_05.png"
+      },
+      "gameId": "SLES_537.02"
+    },
+    {
+      "path": "PS2/SLES_537.02/SLES_537.02_BG_06.png",
+      "kind": "background",
+      "bytes": 168221,
+      "width": 640,
+      "height": 480,
+      "sha256": "ae980d715d832324de8dcf31cafd03c737eb3089af037d62987353aae26832de",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.02/SLES_537.02_BG_06.png"
+      },
+      "gameId": "SLES_537.02"
+    },
+    {
+      "path": "PS2/SLES_537.02/SLES_537.02_BG_07.png",
+      "kind": "background",
+      "bytes": 200775,
+      "width": 640,
+      "height": 480,
+      "sha256": "66d7203feb5b5fdb6db37b3075f965582b68c90aa9cca45313d6f2309e3596a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.02/SLES_537.02_BG_07.png"
+      },
+      "gameId": "SLES_537.02"
+    },
+    {
+      "path": "PS2/SLES_537.02/SLES_537.02_BG_08.png",
+      "kind": "background",
+      "bytes": 192867,
+      "width": 640,
+      "height": 480,
+      "sha256": "21c76ee1f375c97f40045d99ec4ce4d388d1a41702c11cfeca304939d2c3cd16",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.02/SLES_537.02_BG_08.png"
+      },
+      "gameId": "SLES_537.02"
+    },
+    {
+      "path": "PS2/SLES_537.02/SLES_537.02_BG_09.png",
+      "kind": "background",
+      "bytes": 218222,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9f4531695e9383b4838af33bdf67922b19ac1dee530a31994c8eee0dcfd2f89",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.02/SLES_537.02_BG_09.png"
+      },
+      "gameId": "SLES_537.02"
+    },
+    {
+      "path": "PS2/SLES_537.02/SLES_537.02_BG_10.png",
+      "kind": "background",
+      "bytes": 162977,
+      "width": 640,
+      "height": 480,
+      "sha256": "0018ae79c1b1e8e85c52e4af39d4ab634766268e515b25d4c3ad0b6f42cec757",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.02/SLES_537.02_BG_10.png"
+      },
+      "gameId": "SLES_537.02"
+    },
+    {
+      "path": "PS2/SLES_537.02/SLES_537.02_BG_11.png",
+      "kind": "background",
+      "bytes": 232561,
+      "width": 640,
+      "height": 480,
+      "sha256": "0168c7264f7b4a5a75115a4e30434bf8fc5a4e3519bbb23df1adb15efd65fafd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.02/SLES_537.02_BG_11.png"
+      },
+      "gameId": "SLES_537.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Resident Evil 4"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.44",
+  "cover": {
+    "path": "PS2/SLPM_664.44/SLPM_664.44_COV.png",
+    "kind": "cover",
+    "bytes": 106332,
+    "width": 192,
+    "height": 272,
+    "sha256": "223fcc3e33d955ccf06968ba5719679a224c9670e01634e5ba0a7eec010ada78",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66444.jpg"
+    },
+    "gameId": "SLPM_664.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Spartan - Kodai Greece Eiyuuden"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.25",
+  "cover": {
+    "path": "PS2/SLPS_254.25/SLPS_254.25_COV.png",
+    "kind": "cover",
+    "bytes": 112555,
+    "width": 192,
+    "height": 272,
+    "sha256": "0e00beaf229fc360d914d7ca118c40aae24b911e5478f6a9e6a964b33d5db91f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25425.jpg"
+    },
+    "gameId": "SLPS_254.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SD GUNDAM FORCE - DAIKESSEN! JIGEN KAIZOKU DE SCAR!!"
+}

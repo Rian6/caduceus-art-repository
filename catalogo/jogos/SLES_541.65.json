@@ -1,0 +1,64 @@
+{
+  "id": "SLES_541.65",
+  "cover": {
+    "path": "PS2/SLES_541.65/SLES_541.65_COV.png",
+    "kind": "cover",
+    "bytes": 110188,
+    "width": 192,
+    "height": 272,
+    "sha256": "887bfb72c4e3a59bf9a76de3d80c4e3dff031cee43178bcd9e130e977f177171",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54165.jpg"
+    },
+    "gameId": "SLES_541.65"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.65/SLES_541.65_BG.png",
+    "kind": "background",
+    "bytes": 240690,
+    "width": 640,
+    "height": 480,
+    "sha256": "374497b2cb24775afc626983494575eb1aab15c797a99aa0b5069f6aa1d02028",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.65/SLES_541.65_BG_00.png"
+    },
+    "gameId": "SLES_541.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.65/SLES_541.65_BG.png",
+      "kind": "background",
+      "bytes": 240690,
+      "width": 640,
+      "height": 480,
+      "sha256": "374497b2cb24775afc626983494575eb1aab15c797a99aa0b5069f6aa1d02028",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.65/SLES_541.65_BG_00.png"
+      },
+      "gameId": "SLES_541.65"
+    },
+    {
+      "path": "PS2/SLES_541.65/SLES_541.65_BG_01.png",
+      "kind": "background",
+      "bytes": 204281,
+      "width": 640,
+      "height": 480,
+      "sha256": "daca52aabc2b06ca61f1d686ed79243ca9cfa56b4a3109e062b5b9482c11b012",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.65/SLES_541.65_BG_01.png"
+      },
+      "gameId": "SLES_541.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shonen Jump's One Piece: Grand Adventure"
+}

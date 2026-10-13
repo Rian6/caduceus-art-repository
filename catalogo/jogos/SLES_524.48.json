@@ -1,0 +1,78 @@
+{
+  "id": "SLES_524.48",
+  "cover": {
+    "path": "PS2/SLES_524.48/SLES_524.48_COV.png",
+    "kind": "cover",
+    "bytes": 82272,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e5c1ab33d8a42125efcafd2e8ed60d6b4e3b837e4669db12cae9aa74b4fa17c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52448.jpg"
+    },
+    "gameId": "SLES_524.48"
+  },
+  "disc": {
+    "path": "PS2/SLES_524.48/SLES_524.48_ICO.png",
+    "kind": "disc",
+    "bytes": 12624,
+    "width": 128,
+    "height": 128,
+    "sha256": "bd01a3d1aef8c7f9ff767531ee3f07be9c3ffa6bb0a46a5c58212b2b17949bfd",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_524.48_ICO.png"
+    },
+    "gameId": "SLES_524.48"
+  },
+  "background": {
+    "path": "PS2/SLES_524.48/SLES_524.48_BG.png",
+    "kind": "background",
+    "bytes": 225769,
+    "width": 640,
+    "height": 480,
+    "sha256": "bb26aa589c44a1bfa462358b1fe684951cff631684de81fae0672f1086f68f6a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_524.48/SLES_524.48_BG_00.png"
+    },
+    "gameId": "SLES_524.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_524.48/SLES_524.48_BG.png",
+      "kind": "background",
+      "bytes": 225769,
+      "width": 640,
+      "height": 480,
+      "sha256": "bb26aa589c44a1bfa462358b1fe684951cff631684de81fae0672f1086f68f6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.48/SLES_524.48_BG_00.png"
+      },
+      "gameId": "SLES_524.48"
+    },
+    {
+      "path": "PS2/SLES_524.48/SLES_524.48_BG_01.png",
+      "kind": "background",
+      "bytes": 57735,
+      "width": 640,
+      "height": 480,
+      "sha256": "1b7c37234abf6fff9b48b7bad2b5ef216cbbac7db84f3c014d1e7a9150d78352",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.48/SLES_524.48_BG_01.png"
+      },
+      "gameId": "SLES_524.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KNIGHTS OF THE TEMPLE - INFERNAL CRUSADE"
+}

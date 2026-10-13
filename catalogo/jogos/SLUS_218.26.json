@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_218.26",
+  "cover": {
+    "path": "PS2/SLUS_218.26/SLUS_218.26_COV.png",
+    "kind": "cover",
+    "bytes": 77789,
+    "width": 192,
+    "height": 272,
+    "sha256": "5a140f5b9ea24854634cec42a724cc4b88c54de02ce0ff219ab2d873666767dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21826.jpg"
+    },
+    "gameId": "SLUS_218.26"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.26/SLUS_218.26_ICO.png",
+    "kind": "disc",
+    "bytes": 31239,
+    "width": 256,
+    "height": 256,
+    "sha256": "43435167fad72fc4bd491024619cbefcbbc76b7aeb893eda70e60404f4436396",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.26_ICO.png"
+    },
+    "gameId": "SLUS_218.26"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney Sing It!"
+}

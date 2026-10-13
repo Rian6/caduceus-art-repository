@@ -1,0 +1,51 @@
+{
+  "id": "SLES_549.72",
+  "cover": {
+    "path": "PS2/SLES_549.72/SLES_549.72_COV.png",
+    "kind": "cover",
+    "bytes": 95561,
+    "width": 192,
+    "height": 272,
+    "sha256": "25517a85efb474a36bdfac5f03dd941a9d091e141cb607d5f0f5682130925ee7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54972.jpg"
+    },
+    "gameId": "SLES_549.72"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_549.72/SLES_549.72_BG.png",
+    "kind": "background",
+    "bytes": 201219,
+    "width": 640,
+    "height": 480,
+    "sha256": "8c86ca9478ecd199106c269742544f5b129805fe0c5801da9fb73f97cc9ce970",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.72/SLES_549.72_BG_00.png"
+    },
+    "gameId": "SLES_549.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_549.72/SLES_549.72_BG.png",
+      "kind": "background",
+      "bytes": 201219,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c86ca9478ecd199106c269742544f5b129805fe0c5801da9fb73f97cc9ce970",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.72/SLES_549.72_BG_00.png"
+      },
+      "gameId": "SLES_549.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wild Arms 5"
+}

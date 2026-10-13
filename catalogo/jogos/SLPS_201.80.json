@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.80",
+  "cover": {
+    "path": "PS2/SLPS_201.80/SLPS_201.80_COV.png",
+    "kind": "cover",
+    "bytes": 98336,
+    "width": 192,
+    "height": 272,
+    "sha256": "878f6790dc7cd8e23c1d16007a53504335bc428229c95c6784fbfe82fce608d5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20180.jpg"
+    },
+    "gameId": "SLPS_201.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LAKE MASTERS EX SUPER [REPRINT]"
+}

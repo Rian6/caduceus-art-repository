@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_205.92",
+  "cover": {
+    "path": "PS2/SLUS_205.92/SLUS_205.92_COV.png",
+    "kind": "cover",
+    "bytes": 105875,
+    "width": 192,
+    "height": 272,
+    "sha256": "b39c52393ae404aee4ec2fa06dcc777739590a7a202c6b5090d6f7705d6787af",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20592.jpg"
+    },
+    "gameId": "SLUS_205.92"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.92/SLUS_205.92_ICO.png",
+    "kind": "disc",
+    "bytes": 32213,
+    "width": 256,
+    "height": 256,
+    "sha256": "88ef8b962822d68869d5b413ef5d4ef75151f8969611f375d975d02029ba57ba",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.92_ICO.png"
+    },
+    "gameId": "SLUS_205.92"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.92/SLUS_205.92_BG.png",
+    "kind": "background",
+    "bytes": 183306,
+    "width": 640,
+    "height": 480,
+    "sha256": "11bba33bf171fb4327a56c79ef89f934e2039e4748b74af08e15a963409b45cd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.92/SLUS_205.92_BG_00.png"
+    },
+    "gameId": "SLUS_205.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.92/SLUS_205.92_BG.png",
+      "kind": "background",
+      "bytes": 183306,
+      "width": 640,
+      "height": 480,
+      "sha256": "11bba33bf171fb4327a56c79ef89f934e2039e4748b74af08e15a963409b45cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.92/SLUS_205.92_BG_00.png"
+      },
+      "gameId": "SLUS_205.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HSX: HyperSonic.Xtreme"
+}

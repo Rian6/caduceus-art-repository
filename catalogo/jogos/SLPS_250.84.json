@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.84",
+  "cover": {
+    "path": "PS2/SLPS_250.84/SLPS_250.84_COV.png",
+    "kind": "cover",
+    "bytes": 108192,
+    "width": 192,
+    "height": 272,
+    "sha256": "3937a9f1c4959a5047eadd9ef1cdfd6d15046a39ca1a736b87a7f64871204179",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25084.jpg"
+    },
+    "gameId": "SLPS_250.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Thunderstrike - Operation Phoenix"
+}

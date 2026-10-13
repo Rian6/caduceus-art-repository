@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_252.71",
+  "cover": {
+    "path": "PS2/SLKA_252.71/SLKA_252.71_COV.png",
+    "kind": "cover",
+    "bytes": 86002,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e6d51ac7b90b2bb9615c5f10c81abfba8806b3630e8937d5942efee1b41fe10",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25271.jpg"
+    },
+    "gameId": "SLKA_252.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_252.71/SLKA_252.71_BG.png",
+    "kind": "background",
+    "bytes": 154117,
+    "width": 640,
+    "height": 480,
+    "sha256": "562d4baee4e6c52b863445ba23fd2f10fc5c881db99e02a8d2895e8ce0857c6a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.71/SLKA_252.71_BG_00.png"
+    },
+    "gameId": "SLKA_252.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_252.71/SLKA_252.71_BG.png",
+      "kind": "background",
+      "bytes": 154117,
+      "width": 640,
+      "height": 480,
+      "sha256": "562d4baee4e6c52b863445ba23fd2f10fc5c881db99e02a8d2895e8ce0857c6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_252.71/SLKA_252.71_BG_00.png"
+      },
+      "gameId": "SLKA_252.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harry Potter And The Order Of The Phoenix"
+}

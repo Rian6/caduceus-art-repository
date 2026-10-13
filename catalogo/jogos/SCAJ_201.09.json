@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.09",
+  "cover": {
+    "path": "PS2/SCAJ_201.09/SCAJ_201.09_COV.png",
+    "kind": "cover",
+    "bytes": 101220,
+    "width": 192,
+    "height": 272,
+    "sha256": "7fe0dd1adc7539f449616a5dbd9bc88183bccb754aa4110cc58787495e2911c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20109.jpg"
+    },
+    "gameId": "SCAJ_201.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ratchet & Clank 3"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_650.06",
+  "cover": {
+    "path": "PS2/SLPM_650.06/SLPM_650.06_COV.png",
+    "kind": "cover",
+    "bytes": 95025,
+    "width": 192,
+    "height": 272,
+    "sha256": "152aba655657de7bef77cb90b52463a00db380c8d89d4d07fcec64ae06d61a55",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65006.jpg"
+    },
+    "gameId": "SLPM_650.06"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_650.06/SLPM_650.06_BG.png",
+    "kind": "background",
+    "bytes": 180248,
+    "width": 640,
+    "height": 480,
+    "sha256": "9a4eb3d45b0532c371ccf52fd6f799088ef9a47a80feeb790e6a2d2c25141d8b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_650.06/SLPM_650.06_BG_00.png"
+    },
+    "gameId": "SLPM_650.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_650.06/SLPM_650.06_BG.png",
+      "kind": "background",
+      "bytes": 180248,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a4eb3d45b0532c371ccf52fd6f799088ef9a47a80feeb790e6a2d2c25141d8b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.06/SLPM_650.06_BG_00.png"
+      },
+      "gameId": "SLPM_650.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Beatmania IIDX - 3rd Style"
+}

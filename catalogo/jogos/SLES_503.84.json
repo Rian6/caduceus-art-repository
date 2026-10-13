@@ -1,0 +1,51 @@
+{
+  "id": "SLES_503.84",
+  "cover": {
+    "path": "PS2/SLES_503.84/SLES_503.84_COV.png",
+    "kind": "cover",
+    "bytes": 101082,
+    "width": 192,
+    "height": 272,
+    "sha256": "b9318e3cf1e219a5191e3c9c4628001bbd6a9e8cd15355c913c71eeb2bc53a48",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50384.jpg"
+    },
+    "gameId": "SLES_503.84"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_503.84/SLES_503.84_BG.png",
+    "kind": "background",
+    "bytes": 94174,
+    "width": 640,
+    "height": 480,
+    "sha256": "348b785ec12ea0fecaccbd7db323bc1a504db0e5f935781a8e375b64ec168960",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_503.84/SLES_503.84_BG_00.png"
+    },
+    "gameId": "SLES_503.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_503.84/SLES_503.84_BG.png",
+      "kind": "background",
+      "bytes": 94174,
+      "width": 640,
+      "height": 480,
+      "sha256": "348b785ec12ea0fecaccbd7db323bc1a504db0e5f935781a8e375b64ec168960",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.84/SLES_503.84_BG_00.png"
+      },
+      "gameId": "SLES_503.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Metal Gear Solid 2: Sons of Liberty"
+}

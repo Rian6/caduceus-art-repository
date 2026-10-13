@@ -1,0 +1,25 @@
+{
+  "id": "SLES_544.58",
+  "cover": {
+    "path": "PS2/SLES_544.58/SLES_544.58_COV.png",
+    "kind": "cover",
+    "bytes": 99869,
+    "width": 192,
+    "height": 272,
+    "sha256": "03423c6ec32d8bf6c89c9e3d820e41793db3fcb1424549ec386a524aabd99ddf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54458.jpg"
+    },
+    "gameId": "SLES_544.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PARTY CARNIVAL"
+}

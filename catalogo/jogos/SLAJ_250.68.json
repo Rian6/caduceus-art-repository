@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.68",
+  "cover": {
+    "path": "PS2/SLAJ_250.68/SLAJ_250.68_COV.png",
+    "kind": "cover",
+    "bytes": 92978,
+    "width": 192,
+    "height": 272,
+    "sha256": "958a26aefde4c0cf3c29b82b28f39315acf36dd013632ea1a88716cfedae0c0e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25068.jpg"
+    },
+    "gameId": "SLAJ_250.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 4 - Mushouden"
+}

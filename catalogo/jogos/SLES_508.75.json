@@ -1,0 +1,25 @@
+{
+  "id": "SLES_508.75",
+  "cover": {
+    "path": "PS2/SLES_508.75/SLES_508.75_COV.png",
+    "kind": "cover",
+    "bytes": 88691,
+    "width": 192,
+    "height": 272,
+    "sha256": "4e58162d6e52b42939e528e6d8ebba9a976457468cf3fc8f37110ad9dfd24c0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50875.jpg"
+    },
+    "gameId": "SLES_508.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "F1 2002"
+}

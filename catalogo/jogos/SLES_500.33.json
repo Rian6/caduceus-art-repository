@@ -1,0 +1,25 @@
+{
+  "id": "SLES_500.33",
+  "cover": {
+    "path": "PS2/SLES_500.33/SLES_500.33_COV.png",
+    "kind": "cover",
+    "bytes": 86756,
+    "width": 192,
+    "height": 272,
+    "sha256": "91132ba96cbd39c2f5c88147d1ec4d2f7e495f2fa932c32a834c28af8a59448e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50033.jpg"
+    },
+    "gameId": "SLES_500.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SWING AWAY GOLF"
+}

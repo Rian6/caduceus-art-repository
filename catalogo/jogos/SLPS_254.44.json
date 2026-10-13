@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.44",
+  "cover": {
+    "path": "PS2/SLPS_254.44/SLPS_254.44_COV.png",
+    "kind": "cover",
+    "bytes": 97595,
+    "width": 192,
+    "height": 272,
+    "sha256": "35d1af89af16bc4a46164fadd04d426be16a1a3b5bfaccf2230f1acb9c52ed37",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25444.jpg"
+    },
+    "gameId": "SLPS_254.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CHERRY BLOSSOM"
+}

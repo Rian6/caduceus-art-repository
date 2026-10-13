@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_251.87",
+  "cover": {
+    "path": "PS2/SLKA_251.87/SLKA_251.87_COV.png",
+    "kind": "cover",
+    "bytes": 62151,
+    "width": 192,
+    "height": 272,
+    "sha256": "b989e60837050818f027abed6e9af19753b6df193ae77c9a0eb5cccbfd325bb0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.87/SLKA_251.87_COV.png"
+    },
+    "gameId": "SLKA_251.87"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_251.87/SLKA_251.87_BG.png",
+    "kind": "background",
+    "bytes": 256440,
+    "width": 640,
+    "height": 480,
+    "sha256": "e14d87fef195ac63f29185765d4bb430d81c9ba50149a5a0ec03927876680441",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.87/SLKA_251.87_BG_00.png"
+    },
+    "gameId": "SLKA_251.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_251.87/SLKA_251.87_BG.png",
+      "kind": "background",
+      "bytes": 256440,
+      "width": 640,
+      "height": 480,
+      "sha256": "e14d87fef195ac63f29185765d4bb430d81c9ba50149a5a0ec03927876680441",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.87/SLKA_251.87_BG_00.png"
+      },
+      "gameId": "SLKA_251.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 3 - Empires"
+}

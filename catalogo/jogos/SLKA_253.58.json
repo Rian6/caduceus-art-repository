@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.58",
+  "cover": {
+    "path": "PS2/SLKA_253.58/SLKA_253.58_COV.png",
+    "kind": "cover",
+    "bytes": 108632,
+    "width": 192,
+    "height": 272,
+    "sha256": "96c37840f56d46b0c7460fe0c8fe66db960f6c591426dbbcfad32aef47d9b013",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25358.jpg"
+    },
+    "gameId": "SLKA_253.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SONIC RIDERS"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.69",
+  "cover": {
+    "path": "PS2/SCAJ_201.69/SCAJ_201.69_COV.png",
+    "kind": "cover",
+    "bytes": 84767,
+    "width": 192,
+    "height": 272,
+    "sha256": "0ab61bb60a8cd31222aeb3af1f52a3bb4e6f165fb14d9ee2c8b7ccb552d839ff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20169.jpg"
+    },
+    "gameId": "SCAJ_201.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dirge of Cerberus: Final Fantasy VII"
+}

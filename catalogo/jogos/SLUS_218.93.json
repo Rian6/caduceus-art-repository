@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_218.93",
+  "cover": {
+    "path": "PS2/SLUS_218.93/SLUS_218.93_COV.png",
+    "kind": "cover",
+    "bytes": 106005,
+    "width": 192,
+    "height": 272,
+    "sha256": "e2ae0116067148fd158d1c261c7dbc187807605b1d2ee30c38f0249ed9e89e32",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21893.jpg"
+    },
+    "gameId": "SLUS_218.93"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.93/SLUS_218.93_ICO.png",
+    "kind": "disc",
+    "bytes": 29608,
+    "width": 256,
+    "height": 256,
+    "sha256": "07d80a191fc60991a2d772666e671c559ced63f910311a0bbf1b05d4c74be0bf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.93_ICO.png"
+    },
+    "gameId": "SLUS_218.93"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Madden NFL '10"
+}

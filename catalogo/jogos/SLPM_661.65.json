@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.65",
+  "cover": {
+    "path": "PS2/SLPM_661.65/SLPM_661.65_COV.png",
+    "kind": "cover",
+    "bytes": 105859,
+    "width": 192,
+    "height": 272,
+    "sha256": "e850e19e594a65701cb81b13710763865ee54895865ccf97910b801546fdafe2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66165.jpg"
+    },
+    "gameId": "SLPM_661.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OTOME WA BOKU NI KOISHITERU"
+}

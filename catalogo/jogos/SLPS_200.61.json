@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.61",
+  "cover": {
+    "path": "PS2/SLPS_200.61/SLPS_200.61_COV.png",
+    "kind": "cover",
+    "bytes": 98168,
+    "width": 192,
+    "height": 272,
+    "sha256": "a982b38c25a02c350f2d6a7001d08f02c200e3bcbd4eaefcb93ad608839a1e02",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20061.jpg"
+    },
+    "gameId": "SLPS_200.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mamimune * Mogacho no Print Hour"
+}

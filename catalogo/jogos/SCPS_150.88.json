@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.88",
+  "cover": {
+    "path": "PS2/SCPS_150.88/SCPS_150.88_COV.png",
+    "kind": "cover",
+    "bytes": 94321,
+    "width": 192,
+    "height": 272,
+    "sha256": "d9c4d41e57218d9e48909c278275a83f92f54b1f76d34e9fc70508af67e7ba18",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15088.jpg"
+    },
+    "gameId": "SCPS_150.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.88/SCPS_150.88_BG.png",
+    "kind": "background",
+    "bytes": 190042,
+    "width": 640,
+    "height": 480,
+    "sha256": "061365247a54590e41f5162d356216203c3ee2b484c9c3e9c8d288c15a47dfd4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.88/SCPS_150.88_BG_00.png"
+    },
+    "gameId": "SCPS_150.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.88/SCPS_150.88_BG.png",
+      "kind": "background",
+      "bytes": 190042,
+      "width": 640,
+      "height": 480,
+      "sha256": "061365247a54590e41f5162d356216203c3ee2b484c9c3e9c8d288c15a47dfd4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.88/SCPS_150.88_BG_00.png"
+      },
+      "gameId": "SCPS_150.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BOKURA NO KAZOKU"
+}

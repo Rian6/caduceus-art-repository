@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.61",
+  "cover": {
+    "path": "PS2/SCAJ_200.61/SCAJ_200.61_COV.png",
+    "kind": "cover",
+    "bytes": 85129,
+    "width": 192,
+    "height": 272,
+    "sha256": "221371a9b780b0908675f78f2170b83e7ad1a88a03f53e90120accdb25c61767",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20061.jpg"
+    },
+    "gameId": "SCAJ_200.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SEVEN SAMURAI 20XX"
+}

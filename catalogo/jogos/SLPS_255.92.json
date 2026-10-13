@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.92",
+  "cover": {
+    "path": "PS2/SLPS_255.92/SLPS_255.92_COV.png",
+    "kind": "cover",
+    "bytes": 120649,
+    "width": 192,
+    "height": 272,
+    "sha256": "360bb53b4eb6c57192173cb10589dd6ef76aaafe48d87e9e32f4bb2b99345e27",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25592.jpg"
+    },
+    "gameId": "SLPS_255.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sunrise Eiyuutan 3"
+}

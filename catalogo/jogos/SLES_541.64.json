@@ -1,0 +1,90 @@
+{
+  "id": "SLES_541.64",
+  "cover": {
+    "path": "PS2/SLES_541.64/SLES_541.64_COV.png",
+    "kind": "cover",
+    "bytes": 126421,
+    "width": 192,
+    "height": 272,
+    "sha256": "476b550ae2e1c580f75f11a60f92d96c8a702e0658f27f55077e0482283319e4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54164.jpg"
+    },
+    "gameId": "SLES_541.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.64/SLES_541.64_BG.png",
+    "kind": "background",
+    "bytes": 212454,
+    "width": 640,
+    "height": 480,
+    "sha256": "a28e0c7adbfe93f2bcca96a2e01a4e9c3e3758c5a137cb7c357d723cbd50cde6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.64/SLES_541.64_BG_00.png"
+    },
+    "gameId": "SLES_541.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.64/SLES_541.64_BG.png",
+      "kind": "background",
+      "bytes": 212454,
+      "width": 640,
+      "height": 480,
+      "sha256": "a28e0c7adbfe93f2bcca96a2e01a4e9c3e3758c5a137cb7c357d723cbd50cde6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.64/SLES_541.64_BG_00.png"
+      },
+      "gameId": "SLES_541.64"
+    },
+    {
+      "path": "PS2/SLES_541.64/SLES_541.64_BG_01.png",
+      "kind": "background",
+      "bytes": 130748,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1029126ca88b2954804323f48ac558452c46d96005a654e5589273282fd0cc9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.64/SLES_541.64_BG_01.png"
+      },
+      "gameId": "SLES_541.64"
+    },
+    {
+      "path": "PS2/SLES_541.64/SLES_541.64_BG_02.png",
+      "kind": "background",
+      "bytes": 179469,
+      "width": 640,
+      "height": 480,
+      "sha256": "76802873eec0891f3761c84b0d34b67522c8871f7edd432ec99f898f562ceb88",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.64/SLES_541.64_BG_02.png"
+      },
+      "gameId": "SLES_541.64"
+    },
+    {
+      "path": "PS2/SLES_541.64/SLES_541.64_BG_03.png",
+      "kind": "background",
+      "bytes": 146199,
+      "width": 640,
+      "height": 480,
+      "sha256": "ce1f8a816b179db7aa60898f940af6bcb46e05c3349afc8042caa5b8ed1f81e1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.64/SLES_541.64_BG_03.png"
+      },
+      "gameId": "SLES_541.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Ball Z: Budokai Tenkaichi 2"
+}

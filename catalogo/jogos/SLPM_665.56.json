@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.56",
+  "cover": {
+    "path": "PS2/SLPM_665.56/SLPM_665.56_COV.png",
+    "kind": "cover",
+    "bytes": 58565,
+    "width": 192,
+    "height": 272,
+    "sha256": "f15aadf24f8c5b48dbd83fc7a013a9f61283360aeea970d14ff148acf97a5fd3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66556.jpg"
+    },
+    "gameId": "SLPM_665.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHINOBIDO IMASIME [SPIKE THE BEST]"
+}

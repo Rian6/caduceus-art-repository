@@ -1,0 +1,103 @@
+{
+  "id": "SLPM_654.47",
+  "cover": {
+    "path": "PS2/SLPM_654.47/SLPM_654.47_COV.png",
+    "kind": "cover",
+    "bytes": 89050,
+    "width": 192,
+    "height": 272,
+    "sha256": "97c1ae24e09a4f81a7f471ea89a4262a8b2d83b82a62246862b528c6852a8784",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65447.jpg"
+    },
+    "gameId": "SLPM_654.47"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_654.47/SLPM_654.47_BG.png",
+    "kind": "background",
+    "bytes": 153489,
+    "width": 640,
+    "height": 480,
+    "sha256": "04d9a0868a6d98cad06f4e5de98e4aab9dc9bec7de1cf932612db547746b3ded",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.47/SLPM_654.47_BG_00.png"
+    },
+    "gameId": "SLPM_654.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.47/SLPM_654.47_BG.png",
+      "kind": "background",
+      "bytes": 153489,
+      "width": 640,
+      "height": 480,
+      "sha256": "04d9a0868a6d98cad06f4e5de98e4aab9dc9bec7de1cf932612db547746b3ded",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.47/SLPM_654.47_BG_00.png"
+      },
+      "gameId": "SLPM_654.47"
+    },
+    {
+      "path": "PS2/SLPM_654.47/SLPM_654.47_BG_01.png",
+      "kind": "background",
+      "bytes": 134505,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c4b810fb4278a0703fde85ec012b5b4053fb27f4a6823155944c64a9e840673",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.47/SLPM_654.47_BG_01.png"
+      },
+      "gameId": "SLPM_654.47"
+    },
+    {
+      "path": "PS2/SLPM_654.47/SLPM_654.47_BG_02.png",
+      "kind": "background",
+      "bytes": 195432,
+      "width": 640,
+      "height": 480,
+      "sha256": "059f823be58c804ef41f0b29ce6f175334c6b5ab1ff3928d06aacd57dfa2a1e9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.47/SLPM_654.47_BG_02.png"
+      },
+      "gameId": "SLPM_654.47"
+    },
+    {
+      "path": "PS2/SLPM_654.47/SLPM_654.47_BG_03.png",
+      "kind": "background",
+      "bytes": 175085,
+      "width": 640,
+      "height": 480,
+      "sha256": "d23d46665d833f2783a6510e76b1260e94b171a74d1f396a42afc58bfbf8195e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.47/SLPM_654.47_BG_03.png"
+      },
+      "gameId": "SLPM_654.47"
+    },
+    {
+      "path": "PS2/SLPM_654.47/SLPM_654.47_BG_04.png",
+      "kind": "background",
+      "bytes": 120731,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ebfde897f41741a7553de9478b3096c556ab318fb80fa28b7d69ed9f4dac9a8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.47/SLPM_654.47_BG_04.png"
+      },
+      "gameId": "SLPM_654.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KUNOICHI"
+}

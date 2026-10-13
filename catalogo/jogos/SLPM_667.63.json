@@ -1,0 +1,91 @@
+{
+  "id": "SLPM_667.63",
+  "cover": {
+    "path": "PS2/SLPM_667.63/SLPM_667.63_COV.png",
+    "kind": "cover",
+    "bytes": 98812,
+    "width": 192,
+    "height": 272,
+    "sha256": "3f8822b443777d745763355738a1c1b8eeae6c8c89f11b515b751f1a5467c354",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66763.jpg"
+    },
+    "gameId": "SLPM_667.63"
+  },
+  "disc": {
+    "path": "PS2/SLPM_667.63/SLPM_667.63_ICO.png",
+    "kind": "disc",
+    "bytes": 11190,
+    "width": 128,
+    "height": 128,
+    "sha256": "df2c326b959e4ee41e6571d91f6d9b2b8b75617d8c98810aa2e6693f3042d096",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_667.63_ICO.png"
+    },
+    "gameId": "SLPM_667.63"
+  },
+  "background": {
+    "path": "PS2/SLPM_667.63/SLPM_667.63_BG.png",
+    "kind": "background",
+    "bytes": 172052,
+    "width": 640,
+    "height": 480,
+    "sha256": "715c892912bd280b65e6d4aa822eda361fa819906bdf72bf83cb2942d977fed2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_667.63/SLPM_667.63_BG_00.png"
+    },
+    "gameId": "SLPM_667.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_667.63/SLPM_667.63_BG.png",
+      "kind": "background",
+      "bytes": 172052,
+      "width": 640,
+      "height": 480,
+      "sha256": "715c892912bd280b65e6d4aa822eda361fa819906bdf72bf83cb2942d977fed2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_667.63/SLPM_667.63_BG_00.png"
+      },
+      "gameId": "SLPM_667.63"
+    },
+    {
+      "path": "PS2/SLPM_667.63/SLPM_667.63_BG_01.png",
+      "kind": "background",
+      "bytes": 192279,
+      "width": 640,
+      "height": 480,
+      "sha256": "ae637bb9b8d7cf166dd76c70fba1f47ba701ee32970b16cee121f05f77c9431e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_667.63/SLPM_667.63_BG_01.png"
+      },
+      "gameId": "SLPM_667.63"
+    },
+    {
+      "path": "PS2/SLPM_667.63/SLPM_667.63_BG_02.png",
+      "kind": "background",
+      "bytes": 220190,
+      "width": 640,
+      "height": 480,
+      "sha256": "605f3b9b2d41fc65fdc519c9a0a14d7a00d201cd2e177897e63c131ce62663eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_667.63/SLPM_667.63_BG_02.png"
+      },
+      "gameId": "SLPM_667.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Seiki Evangelion: Battle Orchestra"
+}

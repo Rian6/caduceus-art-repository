@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.99",
+  "cover": {
+    "path": "PS2/SLES_548.99/SLES_548.99_COV.png",
+    "kind": "cover",
+    "bytes": 89903,
+    "width": 192,
+    "height": 272,
+    "sha256": "35c123786206e56799c256673c7922bfbf7955693af02b999a3a67b9cdd8e407",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54899.jpg"
+    },
+    "gameId": "SLES_548.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bob The Builder"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCED_524.55",
+  "cover": {
+    "path": "PS2/SCED_524.55/SCED_524.55_COV.png",
+    "kind": "cover",
+    "bytes": 68341,
+    "width": 192,
+    "height": 272,
+    "sha256": "c0099cb5af5b98b422899fcb9af81e5c2fb6724bda34ffa09dd5437eacbefbe2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCED-52455.png"
+    },
+    "gameId": "SCED_524.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 4: Prologue"
+}

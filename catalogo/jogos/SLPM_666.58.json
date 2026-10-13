@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.58",
+  "cover": {
+    "path": "PS2/SLPM_666.58/SLPM_666.58_COV.png",
+    "kind": "cover",
+    "bytes": 96318,
+    "width": 192,
+    "height": 272,
+    "sha256": "69e186b4e57a24a4c71e235226eeef5a90b1d730376efbc9afbb1544467376b0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66658.jpg"
+    },
+    "gameId": "SLPM_666.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 3 - Empires (Koei Teiban Series)"
+}

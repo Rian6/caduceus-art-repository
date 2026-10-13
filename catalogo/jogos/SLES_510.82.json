@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.82",
+  "cover": {
+    "path": "PS2/SLES_510.82/SLES_510.82_COV.png",
+    "kind": "cover",
+    "bytes": 62614,
+    "width": 192,
+    "height": 272,
+    "sha256": "16b25c3cb856b0e334463c8af4102dc1f1271a8f64aa1e9938aac2a83df80260",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51082.jpg"
+    },
+    "gameId": "SLES_510.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - HAMBURGER SV"
+}

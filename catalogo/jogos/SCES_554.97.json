@@ -1,0 +1,25 @@
+{
+  "id": "SCES_554.97",
+  "cover": {
+    "path": "PS2/SCES_554.97/SCES_554.97_COV.png",
+    "kind": "cover",
+    "bytes": 56657,
+    "width": 192,
+    "height": 272,
+    "sha256": "5375ebc83dc8f8407a355b9664a55435d5dda45c1120a152c7e2741d946d6be0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_554.97/SCES_554.97_COV.png"
+    },
+    "gameId": "SCES_554.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Medical and Engineering Joint Entrance Quiz"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_626.85",
+  "cover": {
+    "path": "PS2/SLPM_626.85/SLPM_626.85_COV.png",
+    "kind": "cover",
+    "bytes": 91483,
+    "width": 192,
+    "height": 272,
+    "sha256": "17376e0d2764283e120b638b4edde76fcf8c8dd7b6f83d820c8bd024a54943d8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62685.jpg"
+    },
+    "gameId": "SLPM_626.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_626.85/SLPM_626.85_BG.png",
+    "kind": "background",
+    "bytes": 210653,
+    "width": 640,
+    "height": 480,
+    "sha256": "efabff6082f5a6d60acbbe456010d802e00a2545ec3af823ad2a1a80e664917e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_626.85/SLPM_626.85_BG_00.png"
+    },
+    "gameId": "SLPM_626.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_626.85/SLPM_626.85_BG.png",
+      "kind": "background",
+      "bytes": 210653,
+      "width": 640,
+      "height": 480,
+      "sha256": "efabff6082f5a6d60acbbe456010d802e00a2545ec3af823ad2a1a80e664917e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.85/SLPM_626.85_BG_00.png"
+      },
+      "gameId": "SLPM_626.85"
+    },
+    {
+      "path": "PS2/SLPM_626.85/SLPM_626.85_BG_01.png",
+      "kind": "background",
+      "bytes": 167566,
+      "width": 640,
+      "height": 480,
+      "sha256": "9060422545ded6aceb431c1daefd13c94e98ae15e4bbd68b2b9a0f2efb62b1a0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.85/SLPM_626.85_BG_01.png"
+      },
+      "gameId": "SLPM_626.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Homura"
+}

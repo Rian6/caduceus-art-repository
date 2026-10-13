@@ -1,0 +1,117 @@
+{
+  "id": "SLES_545.69",
+  "cover": {
+    "path": "PS2/SLES_545.69/SLES_545.69_COV.png",
+    "kind": "cover",
+    "bytes": 88394,
+    "width": 192,
+    "height": 272,
+    "sha256": "bdd29e034cc3c9084c3e57e7c814dd9d2aba26ccd849e49d08a23d419e90eb33",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54569.jpg"
+    },
+    "gameId": "SLES_545.69"
+  },
+  "disc": {
+    "path": "PS2/SLES_545.69/SLES_545.69_ICO.png",
+    "kind": "disc",
+    "bytes": 10535,
+    "width": 128,
+    "height": 128,
+    "sha256": "1b04c3ceb4629f395a35b784190762bacc62ac4554a432f24eb7eccdf79dbd28",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_545.69_ICO.png"
+    },
+    "gameId": "SLES_545.69"
+  },
+  "background": {
+    "path": "PS2/SLES_545.69/SLES_545.69_BG.png",
+    "kind": "background",
+    "bytes": 200211,
+    "width": 640,
+    "height": 480,
+    "sha256": "32c1a40474ac005c81274dceedccad2becb5c820a3a61a460284ce65cda9ab84",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.69/SLES_545.69_BG_00.png"
+    },
+    "gameId": "SLES_545.69"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_545.69/SLES_545.69_BG.png",
+      "kind": "background",
+      "bytes": 200211,
+      "width": 640,
+      "height": 480,
+      "sha256": "32c1a40474ac005c81274dceedccad2becb5c820a3a61a460284ce65cda9ab84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.69/SLES_545.69_BG_00.png"
+      },
+      "gameId": "SLES_545.69"
+    },
+    {
+      "path": "PS2/SLES_545.69/SLES_545.69_BG_01.png",
+      "kind": "background",
+      "bytes": 158221,
+      "width": 640,
+      "height": 480,
+      "sha256": "bc8599daee9498f728ff605116867aff04a5155fc28b1450928134e6f67c9809",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.69/SLES_545.69_BG_01.png"
+      },
+      "gameId": "SLES_545.69"
+    },
+    {
+      "path": "PS2/SLES_545.69/SLES_545.69_BG_02.png",
+      "kind": "background",
+      "bytes": 214082,
+      "width": 640,
+      "height": 480,
+      "sha256": "b92e320c80d2de603ef08f84fd12f5414a820518ebc90262ba4e6e3a0af591ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.69/SLES_545.69_BG_02.png"
+      },
+      "gameId": "SLES_545.69"
+    },
+    {
+      "path": "PS2/SLES_545.69/SLES_545.69_BG_03.png",
+      "kind": "background",
+      "bytes": 183069,
+      "width": 640,
+      "height": 480,
+      "sha256": "6a10c3c4364cfbfe565a446b28dc0a5053c2e129c45959c673bfc2c45d7314c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.69/SLES_545.69_BG_03.png"
+      },
+      "gameId": "SLES_545.69"
+    },
+    {
+      "path": "PS2/SLES_545.69/SLES_545.69_BG_04.png",
+      "kind": "background",
+      "bytes": 211055,
+      "width": 640,
+      "height": 480,
+      "sha256": "b094519defb021685fe45521ccf509453103a8365c4721d0a4b4bd938fe6bd7f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.69/SLES_545.69_BG_04.png"
+      },
+      "gameId": "SLES_545.69"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zombie Hunters 2"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SLES_531.41",
+  "cover": {
+    "path": "PS2/SLES_531.41/SLES_531.41_COV.png",
+    "kind": "cover",
+    "bytes": 104228,
+    "width": 192,
+    "height": 272,
+    "sha256": "11d5ea56f3f39eb011e7e8b8d5c96757d24e1f11f4c52ec9a4cc248f680075a2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53141.jpg"
+    },
+    "gameId": "SLES_531.41"
+  },
+  "disc": {
+    "path": "PS2/SLES_531.41/SLES_531.41_ICO.png",
+    "kind": "disc",
+    "bytes": 11649,
+    "width": 128,
+    "height": 128,
+    "sha256": "76910cd4232f912e96bd7428bcd9d9ca94309afa56f8d0a4a9bb00aa28612192",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_531.41_ICO.png"
+    },
+    "gameId": "SLES_531.41"
+  },
+  "background": {
+    "path": "PS2/SLES_531.41/SLES_531.41_BG.png",
+    "kind": "background",
+    "bytes": 192434,
+    "width": 640,
+    "height": 480,
+    "sha256": "a61fe49c46144adf0708ff7bc5c2b6c2dd5ec8a943f2afebaa3159178a0cdbf5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.41/SLES_531.41_BG_00.png"
+    },
+    "gameId": "SLES_531.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.41/SLES_531.41_BG.png",
+      "kind": "background",
+      "bytes": 192434,
+      "width": 640,
+      "height": 480,
+      "sha256": "a61fe49c46144adf0708ff7bc5c2b6c2dd5ec8a943f2afebaa3159178a0cdbf5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.41/SLES_531.41_BG_00.png"
+      },
+      "gameId": "SLES_531.41"
+    },
+    {
+      "path": "PS2/SLES_531.41/SLES_531.41_BG_01.png",
+      "kind": "background",
+      "bytes": 212926,
+      "width": 640,
+      "height": 480,
+      "sha256": "39967c33b92fad24f63a2e0b74a58e1e0e8df746fb521fdb6a59435434d58982",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.41/SLES_531.41_BG_01.png"
+      },
+      "gameId": "SLES_531.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "X-Treme Quads"
+}

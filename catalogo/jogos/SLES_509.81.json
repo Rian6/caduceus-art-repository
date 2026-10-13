@@ -1,0 +1,39 @@
+{
+  "id": "SLES_509.81",
+  "cover": {
+    "path": "PS2/SLES_509.81/SLES_509.81_COV.png",
+    "kind": "cover",
+    "bytes": 98172,
+    "width": 192,
+    "height": 272,
+    "sha256": "a239ee5a1b73e6b109cbd4270bde4b80e9e243553ca953676b8508848a70b5be",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50981.jpg"
+    },
+    "gameId": "SLES_509.81"
+  },
+  "disc": {
+    "path": "PS2/SLES_509.81/SLES_509.81_ICO.png",
+    "kind": "disc",
+    "bytes": 11476,
+    "width": 128,
+    "height": 128,
+    "sha256": "128d08b53400009ddb0275bfa8037318093701e4d5db67f5b10764e7e95c2cd2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_509.81_ICO.png"
+    },
+    "gameId": "SLES_509.81"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RC Sports Copter Challenge"
+}

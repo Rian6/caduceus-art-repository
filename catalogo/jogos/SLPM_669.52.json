@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.52",
+  "cover": {
+    "path": "PS2/SLPM_669.52/SLPM_669.52_COV.png",
+    "kind": "cover",
+    "bytes": 116080,
+    "width": 192,
+    "height": 272,
+    "sha256": "33b02b6275cdcca22986d74d88ca9fba22ca764cc066dd89a5e53d3f00efc506",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66952.jpg"
+    },
+    "gameId": "SLPM_669.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE 4"
+}

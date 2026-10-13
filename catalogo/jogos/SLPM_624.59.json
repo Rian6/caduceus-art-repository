@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.59",
+  "cover": {
+    "path": "PS2/SLPM_624.59/SLPM_624.59_COV.png",
+    "kind": "cover",
+    "bytes": 83052,
+    "width": 192,
+    "height": 272,
+    "sha256": "b8500ca08f706aec927303a8b36f643a39519feceeafa32dc8aa917e0df7f6b2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62459.jpg"
+    },
+    "gameId": "SLPM_624.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Ultimate Series Vol.16 - Sengoku vs Gendai"
+}

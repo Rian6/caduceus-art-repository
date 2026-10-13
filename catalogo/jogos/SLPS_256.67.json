@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.67",
+  "cover": {
+    "path": "PS2/SLPS_256.67/SLPS_256.67_COV.png",
+    "kind": "cover",
+    "bytes": 109978,
+    "width": 192,
+    "height": 272,
+    "sha256": "abff108cf5bd7586f38862109e28212192c8a377faad79547ea535cd61b916ce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25667.jpg"
+    },
+    "gameId": "SLPS_256.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Daito Giken Premium Pachi-Slot Simulator - Yoshimune"
+}

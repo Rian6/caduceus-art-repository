@@ -1,0 +1,25 @@
+{
+  "id": "SLES_543.35",
+  "cover": {
+    "path": "PS2/SLES_543.35/SLES_543.35_COV.png",
+    "kind": "cover",
+    "bytes": 58503,
+    "width": 192,
+    "height": 272,
+    "sha256": "d42bd7139e4681afddade8fa777a665a194185b032faa0e09a537de6b83aa745",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.35/SLES_543.35_COV.png"
+    },
+    "gameId": "SLES_543.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Steambot Chronicles"
+}

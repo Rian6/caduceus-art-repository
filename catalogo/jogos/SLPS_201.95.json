@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_201.95",
+  "cover": {
+    "path": "PS2/SLPS_201.95/SLPS_201.95_COV.png",
+    "kind": "cover",
+    "bytes": 89655,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2303b4bdfc55d8605e88a5a0776039ef8d130cc0637fe83238895bb63b20dc7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20195.jpg"
+    },
+    "gameId": "SLPS_201.95"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_201.95/SLPS_201.95_BG.png",
+    "kind": "background",
+    "bytes": 187261,
+    "width": 640,
+    "height": 480,
+    "sha256": "8b33a7693aca61d5fdb49dede154051049dedad852f5819df303526ed8c2dfcc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_201.95/SLPS_201.95_BG_00.png"
+    },
+    "gameId": "SLPS_201.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_201.95/SLPS_201.95_BG.png",
+      "kind": "background",
+      "bytes": 187261,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b33a7693aca61d5fdb49dede154051049dedad852f5819df303526ed8c2dfcc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.95/SLPS_201.95_BG_00.png"
+      },
+      "gameId": "SLPS_201.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Fantasista"
+}

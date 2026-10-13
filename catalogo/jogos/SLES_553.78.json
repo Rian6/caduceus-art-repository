@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.78",
+  "cover": {
+    "path": "PS2/SLES_553.78/SLES_553.78_COV.png",
+    "kind": "cover",
+    "bytes": 97676,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ef5b8670a2a275546a653ca0dd6080aaa9aab94a152efa614fd5f74a6a16be1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55378.jpg"
+    },
+    "gameId": "SLES_553.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RTL BIATHLON 2009"
+}

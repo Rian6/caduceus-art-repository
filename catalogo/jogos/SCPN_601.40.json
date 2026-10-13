@@ -1,0 +1,25 @@
+{
+  "id": "SCPN_601.40",
+  "cover": {
+    "path": "PS2/SCPN_601.40/SCPN_601.40_COV.png",
+    "kind": "cover",
+    "bytes": 52848,
+    "width": 192,
+    "height": 272,
+    "sha256": "88d49a724889212659f6e93d171287a91d08e9ca4042de4d168f181ddc203344",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPN-60140.jpg"
+    },
+    "gameId": "SCPN_601.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PlayStation BB Navigator: Version 0.30"
+}

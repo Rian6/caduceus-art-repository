@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.15",
+  "cover": {
+    "path": "PS2/SLPM_667.15/SLPM_667.15_COV.png",
+    "kind": "cover",
+    "bytes": 81922,
+    "width": 192,
+    "height": 272,
+    "sha256": "e5e03438ffb2cb3ba3cdf7eb0ddabb40611948b34544def9a27c714abdfb68fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66715.jpg"
+    },
+    "gameId": "SLPM_667.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shinseiki Genso - Spectral Souls II (IF Collection)"
+}

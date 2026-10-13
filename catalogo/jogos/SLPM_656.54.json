@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.54",
+  "cover": {
+    "path": "PS2/SLPM_656.54/SLPM_656.54_COV.png",
+    "kind": "cover",
+    "bytes": 93622,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a3d378f382bea566fbca6727de89cd5f8195fbf3d7efb1cf6f593925e330b12",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65654.jpg"
+    },
+    "gameId": "SLPM_656.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAIKETSU! OSABAKIINA"
+}

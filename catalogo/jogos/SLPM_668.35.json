@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.35",
+  "cover": {
+    "path": "PS2/SLPM_668.35/SLPM_668.35_COV.png",
+    "kind": "cover",
+    "bytes": 101252,
+    "width": 192,
+    "height": 272,
+    "sha256": "a26a4b6878fd7360050472afefd333d94383906be47d4d64b45510b2d7f0c871",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66835.jpg"
+    },
+    "gameId": "SLPM_668.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KIN'IRO NO KORUDA 2 - ENCORE"
+}

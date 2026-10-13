@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_253.27",
+  "cover": {
+    "path": "PS2/SLKA_253.27/SLKA_253.27_COV.png",
+    "kind": "cover",
+    "bytes": 94673,
+    "width": 192,
+    "height": 272,
+    "sha256": "66c5587b93597286391e541028b91971b4b584715cfe6b7b4c5c424f14154e6e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25327.jpg"
+    },
+    "gameId": "SLKA_253.27"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_253.27/SLKA_253.27_BG.png",
+    "kind": "background",
+    "bytes": 207024,
+    "width": 640,
+    "height": 480,
+    "sha256": "4dbf09c5c0132ad6ca361071de4a6ae2f860057b5e864a6edb890164eb1a310c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.27/SLKA_253.27_BG_00.png"
+    },
+    "gameId": "SLKA_253.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_253.27/SLKA_253.27_BG.png",
+      "kind": "background",
+      "bytes": 207024,
+      "width": 640,
+      "height": 480,
+      "sha256": "4dbf09c5c0132ad6ca361071de4a6ae2f860057b5e864a6edb890164eb1a310c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_253.27/SLKA_253.27_BG_00.png"
+      },
+      "gameId": "SLKA_253.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harry Potter and the Goblet of Fire"
+}

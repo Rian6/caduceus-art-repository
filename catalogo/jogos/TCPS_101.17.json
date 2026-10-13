@@ -1,0 +1,25 @@
+{
+  "id": "TCPS_101.17",
+  "cover": {
+    "path": "PS2/TCPS_101.17/TCPS_101.17_COV.png",
+    "kind": "cover",
+    "bytes": 101643,
+    "width": 192,
+    "height": 272,
+    "sha256": "54c9ac2a51c2c34feb844b55e6e695e1830354af59a0e5e5c9212c355b4d97b0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/TCPS-10117.jpg"
+    },
+    "gameId": "TCPS_101.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mushihimesama (Limited Edition)"
+}

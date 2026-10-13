@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.82",
+  "cover": {
+    "path": "PS2/SLPS_202.82/SLPS_202.82_COV.png",
+    "kind": "cover",
+    "bytes": 98410,
+    "width": 192,
+    "height": 272,
+    "sha256": "c7586acacbb17fb9d1c1ec9e8bf30674274f31a4db3cb13868dcc3ade1826b48",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20282.jpg"
+    },
+    "gameId": "SLPS_202.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin - Tatakon de Dodon ga Don"
+}

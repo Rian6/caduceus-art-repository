@@ -1,0 +1,103 @@
+{
+  "id": "SLES_546.22",
+  "cover": {
+    "path": "PS2/SLES_546.22/SLES_546.22_COV.png",
+    "kind": "cover",
+    "bytes": 94500,
+    "width": 192,
+    "height": 272,
+    "sha256": "53a19cea45ccf97320408f39da095850ef97129d9c5252e491ad30ab032f6423",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54622.jpg"
+    },
+    "gameId": "SLES_546.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_546.22/SLES_546.22_BG.png",
+    "kind": "background",
+    "bytes": 114530,
+    "width": 640,
+    "height": 480,
+    "sha256": "ae99f68abf5d22a2ee30694ff2e4de54531a1127615687161f0c99c10bf38e4c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.22/SLES_546.22_BG_00.png"
+    },
+    "gameId": "SLES_546.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_546.22/SLES_546.22_BG.png",
+      "kind": "background",
+      "bytes": 114530,
+      "width": 640,
+      "height": 480,
+      "sha256": "ae99f68abf5d22a2ee30694ff2e4de54531a1127615687161f0c99c10bf38e4c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.22/SLES_546.22_BG_00.png"
+      },
+      "gameId": "SLES_546.22"
+    },
+    {
+      "path": "PS2/SLES_546.22/SLES_546.22_BG_01.png",
+      "kind": "background",
+      "bytes": 112408,
+      "width": 640,
+      "height": 480,
+      "sha256": "07dcd90b4158af8d7ee5a4384905649f7df22b7b1eef26f541331b66b46acce8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.22/SLES_546.22_BG_01.png"
+      },
+      "gameId": "SLES_546.22"
+    },
+    {
+      "path": "PS2/SLES_546.22/SLES_546.22_BG_02.png",
+      "kind": "background",
+      "bytes": 104577,
+      "width": 640,
+      "height": 480,
+      "sha256": "0a4d8761972d57fba7ae08cc953e5183c94056746b690fa18b66ff8db1556f38",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.22/SLES_546.22_BG_02.png"
+      },
+      "gameId": "SLES_546.22"
+    },
+    {
+      "path": "PS2/SLES_546.22/SLES_546.22_BG_03.png",
+      "kind": "background",
+      "bytes": 124486,
+      "width": 640,
+      "height": 480,
+      "sha256": "2492ef7429266331ed8519259b9cc6e0b78ecc23eb5e25f463ce460029e0762a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.22/SLES_546.22_BG_03.png"
+      },
+      "gameId": "SLES_546.22"
+    },
+    {
+      "path": "PS2/SLES_546.22/SLES_546.22_BG_04.png",
+      "kind": "background",
+      "bytes": 128880,
+      "width": 640,
+      "height": 480,
+      "sha256": "c6380b6df103377181d5605762fb3f7bada95683c184c6a55076d8ea1caf90be",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.22/SLES_546.22_BG_04.png"
+      },
+      "gameId": "SLES_546.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Grand Theft Auto: Vice City Stories"
+}

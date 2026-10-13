@@ -1,0 +1,103 @@
+{
+  "id": "SLES_535.06",
+  "cover": {
+    "path": "PS2/SLES_535.06/SLES_535.06_COV.png",
+    "kind": "cover",
+    "bytes": 97459,
+    "width": 192,
+    "height": 272,
+    "sha256": "408fcda18579f96f15c980c4cf88e3d0f9b5a80332d76ccee49e33e1383aad60",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53506.jpg"
+    },
+    "gameId": "SLES_535.06"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_535.06/SLES_535.06_BG.png",
+    "kind": "background",
+    "bytes": 184761,
+    "width": 640,
+    "height": 480,
+    "sha256": "15adba0612598708bf0d8a47ce1496819e05872b9ffc0ddc28d784b3fff66642",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.06/SLES_535.06_BG_00.png"
+    },
+    "gameId": "SLES_535.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.06/SLES_535.06_BG.png",
+      "kind": "background",
+      "bytes": 184761,
+      "width": 640,
+      "height": 480,
+      "sha256": "15adba0612598708bf0d8a47ce1496819e05872b9ffc0ddc28d784b3fff66642",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.06/SLES_535.06_BG_00.png"
+      },
+      "gameId": "SLES_535.06"
+    },
+    {
+      "path": "PS2/SLES_535.06/SLES_535.06_BG_01.png",
+      "kind": "background",
+      "bytes": 205443,
+      "width": 640,
+      "height": 480,
+      "sha256": "06b2071a15a5ff3c369d00607d140a2d7b39e054732ed326e014173aad49e8d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.06/SLES_535.06_BG_01.png"
+      },
+      "gameId": "SLES_535.06"
+    },
+    {
+      "path": "PS2/SLES_535.06/SLES_535.06_BG_02.png",
+      "kind": "background",
+      "bytes": 195775,
+      "width": 640,
+      "height": 480,
+      "sha256": "ec1d9fd730098b5836bb7cf5b57d1ebd9c4cca3aaf8a58ba01d4d6f122dc3178",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.06/SLES_535.06_BG_02.png"
+      },
+      "gameId": "SLES_535.06"
+    },
+    {
+      "path": "PS2/SLES_535.06/SLES_535.06_BG_03.png",
+      "kind": "background",
+      "bytes": 180341,
+      "width": 640,
+      "height": 480,
+      "sha256": "7fd6be0906c9a61310d11f0a213eb64153fbdd2890651597db5b8bef654e8283",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.06/SLES_535.06_BG_03.png"
+      },
+      "gameId": "SLES_535.06"
+    },
+    {
+      "path": "PS2/SLES_535.06/SLES_535.06_BG_04.png",
+      "kind": "background",
+      "bytes": 176313,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c3b425db3bee2eb48f11bb01c21d12e8f1f7ffd3f6d294e647fe72675e46694",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.06/SLES_535.06_BG_04.png"
+      },
+      "gameId": "SLES_535.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Burnout Revenge"
+}

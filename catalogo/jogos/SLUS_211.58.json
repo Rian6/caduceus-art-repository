@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_211.58",
+  "cover": {
+    "path": "PS2/SLUS_211.58/SLUS_211.58_COV.png",
+    "kind": "cover",
+    "bytes": 93901,
+    "width": 192,
+    "height": 272,
+    "sha256": "efb746e31a36638faa5a71cc4660b6af51b44e23b4eea7d72cfdb5adb8f98ee7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21158.jpg"
+    },
+    "gameId": "SLUS_211.58"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.58/SLUS_211.58_ICO.png",
+    "kind": "disc",
+    "bytes": 30271,
+    "width": 256,
+    "height": 256,
+    "sha256": "cef3bf20a0ecc0ca1b3ffeacb716bb5681a6111843b73ffc5dedcde96c344166",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.58_ICO.png"
+    },
+    "gameId": "SLUS_211.58"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EA Sports Rugby 2005"
+}

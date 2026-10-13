@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.74",
+  "cover": {
+    "path": "PS2/SLPM_620.74/SLPM_620.74_COV.png",
+    "kind": "cover",
+    "bytes": 117750,
+    "width": 192,
+    "height": 272,
+    "sha256": "c5e9d9c9ca66b7999488d864787d02d0076b96268c0eb711e6f5e15643786c42",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62074.jpg"
+    },
+    "gameId": "SLPM_620.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Honkakuteki Pachinko Jikki Kouryaku Series: Milky Bar and Kirakuin"
+}

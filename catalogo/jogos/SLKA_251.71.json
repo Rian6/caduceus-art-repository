@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.71",
+  "cover": {
+    "path": "PS2/SLKA_251.71/SLKA_251.71_COV.png",
+    "kind": "cover",
+    "bytes": 100436,
+    "width": 192,
+    "height": 272,
+    "sha256": "683276a30d2b7c5dbe2c24785a12059dd79cda7d6a1286147f39576cb56f81cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25171.jpg"
+    },
+    "gameId": "SLKA_251.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KUON"
+}

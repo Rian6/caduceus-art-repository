@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_206.73",
+  "cover": {
+    "path": "PS2/SLUS_206.73/SLUS_206.73_COV.png",
+    "kind": "cover",
+    "bytes": 60190,
+    "width": 192,
+    "height": 272,
+    "sha256": "ad800037987f4731ab794a7850a09056df3ad9b0de7ce889ab9ea51c17045855",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20673.jpg"
+    },
+    "gameId": "SLUS_206.73"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.73/SLUS_206.73_ICO.png",
+    "kind": "disc",
+    "bytes": 30855,
+    "width": 256,
+    "height": 256,
+    "sha256": "30c3671bc629ead03e9b369be2759272cfac0864185e3e50176c5099f1ec0032",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.73_ICO.png"
+    },
+    "gameId": "SLUS_206.73"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.73/SLUS_206.73_BG.png",
+    "kind": "background",
+    "bytes": 174959,
+    "width": 640,
+    "height": 480,
+    "sha256": "6063fa874fd7763c9cd6c969c65767f5aca66c730b35a734b08f7a1d193ddfae",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.73/SLUS_206.73_BG_00.png"
+    },
+    "gameId": "SLUS_206.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.73/SLUS_206.73_BG.png",
+      "kind": "background",
+      "bytes": 174959,
+      "width": 640,
+      "height": 480,
+      "sha256": "6063fa874fd7763c9cd6c969c65767f5aca66c730b35a734b08f7a1d193ddfae",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.73/SLUS_206.73_BG_00.png"
+      },
+      "gameId": "SLUS_206.73"
+    },
+    {
+      "path": "PS2/SLUS_206.73/SLUS_206.73_BG_01.png",
+      "kind": "background",
+      "bytes": 137621,
+      "width": 640,
+      "height": 480,
+      "sha256": "5772593cc6d2d14556010474dd84d4f3f269ae8e28b63df2709283056e88c712",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.73/SLUS_206.73_BG_01.png"
+      },
+      "gameId": "SLUS_206.73"
+    },
+    {
+      "path": "PS2/SLUS_206.73/SLUS_206.73_BG_02.png",
+      "kind": "background",
+      "bytes": 90641,
+      "width": 640,
+      "height": 480,
+      "sha256": "35e2359cd875d199df770a10f93b24eebae2c0bc4fc3a7d3757f1acc4bd86789",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.73/SLUS_206.73_BG_02.png"
+      },
+      "gameId": "SLUS_206.73"
+    },
+    {
+      "path": "PS2/SLUS_206.73/SLUS_206.73_BG_03.png",
+      "kind": "background",
+      "bytes": 47303,
+      "width": 640,
+      "height": 480,
+      "sha256": "50f2edcd55744e48a76f4854672e512bb707694c10ff081849a8a3fcab2f7f88",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.73/SLUS_206.73_BG_03.png"
+      },
+      "gameId": "SLUS_206.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ALIAS"
+}

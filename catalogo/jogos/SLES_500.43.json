@@ -1,0 +1,65 @@
+{
+  "id": "SLES_500.43",
+  "cover": {
+    "path": "PS2/SLES_500.43/SLES_500.43_COV.png",
+    "kind": "cover",
+    "bytes": 98114,
+    "width": 192,
+    "height": 272,
+    "sha256": "5ef2e3dc336f72e9a5c4c6e0e4ffe4607fbc7d66534db5db83b153594fc4a48d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50043.jpg"
+    },
+    "gameId": "SLES_500.43"
+  },
+  "disc": {
+    "path": "PS2/SLES_500.43/SLES_500.43_ICO.png",
+    "kind": "disc",
+    "bytes": 10774,
+    "width": 128,
+    "height": 128,
+    "sha256": "fd4faf5309616a3c5030873aec9f6fdad0f72d355a95e226b4ce3f7c5eaaf4c4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_500.43_ICO.png"
+    },
+    "gameId": "SLES_500.43"
+  },
+  "background": {
+    "path": "PS2/SLES_500.43/SLES_500.43_BG.png",
+    "kind": "background",
+    "bytes": 223452,
+    "width": 640,
+    "height": 480,
+    "sha256": "7f13983b9104aa987847848e5fe4061f4aec499046738d4850d2c7719718e575",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.43/SLES_500.43_BG_00.png"
+    },
+    "gameId": "SLES_500.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.43/SLES_500.43_BG.png",
+      "kind": "background",
+      "bytes": 223452,
+      "width": 640,
+      "height": 480,
+      "sha256": "7f13983b9104aa987847848e5fe4061f4aec499046738d4850d2c7719718e575",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.43/SLES_500.43_BG_00.png"
+      },
+      "gameId": "SLES_500.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S DINOSAUR"
+}

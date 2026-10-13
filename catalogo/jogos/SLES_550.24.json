@@ -1,0 +1,64 @@
+{
+  "id": "SLES_550.24",
+  "cover": {
+    "path": "PS2/SLES_550.24/SLES_550.24_COV.png",
+    "kind": "cover",
+    "bytes": 97389,
+    "width": 192,
+    "height": 272,
+    "sha256": "8622865246dd6ee445ab80a07c9efc701909efd0b3596e3979c197e8b7830ff6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55024.jpg"
+    },
+    "gameId": "SLES_550.24"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_550.24/SLES_550.24_BG.png",
+    "kind": "background",
+    "bytes": 168826,
+    "width": 640,
+    "height": 480,
+    "sha256": "cce5286c74bfc43cbf52e76e4d4233fc0dd89300e45b08e7762cce560a8cb0b1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.24/SLES_550.24_BG_00.png"
+    },
+    "gameId": "SLES_550.24"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.24/SLES_550.24_BG.png",
+      "kind": "background",
+      "bytes": 168826,
+      "width": 640,
+      "height": 480,
+      "sha256": "cce5286c74bfc43cbf52e76e4d4233fc0dd89300e45b08e7762cce560a8cb0b1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.24/SLES_550.24_BG_00.png"
+      },
+      "gameId": "SLES_550.24"
+    },
+    {
+      "path": "PS2/SLES_550.24/SLES_550.24_BG_01.png",
+      "kind": "background",
+      "bytes": 144060,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd020a4ed1801205ee3df0bced18a975debe562f994f39800f366ba0a487b624",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.24/SLES_550.24_BG_01.png"
+      },
+      "gameId": "SLES_550.24"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SpongeBob's Atlantis Squarepants"
+}

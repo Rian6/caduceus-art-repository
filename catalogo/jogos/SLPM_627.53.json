@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.53",
+  "cover": {
+    "path": "PS2/SLPM_627.53/SLPM_627.53_COV.png",
+    "kind": "cover",
+    "bytes": 100757,
+    "width": 192,
+    "height": 272,
+    "sha256": "79ec934414fb553ba4f26e33c60b2fb5f5a13ac054041e31d4fd31496bbb4bc4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62753.jpg"
+    },
+    "gameId": "SLPM_627.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Homura (Taito The Best)"
+}

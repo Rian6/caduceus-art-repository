@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.72",
+  "cover": {
+    "path": "PS2/SLPM_623.72/SLPM_623.72_COV.png",
+    "kind": "cover",
+    "bytes": 55016,
+    "width": 192,
+    "height": 272,
+    "sha256": "43a37411c8ec2d4737302d2faa772c6c674dec4918ca5b15dbdfd62f6e8495f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62372.jpg"
+    },
+    "gameId": "SLPM_623.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SuperLite 2000 Vol. 7 - Oekaki Puzzle"
+}

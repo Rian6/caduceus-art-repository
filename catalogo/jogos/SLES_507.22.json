@@ -1,0 +1,25 @@
+{
+  "id": "SLES_507.22",
+  "cover": {
+    "path": "PS2/SLES_507.22/SLES_507.22_COV.png",
+    "kind": "cover",
+    "bytes": 98146,
+    "width": 192,
+    "height": 272,
+    "sha256": "18577edc45a2a32ef4416723062a5473b9a6cb4917e8d6241e0753915f04f2e8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50722.jpg"
+    },
+    "gameId": "SLES_507.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Premier Manager 2002/2003"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.94",
+  "cover": {
+    "path": "PS2/SLPM_626.94/SLPM_626.94_COV.png",
+    "kind": "cover",
+    "bytes": 83198,
+    "width": 192,
+    "height": 272,
+    "sha256": "6cdc19ae8314728531c7cacb193414e19ff07969f32db0f37d89941e84649e25",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62694.jpg"
+    },
+    "gameId": "SLPM_626.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLOTTER UP MANIA 8 - JUGGLER SPECIAL 2"
+}

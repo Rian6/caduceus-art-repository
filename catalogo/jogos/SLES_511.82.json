@@ -1,0 +1,25 @@
+{
+  "id": "SLES_511.82",
+  "cover": {
+    "path": "PS2/SLES_511.82/SLES_511.82_COV.png",
+    "kind": "cover",
+    "bytes": 92320,
+    "width": 192,
+    "height": 272,
+    "sha256": "94fc7874d745cd7e5266ece499f8b91fdf18c1924e572b81b047697fe621ad47",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51182.jpg"
+    },
+    "gameId": "SLES_511.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Ghost Recon"
+}

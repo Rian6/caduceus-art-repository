@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_552.62",
+  "cover": {
+    "path": "PS2/SLPM_552.62/SLPM_552.62_COV.png",
+    "kind": "cover",
+    "bytes": 115993,
+    "width": 192,
+    "height": 272,
+    "sha256": "a978f95814e3bf97c27a0999c77cc8bf7547b3050507e3ba8abbd6d4e495d9a4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55262.jpg"
+    },
+    "gameId": "SLPM_552.62"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_552.62/SLPM_552.62_BG.png",
+    "kind": "background",
+    "bytes": 171911,
+    "width": 640,
+    "height": 480,
+    "sha256": "35b7e04060299d6eb2f59aaeb3580d2ba5e3b8a546af90dba4b491638aca8395",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_552.62/SLPM_552.62_BG_00.png"
+    },
+    "gameId": "SLPM_552.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_552.62/SLPM_552.62_BG.png",
+      "kind": "background",
+      "bytes": 171911,
+      "width": 640,
+      "height": 480,
+      "sha256": "35b7e04060299d6eb2f59aaeb3580d2ba5e3b8a546af90dba4b491638aca8395",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_552.62/SLPM_552.62_BG_00.png"
+      },
+      "gameId": "SLPM_552.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "J-League Winning Eleven 2010 Club Championship"
+}

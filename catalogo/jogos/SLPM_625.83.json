@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.83",
+  "cover": {
+    "path": "PS2/SLPM_625.83/SLPM_625.83_COV.png",
+    "kind": "cover",
+    "bytes": 89020,
+    "width": 192,
+    "height": 272,
+    "sha256": "6fbadb1baa5da671518ca865f9cd7e64cd95bc72ee4aaa91b8df3f2674664a14",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62583.jpg"
+    },
+    "gameId": "SLPM_625.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HUDSON SELECTION VOL. 1 - CUBIC LODE RUNNER [HUDSON THE BEST]"
+}

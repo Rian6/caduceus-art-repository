@@ -1,0 +1,103 @@
+{
+  "id": "SLES_503.26",
+  "cover": {
+    "path": "PS2/SLES_503.26/SLES_503.26_COV.png",
+    "kind": "cover",
+    "bytes": 92358,
+    "width": 192,
+    "height": 272,
+    "sha256": "8c0d43d710e3e96864afca28c15baa06f8daa869f346e446826dbb890049959e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50326.jpg"
+    },
+    "gameId": "SLES_503.26"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_503.26/SLES_503.26_BG.png",
+    "kind": "background",
+    "bytes": 20001,
+    "width": 640,
+    "height": 480,
+    "sha256": "11d4b3fb98d648c3ffbfc3bf32948164b6dd54d64b6da6cb153ca6a3ac6df6be",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_503.26/SLES_503.26_BG_00.png"
+    },
+    "gameId": "SLES_503.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_503.26/SLES_503.26_BG.png",
+      "kind": "background",
+      "bytes": 20001,
+      "width": 640,
+      "height": 480,
+      "sha256": "11d4b3fb98d648c3ffbfc3bf32948164b6dd54d64b6da6cb153ca6a3ac6df6be",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.26/SLES_503.26_BG_00.png"
+      },
+      "gameId": "SLES_503.26"
+    },
+    {
+      "path": "PS2/SLES_503.26/SLES_503.26_BG_01.png",
+      "kind": "background",
+      "bytes": 231922,
+      "width": 640,
+      "height": 480,
+      "sha256": "a43116a68423afbfde2ab7779974f00f1c1a48827e6a44aec9dbb1f8a335023b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.26/SLES_503.26_BG_01.png"
+      },
+      "gameId": "SLES_503.26"
+    },
+    {
+      "path": "PS2/SLES_503.26/SLES_503.26_BG_02.png",
+      "kind": "background",
+      "bytes": 213746,
+      "width": 640,
+      "height": 480,
+      "sha256": "93dfc027da3b046df7f412fda36973cb0582708d48062487a5a226088a9a8069",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.26/SLES_503.26_BG_02.png"
+      },
+      "gameId": "SLES_503.26"
+    },
+    {
+      "path": "PS2/SLES_503.26/SLES_503.26_BG_03.png",
+      "kind": "background",
+      "bytes": 134513,
+      "width": 640,
+      "height": 480,
+      "sha256": "0c0026d98f545893a45ea1e8e4509314fd6b4b0dad289649af63d28c0d2b3e1b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.26/SLES_503.26_BG_03.png"
+      },
+      "gameId": "SLES_503.26"
+    },
+    {
+      "path": "PS2/SLES_503.26/SLES_503.26_BG_04.png",
+      "kind": "background",
+      "bytes": 191321,
+      "width": 640,
+      "height": 480,
+      "sha256": "dcfc578e1ccd09412224c10845d0e6f93ae9f8ceb348d8136cdc8dbd812a7233",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.26/SLES_503.26_BG_04.png"
+      },
+      "gameId": "SLES_503.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAX PAYNE"
+}

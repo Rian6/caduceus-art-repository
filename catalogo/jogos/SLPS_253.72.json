@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.72",
+  "cover": {
+    "path": "PS2/SLPS_253.72/SLPS_253.72_COV.png",
+    "kind": "cover",
+    "bytes": 94941,
+    "width": 192,
+    "height": 272,
+    "sha256": "7610f5274c7a2d10e831b742c0dbe4a7fb83b0215814155fe1242c8480bb55bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25372.jpg"
+    },
+    "gameId": "SLPS_253.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEARS"
+}

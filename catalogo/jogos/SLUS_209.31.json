@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_209.31",
+  "cover": {
+    "path": "PS2/SLUS_209.31/SLUS_209.31_COV.png",
+    "kind": "cover",
+    "bytes": 68001,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed31d8997860222a3fd7571bd5518352b832de5b40e31fe0b0398ef099de3334",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20931.jpg"
+    },
+    "gameId": "SLUS_209.31"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.31/SLUS_209.31_ICO.png",
+    "kind": "disc",
+    "bytes": 18262,
+    "width": 256,
+    "height": 256,
+    "sha256": "c264a1d4d7ca7c53cfa99475c42921f86dfd293fafe7389eabd54429ce46aa44",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.31_ICO.png"
+    },
+    "gameId": "SLUS_209.31"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.31/SLUS_209.31_BG.png",
+    "kind": "background",
+    "bytes": 103146,
+    "width": 640,
+    "height": 480,
+    "sha256": "9a7fbdf29761b941b111193c92dc58584a4478b8be1d663503bf47910f08cd12",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.31/SLUS_209.31_BG_00.png"
+    },
+    "gameId": "SLUS_209.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.31/SLUS_209.31_BG.png",
+      "kind": "background",
+      "bytes": 103146,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a7fbdf29761b941b111193c92dc58584a4478b8be1d663503bf47910f08cd12",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.31/SLUS_209.31_BG_00.png"
+      },
+      "gameId": "SLUS_209.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Trigger Man"
+}

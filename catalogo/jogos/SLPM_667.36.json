@@ -1,0 +1,65 @@
+{
+  "id": "SLPM_667.36",
+  "cover": {
+    "path": "PS2/SLPM_667.36/SLPM_667.36_COV.png",
+    "kind": "cover",
+    "bytes": 75490,
+    "width": 192,
+    "height": 272,
+    "sha256": "88bd7b837eba639841ddc7ca7534f98b99bc1c7c4109a5d4f3d9f628aded042b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66736.jpg"
+    },
+    "gameId": "SLPM_667.36"
+  },
+  "disc": {
+    "path": "PS2/SLPM_667.36/SLPM_667.36_ICO.png",
+    "kind": "disc",
+    "bytes": 12594,
+    "width": 128,
+    "height": 128,
+    "sha256": "7e42f1da425dccdab3ec1d623b4dc9788ae466b17cf300fb9aec7f3e6c6ba9c0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_667.36_ICO.png"
+    },
+    "gameId": "SLPM_667.36"
+  },
+  "background": {
+    "path": "PS2/SLPM_667.36/SLPM_667.36_BG.png",
+    "kind": "background",
+    "bytes": 169689,
+    "width": 640,
+    "height": 480,
+    "sha256": "3b8995b2b62cc712dd8ca823380e9484be96616d43ff0c4b250a06bccf1762be",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_667.36/SLPM_667.36_BG_00.png"
+    },
+    "gameId": "SLPM_667.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_667.36/SLPM_667.36_BG.png",
+      "kind": "background",
+      "bytes": 169689,
+      "width": 640,
+      "height": 480,
+      "sha256": "3b8995b2b62cc712dd8ca823380e9484be96616d43ff0c4b250a06bccf1762be",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_667.36/SLPM_667.36_BG_00.png"
+      },
+      "gameId": "SLPM_667.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rogue Hearts Dungeon"
+}

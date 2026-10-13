@@ -1,0 +1,25 @@
+{
+  "id": "SLES_549.90",
+  "cover": {
+    "path": "PS2/SLES_549.90/SLES_549.90_COV.png",
+    "kind": "cover",
+    "bytes": 61651,
+    "width": 192,
+    "height": 272,
+    "sha256": "59dc2eb0dce1ba421b29676bd7d554bbfee6a78144c393008e4c2ec4cd64a68e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.90/SLES_549.90_COV.png"
+    },
+    "gameId": "SLES_549.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nicktoons: Attack of the Toybots"
+}

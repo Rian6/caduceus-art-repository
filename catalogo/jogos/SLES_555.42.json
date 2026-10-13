@@ -1,0 +1,25 @@
+{
+  "id": "SLES_555.42",
+  "cover": {
+    "path": "PS2/SLES_555.42/SLES_555.42_COV.png",
+    "kind": "cover",
+    "bytes": 100933,
+    "width": 192,
+    "height": 272,
+    "sha256": "b30808af6b83d5031f99592f7890d502d9bacb2e48e90540bebb4093a2826b0e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55542.jpg"
+    },
+    "gameId": "SLES_555.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney Sing It: Pop Hits"
+}

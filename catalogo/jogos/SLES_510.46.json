@@ -1,0 +1,51 @@
+{
+  "id": "SLES_510.46",
+  "cover": {
+    "path": "PS2/SLES_510.46/SLES_510.46_COV.png",
+    "kind": "cover",
+    "bytes": 84955,
+    "width": 192,
+    "height": 272,
+    "sha256": "60b7986a7d8a83504f104970f9f16510b8cfa9ba101877dc2809ea7ff4e3ff1f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51046-P.jpg"
+    },
+    "gameId": "SLES_510.46"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_510.46/SLES_510.46_BG.png",
+    "kind": "background",
+    "bytes": 141511,
+    "width": 640,
+    "height": 480,
+    "sha256": "177b71c504636532da5d3ae88804a407409481c5d6765b92ccb7125592056028",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_510.46/SLES_510.46_BG_00.png"
+    },
+    "gameId": "SLES_510.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_510.46/SLES_510.46_BG.png",
+      "kind": "background",
+      "bytes": 141511,
+      "width": 640,
+      "height": 480,
+      "sha256": "177b71c504636532da5d3ae88804a407409481c5d6765b92ccb7125592056028",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_510.46/SLES_510.46_BG_00.png"
+      },
+      "gameId": "SLES_510.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STATE OF EMERGENCY [PLATINUM]"
+}

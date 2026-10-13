@@ -1,0 +1,39 @@
+{
+  "id": "SLES_522.91",
+  "cover": {
+    "path": "PS2/SLES_522.91/SLES_522.91_COV.png",
+    "kind": "cover",
+    "bytes": 108124,
+    "width": 192,
+    "height": 272,
+    "sha256": "43f22d86f757fe4def85d9ae5da29fff7b31dee7dc8f6f0155c33a480b74e681",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52291.jpg"
+    },
+    "gameId": "SLES_522.91"
+  },
+  "disc": {
+    "path": "PS2/SLES_522.91/SLES_522.91_ICO.png",
+    "kind": "disc",
+    "bytes": 13064,
+    "width": 128,
+    "height": 128,
+    "sha256": "b7a81718470599f8d2accd6f13b7695b5b122e047c46870f294c46a2eac666a7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_522.91_ICO.png"
+    },
+    "gameId": "SLES_522.91"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Countryside Bears"
+}

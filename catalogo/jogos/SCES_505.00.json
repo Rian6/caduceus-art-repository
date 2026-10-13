@@ -1,0 +1,64 @@
+{
+  "id": "SCES_505.00",
+  "cover": {
+    "path": "PS2/SCES_505.00/SCES_505.00_COV.png",
+    "kind": "cover",
+    "bytes": 52190,
+    "width": 192,
+    "height": 272,
+    "sha256": "2b2b67f7e7f9f866a216f6a20bd1bfd0eaa729b235c981286522e61ce38d26b9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50500.jpg"
+    },
+    "gameId": "SCES_505.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_505.00/SCES_505.00_BG.png",
+    "kind": "background",
+    "bytes": 157816,
+    "width": 640,
+    "height": 480,
+    "sha256": "ec0bdd4a46db528abfb0e3aece184a75db73b913d473ea85e4ca8e520328364e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_505.00/SCES_505.00_BG_00.png"
+    },
+    "gameId": "SCES_505.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_505.00/SCES_505.00_BG.png",
+      "kind": "background",
+      "bytes": 157816,
+      "width": 640,
+      "height": 480,
+      "sha256": "ec0bdd4a46db528abfb0e3aece184a75db73b913d473ea85e4ca8e520328364e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_505.00/SCES_505.00_BG_00.png"
+      },
+      "gameId": "SCES_505.00"
+    },
+    {
+      "path": "PS2/SCES_505.00/SCES_505.00_BG_01.png",
+      "kind": "background",
+      "bytes": 186511,
+      "width": 640,
+      "height": 480,
+      "sha256": "a36c05754df7676b3f12ea8d55b930127578e40b38f4b793bd8be92217099a95",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_505.00/SCES_505.00_BG_01.png"
+      },
+      "gameId": "SCES_505.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HEADHUNTER"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.35",
+  "cover": {
+    "path": "PS2/SLPS_203.35/SLPS_203.35_COV.png",
+    "kind": "cover",
+    "bytes": 101431,
+    "width": 192,
+    "height": 272,
+    "sha256": "a135c814dc0485e350d0f5d6eb916162393d8a365aae61330318f701769382b4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20335.jpg"
+    },
+    "gameId": "SLPS_203.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taisen 3 - Mahjong"
+}

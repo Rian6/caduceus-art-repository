@@ -1,0 +1,51 @@
+{
+  "id": "SLES_556.66",
+  "cover": {
+    "path": "PS2/SLES_556.66/SLES_556.66_COV.png",
+    "kind": "cover",
+    "bytes": 103752,
+    "width": 192,
+    "height": 272,
+    "sha256": "82a3005a5bce28f5d34e3a7202a9e1fcd75803e733630f147965f7aabdc192f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55666.jpg"
+    },
+    "gameId": "SLES_556.66"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_556.66/SLES_556.66_BG.png",
+    "kind": "background",
+    "bytes": 216404,
+    "width": 640,
+    "height": 480,
+    "sha256": "fb1ce9aacdc7d74ff193cd5f2ddf05439e4405215ea10a519c08d20f8c967fe1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_556.66/SLES_556.66_BG_00.png"
+    },
+    "gameId": "SLES_556.66"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_556.66/SLES_556.66_BG.png",
+      "kind": "background",
+      "bytes": 216404,
+      "width": 640,
+      "height": 480,
+      "sha256": "fb1ce9aacdc7d74ff193cd5f2ddf05439e4405215ea10a519c08d20f8c967fe1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.66/SLES_556.66_BG_00.png"
+      },
+      "gameId": "SLES_556.66"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PES 2013: Pro Evolution Soccer"
+}

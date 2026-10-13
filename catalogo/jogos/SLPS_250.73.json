@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.73",
+  "cover": {
+    "path": "PS2/SLPS_250.73/SLPS_250.73_COV.png",
+    "kind": "cover",
+    "bytes": 67624,
+    "width": 192,
+    "height": 272,
+    "sha256": "c8409f46a8b8ca5a9f37f35206dbecaab04965dd204ee4d32360a8a39c4fb6f8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25073.jpg"
+    },
+    "gameId": "SLPS_250.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cinema Surfing: Youga Taizen"
+}

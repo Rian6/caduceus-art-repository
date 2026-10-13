@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_216.00",
+  "cover": {
+    "path": "PS2/SLUS_216.00/SLUS_216.00_COV.png",
+    "kind": "cover",
+    "bytes": 113343,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0c7e3ea42ce4dac4669baef18a72cccc6c6484f4da4f324bd2cb8853bea7a81",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21600.jpg"
+    },
+    "gameId": "SLUS_216.00"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.00/SLUS_216.00_ICO.png",
+    "kind": "disc",
+    "bytes": 34042,
+    "width": 256,
+    "height": 256,
+    "sha256": "e753c28291a8ec69e6338b7dd1bc36723e91e5eb3bf8b0f48697780c28bc38bd",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.00_ICO.png"
+    },
+    "gameId": "SLUS_216.00"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.00/SLUS_216.00_BG.png",
+    "kind": "background",
+    "bytes": 215803,
+    "width": 640,
+    "height": 480,
+    "sha256": "91a560cd2ae5266660d21b3370378db6702d30e270ff42080e28f32f36fee38e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.00/SLUS_216.00_BG_00.png"
+    },
+    "gameId": "SLUS_216.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.00/SLUS_216.00_BG.png",
+      "kind": "background",
+      "bytes": 215803,
+      "width": 640,
+      "height": 480,
+      "sha256": "91a560cd2ae5266660d21b3370378db6702d30e270ff42080e28f32f36fee38e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.00/SLUS_216.00_BG_00.png"
+      },
+      "gameId": "SLUS_216.00"
+    },
+    {
+      "path": "PS2/SLUS_216.00/SLUS_216.00_BG_01.png",
+      "kind": "background",
+      "bytes": 199371,
+      "width": 640,
+      "height": 480,
+      "sha256": "ec805707e00ef3c6c0a8173640e88fd5252e3f0c2383faf6a94cf48d09eac45a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.00/SLUS_216.00_BG_01.png"
+      },
+      "gameId": "SLUS_216.00"
+    },
+    {
+      "path": "PS2/SLUS_216.00/SLUS_216.00_BG_02.png",
+      "kind": "background",
+      "bytes": 185049,
+      "width": 640,
+      "height": 480,
+      "sha256": "875e196c7942094dce1b73cae154c4b7a247bf7e266df36be22083a5dc7ebc2d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.00/SLUS_216.00_BG_02.png"
+      },
+      "gameId": "SLUS_216.00"
+    },
+    {
+      "path": "PS2/SLUS_216.00/SLUS_216.00_BG_03.png",
+      "kind": "background",
+      "bytes": 191090,
+      "width": 640,
+      "height": 480,
+      "sha256": "1d80b3ee4e8ed93d90933729474198574bd8e31f7cfb7d4b23032e65bdb85837",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.00/SLUS_216.00_BG_03.png"
+      },
+      "gameId": "SLUS_216.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Spider-Man - Friend or Foe"
+}

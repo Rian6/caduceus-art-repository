@@ -1,0 +1,90 @@
+{
+  "id": "SLES_502.47",
+  "cover": {
+    "path": "PS2/SLES_502.47/SLES_502.47_COV.png",
+    "kind": "cover",
+    "bytes": 77138,
+    "width": 192,
+    "height": 272,
+    "sha256": "bfe3fa1738d8e40611a9097715d86ea3abaab2e34ec08ede5329b4075a06a2d6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50247.jpg"
+    },
+    "gameId": "SLES_502.47"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_502.47/SLES_502.47_BG.png",
+    "kind": "background",
+    "bytes": 105225,
+    "width": 640,
+    "height": 480,
+    "sha256": "b9b4c062f1fd11ea776133c67f8ed5a525783c7f0627452f367b063df3c14b2e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.47/SLES_502.47_BG_00.png"
+    },
+    "gameId": "SLES_502.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.47/SLES_502.47_BG.png",
+      "kind": "background",
+      "bytes": 105225,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9b4c062f1fd11ea776133c67f8ed5a525783c7f0627452f367b063df3c14b2e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.47/SLES_502.47_BG_00.png"
+      },
+      "gameId": "SLES_502.47"
+    },
+    {
+      "path": "PS2/SLES_502.47/SLES_502.47_BG_01.png",
+      "kind": "background",
+      "bytes": 175688,
+      "width": 640,
+      "height": 480,
+      "sha256": "9bca5d6ef762cefc2596d10ef713331f26807c547e9a189732da1e9a7936cb45",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.47/SLES_502.47_BG_01.png"
+      },
+      "gameId": "SLES_502.47"
+    },
+    {
+      "path": "PS2/SLES_502.47/SLES_502.47_BG_02.png",
+      "kind": "background",
+      "bytes": 187324,
+      "width": 640,
+      "height": 480,
+      "sha256": "9be9c0c04888619692babe827333cb3a1795f37ca116c1dd22c179e5abed3a08",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.47/SLES_502.47_BG_02.png"
+      },
+      "gameId": "SLES_502.47"
+    },
+    {
+      "path": "PS2/SLES_502.47/SLES_502.47_BG_03.png",
+      "kind": "background",
+      "bytes": 214405,
+      "width": 640,
+      "height": 480,
+      "sha256": "bdfe87345a986d609548955765fe9cb309d4e63c1390a26d79925f35d30623ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.47/SLES_502.47_BG_03.png"
+      },
+      "gameId": "SLES_502.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONIMUSHA - WARLORDS"
+}

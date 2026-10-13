@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.80",
+  "cover": {
+    "path": "PS2/SLPS_256.80/SLPS_256.80_COV.png",
+    "kind": "cover",
+    "bytes": 110105,
+    "width": 192,
+    "height": 272,
+    "sha256": "66578102e31ca0071ffc920cf2031241745650f8c1ad33409e07540474a761ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25680.jpg"
+    },
+    "gameId": "SLPS_256.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAI-OTOME HIME - OTOME BUTOU SHI [LIMITED EDITION]"
+}

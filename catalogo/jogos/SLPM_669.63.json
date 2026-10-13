@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.63",
+  "cover": {
+    "path": "PS2/SLPM_669.63/SLPM_669.63_COV.png",
+    "kind": "cover",
+    "bytes": 91914,
+    "width": 192,
+    "height": 272,
+    "sha256": "c93712a24eff06ec5d170ead909769fab64011980d578dd79de061eaa3df6b7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66963.jpg"
+    },
+    "gameId": "SLPM_669.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEDAL OF HONOR - SHIJOU SAIDAI NO SAKUSEN [EA:SY! 1980]"
+}

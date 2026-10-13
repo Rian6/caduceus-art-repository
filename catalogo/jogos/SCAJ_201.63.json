@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.63",
+  "cover": {
+    "path": "PS2/SCAJ_201.63/SCAJ_201.63_COV.png",
+    "kind": "cover",
+    "bytes": 101193,
+    "width": 192,
+    "height": 272,
+    "sha256": "7e912a7bdfae72599901938310cee6e12c58b389b8d3c4c91d8611ed7400d6f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20163.jpg"
+    },
+    "gameId": "SCAJ_201.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TALES OF THE ABYSS"
+}

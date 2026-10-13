@@ -1,0 +1,64 @@
+{
+  "id": "SLES_509.20",
+  "cover": {
+    "path": "PS2/SLES_509.20/SLES_509.20_COV.png",
+    "kind": "cover",
+    "bytes": 87628,
+    "width": 192,
+    "height": 272,
+    "sha256": "596d8a3cca057ff63394d2e7960af352f769f4a6e860e402152d067cc6647ac2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50920.jpg"
+    },
+    "gameId": "SLES_509.20"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_509.20/SLES_509.20_BG.png",
+    "kind": "background",
+    "bytes": 196379,
+    "width": 640,
+    "height": 480,
+    "sha256": "a0d467b8e5f60e7ba79651e81697213f65bcb2b0fb402eee4f85b56fd82822c3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_509.20/SLES_509.20_BG_00.png"
+    },
+    "gameId": "SLES_509.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_509.20/SLES_509.20_BG.png",
+      "kind": "background",
+      "bytes": 196379,
+      "width": 640,
+      "height": 480,
+      "sha256": "a0d467b8e5f60e7ba79651e81697213f65bcb2b0fb402eee4f85b56fd82822c3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.20/SLES_509.20_BG_00.png"
+      },
+      "gameId": "SLES_509.20"
+    },
+    {
+      "path": "PS2/SLES_509.20/SLES_509.20_BG_01.png",
+      "kind": "background",
+      "bytes": 198669,
+      "width": 640,
+      "height": 480,
+      "sha256": "bec98702397e5208b3fad5c36143608a5baa923618287d1562a295a1f2398d71",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.20/SLES_509.20_BG_01.png"
+      },
+      "gameId": "SLES_509.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "King's Field IV"
+}

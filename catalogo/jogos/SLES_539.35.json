@@ -1,0 +1,25 @@
+{
+  "id": "SLES_539.35",
+  "cover": {
+    "path": "PS2/SLES_539.35/SLES_539.35_COV.png",
+    "kind": "cover",
+    "bytes": 98743,
+    "width": 192,
+    "height": 272,
+    "sha256": "4fbb00d5e8a5ba855f6b4cee363051f2da5129587b51a0a4e51feaa6d9718331",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53935.jpg"
+    },
+    "gameId": "SLES_539.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynamite 100"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_537.52",
+  "cover": {
+    "path": "PS2/SLES_537.52/SLES_537.52_COV.png",
+    "kind": "cover",
+    "bytes": 95014,
+    "width": 192,
+    "height": 272,
+    "sha256": "2b9fee3b32c0843dd7b0a4a1e45cd55e1642f941c1b82a727c60d927953b1ffc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53752.jpg"
+    },
+    "gameId": "SLES_537.52"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.52/SLES_537.52_BG.png",
+    "kind": "background",
+    "bytes": 164596,
+    "width": 640,
+    "height": 480,
+    "sha256": "8ff745ecb8505419b6f81dba0096a0814e8aafd85722ed8eeb5bdaf92d84fa9a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.52/SLES_537.52_BG_00.png"
+    },
+    "gameId": "SLES_537.52"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.52/SLES_537.52_BG.png",
+      "kind": "background",
+      "bytes": 164596,
+      "width": 640,
+      "height": 480,
+      "sha256": "8ff745ecb8505419b6f81dba0096a0814e8aafd85722ed8eeb5bdaf92d84fa9a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.52/SLES_537.52_BG_00.png"
+      },
+      "gameId": "SLES_537.52"
+    },
+    {
+      "path": "PS2/SLES_537.52/SLES_537.52_BG_01.png",
+      "kind": "background",
+      "bytes": 223380,
+      "width": 640,
+      "height": 480,
+      "sha256": "978e9e69c80b5b31ab8449fce9b0ce59d932291805e58e4e51ec36be05200b34",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.52/SLES_537.52_BG_01.png"
+      },
+      "gameId": "SLES_537.52"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamWorks Shrek: SuperSlam"
+}

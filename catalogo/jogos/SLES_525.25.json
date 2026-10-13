@@ -1,0 +1,39 @@
+{
+  "id": "SLES_525.25",
+  "cover": {
+    "path": "PS2/SLES_525.25/SLES_525.25_COV.png",
+    "kind": "cover",
+    "bytes": 105979,
+    "width": 192,
+    "height": 272,
+    "sha256": "7e9d511eb32254cc3c39a94ddab6cb14b3c79f9fac6cbe6ac5f1e301cc690707",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52525.jpg"
+    },
+    "gameId": "SLES_525.25"
+  },
+  "disc": {
+    "path": "PS2/SLES_525.25/SLES_525.25_ICO.png",
+    "kind": "disc",
+    "bytes": 12480,
+    "width": 128,
+    "height": 128,
+    "sha256": "8f12b2540b7fe7e6cc513a03ffe09d504999775329125468253e5c0d04904fb7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_525.25_ICO.png"
+    },
+    "gameId": "SLES_525.25"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mouse Trophy"
+}

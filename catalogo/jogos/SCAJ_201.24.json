@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.24",
+  "cover": {
+    "path": "PS2/SCAJ_201.24/SCAJ_201.24_COV.png",
+    "kind": "cover",
+    "bytes": 68225,
+    "width": 192,
+    "height": 272,
+    "sha256": "def2bdd90f6eee723e806018d216d640d21408dc0fd8b4303d6399cc6e260bcc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20124.jpg"
+    },
+    "gameId": "SCAJ_201.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROMANCING SAGA - MINSTREL SONG"
+}

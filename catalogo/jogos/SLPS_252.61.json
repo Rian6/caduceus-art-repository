@@ -1,0 +1,39 @@
+{
+  "id": "SLPS_252.61",
+  "cover": {
+    "path": "PS2/SLPS_252.61/SLPS_252.61_COV.png",
+    "kind": "cover",
+    "bytes": 106820,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1af76d7873bff245787735188e39f681a150817a1cbd20f82d122ec4221b7f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25261.jpg"
+    },
+    "gameId": "SLPS_252.61"
+  },
+  "disc": {
+    "path": "PS2/SLPS_252.61/SLPS_252.61_ICO.png",
+    "kind": "disc",
+    "bytes": 7636,
+    "width": 128,
+    "height": 128,
+    "sha256": "42b8f873249a7ff6ee0ba396d5d6377fcf4adbfb53ca4c71b70c9839bf10ffa4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_252.61_ICO.png"
+    },
+    "gameId": "SLPS_252.61"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guilty Gear XX Reload - The Midnight Carnival"
+}

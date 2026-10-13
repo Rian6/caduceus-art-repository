@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.78",
+  "cover": {
+    "path": "PS2/SLPS_202.78/SLPS_202.78_COV.png",
+    "kind": "cover",
+    "bytes": 82814,
+    "width": 192,
+    "height": 272,
+    "sha256": "f01ccbb414aa57b37f996dc46adcf28894d7dff3e99205f9722acaa0f11fc0fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20278.jpg"
+    },
+    "gameId": "SLPS_202.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLOTTER UP MANIA - CHOU OKI SLOT PIONEER SPECIAL"
+}

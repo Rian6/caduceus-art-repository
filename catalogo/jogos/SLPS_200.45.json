@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.45",
+  "cover": {
+    "path": "PS2/SLPS_200.45/SLPS_200.45_COV.png",
+    "kind": "cover",
+    "bytes": 55560,
+    "width": 192,
+    "height": 272,
+    "sha256": "326d7b8608dbbdfb62e39c1effce8e09fd0bbeabdfec2ec648388e603e657181",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_200.45/SLPS_200.45_COV.png"
+    },
+    "gameId": "SLPS_200.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jissen Pachi-Slot Hisshouhou! Kemono-Oh! (Deluxe Pack)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.50",
+  "cover": {
+    "path": "PS2/SLPM_653.50/SLPM_653.50_COV.png",
+    "kind": "cover",
+    "bytes": 104950,
+    "width": 192,
+    "height": 272,
+    "sha256": "ddebf0860c1d3db947f4c6993cfc35b3c436077e020337a1a218d9ba440a67b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65350.jpg"
+    },
+    "gameId": "SLPM_653.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 ULTIMATE SERIES VOL.11 - WANDABA STYLE - TOTSUGEKI! MIX KI JUICE"
+}

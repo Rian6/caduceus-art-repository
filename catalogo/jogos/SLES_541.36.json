@@ -1,0 +1,51 @@
+{
+  "id": "SLES_541.36",
+  "cover": {
+    "path": "PS2/SLES_541.36/SLES_541.36_COV.png",
+    "kind": "cover",
+    "bytes": 97955,
+    "width": 192,
+    "height": 272,
+    "sha256": "fa99f4f9dfeb08a13b6a425294d79eba870796ee27385f1a1571ecfb9eb4a630",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54136.jpg"
+    },
+    "gameId": "SLES_541.36"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.36/SLES_541.36_BG.png",
+    "kind": "background",
+    "bytes": 121250,
+    "width": 640,
+    "height": 480,
+    "sha256": "9a765a06f3fbeaa7a3ed9fc0751848173e646ae099476ccb5a2f6caed77d853c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.36/SLES_541.36_BG_00.png"
+    },
+    "gameId": "SLES_541.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.36/SLES_541.36_BG.png",
+      "kind": "background",
+      "bytes": 121250,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a765a06f3fbeaa7a3ed9fc0751848173e646ae099476ccb5a2f6caed77d853c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.36/SLES_541.36_BG_00.png"
+      },
+      "gameId": "SLES_541.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Grand Theft Auto - Liberty City Stories"
+}

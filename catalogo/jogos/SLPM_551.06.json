@@ -1,0 +1,116 @@
+{
+  "id": "SLPM_551.06",
+  "cover": {
+    "path": "PS2/SLPM_551.06/SLPM_551.06_COV.png",
+    "kind": "cover",
+    "bytes": 113091,
+    "width": 192,
+    "height": 272,
+    "sha256": "a32d9f32dc34bbb166a489fe7223964d45cf6301387ca9de51223a8e48b6fd75",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55106.jpg"
+    },
+    "gameId": "SLPM_551.06"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_551.06/SLPM_551.06_BG.png",
+    "kind": "background",
+    "bytes": 112497,
+    "width": 640,
+    "height": 480,
+    "sha256": "4acb2da61454b8873d0723abfc56b22ecdfe5a72d6608a543d48fd669840e61e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_551.06/SLPM_551.06_BG_00.png"
+    },
+    "gameId": "SLPM_551.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_551.06/SLPM_551.06_BG.png",
+      "kind": "background",
+      "bytes": 112497,
+      "width": 640,
+      "height": 480,
+      "sha256": "4acb2da61454b8873d0723abfc56b22ecdfe5a72d6608a543d48fd669840e61e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_551.06/SLPM_551.06_BG_00.png"
+      },
+      "gameId": "SLPM_551.06"
+    },
+    {
+      "path": "PS2/SLPM_551.06/SLPM_551.06_BG_01.png",
+      "kind": "background",
+      "bytes": 191322,
+      "width": 640,
+      "height": 480,
+      "sha256": "9709e256c7bf5c20c88c04bd835486ecfb5da00be625a6f162a3816395ac2d34",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_551.06/SLPM_551.06_BG_01.png"
+      },
+      "gameId": "SLPM_551.06"
+    },
+    {
+      "path": "PS2/SLPM_551.06/SLPM_551.06_BG_02.png",
+      "kind": "background",
+      "bytes": 192244,
+      "width": 640,
+      "height": 480,
+      "sha256": "3922b1cf50ea8abc07fcb51016b5f612aa619b1e5ac5426118ff100a730e89c0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_551.06/SLPM_551.06_BG_02.png"
+      },
+      "gameId": "SLPM_551.06"
+    },
+    {
+      "path": "PS2/SLPM_551.06/SLPM_551.06_BG_03.png",
+      "kind": "background",
+      "bytes": 210553,
+      "width": 640,
+      "height": 480,
+      "sha256": "f420639632f523a94dfc9232e901dff7e85a0c0ce1cf6e0c2e219913087d877a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_551.06/SLPM_551.06_BG_03.png"
+      },
+      "gameId": "SLPM_551.06"
+    },
+    {
+      "path": "PS2/SLPM_551.06/SLPM_551.06_BG_04.png",
+      "kind": "background",
+      "bytes": 192373,
+      "width": 640,
+      "height": 480,
+      "sha256": "d10f561b40b016227065d50074f2bf6457f2b695789c709ce069892e4da735ee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_551.06/SLPM_551.06_BG_04.png"
+      },
+      "gameId": "SLPM_551.06"
+    },
+    {
+      "path": "PS2/SLPM_551.06/SLPM_551.06_BG_05.png",
+      "kind": "background",
+      "bytes": 173397,
+      "width": 640,
+      "height": 480,
+      "sha256": "26f6d0085eb4956dda14f65d0a42812e00cb56f5eea3f8316d2f09d8935af210",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_551.06/SLPM_551.06_BG_05.png"
+      },
+      "gameId": "SLPM_551.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Arcana Heart [AQ the Best]"
+}

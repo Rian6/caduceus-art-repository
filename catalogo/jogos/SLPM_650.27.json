@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.27",
+  "cover": {
+    "path": "PS2/SLPM_650.27/SLPM_650.27_COV.png",
+    "kind": "cover",
+    "bytes": 111536,
+    "width": 192,
+    "height": 272,
+    "sha256": "90d983f70ba7215896b046ef9118c9c4412ed0a9a565abe44ac7df3a54d4e8d3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65027.jpg"
+    },
+    "gameId": "SLPM_650.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Anime Eikaiwa: 15 Shounen Hyouryuuki: Hitomi no Naka no Shounen"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.32",
+  "cover": {
+    "path": "PS2/SLPM_656.32/SLPM_656.32_COV.png",
+    "kind": "cover",
+    "bytes": 100962,
+    "width": 192,
+    "height": 272,
+    "sha256": "025a0a14434addb224ff4a346ba64f1fe40b9b296abe6b5294f3787cdc0c460b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65632.jpg"
+    },
+    "gameId": "SLPM_656.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Virtua Fighter Cyber Generation - Judgment Six No Yabou"
+}

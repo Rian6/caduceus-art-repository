@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.09",
+  "cover": {
+    "path": "PS2/SLPM_659.09/SLPM_659.09_COV.png",
+    "kind": "cover",
+    "bytes": 107859,
+    "width": 192,
+    "height": 272,
+    "sha256": "37532c22b3107c1fab5f84c1516307ea899429da03346bc07498625c87d5b9fe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65909.jpg"
+    },
+    "gameId": "SLPM_659.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Monkey Ball Deluxe"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_528.59",
+  "cover": {
+    "path": "PS2/SLES_528.59/SLES_528.59_COV.png",
+    "kind": "cover",
+    "bytes": 90123,
+    "width": 192,
+    "height": 272,
+    "sha256": "61c14e7852709dddfc237251b76ec88223a31243b5c7dda7073396e24c1393d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52859.jpg"
+    },
+    "gameId": "SLES_528.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.59/SLES_528.59_BG.png",
+    "kind": "background",
+    "bytes": 140791,
+    "width": 640,
+    "height": 480,
+    "sha256": "09d331c2e4b7bcfc3f512afa62b9ee8b84564c0ddbe7ddd22c5fdde981238083",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.59/SLES_528.59_BG_00.png"
+    },
+    "gameId": "SLES_528.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.59/SLES_528.59_BG.png",
+      "kind": "background",
+      "bytes": 140791,
+      "width": 640,
+      "height": 480,
+      "sha256": "09d331c2e4b7bcfc3f512afa62b9ee8b84564c0ddbe7ddd22c5fdde981238083",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.59/SLES_528.59_BG_00.png"
+      },
+      "gameId": "SLES_528.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PROJECT - SNOWBLIND"
+}

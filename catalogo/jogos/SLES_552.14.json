@@ -1,0 +1,25 @@
+{
+  "id": "SLES_552.14",
+  "cover": {
+    "path": "PS2/SLES_552.14/SLES_552.14_COV.png",
+    "kind": "cover",
+    "bytes": 95528,
+    "width": 192,
+    "height": 272,
+    "sha256": "a923e85230f6748c685959ae109b354334d7a69ed549a4307493c7908924bdf2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55214.jpg"
+    },
+    "gameId": "SLES_552.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Hannah Montana - Spotlight World Tour"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.75",
+  "cover": {
+    "path": "PS2/SLPM_658.75/SLPM_658.75_COV.png",
+    "kind": "cover",
+    "bytes": 102820,
+    "width": 192,
+    "height": 272,
+    "sha256": "b615b0d4916f0bd2946e7f902cfce315036c9f8967a4e95d2eabcfc61b78a1c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65875.jpg"
+    },
+    "gameId": "SLPM_658.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Growlanser IV - Wayfarer of the Time (Atlus Best Collection)"
+}

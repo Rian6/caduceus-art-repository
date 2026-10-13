@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.13",
+  "cover": {
+    "path": "PS2/SLPM_655.13/SLPM_655.13_COV.png",
+    "kind": "cover",
+    "bytes": 101582,
+    "width": 192,
+    "height": 272,
+    "sha256": "d6fade669b81bd614c6a4983345f2ed46014d6a3609ee9253c2550b6f2cdea84",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65513.jpg"
+    },
+    "gameId": "SLPM_655.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Angel's Feather"
+}

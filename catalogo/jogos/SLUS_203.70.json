@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_203.70",
+  "cover": {
+    "path": "PS2/SLUS_203.70/SLUS_203.70_COV.png",
+    "kind": "cover",
+    "bytes": 99399,
+    "width": 192,
+    "height": 272,
+    "sha256": "e6582b8cb82e7e1ebaeaea9cb07ea880da7cc0f53b70e10cf2cf9cd8500ae5ee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20370.jpg"
+    },
+    "gameId": "SLUS_203.70"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.70/SLUS_203.70_ICO.png",
+    "kind": "disc",
+    "bytes": 34112,
+    "width": 256,
+    "height": 256,
+    "sha256": "3fad2939822ec727c2b1431ec2a69be4d52f6e523c955144c3faad32c9dabed4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.70_ICO.png"
+    },
+    "gameId": "SLUS_203.70"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.70/SLUS_203.70_BG.png",
+    "kind": "background",
+    "bytes": 93334,
+    "width": 640,
+    "height": 480,
+    "sha256": "83e0ce8f636717ee5e09a8994099f8bd17083e916b33bdd95261b5752015d3ea",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.70/SLUS_203.70_BG_00.png"
+    },
+    "gameId": "SLUS_203.70"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.70/SLUS_203.70_BG.png",
+      "kind": "background",
+      "bytes": 93334,
+      "width": 640,
+      "height": 480,
+      "sha256": "83e0ce8f636717ee5e09a8994099f8bd17083e916b33bdd95261b5752015d3ea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.70/SLUS_203.70_BG_00.png"
+      },
+      "gameId": "SLUS_203.70"
+    },
+    {
+      "path": "PS2/SLUS_203.70/SLUS_203.70_BG_01.png",
+      "kind": "background",
+      "bytes": 152169,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d43901d192e87ce391448e17b17b6dfaa380a8e5f65859d0cb28bccc0d0e8c2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.70/SLUS_203.70_BG_01.png"
+      },
+      "gameId": "SLUS_203.70"
+    },
+    {
+      "path": "PS2/SLUS_203.70/SLUS_203.70_BG_02.png",
+      "kind": "background",
+      "bytes": 110874,
+      "width": 640,
+      "height": 480,
+      "sha256": "433227457bdf1efa4e05add76c18f30ab02de7ebd97203dc080722ee061f899a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.70/SLUS_203.70_BG_02.png"
+      },
+      "gameId": "SLUS_203.70"
+    },
+    {
+      "path": "PS2/SLUS_203.70/SLUS_203.70_BG_03.png",
+      "kind": "background",
+      "bytes": 203660,
+      "width": 640,
+      "height": 480,
+      "sha256": "8d5d374ba8a7153dc43a3b2dd60486911b42701e5bb7f87ff5a6d424fb6fa787",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.70/SLUS_203.70_BG_03.png"
+      },
+      "gameId": "SLUS_203.70"
+    },
+    {
+      "path": "PS2/SLUS_203.70/SLUS_203.70_BG_04.png",
+      "kind": "background",
+      "bytes": 153772,
+      "width": 640,
+      "height": 480,
+      "sha256": "67bcbc063a6b0998b2586e487bdf366d52cfe26e381a906a68de8aa3142ffae5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.70/SLUS_203.70_BG_04.png"
+      },
+      "gameId": "SLUS_203.70"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kingdom Hearts"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.30",
+  "cover": {
+    "path": "PS2/SLPM_624.30/SLPM_624.30_COV.png",
+    "kind": "cover",
+    "bytes": 85029,
+    "width": 192,
+    "height": 272,
+    "sha256": "98a308fdda663ae2fa0612365ad693ffcc425141d5be946744b7cb34ae8de819",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62430.jpg"
+    },
+    "gameId": "SLPM_624.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.043 - THE SAIBAN"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.05",
+  "cover": {
+    "path": "PS2/SLPS_203.05/SLPS_203.05_COV.png",
+    "kind": "cover",
+    "bytes": 112345,
+    "width": 192,
+    "height": 272,
+    "sha256": "715c67ada847f53e92ab8ae97245cb02d3e9a649f2f6237fbbecb8d83fc24a52",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20305.jpg"
+    },
+    "gameId": "SLPS_203.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Real Sports Pro Yakiuu"
+}

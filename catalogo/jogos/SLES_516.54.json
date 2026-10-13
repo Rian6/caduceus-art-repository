@@ -1,0 +1,25 @@
+{
+  "id": "SLES_516.54",
+  "cover": {
+    "path": "PS2/SLES_516.54/SLES_516.54_COV.png",
+    "kind": "cover",
+    "bytes": 106254,
+    "width": 192,
+    "height": 272,
+    "sha256": "62f5a96944a560ac9691ebb05523282792a9d797d33a55f52a716bd92dc7646e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51654.jpg"
+    },
+    "gameId": "SLES_516.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mace Griffin Bounty Hunter"
+}

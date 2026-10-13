@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_217.24",
+  "cover": {
+    "path": "PS2/SLUS_217.24/SLUS_217.24_COV.png",
+    "kind": "cover",
+    "bytes": 99565,
+    "width": 192,
+    "height": 272,
+    "sha256": "df8467291a9ae67971b58bb5357cfea06145d6e0e8cafd63318bcfd1ba41ef84",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21724.jpg"
+    },
+    "gameId": "SLUS_217.24"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.24/SLUS_217.24_ICO.png",
+    "kind": "disc",
+    "bytes": 31112,
+    "width": 256,
+    "height": 256,
+    "sha256": "f2629d53f7c2ad085e2f4ecd79125bbbf6774d8dbaae35b714c9609b7e6f3216",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.24_ICO.png"
+    },
+    "gameId": "SLUS_217.24"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.24/SLUS_217.24_BG.png",
+    "kind": "background",
+    "bytes": 191270,
+    "width": 640,
+    "height": 480,
+    "sha256": "a37d7bb60a356c988c166fd85219cb0c4ed15d9412e2f3e4a4d46c1fa1ee5e19",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.24/SLUS_217.24_BG_00.png"
+    },
+    "gameId": "SLUS_217.24"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.24/SLUS_217.24_BG.png",
+      "kind": "background",
+      "bytes": 191270,
+      "width": 640,
+      "height": 480,
+      "sha256": "a37d7bb60a356c988c166fd85219cb0c4ed15d9412e2f3e4a4d46c1fa1ee5e19",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.24/SLUS_217.24_BG_00.png"
+      },
+      "gameId": "SLUS_217.24"
+    },
+    {
+      "path": "PS2/SLUS_217.24/SLUS_217.24_BG_01.png",
+      "kind": "background",
+      "bytes": 197675,
+      "width": 640,
+      "height": 480,
+      "sha256": "6cbfe5469ee3874634ea94ea2eeb65849d295351616147231134c46f344bbb05",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.24/SLUS_217.24_BG_01.png"
+      },
+      "gameId": "SLUS_217.24"
+    },
+    {
+      "path": "PS2/SLUS_217.24/SLUS_217.24_BG_02.png",
+      "kind": "background",
+      "bytes": 24645,
+      "width": 640,
+      "height": 480,
+      "sha256": "24f13bb678dd30060bb1ac1e26fb80b757c6b510489f39345b158c0c412a25e5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.24/SLUS_217.24_BG_02.png"
+      },
+      "gameId": "SLUS_217.24"
+    },
+    {
+      "path": "PS2/SLUS_217.24/SLUS_217.24_BG_03.png",
+      "kind": "background",
+      "bytes": 183100,
+      "width": 640,
+      "height": 480,
+      "sha256": "15a93033507206dbaf78eba43b0d7bd85ad3ea779d43a9853a3be115f45f2e5c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.24/SLUS_217.24_BG_03.png"
+      },
+      "gameId": "SLUS_217.24"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SNK Arcade Classics Volume 1"
+}

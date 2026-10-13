@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.33",
+  "cover": {
+    "path": "PS2/SLPM_661.33/SLPM_661.33_COV.png",
+    "kind": "cover",
+    "bytes": 112879,
+    "width": 192,
+    "height": 272,
+    "sha256": "d5405421b796ea8cb00167682c65a6ae8c1014cc1725b8a9728b2dfb7a2635df",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66133.jpg"
+    },
+    "gameId": "SLPM_661.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHUFFLE! ON THE STAGE [DELUXE PACK]"
+}

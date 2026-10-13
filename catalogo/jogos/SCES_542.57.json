@@ -1,0 +1,64 @@
+{
+  "id": "SCES_542.57",
+  "cover": {
+    "path": "PS2/SCES_542.57/SCES_542.57_COV.png",
+    "kind": "cover",
+    "bytes": 83079,
+    "width": 192,
+    "height": 272,
+    "sha256": "74de97935c8a32686fe48fcaa76228430445e7f1ccdd1479d510ed02f3fa4bef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54257.jpg"
+    },
+    "gameId": "SCES_542.57"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_542.57/SCES_542.57_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_542.57/SCES_542.57_BG_00.png"
+    },
+    "gameId": "SCES_542.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_542.57/SCES_542.57_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.57/SCES_542.57_BG_00.png"
+      },
+      "gameId": "SCES_542.57"
+    },
+    {
+      "path": "PS2/SCES_542.57/SCES_542.57_BG_01.png",
+      "kind": "background",
+      "bytes": 130495,
+      "width": 640,
+      "height": 480,
+      "sha256": "ebfb00c3a507611392e4abd9e5990c614c3e4d50fc84346d164d002cd5e32af8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.57/SCES_542.57_BG_01.png"
+      },
+      "gameId": "SCES_542.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Legends"
+}

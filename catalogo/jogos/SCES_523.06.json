@@ -1,0 +1,39 @@
+{
+  "id": "SCES_523.06",
+  "cover": null,
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_523.06/SCES_523.06_BG.png",
+    "kind": "background",
+    "bytes": 190120,
+    "width": 640,
+    "height": 480,
+    "sha256": "aca4d2afda7574551ea46b172c073642f91a2ba0b094f1071723d37b3e10a6ee",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_523.06/SCES_523.06_BG_00.png"
+    },
+    "gameId": "SCES_523.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_523.06/SCES_523.06_BG.png",
+      "kind": "background",
+      "bytes": 190120,
+      "width": 640,
+      "height": 480,
+      "sha256": "aca4d2afda7574551ea46b172c073642f91a2ba0b094f1071723d37b3e10a6ee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_523.06/SCES_523.06_BG_00.png"
+      },
+      "gameId": "SCES_523.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOCOM II - U.S. Navy SEALs"
+}

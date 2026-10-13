@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.70",
+  "cover": {
+    "path": "PS2/SLPS_202.70/SLPS_202.70_COV.png",
+    "kind": "cover",
+    "bytes": 78347,
+    "width": 192,
+    "height": 272,
+    "sha256": "56a1ee904d91e763a7aefb80aca1e0ffde6502761e66b115f06468af0eae9448",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20270.jpg"
+    },
+    "gameId": "SLPS_202.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARD HITTER 2 [NEW PRICE]"
+}

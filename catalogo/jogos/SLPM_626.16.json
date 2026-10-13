@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.16",
+  "cover": {
+    "path": "PS2/SLPM_626.16/SLPM_626.16_COV.png",
+    "kind": "cover",
+    "bytes": 97060,
+    "width": 192,
+    "height": 272,
+    "sha256": "128ebe84d5ef81bbbe23eeedc02171cdf1b8605c4df2544aec57e1cfc531ea89",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62616.jpg"
+    },
+    "gameId": "SLPM_626.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Ultimate Series Vol.25 - Chou-Saisoku! Zokusha King BU no BU"
+}

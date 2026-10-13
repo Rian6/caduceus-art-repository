@@ -1,0 +1,25 @@
+{
+  "id": "SLES_518.22",
+  "cover": {
+    "path": "PS2/SLES_518.22/SLES_518.22_COV.png",
+    "kind": "cover",
+    "bytes": 63910,
+    "width": 192,
+    "height": 272,
+    "sha256": "8236dcc1a31d593e283872c78484e2b3bcc81158e63e6141a938c661efc3c460",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51822.jpg"
+    },
+    "gameId": "SLES_518.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ALIAS"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.96",
+  "cover": {
+    "path": "PS2/SLPM_621.96/SLPM_621.96_COV.png",
+    "kind": "cover",
+    "bytes": 81323,
+    "width": 192,
+    "height": 272,
+    "sha256": "6f6f8c5485f4e590ed5d7e51d33ec8daea1abf35b968d14f66f19d7156d9e5bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62196.jpg"
+    },
+    "gameId": "SLPM_621.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.06 - The Snowboard"
+}

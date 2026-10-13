@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.43",
+  "cover": {
+    "path": "PS2/SCAJ_201.43/SCAJ_201.43_COV.png",
+    "kind": "cover",
+    "bytes": 78991,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f0ab32b690bd8927502b26cc66cc0d2fb4f8636314beb374f9018a472cbbea8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20143.jpg"
+    },
+    "gameId": "SCAJ_201.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core - Last Raven"
+}

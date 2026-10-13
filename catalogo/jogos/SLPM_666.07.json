@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.07",
+  "cover": {
+    "path": "PS2/SLPM_666.07/SLPM_666.07_COV.png",
+    "kind": "cover",
+    "bytes": 90558,
+    "width": 192,
+    "height": 272,
+    "sha256": "433fe9c20a99b4b121adbc9af7acfb56bb555d5442cbb430b7e743a32d855946",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66607.jpg"
+    },
+    "gameId": "SLPM_666.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WHITE BREATH - KIZUNA"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_518.28",
+  "cover": {
+    "path": "PS2/SLES_518.28/SLES_518.28_COV.png",
+    "kind": "cover",
+    "bytes": 100082,
+    "width": 192,
+    "height": 272,
+    "sha256": "fab6040fd81120f1a2ccf20dd7ede9cb5e5e6bf7c031f9d257dc6c0d70f12aed",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51828.jpg"
+    },
+    "gameId": "SLES_518.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gladiator: Schwert der Rache"
+}

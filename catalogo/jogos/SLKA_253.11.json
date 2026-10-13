@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.11",
+  "cover": {
+    "path": "PS2/SLKA_253.11/SLKA_253.11_COV.png",
+    "kind": "cover",
+    "bytes": 99552,
+    "width": 192,
+    "height": 272,
+    "sha256": "50e5f3d0beb3b070e3614ac3482090c2bfceda49213a9cb384a3aaa3e6dff238",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25311.jpg"
+    },
+    "gameId": "SLKA_253.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Marvel Nemesis - Rise of the Imperfects"
+}

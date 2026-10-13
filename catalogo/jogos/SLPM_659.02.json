@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.02",
+  "cover": {
+    "path": "PS2/SLPM_659.02/SLPM_659.02_COV.png",
+    "kind": "cover",
+    "bytes": 86500,
+    "width": 192,
+    "height": 272,
+    "sha256": "bdb1a473f2f4d24068367a0294f27f027143a137bc701c7a92cfae8e642a94c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65902.jpg"
+    },
+    "gameId": "SLPM_659.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEMORIES OFF - AFTER RAIN VOL.2 - SOUEN [SPECIAL EDITION]"
+}

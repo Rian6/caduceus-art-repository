@@ -1,0 +1,25 @@
+{
+  "id": "SCES_516.11",
+  "cover": {
+    "path": "PS2/SCES_516.11/SCES_516.11_COV.png",
+    "kind": "cover",
+    "bytes": 57698,
+    "width": 192,
+    "height": 272,
+    "sha256": "c8db79787a466190048e4fca1dfe4488dc94e1b7ab5005ddd4af5a9f749ee0da",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_516.11/SCES_516.11_COV.png"
+    },
+    "gameId": "SCES_516.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "This is Football 2004"
+}

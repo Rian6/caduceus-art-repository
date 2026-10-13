@@ -1,0 +1,91 @@
+{
+  "id": "SLES_530.96",
+  "cover": {
+    "path": "PS2/SLES_530.96/SLES_530.96_COV.png",
+    "kind": "cover",
+    "bytes": 107447,
+    "width": 192,
+    "height": 272,
+    "sha256": "d502ea34d40c88047a68b178a0f1ee9336f66a4119429694f6ef7a6aa0aa2993",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53096.jpg"
+    },
+    "gameId": "SLES_530.96"
+  },
+  "disc": {
+    "path": "PS2/SLES_530.96/SLES_530.96_ICO.png",
+    "kind": "disc",
+    "bytes": 10743,
+    "width": 128,
+    "height": 128,
+    "sha256": "06f6e58727152e931211fa7ab3c9448b3f1eec77b69c35308f4a16d4faeeee1f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_530.96_ICO.png"
+    },
+    "gameId": "SLES_530.96"
+  },
+  "background": {
+    "path": "PS2/SLES_530.96/SLES_530.96_BG.png",
+    "kind": "background",
+    "bytes": 141621,
+    "width": 640,
+    "height": 480,
+    "sha256": "838e59fc2471a5bd9ef128c4baab24fca5e55fe66b8097cc5a6347d11c3acfb1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.96/SLES_530.96_BG_00.png"
+    },
+    "gameId": "SLES_530.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.96/SLES_530.96_BG.png",
+      "kind": "background",
+      "bytes": 141621,
+      "width": 640,
+      "height": 480,
+      "sha256": "838e59fc2471a5bd9ef128c4baab24fca5e55fe66b8097cc5a6347d11c3acfb1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.96/SLES_530.96_BG_00.png"
+      },
+      "gameId": "SLES_530.96"
+    },
+    {
+      "path": "PS2/SLES_530.96/SLES_530.96_BG_01.png",
+      "kind": "background",
+      "bytes": 123671,
+      "width": 640,
+      "height": 480,
+      "sha256": "a6822652d908de41a3b62fe682bc7bc49c133c51df616189775dfa89c9d9abf3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.96/SLES_530.96_BG_01.png"
+      },
+      "gameId": "SLES_530.96"
+    },
+    {
+      "path": "PS2/SLES_530.96/SLES_530.96_BG_02.png",
+      "kind": "background",
+      "bytes": 131210,
+      "width": 640,
+      "height": 480,
+      "sha256": "8fd0ad5ef5df3635949af379060e6326232e6bdcb7932a8d066b4a0533ffdb68",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.96/SLES_530.96_BG_02.png"
+      },
+      "gameId": "SLES_530.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Worms 4: Mayhem"
+}

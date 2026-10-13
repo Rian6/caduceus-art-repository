@@ -1,0 +1,25 @@
+{
+  "id": "SLES_549.85",
+  "cover": {
+    "path": "PS2/SLES_549.85/SLES_549.85_COV.png",
+    "kind": "cover",
+    "bytes": 111791,
+    "width": 192,
+    "height": 272,
+    "sha256": "66e6bbd7408e02f68584530c3d2dcc856e710744bd23bf44dc05198b90893a44",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54985.jpg"
+    },
+    "gameId": "SLES_549.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Thomas & Friends: A Day at the Races"
+}

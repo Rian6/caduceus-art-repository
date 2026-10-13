@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_211.19",
+  "cover": {
+    "path": "PS2/SLUS_211.19/SLUS_211.19_COV.png",
+    "kind": "cover",
+    "bytes": 79545,
+    "width": 192,
+    "height": 272,
+    "sha256": "c1ea04da898ce7e75e4cdaad3ab3e37c6b72f0795171fc0f221edac094094d19",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21119.jpg"
+    },
+    "gameId": "SLUS_211.19"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.19/SLUS_211.19_ICO.png",
+    "kind": "disc",
+    "bytes": 33861,
+    "width": 256,
+    "height": 256,
+    "sha256": "e25d96103f072c4b79c80f14c78e5d250e5d03c8ed06aee84b4735ecc189abbd",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.19_ICO.png"
+    },
+    "gameId": "SLUS_211.19"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.19/SLUS_211.19_BG.png",
+    "kind": "background",
+    "bytes": 177663,
+    "width": 640,
+    "height": 480,
+    "sha256": "0e9db5d94cb097697b9b705dc085567d707c613319e964f1dd504ad7a2b862e6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.19/SLUS_211.19_BG_00.png"
+    },
+    "gameId": "SLUS_211.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.19/SLUS_211.19_BG.png",
+      "kind": "background",
+      "bytes": 177663,
+      "width": 640,
+      "height": 480,
+      "sha256": "0e9db5d94cb097697b9b705dc085567d707c613319e964f1dd504ad7a2b862e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.19/SLUS_211.19_BG_00.png"
+      },
+      "gameId": "SLUS_211.19"
+    },
+    {
+      "path": "PS2/SLUS_211.19/SLUS_211.19_BG_01.png",
+      "kind": "background",
+      "bytes": 258033,
+      "width": 640,
+      "height": 480,
+      "sha256": "85ec26fa41ecc2abd49698f1ae86b96a633c4db62d77cbf9e75f2d1f8b89d396",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.19/SLUS_211.19_BG_01.png"
+      },
+      "gameId": "SLUS_211.19"
+    },
+    {
+      "path": "PS2/SLUS_211.19/SLUS_211.19_BG_02.png",
+      "kind": "background",
+      "bytes": 193535,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3b9c31c026858b014a8f4be818e8e19ead57bc2e72d26652de27dc523be7436",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.19/SLUS_211.19_BG_02.png"
+      },
+      "gameId": "SLUS_211.19"
+    },
+    {
+      "path": "PS2/SLUS_211.19/SLUS_211.19_BG_03.png",
+      "kind": "background",
+      "bytes": 185712,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c2153827c95604197c2d22c173d3ef54d394e3479a56ee342a2d4975689be58",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.19/SLUS_211.19_BG_03.png"
+      },
+      "gameId": "SLUS_211.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kessen III"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.01",
+  "cover": {
+    "path": "PS2/SCAJ_201.01/SCAJ_201.01_COV.png",
+    "kind": "cover",
+    "bytes": 96907,
+    "width": 192,
+    "height": 272,
+    "sha256": "1b1ed42e25e2aba1375cec3467dd7f4295640a18ac073bf9d33db2709cc116e5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20101.jpg"
+    },
+    "gameId": "SCAJ_201.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saru Eye Toy Oosawagi - Wakki Waki Game Tenkomori!!"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.48",
+  "cover": {
+    "path": "PS2/SLPM_552.48/SLPM_552.48_COV.png",
+    "kind": "cover",
+    "bytes": 96246,
+    "width": 192,
+    "height": 272,
+    "sha256": "1b15824e8bcd0b58e81eee105e53238b1c676b0c898f5a2eeba828bb7285dfca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55248.jpg"
+    },
+    "gameId": "SLPM_552.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KIN'IRO NO KORUDA 3"
+}

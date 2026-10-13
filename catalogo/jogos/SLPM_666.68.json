@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.68",
+  "cover": {
+    "path": "PS2/SLPM_666.68/SLPM_666.68_COV.png",
+    "kind": "cover",
+    "bytes": 84877,
+    "width": 192,
+    "height": 272,
+    "sha256": "a1f80cf0744179d61135e036323a608760acbf24f5b460dc30365580c0007b7c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66668.jpg"
+    },
+    "gameId": "SLPM_666.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Akumajo Dracula - Yami no Juin [Konami the Best]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_534.64",
+  "cover": {
+    "path": "PS2/SLES_534.64/SLES_534.64_COV.png",
+    "kind": "cover",
+    "bytes": 100610,
+    "width": 192,
+    "height": 272,
+    "sha256": "3d71db49ab97e640e56966a2dc27116753a90a6b88737b12f50b0829f0a60a0d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53464.jpg"
+    },
+    "gameId": "SLES_534.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Great British Football Quiz"
+}

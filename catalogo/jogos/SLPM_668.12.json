@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.12",
+  "cover": {
+    "path": "PS2/SLPM_668.12/SLPM_668.12_COV.png",
+    "kind": "cover",
+    "bytes": 89259,
+    "width": 192,
+    "height": 272,
+    "sha256": "006a1d4f7b36646fe43a74796db7cda323b4aae36c30d3398e12024ed347aebd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66812.jpg"
+    },
+    "gameId": "SLPM_668.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "G1 Jockey 4 (Koei The Best)"
+}

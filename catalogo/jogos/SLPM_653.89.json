@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.89",
+  "cover": {
+    "path": "PS2/SLPM_653.89/SLPM_653.89_COV.png",
+    "kind": "cover",
+    "bytes": 96198,
+    "width": 192,
+    "height": 272,
+    "sha256": "25203003bff2ec33f43044479e06bad5639c2f8b769e9a95b0b5543375a42b6e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65389.jpg"
+    },
+    "gameId": "SLPM_653.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LOST PASSAGE - USHINAWARETA HITOFUSHI"
+}

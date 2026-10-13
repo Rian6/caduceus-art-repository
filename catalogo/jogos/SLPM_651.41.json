@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.41",
+  "cover": {
+    "path": "PS2/SLPM_651.41/SLPM_651.41_COV.png",
+    "kind": "cover",
+    "bytes": 64133,
+    "width": 192,
+    "height": 272,
+    "sha256": "286a45600ba0fe7767400593debce75df24cd2861be47c3d6026ca4f459c9b8b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65141.jpg"
+    },
+    "gameId": "SLPM_651.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zoku Segare Ijiri - Henchin Tama Segare"
+}

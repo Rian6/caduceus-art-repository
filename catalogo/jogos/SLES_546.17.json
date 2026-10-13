@@ -1,0 +1,78 @@
+{
+  "id": "SLES_546.17",
+  "cover": {
+    "path": "PS2/SLES_546.17/SLES_546.17_COV.png",
+    "kind": "cover",
+    "bytes": 111633,
+    "width": 192,
+    "height": 272,
+    "sha256": "d54fea808d93938de766315ecf0cd15f940f965c97fba4119cc0a8729528344e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54617.jpg"
+    },
+    "gameId": "SLES_546.17"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.17/SLES_546.17_ICO.png",
+    "kind": "disc",
+    "bytes": 10458,
+    "width": 128,
+    "height": 128,
+    "sha256": "58de8c61f2d0f86d455c8dbf910b3812125f2d03797889088656af2544ab75a1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.17_ICO.png"
+    },
+    "gameId": "SLES_546.17"
+  },
+  "background": {
+    "path": "PS2/SLES_546.17/SLES_546.17_BG.png",
+    "kind": "background",
+    "bytes": 187218,
+    "width": 640,
+    "height": 480,
+    "sha256": "58b18768c1e1e95a08d50d181568b94c1c02eb95dafab164aa660ebe4e0e22d3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.17/SLES_546.17_BG_00.png"
+    },
+    "gameId": "SLES_546.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_546.17/SLES_546.17_BG.png",
+      "kind": "background",
+      "bytes": 187218,
+      "width": 640,
+      "height": 480,
+      "sha256": "58b18768c1e1e95a08d50d181568b94c1c02eb95dafab164aa660ebe4e0e22d3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.17/SLES_546.17_BG_00.png"
+      },
+      "gameId": "SLES_546.17"
+    },
+    {
+      "path": "PS2/SLES_546.17/SLES_546.17_BG_01.png",
+      "kind": "background",
+      "bytes": 177549,
+      "width": 640,
+      "height": 480,
+      "sha256": "da63d88f270b40d3c496ae07830a39e5d7fc3e4b19bc73da4027c1c5eae40794",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.17/SLES_546.17_BG_01.png"
+      },
+      "gameId": "SLES_546.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Action Man A.T.O.M.: Alpha Teens on Machines"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.12",
+  "cover": {
+    "path": "PS2/SCPS_150.12/SCPS_150.12_COV.png",
+    "kind": "cover",
+    "bytes": 103164,
+    "width": 192,
+    "height": 272,
+    "sha256": "131c44e68e1889d7fbd1b5355e7a998a1284cf1ecb07ea9e99c1d6658d53dde1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15012.jpg"
+    },
+    "gameId": "SCPS_150.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Surveillance - Kanshisha"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.03",
+  "cover": {
+    "path": "PS2/SLPS_258.03/SLPS_258.03_COV.png",
+    "kind": "cover",
+    "bytes": 118281,
+    "width": 192,
+    "height": 272,
+    "sha256": "b63b95bd2351eaba42b552f58979d74eab35e90c9f09421a6b247f8062d3086e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25803.jpg"
+    },
+    "gameId": "SLPS_258.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "XXXHOLIC - WATANUKI NO IZAYOI SOUWA"
+}

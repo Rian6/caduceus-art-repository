@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_668.10",
+  "cover": {
+    "path": "PS2/SLPM_668.10/SLPM_668.10_COV.png",
+    "kind": "cover",
+    "bytes": 104947,
+    "width": 192,
+    "height": 272,
+    "sha256": "6aa07d72ccc3c5157eddfef5289473e327590e0cf3404d29a301022cda028f7b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66810.jpg"
+    },
+    "gameId": "SLPM_668.10"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_668.10/SLPM_668.10_BG.png",
+    "kind": "background",
+    "bytes": 171911,
+    "width": 640,
+    "height": 480,
+    "sha256": "35b7e04060299d6eb2f59aaeb3580d2ba5e3b8a546af90dba4b491638aca8395",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_668.10/SLPM_668.10_BG_00.png"
+    },
+    "gameId": "SLPM_668.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_668.10/SLPM_668.10_BG.png",
+      "kind": "background",
+      "bytes": 171911,
+      "width": 640,
+      "height": 480,
+      "sha256": "35b7e04060299d6eb2f59aaeb3580d2ba5e3b8a546af90dba4b491638aca8395",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_668.10/SLPM_668.10_BG_00.png"
+      },
+      "gameId": "SLPM_668.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "J-League Winning Eleven 2007 Club Championship"
+}

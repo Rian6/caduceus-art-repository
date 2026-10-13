@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.18",
+  "cover": {
+    "path": "PS2/SLPM_622.18/SLPM_622.18_COV.png",
+    "kind": "cover",
+    "bytes": 86214,
+    "width": 192,
+    "height": 272,
+    "sha256": "a222467eea9c713ec2942e05144ff37b19e57fbaccfdb94225dd5859d13a1955",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62218.jpg"
+    },
+    "gameId": "SLPM_622.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.10 - The Table Game Sekaihen"
+}

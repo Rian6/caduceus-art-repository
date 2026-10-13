@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_731.01",
+  "cover": {
+    "path": "PS2/SLPS_731.01/SLPS_731.01_COV.png",
+    "kind": "cover",
+    "bytes": 96272,
+    "width": 192,
+    "height": 272,
+    "sha256": "336f29c3a03b9cc8b731e7dec6f693b05193dbd311537a980f3748f0b17ec99e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73101.jpg"
+    },
+    "gameId": "SLPS_731.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KOTOBA NO PUZZLE - MOJIPITTAN [PLAYSTATION 2 THE BEST]"
+}

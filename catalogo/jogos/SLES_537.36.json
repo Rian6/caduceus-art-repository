@@ -1,0 +1,65 @@
+{
+  "id": "SLES_537.36",
+  "cover": {
+    "path": "PS2/SLES_537.36/SLES_537.36_COV.png",
+    "kind": "cover",
+    "bytes": 98659,
+    "width": 192,
+    "height": 272,
+    "sha256": "47e60fdcae2f98f948a89bd495b0f730d26c4f734f8a21bf302fbdcee50ad450",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53736.jpg"
+    },
+    "gameId": "SLES_537.36"
+  },
+  "disc": {
+    "path": "PS2/SLES_537.36/SLES_537.36_ICO.png",
+    "kind": "disc",
+    "bytes": 10372,
+    "width": 128,
+    "height": 128,
+    "sha256": "d4675b4649f33c433106673cac61c28153bdf99bb5db42c353e41c24e08117eb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_537.36_ICO.png"
+    },
+    "gameId": "SLES_537.36"
+  },
+  "background": {
+    "path": "PS2/SLES_537.36/SLES_537.36_BG.png",
+    "kind": "background",
+    "bytes": 197544,
+    "width": 640,
+    "height": 480,
+    "sha256": "2dd3e805d304b02266ebfda773aca7c832afcf49be07d66e30c237aab23166d1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.36/SLES_537.36_BG_00.png"
+    },
+    "gameId": "SLES_537.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.36/SLES_537.36_BG.png",
+      "kind": "background",
+      "bytes": 197544,
+      "width": 640,
+      "height": 480,
+      "sha256": "2dd3e805d304b02266ebfda773aca7c832afcf49be07d66e30c237aab23166d1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.36/SLES_537.36_BG_00.png"
+      },
+      "gameId": "SLES_537.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Billy the Wizard - Rocket Broomstick Racing"
+}

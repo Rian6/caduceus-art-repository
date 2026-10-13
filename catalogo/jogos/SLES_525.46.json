@@ -1,0 +1,51 @@
+{
+  "id": "SLES_525.46",
+  "cover": {
+    "path": "PS2/SLES_525.46/SLES_525.46_COV.png",
+    "kind": "cover",
+    "bytes": 103442,
+    "width": 192,
+    "height": 272,
+    "sha256": "fd26c422700953ee2c336987ccfddd098b45ab19bfe04e4d79b87e5e08288709",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52546.jpg"
+    },
+    "gameId": "SLES_525.46"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.46/SLES_525.46_BG.png",
+    "kind": "background",
+    "bytes": 196365,
+    "width": 640,
+    "height": 480,
+    "sha256": "98fe6e2c94a62ea2080b5f17d5f0bf84a2f4182fa80c8fdde80ed241836396f8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.46/SLES_525.46_BG_00.png"
+    },
+    "gameId": "SLES_525.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.46/SLES_525.46_BG.png",
+      "kind": "background",
+      "bytes": 196365,
+      "width": 640,
+      "height": 480,
+      "sha256": "98fe6e2c94a62ea2080b5f17d5f0bf84a2f4182fa80c8fdde80ed241836396f8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.46/SLES_525.46_BG_00.png"
+      },
+      "gameId": "SLES_525.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR WARS - BATTLEFRONT"
+}

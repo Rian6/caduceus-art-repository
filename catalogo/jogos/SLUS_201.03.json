@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_201.03",
+  "cover": {
+    "path": "PS2/SLUS_201.03/SLUS_201.03_COV.png",
+    "kind": "cover",
+    "bytes": 92502,
+    "width": 192,
+    "height": 272,
+    "sha256": "0b3fbf0450f6bc4460865693b5d0b214e233169e513166d3c69d35fed11b19d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20103.jpg"
+    },
+    "gameId": "SLUS_201.03"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.03/SLUS_201.03_ICO.png",
+    "kind": "disc",
+    "bytes": 27805,
+    "width": 256,
+    "height": 256,
+    "sha256": "57476b62c232b7e3f0748d094e2f35e36ddc90a13e439572b4619d3afbf200b4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.03_ICO.png"
+    },
+    "gameId": "SLUS_201.03"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.03/SLUS_201.03_BG.png",
+    "kind": "background",
+    "bytes": 167205,
+    "width": 640,
+    "height": 480,
+    "sha256": "643655228acf7ecc2e778be5463cc079e74ae1a5868be74dde6a8c2d71b6fec7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.03/SLUS_201.03_BG_00.png"
+    },
+    "gameId": "SLUS_201.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.03/SLUS_201.03_BG.png",
+      "kind": "background",
+      "bytes": 167205,
+      "width": 640,
+      "height": 480,
+      "sha256": "643655228acf7ecc2e778be5463cc079e74ae1a5868be74dde6a8c2d71b6fec7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.03/SLUS_201.03_BG_00.png"
+      },
+      "gameId": "SLUS_201.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "F1 Championship Season 2000"
+}

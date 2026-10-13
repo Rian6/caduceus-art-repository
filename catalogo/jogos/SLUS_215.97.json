@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_215.97",
+  "cover": {
+    "path": "PS2/SLUS_215.97/SLUS_215.97_COV.png",
+    "kind": "cover",
+    "bytes": 99111,
+    "width": 192,
+    "height": 272,
+    "sha256": "d32e012a2a89b1c57065b1a18db7602e9f53be27e84d2c3727ebdcea18f7b072",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21597.jpg"
+    },
+    "gameId": "SLUS_215.97"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.97/SLUS_215.97_ICO.png",
+    "kind": "disc",
+    "bytes": 34639,
+    "width": 256,
+    "height": 256,
+    "sha256": "37ab4f1cdde754c0918390dc1bc1e44865e74bccb994818da4fa812e05e2ef4d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.97_ICO.png"
+    },
+    "gameId": "SLUS_215.97"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.97/SLUS_215.97_BG.png",
+    "kind": "background",
+    "bytes": 165923,
+    "width": 640,
+    "height": 480,
+    "sha256": "9ae4a3e03f20f8a82f6b46bff9c209a49b9a31536f2395410452bb485eb9c072",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.97/SLUS_215.97_BG_00.png"
+    },
+    "gameId": "SLUS_215.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.97/SLUS_215.97_BG.png",
+      "kind": "background",
+      "bytes": 165923,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ae4a3e03f20f8a82f6b46bff9c209a49b9a31536f2395410452bb485eb9c072",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.97/SLUS_215.97_BG_00.png"
+      },
+      "gameId": "SLUS_215.97"
+    },
+    {
+      "path": "PS2/SLUS_215.97/SLUS_215.97_BG_01.png",
+      "kind": "background",
+      "bytes": 168660,
+      "width": 640,
+      "height": 480,
+      "sha256": "f15ea834cfdffbc55bcde0e0630c69642df36097eb212ca27ee56eb2788311e1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.97/SLUS_215.97_BG_01.png"
+      },
+      "gameId": "SLUS_215.97"
+    },
+    {
+      "path": "PS2/SLUS_215.97/SLUS_215.97_BG_02.png",
+      "kind": "background",
+      "bytes": 202650,
+      "width": 640,
+      "height": 480,
+      "sha256": "62d9a6e696b050f344914b81f3d49266ab00248bf5f22ae88db813b3fc64ab01",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.97/SLUS_215.97_BG_02.png"
+      },
+      "gameId": "SLUS_215.97"
+    },
+    {
+      "path": "PS2/SLUS_215.97/SLUS_215.97_BG_03.png",
+      "kind": "background",
+      "bytes": 209440,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ddb88a049e6263b5ad8e9a020312123d56bd2788fb960cd0f706b1c28dd78ba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.97/SLUS_215.97_BG_03.png"
+      },
+      "gameId": "SLUS_215.97"
+    },
+    {
+      "path": "PS2/SLUS_215.97/SLUS_215.97_BG_04.png",
+      "kind": "background",
+      "bytes": 193791,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2939941d862bf517fe4430b20b4aa727612c36e096938bea6ff28131a9ea1b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.97/SLUS_215.97_BG_04.png"
+      },
+      "gameId": "SLUS_215.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Medal of Honor - Vanguard"
+}

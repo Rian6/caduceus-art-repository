@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.37",
+  "cover": {
+    "path": "PS2/SLPS_254.37/SLPS_254.37_COV.png",
+    "kind": "cover",
+    "bytes": 69479,
+    "width": 192,
+    "height": 272,
+    "sha256": "9743da249408e6a6afe11912b4c58490b0f0aff72c4039b80a64b2aa8af08be5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25437.jpg"
+    },
+    "gameId": "SLPS_254.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "D-A - White"
+}

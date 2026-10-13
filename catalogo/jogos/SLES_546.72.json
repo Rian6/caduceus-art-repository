@@ -1,0 +1,65 @@
+{
+  "id": "SLES_546.72",
+  "cover": {
+    "path": "PS2/SLES_546.72/SLES_546.72_COV.png",
+    "kind": "cover",
+    "bytes": 98183,
+    "width": 192,
+    "height": 272,
+    "sha256": "6800c546d677637f5c87f29e5c1baf9a5d0fa584c5a53c0c654292fc35551c42",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54672.jpg"
+    },
+    "gameId": "SLES_546.72"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.72/SLES_546.72_ICO.png",
+    "kind": "disc",
+    "bytes": 10886,
+    "width": 128,
+    "height": 128,
+    "sha256": "528506476b0b9bdba28767f3c451f88040c10b5066a5a70e63db24dd8873e33f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.72_ICO.png"
+    },
+    "gameId": "SLES_546.72"
+  },
+  "background": {
+    "path": "PS2/SLES_546.72/SLES_546.72_BG.png",
+    "kind": "background",
+    "bytes": 202152,
+    "width": 640,
+    "height": 480,
+    "sha256": "e20881382b6dc8881a2062051f94015a0a3b2f5918b2113fd19caaaa62b51a68",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.72/SLES_546.72_BG_00.png"
+    },
+    "gameId": "SLES_546.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_546.72/SLES_546.72_BG.png",
+      "kind": "background",
+      "bytes": 202152,
+      "width": 640,
+      "height": 480,
+      "sha256": "e20881382b6dc8881a2062051f94015a0a3b2f5918b2113fd19caaaa62b51a68",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.72/SLES_546.72_BG_00.png"
+      },
+      "gameId": "SLES_546.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Casper’s Scare school"
+}

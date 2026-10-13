@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.49",
+  "cover": {
+    "path": "PS2/SCAJ_201.49/SCAJ_201.49_COV.png",
+    "kind": "cover",
+    "bytes": 81192,
+    "width": 192,
+    "height": 272,
+    "sha256": "705ad55cfcf5388e9038e73a0be7327902a70f6ef2b272fd04c49e32166ef381",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20149.jpg"
+    },
+    "gameId": "SCAJ_201.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KINGDOM HEARTS - FINAL MIX [ULTIMATE HITS]"
+}

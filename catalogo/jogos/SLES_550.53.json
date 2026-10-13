@@ -1,0 +1,65 @@
+{
+  "id": "SLES_550.53",
+  "cover": {
+    "path": "PS2/SLES_550.53/SLES_550.53_COV.png",
+    "kind": "cover",
+    "bytes": 86199,
+    "width": 192,
+    "height": 272,
+    "sha256": "bd45f143123703ea6aa4da6fd45e813ae84ab8463209fd0bc08c87a8f87673ff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55053.jpg"
+    },
+    "gameId": "SLES_550.53"
+  },
+  "disc": {
+    "path": "PS2/SLES_550.53/SLES_550.53_ICO.png",
+    "kind": "disc",
+    "bytes": 8417,
+    "width": 128,
+    "height": 128,
+    "sha256": "7cfd49942c4ac961b1ba9c352619807019796ee58c3f49fa40592c5df1cec08e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_550.53_ICO.png"
+    },
+    "gameId": "SLES_550.53"
+  },
+  "background": {
+    "path": "PS2/SLES_550.53/SLES_550.53_BG.png",
+    "kind": "background",
+    "bytes": 122179,
+    "width": 640,
+    "height": 480,
+    "sha256": "1ca658152bdbd38f15b86949216da06d1c6c4716e0a0599e77286dacce0d9a8b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.53/SLES_550.53_BG_00.png"
+    },
+    "gameId": "SLES_550.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.53/SLES_550.53_BG.png",
+      "kind": "background",
+      "bytes": 122179,
+      "width": 640,
+      "height": 480,
+      "sha256": "1ca658152bdbd38f15b86949216da06d1c6c4716e0a0599e77286dacce0d9a8b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.53/SLES_550.53_BG_00.png"
+      },
+      "gameId": "SLES_550.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jetix - Puzzle Buzzle"
+}

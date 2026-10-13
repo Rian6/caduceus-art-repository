@@ -1,0 +1,25 @@
+{
+  "id": "SCCS_400.09",
+  "cover": {
+    "path": "PS2/SCCS_400.09/SCCS_400.09_COV.png",
+    "kind": "cover",
+    "bytes": 107775,
+    "width": 192,
+    "height": 272,
+    "sha256": "26582a6fc131d313dfbd753f8b01810505db47b6345b856ef17a4dd6acdeac61",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCCS-40009.jpg"
+    },
+    "gameId": "SCCS_400.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DRAGON BALL Z - BUDOKAI 2"
+}

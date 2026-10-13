@@ -1,0 +1,39 @@
+{
+  "id": "SLES_543.32",
+  "cover": {
+    "path": "PS2/SLES_543.32/SLES_543.32_COV.png",
+    "kind": "cover",
+    "bytes": 120779,
+    "width": 192,
+    "height": 272,
+    "sha256": "218b4768213dfcd7e5be3538c0543a68a520c465bb0ec2da1eceff609a784566",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54332.jpg"
+    },
+    "gameId": "SLES_543.32"
+  },
+  "disc": {
+    "path": "PS2/SLES_543.32/SLES_543.32_ICO.png",
+    "kind": "disc",
+    "bytes": 11081,
+    "width": 128,
+    "height": 128,
+    "sha256": "3a3a2cf29cee2154af931bbb3a74f7599f7deb7d4ff04bfa7c0e573fc7d94d0b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_543.32_ICO.png"
+    },
+    "gameId": "SLES_543.32"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dance Fest"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.49",
+  "cover": {
+    "path": "PS2/SLPM_665.49/SLPM_665.49_COV.png",
+    "kind": "cover",
+    "bytes": 101008,
+    "width": 192,
+    "height": 272,
+    "sha256": "5f14fd5f40b73bd65114dcf6d52a4d1a5cbc96d6d43a11a7d3e76af749751b0e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66549.jpg"
+    },
+    "gameId": "SLPM_665.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sangokushi XI"
+}

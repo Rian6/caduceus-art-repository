@@ -1,0 +1,91 @@
+{
+  "id": "SLES_534.44",
+  "cover": {
+    "path": "PS2/SLES_534.44/SLES_534.44_COV.png",
+    "kind": "cover",
+    "bytes": 95230,
+    "width": 192,
+    "height": 272,
+    "sha256": "6dc183699ec7838c4b1874f1d03077714254124b7c9aa9027a5d25527e9cf2fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53444.jpg"
+    },
+    "gameId": "SLES_534.44"
+  },
+  "disc": {
+    "path": "PS2/SLES_534.44/SLES_534.44_ICO.png",
+    "kind": "disc",
+    "bytes": 10199,
+    "width": 128,
+    "height": 128,
+    "sha256": "c9440f4bc52b791ac906951a979a898a33ff3398ef8d34216b60cdd73f6fd628",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_534.44_ICO.png"
+    },
+    "gameId": "SLES_534.44"
+  },
+  "background": {
+    "path": "PS2/SLES_534.44/SLES_534.44_BG.png",
+    "kind": "background",
+    "bytes": 165945,
+    "width": 640,
+    "height": 480,
+    "sha256": "0783e133400c6c38167a7c08b87836fe5b0ac189b240370405d8ad6cd64bb245",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.44/SLES_534.44_BG_00.png"
+    },
+    "gameId": "SLES_534.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.44/SLES_534.44_BG.png",
+      "kind": "background",
+      "bytes": 165945,
+      "width": 640,
+      "height": 480,
+      "sha256": "0783e133400c6c38167a7c08b87836fe5b0ac189b240370405d8ad6cd64bb245",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.44/SLES_534.44_BG_00.png"
+      },
+      "gameId": "SLES_534.44"
+    },
+    {
+      "path": "PS2/SLES_534.44/SLES_534.44_BG_01.png",
+      "kind": "background",
+      "bytes": 164846,
+      "width": 640,
+      "height": 480,
+      "sha256": "7274e0249a094d276dfb0d98022b11b3cd842a981cb2928bfdfb5e35e6d76456",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.44/SLES_534.44_BG_01.png"
+      },
+      "gameId": "SLES_534.44"
+    },
+    {
+      "path": "PS2/SLES_534.44/SLES_534.44_BG_02.png",
+      "kind": "background",
+      "bytes": 186447,
+      "width": 640,
+      "height": 480,
+      "sha256": "a37d994dedc3cd276964ddb4ee2055c5a7c9796b827b56ae2e60717e4da5d9cf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.44/SLES_534.44_BG_02.png"
+      },
+      "gameId": "SLES_534.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Panzer Elite Action - Fields of Glory"
+}

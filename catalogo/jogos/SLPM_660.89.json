@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.89",
+  "cover": {
+    "path": "PS2/SLPM_660.89/SLPM_660.89_COV.png",
+    "kind": "cover",
+    "bytes": 90990,
+    "width": 192,
+    "height": 272,
+    "sha256": "a4816f3cd64d2963700cf2a9e6137b93b48801574d85ba033d21eb9a0ff9d41e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66089.jpg"
+    },
+    "gameId": "SLPM_660.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "3-Nen B-Gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! [Best]"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLPM_621.99",
+  "cover": {
+    "path": "PS2/SLPM_621.99/SLPM_621.99_COV.png",
+    "kind": "cover",
+    "bytes": 118999,
+    "width": 192,
+    "height": 272,
+    "sha256": "3eb3a69934c596ac7b6237f78fecc00af2fe56b97f541f4d1635ccf9cca65c98",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62199.jpg"
+    },
+    "gameId": "SLPM_621.99"
+  },
+  "disc": {
+    "path": "PS2/SLPM_621.99/SLPM_621.99_ICO.png",
+    "kind": "disc",
+    "bytes": 12038,
+    "width": 128,
+    "height": 128,
+    "sha256": "bcb176e33dd8f152b433a80061b0d6d8eb8ca03e55c8587baf46bffc1a7f673c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_621.99_ICO.png"
+    },
+    "gameId": "SLPM_621.99"
+  },
+  "background": {
+    "path": "PS2/SLPM_621.99/SLPM_621.99_BG.png",
+    "kind": "background",
+    "bytes": 220859,
+    "width": 640,
+    "height": 480,
+    "sha256": "d572e23b6aeb1b67a0bbb3a39a4dd7c39b1ace6a721e425b679da18e61eecb4d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_621.99/SLPM_621.99_BG_00.png"
+    },
+    "gameId": "SLPM_621.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_621.99/SLPM_621.99_BG.png",
+      "kind": "background",
+      "bytes": 220859,
+      "width": 640,
+      "height": 480,
+      "sha256": "d572e23b6aeb1b67a0bbb3a39a4dd7c39b1ace6a721e425b679da18e61eecb4d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_621.99/SLPM_621.99_BG_00.png"
+      },
+      "gameId": "SLPM_621.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Quest Characters: Torneko no Daibouken 3: Fushigi no Dungeon"
+}

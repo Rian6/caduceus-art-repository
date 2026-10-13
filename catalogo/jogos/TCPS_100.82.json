@@ -1,0 +1,25 @@
+{
+  "id": "TCPS_100.82",
+  "cover": {
+    "path": "PS2/TCPS_100.82/TCPS_100.82_COV.png",
+    "kind": "cover",
+    "bytes": 74216,
+    "width": 192,
+    "height": 272,
+    "sha256": "238a5fde06e71b5fc52938280ba6c857256e2a2ec770325b1c70b77332ef3cca",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/TCPS_100.82/TCPS_100.82_COV.png"
+    },
+    "gameId": "TCPS_100.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bakushou! Jinsei Kaidow"
+}

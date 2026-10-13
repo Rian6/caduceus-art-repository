@@ -1,0 +1,64 @@
+{
+  "id": "SLES_553.64",
+  "cover": {
+    "path": "PS2/SLES_553.64/SLES_553.64_COV.png",
+    "kind": "cover",
+    "bytes": 92657,
+    "width": 192,
+    "height": 272,
+    "sha256": "b2a2ef9969c56f20b9b5f537d1611367406044c91f9d0c8ed9e7fc1fbf0372dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55364.jpg"
+    },
+    "gameId": "SLES_553.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_553.64/SLES_553.64_BG.png",
+    "kind": "background",
+    "bytes": 152471,
+    "width": 640,
+    "height": 480,
+    "sha256": "b2ccf7458dcf6839c14beb1315f74c0bfe8211c1736673c952c493d86d589000",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.64/SLES_553.64_BG_00.png"
+    },
+    "gameId": "SLES_553.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_553.64/SLES_553.64_BG.png",
+      "kind": "background",
+      "bytes": 152471,
+      "width": 640,
+      "height": 480,
+      "sha256": "b2ccf7458dcf6839c14beb1315f74c0bfe8211c1736673c952c493d86d589000",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.64/SLES_553.64_BG_00.png"
+      },
+      "gameId": "SLES_553.64"
+    },
+    {
+      "path": "PS2/SLES_553.64/SLES_553.64_BG_01.png",
+      "kind": "background",
+      "bytes": 134388,
+      "width": 640,
+      "height": 480,
+      "sha256": "56dd15d80548db548d0dc39a5759175ed0b29fe162b56aa7b8c498c411fc8a7d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.64/SLES_553.64_BG_01.png"
+      },
+      "gameId": "SLES_553.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Agent Hugo: Hula Holiday"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.01",
+  "cover": {
+    "path": "PS2/SLPM_626.01/SLPM_626.01_COV.png",
+    "kind": "cover",
+    "bytes": 69606,
+    "width": 192,
+    "height": 272,
+    "sha256": "5494c97aa9535c29409af938fcbcd1bd4e9e617030a9c3c46d9d2746278278b2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62601.jpg"
+    },
+    "gameId": "SLPM_626.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE CONVENI 3 [HAMSTER THE BEST]"
+}

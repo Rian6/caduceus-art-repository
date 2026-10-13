@@ -1,0 +1,25 @@
+{
+  "id": "SLES_539.45",
+  "cover": {
+    "path": "PS2/SLES_539.45/SLES_539.45_COV.png",
+    "kind": "cover",
+    "bytes": 91987,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d16ad2fa1258fbf9b1636d5cd3e411564cd23bff29a222cc75c0d1dad194c32",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53945.jpg"
+    },
+    "gameId": "SLES_539.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Championship Manager 2006"
+}

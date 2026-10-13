@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_202.55",
+  "cover": {
+    "path": "PS2/SLUS_202.55/SLUS_202.55_COV.png",
+    "kind": "cover",
+    "bytes": 90371,
+    "width": 192,
+    "height": 272,
+    "sha256": "8c5397103831487e64bfff919fb97cbf7a969e5a31f95caf60f1d1d7441831d4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20255.jpg"
+    },
+    "gameId": "SLUS_202.55"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.55/SLUS_202.55_ICO.png",
+    "kind": "disc",
+    "bytes": 28511,
+    "width": 256,
+    "height": 256,
+    "sha256": "efd5bbbfc33e565c2c361d001dfce52c1f41bd215bfcbad3919c75e10a8dbb78",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.55_ICO.png"
+    },
+    "gameId": "SLUS_202.55"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GALLOP RACER 2001"
+}

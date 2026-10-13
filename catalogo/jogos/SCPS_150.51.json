@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.51",
+  "cover": {
+    "path": "PS2/SCPS_150.51/SCPS_150.51_COV.png",
+    "kind": "cover",
+    "bytes": 68499,
+    "width": 192,
+    "height": 272,
+    "sha256": "9b550f91b28987c86b302082f4fb87c379f0539a963b4d7aa9db1297bf25f24a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15051.jpg"
+    },
+    "gameId": "SCPS_150.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MLB 2003"
+}

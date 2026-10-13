@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.42",
+  "cover": {
+    "path": "PS2/SLPM_626.42/SLPM_626.42_COV.png",
+    "kind": "cover",
+    "bytes": 100413,
+    "width": 192,
+    "height": 272,
+    "sha256": "aea763c3beebb93328bef29404f0b2b53c7daad63dc088c4622532a10ac03390",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62642.jpg"
+    },
+    "gameId": "SLPM_626.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nobunaga no Yabou -  Ranseiki (with Power-Up Kit)(Koei The Best)"
+}

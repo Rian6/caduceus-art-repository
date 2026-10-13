@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_655.00",
+  "cover": {
+    "path": "PS2/SLPM_655.00/SLPM_655.00_COV.png",
+    "kind": "cover",
+    "bytes": 73783,
+    "width": 192,
+    "height": 272,
+    "sha256": "c6786510fc6a7eed37196cea4db92d79eab460537fbd9d363f305efa673a9716",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65500.jpg"
+    },
+    "gameId": "SLPM_655.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_655.00/SLPM_655.00_BG.png",
+    "kind": "background",
+    "bytes": 183622,
+    "width": 640,
+    "height": 480,
+    "sha256": "6c2cf697f8032c62b8768b184fe5c160782df4919faf507a6a8bc86df1c4003b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_655.00/SLPM_655.00_BG_00.png"
+    },
+    "gameId": "SLPM_655.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_655.00/SLPM_655.00_BG.png",
+      "kind": "background",
+      "bytes": 183622,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c2cf697f8032c62b8768b184fe5c160782df4919faf507a6a8bc86df1c4003b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_655.00/SLPM_655.00_BG_00.png"
+      },
+      "gameId": "SLPM_655.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Anubis: Zone of the Enders (Special Edition)"
+}

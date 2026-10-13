@@ -1,0 +1,78 @@
+{
+  "id": "SLES_525.18",
+  "cover": {
+    "path": "PS2/SLES_525.18/SLES_525.18_COV.png",
+    "kind": "cover",
+    "bytes": 93301,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc41cf65f10ee1c5d570ff55af2365b2662d141968d67063b8741d28f570e73f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52518.jpg"
+    },
+    "gameId": "SLES_525.18"
+  },
+  "disc": {
+    "path": "PS2/SLES_525.18/SLES_525.18_ICO.png",
+    "kind": "disc",
+    "bytes": 10317,
+    "width": 128,
+    "height": 128,
+    "sha256": "ee2de7d7b1e46466ce24908d1f13fdf3f1f54e60bbb8b537843a10e8c155e1b0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_525.18_ICO.png"
+    },
+    "gameId": "SLES_525.18"
+  },
+  "background": {
+    "path": "PS2/SLES_525.18/SLES_525.18_BG.png",
+    "kind": "background",
+    "bytes": 176358,
+    "width": 640,
+    "height": 480,
+    "sha256": "847c0d0dcb4d89cfe14c61ac5d812b51ca69c0377e15e3eeff98d1e195078bf7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.18/SLES_525.18_BG_00.png"
+    },
+    "gameId": "SLES_525.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.18/SLES_525.18_BG.png",
+      "kind": "background",
+      "bytes": 176358,
+      "width": 640,
+      "height": 480,
+      "sha256": "847c0d0dcb4d89cfe14c61ac5d812b51ca69c0377e15e3eeff98d1e195078bf7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.18/SLES_525.18_BG_00.png"
+      },
+      "gameId": "SLES_525.18"
+    },
+    {
+      "path": "PS2/SLES_525.18/SLES_525.18_BG_01.png",
+      "kind": "background",
+      "bytes": 170807,
+      "width": 640,
+      "height": 480,
+      "sha256": "a01d9e3c652190313773f7f57693b0f110fc545cfb4e6412396cca77e36f46e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.18/SLES_525.18_BG_01.png"
+      },
+      "gameId": "SLES_525.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MOTORBIKE KING"
+}

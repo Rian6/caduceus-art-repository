@@ -1,0 +1,103 @@
+{
+  "id": "SLES_820.13",
+  "cover": {
+    "path": "PS2/SLES_820.13/SLES_820.13_COV.png",
+    "kind": "cover",
+    "bytes": 86377,
+    "width": 192,
+    "height": 272,
+    "sha256": "209bb4743b1a894d6615eda700dfc5571f35dfa72b6370c0abf3008e3410688b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-82013.jpg"
+    },
+    "gameId": "SLES_820.13"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_820.13/SLES_820.13_BG.png",
+    "kind": "background",
+    "bytes": 163345,
+    "width": 640,
+    "height": 480,
+    "sha256": "4d5ebc4f5a1083fe1278160d77557202074215fa5eed74396cd3a49ba62672fc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_820.13/SLES_820.13_BG_00.png"
+    },
+    "gameId": "SLES_820.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_820.13/SLES_820.13_BG.png",
+      "kind": "background",
+      "bytes": 163345,
+      "width": 640,
+      "height": 480,
+      "sha256": "4d5ebc4f5a1083fe1278160d77557202074215fa5eed74396cd3a49ba62672fc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.13/SLES_820.13_BG_00.png"
+      },
+      "gameId": "SLES_820.13"
+    },
+    {
+      "path": "PS2/SLES_820.13/SLES_820.13_BG_01.png",
+      "kind": "background",
+      "bytes": 180192,
+      "width": 640,
+      "height": 480,
+      "sha256": "fbca4fd2b98c44b12229c2eb70e4c815e8ddcfbda951bc4d69ed57bf7b2ca691",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.13/SLES_820.13_BG_01.png"
+      },
+      "gameId": "SLES_820.13"
+    },
+    {
+      "path": "PS2/SLES_820.13/SLES_820.13_BG_02.png",
+      "kind": "background",
+      "bytes": 228905,
+      "width": 640,
+      "height": 480,
+      "sha256": "5ee2dea2ef60af12fb52fe7e538436968c138055cbc4b0310076511028a98062",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.13/SLES_820.13_BG_02.png"
+      },
+      "gameId": "SLES_820.13"
+    },
+    {
+      "path": "PS2/SLES_820.13/SLES_820.13_BG_03.png",
+      "kind": "background",
+      "bytes": 198492,
+      "width": 640,
+      "height": 480,
+      "sha256": "e8a6b130f063a28d190f4233fb8217377c178735367cf6b198630e53b2db8e6f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.13/SLES_820.13_BG_03.png"
+      },
+      "gameId": "SLES_820.13"
+    },
+    {
+      "path": "PS2/SLES_820.13/SLES_820.13_BG_04.png",
+      "kind": "background",
+      "bytes": 115253,
+      "width": 640,
+      "height": 480,
+      "sha256": "5cd873a882c9e04bedf525eb6ae333791b76392b21f27e7be11e50f41cd22d06",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.13/SLES_820.13_BG_04.png"
+      },
+      "gameId": "SLES_820.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL GEAR SOLID 3 - SNAKE EATER"
+}

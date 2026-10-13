@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.81",
+  "cover": {
+    "path": "PS2/SCAJ_200.81/SCAJ_200.81_COV.png",
+    "kind": "cover",
+    "bytes": 77137,
+    "width": 192,
+    "height": 272,
+    "sha256": "6a5d4f4547c1a89a1123b500ec39972a576b6827ede3b2db534f161ad2a3fc03",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20081.jpg"
+    },
+    "gameId": "SCAJ_200.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Xenosaga Freaks"
+}

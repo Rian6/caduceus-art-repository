@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.83",
+  "cover": {
+    "path": "PS2/SCAJ_201.83/SCAJ_201.83_COV.png",
+    "kind": "cover",
+    "bytes": 76218,
+    "width": 192,
+    "height": 272,
+    "sha256": "cc0275333366a823994288dc58eb6f3590826f0e13cdbbe0904a82c425ef6cce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20183.jpg"
+    },
+    "gameId": "SCAJ_201.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wild ARMs - The Vth Vanguard"
+}

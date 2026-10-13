@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_217.28",
+  "cover": {
+    "path": "PS2/SLUS_217.28/SLUS_217.28_COV.png",
+    "kind": "cover",
+    "bytes": 104022,
+    "width": 192,
+    "height": 272,
+    "sha256": "23fa80cee35085a6100684a536633014a809bae3a65933075b8dcb42e95b1b3e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21728.jpg"
+    },
+    "gameId": "SLUS_217.28"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.28/SLUS_217.28_ICO.png",
+    "kind": "disc",
+    "bytes": 28823,
+    "width": 256,
+    "height": 256,
+    "sha256": "fa04a315990dbd37a57089ab96b785b57bbd26a6ed5a5fd9692d3f9474cd880d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.28_ICO.png"
+    },
+    "gameId": "SLUS_217.28"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.28/SLUS_217.28_BG.png",
+    "kind": "background",
+    "bytes": 195089,
+    "width": 640,
+    "height": 480,
+    "sha256": "79ea6b331a4e4dd5fc299673b7f3a043dd97227a035c89c99052114a5da8d9b4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.28/SLUS_217.28_BG_00.png"
+    },
+    "gameId": "SLUS_217.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.28/SLUS_217.28_BG.png",
+      "kind": "background",
+      "bytes": 195089,
+      "width": 640,
+      "height": 480,
+      "sha256": "79ea6b331a4e4dd5fc299673b7f3a043dd97227a035c89c99052114a5da8d9b4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.28/SLUS_217.28_BG_00.png"
+      },
+      "gameId": "SLUS_217.28"
+    },
+    {
+      "path": "PS2/SLUS_217.28/SLUS_217.28_BG_01.png",
+      "kind": "background",
+      "bytes": 176120,
+      "width": 640,
+      "height": 480,
+      "sha256": "18289ff5f76e7ea3966cb8ce44b2339072b6bf7920a0aa12e3985d275bf782b3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.28/SLUS_217.28_BG_01.png"
+      },
+      "gameId": "SLUS_217.28"
+    },
+    {
+      "path": "PS2/SLUS_217.28/SLUS_217.28_BG_02.png",
+      "kind": "background",
+      "bytes": 187113,
+      "width": 640,
+      "height": 480,
+      "sha256": "560a6e8f14f54aea03eca968bf353859651ad2541a5b8e3000cba8047bfaf91d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.28/SLUS_217.28_BG_02.png"
+      },
+      "gameId": "SLUS_217.28"
+    },
+    {
+      "path": "PS2/SLUS_217.28/SLUS_217.28_BG_03.png",
+      "kind": "background",
+      "bytes": 169025,
+      "width": 640,
+      "height": 480,
+      "sha256": "a62339fb1831fb371fd503d4a4f5c320f0934ec7a20a49b2fe112671ef5e1e0b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.28/SLUS_217.28_BG_03.png"
+      },
+      "gameId": "SLUS_217.28"
+    },
+    {
+      "path": "PS2/SLUS_217.28/SLUS_217.28_BG_04.png",
+      "kind": "background",
+      "bytes": 195289,
+      "width": 640,
+      "height": 480,
+      "sha256": "143f64b0db193dfccc7aa66b49df46462179532ade423fe0e18017e400def982",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.28/SLUS_217.28_BG_04.png"
+      },
+      "gameId": "SLUS_217.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Crash - Mind Over Mutant"
+}

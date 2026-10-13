@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.02",
+  "cover": {
+    "path": "PS2/SLPS_257.02/SLPS_257.02_COV.png",
+    "kind": "cover",
+    "bytes": 80215,
+    "width": 192,
+    "height": 272,
+    "sha256": "454e1cf2ce0451e54d09f0057d9bcaabcd7e51abce1a6aaaeb904185454e5d62",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25702.jpg"
+    },
+    "gameId": "SLPS_257.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Amagoushi no Yakata"
+}

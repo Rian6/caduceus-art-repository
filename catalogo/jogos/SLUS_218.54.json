@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_218.54",
+  "cover": {
+    "path": "PS2/SLUS_218.54/SLUS_218.54_COV.png",
+    "kind": "cover",
+    "bytes": 55293,
+    "width": 192,
+    "height": 272,
+    "sha256": "69b4b7e6f483a96d557ab27c526cdbd68b4c53b4a187b663ba9e4cfa9441271e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21854.jpg"
+    },
+    "gameId": "SLUS_218.54"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.54/SLUS_218.54_ICO.png",
+    "kind": "disc",
+    "bytes": 30776,
+    "width": 256,
+    "height": 256,
+    "sha256": "7ff624534d6fd5e2a339a1df1751fff756c4f10a3f454ac74b3c0640bedb85ee",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.54_ICO.png"
+    },
+    "gameId": "SLUS_218.54"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.54/SLUS_218.54_BG.png",
+    "kind": "background",
+    "bytes": 160873,
+    "width": 640,
+    "height": 480,
+    "sha256": "687fb0335124ebcec830cae4308766fcdd79cedc15dad1c1feb7aa816235d7eb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.54/SLUS_218.54_BG_00.png"
+    },
+    "gameId": "SLUS_218.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.54/SLUS_218.54_BG.png",
+      "kind": "background",
+      "bytes": 160873,
+      "width": 640,
+      "height": 480,
+      "sha256": "687fb0335124ebcec830cae4308766fcdd79cedc15dad1c1feb7aa816235d7eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.54/SLUS_218.54_BG_00.png"
+      },
+      "gameId": "SLUS_218.54"
+    },
+    {
+      "path": "PS2/SLUS_218.54/SLUS_218.54_BG_01.png",
+      "kind": "background",
+      "bytes": 195391,
+      "width": 640,
+      "height": 480,
+      "sha256": "1159270d39556de42b0f9dd9f2a5cfb35b0e247357c553cbf7909569e8a8fe28",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.54/SLUS_218.54_BG_01.png"
+      },
+      "gameId": "SLUS_218.54"
+    },
+    {
+      "path": "PS2/SLUS_218.54/SLUS_218.54_BG_02.png",
+      "kind": "background",
+      "bytes": 184823,
+      "width": 640,
+      "height": 480,
+      "sha256": "e0f4cfc30574aaa38d605cc7207dbb0db6cb1354ef96e02aa4f3e2c0562d5e83",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.54/SLUS_218.54_BG_02.png"
+      },
+      "gameId": "SLUS_218.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Coraline"
+}

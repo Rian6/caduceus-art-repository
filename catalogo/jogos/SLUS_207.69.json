@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_207.69",
+  "cover": {
+    "path": "PS2/SLUS_207.69/SLUS_207.69_COV.png",
+    "kind": "cover",
+    "bytes": 110738,
+    "width": 192,
+    "height": 272,
+    "sha256": "86f209f309ca6079e30bf3d5c7bd9cb5c64ed1472b941e128c26b2a86355a6d8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20769.jpg"
+    },
+    "gameId": "SLUS_207.69"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.69/SLUS_207.69_ICO.png",
+    "kind": "disc",
+    "bytes": 34140,
+    "width": 256,
+    "height": 256,
+    "sha256": "a258cc684006f0d8b4e66a66a810e998ab5ff86945dc40f0cf7b6d101be1af43",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.69_ICO.png"
+    },
+    "gameId": "SLUS_207.69"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.69/SLUS_207.69_BG.png",
+    "kind": "background",
+    "bytes": 181195,
+    "width": 640,
+    "height": 480,
+    "sha256": "0c8de4f3635aba94825f53b4865851b34c563336311afb48bcec9fd9a5df29bc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.69/SLUS_207.69_BG_00.png"
+    },
+    "gameId": "SLUS_207.69"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.69/SLUS_207.69_BG.png",
+      "kind": "background",
+      "bytes": 181195,
+      "width": 640,
+      "height": 480,
+      "sha256": "0c8de4f3635aba94825f53b4865851b34c563336311afb48bcec9fd9a5df29bc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.69/SLUS_207.69_BG_00.png"
+      },
+      "gameId": "SLUS_207.69"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harry Potter - Quidditch World Cup"
+}

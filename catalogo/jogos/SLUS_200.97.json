@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_200.97",
+  "cover": {
+    "path": "PS2/SLUS_200.97/SLUS_200.97_COV.png",
+    "kind": "cover",
+    "bytes": 86857,
+    "width": 192,
+    "height": 272,
+    "sha256": "0bb37a7d6b1a3d81d4d1f88348ee2105e3145d03b0454340360822b7f9f521fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20097.jpg"
+    },
+    "gameId": "SLUS_200.97"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.97/SLUS_200.97_ICO.png",
+    "kind": "disc",
+    "bytes": 28336,
+    "width": 256,
+    "height": 256,
+    "sha256": "1d93418fc7bbfa93938e1250f97080645e59fccda30feab276a3bb4ee847b797",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.97_ICO.png"
+    },
+    "gameId": "SLUS_200.97"
+  },
+  "background": {
+    "path": "PS2/SLUS_200.97/SLUS_200.97_BG.png",
+    "kind": "background",
+    "bytes": 86056,
+    "width": 640,
+    "height": 480,
+    "sha256": "9fae7414abbf8c3e4e4c142fe4d78194436d61852fe7fbf91ee3be72d8e31b9b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_200.97/SLUS_200.97_BG_00.png"
+    },
+    "gameId": "SLUS_200.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_200.97/SLUS_200.97_BG.png",
+      "kind": "background",
+      "bytes": 86056,
+      "width": 640,
+      "height": 480,
+      "sha256": "9fae7414abbf8c3e4e4c142fe4d78194436d61852fe7fbf91ee3be72d8e31b9b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.97/SLUS_200.97_BG_00.png"
+      },
+      "gameId": "SLUS_200.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fifa 2001"
+}

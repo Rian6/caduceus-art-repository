@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.23",
+  "cover": {
+    "path": "PS2/SLPM_656.23/SLPM_656.23_COV.png",
+    "kind": "cover",
+    "bytes": 82196,
+    "width": 192,
+    "height": 272,
+    "sha256": "78a77226e98ccb134b6bf87d7173d66ac30ff9fd2d4985da9adc501e317c051d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65623.jpg"
+    },
+    "gameId": "SLPM_656.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TANTEI GAKUEN Q [KONAMI THE BEST]"
+}

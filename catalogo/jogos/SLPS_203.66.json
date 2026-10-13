@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.66",
+  "cover": {
+    "path": "PS2/SLPS_203.66/SLPS_203.66_COV.png",
+    "kind": "cover",
+    "bytes": 112802,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ddadba53579d49fcb48901d21a0d55ec87aa8b83be065d098869d73b8c27993",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20366.jpg"
+    },
+    "gameId": "SLPS_203.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 5 - CR Kamen Rider"
+}

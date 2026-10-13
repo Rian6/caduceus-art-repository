@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.03",
+  "cover": {
+    "path": "PS2/SLPM_657.03/SLPM_657.03_COV.png",
+    "kind": "cover",
+    "bytes": 97960,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ff0852ade29ed004c501dec038f136226e3418ea75a9f3d90ac6c84f3b84c93",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65703.jpg"
+    },
+    "gameId": "SLPM_657.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DOUBLE REACTION! PLUS"
+}

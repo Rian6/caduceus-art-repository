@@ -1,0 +1,65 @@
+{
+  "id": "SLPM_662.74",
+  "cover": {
+    "path": "PS2/SLPM_662.74/SLPM_662.74_COV.png",
+    "kind": "cover",
+    "bytes": 105170,
+    "width": 192,
+    "height": 272,
+    "sha256": "ac2f22dfbc4045e2ce52c92156f4ec54fd24d21c0030da515005ab2980e191de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66274.jpg"
+    },
+    "gameId": "SLPM_662.74"
+  },
+  "disc": {
+    "path": "PS2/SLPM_662.74/SLPM_662.74_ICO.png",
+    "kind": "disc",
+    "bytes": 11516,
+    "width": 128,
+    "height": 128,
+    "sha256": "cc875dde96c0328a5e3b8e9db3bf40dba67834e6ae030e516c2f8bb62a486d8d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_662.74_ICO.png"
+    },
+    "gameId": "SLPM_662.74"
+  },
+  "background": {
+    "path": "PS2/SLPM_662.74/SLPM_662.74_BG.png",
+    "kind": "background",
+    "bytes": 191157,
+    "width": 640,
+    "height": 480,
+    "sha256": "55da6c0f6764360a471fcea539eb1c6741bdc7cede155f3b4bcba1277b6e586b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_662.74/SLPM_662.74_BG_00.png"
+    },
+    "gameId": "SLPM_662.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_662.74/SLPM_662.74_BG.png",
+      "kind": "background",
+      "bytes": 191157,
+      "width": 640,
+      "height": 480,
+      "sha256": "55da6c0f6764360a471fcea539eb1c6741bdc7cede155f3b4bcba1277b6e586b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.74/SLPM_662.74_BG_00.png"
+      },
+      "gameId": "SLPM_662.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ninkyouden Toseinin Ichidaiki"
+}

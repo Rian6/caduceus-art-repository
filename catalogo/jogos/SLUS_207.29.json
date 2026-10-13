@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_207.29",
+  "cover": {
+    "path": "PS2/SLUS_207.29/SLUS_207.29_COV.png",
+    "kind": "cover",
+    "bytes": 79697,
+    "width": 192,
+    "height": 272,
+    "sha256": "16160ed42a2af8a354d14ddfffdc573814cb679f93a8cf58b40c75f08a6b9827",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20729.jpg"
+    },
+    "gameId": "SLUS_207.29"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.29/SLUS_207.29_ICO.png",
+    "kind": "disc",
+    "bytes": 32646,
+    "width": 256,
+    "height": 256,
+    "sha256": "b30d0f21466694ab38be6b056c3f5442f098733d5d7a5e7e09b3194b63aabf1f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.29_ICO.png"
+    },
+    "gameId": "SLUS_207.29"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.29/SLUS_207.29_BG.png",
+    "kind": "background",
+    "bytes": 121872,
+    "width": 640,
+    "height": 480,
+    "sha256": "062e40c3ec4c6fafa5a016a0088fc4753bf3cb8f05d9469f420e2730a4460c97",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.29/SLUS_207.29_BG_00.png"
+    },
+    "gameId": "SLUS_207.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.29/SLUS_207.29_BG.png",
+      "kind": "background",
+      "bytes": 121872,
+      "width": 640,
+      "height": 480,
+      "sha256": "062e40c3ec4c6fafa5a016a0088fc4753bf3cb8f05d9469f420e2730a4460c97",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.29/SLUS_207.29_BG_00.png"
+      },
+      "gameId": "SLUS_207.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN College Hoops"
+}

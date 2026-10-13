@@ -1,0 +1,77 @@
+{
+  "id": "SLPM_654.05",
+  "cover": {
+    "path": "PS2/SLPM_654.05/SLPM_654.05_COV.png",
+    "kind": "cover",
+    "bytes": 99592,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0f94d7ef15607745dee51c9f61e6b1c9f0e027aa72f7d2406eb50810ec79419",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65405.jpg"
+    },
+    "gameId": "SLPM_654.05"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_654.05/SLPM_654.05_BG.png",
+    "kind": "background",
+    "bytes": 192838,
+    "width": 640,
+    "height": 480,
+    "sha256": "eca6242843a9c4a05dfb72870ff9d7762706a07b5490feeca12a1d70e03d7173",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.05/SLPM_654.05_BG_00.png"
+    },
+    "gameId": "SLPM_654.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.05/SLPM_654.05_BG.png",
+      "kind": "background",
+      "bytes": 192838,
+      "width": 640,
+      "height": 480,
+      "sha256": "eca6242843a9c4a05dfb72870ff9d7762706a07b5490feeca12a1d70e03d7173",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.05/SLPM_654.05_BG_00.png"
+      },
+      "gameId": "SLPM_654.05"
+    },
+    {
+      "path": "PS2/SLPM_654.05/SLPM_654.05_BG_01.png",
+      "kind": "background",
+      "bytes": 212338,
+      "width": 640,
+      "height": 480,
+      "sha256": "742a142f4da30d19efe34fc8f44f0604c327a351325168b4fa8536ed35a180f0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.05/SLPM_654.05_BG_01.png"
+      },
+      "gameId": "SLPM_654.05"
+    },
+    {
+      "path": "PS2/SLPM_654.05/SLPM_654.05_BG_02.png",
+      "kind": "background",
+      "bytes": 198424,
+      "width": 640,
+      "height": 480,
+      "sha256": "1d16f01d1cd25f45104a7c3190610a5d148f69e213062c909b80ee84ffac817d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.05/SLPM_654.05_BG_02.png"
+      },
+      "gameId": "SLPM_654.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Chou-jikuu Yousai Macross"
+}

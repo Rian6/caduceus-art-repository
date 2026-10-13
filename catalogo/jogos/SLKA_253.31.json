@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.31",
+  "cover": {
+    "path": "PS2/SLKA_253.31/SLKA_253.31_COV.png",
+    "kind": "cover",
+    "bytes": 90132,
+    "width": 192,
+    "height": 272,
+    "sha256": "ca80681814153b6e40f6aacedd333a5b7afd64683940379655a14c863aaae597",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25331.jpg"
+    },
+    "gameId": "SLKA_253.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MARC ECKO'S GETTING UP - CONTENT UNDER PRESSURE"
+}

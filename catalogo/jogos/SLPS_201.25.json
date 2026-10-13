@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.25",
+  "cover": {
+    "path": "PS2/SLPS_201.25/SLPS_201.25_COV.png",
+    "kind": "cover",
+    "bytes": 75572,
+    "width": 192,
+    "height": 272,
+    "sha256": "659f99ad141b3881f1af8e96273c21da024e3fddc9fbad75e647098d3d01b200",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20125.jpg"
+    },
+    "gameId": "SLPS_201.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shangai - The Four Elements (Super Value 2000)"
+}

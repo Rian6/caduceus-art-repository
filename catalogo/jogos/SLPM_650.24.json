@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.24",
+  "cover": {
+    "path": "PS2/SLPM_650.24/SLPM_650.24_COV.png",
+    "kind": "cover",
+    "bytes": 37729,
+    "width": 192,
+    "height": 272,
+    "sha256": "c30a79b1fd636027bc6d36c06d82646bf3e49fff454c9b6bce3db3a19da86510",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65024.jpg"
+    },
+    "gameId": "SLPM_650.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BioHazard - 5th Anniversary Package - Nightmare Returns [2 DISCS]"
+}

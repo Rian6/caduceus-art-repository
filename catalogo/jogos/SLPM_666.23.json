@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.23",
+  "cover": {
+    "path": "PS2/SLPM_666.23/SLPM_666.23_COV.png",
+    "kind": "cover",
+    "bytes": 89496,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c5414fcb26547afbb37997680502dbb1721a41b010999efebcb638e8f58ba3a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66623.jpg"
+    },
+    "gameId": "SLPM_666.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DOKAPON THE WORLD [ASMIK TOKUDANE SERIES]"
+}

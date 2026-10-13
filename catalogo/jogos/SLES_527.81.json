@@ -1,0 +1,51 @@
+{
+  "id": "SLES_527.81",
+  "cover": {
+    "path": "PS2/SLES_527.81/SLES_527.81_COV.png",
+    "kind": "cover",
+    "bytes": 98602,
+    "width": 192,
+    "height": 272,
+    "sha256": "10e161150113c17bf500f342e1721dc0d09beaa73f1b67e86ef41497ea73bdc9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52781.jpg"
+    },
+    "gameId": "SLES_527.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.81/SLES_527.81_BG.png",
+    "kind": "background",
+    "bytes": 105585,
+    "width": 640,
+    "height": 480,
+    "sha256": "93d6c91a4b89142ba3ff0604d4c520b67708462bfe24d08d177f9f7ed33b1a17",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.81/SLES_527.81_BG_00.png"
+    },
+    "gameId": "SLES_527.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.81/SLES_527.81_BG.png",
+      "kind": "background",
+      "bytes": 105585,
+      "width": 640,
+      "height": 480,
+      "sha256": "93d6c91a4b89142ba3ff0604d4c520b67708462bfe24d08d177f9f7ed33b1a17",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.81/SLES_527.81_BG_00.png"
+      },
+      "gameId": "SLES_527.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WWE SmackDown! vs RAW"
+}

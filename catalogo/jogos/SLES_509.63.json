@@ -1,0 +1,64 @@
+{
+  "id": "SLES_509.63",
+  "cover": {
+    "path": "PS2/SLES_509.63/SLES_509.63_COV.png",
+    "kind": "cover",
+    "bytes": 84034,
+    "width": 192,
+    "height": 272,
+    "sha256": "44abd1514ceb07e0b945619b08a7ce368e65974fb43f9377cd685ac682557705",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50963.jpg"
+    },
+    "gameId": "SLES_509.63"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_509.63/SLES_509.63_BG.png",
+    "kind": "background",
+    "bytes": 210269,
+    "width": 640,
+    "height": 480,
+    "sha256": "d21dc24335db54e1b0c8b3caa1fdc6a2c054dd9750db6112d9fc1352efacd81d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_509.63/SLES_509.63_BG_00.png"
+    },
+    "gameId": "SLES_509.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_509.63/SLES_509.63_BG.png",
+      "kind": "background",
+      "bytes": 210269,
+      "width": 640,
+      "height": 480,
+      "sha256": "d21dc24335db54e1b0c8b3caa1fdc6a2c054dd9750db6112d9fc1352efacd81d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.63/SLES_509.63_BG_00.png"
+      },
+      "gameId": "SLES_509.63"
+    },
+    {
+      "path": "PS2/SLES_509.63/SLES_509.63_BG_01.png",
+      "kind": "background",
+      "bytes": 196447,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1dfa42c5c23166dc4f3a292b6ca6662b16c51d461b6497fc1b0bc0da3ea1025",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.63/SLES_509.63_BG_01.png"
+      },
+      "gameId": "SLES_509.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RS - Riding Spirits"
+}

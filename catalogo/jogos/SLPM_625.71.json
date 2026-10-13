@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.71",
+  "cover": {
+    "path": "PS2/SLPM_625.71/SLPM_625.71_COV.png",
+    "kind": "cover",
+    "bytes": 91224,
+    "width": 192,
+    "height": 272,
+    "sha256": "83356161fea2a930de9ecd978997069c99ab35b6a924e75e8269c444baf58004",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62571.jpg"
+    },
+    "gameId": "SLPM_625.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 ULTIMATE SERIES VOL.22 - STYLISH MAHJONG USAGI"
+}

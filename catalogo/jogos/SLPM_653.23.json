@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.23",
+  "cover": {
+    "path": "PS2/SLPM_653.23/SLPM_653.23_COV.png",
+    "kind": "cover",
+    "bytes": 119252,
+    "width": 192,
+    "height": 272,
+    "sha256": "6a36c4ef9b3cf39b20c19a4ff58bb19df957df39920b40ab5c5f0d09c7f0cf47",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65323.jpg"
+    },
+    "gameId": "SLPM_653.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tennis no Oji-Sama - Smash Hit! (C-Type) [2 DISCS]"
+}

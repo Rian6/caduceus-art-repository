@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_217.69",
+  "cover": {
+    "path": "PS2/SLUS_217.69/SLUS_217.69_COV.png",
+    "kind": "cover",
+    "bytes": 91257,
+    "width": 192,
+    "height": 272,
+    "sha256": "068e10cd40914f73388fd9140d8a04dfdfef5bd25698dec6b4a8266536917993",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21769.jpg"
+    },
+    "gameId": "SLUS_217.69"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.69/SLUS_217.69_ICO.png",
+    "kind": "disc",
+    "bytes": 32596,
+    "width": 256,
+    "height": 256,
+    "sha256": "d46ba0277fd5731f3544c07f61cc4b237d3100c396ddebcf8678ac7cddb577e4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.69_ICO.png"
+    },
+    "gameId": "SLUS_217.69"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.69/SLUS_217.69_BG.png",
+    "kind": "background",
+    "bytes": 166911,
+    "width": 640,
+    "height": 480,
+    "sha256": "87296cff780addf35873a083edbb9289767bfef0ae42399f4856c8e9217e5638",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.69/SLUS_217.69_BG_00.png"
+    },
+    "gameId": "SLUS_217.69"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.69/SLUS_217.69_BG.png",
+      "kind": "background",
+      "bytes": 166911,
+      "width": 640,
+      "height": 480,
+      "sha256": "87296cff780addf35873a083edbb9289767bfef0ae42399f4856c8e9217e5638",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.69/SLUS_217.69_BG_00.png"
+      },
+      "gameId": "SLUS_217.69"
+    },
+    {
+      "path": "PS2/SLUS_217.69/SLUS_217.69_BG_01.png",
+      "kind": "background",
+      "bytes": 192058,
+      "width": 640,
+      "height": 480,
+      "sha256": "63a621d28708238cfd2924624244e6b831d57d42ad69ae738d89a4937e99ecf0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.69/SLUS_217.69_BG_01.png"
+      },
+      "gameId": "SLUS_217.69"
+    },
+    {
+      "path": "PS2/SLUS_217.69/SLUS_217.69_BG_02.png",
+      "kind": "background",
+      "bytes": 73128,
+      "width": 640,
+      "height": 480,
+      "sha256": "15f2f9002e21858760dadeb256008fa519bc9981e2d53c521b8605cdec0e1808",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.69/SLUS_217.69_BG_02.png"
+      },
+      "gameId": "SLUS_217.69"
+    },
+    {
+      "path": "PS2/SLUS_217.69/SLUS_217.69_BG_03.png",
+      "kind": "background",
+      "bytes": 138337,
+      "width": 640,
+      "height": 480,
+      "sha256": "30168c80468d1e0315e8956804855d554e136a8e3814a7e6cbb474b6d06aa9a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.69/SLUS_217.69_BG_03.png"
+      },
+      "gameId": "SLUS_217.69"
+    },
+    {
+      "path": "PS2/SLUS_217.69/SLUS_217.69_BG_04.png",
+      "kind": "background",
+      "bytes": 131266,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e5867b38628ffd24f8ba4dbddfa8aa1962d5dcc42a4bb9315b58fdebe0f62eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.69/SLUS_217.69_BG_04.png"
+      },
+      "gameId": "SLUS_217.69"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yakuza 2"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SCES_500.04",
+  "cover": {
+    "path": "PS2/SCES_500.04/SCES_500.04_COV.png",
+    "kind": "cover",
+    "bytes": 68939,
+    "width": 192,
+    "height": 272,
+    "sha256": "399d3fcd82556a87c7f650403f1e00bc0b3ff0d54fdac6368d8d1d94ae6f8212",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50004.jpg"
+    },
+    "gameId": "SCES_500.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_500.04/SCES_500.04_BG.png",
+    "kind": "background",
+    "bytes": 211148,
+    "width": 640,
+    "height": 480,
+    "sha256": "24142e7f4bd65e46baa4d206685dfa95c48bd1fb185874a90ca9184df60f042e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_500.04/SCES_500.04_BG_00.png"
+    },
+    "gameId": "SCES_500.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_500.04/SCES_500.04_BG.png",
+      "kind": "background",
+      "bytes": 211148,
+      "width": 640,
+      "height": 480,
+      "sha256": "24142e7f4bd65e46baa4d206685dfa95c48bd1fb185874a90ca9184df60f042e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_500.04/SCES_500.04_BG_00.png"
+      },
+      "gameId": "SCES_500.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Formula One 2001"
+}

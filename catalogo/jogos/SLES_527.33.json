@@ -1,0 +1,64 @@
+{
+  "id": "SLES_527.33",
+  "cover": {
+    "path": "PS2/SLES_527.33/SLES_527.33_COV.png",
+    "kind": "cover",
+    "bytes": 99431,
+    "width": 192,
+    "height": 272,
+    "sha256": "b9b9f5ccad60b4fa6017a25ed237e3e6e3d516f2510d798df4a06c7b6bdc4362",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52733.jpg"
+    },
+    "gameId": "SLES_527.33"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.33/SLES_527.33_BG.png",
+    "kind": "background",
+    "bytes": 213697,
+    "width": 640,
+    "height": 480,
+    "sha256": "31db8def5225bfa3342cb082dff435cd240a28b3ce7a3d487162c5345e3b8231",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.33/SLES_527.33_BG_00.png"
+    },
+    "gameId": "SLES_527.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.33/SLES_527.33_BG.png",
+      "kind": "background",
+      "bytes": 213697,
+      "width": 640,
+      "height": 480,
+      "sha256": "31db8def5225bfa3342cb082dff435cd240a28b3ce7a3d487162c5345e3b8231",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.33/SLES_527.33_BG_00.png"
+      },
+      "gameId": "SLES_527.33"
+    },
+    {
+      "path": "PS2/SLES_527.33/SLES_527.33_BG_01.png",
+      "kind": "background",
+      "bytes": 177031,
+      "width": 640,
+      "height": 480,
+      "sha256": "1fe34863c378f93fb5497751f1ad28b36576f6af48b0ef94abb797f739c41f7a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.33/SLES_527.33_BG_01.png"
+      },
+      "gameId": "SLES_527.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Driven to Destruction"
+}

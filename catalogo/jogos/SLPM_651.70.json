@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.70",
+  "cover": {
+    "path": "PS2/SLPM_651.70/SLPM_651.70_COV.png",
+    "kind": "cover",
+    "bytes": 96584,
+    "width": 192,
+    "height": 272,
+    "sha256": "178c571810c3ece4f9b29d496b76dcfbe9f8513ead201fcfbb00743654882f4a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65170.jpg"
+    },
+    "gameId": "SLPM_651.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 2 - Mushouden"
+}

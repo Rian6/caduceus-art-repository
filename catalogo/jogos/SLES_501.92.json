@@ -1,0 +1,51 @@
+{
+  "id": "SLES_501.92",
+  "cover": {
+    "path": "PS2/SLES_501.92/SLES_501.92_COV.png",
+    "kind": "cover",
+    "bytes": 100590,
+    "width": 192,
+    "height": 272,
+    "sha256": "5c8dbc8d623ebd09138351d53635442b79306455a30c5f104f356e49d537df79",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50192.jpg"
+    },
+    "gameId": "SLES_501.92"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_501.92/SLES_501.92_BG.png",
+    "kind": "background",
+    "bytes": 207080,
+    "width": 640,
+    "height": 480,
+    "sha256": "acac92fd53d076ec9ea2c13b93f6becd20810152124b319d2b2ac30bee19c5be",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_501.92/SLES_501.92_BG_00.png"
+    },
+    "gameId": "SLES_501.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_501.92/SLES_501.92_BG.png",
+      "kind": "background",
+      "bytes": 207080,
+      "width": 640,
+      "height": 480,
+      "sha256": "acac92fd53d076ec9ea2c13b93f6becd20810152124b319d2b2ac30bee19c5be",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.92/SLES_501.92_BG_00.png"
+      },
+      "gameId": "SLES_501.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Army Men - Sarge's Heroes 2"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.43",
+  "cover": {
+    "path": "PS2/SLPM_621.43/SLPM_621.43_COV.png",
+    "kind": "cover",
+    "bytes": 89081,
+    "width": 192,
+    "height": 272,
+    "sha256": "a673d5f64298ed6718130ecdb9f3727b6ac3294f72df45cb3c63fde88ecec293",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62143.jpg"
+    },
+    "gameId": "SLPM_621.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAKONIWA TETSUDOU BLUETRAIN TOKKYUUHEN"
+}

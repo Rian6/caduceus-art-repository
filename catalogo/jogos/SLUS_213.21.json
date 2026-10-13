@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_213.21",
+  "cover": {
+    "path": "PS2/SLUS_213.21/SLUS_213.21_COV.png",
+    "kind": "cover",
+    "bytes": 92866,
+    "width": 192,
+    "height": 272,
+    "sha256": "8dbdbda2da2474eed3da3f7bc8653cfe94210cbe4dcb9dcfc306e294108c25a3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21321.jpg"
+    },
+    "gameId": "SLUS_213.21"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.21/SLUS_213.21_ICO.png",
+    "kind": "disc",
+    "bytes": 17915,
+    "width": 256,
+    "height": 256,
+    "sha256": "158c172cad0b370fdf03cfed5d097b4ca3f716131ca245bb78e8074166fff78a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.21_ICO.png"
+    },
+    "gameId": "SLUS_213.21"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.21/SLUS_213.21_BG.png",
+    "kind": "background",
+    "bytes": 158978,
+    "width": 640,
+    "height": 480,
+    "sha256": "2941a2ac4fd4ee6ac000388941a7b69086d0c2f17ecf94eb73f8f93dee314f06",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.21/SLUS_213.21_BG_00.png"
+    },
+    "gameId": "SLUS_213.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.21/SLUS_213.21_BG.png",
+      "kind": "background",
+      "bytes": 158978,
+      "width": 640,
+      "height": 480,
+      "sha256": "2941a2ac4fd4ee6ac000388941a7b69086d0c2f17ecf94eb73f8f93dee314f06",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.21/SLUS_213.21_BG_00.png"
+      },
+      "gameId": "SLUS_213.21"
+    },
+    {
+      "path": "PS2/SLUS_213.21/SLUS_213.21_BG_01.png",
+      "kind": "background",
+      "bytes": 47198,
+      "width": 640,
+      "height": 480,
+      "sha256": "2b2c4f6c53fd0b05c5a09c9b9ba3b15955d8d077e8ac0f0a15a5e359142d5a34",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.21/SLUS_213.21_BG_01.png"
+      },
+      "gameId": "SLUS_213.21"
+    },
+    {
+      "path": "PS2/SLUS_213.21/SLUS_213.21_BG_02.png",
+      "kind": "background",
+      "bytes": 105322,
+      "width": 640,
+      "height": 480,
+      "sha256": "3588f7943cd285a982bf833d08bc34b3ae15dfd4d0556e9dbf617920dff951ed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.21/SLUS_213.21_BG_02.png"
+      },
+      "gameId": "SLUS_213.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Alfa Romeo Racing Italiano"
+}

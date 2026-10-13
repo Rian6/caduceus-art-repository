@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.44",
+  "cover": {
+    "path": "PS2/SLPS_732.44/SLPS_732.44_COV.png",
+    "kind": "cover",
+    "bytes": 52801,
+    "width": 192,
+    "height": 272,
+    "sha256": "cbe88e454a5dea266332c42cbb9c06877828ba68fd8cc59e867002b68ced0cd4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73244.jpg"
+    },
+    "gameId": "SLPS_732.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "R-TYPE FINAL [PLAYSTATION 2 THE BEST]"
+}

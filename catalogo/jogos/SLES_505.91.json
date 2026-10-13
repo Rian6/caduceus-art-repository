@@ -1,0 +1,90 @@
+{
+  "id": "SLES_505.91",
+  "cover": {
+    "path": "PS2/SLES_505.91/SLES_505.91_COV.png",
+    "kind": "cover",
+    "bytes": 111175,
+    "width": 192,
+    "height": 272,
+    "sha256": "25a9ebaeedd6a1e579e47fe30b942c6a6fb0f381a6f47542f556046d66fb85d7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50591.jpg"
+    },
+    "gameId": "SLES_505.91"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_505.91/SLES_505.91_BG.png",
+    "kind": "background",
+    "bytes": 158106,
+    "width": 640,
+    "height": 480,
+    "sha256": "959fcd43db4d8e8f55f60ed0dd2f17cc27e9326ceaca772f0e789dea6b9d3d2d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_505.91/SLES_505.91_BG_00.png"
+    },
+    "gameId": "SLES_505.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_505.91/SLES_505.91_BG.png",
+      "kind": "background",
+      "bytes": 158106,
+      "width": 640,
+      "height": 480,
+      "sha256": "959fcd43db4d8e8f55f60ed0dd2f17cc27e9326ceaca772f0e789dea6b9d3d2d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.91/SLES_505.91_BG_00.png"
+      },
+      "gameId": "SLES_505.91"
+    },
+    {
+      "path": "PS2/SLES_505.91/SLES_505.91_BG_01.png",
+      "kind": "background",
+      "bytes": 212639,
+      "width": 640,
+      "height": 480,
+      "sha256": "a803d602fe36272fa2193b3109646a8b86275d459a13d14b0393bd751dfcf941",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.91/SLES_505.91_BG_01.png"
+      },
+      "gameId": "SLES_505.91"
+    },
+    {
+      "path": "PS2/SLES_505.91/SLES_505.91_BG_02.png",
+      "kind": "background",
+      "bytes": 143158,
+      "width": 640,
+      "height": 480,
+      "sha256": "01aa408b8731b56517f732450bb961bf9b8c5edc8d0605d0a1ac4f993c3c1784",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.91/SLES_505.91_BG_02.png"
+      },
+      "gameId": "SLES_505.91"
+    },
+    {
+      "path": "PS2/SLES_505.91/SLES_505.91_BG_03.png",
+      "kind": "background",
+      "bytes": 159488,
+      "width": 640,
+      "height": 480,
+      "sha256": "cbe40ec419812e81d0c2ae3777716681ce79f722ecfb63e840430329a9b99bb4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.91/SLES_505.91_BG_03.png"
+      },
+      "gameId": "SLES_505.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUILTY GEAR X"
+}

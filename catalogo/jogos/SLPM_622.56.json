@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.56",
+  "cover": {
+    "path": "PS2/SLPM_622.56/SLPM_622.56_COV.png",
+    "kind": "cover",
+    "bytes": 88748,
+    "width": 192,
+    "height": 272,
+    "sha256": "ced7abd888a465fb89ed916eec2b93bde604846cc0bd66ac334891ef829e8dc9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62256.jpg"
+    },
+    "gameId": "SLPM_622.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Trucks"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.15",
+  "cover": {
+    "path": "PS2/SLPM_624.15/SLPM_624.15_COV.png",
+    "kind": "cover",
+    "bytes": 93138,
+    "width": 192,
+    "height": 272,
+    "sha256": "8bca0de91ed47c0890c6db1f2daa130c884178d34a38105bf21174c10119fa80",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62415.jpg"
+    },
+    "gameId": "SLPM_624.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "G1 JOCKEY 2 [KOEI TEIBAN SERIES]"
+}

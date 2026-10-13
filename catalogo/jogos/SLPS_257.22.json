@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.22",
+  "cover": {
+    "path": "PS2/SLPS_257.22/SLPS_257.22_COV.png",
+    "kind": "cover",
+    "bytes": 109213,
+    "width": 192,
+    "height": 272,
+    "sha256": "d6a2362a2785da1572c0c0320a2cf1c85e5c5a6035069bb43a0d7e1fbfd2f59f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25722.jpg"
+    },
+    "gameId": "SLPS_257.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROUTES PE [FIRST PRINT LIMITED EDITION]"
+}

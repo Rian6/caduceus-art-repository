@@ -1,0 +1,51 @@
+{
+  "id": "SLES_540.16",
+  "cover": {
+    "path": "PS2/SLES_540.16/SLES_540.16_COV.png",
+    "kind": "cover",
+    "bytes": 98097,
+    "width": 192,
+    "height": 272,
+    "sha256": "8deb61209b3207c309c6eddbcdc6cf507e269af69dc4cc67683af98d603be044",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54016.jpg"
+    },
+    "gameId": "SLES_540.16"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_540.16/SLES_540.16_BG.png",
+    "kind": "background",
+    "bytes": 194837,
+    "width": 640,
+    "height": 480,
+    "sha256": "1b7b32a1372532c4513a728968f3dca657875902fde047e05d15bdfa12a4bdb3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_540.16/SLES_540.16_BG_00.png"
+    },
+    "gameId": "SLES_540.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_540.16/SLES_540.16_BG.png",
+      "kind": "background",
+      "bytes": 194837,
+      "width": 640,
+      "height": 480,
+      "sha256": "1b7b32a1372532c4513a728968f3dca657875902fde047e05d15bdfa12a4bdb3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.16/SLES_540.16_BG_00.png"
+      },
+      "gameId": "SLES_540.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AND 1 Streetball"
+}

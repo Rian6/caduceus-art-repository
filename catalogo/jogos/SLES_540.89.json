@@ -1,0 +1,64 @@
+{
+  "id": "SLES_540.89",
+  "cover": {
+    "path": "PS2/SLES_540.89/SLES_540.89_COV.png",
+    "kind": "cover",
+    "bytes": 94369,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea529e104cf4e8cafdc247f44523532c32b308eabfe3cc6a10f028814b4de774",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54089.jpg"
+    },
+    "gameId": "SLES_540.89"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_540.89/SLES_540.89_BG.png",
+    "kind": "background",
+    "bytes": 190696,
+    "width": 640,
+    "height": 480,
+    "sha256": "28c8cbbc9f56fccd0a777359df06d5fd11acf2cad6e094bbf34f05dcb6ba80c7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_540.89/SLES_540.89_BG_00.png"
+    },
+    "gameId": "SLES_540.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_540.89/SLES_540.89_BG.png",
+      "kind": "background",
+      "bytes": 190696,
+      "width": 640,
+      "height": 480,
+      "sha256": "28c8cbbc9f56fccd0a777359df06d5fd11acf2cad6e094bbf34f05dcb6ba80c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.89/SLES_540.89_BG_00.png"
+      },
+      "gameId": "SLES_540.89"
+    },
+    {
+      "path": "PS2/SLES_540.89/SLES_540.89_BG_01.png",
+      "kind": "background",
+      "bytes": 141511,
+      "width": 640,
+      "height": 480,
+      "sha256": "177b71c504636532da5d3ae88804a407409481c5d6765b92ccb7125592056028",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.89/SLES_540.89_BG_01.png"
+      },
+      "gameId": "SLES_540.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STATE OF EMERGENCY 2"
+}

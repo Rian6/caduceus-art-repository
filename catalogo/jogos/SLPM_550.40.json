@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.40",
+  "cover": {
+    "path": "PS2/SLPM_550.40/SLPM_550.40_COV.png",
+    "kind": "cover",
+    "bytes": 90855,
+    "width": 192,
+    "height": 272,
+    "sha256": "34995cfd18690ce0f33f4b437cbdf6419f2be0a5951fafa0146740d9aaef5ae9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55040.jpg"
+    },
+    "gameId": "SLPM_550.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOUKOKU NO KUSABI - HIIRO NO KAKERA 3"
+}

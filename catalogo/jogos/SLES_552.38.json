@@ -1,0 +1,25 @@
+{
+  "id": "SLES_552.38",
+  "cover": {
+    "path": "PS2/SLES_552.38/SLES_552.38_COV.png",
+    "kind": "cover",
+    "bytes": 84474,
+    "width": 192,
+    "height": 272,
+    "sha256": "cfb260d4e54aef3a19b52bd01fa74f0d877906874724cdfb01284c3bbc109f3f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55238.jpg"
+    },
+    "gameId": "SLES_552.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Madden NFL 09"
+}

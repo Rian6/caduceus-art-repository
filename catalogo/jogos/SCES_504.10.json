@@ -1,0 +1,155 @@
+{
+  "id": "SCES_504.10",
+  "cover": {
+    "path": "PS2/SCES_504.10/SCES_504.10_COV.png",
+    "kind": "cover",
+    "bytes": 93924,
+    "width": 192,
+    "height": 272,
+    "sha256": "8c6cd3a037258745f4976f69bbd355a55d979be31796586b5587db02c17253d5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50410.jpg"
+    },
+    "gameId": "SCES_504.10"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_504.10/SCES_504.10_BG.png",
+    "kind": "background",
+    "bytes": 202586,
+    "width": 640,
+    "height": 480,
+    "sha256": "ee5fc6aa75e25cdf49e67b0c18a6334524dd57dabad663aa58948f0764f72362",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_504.10/SCES_504.10_BG_00.png"
+    },
+    "gameId": "SCES_504.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_504.10/SCES_504.10_BG.png",
+      "kind": "background",
+      "bytes": 202586,
+      "width": 640,
+      "height": 480,
+      "sha256": "ee5fc6aa75e25cdf49e67b0c18a6334524dd57dabad663aa58948f0764f72362",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.10/SCES_504.10_BG_00.png"
+      },
+      "gameId": "SCES_504.10"
+    },
+    {
+      "path": "PS2/SCES_504.10/SCES_504.10_BG_01.png",
+      "kind": "background",
+      "bytes": 219456,
+      "width": 640,
+      "height": 480,
+      "sha256": "90cd68535df6bccf514af61ec78f1163e4dec8a9290100b874a93ce098f085c6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.10/SCES_504.10_BG_01.png"
+      },
+      "gameId": "SCES_504.10"
+    },
+    {
+      "path": "PS2/SCES_504.10/SCES_504.10_BG_02.png",
+      "kind": "background",
+      "bytes": 178817,
+      "width": 640,
+      "height": 480,
+      "sha256": "dd4489d45a860a223a1a47b7edbdfbe6daee8ad580d83aed2049f16b61b34ae3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.10/SCES_504.10_BG_02.png"
+      },
+      "gameId": "SCES_504.10"
+    },
+    {
+      "path": "PS2/SCES_504.10/SCES_504.10_BG_03.png",
+      "kind": "background",
+      "bytes": 166865,
+      "width": 640,
+      "height": 480,
+      "sha256": "79dbd6eb56907749f0b812d83709f44336e5e649943f422c33a9b0ed93736f5c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.10/SCES_504.10_BG_03.png"
+      },
+      "gameId": "SCES_504.10"
+    },
+    {
+      "path": "PS2/SCES_504.10/SCES_504.10_BG_04.png",
+      "kind": "background",
+      "bytes": 221641,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c9afe8d2405f471d189f4ebe668f37bb82f776616ca4f311125df08d01ef8b7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.10/SCES_504.10_BG_04.png"
+      },
+      "gameId": "SCES_504.10"
+    },
+    {
+      "path": "PS2/SCES_504.10/SCES_504.10_BG_05.png",
+      "kind": "background",
+      "bytes": 208742,
+      "width": 640,
+      "height": 480,
+      "sha256": "4ba699c0ff3c8673ec2084add5b59519806431c3df9d5a2586a3326aaa3099c4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.10/SCES_504.10_BG_05.png"
+      },
+      "gameId": "SCES_504.10"
+    },
+    {
+      "path": "PS2/SCES_504.10/SCES_504.10_BG_06.png",
+      "kind": "background",
+      "bytes": 192157,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e61c518678ce484ce3a22264b2f4ea2295c6e8c577daedcfb453fcc39955f2b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.10/SCES_504.10_BG_06.png"
+      },
+      "gameId": "SCES_504.10"
+    },
+    {
+      "path": "PS2/SCES_504.10/SCES_504.10_BG_07.png",
+      "kind": "background",
+      "bytes": 108159,
+      "width": 640,
+      "height": 480,
+      "sha256": "c2a4feef3cd1c9325b4275a3470f64262072d69d2519507ce229a54c96c3ba8e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.10/SCES_504.10_BG_07.png"
+      },
+      "gameId": "SCES_504.10"
+    },
+    {
+      "path": "PS2/SCES_504.10/SCES_504.10_BG_08.png",
+      "kind": "background",
+      "bytes": 199700,
+      "width": 640,
+      "height": 480,
+      "sha256": "a7924d2f9381892511cf48912b4a092f22c2294408aea6bc8e1e41203711c585",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.10/SCES_504.10_BG_08.png"
+      },
+      "gameId": "SCES_504.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ace Combat: Distant Thunder"
+}

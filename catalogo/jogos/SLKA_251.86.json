@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.86",
+  "cover": {
+    "path": "PS2/SLKA_251.86/SLKA_251.86_COV.png",
+    "kind": "cover",
+    "bytes": 68861,
+    "width": 192,
+    "height": 272,
+    "sha256": "89758635482fe8de648afd7a178ef67d77d9ec75d245463994d7cd98d9c57793",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25186.jpg"
+    },
+    "gameId": "SLKA_251.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters - Maximum Impact (Limited Edition)"
+}

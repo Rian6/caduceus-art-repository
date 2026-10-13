@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.81",
+  "cover": {
+    "path": "PS2/SLPS_255.81/SLPS_255.81_COV.png",
+    "kind": "cover",
+    "bytes": 83228,
+    "width": 192,
+    "height": 272,
+    "sha256": "7e0d32ffec65d3b12fb5319338bfbf487bc4f4d57c0a05924d213e05d72c0d1e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25581.jpg"
+    },
+    "gameId": "SLPS_255.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.092 - THE NOROI GAME"
+}

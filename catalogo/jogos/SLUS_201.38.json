@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_201.38",
+  "cover": {
+    "path": "PS2/SLUS_201.38/SLUS_201.38_COV.png",
+    "kind": "cover",
+    "bytes": 91773,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c4e7553a68d61afcbc5cc6e9776531946720d1fbaa41cb2c8fd7804d1a39479",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20138.jpg"
+    },
+    "gameId": "SLUS_201.38"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.38/SLUS_201.38_ICO.png",
+    "kind": "disc",
+    "bytes": 34328,
+    "width": 256,
+    "height": 256,
+    "sha256": "6a49bfe1b283ff4d9822669a9e7ccb72c362d8e185a2725a2f4a219dd89238b8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.38_ICO.png"
+    },
+    "gameId": "SLUS_201.38"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.38/SLUS_201.38_BG.png",
+    "kind": "background",
+    "bytes": 160323,
+    "width": 640,
+    "height": 480,
+    "sha256": "ad7df3ce934483da2f0eb03dec86d6b8a8ef07f403940aac7826afef906e4314",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.38/SLUS_201.38_BG_00.png"
+    },
+    "gameId": "SLUS_201.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.38/SLUS_201.38_BG.png",
+      "kind": "background",
+      "bytes": 160323,
+      "width": 640,
+      "height": 480,
+      "sha256": "ad7df3ce934483da2f0eb03dec86d6b8a8ef07f403940aac7826afef906e4314",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.38/SLUS_201.38_BG_00.png"
+      },
+      "gameId": "SLUS_201.38"
+    },
+    {
+      "path": "PS2/SLUS_201.38/SLUS_201.38_BG_01.png",
+      "kind": "background",
+      "bytes": 172182,
+      "width": 640,
+      "height": 480,
+      "sha256": "9eea36999cd248a1f7cdde550fc96f8ad8fac31ccdc7434f93e4a4461e887929",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.38/SLUS_201.38_BG_01.png"
+      },
+      "gameId": "SLUS_201.38"
+    },
+    {
+      "path": "PS2/SLUS_201.38/SLUS_201.38_BG_02.png",
+      "kind": "background",
+      "bytes": 199265,
+      "width": 640,
+      "height": 480,
+      "sha256": "3bfb5447740f52c6a3eaef19dda62fc747deaafe2814be0e45aa1bf531932065",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.38/SLUS_201.38_BG_02.png"
+      },
+      "gameId": "SLUS_201.38"
+    },
+    {
+      "path": "PS2/SLUS_201.38/SLUS_201.38_BG_03.png",
+      "kind": "background",
+      "bytes": 165244,
+      "width": 640,
+      "height": 480,
+      "sha256": "0aa7d6cc7add1e47bc4349d0e9798cffcbc1d54b64555fcbe4c593236abb5551",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.38/SLUS_201.38_BG_03.png"
+      },
+      "gameId": "SLUS_201.38"
+    },
+    {
+      "path": "PS2/SLUS_201.38/SLUS_201.38_BG_04.png",
+      "kind": "background",
+      "bytes": 151904,
+      "width": 640,
+      "height": 480,
+      "sha256": "a0cd79301aea88fef929fe16838a8bfc0242f7852db9f53b7f28aa0b6189f291",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.38/SLUS_201.38_BG_04.png"
+      },
+      "gameId": "SLUS_201.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rayman 2 - Revolution"
+}

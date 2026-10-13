@@ -1,0 +1,25 @@
+{
+  "id": "SCES_550.97",
+  "cover": {
+    "path": "PS2/SCES_550.97/SCES_550.97_COV.png",
+    "kind": "cover",
+    "bytes": 62822,
+    "width": 192,
+    "height": 272,
+    "sha256": "94c12d951f79a0ebd8a0a432a25c65bef1ca1bf73466c4e53ccd9026b6bd8188",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_550.97/SCES_550.97_COV.png"
+    },
+    "gameId": "SCES_550.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Pop Quiz"
+}

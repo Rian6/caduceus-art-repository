@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.09",
+  "cover": {
+    "path": "PS2/SLPS_254.09/SLPS_254.09_COV.png",
+    "kind": "cover",
+    "bytes": 102723,
+    "width": 192,
+    "height": 272,
+    "sha256": "16d2f623063473fefb3ab7202d3dae3212fa6180d8ea6da407529ef908335281",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25409.jpg"
+    },
+    "gameId": "SLPS_254.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FUTAKOI [LIMITED EDITION]"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_675.35",
+  "cover": {
+    "path": "PS2/SLPM_675.35/SLPM_675.35_COV.png",
+    "kind": "cover",
+    "bytes": 101001,
+    "width": 192,
+    "height": 272,
+    "sha256": "7a12726804027537a0ba1a49d33b62c3667ac50b4921239a54d3308880c6da24",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-67535.jpg"
+    },
+    "gameId": "SLPM_675.35"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_675.35/SLPM_675.35_BG.png",
+    "kind": "background",
+    "bytes": 205943,
+    "width": 640,
+    "height": 480,
+    "sha256": "b9337b226b40f6ce379927391b5d7b0595550f0af21d8864fa87116d5d23a632",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_675.35/SLPM_675.35_BG_00.png"
+    },
+    "gameId": "SLPM_675.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_675.35/SLPM_675.35_BG.png",
+      "kind": "background",
+      "bytes": 205943,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9337b226b40f6ce379927391b5d7b0595550f0af21d8864fa87116d5d23a632",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_675.35/SLPM_675.35_BG_00.png"
+      },
+      "gameId": "SLPM_675.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEMORIES OFF"
+}

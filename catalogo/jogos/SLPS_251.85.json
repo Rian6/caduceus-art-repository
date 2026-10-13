@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.85",
+  "cover": {
+    "path": "PS2/SLPS_251.85/SLPS_251.85_COV.png",
+    "kind": "cover",
+    "bytes": 49163,
+    "width": 192,
+    "height": 272,
+    "sha256": "7f4515aa8356d5f327370a45333ef6e1d5c7792c0ebe4f1377d8ee30ce81c61b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_251.85/SLPS_251.85_COV.png"
+    },
+    "gameId": "SLPS_251.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Unlimited Saga (Limited Edition)"
+}

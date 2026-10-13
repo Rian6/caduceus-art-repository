@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.68",
+  "cover": {
+    "path": "PS2/SLPS_252.68/SLPS_252.68_COV.png",
+    "kind": "cover",
+    "bytes": 90443,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a639e4ee2a7ae07a8afbb463a0c359d1b77ed843fa524ab835094249cf37ef2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25268.jpg"
+    },
+    "gameId": "SLPS_252.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEAD TO RIGHTS"
+}

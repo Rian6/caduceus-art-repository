@@ -1,0 +1,25 @@
+{
+  "id": "SLES_519.99",
+  "cover": {
+    "path": "PS2/SLES_519.99/SLES_519.99_COV.png",
+    "kind": "cover",
+    "bytes": 62460,
+    "width": 192,
+    "height": 272,
+    "sha256": "8050269cbb91ad27f94b94632e4fb07e9fb07099ee06659a08d768f697da3768",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.99/SLES_519.99_COV.png"
+    },
+    "gameId": "SLES_519.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Groove Rider - Slot Car Racing"
+}

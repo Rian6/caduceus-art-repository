@@ -1,0 +1,64 @@
+{
+  "id": "SLES_547.28",
+  "cover": {
+    "path": "PS2/SLES_547.28/SLES_547.28_COV.png",
+    "kind": "cover",
+    "bytes": 106089,
+    "width": 192,
+    "height": 272,
+    "sha256": "0482a8472462e2c9433d077b98744c8d7607497102f55503af016288d5acc1bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54728.jpg"
+    },
+    "gameId": "SLES_547.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_547.28/SLES_547.28_BG.png",
+    "kind": "background",
+    "bytes": 202468,
+    "width": 640,
+    "height": 480,
+    "sha256": "62ba379cce0471501e83d391e532192ed9092eefc925578988e9f7769d7d0138",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_547.28/SLES_547.28_BG_00.png"
+    },
+    "gameId": "SLES_547.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_547.28/SLES_547.28_BG.png",
+      "kind": "background",
+      "bytes": 202468,
+      "width": 640,
+      "height": 480,
+      "sha256": "62ba379cce0471501e83d391e532192ed9092eefc925578988e9f7769d7d0138",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.28/SLES_547.28_BG_00.png"
+      },
+      "gameId": "SLES_547.28"
+    },
+    {
+      "path": "PS2/SLES_547.28/SLES_547.28_BG_01.png",
+      "kind": "background",
+      "bytes": 203261,
+      "width": 640,
+      "height": 480,
+      "sha256": "b3c4e87ae531fb7f67d8ec85563e5b180bcde9f99cbf8d8c34f0d38466131a16",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.28/SLES_547.28_BG_01.png"
+      },
+      "gameId": "SLES_547.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MOUNTAIN BIKE ADRENALINE FEATURING SALOMON"
+}

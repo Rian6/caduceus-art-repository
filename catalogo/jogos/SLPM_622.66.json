@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.66",
+  "cover": {
+    "path": "PS2/SLPM_622.66/SLPM_622.66_COV.png",
+    "kind": "cover",
+    "bytes": 76255,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2bea47d24d5c08ed49cf23243b465ee91a62d8f5da930bddf3859639947a2ba",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62266.jpg"
+    },
+    "gameId": "SLPM_622.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MOMOTAROU DENSETSU 11 - BLACK BOMBIE SHUTSUGEN NO KAN"
+}

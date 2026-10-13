@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_350.01",
+  "cover": {
+    "path": "PS2/SLAJ_350.01/SLAJ_350.01_COV.png",
+    "kind": "cover",
+    "bytes": 71678,
+    "width": 192,
+    "height": 272,
+    "sha256": "0a5530b6affac4b06d97d01ea1799d4338a1424fd2d7e41990ce6a386dcddf33",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-35001.jpg"
+    },
+    "gameId": "SLAJ_350.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sakura Taisen V - Saraba Itoshiki Hito Yo"
+}

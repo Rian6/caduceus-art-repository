@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_973.69",
+  "cover": {
+    "path": "PS2/SCUS_973.69/SCUS_973.69_COV.png",
+    "kind": "cover",
+    "bytes": 104821,
+    "width": 192,
+    "height": 272,
+    "sha256": "b845da314abe8781a3562fd6f12b05c90e5fae5cf1dd629c4e77c174f46b885f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97369.jpg"
+    },
+    "gameId": "SCUS_973.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ATV Off-Road Fury 2 (PlayStation 2 Combo Pack)"
+}

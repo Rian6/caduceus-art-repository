@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_218.14",
+  "cover": {
+    "path": "PS2/SLUS_218.14/SLUS_218.14_COV.png",
+    "kind": "cover",
+    "bytes": 93337,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a370d6e5e3e22c61313102ba8694d81e7cef226a085671ac5d10f0852f7ce8b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21814.jpg"
+    },
+    "gameId": "SLUS_218.14"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.14/SLUS_218.14_ICO.png",
+    "kind": "disc",
+    "bytes": 31641,
+    "width": 256,
+    "height": 256,
+    "sha256": "95707f67ce614aaac00c256198c38a51be0641286d933774212d78742812e10d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.14_ICO.png"
+    },
+    "gameId": "SLUS_218.14"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney Think Fast"
+}

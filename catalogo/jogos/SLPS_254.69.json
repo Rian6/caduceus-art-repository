@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.69",
+  "cover": {
+    "path": "PS2/SLPS_254.69/SLPS_254.69_COV.png",
+    "kind": "cover",
+    "bytes": 108936,
+    "width": 192,
+    "height": 272,
+    "sha256": "10f3e485378e36fbb4a399b8603e2b0fa54c8587e5083f94aeb2e139308e7442",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25469.jpg"
+    },
+    "gameId": "SLPS_254.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Baseball Live 2005"
+}

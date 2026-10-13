@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.94",
+  "cover": {
+    "path": "PS2/SLPM_663.94/SLPM_663.94_COV.png",
+    "kind": "cover",
+    "bytes": 119127,
+    "width": 192,
+    "height": 272,
+    "sha256": "531da44b54528769d98e7458799477e50c1ff1513cd656ea48f6434064b04193",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66394.jpg"
+    },
+    "gameId": "SLPM_663.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XI - Aht Urghan no Hihou"
+}

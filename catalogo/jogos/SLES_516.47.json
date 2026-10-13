@@ -1,0 +1,25 @@
+{
+  "id": "SLES_516.47",
+  "cover": {
+    "path": "PS2/SLES_516.47/SLES_516.47_COV.png",
+    "kind": "cover",
+    "bytes": 57081,
+    "width": 192,
+    "height": 272,
+    "sha256": "99490f1809c464d76312411bd72afe577861040692cfbe1f6cc04912a95b45eb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_516.47/SLES_516.47_COV.png"
+    },
+    "gameId": "SLES_516.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Energy Airforce"
+}

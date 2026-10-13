@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_254.72",
+  "cover": {
+    "path": "PS2/SLKA_254.72/SLKA_254.72_COV.png",
+    "kind": "cover",
+    "bytes": 86512,
+    "width": 192,
+    "height": 272,
+    "sha256": "90e1142e0109c473477bb60f6308831656ea4cceb824a4bba605d087bec59727",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25472.jpg"
+    },
+    "gameId": "SLKA_254.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL GEAR SOLID 3 - SNAKE EATER [BIGHIT SERIES]"
+}

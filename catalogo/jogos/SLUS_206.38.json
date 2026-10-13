@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_206.38",
+  "cover": {
+    "path": "PS2/SLUS_206.38/SLUS_206.38_COV.png",
+    "kind": "cover",
+    "bytes": 100664,
+    "width": 192,
+    "height": 272,
+    "sha256": "c85509c10ddec65fddbad039ff8636838bf03543967c1fa229b9d5522ae06677",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20638.jpg"
+    },
+    "gameId": "SLUS_206.38"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.38/SLUS_206.38_ICO.png",
+    "kind": "disc",
+    "bytes": 36491,
+    "width": 256,
+    "height": 256,
+    "sha256": "a06b43c280542f1004bbe7bc0a104a2cca68826c5fec78f72cc9cf218ac1c193",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.38_ICO.png"
+    },
+    "gameId": "SLUS_206.38"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.38/SLUS_206.38_BG.png",
+    "kind": "background",
+    "bytes": 191804,
+    "width": 640,
+    "height": 480,
+    "sha256": "f034effa2fb7303eba20dc9499a922a98ae0bdd5397c3eecaf026586ebb01440",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.38/SLUS_206.38_BG_00.png"
+    },
+    "gameId": "SLUS_206.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.38/SLUS_206.38_BG.png",
+      "kind": "background",
+      "bytes": 191804,
+      "width": 640,
+      "height": 480,
+      "sha256": "f034effa2fb7303eba20dc9499a922a98ae0bdd5397c3eecaf026586ebb01440",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.38/SLUS_206.38_BG_00.png"
+      },
+      "gameId": "SLUS_206.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Backyard Wrestling - Don't Try This At Home"
+}

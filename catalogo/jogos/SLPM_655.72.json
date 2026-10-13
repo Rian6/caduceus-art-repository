@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.72",
+  "cover": {
+    "path": "PS2/SLPM_655.72/SLPM_655.72_COV.png",
+    "kind": "cover",
+    "bytes": 110815,
+    "width": 192,
+    "height": 272,
+    "sha256": "fee8b483ba3403eed2ca0355dc3924978133a80b2631b5317c174a7229dae9a8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65572.jpg"
+    },
+    "gameId": "SLPM_655.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Generation of Chaos IV - Shinten Makai"
+}

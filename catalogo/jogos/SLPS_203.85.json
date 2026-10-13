@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.85",
+  "cover": {
+    "path": "PS2/SLPS_203.85/SLPS_203.85_COV.png",
+    "kind": "cover",
+    "bytes": 94901,
+    "width": 192,
+    "height": 272,
+    "sha256": "34ae3fecf68f83b6f5a5effca201eeb5de421d7f9a112538d51c88d671221996",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20385.jpg"
+    },
+    "gameId": "SLPS_203.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAYARIGAMI - KEISHITYOU KAII JIKEN FILE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.31",
+  "cover": {
+    "path": "PS2/SLPM_667.31/SLPM_667.31_COV.png",
+    "kind": "cover",
+    "bytes": 81131,
+    "width": 192,
+    "height": 272,
+    "sha256": "05a6be8c7db9acac0b630e39fc5d138ae1bb058e6b7240b4e53c2622b67a6572",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66731.jpg"
+    },
+    "gameId": "SLPM_667.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BLACK [EA BEST HIST]"
+}

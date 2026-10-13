@@ -1,0 +1,51 @@
+{
+  "id": "SLES_543.19",
+  "cover": {
+    "path": "PS2/SLES_543.19/SLES_543.19_COV.png",
+    "kind": "cover",
+    "bytes": 116761,
+    "width": 192,
+    "height": 272,
+    "sha256": "46188ad28dd7d5f61b21ec6c2d1811e902ab50a4c533daa1d5e3d56f5ac06061",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54319.jpg"
+    },
+    "gameId": "SLES_543.19"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.19/SLES_543.19_BG.png",
+    "kind": "background",
+    "bytes": 100534,
+    "width": 640,
+    "height": 480,
+    "sha256": "2aad32db7438b90bcfd8aed2415fba19401f790229d8c6e58c7f5d7f3324aec2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.19/SLES_543.19_BG_00.png"
+    },
+    "gameId": "SLES_543.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.19/SLES_543.19_BG.png",
+      "kind": "background",
+      "bytes": 100534,
+      "width": 640,
+      "height": 480,
+      "sha256": "2aad32db7438b90bcfd8aed2415fba19401f790229d8c6e58c7f5d7f3324aec2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.19/SLES_543.19_BG_00.png"
+      },
+      "gameId": "SLES_543.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Biker Mice from Mars"
+}

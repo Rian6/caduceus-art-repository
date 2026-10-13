@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_203.10",
+  "cover": {
+    "path": "PS2/SLUS_203.10/SLUS_203.10_COV.png",
+    "kind": "cover",
+    "bytes": 106013,
+    "width": 192,
+    "height": 272,
+    "sha256": "6b2a87601be40fb986d93144ee20eb65b04dd5aa57a7f5063b947e08ce611422",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20310.jpg"
+    },
+    "gameId": "SLUS_203.10"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.10/SLUS_203.10_ICO.png",
+    "kind": "disc",
+    "bytes": 33793,
+    "width": 256,
+    "height": 256,
+    "sha256": "8c1794a582729298f1872d87b22be3209639c372f31e421cfb0118e3a00ab09c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.10_ICO.png"
+    },
+    "gameId": "SLUS_203.10"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRAVITY GAMES BIKE - STREET. VERT. DIRT."
+}

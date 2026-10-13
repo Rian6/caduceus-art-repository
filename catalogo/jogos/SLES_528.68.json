@@ -1,0 +1,90 @@
+{
+  "id": "SLES_528.68",
+  "cover": {
+    "path": "PS2/SLES_528.68/SLES_528.68_COV.png",
+    "kind": "cover",
+    "bytes": 91387,
+    "width": 192,
+    "height": 272,
+    "sha256": "3aade8584bc38cd179a188b777f89a7bc7ed9c53d040c5265e99d695281bee36",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52868.jpg"
+    },
+    "gameId": "SLES_528.68"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.68/SLES_528.68_BG.png",
+    "kind": "background",
+    "bytes": 181333,
+    "width": 640,
+    "height": 480,
+    "sha256": "e77e9ca026fc256ccb8937fe5128e125df7e87fae242a073a4a1f92bba1fb396",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.68/SLES_528.68_BG_00.png"
+    },
+    "gameId": "SLES_528.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.68/SLES_528.68_BG.png",
+      "kind": "background",
+      "bytes": 181333,
+      "width": 640,
+      "height": 480,
+      "sha256": "e77e9ca026fc256ccb8937fe5128e125df7e87fae242a073a4a1f92bba1fb396",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.68/SLES_528.68_BG_00.png"
+      },
+      "gameId": "SLES_528.68"
+    },
+    {
+      "path": "PS2/SLES_528.68/SLES_528.68_BG_01.png",
+      "kind": "background",
+      "bytes": 168709,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c2ab1cce8079e791f69603ac60c802580240c4213d077208fd8d22043dde567",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.68/SLES_528.68_BG_01.png"
+      },
+      "gameId": "SLES_528.68"
+    },
+    {
+      "path": "PS2/SLES_528.68/SLES_528.68_BG_02.png",
+      "kind": "background",
+      "bytes": 223029,
+      "width": 640,
+      "height": 480,
+      "sha256": "96d3fae5a28d07f61dad6eec373e0f68deda6be7f090428505a0987d6951819c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.68/SLES_528.68_BG_02.png"
+      },
+      "gameId": "SLES_528.68"
+    },
+    {
+      "path": "PS2/SLES_528.68/SLES_528.68_BG_03.png",
+      "kind": "background",
+      "bytes": 154346,
+      "width": 640,
+      "height": 480,
+      "sha256": "0e3befb760bbde211b860f0c90cf67f87e1bb184d4d33ee16e5a97f6720888ab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.68/SLES_528.68_BG_03.png"
+      },
+      "gameId": "SLES_528.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Viewtiful Joe 2"
+}

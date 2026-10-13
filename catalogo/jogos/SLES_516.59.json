@@ -1,0 +1,25 @@
+{
+  "id": "SLES_516.59",
+  "cover": {
+    "path": "PS2/SLES_516.59/SLES_516.59_COV.png",
+    "kind": "cover",
+    "bytes": 94231,
+    "width": 192,
+    "height": 272,
+    "sha256": "1fa10029f1a1a36c3bab1e014c98b94eac56613164e7b0e5b18a1f81c34e862a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51659.jpg"
+    },
+    "gameId": "SLES_516.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S LES AVENTURES DE PORCINET"
+}

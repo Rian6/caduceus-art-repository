@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_734.18",
+  "cover": {
+    "path": "PS2/SLPS_734.18/SLPS_734.18_COV.png",
+    "kind": "cover",
+    "bytes": 87682,
+    "width": 192,
+    "height": 272,
+    "sha256": "95685d80bbcea7864a1e580d37e121ca9916fc3c6f5b680703b6ebe75873558f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73418.jpg"
+    },
+    "gameId": "SLPS_734.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shadow Hearts (PlayStation2 the Best)"
+}

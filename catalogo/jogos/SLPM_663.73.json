@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.73",
+  "cover": {
+    "path": "PS2/SLPM_663.73/SLPM_663.73_COV.png",
+    "kind": "cover",
+    "bytes": 68471,
+    "width": 192,
+    "height": 272,
+    "sha256": "3309f2465218d8f220032e719e9028fbacf23376e6e22812049400914c2bbdf5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66373.jpg"
+    },
+    "gameId": "SLPM_663.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Digital Devil Saga - Avatar Tuner 2 (Atlus Best Collection)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCES_554.23",
+  "cover": {
+    "path": "PS2/SCES_554.23/SCES_554.23_COV.png",
+    "kind": "cover",
+    "bytes": 101081,
+    "width": 192,
+    "height": 272,
+    "sha256": "80e2e79932d6e2f80e50421212174c39a0404ee03ae6e64f67f6376171e4cf7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55423.jpg"
+    },
+    "gameId": "SCES_554.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Norgesmester"
+}

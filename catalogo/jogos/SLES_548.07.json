@@ -1,0 +1,39 @@
+{
+  "id": "SLES_548.07",
+  "cover": null,
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_548.07/SLES_548.07_BG.png",
+    "kind": "background",
+    "bytes": 188547,
+    "width": 640,
+    "height": 480,
+    "sha256": "f209f911d68bdecc85a3f2692cf6715e207db370dbdbda88830f66cb7ec1d545",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.07/SLES_548.07_BG_00.png"
+    },
+    "gameId": "SLES_548.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.07/SLES_548.07_BG.png",
+      "kind": "background",
+      "bytes": 188547,
+      "width": 640,
+      "height": 480,
+      "sha256": "f209f911d68bdecc85a3f2692cf6715e207db370dbdbda88830f66cb7ec1d545",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.07/SLES_548.07_BG_00.png"
+      },
+      "gameId": "SLES_548.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Thrillville - Le Parc en Folie"
+}

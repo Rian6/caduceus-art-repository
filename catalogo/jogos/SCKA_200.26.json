@@ -1,0 +1,64 @@
+{
+  "id": "SCKA_200.26",
+  "cover": {
+    "path": "PS2/SCKA_200.26/SCKA_200.26_COV.png",
+    "kind": "cover",
+    "bytes": 91613,
+    "width": 192,
+    "height": 272,
+    "sha256": "e147c5f5fed08fa542f522977e4c7f25942bece8a42b99daf2d5a96761a4f158",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20026.jpg"
+    },
+    "gameId": "SCKA_200.26"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.26/SCKA_200.26_BG.png",
+    "kind": "background",
+    "bytes": 195744,
+    "width": 640,
+    "height": 480,
+    "sha256": "d8a75a482c903715f2787550f9f862d3a2da218b3885003304f38ffa674b1757",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.26/SCKA_200.26_BG_00.png"
+    },
+    "gameId": "SCKA_200.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.26/SCKA_200.26_BG.png",
+      "kind": "background",
+      "bytes": 195744,
+      "width": 640,
+      "height": 480,
+      "sha256": "d8a75a482c903715f2787550f9f862d3a2da218b3885003304f38ffa674b1757",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.26/SCKA_200.26_BG_00.png"
+      },
+      "gameId": "SCKA_200.26"
+    },
+    {
+      "path": "PS2/SCKA_200.26/SCKA_200.26_BG_01.png",
+      "kind": "background",
+      "bytes": 80144,
+      "width": 640,
+      "height": 480,
+      "sha256": "dc1d034aad5a3ff0897354a7fe9ffaea34603fd776e04da1914bec1fe3ddef53",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.26/SCKA_200.26_BG_01.png"
+      },
+      "gameId": "SCKA_200.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gungrave OD"
+}

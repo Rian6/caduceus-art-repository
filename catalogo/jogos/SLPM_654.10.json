@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.10",
+  "cover": {
+    "path": "PS2/SLPM_654.10/SLPM_654.10_COV.png",
+    "kind": "cover",
+    "bytes": 84319,
+    "width": 192,
+    "height": 272,
+    "sha256": "a73e4845f5863855c38f933ee8083483b6ca24359763c986c77c3cb997bf5464",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65410.jpg"
+    },
+    "gameId": "SLPM_654.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Getaway"
+}

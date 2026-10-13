@@ -1,0 +1,25 @@
+{
+  "id": "SLES_513.49",
+  "cover": {
+    "path": "PS2/SLES_513.49/SLES_513.49_COV.png",
+    "kind": "cover",
+    "bytes": 98877,
+    "width": 192,
+    "height": 272,
+    "sha256": "177a77f85a2db7f03b157d75b8777a63b60783203349e4909bfacf9a078313c0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51349.jpg"
+    },
+    "gameId": "SLES_513.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Evolution Skateboarding"
+}

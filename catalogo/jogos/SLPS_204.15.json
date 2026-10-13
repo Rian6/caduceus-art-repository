@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.15",
+  "cover": {
+    "path": "PS2/SLPS_204.15/SLPS_204.15_COV.png",
+    "kind": "cover",
+    "bytes": 55656,
+    "width": 192,
+    "height": 272,
+    "sha256": "3f78c64a9d6fb07f296c2024b1b27034fc8fdfad95e21473425f3d9d33293164",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20415.jpg"
+    },
+    "gameId": "SLPS_204.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tsuki no Hikari: Shizumeru Kane no Satsujin (Super Best Collection)"
+}

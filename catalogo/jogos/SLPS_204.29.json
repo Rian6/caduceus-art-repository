@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.29",
+  "cover": {
+    "path": "PS2/SLPS_204.29/SLPS_204.29_COV.png",
+    "kind": "cover",
+    "bytes": 113122,
+    "width": 192,
+    "height": 272,
+    "sha256": "59b0f03cb3ee05d7391b4d3e914e7642fb8499237752cedb36dfe25a5c5a1e12",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20429.jpg"
+    },
+    "gameId": "SLPS_204.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hissatsu Pachi-Slot Evolution - Ninja Hattori-Kun V"
+}

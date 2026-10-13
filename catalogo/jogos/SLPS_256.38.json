@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.38",
+  "cover": {
+    "path": "PS2/SLPS_256.38/SLPS_256.38_COV.png",
+    "kind": "cover",
+    "bytes": 99488,
+    "width": 192,
+    "height": 272,
+    "sha256": "e2fc018301cf6da4a7e775b3e228d4a1803794cde7809d83efd75b885c0614ba",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25638.jpg"
+    },
+    "gameId": "SLPS_256.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters - Maximum Impact 2"
+}

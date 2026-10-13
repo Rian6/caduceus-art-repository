@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.55",
+  "cover": {
+    "path": "PS2/SLKA_250.55/SLKA_250.55_COV.png",
+    "kind": "cover",
+    "bytes": 45606,
+    "width": 192,
+    "height": 272,
+    "sha256": "442ec1b82c6a076af0096fbc79320044cf2305e3f0e041d13a20e47d73065d7b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.55/SLKA_250.55_COV.png"
+    },
+    "gameId": "SLKA_250.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hitman 2: Silent Assassin"
+}

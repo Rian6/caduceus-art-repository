@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_622.88",
+  "cover": {
+    "path": "PS2/SLPM_622.88/SLPM_622.88_COV.png",
+    "kind": "cover",
+    "bytes": 107624,
+    "width": 192,
+    "height": 272,
+    "sha256": "c2f324ea5b75522630c4c1692b2bb960dd4bd88a3f2d8cc0c44d4f9c5b547be1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62288.jpg"
+    },
+    "gameId": "SLPM_622.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_622.88/SLPM_622.88_BG.png",
+    "kind": "background",
+    "bytes": 211900,
+    "width": 640,
+    "height": 480,
+    "sha256": "232571518dbd5e0f460a9d174b14091e3e22907910972a6fdac52dc9ff1f3c75",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_622.88/SLPM_622.88_BG_00.png"
+    },
+    "gameId": "SLPM_622.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_622.88/SLPM_622.88_BG.png",
+      "kind": "background",
+      "bytes": 211900,
+      "width": 640,
+      "height": 480,
+      "sha256": "232571518dbd5e0f460a9d174b14091e3e22907910972a6fdac52dc9ff1f3c75",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_622.88/SLPM_622.88_BG_00.png"
+      },
+      "gameId": "SLPM_622.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "POP'N MUSIC BEST HITS!"
+}

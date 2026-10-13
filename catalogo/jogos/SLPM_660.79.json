@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.79",
+  "cover": {
+    "path": "PS2/SLPM_660.79/SLPM_660.79_COV.png",
+    "kind": "cover",
+    "bytes": 104533,
+    "width": 192,
+    "height": 272,
+    "sha256": "09caffb5a6f7b3ca96961a38dbbc5ea93a92fdf07826d1441f8bd853eea095a4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66079.jpg"
+    },
+    "gameId": "SLPM_660.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Medal of Honor: Europa Kyoushuu"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_216.91",
+  "cover": {
+    "path": "PS2/SLUS_216.91/SLUS_216.91_COV.png",
+    "kind": "cover",
+    "bytes": 114314,
+    "width": 192,
+    "height": 272,
+    "sha256": "76ea5d0d948a28ec373fc3942b005a6e879e7a37f9e3badbc1f4609ef5a7d8ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21691.jpg"
+    },
+    "gameId": "SLUS_216.91"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.91/SLUS_216.91_ICO.png",
+    "kind": "disc",
+    "bytes": 38282,
+    "width": 256,
+    "height": 256,
+    "sha256": "ab58eeb772a1824deca98cf7b3b9477f3aeaa8f5096582c28455154c34125c2b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.91_ICO.png"
+    },
+    "gameId": "SLUS_216.91"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.91/SLUS_216.91_BG.png",
+    "kind": "background",
+    "bytes": 181507,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a88a423c1f2a6bb0ff6b7d5f294f36f8cb59a7a310bf4a2f097b4be65f0511a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.91/SLUS_216.91_BG_00.png"
+    },
+    "gameId": "SLUS_216.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.91/SLUS_216.91_BG.png",
+      "kind": "background",
+      "bytes": 181507,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a88a423c1f2a6bb0ff6b7d5f294f36f8cb59a7a310bf4a2f097b4be65f0511a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.91/SLUS_216.91_BG_00.png"
+      },
+      "gameId": "SLUS_216.91"
+    },
+    {
+      "path": "PS2/SLUS_216.91/SLUS_216.91_BG_01.png",
+      "kind": "background",
+      "bytes": 209279,
+      "width": 640,
+      "height": 480,
+      "sha256": "e74a27e422614ca46d1d04412b53011b65d4ecbca02374581b6717b41797b992",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.91/SLUS_216.91_BG_01.png"
+      },
+      "gameId": "SLUS_216.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Swashbucklers: Blue vs. Grey"
+}

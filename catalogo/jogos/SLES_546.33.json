@@ -1,0 +1,25 @@
+{
+  "id": "SLES_546.33",
+  "cover": {
+    "path": "PS2/SLES_546.33/SLES_546.33_COV.png",
+    "kind": "cover",
+    "bytes": 99689,
+    "width": 192,
+    "height": 272,
+    "sha256": "d8df8b72a0ed95b34d4fc1ac3a05539a00a86d9e5e6642dcb57b6ab28221091b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54633.jpg"
+    },
+    "gameId": "SLES_546.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Premier Manager 08"
+}

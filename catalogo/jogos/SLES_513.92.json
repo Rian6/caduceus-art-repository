@@ -1,0 +1,25 @@
+{
+  "id": "SLES_513.92",
+  "cover": {
+    "path": "PS2/SLES_513.92/SLES_513.92_COV.png",
+    "kind": "cover",
+    "bytes": 90757,
+    "width": 192,
+    "height": 272,
+    "sha256": "72bba9dd4421c2e139451093b441a0ae965f19739e9f1438ca1778813f416ed7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51392.jpg"
+    },
+    "gameId": "SLES_513.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Evolution Snowboarding"
+}

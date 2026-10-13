@@ -1,0 +1,25 @@
+{
+  "id": "SLES_504.70",
+  "cover": {
+    "path": "PS2/SLES_504.70/SLES_504.70_COV.png",
+    "kind": "cover",
+    "bytes": 78115,
+    "width": 192,
+    "height": 272,
+    "sha256": "c9ea4993f875edc9b81f6048d04a722837d6de5c3b9b3533d25bf06038e52841",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50470.jpg"
+    },
+    "gameId": "SLES_504.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA Football 2002"
+}

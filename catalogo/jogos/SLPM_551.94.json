@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.94",
+  "cover": {
+    "path": "PS2/SLPM_551.94/SLPM_551.94_COV.png",
+    "kind": "cover",
+    "bytes": 107509,
+    "width": 192,
+    "height": 272,
+    "sha256": "37e090aa44f0f5f3b4de3e86f850d091033f7e84fa4cf09bddd155e41c568465",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55194.jpg"
+    },
+    "gameId": "SLPM_551.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LUCIAN BEE'S - RESURRECTION SUPERNOVA"
+}

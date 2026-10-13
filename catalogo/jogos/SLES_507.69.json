@@ -1,0 +1,51 @@
+{
+  "id": "SLES_507.69",
+  "cover": {
+    "path": "PS2/SLES_507.69/SLES_507.69_COV.png",
+    "kind": "cover",
+    "bytes": 89861,
+    "width": 192,
+    "height": 272,
+    "sha256": "b2fea837563974bec35105e77f99127dc056b81d8746ce4ec3939b02c30b33da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50769.jpg"
+    },
+    "gameId": "SLES_507.69"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_507.69/SLES_507.69_BG.png",
+    "kind": "background",
+    "bytes": 183236,
+    "width": 640,
+    "height": 480,
+    "sha256": "b310526f63b23b73ee26cf401b19f738dbdcd352b5bb268fcd676c402e793d84",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.69/SLES_507.69_BG_00.png"
+    },
+    "gameId": "SLES_507.69"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_507.69/SLES_507.69_BG.png",
+      "kind": "background",
+      "bytes": 183236,
+      "width": 640,
+      "height": 480,
+      "sha256": "b310526f63b23b73ee26cf401b19f738dbdcd352b5bb268fcd676c402e793d84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.69/SLES_507.69_BG_00.png"
+      },
+      "gameId": "SLES_507.69"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MR MOSKEETO"
+}

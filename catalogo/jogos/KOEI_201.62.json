@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.62",
+  "cover": {
+    "path": "PS2/KOEI_201.62/KOEI_201.62_COV.png",
+    "kind": "cover",
+    "bytes": 73585,
+    "width": 192,
+    "height": 272,
+    "sha256": "0076f2870260b0958a189a5d1a1d73e6dd735b0a59d23f32e963b144fc0a3bbb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/KOEI-20162.jpg"
+    },
+    "gameId": "KOEI_201.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE - YUME NO UKIHASHI SPECIAL [PREMIUM BOX]"
+}

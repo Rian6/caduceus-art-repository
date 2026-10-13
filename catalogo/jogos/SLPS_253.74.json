@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.74",
+  "cover": {
+    "path": "PS2/SLPS_253.74/SLPS_253.74_COV.png",
+    "kind": "cover",
+    "bytes": 93973,
+    "width": 192,
+    "height": 272,
+    "sha256": "7f58d91dd1e0d8acb8ada2e6320ba2dc8db33692208a58156b39a76cc9d88db1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25374.jpg"
+    },
+    "gameId": "SLPS_253.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DAIDASSOU - THE GREAT ESCAPE"
+}

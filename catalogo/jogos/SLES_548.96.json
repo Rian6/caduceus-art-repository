@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.96",
+  "cover": {
+    "path": "PS2/SLES_548.96/SLES_548.96_COV.png",
+    "kind": "cover",
+    "bytes": 75518,
+    "width": 192,
+    "height": 272,
+    "sha256": "0fa5b489a97c109cca308ec8cc7a32386cd9799672781739448be97c3bca086f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54896.jpg"
+    },
+    "gameId": "SLES_548.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live '08"
+}

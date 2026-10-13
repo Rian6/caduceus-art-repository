@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_212.83",
+  "cover": {
+    "path": "PS2/SLUS_212.83/SLUS_212.83_COV.png",
+    "kind": "cover",
+    "bytes": 110919,
+    "width": 192,
+    "height": 272,
+    "sha256": "618b45e14e03d75861dec9a9aaaa4450b80a68b27943da0ec890abd63c36e2c8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21283.jpg"
+    },
+    "gameId": "SLUS_212.83"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.83/SLUS_212.83_ICO.png",
+    "kind": "disc",
+    "bytes": 34187,
+    "width": 256,
+    "height": 256,
+    "sha256": "9a91770f69b2652e7c7c541d96db622420b7dae791d9cbfa49a5ca15456fda6f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.83_ICO.png"
+    },
+    "gameId": "SLUS_212.83"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.83/SLUS_212.83_BG.png",
+    "kind": "background",
+    "bytes": 195707,
+    "width": 640,
+    "height": 480,
+    "sha256": "df3aaaaffbb79ce39d56b659120baeae54846b9757f5aa3da432f0a872d228c4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.83/SLUS_212.83_BG_00.png"
+    },
+    "gameId": "SLUS_212.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.83/SLUS_212.83_BG.png",
+      "kind": "background",
+      "bytes": 195707,
+      "width": 640,
+      "height": 480,
+      "sha256": "df3aaaaffbb79ce39d56b659120baeae54846b9757f5aa3da432f0a872d228c4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.83/SLUS_212.83_BG_00.png"
+      },
+      "gameId": "SLUS_212.83"
+    },
+    {
+      "path": "PS2/SLUS_212.83/SLUS_212.83_BG_01.png",
+      "kind": "background",
+      "bytes": 174414,
+      "width": 640,
+      "height": 480,
+      "sha256": "53c8df4c0b9ca02725909cbffabb4a3be1760fd38e8996fb6c13974be39a9b41",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.83/SLUS_212.83_BG_01.png"
+      },
+      "gameId": "SLUS_212.83"
+    },
+    {
+      "path": "PS2/SLUS_212.83/SLUS_212.83_BG_02.png",
+      "kind": "background",
+      "bytes": 203438,
+      "width": 640,
+      "height": 480,
+      "sha256": "2290284885b5e15cbae6399762f76570e158c0bf587c8e10d11a9e34082806eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.83/SLUS_212.83_BG_02.png"
+      },
+      "gameId": "SLUS_212.83"
+    },
+    {
+      "path": "PS2/SLUS_212.83/SLUS_212.83_BG_03.png",
+      "kind": "background",
+      "bytes": 187951,
+      "width": 640,
+      "height": 480,
+      "sha256": "d333e83ba3df6aa93e9f126417f1fd50ebbf95771fab4ce24c3ce0a955392eff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.83/SLUS_212.83_BG_03.png"
+      },
+      "gameId": "SLUS_212.83"
+    },
+    {
+      "path": "PS2/SLUS_212.83/SLUS_212.83_BG_04.png",
+      "kind": "background",
+      "bytes": 180365,
+      "width": 640,
+      "height": 480,
+      "sha256": "46af814043fe5e4023ad1c2e328c91944258f0e006d00ff2801f15413e1d43d9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.83/SLUS_212.83_BG_04.png"
+      },
+      "gameId": "SLUS_212.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Total Overdose: A Gunslinger's Tale in Mexico"
+}

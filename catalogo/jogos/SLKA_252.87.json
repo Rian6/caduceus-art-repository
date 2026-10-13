@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.87",
+  "cover": {
+    "path": "PS2/SLKA_252.87/SLKA_252.87_COV.png",
+    "kind": "cover",
+    "bytes": 104140,
+    "width": 192,
+    "height": 272,
+    "sha256": "a2e7a9df8574df3d82485ce77155eac8e1b77730e5cb9da6c702461d1cd5cf68",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25287.jpg"
+    },
+    "gameId": "SLKA_252.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL SLUG 4 & 5 [2 DISCS]"
+}

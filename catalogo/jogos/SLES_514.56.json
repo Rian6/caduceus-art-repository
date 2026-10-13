@@ -1,0 +1,25 @@
+{
+  "id": "SLES_514.56",
+  "cover": {
+    "path": "PS2/SLES_514.56/SLES_514.56_COV.png",
+    "kind": "cover",
+    "bytes": 69333,
+    "width": 192,
+    "height": 272,
+    "sha256": "a62e5c22ac00c22318bffaa1ddaadd0cba717dfe93604515266b071c46a0d1b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51456.jpg"
+    },
+    "gameId": "SLES_514.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LMA Manager 2004"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_540.04",
+  "cover": {
+    "path": "PS2/SLES_540.04/SLES_540.04_COV.png",
+    "kind": "cover",
+    "bytes": 101410,
+    "width": 192,
+    "height": 272,
+    "sha256": "e13d3329bf7d9030ef6fa0580ed38bbfb4d39138e6742728e68ace4fc6416bc3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54004.jpg"
+    },
+    "gameId": "SLES_540.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_540.04/SLES_540.04_BG.png",
+    "kind": "background",
+    "bytes": 203812,
+    "width": 640,
+    "height": 480,
+    "sha256": "5ca017fd5c4416802e3ad6d2b7a34a45b3b703bf6fe56d29dc973fc024654b40",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_540.04/SLES_540.04_BG_00.png"
+    },
+    "gameId": "SLES_540.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_540.04/SLES_540.04_BG.png",
+      "kind": "background",
+      "bytes": 203812,
+      "width": 640,
+      "height": 480,
+      "sha256": "5ca017fd5c4416802e3ad6d2b7a34a45b3b703bf6fe56d29dc973fc024654b40",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.04/SLES_540.04_BG_00.png"
+      },
+      "gameId": "SLES_540.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar Cars"
+}

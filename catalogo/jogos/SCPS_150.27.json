@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.27",
+  "cover": {
+    "path": "PS2/SCPS_150.27/SCPS_150.27_COV.png",
+    "kind": "cover",
+    "bytes": 100894,
+    "width": 192,
+    "height": 272,
+    "sha256": "a741221344e23431f1cb185a5673e722e4937c0fbcbdaa75774524c42a4af936",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15027.jpg"
+    },
+    "gameId": "SCPS_150.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Popolocrois Story - Hajimari no Bouken (Limited Edition)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.95",
+  "cover": {
+    "path": "PS2/SLPM_666.95/SLPM_666.95_COV.png",
+    "kind": "cover",
+    "bytes": 88087,
+    "width": 192,
+    "height": 272,
+    "sha256": "8957bac756d9bb069fe084132f1f55c08c3066712a3294f5df032bb7b0d57474",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66695.jpg"
+    },
+    "gameId": "SLPM_666.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kono Aozora ni Yakusoku wo: Melody of the Sun and Sea"
+}

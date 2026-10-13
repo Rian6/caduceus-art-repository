@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.55",
+  "cover": {
+    "path": "PS2/SLPS_202.55/SLPS_202.55_COV.png",
+    "kind": "cover",
+    "bytes": 89371,
+    "width": 192,
+    "height": 272,
+    "sha256": "21e939ed27c4e0a42b84f7b5214c6656032c6d3001518e4737cba5e0c45638b2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20255.jpg"
+    },
+    "gameId": "SLPS_202.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MILLION GOD"
+}

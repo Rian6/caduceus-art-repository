@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.21",
+  "cover": {
+    "path": "PS2/SCAJ_200.21/SCAJ_200.21_COV.png",
+    "kind": "cover",
+    "bytes": 104194,
+    "width": 192,
+    "height": 272,
+    "sha256": "96e6dcd9e67069496038dab9ee96553eb1e2b87960deeb218edcb376be55b1f4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20021.jpg"
+    },
+    "gameId": "SCAJ_200.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL SLUG 3"
+}

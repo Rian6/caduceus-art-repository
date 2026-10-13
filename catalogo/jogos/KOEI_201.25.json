@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.25",
+  "cover": {
+    "path": "PS2/KOEI_201.25/KOEI_201.25_COV.png",
+    "kind": "cover",
+    "bytes": 62302,
+    "width": 192,
+    "height": 272,
+    "sha256": "bcf2fbb6563a0440ebfbd07e41c6a121afa15513eb4a9529f076d531d4cb9e23",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_201.25/KOEI_201.25_COV.png"
+    },
+    "gameId": "KOEI_201.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Musou Orochi (Super Premium Pack)"
+}

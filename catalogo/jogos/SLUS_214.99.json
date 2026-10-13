@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_214.99",
+  "cover": {
+    "path": "PS2/SLUS_214.99/SLUS_214.99_COV.png",
+    "kind": "cover",
+    "bytes": 89003,
+    "width": 192,
+    "height": 272,
+    "sha256": "eabb85693f7038ed4d7f0a9d7aff6e409b5d57c0ce5a34eae1c5e54363a59b0c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21499.jpg"
+    },
+    "gameId": "SLUS_214.99"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.99/SLUS_214.99_ICO.png",
+    "kind": "disc",
+    "bytes": 25448,
+    "width": 256,
+    "height": 256,
+    "sha256": "de4bd5a1d00bdd1805ea929daf46de1bdb27d5fff2ba1c660d304625897b9365",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.99_ICO.png"
+    },
+    "gameId": "SLUS_214.99"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.99/SLUS_214.99_BG.png",
+    "kind": "background",
+    "bytes": 117463,
+    "width": 640,
+    "height": 480,
+    "sha256": "6fba2b392ed176a4c47d4f1cae8dc81fb44eae99e3db1ca1d46b733617b25480",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.99/SLUS_214.99_BG_00.png"
+    },
+    "gameId": "SLUS_214.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.99/SLUS_214.99_BG.png",
+      "kind": "background",
+      "bytes": 117463,
+      "width": 640,
+      "height": 480,
+      "sha256": "6fba2b392ed176a4c47d4f1cae8dc81fb44eae99e3db1ca1d46b733617b25480",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.99/SLUS_214.99_BG_00.png"
+      },
+      "gameId": "SLUS_214.99"
+    },
+    {
+      "path": "PS2/SLUS_214.99/SLUS_214.99_BG_01.png",
+      "kind": "background",
+      "bytes": 175287,
+      "width": 640,
+      "height": 480,
+      "sha256": "ab17aa804ba5d32b89b0a77e0da446f5a3a5508748d010ce43ce7afa2b30f695",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.99/SLUS_214.99_BG_01.png"
+      },
+      "gameId": "SLUS_214.99"
+    },
+    {
+      "path": "PS2/SLUS_214.99/SLUS_214.99_BG_02.png",
+      "kind": "background",
+      "bytes": 178015,
+      "width": 640,
+      "height": 480,
+      "sha256": "a078f5c02898e451662f561c2cd9e370e381963a107c02559efb619994b0d714",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.99/SLUS_214.99_BG_02.png"
+      },
+      "gameId": "SLUS_214.99"
+    },
+    {
+      "path": "PS2/SLUS_214.99/SLUS_214.99_BG_03.png",
+      "kind": "background",
+      "bytes": 173955,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6e804db432270b5ef0e695ce11b3baf2a7950372fee71ffa5e9670fbc7af762",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.99/SLUS_214.99_BG_03.png"
+      },
+      "gameId": "SLUS_214.99"
+    },
+    {
+      "path": "PS2/SLUS_214.99/SLUS_214.99_BG_04.png",
+      "kind": "background",
+      "bytes": 157521,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6b480e5ace26a6bf0d80472cd7a4a011f983f95a7dc7e58ee937cecbee3028b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.99/SLUS_214.99_BG_04.png"
+      },
+      "gameId": "SLUS_214.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Corvette Evolution GT"
+}

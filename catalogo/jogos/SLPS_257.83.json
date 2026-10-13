@@ -1,0 +1,90 @@
+{
+  "id": "SLPS_257.83",
+  "cover": {
+    "path": "PS2/SLPS_257.83/SLPS_257.83_COV.png",
+    "kind": "cover",
+    "bytes": 92943,
+    "width": 192,
+    "height": 272,
+    "sha256": "6f9f5ab424430a6cd2ea8b28c21e6ae1932ef5c9382ecc4f2999f0df85d2ef1b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25783.jpg"
+    },
+    "gameId": "SLPS_257.83"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_257.83/SLPS_257.83_BG.png",
+    "kind": "background",
+    "bytes": 223938,
+    "width": 640,
+    "height": 480,
+    "sha256": "f5ea52ea26f4a3223d28daba822562c1cca55284efcc6c842bfac458d96c27de",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.83/SLPS_257.83_BG_00.png"
+    },
+    "gameId": "SLPS_257.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.83/SLPS_257.83_BG.png",
+      "kind": "background",
+      "bytes": 223938,
+      "width": 640,
+      "height": 480,
+      "sha256": "f5ea52ea26f4a3223d28daba822562c1cca55284efcc6c842bfac458d96c27de",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.83/SLPS_257.83_BG_00.png"
+      },
+      "gameId": "SLPS_257.83"
+    },
+    {
+      "path": "PS2/SLPS_257.83/SLPS_257.83_BG_01.png",
+      "kind": "background",
+      "bytes": 203939,
+      "width": 640,
+      "height": 480,
+      "sha256": "00b4a4619baa05b6fd3dc86c6d87d967bd3443fafb87cbb92c03023d70d5f19e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.83/SLPS_257.83_BG_01.png"
+      },
+      "gameId": "SLPS_257.83"
+    },
+    {
+      "path": "PS2/SLPS_257.83/SLPS_257.83_BG_02.png",
+      "kind": "background",
+      "bytes": 149413,
+      "width": 640,
+      "height": 480,
+      "sha256": "a4cb04401d349c9e60eddc8f27f43921b410a098343ae2a582551e248d3ed98c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.83/SLPS_257.83_BG_02.png"
+      },
+      "gameId": "SLPS_257.83"
+    },
+    {
+      "path": "PS2/SLPS_257.83/SLPS_257.83_BG_03.png",
+      "kind": "background",
+      "bytes": 188413,
+      "width": 640,
+      "height": 480,
+      "sha256": "2db9ccb97acb51ebae8f131fdfb962a3dbb4a67258c1a85ae4135391bede3b40",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.83/SLPS_257.83_BG_03.png"
+      },
+      "gameId": "SLPS_257.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters '98 Ultimate Match (NeoGeo Online Collection Vol. 10)"
+}

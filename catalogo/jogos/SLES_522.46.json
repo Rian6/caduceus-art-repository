@@ -1,0 +1,51 @@
+{
+  "id": "SLES_522.46",
+  "cover": {
+    "path": "PS2/SLES_522.46/SLES_522.46_COV.png",
+    "kind": "cover",
+    "bytes": 77629,
+    "width": 192,
+    "height": 272,
+    "sha256": "fe8d0bf57f1a483bd2448c1861e40d8502cdf0fb539c732775757105b11ae98c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52246.jpg"
+    },
+    "gameId": "SLES_522.46"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_522.46/SLES_522.46_BG.png",
+    "kind": "background",
+    "bytes": 157707,
+    "width": 640,
+    "height": 480,
+    "sha256": "efcd778ade25778c760a8b01e4bb3782387df123722eb0cec60e5347f9df4950",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_522.46/SLES_522.46_BG_00.png"
+    },
+    "gameId": "SLES_522.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_522.46/SLES_522.46_BG.png",
+      "kind": "background",
+      "bytes": 157707,
+      "width": 640,
+      "height": 480,
+      "sha256": "efcd778ade25778c760a8b01e4bb3782387df123722eb0cec60e5347f9df4950",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.46/SLES_522.46_BG_00.png"
+      },
+      "gameId": "SLES_522.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pool Paradise"
+}

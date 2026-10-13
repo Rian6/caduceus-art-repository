@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.68",
+  "cover": {
+    "path": "PS2/SLPS_202.68/SLPS_202.68_COV.png",
+    "kind": "cover",
+    "bytes": 106408,
+    "width": 192,
+    "height": 272,
+    "sha256": "f7a8db924b3a567f19c06c6a6481dea3f9fcac6b4032c3d896296761b6e2f22f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20268.jpg"
+    },
+    "gameId": "SLPS_202.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JISSEN PACHI-SLOT HISSHOUHOU! SALARYMAN KINTAROU"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_521.55",
+  "cover": {
+    "path": "PS2/SLES_521.55/SLES_521.55_COV.png",
+    "kind": "cover",
+    "bytes": 99086,
+    "width": 192,
+    "height": 272,
+    "sha256": "feefcff4944819848bc7b8d6c66330e40be6b58f435c42606350dbc3548145a0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52155.jpg"
+    },
+    "gameId": "SLES_521.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "L'Eredità"
+}

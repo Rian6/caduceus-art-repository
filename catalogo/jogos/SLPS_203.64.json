@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.64",
+  "cover": {
+    "path": "PS2/SLPS_203.64/SLPS_203.64_COV.png",
+    "kind": "cover",
+    "bytes": 63133,
+    "width": 192,
+    "height": 272,
+    "sha256": "70111a012bfad7e8befd97c922ac5e3a749d0f37eee2ec90ef8bb8f25f1775ba",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20364.jpg"
+    },
+    "gameId": "SLPS_203.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sekai Saikyou Ginsei Igo 5"
+}

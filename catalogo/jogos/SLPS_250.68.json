@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.68",
+  "cover": {
+    "path": "PS2/SLPS_250.68/SLPS_250.68_COV.png",
+    "kind": "cover",
+    "bytes": 90094,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c4a4e10976abcd440938f7e343462b4db9b1c742b390972c3face3834fb49b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25068.jpg"
+    },
+    "gameId": "SLPS_250.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JITSUMEI JIKKYOU KEIBA DREAM CLASSIC 2001 AUTUMN"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_252.59",
+  "cover": {
+    "path": "PS2/SLPS_252.59/SLPS_252.59_COV.png",
+    "kind": "cover",
+    "bytes": 115926,
+    "width": 192,
+    "height": 272,
+    "sha256": "53f356302f82e627451604694fbad54a3fc7842cfe2e4d2e23f68687eccb4a58",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25259.jpg"
+    },
+    "gameId": "SLPS_252.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_252.59/SLPS_252.59_BG.png",
+    "kind": "background",
+    "bytes": 165588,
+    "width": 640,
+    "height": 480,
+    "sha256": "9b75d0b721a80e40d9c4cd344aa55fe82737e05918c53b88e06a142730739fa2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_252.59/SLPS_252.59_BG_00.png"
+    },
+    "gameId": "SLPS_252.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_252.59/SLPS_252.59_BG.png",
+      "kind": "background",
+      "bytes": 165588,
+      "width": 640,
+      "height": 480,
+      "sha256": "9b75d0b721a80e40d9c4cd344aa55fe82737e05918c53b88e06a142730739fa2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.59/SLPS_252.59_BG_00.png"
+      },
+      "gameId": "SLPS_252.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Virtual View -  Nemoto Harumi Eizou Play"
+}

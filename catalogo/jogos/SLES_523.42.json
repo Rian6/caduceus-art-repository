@@ -1,0 +1,77 @@
+{
+  "id": "SLES_523.42",
+  "cover": {
+    "path": "PS2/SLES_523.42/SLES_523.42_COV.png",
+    "kind": "cover",
+    "bytes": 94246,
+    "width": 192,
+    "height": 272,
+    "sha256": "64a65c93c0831c148d647877f489af9c5587bcb8fd4f36828704a7992dc30bba",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52342.jpg"
+    },
+    "gameId": "SLES_523.42"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_523.42/SLES_523.42_BG.png",
+    "kind": "background",
+    "bytes": 138150,
+    "width": 640,
+    "height": 480,
+    "sha256": "573d5272bed2de4c28b375e9b399e67e962f9d1231a264ba255b9c8517083f01",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.42/SLES_523.42_BG_00.png"
+    },
+    "gameId": "SLES_523.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.42/SLES_523.42_BG.png",
+      "kind": "background",
+      "bytes": 138150,
+      "width": 640,
+      "height": 480,
+      "sha256": "573d5272bed2de4c28b375e9b399e67e962f9d1231a264ba255b9c8517083f01",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.42/SLES_523.42_BG_00.png"
+      },
+      "gameId": "SLES_523.42"
+    },
+    {
+      "path": "PS2/SLES_523.42/SLES_523.42_BG_01.png",
+      "kind": "background",
+      "bytes": 179064,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1c4bb65387f055a3ec7f0dac9450aa832ccdb5c1d0fb9a33fd33fdce363c4af",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.42/SLES_523.42_BG_01.png"
+      },
+      "gameId": "SLES_523.42"
+    },
+    {
+      "path": "PS2/SLES_523.42/SLES_523.42_BG_02.png",
+      "kind": "background",
+      "bytes": 177864,
+      "width": 640,
+      "height": 480,
+      "sha256": "f3f689f4b896e930876c951179d25119fbd17de90fa91d3286f1393455ff3c85",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.42/SLES_523.42_BG_02.png"
+      },
+      "gameId": "SLES_523.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Worms Forts - Under Siege"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.18",
+  "cover": {
+    "path": "PS2/SLPM_653.18/SLPM_653.18_COV.png",
+    "kind": "cover",
+    "bytes": 98711,
+    "width": 192,
+    "height": 272,
+    "sha256": "b566d3a3c6725a55bfa6a881a42fc205d64edc709ac8025cd945f07099d753d8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65318.jpg"
+    },
+    "gameId": "SLPM_653.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GAMBLER DENSETSU TETSUYA - KUROUTO CHOUJOU KESSEN"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.53",
+  "cover": {
+    "path": "PS2/SCPS_150.53/SCPS_150.53_COV.png",
+    "kind": "cover",
+    "bytes": 89478,
+    "width": 192,
+    "height": 272,
+    "sha256": "7f5de674898751a9957dbcea424528ba464c8f4309c81b97af9d48f18dc7400f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15053.jpg"
+    },
+    "gameId": "SCPS_150.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.53/SCPS_150.53_BG.png",
+    "kind": "background",
+    "bytes": 230977,
+    "width": 640,
+    "height": 480,
+    "sha256": "06829207d1e8189568f08bd7fb66fa64db109abead8a8e0273a43282126de530",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.53/SCPS_150.53_BG_00.png"
+    },
+    "gameId": "SCPS_150.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.53/SCPS_150.53_BG.png",
+      "kind": "background",
+      "bytes": 230977,
+      "width": 640,
+      "height": 480,
+      "sha256": "06829207d1e8189568f08bd7fb66fa64db109abead8a8e0273a43282126de530",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.53/SCPS_150.53_BG_00.png"
+      },
+      "gameId": "SCPS_150.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIREN"
+}

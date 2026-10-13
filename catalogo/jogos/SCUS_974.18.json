@@ -1,0 +1,51 @@
+{
+  "id": "SCUS_974.18",
+  "cover": {
+    "path": "PS2/SCUS_974.18/SCUS_974.18_COV.png",
+    "kind": "cover",
+    "bytes": 100230,
+    "width": 192,
+    "height": 272,
+    "sha256": "8bd57774a8d7cc5e0055624ecb8ef6801e0a689f87184c92426623ff886933ca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97418.jpg"
+    },
+    "gameId": "SCUS_974.18"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCUS_974.18/SCUS_974.18_BG.png",
+    "kind": "background",
+    "bytes": 77888,
+    "width": 640,
+    "height": 480,
+    "sha256": "713bb2bc3a47d4d105a8cd8d69f0fd729193683709670354b85840f5abad4d17",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_974.18/SCUS_974.18_BG_00.png"
+    },
+    "gameId": "SCUS_974.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_974.18/SCUS_974.18_BG.png",
+      "kind": "background",
+      "bytes": 77888,
+      "width": 640,
+      "height": 480,
+      "sha256": "713bb2bc3a47d4d105a8cd8d69f0fd729193683709670354b85840f5abad4d17",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.18/SCUS_974.18_BG_00.png"
+      },
+      "gameId": "SCUS_974.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jampack Demo Disc Volume 11"
+}

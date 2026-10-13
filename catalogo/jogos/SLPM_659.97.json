@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.97",
+  "cover": {
+    "path": "PS2/SLPM_659.97/SLPM_659.97_COV.png",
+    "kind": "cover",
+    "bytes": 106554,
+    "width": 192,
+    "height": 272,
+    "sha256": "910337a815ad1fa2e53ec1469c1d6f52684e8325d097da2a871eb7577a3e238e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65997.jpg"
+    },
+    "gameId": "SLPM_659.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAMETSU NO MARS"
+}

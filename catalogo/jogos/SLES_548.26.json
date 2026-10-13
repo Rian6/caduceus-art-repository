@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.26",
+  "cover": {
+    "path": "PS2/SLES_548.26/SLES_548.26_COV.png",
+    "kind": "cover",
+    "bytes": 102753,
+    "width": 192,
+    "height": 272,
+    "sha256": "8b7241a53df6589dea0a38afb58ca34075b128446988d4f516c080187cd92b8d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54826.jpg"
+    },
+    "gameId": "SLES_548.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Surf Up"
+}

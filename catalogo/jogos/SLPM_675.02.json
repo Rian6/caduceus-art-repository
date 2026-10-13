@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_675.02",
+  "cover": {
+    "path": "PS2/SLPM_675.02/SLPM_675.02_COV.png",
+    "kind": "cover",
+    "bytes": 82966,
+    "width": 192,
+    "height": 272,
+    "sha256": "c006a52622cea2f4a6649c2309232c10f61c5956591db3353e5d3618e7ab8483",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-67502.jpg"
+    },
+    "gameId": "SLPM_675.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_675.02/SLPM_675.02_BG.png",
+    "kind": "background",
+    "bytes": 223688,
+    "width": 640,
+    "height": 480,
+    "sha256": "e35018159f4b487df250af6281c617b3fedef5e41580a48a4c9d04c6adbe3242",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_675.02/SLPM_675.02_BG_00.png"
+    },
+    "gameId": "SLPM_675.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_675.02/SLPM_675.02_BG.png",
+      "kind": "background",
+      "bytes": 223688,
+      "width": 640,
+      "height": 480,
+      "sha256": "e35018159f4b487df250af6281c617b3fedef5e41580a48a4c9d04c6adbe3242",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_675.02/SLPM_675.02_BG_00.png"
+      },
+      "gameId": "SLPM_675.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Devil May Cry"
+}

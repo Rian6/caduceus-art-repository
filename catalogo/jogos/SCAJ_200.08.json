@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.08",
+  "cover": {
+    "path": "PS2/SCAJ_200.08/SCAJ_200.08_COV.png",
+    "kind": "cover",
+    "bytes": 72475,
+    "width": 192,
+    "height": 272,
+    "sha256": "ade123a5f99596d00d24d9db6c6af7d3cdc00a47bad4a13f886ae43d8db54e32",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20008.jpg"
+    },
+    "gameId": "SCAJ_200.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "V-Rally 3"
+}

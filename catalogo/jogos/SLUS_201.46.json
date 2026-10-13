@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_201.46",
+  "cover": {
+    "path": "PS2/SLUS_201.46/SLUS_201.46_COV.png",
+    "kind": "cover",
+    "bytes": 103580,
+    "width": 192,
+    "height": 272,
+    "sha256": "cb009f5d59061afa2c9bba9325016f9ead2a3c917bc54002173b86cba8ce99d3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20146.jpg"
+    },
+    "gameId": "SLUS_201.46"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.46/SLUS_201.46_ICO.png",
+    "kind": "disc",
+    "bytes": 35498,
+    "width": 256,
+    "height": 256,
+    "sha256": "149c0d9c3523706eb3f232116dffe672d9c1923591fa8b7a52179b7ba7771ab9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.46_ICO.png"
+    },
+    "gameId": "SLUS_201.46"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.46/SLUS_201.46_BG.png",
+    "kind": "background",
+    "bytes": 237081,
+    "width": 640,
+    "height": 480,
+    "sha256": "53b8bda884df3528b6fa80435424ca937b2aad628e1acab0b3d8c37bef5c268c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.46/SLUS_201.46_BG_00.png"
+    },
+    "gameId": "SLUS_201.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.46/SLUS_201.46_BG.png",
+      "kind": "background",
+      "bytes": 237081,
+      "width": 640,
+      "height": 480,
+      "sha256": "53b8bda884df3528b6fa80435424ca937b2aad628e1acab0b3d8c37bef5c268c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.46/SLUS_201.46_BG_00.png"
+      },
+      "gameId": "SLUS_201.46"
+    },
+    {
+      "path": "PS2/SLUS_201.46/SLUS_201.46_BG_01.png",
+      "kind": "background",
+      "bytes": 216099,
+      "width": 640,
+      "height": 480,
+      "sha256": "54ecfb65bd7613974e933a6f7f60198659df2506c321a65b8d1f8d427284cedf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.46/SLUS_201.46_BG_01.png"
+      },
+      "gameId": "SLUS_201.46"
+    },
+    {
+      "path": "PS2/SLUS_201.46/SLUS_201.46_BG_02.png",
+      "kind": "background",
+      "bytes": 207403,
+      "width": 640,
+      "height": 480,
+      "sha256": "fa20cd16b55b3702ea009683125dbdb8f0c621b4ffb65379bda0613b0d43cac9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.46/SLUS_201.46_BG_02.png"
+      },
+      "gameId": "SLUS_201.46"
+    },
+    {
+      "path": "PS2/SLUS_201.46/SLUS_201.46_BG_03.png",
+      "kind": "background",
+      "bytes": 178039,
+      "width": 640,
+      "height": 480,
+      "sha256": "180130620a38aa8a26cd15a1e02578e89d6e0a5b4409667da90acbb0b23d3ea0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.46/SLUS_201.46_BG_03.png"
+      },
+      "gameId": "SLUS_201.46"
+    },
+    {
+      "path": "PS2/SLUS_201.46/SLUS_201.46_BG_04.png",
+      "kind": "background",
+      "bytes": 173954,
+      "width": 640,
+      "height": 480,
+      "sha256": "571877de2de4dccb698e42dce6d4556a38503b922174cefeebc969bbd8d65343",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.46/SLUS_201.46_BG_04.png"
+      },
+      "gameId": "SLUS_201.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHADOW OF DESTINY"
+}

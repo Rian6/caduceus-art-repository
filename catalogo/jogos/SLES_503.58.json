@@ -1,0 +1,103 @@
+{
+  "id": "SLES_503.58",
+  "cover": {
+    "path": "PS2/SLES_503.58/SLES_503.58_COV.png",
+    "kind": "cover",
+    "bytes": 88877,
+    "width": 192,
+    "height": 272,
+    "sha256": "d3369499c4cfe9e94838d70189a023ce254a2aa9488ce6e61d531f6c8e3360bb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50358.jpg"
+    },
+    "gameId": "SLES_503.58"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_503.58/SLES_503.58_BG.png",
+    "kind": "background",
+    "bytes": 132340,
+    "width": 640,
+    "height": 480,
+    "sha256": "c40d2145e758f09afc30085848ac72e84775a6c0baa0068e14d24b2d2c9e3bb3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_503.58/SLES_503.58_BG_00.png"
+    },
+    "gameId": "SLES_503.58"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_503.58/SLES_503.58_BG.png",
+      "kind": "background",
+      "bytes": 132340,
+      "width": 640,
+      "height": 480,
+      "sha256": "c40d2145e758f09afc30085848ac72e84775a6c0baa0068e14d24b2d2c9e3bb3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.58/SLES_503.58_BG_00.png"
+      },
+      "gameId": "SLES_503.58"
+    },
+    {
+      "path": "PS2/SLES_503.58/SLES_503.58_BG_01.png",
+      "kind": "background",
+      "bytes": 79128,
+      "width": 640,
+      "height": 480,
+      "sha256": "967e9f0813008b1b88b412e5deb2a6970828ccb33355c1253d56ca9d7612a464",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.58/SLES_503.58_BG_01.png"
+      },
+      "gameId": "SLES_503.58"
+    },
+    {
+      "path": "PS2/SLES_503.58/SLES_503.58_BG_02.png",
+      "kind": "background",
+      "bytes": 243603,
+      "width": 640,
+      "height": 480,
+      "sha256": "ec5cac3347084cde601d05997b9cdea70768064f4ad402b50f4c568bdd5e09c2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.58/SLES_503.58_BG_02.png"
+      },
+      "gameId": "SLES_503.58"
+    },
+    {
+      "path": "PS2/SLES_503.58/SLES_503.58_BG_03.png",
+      "kind": "background",
+      "bytes": 216206,
+      "width": 640,
+      "height": 480,
+      "sha256": "62e165da15b9a5e8ef077557a3afb37e173a29286cd26740306ab10b097864a9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.58/SLES_503.58_BG_03.png"
+      },
+      "gameId": "SLES_503.58"
+    },
+    {
+      "path": "PS2/SLES_503.58/SLES_503.58_BG_04.png",
+      "kind": "background",
+      "bytes": 193942,
+      "width": 640,
+      "height": 480,
+      "sha256": "ed1a6d0f7ac2218962a2ac68b9d621c8c6e4e2af3f5a1b726d321dfb4ab7f0c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.58/SLES_503.58_BG_04.png"
+      },
+      "gameId": "SLES_503.58"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Devil May Cry"
+}

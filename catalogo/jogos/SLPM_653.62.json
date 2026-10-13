@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.62",
+  "cover": {
+    "path": "PS2/SLPM_653.62/SLPM_653.62_COV.png",
+    "kind": "cover",
+    "bytes": 101709,
+    "width": 192,
+    "height": 272,
+    "sha256": "7d88b86919eb222b0c8a48db52fc72795f99f02782a740a8828bd2e2717ca96e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65362.jpg"
+    },
+    "gameId": "SLPM_653.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tensai Bit-Kun - Guramon Battle"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SCES_820.35",
+  "cover": {
+    "path": "PS2/SCES_820.35/SCES_820.35_COV.png",
+    "kind": "cover",
+    "bytes": 87151,
+    "width": 192,
+    "height": 272,
+    "sha256": "ba35b411f4b006c3f8ab3b67cde93f5c62390d2fd603c1b37912a7cc9c784753",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-82035.jpg"
+    },
+    "gameId": "SCES_820.35"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_820.35/SCES_820.35_BG.png",
+    "kind": "background",
+    "bytes": 141879,
+    "width": 640,
+    "height": 480,
+    "sha256": "9162beb9eadc7347611983d3633329b54d51c367450cbf80f27bfed86d433319",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_820.35/SCES_820.35_BG_00.png"
+    },
+    "gameId": "SCES_820.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_820.35/SCES_820.35_BG.png",
+      "kind": "background",
+      "bytes": 141879,
+      "width": 640,
+      "height": 480,
+      "sha256": "9162beb9eadc7347611983d3633329b54d51c367450cbf80f27bfed86d433319",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_820.35/SCES_820.35_BG_00.png"
+      },
+      "gameId": "SCES_820.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Xenosaga Episode II: Jenseits von Gut und Böse (Disc 2)"
+}

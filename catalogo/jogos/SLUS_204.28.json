@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_204.28",
+  "cover": {
+    "path": "PS2/SLUS_204.28/SLUS_204.28_COV.png",
+    "kind": "cover",
+    "bytes": 110988,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c8d562ff54649ecb36f43f167e528353ad0c7b9886e13de095ac248c5e10e2c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20428.jpg"
+    },
+    "gameId": "SLUS_204.28"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.28/SLUS_204.28_ICO.png",
+    "kind": "disc",
+    "bytes": 35702,
+    "width": 256,
+    "height": 256,
+    "sha256": "3a835bfd1375fce671197804fa9576273bc8af7f801ec16cb83635be0f4d3bf1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.28_ICO.png"
+    },
+    "gameId": "SLUS_204.28"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.28/SLUS_204.28_BG.png",
+    "kind": "background",
+    "bytes": 220562,
+    "width": 640,
+    "height": 480,
+    "sha256": "ff523ffdcd7f102ca1298c6aef7d570d7c603919439ae65e73364786d7655fec",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.28/SLUS_204.28_BG_00.png"
+    },
+    "gameId": "SLUS_204.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.28/SLUS_204.28_BG.png",
+      "kind": "background",
+      "bytes": 220562,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff523ffdcd7f102ca1298c6aef7d570d7c603919439ae65e73364786d7655fec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.28/SLUS_204.28_BG_00.png"
+      },
+      "gameId": "SLUS_204.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fisherman's Bass Club"
+}

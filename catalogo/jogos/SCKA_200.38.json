@@ -1,0 +1,51 @@
+{
+  "id": "SCKA_200.38",
+  "cover": {
+    "path": "PS2/SCKA_200.38/SCKA_200.38_COV.png",
+    "kind": "cover",
+    "bytes": 102233,
+    "width": 192,
+    "height": 272,
+    "sha256": "6fbe14f4ab997bdab56c6097a6bbd9b5d700f6b7352eca4cd1d82a126a6dd304",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20038.jpg"
+    },
+    "gameId": "SCKA_200.38"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.38/SCKA_200.38_BG.png",
+    "kind": "background",
+    "bytes": 189662,
+    "width": 640,
+    "height": 480,
+    "sha256": "7f6c57f01d2fcab7a4289eef5076d367375f860b4feb5911e711c006d825b3b8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.38/SCKA_200.38_BG_00.png"
+    },
+    "gameId": "SCKA_200.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.38/SCKA_200.38_BG.png",
+      "kind": "background",
+      "bytes": 189662,
+      "width": 640,
+      "height": 480,
+      "sha256": "7f6c57f01d2fcab7a4289eef5076d367375f860b4feb5911e711c006d825b3b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.38/SCKA_200.38_BG_00.png"
+      },
+      "gameId": "SCKA_200.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TIME CRISIS - CRISIS ZONE"
+}

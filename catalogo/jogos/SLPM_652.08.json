@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_652.08",
+  "cover": {
+    "path": "PS2/SLPM_652.08/SLPM_652.08_COV.png",
+    "kind": "cover",
+    "bytes": 99826,
+    "width": 192,
+    "height": 272,
+    "sha256": "8355b38e8b8ba20586607a383bae5cdc052a91fe1f81f5a691b22c3e8f27b39f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65208.jpg"
+    },
+    "gameId": "SLPM_652.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_652.08/SLPM_652.08_BG.png",
+    "kind": "background",
+    "bytes": 146185,
+    "width": 640,
+    "height": 480,
+    "sha256": "a001399c77e05f126b574ac93de4553766ee69ed8caa26e5398952fa66cbe1ee",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_652.08/SLPM_652.08_BG_00.png"
+    },
+    "gameId": "SLPM_652.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_652.08/SLPM_652.08_BG.png",
+      "kind": "background",
+      "bytes": 146185,
+      "width": 640,
+      "height": 480,
+      "sha256": "a001399c77e05f126b574ac93de4553766ee69ed8caa26e5398952fa66cbe1ee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_652.08/SLPM_652.08_BG_00.png"
+      },
+      "gameId": "SLPM_652.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pop'n'Music 7"
+}

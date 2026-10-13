@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.59",
+  "cover": {
+    "path": "PS2/SLPM_651.59/SLPM_651.59_COV.png",
+    "kind": "cover",
+    "bytes": 108289,
+    "width": 192,
+    "height": 272,
+    "sha256": "b1d3db55d0639a053235167c54af8962038c0c667fe388e0bc4ceeb390a39d08",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65159.jpg"
+    },
+    "gameId": "SLPM_651.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Angelique Trois: Aizouhen (Naho Edition)"
+}

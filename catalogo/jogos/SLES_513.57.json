@@ -1,0 +1,25 @@
+{
+  "id": "SLES_513.57",
+  "cover": {
+    "path": "PS2/SLES_513.57/SLES_513.57_COV.png",
+    "kind": "cover",
+    "bytes": 95789,
+    "width": 192,
+    "height": 272,
+    "sha256": "e6e1aba9405d35a2fcb726c9f67412f30e33d5c15390d2e5268fbc729d73b8fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51357.jpg"
+    },
+    "gameId": "SLES_513.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "G1 JOCKEY 3"
+}

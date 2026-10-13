@@ -1,0 +1,64 @@
+{
+  "id": "SLES_531.00",
+  "cover": {
+    "path": "PS2/SLES_531.00/SLES_531.00_COV.png",
+    "kind": "cover",
+    "bytes": 105973,
+    "width": 192,
+    "height": 272,
+    "sha256": "6a8bc970ed155715960a3c5458ccf8d1473b3b16a53548cab63d4e06e6b8d1cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53100.jpg"
+    },
+    "gameId": "SLES_531.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_531.00/SLES_531.00_BG.png",
+    "kind": "background",
+    "bytes": 219563,
+    "width": 640,
+    "height": 480,
+    "sha256": "88604ce22baeb3302f08861e664619a454c4d339466aa19cadfe588f3677e754",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.00/SLES_531.00_BG_00.png"
+    },
+    "gameId": "SLES_531.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.00/SLES_531.00_BG.png",
+      "kind": "background",
+      "bytes": 219563,
+      "width": 640,
+      "height": 480,
+      "sha256": "88604ce22baeb3302f08861e664619a454c4d339466aa19cadfe588f3677e754",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.00/SLES_531.00_BG_00.png"
+      },
+      "gameId": "SLES_531.00"
+    },
+    {
+      "path": "PS2/SLES_531.00/SLES_531.00_BG_01.png",
+      "kind": "background",
+      "bytes": 139684,
+      "width": 640,
+      "height": 480,
+      "sha256": "c10674da721b3eaca125a15ed643afc866bb24be47957eca10d695c3ebc1d0d5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.00/SLES_531.00_BG_01.png"
+      },
+      "gameId": "SLES_531.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCOOBY-DOO! - UNMASKED"
+}

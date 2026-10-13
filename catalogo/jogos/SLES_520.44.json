@@ -1,0 +1,64 @@
+{
+  "id": "SLES_520.44",
+  "cover": {
+    "path": "PS2/SLES_520.44/SLES_520.44_COV.png",
+    "kind": "cover",
+    "bytes": 97307,
+    "width": 192,
+    "height": 272,
+    "sha256": "1de76d48b5e68a42bf2ba2f55e99883f8439ca1176febad15cececbfb5fc5027",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52044.jpg"
+    },
+    "gameId": "SLES_520.44"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_520.44/SLES_520.44_BG.png",
+    "kind": "background",
+    "bytes": 196565,
+    "width": 640,
+    "height": 480,
+    "sha256": "01fc35625ae5241a3d901880b6fd98451fd5a5482797601516d4a88456ead66a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_520.44/SLES_520.44_BG_00.png"
+    },
+    "gameId": "SLES_520.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_520.44/SLES_520.44_BG.png",
+      "kind": "background",
+      "bytes": 196565,
+      "width": 640,
+      "height": 480,
+      "sha256": "01fc35625ae5241a3d901880b6fd98451fd5a5482797601516d4a88456ead66a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.44/SLES_520.44_BG_00.png"
+      },
+      "gameId": "SLES_520.44"
+    },
+    {
+      "path": "PS2/SLES_520.44/SLES_520.44_BG_01.png",
+      "kind": "background",
+      "bytes": 165714,
+      "width": 640,
+      "height": 480,
+      "sha256": "c60c2d78ea62d98c374dd0425b0cc748abc53753f714ad72ae24e2e4c1467501",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.44/SLES_520.44_BG_01.png"
+      },
+      "gameId": "SLES_520.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Crescent Suzuki Racing - Superbikes and Super Sidecars"
+}

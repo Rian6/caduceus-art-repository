@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_207.43",
+  "cover": {
+    "path": "PS2/SLUS_207.43/SLUS_207.43_COV.png",
+    "kind": "cover",
+    "bytes": 111277,
+    "width": 192,
+    "height": 272,
+    "sha256": "53d0eccf87b3f1708fec00e112c96554b3d920f70ecc80ef05299e0690558f9a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20743.jpg"
+    },
+    "gameId": "SLUS_207.43"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.43/SLUS_207.43_ICO.png",
+    "kind": "disc",
+    "bytes": 37939,
+    "width": 256,
+    "height": 256,
+    "sha256": "6a911b2858656a53235982855e94acb79f170d729e270c0b8c0214be9e280bf5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.43_ICO.png"
+    },
+    "gameId": "SLUS_207.43"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.43/SLUS_207.43_BG.png",
+    "kind": "background",
+    "bytes": 217585,
+    "width": 640,
+    "height": 480,
+    "sha256": "ebe89c35bc15a05d92f9931c57bf8959c7ace9506d481ad3e2c527a7b1513a6d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.43/SLUS_207.43_BG_00.png"
+    },
+    "gameId": "SLUS_207.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.43/SLUS_207.43_BG.png",
+      "kind": "background",
+      "bytes": 217585,
+      "width": 640,
+      "height": 480,
+      "sha256": "ebe89c35bc15a05d92f9931c57bf8959c7ace9506d481ad3e2c527a7b1513a6d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.43/SLUS_207.43_BG_00.png"
+      },
+      "gameId": "SLUS_207.43"
+    },
+    {
+      "path": "PS2/SLUS_207.43/SLUS_207.43_BG_01.png",
+      "kind": "background",
+      "bytes": 201719,
+      "width": 640,
+      "height": 480,
+      "sha256": "efe3a9c4df765ed8a8a55a01c0b9dc012bb53a9600d1f43d0f8118fea18b72b3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.43/SLUS_207.43_BG_01.png"
+      },
+      "gameId": "SLUS_207.43"
+    },
+    {
+      "path": "PS2/SLUS_207.43/SLUS_207.43_BG_02.png",
+      "kind": "background",
+      "bytes": 172978,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a8502e237033e5df4378054bafd55afe728607493ba97689da26872664159ab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.43/SLUS_207.43_BG_02.png"
+      },
+      "gameId": "SLUS_207.43"
+    },
+    {
+      "path": "PS2/SLUS_207.43/SLUS_207.43_BG_03.png",
+      "kind": "background",
+      "bytes": 225922,
+      "width": 640,
+      "height": 480,
+      "sha256": "1356a702bf0d12ecbae5174c9a1a6d9872b626eb7666e2c910a9a1fc2d336bd6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.43/SLUS_207.43_BG_03.png"
+      },
+      "gameId": "SLUS_207.43"
+    },
+    {
+      "path": "PS2/SLUS_207.43/SLUS_207.43_BG_04.png",
+      "kind": "background",
+      "bytes": 183925,
+      "width": 640,
+      "height": 480,
+      "sha256": "2a54a52b3b2804e0724f38e5fa70660bda5b57855b5dd6123de495db17c82845",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.43/SLUS_207.43_BG_04.png"
+      },
+      "gameId": "SLUS_207.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Prince of Persia: The Sands of Time"
+}

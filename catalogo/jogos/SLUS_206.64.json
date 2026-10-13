@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_206.64",
+  "cover": {
+    "path": "PS2/SLUS_206.64/SLUS_206.64_COV.png",
+    "kind": "cover",
+    "bytes": 91161,
+    "width": 192,
+    "height": 272,
+    "sha256": "c7412a902f85058639bee18184efb760e80efe6bdc789f82d55a5423f4b35876",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20664.jpg"
+    },
+    "gameId": "SLUS_206.64"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.64/SLUS_206.64_ICO.png",
+    "kind": "disc",
+    "bytes": 26840,
+    "width": 256,
+    "height": 256,
+    "sha256": "39ac41bc97db62bb71b43dad9de6aed337d590680b88736f8b47f8447769687e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.64_ICO.png"
+    },
+    "gameId": "SLUS_206.64"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.64/SLUS_206.64_BG.png",
+    "kind": "background",
+    "bytes": 165359,
+    "width": 640,
+    "height": 480,
+    "sha256": "46afe479320b34db612ee8e8ebcc91f0d9c4fa0a718c365cb1caf81eec0b9acd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.64/SLUS_206.64_BG_00.png"
+    },
+    "gameId": "SLUS_206.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.64/SLUS_206.64_BG.png",
+      "kind": "background",
+      "bytes": 165359,
+      "width": 640,
+      "height": 480,
+      "sha256": "46afe479320b34db612ee8e8ebcc91f0d9c4fa0a718c365cb1caf81eec0b9acd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.64/SLUS_206.64_BG_00.png"
+      },
+      "gameId": "SLUS_206.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Barbie Horse Adventures - Wild Horse Rescue"
+}

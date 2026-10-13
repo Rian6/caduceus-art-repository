@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.34",
+  "cover": {
+    "path": "PS2/SLPS_202.34/SLPS_202.34_COV.png",
+    "kind": "cover",
+    "bytes": 103481,
+    "width": 192,
+    "height": 272,
+    "sha256": "b208f3b2a2eb3437fc53c859f98f8c1370ac7c0c318296f192e494363e4fd4cd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20234.jpg"
+    },
+    "gameId": "SLPS_202.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harry Potter to Himitsu no Heya"
+}

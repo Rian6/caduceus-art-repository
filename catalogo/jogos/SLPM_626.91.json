@@ -1,0 +1,77 @@
+{
+  "id": "SLPM_626.91",
+  "cover": {
+    "path": "PS2/SLPM_626.91/SLPM_626.91_COV.png",
+    "kind": "cover",
+    "bytes": 119018,
+    "width": 192,
+    "height": 272,
+    "sha256": "8fe84cfb5859e4577b9ef9a5e0d75238b7dc99ac450725b0bddc9886c182f4e0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62691.jpg"
+    },
+    "gameId": "SLPM_626.91"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_626.91/SLPM_626.91_BG.png",
+    "kind": "background",
+    "bytes": 206227,
+    "width": 640,
+    "height": 480,
+    "sha256": "69cdeb52f45c4d20a2321b10bdbc5660b7a2b62f927552bf4b1c1d66bdcaacde",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_626.91/SLPM_626.91_BG_00.png"
+    },
+    "gameId": "SLPM_626.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_626.91/SLPM_626.91_BG.png",
+      "kind": "background",
+      "bytes": 206227,
+      "width": 640,
+      "height": 480,
+      "sha256": "69cdeb52f45c4d20a2321b10bdbc5660b7a2b62f927552bf4b1c1d66bdcaacde",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.91/SLPM_626.91_BG_00.png"
+      },
+      "gameId": "SLPM_626.91"
+    },
+    {
+      "path": "PS2/SLPM_626.91/SLPM_626.91_BG_01.png",
+      "kind": "background",
+      "bytes": 174212,
+      "width": 640,
+      "height": 480,
+      "sha256": "b2aad7dea880987cc450d931319fee0862742904927ea44debf9ccb561a8461e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.91/SLPM_626.91_BG_01.png"
+      },
+      "gameId": "SLPM_626.91"
+    },
+    {
+      "path": "PS2/SLPM_626.91/SLPM_626.91_BG_02.png",
+      "kind": "background",
+      "bytes": 191146,
+      "width": 640,
+      "height": 480,
+      "sha256": "0f201d3069ad06b3d9669f940008a2708859d474dc54d2082f47eca8ef3e16cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.91/SLPM_626.91_BG_02.png"
+      },
+      "gameId": "SLPM_626.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Ages 2500 Series Vol. 20 - Space Harrier Collection"
+}

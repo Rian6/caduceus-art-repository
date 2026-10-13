@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.38",
+  "cover": {
+    "path": "PS2/SLPS_250.38/SLPS_250.38_COV.png",
+    "kind": "cover",
+    "bytes": 82214,
+    "width": 192,
+    "height": 272,
+    "sha256": "3b4d87c749123d580e9ba039bfe335a71722c4ee07c512095b447389122f4c2a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25038.jpg"
+    },
+    "gameId": "SLPS_250.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TRUE LOVE STORY 3"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_202.64",
+  "cover": {
+    "path": "PS2/SLUS_202.64/SLUS_202.64_COV.png",
+    "kind": "cover",
+    "bytes": 89236,
+    "width": 192,
+    "height": 272,
+    "sha256": "281ceed09b46d2634f5fccee841a260c9831f61747fbb1c712d51fc3eaef267b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20264.jpg"
+    },
+    "gameId": "SLUS_202.64"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.64/SLUS_202.64_ICO.png",
+    "kind": "disc",
+    "bytes": 25728,
+    "width": 256,
+    "height": 256,
+    "sha256": "295a5e872b4a756568406b08b3be71fef02a25bad6c2be5156fd1bd83746fa98",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.64_ICO.png"
+    },
+    "gameId": "SLUS_202.64"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.64/SLUS_202.64_BG.png",
+    "kind": "background",
+    "bytes": 156712,
+    "width": 640,
+    "height": 480,
+    "sha256": "3e0fe1491fe93a41df289c89b1b7925b3ca5666c57c74a0420a22942f531d4f7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.64/SLUS_202.64_BG_00.png"
+    },
+    "gameId": "SLUS_202.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.64/SLUS_202.64_BG.png",
+      "kind": "background",
+      "bytes": 156712,
+      "width": 640,
+      "height": 480,
+      "sha256": "3e0fe1491fe93a41df289c89b1b7925b3ca5666c57c74a0420a22942f531d4f7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.64/SLUS_202.64_BG_00.png"
+      },
+      "gameId": "SLUS_202.64"
+    },
+    {
+      "path": "PS2/SLUS_202.64/SLUS_202.64_BG_01.png",
+      "kind": "background",
+      "bytes": 157123,
+      "width": 640,
+      "height": 480,
+      "sha256": "acb1c34dde2b74b0cdeda844530c6d118e7a63f48122a06704ffba83cc4420e5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.64/SLUS_202.64_BG_01.png"
+      },
+      "gameId": "SLUS_202.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "F1 2001"
+}

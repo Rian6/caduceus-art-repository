@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.20",
+  "cover": {
+    "path": "PS2/SLPS_732.20/SLPS_732.20_COV.png",
+    "kind": "cover",
+    "bytes": 59427,
+    "width": 192,
+    "height": 272,
+    "sha256": "949a86fcb742db03176b24cb98a089908579811835bbbb44507b60ba2205313a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73220.jpg"
+    },
+    "gameId": "SLPS_732.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ULTRAMAN [PLAYSTATION 2 THE BEST]"
+}

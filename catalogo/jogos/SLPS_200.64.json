@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.64",
+  "cover": {
+    "path": "PS2/SLPS_200.64/SLPS_200.64_COV.png",
+    "kind": "cover",
+    "bytes": 96572,
+    "width": 192,
+    "height": 272,
+    "sha256": "a17ee199b6f8a4748b0c9d354ccb46f45a4a46b4d9c3e40f3e191c564e60a3f6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20064.jpg"
+    },
+    "gameId": "SLPS_200.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Top Gear Daredevil"
+}

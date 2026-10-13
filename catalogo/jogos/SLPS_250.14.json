@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.14",
+  "cover": {
+    "path": "PS2/SLPS_250.14/SLPS_250.14_COV.png",
+    "kind": "cover",
+    "bytes": 84083,
+    "width": 192,
+    "height": 272,
+    "sha256": "f88afbee29283e5d37f37c53f6f66f4460cc4dac19696544375eea3207c06b5e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25014.jpg"
+    },
+    "gameId": "SLPS_250.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Choro Q - HG (Limited Edition)"
+}

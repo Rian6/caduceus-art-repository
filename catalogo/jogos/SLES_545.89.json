@@ -1,0 +1,65 @@
+{
+  "id": "SLES_545.89",
+  "cover": {
+    "path": "PS2/SLES_545.89/SLES_545.89_COV.png",
+    "kind": "cover",
+    "bytes": 97791,
+    "width": 192,
+    "height": 272,
+    "sha256": "ebc7187b1a7f0c162623ac3f6454f4d43589dcdf7d2877e440fa2178e631e3aa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54589.jpg"
+    },
+    "gameId": "SLES_545.89"
+  },
+  "disc": {
+    "path": "PS2/SLES_545.89/SLES_545.89_ICO.png",
+    "kind": "disc",
+    "bytes": 10469,
+    "width": 128,
+    "height": 128,
+    "sha256": "d77a6454d6ad38e72830f0c0a182e60fb867cab52ed64480b17fa4c1e16ba2f2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_545.89_ICO.png"
+    },
+    "gameId": "SLES_545.89"
+  },
+  "background": {
+    "path": "PS2/SLES_545.89/SLES_545.89_BG.png",
+    "kind": "background",
+    "bytes": 225770,
+    "width": 640,
+    "height": 480,
+    "sha256": "aa0d121af93cb695eff29b1693b3240b22504c470bfd49627a02247ef70b534e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.89/SLES_545.89_BG_00.png"
+    },
+    "gameId": "SLES_545.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_545.89/SLES_545.89_BG.png",
+      "kind": "background",
+      "bytes": 225770,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa0d121af93cb695eff29b1693b3240b22504c470bfd49627a02247ef70b534e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.89/SLES_545.89_BG_00.png"
+      },
+      "gameId": "SLES_545.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Global Defence Force Tactics"
+}

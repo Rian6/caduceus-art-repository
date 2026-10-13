@@ -1,0 +1,25 @@
+{
+  "id": "SLES_515.09",
+  "cover": {
+    "path": "PS2/SLES_515.09/SLES_515.09_COV.png",
+    "kind": "cover",
+    "bytes": 92534,
+    "width": 192,
+    "height": 272,
+    "sha256": "72986064161f87cc865921fbbd9b8bff5f55355a89c01a930b1ed1df45a87fbf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51509.jpg"
+    },
+    "gameId": "SLES_515.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World of Outlaws: Sprint Cars"
+}

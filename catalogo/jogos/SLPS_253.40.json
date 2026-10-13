@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.40",
+  "cover": {
+    "path": "PS2/SLPS_253.40/SLPS_253.40_COV.png",
+    "kind": "cover",
+    "bytes": 94998,
+    "width": 192,
+    "height": 272,
+    "sha256": "727f9ba4182e9968d3c1dd9966724660475fc03714181991fb739e46b6e4d1f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25340.jpg"
+    },
+    "gameId": "SLPS_253.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MISSING PARTS SIDE B - THE TANTEI STORIES"
+}

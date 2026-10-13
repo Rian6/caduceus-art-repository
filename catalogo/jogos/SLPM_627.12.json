@@ -1,0 +1,103 @@
+{
+  "id": "SLPM_627.12",
+  "cover": {
+    "path": "PS2/SLPM_627.12/SLPM_627.12_COV.png",
+    "kind": "cover",
+    "bytes": 114884,
+    "width": 192,
+    "height": 272,
+    "sha256": "baad52dfab137c20951997f1ee8af3649173c803ac65173ab09a38724748dfaa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62712.jpg"
+    },
+    "gameId": "SLPM_627.12"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_627.12/SLPM_627.12_BG.png",
+    "kind": "background",
+    "bytes": 185441,
+    "width": 640,
+    "height": 480,
+    "sha256": "fd11f791a61852c63a804faeb3604cb2f66e30a1da54d40c8dae5416b503eabb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_627.12/SLPM_627.12_BG_00.png"
+    },
+    "gameId": "SLPM_627.12"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_627.12/SLPM_627.12_BG.png",
+      "kind": "background",
+      "bytes": 185441,
+      "width": 640,
+      "height": 480,
+      "sha256": "fd11f791a61852c63a804faeb3604cb2f66e30a1da54d40c8dae5416b503eabb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.12/SLPM_627.12_BG_00.png"
+      },
+      "gameId": "SLPM_627.12"
+    },
+    {
+      "path": "PS2/SLPM_627.12/SLPM_627.12_BG_01.png",
+      "kind": "background",
+      "bytes": 210204,
+      "width": 640,
+      "height": 480,
+      "sha256": "be0571ee95a6ebea419b51268bafc896dabe7f23def4ba6dac115fb18b78f3a4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.12/SLPM_627.12_BG_01.png"
+      },
+      "gameId": "SLPM_627.12"
+    },
+    {
+      "path": "PS2/SLPM_627.12/SLPM_627.12_BG_02.png",
+      "kind": "background",
+      "bytes": 168279,
+      "width": 640,
+      "height": 480,
+      "sha256": "329f39f951823de9e44f79b17fde298f827688d8fd0d3d7205eb7172966696f6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.12/SLPM_627.12_BG_02.png"
+      },
+      "gameId": "SLPM_627.12"
+    },
+    {
+      "path": "PS2/SLPM_627.12/SLPM_627.12_BG_03.png",
+      "kind": "background",
+      "bytes": 205953,
+      "width": 640,
+      "height": 480,
+      "sha256": "b497dc991d56b775fe650e4660bde6ca93502fc318d376a1088f9c0e9de2b0c2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.12/SLPM_627.12_BG_03.png"
+      },
+      "gameId": "SLPM_627.12"
+    },
+    {
+      "path": "PS2/SLPM_627.12/SLPM_627.12_BG_04.png",
+      "kind": "background",
+      "bytes": 196568,
+      "width": 640,
+      "height": 480,
+      "sha256": "24220ae930f7718d3723b7f6e352ae1473f3bf77ce2d004a1db329334f4603b0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.12/SLPM_627.12_BG_04.png"
+      },
+      "gameId": "SLPM_627.12"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Ages 2500 Series Vol. 25 - Gunstar Heroes - Treasure Box"
+}

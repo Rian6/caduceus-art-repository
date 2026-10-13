@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.81",
+  "cover": {
+    "path": "PS2/SLPM_552.81/SLPM_552.81_COV.png",
+    "kind": "cover",
+    "bytes": 93586,
+    "width": 192,
+    "height": 272,
+    "sha256": "fa5800e312dd6df0b9d70c82ce624d2a883c9b6388564921997a382d7a9c7eff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55281.jpg"
+    },
+    "gameId": "SLPM_552.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLOCK ZERO - SHUUEN NO ICHIBYOU"
+}

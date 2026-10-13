@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_623.49",
+  "cover": {
+    "path": "PS2/SLPM_623.49/SLPM_623.49_COV.png",
+    "kind": "cover",
+    "bytes": 68231,
+    "width": 192,
+    "height": 272,
+    "sha256": "2311920cb444714d59206faf60d0740aa363aee61a144ef7ce949f7e70a6850d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62349.jpg"
+    },
+    "gameId": "SLPM_623.49"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_623.49/SLPM_623.49_BG.png",
+    "kind": "background",
+    "bytes": 231701,
+    "width": 640,
+    "height": 480,
+    "sha256": "0291a619a9ac5a40ac9567a031653ac4aeaf8071c1e4eb0d6e6438a8c9ade452",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_623.49/SLPM_623.49_BG_00.png"
+    },
+    "gameId": "SLPM_623.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_623.49/SLPM_623.49_BG.png",
+      "kind": "background",
+      "bytes": 231701,
+      "width": 640,
+      "height": 480,
+      "sha256": "0291a619a9ac5a40ac9567a031653ac4aeaf8071c1e4eb0d6e6438a8c9ade452",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_623.49/SLPM_623.49_BG_00.png"
+      },
+      "gameId": "SLPM_623.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WELCOME TO UNIVERSAL STUDIOS JAPAN"
+}

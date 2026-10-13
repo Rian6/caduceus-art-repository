@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_201.59",
+  "cover": {
+    "path": "PS2/SLUS_201.59/SLUS_201.59_COV.png",
+    "kind": "cover",
+    "bytes": 73312,
+    "width": 192,
+    "height": 272,
+    "sha256": "3568417b09dd5db2ded2dfda6ec88bb0c3fabeaf5f6e7c9a78ea90551ffcc2bc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20159.jpg"
+    },
+    "gameId": "SLUS_201.59"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.59/SLUS_201.59_ICO.png",
+    "kind": "disc",
+    "bytes": 30166,
+    "width": 256,
+    "height": 256,
+    "sha256": "8a8ab1db2a7dfa7f11d4631a37f47b5cb3ea2795b74be731d72ec7e56da52ac5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.59_ICO.png"
+    },
+    "gameId": "SLUS_201.59"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.59/SLUS_201.59_BG.png",
+    "kind": "background",
+    "bytes": 145862,
+    "width": 640,
+    "height": 480,
+    "sha256": "e0428c10861eb31ce9fd1104a50525dbf589f66ef151475bc3975e21ff1b7851",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.59/SLUS_201.59_BG_00.png"
+    },
+    "gameId": "SLUS_201.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.59/SLUS_201.59_BG.png",
+      "kind": "background",
+      "bytes": 145862,
+      "width": 640,
+      "height": 480,
+      "sha256": "e0428c10861eb31ce9fd1104a50525dbf589f66ef151475bc3975e21ff1b7851",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.59/SLUS_201.59_BG_00.png"
+      },
+      "gameId": "SLUS_201.59"
+    },
+    {
+      "path": "PS2/SLUS_201.59/SLUS_201.59_BG_01.png",
+      "kind": "background",
+      "bytes": 179274,
+      "width": 640,
+      "height": 480,
+      "sha256": "54091b13081f7c57d7816c980c1954d1aa5d56739e2d132c8322ab8bdbb6d8d7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.59/SLUS_201.59_BG_01.png"
+      },
+      "gameId": "SLUS_201.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dave Mirra Freestyle BMX 2"
+}

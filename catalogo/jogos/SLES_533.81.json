@@ -1,0 +1,103 @@
+{
+  "id": "SLES_533.81",
+  "cover": {
+    "path": "PS2/SLES_533.81/SLES_533.81_COV.png",
+    "kind": "cover",
+    "bytes": 90845,
+    "width": 192,
+    "height": 272,
+    "sha256": "645513996c0121d8c37990e081022f683b659da760cb3d67ba02988756982f05",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53381.jpg"
+    },
+    "gameId": "SLES_533.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_533.81/SLES_533.81_BG.png",
+    "kind": "background",
+    "bytes": 199457,
+    "width": 640,
+    "height": 480,
+    "sha256": "6ad53914cb2693d79bd44d27fec584502ad0277e1b3e379ee0d4c1df08501244",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.81/SLES_533.81_BG_00.png"
+    },
+    "gameId": "SLES_533.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.81/SLES_533.81_BG.png",
+      "kind": "background",
+      "bytes": 199457,
+      "width": 640,
+      "height": 480,
+      "sha256": "6ad53914cb2693d79bd44d27fec584502ad0277e1b3e379ee0d4c1df08501244",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.81/SLES_533.81_BG_00.png"
+      },
+      "gameId": "SLES_533.81"
+    },
+    {
+      "path": "PS2/SLES_533.81/SLES_533.81_BG_01.png",
+      "kind": "background",
+      "bytes": 203727,
+      "width": 640,
+      "height": 480,
+      "sha256": "d146f0b98a10fa0d8eceb82820f13673ef17bab8edbd259377b83cd0c391f459",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.81/SLES_533.81_BG_01.png"
+      },
+      "gameId": "SLES_533.81"
+    },
+    {
+      "path": "PS2/SLES_533.81/SLES_533.81_BG_02.png",
+      "kind": "background",
+      "bytes": 86257,
+      "width": 640,
+      "height": 480,
+      "sha256": "82150d91a13cb7da6123a4c5c2220412daa888e84bb877236576056ee3324113",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.81/SLES_533.81_BG_02.png"
+      },
+      "gameId": "SLES_533.81"
+    },
+    {
+      "path": "PS2/SLES_533.81/SLES_533.81_BG_03.png",
+      "kind": "background",
+      "bytes": 150555,
+      "width": 640,
+      "height": 480,
+      "sha256": "45b50fc0254287381de087cf5f1c8f99715200f3a638654e1fcea38cf5405858",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.81/SLES_533.81_BG_03.png"
+      },
+      "gameId": "SLES_533.81"
+    },
+    {
+      "path": "PS2/SLES_533.81/SLES_533.81_BG_04.png",
+      "kind": "background",
+      "bytes": 211469,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3ddc2708d957916b196ab086576f426c16641913764f06560156a7d24ec0363",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.81/SLES_533.81_BG_04.png"
+      },
+      "gameId": "SLES_533.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters 2002"
+}

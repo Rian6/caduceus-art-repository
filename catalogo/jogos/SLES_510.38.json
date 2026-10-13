@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.38",
+  "cover": {
+    "path": "PS2/SLES_510.38/SLES_510.38_COV.png",
+    "kind": "cover",
+    "bytes": 92106,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0b050620eb7752dcceb9fa79addf9979e53bace54d57d3b937bdac9191c4b0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51038.jpg"
+    },
+    "gameId": "SLES_510.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MX Superfly featuring Ricky Carmichael"
+}

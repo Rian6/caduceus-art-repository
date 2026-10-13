@@ -1,0 +1,64 @@
+{
+  "id": "SLES_502.04",
+  "cover": {
+    "path": "PS2/SLES_502.04/SLES_502.04_COV.png",
+    "kind": "cover",
+    "bytes": 100301,
+    "width": 192,
+    "height": 272,
+    "sha256": "fb47ac38d79e9fdc545c70fa8e3ca8ffd3df0c5c999dbcd853342676bfd048e8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50204.jpg"
+    },
+    "gameId": "SLES_502.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_502.04/SLES_502.04_BG.png",
+    "kind": "background",
+    "bytes": 207199,
+    "width": 640,
+    "height": 480,
+    "sha256": "218d2b7cab4d46e125d935148d23af99e47b952e316021432f227e467ea9fe13",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.04/SLES_502.04_BG_00.png"
+    },
+    "gameId": "SLES_502.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.04/SLES_502.04_BG.png",
+      "kind": "background",
+      "bytes": 207199,
+      "width": 640,
+      "height": 480,
+      "sha256": "218d2b7cab4d46e125d935148d23af99e47b952e316021432f227e467ea9fe13",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.04/SLES_502.04_BG_00.png"
+      },
+      "gameId": "SLES_502.04"
+    },
+    {
+      "path": "PS2/SLES_502.04/SLES_502.04_BG_01.png",
+      "kind": "background",
+      "bytes": 199348,
+      "width": 640,
+      "height": 480,
+      "sha256": "4abbb05bd509c255b9f684fc2e112f9ad753fce88bd9f72c65d233d3ccc74000",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.04/SLES_502.04_BG_01.png"
+      },
+      "gameId": "SLES_502.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR WARS - SUPER BOMBAD RACING"
+}

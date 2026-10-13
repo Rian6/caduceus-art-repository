@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.79",
+  "cover": {
+    "path": "PS2/SLES_553.79/SLES_553.79_COV.png",
+    "kind": "cover",
+    "bytes": 93539,
+    "width": 192,
+    "height": 272,
+    "sha256": "fe468957ed88b2e9139630329c062986d7d934b15130c47205ec788d4df9a6c9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55379.jpg"
+    },
+    "gameId": "SLES_553.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winter Sports 2009 - The Next Challenge"
+}

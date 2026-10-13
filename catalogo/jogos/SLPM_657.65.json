@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.65",
+  "cover": {
+    "path": "PS2/SLPM_657.65/SLPM_657.65_COV.png",
+    "kind": "cover",
+    "bytes": 109455,
+    "width": 192,
+    "height": 272,
+    "sha256": "9fd4015e3663b93cefdf4e9b44f13d1a71561313796b5519519b004e4dde1ef7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65765.jpg"
+    },
+    "gameId": "SLPM_657.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEN AT WORK! 3"
+}

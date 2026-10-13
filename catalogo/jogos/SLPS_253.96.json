@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.96",
+  "cover": {
+    "path": "PS2/SLPS_253.96/SLPS_253.96_COV.png",
+    "kind": "cover",
+    "bytes": 112232,
+    "width": 192,
+    "height": 272,
+    "sha256": "cf19991d890ba92e1a0bdd695947b0bc954e1119dbe895a8249d11d7bc2a5c80",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25396.jpg"
+    },
+    "gameId": "SLPS_253.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FANTASTIC FORTUNE 2 - TRIPLE STAR"
+}

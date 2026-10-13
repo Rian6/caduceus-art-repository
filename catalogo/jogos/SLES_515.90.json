@@ -1,0 +1,25 @@
+{
+  "id": "SLES_515.90",
+  "cover": {
+    "path": "PS2/SLES_515.90/SLES_515.90_COV.png",
+    "kind": "cover",
+    "bytes": 90229,
+    "width": 192,
+    "height": 272,
+    "sha256": "7a54dbc6c65e39c117480ae0811462f6b9f32605441c567d429cd893cdbbdd73",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51590.jpg"
+    },
+    "gameId": "SLES_515.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cabela's Big Game Hunter"
+}

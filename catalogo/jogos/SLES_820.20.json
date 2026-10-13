@@ -1,0 +1,51 @@
+{
+  "id": "SLES_820.20",
+  "cover": {
+    "path": "PS2/SLES_820.20/SLES_820.20_COV.png",
+    "kind": "cover",
+    "bytes": 67415,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b26acfa89eb5822db4a6f1c370af2171e0927360906706c777ae4c2efa69589",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-82020.jpg"
+    },
+    "gameId": "SLES_820.20"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_820.20/SLES_820.20_BG.png",
+    "kind": "background",
+    "bytes": 188863,
+    "width": 640,
+    "height": 480,
+    "sha256": "82cff830f438b28d72622ecdeedaf681bf4e16e6bd244b8bf28f37dca3b6f009",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_820.20/SLES_820.20_BG_00.png"
+    },
+    "gameId": "SLES_820.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_820.20/SLES_820.20_BG.png",
+      "kind": "background",
+      "bytes": 188863,
+      "width": 640,
+      "height": 480,
+      "sha256": "82cff830f438b28d72622ecdeedaf681bf4e16e6bd244b8bf28f37dca3b6f009",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.20/SLES_820.20_BG_00.png"
+      },
+      "gameId": "SLES_820.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cy Girls (Ice Disc)"
+}

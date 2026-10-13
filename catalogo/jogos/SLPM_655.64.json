@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.64",
+  "cover": {
+    "path": "PS2/SLPM_655.64/SLPM_655.64_COV.png",
+    "kind": "cover",
+    "bytes": 92338,
+    "width": 192,
+    "height": 272,
+    "sha256": "4b936ca8e32e0fcaf9c2c8b56c60a554f952f72e4d2b4f4b07f13abdac34559b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65564.jpg"
+    },
+    "gameId": "SLPM_655.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 3 - Empires (Mushouden Premium Box)"
+}

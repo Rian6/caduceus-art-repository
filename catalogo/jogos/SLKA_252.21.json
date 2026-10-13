@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_252.21",
+  "cover": {
+    "path": "PS2/SLKA_252.21/SLKA_252.21_COV.png",
+    "kind": "cover",
+    "bytes": 91713,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e7a0bb4237c35ebb8a6cdcb8496c0a4bee01c84d0f441a8966a8f57bdcfd5fe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25221.jpg"
+    },
+    "gameId": "SLKA_252.21"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_252.21/SLKA_252.21_BG.png",
+    "kind": "background",
+    "bytes": 132829,
+    "width": 640,
+    "height": 480,
+    "sha256": "3ed1fc9d32188a3753a9e1d961cd7336fff71b8edc42f3cdd90ea63bb0938ed8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.21/SLKA_252.21_BG_00.png"
+    },
+    "gameId": "SLKA_252.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_252.21/SLKA_252.21_BG.png",
+      "kind": "background",
+      "bytes": 132829,
+      "width": 640,
+      "height": 480,
+      "sha256": "3ed1fc9d32188a3753a9e1d961cd7336fff71b8edc42f3cdd90ea63bb0938ed8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_252.21/SLKA_252.21_BG_00.png"
+      },
+      "gameId": "SLKA_252.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Busin 0- Wizardry Alternative Neo"
+}

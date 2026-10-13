@@ -1,0 +1,25 @@
+{
+  "id": "SLES_514.18",
+  "cover": {
+    "path": "PS2/SLES_514.18/SLES_514.18_COV.png",
+    "kind": "cover",
+    "bytes": 98589,
+    "width": 192,
+    "height": 272,
+    "sha256": "911e3e95eda776daa14b34a7c9aa1e2085930658a94812eac37f7ececc7e657f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51418.jpg"
+    },
+    "gameId": "SLES_514.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fisherman's Challenge"
+}

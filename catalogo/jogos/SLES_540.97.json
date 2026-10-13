@@ -1,0 +1,25 @@
+{
+  "id": "SLES_540.97",
+  "cover": {
+    "path": "PS2/SLES_540.97/SLES_540.97_COV.png",
+    "kind": "cover",
+    "bytes": 99638,
+    "width": 192,
+    "height": 272,
+    "sha256": "a2aa4a1fa04b01e12d47850d852e43046a2d826317a3a7e69f3ba7c95957370d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54097.jpg"
+    },
+    "gameId": "SLES_540.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 5: Empires"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.23",
+  "cover": {
+    "path": "PS2/SLPS_204.23/SLPS_204.23_COV.png",
+    "kind": "cover",
+    "bytes": 96692,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e79c8d98000141b667c9a44ab6dbb487172b66331c872f53262486eb7150f48",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20423.jpg"
+    },
+    "gameId": "SLPS_204.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGO STAR WARS - THE VIDEOGAME"
+}

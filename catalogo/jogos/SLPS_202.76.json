@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.76",
+  "cover": {
+    "path": "PS2/SLPS_202.76/SLPS_202.76_COV.png",
+    "kind": "cover",
+    "bytes": 84085,
+    "width": 192,
+    "height": 272,
+    "sha256": "fd9f45919a242f9655192cd2783525d0c15290bf16bf0c25605f250c45b998dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20276.jpg"
+    },
+    "gameId": "SLPS_202.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 4 - CR Hissatsu Shigotonin - Gekitou-hen"
+}

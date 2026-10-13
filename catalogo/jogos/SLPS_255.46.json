@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.46",
+  "cover": {
+    "path": "PS2/SLPS_255.46/SLPS_255.46_COV.png",
+    "kind": "cover",
+    "bytes": 93511,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c2b150abebdcdb12b6757a57cad690a165586f58836b94e370d18d25887041b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25546.jpg"
+    },
+    "gameId": "SLPS_255.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ICHIGO MASHIMARO [LIMITED EDITION]"
+}

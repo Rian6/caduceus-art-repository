@@ -1,0 +1,25 @@
+{
+  "id": "PCPX_963.21",
+  "cover": {
+    "path": "PS2/PCPX_963.21/PCPX_963.21_COV.png",
+    "kind": "cover",
+    "bytes": 69807,
+    "width": 192,
+    "height": 272,
+    "sha256": "4dcb583f52bc987b3bdac61b4e8e8d46d17c6e4b672f7c09c960e800156ff70e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PCPX-96321.jpg"
+    },
+    "gameId": "PCPX_963.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SkyGunner"
+}

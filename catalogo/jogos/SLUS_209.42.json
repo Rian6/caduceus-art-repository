@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_209.42",
+  "cover": {
+    "path": "PS2/SLUS_209.42/SLUS_209.42_COV.png",
+    "kind": "cover",
+    "bytes": 109769,
+    "width": 192,
+    "height": 272,
+    "sha256": "649c351c89afb27ef20273689966f01148206bc4f6e47e7b63f8fe1c628ce667",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20942.jpg"
+    },
+    "gameId": "SLUS_209.42"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.42/SLUS_209.42_ICO.png",
+    "kind": "disc",
+    "bytes": 32352,
+    "width": 256,
+    "height": 256,
+    "sha256": "b7cad7bb5bc935c3aef730e3cf6b59108bbbd50496d7b4b65bb253c95836fcca",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.42_ICO.png"
+    },
+    "gameId": "SLUS_209.42"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.42/SLUS_209.42_BG.png",
+    "kind": "background",
+    "bytes": 184493,
+    "width": 640,
+    "height": 480,
+    "sha256": "f7c1c71c32872057b71e93f17c713b646f202ed301a41e3dcab5ca2c6914b815",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.42/SLUS_209.42_BG_00.png"
+    },
+    "gameId": "SLUS_209.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.42/SLUS_209.42_BG.png",
+      "kind": "background",
+      "bytes": 184493,
+      "width": 640,
+      "height": 480,
+      "sha256": "f7c1c71c32872057b71e93f17c713b646f202ed301a41e3dcab5ca2c6914b815",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.42/SLUS_209.42_BG_00.png"
+      },
+      "gameId": "SLUS_209.42"
+    },
+    {
+      "path": "PS2/SLUS_209.42/SLUS_209.42_BG_01.png",
+      "kind": "background",
+      "bytes": 195828,
+      "width": 640,
+      "height": 480,
+      "sha256": "c9cdde6d73cf0bf70bd723da79f6068d032e3c51412a95d16a26c8fb5cf25b6b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.42/SLUS_209.42_BG_01.png"
+      },
+      "gameId": "SLUS_209.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROBOTS"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_218.61",
+  "cover": {
+    "path": "PS2/SLUS_218.61/SLUS_218.61_COV.png",
+    "kind": "cover",
+    "bytes": 87159,
+    "width": 192,
+    "height": 272,
+    "sha256": "6be079674fdb71ce6edd3fbcc6213297ebfc33937cf653b53c3390fee2e23e19",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21861.jpg"
+    },
+    "gameId": "SLUS_218.61"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.61/SLUS_218.61_ICO.png",
+    "kind": "disc",
+    "bytes": 29429,
+    "width": 256,
+    "height": 256,
+    "sha256": "2536350828823eb8b3a539566c0bfd3fc67fe8862f1a87bd4c810adfbfda669a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.61_ICO.png"
+    },
+    "gameId": "SLUS_218.61"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney Sing It -  High School Musical 3 - Senior Year"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.21",
+  "cover": {
+    "path": "PS2/SLPM_662.21/SLPM_662.21_COV.png",
+    "kind": "cover",
+    "bytes": 83711,
+    "width": 192,
+    "height": 272,
+    "sha256": "4e6f1f94c476f5e07c7320d8761f09ba94808e36bbe03dfbdfafff99a20454ca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66221.jpg"
+    },
+    "gameId": "SLPM_662.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Metal Gear Solid 3: Subsistence (Disc 2) (Persistence)"
+}

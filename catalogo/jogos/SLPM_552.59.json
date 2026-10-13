@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.59",
+  "cover": {
+    "path": "PS2/SLPM_552.59/SLPM_552.59_COV.png",
+    "kind": "cover",
+    "bytes": 116014,
+    "width": 192,
+    "height": 272,
+    "sha256": "45ab5bac654849f38c08db0834a410062cb5706fb9b9549242984075f089542d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55259.jpg"
+    },
+    "gameId": "SLPM_552.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DESERT KINGDOM"
+}

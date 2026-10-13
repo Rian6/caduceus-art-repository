@@ -1,0 +1,25 @@
+{
+  "id": "SLES_527.99",
+  "cover": {
+    "path": "PS2/SLES_527.99/SLES_527.99_COV.png",
+    "kind": "cover",
+    "bytes": 95623,
+    "width": 192,
+    "height": 272,
+    "sha256": "28f1f5650f2f88080f19dbd30a6096b52d9fedddf3a5dfd73d9c54ddbcd67c3c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52799.jpg"
+    },
+    "gameId": "SLES_527.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "VIETCONG  - PURPLE HAZE"
+}

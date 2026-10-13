@@ -1,0 +1,51 @@
+{
+  "id": "SLES_503.39",
+  "cover": {
+    "path": "PS2/SLES_503.39/SLES_503.39_COV.png",
+    "kind": "cover",
+    "bytes": 96425,
+    "width": 192,
+    "height": 272,
+    "sha256": "918e215a1a58e6297538c597ba5dd89d79f4b52b6c92d895badcaca380cc7608",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50339.jpg"
+    },
+    "gameId": "SLES_503.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_503.39/SLES_503.39_BG.png",
+    "kind": "background",
+    "bytes": 156317,
+    "width": 640,
+    "height": 480,
+    "sha256": "ce20e9e049676fd341697e55b889dbbb5eedd9d9f420040b9f7e40dee310e7f9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_503.39/SLES_503.39_BG_00.png"
+    },
+    "gameId": "SLES_503.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_503.39/SLES_503.39_BG.png",
+      "kind": "background",
+      "bytes": 156317,
+      "width": 640,
+      "height": 480,
+      "sha256": "ce20e9e049676fd341697e55b889dbbb5eedd9d9f420040b9f7e40dee310e7f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.39/SLES_503.39_BG_00.png"
+      },
+      "gameId": "SLES_503.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RUNE - VIKING WARLORD"
+}

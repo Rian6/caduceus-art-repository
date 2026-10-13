@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.05",
+  "cover": {
+    "path": "PS2/SLPM_650.05/SLPM_650.05_COV.png",
+    "kind": "cover",
+    "bytes": 84449,
+    "width": 192,
+    "height": 272,
+    "sha256": "64c044e3bc8fb687ce3189c9f40a090e779129a7c87e8dd09c75762664536671",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65005.jpg"
+    },
+    "gameId": "SLPM_650.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Orega Kantoku Da! - Gekitou Pennant Race"
+}

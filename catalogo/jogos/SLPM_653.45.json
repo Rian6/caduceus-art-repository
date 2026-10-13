@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.45",
+  "cover": {
+    "path": "PS2/SLPM_653.45/SLPM_653.45_COV.png",
+    "kind": "cover",
+    "bytes": 78732,
+    "width": 192,
+    "height": 272,
+    "sha256": "c2b3c530c5d01f114986f9a60f349f6d7b5466533e3caae8d37c5f57e7bd773a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65345.jpg"
+    },
+    "gameId": "SLPM_653.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Ultimate Vol. 9: Bakusou! Manhattan - Runabout 3"
+}

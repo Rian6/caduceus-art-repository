@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.31",
+  "cover": {
+    "path": "PS2/SLPM_669.31/SLPM_669.31_COV.png",
+    "kind": "cover",
+    "bytes": 104984,
+    "width": 192,
+    "height": 272,
+    "sha256": "ba3a7b8db87286ead8e43be9bbdc28fb8a097203ead05f9122c9b2ddc60407a4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66931.jpg"
+    },
+    "gameId": "SLPM_669.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Juiced 2 - Hot Import Nights"
+}

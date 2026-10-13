@@ -1,0 +1,90 @@
+{
+  "id": "SLES_521.50",
+  "cover": {
+    "path": "PS2/SLES_521.50/SLES_521.50_COV.png",
+    "kind": "cover",
+    "bytes": 105249,
+    "width": 192,
+    "height": 272,
+    "sha256": "f3745c9f1a15a43d7eef8781e92608f52b0b410ebba49ff17730f61bdf2bd8e5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52150.jpg"
+    },
+    "gameId": "SLES_521.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_521.50/SLES_521.50_BG.png",
+    "kind": "background",
+    "bytes": 208900,
+    "width": 640,
+    "height": 480,
+    "sha256": "db748e5a9135da8853468686352038d76222e841184fcadb235335d619b77b96",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_521.50/SLES_521.50_BG_00.png"
+    },
+    "gameId": "SLES_521.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_521.50/SLES_521.50_BG.png",
+      "kind": "background",
+      "bytes": 208900,
+      "width": 640,
+      "height": 480,
+      "sha256": "db748e5a9135da8853468686352038d76222e841184fcadb235335d619b77b96",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.50/SLES_521.50_BG_00.png"
+      },
+      "gameId": "SLES_521.50"
+    },
+    {
+      "path": "PS2/SLES_521.50/SLES_521.50_BG_01.png",
+      "kind": "background",
+      "bytes": 201526,
+      "width": 640,
+      "height": 480,
+      "sha256": "2279a60cfff0a607aba75839881561a75522ead7887b54adc9c4e8dab861dd91",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.50/SLES_521.50_BG_01.png"
+      },
+      "gameId": "SLES_521.50"
+    },
+    {
+      "path": "PS2/SLES_521.50/SLES_521.50_BG_02.png",
+      "kind": "background",
+      "bytes": 215248,
+      "width": 640,
+      "height": 480,
+      "sha256": "755f456f3b5f037a5525918145f0782b2e4fcb63e8cc9b6b7e36b3954fc6e4fc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.50/SLES_521.50_BG_02.png"
+      },
+      "gameId": "SLES_521.50"
+    },
+    {
+      "path": "PS2/SLES_521.50/SLES_521.50_BG_03.png",
+      "kind": "background",
+      "bytes": 192788,
+      "width": 640,
+      "height": 480,
+      "sha256": "bc58eb7ce2951633e374462a9634d433add1069e128a33df29e72e72f5593dae",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.50/SLES_521.50_BG_03.png"
+      },
+      "gameId": "SLES_521.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Legacy of Kain - Defiance"
+}

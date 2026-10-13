@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.71",
+  "cover": {
+    "path": "PS2/SLKA_253.71/SLKA_253.71_COV.png",
+    "kind": "cover",
+    "bytes": 111962,
+    "width": 192,
+    "height": 272,
+    "sha256": "a3198fa11e2639f9c4b831d71e57fc69ad4f4862a8b22694b65c744204c28c2c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25371.jpg"
+    },
+    "gameId": "SLKA_253.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GA-ROU-DEN BREAKBLOW"
+}

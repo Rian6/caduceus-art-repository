@@ -1,0 +1,103 @@
+{
+  "id": "SCES_524.60",
+  "cover": {
+    "path": "PS2/SCES_524.60/SCES_524.60_COV.png",
+    "kind": "cover",
+    "bytes": 94779,
+    "width": 192,
+    "height": 272,
+    "sha256": "6041fee3cddf3c792f44fd16547361ef7cff7c566bac0a46004b7acf43270326",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52460.jpg"
+    },
+    "gameId": "SCES_524.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_524.60/SCES_524.60_BG.png",
+    "kind": "background",
+    "bytes": 196783,
+    "width": 640,
+    "height": 480,
+    "sha256": "cf84d9cbbc39426e02c9131f61c722b95b06fd84e7d0361635df3af0ec421608",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_524.60/SCES_524.60_BG_00.png"
+    },
+    "gameId": "SCES_524.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_524.60/SCES_524.60_BG.png",
+      "kind": "background",
+      "bytes": 196783,
+      "width": 640,
+      "height": 480,
+      "sha256": "cf84d9cbbc39426e02c9131f61c722b95b06fd84e7d0361635df3af0ec421608",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.60/SCES_524.60_BG_00.png"
+      },
+      "gameId": "SCES_524.60"
+    },
+    {
+      "path": "PS2/SCES_524.60/SCES_524.60_BG_01.png",
+      "kind": "background",
+      "bytes": 175346,
+      "width": 640,
+      "height": 480,
+      "sha256": "14f02e2550d7f081c8910c82b167177ca7bdb973b734825d53040bb410c38fe8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.60/SCES_524.60_BG_01.png"
+      },
+      "gameId": "SCES_524.60"
+    },
+    {
+      "path": "PS2/SCES_524.60/SCES_524.60_BG_02.png",
+      "kind": "background",
+      "bytes": 200603,
+      "width": 640,
+      "height": 480,
+      "sha256": "1ae665751b4f5161ca89b1cc6b97b75e4b34cb147dc2b9cd0034a55c5fcb852f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.60/SCES_524.60_BG_02.png"
+      },
+      "gameId": "SCES_524.60"
+    },
+    {
+      "path": "PS2/SCES_524.60/SCES_524.60_BG_03.png",
+      "kind": "background",
+      "bytes": 189264,
+      "width": 640,
+      "height": 480,
+      "sha256": "f976fbe785b89df532bf72b0f6fdcf9f4b3e88aa2e334ad85438e8390b1e4b48",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.60/SCES_524.60_BG_03.png"
+      },
+      "gameId": "SCES_524.60"
+    },
+    {
+      "path": "PS2/SCES_524.60/SCES_524.60_BG_04.png",
+      "kind": "background",
+      "bytes": 184698,
+      "width": 640,
+      "height": 480,
+      "sha256": "f50be4f1a937387854bb34838f11e5fb02d4eedd19c931456be366f1a9509160",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.60/SCES_524.60_BG_04.png"
+      },
+      "gameId": "SCES_524.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jak 3"
+}

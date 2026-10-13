@@ -1,0 +1,25 @@
+{
+  "id": "SCES_509.57",
+  "cover": {
+    "path": "PS2/SCES_509.57/SCES_509.57_COV.png",
+    "kind": "cover",
+    "bytes": 51052,
+    "width": 192,
+    "height": 272,
+    "sha256": "dfc8fbc18c0652436b497d771cac54f5b01ce9e248ab9fbac7831d93bdeee553",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_509.57/SCES_509.57_COV.png"
+    },
+    "gameId": "SCES_509.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Stitch: Experiment 626"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_508.30",
+  "cover": {
+    "path": "PS2/SLES_508.30/SLES_508.30_COV.png",
+    "kind": "cover",
+    "bytes": 91215,
+    "width": 192,
+    "height": 272,
+    "sha256": "490b2e3ae9043fb630193c5b9ca133ec7e3b973614b58ea8fd7e207f2f9904f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50830.jpg"
+    },
+    "gameId": "SLES_508.30"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_508.30/SLES_508.30_BG.png",
+    "kind": "background",
+    "bytes": 196535,
+    "width": 640,
+    "height": 480,
+    "sha256": "830f62db7027b1a45427d8f6a32ce9cde73273467bb346c5e67edd39b025b12d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_508.30/SLES_508.30_BG_00.png"
+    },
+    "gameId": "SLES_508.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_508.30/SLES_508.30_BG.png",
+      "kind": "background",
+      "bytes": 196535,
+      "width": 640,
+      "height": 480,
+      "sha256": "830f62db7027b1a45427d8f6a32ce9cde73273467bb346c5e67edd39b025b12d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.30/SLES_508.30_BG_00.png"
+      },
+      "gameId": "SLES_508.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR WARS - LAS GUERRAS CLON"
+}

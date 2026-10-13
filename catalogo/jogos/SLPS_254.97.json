@@ -1,0 +1,104 @@
+{
+  "id": "SLPS_254.97",
+  "cover": {
+    "path": "PS2/SLPS_254.97/SLPS_254.97_COV.png",
+    "kind": "cover",
+    "bytes": 84502,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a6e209f32e60ca29e87a64288fc096b2980c6ba3eefadab48e6c5073a533761",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25497.jpg"
+    },
+    "gameId": "SLPS_254.97"
+  },
+  "disc": {
+    "path": "PS2/SLPS_254.97/SLPS_254.97_ICO.png",
+    "kind": "disc",
+    "bytes": 9843,
+    "width": 128,
+    "height": 128,
+    "sha256": "142815a00933cfac70f34fd46bf5540c40f8b5a25afe4e0de01712d566b2921e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_254.97_ICO.png"
+    },
+    "gameId": "SLPS_254.97"
+  },
+  "background": {
+    "path": "PS2/SLPS_254.97/SLPS_254.97_BG.png",
+    "kind": "background",
+    "bytes": 153904,
+    "width": 640,
+    "height": 480,
+    "sha256": "8b773d5c79eb77fa9578c7911908d09e7157200c949a8c8663d3763679cd658d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_254.97/SLPS_254.97_BG_00.png"
+    },
+    "gameId": "SLPS_254.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_254.97/SLPS_254.97_BG.png",
+      "kind": "background",
+      "bytes": 153904,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b773d5c79eb77fa9578c7911908d09e7157200c949a8c8663d3763679cd658d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.97/SLPS_254.97_BG_00.png"
+      },
+      "gameId": "SLPS_254.97"
+    },
+    {
+      "path": "PS2/SLPS_254.97/SLPS_254.97_BG_01.png",
+      "kind": "background",
+      "bytes": 196007,
+      "width": 640,
+      "height": 480,
+      "sha256": "65f70ab801f73a026d523a978ea34bbef25824cb3b0c462b6920567636c6c0d2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.97/SLPS_254.97_BG_01.png"
+      },
+      "gameId": "SLPS_254.97"
+    },
+    {
+      "path": "PS2/SLPS_254.97/SLPS_254.97_BG_02.png",
+      "kind": "background",
+      "bytes": 121013,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd10224ce862678148faef534d7c4b09b3b798e7918c9386e9fc1ada37c5ea3a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.97/SLPS_254.97_BG_02.png"
+      },
+      "gameId": "SLPS_254.97"
+    },
+    {
+      "path": "PS2/SLPS_254.97/SLPS_254.97_BG_03.png",
+      "kind": "background",
+      "bytes": 158194,
+      "width": 640,
+      "height": 480,
+      "sha256": "adbe852b326200bcba10cb4559d8174bf22e4457259fc6f0856ee4d31002b3c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.97/SLPS_254.97_BG_03.png"
+      },
+      "gameId": "SLPS_254.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TearRing Saga Series - Berwick Saga"
+}

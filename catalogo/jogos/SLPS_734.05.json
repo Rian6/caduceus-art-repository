@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_734.05",
+  "cover": {
+    "path": "PS2/SLPS_734.05/SLPS_734.05_COV.png",
+    "kind": "cover",
+    "bytes": 81937,
+    "width": 192,
+    "height": 272,
+    "sha256": "efe8f75ba5e288721e6c90c080897c5934f61678d68f7cbf049df0dba408ac5c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73405.jpg"
+    },
+    "gameId": "SLPS_734.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZERO [PLAYSTATION 2 THE BEST]"
+}

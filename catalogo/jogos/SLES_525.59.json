@@ -1,0 +1,25 @@
+{
+  "id": "SLES_525.59",
+  "cover": {
+    "path": "PS2/SLES_525.59/SLES_525.59_COV.png",
+    "kind": "cover",
+    "bytes": 89257,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a6485029259af7c499945abf8979f006d2a8171d4eb0fdb3046e922fbbbd2cb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52559.jpg"
+    },
+    "gameId": "SLES_525.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA Football 2005"
+}

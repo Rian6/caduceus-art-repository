@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.29",
+  "cover": {
+    "path": "PS2/SLPM_665.29/SLPM_665.29_COV.png",
+    "kind": "cover",
+    "bytes": 100202,
+    "width": 192,
+    "height": 272,
+    "sha256": "7fe468caf6b664e199e030a21b2056e45a3f53ed551149fdd146ecded85b19e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66529.jpg"
+    },
+    "gameId": "SLPM_665.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Boukoku no Aegis 2035: Warship Gunner (Koei the Best)"
+}

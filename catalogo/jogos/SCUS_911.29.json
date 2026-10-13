@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_911.29",
+  "cover": {
+    "path": "PS2/SCUS_911.29/SCUS_911.29_COV.png",
+    "kind": "cover",
+    "bytes": 54370,
+    "width": 192,
+    "height": 272,
+    "sha256": "f221d4e33244c2417e1e687ce378f9fca3d6eb1b256107fd6351c462dd148657",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_911.29/SCUS_911.29_COV.png"
+    },
+    "gameId": "SCUS_911.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OKAGE SHADOW KING"
+}

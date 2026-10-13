@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_216.89",
+  "cover": {
+    "path": "PS2/SLUS_216.89/SLUS_216.89_COV.png",
+    "kind": "cover",
+    "bytes": 96183,
+    "width": 192,
+    "height": 272,
+    "sha256": "aa8160a268a4c9fbb5ebe09a510a36dad0e8a496d03e68e477bc2237ea995608",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21689.jpg"
+    },
+    "gameId": "SLUS_216.89"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.89/SLUS_216.89_ICO.png",
+    "kind": "disc",
+    "bytes": 31186,
+    "width": 256,
+    "height": 256,
+    "sha256": "db8a2b7eb2df846db4babcd9622031c94b5d04217faa0b52b49bf40ec77cb71f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.89_ICO.png"
+    },
+    "gameId": "SLUS_216.89"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.89/SLUS_216.89_BG.png",
+    "kind": "background",
+    "bytes": 173250,
+    "width": 640,
+    "height": 480,
+    "sha256": "e1b213731dcc9d3cf8e2050dae570613e9cef245498d3c9c16297d080c83b956",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.89/SLUS_216.89_BG_00.png"
+    },
+    "gameId": "SLUS_216.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.89/SLUS_216.89_BG.png",
+      "kind": "background",
+      "bytes": 173250,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1b213731dcc9d3cf8e2050dae570613e9cef245498d3c9c16297d080c83b956",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.89/SLUS_216.89_BG_00.png"
+      },
+      "gameId": "SLUS_216.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Petz - Horsez 2"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.26",
+  "cover": {
+    "path": "PS2/SLPM_654.26/SLPM_654.26_COV.png",
+    "kind": "cover",
+    "bytes": 100747,
+    "width": 192,
+    "height": 272,
+    "sha256": "03371f71b94434e3fd113cfa8a3c9bd8ee658af4b7039cec3494ce26e2de1707",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65426.jpg"
+    },
+    "gameId": "SLPM_654.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Yakyuu Team O Tsukurou! 2003"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLKA_250.08",
+  "cover": {
+    "path": "PS2/SLKA_250.08/SLKA_250.08_COV.png",
+    "kind": "cover",
+    "bytes": 71964,
+    "width": 192,
+    "height": 272,
+    "sha256": "73c43fc7232f78f761939e1fdf8c85efbaf61367b451baf714b7752f09ec4f4b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.08/SLKA_250.08_COV.png"
+    },
+    "gameId": "SLKA_250.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_250.08/SLKA_250.08_BG.png",
+    "kind": "background",
+    "bytes": 219105,
+    "width": 640,
+    "height": 480,
+    "sha256": "fb40bd706e66bb21c487481d49043ef58a0752e3931811de431c1ca742010f92",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.08/SLKA_250.08_BG_00.png"
+    },
+    "gameId": "SLKA_250.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_250.08/SLKA_250.08_BG.png",
+      "kind": "background",
+      "bytes": 219105,
+      "width": 640,
+      "height": 480,
+      "sha256": "fb40bd706e66bb21c487481d49043ef58a0752e3931811de431c1ca742010f92",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.08/SLKA_250.08_BG_00.png"
+      },
+      "gameId": "SLKA_250.08"
+    },
+    {
+      "path": "PS2/SLKA_250.08/SLKA_250.08_BG_01.png",
+      "kind": "background",
+      "bytes": 175208,
+      "width": 640,
+      "height": 480,
+      "sha256": "267c6fbc70488e478017c6f2174ae50cf85dc546730419e33b43dc04c1ca41cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.08/SLKA_250.08_BG_01.png"
+      },
+      "gameId": "SLKA_250.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "San Goku Shi Senki 2"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.29",
+  "cover": {
+    "path": "PS2/SLPM_657.29/SLPM_657.29_COV.png",
+    "kind": "cover",
+    "bytes": 78976,
+    "width": 192,
+    "height": 272,
+    "sha256": "581a4799cf2f991a5ed3542c708f08d111897630c7a1d165d4bd789ff737e377",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65729.jpg"
+    },
+    "gameId": "SLPM_657.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "True Crime - Streets of L.A."
+}

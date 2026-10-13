@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.93",
+  "cover": {
+    "path": "PS2/SLPS_204.93/SLPS_204.93_COV.png",
+    "kind": "cover",
+    "bytes": 104788,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c4f04b8bf4bafeb9c8a362323bf19b6583b86fc9423613fa22f23eaeecd093a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20493.jpg"
+    },
+    "gameId": "SLPS_204.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.116 - The Nekomura no Hitobito - Pug Daikan no Akugyouzanmai"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLES_548.04",
+  "cover": {
+    "path": "PS2/SLES_548.04/SLES_548.04_COV.png",
+    "kind": "cover",
+    "bytes": 91859,
+    "width": 192,
+    "height": 272,
+    "sha256": "4e51a26ec032e90e4cc9632fa9b0da6a189f3af14372a183d7694693307dfa7d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54804.jpg"
+    },
+    "gameId": "SLES_548.04"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.04/SLES_548.04_ICO.png",
+    "kind": "disc",
+    "bytes": 11412,
+    "width": 128,
+    "height": 128,
+    "sha256": "382d568f49db3441191451aeec9813f1aba2f525d9db63bcd4896ed250633395",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.04_ICO.png"
+    },
+    "gameId": "SLES_548.04"
+  },
+  "background": {
+    "path": "PS2/SLES_548.04/SLES_548.04_BG.png",
+    "kind": "background",
+    "bytes": 172399,
+    "width": 640,
+    "height": 480,
+    "sha256": "48c6e07e3f4e518e7fa717f9361992e15e7289fd9e39a2507c86d0d86a34abdf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.04/SLES_548.04_BG_00.png"
+    },
+    "gameId": "SLES_548.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.04/SLES_548.04_BG.png",
+      "kind": "background",
+      "bytes": 172399,
+      "width": 640,
+      "height": 480,
+      "sha256": "48c6e07e3f4e518e7fa717f9361992e15e7289fd9e39a2507c86d0d86a34abdf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.04/SLES_548.04_BG_00.png"
+      },
+      "gameId": "SLES_548.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Operation Air Assault 2"
+}

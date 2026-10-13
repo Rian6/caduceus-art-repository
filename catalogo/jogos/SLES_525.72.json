@@ -1,0 +1,91 @@
+{
+  "id": "SLES_525.72",
+  "cover": {
+    "path": "PS2/SLES_525.72/SLES_525.72_COV.png",
+    "kind": "cover",
+    "bytes": 105294,
+    "width": 192,
+    "height": 272,
+    "sha256": "2bb33f7fb6824269f1c1969e8895c9f4c47d8f3deab3160bf85fb4f6f5893da3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52572.jpg"
+    },
+    "gameId": "SLES_525.72"
+  },
+  "disc": {
+    "path": "PS2/SLES_525.72/SLES_525.72_ICO.png",
+    "kind": "disc",
+    "bytes": 10692,
+    "width": 128,
+    "height": 128,
+    "sha256": "89536a3bf0f18015b1b50cc72df5ace6885608833a83c0b9f30d7422d9c62c82",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_525.72_ICO.png"
+    },
+    "gameId": "SLES_525.72"
+  },
+  "background": {
+    "path": "PS2/SLES_525.72/SLES_525.72_BG.png",
+    "kind": "background",
+    "bytes": 235121,
+    "width": 640,
+    "height": 480,
+    "sha256": "9f182887c0156583cb576a34ccb4f561606366bd20b30b5888426bf35f0bd129",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.72/SLES_525.72_BG_00.png"
+    },
+    "gameId": "SLES_525.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.72/SLES_525.72_BG.png",
+      "kind": "background",
+      "bytes": 235121,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f182887c0156583cb576a34ccb4f561606366bd20b30b5888426bf35f0bd129",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.72/SLES_525.72_BG_00.png"
+      },
+      "gameId": "SLES_525.72"
+    },
+    {
+      "path": "PS2/SLES_525.72/SLES_525.72_BG_01.png",
+      "kind": "background",
+      "bytes": 59172,
+      "width": 640,
+      "height": 480,
+      "sha256": "c87d14e7e3660d24d74d7687f96e13a9f7763a1bcd6084d9a08dae4ec3b8e5fc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.72/SLES_525.72_BG_01.png"
+      },
+      "gameId": "SLES_525.72"
+    },
+    {
+      "path": "PS2/SLES_525.72/SLES_525.72_BG_02.png",
+      "kind": "background",
+      "bytes": 203977,
+      "width": 640,
+      "height": 480,
+      "sha256": "4139ef1308a1bf013d8006c2d25d4d70ece504267758c2e007b1959edd6e3284",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.72/SLES_525.72_BG_02.png"
+      },
+      "gameId": "SLES_525.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Operation Air Assault"
+}

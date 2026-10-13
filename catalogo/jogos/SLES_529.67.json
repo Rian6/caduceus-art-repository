@@ -1,0 +1,117 @@
+{
+  "id": "SLES_529.67",
+  "cover": {
+    "path": "PS2/SLES_529.67/SLES_529.67_COV.png",
+    "kind": "cover",
+    "bytes": 108129,
+    "width": 192,
+    "height": 272,
+    "sha256": "d6496fe390dca8134c11541f316841e1f639e5e06b2f9346f4347a1de894cd05",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52967.jpg"
+    },
+    "gameId": "SLES_529.67"
+  },
+  "disc": {
+    "path": "PS2/SLES_529.67/SLES_529.67_ICO.png",
+    "kind": "disc",
+    "bytes": 7636,
+    "width": 128,
+    "height": 128,
+    "sha256": "42b8f873249a7ff6ee0ba396d5d6377fcf4adbfb53ca4c71b70c9839bf10ffa4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_529.67_ICO.png"
+    },
+    "gameId": "SLES_529.67"
+  },
+  "background": {
+    "path": "PS2/SLES_529.67/SLES_529.67_BG.png",
+    "kind": "background",
+    "bytes": 185230,
+    "width": 640,
+    "height": 480,
+    "sha256": "b99b599eee28a713b422e36370bf9338b233722dba34dea46c22adda5d8f5632",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.67/SLES_529.67_BG_00.png"
+    },
+    "gameId": "SLES_529.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.67/SLES_529.67_BG.png",
+      "kind": "background",
+      "bytes": 185230,
+      "width": 640,
+      "height": 480,
+      "sha256": "b99b599eee28a713b422e36370bf9338b233722dba34dea46c22adda5d8f5632",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.67/SLES_529.67_BG_00.png"
+      },
+      "gameId": "SLES_529.67"
+    },
+    {
+      "path": "PS2/SLES_529.67/SLES_529.67_BG_01.png",
+      "kind": "background",
+      "bytes": 95511,
+      "width": 640,
+      "height": 480,
+      "sha256": "2362b2a2ecd94b84b8fe47f0220edd7a2221e49be4728712aa8cfe7f643cf9bf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.67/SLES_529.67_BG_01.png"
+      },
+      "gameId": "SLES_529.67"
+    },
+    {
+      "path": "PS2/SLES_529.67/SLES_529.67_BG_02.png",
+      "kind": "background",
+      "bytes": 244263,
+      "width": 640,
+      "height": 480,
+      "sha256": "a09d77f54f42136c1000ff30bdaad1c185e482ae1d8f0dcc91641e7353ef7f72",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.67/SLES_529.67_BG_02.png"
+      },
+      "gameId": "SLES_529.67"
+    },
+    {
+      "path": "PS2/SLES_529.67/SLES_529.67_BG_03.png",
+      "kind": "background",
+      "bytes": 212963,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6cbb1f7ca55766abfd786022d44f1174c45c5f60f08b8ad13e9716d239ad32f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.67/SLES_529.67_BG_03.png"
+      },
+      "gameId": "SLES_529.67"
+    },
+    {
+      "path": "PS2/SLES_529.67/SLES_529.67_BG_04.png",
+      "kind": "background",
+      "bytes": 91573,
+      "width": 640,
+      "height": 480,
+      "sha256": "0fa08210bbcf571c8e6bd2b2c244092e0ce52526eaa75aca9190923e004c07f5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.67/SLES_529.67_BG_04.png"
+      },
+      "gameId": "SLES_529.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guilty Gear X2 Reload - The Midnight Carnival"
+}

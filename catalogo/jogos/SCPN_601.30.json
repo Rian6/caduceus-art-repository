@@ -1,0 +1,24 @@
+{
+  "id": "SCPN_601.30",
+  "cover": {
+    "path": "PS2/SCPN_601.30/SCPN_601.30_COV.png",
+    "kind": "cover",
+    "bytes": 57433,
+    "width": 192,
+    "height": 272,
+    "sha256": "c5d029a2b0f6e05c5e24015ce1fddb981fd7aa69767768061fc3bbaa2cb9f040",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPN-60130.jpg"
+    },
+    "gameId": "SCPN_601.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

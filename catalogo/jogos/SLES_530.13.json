@@ -1,0 +1,25 @@
+{
+  "id": "SLES_530.13",
+  "cover": {
+    "path": "PS2/SLES_530.13/SLES_530.13_COV.png",
+    "kind": "cover",
+    "bytes": 71028,
+    "width": 192,
+    "height": 272,
+    "sha256": "a3f36b9352ce47ac9f835899d49d4c724502cd39dfe3e0fe6598e1554a3c0f2b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53013.jpg"
+    },
+    "gameId": "SLES_530.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tenchu - Fatal Shadows"
+}

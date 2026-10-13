@@ -1,0 +1,51 @@
+{
+  "id": "SCES_524.26",
+  "cover": {
+    "path": "PS2/SCES_524.26/SCES_524.26_COV.png",
+    "kind": "cover",
+    "bytes": 91906,
+    "width": 192,
+    "height": 272,
+    "sha256": "f8dbc81d6b039125e1eb279658beb64f50f67268a5db20c8bd9bbee332c819e4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52426.jpg"
+    },
+    "gameId": "SCES_524.26"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_524.26/SCES_524.26_BG.png",
+    "kind": "background",
+    "bytes": 202271,
+    "width": 640,
+    "height": 480,
+    "sha256": "4587f3cc13c20ac28c605ab6bb874782b96c171fa00a5072f6fb3b65d8c798f4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_524.26/SCES_524.26_BG_00.png"
+    },
+    "gameId": "SCES_524.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_524.26/SCES_524.26_BG.png",
+      "kind": "background",
+      "bytes": 202271,
+      "width": 640,
+      "height": 480,
+      "sha256": "4587f3cc13c20ac28c605ab6bb874782b96c171fa00a5072f6fb3b65d8c798f4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.26/SCES_524.26_BG_00.png"
+      },
+      "gameId": "SCES_524.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "This is Football 2005"
+}

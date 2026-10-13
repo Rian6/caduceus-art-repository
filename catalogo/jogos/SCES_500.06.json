@@ -1,0 +1,77 @@
+{
+  "id": "SCES_500.06",
+  "cover": {
+    "path": "PS2/SCES_500.06/SCES_500.06_COV.png",
+    "kind": "cover",
+    "bytes": 99070,
+    "width": 192,
+    "height": 272,
+    "sha256": "219c8a1b21a9a4a30700d9d1016b70042cad664ce28079b50472c533bca5613e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50006.jpg"
+    },
+    "gameId": "SCES_500.06"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_500.06/SCES_500.06_BG.png",
+    "kind": "background",
+    "bytes": 188115,
+    "width": 640,
+    "height": 480,
+    "sha256": "529ed6af6b467b2f76f80b802f5332441eb0d96012adfa54eef7220ce2607f15",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_500.06/SCES_500.06_BG_00.png"
+    },
+    "gameId": "SCES_500.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_500.06/SCES_500.06_BG.png",
+      "kind": "background",
+      "bytes": 188115,
+      "width": 640,
+      "height": 480,
+      "sha256": "529ed6af6b467b2f76f80b802f5332441eb0d96012adfa54eef7220ce2607f15",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_500.06/SCES_500.06_BG_00.png"
+      },
+      "gameId": "SCES_500.06"
+    },
+    {
+      "path": "PS2/SCES_500.06/SCES_500.06_BG_01.png",
+      "kind": "background",
+      "bytes": 219917,
+      "width": 640,
+      "height": 480,
+      "sha256": "f394359d24b319f064c1049854370130a6a7fb3aadbcb17ab3639fb22a3e003a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_500.06/SCES_500.06_BG_01.png"
+      },
+      "gameId": "SCES_500.06"
+    },
+    {
+      "path": "PS2/SCES_500.06/SCES_500.06_BG_02.png",
+      "kind": "background",
+      "bytes": 147304,
+      "width": 640,
+      "height": 480,
+      "sha256": "26a3ba25fc27c17ad06fbd71b1e42004d86f8b96c42f7843d324e20f28e41d89",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_500.06/SCES_500.06_BG_02.png"
+      },
+      "gameId": "SCES_500.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Drakan: The Ancients' Gates"
+}

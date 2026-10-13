@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.07",
+  "cover": {
+    "path": "PS2/SLAJ_250.07/SLAJ_250.07_COV.png",
+    "kind": "cover",
+    "bytes": 82742,
+    "width": 192,
+    "height": 272,
+    "sha256": "a3276317462b556bb317045cb8082d1ba3016fa3944ab8dd79c3054006401214",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25007.jpg"
+    },
+    "gameId": "SLAJ_250.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA 2K3"
+}

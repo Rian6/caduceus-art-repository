@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.99",
+  "cover": {
+    "path": "PS2/SLPM_653.99/SLPM_653.99_COV.png",
+    "kind": "cover",
+    "bytes": 91420,
+    "width": 192,
+    "height": 272,
+    "sha256": "0178d1e2f0c14d9a6196da4eca4b55ddba25f971c35bb7fe64b648dc6bad8909",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65399.jpg"
+    },
+    "gameId": "SLPM_653.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "D.C.P.S. - DA CAPO - PLUS SITUATION [DELUXE PACK]"
+}

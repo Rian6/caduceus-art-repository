@@ -1,0 +1,65 @@
+{
+  "id": "SLES_525.94",
+  "cover": {
+    "path": "PS2/SLES_525.94/SLES_525.94_COV.png",
+    "kind": "cover",
+    "bytes": 98747,
+    "width": 192,
+    "height": 272,
+    "sha256": "c3b24d1af719389f8bec027065898c854f82322e6a2a75cca4fa7c350beea481",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52594.jpg"
+    },
+    "gameId": "SLES_525.94"
+  },
+  "disc": {
+    "path": "PS2/SLES_525.94/SLES_525.94_ICO.png",
+    "kind": "disc",
+    "bytes": 10860,
+    "width": 128,
+    "height": 128,
+    "sha256": "bf6f6b666740221c0397979536c77820f8bd79f25bf1c4fee97bf197be1459bb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_525.94_ICO.png"
+    },
+    "gameId": "SLES_525.94"
+  },
+  "background": {
+    "path": "PS2/SLES_525.94/SLES_525.94_BG.png",
+    "kind": "background",
+    "bytes": 183011,
+    "width": 640,
+    "height": 480,
+    "sha256": "e8c55648d4ad381e7e848a1fb745ec82db3362a1d7ceaf05624e95ca7016a7db",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.94/SLES_525.94_BG_00.png"
+    },
+    "gameId": "SLES_525.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.94/SLES_525.94_BG.png",
+      "kind": "background",
+      "bytes": 183011,
+      "width": 640,
+      "height": 480,
+      "sha256": "e8c55648d4ad381e7e848a1fb745ec82db3362a1d7ceaf05624e95ca7016a7db",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.94/SLES_525.94_BG_00.png"
+      },
+      "gameId": "SLES_525.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "U-Move SuperSports"
+}

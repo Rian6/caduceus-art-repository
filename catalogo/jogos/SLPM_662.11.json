@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.11",
+  "cover": {
+    "path": "PS2/SLPM_662.11/SLPM_662.11_COV.png",
+    "kind": "cover",
+    "bytes": 92189,
+    "width": 192,
+    "height": 272,
+    "sha256": "a1a2251d5ba6c02cd31ce20fcaac854a46db4d6fa447ab007a44575ee8701097",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66211.jpg"
+    },
+    "gameId": "SLPM_662.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PETER JACKSON'S KING KONG - THE OFFICIAL GAME OF THE MOVIE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.54",
+  "cover": {
+    "path": "PS2/SLES_526.54/SLES_526.54_COV.png",
+    "kind": "cover",
+    "bytes": 98955,
+    "width": 192,
+    "height": 272,
+    "sha256": "fdd21b66990591e82da9bf7ac9e4fa8220323c492b30a8da832cf0690fef3ef3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52654.jpg"
+    },
+    "gameId": "SLES_526.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005: Real Madrid"
+}

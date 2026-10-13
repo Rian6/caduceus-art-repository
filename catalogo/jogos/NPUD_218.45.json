@@ -1,0 +1,24 @@
+{
+  "id": "NPUD_218.45",
+  "cover": {
+    "path": "PS2/NPUD_218.45/NPUD_218.45_COV.png",
+    "kind": "cover",
+    "bytes": 95823,
+    "width": 192,
+    "height": 272,
+    "sha256": "0303653b71f376fb953e147c8866d06fe09c971a722e4964842fb281f15fb5c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/NPUD-21845.jpg"
+    },
+    "gameId": "NPUD_218.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

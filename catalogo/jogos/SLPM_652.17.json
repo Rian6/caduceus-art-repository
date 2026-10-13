@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.17",
+  "cover": {
+    "path": "PS2/SLPM_652.17/SLPM_652.17_COV.png",
+    "kind": "cover",
+    "bytes": 98779,
+    "width": 192,
+    "height": 272,
+    "sha256": "743769934a082128d3a48aff0e4cf0a655744d7cf90630efa1a2c4d2343827fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65217.jpg"
+    },
+    "gameId": "SLPM_652.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Seaman - Kindan no Pet - Gaze Hakushi no Jikken Shima - Kanzeiban"
+}

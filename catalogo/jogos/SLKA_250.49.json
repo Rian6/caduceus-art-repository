@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.49",
+  "cover": {
+    "path": "PS2/SLKA_250.49/SLKA_250.49_COV.png",
+    "kind": "cover",
+    "bytes": 99338,
+    "width": 192,
+    "height": 272,
+    "sha256": "72409af1d41b07cc696a1e72cf027dd89c039a68057c64165d540bd07b312f82",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25049.jpg"
+    },
+    "gameId": "SLKA_250.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL SLUG 3"
+}

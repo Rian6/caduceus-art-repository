@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.57",
+  "cover": {
+    "path": "PS2/SLPM_624.57/SLPM_624.57_COV.png",
+    "kind": "cover",
+    "bytes": 88069,
+    "width": 192,
+    "height": 272,
+    "sha256": "dfe210e6a40b7799e11012796b67cd1110557458cd933ae59e8c2a922dae514d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62457.jpg"
+    },
+    "gameId": "SLPM_624.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Karaoke Revolution - Snow & Party"
+}

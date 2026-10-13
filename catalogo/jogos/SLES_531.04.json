@@ -1,0 +1,51 @@
+{
+  "id": "SLES_531.04",
+  "cover": {
+    "path": "PS2/SLES_531.04/SLES_531.04_COV.png",
+    "kind": "cover",
+    "bytes": 85097,
+    "width": 192,
+    "height": 272,
+    "sha256": "d6a8550815e329cc39c076230204d19e2290e476b581df0a8f4b20c73e82766b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53104.jpg"
+    },
+    "gameId": "SLES_531.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_531.04/SLES_531.04_BG.png",
+    "kind": "background",
+    "bytes": 156645,
+    "width": 640,
+    "height": 480,
+    "sha256": "2cd29e49f5478bc382c84488eccb1bc857f1f2bad665a4715ce9a7a2827c3ab3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.04/SLES_531.04_BG_00.png"
+    },
+    "gameId": "SLES_531.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.04/SLES_531.04_BG.png",
+      "kind": "background",
+      "bytes": 156645,
+      "width": 640,
+      "height": 480,
+      "sha256": "2cd29e49f5478bc382c84488eccb1bc857f1f2bad665a4715ce9a7a2827c3ab3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.04/SLES_531.04_BG_00.png"
+      },
+      "gameId": "SLES_531.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Rainbow Six – Lockdown"
+}

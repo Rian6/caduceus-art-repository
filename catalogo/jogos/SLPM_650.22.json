@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_650.22",
+  "cover": {
+    "path": "PS2/SLPM_650.22/SLPM_650.22_COV.png",
+    "kind": "cover",
+    "bytes": 52246,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0d785469d897ed00b6012b7acb3077599998edfe2354a1ed69238d96cd70b72",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65022.jpg"
+    },
+    "gameId": "SLPM_650.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_650.22/SLPM_650.22_BG.png",
+    "kind": "background",
+    "bytes": 164702,
+    "width": 640,
+    "height": 480,
+    "sha256": "dc80c107d221ea9d7a8c086560ab75ece89b58139c7586b8fdf4bccce9466205",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_650.22/SLPM_650.22_BG_00.png"
+    },
+    "gameId": "SLPM_650.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_650.22/SLPM_650.22_BG.png",
+      "kind": "background",
+      "bytes": 164702,
+      "width": 640,
+      "height": 480,
+      "sha256": "dc80c107d221ea9d7a8c086560ab75ece89b58139c7586b8fdf4bccce9466205",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.22/SLPM_650.22_BG_00.png"
+      },
+      "gameId": "SLPM_650.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BIOHAZARD - CODE - VERONICA KANZENBAN"
+}

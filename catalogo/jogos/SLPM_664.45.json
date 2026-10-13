@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_664.45",
+  "cover": {
+    "path": "PS2/SLPM_664.45/SLPM_664.45_COV.png",
+    "kind": "cover",
+    "bytes": 101287,
+    "width": 192,
+    "height": 272,
+    "sha256": "e72bfa004dda37843f01df87230b7fffca30d224bc32e804b9e58367707a9f6c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66445.jpg"
+    },
+    "gameId": "SLPM_664.45"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_664.45/SLPM_664.45_BG.png",
+    "kind": "background",
+    "bytes": 184811,
+    "width": 640,
+    "height": 480,
+    "sha256": "927679c1f6158af391d4564a43365ba7ad620c648dd813c69d5f585aeeafdba2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_664.45/SLPM_664.45_BG_00.png"
+    },
+    "gameId": "SLPM_664.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_664.45/SLPM_664.45_BG.png",
+      "kind": "background",
+      "bytes": 184811,
+      "width": 640,
+      "height": 480,
+      "sha256": "927679c1f6158af391d4564a43365ba7ad620c648dd813c69d5f585aeeafdba2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_664.45/SLPM_664.45_BG_00.png"
+      },
+      "gameId": "SLPM_664.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PERSONA 3"
+}

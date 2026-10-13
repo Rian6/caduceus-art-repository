@@ -1,0 +1,104 @@
+{
+  "id": "SCUS_976.23",
+  "cover": {
+    "path": "PS2/SCUS_976.23/SCUS_976.23_COV.png",
+    "kind": "cover",
+    "bytes": 89695,
+    "width": 192,
+    "height": 272,
+    "sha256": "929a48c5426437a9a82708fb2183e362196505c180f8478e7ea59282563d9cf0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97623.jpg"
+    },
+    "gameId": "SCUS_976.23"
+  },
+  "disc": {
+    "path": "PS2/SCUS_976.23/SCUS_976.23_ICO.png",
+    "kind": "disc",
+    "bytes": 33368,
+    "width": 256,
+    "height": 256,
+    "sha256": "8dc74750b8a8985da7a05b8e70f8f0709163968707d2163549cb246b3a952ef2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_976.23_ICO.png"
+    },
+    "gameId": "SCUS_976.23"
+  },
+  "background": {
+    "path": "PS2/SCUS_976.23/SCUS_976.23_BG.png",
+    "kind": "background",
+    "bytes": 200336,
+    "width": 640,
+    "height": 480,
+    "sha256": "fba51116d0eaaaa315ac97910588a88ef6369ae4fd9d6369b1644b56416d2a81",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_976.23/SCUS_976.23_BG_00.png"
+    },
+    "gameId": "SCUS_976.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_976.23/SCUS_976.23_BG.png",
+      "kind": "background",
+      "bytes": 200336,
+      "width": 640,
+      "height": 480,
+      "sha256": "fba51116d0eaaaa315ac97910588a88ef6369ae4fd9d6369b1644b56416d2a81",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_976.23/SCUS_976.23_BG_00.png"
+      },
+      "gameId": "SCUS_976.23"
+    },
+    {
+      "path": "PS2/SCUS_976.23/SCUS_976.23_BG_01.png",
+      "kind": "background",
+      "bytes": 181168,
+      "width": 640,
+      "height": 480,
+      "sha256": "50b45b216656531964e24a6d618c7953674234e9716db7a89323321b8b02f0e5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_976.23/SCUS_976.23_BG_01.png"
+      },
+      "gameId": "SCUS_976.23"
+    },
+    {
+      "path": "PS2/SCUS_976.23/SCUS_976.23_BG_02.png",
+      "kind": "background",
+      "bytes": 57379,
+      "width": 640,
+      "height": 480,
+      "sha256": "37ea4f2f4f5acc5a745551413a842878a24e41fa937288e773a89bfcf6db5b45",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_976.23/SCUS_976.23_BG_02.png"
+      },
+      "gameId": "SCUS_976.23"
+    },
+    {
+      "path": "PS2/SCUS_976.23/SCUS_976.23_BG_03.png",
+      "kind": "background",
+      "bytes": 213891,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1cd1976f1014d193a19f118970fe8507a7a48004aa8cb05f59dd4effe282bca",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_976.23/SCUS_976.23_BG_03.png"
+      },
+      "gameId": "SCUS_976.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SECRET AGENT CLANK"
+}

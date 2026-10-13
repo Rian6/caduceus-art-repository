@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.73",
+  "cover": {
+    "path": "PS2/SLPM_656.73/SLPM_656.73_COV.png",
+    "kind": "cover",
+    "bytes": 108574,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c2831f05675bfe48306f2f9820d62befee739ad0d11be57d64a77368f9af87f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65673.jpg"
+    },
+    "gameId": "SLPM_656.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sangokushi IX With Power-Up Kit"
+}

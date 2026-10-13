@@ -1,0 +1,25 @@
+{
+  "id": "SLES_543.26",
+  "cover": {
+    "path": "PS2/SLES_543.26/SLES_543.26_COV.png",
+    "kind": "cover",
+    "bytes": 86020,
+    "width": 192,
+    "height": 272,
+    "sha256": "8e984baac5b59eb289748dcf3360d254f548f52654c25954a0693660de2b0e8d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54326.jpg"
+    },
+    "gameId": "SLES_543.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Raceway - Drag & Stock Racing"
+}

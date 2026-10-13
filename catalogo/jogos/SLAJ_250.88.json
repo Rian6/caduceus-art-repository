@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.88",
+  "cover": {
+    "path": "PS2/SLAJ_250.88/SLAJ_250.88_COV.png",
+    "kind": "cover",
+    "bytes": 98907,
+    "width": 192,
+    "height": 272,
+    "sha256": "a1ab1af7c30911785940fa0c21963a21d5a11804662fb28cfb2e22ddec5b7a1c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25088.jpg"
+    },
+    "gameId": "SLAJ_250.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA 07"
+}

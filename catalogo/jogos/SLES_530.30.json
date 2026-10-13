@@ -1,0 +1,51 @@
+{
+  "id": "SLES_530.30",
+  "cover": {
+    "path": "PS2/SLES_530.30/SLES_530.30_COV.png",
+    "kind": "cover",
+    "bytes": 58947,
+    "width": 192,
+    "height": 272,
+    "sha256": "4d4132a76da498af3a361df6f93ee54f994a6ba8b020b51c8c33830e9bde5a07",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53030.jpg"
+    },
+    "gameId": "SLES_530.30"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_530.30/SLES_530.30_BG.png",
+    "kind": "background",
+    "bytes": 213427,
+    "width": 640,
+    "height": 480,
+    "sha256": "5549cc24b0827bff12024ed6c2f9daae7b00b44bbfe61c815a84b7370575893d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.30/SLES_530.30_BG_00.png"
+    },
+    "gameId": "SLES_530.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.30/SLES_530.30_BG.png",
+      "kind": "background",
+      "bytes": 213427,
+      "width": 640,
+      "height": 480,
+      "sha256": "5549cc24b0827bff12024ed6c2f9daae7b00b44bbfe61c815a84b7370575893d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.30/SLES_530.30_BG_00.png"
+      },
+      "gameId": "SLES_530.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HITMAN - BLOOD MONEY"
+}

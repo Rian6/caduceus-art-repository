@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.72",
+  "cover": {
+    "path": "PS2/SLPM_667.72/SLPM_667.72_COV.png",
+    "kind": "cover",
+    "bytes": 76124,
+    "width": 192,
+    "height": 272,
+    "sha256": "25d7e40c6e3d4e8bdd84a1b59c52f7ec169a84b15ae695c2297a22b008e51971",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66772.jpg"
+    },
+    "gameId": "SLPM_667.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DENSHA DE GO! FINAL [ETERNAL HITS]"
+}

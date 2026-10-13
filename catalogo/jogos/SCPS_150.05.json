@@ -1,0 +1,77 @@
+{
+  "id": "SCPS_150.05",
+  "cover": {
+    "path": "PS2/SCPS_150.05/SCPS_150.05_COV.png",
+    "kind": "cover",
+    "bytes": 72849,
+    "width": 192,
+    "height": 272,
+    "sha256": "42288f25c96bd4076b862ec49b708528e76d1996db31c57de7cee487a2916c86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15005.jpg"
+    },
+    "gameId": "SCPS_150.05"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.05/SCPS_150.05_BG.png",
+    "kind": "background",
+    "bytes": 191696,
+    "width": 640,
+    "height": 480,
+    "sha256": "591e2f0f9c8c79f5d99c1fe30930f1b23ae8d7011d240439d51398d40b1a4406",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.05/SCPS_150.05_BG_00.png"
+    },
+    "gameId": "SCPS_150.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.05/SCPS_150.05_BG.png",
+      "kind": "background",
+      "bytes": 191696,
+      "width": 640,
+      "height": 480,
+      "sha256": "591e2f0f9c8c79f5d99c1fe30930f1b23ae8d7011d240439d51398d40b1a4406",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.05/SCPS_150.05_BG_00.png"
+      },
+      "gameId": "SCPS_150.05"
+    },
+    {
+      "path": "PS2/SCPS_150.05/SCPS_150.05_BG_01.png",
+      "kind": "background",
+      "bytes": 19208,
+      "width": 640,
+      "height": 480,
+      "sha256": "dc79e47fb2011fc1387d78f1db31ce8b46ed1519dd1a3d88084bcf3c16737bac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.05/SCPS_150.05_BG_01.png"
+      },
+      "gameId": "SCPS_150.05"
+    },
+    {
+      "path": "PS2/SCPS_150.05/SCPS_150.05_BG_02.png",
+      "kind": "background",
+      "bytes": 193244,
+      "width": 640,
+      "height": 480,
+      "sha256": "db5f318eb3bf851f998aa63bb07e194b4b5ad35cadc64106d32a9f3c4b6615ed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.05/SCPS_150.05_BG_02.png"
+      },
+      "gameId": "SCPS_150.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PHASE PARADOX"
+}

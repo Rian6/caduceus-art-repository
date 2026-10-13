@@ -1,0 +1,91 @@
+{
+  "id": "SLES_519.33",
+  "cover": {
+    "path": "PS2/SLES_519.33/SLES_519.33_COV.png",
+    "kind": "cover",
+    "bytes": 103835,
+    "width": 192,
+    "height": 272,
+    "sha256": "cd0c8e2003f9680193a956cb8f7f53dc5205f76f002d41bd6869e0bef337f8b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51933.jpg"
+    },
+    "gameId": "SLES_519.33"
+  },
+  "disc": {
+    "path": "PS2/SLES_519.33/SLES_519.33_ICO.png",
+    "kind": "disc",
+    "bytes": 11881,
+    "width": 128,
+    "height": 128,
+    "sha256": "133f44b7970ce9b4340463bf4cfcef0a253c22435f246c30f2a08646115382c9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_519.33_ICO.png"
+    },
+    "gameId": "SLES_519.33"
+  },
+  "background": {
+    "path": "PS2/SLES_519.33/SLES_519.33_BG.png",
+    "kind": "background",
+    "bytes": 162325,
+    "width": 640,
+    "height": 480,
+    "sha256": "ec2423ef3cd92ba1270baa4eec0e9be28fa531a733417be85f698387f00db5a6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.33/SLES_519.33_BG_00.png"
+    },
+    "gameId": "SLES_519.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.33/SLES_519.33_BG.png",
+      "kind": "background",
+      "bytes": 162325,
+      "width": 640,
+      "height": 480,
+      "sha256": "ec2423ef3cd92ba1270baa4eec0e9be28fa531a733417be85f698387f00db5a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.33/SLES_519.33_BG_00.png"
+      },
+      "gameId": "SLES_519.33"
+    },
+    {
+      "path": "PS2/SLES_519.33/SLES_519.33_BG_01.png",
+      "kind": "background",
+      "bytes": 144537,
+      "width": 640,
+      "height": 480,
+      "sha256": "805c74a52669ff2d41cd331bfaae1560b334877b3a512df3def543a98678d1ed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.33/SLES_519.33_BG_01.png"
+      },
+      "gameId": "SLES_519.33"
+    },
+    {
+      "path": "PS2/SLES_519.33/SLES_519.33_BG_02.png",
+      "kind": "background",
+      "bytes": 126614,
+      "width": 640,
+      "height": 480,
+      "sha256": "0f87c918a0e805459247ef479903a8823129722865c0c59f67a0145560aa3c2a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.33/SLES_519.33_BG_02.png"
+      },
+      "gameId": "SLES_519.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GREGORY HORROR SHOW"
+}

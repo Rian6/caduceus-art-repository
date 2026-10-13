@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.71",
+  "cover": {
+    "path": "PS2/SLPM_669.71/SLPM_669.71_COV.png",
+    "kind": "cover",
+    "bytes": 103635,
+    "width": 192,
+    "height": 272,
+    "sha256": "438886b8aabed38059bd4db4e6f41774eb4930ec43793a853e696bd650406b50",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66971.jpg"
+    },
+    "gameId": "SLPM_669.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sangokushi IX With Power-Up Kit (Koei Teiban Series)"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SLES_537.34",
+  "cover": {
+    "path": "PS2/SLES_537.34/SLES_537.34_COV.png",
+    "kind": "cover",
+    "bytes": 96757,
+    "width": 192,
+    "height": 272,
+    "sha256": "a7afa000c871a22d4d8b1db588bdeacc5ef4292c9979d43324ae0b0f28ed1669",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53734.jpg"
+    },
+    "gameId": "SLES_537.34"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.34/SLES_537.34_BG.png",
+    "kind": "background",
+    "bytes": 208980,
+    "width": 640,
+    "height": 480,
+    "sha256": "9762c535e98424c96a0fa5acc864a2864637f567dd033b72c5ff89abdb8f039e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.34/SLES_537.34_BG_00.png"
+    },
+    "gameId": "SLES_537.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.34/SLES_537.34_BG.png",
+      "kind": "background",
+      "bytes": 208980,
+      "width": 640,
+      "height": 480,
+      "sha256": "9762c535e98424c96a0fa5acc864a2864637f567dd033b72c5ff89abdb8f039e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.34/SLES_537.34_BG_00.png"
+      },
+      "gameId": "SLES_537.34"
+    },
+    {
+      "path": "PS2/SLES_537.34/SLES_537.34_BG_01.png",
+      "kind": "background",
+      "bytes": 219795,
+      "width": 640,
+      "height": 480,
+      "sha256": "98dabf63f5c5280cf8f35529b6cb61284a8e327bb7b703030160220e8846ec10",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.34/SLES_537.34_BG_01.png"
+      },
+      "gameId": "SLES_537.34"
+    },
+    {
+      "path": "PS2/SLES_537.34/SLES_537.34_BG_02.png",
+      "kind": "background",
+      "bytes": 148190,
+      "width": 640,
+      "height": 480,
+      "sha256": "6d43e70a5f48563d7eca971c97301311b4e3f2da8796430bb4ceaf514584144a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.34/SLES_537.34_BG_02.png"
+      },
+      "gameId": "SLES_537.34"
+    },
+    {
+      "path": "PS2/SLES_537.34/SLES_537.34_BG_03.png",
+      "kind": "background",
+      "bytes": 137596,
+      "width": 640,
+      "height": 480,
+      "sha256": "be6734bd38cecd552bee6b0227c5fcb9c18ba851939a7dc13adaffb004ae4d52",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.34/SLES_537.34_BG_03.png"
+      },
+      "gameId": "SLES_537.34"
+    },
+    {
+      "path": "PS2/SLES_537.34/SLES_537.34_BG_04.png",
+      "kind": "background",
+      "bytes": 99646,
+      "width": 640,
+      "height": 480,
+      "sha256": "c2ce47995b895ce6275f69ae5bdd12f895394c8eda2df7f27e502c96bf9c30f8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.34/SLES_537.34_BG_04.png"
+      },
+      "gameId": "SLES_537.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "50 Cent: Bulletproof"
+}

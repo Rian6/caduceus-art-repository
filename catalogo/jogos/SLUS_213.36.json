@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_213.36",
+  "cover": {
+    "path": "PS2/SLUS_213.36/SLUS_213.36_COV.png",
+    "kind": "cover",
+    "bytes": 83075,
+    "width": 192,
+    "height": 272,
+    "sha256": "cf37b7712e5873dcc560e0a373368a14fadbbf27ed84ef3a82579bca38e2d5e6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21336.jpg"
+    },
+    "gameId": "SLUS_213.36"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.36/SLUS_213.36_ICO.png",
+    "kind": "disc",
+    "bytes": 35307,
+    "width": 256,
+    "height": 256,
+    "sha256": "2f96400a78ff873619522f490892d781a632c3da70b96180271be943a9377ab8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.36_ICO.png"
+    },
+    "gameId": "SLUS_213.36"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.36/SLUS_213.36_BG.png",
+    "kind": "background",
+    "bytes": 171452,
+    "width": 640,
+    "height": 480,
+    "sha256": "50ae4137f9217d825d7122d8c4e776dc027dd70d297236739ea28685863f0d3f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.36/SLUS_213.36_BG_00.png"
+    },
+    "gameId": "SLUS_213.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.36/SLUS_213.36_BG.png",
+      "kind": "background",
+      "bytes": 171452,
+      "width": 640,
+      "height": 480,
+      "sha256": "50ae4137f9217d825d7122d8c4e776dc027dd70d297236739ea28685863f0d3f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.36/SLUS_213.36_BG_00.png"
+      },
+      "gameId": "SLUS_213.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zathura"
+}

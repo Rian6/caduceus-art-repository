@@ -1,0 +1,24 @@
+{
+  "id": "USGR_999.98",
+  "cover": {
+    "path": "PS2/USGR_999.98/USGR_999.98_COV.png",
+    "kind": "cover",
+    "bytes": 106371,
+    "width": 192,
+    "height": 272,
+    "sha256": "4221a188dde3163b75207d71b211761d4954a8a042b8b354f0b81d6118a0f9e9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/USGR-99998.jpg"
+    },
+    "gameId": "USGR_999.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

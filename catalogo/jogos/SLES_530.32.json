@@ -1,0 +1,103 @@
+{
+  "id": "SLES_530.32",
+  "cover": {
+    "path": "PS2/SLES_530.32/SLES_530.32_COV.png",
+    "kind": "cover",
+    "bytes": 65781,
+    "width": 192,
+    "height": 272,
+    "sha256": "858d9d2c2a854b5458a1e752f3d3eb188088e8ad02046809e6d5665919e3425a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53032.jpg"
+    },
+    "gameId": "SLES_530.32"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_530.32/SLES_530.32_BG.png",
+    "kind": "background",
+    "bytes": 37388,
+    "width": 640,
+    "height": 480,
+    "sha256": "d9cd77cc894c13fb0d5630afdd24f0ca20eda9bda6b1d561fbdc4abe287c179c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.32/SLES_530.32_BG_00.png"
+    },
+    "gameId": "SLES_530.32"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.32/SLES_530.32_BG.png",
+      "kind": "background",
+      "bytes": 37388,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9cd77cc894c13fb0d5630afdd24f0ca20eda9bda6b1d561fbdc4abe287c179c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.32/SLES_530.32_BG_00.png"
+      },
+      "gameId": "SLES_530.32"
+    },
+    {
+      "path": "PS2/SLES_530.32/SLES_530.32_BG_01.png",
+      "kind": "background",
+      "bytes": 203363,
+      "width": 640,
+      "height": 480,
+      "sha256": "52f788aa9113b1fd775a68543528f1417f71c51f7ed0bb6c1d83fbdd7e2a0cbb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.32/SLES_530.32_BG_01.png"
+      },
+      "gameId": "SLES_530.32"
+    },
+    {
+      "path": "PS2/SLES_530.32/SLES_530.32_BG_02.png",
+      "kind": "background",
+      "bytes": 151283,
+      "width": 640,
+      "height": 480,
+      "sha256": "d36f917f2625def0ae6a2548d6aa788dd946f1588948de07dda6fedf4e7c7bf1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.32/SLES_530.32_BG_02.png"
+      },
+      "gameId": "SLES_530.32"
+    },
+    {
+      "path": "PS2/SLES_530.32/SLES_530.32_BG_03.png",
+      "kind": "background",
+      "bytes": 78373,
+      "width": 640,
+      "height": 480,
+      "sha256": "545dbbc7a3fdd9aad55739faabe221d8e710c8d7e94fb4e5abb6917579a9dae9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.32/SLES_530.32_BG_03.png"
+      },
+      "gameId": "SLES_530.32"
+    },
+    {
+      "path": "PS2/SLES_530.32/SLES_530.32_BG_04.png",
+      "kind": "background",
+      "bytes": 187157,
+      "width": 640,
+      "height": 480,
+      "sha256": "cec8ada55bde7f6d9620ca90cae2fb0f30f53b1f12b8fda48212f9f1a567c745",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.32/SLES_530.32_BG_04.png"
+      },
+      "gameId": "SLES_530.32"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hitman: Blood Money"
+}

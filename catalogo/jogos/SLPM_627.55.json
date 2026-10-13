@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.55",
+  "cover": {
+    "path": "PS2/SLPM_627.55/SLPM_627.55_COV.png",
+    "kind": "cover",
+    "bytes": 95963,
+    "width": 192,
+    "height": 272,
+    "sha256": "353f3d2dbd915fa7b25c0450aba44391d3734f0da8d2ba9217dc7e23c76a2277",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62755.jpg"
+    },
+    "gameId": "SLPM_627.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mahjong Haoh: Shinken Battle (Mycom Best)"
+}

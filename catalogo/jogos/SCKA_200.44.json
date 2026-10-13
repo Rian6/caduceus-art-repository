@@ -1,0 +1,51 @@
+{
+  "id": "SCKA_200.44",
+  "cover": {
+    "path": "PS2/SCKA_200.44/SCKA_200.44_COV.png",
+    "kind": "cover",
+    "bytes": 96946,
+    "width": 192,
+    "height": 272,
+    "sha256": "1b602e6858ad1b48e8340e804fffc22c9c83dc65e600469ccd4e7333bd9c6e88",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20044.jpg"
+    },
+    "gameId": "SCKA_200.44"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.44/SCKA_200.44_BG.png",
+    "kind": "background",
+    "bytes": 124895,
+    "width": 640,
+    "height": 480,
+    "sha256": "3c92aa579a8a426ecd32098d40a07297775c51d148fbf36d8597e065f3a67bb3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.44/SCKA_200.44_BG_00.png"
+    },
+    "gameId": "SCKA_200.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.44/SCKA_200.44_BG.png",
+      "kind": "background",
+      "bytes": 124895,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c92aa579a8a426ecd32098d40a07297775c51d148fbf36d8597e065f3a67bb3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.44/SCKA_200.44_BG_00.png"
+      },
+      "gameId": "SCKA_200.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLY COOPER 2 - BAND OF THIEVES<</td>"
+}

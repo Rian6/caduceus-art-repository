@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_253.59",
+  "cover": {
+    "path": "PS2/SLKA_253.59/SLKA_253.59_COV.png",
+    "kind": "cover",
+    "bytes": 97415,
+    "width": 192,
+    "height": 272,
+    "sha256": "22fdf0cef864c0b64fa0084f16fb749bb2620317f427da0ae0ad41b53af96626",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25359.jpg"
+    },
+    "gameId": "SLKA_253.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_253.59/SLKA_253.59_BG.png",
+    "kind": "background",
+    "bytes": 214571,
+    "width": 640,
+    "height": 480,
+    "sha256": "2acad29d7ca3c9427ff9abdd90a7f594898542cf866f20b1a5fc9c900ef2ddb2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.59/SLKA_253.59_BG_00.png"
+    },
+    "gameId": "SLKA_253.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_253.59/SLKA_253.59_BG.png",
+      "kind": "background",
+      "bytes": 214571,
+      "width": 640,
+      "height": 480,
+      "sha256": "2acad29d7ca3c9427ff9abdd90a7f594898542cf866f20b1a5fc9c900ef2ddb2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_253.59/SLKA_253.59_BG_00.png"
+      },
+      "gameId": "SLKA_253.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 9 - Liveware Evolution"
+}

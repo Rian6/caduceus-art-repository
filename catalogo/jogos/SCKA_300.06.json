@@ -1,0 +1,77 @@
+{
+  "id": "SCKA_300.06",
+  "cover": {
+    "path": "PS2/SCKA_300.06/SCKA_300.06_COV.png",
+    "kind": "cover",
+    "bytes": 95199,
+    "width": 192,
+    "height": 272,
+    "sha256": "232a37df42c01919343e99ba687cda31c79dd98e89292c9ef61cd5809c6f61cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-30006.jpg"
+    },
+    "gameId": "SCKA_300.06"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_300.06/SCKA_300.06_BG.png",
+    "kind": "background",
+    "bytes": 212086,
+    "width": 640,
+    "height": 480,
+    "sha256": "a4ba7d3eaea46cb77c6e272351ec2d4f87af6f1aaf5748e387efddeffc69f525",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_300.06/SCKA_300.06_BG_00.png"
+    },
+    "gameId": "SCKA_300.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_300.06/SCKA_300.06_BG.png",
+      "kind": "background",
+      "bytes": 212086,
+      "width": 640,
+      "height": 480,
+      "sha256": "a4ba7d3eaea46cb77c6e272351ec2d4f87af6f1aaf5748e387efddeffc69f525",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_300.06/SCKA_300.06_BG_00.png"
+      },
+      "gameId": "SCKA_300.06"
+    },
+    {
+      "path": "PS2/SCKA_300.06/SCKA_300.06_BG_01.png",
+      "kind": "background",
+      "bytes": 190813,
+      "width": 640,
+      "height": 480,
+      "sha256": "2ebe82cdef13720f1e1bb663225600f63dc5de9bd3418632854a558214cc8b09",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_300.06/SCKA_300.06_BG_01.png"
+      },
+      "gameId": "SCKA_300.06"
+    },
+    {
+      "path": "PS2/SCKA_300.06/SCKA_300.06_BG_02.png",
+      "kind": "background",
+      "bytes": 179529,
+      "width": 640,
+      "height": 480,
+      "sha256": "0870a456a509d4ce000c7bec76ccf3cdab68d32368483d5379ba59c65f49bbfb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_300.06/SCKA_300.06_BG_02.png"
+      },
+      "gameId": "SCKA_300.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GOD OF WAR II"
+}

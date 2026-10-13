@@ -1,0 +1,64 @@
+{
+  "id": "SLES_543.78",
+  "cover": {
+    "path": "PS2/SLES_543.78/SLES_543.78_COV.png",
+    "kind": "cover",
+    "bytes": 63607,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e4d1665f50243fcc8bd10ec5a7a89b035dfe09f1e1775955e7a79a279f696f5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.78/SLES_543.78_COV.png"
+    },
+    "gameId": "SLES_543.78"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.78/SLES_543.78_BG.png",
+    "kind": "background",
+    "bytes": 142508,
+    "width": 640,
+    "height": 480,
+    "sha256": "370d4732bf31e68f2781280a274a6d373d757204793e1005972e56e9e6db7bb9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.78/SLES_543.78_BG_00.png"
+    },
+    "gameId": "SLES_543.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.78/SLES_543.78_BG.png",
+      "kind": "background",
+      "bytes": 142508,
+      "width": 640,
+      "height": 480,
+      "sha256": "370d4732bf31e68f2781280a274a6d373d757204793e1005972e56e9e6db7bb9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.78/SLES_543.78_BG_00.png"
+      },
+      "gameId": "SLES_543.78"
+    },
+    {
+      "path": "PS2/SLES_543.78/SLES_543.78_BG_01.png",
+      "kind": "background",
+      "bytes": 173377,
+      "width": 640,
+      "height": 480,
+      "sha256": "3874c413998dae241466ed506949608eb589c5aec60e1a9566587b44a2d5ee2d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.78/SLES_543.78_BG_01.png"
+      },
+      "gameId": "SLES_543.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Barnyard"
+}

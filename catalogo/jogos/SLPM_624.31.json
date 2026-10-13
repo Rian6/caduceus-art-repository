@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.31",
+  "cover": {
+    "path": "PS2/SLPM_624.31/SLPM_624.31_COV.png",
+    "kind": "cover",
+    "bytes": 87993,
+    "width": 192,
+    "height": 272,
+    "sha256": "8affc2cb18f38e77f601952bcdf31971f93da1f70efcb05ca153baa62843a47e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62431.jpg"
+    },
+    "gameId": "SLPM_624.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 ULTIMATE SERIES VOL.14 - TOPAI DRAMATIC MAHJONG"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.67",
+  "cover": {
+    "path": "PS2/SLPS_204.67/SLPS_204.67_COV.png",
+    "kind": "cover",
+    "bytes": 91836,
+    "width": 192,
+    "height": 272,
+    "sha256": "b7bbf80e9793d01e878404e89993f4b8d213b11f9663d88529ed7f1c2e938d81",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20467.jpg"
+    },
+    "gameId": "SLPS_204.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.102 - The Hohei  - Senjou no Inutachin"
+}

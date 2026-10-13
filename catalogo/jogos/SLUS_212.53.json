@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_212.53",
+  "cover": {
+    "path": "PS2/SLUS_212.53/SLUS_212.53_COV.png",
+    "kind": "cover",
+    "bytes": 105774,
+    "width": 192,
+    "height": 272,
+    "sha256": "a88f565c6ca77c89cd50f37614fde2d3b51c2d4051e051dbb7488c42ed44ac51",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21253.jpg"
+    },
+    "gameId": "SLUS_212.53"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.53/SLUS_212.53_ICO.png",
+    "kind": "disc",
+    "bytes": 33790,
+    "width": 256,
+    "height": 256,
+    "sha256": "b11d6bd92909a0d2a72f6605b46c85a22f68d545ee10b6bac7c1d0138391c43b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.53_ICO.png"
+    },
+    "gameId": "SLUS_212.53"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.53/SLUS_212.53_BG.png",
+    "kind": "background",
+    "bytes": 83257,
+    "width": 640,
+    "height": 480,
+    "sha256": "b2f6493dfb49c45e3dee3aedd29ab4ec9e31ce1a395ef74e6e123a32f069c246",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.53/SLUS_212.53_BG_00.png"
+    },
+    "gameId": "SLUS_212.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.53/SLUS_212.53_BG.png",
+      "kind": "background",
+      "bytes": 83257,
+      "width": 640,
+      "height": 480,
+      "sha256": "b2f6493dfb49c45e3dee3aedd29ab4ec9e31ce1a395ef74e6e123a32f069c246",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.53/SLUS_212.53_BG_00.png"
+      },
+      "gameId": "SLUS_212.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ty - The Tasmanian Tiger 3 - Night of the Quinkan"
+}

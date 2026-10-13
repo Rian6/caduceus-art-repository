@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_151.02",
+  "cover": {
+    "path": "PS2/SCPS_151.02/SCPS_151.02_COV.png",
+    "kind": "cover",
+    "bytes": 110299,
+    "width": 192,
+    "height": 272,
+    "sha256": "34ad391d602385b5d073ae18bf50f95af18b65c1a0e980d05c794d9aaeb1e044",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15102.jpg"
+    },
+    "gameId": "SCPS_151.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rogue Galaxy"
+}

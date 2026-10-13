@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_252.99",
+  "cover": {
+    "path": "PS2/SLPS_252.99/SLPS_252.99_COV.png",
+    "kind": "cover",
+    "bytes": 105269,
+    "width": 192,
+    "height": 272,
+    "sha256": "49a1072ad8b05b3352c0563d7daf763cb2a77988c7142b75d849db52deebc3d4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25299.jpg"
+    },
+    "gameId": "SLPS_252.99"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_252.99/SLPS_252.99_BG.png",
+    "kind": "background",
+    "bytes": 225813,
+    "width": 640,
+    "height": 480,
+    "sha256": "5618f40c33c749051befc9d8a761892e244258c599cc5df047c19995d36d808c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_252.99/SLPS_252.99_BG_00.png"
+    },
+    "gameId": "SLPS_252.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_252.99/SLPS_252.99_BG.png",
+      "kind": "background",
+      "bytes": 225813,
+      "width": 640,
+      "height": 480,
+      "sha256": "5618f40c33c749051befc9d8a761892e244258c599cc5df047c19995d36d808c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.99/SLPS_252.99_BG_00.png"
+      },
+      "gameId": "SLPS_252.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Seiki Evangelion 2: Evangelions"
+}

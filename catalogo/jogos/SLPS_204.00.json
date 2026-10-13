@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_204.00",
+  "cover": {
+    "path": "PS2/SLPS_204.00/SLPS_204.00_COV.png",
+    "kind": "cover",
+    "bytes": 123878,
+    "width": 192,
+    "height": 272,
+    "sha256": "c8ad95a251a2739373ba655b0c0c5236226aaf56e3dba1c69ba25b3c9dfb5c78",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20400.jpg"
+    },
+    "gameId": "SLPS_204.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_204.00/SLPS_204.00_BG.png",
+    "kind": "background",
+    "bytes": 182806,
+    "width": 640,
+    "height": 480,
+    "sha256": "745bdd8ee5d0046567c08b372ed20a6724a93d659503ecef04874b52815b34a2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_204.00/SLPS_204.00_BG_00.png"
+    },
+    "gameId": "SLPS_204.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_204.00/SLPS_204.00_BG.png",
+      "kind": "background",
+      "bytes": 182806,
+      "width": 640,
+      "height": 480,
+      "sha256": "745bdd8ee5d0046567c08b372ed20a6724a93d659503ecef04874b52815b34a2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.00/SLPS_204.00_BG_00.png"
+      },
+      "gameId": "SLPS_204.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin - Go! Go! Godaime"
+}

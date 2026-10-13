@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_741.03",
+  "cover": {
+    "path": "PS2/SLPM_741.03/SLPM_741.03_COV.png",
+    "kind": "cover",
+    "bytes": 96679,
+    "width": 192,
+    "height": 272,
+    "sha256": "2284b0774f7a11d19304361fa10310a0d3b613442779ed0e1df064a7201f197e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74103.jpg"
+    },
+    "gameId": "SLPM_741.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Momotarou Densetsu USA (Playstation 2 The Best)"
+}

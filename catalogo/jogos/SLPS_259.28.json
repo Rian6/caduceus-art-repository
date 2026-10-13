@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.28",
+  "cover": {
+    "path": "PS2/SLPS_259.28/SLPS_259.28_COV.png",
+    "kind": "cover",
+    "bytes": 93880,
+    "width": 192,
+    "height": 272,
+    "sha256": "a46a2427fe688d320df35b0ff9910a9200990e5ef0ecf9489efd09146860f6a5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25928.jpg"
+    },
+    "gameId": "SLPS_259.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LITTLE ANCHOR [LIMITED EDITION]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "TCPS_100.81",
+  "cover": {
+    "path": "PS2/TCPS_100.81/TCPS_100.81_COV.png",
+    "kind": "cover",
+    "bytes": 69045,
+    "width": 192,
+    "height": 272,
+    "sha256": "75c11ebb080da409b06f9043c0888d30472540081158bef00371612f10cba9f5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/TCPS_100.81/TCPS_100.81_COV.png"
+    },
+    "gameId": "TCPS_100.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shikigami no Shiro II (Limited Edition)"
+}

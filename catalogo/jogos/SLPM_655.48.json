@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.48",
+  "cover": {
+    "path": "PS2/SLPM_655.48/SLPM_655.48_COV.png",
+    "kind": "cover",
+    "bytes": 98849,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d29608fe70eaff02d92f2b59e386c7ac996c62f8697f5c06672d9ef55169296",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65548.jpg"
+    },
+    "gameId": "SLPM_655.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FREEDOM FIGHTERS"
+}

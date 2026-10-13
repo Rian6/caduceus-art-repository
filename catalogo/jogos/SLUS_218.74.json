@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_218.74",
+  "cover": {
+    "path": "PS2/SLUS_218.74/SLUS_218.74_COV.png",
+    "kind": "cover",
+    "bytes": 88013,
+    "width": 192,
+    "height": 272,
+    "sha256": "17a77351dbee6bb10263cd251281287963948e73514371e4518b56e1e31d80d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21874.jpg"
+    },
+    "gameId": "SLUS_218.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jelly Belly - Ballistic Beans"
+}

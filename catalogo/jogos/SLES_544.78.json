@@ -1,0 +1,64 @@
+{
+  "id": "SLES_544.78",
+  "cover": {
+    "path": "PS2/SLES_544.78/SLES_544.78_COV.png",
+    "kind": "cover",
+    "bytes": 109374,
+    "width": 192,
+    "height": 272,
+    "sha256": "c97ef2d563823c3b14ed005b5c2dc3f5b0633fa5370bbeb37b5d9d2b8a3fba30",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54478.jpg"
+    },
+    "gameId": "SLES_544.78"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_544.78/SLES_544.78_BG.png",
+    "kind": "background",
+    "bytes": 210620,
+    "width": 640,
+    "height": 480,
+    "sha256": "60b2ac18973a7469a80a267f2435ab47e1411cf0e2228965dcf4fba3a837887c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.78/SLES_544.78_BG_00.png"
+    },
+    "gameId": "SLES_544.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.78/SLES_544.78_BG.png",
+      "kind": "background",
+      "bytes": 210620,
+      "width": 640,
+      "height": 480,
+      "sha256": "60b2ac18973a7469a80a267f2435ab47e1411cf0e2228965dcf4fba3a837887c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.78/SLES_544.78_BG_00.png"
+      },
+      "gameId": "SLES_544.78"
+    },
+    {
+      "path": "PS2/SLES_544.78/SLES_544.78_BG_01.png",
+      "kind": "background",
+      "bytes": 159397,
+      "width": 640,
+      "height": 480,
+      "sha256": "fe9983100e9950b43675b1feeac2a5fecc25145ba1e7c3d963e57289efcc35e5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.78/SLES_544.78_BG_01.png"
+      },
+      "gameId": "SLES_544.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TMNT"
+}

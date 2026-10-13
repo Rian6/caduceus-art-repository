@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.96",
+  "cover": {
+    "path": "PS2/SLKA_253.96/SLKA_253.96_COV.png",
+    "kind": "cover",
+    "bytes": 87828,
+    "width": 192,
+    "height": 272,
+    "sha256": "437dd2859e882a1771e6d56a0c8d3dcee282e86668f5656424cc9f51644d3789",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25396.jpg"
+    },
+    "gameId": "SLKA_253.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA 07"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SLES_552.04",
+  "cover": {
+    "path": "PS2/SLES_552.04/SLES_552.04_COV.png",
+    "kind": "cover",
+    "bytes": 101645,
+    "width": 192,
+    "height": 272,
+    "sha256": "eb4c2ecb4050d2fbb17e14742850509760c7cd4c222000c76ce94d0ce243af05",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55204.jpg"
+    },
+    "gameId": "SLES_552.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_552.04/SLES_552.04_BG.png",
+    "kind": "background",
+    "bytes": 93687,
+    "width": 640,
+    "height": 480,
+    "sha256": "6196022611804600c086bf87c3f8a0df6c4bdde7c6d660e39bdf24d2f796df43",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_552.04/SLES_552.04_BG_00.png"
+    },
+    "gameId": "SLES_552.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_552.04/SLES_552.04_BG.png",
+      "kind": "background",
+      "bytes": 93687,
+      "width": 640,
+      "height": 480,
+      "sha256": "6196022611804600c086bf87c3f8a0df6c4bdde7c6d660e39bdf24d2f796df43",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.04/SLES_552.04_BG_00.png"
+      },
+      "gameId": "SLES_552.04"
+    },
+    {
+      "path": "PS2/SLES_552.04/SLES_552.04_BG_01.png",
+      "kind": "background",
+      "bytes": 181774,
+      "width": 640,
+      "height": 480,
+      "sha256": "458999bc0301f0c4d6dff0784d71eaec900e776a93a787a8054458e05cc74cb6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.04/SLES_552.04_BG_01.png"
+      },
+      "gameId": "SLES_552.04"
+    },
+    {
+      "path": "PS2/SLES_552.04/SLES_552.04_BG_02.png",
+      "kind": "background",
+      "bytes": 151429,
+      "width": 640,
+      "height": 480,
+      "sha256": "a013b1cc4deb8b70e74bfecbbd2242295b1a6b213d6da25ebd9e8175786fb29b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.04/SLES_552.04_BG_02.png"
+      },
+      "gameId": "SLES_552.04"
+    },
+    {
+      "path": "PS2/SLES_552.04/SLES_552.04_BG_03.png",
+      "kind": "background",
+      "bytes": 169400,
+      "width": 640,
+      "height": 480,
+      "sha256": "fb85d8e412e47f8014006ed3c6716d585bd2120d6a3da7fa19f39a3707c221a0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.04/SLES_552.04_BG_03.png"
+      },
+      "gameId": "SLES_552.04"
+    },
+    {
+      "path": "PS2/SLES_552.04/SLES_552.04_BG_04.png",
+      "kind": "background",
+      "bytes": 171082,
+      "width": 640,
+      "height": 480,
+      "sha256": "62a251b5a8686b5709681c00047c042e8c79f94caafa34fa8a2cc5fec2ef77f2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.04/SLES_552.04_BG_04.png"
+      },
+      "gameId": "SLES_552.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Crash: Mind over Mutant"
+}

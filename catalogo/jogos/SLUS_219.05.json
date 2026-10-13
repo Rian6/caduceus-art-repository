@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_219.05",
+  "cover": {
+    "path": "PS2/SLUS_219.05/SLUS_219.05_COV.png",
+    "kind": "cover",
+    "bytes": 112729,
+    "width": 192,
+    "height": 272,
+    "sha256": "fa52a86e42411c0c9563674531e89b21051d3c6755107790e0ac291f790830b7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21905.jpg"
+    },
+    "gameId": "SLUS_219.05"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.05/SLUS_219.05_ICO.png",
+    "kind": "disc",
+    "bytes": 26200,
+    "width": 256,
+    "height": 256,
+    "sha256": "13238b65cb5ccb47a934ff348097e96bc0e641f7f12749d641ac214b6ede2fc8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_219.05_ICO.png"
+    },
+    "gameId": "SLUS_219.05"
+  },
+  "background": {
+    "path": "PS2/SLUS_219.05/SLUS_219.05_BG.png",
+    "kind": "background",
+    "bytes": 186652,
+    "width": 640,
+    "height": 480,
+    "sha256": "9445a8f3cc8975b67554b0ee70ae13dcbd16197c2602f31b3baaaf0db8f5aafd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_219.05/SLUS_219.05_BG_00.png"
+    },
+    "gameId": "SLUS_219.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_219.05/SLUS_219.05_BG.png",
+      "kind": "background",
+      "bytes": 186652,
+      "width": 640,
+      "height": 480,
+      "sha256": "9445a8f3cc8975b67554b0ee70ae13dcbd16197c2602f31b3baaaf0db8f5aafd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.05/SLUS_219.05_BG_00.png"
+      },
+      "gameId": "SLUS_219.05"
+    },
+    {
+      "path": "PS2/SLUS_219.05/SLUS_219.05_BG_01.png",
+      "kind": "background",
+      "bytes": 153339,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9c0d1b95ab599f7b209bebe8efe88e1b97739a62b271a4b9f61aca3011012c0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.05/SLUS_219.05_BG_01.png"
+      },
+      "gameId": "SLUS_219.05"
+    },
+    {
+      "path": "PS2/SLUS_219.05/SLUS_219.05_BG_02.png",
+      "kind": "background",
+      "bytes": 165059,
+      "width": 640,
+      "height": 480,
+      "sha256": "8eba97a67b6efe9e3bb376aed1f47f949bb6efb179cee7ad40e262e771fd5a5e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.05/SLUS_219.05_BG_02.png"
+      },
+      "gameId": "SLUS_219.05"
+    },
+    {
+      "path": "PS2/SLUS_219.05/SLUS_219.05_BG_03.png",
+      "kind": "background",
+      "bytes": 188770,
+      "width": 640,
+      "height": 480,
+      "sha256": "a690d9542cc73cf3988d64a9198737d68e6a6ad7ec5073f63269d18193120c3e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.05/SLUS_219.05_BG_03.png"
+      },
+      "gameId": "SLUS_219.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA Soccer 10"
+}

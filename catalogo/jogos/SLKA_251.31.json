@@ -1,0 +1,116 @@
+{
+  "id": "SLKA_251.31",
+  "cover": {
+    "path": "PS2/SLKA_251.31/SLKA_251.31_COV.png",
+    "kind": "cover",
+    "bytes": 98770,
+    "width": 192,
+    "height": 272,
+    "sha256": "6d82e2b835a30548a8abfd039ac03c22a013f5aefe05570ccc9b4d135fd26ad8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25131.jpg"
+    },
+    "gameId": "SLKA_251.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_251.31/SLKA_251.31_BG.png",
+    "kind": "background",
+    "bytes": 184725,
+    "width": 640,
+    "height": 480,
+    "sha256": "bb68ba75f5dea68bd7b731369bb7c4cc7a6f9b6f80434b440ee50d66da459d03",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.31/SLKA_251.31_BG_00.png"
+    },
+    "gameId": "SLKA_251.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_251.31/SLKA_251.31_BG.png",
+      "kind": "background",
+      "bytes": 184725,
+      "width": 640,
+      "height": 480,
+      "sha256": "bb68ba75f5dea68bd7b731369bb7c4cc7a6f9b6f80434b440ee50d66da459d03",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.31/SLKA_251.31_BG_00.png"
+      },
+      "gameId": "SLKA_251.31"
+    },
+    {
+      "path": "PS2/SLKA_251.31/SLKA_251.31_BG_01.png",
+      "kind": "background",
+      "bytes": 217511,
+      "width": 640,
+      "height": 480,
+      "sha256": "4a06453af8f5a56fe6d3604e93c3cc72105dfda39d82eb73c7150fdc7b7c4072",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.31/SLKA_251.31_BG_01.png"
+      },
+      "gameId": "SLKA_251.31"
+    },
+    {
+      "path": "PS2/SLKA_251.31/SLKA_251.31_BG_02.png",
+      "kind": "background",
+      "bytes": 180711,
+      "width": 640,
+      "height": 480,
+      "sha256": "8421d4aef7dde50d03af2160fe19a541b1c3a494c1092f6bc517c7791f67caa9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.31/SLKA_251.31_BG_02.png"
+      },
+      "gameId": "SLKA_251.31"
+    },
+    {
+      "path": "PS2/SLKA_251.31/SLKA_251.31_BG_03.png",
+      "kind": "background",
+      "bytes": 193048,
+      "width": 640,
+      "height": 480,
+      "sha256": "90b4956c5dac18396aae1ef26b8145586e563630678f5414a09908b0d19c640b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.31/SLKA_251.31_BG_03.png"
+      },
+      "gameId": "SLKA_251.31"
+    },
+    {
+      "path": "PS2/SLKA_251.31/SLKA_251.31_BG_04.png",
+      "kind": "background",
+      "bytes": 178237,
+      "width": 640,
+      "height": 480,
+      "sha256": "9141b91557c405612b09a78802de370634e82b9fc4895cca7a2f15f2ef653d4f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.31/SLKA_251.31_BG_04.png"
+      },
+      "gameId": "SLKA_251.31"
+    },
+    {
+      "path": "PS2/SLKA_251.31/SLKA_251.31_BG_05.png",
+      "kind": "background",
+      "bytes": 183888,
+      "width": 640,
+      "height": 480,
+      "sha256": "416c082d7367c742f4ed24a7a1097495d35c8662c1df01ab182606da5b47538a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.31/SLKA_251.31_BG_05.png"
+      },
+      "gameId": "SLKA_251.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Juuouki: Project Altered Beast"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.64",
+  "cover": {
+    "path": "PS2/SLPS_254.64/SLPS_254.64_COV.png",
+    "kind": "cover",
+    "bytes": 96142,
+    "width": 192,
+    "height": 272,
+    "sha256": "c0677ea5aad8ab85ab9ff8c15c0862f7bfdc4bc13a3ba71b8ecd60848d8a743d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25464.jpg"
+    },
+    "gameId": "SLPS_254.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Daisenryaku VII - Exceed"
+}

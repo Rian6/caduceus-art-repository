@@ -1,0 +1,64 @@
+{
+  "id": "SCES_530.54",
+  "cover": {
+    "path": "PS2/SCES_530.54/SCES_530.54_COV.png",
+    "kind": "cover",
+    "bytes": 104616,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf1a6429bf8f9c3eea68e11129355f4011b0b9d80fbdbf4cce2a2a6be9ab1612",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53054.jpg"
+    },
+    "gameId": "SCES_530.54"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_530.54/SCES_530.54_BG.png",
+    "kind": "background",
+    "bytes": 170065,
+    "width": 640,
+    "height": 480,
+    "sha256": "f90e1281909c58d76c7b5f86f7ef7f0cae961047d83a632104be922f08b9da9a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_530.54/SCES_530.54_BG_00.png"
+    },
+    "gameId": "SCES_530.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_530.54/SCES_530.54_BG.png",
+      "kind": "background",
+      "bytes": 170065,
+      "width": 640,
+      "height": 480,
+      "sha256": "f90e1281909c58d76c7b5f86f7ef7f0cae961047d83a632104be922f08b9da9a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_530.54/SCES_530.54_BG_00.png"
+      },
+      "gameId": "SCES_530.54"
+    },
+    {
+      "path": "PS2/SCES_530.54/SCES_530.54_BG_01.png",
+      "kind": "background",
+      "bytes": 110899,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c997ebfae588607bf3e74028d64dc4c9d19e70fef82c1683e09dfaa0eca0396",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_530.54/SCES_530.54_BG_01.png"
+      },
+      "gameId": "SCES_530.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tekken's Nina Williams in: Death by Degrees"
+}

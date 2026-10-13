@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.71",
+  "cover": {
+    "path": "PS2/SLES_510.71/SLES_510.71_COV.png",
+    "kind": "cover",
+    "bytes": 58394,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0ab8d9a16aa7e46a89230af06a6a8d406c61c66b29650da8728024a145bc76d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51071.jpg"
+    },
+    "gameId": "SLES_510.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RTX - RED ROCK"
+}

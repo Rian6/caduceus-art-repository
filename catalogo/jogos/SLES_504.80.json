@@ -1,0 +1,103 @@
+{
+  "id": "SLES_504.80",
+  "cover": {
+    "path": "PS2/SLES_504.80/SLES_504.80_COV.png",
+    "kind": "cover",
+    "bytes": 107794,
+    "width": 192,
+    "height": 272,
+    "sha256": "c1eb13523c0e319a5f09ef7cf93213dd7652897e0f8fcca8269dfc916722c3bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50480.jpg"
+    },
+    "gameId": "SLES_504.80"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_504.80/SLES_504.80_BG.png",
+    "kind": "background",
+    "bytes": 229487,
+    "width": 640,
+    "height": 480,
+    "sha256": "78fa59a4ffb24497ea13fea56a127c58f8a6dd46d8936dc78c1c2703cf969f9c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_504.80/SLES_504.80_BG_00.png"
+    },
+    "gameId": "SLES_504.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_504.80/SLES_504.80_BG.png",
+      "kind": "background",
+      "bytes": 229487,
+      "width": 640,
+      "height": 480,
+      "sha256": "78fa59a4ffb24497ea13fea56a127c58f8a6dd46d8936dc78c1c2703cf969f9c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.80/SLES_504.80_BG_00.png"
+      },
+      "gameId": "SLES_504.80"
+    },
+    {
+      "path": "PS2/SLES_504.80/SLES_504.80_BG_01.png",
+      "kind": "background",
+      "bytes": 221558,
+      "width": 640,
+      "height": 480,
+      "sha256": "2729f8c4175807cc5be4bbfad6edfa3ce7dcb7d272d9b2c24cca358391b91b8b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.80/SLES_504.80_BG_01.png"
+      },
+      "gameId": "SLES_504.80"
+    },
+    {
+      "path": "PS2/SLES_504.80/SLES_504.80_BG_02.png",
+      "kind": "background",
+      "bytes": 235535,
+      "width": 640,
+      "height": 480,
+      "sha256": "0003c223d34aa44fca38fa9bc3f3b38478c26d5839c369e8a578b7efa6a758cc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.80/SLES_504.80_BG_02.png"
+      },
+      "gameId": "SLES_504.80"
+    },
+    {
+      "path": "PS2/SLES_504.80/SLES_504.80_BG_03.png",
+      "kind": "background",
+      "bytes": 205079,
+      "width": 640,
+      "height": 480,
+      "sha256": "dca87dfae4decdb506634dca71dbb845d300fa21f0c3957143dcc168308e8c23",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.80/SLES_504.80_BG_03.png"
+      },
+      "gameId": "SLES_504.80"
+    },
+    {
+      "path": "PS2/SLES_504.80/SLES_504.80_BG_04.png",
+      "kind": "background",
+      "bytes": 135731,
+      "width": 640,
+      "height": 480,
+      "sha256": "05399c0a466d32087294d3bae9254efea0750bcb343bcfd22803fe2d9b329c07",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.80/SLES_504.80_BG_04.png"
+      },
+      "gameId": "SLES_504.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Aggressive Inline"
+}

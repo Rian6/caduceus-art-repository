@@ -1,0 +1,64 @@
+{
+  "id": "SLES_518.52",
+  "cover": {
+    "path": "PS2/SLES_518.52/SLES_518.52_COV.png",
+    "kind": "cover",
+    "bytes": 104638,
+    "width": 192,
+    "height": 272,
+    "sha256": "337f884f456bbb7c563b48fdd040d49033f6a92c042b7152316abeb1e31dd98f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51852.jpg"
+    },
+    "gameId": "SLES_518.52"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_518.52/SLES_518.52_BG.png",
+    "kind": "background",
+    "bytes": 190869,
+    "width": 640,
+    "height": 480,
+    "sha256": "ac89979291b0203a73a4083c064cc7e2471189792ab87e264f70bf96c283cc66",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.52/SLES_518.52_BG_00.png"
+    },
+    "gameId": "SLES_518.52"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.52/SLES_518.52_BG.png",
+      "kind": "background",
+      "bytes": 190869,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac89979291b0203a73a4083c064cc7e2471189792ab87e264f70bf96c283cc66",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.52/SLES_518.52_BG_00.png"
+      },
+      "gameId": "SLES_518.52"
+    },
+    {
+      "path": "PS2/SLES_518.52/SLES_518.52_BG_01.png",
+      "kind": "background",
+      "bytes": 187172,
+      "width": 640,
+      "height": 480,
+      "sha256": "5af43312ea3dfdccc57152de19fd2bf67abc313f7bad296326ac78ada17b62fd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.52/SLES_518.52_BG_01.png"
+      },
+      "gameId": "SLES_518.52"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TONY HAWK'S UNDERGROUND"
+}

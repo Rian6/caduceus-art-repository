@@ -1,0 +1,64 @@
+{
+  "id": "SLES_518.31",
+  "cover": {
+    "path": "PS2/SLES_518.31/SLES_518.31_COV.png",
+    "kind": "cover",
+    "bytes": 94084,
+    "width": 192,
+    "height": 272,
+    "sha256": "3240dbf95a063d3c4b2355f8a227f4b096fc8f5b57cca17664be36f02c4a050d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51831.jpg"
+    },
+    "gameId": "SLES_518.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_518.31/SLES_518.31_BG.png",
+    "kind": "background",
+    "bytes": 181490,
+    "width": 640,
+    "height": 480,
+    "sha256": "4993e2c6b1a40783dc3271eba03918d2e852396877ca914a906471e230d6464e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.31/SLES_518.31_BG_00.png"
+    },
+    "gameId": "SLES_518.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.31/SLES_518.31_BG.png",
+      "kind": "background",
+      "bytes": 181490,
+      "width": 640,
+      "height": 480,
+      "sha256": "4993e2c6b1a40783dc3271eba03918d2e852396877ca914a906471e230d6464e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.31/SLES_518.31_BG_00.png"
+      },
+      "gameId": "SLES_518.31"
+    },
+    {
+      "path": "PS2/SLES_518.31/SLES_518.31_BG_01.png",
+      "kind": "background",
+      "bytes": 215762,
+      "width": 640,
+      "height": 480,
+      "sha256": "30167f0f17baf24ba12481e2612207f777afde121d48ce837258baa9e4164ede",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.31/SLES_518.31_BG_01.png"
+      },
+      "gameId": "SLES_518.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPHINX AND THE CURSED MUMMY"
+}

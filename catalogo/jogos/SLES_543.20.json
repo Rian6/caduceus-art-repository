@@ -1,0 +1,25 @@
+{
+  "id": "SLES_543.20",
+  "cover": {
+    "path": "PS2/SLES_543.20/SLES_543.20_COV.png",
+    "kind": "cover",
+    "bytes": 82929,
+    "width": 192,
+    "height": 272,
+    "sha256": "93f3342ccaf03613d55e20146caa36010d002fc1133cf92a5da9838503d269aa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54320.jpg"
+    },
+    "gameId": "SLES_543.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Championship Manager 2007"
+}

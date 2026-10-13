@@ -1,0 +1,51 @@
+{
+  "id": "SLES_507.89",
+  "cover": {
+    "path": "PS2/SLES_507.89/SLES_507.89_COV.png",
+    "kind": "cover",
+    "bytes": 51238,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1d608e407b466eeccc9fbcf3061bc19a9aaf7abeb26bf6d453e853051ab4462",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50789.jpg"
+    },
+    "gameId": "SLES_507.89"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_507.89/SLES_507.89_BG.png",
+    "kind": "background",
+    "bytes": 146521,
+    "width": 640,
+    "height": 480,
+    "sha256": "f740cadd318df2192c4828c2c96bbaec22b3168b25da19067c55aa8b56af6c36",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.89/SLES_507.89_BG_00.png"
+    },
+    "gameId": "SLES_507.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_507.89/SLES_507.89_BG.png",
+      "kind": "background",
+      "bytes": 146521,
+      "width": 640,
+      "height": 480,
+      "sha256": "f740cadd318df2192c4828c2c96bbaec22b3168b25da19067c55aa8b56af6c36",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.89/SLES_507.89_BG_00.png"
+      },
+      "gameId": "SLES_507.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEN IN BLACK II - ALIEN ESCAPE"
+}

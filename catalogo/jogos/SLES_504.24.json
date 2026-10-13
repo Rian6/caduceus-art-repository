@@ -1,0 +1,39 @@
+{
+  "id": "SLES_504.24",
+  "cover": {
+    "path": "PS2/SLES_504.24/SLES_504.24_COV.png",
+    "kind": "cover",
+    "bytes": 84647,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f514be5abc1c58113799fd8513c0c4a92ae9f1a5848a4ebcefd62c1595749e7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50424.jpg"
+    },
+    "gameId": "SLES_504.24"
+  },
+  "disc": {
+    "path": "PS2/SLES_504.24/SLES_504.24_ICO.png",
+    "kind": "disc",
+    "bytes": 9943,
+    "width": 128,
+    "height": 128,
+    "sha256": "c5878de7dee157806fe670a4a880ddaff4aac0fab6541907d6ae5932382652ef",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_504.24_ICO.png"
+    },
+    "gameId": "SLES_504.24"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cricket 2002"
+}

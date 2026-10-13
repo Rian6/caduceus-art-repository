@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_203.00",
+  "cover": {
+    "path": "PS2/SLUS_203.00/SLUS_203.00_COV.png",
+    "kind": "cover",
+    "bytes": 107965,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e1326b618d055debbf24ce5473fe8bfb516a851a0db250ea3e47433a0caf5cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20300.jpg"
+    },
+    "gameId": "SLUS_203.00"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.00/SLUS_203.00_ICO.png",
+    "kind": "disc",
+    "bytes": 34146,
+    "width": 256,
+    "height": 256,
+    "sha256": "df2c59e82de51398f63db3b3494d83abfe431c52855ffdb1b8696100ee8fdeba",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.00_ICO.png"
+    },
+    "gameId": "SLUS_203.00"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.00/SLUS_203.00_BG.png",
+    "kind": "background",
+    "bytes": 151080,
+    "width": 640,
+    "height": 480,
+    "sha256": "a5e259e83971009558ae2961677853fc9beeb3b48dd112e16981b93a21485f8a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.00/SLUS_203.00_BG_00.png"
+    },
+    "gameId": "SLUS_203.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.00/SLUS_203.00_BG.png",
+      "kind": "background",
+      "bytes": 151080,
+      "width": 640,
+      "height": 480,
+      "sha256": "a5e259e83971009558ae2961677853fc9beeb3b48dd112e16981b93a21485f8a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.00/SLUS_203.00_BG_00.png"
+      },
+      "gameId": "SLUS_203.00"
+    },
+    {
+      "path": "PS2/SLUS_203.00/SLUS_203.00_BG_01.png",
+      "kind": "background",
+      "bytes": 199722,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9b9ea6946cfbcdc97e1802b0f2acee9bf52fc2f35c9107bf8efcd1bf177e143",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.00/SLUS_203.00_BG_01.png"
+      },
+      "gameId": "SLUS_203.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dark Summit"
+}

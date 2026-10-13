@@ -1,0 +1,39 @@
+{
+  "id": "SLES_549.29",
+  "cover": {
+    "path": "PS2/SLES_549.29/SLES_549.29_COV.png",
+    "kind": "cover",
+    "bytes": 92535,
+    "width": 192,
+    "height": 272,
+    "sha256": "b03338790fb0f1fdc4b01c5f65943d6324b0cea186755d5a6b4f6ef29ec7206e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54929.jpg"
+    },
+    "gameId": "SLES_549.29"
+  },
+  "disc": {
+    "path": "PS2/SLES_549.29/SLES_549.29_ICO.png",
+    "kind": "disc",
+    "bytes": 11303,
+    "width": 128,
+    "height": 128,
+    "sha256": "cf3a05f606d2c43a6d95439588c417d66335ca86107bf7899606e9abcd4d1348",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_549.29_ICO.png"
+    },
+    "gameId": "SLES_549.29"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RealPlay Racing"
+}

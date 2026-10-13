@@ -1,0 +1,25 @@
+{
+  "id": "SLES_507.13",
+  "cover": {
+    "path": "PS2/SLES_507.13/SLES_507.13_COV.png",
+    "kind": "cover",
+    "bytes": 102106,
+    "width": 192,
+    "height": 272,
+    "sha256": "df836f58c9c0f33576bc325bbce5ac842e7101fc5ddc5978e995a810c2572de2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50713.jpg"
+    },
+    "gameId": "SLES_507.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Freaky Flyers"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_549.39",
+  "cover": {
+    "path": "PS2/SLES_549.39/SLES_549.39_COV.png",
+    "kind": "cover",
+    "bytes": 84716,
+    "width": 192,
+    "height": 272,
+    "sha256": "c7a3433d74d221b0919b926d3545afa88294a074238c9c5123497c3efd324213",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54939.jpg"
+    },
+    "gameId": "SLES_549.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RTL Winter Games 2008 - The Ultimate Challenge"
+}

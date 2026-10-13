@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_206.94",
+  "cover": {
+    "path": "PS2/SLUS_206.94/SLUS_206.94_COV.png",
+    "kind": "cover",
+    "bytes": 106424,
+    "width": 192,
+    "height": 272,
+    "sha256": "47f29078e0f310ab507788d5d7aa6573b482f9a92f364f3b2268593eeb0cca73",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20694.jpg"
+    },
+    "gameId": "SLUS_206.94"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.94/SLUS_206.94_ICO.png",
+    "kind": "disc",
+    "bytes": 33891,
+    "width": 256,
+    "height": 256,
+    "sha256": "e793b9373d916383666d28918de5c5f4893e3876b3a19cfacb37c06d348fe518",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.94_ICO.png"
+    },
+    "gameId": "SLUS_206.94"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.94/SLUS_206.94_BG.png",
+    "kind": "background",
+    "bytes": 180810,
+    "width": 640,
+    "height": 480,
+    "sha256": "b6f5118dc30b44aec3c8fbefc3ed699087e985cde35e3cd8181306ecf5df395c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.94/SLUS_206.94_BG_00.png"
+    },
+    "gameId": "SLUS_206.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.94/SLUS_206.94_BG.png",
+      "kind": "background",
+      "bytes": 180810,
+      "width": 640,
+      "height": 480,
+      "sha256": "b6f5118dc30b44aec3c8fbefc3ed699087e985cde35e3cd8181306ecf5df395c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.94/SLUS_206.94_BG_00.png"
+      },
+      "gameId": "SLUS_206.94"
+    },
+    {
+      "path": "PS2/SLUS_206.94/SLUS_206.94_BG_01.png",
+      "kind": "background",
+      "bytes": 165776,
+      "width": 640,
+      "height": 480,
+      "sha256": "5177ccccc5c14c74f498621906f5faaf7b8ea6f62422ccc3ffd801b0d7c044e5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.94/SLUS_206.94_BG_01.png"
+      },
+      "gameId": "SLUS_206.94"
+    },
+    {
+      "path": "PS2/SLUS_206.94/SLUS_206.94_BG_02.png",
+      "kind": "background",
+      "bytes": 199854,
+      "width": 640,
+      "height": 480,
+      "sha256": "2ce126f81767db85cb95bd6e0a420215f2c192495f428c5ff1e7b96f9f2418b4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.94/SLUS_206.94_BG_02.png"
+      },
+      "gameId": "SLUS_206.94"
+    },
+    {
+      "path": "PS2/SLUS_206.94/SLUS_206.94_BG_03.png",
+      "kind": "background",
+      "bytes": 185063,
+      "width": 640,
+      "height": 480,
+      "sha256": "20e2eb3b572ad956ea593932e87da00d4447651b7dc897ac34d628a295f4cdf5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.94/SLUS_206.94_BG_03.png"
+      },
+      "gameId": "SLUS_206.94"
+    },
+    {
+      "path": "PS2/SLUS_206.94/SLUS_206.94_BG_04.png",
+      "kind": "background",
+      "bytes": 117346,
+      "width": 640,
+      "height": 480,
+      "sha256": "5bfef00dc7d4be6634d9fc7202f2d6df7e22e7693c094af9121d896937f760f3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.94/SLUS_206.94_BG_04.png"
+      },
+      "gameId": "SLUS_206.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONIMUSHA 3 - DEMON SIEGE"
+}

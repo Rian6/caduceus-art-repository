@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.42",
+  "cover": {
+    "path": "PS2/SLPS_257.42/SLPS_257.42_COV.png",
+    "kind": "cover",
+    "bytes": 111348,
+    "width": 192,
+    "height": 272,
+    "sha256": "d59c4d3a7de30139c91632de110f0bd0086f38511d8a74cd277260b739e25f78",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25742.jpg"
+    },
+    "gameId": "SLPS_257.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Aa Megami-sama (Holy Box)"
+}

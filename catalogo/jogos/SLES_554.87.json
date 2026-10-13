@@ -1,0 +1,90 @@
+{
+  "id": "SLES_554.87",
+  "cover": {
+    "path": "PS2/SLES_554.87/SLES_554.87_COV.png",
+    "kind": "cover",
+    "bytes": 91037,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2910867f28f8624f895b6692ad482c4df6a490f5bc1e90c9c1e2fc51e6dc4a4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55487.jpg"
+    },
+    "gameId": "SLES_554.87"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_554.87/SLES_554.87_BG.png",
+    "kind": "background",
+    "bytes": 150113,
+    "width": 640,
+    "height": 480,
+    "sha256": "2b3f461ccb6e500078bc848079877752e54aeb4ceab1ec7db745f98eb485c55a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_554.87/SLES_554.87_BG_00.png"
+    },
+    "gameId": "SLES_554.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_554.87/SLES_554.87_BG.png",
+      "kind": "background",
+      "bytes": 150113,
+      "width": 640,
+      "height": 480,
+      "sha256": "2b3f461ccb6e500078bc848079877752e54aeb4ceab1ec7db745f98eb485c55a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.87/SLES_554.87_BG_00.png"
+      },
+      "gameId": "SLES_554.87"
+    },
+    {
+      "path": "PS2/SLES_554.87/SLES_554.87_BG_01.png",
+      "kind": "background",
+      "bytes": 104975,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4780613457498457a5163f88a968bb64646c76c0b36a0e9c7b823066df545ea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.87/SLES_554.87_BG_01.png"
+      },
+      "gameId": "SLES_554.87"
+    },
+    {
+      "path": "PS2/SLES_554.87/SLES_554.87_BG_02.png",
+      "kind": "background",
+      "bytes": 202201,
+      "width": 640,
+      "height": 480,
+      "sha256": "f62af94f1ef6f547fcee95dff6008d256f764a70565b137933f52944c26b37c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.87/SLES_554.87_BG_02.png"
+      },
+      "gameId": "SLES_554.87"
+    },
+    {
+      "path": "PS2/SLES_554.87/SLES_554.87_BG_03.png",
+      "kind": "background",
+      "bytes": 202562,
+      "width": 640,
+      "height": 480,
+      "sha256": "954d96c393aa7623b08fcd4241730393dc2eb360ac7cac1fd376674e267c1035",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.87/SLES_554.87_BG_03.png"
+      },
+      "gameId": "SLES_554.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ice Age 3 - Dawn of the Dinosaurs"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_151.17",
+  "cover": {
+    "path": "PS2/SCPS_151.17/SCPS_151.17_COV.png",
+    "kind": "cover",
+    "bytes": 67398,
+    "width": 192,
+    "height": 272,
+    "sha256": "2af40e707f49dc004e8c5aafb300632a8e07aee0ba1c77a7bfad69e5cb0ca87b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15117.jpg"
+    },
+    "gameId": "SCPS_151.17"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_151.17/SCPS_151.17_BG.png",
+    "kind": "background",
+    "bytes": 177810,
+    "width": 640,
+    "height": 480,
+    "sha256": "9745817a3409fd503e49f5904e1641763bb0e255d55a3f53c159165ca1e94c4a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_151.17/SCPS_151.17_BG_00.png"
+    },
+    "gameId": "SCPS_151.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_151.17/SCPS_151.17_BG.png",
+      "kind": "background",
+      "bytes": 177810,
+      "width": 640,
+      "height": 480,
+      "sha256": "9745817a3409fd503e49f5904e1641763bb0e255d55a3f53c159165ca1e94c4a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_151.17/SCPS_151.17_BG_00.png"
+      },
+      "gameId": "SCPS_151.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Formula One '06"
+}

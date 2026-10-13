@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.08",
+  "cover": {
+    "path": "PS2/SLPM_669.08/SLPM_669.08_COV.png",
+    "kind": "cover",
+    "bytes": 106828,
+    "width": 192,
+    "height": 272,
+    "sha256": "c7208c1cedf666ba35376392f590001b9b9c1b569b1a61e8b826c16bd4d2b9f0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66908.jpg"
+    },
+    "gameId": "SLPM_669.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Izumo 2 - Gakuen Kyousoukyoku - Double Tact"
+}

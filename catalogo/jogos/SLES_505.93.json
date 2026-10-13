@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.93",
+  "cover": {
+    "path": "PS2/SLES_505.93/SLES_505.93_COV.png",
+    "kind": "cover",
+    "bytes": 53557,
+    "width": 192,
+    "height": 272,
+    "sha256": "173af063a2212d752495d40b25a1075fd156baa98bce8b5b1335b5a7f0e977f2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_505.93/SLES_505.93_COV.png"
+    },
+    "gameId": "SLES_505.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sunny Garcia Surfing"
+}

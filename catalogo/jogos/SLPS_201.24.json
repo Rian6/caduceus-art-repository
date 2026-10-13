@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.24",
+  "cover": {
+    "path": "PS2/SLPS_201.24/SLPS_201.24_COV.png",
+    "kind": "cover",
+    "bytes": 81485,
+    "width": 192,
+    "height": 272,
+    "sha256": "cbe59ae7103eb2fa329a10902619d099773fcee9d1dbaf69154f4b676fa25368",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20124.jpg"
+    },
+    "gameId": "SLPS_201.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "INITIAL D - TAKAHASHI RYOSUKE NO TYPING SAISOKU RIRON"
+}

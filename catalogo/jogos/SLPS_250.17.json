@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.17",
+  "cover": {
+    "path": "PS2/SLPS_250.17/SLPS_250.17_COV.png",
+    "kind": "cover",
+    "bytes": 55361,
+    "width": 192,
+    "height": 272,
+    "sha256": "6c56c6b61817d37cb59362cb3b608ce28a1cf2636f076ccc694aad6592c23c22",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25017.jpg"
+    },
+    "gameId": "SLPS_250.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "A-Ressha de Ikou 2001"
+}

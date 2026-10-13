@@ -1,0 +1,65 @@
+{
+  "id": "SLPS_255.75",
+  "cover": {
+    "path": "PS2/SLPS_255.75/SLPS_255.75_COV.png",
+    "kind": "cover",
+    "bytes": 100025,
+    "width": 192,
+    "height": 272,
+    "sha256": "43d1b6c4a4b53cbd224b516e8082c706efbda42fc4f42b9fc5a654cccaeb013e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25575.jpg"
+    },
+    "gameId": "SLPS_255.75"
+  },
+  "disc": {
+    "path": "PS2/SLPS_255.75/SLPS_255.75_ICO.png",
+    "kind": "disc",
+    "bytes": 10951,
+    "width": 128,
+    "height": 128,
+    "sha256": "03596e8d50619999c9e5ad483c57dd196b8c0bcc25a11bb5f18a785b0450a399",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_255.75_ICO.png"
+    },
+    "gameId": "SLPS_255.75"
+  },
+  "background": {
+    "path": "PS2/SLPS_255.75/SLPS_255.75_BG.png",
+    "kind": "background",
+    "bytes": 175675,
+    "width": 640,
+    "height": 480,
+    "sha256": "31a5212bc80aa8eb44dfa8cacf5c06e53363aefb622f8419158110aa86d04338",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.75/SLPS_255.75_BG_00.png"
+    },
+    "gameId": "SLPS_255.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.75/SLPS_255.75_BG.png",
+      "kind": "background",
+      "bytes": 175675,
+      "width": 640,
+      "height": 480,
+      "sha256": "31a5212bc80aa8eb44dfa8cacf5c06e53363aefb622f8419158110aa86d04338",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.75/SLPS_255.75_BG_00.png"
+      },
+      "gameId": "SLPS_255.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Keroro Gunsou - Mero Mero Battle Royale Z"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SCES_545.52",
+  "cover": {
+    "path": "PS2/SCES_545.52/SCES_545.52_COV.png",
+    "kind": "cover",
+    "bytes": 112305,
+    "width": 192,
+    "height": 272,
+    "sha256": "f248132bcd1af0b7735c600dfa6af0d35cabb806a60ef25e89c7dcdf0e2e155e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54552.jpg"
+    },
+    "gameId": "SCES_545.52"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_545.52/SCES_545.52_BG.png",
+    "kind": "background",
+    "bytes": 216214,
+    "width": 640,
+    "height": 480,
+    "sha256": "044f07691da303c3e5e9f6c1629b93506183e38ca216727dacee58381e7f0b7e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_545.52/SCES_545.52_BG_00.png"
+    },
+    "gameId": "SCES_545.52"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_545.52/SCES_545.52_BG.png",
+      "kind": "background",
+      "bytes": 216214,
+      "width": 640,
+      "height": 480,
+      "sha256": "044f07691da303c3e5e9f6c1629b93506183e38ca216727dacee58381e7f0b7e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.52/SCES_545.52_BG_00.png"
+      },
+      "gameId": "SCES_545.52"
+    },
+    {
+      "path": "PS2/SCES_545.52/SCES_545.52_BG_01.png",
+      "kind": "background",
+      "bytes": 252665,
+      "width": 640,
+      "height": 480,
+      "sha256": "bdbe5b54987b8e330d7b57cb8fc24b812735de3a7205a73e6ae00435ebcc75e3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.52/SCES_545.52_BG_01.png"
+      },
+      "gameId": "SCES_545.52"
+    },
+    {
+      "path": "PS2/SCES_545.52/SCES_545.52_BG_02.png",
+      "kind": "background",
+      "bytes": 227191,
+      "width": 640,
+      "height": 480,
+      "sha256": "68ea2794c6b04cf4951f1fb5c10b801025dbb95bb61d6816c8c1e8ae8b1dc64d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.52/SCES_545.52_BG_02.png"
+      },
+      "gameId": "SCES_545.52"
+    },
+    {
+      "path": "PS2/SCES_545.52/SCES_545.52_BG_03.png",
+      "kind": "background",
+      "bytes": 177724,
+      "width": 640,
+      "height": 480,
+      "sha256": "165b7fc894f5df3338c7ca17c92067b15baa38de09fac371746211afbe0ea363",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.52/SCES_545.52_BG_03.png"
+      },
+      "gameId": "SCES_545.52"
+    },
+    {
+      "path": "PS2/SCES_545.52/SCES_545.52_BG_04.png",
+      "kind": "background",
+      "bytes": 261543,
+      "width": 640,
+      "height": 480,
+      "sha256": "9194279521cbe27aed9f49978fe993f2ee6aacbdd0bd9bc2c711519f4f0ce11b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.52/SCES_545.52_BG_04.png"
+      },
+      "gameId": "SCES_545.52"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rogue Galaxy"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_509.14",
+  "cover": {
+    "path": "PS2/SLES_509.14/SLES_509.14_COV.png",
+    "kind": "cover",
+    "bytes": 55754,
+    "width": 192,
+    "height": 272,
+    "sha256": "bd344fa6cbfff22593f1f255532508273a6c3b8feb7bcab9b9e7200b5be08d72",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50914.jpg"
+    },
+    "gameId": "SLES_509.14"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_509.14/SLES_509.14_BG.png",
+    "kind": "background",
+    "bytes": 123550,
+    "width": 640,
+    "height": 480,
+    "sha256": "c4172e2a68f3c8cc5c9b46e439e9feebef3e435a5e1330db298a1a7e0816a94a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_509.14/SLES_509.14_BG_00.png"
+    },
+    "gameId": "SLES_509.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_509.14/SLES_509.14_BG.png",
+      "kind": "background",
+      "bytes": 123550,
+      "width": 640,
+      "height": 480,
+      "sha256": "c4172e2a68f3c8cc5c9b46e439e9feebef3e435a5e1330db298a1a7e0816a94a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.14/SLES_509.14_BG_00.png"
+      },
+      "gameId": "SLES_509.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "International Cue Club"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.21",
+  "cover": {
+    "path": "PS2/SLPS_259.21/SLPS_259.21_COV.png",
+    "kind": "cover",
+    "bytes": 111490,
+    "width": 192,
+    "height": 272,
+    "sha256": "67094fbfd23b6ee16c83df6f7175e04ac026b4c4a5c75894d37b4b6dae2f0122",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25921.jpg"
+    },
+    "gameId": "SLPS_259.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rakushou! Pachi-Slot Sengen 6 - Rio 2 Cruising Vanadais"
+}

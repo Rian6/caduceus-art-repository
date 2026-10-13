@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.75",
+  "cover": {
+    "path": "PS2/SLPS_252.75/SLPS_252.75_COV.png",
+    "kind": "cover",
+    "bytes": 83175,
+    "width": 192,
+    "height": 272,
+    "sha256": "b939d3e95a87176cd4ef255edb7fb755bcd59829f8ec883ec9a3cf91fd691ad1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25275.jpg"
+    },
+    "gameId": "SLPS_252.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEF JAM VENDETTA"
+}

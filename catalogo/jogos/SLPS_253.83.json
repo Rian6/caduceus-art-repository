@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_253.83",
+  "cover": {
+    "path": "PS2/SLPS_253.83/SLPS_253.83_COV.png",
+    "kind": "cover",
+    "bytes": 108310,
+    "width": 192,
+    "height": 272,
+    "sha256": "21190cceea2f3de85f823c633df178d5227f6708dff2f703fafea40ce643fbca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25383.jpg"
+    },
+    "gameId": "SLPS_253.83"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_253.83/SLPS_253.83_BG.png",
+    "kind": "background",
+    "bytes": 178279,
+    "width": 640,
+    "height": 480,
+    "sha256": "45b591aeb613a4ee75e0a3b5d3bb9e2572baa6deef89d9ab8cc5aa475dd76c5d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.83/SLPS_253.83_BG_00.png"
+    },
+    "gameId": "SLPS_253.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.83/SLPS_253.83_BG.png",
+      "kind": "background",
+      "bytes": 178279,
+      "width": 640,
+      "height": 480,
+      "sha256": "45b591aeb613a4ee75e0a3b5d3bb9e2572baa6deef89d9ab8cc5aa475dd76c5d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.83/SLPS_253.83_BG_00.png"
+      },
+      "gameId": "SLPS_253.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DIGIMON BATTLE CHRONICLE"
+}

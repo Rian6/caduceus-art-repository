@@ -1,0 +1,90 @@
+{
+  "id": "SLES_522.78",
+  "cover": {
+    "path": "PS2/SLES_522.78/SLES_522.78_COV.png",
+    "kind": "cover",
+    "bytes": 47235,
+    "width": 192,
+    "height": 272,
+    "sha256": "4951fa2811394544cf5cf4ea95ad9c2c58cfc687245d62cfc67438f72215f1a1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52278.jpg"
+    },
+    "gameId": "SLES_522.78"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_522.78/SLES_522.78_BG.png",
+    "kind": "background",
+    "bytes": 176716,
+    "width": 640,
+    "height": 480,
+    "sha256": "61f762f0bfb3d3ecb773e54dd71698bdf38db8d7e50f980d469368b9d3a8e9f5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_522.78/SLES_522.78_BG_00.png"
+    },
+    "gameId": "SLES_522.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_522.78/SLES_522.78_BG.png",
+      "kind": "background",
+      "bytes": 176716,
+      "width": 640,
+      "height": 480,
+      "sha256": "61f762f0bfb3d3ecb773e54dd71698bdf38db8d7e50f980d469368b9d3a8e9f5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.78/SLES_522.78_BG_00.png"
+      },
+      "gameId": "SLES_522.78"
+    },
+    {
+      "path": "PS2/SLES_522.78/SLES_522.78_BG_01.png",
+      "kind": "background",
+      "bytes": 69190,
+      "width": 640,
+      "height": 480,
+      "sha256": "59bdaf3f01c7f093023236d24780d8ae98aeb0bba17670e282ef500fb5b67fbf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.78/SLES_522.78_BG_01.png"
+      },
+      "gameId": "SLES_522.78"
+    },
+    {
+      "path": "PS2/SLES_522.78/SLES_522.78_BG_02.png",
+      "kind": "background",
+      "bytes": 84865,
+      "width": 640,
+      "height": 480,
+      "sha256": "6cb4a838bfc92302160a8140bbd8582bf2bc1c3f2959d9dc796d70ed1218cfbb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.78/SLES_522.78_BG_02.png"
+      },
+      "gameId": "SLES_522.78"
+    },
+    {
+      "path": "PS2/SLES_522.78/SLES_522.78_BG_03.png",
+      "kind": "background",
+      "bytes": 82897,
+      "width": 640,
+      "height": 480,
+      "sha256": "9fe9b631b163a691ff150319910df4f15b6e1a4c8a7366d21942374ab5538248",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.78/SLES_522.78_BG_03.png"
+      },
+      "gameId": "SLES_522.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mafia"
+}

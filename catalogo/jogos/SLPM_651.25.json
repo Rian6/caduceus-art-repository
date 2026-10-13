@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.25",
+  "cover": {
+    "path": "PS2/SLPM_651.25/SLPM_651.25_COV.png",
+    "kind": "cover",
+    "bytes": 91790,
+    "width": 192,
+    "height": 272,
+    "sha256": "cde5d53a2553bdc8643e4509cb485754824d7e1e5462de3d9f4a9cd140382b7e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65125.jpg"
+    },
+    "gameId": "SLPM_651.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA 2K3"
+}

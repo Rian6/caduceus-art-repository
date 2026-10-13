@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.20",
+  "cover": {
+    "path": "PS2/SLPM_658.20/SLPM_658.20_COV.png",
+    "kind": "cover",
+    "bytes": 102114,
+    "width": 192,
+    "height": 272,
+    "sha256": "be838ef0fb049d2145fd9322ed42486e4132cd8e476a41cf278d1c4a9eeb1d4e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65820.jpg"
+    },
+    "gameId": "SLPM_658.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENNIS NO OJI-SAMA - KISS THE PRINCE FLAME [KONAMI DENDOU COLLECTION]"
+}

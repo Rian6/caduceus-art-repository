@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_217.90",
+  "cover": {
+    "path": "PS2/SLUS_217.90/SLUS_217.90_COV.png",
+    "kind": "cover",
+    "bytes": 114832,
+    "width": 192,
+    "height": 272,
+    "sha256": "8638bc09084e6d5a67417f47d63a48a688ea81b2acf18901cf2ab48505069874",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21790.jpg"
+    },
+    "gameId": "SLUS_217.90"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.90/SLUS_217.90_ICO.png",
+    "kind": "disc",
+    "bytes": 31700,
+    "width": 256,
+    "height": 256,
+    "sha256": "ec06738d335ed031f0bb8235a342a97f3443739babcf48d83b25d208153b64f5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.90_ICO.png"
+    },
+    "gameId": "SLUS_217.90"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.90/SLUS_217.90_BG.png",
+    "kind": "background",
+    "bytes": 194151,
+    "width": 640,
+    "height": 480,
+    "sha256": "7699388d61fc6a2f0823997952425da3d7116aeec934507e0494940ce8e80dfe",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.90/SLUS_217.90_BG_00.png"
+    },
+    "gameId": "SLUS_217.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.90/SLUS_217.90_BG.png",
+      "kind": "background",
+      "bytes": 194151,
+      "width": 640,
+      "height": 480,
+      "sha256": "7699388d61fc6a2f0823997952425da3d7116aeec934507e0494940ce8e80dfe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.90/SLUS_217.90_BG_00.png"
+      },
+      "gameId": "SLUS_217.90"
+    },
+    {
+      "path": "PS2/SLUS_217.90/SLUS_217.90_BG_01.png",
+      "kind": "background",
+      "bytes": 199049,
+      "width": 640,
+      "height": 480,
+      "sha256": "b089931179fa0f9a234058626b4d15af723919091bd59fc9812683ec03f10432",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.90/SLUS_217.90_BG_01.png"
+      },
+      "gameId": "SLUS_217.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dreamworks' Shrek's Carnival Craze"
+}

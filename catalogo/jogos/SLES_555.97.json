@@ -1,0 +1,25 @@
+{
+  "id": "SLES_555.97",
+  "cover": {
+    "path": "PS2/SLES_555.97/SLES_555.97_COV.png",
+    "kind": "cover",
+    "bytes": 61410,
+    "width": 192,
+    "height": 272,
+    "sha256": "4dd4cc075d815edb08568d0ccb2ad120797bdb5fa88c1fe1da7be54b344d37cc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_555.97/SLES_555.97_COV.png"
+    },
+    "gameId": "SLES_555.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hugo: Magic in the Trollwoods"
+}

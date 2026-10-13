@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.18",
+  "cover": {
+    "path": "PS2/SLPM_659.18/SLPM_659.18_COV.png",
+    "kind": "cover",
+    "bytes": 99287,
+    "width": 192,
+    "height": 272,
+    "sha256": "644241d2352ecde71d6aa520cd6d5c0c2f36cddf1df121dd37f0c32ca71ddb83",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65918.jpg"
+    },
+    "gameId": "SLPM_659.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEAR MY FRIEND - LOVE LIKE POWDERY SNOW"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLES_529.57",
+  "cover": {
+    "path": "PS2/SLES_529.57/SLES_529.57_COV.png",
+    "kind": "cover",
+    "bytes": 79973,
+    "width": 192,
+    "height": 272,
+    "sha256": "c8052d4edef996781754bcbd91dc8cc35ce1382fca3fb0d2e6baaa4096074912",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52957.jpg"
+    },
+    "gameId": "SLES_529.57"
+  },
+  "disc": {
+    "path": "PS2/SLES_529.57/SLES_529.57_ICO.png",
+    "kind": "disc",
+    "bytes": 9972,
+    "width": 128,
+    "height": 128,
+    "sha256": "91de6bdc0b33491b4831b2c7fede07d1614b071cbd65801346861d2c2d3868e5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_529.57_ICO.png"
+    },
+    "gameId": "SLES_529.57"
+  },
+  "background": {
+    "path": "PS2/SLES_529.57/SLES_529.57_BG.png",
+    "kind": "background",
+    "bytes": 190722,
+    "width": 640,
+    "height": 480,
+    "sha256": "22b93b27767a99c2bcbaa07a037739ff6a507365b191f1a4714bcb6c596b56bc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.57/SLES_529.57_BG_00.png"
+    },
+    "gameId": "SLES_529.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.57/SLES_529.57_BG.png",
+      "kind": "background",
+      "bytes": 190722,
+      "width": 640,
+      "height": 480,
+      "sha256": "22b93b27767a99c2bcbaa07a037739ff6a507365b191f1a4714bcb6c596b56bc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.57/SLES_529.57_BG_00.png"
+      },
+      "gameId": "SLES_529.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Urban Extreme"
+}

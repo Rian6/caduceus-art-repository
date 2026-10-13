@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.24",
+  "cover": {
+    "path": "PS2/SLPM_742.24/SLPM_742.24_COV.png",
+    "kind": "cover",
+    "bytes": 84371,
+    "width": 192,
+    "height": 272,
+    "sha256": "2cb65c7b68ac595615db8af15b2310cbee6b473b6ee93be66bfc2a2f707f58ff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74224.jpg"
+    },
+    "gameId": "SLPM_742.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Musou Mushouden (PLaystation 2 The Best)"
+}

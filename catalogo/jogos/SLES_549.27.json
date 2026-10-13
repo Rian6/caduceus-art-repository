@@ -1,0 +1,39 @@
+{
+  "id": "SLES_549.27",
+  "cover": {
+    "path": "PS2/SLES_549.27/SLES_549.27_COV.png",
+    "kind": "cover",
+    "bytes": 92776,
+    "width": 192,
+    "height": 272,
+    "sha256": "3c8daf5402a8c7344d69660a91d8cc4a0b0d618e74c0f2611fa0d82589e96e24",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54927.jpg"
+    },
+    "gameId": "SLES_549.27"
+  },
+  "disc": {
+    "path": "PS2/SLES_549.27/SLES_549.27_ICO.png",
+    "kind": "disc",
+    "bytes": 10032,
+    "width": 128,
+    "height": 128,
+    "sha256": "52aa03bbb2da29917e0179e51c0749017a8212c840407c05dd601bd6265c36d6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_549.27_ICO.png"
+    },
+    "gameId": "SLES_549.27"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RealPlay Golf"
+}

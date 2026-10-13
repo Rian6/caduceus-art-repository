@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_201.21",
+  "cover": {
+    "path": "PS2/SLPS_201.21/SLPS_201.21_COV.png",
+    "kind": "cover",
+    "bytes": 98447,
+    "width": 192,
+    "height": 272,
+    "sha256": "a4c526f204e253829ea4d5572bd461e60c8eb4e995f7ad6e7d8b209480836d63",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20121.jpg"
+    },
+    "gameId": "SLPS_201.21"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_201.21/SLPS_201.21_BG.png",
+    "kind": "background",
+    "bytes": 184155,
+    "width": 640,
+    "height": 480,
+    "sha256": "28947b4a9673feab79ea186f4d6db9e1fc08d6f5ca5ec2dd37d1be9cd7f9c1df",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_201.21/SLPS_201.21_BG_00.png"
+    },
+    "gameId": "SLPS_201.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_201.21/SLPS_201.21_BG.png",
+      "kind": "background",
+      "bytes": 184155,
+      "width": 640,
+      "height": 480,
+      "sha256": "28947b4a9673feab79ea186f4d6db9e1fc08d6f5ca5ec2dd37d1be9cd7f9c1df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.21/SLPS_201.21_BG_00.png"
+      },
+      "gameId": "SLPS_201.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KANON"
+}

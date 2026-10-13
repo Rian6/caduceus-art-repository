@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_214.37",
+  "cover": {
+    "path": "PS2/SLUS_214.37/SLUS_214.37_COV.png",
+    "kind": "cover",
+    "bytes": 83884,
+    "width": 192,
+    "height": 272,
+    "sha256": "cf2bcc685e63865c1bb3fd495262117f084047a2468cbd05f063d38400b87268",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21437.jpg"
+    },
+    "gameId": "SLUS_214.37"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.37/SLUS_214.37_ICO.png",
+    "kind": "disc",
+    "bytes": 25761,
+    "width": 256,
+    "height": 256,
+    "sha256": "4f9045de37390339bee76b725ff05a36fbb0a9f4aa75562a9db33fc8d9270085",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.37_ICO.png"
+    },
+    "gameId": "SLUS_214.37"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.37/SLUS_214.37_BG.png",
+    "kind": "background",
+    "bytes": 147371,
+    "width": 640,
+    "height": 480,
+    "sha256": "889e43266bcf213373898d6ce7615c61138a52e14415e3b863b7f371681c2508",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.37/SLUS_214.37_BG_00.png"
+    },
+    "gameId": "SLUS_214.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.37/SLUS_214.37_BG.png",
+      "kind": "background",
+      "bytes": 147371,
+      "width": 640,
+      "height": 480,
+      "sha256": "889e43266bcf213373898d6ce7615c61138a52e14415e3b863b7f371681c2508",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.37/SLUS_214.37_BG_00.png"
+      },
+      "gameId": "SLUS_214.37"
+    },
+    {
+      "path": "PS2/SLUS_214.37/SLUS_214.37_BG_01.png",
+      "kind": "background",
+      "bytes": 19883,
+      "width": 640,
+      "height": 480,
+      "sha256": "84a73402bd36e4bdd13ad541839320bc365e097636bdab5c84d2a3c2e33f742b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.37/SLUS_214.37_BG_01.png"
+      },
+      "gameId": "SLUS_214.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S KIM POSSIBLE - WHAT'S THE SWITCH?"
+}

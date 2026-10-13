@@ -1,0 +1,25 @@
+{
+  "id": "SRPM_702.01",
+  "cover": {
+    "path": "PS2/SRPM_702.01/SRPM_702.01_COV.png",
+    "kind": "cover",
+    "bytes": 95856,
+    "width": 192,
+    "height": 272,
+    "sha256": "3d33648a78e555a425c60228153e6bbc6f59f238f5491b19285569f836149961",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SRPM-70201.jpg"
+    },
+    "gameId": "SRPM_702.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Space Venus starring Morning Musume"
+}

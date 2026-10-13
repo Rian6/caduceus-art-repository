@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.56",
+  "cover": {
+    "path": "PS2/SLPM_669.56/SLPM_669.56_COV.png",
+    "kind": "cover",
+    "bytes": 102398,
+    "width": 192,
+    "height": 272,
+    "sha256": "e4208f8ca883bbe95af7a7ef7c3683b36660037111eebace0bb0ca5b016c8870",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66956.jpg"
+    },
+    "gameId": "SLPM_669.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NEO ANGELIQUE - FULL VOICE"
+}

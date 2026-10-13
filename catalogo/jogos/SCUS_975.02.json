@@ -1,0 +1,117 @@
+{
+  "id": "SCUS_975.02",
+  "cover": {
+    "path": "PS2/SCUS_975.02/SCUS_975.02_COV.png",
+    "kind": "cover",
+    "bytes": 66032,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b00b3986f7c953660583a3956ce3efbc7c92f4384f416c404d8582aac7f52da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97502.jpg"
+    },
+    "gameId": "SCUS_975.02"
+  },
+  "disc": {
+    "path": "PS2/SCUS_975.02/SCUS_975.02_ICO.png",
+    "kind": "disc",
+    "bytes": 28088,
+    "width": 256,
+    "height": 256,
+    "sha256": "4aea2208f325a86acdebd3e47a9bc8a3c722e67f4e669a78c8c00bf7667dfc5e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_975.02_ICO.png"
+    },
+    "gameId": "SCUS_975.02"
+  },
+  "background": {
+    "path": "PS2/SCUS_975.02/SCUS_975.02_BG.png",
+    "kind": "background",
+    "bytes": 137840,
+    "width": 640,
+    "height": 480,
+    "sha256": "b68a78eaad79f4b998d02d25180418a8d7258abd6b8cda863ac4571e36591cfb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_975.02/SCUS_975.02_BG_00.png"
+    },
+    "gameId": "SCUS_975.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_975.02/SCUS_975.02_BG.png",
+      "kind": "background",
+      "bytes": 137840,
+      "width": 640,
+      "height": 480,
+      "sha256": "b68a78eaad79f4b998d02d25180418a8d7258abd6b8cda863ac4571e36591cfb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_975.02/SCUS_975.02_BG_00.png"
+      },
+      "gameId": "SCUS_975.02"
+    },
+    {
+      "path": "PS2/SCUS_975.02/SCUS_975.02_BG_01.png",
+      "kind": "background",
+      "bytes": 154647,
+      "width": 640,
+      "height": 480,
+      "sha256": "3874e8c032c1d842606d48e045288f9d6055f32ccb3c5d89fbcc7bf9dc2314f4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_975.02/SCUS_975.02_BG_01.png"
+      },
+      "gameId": "SCUS_975.02"
+    },
+    {
+      "path": "PS2/SCUS_975.02/SCUS_975.02_BG_02.png",
+      "kind": "background",
+      "bytes": 153514,
+      "width": 640,
+      "height": 480,
+      "sha256": "f7b299b822ca69a954c39accc28d1de33efaf34f7f5f15d3d904a35eaeb60093",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_975.02/SCUS_975.02_BG_02.png"
+      },
+      "gameId": "SCUS_975.02"
+    },
+    {
+      "path": "PS2/SCUS_975.02/SCUS_975.02_BG_03.png",
+      "kind": "background",
+      "bytes": 144113,
+      "width": 640,
+      "height": 480,
+      "sha256": "927ea191302ea174f33c8c60709807d25cd0acdd4246bce4041930e58d6a668a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_975.02/SCUS_975.02_BG_03.png"
+      },
+      "gameId": "SCUS_975.02"
+    },
+    {
+      "path": "PS2/SCUS_975.02/SCUS_975.02_BG_04.png",
+      "kind": "background",
+      "bytes": 145323,
+      "width": 640,
+      "height": 480,
+      "sha256": "0c7333dba965c2ec3f6180a9745b9ebea539e60c0fec204272e4f078632b34ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_975.02/SCUS_975.02_BG_04.png"
+      },
+      "gameId": "SCUS_975.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tourist Trophy"
+}

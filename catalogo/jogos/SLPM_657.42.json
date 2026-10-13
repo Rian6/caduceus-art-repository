@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.42",
+  "cover": {
+    "path": "PS2/SLPM_657.42/SLPM_657.42_COV.png",
+    "kind": "cover",
+    "bytes": 70450,
+    "width": 192,
+    "height": 272,
+    "sha256": "18643317da316685006754ebe212a7d79837c71db02112d6910ddbe388d0a8f7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65742.jpg"
+    },
+    "gameId": "SLPM_657.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "COOL GIRL [KONAMI THE BEST] [2 DISCS]"
+}

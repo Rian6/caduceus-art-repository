@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.74",
+  "cover": {
+    "path": "PS2/SLKA_253.74/SLKA_253.74_COV.png",
+    "kind": "cover",
+    "bytes": 91932,
+    "width": 192,
+    "height": 272,
+    "sha256": "cdf241f06d56328c0561c445f3351ff43b1c14f43e9c2abd6b7aae5db242750b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25374.jpg"
+    },
+    "gameId": "SLKA_253.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA Street 2"
+}

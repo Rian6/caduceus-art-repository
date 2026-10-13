@@ -1,0 +1,103 @@
+{
+  "id": "SLES_527.07",
+  "cover": {
+    "path": "PS2/SLES_527.07/SLES_527.07_COV.png",
+    "kind": "cover",
+    "bytes": 101278,
+    "width": 192,
+    "height": 272,
+    "sha256": "0a2c7d43f53538433d50aba3136d3d2b0ce03d0491de1aab6bee1a3ff08a8270",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52707.jpg"
+    },
+    "gameId": "SLES_527.07"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.07/SLES_527.07_BG.png",
+    "kind": "background",
+    "bytes": 193704,
+    "width": 640,
+    "height": 480,
+    "sha256": "a38b12b85ef1eeb60299998a41540161f847a4996fea491f2ae5adcddc7d6fed",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.07/SLES_527.07_BG_00.png"
+    },
+    "gameId": "SLES_527.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.07/SLES_527.07_BG.png",
+      "kind": "background",
+      "bytes": 193704,
+      "width": 640,
+      "height": 480,
+      "sha256": "a38b12b85ef1eeb60299998a41540161f847a4996fea491f2ae5adcddc7d6fed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.07/SLES_527.07_BG_00.png"
+      },
+      "gameId": "SLES_527.07"
+    },
+    {
+      "path": "PS2/SLES_527.07/SLES_527.07_BG_01.png",
+      "kind": "background",
+      "bytes": 211604,
+      "width": 640,
+      "height": 480,
+      "sha256": "fef1d1dbb4d6d68c7e4e86fcb1b002941d64a45b6ffefa5eb697bc45264d4422",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.07/SLES_527.07_BG_01.png"
+      },
+      "gameId": "SLES_527.07"
+    },
+    {
+      "path": "PS2/SLES_527.07/SLES_527.07_BG_02.png",
+      "kind": "background",
+      "bytes": 220455,
+      "width": 640,
+      "height": 480,
+      "sha256": "94578885d1a733ddbbfbf8a60aa0e199691456da0dcc72345a38aa924d2b5350",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.07/SLES_527.07_BG_02.png"
+      },
+      "gameId": "SLES_527.07"
+    },
+    {
+      "path": "PS2/SLES_527.07/SLES_527.07_BG_03.png",
+      "kind": "background",
+      "bytes": 238293,
+      "width": 640,
+      "height": 480,
+      "sha256": "9049eb24d5ea2b39528874cafdabb8bb382e5998e066dd2f48bab2dd4db5401b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.07/SLES_527.07_BG_03.png"
+      },
+      "gameId": "SLES_527.07"
+    },
+    {
+      "path": "PS2/SLES_527.07/SLES_527.07_BG_04.png",
+      "kind": "background",
+      "bytes": 213089,
+      "width": 640,
+      "height": 480,
+      "sha256": "d508755598ec2250968727aa895c92acb3752913fefbac48490503aa18364e73",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.07/SLES_527.07_BG_04.png"
+      },
+      "gameId": "SLES_527.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MONSTER HUNTER"
+}

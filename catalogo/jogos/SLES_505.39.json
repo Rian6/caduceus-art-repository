@@ -1,0 +1,90 @@
+{
+  "id": "SLES_505.39",
+  "cover": {
+    "path": "PS2/SLES_505.39/SLES_505.39_COV.png",
+    "kind": "cover",
+    "bytes": 96055,
+    "width": 192,
+    "height": 272,
+    "sha256": "526e0e2bf3851f2b90ea198f5aebd4189afeacb4baf41ef43cc3fc3e2c94dc89",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50539.jpg"
+    },
+    "gameId": "SLES_505.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_505.39/SLES_505.39_BG.png",
+    "kind": "background",
+    "bytes": 109461,
+    "width": 640,
+    "height": 480,
+    "sha256": "c2cec1b32aa7ccdcb33283d12fe68d591a3e6edad7fae8a21af3ab812bba75bd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_505.39/SLES_505.39_BG_00.png"
+    },
+    "gameId": "SLES_505.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_505.39/SLES_505.39_BG.png",
+      "kind": "background",
+      "bytes": 109461,
+      "width": 640,
+      "height": 480,
+      "sha256": "c2cec1b32aa7ccdcb33283d12fe68d591a3e6edad7fae8a21af3ab812bba75bd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.39/SLES_505.39_BG_00.png"
+      },
+      "gameId": "SLES_505.39"
+    },
+    {
+      "path": "PS2/SLES_505.39/SLES_505.39_BG_01.png",
+      "kind": "background",
+      "bytes": 207200,
+      "width": 640,
+      "height": 480,
+      "sha256": "588c85f5ca6e0d3f7bc74c3a7e9a248e596d579cc924c7b0e1a8f0caa15296aa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.39/SLES_505.39_BG_01.png"
+      },
+      "gameId": "SLES_505.39"
+    },
+    {
+      "path": "PS2/SLES_505.39/SLES_505.39_BG_02.png",
+      "kind": "background",
+      "bytes": 200601,
+      "width": 640,
+      "height": 480,
+      "sha256": "0f7e01b22c7c848fa643b2a4ac63cd521ee4516a264840c812c0c77f4293a07c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.39/SLES_505.39_BG_02.png"
+      },
+      "gameId": "SLES_505.39"
+    },
+    {
+      "path": "PS2/SLES_505.39/SLES_505.39_BG_03.png",
+      "kind": "background",
+      "bytes": 149100,
+      "width": 640,
+      "height": 480,
+      "sha256": "50a3d6d9839934ee8614e2e8acae39dbb1a0c7ebd9f8ff1f193299b1f1f14256",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.39/SLES_505.39_BG_03.png"
+      },
+      "gameId": "SLES_505.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007: Agent Under Fire"
+}

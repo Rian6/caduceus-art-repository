@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_204.08",
+  "cover": {
+    "path": "PS2/SLPS_204.08/SLPS_204.08_COV.png",
+    "kind": "cover",
+    "bytes": 107504,
+    "width": 192,
+    "height": 272,
+    "sha256": "e946f9f2db15814d2000aca08d8ef2fb3513dc8567e57db60bb943cf0f7fa4ca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20408.jpg"
+    },
+    "gameId": "SLPS_204.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_204.08/SLPS_204.08_BG.png",
+    "kind": "background",
+    "bytes": 137652,
+    "width": 640,
+    "height": 480,
+    "sha256": "cb13e86869dd9a89949435e2f106cedcdc868bcb806161aa7f3556fbb09244de",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_204.08/SLPS_204.08_BG_00.png"
+    },
+    "gameId": "SLPS_204.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_204.08/SLPS_204.08_BG.png",
+      "kind": "background",
+      "bytes": 137652,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb13e86869dd9a89949435e2f106cedcdc868bcb806161aa7f3556fbb09244de",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.08/SLPS_204.08_BG_00.png"
+      },
+      "gameId": "SLPS_204.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Card Captor Sakura - Sakura Chan to Asobo!"
+}

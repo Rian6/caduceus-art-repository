@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.03",
+  "cover": {
+    "path": "PS2/SLPM_658.03/SLPM_658.03_COV.png",
+    "kind": "cover",
+    "bytes": 97448,
+    "width": 192,
+    "height": 272,
+    "sha256": "e09b4840df5802260fa55fe9e630038d003a12d02d3b74a791c932a05c4b33d6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65803.jpg"
+    },
+    "gameId": "SLPM_658.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FREEDOM FIGHTERS [EA BEST HITS]"
+}

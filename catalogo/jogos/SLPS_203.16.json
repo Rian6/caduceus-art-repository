@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.16",
+  "cover": {
+    "path": "PS2/SLPS_203.16/SLPS_203.16_COV.png",
+    "kind": "cover",
+    "bytes": 123697,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc49b89f22af6eb036b8c7eb9a7d6410a2e520c9c8690861b1c7dddde0596393",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20316.jpg"
+    },
+    "gameId": "SLPS_203.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hissatsu Pachinko Station V8 - Ninja Hattori-kun"
+}

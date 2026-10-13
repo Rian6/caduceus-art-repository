@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_001.06",
+  "cover": {
+    "path": "PS2/KOEI_001.06/KOEI_001.06_COV.png",
+    "kind": "cover",
+    "bytes": 58515,
+    "width": 192,
+    "height": 272,
+    "sha256": "bec54467d9b810f282be1b14fdf7a3e16f1d55fb725b3477a92d79b4fec11ecf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_001.06/KOEI_001.06_COV.png"
+    },
+    "gameId": "KOEI_001.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Neoromance Box: Triple Selection"
+}

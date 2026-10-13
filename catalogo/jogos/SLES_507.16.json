@@ -1,0 +1,51 @@
+{
+  "id": "SLES_507.16",
+  "cover": {
+    "path": "PS2/SLES_507.16/SLES_507.16_COV.png",
+    "kind": "cover",
+    "bytes": 92702,
+    "width": 192,
+    "height": 272,
+    "sha256": "af5f37b6c54a004a37f280751cf398f783a5c94cfee281ec881970ad73276f62",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50716.jpg"
+    },
+    "gameId": "SLES_507.16"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_507.16/SLES_507.16_BG.png",
+    "kind": "background",
+    "bytes": 238312,
+    "width": 640,
+    "height": 480,
+    "sha256": "a114684e9b6d7d82022ef8331479eff8a49263408ae808b3f76b1e1585f86469",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.16/SLES_507.16_BG_00.png"
+    },
+    "gameId": "SLES_507.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_507.16/SLES_507.16_BG.png",
+      "kind": "background",
+      "bytes": 238312,
+      "width": 640,
+      "height": 480,
+      "sha256": "a114684e9b6d7d82022ef8331479eff8a49263408ae808b3f76b1e1585f86469",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.16/SLES_507.16_BG_00.png"
+      },
+      "gameId": "SLES_507.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FireBlade"
+}

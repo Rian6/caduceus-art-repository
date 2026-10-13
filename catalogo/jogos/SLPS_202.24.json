@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.24",
+  "cover": {
+    "path": "PS2/SLPS_202.24/SLPS_202.24_COV.png",
+    "kind": "cover",
+    "bytes": 93721,
+    "width": 192,
+    "height": 272,
+    "sha256": "5aba733f6d030a9bce4fa16f1b30813c48a95a36d78b7aef87c4ff8b74988095",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20224.jpg"
+    },
+    "gameId": "SLPS_202.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mahjong Haoh - Dankyuu Battle"
+}

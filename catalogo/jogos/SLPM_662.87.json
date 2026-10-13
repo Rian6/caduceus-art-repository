@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.87",
+  "cover": {
+    "path": "PS2/SLPM_662.87/SLPM_662.87_COV.png",
+    "kind": "cover",
+    "bytes": 90557,
+    "width": 192,
+    "height": 272,
+    "sha256": "7f490c4ca52ee94623ca2c074cc678a4a8d7135e62c2ec626f731150e30057fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66287.jpg"
+    },
+    "gameId": "SLPM_662.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SENGOKU BASARA [CAPKORE]"
+}

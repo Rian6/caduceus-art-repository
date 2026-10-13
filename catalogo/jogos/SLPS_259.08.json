@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_259.08",
+  "cover": {
+    "path": "PS2/SLPS_259.08/SLPS_259.08_COV.png",
+    "kind": "cover",
+    "bytes": 97029,
+    "width": 192,
+    "height": 272,
+    "sha256": "e20f9cf68f898ae6734cb6ba42576b6d8b4bde40fe356277e72fc62977e65021",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25908.jpg"
+    },
+    "gameId": "SLPS_259.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_259.08/SLPS_259.08_BG.png",
+    "kind": "background",
+    "bytes": 204253,
+    "width": 640,
+    "height": 480,
+    "sha256": "e19b32a8b21cc5ab6eddc7e67f17644b1dd1c77b78f8ea42e1f25ff08c7dd9b2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_259.08/SLPS_259.08_BG_00.png"
+    },
+    "gameId": "SLPS_259.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_259.08/SLPS_259.08_BG.png",
+      "kind": "background",
+      "bytes": 204253,
+      "width": 640,
+      "height": 480,
+      "sha256": "e19b32a8b21cc5ab6eddc7e67f17644b1dd1c77b78f8ea42e1f25ff08c7dd9b2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_259.08/SLPS_259.08_BG_00.png"
+      },
+      "gameId": "SLPS_259.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGO BATMAN - THE VIDEOGAME"
+}

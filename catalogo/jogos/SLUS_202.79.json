@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_202.79",
+  "cover": {
+    "path": "PS2/SLUS_202.79/SLUS_202.79_COV.png",
+    "kind": "cover",
+    "bytes": 95557,
+    "width": 192,
+    "height": 272,
+    "sha256": "878f22fa3e539bb40d9e346c739ff8e685366cfb19ec1f8452297bcdad0c2a12",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20279.jpg"
+    },
+    "gameId": "SLUS_202.79"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.79/SLUS_202.79_ICO.png",
+    "kind": "disc",
+    "bytes": 32424,
+    "width": 256,
+    "height": 256,
+    "sha256": "1646182a778e2ca7ccb4d32f9efc8b0272b6c08c877b22f364c906469510f908",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.79_ICO.png"
+    },
+    "gameId": "SLUS_202.79"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.79/SLUS_202.79_BG.png",
+    "kind": "background",
+    "bytes": 196986,
+    "width": 640,
+    "height": 480,
+    "sha256": "da7f7b272955a164d5f261115946b8f49dc2476afb6fc0a622d36fa933b72284",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.79/SLUS_202.79_BG_00.png"
+    },
+    "gameId": "SLUS_202.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.79/SLUS_202.79_BG.png",
+      "kind": "background",
+      "bytes": 196986,
+      "width": 640,
+      "height": 480,
+      "sha256": "da7f7b272955a164d5f261115946b8f49dc2476afb6fc0a622d36fa933b72284",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.79/SLUS_202.79_BG_00.png"
+      },
+      "gameId": "SLUS_202.79"
+    },
+    {
+      "path": "PS2/SLUS_202.79/SLUS_202.79_BG_01.png",
+      "kind": "background",
+      "bytes": 229007,
+      "width": 640,
+      "height": 480,
+      "sha256": "761a3506d56ea23bd9e7c18532e0ba36a74ff2a2f4549d6938bfbd9074ac203d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.79/SLUS_202.79_BG_01.png"
+      },
+      "gameId": "SLUS_202.79"
+    },
+    {
+      "path": "PS2/SLUS_202.79/SLUS_202.79_BG_02.png",
+      "kind": "background",
+      "bytes": 223862,
+      "width": 640,
+      "height": 480,
+      "sha256": "c89a2f4753316769c153490f3f73945974c124e97016216ec998c72fc7076757",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.79/SLUS_202.79_BG_02.png"
+      },
+      "gameId": "SLUS_202.79"
+    },
+    {
+      "path": "PS2/SLUS_202.79/SLUS_202.79_BG_03.png",
+      "kind": "background",
+      "bytes": 214190,
+      "width": 640,
+      "height": 480,
+      "sha256": "eddffe75c7a620fb5fcccebe201f4f6fe9c26c312accc6c8f0b3abdf5ee23340",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.79/SLUS_202.79_BG_03.png"
+      },
+      "gameId": "SLUS_202.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "X-MEN - NEXT DIMENSION"
+}

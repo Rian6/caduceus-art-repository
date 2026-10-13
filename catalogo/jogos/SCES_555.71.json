@@ -1,0 +1,77 @@
+{
+  "id": "SCES_555.71",
+  "cover": {
+    "path": "PS2/SCES_555.71/SCES_555.71_COV.png",
+    "kind": "cover",
+    "bytes": 98788,
+    "width": 192,
+    "height": 272,
+    "sha256": "79316c638b4f4b3afca5e503290fff027bd62c011f334fcecb5594296c705a6d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55571.jpg"
+    },
+    "gameId": "SCES_555.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_555.71/SCES_555.71_BG.png",
+    "kind": "background",
+    "bytes": 56708,
+    "width": 640,
+    "height": 480,
+    "sha256": "72c6afb6f55b88d2a9a1ceda840aa4263bf00009100597c37c90884991c9c4a3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_555.71/SCES_555.71_BG_00.png"
+    },
+    "gameId": "SCES_555.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_555.71/SCES_555.71_BG.png",
+      "kind": "background",
+      "bytes": 56708,
+      "width": 640,
+      "height": 480,
+      "sha256": "72c6afb6f55b88d2a9a1ceda840aa4263bf00009100597c37c90884991c9c4a3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_555.71/SCES_555.71_BG_00.png"
+      },
+      "gameId": "SCES_555.71"
+    },
+    {
+      "path": "PS2/SCES_555.71/SCES_555.71_BG_01.png",
+      "kind": "background",
+      "bytes": 148531,
+      "width": 640,
+      "height": 480,
+      "sha256": "87243fd984ac8507bad9ad74967f7d29b46dfc52cb8fa2a5b4ebacd6a8ce4d63",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_555.71/SCES_555.71_BG_01.png"
+      },
+      "gameId": "SCES_555.71"
+    },
+    {
+      "path": "PS2/SCES_555.71/SCES_555.71_BG_02.png",
+      "kind": "background",
+      "bytes": 205112,
+      "width": 640,
+      "height": 480,
+      "sha256": "c4698a23f8f5374ce9a231fa4ed352da991b61513c4b142654dd121617954229",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_555.71/SCES_555.71_BG_02.png"
+      },
+      "gameId": "SCES_555.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GHOSTBUSTERS - THE VIDEO GAME"
+}

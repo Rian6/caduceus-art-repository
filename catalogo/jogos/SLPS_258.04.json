@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.04",
+  "cover": {
+    "path": "PS2/SLPS_258.04/SLPS_258.04_COV.png",
+    "kind": "cover",
+    "bytes": 111658,
+    "width": 192,
+    "height": 272,
+    "sha256": "8bfa3f312b89b030b870256521de89750e7650fa2c9de02ca06f4ba1cb5e4b3e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25804.jpg"
+    },
+    "gameId": "SLPS_258.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEAR MY SUN!! MUSK IKUSEI CAPRICCIO [LIMITED EDITION]"
+}

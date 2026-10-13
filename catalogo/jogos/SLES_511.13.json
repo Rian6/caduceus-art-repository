@@ -1,0 +1,116 @@
+{
+  "id": "SLES_511.13",
+  "cover": {
+    "path": "PS2/SLES_511.13/SLES_511.13_COV.png",
+    "kind": "cover",
+    "bytes": 91699,
+    "width": 192,
+    "height": 272,
+    "sha256": "b27d1fed690183542daefa7bcb182b39ba15a0dea3cfcd888193b7a47dcbce08",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51113.jpg"
+    },
+    "gameId": "SLES_511.13"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_511.13/SLES_511.13_BG.png",
+    "kind": "background",
+    "bytes": 245276,
+    "width": 640,
+    "height": 480,
+    "sha256": "56232c33ca8539bac81284e4dba0c1eaf3f4a7bef0cde64b50ad23ef0c6ebe18",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_511.13/SLES_511.13_BG_00.png"
+    },
+    "gameId": "SLES_511.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_511.13/SLES_511.13_BG.png",
+      "kind": "background",
+      "bytes": 245276,
+      "width": 640,
+      "height": 480,
+      "sha256": "56232c33ca8539bac81284e4dba0c1eaf3f4a7bef0cde64b50ad23ef0c6ebe18",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.13/SLES_511.13_BG_00.png"
+      },
+      "gameId": "SLES_511.13"
+    },
+    {
+      "path": "PS2/SLES_511.13/SLES_511.13_BG_01.png",
+      "kind": "background",
+      "bytes": 223341,
+      "width": 640,
+      "height": 480,
+      "sha256": "155b5498ccc1d277145135c7481a0131753f2d006d8ce3c30ca01eafc904303b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.13/SLES_511.13_BG_01.png"
+      },
+      "gameId": "SLES_511.13"
+    },
+    {
+      "path": "PS2/SLES_511.13/SLES_511.13_BG_02.png",
+      "kind": "background",
+      "bytes": 154288,
+      "width": 640,
+      "height": 480,
+      "sha256": "b07d7aa7947b090ef327e289ead9a2c0c7ec8fbc2186271ca51ea1c86961d04f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.13/SLES_511.13_BG_02.png"
+      },
+      "gameId": "SLES_511.13"
+    },
+    {
+      "path": "PS2/SLES_511.13/SLES_511.13_BG_03.png",
+      "kind": "background",
+      "bytes": 104462,
+      "width": 640,
+      "height": 480,
+      "sha256": "6900752a29c65f07186f53e0cc577450eab1c55d79984413a5ba6d3ae079dd90",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.13/SLES_511.13_BG_03.png"
+      },
+      "gameId": "SLES_511.13"
+    },
+    {
+      "path": "PS2/SLES_511.13/SLES_511.13_BG_04.png",
+      "kind": "background",
+      "bytes": 55232,
+      "width": 640,
+      "height": 480,
+      "sha256": "ccd4d625845d8ad4e3e3a15c2ecb9788e7fa85506b59f43308e4f8b5b0a28ac4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.13/SLES_511.13_BG_04.png"
+      },
+      "gameId": "SLES_511.13"
+    },
+    {
+      "path": "PS2/SLES_511.13/SLES_511.13_BG_05.png",
+      "kind": "background",
+      "bytes": 201999,
+      "width": 640,
+      "height": 480,
+      "sha256": "f1bc09cae29237ca74233e73809f1a2331e4620ea03cd7d293bfc59f5897473d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.13/SLES_511.13_BG_05.png"
+      },
+      "gameId": "SLES_511.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zone of the Enders - The 2nd Runner"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_206.02",
+  "cover": {
+    "path": "PS2/SLUS_206.02/SLUS_206.02_COV.png",
+    "kind": "cover",
+    "bytes": 88741,
+    "width": 192,
+    "height": 272,
+    "sha256": "02c4136d394ccc593330e0ac1ad85146471a850ee8b45245cc6eb5eed347a71e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20602.jpg"
+    },
+    "gameId": "SLUS_206.02"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.02/SLUS_206.02_ICO.png",
+    "kind": "disc",
+    "bytes": 30898,
+    "width": 256,
+    "height": 256,
+    "sha256": "138b2a65d1bfe3892c8d2c3088e75f5ad5215077f2ddad6e22ec4e02ab9feb41",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.02_ICO.png"
+    },
+    "gameId": "SLUS_206.02"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "High Heat Major League Baseball 2004"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SCUS_972.76",
+  "cover": {
+    "path": "PS2/SCUS_972.76/SCUS_972.76_COV.png",
+    "kind": "cover",
+    "bytes": 94260,
+    "width": 192,
+    "height": 272,
+    "sha256": "caa114e1383bfd88e8d91d045ed00c5693d834427a57a68b737f1eda360925d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97276.jpg"
+    },
+    "gameId": "SCUS_972.76"
+  },
+  "disc": {
+    "path": "PS2/SCUS_972.76/SCUS_972.76_ICO.png",
+    "kind": "disc",
+    "bytes": 33645,
+    "width": 256,
+    "height": 256,
+    "sha256": "1b91f9b0a99a017629ab0584247bf58840d2b38bbbcde2c39f6321514bbf9b06",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_972.76_ICO.png"
+    },
+    "gameId": "SCUS_972.76"
+  },
+  "background": {
+    "path": "PS2/SCUS_972.76/SCUS_972.76_BG.png",
+    "kind": "background",
+    "bytes": 171841,
+    "width": 640,
+    "height": 480,
+    "sha256": "4c125d2645b9dcecd83358d45c1c1f42afc2c96b22361031bd16f8d270a3fc46",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_972.76/SCUS_972.76_BG_00.png"
+    },
+    "gameId": "SCUS_972.76"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_972.76/SCUS_972.76_BG.png",
+      "kind": "background",
+      "bytes": 171841,
+      "width": 640,
+      "height": 480,
+      "sha256": "4c125d2645b9dcecd83358d45c1c1f42afc2c96b22361031bd16f8d270a3fc46",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_972.76/SCUS_972.76_BG_00.png"
+      },
+      "gameId": "SCUS_972.76"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NFL GameDay 2004"
+}

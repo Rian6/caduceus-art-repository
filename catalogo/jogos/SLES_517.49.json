@@ -1,0 +1,25 @@
+{
+  "id": "SLES_517.49",
+  "cover": {
+    "path": "PS2/SLES_517.49/SLES_517.49_COV.png",
+    "kind": "cover",
+    "bytes": 103241,
+    "width": 192,
+    "height": 272,
+    "sha256": "72b237daabedbd2e030b5a4267825e39d18f88988dcf632af0ace786b9838d51",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51749.jpg"
+    },
+    "gameId": "SLES_517.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mark Davis Pro Bass Challenge"
+}

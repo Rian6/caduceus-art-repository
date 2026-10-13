@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.95",
+  "cover": {
+    "path": "PS2/SLPM_659.95/SLPM_659.95_COV.png",
+    "kind": "cover",
+    "bytes": 87182,
+    "width": 192,
+    "height": 272,
+    "sha256": "9fb9066524da48f88ceb1b93fb3f467f80983a7e84a25f0c2385bbbd1a9c222e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65995.jpg"
+    },
+    "gameId": "SLPM_659.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dog's Life"
+}

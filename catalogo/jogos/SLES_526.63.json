@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.63",
+  "cover": {
+    "path": "PS2/SLES_526.63/SLES_526.63_COV.png",
+    "kind": "cover",
+    "bytes": 91377,
+    "width": 192,
+    "height": 272,
+    "sha256": "fd6acbcbf9e9b7442b93a3c9b60bbcd4f28ac3d32f96c91b6a482a46c630c6d1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52663.jpg"
+    },
+    "gameId": "SLES_526.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - Chelsea FC"
+}

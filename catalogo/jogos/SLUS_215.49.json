@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_215.49",
+  "cover": {
+    "path": "PS2/SLUS_215.49/SLUS_215.49_COV.png",
+    "kind": "cover",
+    "bytes": 88341,
+    "width": 192,
+    "height": 272,
+    "sha256": "a1143edaa6939c774566b39d6b7b3dbf4e89bfb34ef869242f9dd3a972c4e83d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21549.jpg"
+    },
+    "gameId": "SLUS_215.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Sopranos - Road To Respect (Limited Edition)"
+}

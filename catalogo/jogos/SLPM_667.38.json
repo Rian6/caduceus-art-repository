@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.38",
+  "cover": {
+    "path": "PS2/SLPM_667.38/SLPM_667.38_COV.png",
+    "kind": "cover",
+    "bytes": 95258,
+    "width": 192,
+    "height": 272,
+    "sha256": "d38032028649f2afe6033cc8e528c7bf1adbcfe3cfe3ea1b75af961fb87a7522",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66738.jpg"
+    },
+    "gameId": "SLPM_667.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ouran Koukou Host Bu"
+}

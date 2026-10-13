@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_201.77",
+  "cover": {
+    "path": "PS2/SLUS_201.77/SLUS_201.77_COV.png",
+    "kind": "cover",
+    "bytes": 90672,
+    "width": 192,
+    "height": 272,
+    "sha256": "12fe76df0fbe8d387cfb5e9d18e2e92c71a8754b029cc562214b6e2756610de9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20177.jpg"
+    },
+    "gameId": "SLUS_201.77"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.77/SLUS_201.77_ICO.png",
+    "kind": "disc",
+    "bytes": 35848,
+    "width": 256,
+    "height": 256,
+    "sha256": "79c294478238d5e3375a2a26afa62f5fbb76e95a168cb24bd1116d9c8d451cad",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.77_ICO.png"
+    },
+    "gameId": "SLUS_201.77"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.77/SLUS_201.77_BG.png",
+    "kind": "background",
+    "bytes": 240433,
+    "width": 640,
+    "height": 480,
+    "sha256": "829f8cc400019861f234675915461b29b9925c4f196dd4154c4c35d2b95e3988",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.77/SLUS_201.77_BG_00.png"
+    },
+    "gameId": "SLUS_201.77"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.77/SLUS_201.77_BG.png",
+      "kind": "background",
+      "bytes": 240433,
+      "width": 640,
+      "height": 480,
+      "sha256": "829f8cc400019861f234675915461b29b9925c4f196dd4154c4c35d2b95e3988",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.77/SLUS_201.77_BG_00.png"
+      },
+      "gameId": "SLUS_201.77"
+    },
+    {
+      "path": "PS2/SLUS_201.77/SLUS_201.77_BG_01.png",
+      "kind": "background",
+      "bytes": 193957,
+      "width": 640,
+      "height": 480,
+      "sha256": "09b3099137574987bfbc17379f195a356a7cf166e067cf51037b0c2578d1bbc9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.77/SLUS_201.77_BG_01.png"
+      },
+      "gameId": "SLUS_201.77"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Test Drive Off-Road: Wide Open"
+}

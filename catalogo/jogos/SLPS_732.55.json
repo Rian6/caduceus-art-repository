@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.55",
+  "cover": {
+    "path": "PS2/SLPS_732.55/SLPS_732.55_COV.png",
+    "kind": "cover",
+    "bytes": 80764,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2bc27b1f309088e3ec70714092a3e2b94a0a0dbe470c3518507f2a38a491fc7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73255.jpg"
+    },
+    "gameId": "SLPS_732.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zero"
+}

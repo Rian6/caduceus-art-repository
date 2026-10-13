@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.51",
+  "cover": {
+    "path": "PS2/SLPS_201.51/SLPS_201.51_COV.png",
+    "kind": "cover",
+    "bytes": 110565,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0e1f1928ec37847375db0d15536425a514d287a45f6471617c6199ea47e4f57",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20151.jpg"
+    },
+    "gameId": "SLPS_201.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachi-Slot Aruze Oukoku 6"
+}

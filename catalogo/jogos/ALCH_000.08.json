@@ -1,0 +1,25 @@
+{
+  "id": "ALCH_000.08",
+  "cover": {
+    "path": "PS2/ALCH_000.08/ALCH_000.08_COV.png",
+    "kind": "cover",
+    "bytes": 107714,
+    "width": 192,
+    "height": 272,
+    "sha256": "10a96b49350f4579f529cc8870492ec0ffc01f6f4734db67c9948bdd7298ecfe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/ALCH-00008.jpg"
+    },
+    "gameId": "ALCH_000.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ARIA THE NATURAL ~TOOI YUME NO MIRAGE~ [LIMITED EDITION]"
+}

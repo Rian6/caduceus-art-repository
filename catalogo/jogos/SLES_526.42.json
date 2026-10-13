@@ -1,0 +1,129 @@
+{
+  "id": "SLES_526.42",
+  "cover": {
+    "path": "PS2/SLES_526.42/SLES_526.42_COV.png",
+    "kind": "cover",
+    "bytes": 103500,
+    "width": 192,
+    "height": 272,
+    "sha256": "6b44e61753e474e5cb88fd631cc4a27da4952941fbd7c00829c96a76914e53e9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52642.jpg"
+    },
+    "gameId": "SLES_526.42"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_526.42/SLES_526.42_BG.png",
+    "kind": "background",
+    "bytes": 180918,
+    "width": 640,
+    "height": 480,
+    "sha256": "1948d1fc0887bdae7ebb99d8f65d527255a6e0b853c6d779ad411d510e6f32e6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_526.42/SLES_526.42_BG_00.png"
+    },
+    "gameId": "SLES_526.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_526.42/SLES_526.42_BG.png",
+      "kind": "background",
+      "bytes": 180918,
+      "width": 640,
+      "height": 480,
+      "sha256": "1948d1fc0887bdae7ebb99d8f65d527255a6e0b853c6d779ad411d510e6f32e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.42/SLES_526.42_BG_00.png"
+      },
+      "gameId": "SLES_526.42"
+    },
+    {
+      "path": "PS2/SLES_526.42/SLES_526.42_BG_01.png",
+      "kind": "background",
+      "bytes": 114499,
+      "width": 640,
+      "height": 480,
+      "sha256": "8d6f49006f468a6a581794fb806a8ef647bf1c7bb7a3285be8152f7ab99f6885",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.42/SLES_526.42_BG_01.png"
+      },
+      "gameId": "SLES_526.42"
+    },
+    {
+      "path": "PS2/SLES_526.42/SLES_526.42_BG_02.png",
+      "kind": "background",
+      "bytes": 94364,
+      "width": 640,
+      "height": 480,
+      "sha256": "adbcd3688392f329ea85aedacac59a51411c45b621fe242d8a200f726deb86dc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.42/SLES_526.42_BG_02.png"
+      },
+      "gameId": "SLES_526.42"
+    },
+    {
+      "path": "PS2/SLES_526.42/SLES_526.42_BG_03.png",
+      "kind": "background",
+      "bytes": 130917,
+      "width": 640,
+      "height": 480,
+      "sha256": "73525b81b58ca7f3c1b7b4ee308397dc8199d2bc1700c0a4e714af3bd94dae25",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.42/SLES_526.42_BG_03.png"
+      },
+      "gameId": "SLES_526.42"
+    },
+    {
+      "path": "PS2/SLES_526.42/SLES_526.42_BG_04.png",
+      "kind": "background",
+      "bytes": 171540,
+      "width": 640,
+      "height": 480,
+      "sha256": "e206181c4bc2f86f95b08213999715d3ff355f5ac08667fa8ad6ca413386ebaa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.42/SLES_526.42_BG_04.png"
+      },
+      "gameId": "SLES_526.42"
+    },
+    {
+      "path": "PS2/SLES_526.42/SLES_526.42_BG_05.png",
+      "kind": "background",
+      "bytes": 130340,
+      "width": 640,
+      "height": 480,
+      "sha256": "72e4c3af25cb4d199728f6d4178e8a5de41546b0d79bbf8e5a19b0d642f90229",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.42/SLES_526.42_BG_05.png"
+      },
+      "gameId": "SLES_526.42"
+    },
+    {
+      "path": "PS2/SLES_526.42/SLES_526.42_BG_06.png",
+      "kind": "background",
+      "bytes": 192525,
+      "width": 640,
+      "height": 480,
+      "sha256": "aca117391206dd21fd02712518fddf65598167fb05b40953b7d5d602feb21ec1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.42/SLES_526.42_BG_06.png"
+      },
+      "gameId": "SLES_526.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Leisure Suit Larry: Magna Cum Laude"
+}

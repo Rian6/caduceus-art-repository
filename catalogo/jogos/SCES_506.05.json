@@ -1,0 +1,25 @@
+{
+  "id": "SCES_506.05",
+  "cover": {
+    "path": "PS2/SCES_506.05/SCES_506.05_COV.png",
+    "kind": "cover",
+    "bytes": 86001,
+    "width": 192,
+    "height": 272,
+    "sha256": "eedcec86554bcdb83b16844b12477fa478d9a4d2b0da64c3004581352d49a617",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50605.jpg"
+    },
+    "gameId": "SCES_506.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar's Monsters Inc. - Scare Island"
+}

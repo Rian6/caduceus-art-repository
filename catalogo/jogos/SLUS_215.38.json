@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_215.38",
+  "cover": {
+    "path": "PS2/SLUS_215.38/SLUS_215.38_COV.png",
+    "kind": "cover",
+    "bytes": 104523,
+    "width": 192,
+    "height": 272,
+    "sha256": "846a44217d92269565e8958ae4c162f60afc20699b50bc7eceb4f9c9c3639cd6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21538.jpg"
+    },
+    "gameId": "SLUS_215.38"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.38/SLUS_215.38_ICO.png",
+    "kind": "disc",
+    "bytes": 30647,
+    "width": 256,
+    "height": 256,
+    "sha256": "e49898801105d5850e53037eefd49e4a55ad38c2112abedda0d869a6b30457b5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.38_ICO.png"
+    },
+    "gameId": "SLUS_215.38"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.38/SLUS_215.38_BG.png",
+    "kind": "background",
+    "bytes": 140465,
+    "width": 640,
+    "height": 480,
+    "sha256": "322e1601c034107d7726134ea7974459677a319f8f912bbb9b5edca2b68e3acb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.38/SLUS_215.38_BG_00.png"
+    },
+    "gameId": "SLUS_215.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.38/SLUS_215.38_BG.png",
+      "kind": "background",
+      "bytes": 140465,
+      "width": 640,
+      "height": 480,
+      "sha256": "322e1601c034107d7726134ea7974459677a319f8f912bbb9b5edca2b68e3acb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.38/SLUS_215.38_BG_00.png"
+      },
+      "gameId": "SLUS_215.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Eureka Seven - Vol.2 - The New Vision"
+}

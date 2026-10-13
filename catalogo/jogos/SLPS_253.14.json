@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_253.14",
+  "cover": {
+    "path": "PS2/SLPS_253.14/SLPS_253.14_COV.png",
+    "kind": "cover",
+    "bytes": 79185,
+    "width": 192,
+    "height": 272,
+    "sha256": "b7fe26fe6410b0daa3a63c913f9c0dbbbcd9d01390fe6c361d5592d9849b68b7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25314.jpg"
+    },
+    "gameId": "SLPS_253.14"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_253.14/SLPS_253.14_BG.png",
+    "kind": "background",
+    "bytes": 171819,
+    "width": 640,
+    "height": 480,
+    "sha256": "f0c4e2639adf1421a173b39aff93e80401a93d46ea10c52ed5905c93705e7ab2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.14/SLPS_253.14_BG_00.png"
+    },
+    "gameId": "SLPS_253.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.14/SLPS_253.14_BG.png",
+      "kind": "background",
+      "bytes": 171819,
+      "width": 640,
+      "height": 480,
+      "sha256": "f0c4e2639adf1421a173b39aff93e80401a93d46ea10c52ed5905c93705e7ab2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.14/SLPS_253.14_BG_00.png"
+      },
+      "gameId": "SLPS_253.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NEBULA - ECHO NIGHT"
+}

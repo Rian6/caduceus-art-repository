@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.74",
+  "cover": {
+    "path": "PS2/SLPM_621.74/SLPM_621.74_COV.png",
+    "kind": "cover",
+    "bytes": 53812,
+    "width": 192,
+    "height": 272,
+    "sha256": "120159c445ad6e3c8cbf4860c724a6b0ba2d8ae938480013fd95b4bd675a449a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62174.jpg"
+    },
+    "gameId": "SLPM_621.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 HONKAKU SHIKOU VOL.003 - THE CHESS"
+}

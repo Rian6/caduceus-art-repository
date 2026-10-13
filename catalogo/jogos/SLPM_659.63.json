@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.63",
+  "cover": {
+    "path": "PS2/SLPM_659.63/SLPM_659.63_COV.png",
+    "kind": "cover",
+    "bytes": 101503,
+    "width": 192,
+    "height": 272,
+    "sha256": "6f0f2fd39e93ed0763d32a8515540bb5079eebbf6179e0e6bf33cbda795dd5f4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65963.jpg"
+    },
+    "gameId": "SLPM_659.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HOME MAID - OWARI NO TACHI"
+}

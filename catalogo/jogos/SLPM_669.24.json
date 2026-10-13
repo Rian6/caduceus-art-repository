@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.24",
+  "cover": {
+    "path": "PS2/SLPM_669.24/SLPM_669.24_COV.png",
+    "kind": "cover",
+    "bytes": 91185,
+    "width": 192,
+    "height": 272,
+    "sha256": "97aefd1a9e048c43109408b1479d0c5c4dcf95351602e6406eae03ef5c99e20b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66924.jpg"
+    },
+    "gameId": "SLPM_669.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "D.C. II P.S. - DA CAPO II - PLUS SITUATION [2 DISCS]"
+}

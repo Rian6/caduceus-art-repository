@@ -1,0 +1,25 @@
+{
+  "id": "SCES_524.11",
+  "cover": {
+    "path": "PS2/SCES_524.11/SCES_524.11_COV.png",
+    "kind": "cover",
+    "bytes": 92225,
+    "width": 192,
+    "height": 272,
+    "sha256": "485f1aab02a803b895d1cf7e7d7d6db2490a9687347cabd49478d9587cf35ca9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52411.jpg"
+    },
+    "gameId": "SCES_524.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ATHENS 2004"
+}

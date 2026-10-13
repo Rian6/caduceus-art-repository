@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.60",
+  "cover": {
+    "path": "PS2/SLPM_659.60/SLPM_659.60_COV.png",
+    "kind": "cover",
+    "bytes": 108391,
+    "width": 192,
+    "height": 272,
+    "sha256": "f7d33844050021ca30cc6e689d9881e8b22dc359a4b09d1264f19b9301e1bb3f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65960.jpg"
+    },
+    "gameId": "SLPM_659.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NORTH WIND - EIEN NO YAKUSOKU [FIRST PRINT LIMITED EDITION]"
+}

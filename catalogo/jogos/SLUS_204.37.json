@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_204.37",
+  "cover": {
+    "path": "PS2/SLUS_204.37/SLUS_204.37_COV.png",
+    "kind": "cover",
+    "bytes": 105062,
+    "width": 192,
+    "height": 272,
+    "sha256": "93fc2fca19d50fa712b718060876f2718a814f5b0ec9e335c389c76e370ae58b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20437.jpg"
+    },
+    "gameId": "SLUS_204.37"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.37/SLUS_204.37_ICO.png",
+    "kind": "disc",
+    "bytes": 34580,
+    "width": 256,
+    "height": 256,
+    "sha256": "dc28e543ffde23287f34678c983637c637deb030a6285be40295469bcf7c2204",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.37_ICO.png"
+    },
+    "gameId": "SLUS_204.37"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.37/SLUS_204.37_BG.png",
+    "kind": "background",
+    "bytes": 144613,
+    "width": 640,
+    "height": 480,
+    "sha256": "47f0a0369d0ae1fb0311f5caedbb7440895213f1a948237dc1cebad9d44f72bb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.37/SLUS_204.37_BG_00.png"
+    },
+    "gameId": "SLUS_204.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.37/SLUS_204.37_BG.png",
+      "kind": "background",
+      "bytes": 144613,
+      "width": 640,
+      "height": 480,
+      "sha256": "47f0a0369d0ae1fb0311f5caedbb7440895213f1a948237dc1cebad9d44f72bb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.37/SLUS_204.37_BG_00.png"
+      },
+      "gameId": "SLUS_204.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DDRMAX Dance Dance Revolution"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_659.46",
+  "cover": {
+    "path": "PS2/SLPM_659.46/SLPM_659.46_COV.png",
+    "kind": "cover",
+    "bytes": 104300,
+    "width": 192,
+    "height": 272,
+    "sha256": "6027d11c667b0e29ae8079731d005ed0c1e877969331b11cef6f39626df3aade",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65946.jpg"
+    },
+    "gameId": "SLPM_659.46"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_659.46/SLPM_659.46_BG.png",
+    "kind": "background",
+    "bytes": 99956,
+    "width": 640,
+    "height": 480,
+    "sha256": "88b7d19950bd6b8424ee8a8428c281dc28d8357b8e034afa8d478fd9072cb2e0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_659.46/SLPM_659.46_BG_00.png"
+    },
+    "gameId": "SLPM_659.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_659.46/SLPM_659.46_BG.png",
+      "kind": "background",
+      "bytes": 99956,
+      "width": 640,
+      "height": 480,
+      "sha256": "88b7d19950bd6b8424ee8a8428c281dc28d8357b8e034afa8d478fd9072cb2e0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.46/SLPM_659.46_BG_00.png"
+      },
+      "gameId": "SLPM_659.46"
+    },
+    {
+      "path": "PS2/SLPM_659.46/SLPM_659.46_BG_01.png",
+      "kind": "background",
+      "bytes": 188543,
+      "width": 640,
+      "height": 480,
+      "sha256": "c384044248d4b0ed9835e404af030b7deaffa336ab28e80c0efc645dfe675a5f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.46/SLPM_659.46_BG_01.png"
+      },
+      "gameId": "SLPM_659.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Beatmania IIDX - 9th Style"
+}

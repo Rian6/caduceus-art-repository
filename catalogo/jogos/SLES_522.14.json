@@ -1,0 +1,25 @@
+{
+  "id": "SLES_522.14",
+  "cover": {
+    "path": "PS2/SLES_522.14/SLES_522.14_COV.png",
+    "kind": "cover",
+    "bytes": 92030,
+    "width": 192,
+    "height": 272,
+    "sha256": "94ca099cafa7b02f891f996b1e485c56f575dda406f52c034cbe4bc71cbe44c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52214.jpg"
+    },
+    "gameId": "SLES_522.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's The Haunted Mansion"
+}

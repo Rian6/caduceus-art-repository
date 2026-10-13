@@ -1,0 +1,25 @@
+{
+  "id": "SLES_551.38",
+  "cover": {
+    "path": "PS2/SLES_551.38/SLES_551.38_COV.png",
+    "kind": "cover",
+    "bytes": 115324,
+    "width": 192,
+    "height": 272,
+    "sha256": "54a5749a541ab73f477c5996667f783ccd616dd35f0c52bde9c61aa9972527ac",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55138.jpg"
+    },
+    "gameId": "SLES_551.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "El Tigre: The Adventures of Manny Rivera"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.70",
+  "cover": {
+    "path": "PS2/SLPM_626.70/SLPM_626.70_COV.png",
+    "kind": "cover",
+    "bytes": 99012,
+    "width": 192,
+    "height": 272,
+    "sha256": "7bdb1d02161ccd962b778a4dbeb4605a6f3ebdc2d43159d4ea4e4a9afef87a35",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62670.jpg"
+    },
+    "gameId": "SLPM_626.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SEGA AGES 2500 SERIES VOL.05 - GOLDEN AXE [LEGACY EDITION]"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLES_548.85",
+  "cover": {
+    "path": "PS2/SLES_548.85/SLES_548.85_COV.png",
+    "kind": "cover",
+    "bytes": 80941,
+    "width": 192,
+    "height": 272,
+    "sha256": "0698a445a8519ae42c4c2346b1ead78043d28cebc648b8cf1fb01ca317086083",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54885.jpg"
+    },
+    "gameId": "SLES_548.85"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.85/SLES_548.85_ICO.png",
+    "kind": "disc",
+    "bytes": 11815,
+    "width": 128,
+    "height": 128,
+    "sha256": "5471f6361e73d2342e8223cbb53b3d647bd1caf94697ff88e6542055fd7081b3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.85_ICO.png"
+    },
+    "gameId": "SLES_548.85"
+  },
+  "background": {
+    "path": "PS2/SLES_548.85/SLES_548.85_BG.png",
+    "kind": "background",
+    "bytes": 182012,
+    "width": 640,
+    "height": 480,
+    "sha256": "8c11736de12279a49b0f337ccf643ee3826bac7e69015c5fabd1019e73350abe",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.85/SLES_548.85_BG_00.png"
+    },
+    "gameId": "SLES_548.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.85/SLES_548.85_BG.png",
+      "kind": "background",
+      "bytes": 182012,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c11736de12279a49b0f337ccf643ee3826bac7e69015c5fabd1019e73350abe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.85/SLES_548.85_BG_00.png"
+      },
+      "gameId": "SLES_548.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Moto X Maniac"
+}

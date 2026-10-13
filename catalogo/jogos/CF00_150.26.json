@@ -1,0 +1,24 @@
+{
+  "id": "CF00_150.26",
+  "cover": {
+    "path": "PS2/CF00_150.26/CF00_150.26_COV.png",
+    "kind": "cover",
+    "bytes": 102096,
+    "width": 192,
+    "height": 272,
+    "sha256": "daa388a199206675a7b48358a3cb6f280ad7c2ceffb8ddfaee04fa4f11ed1794",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/CF00-15026.jpg"
+    },
+    "gameId": "CF00_150.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

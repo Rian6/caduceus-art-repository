@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.85",
+  "cover": {
+    "path": "PS2/SLPM_620.85/SLPM_620.85_COV.png",
+    "kind": "cover",
+    "bytes": 91139,
+    "width": 192,
+    "height": 272,
+    "sha256": "a8dd84adbd0fc9f19138134b6b70e2ac84cd43a4d416e557128576351d382d75",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62085.jpg"
+    },
+    "gameId": "SLPM_620.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SILENT SCOPE 2 - INNOCENT SWEEPER"
+}

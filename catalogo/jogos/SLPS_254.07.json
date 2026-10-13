@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_254.07",
+  "cover": {
+    "path": "PS2/SLPS_254.07/SLPS_254.07_COV.png",
+    "kind": "cover",
+    "bytes": 90088,
+    "width": 192,
+    "height": 272,
+    "sha256": "aa750c55b7888c7927ac83217112066687886acab1a7a13dac0071974ae35285",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25407.jpg"
+    },
+    "gameId": "SLPS_254.07"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_254.07/SLPS_254.07_BG.png",
+    "kind": "background",
+    "bytes": 190153,
+    "width": 640,
+    "height": 480,
+    "sha256": "21ac5b0707c256e7934410e0edb193f21084aa38d896c42b119c2f5355370fb7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_254.07/SLPS_254.07_BG_00.png"
+    },
+    "gameId": "SLPS_254.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_254.07/SLPS_254.07_BG.png",
+      "kind": "background",
+      "bytes": 190153,
+      "width": 640,
+      "height": 480,
+      "sha256": "21ac5b0707c256e7934410e0edb193f21084aa38d896c42b119c2f5355370fb7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.07/SLPS_254.07_BG_00.png"
+      },
+      "gameId": "SLPS_254.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters 2003"
+}

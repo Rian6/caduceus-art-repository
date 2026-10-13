@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.01",
+  "cover": {
+    "path": "PS2/SLPM_742.01/SLPM_742.01_COV.png",
+    "kind": "cover",
+    "bytes": 86233,
+    "width": 192,
+    "height": 272,
+    "sha256": "1cf78957985d9c2d9a61b15192bb565aedf429d9c516066c8da74323a05393b4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74201.jpg"
+    },
+    "gameId": "SLPM_742.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BIOHAZARD - OUTBREAK [PLAYSTATION 2 THE BEST]"
+}

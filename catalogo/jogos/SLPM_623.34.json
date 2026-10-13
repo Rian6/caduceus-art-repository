@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.34",
+  "cover": {
+    "path": "PS2/SLPM_623.34/SLPM_623.34_COV.png",
+    "kind": "cover",
+    "bytes": 92174,
+    "width": 192,
+    "height": 272,
+    "sha256": "6dd918313a8fe4e50e5b7a6db646f33ff6974d25e7f918cf854f75572127bbae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62334.jpg"
+    },
+    "gameId": "SLPM_623.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.029 - THE RENAI BOARD GAME SEISHUN 18 RADIO"
+}

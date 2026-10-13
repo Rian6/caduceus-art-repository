@@ -1,0 +1,117 @@
+{
+  "id": "SLPM_660.56",
+  "cover": {
+    "path": "PS2/SLPM_660.56/SLPM_660.56_COV.png",
+    "kind": "cover",
+    "bytes": 107011,
+    "width": 192,
+    "height": 272,
+    "sha256": "919be41617df24cce593fb5b526cd5ee7242d9d856e25fbac629bcc86f537ca6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66056.jpg"
+    },
+    "gameId": "SLPM_660.56"
+  },
+  "disc": {
+    "path": "PS2/SLPM_660.56/SLPM_660.56_ICO.png",
+    "kind": "disc",
+    "bytes": 10107,
+    "width": 128,
+    "height": 128,
+    "sha256": "327d72c0946de9a8b965f6e2de7634dde690e2ba3e7e903f16a676a9cea46187",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_660.56_ICO.png"
+    },
+    "gameId": "SLPM_660.56"
+  },
+  "background": {
+    "path": "PS2/SLPM_660.56/SLPM_660.56_BG.png",
+    "kind": "background",
+    "bytes": 188581,
+    "width": 640,
+    "height": 480,
+    "sha256": "49d259f3e3de65a8c4333e09fd1b636213a2ea0dd6bda1aef915d49f4dc0bcee",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_660.56/SLPM_660.56_BG_00.png"
+    },
+    "gameId": "SLPM_660.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_660.56/SLPM_660.56_BG.png",
+      "kind": "background",
+      "bytes": 188581,
+      "width": 640,
+      "height": 480,
+      "sha256": "49d259f3e3de65a8c4333e09fd1b636213a2ea0dd6bda1aef915d49f4dc0bcee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.56/SLPM_660.56_BG_00.png"
+      },
+      "gameId": "SLPM_660.56"
+    },
+    {
+      "path": "PS2/SLPM_660.56/SLPM_660.56_BG_01.png",
+      "kind": "background",
+      "bytes": 190740,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1042787582377bade58e11f2b8947b464cb3d19dab32f3ab0067021125900a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.56/SLPM_660.56_BG_01.png"
+      },
+      "gameId": "SLPM_660.56"
+    },
+    {
+      "path": "PS2/SLPM_660.56/SLPM_660.56_BG_02.png",
+      "kind": "background",
+      "bytes": 244129,
+      "width": 640,
+      "height": 480,
+      "sha256": "eea668062ab6d0b5b95a764d0a738ea8bf1bbd8fd37ee8b1fc848af5a4ba950e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.56/SLPM_660.56_BG_02.png"
+      },
+      "gameId": "SLPM_660.56"
+    },
+    {
+      "path": "PS2/SLPM_660.56/SLPM_660.56_BG_03.png",
+      "kind": "background",
+      "bytes": 211028,
+      "width": 640,
+      "height": 480,
+      "sha256": "b3b0cc1d9cd9399865d14bad71ff30f6b5950d095ba147b65277138d9ef5c8e5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.56/SLPM_660.56_BG_03.png"
+      },
+      "gameId": "SLPM_660.56"
+    },
+    {
+      "path": "PS2/SLPM_660.56/SLPM_660.56_BG_04.png",
+      "kind": "background",
+      "bytes": 203437,
+      "width": 640,
+      "height": 480,
+      "sha256": "9996a2cab87787e729e674183eabdd8c34ee9ca0a7f34a647e4b13d98449920e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.56/SLPM_660.56_BG_04.png"
+      },
+      "gameId": "SLPM_660.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mushihimesama"
+}

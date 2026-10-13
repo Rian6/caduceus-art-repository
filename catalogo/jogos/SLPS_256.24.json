@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.24",
+  "cover": {
+    "path": "PS2/SLPS_256.24/SLPS_256.24_COV.png",
+    "kind": "cover",
+    "bytes": 94944,
+    "width": 192,
+    "height": 272,
+    "sha256": "3136f4265f2d6b0f17e03acec473927c606764b5c503e82d44e4748809a796bc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25624.jpg"
+    },
+    "gameId": "SLPS_256.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DENGEKI SP - FUTAKOI COLLECTION"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.21",
+  "cover": {
+    "path": "PS2/SLPS_253.21/SLPS_253.21_COV.png",
+    "kind": "cover",
+    "bytes": 107672,
+    "width": 192,
+    "height": 272,
+    "sha256": "98c4a0550c343317ed773051c3a0dacb800066e03f01c2f341801f30cb3b5a18",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25321.jpg"
+    },
+    "gameId": "SLPS_253.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Derby Stallion 2004"
+}

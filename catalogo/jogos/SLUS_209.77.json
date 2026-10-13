@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_209.77",
+  "cover": {
+    "path": "PS2/SLUS_209.77/SLUS_209.77_COV.png",
+    "kind": "cover",
+    "bytes": 97567,
+    "width": 192,
+    "height": 272,
+    "sha256": "67688b4aa28ac2e6e554dd7db4bf263608fc402e585cf8553c2faf8052804541",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20977.jpg"
+    },
+    "gameId": "SLUS_209.77"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.77/SLUS_209.77_ICO.png",
+    "kind": "disc",
+    "bytes": 32899,
+    "width": 256,
+    "height": 256,
+    "sha256": "a230e580c0857eb24884ca57208bc68d534858759b1482a82300e36057fd818b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.77_ICO.png"
+    },
+    "gameId": "SLUS_209.77"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.77/SLUS_209.77_BG.png",
+    "kind": "background",
+    "bytes": 234589,
+    "width": 640,
+    "height": 480,
+    "sha256": "00ca0b8c797f7cf297fbffe27e32f4ff44fcb655d831c270f14e2934e66c05a5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.77/SLUS_209.77_BG_00.png"
+    },
+    "gameId": "SLUS_209.77"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.77/SLUS_209.77_BG.png",
+      "kind": "background",
+      "bytes": 234589,
+      "width": 640,
+      "height": 480,
+      "sha256": "00ca0b8c797f7cf297fbffe27e32f4ff44fcb655d831c270f14e2934e66c05a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.77/SLUS_209.77_BG_00.png"
+      },
+      "gameId": "SLUS_209.77"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Virtua Quest"
+}

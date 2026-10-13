@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.72",
+  "cover": {
+    "path": "PS2/SLPM_659.72/SLPM_659.72_COV.png",
+    "kind": "cover",
+    "bytes": 70430,
+    "width": 192,
+    "height": 272,
+    "sha256": "e55ceb793fa195a803de3cf455b3019ac74435b966a48790685615f85f9e6da8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65972.jpg"
+    },
+    "gameId": "SLPM_659.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Constantine"
+}

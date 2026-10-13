@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_253.24",
+  "cover": {
+    "path": "PS2/SLPS_253.24/SLPS_253.24_COV.png",
+    "kind": "cover",
+    "bytes": 105622,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf82a8d6499b925c1c590cc214f34b2cd738731e2fdae2bf5e3a2dda032514ad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25324.jpg"
+    },
+    "gameId": "SLPS_253.24"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_253.24/SLPS_253.24_BG.png",
+    "kind": "background",
+    "bytes": 188543,
+    "width": 640,
+    "height": 480,
+    "sha256": "681550acebf79e6d91b26f6060f861af30cdc3af20f528d253b3e9b1b185d786",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.24/SLPS_253.24_BG_00.png"
+    },
+    "gameId": "SLPS_253.24"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.24/SLPS_253.24_BG.png",
+      "kind": "background",
+      "bytes": 188543,
+      "width": 640,
+      "height": 480,
+      "sha256": "681550acebf79e6d91b26f6060f861af30cdc3af20f528d253b3e9b1b185d786",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.24/SLPS_253.24_BG_00.png"
+      },
+      "gameId": "SLPS_253.24"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nishikaze no Kyoushikyouku - The Rhapsody of Zephyr (Limited Edition)"
+}

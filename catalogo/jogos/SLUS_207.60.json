@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_207.60",
+  "cover": {
+    "path": "PS2/SLUS_207.60/SLUS_207.60_COV.png",
+    "kind": "cover",
+    "bytes": 91658,
+    "width": 192,
+    "height": 272,
+    "sha256": "42623e5ad279a2fb030a1073f8d9f439a46765d759a0cb57fda8b5d8b62bc334",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20760.jpg"
+    },
+    "gameId": "SLUS_207.60"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.60/SLUS_207.60_ICO.png",
+    "kind": "disc",
+    "bytes": 29708,
+    "width": 256,
+    "height": 256,
+    "sha256": "13c5186992144e87613ace82a64bbaaa940d66e83dd50e276a36e7d4731e3175",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.60_ICO.png"
+    },
+    "gameId": "SLUS_207.60"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.60/SLUS_207.60_BG.png",
+    "kind": "background",
+    "bytes": 150569,
+    "width": 640,
+    "height": 480,
+    "sha256": "7bb66bb2e74f4b955525929c17f97a7f47996d734fbc77f15da394eb931ac897",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.60/SLUS_207.60_BG_00.png"
+    },
+    "gameId": "SLUS_207.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.60/SLUS_207.60_BG.png",
+      "kind": "background",
+      "bytes": 150569,
+      "width": 640,
+      "height": 480,
+      "sha256": "7bb66bb2e74f4b955525929c17f97a7f47996d734fbc77f15da394eb931ac897",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.60/SLUS_207.60_BG_00.png"
+      },
+      "gameId": "SLUS_207.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Championship Pool 2004"
+}

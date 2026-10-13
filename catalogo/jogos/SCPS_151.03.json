@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_151.03",
+  "cover": {
+    "path": "PS2/SCPS_151.03/SCPS_151.03_COV.png",
+    "kind": "cover",
+    "bytes": 48704,
+    "width": 192,
+    "height": 272,
+    "sha256": "4259a0edf0816956fd788b045802593ce62f7fd337039c8f52598283e5eb4628",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15103.jpg"
+    },
+    "gameId": "SCPS_151.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUNPARADE ORCHESTRA - SHIRO NO SHOU [LIMITED EDITION]"
+}

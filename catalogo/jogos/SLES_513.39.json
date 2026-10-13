@@ -1,0 +1,25 @@
+{
+  "id": "SLES_513.39",
+  "cover": {
+    "path": "PS2/SLES_513.39/SLES_513.39_COV.png",
+    "kind": "cover",
+    "bytes": 83801,
+    "width": 192,
+    "height": 272,
+    "sha256": "a46af233dc39b6b031cf632accb6661af9b21791d11efa557d3af15623e9271b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51339.jpg"
+    },
+    "gameId": "SLES_513.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NFL 2K3"
+}

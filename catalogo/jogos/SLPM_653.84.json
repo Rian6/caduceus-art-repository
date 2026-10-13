@@ -1,0 +1,78 @@
+{
+  "id": "SLPM_653.84",
+  "cover": {
+    "path": "PS2/SLPM_653.84/SLPM_653.84_COV.png",
+    "kind": "cover",
+    "bytes": 113661,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf420600e86ae293be3239da93d7394f1f5d609d1620c7feeaa8a652acd636f7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65384.jpg"
+    },
+    "gameId": "SLPM_653.84"
+  },
+  "disc": {
+    "path": "PS2/SLPM_653.84/SLPM_653.84_ICO.png",
+    "kind": "disc",
+    "bytes": 38028,
+    "width": 128,
+    "height": 128,
+    "sha256": "2afa7f406af8d3fb64906571efa7e6a395f3000dfb3b769a442f951dbeb63e28",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_653.84_ICO.png"
+    },
+    "gameId": "SLPM_653.84"
+  },
+  "background": {
+    "path": "PS2/SLPM_653.84/SLPM_653.84_BG.png",
+    "kind": "background",
+    "bytes": 183971,
+    "width": 640,
+    "height": 480,
+    "sha256": "7299d938fbdefdb8344929d8a04324a2a0a00344774d849661238a7c10ad2c14",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_653.84/SLPM_653.84_BG_00.png"
+    },
+    "gameId": "SLPM_653.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_653.84/SLPM_653.84_BG.png",
+      "kind": "background",
+      "bytes": 183971,
+      "width": 640,
+      "height": 480,
+      "sha256": "7299d938fbdefdb8344929d8a04324a2a0a00344774d849661238a7c10ad2c14",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_653.84/SLPM_653.84_BG_00.png"
+      },
+      "gameId": "SLPM_653.84"
+    },
+    {
+      "path": "PS2/SLPM_653.84/SLPM_653.84_BG_01.png",
+      "kind": "background",
+      "bytes": 174830,
+      "width": 640,
+      "height": 480,
+      "sha256": "f5b45c6b0b918e6d7102f1b570a5760d5c0821b3aa7b1d8e6f3a784482aa0593",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_653.84/SLPM_653.84_BG_01.png"
+      },
+      "gameId": "SLPM_653.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamMix TV: World Fighters"
+}

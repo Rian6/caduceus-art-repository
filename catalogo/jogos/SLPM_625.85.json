@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.85",
+  "cover": {
+    "path": "PS2/SLPM_625.85/SLPM_625.85_COV.png",
+    "kind": "cover",
+    "bytes": 84640,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e77759baba2256e78a41e69c2cd197f28ca344292b12f83ddf81238db92060e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62585.jpg"
+    },
+    "gameId": "SLPM_625.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAKIGAKE!! CROMATIER HIGH SCHOOL - KORE WA HYOTTOSHITE GAME NANOKA! HEN [HUDSON THE BEST]"
+}

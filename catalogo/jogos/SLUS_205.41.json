@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_205.41",
+  "cover": {
+    "path": "PS2/SLUS_205.41/SLUS_205.41_COV.png",
+    "kind": "cover",
+    "bytes": 118069,
+    "width": 192,
+    "height": 272,
+    "sha256": "e2b03aee5f30c64be8c505427b03c097ed703bb4ceb3d6e594df9f8e8d18c38d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20541.jpg"
+    },
+    "gameId": "SLUS_205.41"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.41/SLUS_205.41_ICO.png",
+    "kind": "disc",
+    "bytes": 35131,
+    "width": 256,
+    "height": 256,
+    "sha256": "3eb8a07c0bd56ea14f5378f929cb9c45e12f9521fd4a3293a88b26082b5cd49c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.41_ICO.png"
+    },
+    "gameId": "SLUS_205.41"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.41/SLUS_205.41_BG.png",
+    "kind": "background",
+    "bytes": 246787,
+    "width": 640,
+    "height": 480,
+    "sha256": "14057f981fab1fc226e0fb5bfd81d322dc2e327de68154ba747ef7ece8c9a189",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.41/SLUS_205.41_BG_00.png"
+    },
+    "gameId": "SLUS_205.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.41/SLUS_205.41_BG.png",
+      "kind": "background",
+      "bytes": 246787,
+      "width": 640,
+      "height": 480,
+      "sha256": "14057f981fab1fc226e0fb5bfd81d322dc2e327de68154ba747ef7ece8c9a189",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.41/SLUS_205.41_BG_00.png"
+      },
+      "gameId": "SLUS_205.41"
+    },
+    {
+      "path": "PS2/SLUS_205.41/SLUS_205.41_BG_01.png",
+      "kind": "background",
+      "bytes": 274042,
+      "width": 640,
+      "height": 480,
+      "sha256": "2b5c0e7155afa065a2ea8eae59b3491e9f825189172f71b724d9db17633f26a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.41/SLUS_205.41_BG_01.png"
+      },
+      "gameId": "SLUS_205.41"
+    },
+    {
+      "path": "PS2/SLUS_205.41/SLUS_205.41_BG_02.png",
+      "kind": "background",
+      "bytes": 186434,
+      "width": 640,
+      "height": 480,
+      "sha256": "233d303deb2f9ffc968421cf4b3619906f60a8e2b0858d7965bf7b511943f654",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.41/SLUS_205.41_BG_02.png"
+      },
+      "gameId": "SLUS_205.41"
+    },
+    {
+      "path": "PS2/SLUS_205.41/SLUS_205.41_BG_03.png",
+      "kind": "background",
+      "bytes": 88126,
+      "width": 640,
+      "height": 480,
+      "sha256": "d8bfc8e8c8ddeeb6e2c7ca3487fa06ffbb4c9bba57ee45a5a1713fde2fb815a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.41/SLUS_205.41_BG_03.png"
+      },
+      "gameId": "SLUS_205.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Ballers"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_215.75",
+  "cover": {
+    "path": "PS2/SLUS_215.75/SLUS_215.75_COV.png",
+    "kind": "cover",
+    "bytes": 111141,
+    "width": 192,
+    "height": 272,
+    "sha256": "082eadfb7117de0c0d410961e2b02e1a0f74ecbeafdb95beb8eea5fc64fb120b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21575.jpg"
+    },
+    "gameId": "SLUS_215.75"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.75/SLUS_215.75_ICO.png",
+    "kind": "disc",
+    "bytes": 34002,
+    "width": 256,
+    "height": 256,
+    "sha256": "af75601992d7ca8df5ba9fb90c8267fe3168174f1f4e885d6cd967ea0d7d5a12",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.75_ICO.png"
+    },
+    "gameId": "SLUS_215.75"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.75/SLUS_215.75_BG.png",
+    "kind": "background",
+    "bytes": 217226,
+    "width": 640,
+    "height": 480,
+    "sha256": "bf86fe7b7e664141013862f0fdb16923a4465b2e1bc6163b346ae25d3a637a29",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.75/SLUS_215.75_BG_00.png"
+    },
+    "gameId": "SLUS_215.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.75/SLUS_215.75_BG.png",
+      "kind": "background",
+      "bytes": 217226,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf86fe7b7e664141013862f0fdb16923a4465b2e1bc6163b346ae25d3a637a29",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.75/SLUS_215.75_BG_00.png"
+      },
+      "gameId": "SLUS_215.75"
+    },
+    {
+      "path": "PS2/SLUS_215.75/SLUS_215.75_BG_01.png",
+      "kind": "background",
+      "bytes": 175943,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e7a47c7ce59c17abd855d3fd993a5633cad4803c1a4658885f8eb8c53a9aa07",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.75/SLUS_215.75_BG_01.png"
+      },
+      "gameId": "SLUS_215.75"
+    },
+    {
+      "path": "PS2/SLUS_215.75/SLUS_215.75_BG_02.png",
+      "kind": "background",
+      "bytes": 134371,
+      "width": 640,
+      "height": 480,
+      "sha256": "3ff1948c3b1600008a44d27c15a03d9738aff4d44f712bb229098975b6ec3d3f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.75/SLUS_215.75_BG_02.png"
+      },
+      "gameId": "SLUS_215.75"
+    },
+    {
+      "path": "PS2/SLUS_215.75/SLUS_215.75_BG_03.png",
+      "kind": "background",
+      "bytes": 165029,
+      "width": 640,
+      "height": 480,
+      "sha256": "b7b5b48e6821e6d861a1e2e8bb4cb1bb47aeca1e236b22c5ac2f6b89cc262831",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.75/SLUS_215.75_BG_03.png"
+      },
+      "gameId": "SLUS_215.75"
+    },
+    {
+      "path": "PS2/SLUS_215.75/SLUS_215.75_BG_04.png",
+      "kind": "background",
+      "bytes": 186603,
+      "width": 640,
+      "height": 480,
+      "sha256": "946f3a24b867085ef028a0c2c8c7e80ae29e0a4dd9e9710126804e89510a8f74",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.75/SLUS_215.75_BG_04.png"
+      },
+      "gameId": "SLUS_215.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NARUTO - ULTIMATE NINJA 2"
+}

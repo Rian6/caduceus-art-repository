@@ -1,0 +1,51 @@
+{
+  "id": "SCKA_200.63",
+  "cover": {
+    "path": "PS2/SCKA_200.63/SCKA_200.63_COV.png",
+    "kind": "cover",
+    "bytes": 109733,
+    "width": 192,
+    "height": 272,
+    "sha256": "0004c7c87aaaddf79719f17096f28e2f694ba7594f4d0e3eddb020b28ff6d0ce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20063.jpg"
+    },
+    "gameId": "SCKA_200.63"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.63/SCKA_200.63_BG.png",
+    "kind": "background",
+    "bytes": 179597,
+    "width": 640,
+    "height": 480,
+    "sha256": "30776f2e208421d3534669d9ead12d55961ebe9181206cf0ce8a430f471afc15",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.63/SCKA_200.63_BG_00.png"
+    },
+    "gameId": "SCKA_200.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.63/SCKA_200.63_BG.png",
+      "kind": "background",
+      "bytes": 179597,
+      "width": 640,
+      "height": 480,
+      "sha256": "30776f2e208421d3534669d9ead12d55961ebe9181206cf0ce8a430f471afc15",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.63/SCKA_200.63_BG_00.png"
+      },
+      "gameId": "SCKA_200.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLY COOPER 3 - HONOUR AMONG THIEVES"
+}

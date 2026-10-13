@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_219.41",
+  "cover": {
+    "path": "PS2/SLUS_219.41/SLUS_219.41_COV.png",
+    "kind": "cover",
+    "bytes": 100500,
+    "width": 192,
+    "height": 272,
+    "sha256": "279e6a57a6504679fdc7f467fedf30fc9ed62e549ef5195ddd70d34ae9961c41",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21941.jpg"
+    },
+    "gameId": "SLUS_219.41"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.41/SLUS_219.41_ICO.png",
+    "kind": "disc",
+    "bytes": 28544,
+    "width": 256,
+    "height": 256,
+    "sha256": "d1f2f3c63e5b45959a536cd6ee3ea90e62d8cf9ba73605358f89a08d32e916ec",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_219.41_ICO.png"
+    },
+    "gameId": "SLUS_219.41"
+  },
+  "background": {
+    "path": "PS2/SLUS_219.41/SLUS_219.41_BG.png",
+    "kind": "background",
+    "bytes": 144730,
+    "width": 640,
+    "height": 480,
+    "sha256": "2ee9c511836dc4821f53082bab0fbfae050a6308f2ae1ff169ea466a060699aa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_219.41/SLUS_219.41_BG_00.png"
+    },
+    "gameId": "SLUS_219.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_219.41/SLUS_219.41_BG.png",
+      "kind": "background",
+      "bytes": 144730,
+      "width": 640,
+      "height": 480,
+      "sha256": "2ee9c511836dc4821f53082bab0fbfae050a6308f2ae1ff169ea466a060699aa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.41/SLUS_219.41_BG_00.png"
+      },
+      "gameId": "SLUS_219.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fifa Soccer 11"
+}

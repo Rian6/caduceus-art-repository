@@ -1,0 +1,51 @@
+{
+  "id": "SLES_532.46",
+  "cover": {
+    "path": "PS2/SLES_532.46/SLES_532.46_COV.png",
+    "kind": "cover",
+    "bytes": 107821,
+    "width": 192,
+    "height": 272,
+    "sha256": "b5bc0881ce456066e0db402e3e8047abd491b9ce40b991ba9613d259fb945e76",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53246.jpg"
+    },
+    "gameId": "SLES_532.46"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_532.46/SLES_532.46_BG.png",
+    "kind": "background",
+    "bytes": 182442,
+    "width": 640,
+    "height": 480,
+    "sha256": "66c1c2a15d94a314e2f238d8d14086b583f31b4096a1386ea9249c26f1f9d380",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_532.46/SLES_532.46_BG_00.png"
+    },
+    "gameId": "SLES_532.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_532.46/SLES_532.46_BG.png",
+      "kind": "background",
+      "bytes": 182442,
+      "width": 640,
+      "height": 480,
+      "sha256": "66c1c2a15d94a314e2f238d8d14086b583f31b4096a1386ea9249c26f1f9d380",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.46/SLES_532.46_BG_00.png"
+      },
+      "gameId": "SLES_532.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamWorks Madagascar"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.67",
+  "cover": {
+    "path": "PS2/SLPS_254.67/SLPS_254.67_COV.png",
+    "kind": "cover",
+    "bytes": 108195,
+    "width": 192,
+    "height": 272,
+    "sha256": "a73111232cd7ad67add9adcedaa54e8e790a0c44bc20bd3955191b349e3835d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25467.jpg"
+    },
+    "gameId": "SLPS_254.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MINNA DAISUKI KATAMARI DAMACY"
+}

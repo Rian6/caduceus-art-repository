@@ -1,0 +1,39 @@
+{
+  "id": "SLES_524.90",
+  "cover": {
+    "path": "PS2/SLES_524.90/SLES_524.90_COV.png",
+    "kind": "cover",
+    "bytes": 107696,
+    "width": 192,
+    "height": 272,
+    "sha256": "c9fc6b8ff163e6dcee7421483672220653ed9a2c6f9d7e2156ae558f20321788",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52490.jpg"
+    },
+    "gameId": "SLES_524.90"
+  },
+  "disc": {
+    "path": "PS2/SLES_524.90/SLES_524.90_ICO.png",
+    "kind": "disc",
+    "bytes": 12059,
+    "width": 128,
+    "height": 128,
+    "sha256": "3f98757d97a380a5c77b539d1c6ea6da061ec8bd6e819e7fbd707ea422226b3b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_524.90_ICO.png"
+    },
+    "gameId": "SLES_524.90"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dance: UK eXtra Trax"
+}

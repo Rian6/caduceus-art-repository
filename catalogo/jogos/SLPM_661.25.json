@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.25",
+  "cover": {
+    "path": "PS2/SLPM_661.25/SLPM_661.25_COV.png",
+    "kind": "cover",
+    "bytes": 47221,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff357da65638e7ad06e102f50d5429fee4b9876e05061f0a0178b886a5e7cd25",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66125.jpg"
+    },
+    "gameId": "SLPM_661.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy X-2 [ULTIMATE HITS]"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SLES_539.08",
+  "cover": {
+    "path": "PS2/SLES_539.08/SLES_539.08_COV.png",
+    "kind": "cover",
+    "bytes": 95252,
+    "width": 192,
+    "height": 272,
+    "sha256": "7d2a6018d524e655a738969c404d9355b14185833b5d2b81677bc2edc1e85935",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53908.jpg"
+    },
+    "gameId": "SLES_539.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_539.08/SLES_539.08_BG.png",
+    "kind": "background",
+    "bytes": 152602,
+    "width": 640,
+    "height": 480,
+    "sha256": "359380d29d6f52fa14a8b7a02b0c5590cc305813926cbd3b5deda51948e124c6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.08/SLES_539.08_BG_00.png"
+    },
+    "gameId": "SLES_539.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.08/SLES_539.08_BG.png",
+      "kind": "background",
+      "bytes": 152602,
+      "width": 640,
+      "height": 480,
+      "sha256": "359380d29d6f52fa14a8b7a02b0c5590cc305813926cbd3b5deda51948e124c6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.08/SLES_539.08_BG_00.png"
+      },
+      "gameId": "SLES_539.08"
+    },
+    {
+      "path": "PS2/SLES_539.08/SLES_539.08_BG_01.png",
+      "kind": "background",
+      "bytes": 200937,
+      "width": 640,
+      "height": 480,
+      "sha256": "36b292ebc15bf92c2d7134889fc29ad54ee199d7d47bb4831d11f367a0e3fcbd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.08/SLES_539.08_BG_01.png"
+      },
+      "gameId": "SLES_539.08"
+    },
+    {
+      "path": "PS2/SLES_539.08/SLES_539.08_BG_02.png",
+      "kind": "background",
+      "bytes": 160008,
+      "width": 640,
+      "height": 480,
+      "sha256": "2557337f95ec99d459dd3ca7a521a60c64d51ca784fc0060a91bb63817fe526c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.08/SLES_539.08_BG_02.png"
+      },
+      "gameId": "SLES_539.08"
+    },
+    {
+      "path": "PS2/SLES_539.08/SLES_539.08_BG_03.png",
+      "kind": "background",
+      "bytes": 219687,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd732063e9b3f9a8a64c0dbeda6ec6530034c53daa3b440d702b337c9d31f8b7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.08/SLES_539.08_BG_03.png"
+      },
+      "gameId": "SLES_539.08"
+    },
+    {
+      "path": "PS2/SLES_539.08/SLES_539.08_BG_04.png",
+      "kind": "background",
+      "bytes": 188732,
+      "width": 640,
+      "height": 480,
+      "sha256": "7ae3678146cefa520125a504f5c395236136ef305771ccc579cae3344e5c0c55",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.08/SLES_539.08_BG_04.png"
+      },
+      "gameId": "SLES_539.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Lara Croft Tomb Raider: Legend"
+}

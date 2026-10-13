@@ -1,0 +1,25 @@
+{
+  "id": "SCED_529.90",
+  "cover": {
+    "path": "PS2/SCED_529.90/SCED_529.90_COV.png",
+    "kind": "cover",
+    "bytes": 61952,
+    "width": 192,
+    "height": 272,
+    "sha256": "99be1f431aae58babef3f7c00332c13aa51c84155fac0459e7c129888d402330",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCED_529.90/SCED_529.90_COV.png"
+    },
+    "gameId": "SCED_529.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Official PlayStation 2 Magazine Demo 53"
+}

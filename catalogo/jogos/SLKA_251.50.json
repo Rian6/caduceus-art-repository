@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_251.50",
+  "cover": {
+    "path": "PS2/SLKA_251.50/SLKA_251.50_COV.png",
+    "kind": "cover",
+    "bytes": 95078,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f0972ec8d5299df235f50dd612d0343bb38e8d5309a57b75ea6b0a1574a9d8b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25150.jpg"
+    },
+    "gameId": "SLKA_251.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_251.50/SLKA_251.50_BG.png",
+    "kind": "background",
+    "bytes": 198996,
+    "width": 640,
+    "height": 480,
+    "sha256": "f202b41ade732d7954f9f8241a4d806c1a8946e1c02b8d5343253a2818cee471",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.50/SLKA_251.50_BG_00.png"
+    },
+    "gameId": "SLKA_251.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_251.50/SLKA_251.50_BG.png",
+      "kind": "background",
+      "bytes": 198996,
+      "width": 640,
+      "height": 480,
+      "sha256": "f202b41ade732d7954f9f8241a4d806c1a8946e1c02b8d5343253a2818cee471",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.50/SLKA_251.50_BG_00.png"
+      },
+      "gameId": "SLKA_251.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BUJINGAI"
+}

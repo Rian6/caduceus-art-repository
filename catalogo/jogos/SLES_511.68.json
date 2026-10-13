@@ -1,0 +1,39 @@
+{
+  "id": "SLES_511.68",
+  "cover": {
+    "path": "PS2/SLES_511.68/SLES_511.68_COV.png",
+    "kind": "cover",
+    "bytes": 83558,
+    "width": 192,
+    "height": 272,
+    "sha256": "0db57b94137954c391f3438e6bbe2e82739c9627e2a550597d3e6891ebd3fd5f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51168.jpg"
+    },
+    "gameId": "SLES_511.68"
+  },
+  "disc": {
+    "path": "PS2/SLES_511.68/SLES_511.68_ICO.png",
+    "kind": "disc",
+    "bytes": 11950,
+    "width": 128,
+    "height": 128,
+    "sha256": "c1cc3fa1351c3746fe6de6e043ad8f0bce6668648b2a6aef8b094678071c022a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_511.68_ICO.png"
+    },
+    "gameId": "SLES_511.68"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AFL Live 2003"
+}

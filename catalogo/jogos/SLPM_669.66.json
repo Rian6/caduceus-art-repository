@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.66",
+  "cover": {
+    "path": "PS2/SLPM_669.66/SLPM_669.66_COV.png",
+    "kind": "cover",
+    "bytes": 62546,
+    "width": 192,
+    "height": 272,
+    "sha256": "e784aca8ea647e93e5e1f00b3be76c19e15f1a13fb14a2076e13232775bb5971",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66966.jpg"
+    },
+    "gameId": "SLPM_669.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE GODFATHER [EA:SY! 1980]"
+}

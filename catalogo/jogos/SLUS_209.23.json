@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_209.23",
+  "cover": {
+    "path": "PS2/SLUS_209.23/SLUS_209.23_COV.png",
+    "kind": "cover",
+    "bytes": 81358,
+    "width": 192,
+    "height": 272,
+    "sha256": "71b06bbf8b13b77bd306bb9819907f5cb4a6d8572b8aef0ed319e0fa47bac321",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20923.jpg"
+    },
+    "gameId": "SLUS_209.23"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.23/SLUS_209.23_ICO.png",
+    "kind": "disc",
+    "bytes": 32266,
+    "width": 256,
+    "height": 256,
+    "sha256": "143eb47dd5339375178ac24a1c201ce4c38fe51fa4e87da932d27643a6b95c16",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.23_ICO.png"
+    },
+    "gameId": "SLUS_209.23"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.23/SLUS_209.23_BG.png",
+    "kind": "background",
+    "bytes": 187503,
+    "width": 640,
+    "height": 480,
+    "sha256": "eb3d77f286a35a06af6d31a7730c779f2d6610a2675d7f694a4f067e97b2d2ef",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.23/SLUS_209.23_BG_00.png"
+    },
+    "gameId": "SLUS_209.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.23/SLUS_209.23_BG.png",
+      "kind": "background",
+      "bytes": 187503,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb3d77f286a35a06af6d31a7730c779f2d6610a2675d7f694a4f067e97b2d2ef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.23/SLUS_209.23_BG_00.png"
+      },
+      "gameId": "SLUS_209.23"
+    },
+    {
+      "path": "PS2/SLUS_209.23/SLUS_209.23_BG_01.png",
+      "kind": "background",
+      "bytes": 92923,
+      "width": 640,
+      "height": 480,
+      "sha256": "838c1ba75edefdb58918d7134d0ce6c20a3b6a9b36dc21f02b83a6532c1e4e0d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.23/SLUS_209.23_BG_01.png"
+      },
+      "gameId": "SLUS_209.23"
+    },
+    {
+      "path": "PS2/SLUS_209.23/SLUS_209.23_BG_02.png",
+      "kind": "background",
+      "bytes": 117555,
+      "width": 640,
+      "height": 480,
+      "sha256": "42fba5ab0eaef353fdc903b87187a9c98746ae66ee5926319ae9a076c17bde75",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.23/SLUS_209.23_BG_02.png"
+      },
+      "gameId": "SLUS_209.23"
+    },
+    {
+      "path": "PS2/SLUS_209.23/SLUS_209.23_BG_03.png",
+      "kind": "background",
+      "bytes": 172422,
+      "width": 640,
+      "height": 480,
+      "sha256": "0134c6830b65e4d1b05141eff1ca7856e7b23c163c524b7496401b2b2c0ef0ce",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.23/SLUS_209.23_BG_03.png"
+      },
+      "gameId": "SLUS_209.23"
+    },
+    {
+      "path": "PS2/SLUS_209.23/SLUS_209.23_BG_04.png",
+      "kind": "background",
+      "bytes": 143444,
+      "width": 640,
+      "height": 480,
+      "sha256": "dccb59f11bded215ac29b3c88be0c27a7cea1715dd7b31b04f03173198ad9f55",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.23/SLUS_209.23_BG_04.png"
+      },
+      "gameId": "SLUS_209.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KOF: Maximum Impact"
+}

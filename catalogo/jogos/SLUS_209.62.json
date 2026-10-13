@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_209.62",
+  "cover": {
+    "path": "PS2/SLUS_209.62/SLUS_209.62_COV.png",
+    "kind": "cover",
+    "bytes": 116401,
+    "width": 192,
+    "height": 272,
+    "sha256": "7b605e1ed26f8fda4de72b1867de9e8b009966c3ae8871eefd7c753e3fb3b702",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20962.jpg"
+    },
+    "gameId": "SLUS_209.62"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.62/SLUS_209.62_ICO.png",
+    "kind": "disc",
+    "bytes": 36806,
+    "width": 256,
+    "height": 256,
+    "sha256": "7722f9c42242b58890f57080fa9536e9b728c36ebc215d7ae3d38a8920b72c8d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.62_ICO.png"
+    },
+    "gameId": "SLUS_209.62"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.62/SLUS_209.62_BG.png",
+    "kind": "background",
+    "bytes": 195036,
+    "width": 640,
+    "height": 480,
+    "sha256": "b8a36b021ac96f3571186d5ef609689386db2f003f52fbb8f23e28296437c5e3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.62/SLUS_209.62_BG_00.png"
+    },
+    "gameId": "SLUS_209.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.62/SLUS_209.62_BG.png",
+      "kind": "background",
+      "bytes": 195036,
+      "width": 640,
+      "height": 480,
+      "sha256": "b8a36b021ac96f3571186d5ef609689386db2f003f52fbb8f23e28296437c5e3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.62/SLUS_209.62_BG_00.png"
+      },
+      "gameId": "SLUS_209.62"
+    },
+    {
+      "path": "PS2/SLUS_209.62/SLUS_209.62_BG_01.png",
+      "kind": "background",
+      "bytes": 193421,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e2aeeac0fd49eeb9539dd26fc1c78fc3e47942beb38ad3f03b8bfa15242f3d2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.62/SLUS_209.62_BG_01.png"
+      },
+      "gameId": "SLUS_209.62"
+    },
+    {
+      "path": "PS2/SLUS_209.62/SLUS_209.62_BG_02.png",
+      "kind": "background",
+      "bytes": 129920,
+      "width": 640,
+      "height": 480,
+      "sha256": "8bb6a5d3720e3ed9dfe166d0ab6dc231fd9352f421882c525e789f7be22e57bd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.62/SLUS_209.62_BG_02.png"
+      },
+      "gameId": "SLUS_209.62"
+    },
+    {
+      "path": "PS2/SLUS_209.62/SLUS_209.62_BG_03.png",
+      "kind": "background",
+      "bytes": 175005,
+      "width": 640,
+      "height": 480,
+      "sha256": "b6bccd90b00e6fc672b9b082f878d50bf3499f39e8e299c124724fc160efd8fe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.62/SLUS_209.62_BG_03.png"
+      },
+      "gameId": "SLUS_209.62"
+    },
+    {
+      "path": "PS2/SLUS_209.62/SLUS_209.62_BG_04.png",
+      "kind": "background",
+      "bytes": 180430,
+      "width": 640,
+      "height": 480,
+      "sha256": "48074fea122b7613b4d157d01d723407ef8e628402c95b8ca9d0e9abd3ae2e9d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.62/SLUS_209.62_BG_04.png"
+      },
+      "gameId": "SLUS_209.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Castle of Shikigami 2"
+}

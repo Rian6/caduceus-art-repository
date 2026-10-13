@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_625.88",
+  "cover": {
+    "path": "PS2/SLPM_625.88/SLPM_625.88_COV.png",
+    "kind": "cover",
+    "bytes": 92815,
+    "width": 192,
+    "height": 272,
+    "sha256": "a85d5d91ff9fc32e52f37f90d19d485a18490405c592fb0345c57fe355f32e38",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62588.jpg"
+    },
+    "gameId": "SLPM_625.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_625.88/SLPM_625.88_BG.png",
+    "kind": "background",
+    "bytes": 189154,
+    "width": 640,
+    "height": 480,
+    "sha256": "20e0758a491c655ec202f801274fdb9c1abd9ce049c24140792b3433da7fe438",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_625.88/SLPM_625.88_BG_00.png"
+    },
+    "gameId": "SLPM_625.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_625.88/SLPM_625.88_BG.png",
+      "kind": "background",
+      "bytes": 189154,
+      "width": 640,
+      "height": 480,
+      "sha256": "20e0758a491c655ec202f801274fdb9c1abd9ce049c24140792b3433da7fe438",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_625.88/SLPM_625.88_BG_00.png"
+      },
+      "gameId": "SLPM_625.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.073 - THE SAIYUKI SARUDEN"
+}

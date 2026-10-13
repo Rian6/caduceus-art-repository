@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.41",
+  "cover": {
+    "path": "PS2/SLPS_255.41/SLPS_255.41_COV.png",
+    "kind": "cover",
+    "bytes": 114147,
+    "width": 192,
+    "height": 272,
+    "sha256": "cea08c6233fc72d3d4b625bc0831d9c925099ddfeb2892228fe55195b396a953",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25541.jpg"
+    },
+    "gameId": "SLPS_255.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shinseiki GPX Cyber Formula - Road to the Infinity 2"
+}

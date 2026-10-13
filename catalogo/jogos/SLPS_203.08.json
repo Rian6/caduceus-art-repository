@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.08",
+  "cover": {
+    "path": "PS2/SLPS_203.08/SLPS_203.08_COV.png",
+    "kind": "cover",
+    "bytes": 109623,
+    "width": 192,
+    "height": 272,
+    "sha256": "4df879298c54910d1b822dcfcb31155282ee0faae2a3c59538017360772ea625",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20308.jpg"
+    },
+    "gameId": "SLPS_203.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HANABI HYAKKEI [LIMITED EDITION]"
+}

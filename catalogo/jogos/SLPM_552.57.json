@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.57",
+  "cover": {
+    "path": "PS2/SLPM_552.57/SLPM_552.57_COV.png",
+    "kind": "cover",
+    "bytes": 109880,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ceb32202fb4795ea2552ea51c0f1296e4a4f5a4160cfd3f076bacd71422875a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55257.jpg"
+    },
+    "gameId": "SLPM_552.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LUCIAN BEE'S - EVIL VIOLET"
+}

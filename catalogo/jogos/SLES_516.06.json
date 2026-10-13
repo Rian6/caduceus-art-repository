@@ -1,0 +1,64 @@
+{
+  "id": "SLES_516.06",
+  "cover": {
+    "path": "PS2/SLES_516.06/SLES_516.06_COV.png",
+    "kind": "cover",
+    "bytes": 62210,
+    "width": 192,
+    "height": 272,
+    "sha256": "14c55d5a29b0be2940f5e4fe3bb05b7c6445f77855568029589250394ce421a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51606.jpg"
+    },
+    "gameId": "SLES_516.06"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_516.06/SLES_516.06_BG.png",
+    "kind": "background",
+    "bytes": 214101,
+    "width": 640,
+    "height": 480,
+    "sha256": "87ba142bbc2625c5beee21be7035a78730bfd89cc34c765c76735720fbb86935",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_516.06/SLES_516.06_BG_00.png"
+    },
+    "gameId": "SLES_516.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_516.06/SLES_516.06_BG.png",
+      "kind": "background",
+      "bytes": 214101,
+      "width": 640,
+      "height": 480,
+      "sha256": "87ba142bbc2625c5beee21be7035a78730bfd89cc34c765c76735720fbb86935",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.06/SLES_516.06_BG_00.png"
+      },
+      "gameId": "SLES_516.06"
+    },
+    {
+      "path": "PS2/SLES_516.06/SLES_516.06_BG_01.png",
+      "kind": "background",
+      "bytes": 234349,
+      "width": 640,
+      "height": 480,
+      "sha256": "0e078f8696a7fd3417b70464d66ff1b1ad106eb5613e27066cf66fcb58144f5c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.06/SLES_516.06_BG_01.png"
+      },
+      "gameId": "SLES_516.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Unlimited Saga"
+}

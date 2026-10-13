@@ -1,0 +1,25 @@
+{
+  "id": "SCES_505.96",
+  "cover": {
+    "path": "PS2/SCES_505.96/SCES_505.96_COV.png",
+    "kind": "cover",
+    "bytes": 86524,
+    "width": 192,
+    "height": 272,
+    "sha256": "01493286e00044241741482084a1561e9ba59d2482504a7e1851005055f2a08d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50596.jpg"
+    },
+    "gameId": "SCES_505.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S PIXAR - MONSTERS INC. - SKRAEMMEOEN"
+}

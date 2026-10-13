@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.50",
+  "cover": {
+    "path": "PS2/SLPM_627.50/SLPM_627.50_COV.png",
+    "kind": "cover",
+    "bytes": 96201,
+    "width": 192,
+    "height": 272,
+    "sha256": "06650c58c74cf9284f2f9a9988d71c6f4230cf55f4de89d6ba4df269e52aadca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62750.jpg"
+    },
+    "gameId": "SLPM_627.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Momotarou Densetsu 16"
+}

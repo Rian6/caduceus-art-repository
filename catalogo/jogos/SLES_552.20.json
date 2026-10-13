@@ -1,0 +1,51 @@
+{
+  "id": "SLES_552.20",
+  "cover": {
+    "path": "PS2/SLES_552.20/SLES_552.20_COV.png",
+    "kind": "cover",
+    "bytes": 103434,
+    "width": 192,
+    "height": 272,
+    "sha256": "308ca89f65b7fbe7c5cd92ebdef12247a75cc3d3258e80208ad12ad9c1a19331",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55220.jpg"
+    },
+    "gameId": "SLES_552.20"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_552.20/SLES_552.20_BG.png",
+    "kind": "background",
+    "bytes": 187616,
+    "width": 640,
+    "height": 480,
+    "sha256": "11db2b32983fceaff11fcc84cfc47b11bae9b3c319ba6072a80fc359c88a861b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_552.20/SLES_552.20_BG_00.png"
+    },
+    "gameId": "SLES_552.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_552.20/SLES_552.20_BG.png",
+      "kind": "background",
+      "bytes": 187616,
+      "width": 640,
+      "height": 480,
+      "sha256": "11db2b32983fceaff11fcc84cfc47b11bae9b3c319ba6072a80fc359c88a861b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.20/SLES_552.20_BG_00.png"
+      },
+      "gameId": "SLES_552.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUMMER ATHLETICS"
+}

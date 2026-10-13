@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.16",
+  "cover": {
+    "path": "PS2/SLPM_621.16/SLPM_621.16_COV.png",
+    "kind": "cover",
+    "bytes": 107476,
+    "width": 192,
+    "height": 272,
+    "sha256": "95e550e5b6852406c1f86928ca5365661dd47e0761cf346790920df0aa876097",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62116.jpg"
+    },
+    "gameId": "SLPM_621.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EX JINSEI GAME"
+}

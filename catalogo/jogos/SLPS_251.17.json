@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.17",
+  "cover": {
+    "path": "PS2/SLPS_251.17/SLPS_251.17_COV.png",
+    "kind": "cover",
+    "bytes": 103210,
+    "width": 192,
+    "height": 272,
+    "sha256": "54985043356218eb67bc57b22cd4d5c49ebf5faf645e3c14dbc40b5a4fc7af22",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25117.jpg"
+    },
+    "gameId": "SLPS_251.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fever 6 - Sankyo Koushiki Pachinko Simulation"
+}

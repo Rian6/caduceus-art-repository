@@ -1,0 +1,25 @@
+{
+  "id": "SKAJ_251.44",
+  "cover": {
+    "path": "PS2/SKAJ_251.44/SKAJ_251.44_COV.png",
+    "kind": "cover",
+    "bytes": 18808,
+    "width": 192,
+    "height": 272,
+    "sha256": "dde0453458c1d1b9e7033bc442aa7b5547f7b02e81ca1b24c5b00ca501eb5805",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SKAJ_251.44/SKAJ_251.44_COV.png"
+    },
+    "gameId": "SKAJ_251.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy X-2"
+}

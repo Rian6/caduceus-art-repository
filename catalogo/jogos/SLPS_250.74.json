@@ -1,0 +1,90 @@
+{
+  "id": "SLPS_250.74",
+  "cover": {
+    "path": "PS2/SLPS_250.74/SLPS_250.74_COV.png",
+    "kind": "cover",
+    "bytes": 94610,
+    "width": 192,
+    "height": 272,
+    "sha256": "8297526b6f9e82e3c8763a70af44b8c182eefe5dee79c70c1715e7de39a68c31",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25074.jpg"
+    },
+    "gameId": "SLPS_250.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_250.74/SLPS_250.74_BG.png",
+    "kind": "background",
+    "bytes": 207033,
+    "width": 640,
+    "height": 480,
+    "sha256": "0ab5e45f52a323eb929886ea8b224727b8372eb3ebde31e65366ccc88f099259",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.74/SLPS_250.74_BG_00.png"
+    },
+    "gameId": "SLPS_250.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_250.74/SLPS_250.74_BG.png",
+      "kind": "background",
+      "bytes": 207033,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ab5e45f52a323eb929886ea8b224727b8372eb3ebde31e65366ccc88f099259",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.74/SLPS_250.74_BG_00.png"
+      },
+      "gameId": "SLPS_250.74"
+    },
+    {
+      "path": "PS2/SLPS_250.74/SLPS_250.74_BG_01.png",
+      "kind": "background",
+      "bytes": 187447,
+      "width": 640,
+      "height": 480,
+      "sha256": "17417fc29cf515b91d055009b85040ea59d7ad38c3acbf86d87781c12f1de3f6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.74/SLPS_250.74_BG_01.png"
+      },
+      "gameId": "SLPS_250.74"
+    },
+    {
+      "path": "PS2/SLPS_250.74/SLPS_250.74_BG_02.png",
+      "kind": "background",
+      "bytes": 153992,
+      "width": 640,
+      "height": 480,
+      "sha256": "05502f4b3d0f753d1413ad6956e4638ce3b00b7fe69d06077fbbe09b7fc5aa31",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.74/SLPS_250.74_BG_02.png"
+      },
+      "gameId": "SLPS_250.74"
+    },
+    {
+      "path": "PS2/SLPS_250.74/SLPS_250.74_BG_03.png",
+      "kind": "background",
+      "bytes": 179763,
+      "width": 640,
+      "height": 480,
+      "sha256": "a229c05668ad75fc83aa7a9335d6bcef41dbeb886cabd1e6b7f3b6ae0ec8f22e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.74/SLPS_250.74_BG_03.png"
+      },
+      "gameId": "SLPS_250.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZERO"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_216.92",
+  "cover": {
+    "path": "PS2/SLUS_216.92/SLUS_216.92_COV.png",
+    "kind": "cover",
+    "bytes": 107343,
+    "width": 192,
+    "height": 272,
+    "sha256": "980b14824f904d08904c58fe7761d3f3f2065e5f90187e84150b215da5ff4b71",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21692.jpg"
+    },
+    "gameId": "SLUS_216.92"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.92/SLUS_216.92_ICO.png",
+    "kind": "disc",
+    "bytes": 19528,
+    "width": 256,
+    "height": 256,
+    "sha256": "a05c25794323727f82aa8420570e67a531d80133e0391717e9a1541fec446c52",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.92_ICO.png"
+    },
+    "gameId": "SLUS_216.92"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.92/SLUS_216.92_BG.png",
+    "kind": "background",
+    "bytes": 214679,
+    "width": 640,
+    "height": 480,
+    "sha256": "8b22ab8e9a88b8bcf6acd866d4eeb41843d2178d4d205de47e59092ab0945a49",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.92/SLUS_216.92_BG_00.png"
+    },
+    "gameId": "SLUS_216.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.92/SLUS_216.92_BG.png",
+      "kind": "background",
+      "bytes": 214679,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b22ab8e9a88b8bcf6acd866d4eeb41843d2178d4d205de47e59092ab0945a49",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.92/SLUS_216.92_BG_00.png"
+      },
+      "gameId": "SLUS_216.92"
+    },
+    {
+      "path": "PS2/SLUS_216.92/SLUS_216.92_BG_01.png",
+      "kind": "background",
+      "bytes": 178277,
+      "width": 640,
+      "height": 480,
+      "sha256": "3a48514d27e0042158c19307ef5abc00b5e4c3b8922f149837b6865e8528c57f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.92/SLUS_216.92_BG_01.png"
+      },
+      "gameId": "SLUS_216.92"
+    },
+    {
+      "path": "PS2/SLUS_216.92/SLUS_216.92_BG_02.png",
+      "kind": "background",
+      "bytes": 184656,
+      "width": 640,
+      "height": 480,
+      "sha256": "7527c633dda0b50c1fc6f3d196ec6ae8c1135ca711071aa59505ca1ab881bb12",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.92/SLUS_216.92_BG_02.png"
+      },
+      "gameId": "SLUS_216.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Puzzle Quest: Challenge of the Warlords"
+}

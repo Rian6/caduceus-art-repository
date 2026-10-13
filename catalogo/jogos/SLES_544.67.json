@@ -1,0 +1,39 @@
+{
+  "id": "SLES_544.67",
+  "cover": {
+    "path": "PS2/SLES_544.67/SLES_544.67_COV.png",
+    "kind": "cover",
+    "bytes": 98167,
+    "width": 192,
+    "height": 272,
+    "sha256": "383429491beee171dc22992c5ef9f17fef4d55fc1686032f37c68a675f95b16a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54467.jpg"
+    },
+    "gameId": "SLES_544.67"
+  },
+  "disc": {
+    "path": "PS2/SLES_544.67/SLES_544.67_ICO.png",
+    "kind": "disc",
+    "bytes": 11023,
+    "width": 128,
+    "height": 128,
+    "sha256": "ede8d606191978b74bbf4480f32db7541edb7fe00f4f0d913edee79f74834191",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_544.67_ICO.png"
+    },
+    "gameId": "SLES_544.67"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FINAL ARMADA"
+}

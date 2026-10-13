@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.32",
+  "cover": {
+    "path": "PS2/SLPM_620.32/SLPM_620.32_COV.png",
+    "kind": "cover",
+    "bytes": 66082,
+    "width": 192,
+    "height": 272,
+    "sha256": "3b19088f65a28e3ae7363c65588d04a71691b4ebffc6c385a163c34efb1b47a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62032.jpg"
+    },
+    "gameId": "SLPM_620.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN NBA 2Night"
+}

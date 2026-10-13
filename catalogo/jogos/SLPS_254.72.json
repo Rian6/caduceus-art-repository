@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.72",
+  "cover": {
+    "path": "PS2/SLPS_254.72/SLPS_254.72_COV.png",
+    "kind": "cover",
+    "bytes": 66248,
+    "width": 192,
+    "height": 272,
+    "sha256": "0da73eda7fdd36c44455eac97c0808df12f3e57ff9287beca2a44decff98ba2b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25472.jpg"
+    },
+    "gameId": "SLPS_254.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "XIII: Daitouryou o Koroshita Otoko"
+}

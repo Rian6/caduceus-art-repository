@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_211.73",
+  "cover": {
+    "path": "PS2/SLUS_211.73/SLUS_211.73_COV.png",
+    "kind": "cover",
+    "bytes": 107943,
+    "width": 192,
+    "height": 272,
+    "sha256": "c7e3eb70e758a9be0e00d338c922d5babf21ae06e5b5b67208f74b8c5181a629",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21173.jpg"
+    },
+    "gameId": "SLUS_211.73"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.73/SLUS_211.73_ICO.png",
+    "kind": "disc",
+    "bytes": 32360,
+    "width": 256,
+    "height": 256,
+    "sha256": "e65379898ea669c239b8e0ac807fa82b4a17ca5a93d55362c22378d3a9c9a9ad",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.73_ICO.png"
+    },
+    "gameId": "SLUS_211.73"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.73/SLUS_211.73_BG.png",
+    "kind": "background",
+    "bytes": 164340,
+    "width": 640,
+    "height": 480,
+    "sha256": "fd81c183d846996710973e7d0e6c87dd646c082b498709131d9dcff6a2cd9c6a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.73/SLUS_211.73_BG_00.png"
+    },
+    "gameId": "SLUS_211.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.73/SLUS_211.73_BG.png",
+      "kind": "background",
+      "bytes": 164340,
+      "width": 640,
+      "height": 480,
+      "sha256": "fd81c183d846996710973e7d0e6c87dd646c082b498709131d9dcff6a2cd9c6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.73/SLUS_211.73_BG_00.png"
+      },
+      "gameId": "SLUS_211.73"
+    },
+    {
+      "path": "PS2/SLUS_211.73/SLUS_211.73_BG_01.png",
+      "kind": "background",
+      "bytes": 161345,
+      "width": 640,
+      "height": 480,
+      "sha256": "d17d48fef86ad8ba1eb1ba10f789affef0e5c6f84e1562eec83e073a38793002",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.73/SLUS_211.73_BG_01.png"
+      },
+      "gameId": "SLUS_211.73"
+    },
+    {
+      "path": "PS2/SLUS_211.73/SLUS_211.73_BG_02.png",
+      "kind": "background",
+      "bytes": 115406,
+      "width": 640,
+      "height": 480,
+      "sha256": "5271c83fee77da0150decd427baf8b53b239df9565bcb05a98f7a492f8a5b7c1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.73/SLUS_211.73_BG_02.png"
+      },
+      "gameId": "SLUS_211.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dora the Explorer- Journey to the Purple Planet"
+}

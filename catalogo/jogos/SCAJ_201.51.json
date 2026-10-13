@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.51",
+  "cover": {
+    "path": "PS2/SCAJ_201.51/SCAJ_201.51_COV.png",
+    "kind": "cover",
+    "bytes": 85014,
+    "width": 192,
+    "height": 272,
+    "sha256": "da232a9318c45baaa5823446e6bf93cb8f9ea73e1e1b6953591815332a427fa9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20151.jpg"
+    },
+    "gameId": "SCAJ_201.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MotoGP 4"
+}

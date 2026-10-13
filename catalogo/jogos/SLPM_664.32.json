@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.32",
+  "cover": {
+    "path": "PS2/SLPM_664.32/SLPM_664.32_COV.png",
+    "kind": "cover",
+    "bytes": 112083,
+    "width": 192,
+    "height": 272,
+    "sha256": "58c218fb6d1bdcd99feec3801580ec34bf8e4c8cabc3e79d7dc6d3fcab68e69c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66432.jpg"
+    },
+    "gameId": "SLPM_664.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TAMAYURA - MITAMAOKURI NO UTA [FIRST PRINT LIMITED EDITION]"
+}

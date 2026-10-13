@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.95",
+  "cover": {
+    "path": "PS2/SLPM_655.95/SLPM_655.95_COV.png",
+    "kind": "cover",
+    "bytes": 79179,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a8fe363fa313c369c8894e50a731fdc717e419518528f40719b1f411d7575f8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65595.jpg"
+    },
+    "gameId": "SLPM_655.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GAMBLER DENSETSU TETSUYA - KUROUTO CHOUJOU KESSEN [ATHENA BEST COLLECTION VOL.1]"
+}

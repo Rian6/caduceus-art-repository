@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.03",
+  "cover": {
+    "path": "PS2/SLPM_655.03/SLPM_655.03_COV.png",
+    "kind": "cover",
+    "bytes": 97799,
+    "width": 192,
+    "height": 272,
+    "sha256": "b057928f8e68a5dfc99af0a811eab9c9c404c1a090e5dca02d5405b3347115b2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65503.jpg"
+    },
+    "gameId": "SLPM_655.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Lord of the Rings: Ou no Kikan"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_661.66",
+  "cover": {
+    "path": "PS2/SLPM_661.66/SLPM_661.66_COV.png",
+    "kind": "cover",
+    "bytes": 107035,
+    "width": 192,
+    "height": 272,
+    "sha256": "9cc2fe44fb0bcb110e916d877fa7adc264248f778fc6126b37aa34afbff32729",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66166.jpg"
+    },
+    "gameId": "SLPM_661.66"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_661.66/SLPM_661.66_BG.png",
+    "kind": "background",
+    "bytes": 915891,
+    "width": 640,
+    "height": 480,
+    "sha256": "9c79786065780674a21526ff72142b2b725da7d924e2aadd8fc9e8e81e82cd58",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_661.66/SLPM_661.66_BG_00.png"
+    },
+    "gameId": "SLPM_661.66"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_661.66/SLPM_661.66_BG.png",
+      "kind": "background",
+      "bytes": 915891,
+      "width": 640,
+      "height": 480,
+      "sha256": "9c79786065780674a21526ff72142b2b725da7d924e2aadd8fc9e8e81e82cd58",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_661.66/SLPM_661.66_BG_00.png"
+      },
+      "gameId": "SLPM_661.66"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shadow the Hedgehog"
+}

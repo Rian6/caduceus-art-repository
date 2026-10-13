@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.11",
+  "cover": {
+    "path": "PS2/SLPM_668.11/SLPM_668.11_COV.png",
+    "kind": "cover",
+    "bytes": 95643,
+    "width": 192,
+    "height": 272,
+    "sha256": "2ba92f7964ef19f93729600ba342b67fea1bc6a4f46ff8ee241c34b23ad2d91d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66811.jpg"
+    },
+    "gameId": "SLPM_668.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winning Post 7 (Koei The Best)"
+}

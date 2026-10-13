@@ -1,0 +1,65 @@
+{
+  "id": "SLES_527.79",
+  "cover": {
+    "path": "PS2/SLES_527.79/SLES_527.79_COV.png",
+    "kind": "cover",
+    "bytes": 90776,
+    "width": 192,
+    "height": 272,
+    "sha256": "0433c323056b6d3ba672e8b54d5b4c9becb705d07239fe20108e7356be627627",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52779.jpg"
+    },
+    "gameId": "SLES_527.79"
+  },
+  "disc": {
+    "path": "PS2/SLES_527.79/SLES_527.79_ICO.png",
+    "kind": "disc",
+    "bytes": 9793,
+    "width": 128,
+    "height": 128,
+    "sha256": "0e79020df2ff81dc802a6571251308132e6bb757bb9fb754fdf751168970b5c8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_527.79_ICO.png"
+    },
+    "gameId": "SLES_527.79"
+  },
+  "background": {
+    "path": "PS2/SLES_527.79/SLES_527.79_BG.png",
+    "kind": "background",
+    "bytes": 164885,
+    "width": 640,
+    "height": 480,
+    "sha256": "9d799e4f63f4fa546433ff9ffa60114a93f291f46b41b7d16b9b5ae7e3b688c5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.79/SLES_527.79_BG_00.png"
+    },
+    "gameId": "SLES_527.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.79/SLES_527.79_BG.png",
+      "kind": "background",
+      "bytes": 164885,
+      "width": 640,
+      "height": 480,
+      "sha256": "9d799e4f63f4fa546433ff9ffa60114a93f291f46b41b7d16b9b5ae7e3b688c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.79/SLES_527.79_BG_00.png"
+      },
+      "gameId": "SLES_527.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Poker Masters"
+}

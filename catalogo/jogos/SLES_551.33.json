@@ -1,0 +1,64 @@
+{
+  "id": "SLES_551.33",
+  "cover": {
+    "path": "PS2/SLES_551.33/SLES_551.33_COV.png",
+    "kind": "cover",
+    "bytes": 109579,
+    "width": 192,
+    "height": 272,
+    "sha256": "d06a4dbe7bd1e767cb14c7e85c6e3422e832dcd26df9a085e4de94bb4609fb51",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55133.jpg"
+    },
+    "gameId": "SLES_551.33"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_551.33/SLES_551.33_BG.png",
+    "kind": "background",
+    "bytes": 194658,
+    "width": 640,
+    "height": 480,
+    "sha256": "ee966e4b7d2db12f07fa68398573b12762d2f6449fa42c37006965745215bb23",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_551.33/SLES_551.33_BG_00.png"
+    },
+    "gameId": "SLES_551.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_551.33/SLES_551.33_BG.png",
+      "kind": "background",
+      "bytes": 194658,
+      "width": 640,
+      "height": 480,
+      "sha256": "ee966e4b7d2db12f07fa68398573b12762d2f6449fa42c37006965745215bb23",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.33/SLES_551.33_BG_00.png"
+      },
+      "gameId": "SLES_551.33"
+    },
+    {
+      "path": "PS2/SLES_551.33/SLES_551.33_BG_01.png",
+      "kind": "background",
+      "bytes": 221292,
+      "width": 640,
+      "height": 480,
+      "sha256": "81fcfe7371d26c14810ebd68966b64b9e58c0099721ff8bc9d5aa9b95fc13bfd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.33/SLES_551.33_BG_01.png"
+      },
+      "gameId": "SLES_551.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGO Indiana Jones: The Original Adventures"
+}

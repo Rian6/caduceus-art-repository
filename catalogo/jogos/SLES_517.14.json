@@ -1,0 +1,78 @@
+{
+  "id": "SLES_517.14",
+  "cover": {
+    "path": "PS2/SLES_517.14/SLES_517.14_COV.png",
+    "kind": "cover",
+    "bytes": 98499,
+    "width": 192,
+    "height": 272,
+    "sha256": "663fa4d7f3067401f0acca6a03f20f73a24e49e23637a4a206bdadb6b59719e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51714.jpg"
+    },
+    "gameId": "SLES_517.14"
+  },
+  "disc": {
+    "path": "PS2/SLES_517.14/SLES_517.14_ICO.png",
+    "kind": "disc",
+    "bytes": 11521,
+    "width": 128,
+    "height": 128,
+    "sha256": "cab58dfbf0118c5e9ee936a25111e4b94841e2589a6f5e5449083c1cc798858e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_517.14_ICO.png"
+    },
+    "gameId": "SLES_517.14"
+  },
+  "background": {
+    "path": "PS2/SLES_517.14/SLES_517.14_BG.png",
+    "kind": "background",
+    "bytes": 227898,
+    "width": 640,
+    "height": 480,
+    "sha256": "ee961578bb64876fb7b853bc3205488b559f6949820635a6b710e42bbbda96d9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.14/SLES_517.14_BG_00.png"
+    },
+    "gameId": "SLES_517.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.14/SLES_517.14_BG.png",
+      "kind": "background",
+      "bytes": 227898,
+      "width": 640,
+      "height": 480,
+      "sha256": "ee961578bb64876fb7b853bc3205488b559f6949820635a6b710e42bbbda96d9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.14/SLES_517.14_BG_00.png"
+      },
+      "gameId": "SLES_517.14"
+    },
+    {
+      "path": "PS2/SLES_517.14/SLES_517.14_BG_01.png",
+      "kind": "background",
+      "bytes": 244101,
+      "width": 640,
+      "height": 480,
+      "sha256": "7c1cf7b48a3a9f368567d13300d5b22013b20848ff0cd523e139b096cc886ea7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.14/SLES_517.14_BG_01.png"
+      },
+      "gameId": "SLES_517.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BCV - Battle Construction Vehicles"
+}

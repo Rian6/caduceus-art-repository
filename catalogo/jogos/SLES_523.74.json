@@ -1,0 +1,64 @@
+{
+  "id": "SLES_523.74",
+  "cover": {
+    "path": "PS2/SLES_523.74/SLES_523.74_COV.png",
+    "kind": "cover",
+    "bytes": 81257,
+    "width": 192,
+    "height": 272,
+    "sha256": "74e9748c931d83785da3d33d58a492f1db444719b5e62441ed9da34bdc2073b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52374.jpg"
+    },
+    "gameId": "SLES_523.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_523.74/SLES_523.74_BG.png",
+    "kind": "background",
+    "bytes": 132787,
+    "width": 640,
+    "height": 480,
+    "sha256": "f857d1f02615a1abcd821736b4eebae42f2846a8e6e48f312b8d7680298ec4f7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.74/SLES_523.74_BG_00.png"
+    },
+    "gameId": "SLES_523.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.74/SLES_523.74_BG.png",
+      "kind": "background",
+      "bytes": 132787,
+      "width": 640,
+      "height": 480,
+      "sha256": "f857d1f02615a1abcd821736b4eebae42f2846a8e6e48f312b8d7680298ec4f7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.74/SLES_523.74_BG_00.png"
+      },
+      "gameId": "SLES_523.74"
+    },
+    {
+      "path": "PS2/SLES_523.74/SLES_523.74_BG_01.png",
+      "kind": "background",
+      "bytes": 105323,
+      "width": 640,
+      "height": 480,
+      "sha256": "759f5abb44043d62f21fd2fcbdb23769a5645af5ae8e68a4a0d91ff1c1f9bc2c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.74/SLES_523.74_BG_01.png"
+      },
+      "gameId": "SLES_523.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fight Night 2004"
+}

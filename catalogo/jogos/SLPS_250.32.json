@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.32",
+  "cover": {
+    "path": "PS2/SLPS_250.32/SLPS_250.32_COV.png",
+    "kind": "cover",
+    "bytes": 103555,
+    "width": 192,
+    "height": 272,
+    "sha256": "af4e3cdb2a99182fdca5536a1f4bf2e51da2e01ad3e5169d66b8f0de7f6813c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25032.jpg"
+    },
+    "gameId": "SLPS_250.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Golful Golf"
+}

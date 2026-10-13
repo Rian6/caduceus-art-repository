@@ -1,0 +1,39 @@
+{
+  "id": "SCES_540.68",
+  "cover": {
+    "path": "PS2/SCES_540.68/SCES_540.68_COV.png",
+    "kind": "cover",
+    "bytes": 112906,
+    "width": 192,
+    "height": 272,
+    "sha256": "e7ed8d85ae35c60b0e3da561a8182da93614c257d977715078b5a11260cc7cd0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54068.jpg"
+    },
+    "gameId": "SCES_540.68"
+  },
+  "disc": {
+    "path": "PS2/SCES_540.68/SCES_540.68_ICO.png",
+    "kind": "disc",
+    "bytes": 12620,
+    "width": 128,
+    "height": 128,
+    "sha256": "b912fed0a74ea574e093e8ee7366dccbb5ed8aee4bea1fc1b4a3e5712adb0910",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_540.68_ICO.png"
+    },
+    "gameId": "SCES_540.68"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AFL Premiership 2006"
+}

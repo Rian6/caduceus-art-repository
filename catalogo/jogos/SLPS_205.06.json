@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_205.06",
+  "cover": {
+    "path": "PS2/SLPS_205.06/SLPS_205.06_COV.png",
+    "kind": "cover",
+    "bytes": 85652,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e22929b2955a0a6da5b8d10fc28542d140a1463d3676c5b006fb22ffe3345d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20506.jpg"
+    },
+    "gameId": "SLPS_205.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Daito Giken Koushiki Pachi-Slot Simulator: 24: Twenty Four"
+}

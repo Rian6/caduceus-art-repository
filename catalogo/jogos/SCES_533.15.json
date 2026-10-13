@@ -1,0 +1,51 @@
+{
+  "id": "SCES_533.15",
+  "cover": {
+    "path": "PS2/SCES_533.15/SCES_533.15_COV.png",
+    "kind": "cover",
+    "bytes": 84270,
+    "width": 192,
+    "height": 272,
+    "sha256": "603f0d82e9aeb4476703d8ed618fe440ceea1acd95815f1ef10dc49c2f2022b9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53315.jpg"
+    },
+    "gameId": "SCES_533.15"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_533.15/SCES_533.15_BG.png",
+    "kind": "background",
+    "bytes": 143307,
+    "width": 640,
+    "height": 480,
+    "sha256": "8f55693dbb6905a4d539ae6851ba8bbdcbeb57ef3cc93390a1823f2bd97b41dd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_533.15/SCES_533.15_BG_00.png"
+    },
+    "gameId": "SCES_533.15"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_533.15/SCES_533.15_BG.png",
+      "kind": "background",
+      "bytes": 143307,
+      "width": 640,
+      "height": 480,
+      "sha256": "8f55693dbb6905a4d539ae6851ba8bbdcbeb57ef3cc93390a1823f2bd97b41dd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.15/SCES_533.15_BG_00.png"
+      },
+      "gameId": "SCES_533.15"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy – Play 3"
+}

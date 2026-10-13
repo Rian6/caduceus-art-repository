@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_203.48",
+  "cover": {
+    "path": "PS2/SLUS_203.48/SLUS_203.48_COV.png",
+    "kind": "cover",
+    "bytes": 104716,
+    "width": 192,
+    "height": 272,
+    "sha256": "4c4120de9a139ed67dc890dc0788718d2d014cc3e081d690f6ef63a5750ad970",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20348.jpg"
+    },
+    "gameId": "SLUS_203.48"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.48/SLUS_203.48_ICO.png",
+    "kind": "disc",
+    "bytes": 29769,
+    "width": 256,
+    "height": 256,
+    "sha256": "e9553220458ad5b8674fd635e7fabce5f47446723aa0887408fd1c0e3168babe",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.48_ICO.png"
+    },
+    "gameId": "SLUS_203.48"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.48/SLUS_203.48_BG.png",
+    "kind": "background",
+    "bytes": 90214,
+    "width": 640,
+    "height": 480,
+    "sha256": "b7c7067ed542c2ecc98768dc562002b61869876b7fe652bf7f33e61978b44e91",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.48/SLUS_203.48_BG_00.png"
+    },
+    "gameId": "SLUS_203.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.48/SLUS_203.48_BG.png",
+      "kind": "background",
+      "bytes": 90214,
+      "width": 640,
+      "height": 480,
+      "sha256": "b7c7067ed542c2ecc98768dc562002b61869876b7fe652bf7f33e61978b44e91",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.48/SLUS_203.48_BG_00.png"
+      },
+      "gameId": "SLUS_203.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Monopoly Party"
+}

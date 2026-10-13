@@ -1,0 +1,25 @@
+{
+  "id": "SLES_507.68",
+  "cover": {
+    "path": "PS2/SLES_507.68/SLES_507.68_COV.png",
+    "kind": "cover",
+    "bytes": 83126,
+    "width": 192,
+    "height": 272,
+    "sha256": "099797908f2affdf6e58a11dd2167800a1e202dd7aa9d708a88bdf7559fd056c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50768.jpg"
+    },
+    "gameId": "SLES_507.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rally Championship"
+}

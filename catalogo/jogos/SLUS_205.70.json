@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_205.70",
+  "cover": {
+    "path": "PS2/SLUS_205.70/SLUS_205.70_COV.png",
+    "kind": "cover",
+    "bytes": 101083,
+    "width": 192,
+    "height": 272,
+    "sha256": "8e78ad9503f84f2a43f80f8cde2e829586f45bad6c6315c2188d634429c0729f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20570.jpg"
+    },
+    "gameId": "SLUS_205.70"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.70/SLUS_205.70_ICO.png",
+    "kind": "disc",
+    "bytes": 30975,
+    "width": 256,
+    "height": 256,
+    "sha256": "df9fa6518eda15a6ee14e5a522c6b6d9321a3d81788a17cc7a0f8fe1f35e31e3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.70_ICO.png"
+    },
+    "gameId": "SLUS_205.70"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.70/SLUS_205.70_BG.png",
+    "kind": "background",
+    "bytes": 216669,
+    "width": 640,
+    "height": 480,
+    "sha256": "3b860e1b92033dd2106e4d99c17ca9e6715e875067053b6b84e09f46bb9949e0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.70/SLUS_205.70_BG_00.png"
+    },
+    "gameId": "SLUS_205.70"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.70/SLUS_205.70_BG.png",
+      "kind": "background",
+      "bytes": 216669,
+      "width": 640,
+      "height": 480,
+      "sha256": "3b860e1b92033dd2106e4d99c17ca9e6715e875067053b6b84e09f46bb9949e0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.70/SLUS_205.70_BG_00.png"
+      },
+      "gameId": "SLUS_205.70"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ATV: Quad Power Racing 2"
+}

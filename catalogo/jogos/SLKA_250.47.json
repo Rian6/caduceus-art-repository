@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.47",
+  "cover": {
+    "path": "PS2/SLKA_250.47/SLKA_250.47_COV.png",
+    "kind": "cover",
+    "bytes": 119324,
+    "width": 192,
+    "height": 272,
+    "sha256": "18a1f02930a8def6781340651b7d47724f587a0b9bbb296dd474bc3b46829972",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25047.jpg"
+    },
+    "gameId": "SLKA_250.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHIN COMBAT CHORO Q"
+}

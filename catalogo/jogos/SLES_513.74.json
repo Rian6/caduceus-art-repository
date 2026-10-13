@@ -1,0 +1,78 @@
+{
+  "id": "SLES_513.74",
+  "cover": {
+    "path": "PS2/SLES_513.74/SLES_513.74_COV.png",
+    "kind": "cover",
+    "bytes": 86880,
+    "width": 192,
+    "height": 272,
+    "sha256": "efcc02527d9d258c1abb05fb33dbe90dff344f2bdd0dec35bfd013d7e80abb6d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51374.jpg"
+    },
+    "gameId": "SLES_513.74"
+  },
+  "disc": {
+    "path": "PS2/SLES_513.74/SLES_513.74_ICO.png",
+    "kind": "disc",
+    "bytes": 11382,
+    "width": 128,
+    "height": 128,
+    "sha256": "d0ad84998421dbe042f34ddd06b52f96ef59cc34e7b05dd9137f366471efe8c4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_513.74_ICO.png"
+    },
+    "gameId": "SLES_513.74"
+  },
+  "background": {
+    "path": "PS2/SLES_513.74/SLES_513.74_BG.png",
+    "kind": "background",
+    "bytes": 192057,
+    "width": 640,
+    "height": 480,
+    "sha256": "2b92f626de1e849852d7fe9c4d4f4e1826b54cb56a5367a6f37aa77d9a0481b0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_513.74/SLES_513.74_BG_00.png"
+    },
+    "gameId": "SLES_513.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_513.74/SLES_513.74_BG.png",
+      "kind": "background",
+      "bytes": 192057,
+      "width": 640,
+      "height": 480,
+      "sha256": "2b92f626de1e849852d7fe9c4d4f4e1826b54cb56a5367a6f37aa77d9a0481b0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.74/SLES_513.74_BG_00.png"
+      },
+      "gameId": "SLES_513.74"
+    },
+    {
+      "path": "PS2/SLES_513.74/SLES_513.74_BG_01.png",
+      "kind": "background",
+      "bytes": 193341,
+      "width": 640,
+      "height": 480,
+      "sha256": "276888c131949a66f67c691d106dbdc0a4b6d28658f345b396c391be751c0dcc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.74/SLES_513.74_BG_01.png"
+      },
+      "gameId": "SLES_513.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROBOCOP"
+}

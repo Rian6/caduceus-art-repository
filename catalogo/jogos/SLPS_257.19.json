@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.19",
+  "cover": {
+    "path": "PS2/SLPS_257.19/SLPS_257.19_COV.png",
+    "kind": "cover",
+    "bytes": 106019,
+    "width": 192,
+    "height": 272,
+    "sha256": "49d8d7093b611392c5cf043bf5e1466a37badb92f13db00230263d086af74424",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25719.jpg"
+    },
+    "gameId": "SLPS_257.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAPPINESS! DE-LUCKS [FIRST PRINT LIMITED EDITION]"
+}

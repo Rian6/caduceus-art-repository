@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.73",
+  "cover": {
+    "path": "PS2/SLKA_253.73/SLKA_253.73_COV.png",
+    "kind": "cover",
+    "bytes": 89388,
+    "width": 192,
+    "height": 272,
+    "sha256": "3109f7701b4d465860a28bacb929919242319cc2fa6b078fae0f1df74dfe169f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25373.jpg"
+    },
+    "gameId": "SLKA_253.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIGHT NIGHT ROUND 3"
+}

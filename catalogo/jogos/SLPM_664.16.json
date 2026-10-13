@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.16",
+  "cover": {
+    "path": "PS2/SLPM_664.16/SLPM_664.16_COV.png",
+    "kind": "cover",
+    "bytes": 94549,
+    "width": 192,
+    "height": 272,
+    "sha256": "c200ae27e8e4869e4d652ad1e0d931ab18653a1ebfa519d2329728a2704c4c2c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66416.jpg"
+    },
+    "gameId": "SLPM_664.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MYSTEREET ~YASOGAMI KAORU NO CHOUSEN!~"
+}

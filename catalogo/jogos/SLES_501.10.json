@@ -1,0 +1,51 @@
+{
+  "id": "SLES_501.10",
+  "cover": {
+    "path": "PS2/SLES_501.10/SLES_501.10_COV.png",
+    "kind": "cover",
+    "bytes": 113688,
+    "width": 192,
+    "height": 272,
+    "sha256": "d3c22195528c56bf9e8f8fb0eb8d666696faad4554a1c384ccbc40dc36fbcb01",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50110.jpg"
+    },
+    "gameId": "SLES_501.10"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_501.10/SLES_501.10_BG.png",
+    "kind": "background",
+    "bytes": 250748,
+    "width": 640,
+    "height": 480,
+    "sha256": "44fa34e1d40f63b54b6c4dad0ae8a192c01438ae95faaba1606f8a110c5ec014",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_501.10/SLES_501.10_BG_00.png"
+    },
+    "gameId": "SLES_501.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_501.10/SLES_501.10_BG.png",
+      "kind": "background",
+      "bytes": 250748,
+      "width": 640,
+      "height": 480,
+      "sha256": "44fa34e1d40f63b54b6c4dad0ae8a192c01438ae95faaba1606f8a110c5ec014",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.10/SLES_501.10_BG_00.png"
+      },
+      "gameId": "SLES_501.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EPHEMERAL FANTASIA"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SLES_537.96",
+  "cover": {
+    "path": "PS2/SLES_537.96/SLES_537.96_COV.png",
+    "kind": "cover",
+    "bytes": 94086,
+    "width": 192,
+    "height": 272,
+    "sha256": "61677b9e23341b3b4c374fb2eecb51e95c8c1c2e2fcda8213625a6f2e9fbd97c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53796.jpg"
+    },
+    "gameId": "SLES_537.96"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.96/SLES_537.96_BG.png",
+    "kind": "background",
+    "bytes": 208158,
+    "width": 640,
+    "height": 480,
+    "sha256": "51ade1d7a7ca3e2ce0ef3340f93a55cea65c6692c09ed2c6e1cf994d53922f0c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.96/SLES_537.96_BG_00.png"
+    },
+    "gameId": "SLES_537.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.96/SLES_537.96_BG.png",
+      "kind": "background",
+      "bytes": 208158,
+      "width": 640,
+      "height": 480,
+      "sha256": "51ade1d7a7ca3e2ce0ef3340f93a55cea65c6692c09ed2c6e1cf994d53922f0c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.96/SLES_537.96_BG_00.png"
+      },
+      "gameId": "SLES_537.96"
+    },
+    {
+      "path": "PS2/SLES_537.96/SLES_537.96_BG_01.png",
+      "kind": "background",
+      "bytes": 168496,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3b6d12427bf8afb0edddd196d49313393c76d8f0d0aab70a06d203f6b573b75",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.96/SLES_537.96_BG_01.png"
+      },
+      "gameId": "SLES_537.96"
+    },
+    {
+      "path": "PS2/SLES_537.96/SLES_537.96_BG_02.png",
+      "kind": "background",
+      "bytes": 249839,
+      "width": 640,
+      "height": 480,
+      "sha256": "cee8e47762c4d43e5ce3215979db7c168bd7b1ebae29409b7cca37baeb857a4c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.96/SLES_537.96_BG_02.png"
+      },
+      "gameId": "SLES_537.96"
+    },
+    {
+      "path": "PS2/SLES_537.96/SLES_537.96_BG_03.png",
+      "kind": "background",
+      "bytes": 215640,
+      "width": 640,
+      "height": 480,
+      "sha256": "a8196e695db191c2608659685acd866edc91dcc2d9ed374327dde4b77144e446",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.96/SLES_537.96_BG_03.png"
+      },
+      "gameId": "SLES_537.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA Street 2"
+}

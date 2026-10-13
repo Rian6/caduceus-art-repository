@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_257.82",
+  "cover": {
+    "path": "PS2/SLPS_257.82/SLPS_257.82_COV.png",
+    "kind": "cover",
+    "bytes": 112816,
+    "width": 192,
+    "height": 272,
+    "sha256": "88488ad4282220244ec695b0d6af00c5084ee5aa8227a65956c4c3a44c3d36ee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25782.jpg"
+    },
+    "gameId": "SLPS_257.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_257.82/SLPS_257.82_BG.png",
+    "kind": "background",
+    "bytes": 201369,
+    "width": 640,
+    "height": 480,
+    "sha256": "96a835da9cbf037f2e244cc9f0ff1485d9eab028f193f9a7c74ad43b00319138",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.82/SLPS_257.82_BG_00.png"
+    },
+    "gameId": "SLPS_257.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.82/SLPS_257.82_BG.png",
+      "kind": "background",
+      "bytes": 201369,
+      "width": 640,
+      "height": 480,
+      "sha256": "96a835da9cbf037f2e244cc9f0ff1485d9eab028f193f9a7c74ad43b00319138",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.82/SLPS_257.82_BG_00.png"
+      },
+      "gameId": "SLPS_257.82"
+    },
+    {
+      "path": "PS2/SLPS_257.82/SLPS_257.82_BG_01.png",
+      "kind": "background",
+      "bytes": 205044,
+      "width": 640,
+      "height": 480,
+      "sha256": "07974ab7866f20c95117f5c0e303ca57c10962e59f830353011c659c22131f84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.82/SLPS_257.82_BG_01.png"
+      },
+      "gameId": "SLPS_257.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Heroes - Gorgeous (NeoGeo Online Collection Vol. 9)"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SLES_508.49",
+  "cover": {
+    "path": "PS2/SLES_508.49/SLES_508.49_COV.png",
+    "kind": "cover",
+    "bytes": 95621,
+    "width": 192,
+    "height": 272,
+    "sha256": "8b92676a1fdcea41bf1858e69478b6bf06c31bccd3df342d3f501f211f49f487",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50849.jpg"
+    },
+    "gameId": "SLES_508.49"
+  },
+  "disc": {
+    "path": "PS2/SLES_508.49/SLES_508.49_ICO.png",
+    "kind": "disc",
+    "bytes": 11248,
+    "width": 128,
+    "height": 128,
+    "sha256": "76281a6b790892c3d39e46fe50de5807ef18d3d694b7ee695197987bb0ec3434",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_508.49_ICO.png"
+    },
+    "gameId": "SLES_508.49"
+  },
+  "background": {
+    "path": "PS2/SLES_508.49/SLES_508.49_BG.png",
+    "kind": "background",
+    "bytes": 202157,
+    "width": 640,
+    "height": 480,
+    "sha256": "58665e3633b4b115b4683d2fe69496dc6e8cab80266f0c759705e918ade8644c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_508.49/SLES_508.49_BG_00.png"
+    },
+    "gameId": "SLES_508.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_508.49/SLES_508.49_BG.png",
+      "kind": "background",
+      "bytes": 202157,
+      "width": 640,
+      "height": 480,
+      "sha256": "58665e3633b4b115b4683d2fe69496dc6e8cab80266f0c759705e918ade8644c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.49/SLES_508.49_BG_00.png"
+      },
+      "gameId": "SLES_508.49"
+    },
+    {
+      "path": "PS2/SLES_508.49/SLES_508.49_BG_01.png",
+      "kind": "background",
+      "bytes": 185038,
+      "width": 640,
+      "height": 480,
+      "sha256": "1ab527817b1541d4f367e40b95722a0d4e79e908cf52b87d1b8ea1eb6e534f43",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.49/SLES_508.49_BG_01.png"
+      },
+      "gameId": "SLES_508.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Urban Freestyle Soccer"
+}

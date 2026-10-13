@@ -1,0 +1,65 @@
+{
+  "id": "SLPS_257.47",
+  "cover": {
+    "path": "PS2/SLPS_257.47/SLPS_257.47_COV.png",
+    "kind": "cover",
+    "bytes": 103876,
+    "width": 192,
+    "height": 272,
+    "sha256": "05f21fdf06340916929ec1874b2cb5f826f87705b24db72e92b3f825f9d48426",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25747.jpg"
+    },
+    "gameId": "SLPS_257.47"
+  },
+  "disc": {
+    "path": "PS2/SLPS_257.47/SLPS_257.47_ICO.png",
+    "kind": "disc",
+    "bytes": 12007,
+    "width": 128,
+    "height": 128,
+    "sha256": "6c0cdbc156364817e60770d311ed615429f06020195b2b9e43a6c87e746cb25c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_257.47_ICO.png"
+    },
+    "gameId": "SLPS_257.47"
+  },
+  "background": {
+    "path": "PS2/SLPS_257.47/SLPS_257.47_BG.png",
+    "kind": "background",
+    "bytes": 231812,
+    "width": 640,
+    "height": 480,
+    "sha256": "603e8b557b4ccf74d906254802ac2bc7c8d93f4ae1fafaf4b64604dd8cf7756b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.47/SLPS_257.47_BG_00.png"
+    },
+    "gameId": "SLPS_257.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.47/SLPS_257.47_BG.png",
+      "kind": "background",
+      "bytes": 231812,
+      "width": 640,
+      "height": 480,
+      "sha256": "603e8b557b4ccf74d906254802ac2bc7c8d93f4ae1fafaf4b64604dd8cf7756b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.47/SLPS_257.47_BG_00.png"
+      },
+      "gameId": "SLPS_257.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GA-ROU-DEN BREAKBLOW - FIST OR TWIST"
+}

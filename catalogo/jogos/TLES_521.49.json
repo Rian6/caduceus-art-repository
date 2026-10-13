@@ -1,0 +1,24 @@
+{
+  "id": "TLES_521.49",
+  "cover": {
+    "path": "PS2/TLES_521.49/TLES_521.49_COV.png",
+    "kind": "cover",
+    "bytes": 108985,
+    "width": 192,
+    "height": 272,
+    "sha256": "b669e9bf8a6484e3a7b2dc784896cb26501c59d5709c58a1912c480da01f171f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/TLES-52149.jpg"
+    },
+    "gameId": "TLES_521.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

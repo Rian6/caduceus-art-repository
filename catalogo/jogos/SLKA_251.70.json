@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.70",
+  "cover": {
+    "path": "PS2/SLKA_251.70/SLKA_251.70_COV.png",
+    "kind": "cover",
+    "bytes": 108979,
+    "width": 192,
+    "height": 272,
+    "sha256": "70c92bdc045b1fd33a0abd61d840e9347a4dfa9e2cea497c5f8f71beb7ebe84f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25170.jpg"
+    },
+    "gameId": "SLKA_251.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SD Gundam G Generation Seed"
+}

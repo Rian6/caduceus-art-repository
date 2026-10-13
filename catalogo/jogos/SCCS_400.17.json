@@ -1,0 +1,25 @@
+{
+  "id": "SCCS_400.17",
+  "cover": {
+    "path": "PS2/SCCS_400.17/SCCS_400.17_COV.png",
+    "kind": "cover",
+    "bytes": 98215,
+    "width": 192,
+    "height": 272,
+    "sha256": "74fff6e6e6c4cac761f08231b516fdb12f621bd2362196f097fbe14e7a2d62f6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCCS-40017.jpg"
+    },
+    "gameId": "SCCS_400.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy - Play"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.29",
+  "cover": {
+    "path": "PS2/SLPM_669.29/SLPM_669.29_COV.png",
+    "kind": "cover",
+    "bytes": 82685,
+    "width": 192,
+    "height": 272,
+    "sha256": "8cda432656300169a16607470fb781a85ebaf1e3aedb6196d1e350bc43274e48",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66929.jpg"
+    },
+    "gameId": "SLPM_669.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Eiminage - Yami no Fujo to Kamigami no Yubiwa"
+}

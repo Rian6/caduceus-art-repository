@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.53",
+  "cover": {
+    "path": "PS2/SLPS_732.53/SLPS_732.53_COV.png",
+    "kind": "cover",
+    "bytes": 79466,
+    "width": 192,
+    "height": 272,
+    "sha256": "4c5a69a19c40fb5033db7475b97b38e275cb6508a275abcc48290def97fbebba",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73253.jpg"
+    },
+    "gameId": "SLPS_732.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rurouni Kenshin: Meiji Kenkaku Romantan: Enjou! Kyoto Rinne"
+}

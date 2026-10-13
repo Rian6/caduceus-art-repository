@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.72",
+  "cover": {
+    "path": "PS2/SLPM_625.72/SLPM_625.72_COV.png",
+    "kind": "cover",
+    "bytes": 105722,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f35c5f6ebde4e1f653d6a4323e31b49cbeaa14257547d762d376683472ecec8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62572.jpg"
+    },
+    "gameId": "SLPM_625.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Boboboubo Boubobo - Shuumare! Taikan Boubobo"
+}

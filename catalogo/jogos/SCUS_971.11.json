@@ -1,0 +1,91 @@
+{
+  "id": "SCUS_971.11",
+  "cover": {
+    "path": "PS2/SCUS_971.11/SCUS_971.11_COV.png",
+    "kind": "cover",
+    "bytes": 106489,
+    "width": 192,
+    "height": 272,
+    "sha256": "e408e7cabf65692d49b94cc25011954b4f626d83a9b8bdb8565f8c9104481b6e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97111.jpg"
+    },
+    "gameId": "SCUS_971.11"
+  },
+  "disc": {
+    "path": "PS2/SCUS_971.11/SCUS_971.11_ICO.png",
+    "kind": "disc",
+    "bytes": 29679,
+    "width": 256,
+    "height": 256,
+    "sha256": "cde6364d68efec7f66da27760ec09e2515084edcdab2a40a0fc20133664ca988",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_971.11_ICO.png"
+    },
+    "gameId": "SCUS_971.11"
+  },
+  "background": {
+    "path": "PS2/SCUS_971.11/SCUS_971.11_BG.png",
+    "kind": "background",
+    "bytes": 175059,
+    "width": 640,
+    "height": 480,
+    "sha256": "d97526b2e7d4781a3751233aa0dd5f87f10d0f81de480082f75d5bce27406ff0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_971.11/SCUS_971.11_BG_00.png"
+    },
+    "gameId": "SCUS_971.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_971.11/SCUS_971.11_BG.png",
+      "kind": "background",
+      "bytes": 175059,
+      "width": 640,
+      "height": 480,
+      "sha256": "d97526b2e7d4781a3751233aa0dd5f87f10d0f81de480082f75d5bce27406ff0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.11/SCUS_971.11_BG_00.png"
+      },
+      "gameId": "SCUS_971.11"
+    },
+    {
+      "path": "PS2/SCUS_971.11/SCUS_971.11_BG_01.png",
+      "kind": "background",
+      "bytes": 214299,
+      "width": 640,
+      "height": 480,
+      "sha256": "81927feea907b9fa8dea0764d6c3191f29c87e1d71b5d2ee9cc442ad0f7013a4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.11/SCUS_971.11_BG_01.png"
+      },
+      "gameId": "SCUS_971.11"
+    },
+    {
+      "path": "PS2/SCUS_971.11/SCUS_971.11_BG_02.png",
+      "kind": "background",
+      "bytes": 210659,
+      "width": 640,
+      "height": 480,
+      "sha256": "aae2ba09bf8b040ed2c12c483a64d6ca600c609e47122af2ec4e4d172ce33c15",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.11/SCUS_971.11_BG_02.png"
+      },
+      "gameId": "SCUS_971.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DARK CLOUD"
+}

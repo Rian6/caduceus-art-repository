@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_256.59",
+  "cover": {
+    "path": "PS2/SLPS_256.59/SLPS_256.59_COV.png",
+    "kind": "cover",
+    "bytes": 92090,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc3f2a501a3b6658bc8b7ec39317f0e8d8eacddb18e1e8ddfe425ce9a55a6426",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25659.jpg"
+    },
+    "gameId": "SLPS_256.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.59/SLPS_256.59_BG.png",
+    "kind": "background",
+    "bytes": 137446,
+    "width": 640,
+    "height": 480,
+    "sha256": "b11929823735ae6fa17994bf7200f0200d9cdec2602128f189489b1e97d264f0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.59/SLPS_256.59_BG_00.png"
+    },
+    "gameId": "SLPS_256.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.59/SLPS_256.59_BG.png",
+      "kind": "background",
+      "bytes": 137446,
+      "width": 640,
+      "height": 480,
+      "sha256": "b11929823735ae6fa17994bf7200f0200d9cdec2602128f189489b1e97d264f0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.59/SLPS_256.59_BG_00.png"
+      },
+      "gameId": "SLPS_256.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BINCHOTAN - SHIAWASE KOYOMI"
+}

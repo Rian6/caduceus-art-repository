@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_204.86",
+  "cover": {
+    "path": "PS2/SLUS_204.86/SLUS_204.86_COV.png",
+    "kind": "cover",
+    "bytes": 112996,
+    "width": 192,
+    "height": 272,
+    "sha256": "fe18d56491da1a5a05060e4dae9286b495cd93d5278044f8a131ed8b0f1622f4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20486.jpg"
+    },
+    "gameId": "SLUS_204.86"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.86/SLUS_204.86_ICO.png",
+    "kind": "disc",
+    "bytes": 33447,
+    "width": 256,
+    "height": 256,
+    "sha256": "8c8ca6c7aeeeb64d538aaaebd80406b318ee0eed36dc91cb5c0e9e793c7433a2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.86_ICO.png"
+    },
+    "gameId": "SLUS_204.86"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.86/SLUS_204.86_BG.png",
+    "kind": "background",
+    "bytes": 181703,
+    "width": 640,
+    "height": 480,
+    "sha256": "6b272516b2e754a0606e9ffd2b5840e3ff8f6dda77739da3209e51d873064007",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.86/SLUS_204.86_BG_00.png"
+    },
+    "gameId": "SLUS_204.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.86/SLUS_204.86_BG.png",
+      "kind": "background",
+      "bytes": 181703,
+      "width": 640,
+      "height": 480,
+      "sha256": "6b272516b2e754a0606e9ffd2b5840e3ff8f6dda77739da3209e51d873064007",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.86/SLUS_204.86_BG_00.png"
+      },
+      "gameId": "SLUS_204.86"
+    },
+    {
+      "path": "PS2/SLUS_204.86/SLUS_204.86_BG_01.png",
+      "kind": "background",
+      "bytes": 145724,
+      "width": 640,
+      "height": 480,
+      "sha256": "74a3d86f441bdf31bc1a095dbe2d00c5bad37b05281f7e4a86b17bb805013c39",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.86/SLUS_204.86_BG_01.png"
+      },
+      "gameId": "SLUS_204.86"
+    },
+    {
+      "path": "PS2/SLUS_204.86/SLUS_204.86_BG_02.png",
+      "kind": "background",
+      "bytes": 110177,
+      "width": 640,
+      "height": 480,
+      "sha256": "08042aa83fbb1c536bdd954a68476b3a810e6989a755f19dc76cad5fad6b42d5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.86/SLUS_204.86_BG_02.png"
+      },
+      "gameId": "SLUS_204.86"
+    },
+    {
+      "path": "PS2/SLUS_204.86/SLUS_204.86_BG_03.png",
+      "kind": "background",
+      "bytes": 168249,
+      "width": 640,
+      "height": 480,
+      "sha256": "e8e7fc0682ede683d5574aed40897472b0f468e8d9536386abb15feac3b5aaf1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.86/SLUS_204.86_BG_03.png"
+      },
+      "gameId": "SLUS_204.86"
+    },
+    {
+      "path": "PS2/SLUS_204.86/SLUS_204.86_BG_04.png",
+      "kind": "background",
+      "bytes": 242860,
+      "width": 640,
+      "height": 480,
+      "sha256": "34404020ac2dda7ee55c8b3effb11e63abab9b79a2c3dab972e58c0f39adfb99",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.86/SLUS_204.86_BG_04.png"
+      },
+      "gameId": "SLUS_204.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Marvel vs. Capcom 2: New Age of Heroes"
+}

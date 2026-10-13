@@ -1,0 +1,25 @@
+{
+  "id": "SLES_527.98",
+  "cover": {
+    "path": "PS2/SLES_527.98/SLES_527.98_COV.png",
+    "kind": "cover",
+    "bytes": 100882,
+    "width": 192,
+    "height": 272,
+    "sha256": "51a7ace04e0380c6a5324224ff490b1b1c2463e5be4b2b1c2e99960a6787a967",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52798.jpg"
+    },
+    "gameId": "SLES_527.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Vietcong: Purple Haze"
+}

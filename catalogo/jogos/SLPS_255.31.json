@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_255.31",
+  "cover": {
+    "path": "PS2/SLPS_255.31/SLPS_255.31_COV.png",
+    "kind": "cover",
+    "bytes": 109444,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea1cf2fe37e7b9d18ac3149d0785d0b5b14ebe5eea2d0191bd0de1fcb0a2367a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25531.jpg"
+    },
+    "gameId": "SLPS_255.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_255.31/SLPS_255.31_BG.png",
+    "kind": "background",
+    "bytes": 253172,
+    "width": 640,
+    "height": 480,
+    "sha256": "4aa161c09ba4ecb9287c6041c48a29fecf63f6378bb2509d614be62ed5d9ff37",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.31/SLPS_255.31_BG_00.png"
+    },
+    "gameId": "SLPS_255.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.31/SLPS_255.31_BG.png",
+      "kind": "background",
+      "bytes": 253172,
+      "width": 640,
+      "height": 480,
+      "sha256": "4aa161c09ba4ecb9287c6041c48a29fecf63f6378bb2509d614be62ed5d9ff37",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.31/SLPS_255.31_BG_00.png"
+      },
+      "gameId": "SLPS_255.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SD Gundam G Generation Seed"
+}

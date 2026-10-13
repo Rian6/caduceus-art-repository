@@ -1,0 +1,39 @@
+{
+  "id": "SLES_548.14",
+  "cover": {
+    "path": "PS2/SLES_548.14/SLES_548.14_COV.png",
+    "kind": "cover",
+    "bytes": 97351,
+    "width": 192,
+    "height": 272,
+    "sha256": "86bb63b9c6464d18d7cc275f43bd438b49f31f095e3264b7d178fd46a621f5cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54814.jpg"
+    },
+    "gameId": "SLES_548.14"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.14/SLES_548.14_ICO.png",
+    "kind": "disc",
+    "bytes": 12357,
+    "width": 128,
+    "height": 128,
+    "sha256": "941d1225c675d38911e97a42050322ba82dff2c15aca93d153b2d53856a9d82c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.14_ICO.png"
+    },
+    "gameId": "SLES_548.14"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dead Eye Jim"
+}

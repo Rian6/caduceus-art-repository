@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.70",
+  "cover": {
+    "path": "PS2/SLPM_623.70/SLPM_623.70_COV.png",
+    "kind": "cover",
+    "bytes": 62864,
+    "width": 192,
+    "height": 272,
+    "sha256": "bccd7857a3d29e838cf3930255799fa1fdb5fdfc49b3896faa623298431366e6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62370.jpg"
+    },
+    "gameId": "SLPM_623.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SuperLite 2000 Vol. 8: Psyvariar: Medium Unit"
+}

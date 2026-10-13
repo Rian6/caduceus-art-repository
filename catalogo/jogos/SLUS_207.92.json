@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_207.92",
+  "cover": {
+    "path": "PS2/SLUS_207.92/SLUS_207.92_COV.png",
+    "kind": "cover",
+    "bytes": 101842,
+    "width": 192,
+    "height": 272,
+    "sha256": "41c5310a773f6dd0d7ec79f415b23e4f6c29dfb34e4bc223cf5e27b09949717d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20792.jpg"
+    },
+    "gameId": "SLUS_207.92"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.92/SLUS_207.92_ICO.png",
+    "kind": "disc",
+    "bytes": 31399,
+    "width": 256,
+    "height": 256,
+    "sha256": "ed0362c2f554b7bebec617e8fa6d3b2699d33e6651cc4d3a8122666b141c1c80",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.92_ICO.png"
+    },
+    "gameId": "SLUS_207.92"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.92/SLUS_207.92_BG.png",
+    "kind": "background",
+    "bytes": 227610,
+    "width": 640,
+    "height": 480,
+    "sha256": "05d1bbb4fe60b6b847246214a4ada47917c2d8c28d04b26c500eb6a3ced2912a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.92/SLUS_207.92_BG_00.png"
+    },
+    "gameId": "SLUS_207.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.92/SLUS_207.92_BG.png",
+      "kind": "background",
+      "bytes": 227610,
+      "width": 640,
+      "height": 480,
+      "sha256": "05d1bbb4fe60b6b847246214a4ada47917c2d8c28d04b26c500eb6a3ced2912a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.92/SLUS_207.92_BG_00.png"
+      },
+      "gameId": "SLUS_207.92"
+    },
+    {
+      "path": "PS2/SLUS_207.92/SLUS_207.92_BG_01.png",
+      "kind": "background",
+      "bytes": 249980,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f8e117bfdc6397f0b1ab673a20a8b09e9b729a37294343b0af66252c418bd15",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.92/SLUS_207.92_BG_01.png"
+      },
+      "gameId": "SLUS_207.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Goblin Commander: Unleash the Horde"
+}

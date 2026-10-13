@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_213.14",
+  "cover": {
+    "path": "PS2/SLUS_213.14/SLUS_213.14_COV.png",
+    "kind": "cover",
+    "bytes": 106504,
+    "width": 192,
+    "height": 272,
+    "sha256": "1b1601e18c0734fbc23945964f4f30cc2d94e118f970ae66d127f1e5f0e23041",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21314.jpg"
+    },
+    "gameId": "SLUS_213.14"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.14/SLUS_213.14_ICO.png",
+    "kind": "disc",
+    "bytes": 34711,
+    "width": 256,
+    "height": 256,
+    "sha256": "7bd442f204d0cadebf5331a60b049676c54d230d0ff48c400c2685a65dd3239f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.14_ICO.png"
+    },
+    "gameId": "SLUS_213.14"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.14/SLUS_213.14_BG.png",
+    "kind": "background",
+    "bytes": 197678,
+    "width": 640,
+    "height": 480,
+    "sha256": "42a0fd20d0e3fadc4b0c2d4e8c15241e14e105c34f08f59a0a1d917229f7bd94",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.14/SLUS_213.14_BG_00.png"
+    },
+    "gameId": "SLUS_213.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.14/SLUS_213.14_BG.png",
+      "kind": "background",
+      "bytes": 197678,
+      "width": 640,
+      "height": 480,
+      "sha256": "42a0fd20d0e3fadc4b0c2d4e8c15241e14e105c34f08f59a0a1d917229f7bd94",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.14/SLUS_213.14_BG_00.png"
+      },
+      "gameId": "SLUS_213.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ruff Trigger - Vancore Conspiracy"
+}

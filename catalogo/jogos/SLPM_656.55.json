@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_656.55",
+  "cover": {
+    "path": "PS2/SLPM_656.55/SLPM_656.55_COV.png",
+    "kind": "cover",
+    "bytes": 70152,
+    "width": 192,
+    "height": 272,
+    "sha256": "d601a88e219a8340f57792c7e23fe051c8bb6f625dc1cdd754e7ae2ef8181431",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65655.jpg"
+    },
+    "gameId": "SLPM_656.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_656.55/SLPM_656.55_BG.png",
+    "kind": "background",
+    "bytes": 178222,
+    "width": 640,
+    "height": 480,
+    "sha256": "a87b18dbfdb75e7a206b9b1088c78ca09b4e5ff15bf06ef38ffeffea9da617a1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_656.55/SLPM_656.55_BG_00.png"
+    },
+    "gameId": "SLPM_656.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_656.55/SLPM_656.55_BG.png",
+      "kind": "background",
+      "bytes": 178222,
+      "width": 640,
+      "height": 480,
+      "sha256": "a87b18dbfdb75e7a206b9b1088c78ca09b4e5ff15bf06ef38ffeffea9da617a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.55/SLPM_656.55_BG_00.png"
+      },
+      "gameId": "SLPM_656.55"
+    },
+    {
+      "path": "PS2/SLPM_656.55/SLPM_656.55_BG_01.png",
+      "kind": "background",
+      "bytes": 155991,
+      "width": 640,
+      "height": 480,
+      "sha256": "71173bc5d4a57f0d6bb7bd500773130e19c95f5c3b365341f65adeeec81ea749",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.55/SLPM_656.55_BG_01.png"
+      },
+      "gameId": "SLPM_656.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney-Pixar's Finding Nemo (Yuke's The Best)"
+}

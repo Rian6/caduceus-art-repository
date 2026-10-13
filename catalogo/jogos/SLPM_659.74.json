@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.74",
+  "cover": {
+    "path": "PS2/SLPM_659.74/SLPM_659.74_COV.png",
+    "kind": "cover",
+    "bytes": 75510,
+    "width": 192,
+    "height": 272,
+    "sha256": "baa708f738350dc7fd40e625c96f6c1c52c7207cf06e2b4eb180503a288818df",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65974.jpg"
+    },
+    "gameId": "SLPM_659.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KENKA BANCHOU [LIMITED EDITION]"
+}

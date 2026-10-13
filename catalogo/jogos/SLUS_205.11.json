@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_205.11",
+  "cover": {
+    "path": "PS2/SLUS_205.11/SLUS_205.11_COV.png",
+    "kind": "cover",
+    "bytes": 88156,
+    "width": 192,
+    "height": 272,
+    "sha256": "92f0b5271a9ea8772dfc2ec2c44b8752f7407e97320c7056854e151768e27468",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20511.jpg"
+    },
+    "gameId": "SLUS_205.11"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.11/SLUS_205.11_ICO.png",
+    "kind": "disc",
+    "bytes": 31654,
+    "width": 256,
+    "height": 256,
+    "sha256": "a5847acbbe58e37889245ec0f87a21d8978f1b708de770c8650587da6f665325",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.11_ICO.png"
+    },
+    "gameId": "SLUS_205.11"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.11/SLUS_205.11_BG.png",
+    "kind": "background",
+    "bytes": 184370,
+    "width": 640,
+    "height": 480,
+    "sha256": "15102277c2f40ff840d0fb7ea36322bbf9a7bb495a15ee966885117afc7225fa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.11/SLUS_205.11_BG_00.png"
+    },
+    "gameId": "SLUS_205.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.11/SLUS_205.11_BG.png",
+      "kind": "background",
+      "bytes": 184370,
+      "width": 640,
+      "height": 480,
+      "sha256": "15102277c2f40ff840d0fb7ea36322bbf9a7bb495a15ee966885117afc7225fa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.11/SLUS_205.11_BG_00.png"
+      },
+      "gameId": "SLUS_205.11"
+    },
+    {
+      "path": "PS2/SLUS_205.11/SLUS_205.11_BG_01.png",
+      "kind": "background",
+      "bytes": 192454,
+      "width": 640,
+      "height": 480,
+      "sha256": "23ec9ae0bb46902962aa282578fe75ccba392fb3be8c016ffdeb8824ebd43940",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.11/SLUS_205.11_BG_01.png"
+      },
+      "gameId": "SLUS_205.11"
+    },
+    {
+      "path": "PS2/SLUS_205.11/SLUS_205.11_BG_02.png",
+      "kind": "background",
+      "bytes": 201014,
+      "width": 640,
+      "height": 480,
+      "sha256": "b34ffa76505c09d33566bc7a4ee43d8d124f4893418cb3390da56f985c777271",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.11/SLUS_205.11_BG_02.png"
+      },
+      "gameId": "SLUS_205.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hunter: The Reckoning: Wayward"
+}

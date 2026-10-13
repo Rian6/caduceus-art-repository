@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_973.39",
+  "cover": {
+    "path": "PS2/SCUS_973.39/SCUS_973.39_COV.png",
+    "kind": "cover",
+    "bytes": 98385,
+    "width": 192,
+    "height": 272,
+    "sha256": "c2ccf4112e9d3ef51404bcb11de809dca3253f0f59bbc01935e1898653d5e1ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97339.jpg"
+    },
+    "gameId": "SCUS_973.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Official U.S. PlayStation Magazine Demo Disc 86"
+}

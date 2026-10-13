@@ -1,0 +1,51 @@
+{
+  "id": "SLES_530.22",
+  "cover": {
+    "path": "PS2/SLES_530.22/SLES_530.22_COV.png",
+    "kind": "cover",
+    "bytes": 77404,
+    "width": 192,
+    "height": 272,
+    "sha256": "e6f34e8849ad1d40423c7ad1eb4752f6b7970981786d04c00f33ab7b404e3476",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53022.jpg"
+    },
+    "gameId": "SLES_530.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_530.22/SLES_530.22_BG.png",
+    "kind": "background",
+    "bytes": 67150,
+    "width": 640,
+    "height": 480,
+    "sha256": "8decc12a3b0d6373d7a5fd1befc6eb47f157cbab4cf594ce5565aa5b7fda32b1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.22/SLES_530.22_BG_00.png"
+    },
+    "gameId": "SLES_530.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.22/SLES_530.22_BG.png",
+      "kind": "background",
+      "bytes": 67150,
+      "width": 640,
+      "height": 480,
+      "sha256": "8decc12a3b0d6373d7a5fd1befc6eb47f157cbab4cf594ce5565aa5b7fda32b1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.22/SLES_530.22_BG_00.png"
+      },
+      "gameId": "SLES_530.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN NBA 2K5"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_523.85",
+  "cover": {
+    "path": "PS2/SLES_523.85/SLES_523.85_COV.png",
+    "kind": "cover",
+    "bytes": 80801,
+    "width": 192,
+    "height": 272,
+    "sha256": "5cb6c627f0cf0465796e9c2ea117fd730073123cb73c75974d474c78685b32ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52385.jpg"
+    },
+    "gameId": "SLES_523.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "England International Football - 2004 Edition"
+}

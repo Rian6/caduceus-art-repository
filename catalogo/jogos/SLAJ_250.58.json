@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.58",
+  "cover": {
+    "path": "PS2/SLAJ_250.58/SLAJ_250.58_COV.png",
+    "kind": "cover",
+    "bytes": 88318,
+    "width": 192,
+    "height": 272,
+    "sha256": "e1a8f6267aa442814c8a3d70dc915ff46e909e9836d5910b9c7d12bb1c484d31",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25058.jpg"
+    },
+    "gameId": "SLAJ_250.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007 - GOLDENEYE - ROGUE AGENT"
+}

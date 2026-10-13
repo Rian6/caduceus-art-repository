@@ -1,0 +1,25 @@
+{
+  "id": "SCED_500.67",
+  "cover": {
+    "path": "PS2/SCED_500.67/SCED_500.67_COV.png",
+    "kind": "cover",
+    "bytes": 56570,
+    "width": 192,
+    "height": 272,
+    "sha256": "d8b56d72327cd757327757ebb5bd413f3e0f2372683eb0dd0f07830caa27112c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCED_500.67/SCED_500.67_COV.png"
+    },
+    "gameId": "SCED_500.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Official PlayStation 2 Magazine Demo 3"
+}

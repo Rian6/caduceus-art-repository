@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.70",
+  "cover": {
+    "path": "PS2/SLPM_660.70/SLPM_660.70_COV.png",
+    "kind": "cover",
+    "bytes": 92929,
+    "width": 192,
+    "height": 272,
+    "sha256": "864eef79318d6c81cf748d0d31ece800d8f32e6067b6e79ea4efdd10f05dc150",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66070.jpg"
+    },
+    "gameId": "SLPM_660.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shadow Hearts - From The New World (Premium Box)"
+}

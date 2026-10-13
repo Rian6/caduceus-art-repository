@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.78",
+  "cover": {
+    "path": "PS2/SLPM_620.78/SLPM_620.78_COV.png",
+    "kind": "cover",
+    "bytes": 86308,
+    "width": 192,
+    "height": 272,
+    "sha256": "3fe29693824302b72c1aa8938885d9048244a1934c3aa16bee8506de5a93b84a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62078.jpg"
+    },
+    "gameId": "SLPM_620.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE MAESTRO MUSIC II"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SLES_820.28",
+  "cover": {
+    "path": "PS2/SLES_820.28/SLES_820.28_COV.png",
+    "kind": "cover",
+    "bytes": 95268,
+    "width": 192,
+    "height": 272,
+    "sha256": "2f880b955b2a4676c429f58b83e7ccc14ec2307f368f44b23b1071da48e7e85a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-82028.jpg"
+    },
+    "gameId": "SLES_820.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_820.28/SLES_820.28_BG.png",
+    "kind": "background",
+    "bytes": 156872,
+    "width": 640,
+    "height": 480,
+    "sha256": "f5e5b49b3f39c6200ee8a332ac802b63c2dbe2dcc7e90ab2a1cb8c5520799181",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_820.28/SLES_820.28_BG_00.png"
+    },
+    "gameId": "SLES_820.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_820.28/SLES_820.28_BG.png",
+      "kind": "background",
+      "bytes": 156872,
+      "width": 640,
+      "height": 480,
+      "sha256": "f5e5b49b3f39c6200ee8a332ac802b63c2dbe2dcc7e90ab2a1cb8c5520799181",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.28/SLES_820.28_BG_00.png"
+      },
+      "gameId": "SLES_820.28"
+    },
+    {
+      "path": "PS2/SLES_820.28/SLES_820.28_BG_01.png",
+      "kind": "background",
+      "bytes": 158155,
+      "width": 640,
+      "height": 480,
+      "sha256": "1c75f1b441a0ac6f74b50bb6a239090f256e1c730626c76aa33019ab202db2c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.28/SLES_820.28_BG_01.png"
+      },
+      "gameId": "SLES_820.28"
+    },
+    {
+      "path": "PS2/SLES_820.28/SLES_820.28_BG_02.png",
+      "kind": "background",
+      "bytes": 181024,
+      "width": 640,
+      "height": 480,
+      "sha256": "c915d19454d83e1b6c734a667c49e6f0ad3f3a094711e05ab4fb632696c8103a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.28/SLES_820.28_BG_02.png"
+      },
+      "gameId": "SLES_820.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR OCEAN - TILL THE END OF TIME [2 DISCS]"
+}

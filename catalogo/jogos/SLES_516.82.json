@@ -1,0 +1,51 @@
+{
+  "id": "SLES_516.82",
+  "cover": {
+    "path": "PS2/SLES_516.82/SLES_516.82_COV.png",
+    "kind": "cover",
+    "bytes": 87949,
+    "width": 192,
+    "height": 272,
+    "sha256": "42079d28ecf4b2c2432ce6b0661719213594113f103897f7782293a0ea388bc9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51682.jpg"
+    },
+    "gameId": "SLES_516.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_516.82/SLES_516.82_BG.png",
+    "kind": "background",
+    "bytes": 148820,
+    "width": 640,
+    "height": 480,
+    "sha256": "6ad1dfd2567193a3b4e400f36bd09c0ec43db320f8567651afc5d2db71cb06d6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_516.82/SLES_516.82_BG_00.png"
+    },
+    "gameId": "SLES_516.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_516.82/SLES_516.82_BG.png",
+      "kind": "background",
+      "bytes": 148820,
+      "width": 640,
+      "height": 480,
+      "sha256": "6ad1dfd2567193a3b4e400f36bd09c0ec43db320f8567651afc5d2db71cb06d6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.82/SLES_516.82_BG_00.png"
+      },
+      "gameId": "SLES_516.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HEADHUNTER REDEMPTION"
+}

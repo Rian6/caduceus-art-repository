@@ -1,0 +1,25 @@
+{
+  "id": "SLES_542.54",
+  "cover": {
+    "path": "PS2/SLES_542.54/SLES_542.54_COV.png",
+    "kind": "cover",
+    "bytes": 67338,
+    "width": 192,
+    "height": 272,
+    "sha256": "114b14bbad51ee7939250e2980a1b762c1d157129a845b5dae2bb08ac9cb4b9b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54254.jpg"
+    },
+    "gameId": "SLES_542.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Evolution GT"
+}

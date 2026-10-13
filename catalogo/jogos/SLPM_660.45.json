@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.45",
+  "cover": {
+    "path": "PS2/SLPM_660.45/SLPM_660.45_COV.png",
+    "kind": "cover",
+    "bytes": 103172,
+    "width": 192,
+    "height": 272,
+    "sha256": "77512382bb99b28cd3474264108b595e21e587b78618e462cf2bf52c5ae8505f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66045.jpg"
+    },
+    "gameId": "SLPM_660.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MY MERRY MAY WITH BE"
+}

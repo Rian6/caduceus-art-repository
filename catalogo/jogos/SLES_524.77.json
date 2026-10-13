@@ -1,0 +1,39 @@
+{
+  "id": "SLES_524.77",
+  "cover": {
+    "path": "PS2/SLES_524.77/SLES_524.77_COV.png",
+    "kind": "cover",
+    "bytes": 118319,
+    "width": 192,
+    "height": 272,
+    "sha256": "6de40056c12b1b539488711ab7cd713f6bdce1c24bac32f89c15e978af09273b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52477.jpg"
+    },
+    "gameId": "SLES_524.77"
+  },
+  "disc": {
+    "path": "PS2/SLES_524.77/SLES_524.77_ICO.png",
+    "kind": "disc",
+    "bytes": 12715,
+    "width": 128,
+    "height": 128,
+    "sha256": "0890518178345d21c2aa3272e82eaa441cc58cddd2207d276b9d8b3d3491d124",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_524.77_ICO.png"
+    },
+    "gameId": "SLES_524.77"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Vegas Casino II"
+}

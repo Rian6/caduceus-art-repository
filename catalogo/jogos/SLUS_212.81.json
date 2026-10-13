@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_212.81",
+  "cover": {
+    "path": "PS2/SLUS_212.81/SLUS_212.81_COV.png",
+    "kind": "cover",
+    "bytes": 105474,
+    "width": 192,
+    "height": 272,
+    "sha256": "f3927a6bad8c993bd0cd9e9205215d5c1c5c7ab703c44f6c7ecf2427d1536932",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21281.jpg"
+    },
+    "gameId": "SLUS_212.81"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.81/SLUS_212.81_ICO.png",
+    "kind": "disc",
+    "bytes": 34263,
+    "width": 256,
+    "height": 256,
+    "sha256": "244ef1aece12dc9d80d9d2f4456dc3f233de5296f0eb48e2cc4bbd858118c232",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.81_ICO.png"
+    },
+    "gameId": "SLUS_212.81"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.81/SLUS_212.81_BG.png",
+    "kind": "background",
+    "bytes": 192710,
+    "width": 640,
+    "height": 480,
+    "sha256": "8cf611eb20dee9f8c0aef655851cea2a2c136e3182b767d2746e28cc6f9d6201",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.81/SLUS_212.81_BG_00.png"
+    },
+    "gameId": "SLUS_212.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.81/SLUS_212.81_BG.png",
+      "kind": "background",
+      "bytes": 192710,
+      "width": 640,
+      "height": 480,
+      "sha256": "8cf611eb20dee9f8c0aef655851cea2a2c136e3182b767d2746e28cc6f9d6201",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.81/SLUS_212.81_BG_00.png"
+      },
+      "gameId": "SLUS_212.81"
+    },
+    {
+      "path": "PS2/SLUS_212.81/SLUS_212.81_BG_01.png",
+      "kind": "background",
+      "bytes": 212720,
+      "width": 640,
+      "height": 480,
+      "sha256": "13b1864e540bf21d6c9b666a8267531ce9e129a12501f6052e76f5d72587f086",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.81/SLUS_212.81_BG_01.png"
+      },
+      "gameId": "SLUS_212.81"
+    },
+    {
+      "path": "PS2/SLUS_212.81/SLUS_212.81_BG_02.png",
+      "kind": "background",
+      "bytes": 185498,
+      "width": 640,
+      "height": 480,
+      "sha256": "12abc4603b863cd7f5edad1d3e069e3fb7b599c183707d198c86bf376f132e33",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.81/SLUS_212.81_BG_02.png"
+      },
+      "gameId": "SLUS_212.81"
+    },
+    {
+      "path": "PS2/SLUS_212.81/SLUS_212.81_BG_03.png",
+      "kind": "background",
+      "bytes": 183184,
+      "width": 640,
+      "height": 480,
+      "sha256": "9d36c3c43c8ed60517f723705bc74b7944172d58208f7b4ed089b3f2b69d0ec2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.81/SLUS_212.81_BG_03.png"
+      },
+      "gameId": "SLUS_212.81"
+    },
+    {
+      "path": "PS2/SLUS_212.81/SLUS_212.81_BG_04.png",
+      "kind": "background",
+      "bytes": 43694,
+      "width": 640,
+      "height": 480,
+      "sha256": "3ff165f56e11404f7c9ead3ffb454f7c772644c7d1c10d86c3137737281d2f36",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.81/SLUS_212.81_BG_04.png"
+      },
+      "gameId": "SLUS_212.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Marvel Nemesis: Rise of the Imperfects"
+}

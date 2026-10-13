@@ -1,0 +1,155 @@
+{
+  "id": "SLPS_251.00",
+  "cover": {
+    "path": "PS2/SLPS_251.00/SLPS_251.00_COV.png",
+    "kind": "cover",
+    "bytes": 96440,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e544ba5879a10078f5bc49480d3e7b1c74420f5f88e39f2b0c0bc251dc05f02",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25100.jpg"
+    },
+    "gameId": "SLPS_251.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_251.00/SLPS_251.00_BG.png",
+    "kind": "background",
+    "bytes": 196380,
+    "width": 640,
+    "height": 480,
+    "sha256": "e25f980548ecf7a23fe527e56de60d2982461c46203346bfdfd618d334122022",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_251.00/SLPS_251.00_BG_00.png"
+    },
+    "gameId": "SLPS_251.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_251.00/SLPS_251.00_BG.png",
+      "kind": "background",
+      "bytes": 196380,
+      "width": 640,
+      "height": 480,
+      "sha256": "e25f980548ecf7a23fe527e56de60d2982461c46203346bfdfd618d334122022",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.00/SLPS_251.00_BG_00.png"
+      },
+      "gameId": "SLPS_251.00"
+    },
+    {
+      "path": "PS2/SLPS_251.00/SLPS_251.00_BG_01.png",
+      "kind": "background",
+      "bytes": 145364,
+      "width": 640,
+      "height": 480,
+      "sha256": "c1bdfffca3640b59f30c4cd7ebe13259ebb01e2ba1f9a1fd2dad02bba24e8ada",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.00/SLPS_251.00_BG_01.png"
+      },
+      "gameId": "SLPS_251.00"
+    },
+    {
+      "path": "PS2/SLPS_251.00/SLPS_251.00_BG_02.png",
+      "kind": "background",
+      "bytes": 171155,
+      "width": 640,
+      "height": 480,
+      "sha256": "831240d626f2aed08c9dc7062afcaed137dd816d893b97db11883efe50135a69",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.00/SLPS_251.00_BG_02.png"
+      },
+      "gameId": "SLPS_251.00"
+    },
+    {
+      "path": "PS2/SLPS_251.00/SLPS_251.00_BG_03.png",
+      "kind": "background",
+      "bytes": 150140,
+      "width": 640,
+      "height": 480,
+      "sha256": "618dc7d98672045ab3d8033d1ddf821c40c45a18666741553defb9bd7e6baa50",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.00/SLPS_251.00_BG_03.png"
+      },
+      "gameId": "SLPS_251.00"
+    },
+    {
+      "path": "PS2/SLPS_251.00/SLPS_251.00_BG_04.png",
+      "kind": "background",
+      "bytes": 191509,
+      "width": 640,
+      "height": 480,
+      "sha256": "9df4a19656bad6e9c5823c4d1af7684854856904bf525af6a87debcd7e6b47a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.00/SLPS_251.00_BG_04.png"
+      },
+      "gameId": "SLPS_251.00"
+    },
+    {
+      "path": "PS2/SLPS_251.00/SLPS_251.00_BG_05.png",
+      "kind": "background",
+      "bytes": 185535,
+      "width": 640,
+      "height": 480,
+      "sha256": "7aa813d1444f75682fad23871d0f355532ca7dfa03d84cf5909dd2dac3d7a888",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.00/SLPS_251.00_BG_05.png"
+      },
+      "gameId": "SLPS_251.00"
+    },
+    {
+      "path": "PS2/SLPS_251.00/SLPS_251.00_BG_06.png",
+      "kind": "background",
+      "bytes": 37806,
+      "width": 640,
+      "height": 480,
+      "sha256": "8f84a7b13ea915c3f0e606a6af1a3251de360658f8b39001f8a611b7c3bace7e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.00/SLPS_251.00_BG_06.png"
+      },
+      "gameId": "SLPS_251.00"
+    },
+    {
+      "path": "PS2/SLPS_251.00/SLPS_251.00_BG_07.png",
+      "kind": "background",
+      "bytes": 199837,
+      "width": 640,
+      "height": 480,
+      "sha256": "7fb188762117c98fd90df2ab819bbaaeae059f2ce5a63aab1bc95711a847f4f6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.00/SLPS_251.00_BG_07.png"
+      },
+      "gameId": "SLPS_251.00"
+    },
+    {
+      "path": "PS2/SLPS_251.00/SLPS_251.00_BG_08.png",
+      "kind": "background",
+      "bytes": 151601,
+      "width": 640,
+      "height": 480,
+      "sha256": "07d45087716628a21c047b1d2d5ee5c698b3bcc0e3be5e49151b216b215a6184",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.00/SLPS_251.00_BG_08.png"
+      },
+      "gameId": "SLPS_251.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tekken 4"
+}

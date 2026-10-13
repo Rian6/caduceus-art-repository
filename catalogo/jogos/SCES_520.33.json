@@ -1,0 +1,90 @@
+{
+  "id": "SCES_520.33",
+  "cover": {
+    "path": "PS2/SCES_520.33/SCES_520.33_COV.png",
+    "kind": "cover",
+    "bytes": 96698,
+    "width": 192,
+    "height": 272,
+    "sha256": "3dcb84230deddc41a9857fc4bee34dcb1d844fa6663608c64a470359a9d83063",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52033.jpg"
+    },
+    "gameId": "SCES_520.33"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_520.33/SCES_520.33_BG.png",
+    "kind": "background",
+    "bytes": 115254,
+    "width": 640,
+    "height": 480,
+    "sha256": "0646a94dea71b520a64bbc07166dffc527fbc0331d6520297e1da58acdbacecf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_520.33/SCES_520.33_BG_00.png"
+    },
+    "gameId": "SCES_520.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_520.33/SCES_520.33_BG.png",
+      "kind": "background",
+      "bytes": 115254,
+      "width": 640,
+      "height": 480,
+      "sha256": "0646a94dea71b520a64bbc07166dffc527fbc0331d6520297e1da58acdbacecf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_520.33/SCES_520.33_BG_00.png"
+      },
+      "gameId": "SCES_520.33"
+    },
+    {
+      "path": "PS2/SCES_520.33/SCES_520.33_BG_01.png",
+      "kind": "background",
+      "bytes": 195565,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d626df3f88bcb0f400c826ad77e71e6833553eee675bf227edd6ab18b12b24e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_520.33/SCES_520.33_BG_01.png"
+      },
+      "gameId": "SCES_520.33"
+    },
+    {
+      "path": "PS2/SCES_520.33/SCES_520.33_BG_02.png",
+      "kind": "background",
+      "bytes": 188965,
+      "width": 640,
+      "height": 480,
+      "sha256": "43dadcddb25a5a86fe2390e8a12209c03cce442b4e3adef6ba480e11d2249f93",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_520.33/SCES_520.33_BG_02.png"
+      },
+      "gameId": "SCES_520.33"
+    },
+    {
+      "path": "PS2/SCES_520.33/SCES_520.33_BG_03.png",
+      "kind": "background",
+      "bytes": 179113,
+      "width": 640,
+      "height": 480,
+      "sha256": "8810b22bebf9550d8dcb81b3a5c601634bed14ec5e434a9a094a2e6fa43f22d7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_520.33/SCES_520.33_BG_03.png"
+      },
+      "gameId": "SCES_520.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Syphon Filter: The Omega Strain"
+}

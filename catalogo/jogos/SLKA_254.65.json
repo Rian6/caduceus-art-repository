@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_254.65",
+  "cover": {
+    "path": "PS2/SLKA_254.65/SLKA_254.65_COV.png",
+    "kind": "cover",
+    "bytes": 87092,
+    "width": 192,
+    "height": 272,
+    "sha256": "a38503ab87ccf27ca62600cc5525102a1f380787f5669abaae78bb03a719dad8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25465.jpg"
+    },
+    "gameId": "SLKA_254.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SILENT HILL - SHATTERED MEMORIES"
+}

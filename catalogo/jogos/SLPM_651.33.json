@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.33",
+  "cover": {
+    "path": "PS2/SLPM_651.33/SLPM_651.33_COV.png",
+    "kind": "cover",
+    "bytes": 106478,
+    "width": 192,
+    "height": 272,
+    "sha256": "334d8c58cfbb5687134ffeb089eddaa99ada4df15a50e8fb2d71ffacbb871f4a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65133.jpg"
+    },
+    "gameId": "SLPM_651.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Konohana 2: Todokanai Requiem"
+}

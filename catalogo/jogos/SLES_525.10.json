@@ -1,0 +1,51 @@
+{
+  "id": "SLES_525.10",
+  "cover": {
+    "path": "PS2/SLES_525.10/SLES_525.10_COV.png",
+    "kind": "cover",
+    "bytes": 113609,
+    "width": 192,
+    "height": 272,
+    "sha256": "39902e7ca32e1983cb0a45c0bf616be5a5657edd79184d9dc917cefe9a8ec4f0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52510.jpg"
+    },
+    "gameId": "SLES_525.10"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.10/SLES_525.10_BG.png",
+    "kind": "background",
+    "bytes": 212459,
+    "width": 640,
+    "height": 480,
+    "sha256": "25070577e4915efdd4c0a4b7d034270fc7730e45743f6e00c6d2687eb31a0e3a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.10/SLES_525.10_BG_00.png"
+    },
+    "gameId": "SLES_525.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.10/SLES_525.10_BG.png",
+      "kind": "background",
+      "bytes": 212459,
+      "width": 640,
+      "height": 480,
+      "sha256": "25070577e4915efdd4c0a4b7d034270fc7730e45743f6e00c6d2687eb31a0e3a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.10/SLES_525.10_BG_00.png"
+      },
+      "gameId": "SLES_525.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NEO CONTRA"
+}

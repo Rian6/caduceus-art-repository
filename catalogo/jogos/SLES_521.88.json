@@ -1,0 +1,90 @@
+{
+  "id": "SLES_521.88",
+  "cover": {
+    "path": "PS2/SLES_521.88/SLES_521.88_COV.png",
+    "kind": "cover",
+    "bytes": 85299,
+    "width": 192,
+    "height": 272,
+    "sha256": "f784ae5bc44326a8815a6b70283a68bdcaf8c0f7880ba39f1a711ce19a9f0cf0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52188.jpg"
+    },
+    "gameId": "SLES_521.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_521.88/SLES_521.88_BG.png",
+    "kind": "background",
+    "bytes": 171758,
+    "width": 640,
+    "height": 480,
+    "sha256": "ebd704e14ce13ba8f355dbbd4e9c4ad4e04feff5cc541db8aeb2e9639134ae93",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_521.88/SLES_521.88_BG_00.png"
+    },
+    "gameId": "SLES_521.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_521.88/SLES_521.88_BG.png",
+      "kind": "background",
+      "bytes": 171758,
+      "width": 640,
+      "height": 480,
+      "sha256": "ebd704e14ce13ba8f355dbbd4e9c4ad4e04feff5cc541db8aeb2e9639134ae93",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.88/SLES_521.88_BG_00.png"
+      },
+      "gameId": "SLES_521.88"
+    },
+    {
+      "path": "PS2/SLES_521.88/SLES_521.88_BG_01.png",
+      "kind": "background",
+      "bytes": 131454,
+      "width": 640,
+      "height": 480,
+      "sha256": "9565b324115c86f2838516fa67ae9083c8dc34242ccd5c721a96c15e163b10c3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.88/SLES_521.88_BG_01.png"
+      },
+      "gameId": "SLES_521.88"
+    },
+    {
+      "path": "PS2/SLES_521.88/SLES_521.88_BG_02.png",
+      "kind": "background",
+      "bytes": 165412,
+      "width": 640,
+      "height": 480,
+      "sha256": "5202c94fe12986df4892b9bf13b80209a2b881f5518391b696dccb65e8895afa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.88/SLES_521.88_BG_02.png"
+      },
+      "gameId": "SLES_521.88"
+    },
+    {
+      "path": "PS2/SLES_521.88/SLES_521.88_BG_03.png",
+      "kind": "background",
+      "bytes": 104703,
+      "width": 640,
+      "height": 480,
+      "sha256": "cdd0c4a1db8d702bd7beca701cce06fc44f00dfe9b1316691f7abf3e52a5b7a4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.88/SLES_521.88_BG_03.png"
+      },
+      "gameId": "SLES_521.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Baldur's Gate: Dark Alliance II"
+}

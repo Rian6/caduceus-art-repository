@@ -1,0 +1,25 @@
+{
+  "id": "PBPX_955.24",
+  "cover": {
+    "path": "PS2/PBPX_955.24/PBPX_955.24_COV.png",
+    "kind": "cover",
+    "bytes": 63181,
+    "width": 192,
+    "height": 272,
+    "sha256": "2ebed990f8133549eaedb2d7fcd7936341a5ffea8f636415e97b83cb20db0d4f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PBPX-95524.jpg"
+    },
+    "gameId": "PBPX_955.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 4 - Prologue"
+}

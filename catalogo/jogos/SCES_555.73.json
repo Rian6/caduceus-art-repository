@@ -1,0 +1,103 @@
+{
+  "id": "SCES_555.73",
+  "cover": {
+    "path": "PS2/SCES_555.73/SCES_555.73_COV.png",
+    "kind": "cover",
+    "bytes": 114266,
+    "width": 192,
+    "height": 272,
+    "sha256": "dbf4dc2bdb134c68aa5b70ea5bd35d9e070ec9dbe99bbc671c616d813431eedb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55573.jpg"
+    },
+    "gameId": "SCES_555.73"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_555.73/SCES_555.73_BG.png",
+    "kind": "background",
+    "bytes": 197619,
+    "width": 640,
+    "height": 480,
+    "sha256": "54ce83c5bd48fc580529b8f29bcc1b761c13ca75fe8bd153a7dff3d562aa5643",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_555.73/SCES_555.73_BG_00.png"
+    },
+    "gameId": "SCES_555.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_555.73/SCES_555.73_BG.png",
+      "kind": "background",
+      "bytes": 197619,
+      "width": 640,
+      "height": 480,
+      "sha256": "54ce83c5bd48fc580529b8f29bcc1b761c13ca75fe8bd153a7dff3d562aa5643",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_555.73/SCES_555.73_BG_00.png"
+      },
+      "gameId": "SCES_555.73"
+    },
+    {
+      "path": "PS2/SCES_555.73/SCES_555.73_BG_01.png",
+      "kind": "background",
+      "bytes": 236378,
+      "width": 640,
+      "height": 480,
+      "sha256": "08b462f23edf8ddb8af661dc0a70939dcf2654b37eb877bae2feccd00848866a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_555.73/SCES_555.73_BG_01.png"
+      },
+      "gameId": "SCES_555.73"
+    },
+    {
+      "path": "PS2/SCES_555.73/SCES_555.73_BG_02.png",
+      "kind": "background",
+      "bytes": 208683,
+      "width": 640,
+      "height": 480,
+      "sha256": "5ebb1477d47e9027fef3efc217c16fc67fc3e46952806f8331ec871e1ac4c2da",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_555.73/SCES_555.73_BG_02.png"
+      },
+      "gameId": "SCES_555.73"
+    },
+    {
+      "path": "PS2/SCES_555.73/SCES_555.73_BG_03.png",
+      "kind": "background",
+      "bytes": 194286,
+      "width": 640,
+      "height": 480,
+      "sha256": "bda16c75616df33eb8110fe612a82f5aee274be80158b86a501fa6ad2f8765a3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_555.73/SCES_555.73_BG_03.png"
+      },
+      "gameId": "SCES_555.73"
+    },
+    {
+      "path": "PS2/SCES_555.73/SCES_555.73_BG_04.png",
+      "kind": "background",
+      "bytes": 173123,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4a8ffa6cabfd39cfa6768183ad6418d88519a8fceae14e40b45b61be95b1fbd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_555.73/SCES_555.73_BG_04.png"
+      },
+      "gameId": "SCES_555.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MotorStorm: Arctic Edge"
+}

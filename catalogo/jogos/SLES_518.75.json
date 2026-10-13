@@ -1,0 +1,51 @@
+{
+  "id": "SLES_518.75",
+  "cover": {
+    "path": "PS2/SLES_518.75/SLES_518.75_COV.png",
+    "kind": "cover",
+    "bytes": 103503,
+    "width": 192,
+    "height": 272,
+    "sha256": "1f0a2d900f9bf8a62f6f4ea028edbbde75a6ce81e630c5f482a2d0a12b9d095e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51875.jpg"
+    },
+    "gameId": "SLES_518.75"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_518.75/SLES_518.75_BG.png",
+    "kind": "background",
+    "bytes": 190941,
+    "width": 640,
+    "height": 480,
+    "sha256": "c67357f93196fe5da0b58655dbdbb82421550485012a79e119e9ec29c2fb3407",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.75/SLES_518.75_BG_00.png"
+    },
+    "gameId": "SLES_518.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.75/SLES_518.75_BG.png",
+      "kind": "background",
+      "bytes": 190941,
+      "width": 640,
+      "height": 480,
+      "sha256": "c67357f93196fe5da0b58655dbdbb82421550485012a79e119e9ec29c2fb3407",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.75/SLES_518.75_BG_00.png"
+      },
+      "gameId": "SLES_518.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Medal of Honor: Rising Sun"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCES_536.63",
+  "cover": {
+    "path": "PS2/SCES_536.63/SCES_536.63_COV.png",
+    "kind": "cover",
+    "bytes": 98110,
+    "width": 192,
+    "height": 272,
+    "sha256": "c646aab36960b4a708617ad6259cc0533af03498eebd18091ac269bbcbf535df",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53663.jpg"
+    },
+    "gameId": "SCES_536.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BUZZ! - THE MUSIC QUIZ"
+}

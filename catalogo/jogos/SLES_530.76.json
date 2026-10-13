@@ -1,0 +1,51 @@
+{
+  "id": "SLES_530.76",
+  "cover": {
+    "path": "PS2/SLES_530.76/SLES_530.76_COV.png",
+    "kind": "cover",
+    "bytes": 79700,
+    "width": 192,
+    "height": 272,
+    "sha256": "172b2026db9fff100842f81d1f3c892d6ed9a24f3c11b437f0c28e3c4dd2fa01",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53076.jpg"
+    },
+    "gameId": "SLES_530.76"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_530.76/SLES_530.76_BG.png",
+    "kind": "background",
+    "bytes": 210474,
+    "width": 640,
+    "height": 480,
+    "sha256": "359c3eed76a71b929fc003a05707bdc32d53dbdb980fac76c8773d4a5d799f42",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.76/SLES_530.76_BG_00.png"
+    },
+    "gameId": "SLES_530.76"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.76/SLES_530.76_BG.png",
+      "kind": "background",
+      "bytes": 210474,
+      "width": 640,
+      "height": 480,
+      "sha256": "359c3eed76a71b929fc003a05707bdc32d53dbdb980fac76c8773d4a5d799f42",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.76/SLES_530.76_BG_00.png"
+      },
+      "gameId": "SLES_530.76"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Trigger Man"
+}

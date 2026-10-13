@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_734.23",
+  "cover": {
+    "path": "PS2/SLPS_734.23/SLPS_734.23_COV.png",
+    "kind": "cover",
+    "bytes": 92995,
+    "width": 192,
+    "height": 272,
+    "sha256": "0a456bc0d057cbc9c9e9275626771244e6083dce681e261d851ed4eb1f8c6a42",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73423.jpg"
+    },
+    "gameId": "SLPS_734.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Monster Farm 4 (Playstation 2 The Best)"
+}

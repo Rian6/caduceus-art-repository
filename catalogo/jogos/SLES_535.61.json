@@ -1,0 +1,103 @@
+{
+  "id": "SLES_535.61",
+  "cover": {
+    "path": "PS2/SLES_535.61/SLES_535.61_COV.png",
+    "kind": "cover",
+    "bytes": 93928,
+    "width": 192,
+    "height": 272,
+    "sha256": "08e1e3c291d83d85fd95ba725beee71f535850ec089f1dae8a6be776eeaccbe7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53561.jpg"
+    },
+    "gameId": "SLES_535.61"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_535.61/SLES_535.61_BG.png",
+    "kind": "background",
+    "bytes": 177692,
+    "width": 640,
+    "height": 480,
+    "sha256": "97eea5703e028ae8ed64b6f7180c9fc65147d1cc39bfa22d18ab92b9ada70826",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.61/SLES_535.61_BG_00.png"
+    },
+    "gameId": "SLES_535.61"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.61/SLES_535.61_BG.png",
+      "kind": "background",
+      "bytes": 177692,
+      "width": 640,
+      "height": 480,
+      "sha256": "97eea5703e028ae8ed64b6f7180c9fc65147d1cc39bfa22d18ab92b9ada70826",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.61/SLES_535.61_BG_00.png"
+      },
+      "gameId": "SLES_535.61"
+    },
+    {
+      "path": "PS2/SLES_535.61/SLES_535.61_BG_01.png",
+      "kind": "background",
+      "bytes": 132398,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f4ac93f4aa46ea3b1893ca5679875b6e9659bab61304ff417972d363ba927e5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.61/SLES_535.61_BG_01.png"
+      },
+      "gameId": "SLES_535.61"
+    },
+    {
+      "path": "PS2/SLES_535.61/SLES_535.61_BG_02.png",
+      "kind": "background",
+      "bytes": 103701,
+      "width": 640,
+      "height": 480,
+      "sha256": "25541cfc4fb404534da7d0935954e804656d111d7bddf25ec07a90d64f3a3602",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.61/SLES_535.61_BG_02.png"
+      },
+      "gameId": "SLES_535.61"
+    },
+    {
+      "path": "PS2/SLES_535.61/SLES_535.61_BG_03.png",
+      "kind": "background",
+      "bytes": 140115,
+      "width": 640,
+      "height": 480,
+      "sha256": "9b5332810b2f3a27053232616b5d93006bd818d31804fa3a1f5fafcb37c03655",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.61/SLES_535.61_BG_03.png"
+      },
+      "gameId": "SLES_535.61"
+    },
+    {
+      "path": "PS2/SLES_535.61/SLES_535.61_BG_04.png",
+      "kind": "background",
+      "bytes": 140012,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3581eebaf3f08a85b0bf543a02ecc5a22d5fbaebbb6bd3caee0ccf701303fcd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.61/SLES_535.61_BG_04.png"
+      },
+      "gameId": "SLES_535.61"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Canis Canem Edit"
+}

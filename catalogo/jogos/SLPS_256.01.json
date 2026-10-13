@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.01",
+  "cover": {
+    "path": "PS2/SLPS_256.01/SLPS_256.01_COV.png",
+    "kind": "cover",
+    "bytes": 97564,
+    "width": 192,
+    "height": 272,
+    "sha256": "490834f478c7bc09a26dc27c7a622fd3d11f33c21a00b4e49097913d85f2cb00",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25601.jpg"
+    },
+    "gameId": "SLPS_256.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ueki no Housoku - Taosu Zeroberuto Juudan!!"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.50",
+  "cover": {
+    "path": "PS2/SLPM_669.50/SLPM_669.50_COV.png",
+    "kind": "cover",
+    "bytes": 92590,
+    "width": 192,
+    "height": 272,
+    "sha256": "edd8e2af81a85d3ebba0f89aea80f585bae99431c69d1c34fcb6f26f00f15012",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66950.jpg"
+    },
+    "gameId": "SLPM_669.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winning Post 7 - Maximum 2008"
+}

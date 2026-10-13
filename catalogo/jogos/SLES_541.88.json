@@ -1,0 +1,64 @@
+{
+  "id": "SLES_541.88",
+  "cover": {
+    "path": "PS2/SLES_541.88/SLES_541.88_COV.png",
+    "kind": "cover",
+    "bytes": 92511,
+    "width": 192,
+    "height": 272,
+    "sha256": "10eb9763187b03682d3957c7e715ad1ad3d194d1116bd8b9c346d59a06061dab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54188.jpg"
+    },
+    "gameId": "SLES_541.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.88/SLES_541.88_BG.png",
+    "kind": "background",
+    "bytes": 178764,
+    "width": 640,
+    "height": 480,
+    "sha256": "4831bd7708d283f8864ddab5aa0613b5e5aff21a0289afda2c2a5cc933a4127a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.88/SLES_541.88_BG_00.png"
+    },
+    "gameId": "SLES_541.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.88/SLES_541.88_BG.png",
+      "kind": "background",
+      "bytes": 178764,
+      "width": 640,
+      "height": 480,
+      "sha256": "4831bd7708d283f8864ddab5aa0613b5e5aff21a0289afda2c2a5cc933a4127a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.88/SLES_541.88_BG_00.png"
+      },
+      "gameId": "SLES_541.88"
+    },
+    {
+      "path": "PS2/SLES_541.88/SLES_541.88_BG_01.png",
+      "kind": "background",
+      "bytes": 184284,
+      "width": 640,
+      "height": 480,
+      "sha256": "0a965c99f7eb48ee71e4443d17e71b992aac7c199fc2dab2e3a7f6d5a5984b63",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.88/SLES_541.88_BG_01.png"
+      },
+      "gameId": "SLES_541.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Avatar: The Legend of Aang"
+}

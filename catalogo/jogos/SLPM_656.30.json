@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.30",
+  "cover": {
+    "path": "PS2/SLPM_656.30/SLPM_656.30_COV.png",
+    "kind": "cover",
+    "bytes": 98560,
+    "width": 192,
+    "height": 272,
+    "sha256": "ec3b15315cc6619e6dd7e206461f860371b2d94e8265cc607c7389ad55ea0d83",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65630.jpg"
+    },
+    "gameId": "SLPM_656.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JIKKYOU POWERFUL PRO YAKYUU 11"
+}

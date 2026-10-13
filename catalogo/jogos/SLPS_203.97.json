@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.97",
+  "cover": {
+    "path": "PS2/SLPS_203.97/SLPS_203.97_COV.png",
+    "kind": "cover",
+    "bytes": 124244,
+    "width": 192,
+    "height": 272,
+    "sha256": "87db4382a0cf297498afda6191935f69e18a6cb9dda2a48ee3c1501a18e38853",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20397.jpg"
+    },
+    "gameId": "SLPS_203.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 7 - CR Pachinko Dokaben"
+}

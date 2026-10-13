@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.13",
+  "cover": {
+    "path": "PS2/SLPM_623.13/SLPM_623.13_COV.png",
+    "kind": "cover",
+    "bytes": 85014,
+    "width": 192,
+    "height": 272,
+    "sha256": "9f6df456f08671ac953f9eeb84ea84c66d6807cfbe19caa67152484fcef01a44",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62313.jpg"
+    },
+    "gameId": "SLPM_623.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.23 - The Puzzle Collection 2000 - Mon"
+}

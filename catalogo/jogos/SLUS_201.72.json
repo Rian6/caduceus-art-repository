@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_201.72",
+  "cover": {
+    "path": "PS2/SLUS_201.72/SLUS_201.72_COV.png",
+    "kind": "cover",
+    "bytes": 108606,
+    "width": 192,
+    "height": 272,
+    "sha256": "f2616130c2197a5cbd5507a2430607500c9f66e37dfe43d955b2226a202ea0a1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20172.jpg"
+    },
+    "gameId": "SLUS_201.72"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.72/SLUS_201.72_ICO.png",
+    "kind": "disc",
+    "bytes": 35164,
+    "width": 256,
+    "height": 256,
+    "sha256": "c1a04fbec003fd8447ce8023361e9555a6ad7cfd73702b00e15e12e9247c8089",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.72_ICO.png"
+    },
+    "gameId": "SLUS_201.72"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.72/SLUS_201.72_BG.png",
+    "kind": "background",
+    "bytes": 216206,
+    "width": 640,
+    "height": 480,
+    "sha256": "67f508b7eddaa44fd8e5689bbba70b92436141a4ccd92aa754a9cce282268a9a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.72/SLUS_201.72_BG_00.png"
+    },
+    "gameId": "SLUS_201.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.72/SLUS_201.72_BG.png",
+      "kind": "background",
+      "bytes": 216206,
+      "width": 640,
+      "height": 480,
+      "sha256": "67f508b7eddaa44fd8e5689bbba70b92436141a4ccd92aa754a9cce282268a9a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.72/SLUS_201.72_BG_00.png"
+      },
+      "gameId": "SLUS_201.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PRYZM CHAPTER ONE - THE DARK UNICORN"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.82",
+  "cover": {
+    "path": "PS2/SLPS_252.82/SLPS_252.82_COV.png",
+    "kind": "cover",
+    "bytes": 110370,
+    "width": 192,
+    "height": 272,
+    "sha256": "9c480b86fd725ecb69117f2f3f10fc783b614fcb55411471a300be54f479db01",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25282.jpg"
+    },
+    "gameId": "SLPS_252.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GAKUEN HEAVEN - BOY'S LOVE SCRAMBLE!"
+}

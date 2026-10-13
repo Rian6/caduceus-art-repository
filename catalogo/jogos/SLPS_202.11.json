@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.11",
+  "cover": {
+    "path": "PS2/SLPS_202.11/SLPS_202.11_COV.png",
+    "kind": "cover",
+    "bytes": 101901,
+    "width": 192,
+    "height": 272,
+    "sha256": "bbb70f88f165be917bf88755de82fba92b21109000d01f45ec27696554a40cfc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20211.jpg"
+    },
+    "gameId": "SLPS_202.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yamasa Digi World 3: Time Park, King Pulsar, Cyber Dragon"
+}

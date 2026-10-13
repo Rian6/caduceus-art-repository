@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.88",
+  "cover": {
+    "path": "PS2/SLPS_258.88/SLPS_258.88_COV.png",
+    "kind": "cover",
+    "bytes": 103648,
+    "width": 192,
+    "height": 272,
+    "sha256": "51d3f73a96e4c3720fe3370de8a86e05ff89a550549c7cb77f5001e69f4bb18d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25888.jpg"
+    },
+    "gameId": "SLPS_258.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Star Wars - The Force Unleashed"
+}

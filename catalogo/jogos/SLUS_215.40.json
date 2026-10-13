@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_215.40",
+  "cover": {
+    "path": "PS2/SLUS_215.40/SLUS_215.40_COV.png",
+    "kind": "cover",
+    "bytes": 96082,
+    "width": 192,
+    "height": 272,
+    "sha256": "389bed0f97adcd5a9ac8d6678e9da6d734ca50ff40a38fc3abad515277b8e618",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21540.jpg"
+    },
+    "gameId": "SLUS_215.40"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.40/SLUS_215.40_ICO.png",
+    "kind": "disc",
+    "bytes": 32937,
+    "width": 256,
+    "height": 256,
+    "sha256": "8211f1739b9dd32c370e62842e4f40f0d401f1e5484d079ea4583f58f9e037b0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.40_ICO.png"
+    },
+    "gameId": "SLUS_215.40"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Karaoke Revolution Presents: American Idol"
+}

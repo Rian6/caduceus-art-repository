@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.01",
+  "cover": {
+    "path": "PS2/SLPS_252.01/SLPS_252.01_COV.png",
+    "kind": "cover",
+    "bytes": 84277,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff64a1be4ae7613d338fd7b5da501ce7847311d7ef98b7df79654ef2bb52669a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25201.jpg"
+    },
+    "gameId": "SLPS_252.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "REVEAL FANTASIA [VICTOR THE BEST]"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_201.40",
+  "cover": {
+    "path": "PS2/SLUS_201.40/SLUS_201.40_COV.png",
+    "kind": "cover",
+    "bytes": 94169,
+    "width": 192,
+    "height": 272,
+    "sha256": "62387c95b2941b62ddaa7604188e7ed31d0acdcd80fc1d2ceb6b0422db970827",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20140.jpg"
+    },
+    "gameId": "SLUS_201.40"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.40/SLUS_201.40_ICO.png",
+    "kind": "disc",
+    "bytes": 35310,
+    "width": 256,
+    "height": 256,
+    "sha256": "46790c2ab5308678637b15d62a2f6abb164559cb745bd9fde60c0abbfe7354ed",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.40_ICO.png"
+    },
+    "gameId": "SLUS_201.40"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.40/SLUS_201.40_BG.png",
+    "kind": "background",
+    "bytes": 185920,
+    "width": 640,
+    "height": 480,
+    "sha256": "f3f946b2db174b71a7cdc77f805ecaa699a224721fc866f4444f6c515795b01e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.40/SLUS_201.40_BG_00.png"
+    },
+    "gameId": "SLUS_201.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.40/SLUS_201.40_BG.png",
+      "kind": "background",
+      "bytes": 185920,
+      "width": 640,
+      "height": 480,
+      "sha256": "f3f946b2db174b71a7cdc77f805ecaa699a224721fc866f4444f6c515795b01e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.40/SLUS_201.40_BG_00.png"
+      },
+      "gameId": "SLUS_201.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL Hitz 2002"
+}

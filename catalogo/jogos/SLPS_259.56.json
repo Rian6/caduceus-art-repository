@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.56",
+  "cover": {
+    "path": "PS2/SLPS_259.56/SLPS_259.56_COV.png",
+    "kind": "cover",
+    "bytes": 121319,
+    "width": 192,
+    "height": 272,
+    "sha256": "7aaae19bba48a2f7863dd97162ec3a27043104bf3b5278ec9740926ba11eebbd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25956.jpg"
+    },
+    "gameId": "SLPS_259.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MOE MOE 2 - JI DAISENRYAKU 2"
+}

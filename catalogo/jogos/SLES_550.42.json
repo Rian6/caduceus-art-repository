@@ -1,0 +1,25 @@
+{
+  "id": "SLES_550.42",
+  "cover": {
+    "path": "PS2/SLES_550.42/SLES_550.42_COV.png",
+    "kind": "cover",
+    "bytes": 98447,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c16efb52c82af3917370a295b9948e2d443f713911584eb07c9654be88a739f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55042.jpg"
+    },
+    "gameId": "SLES_550.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GARFIELD - LASAGNA WORLD TOUR"
+}

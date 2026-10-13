@@ -1,0 +1,25 @@
+{
+  "id": "SLES_524.18",
+  "cover": {
+    "path": "PS2/SLES_524.18/SLES_524.18_COV.png",
+    "kind": "cover",
+    "bytes": 82396,
+    "width": 192,
+    "height": 272,
+    "sha256": "d844d586247786117b4730d63e2dfc12ad00fb094b6bccce12a673b5f9688a7b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52418.jpg"
+    },
+    "gameId": "SLES_524.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Powerdrome"
+}

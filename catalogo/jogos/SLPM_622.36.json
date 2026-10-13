@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.36",
+  "cover": {
+    "path": "PS2/SLPM_622.36/SLPM_622.36_COV.png",
+    "kind": "cover",
+    "bytes": 96405,
+    "width": 192,
+    "height": 272,
+    "sha256": "e6e56f3d9efbe2f4bfbf5d220f39493da0be990b3d0862f12e95f6c5958959b0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62236.jpg"
+    },
+    "gameId": "SLPM_622.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Power Smash 2"
+}

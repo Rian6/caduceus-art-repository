@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.81",
+  "cover": {
+    "path": "PS2/SLPM_664.81/SLPM_664.81_COV.png",
+    "kind": "cover",
+    "bytes": 99878,
+    "width": 192,
+    "height": 272,
+    "sha256": "1b042117aa952f4fdacbbe70a3a944b338a0aeab64cc8624672f6911032e5716",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66481.jpg"
+    },
+    "gameId": "SLPM_664.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Quest VIII: Sora to Umi to Daichi to Norowareshi Himegimi (Ultimate Hits)"
+}

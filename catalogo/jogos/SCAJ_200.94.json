@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.94",
+  "cover": {
+    "path": "PS2/SCAJ_200.94/SCAJ_200.94_COV.png",
+    "kind": "cover",
+    "bytes": 75565,
+    "width": 192,
+    "height": 272,
+    "sha256": "606ab0394fa2ebca875d5ebd8158b1c22f2a8397657c15a243371fc1e505cce7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20094.jpg"
+    },
+    "gameId": "SCAJ_200.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MINNA NO GOLF 4 - EVERYBODY'S GOLF [PLAYSTATION 2 THE BEST]"
+}

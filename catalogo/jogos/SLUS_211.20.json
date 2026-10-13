@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_211.20",
+  "cover": {
+    "path": "PS2/SLUS_211.20/SLUS_211.20_COV.png",
+    "kind": "cover",
+    "bytes": 114595,
+    "width": 192,
+    "height": 272,
+    "sha256": "5429852b7c4a879558b35c7581a82988b603fd58385479d063ffd1fef2ba3f8c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21120.jpg"
+    },
+    "gameId": "SLUS_211.20"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.20/SLUS_211.20_ICO.png",
+    "kind": "disc",
+    "bytes": 33631,
+    "width": 256,
+    "height": 256,
+    "sha256": "7e26dc271aa7507a0b598e6b254c8ccf3eac80030c890f496dbabf17d1abb5cb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.20_ICO.png"
+    },
+    "gameId": "SLUS_211.20"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.20/SLUS_211.20_BG.png",
+    "kind": "background",
+    "bytes": 228228,
+    "width": 640,
+    "height": 480,
+    "sha256": "7f043515e69bbc9e134a871e6125bd119399b6421e184a214733b39937f05dc5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.20/SLUS_211.20_BG_00.png"
+    },
+    "gameId": "SLUS_211.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.20/SLUS_211.20_BG.png",
+      "kind": "background",
+      "bytes": 228228,
+      "width": 640,
+      "height": 480,
+      "sha256": "7f043515e69bbc9e134a871e6125bd119399b6421e184a214733b39937f05dc5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.20/SLUS_211.20_BG_00.png"
+      },
+      "gameId": "SLUS_211.20"
+    },
+    {
+      "path": "PS2/SLUS_211.20/SLUS_211.20_BG_01.png",
+      "kind": "background",
+      "bytes": 181728,
+      "width": 640,
+      "height": 480,
+      "sha256": "1b4b138fb936586432caf21f40e544822c708209cda3d36a9d7f90f5be32d5fe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.20/SLUS_211.20_BG_01.png"
+      },
+      "gameId": "SLUS_211.20"
+    },
+    {
+      "path": "PS2/SLUS_211.20/SLUS_211.20_BG_02.png",
+      "kind": "background",
+      "bytes": 187414,
+      "width": 640,
+      "height": 480,
+      "sha256": "650cb8ea3a6f6e1869081319028a073fe17ca033c88ecf4acf3c3395345d48c3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.20/SLUS_211.20_BG_02.png"
+      },
+      "gameId": "SLUS_211.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PSICHONAUTS"
+}

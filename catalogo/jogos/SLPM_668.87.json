@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.87",
+  "cover": {
+    "path": "PS2/SLPM_668.87/SLPM_668.87_COV.png",
+    "kind": "cover",
+    "bytes": 102563,
+    "width": 192,
+    "height": 272,
+    "sha256": "a2dfd85aaf2c562ad936b7b5f67dbd63eca3e7a9c92e010702984c65c07758aa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66887.jpg"
+    },
+    "gameId": "SLPM_668.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE 3 - UNMEI NO MEIKYUU [KOEI THE BEST]"
+}

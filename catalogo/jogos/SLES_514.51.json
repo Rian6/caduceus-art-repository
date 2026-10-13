@@ -1,0 +1,25 @@
+{
+  "id": "SLES_514.51",
+  "cover": {
+    "path": "PS2/SLES_514.51/SLES_514.51_COV.png",
+    "kind": "cover",
+    "bytes": 98684,
+    "width": 192,
+    "height": 272,
+    "sha256": "8e83b949904c4dd4cfd0bdff4436ba6e53f1ac4c67d2609055511e39c1906692",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51451.jpg"
+    },
+    "gameId": "SLES_514.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Whiteout"
+}

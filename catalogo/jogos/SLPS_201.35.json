@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.35",
+  "cover": {
+    "path": "PS2/SLPS_201.35/SLPS_201.35_COV.png",
+    "kind": "cover",
+    "bytes": 103586,
+    "width": 192,
+    "height": 272,
+    "sha256": "6f066d979e14f4355bf452c17915411382759fdecdb400e8b4b5c3c01d903e7c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20135.jpg"
+    },
+    "gameId": "SLPS_201.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pai Chenjan"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.72",
+  "cover": {
+    "path": "PS2/SLPM_664.72/SLPM_664.72_COV.png",
+    "kind": "cover",
+    "bytes": 95928,
+    "width": 192,
+    "height": 272,
+    "sha256": "7dfd4de2b1fe5c368774dcb341882d306d8e07f8d59d5918d0033a11e4fc1625",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66472.jpg"
+    },
+    "gameId": "SLPM_664.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PLANETARIAN - CHIISANA HOSHI NO YUME"
+}

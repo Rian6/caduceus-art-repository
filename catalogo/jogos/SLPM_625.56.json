@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.56",
+  "cover": {
+    "path": "PS2/SLPM_625.56/SLPM_625.56_COV.png",
+    "kind": "cover",
+    "bytes": 99140,
+    "width": 192,
+    "height": 272,
+    "sha256": "e0c56152ea1788de45a2921d990534fff06c181c157600649b080bd76be5791f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62556.jpg"
+    },
+    "gameId": "SLPM_625.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.066 - THE PARTY UNOU QUIZ"
+}

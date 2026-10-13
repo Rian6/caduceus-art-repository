@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.60",
+  "cover": {
+    "path": "PS2/SLES_526.60/SLES_526.60_COV.png",
+    "kind": "cover",
+    "bytes": 87765,
+    "width": 192,
+    "height": 272,
+    "sha256": "5dd80ab79e94b7a09b43de1a4957f11c12db3f178c986b32e4057f57e594658e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52660.jpg"
+    },
+    "gameId": "SLES_526.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - FC Internazionale"
+}

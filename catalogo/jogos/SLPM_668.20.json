@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.20",
+  "cover": {
+    "path": "PS2/SLPM_668.20/SLPM_668.20_COV.png",
+    "kind": "cover",
+    "bytes": 108090,
+    "width": 192,
+    "height": 272,
+    "sha256": "47ecb36542c642d1d90dd97b5773778d3c0b289af812d7b24ff7ffaf89047052",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66820.jpg"
+    },
+    "gameId": "SLPM_668.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jissen Pachinko Hisshouhou! CR Sakura Taisen"
+}

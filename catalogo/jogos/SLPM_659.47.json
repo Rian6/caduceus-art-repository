@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_659.47",
+  "cover": {
+    "path": "PS2/SLPM_659.47/SLPM_659.47_COV.png",
+    "kind": "cover",
+    "bytes": 77040,
+    "width": 192,
+    "height": 272,
+    "sha256": "da86415f9bfeaa90215e1807e53d77fe0f648157a76ec6c4c0c8bb5dbfd576e9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65947.jpg"
+    },
+    "gameId": "SLPM_659.47"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_659.47/SLPM_659.47_BG.png",
+    "kind": "background",
+    "bytes": 153642,
+    "width": 640,
+    "height": 480,
+    "sha256": "1161a2454551266e93d5552a557c59204bf328edcda8e51c83d829857d4bf2ca",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_659.47/SLPM_659.47_BG_00.png"
+    },
+    "gameId": "SLPM_659.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_659.47/SLPM_659.47_BG.png",
+      "kind": "background",
+      "bytes": 153642,
+      "width": 640,
+      "height": 480,
+      "sha256": "1161a2454551266e93d5552a557c59204bf328edcda8e51c83d829857d4bf2ca",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.47/SLPM_659.47_BG_00.png"
+      },
+      "gameId": "SLPM_659.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KILLER 7"
+}

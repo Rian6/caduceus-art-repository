@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.11",
+  "cover": {
+    "path": "PS2/SLPS_253.11/SLPS_253.11_COV.png",
+    "kind": "cover",
+    "bytes": 96700,
+    "width": 192,
+    "height": 272,
+    "sha256": "ada6948ff6838610c9441b0d07dc2219c98e4ffc29201eea28affc9bb7c7953c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25311.jpg"
+    },
+    "gameId": "SLPS_253.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPY FICTION"
+}

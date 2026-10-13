@@ -1,0 +1,51 @@
+{
+  "id": "SLES_525.11",
+  "cover": {
+    "path": "PS2/SLES_525.11/SLES_525.11_COV.png",
+    "kind": "cover",
+    "bytes": 87949,
+    "width": 192,
+    "height": 272,
+    "sha256": "42079d28ecf4b2c2432ce6b0661719213594113f103897f7782293a0ea388bc9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52511.jpg"
+    },
+    "gameId": "SLES_525.11"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.11/SLES_525.11_BG.png",
+    "kind": "background",
+    "bytes": 153469,
+    "width": 640,
+    "height": 480,
+    "sha256": "1d28faa1d12f191663a92c4270bdcb926a62a7095118e3d5144513c39cb2adb5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.11/SLES_525.11_BG_00.png"
+    },
+    "gameId": "SLES_525.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.11/SLES_525.11_BG.png",
+      "kind": "background",
+      "bytes": 153469,
+      "width": 640,
+      "height": 480,
+      "sha256": "1d28faa1d12f191663a92c4270bdcb926a62a7095118e3d5144513c39cb2adb5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.11/SLES_525.11_BG_00.png"
+      },
+      "gameId": "SLES_525.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Headhunter: Redemption"
+}

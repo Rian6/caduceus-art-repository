@@ -1,0 +1,25 @@
+{
+  "id": "SLES_550.51",
+  "cover": {
+    "path": "PS2/SLES_550.51/SLES_550.51_COV.png",
+    "kind": "cover",
+    "bytes": 113688,
+    "width": 192,
+    "height": 272,
+    "sha256": "d480de43392b3c4b7bb80bba4d66b993340210937faf9a94c55d6eb8322d44d0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55051.jpg"
+    },
+    "gameId": "SLES_550.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MX vs ATV - Extrême Limite"
+}

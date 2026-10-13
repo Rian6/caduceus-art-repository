@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.49",
+  "cover": {
+    "path": "PS2/SLPM_653.49/SLPM_653.49_COV.png",
+    "kind": "cover",
+    "bytes": 47712,
+    "width": 192,
+    "height": 272,
+    "sha256": "e98ebb28a67b34b3fe155dacd5d5e59a9354b817aef387e0f483fd7ce46be04d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65349.jpg"
+    },
+    "gameId": "SLPM_653.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOKYO BUS ANNAI - KYOU KARA KIMI MO UNTENSHU [SUPERLITE 2000 VOL.5]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.73",
+  "cover": {
+    "path": "PS2/SCAJ_200.73/SCAJ_200.73_COV.png",
+    "kind": "cover",
+    "bytes": 95709,
+    "width": 192,
+    "height": 272,
+    "sha256": "ab77d6e9f9da61d26511cbcae37a9da162856bd414a2b52e689308b41f50e59c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20073.jpg"
+    },
+    "gameId": "SCAJ_200.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JAK II"
+}

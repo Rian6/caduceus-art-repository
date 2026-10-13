@@ -1,0 +1,77 @@
+{
+  "id": "SLKA_250.93",
+  "cover": {
+    "path": "PS2/SLKA_250.93/SLKA_250.93_COV.png",
+    "kind": "cover",
+    "bytes": 87117,
+    "width": 192,
+    "height": 272,
+    "sha256": "2c958302786054a6e931f5a77a50b54a3405e9e2245e20cf57d051ba5c694fb4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25093.jpg"
+    },
+    "gameId": "SLKA_250.93"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_250.93/SLKA_250.93_BG.png",
+    "kind": "background",
+    "bytes": 201427,
+    "width": 640,
+    "height": 480,
+    "sha256": "17df5dba54a822b401f17ff3a6194c0c2c4a81502a77bc819cd9e062a7e1af61",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.93/SLKA_250.93_BG_00.png"
+    },
+    "gameId": "SLKA_250.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_250.93/SLKA_250.93_BG.png",
+      "kind": "background",
+      "bytes": 201427,
+      "width": 640,
+      "height": 480,
+      "sha256": "17df5dba54a822b401f17ff3a6194c0c2c4a81502a77bc819cd9e062a7e1af61",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.93/SLKA_250.93_BG_00.png"
+      },
+      "gameId": "SLKA_250.93"
+    },
+    {
+      "path": "PS2/SLKA_250.93/SLKA_250.93_BG_01.png",
+      "kind": "background",
+      "bytes": 139070,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa7d4bd3ded3a45d2df7679e2422498bd27ad314b9b519a8b3e15100513b7fb0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.93/SLKA_250.93_BG_01.png"
+      },
+      "gameId": "SLKA_250.93"
+    },
+    {
+      "path": "PS2/SLKA_250.93/SLKA_250.93_BG_02.png",
+      "kind": "background",
+      "bytes": 109820,
+      "width": 640,
+      "height": 480,
+      "sha256": "7bf05e86218de903b18819af13b5ed0fe06071033e69e6a4426612a7bf0a0fd0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.93/SLKA_250.93_BG_02.png"
+      },
+      "gameId": "SLKA_250.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONIMUSHA 3"
+}

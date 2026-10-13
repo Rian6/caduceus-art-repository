@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_661.51",
+  "cover": {
+    "path": "PS2/SLPM_661.51/SLPM_661.51_COV.png",
+    "kind": "cover",
+    "bytes": 91342,
+    "width": 192,
+    "height": 272,
+    "sha256": "ca480d298c5d6176eeb8979be89bf29fb6bfe74fabdaaf16323ff91794abfe54",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66151.jpg"
+    },
+    "gameId": "SLPM_661.51"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_661.51/SLPM_661.51_BG.png",
+    "kind": "background",
+    "bytes": 197328,
+    "width": 640,
+    "height": 480,
+    "sha256": "fa1e7237bcf8be1abd9694cf1c55a20425c33df39b89ddb13bf1afbec3832d84",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_661.51/SLPM_661.51_BG_00.png"
+    },
+    "gameId": "SLPM_661.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_661.51/SLPM_661.51_BG.png",
+      "kind": "background",
+      "bytes": 197328,
+      "width": 640,
+      "height": 480,
+      "sha256": "fa1e7237bcf8be1abd9694cf1c55a20425c33df39b89ddb13bf1afbec3832d84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_661.51/SLPM_661.51_BG_00.png"
+      },
+      "gameId": "SLPM_661.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KILLZONE"
+}

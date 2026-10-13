@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_200.75",
+  "cover": {
+    "path": "PS2/SLUS_200.75/SLUS_200.75_COV.png",
+    "kind": "cover",
+    "bytes": 101955,
+    "width": 192,
+    "height": 272,
+    "sha256": "0211aad9a0485288f867863be62a1f601e81bc5fc3f749bd6486db1fec4eb7e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20075.jpg"
+    },
+    "gameId": "SLUS_200.75"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.75/SLUS_200.75_ICO.png",
+    "kind": "disc",
+    "bytes": 33655,
+    "width": 256,
+    "height": 256,
+    "sha256": "9c9cb0a77c801dd5382cc103af46813e61f2b4ba1d9f13e82417082bfbe0f875",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.75_ICO.png"
+    },
+    "gameId": "SLUS_200.75"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Walt Disney - The Jungle Book - Rhythm N'Groove"
+}

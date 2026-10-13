@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.37",
+  "cover": {
+    "path": "PS2/SLPM_651.37/SLPM_651.37_COV.png",
+    "kind": "cover",
+    "bytes": 88405,
+    "width": 192,
+    "height": 272,
+    "sha256": "ef1a5f9bf149601475ab66ed88312d8cfb671d226d53b2f1b398daa1f2c18421",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65137.jpg"
+    },
+    "gameId": "SLPM_651.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "All-Star Baseball 2003"
+}

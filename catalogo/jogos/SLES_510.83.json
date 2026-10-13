@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.83",
+  "cover": {
+    "path": "PS2/SLES_510.83/SLES_510.83_COV.png",
+    "kind": "cover",
+    "bytes": 75545,
+    "width": 192,
+    "height": 272,
+    "sha256": "cd6a4e739a8ea075f9af572fe7c89ae8b90806a19a398a8b7b1665d3bcdbef0f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51083.jpg"
+    },
+    "gameId": "SLES_510.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - BORUSSIA DORTMUND"
+}

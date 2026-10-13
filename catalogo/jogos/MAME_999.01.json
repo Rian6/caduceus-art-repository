@@ -1,0 +1,51 @@
+{
+  "id": "MAME_999.01",
+  "cover": {
+    "path": "PS2/MAME_999.01/MAME_999.01_COV.png",
+    "kind": "cover",
+    "bytes": 29215,
+    "width": 192,
+    "height": 272,
+    "sha256": "a1da5ac7b602e54591ae3635c0527aea37555105e6422a6c266428762b9120b2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/MAME_999.01/MAME_999.01_COV.png"
+    },
+    "gameId": "MAME_999.01"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/MAME_999.01/MAME_999.01_BG.png",
+    "kind": "background",
+    "bytes": 46373,
+    "width": 640,
+    "height": 480,
+    "sha256": "876b2ac8e6c385258395209c77e032f25a50adcb6ea7767035826fe600509ebd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/MAME_999.01/MAME_999.01_BG_00.png"
+    },
+    "gameId": "MAME_999.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/MAME_999.01/MAME_999.01_BG.png",
+      "kind": "background",
+      "bytes": 46373,
+      "width": 640,
+      "height": 480,
+      "sha256": "876b2ac8e6c385258395209c77e032f25a50adcb6ea7767035826fe600509ebd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/MAME_999.01/MAME_999.01_BG_00.png"
+      },
+      "gameId": "MAME_999.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PS2 MAME Emulator"
+}

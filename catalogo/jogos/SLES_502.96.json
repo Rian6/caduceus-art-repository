@@ -1,0 +1,25 @@
+{
+  "id": "SLES_502.96",
+  "cover": {
+    "path": "PS2/SLES_502.96/SLES_502.96_COV.png",
+    "kind": "cover",
+    "bytes": 90468,
+    "width": 192,
+    "height": 272,
+    "sha256": "3f079b0555d14e4389e3d9ec4c1347917c73c1d1ae160f339d8d09acca0f23b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50296.jpg"
+    },
+    "gameId": "SLES_502.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GIFT"
+}

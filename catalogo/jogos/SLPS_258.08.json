@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.08",
+  "cover": {
+    "path": "PS2/SLPS_258.08/SLPS_258.08_COV.png",
+    "kind": "cover",
+    "bytes": 106054,
+    "width": 192,
+    "height": 272,
+    "sha256": "633cb0588a24283fb00c40db8fdeb5ec2bac1bba3b8c8d5aae91344e6e3d4899",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25808.jpg"
+    },
+    "gameId": "SLPS_258.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAINT BEAST - RASEN NO SHOU"
+}

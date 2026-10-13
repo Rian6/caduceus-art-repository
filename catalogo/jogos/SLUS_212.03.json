@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_212.03",
+  "cover": {
+    "path": "PS2/SLUS_212.03/SLUS_212.03_COV.png",
+    "kind": "cover",
+    "bytes": 95334,
+    "width": 192,
+    "height": 272,
+    "sha256": "df3fb984f44fdc52a0bcfd759396af9dadbe014f25339478cc1d91534fce5b52",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21203.jpg"
+    },
+    "gameId": "SLUS_212.03"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.03/SLUS_212.03_ICO.png",
+    "kind": "disc",
+    "bytes": 33876,
+    "width": 256,
+    "height": 256,
+    "sha256": "030091481d28e0efa4f0e1bda736ab7bfadca7dc2e88980f62a636050df7f9e6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.03_ICO.png"
+    },
+    "gameId": "SLUS_212.03"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.03/SLUS_212.03_BG.png",
+    "kind": "background",
+    "bytes": 231655,
+    "width": 640,
+    "height": 480,
+    "sha256": "a398d5941f63ebe039ce45ffe17881dcdcaffb8ca52a6104a9ef728c606d2cba",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.03/SLUS_212.03_BG_00.png"
+    },
+    "gameId": "SLUS_212.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.03/SLUS_212.03_BG.png",
+      "kind": "background",
+      "bytes": 231655,
+      "width": 640,
+      "height": 480,
+      "sha256": "a398d5941f63ebe039ce45ffe17881dcdcaffb8ca52a6104a9ef728c606d2cba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.03/SLUS_212.03_BG_00.png"
+      },
+      "gameId": "SLUS_212.03"
+    },
+    {
+      "path": "PS2/SLUS_212.03/SLUS_212.03_BG_01.png",
+      "kind": "background",
+      "bytes": 162265,
+      "width": 640,
+      "height": 480,
+      "sha256": "1918f7e1ea3e11dc87c82f8be8093608fad964a9574da1e2177c29f5ef8257bd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.03/SLUS_212.03_BG_01.png"
+      },
+      "gameId": "SLUS_212.03"
+    },
+    {
+      "path": "PS2/SLUS_212.03/SLUS_212.03_BG_02.png",
+      "kind": "background",
+      "bytes": 198412,
+      "width": 640,
+      "height": 480,
+      "sha256": "d4a57839c8f96c31122111cbd41d6d9e3e31c7891741a1f67084d29214307950",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.03/SLUS_212.03_BG_02.png"
+      },
+      "gameId": "SLUS_212.03"
+    },
+    {
+      "path": "PS2/SLUS_212.03/SLUS_212.03_BG_03.png",
+      "kind": "background",
+      "bytes": 193542,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ad0eb9dde21505b5dc3eebd0e1b0df7c0501fea6eaf5ed71715630d9fbf9d95",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.03/SLUS_212.03_BG_03.png"
+      },
+      "gameId": "SLUS_212.03"
+    },
+    {
+      "path": "PS2/SLUS_212.03/SLUS_212.03_BG_04.png",
+      "kind": "background",
+      "bytes": 196095,
+      "width": 640,
+      "height": 480,
+      "sha256": "4a3d5bde64e4832493a11dd95a7bfb7e6ee689fd9b89615b2f33f75f8ad61bbf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.03/SLUS_212.03_BG_04.png"
+      },
+      "gameId": "SLUS_212.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LARA CROFT - TOMB RAIDER - LEGEND"
+}

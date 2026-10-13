@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.59",
+  "cover": {
+    "path": "PS2/SLAJ_250.59/SLAJ_250.59_COV.png",
+    "kind": "cover",
+    "bytes": 102732,
+    "width": 192,
+    "height": 272,
+    "sha256": "19228bc5f1d8704ca1a3079e412f295abe8b7aa74656b6b0be811b6c7b767a74",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25059.jpg"
+    },
+    "gameId": "SLAJ_250.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Street V3"
+}

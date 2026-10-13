@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.86",
+  "cover": {
+    "path": "PS2/SLPM_668.86/SLPM_668.86_COV.png",
+    "kind": "cover",
+    "bytes": 83444,
+    "width": 192,
+    "height": 272,
+    "sha256": "189553082eb6f9b7daee9aec6f3fb39fa886c178f0c92e21142fd91fa645944c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66886.jpg"
+    },
+    "gameId": "SLPM_668.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harry Potter to Fushichou no Kishida"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SCAJ_200.13",
+  "cover": {
+    "path": "PS2/SCAJ_200.13/SCAJ_200.13_COV.png",
+    "kind": "cover",
+    "bytes": 97650,
+    "width": 192,
+    "height": 272,
+    "sha256": "e0a5db6b8ea93eef6bb1e7724c4cecfa8836cbcf8e246e94c18f18098b4c7db0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20013.jpg"
+    },
+    "gameId": "SCAJ_200.13"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCAJ_200.13/SCAJ_200.13_BG.png",
+    "kind": "background",
+    "bytes": 84504,
+    "width": 640,
+    "height": 480,
+    "sha256": "28a6d351dc8c9be7be2ad3c1a77164ccbe412e01bc8ac75863d0d9c0b6c38101",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCAJ_200.13/SCAJ_200.13_BG_00.png"
+    },
+    "gameId": "SCAJ_200.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCAJ_200.13/SCAJ_200.13_BG.png",
+      "kind": "background",
+      "bytes": 84504,
+      "width": 640,
+      "height": 480,
+      "sha256": "28a6d351dc8c9be7be2ad3c1a77164ccbe412e01bc8ac75863d0d9c0b6c38101",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_200.13/SCAJ_200.13_BG_00.png"
+      },
+      "gameId": "SCAJ_200.13"
+    },
+    {
+      "path": "PS2/SCAJ_200.13/SCAJ_200.13_BG_01.png",
+      "kind": "background",
+      "bytes": 94406,
+      "width": 640,
+      "height": 480,
+      "sha256": "4101e05aa85d93997802450eb60f10bf768d87f72835da0c31cd29e22d28d585",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_200.13/SCAJ_200.13_BG_01.png"
+      },
+      "gameId": "SCAJ_200.13"
+    },
+    {
+      "path": "PS2/SCAJ_200.13/SCAJ_200.13_BG_02.png",
+      "kind": "background",
+      "bytes": 173482,
+      "width": 640,
+      "height": 480,
+      "sha256": "5624ad1be1252935ce707dcbe4ecb93775819be153c3a2fdf2305bd2896d0a84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_200.13/SCAJ_200.13_BG_02.png"
+      },
+      "gameId": "SCAJ_200.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MotoGP 3"
+}

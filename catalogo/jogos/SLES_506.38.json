@@ -1,0 +1,25 @@
+{
+  "id": "SLES_506.38",
+  "cover": {
+    "path": "PS2/SLES_506.38/SLES_506.38_COV.png",
+    "kind": "cover",
+    "bytes": 99537,
+    "width": 192,
+    "height": 272,
+    "sha256": "07ab45f5b1b16e869bc26e77644c03ec59396dfdb5f8367555f26726d3422a79",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50638.jpg"
+    },
+    "gameId": "SLES_506.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "High Heat Major League Baseball 2003"
+}

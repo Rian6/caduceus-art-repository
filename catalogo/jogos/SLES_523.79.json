@@ -1,0 +1,77 @@
+{
+  "id": "SLES_523.79",
+  "cover": {
+    "path": "PS2/SLES_523.79/SLES_523.79_COV.png",
+    "kind": "cover",
+    "bytes": 95119,
+    "width": 192,
+    "height": 272,
+    "sha256": "ee55445234637ce33a6bb11f725355441db55b0836839de829041c55b87298d6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52379.jpg"
+    },
+    "gameId": "SLES_523.79"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_523.79/SLES_523.79_BG.png",
+    "kind": "background",
+    "bytes": 190441,
+    "width": 640,
+    "height": 480,
+    "sha256": "42a9086168796b619df45bf5b869d401af198a17397317396fbde8f148006fb9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.79/SLES_523.79_BG_00.png"
+    },
+    "gameId": "SLES_523.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.79/SLES_523.79_BG.png",
+      "kind": "background",
+      "bytes": 190441,
+      "width": 640,
+      "height": 480,
+      "sha256": "42a9086168796b619df45bf5b869d401af198a17397317396fbde8f148006fb9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.79/SLES_523.79_BG_00.png"
+      },
+      "gameId": "SLES_523.79"
+    },
+    {
+      "path": "PS2/SLES_523.79/SLES_523.79_BG_01.png",
+      "kind": "background",
+      "bytes": 195666,
+      "width": 640,
+      "height": 480,
+      "sha256": "814a0784e858b0dae3b98a24dbf10abdc407543b44bc9228c303e7610650c676",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.79/SLES_523.79_BG_01.png"
+      },
+      "gameId": "SLES_523.79"
+    },
+    {
+      "path": "PS2/SLES_523.79/SLES_523.79_BG_02.png",
+      "kind": "background",
+      "bytes": 206012,
+      "width": 640,
+      "height": 480,
+      "sha256": "ee76bf935d0b5714f3a9a62cab6c4b28e0d26de38d752d58a6159e7f4995280d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.79/SLES_523.79_BG_02.png"
+      },
+      "gameId": "SLES_523.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shrek 2"
+}

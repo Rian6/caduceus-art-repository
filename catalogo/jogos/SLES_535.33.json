@@ -1,0 +1,25 @@
+{
+  "id": "SLES_535.33",
+  "cover": {
+    "path": "PS2/SLES_535.33/SLES_535.33_COV.png",
+    "kind": "cover",
+    "bytes": 97512,
+    "width": 192,
+    "height": 272,
+    "sha256": "40ef8cce1a95e534a14fb717b096f1c10091372e8adc628791987f5b53f29c4b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53533.jpg"
+    },
+    "gameId": "SLES_535.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA 06"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SLES_531.96",
+  "cover": {
+    "path": "PS2/SLES_531.96/SLES_531.96_COV.png",
+    "kind": "cover",
+    "bytes": 107187,
+    "width": 192,
+    "height": 272,
+    "sha256": "8c6ce3dc1ce3e8b9d3f9dafb788f8939bc1729d463bb66566e3e3ef3d61a71bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53196.jpg"
+    },
+    "gameId": "SLES_531.96"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_531.96/SLES_531.96_BG.png",
+    "kind": "background",
+    "bytes": 158851,
+    "width": 640,
+    "height": 480,
+    "sha256": "5438d3ee9319f9f3937424ebc7b42043b655d3017aaa002b2a7da81eac409390",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.96/SLES_531.96_BG_00.png"
+    },
+    "gameId": "SLES_531.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.96/SLES_531.96_BG.png",
+      "kind": "background",
+      "bytes": 158851,
+      "width": 640,
+      "height": 480,
+      "sha256": "5438d3ee9319f9f3937424ebc7b42043b655d3017aaa002b2a7da81eac409390",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.96/SLES_531.96_BG_00.png"
+      },
+      "gameId": "SLES_531.96"
+    },
+    {
+      "path": "PS2/SLES_531.96/SLES_531.96_BG_01.png",
+      "kind": "background",
+      "bytes": 177284,
+      "width": 640,
+      "height": 480,
+      "sha256": "4ccdfbf3f268988698cd55788c3847b229b137e671c795a8693822f56fed295b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.96/SLES_531.96_BG_01.png"
+      },
+      "gameId": "SLES_531.96"
+    },
+    {
+      "path": "PS2/SLES_531.96/SLES_531.96_BG_02.png",
+      "kind": "background",
+      "bytes": 211561,
+      "width": 640,
+      "height": 480,
+      "sha256": "89ca0fc5f27e02208d02e6ac0f161f22cb75bf9e5d9a987fab0c02e3848fe885",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.96/SLES_531.96_BG_02.png"
+      },
+      "gameId": "SLES_531.96"
+    },
+    {
+      "path": "PS2/SLES_531.96/SLES_531.96_BG_03.png",
+      "kind": "background",
+      "bytes": 194514,
+      "width": 640,
+      "height": 480,
+      "sha256": "3a18e57076a2ca98e87a887429c7226ad86109fac15dc330c067c69b3872a080",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.96/SLES_531.96_BG_03.png"
+      },
+      "gameId": "SLES_531.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Destroy All Humans!"
+}

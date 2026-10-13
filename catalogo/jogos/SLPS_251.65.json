@@ -1,0 +1,65 @@
+{
+  "id": "SLPS_251.65",
+  "cover": {
+    "path": "PS2/SLPS_251.65/SLPS_251.65_COV.png",
+    "kind": "cover",
+    "bytes": 115961,
+    "width": 192,
+    "height": 272,
+    "sha256": "fcd863e8ac3419c6bae6a3ba039b5d1956ae1f0f01eafe18b37a933b74bfe564",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25165.jpg"
+    },
+    "gameId": "SLPS_251.65"
+  },
+  "disc": {
+    "path": "PS2/SLPS_251.65/SLPS_251.65_ICO.png",
+    "kind": "disc",
+    "bytes": 11341,
+    "width": 128,
+    "height": 128,
+    "sha256": "5a4efe949016a98044c9350f572abb7b02ab9e97e252c55ba142d7fd6fc8fe5e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_251.65_ICO.png"
+    },
+    "gameId": "SLPS_251.65"
+  },
+  "background": {
+    "path": "PS2/SLPS_251.65/SLPS_251.65_BG.png",
+    "kind": "background",
+    "bytes": 203069,
+    "width": 640,
+    "height": 480,
+    "sha256": "22b970763f009f27789432fdc34feedd985610d80c7822e3d5f63359622d2ad9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_251.65/SLPS_251.65_BG_00.png"
+    },
+    "gameId": "SLPS_251.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_251.65/SLPS_251.65_BG.png",
+      "kind": "background",
+      "bytes": 203069,
+      "width": 640,
+      "height": 480,
+      "sha256": "22b970763f009f27789432fdc34feedd985610d80c7822e3d5f63359622d2ad9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.65/SLPS_251.65_BG_00.png"
+      },
+      "gameId": "SLPS_251.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gunvari Collection + Time Crisis"
+}

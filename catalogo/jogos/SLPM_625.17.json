@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.17",
+  "cover": {
+    "path": "PS2/SLPM_625.17/SLPM_625.17_COV.png",
+    "kind": "cover",
+    "bytes": 99969,
+    "width": 192,
+    "height": 272,
+    "sha256": "7a90663b5d0f9f0c82ef8fec9cca8ebfd2d1083e781940741a7fcfeda1fe3449",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62517.jpg"
+    },
+    "gameId": "SLPM_625.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WINNING POST 5 [KOEI THE BEST]"
+}

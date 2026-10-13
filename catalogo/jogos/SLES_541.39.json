@@ -1,0 +1,78 @@
+{
+  "id": "SLES_541.39",
+  "cover": {
+    "path": "PS2/SLES_541.39/SLES_541.39_COV.png",
+    "kind": "cover",
+    "bytes": 112293,
+    "width": 192,
+    "height": 272,
+    "sha256": "cf1c90cfdda8741d505287adf2c30ac10c46ad998ec20db3c94c59ed21cea40f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54139.jpg"
+    },
+    "gameId": "SLES_541.39"
+  },
+  "disc": {
+    "path": "PS2/SLES_541.39/SLES_541.39_ICO.png",
+    "kind": "disc",
+    "bytes": 12334,
+    "width": 128,
+    "height": 128,
+    "sha256": "8efa831545dd355592c26dabfea437a061ba6207568750e26b4f5ffd822d8367",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_541.39_ICO.png"
+    },
+    "gameId": "SLES_541.39"
+  },
+  "background": {
+    "path": "PS2/SLES_541.39/SLES_541.39_BG.png",
+    "kind": "background",
+    "bytes": 190463,
+    "width": 640,
+    "height": 480,
+    "sha256": "2fd8cf22c4bc8ed52578e5c73bdad198ddd9c1e9a5728e69a03f7bb7a2da8153",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.39/SLES_541.39_BG_00.png"
+    },
+    "gameId": "SLES_541.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.39/SLES_541.39_BG.png",
+      "kind": "background",
+      "bytes": 190463,
+      "width": 640,
+      "height": 480,
+      "sha256": "2fd8cf22c4bc8ed52578e5c73bdad198ddd9c1e9a5728e69a03f7bb7a2da8153",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.39/SLES_541.39_BG_00.png"
+      },
+      "gameId": "SLES_541.39"
+    },
+    {
+      "path": "PS2/SLES_541.39/SLES_541.39_BG_01.png",
+      "kind": "background",
+      "bytes": 179424,
+      "width": 640,
+      "height": 480,
+      "sha256": "d4903118654aa1d05f30b09e3a55353ca26c1ae6e4d8c4390161e6763c3f1107",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.39/SLES_541.39_BG_01.png"
+      },
+      "gameId": "SLES_541.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Earache Extreme Metal Racing"
+}

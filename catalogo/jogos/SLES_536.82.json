@@ -1,0 +1,65 @@
+{
+  "id": "SLES_536.82",
+  "cover": {
+    "path": "PS2/SLES_536.82/SLES_536.82_COV.png",
+    "kind": "cover",
+    "bytes": 98296,
+    "width": 192,
+    "height": 272,
+    "sha256": "55a5b3454bac94e57a20e419c130f7d8a5677b0dbddbb191d75260d7bc17e2c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53682.jpg"
+    },
+    "gameId": "SLES_536.82"
+  },
+  "disc": {
+    "path": "PS2/SLES_536.82/SLES_536.82_ICO.png",
+    "kind": "disc",
+    "bytes": 11379,
+    "width": 128,
+    "height": 128,
+    "sha256": "fffc92e71efed19d2214f53072b85077d4f79b03ecc14624be0837129e19d1d7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_536.82_ICO.png"
+    },
+    "gameId": "SLES_536.82"
+  },
+  "background": {
+    "path": "PS2/SLES_536.82/SLES_536.82_BG.png",
+    "kind": "background",
+    "bytes": 110188,
+    "width": 640,
+    "height": 480,
+    "sha256": "18b8593c0cb12fca6b82cf15969190654cd57fcd4818d1aebfafed4f0c8cf9de",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.82/SLES_536.82_BG_00.png"
+    },
+    "gameId": "SLES_536.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_536.82/SLES_536.82_BG.png",
+      "kind": "background",
+      "bytes": 110188,
+      "width": 640,
+      "height": 480,
+      "sha256": "18b8593c0cb12fca6b82cf15969190654cd57fcd4818d1aebfafed4f0c8cf9de",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.82/SLES_536.82_BG_00.png"
+      },
+      "gameId": "SLES_536.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JAMES POND - CODENAME ROBOCOD"
+}

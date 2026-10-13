@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.27",
+  "cover": {
+    "path": "PS2/SCPS_110.27/SCPS_110.27_COV.png",
+    "kind": "cover",
+    "bytes": 108870,
+    "width": 192,
+    "height": 272,
+    "sha256": "1968272770b6067dac87fdce4fbff6683082eef26e7fb858bfc1121ac55da11a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11027.jpg"
+    },
+    "gameId": "SCPS_110.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mawaza"
+}

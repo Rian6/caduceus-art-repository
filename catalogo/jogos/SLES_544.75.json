@@ -1,0 +1,25 @@
+{
+  "id": "SLES_544.75",
+  "cover": {
+    "path": "PS2/SLES_544.75/SLES_544.75_COV.png",
+    "kind": "cover",
+    "bytes": 108443,
+    "width": 192,
+    "height": 272,
+    "sha256": "75cbebae6482accdebda44fb6eac499c4e4d6d85348031ed3d732c45b12d20b7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54475.jpg"
+    },
+    "gameId": "SLES_544.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Darwin"
+}

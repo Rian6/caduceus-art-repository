@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.16",
+  "cover": {
+    "path": "PS2/SLPS_254.16/SLPS_254.16_COV.png",
+    "kind": "cover",
+    "bytes": 96615,
+    "width": 192,
+    "height": 272,
+    "sha256": "ee812014089bd4663df85e21f6b1765cd67d42cedc4d18a163297f575c9bb133",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25416.jpg"
+    },
+    "gameId": "SLPS_254.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CHU-KANA JANSHI"
+}

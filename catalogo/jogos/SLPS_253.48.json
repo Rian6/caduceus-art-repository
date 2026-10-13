@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.48",
+  "cover": {
+    "path": "PS2/SLPS_253.48/SLPS_253.48_COV.png",
+    "kind": "cover",
+    "bytes": 96083,
+    "width": 192,
+    "height": 272,
+    "sha256": "df0b3dcd13a52d20e4acd5ce8f65f7009dd3159361bee7d653ea505088500e92",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25348.jpg"
+    },
+    "gameId": "SLPS_253.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KOKORO NO TOBIRA [LIMITED EDITION]"
+}

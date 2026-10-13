@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.54",
+  "cover": {
+    "path": "PS2/SLPM_659.54/SLPM_659.54_COV.png",
+    "kind": "cover",
+    "bytes": 92399,
+    "width": 192,
+    "height": 272,
+    "sha256": "ba5425b575c198c6e9a108c47c08c1e9a31b2bec224dde7baf13bf2339196269",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65954.jpg"
+    },
+    "gameId": "SLPM_659.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Ghost Recon [Ubisoft Best]"
+}

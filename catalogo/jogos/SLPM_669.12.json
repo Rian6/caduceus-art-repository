@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.12",
+  "cover": {
+    "path": "PS2/SLPM_669.12/SLPM_669.12_COV.png",
+    "kind": "cover",
+    "bytes": 97046,
+    "width": 192,
+    "height": 272,
+    "sha256": "b400096bcd5a65b9712ac4e37c2daa31d7b7b89ed40574cf9d270a868c6ea9a7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66912.jpg"
+    },
+    "gameId": "SLPM_669.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HIGURASHI NO NAKU KORO NI MATSURI - KAKERA ASOBI [APPEND VERSION]"
+}

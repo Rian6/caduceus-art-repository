@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.04",
+  "cover": {
+    "path": "PS2/SLPS_250.04/SLPS_250.04_COV.png",
+    "kind": "cover",
+    "bytes": 110514,
+    "width": 192,
+    "height": 272,
+    "sha256": "67d1fe4245571e6de9a31a0b592ff19e243f173a2e7f89845cd6d742d6acfa56",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25004.jpg"
+    },
+    "gameId": "SLPS_250.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kensetsu Juuki Kenka Battle - Buchigire Kongou!!"
+}

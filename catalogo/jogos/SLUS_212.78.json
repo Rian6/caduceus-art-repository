@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_212.78",
+  "cover": {
+    "path": "PS2/SLUS_212.78/SLUS_212.78_COV.png",
+    "kind": "cover",
+    "bytes": 125336,
+    "width": 192,
+    "height": 272,
+    "sha256": "e73c7b2cca0cd5ddef8f732e3f65c6e8b9072ea8027addd221c32bd3cb429558",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21278.jpg"
+    },
+    "gameId": "SLUS_212.78"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.78/SLUS_212.78_ICO.png",
+    "kind": "disc",
+    "bytes": 32584,
+    "width": 256,
+    "height": 256,
+    "sha256": "d4ed4a9c9df7f42efdb83e0d980b13c59dfd0047025a628f2ebce836b99937ad",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.78_ICO.png"
+    },
+    "gameId": "SLUS_212.78"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.78/SLUS_212.78_BG.png",
+    "kind": "background",
+    "bytes": 272136,
+    "width": 640,
+    "height": 480,
+    "sha256": "0217f556523cd4f083e325b1611ae6b48ba7a8f1d2465e2310af627bc00d6ad3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.78/SLUS_212.78_BG_00.png"
+    },
+    "gameId": "SLUS_212.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.78/SLUS_212.78_BG.png",
+      "kind": "background",
+      "bytes": 272136,
+      "width": 640,
+      "height": 480,
+      "sha256": "0217f556523cd4f083e325b1611ae6b48ba7a8f1d2465e2310af627bc00d6ad3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.78/SLUS_212.78_BG_00.png"
+      },
+      "gameId": "SLUS_212.78"
+    },
+    {
+      "path": "PS2/SLUS_212.78/SLUS_212.78_BG_01.png",
+      "kind": "background",
+      "bytes": 184306,
+      "width": 640,
+      "height": 480,
+      "sha256": "a0e8f8b6ec832a16d7ce16a1158f07e84dc92fb886ca4a220269973ba71ff591",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.78/SLUS_212.78_BG_01.png"
+      },
+      "gameId": "SLUS_212.78"
+    },
+    {
+      "path": "PS2/SLUS_212.78/SLUS_212.78_BG_02.png",
+      "kind": "background",
+      "bytes": 221321,
+      "width": 640,
+      "height": 480,
+      "sha256": "faffe2350b4524bb4385b443961828b44be292bcad862617e8e8ead8446060a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.78/SLUS_212.78_BG_02.png"
+      },
+      "gameId": "SLUS_212.78"
+    },
+    {
+      "path": "PS2/SLUS_212.78/SLUS_212.78_BG_03.png",
+      "kind": "background",
+      "bytes": 214564,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f61a5f10edba39f778ceb5aa1acd3db1277736cf376c08b845e2d6cdcac470f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.78/SLUS_212.78_BG_03.png"
+      },
+      "gameId": "SLUS_212.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SSX - On Tour"
+}

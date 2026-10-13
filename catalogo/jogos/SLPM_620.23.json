@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.23",
+  "cover": {
+    "path": "PS2/SLPM_620.23/SLPM_620.23_COV.png",
+    "kind": "cover",
+    "bytes": 99653,
+    "width": 192,
+    "height": 272,
+    "sha256": "efaa2ef37e2c1247cb3e0b46e0aabe3740401167af3940d29290ae7cd02c1526",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62023.jpg"
+    },
+    "gameId": "SLPM_620.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winback"
+}

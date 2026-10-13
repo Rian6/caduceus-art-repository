@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.84",
+  "cover": {
+    "path": "PS2/SCKA_200.84/SCKA_200.84_COV.png",
+    "kind": "cover",
+    "bytes": 93204,
+    "width": 192,
+    "height": 272,
+    "sha256": "b4762e5a753f0c5ceb7f40a12f07142c0b1cad041f141951e31c131b4ce6f169",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20084.jpg"
+    },
+    "gameId": "SCKA_200.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Monster House"
+}

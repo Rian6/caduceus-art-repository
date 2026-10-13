@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_201.27",
+  "cover": {
+    "path": "PS2/SCKA_201.27/SCKA_201.27_COV.png",
+    "kind": "cover",
+    "bytes": 64809,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c12782bdf6880625b2733ae30767d428d031d4650a9a30ef69dee7158f8f9aa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20127.jpg"
+    },
+    "gameId": "SCKA_201.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZERO [BIG HIT SERIES]"
+}

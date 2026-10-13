@@ -1,0 +1,39 @@
+{
+  "id": "SLES_550.40",
+  "cover": {
+    "path": "PS2/SLES_550.40/SLES_550.40_COV.png",
+    "kind": "cover",
+    "bytes": 91188,
+    "width": 192,
+    "height": 272,
+    "sha256": "9a441a7cf53bd2067c7519417f71f61a8acbf5be1427e91f97c4d800e0d683eb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55040.jpg"
+    },
+    "gameId": "SLES_550.40"
+  },
+  "disc": {
+    "path": "PS2/SLES_550.40/SLES_550.40_ICO.png",
+    "kind": "disc",
+    "bytes": 10305,
+    "width": 128,
+    "height": 128,
+    "sha256": "df79746e3e34d49704c371b23bccdeea8f406f58043a748acad4ac368968c754",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_550.40_ICO.png"
+    },
+    "gameId": "SLES_550.40"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Telly Addicts"
+}

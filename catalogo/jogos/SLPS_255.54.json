@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.54",
+  "cover": {
+    "path": "PS2/SLPS_255.54/SLPS_255.54_COV.png",
+    "kind": "cover",
+    "bytes": 105052,
+    "width": 192,
+    "height": 272,
+    "sha256": "6090a9be56d2a1aea213f50bf3c5a819bcbdc09197c9fc72f8db2f8d27605f1b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25554.jpg"
+    },
+    "gameId": "SLPS_255.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EUREKA SEVEN - TR1 - NEW WAVE"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SCES_555.91",
+  "cover": {
+    "path": "PS2/SCES_555.91/SCES_555.91_COV.png",
+    "kind": "cover",
+    "bytes": 102091,
+    "width": 192,
+    "height": 272,
+    "sha256": "bbd34b744a8a28e4cf51084ca4bbc53aa67e141359b188cb20601f27415d58bc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55591.jpg"
+    },
+    "gameId": "SCES_555.91"
+  },
+  "disc": {
+    "path": "PS2/SCES_555.91/SCES_555.91_ICO.png",
+    "kind": "disc",
+    "bytes": 11481,
+    "width": 128,
+    "height": 128,
+    "sha256": "41de3fd0f12fd09232b9076ea2cf764c9e92856ead9e0baac93ef8a5f7e27b1c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_555.91_ICO.png"
+    },
+    "gameId": "SCES_555.91"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Street Cricket Champions"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLES_518.55",
+  "cover": {
+    "path": "PS2/SLES_518.55/SLES_518.55_COV.png",
+    "kind": "cover",
+    "bytes": 85021,
+    "width": 192,
+    "height": 272,
+    "sha256": "0e77ce8dc2177419c30319623a5eb13970880b638d294af95fce721b38d2bcfe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51855.jpg"
+    },
+    "gameId": "SLES_518.55"
+  },
+  "disc": {
+    "path": "PS2/SLES_518.55/SLES_518.55_ICO.png",
+    "kind": "disc",
+    "bytes": 10563,
+    "width": 128,
+    "height": 128,
+    "sha256": "8fa05bb3d935c4be1e93dd097f5cc452d2e6ed868e0514ddeffe3acd1dd0b5de",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_518.55_ICO.png"
+    },
+    "gameId": "SLES_518.55"
+  },
+  "background": {
+    "path": "PS2/SLES_518.55/SLES_518.55_BG.png",
+    "kind": "background",
+    "bytes": 187281,
+    "width": 640,
+    "height": 480,
+    "sha256": "1083dcfe098f662f123de0c09078f1f769524d79256df4ef7afef318c7e37269",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.55/SLES_518.55_BG_00.png"
+    },
+    "gameId": "SLES_518.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.55/SLES_518.55_BG.png",
+      "kind": "background",
+      "bytes": 187281,
+      "width": 640,
+      "height": 480,
+      "sha256": "1083dcfe098f662f123de0c09078f1f769524d79256df4ef7afef318c7e37269",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.55/SLES_518.55_BG_00.png"
+      },
+      "gameId": "SLES_518.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tank Elite"
+}

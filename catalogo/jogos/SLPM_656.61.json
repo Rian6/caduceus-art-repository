@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.61",
+  "cover": {
+    "path": "PS2/SLPM_656.61/SLPM_656.61_COV.png",
+    "kind": "cover",
+    "bytes": 95845,
+    "width": 192,
+    "height": 272,
+    "sha256": "9a8d738aa647a02b756e1ef82c49d783ede4b07e0644d97cb2231e1c4dc64df2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65661.jpg"
+    },
+    "gameId": "SLPM_656.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DENSHA DE GO! PROFESSIONAL 2 [TAITO BEST]"
+}

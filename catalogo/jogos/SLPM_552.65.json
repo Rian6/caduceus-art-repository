@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.65",
+  "cover": {
+    "path": "PS2/SLPM_552.65/SLPM_552.65_COV.png",
+    "kind": "cover",
+    "bytes": 102604,
+    "width": 192,
+    "height": 272,
+    "sha256": "e3beab844725827096c3643a64d59c09650d69bb7e4807e2911719f789a9bea3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55265.jpg"
+    },
+    "gameId": "SLPM_552.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCARED RIDER XECHS [LIMITED EDITION]"
+}

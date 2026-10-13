@@ -1,0 +1,64 @@
+{
+  "id": "SLES_501.93",
+  "cover": {
+    "path": "PS2/SLES_501.93/SLES_501.93_COV.png",
+    "kind": "cover",
+    "bytes": 82753,
+    "width": 192,
+    "height": 272,
+    "sha256": "3ab775049f1f947c0cd6a37d94069daccf65f138824b9baec2381ea3ec67114d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50193.jpg"
+    },
+    "gameId": "SLES_501.93"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_501.93/SLES_501.93_BG.png",
+    "kind": "background",
+    "bytes": 198317,
+    "width": 640,
+    "height": 480,
+    "sha256": "8de292d14b477f60f414d60ec9e7c0aa1c93633942a93b5b67f772003d7aaf69",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_501.93/SLES_501.93_BG_00.png"
+    },
+    "gameId": "SLES_501.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_501.93/SLES_501.93_BG.png",
+      "kind": "background",
+      "bytes": 198317,
+      "width": 640,
+      "height": 480,
+      "sha256": "8de292d14b477f60f414d60ec9e7c0aa1c93633942a93b5b67f772003d7aaf69",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.93/SLES_501.93_BG_00.png"
+      },
+      "gameId": "SLES_501.93"
+    },
+    {
+      "path": "PS2/SLES_501.93/SLES_501.93_BG_01.png",
+      "kind": "background",
+      "bytes": 184293,
+      "width": 640,
+      "height": 480,
+      "sha256": "b98837eb49e7556bd2cb4316da16065740e0a2073adb4cb3ec19d57e0b48eac1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.93/SLES_501.93_BG_01.png"
+      },
+      "gameId": "SLES_501.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Silpheed: The Lost Planet"
+}

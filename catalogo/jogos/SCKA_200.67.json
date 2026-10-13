@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.67",
+  "cover": {
+    "path": "PS2/SCKA_200.67/SCKA_200.67_COV.png",
+    "kind": "cover",
+    "bytes": 56136,
+    "width": 192,
+    "height": 272,
+    "sha256": "7151946bee8572c41e5a3cfe9151b5670b213659ff377413eb2cae3cc4ee18aa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.67/SCKA_200.67_COV.png"
+    },
+    "gameId": "SCKA_200.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Stuart Little 3 - Big Photo Adventure"
+}

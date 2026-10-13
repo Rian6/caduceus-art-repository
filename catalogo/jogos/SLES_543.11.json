@@ -1,0 +1,51 @@
+{
+  "id": "SLES_543.11",
+  "cover": {
+    "path": "PS2/SLES_543.11/SLES_543.11_COV.png",
+    "kind": "cover",
+    "bytes": 101887,
+    "width": 192,
+    "height": 272,
+    "sha256": "815ecab34d2fbdab4d116b0f55893891e27d0190ff14bb326b8e0ed4d7c766dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54311.jpg"
+    },
+    "gameId": "SLES_543.11"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.11/SLES_543.11_BG.png",
+    "kind": "background",
+    "bytes": 174068,
+    "width": 640,
+    "height": 480,
+    "sha256": "9a896b45e0997275ef413154300c05ca9bfdae73ce6ef2946a9aedbc6b27423d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.11/SLES_543.11_BG_00.png"
+    },
+    "gameId": "SLES_543.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.11/SLES_543.11_BG.png",
+      "kind": "background",
+      "bytes": 174068,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a896b45e0997275ef413154300c05ca9bfdae73ce6ef2946a9aedbc6b27423d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.11/SLES_543.11_BG_00.png"
+      },
+      "gameId": "SLES_543.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Noddy and the Magic Book"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.74",
+  "cover": {
+    "path": "PS2/SLPM_625.74/SLPM_625.74_COV.png",
+    "kind": "cover",
+    "bytes": 90190,
+    "width": 192,
+    "height": 272,
+    "sha256": "30f4bacdc491b66cd0a413a74a118391ff2a29a2a5aa5b12c77b6afcb8ea67e8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62574.jpg"
+    },
+    "gameId": "SLPM_625.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GAMBLER DENSETSU TETSUYA DIGEST [ATHENA BEST COLLECTION VOL.3]"
+}

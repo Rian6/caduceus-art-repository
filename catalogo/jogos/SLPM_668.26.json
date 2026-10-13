@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.26",
+  "cover": {
+    "path": "PS2/SLPM_668.26/SLPM_668.26_COV.png",
+    "kind": "cover",
+    "bytes": 109082,
+    "width": 192,
+    "height": 272,
+    "sha256": "01bd161253357dfd3803db8076d3bd38ab9ee5fd237faffb8e46b314f324700d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66826.jpg"
+    },
+    "gameId": "SLPM_668.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Youki Hime Den (Limited Edition)"
+}

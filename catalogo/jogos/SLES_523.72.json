@@ -1,0 +1,90 @@
+{
+  "id": "SLES_523.72",
+  "cover": {
+    "path": "PS2/SLES_523.72/SLES_523.72_COV.png",
+    "kind": "cover",
+    "bytes": 97973,
+    "width": 192,
+    "height": 272,
+    "sha256": "4059aa65021d2455be77a79e15771f16dc6097fcd2724081db577e012c912f8a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52372.jpg"
+    },
+    "gameId": "SLES_523.72"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_523.72/SLES_523.72_BG.png",
+    "kind": "background",
+    "bytes": 208079,
+    "width": 640,
+    "height": 480,
+    "sha256": "fe383f9924a651fd51ec51c1a346bcaa4758b6d69d7ec432226f6aee2e1b818b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.72/SLES_523.72_BG_00.png"
+    },
+    "gameId": "SLES_523.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.72/SLES_523.72_BG.png",
+      "kind": "background",
+      "bytes": 208079,
+      "width": 640,
+      "height": 480,
+      "sha256": "fe383f9924a651fd51ec51c1a346bcaa4758b6d69d7ec432226f6aee2e1b818b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.72/SLES_523.72_BG_00.png"
+      },
+      "gameId": "SLES_523.72"
+    },
+    {
+      "path": "PS2/SLES_523.72/SLES_523.72_BG_01.png",
+      "kind": "background",
+      "bytes": 201190,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f2bc148ab09fa996d26de9819ca31ad2bfaa459dc51e3777221d58709709555",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.72/SLES_523.72_BG_01.png"
+      },
+      "gameId": "SLES_523.72"
+    },
+    {
+      "path": "PS2/SLES_523.72/SLES_523.72_BG_02.png",
+      "kind": "background",
+      "bytes": 166271,
+      "width": 640,
+      "height": 480,
+      "sha256": "fdea6aec57c36bc1e0804090f3234260bd7e5cf52ad68d3ed5d8b1a63d8d3e8b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.72/SLES_523.72_BG_02.png"
+      },
+      "gameId": "SLES_523.72"
+    },
+    {
+      "path": "PS2/SLES_523.72/SLES_523.72_BG_03.png",
+      "kind": "background",
+      "bytes": 188709,
+      "width": 640,
+      "height": 480,
+      "sha256": "838f75344e8fc1a760fbdf38173b67ba8141bf93b195f72a4d293eeaf8aed44a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.72/SLES_523.72_BG_03.png"
+      },
+      "gameId": "SLES_523.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPIDER-MAN 2"
+}

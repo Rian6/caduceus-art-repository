@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.16",
+  "cover": {
+    "path": "PS2/SLPS_252.16/SLPS_252.16_COV.png",
+    "kind": "cover",
+    "bytes": 93723,
+    "width": 192,
+    "height": 272,
+    "sha256": "c7846764b5811b4484744748fc0075f00f9f5cb79db5fb053d083afc16752702",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25216.jpg"
+    },
+    "gameId": "SLPS_252.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "IRIS"
+}

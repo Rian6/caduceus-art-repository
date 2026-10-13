@@ -1,0 +1,25 @@
+{
+  "id": "SCED_528.18",
+  "cover": {
+    "path": "PS2/SCED_528.18/SCED_528.18_COV.png",
+    "kind": "cover",
+    "bytes": 93822,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f1147287817669533d17da44468756e9245479438a67f7f3e80f6a0ef633945",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCED-52818.jpg"
+    },
+    "gameId": "SCED_528.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy: Chat Light"
+}

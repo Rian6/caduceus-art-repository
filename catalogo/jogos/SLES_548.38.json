@@ -1,0 +1,65 @@
+{
+  "id": "SLES_548.38",
+  "cover": {
+    "path": "PS2/SLES_548.38/SLES_548.38_COV.png",
+    "kind": "cover",
+    "bytes": 90537,
+    "width": 192,
+    "height": 272,
+    "sha256": "d446bbe56896f358ad189e814784d999d18998c14074bf80e23041fbf808cd81",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54838.jpg"
+    },
+    "gameId": "SLES_548.38"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.38/SLES_548.38_ICO.png",
+    "kind": "disc",
+    "bytes": 10737,
+    "width": 128,
+    "height": 128,
+    "sha256": "fe29b0281380ed3516b095215c19c305460bdb679d5747d9f31ba5e12ae6c0ae",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.38_ICO.png"
+    },
+    "gameId": "SLES_548.38"
+  },
+  "background": {
+    "path": "PS2/SLES_548.38/SLES_548.38_BG.png",
+    "kind": "background",
+    "bytes": 183400,
+    "width": 640,
+    "height": 480,
+    "sha256": "8fb05ff9039dc9a305acd9a81b8a50b488234046c3d7def88e9899672279b299",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.38/SLES_548.38_BG_00.png"
+    },
+    "gameId": "SLES_548.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.38/SLES_548.38_BG.png",
+      "kind": "background",
+      "bytes": 183400,
+      "width": 640,
+      "height": 480,
+      "sha256": "8fb05ff9039dc9a305acd9a81b8a50b488234046c3d7def88e9899672279b299",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.38/SLES_548.38_BG_00.png"
+      },
+      "gameId": "SLES_548.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DONKEY XOTE"
+}

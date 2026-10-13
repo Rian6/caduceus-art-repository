@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_662.08",
+  "cover": {
+    "path": "PS2/SLPM_662.08/SLPM_662.08_COV.png",
+    "kind": "cover",
+    "bytes": 87708,
+    "width": 192,
+    "height": 272,
+    "sha256": "39cd29a46a29d343f2ea6e5498cb419ccbdfbf220a5e18bc9e2867be36ced6cc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66208.jpg"
+    },
+    "gameId": "SLPM_662.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_662.08/SLPM_662.08_BG.png",
+    "kind": "background",
+    "bytes": 151247,
+    "width": 640,
+    "height": 480,
+    "sha256": "698fd0a86759dbd952d7371efc348c11e05c5f1e97489b6cef4febdc7d3fac88",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_662.08/SLPM_662.08_BG_00.png"
+    },
+    "gameId": "SLPM_662.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_662.08/SLPM_662.08_BG.png",
+      "kind": "background",
+      "bytes": 151247,
+      "width": 640,
+      "height": 480,
+      "sha256": "698fd0a86759dbd952d7371efc348c11e05c5f1e97489b6cef4febdc7d3fac88",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.08/SLPM_662.08_BG_00.png"
+      },
+      "gameId": "SLPM_662.08"
+    },
+    {
+      "path": "PS2/SLPM_662.08/SLPM_662.08_BG_01.png",
+      "kind": "background",
+      "bytes": 173084,
+      "width": 640,
+      "height": 480,
+      "sha256": "d8b977506e911ee9a77db84efe11144c4f71012794e7d284a0b865f79ffb56f8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.08/SLPM_662.08_BG_01.png"
+      },
+      "gameId": "SLPM_662.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sakura Taisen V Episode 0: Kouya no Samurai Musume (Sega the Best 2800)"
+}

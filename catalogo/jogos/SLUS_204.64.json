@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_204.64",
+  "cover": {
+    "path": "PS2/SLUS_204.64/SLUS_204.64_COV.png",
+    "kind": "cover",
+    "bytes": 92109,
+    "width": 192,
+    "height": 272,
+    "sha256": "c0f03e3b1737c5138593915f735c00f436b75c4a0d8d295fefc49bb87273a99d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20464.jpg"
+    },
+    "gameId": "SLUS_204.64"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.64/SLUS_204.64_ICO.png",
+    "kind": "disc",
+    "bytes": 30574,
+    "width": 256,
+    "height": 256,
+    "sha256": "9153019d1454c16542fc1102aa84d388100de72219fb6f2519ef3bd2932ecf46",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.64_ICO.png"
+    },
+    "gameId": "SLUS_204.64"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.64/SLUS_204.64_BG.png",
+    "kind": "background",
+    "bytes": 173093,
+    "width": 640,
+    "height": 480,
+    "sha256": "105c8aff3b123fb4acf19351c43385a7e2700c20e964d0afb39230e6d73d3a7a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.64/SLUS_204.64_BG_00.png"
+    },
+    "gameId": "SLUS_204.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.64/SLUS_204.64_BG.png",
+      "kind": "background",
+      "bytes": 173093,
+      "width": 640,
+      "height": 480,
+      "sha256": "105c8aff3b123fb4acf19351c43385a7e2700c20e964d0afb39230e6d73d3a7a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.64/SLUS_204.64_BG_00.png"
+      },
+      "gameId": "SLUS_204.64"
+    },
+    {
+      "path": "PS2/SLUS_204.64/SLUS_204.64_BG_01.png",
+      "kind": "background",
+      "bytes": 200184,
+      "width": 640,
+      "height": 480,
+      "sha256": "f60c0b8273da8e0df3ad4368743d4e8f566a65578509f444632b214424bf837c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.64/SLUS_204.64_BG_01.png"
+      },
+      "gameId": "SLUS_204.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fugitive Hunter - War on Terror"
+}

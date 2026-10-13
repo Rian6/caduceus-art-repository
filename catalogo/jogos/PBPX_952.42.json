@@ -1,0 +1,25 @@
+{
+  "id": "PBPX_952.42",
+  "cover": {
+    "path": "PS2/PBPX_952.42/PBPX_952.42_COV.png",
+    "kind": "cover",
+    "bytes": 61598,
+    "width": 192,
+    "height": 272,
+    "sha256": "6f347590071be1db48627ed7f73c586eca069bf2bc5b86ce82b55079eebbe44b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PBPX-95242.jpg"
+    },
+    "gameId": "PBPX_952.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Online Start-Up Disc v3.0"
+}

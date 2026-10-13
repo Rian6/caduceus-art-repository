@@ -1,0 +1,104 @@
+{
+  "id": "SLES_507.30",
+  "cover": {
+    "path": "PS2/SLES_507.30/SLES_507.30_COV.png",
+    "kind": "cover",
+    "bytes": 86167,
+    "width": 192,
+    "height": 272,
+    "sha256": "ba5a65cd3c3b91f690034135de739440585f4df31384760fa029b56a21e1cee4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50730.jpg"
+    },
+    "gameId": "SLES_507.30"
+  },
+  "disc": {
+    "path": "PS2/SLES_507.30/SLES_507.30_ICO.png",
+    "kind": "disc",
+    "bytes": 11885,
+    "width": 128,
+    "height": 128,
+    "sha256": "42abad8e04a76458c908561824cabb3a6ddd02a593c39f2cb08cddedf11ca709",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_507.30_ICO.png"
+    },
+    "gameId": "SLES_507.30"
+  },
+  "background": {
+    "path": "PS2/SLES_507.30/SLES_507.30_BG.png",
+    "kind": "background",
+    "bytes": 162578,
+    "width": 640,
+    "height": 480,
+    "sha256": "e0c98a98b36f97610a88fb9e1107f5de7fbcb8d1466b7130bfbe0d6549bc8f6b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.30/SLES_507.30_BG_00.png"
+    },
+    "gameId": "SLES_507.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_507.30/SLES_507.30_BG.png",
+      "kind": "background",
+      "bytes": 162578,
+      "width": 640,
+      "height": 480,
+      "sha256": "e0c98a98b36f97610a88fb9e1107f5de7fbcb8d1466b7130bfbe0d6549bc8f6b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.30/SLES_507.30_BG_00.png"
+      },
+      "gameId": "SLES_507.30"
+    },
+    {
+      "path": "PS2/SLES_507.30/SLES_507.30_BG_01.png",
+      "kind": "background",
+      "bytes": 96705,
+      "width": 640,
+      "height": 480,
+      "sha256": "9bee717d72883d8900c77f1e943677426063928a4de0946671afca9ff1840c8a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.30/SLES_507.30_BG_01.png"
+      },
+      "gameId": "SLES_507.30"
+    },
+    {
+      "path": "PS2/SLES_507.30/SLES_507.30_BG_02.png",
+      "kind": "background",
+      "bytes": 204948,
+      "width": 640,
+      "height": 480,
+      "sha256": "1beb42f6d4f5eb825af0d04645d77b7debbe13638a42b344193d685e42ec2aaa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.30/SLES_507.30_BG_02.png"
+      },
+      "gameId": "SLES_507.30"
+    },
+    {
+      "path": "PS2/SLES_507.30/SLES_507.30_BG_03.png",
+      "kind": "background",
+      "bytes": 230930,
+      "width": 640,
+      "height": 480,
+      "sha256": "945fdf07e1268455a786cddd8d25ea91fa12fde6115f1e8af8b4533199ef45de",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.30/SLES_507.30_BG_03.png"
+      },
+      "gameId": "SLES_507.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "V.I.P."
+}

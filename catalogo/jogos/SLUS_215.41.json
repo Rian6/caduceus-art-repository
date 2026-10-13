@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_215.41",
+  "cover": {
+    "path": "PS2/SLUS_215.41/SLUS_215.41_COV.png",
+    "kind": "cover",
+    "bytes": 102382,
+    "width": 192,
+    "height": 272,
+    "sha256": "78d520ae00f5c1f8c3284c813ef6b7bd319d89ad0b8e7dfa2d5b702a1e2af1ef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21541.jpg"
+    },
+    "gameId": "SLUS_215.41"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.41/SLUS_215.41_ICO.png",
+    "kind": "disc",
+    "bytes": 32875,
+    "width": 256,
+    "height": 256,
+    "sha256": "a86148116187d9321eb2e9377ae6a43b5f752d6c56ca59660dc1ac1a1ad01724",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.41_ICO.png"
+    },
+    "gameId": "SLUS_215.41"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.41/SLUS_215.41_BG.png",
+    "kind": "background",
+    "bytes": 117077,
+    "width": 640,
+    "height": 480,
+    "sha256": "ea1e889f1cc6abcd6574190e736eeca0ee0d85260ed9793900da894899ef0ddb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.41/SLUS_215.41_BG_00.png"
+    },
+    "gameId": "SLUS_215.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.41/SLUS_215.41_BG.png",
+      "kind": "background",
+      "bytes": 117077,
+      "width": 640,
+      "height": 480,
+      "sha256": "ea1e889f1cc6abcd6574190e736eeca0ee0d85260ed9793900da894899ef0ddb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.41/SLUS_215.41_BG_00.png"
+      },
+      "gameId": "SLUS_215.41"
+    },
+    {
+      "path": "PS2/SLUS_215.41/SLUS_215.41_BG_01.png",
+      "kind": "background",
+      "bytes": 178184,
+      "width": 640,
+      "height": 480,
+      "sha256": "90019d2005cd0853f851ea1b615aa5f3b781300bc8847b6779146ef43b7c16b9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.41/SLUS_215.41_BG_01.png"
+      },
+      "gameId": "SLUS_215.41"
+    },
+    {
+      "path": "PS2/SLUS_215.41/SLUS_215.41_BG_02.png",
+      "kind": "background",
+      "bytes": 181267,
+      "width": 640,
+      "height": 480,
+      "sha256": "852d77af08da0fcd7f03cfbd66d8237cde024ee42aebb6c62c49de67840f9ce2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.41/SLUS_215.41_BG_02.png"
+      },
+      "gameId": "SLUS_215.41"
+    },
+    {
+      "path": "PS2/SLUS_215.41/SLUS_215.41_BG_03.png",
+      "kind": "background",
+      "bytes": 103055,
+      "width": 640,
+      "height": 480,
+      "sha256": "126b3d6d748dd5e64ffc12f31733312cd60a0f23d9c914ddd003d80b2b3109a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.41/SLUS_215.41_BG_03.png"
+      },
+      "gameId": "SLUS_215.41"
+    },
+    {
+      "path": "PS2/SLUS_215.41/SLUS_215.41_BG_04.png",
+      "kind": "background",
+      "bytes": 164512,
+      "width": 640,
+      "height": 480,
+      "sha256": "b7a27a55bb8fb7b24e81af164ce469357b65f9f9641ca1ee5f6310cee832ff7c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.41/SLUS_215.41_BG_04.png"
+      },
+      "gameId": "SLUS_215.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar Ratatouille"
+}

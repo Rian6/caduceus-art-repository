@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.46",
+  "cover": {
+    "path": "PS2/SLPM_623.46/SLPM_623.46_COV.png",
+    "kind": "cover",
+    "bytes": 95404,
+    "width": 192,
+    "height": 272,
+    "sha256": "affb1e2fad799b715de94c13f53987779472363fd6e52f4868c3cddcd8cc7147",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62346.jpg"
+    },
+    "gameId": "SLPM_623.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KEIEI SIMULATION - JURASSIC PARK"
+}

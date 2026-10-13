@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.50",
+  "cover": {
+    "path": "PS2/SCAJ_200.50/SCAJ_200.50_COV.png",
+    "kind": "cover",
+    "bytes": 92999,
+    "width": 192,
+    "height": 272,
+    "sha256": "6d8e100716ecc57569e2e15bacd8c5a40f7ef567f6a9f1383c7d0c025b17daf7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20050.jpg"
+    },
+    "gameId": "SCAJ_200.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZERO - AKAI CHOU"
+}

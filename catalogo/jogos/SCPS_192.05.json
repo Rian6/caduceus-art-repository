@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_192.05",
+  "cover": {
+    "path": "PS2/SCPS_192.05/SCPS_192.05_COV.png",
+    "kind": "cover",
+    "bytes": 78881,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f61e6f00f15597ac899863d02c33268364a98b690abda9ff90019ed35f23242",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19205.jpg"
+    },
+    "gameId": "SCPS_192.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WILD ARMS - ADVANCED 3RD [PLAYSTATION 2 THE BEST]"
+}

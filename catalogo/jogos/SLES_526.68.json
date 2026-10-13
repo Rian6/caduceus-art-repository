@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.68",
+  "cover": {
+    "path": "PS2/SLES_526.68/SLES_526.68_COV.png",
+    "kind": "cover",
+    "bytes": 90079,
+    "width": 192,
+    "height": 272,
+    "sha256": "16617091193eb7c097c058d296f79188b3e12d75547b9bedaa8bcf332db5d59c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52668.jpg"
+    },
+    "gameId": "SLES_526.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - Aston Villa"
+}

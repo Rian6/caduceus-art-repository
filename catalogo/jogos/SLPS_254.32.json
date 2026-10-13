@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.32",
+  "cover": {
+    "path": "PS2/SLPS_254.32/SLPS_254.32_COV.png",
+    "kind": "cover",
+    "bytes": 109249,
+    "width": 192,
+    "height": 272,
+    "sha256": "0261cb3bd06de402284055a1dc7a15a71c474c4492d10251500f2d5943aa50ef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25432.jpg"
+    },
+    "gameId": "SLPS_254.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAJOKKO A LA MODE [MAGICAL BOX]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.52",
+  "cover": {
+    "path": "PS2/SLPM_667.52/SLPM_667.52_COV.png",
+    "kind": "cover",
+    "bytes": 95368,
+    "width": 192,
+    "height": 272,
+    "sha256": "d02c74c7c4962b5604dfc689b607d2ebe667b1cf3d3dadb544e38d5bccc47d90",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66752.jpg"
+    },
+    "gameId": "SLPM_667.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Medal of Honor - Vanguard"
+}

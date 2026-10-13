@@ -1,0 +1,51 @@
+{
+  "id": "SLUS_775.48",
+  "cover": {
+    "path": "PS2/SLUS_775.48/SLUS_775.48_COV.png",
+    "kind": "cover",
+    "bytes": 104627,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed4e90917551a56f13f92a3d92dd95e6ac14589da20af7e17c67a94983cb5984",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_775.48/SLUS_775.48_COV.png"
+    },
+    "gameId": "SLUS_775.48"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLUS_775.48/SLUS_775.48_BG.png",
+    "kind": "background",
+    "bytes": 385568,
+    "width": 640,
+    "height": 480,
+    "sha256": "df65296a975404061c90b8672cb3b1d4051dbb66e44ac7df0c1408c669304622",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_775.48/SLUS_775.48_BG_00.png"
+    },
+    "gameId": "SLUS_775.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_775.48/SLUS_775.48_BG.png",
+      "kind": "background",
+      "bytes": 385568,
+      "width": 640,
+      "height": 480,
+      "sha256": "df65296a975404061c90b8672cb3b1d4051dbb66e44ac7df0c1408c669304622",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_775.48/SLUS_775.48_BG_00.png"
+      },
+      "gameId": "SLUS_775.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guitar Hero God 2"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_214.26",
+  "cover": {
+    "path": "PS2/SLUS_214.26/SLUS_214.26_COV.png",
+    "kind": "cover",
+    "bytes": 112130,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d5ef9b0d3ea5745211abcbb3920b86b34668d6a708c8333021cd72813659568",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21426.jpg"
+    },
+    "gameId": "SLUS_214.26"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.26/SLUS_214.26_ICO.png",
+    "kind": "disc",
+    "bytes": 37213,
+    "width": 256,
+    "height": 256,
+    "sha256": "f661edd6dab655b6e6d8554ee6260ba1c3a62cb61d4add6a080aab31fd77b04f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.26_ICO.png"
+    },
+    "gameId": "SLUS_214.26"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.26/SLUS_214.26_BG.png",
+    "kind": "background",
+    "bytes": 231032,
+    "width": 640,
+    "height": 480,
+    "sha256": "b51bb030c2d2e3c50dcb7bc32ffe4a3680502d487541e86e43b300810aee71fd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.26/SLUS_214.26_BG_00.png"
+    },
+    "gameId": "SLUS_214.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.26/SLUS_214.26_BG.png",
+      "kind": "background",
+      "bytes": 231032,
+      "width": 640,
+      "height": 480,
+      "sha256": "b51bb030c2d2e3c50dcb7bc32ffe4a3680502d487541e86e43b300810aee71fd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.26/SLUS_214.26_BG_00.png"
+      },
+      "gameId": "SLUS_214.26"
+    },
+    {
+      "path": "PS2/SLUS_214.26/SLUS_214.26_BG_01.png",
+      "kind": "background",
+      "bytes": 204850,
+      "width": 640,
+      "height": 480,
+      "sha256": "809b7f04a8df5ca6f4e1945ed3891b24746ade9e639036e6d7b07f3c5bb3c496",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.26/SLUS_214.26_BG_01.png"
+      },
+      "gameId": "SLUS_214.26"
+    },
+    {
+      "path": "PS2/SLUS_214.26/SLUS_214.26_BG_02.png",
+      "kind": "background",
+      "bytes": 236720,
+      "width": 640,
+      "height": 480,
+      "sha256": "51ddd87e97ef46b49ac00bf36b89b9bfcab0ea88b70fc28f0d3123fdb14ae68f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.26/SLUS_214.26_BG_02.png"
+      },
+      "gameId": "SLUS_214.26"
+    },
+    {
+      "path": "PS2/SLUS_214.26/SLUS_214.26_BG_03.png",
+      "kind": "background",
+      "bytes": 183180,
+      "width": 640,
+      "height": 480,
+      "sha256": "6bcabab2f686a86504edea59dfa65499fc36a074d8a216aa25f8715bcb83448c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.26/SLUS_214.26_BG_03.png"
+      },
+      "gameId": "SLUS_214.26"
+    },
+    {
+      "path": "PS2/SLUS_214.26/SLUS_214.26_BG_04.png",
+      "kind": "background",
+      "bytes": 215758,
+      "width": 640,
+      "height": 480,
+      "sha256": "a851f5cb4973c53845444f9ce1392233aaf703054ea68fbd204c5b176d21b964",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.26/SLUS_214.26_BG_04.png"
+      },
+      "gameId": "SLUS_214.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CALL OF DUTY 3"
+}

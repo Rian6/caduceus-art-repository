@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_256.57",
+  "cover": {
+    "path": "PS2/SLPS_256.57/SLPS_256.57_COV.png",
+    "kind": "cover",
+    "bytes": 83811,
+    "width": 192,
+    "height": 272,
+    "sha256": "807a1dbdf7d8f6410829b4964fa9d5b1b6227688d47320986d9569984558bcc6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25657.jpg"
+    },
+    "gameId": "SLPS_256.57"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.57/SLPS_256.57_BG.png",
+    "kind": "background",
+    "bytes": 195785,
+    "width": 640,
+    "height": 480,
+    "sha256": "52dfb3634ad0d3481e958645ff98fb7add3e078a78a7a464fe4e3ba5fb93a034",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.57/SLPS_256.57_BG_00.png"
+    },
+    "gameId": "SLPS_256.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.57/SLPS_256.57_BG.png",
+      "kind": "background",
+      "bytes": 195785,
+      "width": 640,
+      "height": 480,
+      "sha256": "52dfb3634ad0d3481e958645ff98fb7add3e078a78a7a464fe4e3ba5fb93a034",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.57/SLPS_256.57_BG_00.png"
+      },
+      "gameId": "SLPS_256.57"
+    },
+    {
+      "path": "PS2/SLPS_256.57/SLPS_256.57_BG_01.png",
+      "kind": "background",
+      "bytes": 134964,
+      "width": 640,
+      "height": 480,
+      "sha256": "c935f92d7edb0e4af22ef6c6def1082b480161ac417f2d319c12aa19d98d8470",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.57/SLPS_256.57_BG_01.png"
+      },
+      "gameId": "SLPS_256.57"
+    },
+    {
+      "path": "PS2/SLPS_256.57/SLPS_256.57_BG_02.png",
+      "kind": "background",
+      "bytes": 172785,
+      "width": 640,
+      "height": 480,
+      "sha256": "98e507cfb55f3bf068d2e8874e90e1bc1081cb9c2b6e88391b8d543dcd83d9cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.57/SLPS_256.57_BG_02.png"
+      },
+      "gameId": "SLPS_256.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAKUTOU BIJIN WULONG"
+}

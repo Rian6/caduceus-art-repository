@@ -1,0 +1,117 @@
+{
+  "id": "SCUS_971.40",
+  "cover": {
+    "path": "PS2/SCUS_971.40/SCUS_971.40_COV.png",
+    "kind": "cover",
+    "bytes": 105537,
+    "width": 192,
+    "height": 272,
+    "sha256": "72dcaf8055cfd8b209f9000b8e2f0988b5b7700868d860928b3370a65fbb696d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97140.jpg"
+    },
+    "gameId": "SCUS_971.40"
+  },
+  "disc": {
+    "path": "PS2/SCUS_971.40/SCUS_971.40_ICO.png",
+    "kind": "disc",
+    "bytes": 11350,
+    "width": 128,
+    "height": 128,
+    "sha256": "47e630fb265ba3a2095a87a97a209d01e1592cbb564a1e0cca65f47048a4997f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCUS_971.40_ICO.png"
+    },
+    "gameId": "SCUS_971.40"
+  },
+  "background": {
+    "path": "PS2/SCUS_971.40/SCUS_971.40_BG.png",
+    "kind": "background",
+    "bytes": 79852,
+    "width": 640,
+    "height": 480,
+    "sha256": "7740ee2358462a54f0ac5fb44b586f32d7942dad1330689c7e5cb465a9ce7318",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_971.40/SCUS_971.40_BG_00.png"
+    },
+    "gameId": "SCUS_971.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_971.40/SCUS_971.40_BG.png",
+      "kind": "background",
+      "bytes": 79852,
+      "width": 640,
+      "height": 480,
+      "sha256": "7740ee2358462a54f0ac5fb44b586f32d7942dad1330689c7e5cb465a9ce7318",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.40/SCUS_971.40_BG_00.png"
+      },
+      "gameId": "SCUS_971.40"
+    },
+    {
+      "path": "PS2/SCUS_971.40/SCUS_971.40_BG_01.png",
+      "kind": "background",
+      "bytes": 194075,
+      "width": 640,
+      "height": 480,
+      "sha256": "d2e75965b4b50ce0631225b2c0da7cea11eede13b8d140de4abcad720c7eef54",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.40/SCUS_971.40_BG_01.png"
+      },
+      "gameId": "SCUS_971.40"
+    },
+    {
+      "path": "PS2/SCUS_971.40/SCUS_971.40_BG_02.png",
+      "kind": "background",
+      "bytes": 166358,
+      "width": 640,
+      "height": 480,
+      "sha256": "9e68b316d70c34890a2453c9cd87ce419c602aea15d6ab700ab2b91ba8d82221",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.40/SCUS_971.40_BG_02.png"
+      },
+      "gameId": "SCUS_971.40"
+    },
+    {
+      "path": "PS2/SCUS_971.40/SCUS_971.40_BG_03.png",
+      "kind": "background",
+      "bytes": 206200,
+      "width": 640,
+      "height": 480,
+      "sha256": "9dae15103dc3b4464e6876d7a11e4004368c713fb5eb6f96d9ef84aa234768ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.40/SCUS_971.40_BG_03.png"
+      },
+      "gameId": "SCUS_971.40"
+    },
+    {
+      "path": "PS2/SCUS_971.40/SCUS_971.40_BG_04.png",
+      "kind": "background",
+      "bytes": 216132,
+      "width": 640,
+      "height": 480,
+      "sha256": "4f9f1d24703b7dd6ce3352c5fcdfb9a2ad04626fe13cc02ceff2c5cc2951951d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.40/SCUS_971.40_BG_04.png"
+      },
+      "gameId": "SCUS_971.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Mark of Kri"
+}

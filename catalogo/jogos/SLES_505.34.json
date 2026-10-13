@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.34",
+  "cover": {
+    "path": "PS2/SLES_505.34/SLES_505.34_COV.png",
+    "kind": "cover",
+    "bytes": 98051,
+    "width": 192,
+    "height": 272,
+    "sha256": "865841cc738f021c541a6f556479c8505a56ca9bf70fb758122f0b5bcdcdf696",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50534.jpg"
+    },
+    "gameId": "SLES_505.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live 2002"
+}

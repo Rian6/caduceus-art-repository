@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_214.50",
+  "cover": {
+    "path": "PS2/SLUS_214.50/SLUS_214.50_COV.png",
+    "kind": "cover",
+    "bytes": 99969,
+    "width": 192,
+    "height": 272,
+    "sha256": "126d11376f561588185fd0644cde4d5aad9eb9b06a6df5d7915438ba5d3471de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21450.jpg"
+    },
+    "gameId": "SLUS_214.50"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.50/SLUS_214.50_ICO.png",
+    "kind": "disc",
+    "bytes": 25068,
+    "width": 256,
+    "height": 256,
+    "sha256": "dbb76b3e4d8e19f62640b2fbf41a3ddca3fb009058ecf996b53df8a99a0ef028",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.50_ICO.png"
+    },
+    "gameId": "SLUS_214.50"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.50/SLUS_214.50_BG.png",
+    "kind": "background",
+    "bytes": 209412,
+    "width": 640,
+    "height": 480,
+    "sha256": "ae405d4db62a4b6281757dcb68aff6995dd1850a6990928f8edb62ed5e8f3ba5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.50/SLUS_214.50_BG_00.png"
+    },
+    "gameId": "SLUS_214.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.50/SLUS_214.50_BG.png",
+      "kind": "background",
+      "bytes": 209412,
+      "width": 640,
+      "height": 480,
+      "sha256": "ae405d4db62a4b6281757dcb68aff6995dd1850a6990928f8edb62ed5e8f3ba5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.50/SLUS_214.50_BG_00.png"
+      },
+      "gameId": "SLUS_214.50"
+    },
+    {
+      "path": "PS2/SLUS_214.50/SLUS_214.50_BG_01.png",
+      "kind": "background",
+      "bytes": 186735,
+      "width": 640,
+      "height": 480,
+      "sha256": "7ac469c8c47f522cb1df51078c8115f69f0e133b9fe72f84491b9fdfbdb785a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.50/SLUS_214.50_BG_01.png"
+      },
+      "gameId": "SLUS_214.50"
+    },
+    {
+      "path": "PS2/SLUS_214.50/SLUS_214.50_BG_02.png",
+      "kind": "background",
+      "bytes": 205405,
+      "width": 640,
+      "height": 480,
+      "sha256": "a17d604bde5d20e1174da214602c748e91c62efae4228587fbad6b39a0694d2d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.50/SLUS_214.50_BG_02.png"
+      },
+      "gameId": "SLUS_214.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super PickUps"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.60",
+  "cover": {
+    "path": "PS2/SLPS_202.60/SLPS_202.60_COV.png",
+    "kind": "cover",
+    "bytes": 86561,
+    "width": 192,
+    "height": 272,
+    "sha256": "c7924db2d191ef1c8bdef8c4797b8e22ebe76bfd53c9a16d9652f18ff1e482a8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20260.jpg"
+    },
+    "gameId": "SLPS_202.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAKIGAKE!! CROMATIER HIGH SCHOOL"
+}

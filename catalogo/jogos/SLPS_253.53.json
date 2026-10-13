@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_253.53",
+  "cover": {
+    "path": "PS2/SLPS_253.53/SLPS_253.53_COV.png",
+    "kind": "cover",
+    "bytes": 77791,
+    "width": 192,
+    "height": 272,
+    "sha256": "44699562a06358668cabe9eaa80d731cedd6cabc21650e8677d49306e3105e94",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25353.jpg"
+    },
+    "gameId": "SLPS_253.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_253.53/SLPS_253.53_BG.png",
+    "kind": "background",
+    "bytes": 172092,
+    "width": 640,
+    "height": 480,
+    "sha256": "f2e9c8e006ebebd65d2c17627284cbe5d2b4a6a93e72e80a98dc86ed63b215a9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.53/SLPS_253.53_BG_00.png"
+    },
+    "gameId": "SLPS_253.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.53/SLPS_253.53_BG.png",
+      "kind": "background",
+      "bytes": 172092,
+      "width": 640,
+      "height": 480,
+      "sha256": "f2e9c8e006ebebd65d2c17627284cbe5d2b4a6a93e72e80a98dc86ed63b215a9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.53/SLPS_253.53_BG_00.png"
+      },
+      "gameId": "SLPS_253.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Xenosaga Freaks"
+}

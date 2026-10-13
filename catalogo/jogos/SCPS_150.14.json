@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.14",
+  "cover": {
+    "path": "PS2/SCPS_150.14/SCPS_150.14_COV.png",
+    "kind": "cover",
+    "bytes": 93875,
+    "width": 192,
+    "height": 272,
+    "sha256": "fe4028289734b182d3c8e28ea54b7968c09c7c0a5fc51d7a21c25b44be7a412a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15014.jpg"
+    },
+    "gameId": "SCPS_150.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GENSHI NO KOTOBA"
+}

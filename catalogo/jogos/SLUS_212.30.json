@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_212.30",
+  "cover": {
+    "path": "PS2/SLUS_212.30/SLUS_212.30_COV.png",
+    "kind": "cover",
+    "bytes": 74885,
+    "width": 192,
+    "height": 272,
+    "sha256": "151a33147ca166a095bda9d18b54a83a34ce863613c07625521fc669ce7fa13b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21230.jpg"
+    },
+    "gameId": "SLUS_212.30"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.30/SLUS_212.30_ICO.png",
+    "kind": "disc",
+    "bytes": 26490,
+    "width": 256,
+    "height": 256,
+    "sha256": "dd6e97cb86d44fb7766722004ff4642e1e400e7586778a04ba832f73dd1fd9a1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.30_ICO.png"
+    },
+    "gameId": "SLUS_212.30"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.30/SLUS_212.30_BG.png",
+    "kind": "background",
+    "bytes": 86091,
+    "width": 640,
+    "height": 480,
+    "sha256": "5b2dc138c840637037558c2180da650284ee4e5533a330bb042b9bad6015961f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.30/SLUS_212.30_BG_00.png"
+    },
+    "gameId": "SLUS_212.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.30/SLUS_212.30_BG.png",
+      "kind": "background",
+      "bytes": 86091,
+      "width": 640,
+      "height": 480,
+      "sha256": "5b2dc138c840637037558c2180da650284ee4e5533a330bb042b9bad6015961f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.30/SLUS_212.30_BG_00.png"
+      },
+      "gameId": "SLUS_212.30"
+    },
+    {
+      "path": "PS2/SLUS_212.30/SLUS_212.30_BG_01.png",
+      "kind": "background",
+      "bytes": 80805,
+      "width": 640,
+      "height": 480,
+      "sha256": "5f8d447eea906d0807e856b5a5bbbbcf5c9b58df7127688d6b6419579c63d24c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.30/SLUS_212.30_BG_01.png"
+      },
+      "gameId": "SLUS_212.30"
+    },
+    {
+      "path": "PS2/SLUS_212.30/SLUS_212.30_BG_02.png",
+      "kind": "background",
+      "bytes": 173326,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b904b10bb8a016f014aeb245f34e6bc74702cd3ed75c53d989955743b503ece",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.30/SLUS_212.30_BG_02.png"
+      },
+      "gameId": "SLUS_212.30"
+    },
+    {
+      "path": "PS2/SLUS_212.30/SLUS_212.30_BG_03.png",
+      "kind": "background",
+      "bytes": 181582,
+      "width": 640,
+      "height": 480,
+      "sha256": "2470d6d15fefa20bb5aa0dfb88b4d728edacb22cdae31127fbe116bcc446ac3d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.30/SLUS_212.30_BG_03.png"
+      },
+      "gameId": "SLUS_212.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WE LOVE KATAMARI"
+}

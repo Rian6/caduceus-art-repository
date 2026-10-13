@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.77",
+  "cover": {
+    "path": "PS2/SLPM_742.77/SLPM_742.77_COV.png",
+    "kind": "cover",
+    "bytes": 91460,
+    "width": 192,
+    "height": 272,
+    "sha256": "1f6a1f973b9bd55ccfe5b67fb07c12fdbbf5fb71e7953dff26c40779a3766d3f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74277.jpg"
+    },
+    "gameId": "SLPM_742.77"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PERSONA 3 FES [PLAYSTATION 2 THE BEST]"
+}

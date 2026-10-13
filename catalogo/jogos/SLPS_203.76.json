@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.76",
+  "cover": {
+    "path": "PS2/SLPS_203.76/SLPS_203.76_COV.png",
+    "kind": "cover",
+    "bytes": 112494,
+    "width": 192,
+    "height": 272,
+    "sha256": "2c2a9aa7cddd1405da0c4749ef2379b2a6c4cc87f0268c77340342c3d721dc7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20376.jpg"
+    },
+    "gameId": "SLPS_203.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DAITO GIKEN KOUSHIKI PACHI-SLOT SIMULATOR - YOSHIMUNE"
+}

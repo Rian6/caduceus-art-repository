@@ -1,0 +1,103 @@
+{
+  "id": "SCES_533.28",
+  "cover": {
+    "path": "PS2/SCES_533.28/SCES_533.28_COV.png",
+    "kind": "cover",
+    "bytes": 97485,
+    "width": 192,
+    "height": 272,
+    "sha256": "18bc799aacd2544a107e7770419f1ed406c3d80ee19008c851b943458b285f6f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53328.jpg"
+    },
+    "gameId": "SCES_533.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_533.28/SCES_533.28_BG.png",
+    "kind": "background",
+    "bytes": 228136,
+    "width": 640,
+    "height": 480,
+    "sha256": "3383ff1a53c6ea02a3ecb7a2ac1a92efdb5c0f1ad3feea70365e314d78cb4340",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_533.28/SCES_533.28_BG_00.png"
+    },
+    "gameId": "SCES_533.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_533.28/SCES_533.28_BG.png",
+      "kind": "background",
+      "bytes": 228136,
+      "width": 640,
+      "height": 480,
+      "sha256": "3383ff1a53c6ea02a3ecb7a2ac1a92efdb5c0f1ad3feea70365e314d78cb4340",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.28/SCES_533.28_BG_00.png"
+      },
+      "gameId": "SCES_533.28"
+    },
+    {
+      "path": "PS2/SCES_533.28/SCES_533.28_BG_01.png",
+      "kind": "background",
+      "bytes": 194495,
+      "width": 640,
+      "height": 480,
+      "sha256": "ffaaa8aabc8589ee02ec25706319baceae49f9b91fe386ae68d8c21a7d8c9b10",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.28/SCES_533.28_BG_01.png"
+      },
+      "gameId": "SCES_533.28"
+    },
+    {
+      "path": "PS2/SCES_533.28/SCES_533.28_BG_02.png",
+      "kind": "background",
+      "bytes": 166696,
+      "width": 640,
+      "height": 480,
+      "sha256": "43d35fd11177f2fe93648333fb41ea98ac6a95d648ce3d42e33894ea4d81d0eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.28/SCES_533.28_BG_02.png"
+      },
+      "gameId": "SCES_533.28"
+    },
+    {
+      "path": "PS2/SCES_533.28/SCES_533.28_BG_03.png",
+      "kind": "background",
+      "bytes": 235379,
+      "width": 640,
+      "height": 480,
+      "sha256": "9e2c274dc9245b4c6d0cecb0cb7ac0663aac5c5f77610d233397a6a452ed15e9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.28/SCES_533.28_BG_03.png"
+      },
+      "gameId": "SCES_533.28"
+    },
+    {
+      "path": "PS2/SCES_533.28/SCES_533.28_BG_04.png",
+      "kind": "background",
+      "bytes": 168011,
+      "width": 640,
+      "height": 480,
+      "sha256": "300af259b8278195688c2420ec306492290ead5a2ac532db9a3408830fc4f681",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.28/SCES_533.28_BG_04.png"
+      },
+      "gameId": "SCES_533.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GENJI"
+}

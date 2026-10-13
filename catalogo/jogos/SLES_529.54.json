@@ -1,0 +1,91 @@
+{
+  "id": "SLES_529.54",
+  "cover": {
+    "path": "PS2/SLES_529.54/SLES_529.54_COV.png",
+    "kind": "cover",
+    "bytes": 98293,
+    "width": 192,
+    "height": 272,
+    "sha256": "126b0527df97e28eeadbb207977aaee4b129d55f0e3d7b9db59720f0c4761b9c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52954.jpg"
+    },
+    "gameId": "SLES_529.54"
+  },
+  "disc": {
+    "path": "PS2/SLES_529.54/SLES_529.54_ICO.png",
+    "kind": "disc",
+    "bytes": 11655,
+    "width": 128,
+    "height": 128,
+    "sha256": "f83eace7513a42a8920572137ee1ab4e91a2e51215999ea9daf4669c05ce0387",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_529.54_ICO.png"
+    },
+    "gameId": "SLES_529.54"
+  },
+  "background": {
+    "path": "PS2/SLES_529.54/SLES_529.54_BG.png",
+    "kind": "background",
+    "bytes": 229743,
+    "width": 640,
+    "height": 480,
+    "sha256": "0fcb0b22c87ce3c32073e1869a4747fdde12c20b3cbe01f9cb1f69618840a40d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.54/SLES_529.54_BG_00.png"
+    },
+    "gameId": "SLES_529.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.54/SLES_529.54_BG.png",
+      "kind": "background",
+      "bytes": 229743,
+      "width": 640,
+      "height": 480,
+      "sha256": "0fcb0b22c87ce3c32073e1869a4747fdde12c20b3cbe01f9cb1f69618840a40d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.54/SLES_529.54_BG_00.png"
+      },
+      "gameId": "SLES_529.54"
+    },
+    {
+      "path": "PS2/SLES_529.54/SLES_529.54_BG_01.png",
+      "kind": "background",
+      "bytes": 220162,
+      "width": 640,
+      "height": 480,
+      "sha256": "011ff3d409db507d61e44ce46d039f444ba9225cce5e640ae92475b250398e91",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.54/SLES_529.54_BG_01.png"
+      },
+      "gameId": "SLES_529.54"
+    },
+    {
+      "path": "PS2/SLES_529.54/SLES_529.54_BG_02.png",
+      "kind": "background",
+      "bytes": 241877,
+      "width": 640,
+      "height": 480,
+      "sha256": "40217742aa1c4ee0d656d09fb9f563c6084278669c7be6154c449fc13bcf13fd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.54/SLES_529.54_BG_02.png"
+      },
+      "gameId": "SLES_529.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WWII - Tank Battles"
+}

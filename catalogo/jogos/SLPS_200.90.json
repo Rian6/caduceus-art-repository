@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.90",
+  "cover": {
+    "path": "PS2/SLPS_200.90/SLPS_200.90_COV.png",
+    "kind": "cover",
+    "bytes": 72882,
+    "width": 192,
+    "height": 272,
+    "sha256": "6f8c64ac8100a4f04a9943913c72147b860998062542ac6fa2d49c7bb21069a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20090.jpg"
+    },
+    "gameId": "SLPS_200.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Train Kit for A-Ressha de Ikou 2001"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.94",
+  "cover": {
+    "path": "PS2/SLPM_652.94/SLPM_652.94_COV.png",
+    "kind": "cover",
+    "bytes": 105080,
+    "width": 192,
+    "height": 272,
+    "sha256": "62deaaf88008d4fbd115788915c54b817ed15e7549cd08dc84224ba6f2ee9071",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65294.jpg"
+    },
+    "gameId": "SLPM_652.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CAFE LITTLE WISH - MAHOU NO RECIPE [LIMITED EDITION]"
+}

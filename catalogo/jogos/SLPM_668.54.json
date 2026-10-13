@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.54",
+  "cover": {
+    "path": "PS2/SLPM_668.54/SLPM_668.54_COV.png",
+    "kind": "cover",
+    "bytes": 90515,
+    "width": 192,
+    "height": 272,
+    "sha256": "1dd43b2cbc83407a73458223bda2cc48a4f7e7b5b957e7c72b8aea7812630819",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66854.jpg"
+    },
+    "gameId": "SLPM_668.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Street Fighter Zero - Fighters Generation (Best Price)"
+}

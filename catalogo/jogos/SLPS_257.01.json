@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.01",
+  "cover": {
+    "path": "PS2/SLPS_257.01/SLPS_257.01_COV.png",
+    "kind": "cover",
+    "bytes": 92931,
+    "width": 192,
+    "height": 272,
+    "sha256": "0b559ce7e7cf21b60bcf0e215d75948f44294eb11f303428879312804a8130bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25701.jpg"
+    },
+    "gameId": "SLPS_257.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gallop Racer - Inbreed"
+}

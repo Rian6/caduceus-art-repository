@@ -1,0 +1,77 @@
+{
+  "id": "SCES_511.64",
+  "cover": {
+    "path": "PS2/SCES_511.64/SCES_511.64_COV.png",
+    "kind": "cover",
+    "bytes": 105041,
+    "width": 192,
+    "height": 272,
+    "sha256": "038ca0719ab30316302bac60c3dec9925c93c1356ec6b8e40fc27fd88c300332",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51164.jpg"
+    },
+    "gameId": "SCES_511.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_511.64/SCES_511.64_BG.png",
+    "kind": "background",
+    "bytes": 137262,
+    "width": 640,
+    "height": 480,
+    "sha256": "9ed1e5e72ce7823394c67ea1389ed9cbd91ef1eadd8a251b263591bde1a7c856",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_511.64/SCES_511.64_BG_00.png"
+    },
+    "gameId": "SCES_511.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_511.64/SCES_511.64_BG.png",
+      "kind": "background",
+      "bytes": 137262,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ed1e5e72ce7823394c67ea1389ed9cbd91ef1eadd8a251b263591bde1a7c856",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.64/SCES_511.64_BG_00.png"
+      },
+      "gameId": "SCES_511.64"
+    },
+    {
+      "path": "PS2/SCES_511.64/SCES_511.64_BG_01.png",
+      "kind": "background",
+      "bytes": 63809,
+      "width": 640,
+      "height": 480,
+      "sha256": "c5a5d80b37c629e83a7fcf10887a34567fb0d7efcad38852e34fb15c3e8eefd0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.64/SCES_511.64_BG_01.png"
+      },
+      "gameId": "SCES_511.64"
+    },
+    {
+      "path": "PS2/SCES_511.64/SCES_511.64_BG_02.png",
+      "kind": "background",
+      "bytes": 163504,
+      "width": 640,
+      "height": 480,
+      "sha256": "e0879207f8af6a42f5210eead6db03b7f81542ad44461f3207b1145eb7c4f95e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.64/SCES_511.64_BG_02.png"
+      },
+      "gameId": "SCES_511.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Mark of Kri"
+}

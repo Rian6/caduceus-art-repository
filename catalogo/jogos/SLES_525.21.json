@@ -1,0 +1,65 @@
+{
+  "id": "SLES_525.21",
+  "cover": {
+    "path": "PS2/SLES_525.21/SLES_525.21_COV.png",
+    "kind": "cover",
+    "bytes": 103913,
+    "width": 192,
+    "height": 272,
+    "sha256": "f7806f2d69b717ccf6ebfcc47b931b2ecb1f79c9a24480e1b3d211da88313b36",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52521.jpg"
+    },
+    "gameId": "SLES_525.21"
+  },
+  "disc": {
+    "path": "PS2/SLES_525.21/SLES_525.21_ICO.png",
+    "kind": "disc",
+    "bytes": 11633,
+    "width": 128,
+    "height": 128,
+    "sha256": "ae9ada8237603079e55c71162de65689f7410f1847c07c0c863a7392a44a1291",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_525.21_ICO.png"
+    },
+    "gameId": "SLES_525.21"
+  },
+  "background": {
+    "path": "PS2/SLES_525.21/SLES_525.21_BG.png",
+    "kind": "background",
+    "bytes": 177532,
+    "width": 640,
+    "height": 480,
+    "sha256": "dacae56b5eb382956d0d9bdbc5c1682a9622ebb35fd077b4cbccd75db60638e1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.21/SLES_525.21_BG_00.png"
+    },
+    "gameId": "SLES_525.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.21/SLES_525.21_BG.png",
+      "kind": "background",
+      "bytes": 177532,
+      "width": 640,
+      "height": 480,
+      "sha256": "dacae56b5eb382956d0d9bdbc5c1682a9622ebb35fd077b4cbccd75db60638e1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.21/SLES_525.21_BG_00.png"
+      },
+      "gameId": "SLES_525.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Adiboo and the Energy Thieves"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.34",
+  "cover": {
+    "path": "PS2/SLPM_663.34/SLPM_663.34_COV.png",
+    "kind": "cover",
+    "bytes": 76085,
+    "width": 192,
+    "height": 272,
+    "sha256": "71334f7b1d0e34a8cc500422231a6e88f404024bac70341df0e42d7b20b86924",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66334.jpg"
+    },
+    "gameId": "SLPM_663.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WRC 4 - The Official Game of the FIA World Rally Championshi (Spike The Best)"
+}

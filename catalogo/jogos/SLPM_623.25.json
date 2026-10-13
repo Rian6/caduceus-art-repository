@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.25",
+  "cover": {
+    "path": "PS2/SLPM_623.25/SLPM_623.25_COV.png",
+    "kind": "cover",
+    "bytes": 92168,
+    "width": 192,
+    "height": 272,
+    "sha256": "472fffaa85a7d2bb6bcbf86f70517b11537fc093081fe49a59ade29e65072e8f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62325.jpg"
+    },
+    "gameId": "SLPM_623.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "High Heat - Major League Baseball 2003 (Takara The Best)"
+}

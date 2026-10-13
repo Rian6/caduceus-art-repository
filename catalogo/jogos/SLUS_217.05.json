@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_217.05",
+  "cover": {
+    "path": "PS2/SLUS_217.05/SLUS_217.05_COV.png",
+    "kind": "cover",
+    "bytes": 93794,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a29a03b56149cb12e9ae9ae1a2fb14db32e4f8d51f234442c386bda0ef8f31d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21705.jpg"
+    },
+    "gameId": "SLUS_217.05"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.05/SLUS_217.05_ICO.png",
+    "kind": "disc",
+    "bytes": 29326,
+    "width": 256,
+    "height": 256,
+    "sha256": "a324621f62bd1bf6bbacbaab0d82362cf23b2c34d212b7cbf533163501ee5c3c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.05_ICO.png"
+    },
+    "gameId": "SLUS_217.05"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Madden NFL 08 en Español"
+}

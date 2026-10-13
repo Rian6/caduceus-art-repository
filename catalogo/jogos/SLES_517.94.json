@@ -1,0 +1,51 @@
+{
+  "id": "SLES_517.94",
+  "cover": {
+    "path": "PS2/SLES_517.94/SLES_517.94_COV.png",
+    "kind": "cover",
+    "bytes": 104663,
+    "width": 192,
+    "height": 272,
+    "sha256": "95aa3db81c07d4e3d6b175619f527000f5122889e80ff0ed378efc4d27d5849e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51794.jpg"
+    },
+    "gameId": "SLES_517.94"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_517.94/SLES_517.94_BG.png",
+    "kind": "background",
+    "bytes": 197481,
+    "width": 640,
+    "height": 480,
+    "sha256": "0b5b3d4d0f3d44354a5bb49ce0a4709d2af03ecbc0755346abc9a0155b83c51e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.94/SLES_517.94_BG_00.png"
+    },
+    "gameId": "SLES_517.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.94/SLES_517.94_BG.png",
+      "kind": "background",
+      "bytes": 197481,
+      "width": 640,
+      "height": 480,
+      "sha256": "0b5b3d4d0f3d44354a5bb49ce0a4709d2af03ecbc0755346abc9a0155b83c51e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.94/SLES_517.94_BG_00.png"
+      },
+      "gameId": "SLES_517.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LOONEY TUNES - BACK IN ACTION"
+}

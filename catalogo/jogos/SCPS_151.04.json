@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_151.04",
+  "cover": {
+    "path": "PS2/SCPS_151.04/SCPS_151.04_COV.png",
+    "kind": "cover",
+    "bytes": 82299,
+    "width": 192,
+    "height": 272,
+    "sha256": "4278350cfddccab649999e72657020afe4b136cbdca612c8c0afbeebc91e88b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15104.jpg"
+    },
+    "gameId": "SCPS_151.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_151.04/SCPS_151.04_BG.png",
+    "kind": "background",
+    "bytes": 199449,
+    "width": 640,
+    "height": 480,
+    "sha256": "b31c59574aad163883d4d9aaa996fcb32be535664b27d5193f5181d1d365e336",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_151.04/SCPS_151.04_BG_00.png"
+    },
+    "gameId": "SCPS_151.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_151.04/SCPS_151.04_BG.png",
+      "kind": "background",
+      "bytes": 199449,
+      "width": 640,
+      "height": 480,
+      "sha256": "b31c59574aad163883d4d9aaa996fcb32be535664b27d5193f5181d1d365e336",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_151.04/SCPS_151.04_BG_00.png"
+      },
+      "gameId": "SCPS_151.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUNPARADE ORCHESTRA - SHIRO NO SHOU"
+}

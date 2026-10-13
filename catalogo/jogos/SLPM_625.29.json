@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.29",
+  "cover": {
+    "path": "PS2/SLPM_625.29/SLPM_625.29_COV.png",
+    "kind": "cover",
+    "bytes": 115806,
+    "width": 192,
+    "height": 272,
+    "sha256": "1310a2849835cde63f2ac0a6627c4daf90032af9812109dd3fecc960cbf7b0c8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62529.jpg"
+    },
+    "gameId": "SLPM_625.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Karaoke Revolution - Kazoku Idol Sengen"
+}

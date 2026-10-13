@@ -1,0 +1,103 @@
+{
+  "id": "SCES_511.90",
+  "cover": {
+    "path": "PS2/SCES_511.90/SCES_511.90_COV.png",
+    "kind": "cover",
+    "bytes": 114041,
+    "width": 192,
+    "height": 272,
+    "sha256": "47d15ae560a0223e797b09a426ae60c24e614908ed8eddf514cf8d0d79b204a0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51190.jpg"
+    },
+    "gameId": "SCES_511.90"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_511.90/SCES_511.90_BG.png",
+    "kind": "background",
+    "bytes": 214866,
+    "width": 640,
+    "height": 480,
+    "sha256": "9ecd4d17808b0e9af8219c0199253fe94a4d54b6915c4040014b03de48db0565",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_511.90/SCES_511.90_BG_00.png"
+    },
+    "gameId": "SCES_511.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_511.90/SCES_511.90_BG.png",
+      "kind": "background",
+      "bytes": 214866,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ecd4d17808b0e9af8219c0199253fe94a4d54b6915c4040014b03de48db0565",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.90/SCES_511.90_BG_00.png"
+      },
+      "gameId": "SCES_511.90"
+    },
+    {
+      "path": "PS2/SCES_511.90/SCES_511.90_BG_01.png",
+      "kind": "background",
+      "bytes": 189402,
+      "width": 640,
+      "height": 480,
+      "sha256": "8817c2b6267ef9e99e054ab5003772c1b03ab9028f8389de638b466108c6fb3d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.90/SCES_511.90_BG_01.png"
+      },
+      "gameId": "SCES_511.90"
+    },
+    {
+      "path": "PS2/SCES_511.90/SCES_511.90_BG_02.png",
+      "kind": "background",
+      "bytes": 150360,
+      "width": 640,
+      "height": 480,
+      "sha256": "e955bea440b04971d6ee771bd32ccdc17478ef494ea9730fabe4d852744f88f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.90/SCES_511.90_BG_02.png"
+      },
+      "gameId": "SCES_511.90"
+    },
+    {
+      "path": "PS2/SCES_511.90/SCES_511.90_BG_03.png",
+      "kind": "background",
+      "bytes": 209619,
+      "width": 640,
+      "height": 480,
+      "sha256": "f678e07efe048bc2b026d66f40d6fd47fe1d2f71c0a019cfff5ef154c648ce2a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.90/SCES_511.90_BG_03.png"
+      },
+      "gameId": "SCES_511.90"
+    },
+    {
+      "path": "PS2/SCES_511.90/SCES_511.90_BG_04.png",
+      "kind": "background",
+      "bytes": 222572,
+      "width": 640,
+      "height": 480,
+      "sha256": "879e2e4501a1e987a92625879d54d90191db50e6b83b9cd3dfd6ec7d69519efb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_511.90/SCES_511.90_BG_04.png"
+      },
+      "gameId": "SCES_511.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dark Chronicle"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_211.75",
+  "cover": {
+    "path": "PS2/SLUS_211.75/SLUS_211.75_COV.png",
+    "kind": "cover",
+    "bytes": 105167,
+    "width": 192,
+    "height": 272,
+    "sha256": "64f24d7b65d9e692c53c496bffbdf12b2b73843d6034a43b8951ea66a030c6d1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21175.jpg"
+    },
+    "gameId": "SLUS_211.75"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.75/SLUS_211.75_ICO.png",
+    "kind": "disc",
+    "bytes": 35113,
+    "width": 256,
+    "height": 256,
+    "sha256": "3699beebd899d5b0542fb7c927970843bcad99dde128275edc2f73dc26aa4301",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.75_ICO.png"
+    },
+    "gameId": "SLUS_211.75"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.75/SLUS_211.75_BG.png",
+    "kind": "background",
+    "bytes": 72821,
+    "width": 640,
+    "height": 480,
+    "sha256": "7b620de917cd787bba56bfae3e77ddb124806ca7bc6f58d2d256bc311d76d4ff",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.75/SLUS_211.75_BG_00.png"
+    },
+    "gameId": "SLUS_211.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.75/SLUS_211.75_BG.png",
+      "kind": "background",
+      "bytes": 72821,
+      "width": 640,
+      "height": 480,
+      "sha256": "7b620de917cd787bba56bfae3e77ddb124806ca7bc6f58d2d256bc311d76d4ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.75/SLUS_211.75_BG_00.png"
+      },
+      "gameId": "SLUS_211.75"
+    },
+    {
+      "path": "PS2/SLUS_211.75/SLUS_211.75_BG_01.png",
+      "kind": "background",
+      "bytes": 176972,
+      "width": 640,
+      "height": 480,
+      "sha256": "13d2596af32ef4ef6dfcdf3b529f47420e7676d8afcc609fb62935a407c3ff93",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.75/SLUS_211.75_BG_01.png"
+      },
+      "gameId": "SLUS_211.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Bible Game"
+}

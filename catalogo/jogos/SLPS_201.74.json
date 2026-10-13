@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.74",
+  "cover": {
+    "path": "PS2/SLPS_201.74/SLPS_201.74_COV.png",
+    "kind": "cover",
+    "bytes": 102691,
+    "width": 192,
+    "height": 272,
+    "sha256": "888a7f39722234731bc4803796bbd3d3c86c991425238ba3e3202e445e710725",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20174.jpg"
+    },
+    "gameId": "SLPS_201.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Typing Ren'ai Hakusho: Boys Be..."
+}

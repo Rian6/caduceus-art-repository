@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.05",
+  "cover": {
+    "path": "PS2/SLPM_552.05/SLPM_552.05_COV.png",
+    "kind": "cover",
+    "bytes": 108966,
+    "width": 192,
+    "height": 272,
+    "sha256": "599bbf6179d22aaa40f0c3efd5eea4b442c7c0c99292898da5a7e197f6f99b3d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55205.jpg"
+    },
+    "gameId": "SLPM_552.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "S.Y.K SHINSETSU SAIYUUKI [LIMITED EDITION]"
+}

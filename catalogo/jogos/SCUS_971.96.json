@@ -1,0 +1,78 @@
+{
+  "id": "SCUS_971.96",
+  "cover": {
+    "path": "PS2/SCUS_971.96/SCUS_971.96_COV.png",
+    "kind": "cover",
+    "bytes": 59265,
+    "width": 192,
+    "height": 272,
+    "sha256": "ab9504df9e1b8f7df12f300667fbcc3de047ba017166318e5d8be12a554b526c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97196.jpg"
+    },
+    "gameId": "SCUS_971.96"
+  },
+  "disc": {
+    "path": "PS2/SCUS_971.96/SCUS_971.96_ICO.png",
+    "kind": "disc",
+    "bytes": 10710,
+    "width": 128,
+    "height": 128,
+    "sha256": "0522f2c7d9825121ac3cd0bcf8c783e675e114d4fb31b273ad52da165ad63d75",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCUS_971.96_ICO.png"
+    },
+    "gameId": "SCUS_971.96"
+  },
+  "background": {
+    "path": "PS2/SCUS_971.96/SCUS_971.96_BG.png",
+    "kind": "background",
+    "bytes": 173710,
+    "width": 640,
+    "height": 480,
+    "sha256": "a62eab82573e15edcc195fd292101d19a22ba3bfc0ec117097b6208be628c11d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_971.96/SCUS_971.96_BG_00.png"
+    },
+    "gameId": "SCUS_971.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_971.96/SCUS_971.96_BG.png",
+      "kind": "background",
+      "bytes": 173710,
+      "width": 640,
+      "height": 480,
+      "sha256": "a62eab82573e15edcc195fd292101d19a22ba3bfc0ec117097b6208be628c11d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.96/SCUS_971.96_BG_00.png"
+      },
+      "gameId": "SCUS_971.96"
+    },
+    {
+      "path": "PS2/SCUS_971.96/SCUS_971.96_BG_01.png",
+      "kind": "background",
+      "bytes": 200692,
+      "width": 640,
+      "height": 480,
+      "sha256": "d228effea4018f5efe1e1201ec6905a3e3889a48d8deb1f5326c241bd831efa0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.96/SCUS_971.96_BG_01.png"
+      },
+      "gameId": "SCUS_971.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Twisted Metal: Black Online"
+}

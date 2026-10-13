@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.82",
+  "cover": {
+    "path": "PS2/SLPM_625.82/SLPM_625.82_COV.png",
+    "kind": "cover",
+    "bytes": 90109,
+    "width": 192,
+    "height": 272,
+    "sha256": "c4cbb54059c60f7e36be2637a1ce01a06935680db10c02c517ece93e645f77dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62582.jpg"
+    },
+    "gameId": "SLPM_625.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Slotter Up Core 6 - Bakuenda! Kyojin no Hoshi II"
+}

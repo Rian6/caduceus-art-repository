@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_100.13",
+  "cover": {
+    "path": "PS2/SCAJ_100.13/SCAJ_100.13_COV.png",
+    "kind": "cover",
+    "bytes": 118916,
+    "width": 192,
+    "height": 272,
+    "sha256": "ee931578d63691131e495a54a07aecd7e9e4dccf43eec6232a1cd7e960485f05",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-10013.jpg"
+    },
+    "gameId": "SCAJ_100.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin - Tobikkiri! Anime Special"
+}

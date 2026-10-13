@@ -1,0 +1,25 @@
+{
+  "id": "SLES_507.52",
+  "cover": {
+    "path": "PS2/SLES_507.52/SLES_507.52_COV.png",
+    "kind": "cover",
+    "bytes": 84736,
+    "width": 192,
+    "height": 272,
+    "sha256": "42bad12d330284f364b8af877b6d660487ff84af4aaba0d702e1cf834a2363ba",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50752.jpg"
+    },
+    "gameId": "SLES_507.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PRO TENNIS WTA TOUR"
+}

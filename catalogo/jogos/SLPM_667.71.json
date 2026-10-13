@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.71",
+  "cover": {
+    "path": "PS2/SLPM_667.71/SLPM_667.71_COV.png",
+    "kind": "cover",
+    "bytes": 81336,
+    "width": 192,
+    "height": 272,
+    "sha256": "1f7a42cb4cdffb40b0a629db2076df724005982f40e5c4314b18871e8377750c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66771.jpg"
+    },
+    "gameId": "SLPM_667.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DENSHA DE GO! SHINKANSEN - SANYOU SHINKANSEN-HEN [ETERNAL HITS]"
+}

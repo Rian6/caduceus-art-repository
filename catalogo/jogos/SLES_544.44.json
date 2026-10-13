@@ -1,0 +1,64 @@
+{
+  "id": "SLES_544.44",
+  "cover": {
+    "path": "PS2/SLES_544.44/SLES_544.44_COV.png",
+    "kind": "cover",
+    "bytes": 66602,
+    "width": 192,
+    "height": 272,
+    "sha256": "399b0a4c3e97e4d1659a3d2f3022ebf458cd45fc62150ec8c2589099d65d740b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54444.jpg"
+    },
+    "gameId": "SLES_544.44"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_544.44/SLES_544.44_BG.png",
+    "kind": "background",
+    "bytes": 50059,
+    "width": 640,
+    "height": 480,
+    "sha256": "9459c51b1caa50e669618bc077cd55098f9f12317311e6b6efbdf86718be1fe2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.44/SLES_544.44_BG_00.png"
+    },
+    "gameId": "SLES_544.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.44/SLES_544.44_BG.png",
+      "kind": "background",
+      "bytes": 50059,
+      "width": 640,
+      "height": 480,
+      "sha256": "9459c51b1caa50e669618bc077cd55098f9f12317311e6b6efbdf86718be1fe2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.44/SLES_544.44_BG_00.png"
+      },
+      "gameId": "SLES_544.44"
+    },
+    {
+      "path": "PS2/SLES_544.44/SLES_544.44_BG_01.png",
+      "kind": "background",
+      "bytes": 147346,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e099256e9d7e3407788785386896649d03e855a30912a98af186177da5a0e3f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.44/SLES_544.44_BG_01.png"
+      },
+      "gameId": "SLES_544.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Made Man"
+}

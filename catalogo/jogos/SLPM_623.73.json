@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.73",
+  "cover": {
+    "path": "PS2/SLPM_623.73/SLPM_623.73_COV.png",
+    "kind": "cover",
+    "bytes": 79457,
+    "width": 192,
+    "height": 272,
+    "sha256": "0f55040dd6106212b9e5d6ebbaf23887e000b00bad3c24efd5e98d73bc104c67",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62373.jpg"
+    },
+    "gameId": "SLPM_623.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.35 - The Helicopter"
+}

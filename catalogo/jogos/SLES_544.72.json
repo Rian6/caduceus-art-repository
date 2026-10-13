@@ -1,0 +1,39 @@
+{
+  "id": "SLES_544.72",
+  "cover": {
+    "path": "PS2/SLES_544.72/SLES_544.72_COV.png",
+    "kind": "cover",
+    "bytes": 64662,
+    "width": 192,
+    "height": 272,
+    "sha256": "f7abe55be8b0b1e1ae09609ad81409ab66ae20247d778a2c524fa98c28d6f1ee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54472.jpg"
+    },
+    "gameId": "SLES_544.72"
+  },
+  "disc": {
+    "path": "PS2/SLES_544.72/SLES_544.72_ICO.png",
+    "kind": "disc",
+    "bytes": 10951,
+    "width": 128,
+    "height": 128,
+    "sha256": "1663822ce1ef0a08dbfe72a03d4645de5720e134b561fbe5ca0a6d4389d113f7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_544.72_ICO.png"
+    },
+    "gameId": "SLES_544.72"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Home Alone"
+}

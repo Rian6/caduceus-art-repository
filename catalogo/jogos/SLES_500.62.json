@@ -1,0 +1,51 @@
+{
+  "id": "SLES_500.62",
+  "cover": {
+    "path": "PS2/SLES_500.62/SLES_500.62_COV.png",
+    "kind": "cover",
+    "bytes": 98285,
+    "width": 192,
+    "height": 272,
+    "sha256": "469f36d0dd44aa2b6afa59895f8e3298ae994a6d24a6b7f51c20962124ad3906",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50062.jpg"
+    },
+    "gameId": "SLES_500.62"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_500.62/SLES_500.62_BG.png",
+    "kind": "background",
+    "bytes": 209430,
+    "width": 640,
+    "height": 480,
+    "sha256": "7795d7a1bad7e6528d39ea85c3d09cf1671640d67d1a8c8f614d1a4e8c5bf4a3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.62/SLES_500.62_BG_00.png"
+    },
+    "gameId": "SLES_500.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.62/SLES_500.62_BG.png",
+      "kind": "background",
+      "bytes": 209430,
+      "width": 640,
+      "height": 480,
+      "sha256": "7795d7a1bad7e6528d39ea85c3d09cf1671640d67d1a8c8f614d1a4e8c5bf4a3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.62/SLES_500.62_BG_00.png"
+      },
+      "gameId": "SLES_500.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ORPHEN - SCION OF SORCERY"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "SLES_525.31",
+  "cover": {
+    "path": "PS2/SLES_525.31/SLES_525.31_COV.png",
+    "kind": "cover",
+    "bytes": 81690,
+    "width": 192,
+    "height": 272,
+    "sha256": "d8bc223e2bb682b1e6c5e6d47bed12ae9515c4c68394bbb34b0f80ad98f3fba8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52531.jpg"
+    },
+    "gameId": "SLES_525.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.31/SLES_525.31_BG.png",
+    "kind": "background",
+    "bytes": 163819,
+    "width": 640,
+    "height": 480,
+    "sha256": "f7b2eedf59f38438faec61e8375d879c20f60a001cf1d033e595b27aee0ecd70",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.31/SLES_525.31_BG_00.png"
+    },
+    "gameId": "SLES_525.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.31/SLES_525.31_BG.png",
+      "kind": "background",
+      "bytes": 163819,
+      "width": 640,
+      "height": 480,
+      "sha256": "f7b2eedf59f38438faec61e8375d879c20f60a001cf1d033e595b27aee0ecd70",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.31/SLES_525.31_BG_00.png"
+      },
+      "gameId": "SLES_525.31"
+    },
+    {
+      "path": "PS2/SLES_525.31/SLES_525.31_BG_01.png",
+      "kind": "background",
+      "bytes": 206302,
+      "width": 640,
+      "height": 480,
+      "sha256": "6060b08903000b822d328da6519012adae1ac14ba1a83a6a48758162a82df035",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.31/SLES_525.31_BG_01.png"
+      },
+      "gameId": "SLES_525.31"
+    },
+    {
+      "path": "PS2/SLES_525.31/SLES_525.31_BG_02.png",
+      "kind": "background",
+      "bytes": 170079,
+      "width": 640,
+      "height": 480,
+      "sha256": "1a880e939cdbfecbe2ef102b37cb5648337815c24d811c49a7fdb20312a09178",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.31/SLES_525.31_BG_02.png"
+      },
+      "gameId": "SLES_525.31"
+    },
+    {
+      "path": "PS2/SLES_525.31/SLES_525.31_BG_03.png",
+      "kind": "background",
+      "bytes": 188831,
+      "width": 640,
+      "height": 480,
+      "sha256": "5adc69a5884bed01f1f608d036ae8047d11bd73d0a6ec7aae3a9f1f6c7428d1a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.31/SLES_525.31_BG_03.png"
+      },
+      "gameId": "SLES_525.31"
+    },
+    {
+      "path": "PS2/SLES_525.31/SLES_525.31_BG_04.png",
+      "kind": "background",
+      "bytes": 54881,
+      "width": 640,
+      "height": 480,
+      "sha256": "3b261f4706a25092f9f5395133f7e9b8112d8aa92d79a9894e19f89d8ff81124",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.31/SLES_525.31_BG_04.png"
+      },
+      "gameId": "SLES_525.31"
+    },
+    {
+      "path": "PS2/SLES_525.31/SLES_525.31_BG_05.png",
+      "kind": "background",
+      "bytes": 77822,
+      "width": 640,
+      "height": 480,
+      "sha256": "ef8192305e00425ff1852f63fa5f87ad87e32e6409f75eefdaa3c2ea37aa7391",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.31/SLES_525.31_BG_05.png"
+      },
+      "gameId": "SLES_525.31"
+    },
+    {
+      "path": "PS2/SLES_525.31/SLES_525.31_BG_06.png",
+      "kind": "background",
+      "bytes": 55518,
+      "width": 640,
+      "height": 480,
+      "sha256": "9898317893c809615cab0e5be73aa203c6d4e1845f6d1d9dc7f3dd3ca09aeae9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.31/SLES_525.31_BG_06.png"
+      },
+      "gameId": "SLES_525.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Suffering"
+}

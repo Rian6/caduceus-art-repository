@@ -1,0 +1,39 @@
+{
+  "id": "SLKA_250.60",
+  "cover": {
+    "path": "PS2/SLKA_250.60/SLKA_250.60_COV.png",
+    "kind": "cover",
+    "bytes": 44128,
+    "width": 192,
+    "height": 272,
+    "sha256": "3bfb34a497fcccd153653aec82526c07e565a024e8d90bb445bcadb8af8b3aaa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25060.jpg"
+    },
+    "gameId": "SLKA_250.60"
+  },
+  "disc": {
+    "path": "PS2/SLKA_250.60/SLKA_250.60_ICO.png",
+    "kind": "disc",
+    "bytes": 10195,
+    "width": 128,
+    "height": 128,
+    "sha256": "28ce48133d05ebfbbfb7656b49c792629ce3be290664c4c1dc82d2b97761c1d0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLKA_250.60_ICO.png"
+    },
+    "gameId": "SLKA_250.60"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "I.Q. Remix"
+}

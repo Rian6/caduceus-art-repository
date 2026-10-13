@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.16",
+  "cover": {
+    "path": "PS2/SLPM_659.16/SLPM_659.16_COV.png",
+    "kind": "cover",
+    "bytes": 101200,
+    "width": 192,
+    "height": 272,
+    "sha256": "1df229a805ce24c74a000aef26e304d73554f914f458709bad877265a80f0bd2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65916.jpg"
+    },
+    "gameId": "SLPM_659.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE - HACHIYOUSHOU"
+}

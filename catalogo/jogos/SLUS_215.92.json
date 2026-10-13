@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_215.92",
+  "cover": {
+    "path": "PS2/SLUS_215.92/SLUS_215.92_COV.png",
+    "kind": "cover",
+    "bytes": 111248,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf84d1fd726d06e286f53c2197a40e0d8ec021baf831667863d866d63d8566eb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21592.jpg"
+    },
+    "gameId": "SLUS_215.92"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.92/SLUS_215.92_ICO.png",
+    "kind": "disc",
+    "bytes": 33337,
+    "width": 256,
+    "height": 256,
+    "sha256": "79af082ca5dda2d0121f252426b45c5d615fa8610ab0cbaa3b6fb7e6b4af05ce",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.92_ICO.png"
+    },
+    "gameId": "SLUS_215.92"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.92/SLUS_215.92_BG.png",
+    "kind": "background",
+    "bytes": 204474,
+    "width": 640,
+    "height": 480,
+    "sha256": "bf34eb642f967aef87c2eb25fb27d19a05a8f369a015947714e3051f9f24b1a7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.92/SLUS_215.92_BG_00.png"
+    },
+    "gameId": "SLUS_215.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.92/SLUS_215.92_BG.png",
+      "kind": "background",
+      "bytes": 204474,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf34eb642f967aef87c2eb25fb27d19a05a8f369a015947714e3051f9f24b1a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.92/SLUS_215.92_BG_00.png"
+      },
+      "gameId": "SLUS_215.92"
+    },
+    {
+      "path": "PS2/SLUS_215.92/SLUS_215.92_BG_01.png",
+      "kind": "background",
+      "bytes": 186977,
+      "width": 640,
+      "height": 480,
+      "sha256": "666e41b794f328b36c54a4ccac776cb77f68260c5c990f2c2fbc41fffbe09ccd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.92/SLUS_215.92_BG_01.png"
+      },
+      "gameId": "SLUS_215.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Adventures of Darwin"
+}

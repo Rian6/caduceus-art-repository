@@ -1,0 +1,25 @@
+{
+  "id": "SCCS_400.10",
+  "cover": {
+    "path": "PS2/SCCS_400.10/SCCS_400.10_COV.png",
+    "kind": "cover",
+    "bytes": 101429,
+    "width": 192,
+    "height": 272,
+    "sha256": "3274f1b576719f9901016d4b8f2ca9f632282d2f3b7e246c58d7664c217ef5be",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCCS-40010.jpg"
+    },
+    "gameId": "SCCS_400.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Puzzle Bobble 2"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.84",
+  "cover": {
+    "path": "PS2/SLPM_667.84/SLPM_667.84_COV.png",
+    "kind": "cover",
+    "bytes": 115113,
+    "width": 192,
+    "height": 272,
+    "sha256": "6fbf740d6e3bf8d326c4624b07ead6dbd549bd3ed4305028f6f586dd063d860b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66784.jpg"
+    },
+    "gameId": "SLPM_667.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Idol Janshi Suchie-Pai III Remix"
+}

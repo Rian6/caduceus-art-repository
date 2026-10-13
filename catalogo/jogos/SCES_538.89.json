@@ -1,0 +1,90 @@
+{
+  "id": "SCES_538.89",
+  "cover": {
+    "path": "PS2/SCES_538.89/SCES_538.89_COV.png",
+    "kind": "cover",
+    "bytes": 104443,
+    "width": 192,
+    "height": 272,
+    "sha256": "4cc808183a2172fe6ee5331ab4e0d3f217987885ad87d97d2fe40e3a5ee4a499",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53889.jpg"
+    },
+    "gameId": "SCES_538.89"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_538.89/SCES_538.89_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_538.89/SCES_538.89_BG_00.png"
+    },
+    "gameId": "SCES_538.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_538.89/SCES_538.89_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_538.89/SCES_538.89_BG_00.png"
+      },
+      "gameId": "SCES_538.89"
+    },
+    {
+      "path": "PS2/SCES_538.89/SCES_538.89_BG_01.png",
+      "kind": "background",
+      "bytes": 20392,
+      "width": 640,
+      "height": 480,
+      "sha256": "ce32e6f0d18bebe02b78e8f1b268a9a117d2475c0b0c77172a2846de26da3c12",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_538.89/SCES_538.89_BG_01.png"
+      },
+      "gameId": "SCES_538.89"
+    },
+    {
+      "path": "PS2/SCES_538.89/SCES_538.89_BG_02.png",
+      "kind": "background",
+      "bytes": 185012,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf03c3f5b74ccf6b06ba91875ca284c118077fb66df1306f8ca37d1db11e28b9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_538.89/SCES_538.89_BG_02.png"
+      },
+      "gameId": "SCES_538.89"
+    },
+    {
+      "path": "PS2/SCES_538.89/SCES_538.89_BG_03.png",
+      "kind": "background",
+      "bytes": 75870,
+      "width": 640,
+      "height": 480,
+      "sha256": "805ec9d93c0b122db295932a03ad567537c7bd094e997817e229a3cb3422d88c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_538.89/SCES_538.89_BG_03.png"
+      },
+      "gameId": "SCES_538.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Rocks! (With Microphones)"
+}

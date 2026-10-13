@@ -1,0 +1,39 @@
+{
+  "id": "SLES_534.85",
+  "cover": {
+    "path": "PS2/SLES_534.85/SLES_534.85_COV.png",
+    "kind": "cover",
+    "bytes": 91660,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f7c6568e3434c44798757120edbace61f5032b28b75bc214371cdbef0d54036",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53485.jpg"
+    },
+    "gameId": "SLES_534.85"
+  },
+  "disc": {
+    "path": "PS2/SLES_534.85/SLES_534.85_ICO.png",
+    "kind": "disc",
+    "bytes": 10465,
+    "width": 128,
+    "height": 128,
+    "sha256": "d9339ce1245b720fe93add440a62b31dccc8e6c1d802401a0d8466524bc0616b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_534.85_ICO.png"
+    },
+    "gameId": "SLES_534.85"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Car Racing Challenge"
+}

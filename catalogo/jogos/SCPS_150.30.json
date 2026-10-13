@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.30",
+  "cover": {
+    "path": "PS2/SCPS_150.30/SCPS_150.30_COV.png",
+    "kind": "cover",
+    "bytes": 102499,
+    "width": 192,
+    "height": 272,
+    "sha256": "7b7c9d1d0e82ca6742a8971f3879a47774786febdfa622fb4c4f58b5b3befe8a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15030.jpg"
+    },
+    "gameId": "SCPS_150.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Futari no Fantavision"
+}

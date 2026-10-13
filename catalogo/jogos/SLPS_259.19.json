@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.19",
+  "cover": {
+    "path": "PS2/SLPS_259.19/SLPS_259.19_COV.png",
+    "kind": "cover",
+    "bytes": 113624,
+    "width": 192,
+    "height": 272,
+    "sha256": "6c63d227af4734ae85411c11b43f9997b02ca179430f59b13914b4def6514e4f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25919.jpg"
+    },
+    "gameId": "SLPS_259.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Tenka Touitsu"
+}

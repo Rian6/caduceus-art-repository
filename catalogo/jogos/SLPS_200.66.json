@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_200.66",
+  "cover": {
+    "path": "PS2/SLPS_200.66/SLPS_200.66_COV.png",
+    "kind": "cover",
+    "bytes": 77275,
+    "width": 192,
+    "height": 272,
+    "sha256": "a214e139eb4ed964543634eba27a04c001a468c1c1681ba0444ec30f7291a8de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20066.jpg"
+    },
+    "gameId": "SLPS_200.66"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_200.66/SLPS_200.66_BG.png",
+    "kind": "background",
+    "bytes": 146064,
+    "width": 640,
+    "height": 480,
+    "sha256": "aa90c38569ef4e6e9d01cb3097f1011c75efe7b38620d4f38e7da54f1d2f9df5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_200.66/SLPS_200.66_BG_00.png"
+    },
+    "gameId": "SLPS_200.66"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_200.66/SLPS_200.66_BG.png",
+      "kind": "background",
+      "bytes": 146064,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa90c38569ef4e6e9d01cb3097f1011c75efe7b38620d4f38e7da54f1d2f9df5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_200.66/SLPS_200.66_BG_00.png"
+      },
+      "gameId": "SLPS_200.66"
+    },
+    {
+      "path": "PS2/SLPS_200.66/SLPS_200.66_BG_01.png",
+      "kind": "background",
+      "bytes": 173589,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3d4a08581cb6a7ffea569bd429cb1563119c6b970db8ffb2fdd863fc682a5e0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_200.66/SLPS_200.66_BG_01.png"
+      },
+      "gameId": "SLPS_200.66"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENSHI NO PRESENT - MARLE OUKOKU MONOGATARI"
+}

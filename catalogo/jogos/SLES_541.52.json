@@ -1,0 +1,51 @@
+{
+  "id": "SLES_541.52",
+  "cover": {
+    "path": "PS2/SLES_541.52/SLES_541.52_COV.png",
+    "kind": "cover",
+    "bytes": 100174,
+    "width": 192,
+    "height": 272,
+    "sha256": "47f7c5d227c05bc4e4f7be377640a6011fb4aa1ee476968312d7d834eca7265b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54152.jpg"
+    },
+    "gameId": "SLES_541.52"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.52/SLES_541.52_BG.png",
+    "kind": "background",
+    "bytes": 175012,
+    "width": 640,
+    "height": 480,
+    "sha256": "1639d30b5d60b59d71d072a0856dbad598288a937476faa0595909a5c9b509fa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.52/SLES_541.52_BG_00.png"
+    },
+    "gameId": "SLES_541.52"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.52/SLES_541.52_BG.png",
+      "kind": "background",
+      "bytes": 175012,
+      "width": 640,
+      "height": 480,
+      "sha256": "1639d30b5d60b59d71d072a0856dbad598288a937476faa0595909a5c9b509fa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.52/SLES_541.52_BG_00.png"
+      },
+      "gameId": "SLES_541.52"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE ANT BULLY"
+}

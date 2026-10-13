@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_001.07",
+  "cover": {
+    "path": "PS2/KOEI_001.07/KOEI_001.07_COV.png",
+    "kind": "cover",
+    "bytes": 62570,
+    "width": 192,
+    "height": 272,
+    "sha256": "2e8bb7817c8cb561c710517a949a58838243152fd41974261a47d4b162f97664",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_001.07/KOEI_001.07_COV.png"
+    },
+    "gameId": "KOEI_001.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Neoromance Box: Angelique Selection"
+}

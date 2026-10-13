@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_623.91",
+  "cover": {
+    "path": "PS2/SLPM_623.91/SLPM_623.91_COV.png",
+    "kind": "cover",
+    "bytes": 110479,
+    "width": 192,
+    "height": 272,
+    "sha256": "9a8d46f38886cce98f54ee4ab04aa9cfb3df178dc72ee266c8d5b6e2159f41fc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62391.jpg"
+    },
+    "gameId": "SLPM_623.91"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_623.91/SLPM_623.91_BG.png",
+    "kind": "background",
+    "bytes": 126260,
+    "width": 640,
+    "height": 480,
+    "sha256": "c829f5a708e465deae091d1e7e3ff3fea5f271778568b2b4b77ad3725a0c0e3d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_623.91/SLPM_623.91_BG_00.png"
+    },
+    "gameId": "SLPM_623.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_623.91/SLPM_623.91_BG.png",
+      "kind": "background",
+      "bytes": 126260,
+      "width": 640,
+      "height": 480,
+      "sha256": "c829f5a708e465deae091d1e7e3ff3fea5f271778568b2b4b77ad3725a0c0e3d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_623.91/SLPM_623.91_BG_00.png"
+      },
+      "gameId": "SLPM_623.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ichigeki Sacchuu!! HoiHoi-San"
+}

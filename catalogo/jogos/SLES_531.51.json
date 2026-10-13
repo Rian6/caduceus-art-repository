@@ -1,0 +1,25 @@
+{
+  "id": "SLES_531.51",
+  "cover": {
+    "path": "PS2/SLES_531.51/SLES_531.51_COV.png",
+    "kind": "cover",
+    "bytes": 94165,
+    "width": 192,
+    "height": 272,
+    "sha256": "36ca50b65e12f6b6b20a6dcc9014a8d4559a244de9e05c12c40e617de82389b3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53151.jpg"
+    },
+    "gameId": "SLES_531.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JUICED"
+}

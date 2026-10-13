@@ -1,0 +1,25 @@
+{
+  "id": "SLES_502.13",
+  "cover": {
+    "path": "PS2/SLES_502.13/SLES_502.13_COV.png",
+    "kind": "cover",
+    "bytes": 97845,
+    "width": 192,
+    "height": 272,
+    "sha256": "1529c312367f644909d7f49ba1a40b1fea16cd84bf2442806720d3a766a1cd80",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50213.jpg"
+    },
+    "gameId": "SLES_502.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NFL Quarterback Club 2002"
+}

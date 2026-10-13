@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_203.94",
+  "cover": {
+    "path": "PS2/SLUS_203.94/SLUS_203.94_COV.png",
+    "kind": "cover",
+    "bytes": 98554,
+    "width": 192,
+    "height": 272,
+    "sha256": "d6be15f400d00e9282cc77ee859ee71ff74f921f563dbfb9c4edf60d2a700700",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20394.jpg"
+    },
+    "gameId": "SLUS_203.94"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.94/SLUS_203.94_ICO.png",
+    "kind": "disc",
+    "bytes": 33442,
+    "width": 256,
+    "height": 256,
+    "sha256": "0d58ec78633d329593d21d0ff4c2939b887b89b6611454d104ae79f751c5100e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.94_ICO.png"
+    },
+    "gameId": "SLUS_203.94"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.94/SLUS_203.94_BG.png",
+    "kind": "background",
+    "bytes": 279178,
+    "width": 640,
+    "height": 480,
+    "sha256": "8b52a101982f20bd4cc396d37f7964ac7bd60118967237a105c55e0b57394aec",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.94/SLUS_203.94_BG_00.png"
+    },
+    "gameId": "SLUS_203.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.94/SLUS_203.94_BG.png",
+      "kind": "background",
+      "bytes": 279178,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b52a101982f20bd4cc396d37f7964ac7bd60118967237a105c55e0b57394aec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.94/SLUS_203.94_BG_00.png"
+      },
+      "gameId": "SLUS_203.94"
+    },
+    {
+      "path": "PS2/SLUS_203.94/SLUS_203.94_BG_01.png",
+      "kind": "background",
+      "bytes": 197515,
+      "width": 640,
+      "height": 480,
+      "sha256": "75c4b5a959e30e860b9ce957a757526ec828aa5a8360b78d77888f799d93af68",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.94/SLUS_203.94_BG_01.png"
+      },
+      "gameId": "SLUS_203.94"
+    },
+    {
+      "path": "PS2/SLUS_203.94/SLUS_203.94_BG_02.png",
+      "kind": "background",
+      "bytes": 167784,
+      "width": 640,
+      "height": 480,
+      "sha256": "3691580988e9166cf02ae12c368262244c64f94c05b37ecca80368e9515bc264",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.94/SLUS_203.94_BG_02.png"
+      },
+      "gameId": "SLUS_203.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ecco the Dolphin: Defender of the Future"
+}

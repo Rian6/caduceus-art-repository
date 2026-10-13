@@ -1,0 +1,25 @@
+{
+  "id": "SLES_529.73",
+  "cover": {
+    "path": "PS2/SLES_529.73/SLES_529.73_COV.png",
+    "kind": "cover",
+    "bytes": 95059,
+    "width": 192,
+    "height": 272,
+    "sha256": "b4b5093c5f9ba6e0f9f7a5b0d2d029f157a9c2a1714b489d62f672ab76cfa52f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52973.jpg"
+    },
+    "gameId": "SLES_529.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SKI RACING 2005"
+}

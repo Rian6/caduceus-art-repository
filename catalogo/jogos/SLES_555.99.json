@@ -1,0 +1,25 @@
+{
+  "id": "SLES_555.99",
+  "cover": {
+    "path": "PS2/SLES_555.99/SLES_555.99_COV.png",
+    "kind": "cover",
+    "bytes": 100198,
+    "width": 192,
+    "height": 272,
+    "sha256": "1e128fbae545e8b31d4dd1db1c1344e46c6385e96c2c5beb18624073c4af47f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55599.jpg"
+    },
+    "gameId": "SLES_555.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Galileo Mystery - Die Krone des Midas"
+}

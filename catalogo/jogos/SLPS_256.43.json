@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_256.43",
+  "cover": {
+    "path": "PS2/SLPS_256.43/SLPS_256.43_COV.png",
+    "kind": "cover",
+    "bytes": 76622,
+    "width": 192,
+    "height": 272,
+    "sha256": "9f853cb2f8587ee739b08e43cb5e8c03fc1f770042d0ae416f2fac3beedda3e0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25643.jpg"
+    },
+    "gameId": "SLPS_256.43"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.43/SLPS_256.43_BG.png",
+    "kind": "background",
+    "bytes": 118554,
+    "width": 640,
+    "height": 480,
+    "sha256": "f75f0260734cd7d19587c0650fb05272b7a027b9029847a78706aace66d59cc5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.43/SLPS_256.43_BG_00.png"
+    },
+    "gameId": "SLPS_256.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.43/SLPS_256.43_BG.png",
+      "kind": "background",
+      "bytes": 118554,
+      "width": 640,
+      "height": 480,
+      "sha256": "f75f0260734cd7d19587c0650fb05272b7a027b9029847a78706aace66d59cc5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.43/SLPS_256.43_BG_00.png"
+      },
+      "gameId": "SLPS_256.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KimiKiss"
+}

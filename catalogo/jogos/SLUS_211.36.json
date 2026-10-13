@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_211.36",
+  "cover": {
+    "path": "PS2/SLUS_211.36/SLUS_211.36_COV.png",
+    "kind": "cover",
+    "bytes": 107283,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d7aebd7e4cc366797efc04897ba8b46a79aedfa5e1aeae0006994c7d8478736",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21136.jpg"
+    },
+    "gameId": "SLUS_211.36"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.36/SLUS_211.36_ICO.png",
+    "kind": "disc",
+    "bytes": 30325,
+    "width": 256,
+    "height": 256,
+    "sha256": "52e90ef3e67d7b0c63e0e03dd950a1e4604671469a3000b6018e2761898a35b9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.36_ICO.png"
+    },
+    "gameId": "SLUS_211.36"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.36/SLUS_211.36_BG.png",
+    "kind": "background",
+    "bytes": 244016,
+    "width": 640,
+    "height": 480,
+    "sha256": "bfab7f2ebd7168d940aa504aff1d5d4374786c5ff3618d0fe0c59e155c8bda4a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.36/SLUS_211.36_BG_00.png"
+    },
+    "gameId": "SLUS_211.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.36/SLUS_211.36_BG.png",
+      "kind": "background",
+      "bytes": 244016,
+      "width": 640,
+      "height": 480,
+      "sha256": "bfab7f2ebd7168d940aa504aff1d5d4374786c5ff3618d0fe0c59e155c8bda4a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.36/SLUS_211.36_BG_00.png"
+      },
+      "gameId": "SLUS_211.36"
+    },
+    {
+      "path": "PS2/SLUS_211.36/SLUS_211.36_BG_01.png",
+      "kind": "background",
+      "bytes": 148187,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2b3ae74d731f5b21740ea319c69deeacbca25bfd43a96af346459b410106609",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.36/SLUS_211.36_BG_01.png"
+      },
+      "gameId": "SLUS_211.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRAFFITI KINGDOM"
+}

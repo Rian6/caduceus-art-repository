@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.67",
+  "cover": {
+    "path": "PS2/SLPS_250.67/SLPS_250.67_COV.png",
+    "kind": "cover",
+    "bytes": 72266,
+    "width": 192,
+    "height": 272,
+    "sha256": "226746ec0f2c60f43ee801e806fa4449d924b27d9b20391cbc594e71c0f5049f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25067.jpg"
+    },
+    "gameId": "SLPS_250.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TVware Jouhou Kakumei Series: Pro Atlas for TV: Zenkokuban"
+}

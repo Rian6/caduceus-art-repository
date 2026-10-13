@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.67",
+  "cover": {
+    "path": "PS2/SLKA_251.67/SLKA_251.67_COV.png",
+    "kind": "cover",
+    "bytes": 94217,
+    "width": 192,
+    "height": 272,
+    "sha256": "300324a5da13d252c0c7b044176c5a60fa046f381ed0851eb9273dc97f9f6e4d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25167.jpg"
+    },
+    "gameId": "SLKA_251.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters XI"
+}

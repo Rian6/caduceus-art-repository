@@ -1,0 +1,51 @@
+{
+  "id": "SLES_518.93",
+  "cover": {
+    "path": "PS2/SLES_518.93/SLES_518.93_COV.png",
+    "kind": "cover",
+    "bytes": 96708,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf3a328441c1188c5be49f26379c08b0ae7f5b4806074592a06aa7aeaac6419d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51893.jpg"
+    },
+    "gameId": "SLES_518.93"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_518.93/SLES_518.93_BG.png",
+    "kind": "background",
+    "bytes": 223914,
+    "width": 640,
+    "height": 480,
+    "sha256": "d117c7f8e0a62c7e99872f942e2a918b0db473d0ba83dcf61f441276e0242137",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.93/SLES_518.93_BG_00.png"
+    },
+    "gameId": "SLES_518.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.93/SLES_518.93_BG.png",
+      "kind": "background",
+      "bytes": 223914,
+      "width": 640,
+      "height": 480,
+      "sha256": "d117c7f8e0a62c7e99872f942e2a918b0db473d0ba83dcf61f441276e0242137",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.93/SLES_518.93_BG_00.png"
+      },
+      "gameId": "SLES_518.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Naval Ops - Warship Gunner"
+}

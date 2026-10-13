@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_203.93",
+  "cover": {
+    "path": "PS2/SLUS_203.93/SLUS_203.93_COV.png",
+    "kind": "cover",
+    "bytes": 105060,
+    "width": 192,
+    "height": 272,
+    "sha256": "f102d2916b957acd62941b60a02c8d6913c1bf4981895e0c2adb172166cd9ef9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20393.jpg"
+    },
+    "gameId": "SLUS_203.93"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.93/SLUS_203.93_ICO.png",
+    "kind": "disc",
+    "bytes": 34006,
+    "width": 256,
+    "height": 256,
+    "sha256": "df007e46e8f619a64a1faeecc01fe0ff284fce637401627d3e91bbd6ba1ebec7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.93_ICO.png"
+    },
+    "gameId": "SLUS_203.93"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.93/SLUS_203.93_BG.png",
+    "kind": "background",
+    "bytes": 59003,
+    "width": 640,
+    "height": 480,
+    "sha256": "a947acfba7bcd596f882e56aa9c75ab3bcc057ab845be058e846e0e7042ba856",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.93/SLUS_203.93_BG_00.png"
+    },
+    "gameId": "SLUS_203.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.93/SLUS_203.93_BG.png",
+      "kind": "background",
+      "bytes": 59003,
+      "width": 640,
+      "height": 480,
+      "sha256": "a947acfba7bcd596f882e56aa9c75ab3bcc057ab845be058e846e0e7042ba856",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.93/SLUS_203.93_BG_00.png"
+      },
+      "gameId": "SLUS_203.93"
+    },
+    {
+      "path": "PS2/SLUS_203.93/SLUS_203.93_BG_01.png",
+      "kind": "background",
+      "bytes": 199118,
+      "width": 640,
+      "height": 480,
+      "sha256": "e774cfafe33a3d723eb8d56d3cdc9480942cb6a5100c409d8bf6f644c97dfe3f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.93/SLUS_203.93_BG_01.png"
+      },
+      "gameId": "SLUS_203.93"
+    },
+    {
+      "path": "PS2/SLUS_203.93/SLUS_203.93_BG_02.png",
+      "kind": "background",
+      "bytes": 96543,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb840e107cc8ca8a6ba7c13a8bb805cdf824455a5fa259d24dc2a203f16771c2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.93/SLUS_203.93_BG_02.png"
+      },
+      "gameId": "SLUS_203.93"
+    },
+    {
+      "path": "PS2/SLUS_203.93/SLUS_203.93_BG_03.png",
+      "kind": "background",
+      "bytes": 116519,
+      "width": 640,
+      "height": 480,
+      "sha256": "83d162854531f225a979a303eca4c14694b7ccb07f3c5c3c02fc2246f70e9d6f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.93/SLUS_203.93_BG_03.png"
+      },
+      "gameId": "SLUS_203.93"
+    },
+    {
+      "path": "PS2/SLUS_203.93/SLUS_203.93_BG_04.png",
+      "kind": "background",
+      "bytes": 67425,
+      "width": 640,
+      "height": 480,
+      "sha256": "0e29143e07b228d180374d202cf5e6513053ec678a6e5229aa26b959fdc9486c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.93/SLUS_203.93_BG_04.png"
+      },
+      "gameId": "SLUS_203.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONIMUSHA 2 - SAMURAI'S DESTINY"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.27",
+  "cover": {
+    "path": "PS2/SLPM_652.27/SLPM_652.27_COV.png",
+    "kind": "cover",
+    "bytes": 103161,
+    "width": 192,
+    "height": 272,
+    "sha256": "f94bd1a52bb9702b29bf711c703f9f588e48d85186ca24d4dd2ced47fc06d66c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65227.jpg"
+    },
+    "gameId": "SLPM_652.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "J-League Pro Soccer Club o Tsukurou! 3"
+}

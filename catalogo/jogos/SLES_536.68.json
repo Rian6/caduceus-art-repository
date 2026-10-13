@@ -1,0 +1,64 @@
+{
+  "id": "SLES_536.68",
+  "cover": {
+    "path": "PS2/SLES_536.68/SLES_536.68_COV.png",
+    "kind": "cover",
+    "bytes": 109026,
+    "width": 192,
+    "height": 272,
+    "sha256": "22a1bdfe31472a8c1864964548e7b6389e43c768c2a9b236851f259469a278b4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53668.jpg"
+    },
+    "gameId": "SLES_536.68"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_536.68/SLES_536.68_BG.png",
+    "kind": "background",
+    "bytes": 201204,
+    "width": 640,
+    "height": 480,
+    "sha256": "0be0a96b572e558476a7d7df775b09c120847905e993f099339a546434abfdc5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.68/SLES_536.68_BG_00.png"
+    },
+    "gameId": "SLES_536.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_536.68/SLES_536.68_BG.png",
+      "kind": "background",
+      "bytes": 201204,
+      "width": 640,
+      "height": 480,
+      "sha256": "0be0a96b572e558476a7d7df775b09c120847905e993f099339a546434abfdc5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.68/SLES_536.68_BG_00.png"
+      },
+      "gameId": "SLES_536.68"
+    },
+    {
+      "path": "PS2/SLES_536.68/SLES_536.68_BG_01.png",
+      "kind": "background",
+      "bytes": 191132,
+      "width": 640,
+      "height": 480,
+      "sha256": "84c71e53c96ce2f441c12dd5e4b165b8185645fc0356fdbecff87beb9bc47773",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.68/SLES_536.68_BG_01.png"
+      },
+      "gameId": "SLES_536.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MICRO MACHINES V4"
+}

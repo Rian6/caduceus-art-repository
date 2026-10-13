@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_510.05",
+  "cover": {
+    "path": "PS2/SCPS_510.05/SCPS_510.05_COV.png",
+    "kind": "cover",
+    "bytes": 68786,
+    "width": 192,
+    "height": 272,
+    "sha256": "3b52d1224efb4e1857f844fbaf8cf9c68d4f1e229e3d897b64a772bd4d19011a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-51005.jpg"
+    },
+    "gameId": "SCPS_510.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAMURAI"
+}

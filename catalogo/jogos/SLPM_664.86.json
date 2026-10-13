@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.86",
+  "cover": {
+    "path": "PS2/SLPM_664.86/SLPM_664.86_COV.png",
+    "kind": "cover",
+    "bytes": 82427,
+    "width": 192,
+    "height": 272,
+    "sha256": "765926ced5abb06bedf3e9ff1a322965a002f5e2bb5c8e79905b58b69823d785",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66486.jpg"
+    },
+    "gameId": "SLPM_664.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENTAMA - 1ST SUNNY SIDE [2800 COLLECTION]"
+}

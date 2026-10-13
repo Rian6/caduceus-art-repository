@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.58",
+  "cover": {
+    "path": "PS2/SLPM_622.58/SLPM_622.58_COV.png",
+    "kind": "cover",
+    "bytes": 79204,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0b8c91cb0d3ed1288fd9ef456d99fe28a98780c88179ab287e77ca15dd6dd8a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62258.jpg"
+    },
+    "gameId": "SLPM_622.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GLOBAL TOURING CHALLENGE - GTC AFRICA"
+}

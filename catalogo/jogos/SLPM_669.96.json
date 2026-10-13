@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.96",
+  "cover": {
+    "path": "PS2/SLPM_669.96/SLPM_669.96_COV.png",
+    "kind": "cover",
+    "bytes": 111551,
+    "width": 192,
+    "height": 272,
+    "sha256": "4263b6af0d950717701fd710bdaff110f1ab13f6746260b124a4ca11de6e4bfb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66996.jpg"
+    },
+    "gameId": "SLPM_669.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHUUMATSU SHOUJO GENSOU ALICEMATIC APOCALYPSE [LIMITED EDITION]"
+}

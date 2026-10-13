@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.75",
+  "cover": {
+    "path": "PS2/SLPM_665.75/SLPM_665.75_COV.png",
+    "kind": "cover",
+    "bytes": 109463,
+    "width": 192,
+    "height": 272,
+    "sha256": "2930f21c92cdd8a65faa22f1e61831bdf5ea0c4cc5e4f1a1e60cf50108b24493",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66575.jpg"
+    },
+    "gameId": "SLPM_665.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guitar Freaks V-2 & Drummania V-2"
+}

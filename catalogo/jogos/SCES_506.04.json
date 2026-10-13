@@ -1,0 +1,25 @@
+{
+  "id": "SCES_506.04",
+  "cover": {
+    "path": "PS2/SCES_506.04/SCES_506.04_COV.png",
+    "kind": "cover",
+    "bytes": 75946,
+    "width": 192,
+    "height": 272,
+    "sha256": "1773464a4c421837de761f4ed9bd231165a062115d6e27ee26d4817b5647e469",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50604.jpg"
+    },
+    "gameId": "SCES_506.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S PIXAR - MONSTER INC. - SKRÄMMARÖN"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.84",
+  "cover": {
+    "path": "PS2/SLPS_202.84/SLPS_202.84_COV.png",
+    "kind": "cover",
+    "bytes": 101550,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc554587f6083630cd529a622c3bfb4b0de1da25b1c2161a896295346e39ec28",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20284.jpg"
+    },
+    "gameId": "SLPS_202.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MARL DE JIGSAW [NIPPON ICHI THE BEST]"
+}

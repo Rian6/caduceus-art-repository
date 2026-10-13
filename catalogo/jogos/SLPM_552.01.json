@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.01",
+  "cover": {
+    "path": "PS2/SLPM_552.01/SLPM_552.01_COV.png",
+    "kind": "cover",
+    "bytes": 103886,
+    "width": 192,
+    "height": 272,
+    "sha256": "9b96e3a2fd0c33898052fa365ec2ddb1df34bc363cd5243bb350babce8a02a3f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55201.jpg"
+    },
+    "gameId": "SLPM_552.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHIROGANE NO SOLEIL - CONTRACT TO THE FUTURE - MIRAI E NO KEIYAKU [RUSSEL GAMES BEST]"
+}

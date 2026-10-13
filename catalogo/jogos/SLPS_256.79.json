@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.79",
+  "cover": {
+    "path": "PS2/SLPS_256.79/SLPS_256.79_COV.png",
+    "kind": "cover",
+    "bytes": 107713,
+    "width": 192,
+    "height": 272,
+    "sha256": "21a22c3ea0decc22544e14685dc3ae7dfd89f029ddf3d6c2f96e87eac9d26c58",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25679.jpg"
+    },
+    "gameId": "SLPS_256.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "UTAWARERUMONO - CHIRIYUKUSHA E NO KOMORIUTA"
+}

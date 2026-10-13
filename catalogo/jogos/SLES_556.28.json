@@ -1,0 +1,25 @@
+{
+  "id": "SLES_556.28",
+  "cover": {
+    "path": "PS2/SLES_556.28/SLES_556.28_COV.png",
+    "kind": "cover",
+    "bytes": 99858,
+    "width": 192,
+    "height": 272,
+    "sha256": "7fe840a47159df066f84901f34bfd1c017776a89ca146376c2631771b63a1639",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55628.jpg"
+    },
+    "gameId": "SLES_556.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Sing It - Party Hits"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_662.89",
+  "cover": {
+    "path": "PS2/SLPM_662.89/SLPM_662.89_COV.png",
+    "kind": "cover",
+    "bytes": 93189,
+    "width": 192,
+    "height": 272,
+    "sha256": "77ff51b86543f9393fb6de979cfb603cdc9c1c4fd76e01f1a1bc25d9d45b0d94",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66289.jpg"
+    },
+    "gameId": "SLPM_662.89"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_662.89/SLPM_662.89_BG.png",
+    "kind": "background",
+    "bytes": 177960,
+    "width": 640,
+    "height": 480,
+    "sha256": "237cf889a212aeab69c2ba724ccb516bcee654274b362f53f45e76358841aae7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_662.89/SLPM_662.89_BG_00.png"
+    },
+    "gameId": "SLPM_662.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_662.89/SLPM_662.89_BG.png",
+      "kind": "background",
+      "bytes": 177960,
+      "width": 640,
+      "height": 480,
+      "sha256": "237cf889a212aeab69c2ba724ccb516bcee654274b362f53f45e76358841aae7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.89/SLPM_662.89_BG_00.png"
+      },
+      "gameId": "SLPM_662.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Black Cat - Kikai Shikake no Tenshi"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_543.93",
+  "cover": {
+    "path": "PS2/SLES_543.93/SLES_543.93_COV.png",
+    "kind": "cover",
+    "bytes": 91325,
+    "width": 192,
+    "height": 272,
+    "sha256": "248b73689731bedc518e6320a12958f0d63b14d31aa35cd04732cc601eeda6a7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54393.jpg"
+    },
+    "gameId": "SLES_543.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pippa Funnell - Take the Reins"
+}

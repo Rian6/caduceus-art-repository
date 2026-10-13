@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.74",
+  "cover": {
+    "path": "PS2/SLPS_258.74/SLPS_258.74_COV.png",
+    "kind": "cover",
+    "bytes": 109739,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a65943df6902ad56a858d7aea9435f78cbe38c47f4f5ac4535d5ff6996794a2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25874.jpg"
+    },
+    "gameId": "SLPS_258.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.123 - REIJOU TANTEI OFFICE LOVE JIKEN"
+}

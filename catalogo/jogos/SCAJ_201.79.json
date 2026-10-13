@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.79",
+  "cover": {
+    "path": "PS2/SCAJ_201.79/SCAJ_201.79_COV.png",
+    "kind": "cover",
+    "bytes": 92893,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e387540914bb1203a84a7622a8f17759ac189d4c4709805429eefc18363e5c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20179.jpg"
+    },
+    "gameId": "SCAJ_201.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Xenosaga Episode III - Also Sprach Zarathustra [2 DISCS]"
+}

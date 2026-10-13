@@ -1,0 +1,142 @@
+{
+  "id": "SLES_520.55",
+  "cover": {
+    "path": "PS2/SLES_520.55/SLES_520.55_COV.png",
+    "kind": "cover",
+    "bytes": 99843,
+    "width": 192,
+    "height": 272,
+    "sha256": "9a87af3915fb31ba8ad47ee3f1e9ff649a4a142696713ffcdcb404807939c24b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52055.jpg"
+    },
+    "gameId": "SLES_520.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_520.55/SLES_520.55_BG.png",
+    "kind": "background",
+    "bytes": 162186,
+    "width": 640,
+    "height": 480,
+    "sha256": "034b239037b7b817d5ef9dd60ca4be4d47660f16cdad56d0d9f1c7f439f9e70c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_520.55/SLES_520.55_BG_00.png"
+    },
+    "gameId": "SLES_520.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_520.55/SLES_520.55_BG.png",
+      "kind": "background",
+      "bytes": 162186,
+      "width": 640,
+      "height": 480,
+      "sha256": "034b239037b7b817d5ef9dd60ca4be4d47660f16cdad56d0d9f1c7f439f9e70c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.55/SLES_520.55_BG_00.png"
+      },
+      "gameId": "SLES_520.55"
+    },
+    {
+      "path": "PS2/SLES_520.55/SLES_520.55_BG_01.png",
+      "kind": "background",
+      "bytes": 106510,
+      "width": 640,
+      "height": 480,
+      "sha256": "845316f57a0a6530250a900e7106f795eccdceb57b165dd147de083486485f64",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.55/SLES_520.55_BG_01.png"
+      },
+      "gameId": "SLES_520.55"
+    },
+    {
+      "path": "PS2/SLES_520.55/SLES_520.55_BG_02.png",
+      "kind": "background",
+      "bytes": 185039,
+      "width": 640,
+      "height": 480,
+      "sha256": "03c79e62b6a6b5551cf20ac213374f662ec989e771d959f3a1d111bcbf1759f3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.55/SLES_520.55_BG_02.png"
+      },
+      "gameId": "SLES_520.55"
+    },
+    {
+      "path": "PS2/SLES_520.55/SLES_520.55_BG_03.png",
+      "kind": "background",
+      "bytes": 164424,
+      "width": 640,
+      "height": 480,
+      "sha256": "57f1e6d151ed0f3c5bfd3b02f99dfeb7a696fe87d84c357d4600d520d9f748d3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.55/SLES_520.55_BG_03.png"
+      },
+      "gameId": "SLES_520.55"
+    },
+    {
+      "path": "PS2/SLES_520.55/SLES_520.55_BG_04.png",
+      "kind": "background",
+      "bytes": 161298,
+      "width": 640,
+      "height": 480,
+      "sha256": "834bab67f2480395af6c08ee25a44ef872f03aeaa504a63128fa63d9bce75992",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.55/SLES_520.55_BG_04.png"
+      },
+      "gameId": "SLES_520.55"
+    },
+    {
+      "path": "PS2/SLES_520.55/SLES_520.55_BG_05.png",
+      "kind": "background",
+      "bytes": 232505,
+      "width": 640,
+      "height": 480,
+      "sha256": "f0355faabc5c32da5313744a5e69cb6cc49cf2a06a168f80dc4ff08dd94808df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.55/SLES_520.55_BG_05.png"
+      },
+      "gameId": "SLES_520.55"
+    },
+    {
+      "path": "PS2/SLES_520.55/SLES_520.55_BG_06.png",
+      "kind": "background",
+      "bytes": 197853,
+      "width": 640,
+      "height": 480,
+      "sha256": "6f17aac906b83cc14b91bb04060d4584ce66192fadb24f5a6ec15e92cdc14e1e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.55/SLES_520.55_BG_06.png"
+      },
+      "gameId": "SLES_520.55"
+    },
+    {
+      "path": "PS2/SLES_520.55/SLES_520.55_BG_07.png",
+      "kind": "background",
+      "bytes": 172067,
+      "width": 640,
+      "height": 480,
+      "sha256": "4fa0efe024a69642a6e81c151220a97a9d3212fa18bc5be011d8d8e6ea297890",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.55/SLES_520.55_BG_07.png"
+      },
+      "gameId": "SLES_520.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harry Potter And The Philosopher's Stone"
+}

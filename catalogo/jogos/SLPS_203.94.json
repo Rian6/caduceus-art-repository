@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.94",
+  "cover": {
+    "path": "PS2/SLPS_203.94/SLPS_203.94_COV.png",
+    "kind": "cover",
+    "bytes": 103509,
+    "width": 192,
+    "height": 272,
+    "sha256": "446db66f833d680a83c5df2ff0dc9aff1c354ea8ec37bf7413d3e245cd266afa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20394.jpg"
+    },
+    "gameId": "SLPS_203.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUKI NAMONO WA SUKI DAKARASHOU GANAI!! RAIN - SUKISYO EPISODE #3"
+}

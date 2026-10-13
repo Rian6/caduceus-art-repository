@@ -1,0 +1,25 @@
+{
+  "id": "SLES_546.56",
+  "cover": {
+    "path": "PS2/SLES_546.56/SLES_546.56_COV.png",
+    "kind": "cover",
+    "bytes": 95872,
+    "width": 192,
+    "height": 272,
+    "sha256": "4493f48894970a14d3ea2989da5f8a72c9ac174b64a246f0f298c7af5d90e442",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54656.jpg"
+    },
+    "gameId": "SLES_546.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bob The Builder (Bundle With Eyetoy)"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_523.12",
+  "cover": {
+    "path": "PS2/SLES_523.12/SLES_523.12_COV.png",
+    "kind": "cover",
+    "bytes": 96925,
+    "width": 192,
+    "height": 272,
+    "sha256": "e6a00a3d024aa5e2f457944c06ece4f8f98e9bb829cd89b4acd0751a6169ce31",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52312.jpg"
+    },
+    "gameId": "SLES_523.12"
+  },
+  "disc": {
+    "path": "PS2/SLES_523.12/SLES_523.12_ICO.png",
+    "kind": "disc",
+    "bytes": 9788,
+    "width": 128,
+    "height": 128,
+    "sha256": "85fcd298cd70a54b1f3e568f6249a5f8bb8538ab1797520ed1200e5405227dad",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_523.12_ICO.png"
+    },
+    "gameId": "SLES_523.12"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Championship Rugby"
+}

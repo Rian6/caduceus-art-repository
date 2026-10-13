@@ -1,0 +1,90 @@
+{
+  "id": "SLES_515.11",
+  "cover": {
+    "path": "PS2/SLES_515.11/SLES_515.11_COV.png",
+    "kind": "cover",
+    "bytes": 103220,
+    "width": 192,
+    "height": 272,
+    "sha256": "14c4c5c3c9099f4f52ad86a2cc4d30fd9f10aa8987717684c5a1e80817b0371e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51511.jpg"
+    },
+    "gameId": "SLES_515.11"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_515.11/SLES_515.11_BG.png",
+    "kind": "background",
+    "bytes": 154440,
+    "width": 640,
+    "height": 480,
+    "sha256": "90eabcab599b0163eeea4505b36e316740dfa678a40793562ae949feeb6f22ef",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_515.11/SLES_515.11_BG_00.png"
+    },
+    "gameId": "SLES_515.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_515.11/SLES_515.11_BG.png",
+      "kind": "background",
+      "bytes": 154440,
+      "width": 640,
+      "height": 480,
+      "sha256": "90eabcab599b0163eeea4505b36e316740dfa678a40793562ae949feeb6f22ef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.11/SLES_515.11_BG_00.png"
+      },
+      "gameId": "SLES_515.11"
+    },
+    {
+      "path": "PS2/SLES_515.11/SLES_515.11_BG_01.png",
+      "kind": "background",
+      "bytes": 189859,
+      "width": 640,
+      "height": 480,
+      "sha256": "dcdcad80a88721a5f033e90073c883b6712ae06f44e55d38087c52f4fdb2a398",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.11/SLES_515.11_BG_01.png"
+      },
+      "gameId": "SLES_515.11"
+    },
+    {
+      "path": "PS2/SLES_515.11/SLES_515.11_BG_02.png",
+      "kind": "background",
+      "bytes": 168155,
+      "width": 640,
+      "height": 480,
+      "sha256": "3922a0520199c3cf0642cef6d5cbe8e1290facd046f6c43940694f896ad49bea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.11/SLES_515.11_BG_02.png"
+      },
+      "gameId": "SLES_515.11"
+    },
+    {
+      "path": "PS2/SLES_515.11/SLES_515.11_BG_03.png",
+      "kind": "background",
+      "bytes": 163450,
+      "width": 640,
+      "height": 480,
+      "sha256": "23c8fafb5b9a1ceef5147662d48ce2f9eec3420d265baeda2b419c02ed94b618",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.11/SLES_515.11_BG_03.png"
+      },
+      "gameId": "SLES_515.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Crash Nitro Kart"
+}

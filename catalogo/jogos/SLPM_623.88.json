@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.88",
+  "cover": {
+    "path": "PS2/SLPM_623.88/SLPM_623.88_COV.png",
+    "kind": "cover",
+    "bytes": 59003,
+    "width": 192,
+    "height": 272,
+    "sha256": "fa896c15ad47f38ca02e61a9f6191cee5614477932fe5dfc492c380c2e162e80",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62388.jpg"
+    },
+    "gameId": "SLPM_623.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SuperLite 2000 Vol. 9: NumCro"
+}

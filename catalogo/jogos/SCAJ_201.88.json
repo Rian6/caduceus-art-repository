@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.88",
+  "cover": {
+    "path": "PS2/SCAJ_201.88/SCAJ_201.88_COV.png",
+    "kind": "cover",
+    "bytes": 90519,
+    "width": 192,
+    "height": 272,
+    "sha256": "35134660e982fc0d30ee31d6d9d16d0c7f69cfb8101ea86c34349303f054f1f7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20188.jpg"
+    },
+    "gameId": "SCAJ_201.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XII International Zodiac Job System"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_209.34",
+  "cover": {
+    "path": "PS2/SLUS_209.34/SLUS_209.34_COV.png",
+    "kind": "cover",
+    "bytes": 111484,
+    "width": 192,
+    "height": 272,
+    "sha256": "eb99c26332d3ef0057aa2e79f15bc3e4f0bdfbce46375b2ffe7dbc5b8afe1c2c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20934.jpg"
+    },
+    "gameId": "SLUS_209.34"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.34/SLUS_209.34_ICO.png",
+    "kind": "disc",
+    "bytes": 31817,
+    "width": 256,
+    "height": 256,
+    "sha256": "d8dfe611dac358222b1a33055fc78fd6217d9c4c7d6c90f6358df83ed99f4ba1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.34_ICO.png"
+    },
+    "gameId": "SLUS_209.34"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.34/SLUS_209.34_BG.png",
+    "kind": "background",
+    "bytes": 128243,
+    "width": 640,
+    "height": 480,
+    "sha256": "a73120c4a7e7bb916ddb7d8b1f1f12e0c5d4fb9523f074cb48738f8953aec565",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.34/SLUS_209.34_BG_00.png"
+    },
+    "gameId": "SLUS_209.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.34/SLUS_209.34_BG.png",
+      "kind": "background",
+      "bytes": 128243,
+      "width": 640,
+      "height": 480,
+      "sha256": "a73120c4a7e7bb916ddb7d8b1f1f12e0c5d4fb9523f074cb48738f8953aec565",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.34/SLUS_209.34_BG_00.png"
+      },
+      "gameId": "SLUS_209.34"
+    },
+    {
+      "path": "PS2/SLUS_209.34/SLUS_209.34_BG_01.png",
+      "kind": "background",
+      "bytes": 65248,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1da59f4b8e0e11b39aece3f1fd75449ae952fe21912fd497ac4191421a7a38b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.34/SLUS_209.34_BG_01.png"
+      },
+      "gameId": "SLUS_209.34"
+    },
+    {
+      "path": "PS2/SLUS_209.34/SLUS_209.34_BG_02.png",
+      "kind": "background",
+      "bytes": 105957,
+      "width": 640,
+      "height": 480,
+      "sha256": "b0a6f608ce520c445d4df46b7cbd39c944be96a43cc1f00745527f1d54f9df4d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.34/SLUS_209.34_BG_02.png"
+      },
+      "gameId": "SLUS_209.34"
+    },
+    {
+      "path": "PS2/SLUS_209.34/SLUS_209.34_BG_03.png",
+      "kind": "background",
+      "bytes": 182995,
+      "width": 640,
+      "height": 480,
+      "sha256": "b34ce345aa467b5064bbe41d3b8a0f0934d850c5f40ac5f43fa379236f76aa46",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.34/SLUS_209.34_BG_03.png"
+      },
+      "gameId": "SLUS_209.34"
+    },
+    {
+      "path": "PS2/SLUS_209.34/SLUS_209.34_BG_04.png",
+      "kind": "background",
+      "bytes": 183560,
+      "width": 640,
+      "height": 480,
+      "sha256": "ebcc157211bb8bee3ce710ee3884dacdff975d6da2755ec24f4f240681e1f277",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.34/SLUS_209.34_BG_04.png"
+      },
+      "gameId": "SLUS_209.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tekken's Nina Williams in: Death by Degrees"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "PAPX_905.04",
+  "cover": {
+    "path": "PS2/PAPX_905.04/PAPX_905.04_COV.png",
+    "kind": "cover",
+    "bytes": 89921,
+    "width": 192,
+    "height": 272,
+    "sha256": "958e4dc0a97855b921bb217a61051c1fd9855cd7193d17b1eca49f650c9d452c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PAPX-90504.jpg"
+    },
+    "gameId": "PAPX_905.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo Concept: Airtrek Turbo Special Edition"
+}

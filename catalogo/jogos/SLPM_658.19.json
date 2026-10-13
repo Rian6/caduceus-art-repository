@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.19",
+  "cover": {
+    "path": "PS2/SLPM_658.19/SLPM_658.19_COV.png",
+    "kind": "cover",
+    "bytes": 101600,
+    "width": 192,
+    "height": 272,
+    "sha256": "50e8abfd785ca1b951007c8a453acfc0f8ea88d8abc63d5e9e43035d3f8205d4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65819.jpg"
+    },
+    "gameId": "SLPM_658.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENNIS NO OJI-SAMA - KISS THE PRINCE ICE [KONAMI DENDOU COLLECTION]"
+}

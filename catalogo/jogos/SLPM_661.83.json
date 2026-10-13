@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.83",
+  "cover": {
+    "path": "PS2/SLPM_661.83/SLPM_661.83_COV.png",
+    "kind": "cover",
+    "bytes": 100016,
+    "width": 192,
+    "height": 272,
+    "sha256": "728a3235d73e6239b76ea0434dede531b4f629c5923646f2acc7505a2e188421",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66183.jpg"
+    },
+    "gameId": "SLPM_661.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE GETAWAY - BLACK MONDAY"
+}

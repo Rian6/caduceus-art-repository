@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.50",
+  "cover": {
+    "path": "PS2/SLPM_656.50/SLPM_656.50_COV.png",
+    "kind": "cover",
+    "bytes": 94798,
+    "width": 192,
+    "height": 272,
+    "sha256": "e2b0e56b62e21d28bb60a3a8d9c91c02bc2745b945ae2f8b9ec76aafa5be2b93",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65650.jpg"
+    },
+    "gameId": "SLPM_656.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARRY POTTER TO KENJA NO ISHI [EA BEST HITS]"
+}

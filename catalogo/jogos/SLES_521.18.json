@@ -1,0 +1,103 @@
+{
+  "id": "SLES_521.18",
+  "cover": {
+    "path": "PS2/SLES_521.18/SLES_521.18_COV.png",
+    "kind": "cover",
+    "bytes": 103871,
+    "width": 192,
+    "height": 272,
+    "sha256": "442a5a95af9ea92fcd1edd9412dcac4c7d5784f9cf438c00e61110555e52909b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52118.jpg"
+    },
+    "gameId": "SLES_521.18"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_521.18/SLES_521.18_BG.png",
+    "kind": "background",
+    "bytes": 263935,
+    "width": 640,
+    "height": 480,
+    "sha256": "3386f370b3ea5a46bbb4df49331a08c585229bb7af420307702cf9dfc23709e5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_521.18/SLES_521.18_BG_00.png"
+    },
+    "gameId": "SLES_521.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_521.18/SLES_521.18_BG.png",
+      "kind": "background",
+      "bytes": 263935,
+      "width": 640,
+      "height": 480,
+      "sha256": "3386f370b3ea5a46bbb4df49331a08c585229bb7af420307702cf9dfc23709e5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.18/SLES_521.18_BG_00.png"
+      },
+      "gameId": "SLES_521.18"
+    },
+    {
+      "path": "PS2/SLES_521.18/SLES_521.18_BG_01.png",
+      "kind": "background",
+      "bytes": 251569,
+      "width": 640,
+      "height": 480,
+      "sha256": "e3663320779df56ccbca90c0eaa7913f442dcafe9e3bbf6596db5538504cb6fa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.18/SLES_521.18_BG_01.png"
+      },
+      "gameId": "SLES_521.18"
+    },
+    {
+      "path": "PS2/SLES_521.18/SLES_521.18_BG_02.png",
+      "kind": "background",
+      "bytes": 117181,
+      "width": 640,
+      "height": 480,
+      "sha256": "4b86dd18a21d926b49d731724d47c280457faf1d1f2da96fd8422bee2235c736",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.18/SLES_521.18_BG_02.png"
+      },
+      "gameId": "SLES_521.18"
+    },
+    {
+      "path": "PS2/SLES_521.18/SLES_521.18_BG_03.png",
+      "kind": "background",
+      "bytes": 76186,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9628b5016c27041428c154ecfc4e523277abeb100cc7203080b119ca3f32a80",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.18/SLES_521.18_BG_03.png"
+      },
+      "gameId": "SLES_521.18"
+    },
+    {
+      "path": "PS2/SLES_521.18/SLES_521.18_BG_04.png",
+      "kind": "background",
+      "bytes": 168500,
+      "width": 640,
+      "height": 480,
+      "sha256": "53744704aadc92022f8ffb9ca1d99a630135ae896bd9fa014043854ce1c477cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.18/SLES_521.18_BG_04.png"
+      },
+      "gameId": "SLES_521.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Castlevania: Lament of Innocence"
+}

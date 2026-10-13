@@ -1,0 +1,25 @@
+{
+  "id": "SCED_529.70",
+  "cover": {
+    "path": "PS2/SCED_529.70/SCED_529.70_COV.png",
+    "kind": "cover",
+    "bytes": 55003,
+    "width": 192,
+    "height": 272,
+    "sha256": "d737515528433c1fcbb4ff179fc8d770eba5bf3c452d16f1dc4cd52413c3f3bf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCED_529.70/SCED_529.70_COV.png"
+    },
+    "gameId": "SCED_529.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCEE Hits Demo"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLES_519.91",
+  "cover": {
+    "path": "PS2/SLES_519.91/SLES_519.91_COV.png",
+    "kind": "cover",
+    "bytes": 82343,
+    "width": 192,
+    "height": 272,
+    "sha256": "964b7d7a6c4fd28e1b9a0fc7dc46bbb6e689a8d056efe79e314b3b197441ef94",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51991.jpg"
+    },
+    "gameId": "SLES_519.91"
+  },
+  "disc": {
+    "path": "PS2/SLES_519.91/SLES_519.91_ICO.png",
+    "kind": "disc",
+    "bytes": 12316,
+    "width": 128,
+    "height": 128,
+    "sha256": "56abab80160002a8daeb1fabae50581770371e91f53f8a4685050be5f1548a84",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_519.91_ICO.png"
+    },
+    "gameId": "SLES_519.91"
+  },
+  "background": {
+    "path": "PS2/SLES_519.91/SLES_519.91_BG.png",
+    "kind": "background",
+    "bytes": 198796,
+    "width": 640,
+    "height": 480,
+    "sha256": "7fd77809735e6850286bb7175bab89c95d70148a9cf6374a45fa29288e8c4890",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.91/SLES_519.91_BG_00.png"
+    },
+    "gameId": "SLES_519.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.91/SLES_519.91_BG.png",
+      "kind": "background",
+      "bytes": 198796,
+      "width": 640,
+      "height": 480,
+      "sha256": "7fd77809735e6850286bb7175bab89c95d70148a9cf6374a45fa29288e8c4890",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.91/SLES_519.91_BG_00.png"
+      },
+      "gameId": "SLES_519.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dance UK"
+}

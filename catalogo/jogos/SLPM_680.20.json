@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_680.20",
+  "cover": {
+    "path": "PS2/SLPM_680.20/SLPM_680.20_COV.png",
+    "kind": "cover",
+    "bytes": 52233,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b8b672baf57f5c41838782b61852aececc8497a5ef5fb03a20fe932a3a7be19",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_680.20/SLPM_680.20_COV.png"
+    },
+    "gameId": "SLPM_680.20"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_680.20/SLPM_680.20_BG.png",
+    "kind": "background",
+    "bytes": 131356,
+    "width": 640,
+    "height": 480,
+    "sha256": "f58442e269e0aad223f2627ef63af82c100f4b6895b625a74c5d5f4e46d2d766",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_680.20/SLPM_680.20_BG_00.png"
+    },
+    "gameId": "SLPM_680.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_680.20/SLPM_680.20_BG.png",
+      "kind": "background",
+      "bytes": 131356,
+      "width": 640,
+      "height": 480,
+      "sha256": "f58442e269e0aad223f2627ef63af82c100f4b6895b625a74c5d5f4e46d2d766",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_680.20/SLPM_680.20_BG_00.png"
+      },
+      "gameId": "SLPM_680.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Suzumiya Haruhi no Tomadoi"
+}

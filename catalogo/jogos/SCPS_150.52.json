@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.52",
+  "cover": {
+    "path": "PS2/SCPS_150.52/SCPS_150.52_COV.png",
+    "kind": "cover",
+    "bytes": 79015,
+    "width": 192,
+    "height": 272,
+    "sha256": "047a2096dff31ee203c51862e8dcf829fdbb04b25ba265e97adbdbe7f68c2479",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15052.jpg"
+    },
+    "gameId": "SCPS_150.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saints Seinaru Mamono"
+}

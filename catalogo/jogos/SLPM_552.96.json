@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.96",
+  "cover": {
+    "path": "PS2/SLPM_552.96/SLPM_552.96_COV.png",
+    "kind": "cover",
+    "bytes": 111710,
+    "width": 192,
+    "height": 272,
+    "sha256": "2ddb4632245da808e1ab045d7045baa8a2d354be4f452a900409ec0c15fa5dda",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55296.jpg"
+    },
+    "gameId": "SLPM_552.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE 4 [KOEI THE BEST]"
+}

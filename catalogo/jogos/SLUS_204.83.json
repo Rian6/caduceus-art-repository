@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_204.83",
+  "cover": {
+    "path": "PS2/SLUS_204.83/SLUS_204.83_COV.png",
+    "kind": "cover",
+    "bytes": 82973,
+    "width": 192,
+    "height": 272,
+    "sha256": "3d815e1e05d40b753c640f1f3f82dc9ad664fc9df145d388422a170f4e8167b0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20483.jpg"
+    },
+    "gameId": "SLUS_204.83"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.83/SLUS_204.83_ICO.png",
+    "kind": "disc",
+    "bytes": 37131,
+    "width": 256,
+    "height": 256,
+    "sha256": "75ae5c903650a56c6321aea005ba3851abe37f5f27a9f684796411c0352697d9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.83_ICO.png"
+    },
+    "gameId": "SLUS_204.83"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.83/SLUS_204.83_BG.png",
+    "kind": "background",
+    "bytes": 237792,
+    "width": 640,
+    "height": 480,
+    "sha256": "46a5be1974c2d5bf52ccc70cc3318234140f03044ced25827167c992b4069065",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.83/SLUS_204.83_BG_00.png"
+    },
+    "gameId": "SLUS_204.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.83/SLUS_204.83_BG.png",
+      "kind": "background",
+      "bytes": 237792,
+      "width": 640,
+      "height": 480,
+      "sha256": "46a5be1974c2d5bf52ccc70cc3318234140f03044ced25827167c992b4069065",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.83/SLUS_204.83_BG_00.png"
+      },
+      "gameId": "SLUS_204.83"
+    },
+    {
+      "path": "PS2/SLUS_204.83/SLUS_204.83_BG_01.png",
+      "kind": "background",
+      "bytes": 156775,
+      "width": 640,
+      "height": 480,
+      "sha256": "66aaa341e3832a9a7b46975138964dc4372481239ecfa6a7933beb5dc5b9e45c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.83/SLUS_204.83_BG_01.png"
+      },
+      "gameId": "SLUS_204.83"
+    },
+    {
+      "path": "PS2/SLUS_204.83/SLUS_204.83_BG_02.png",
+      "kind": "background",
+      "bytes": 149883,
+      "width": 640,
+      "height": 480,
+      "sha256": "ead4b7d099736200ad88efac218432a6886d824bf1778c5bbeb2b4e4f2795065",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.83/SLUS_204.83_BG_02.png"
+      },
+      "gameId": "SLUS_204.83"
+    },
+    {
+      "path": "PS2/SLUS_204.83/SLUS_204.83_BG_03.png",
+      "kind": "background",
+      "bytes": 170006,
+      "width": 640,
+      "height": 480,
+      "sha256": "609480f389368a0e288fbc8edcbb9425eda35a40ae333ba2b5d310b761baa6af",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.83/SLUS_204.83_BG_03.png"
+      },
+      "gameId": "SLUS_204.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WWE Smackdown! - Shut Your Mouth"
+}

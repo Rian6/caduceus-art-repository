@@ -1,0 +1,51 @@
+{
+  "id": "SCAJ_201.00",
+  "cover": {
+    "path": "PS2/SCAJ_201.00/SCAJ_201.00_COV.png",
+    "kind": "cover",
+    "bytes": 82070,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc86c1779a44021cffad08f5de26e2de7c471908b3cf248b48957351a13de5f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20100.jpg"
+    },
+    "gameId": "SCAJ_201.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCAJ_201.00/SCAJ_201.00_BG.png",
+    "kind": "background",
+    "bytes": 167413,
+    "width": 640,
+    "height": 480,
+    "sha256": "63138a7a39c135e54b8c8c33cd859d87c8ceec15289b85a8668d0e359a841a8b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCAJ_201.00/SCAJ_201.00_BG_00.png"
+    },
+    "gameId": "SCAJ_201.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCAJ_201.00/SCAJ_201.00_BG.png",
+      "kind": "background",
+      "bytes": 167413,
+      "width": 640,
+      "height": 480,
+      "sha256": "63138a7a39c135e54b8c8c33cd859d87c8ceec15289b85a8668d0e359a841a8b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_201.00/SCAJ_201.00_BG_00.png"
+      },
+      "gameId": "SCAJ_201.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tenchu Kurenai"
+}

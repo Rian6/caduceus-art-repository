@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_256.64",
+  "cover": {
+    "path": "PS2/SLPS_256.64/SLPS_256.64_COV.png",
+    "kind": "cover",
+    "bytes": 108262,
+    "width": 192,
+    "height": 272,
+    "sha256": "9544491d068fa0cc676654690b7572331633052fe04cc231c15a2e9c041bb25c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25664.jpg"
+    },
+    "gameId": "SLPS_256.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.64/SLPS_256.64_BG.png",
+    "kind": "background",
+    "bytes": 127062,
+    "width": 640,
+    "height": 480,
+    "sha256": "07704c5f94c0e1972cd161f2249e72da0a704bbc63133737854cb9dc17208188",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.64/SLPS_256.64_BG_00.png"
+    },
+    "gameId": "SLPS_256.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.64/SLPS_256.64_BG.png",
+      "kind": "background",
+      "bytes": 127062,
+      "width": 640,
+      "height": 480,
+      "sha256": "07704c5f94c0e1972cd161f2249e72da0a704bbc63133737854cb9dc17208188",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.64/SLPS_256.64_BG_00.png"
+      },
+      "gameId": "SLPS_256.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Garou Densetsu Battle Archive 1(NeoGeo Online Collection Vol.5)"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_206.89",
+  "cover": {
+    "path": "PS2/SLUS_206.89/SLUS_206.89_COV.png",
+    "kind": "cover",
+    "bytes": 101924,
+    "width": 192,
+    "height": 272,
+    "sha256": "ab3c6f387c02eb945bae1174bd5421ce4ac5b0168a854f2c4087cd18accf6a68",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20689.jpg"
+    },
+    "gameId": "SLUS_206.89"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.89/SLUS_206.89_ICO.png",
+    "kind": "disc",
+    "bytes": 31346,
+    "width": 256,
+    "height": 256,
+    "sha256": "a82a01373e25073017c9e522708caa598519c9defc09b886a61a26811ce4cbfb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.89_ICO.png"
+    },
+    "gameId": "SLUS_206.89"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.89/SLUS_206.89_BG.png",
+    "kind": "background",
+    "bytes": 203074,
+    "width": 640,
+    "height": 480,
+    "sha256": "dcb6f38cb02a011ec5b717cc686eeaa3ffdf012dd9985ff2c3026dc0e1fa5ad0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.89/SLUS_206.89_BG_00.png"
+    },
+    "gameId": "SLUS_206.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.89/SLUS_206.89_BG.png",
+      "kind": "background",
+      "bytes": 203074,
+      "width": 640,
+      "height": 480,
+      "sha256": "dcb6f38cb02a011ec5b717cc686eeaa3ffdf012dd9985ff2c3026dc0e1fa5ad0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.89/SLUS_206.89_BG_00.png"
+      },
+      "gameId": "SLUS_206.89"
+    },
+    {
+      "path": "PS2/SLUS_206.89/SLUS_206.89_BG_01.png",
+      "kind": "background",
+      "bytes": 191426,
+      "width": 640,
+      "height": 480,
+      "sha256": "4f94bed5793ec7cd425aafa89a9f6a6ef7ac56e5f9400aa1df939a8f26104d6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.89/SLUS_206.89_BG_01.png"
+      },
+      "gameId": "SLUS_206.89"
+    },
+    {
+      "path": "PS2/SLUS_206.89/SLUS_206.89_BG_02.png",
+      "kind": "background",
+      "bytes": 210616,
+      "width": 640,
+      "height": 480,
+      "sha256": "717edfe86c0c85ce3b4598ee9c403a31f50e4a5b6ed9d2f0420c38b5ff94c36c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.89/SLUS_206.89_BG_02.png"
+      },
+      "gameId": "SLUS_206.89"
+    },
+    {
+      "path": "PS2/SLUS_206.89/SLUS_206.89_BG_03.png",
+      "kind": "background",
+      "bytes": 174177,
+      "width": 640,
+      "height": 480,
+      "sha256": "a679bddc189fdbd8cce2bd876ba9f0334386b13113477e557d42c6eba624e6e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.89/SLUS_206.89_BG_03.png"
+      },
+      "gameId": "SLUS_206.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Conflict: Desert Storm II: Back to Baghdad"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_548.81",
+  "cover": {
+    "path": "PS2/SLES_548.81/SLES_548.81_COV.png",
+    "kind": "cover",
+    "bytes": 92537,
+    "width": 192,
+    "height": 272,
+    "sha256": "fec664d48f9a7269a475de4eb97395f3dec46c98992f65a04c604d0ef84b04e6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54881.jpg"
+    },
+    "gameId": "SLES_548.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_548.81/SLES_548.81_BG.png",
+    "kind": "background",
+    "bytes": 172584,
+    "width": 640,
+    "height": 480,
+    "sha256": "5889214acfafb80585f574ca7a859f6584866db9cc5e6351ef5c25a1a3554f6f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.81/SLES_548.81_BG_00.png"
+    },
+    "gameId": "SLES_548.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.81/SLES_548.81_BG.png",
+      "kind": "background",
+      "bytes": 172584,
+      "width": 640,
+      "height": 480,
+      "sha256": "5889214acfafb80585f574ca7a859f6584866db9cc5e6351ef5c25a1a3554f6f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.81/SLES_548.81_BG_00.png"
+      },
+      "gameId": "SLES_548.81"
+    },
+    {
+      "path": "PS2/SLES_548.81/SLES_548.81_BG_01.png",
+      "kind": "background",
+      "bytes": 171876,
+      "width": 640,
+      "height": 480,
+      "sha256": "109231adaebbf5cc4c76e50fab40eff55f180681f0d9f64e0a02862afecb854c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.81/SLES_548.81_BG_01.png"
+      },
+      "gameId": "SLES_548.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL 2K8"
+}

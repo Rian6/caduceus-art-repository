@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_660.51",
+  "cover": {
+    "path": "PS2/SLPM_660.51/SLPM_660.51_COV.png",
+    "kind": "cover",
+    "bytes": 102413,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2735c02d01c3d6eb590bf3475865e61c6ca5bdbd2f00dc6291f0649ab9984f5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66051.jpg"
+    },
+    "gameId": "SLPM_660.51"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_660.51/SLPM_660.51_BG.png",
+    "kind": "background",
+    "bytes": 178451,
+    "width": 640,
+    "height": 480,
+    "sha256": "763d28f43ea600de5907a565e278057325b444caf6e36f3bd048c77e9497d091",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_660.51/SLPM_660.51_BG_00.png"
+    },
+    "gameId": "SLPM_660.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_660.51/SLPM_660.51_BG.png",
+      "kind": "background",
+      "bytes": 178451,
+      "width": 640,
+      "height": 480,
+      "sha256": "763d28f43ea600de5907a565e278057325b444caf6e36f3bd048c77e9497d091",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.51/SLPM_660.51_BG_00.png"
+      },
+      "gameId": "SLPM_660.51"
+    },
+    {
+      "path": "PS2/SLPM_660.51/SLPM_660.51_BG_01.png",
+      "kind": "background",
+      "bytes": 184086,
+      "width": 640,
+      "height": 480,
+      "sha256": "cedcdedc2e4ee94b1eeab12266374cfdb23f771a21a311ff2531a1f118eb86a0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.51/SLPM_660.51_BG_01.png"
+      },
+      "gameId": "SLPM_660.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Need for Speed - Underground 2 (EA Best Hits)"
+}

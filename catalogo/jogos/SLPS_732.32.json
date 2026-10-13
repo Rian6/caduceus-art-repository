@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.32",
+  "cover": {
+    "path": "PS2/SLPS_732.32/SLPS_732.32_COV.png",
+    "kind": "cover",
+    "bytes": 91660,
+    "width": 192,
+    "height": 272,
+    "sha256": "713dbe77327dff86bc3aacd0e814e00dbe45391b6315163b5ffadd05ccbe1be7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73232.jpg"
+    },
+    "gameId": "SLPS_732.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": ".Hack Shinsoku Osen Vol.3 (Playstation 2 The Best)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.98",
+  "cover": {
+    "path": "PS2/SLPS_200.98/SLPS_200.98_COV.png",
+    "kind": "cover",
+    "bytes": 83059,
+    "width": 192,
+    "height": 272,
+    "sha256": "fae0a047d5a40585a262b1092bac0e81c47ab92bab736f6f60f0b6c77505e0c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20098.jpg"
+    },
+    "gameId": "SLPS_200.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hard Hitter"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.30",
+  "cover": {
+    "path": "PS2/SLPM_650.30/SLPM_650.30_COV.png",
+    "kind": "cover",
+    "bytes": 53191,
+    "width": 192,
+    "height": 272,
+    "sha256": "f6fdfd3ffec6f53c2f618012c003b87b3f884bc3941ec05b9af7b168754bf25c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_650.30/SLPM_650.30_COV.png"
+    },
+    "gameId": "SLPM_650.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kessen + Kessen II Super Value Set"
+}

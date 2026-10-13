@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_732.63",
+  "cover": {
+    "path": "PS2/SLPS_732.63/SLPS_732.63_COV.png",
+    "kind": "cover",
+    "bytes": 79827,
+    "width": 192,
+    "height": 272,
+    "sha256": "a19edee72b07e0dcda1693bad3bcea703ebd5745859cd3b803a1785cf59093da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73263.jpg"
+    },
+    "gameId": "SLPS_732.63"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_732.63/SLPS_732.63_BG.png",
+    "kind": "background",
+    "bytes": 162882,
+    "width": 640,
+    "height": 480,
+    "sha256": "9751f297de4b848736f0413d7e6313104d2dab10ea636b142e210b40d3043bbf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_732.63/SLPS_732.63_BG_00.png"
+    },
+    "gameId": "SLPS_732.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_732.63/SLPS_732.63_BG.png",
+      "kind": "background",
+      "bytes": 162882,
+      "width": 640,
+      "height": 480,
+      "sha256": "9751f297de4b848736f0413d7e6313104d2dab10ea636b142e210b40d3043bbf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_732.63/SLPS_732.63_BG_00.png"
+      },
+      "gameId": "SLPS_732.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ar Tonelico II - Sekai ni Hibiku Shoujo Tachi no Souzoushi (Playstation 2 The Best)"
+}

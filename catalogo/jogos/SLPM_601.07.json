@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_601.07",
+  "cover": {
+    "path": "PS2/SLPM_601.07/SLPM_601.07_COV.png",
+    "kind": "cover",
+    "bytes": 96632,
+    "width": 192,
+    "height": 272,
+    "sha256": "f837d47716c97205c325d456fc3769c0ff6d0e04b00aa65f7e1db996bda4adfe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-60107.jpg"
+    },
+    "gameId": "SLPM_601.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Golf Paradise"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_526.86",
+  "cover": {
+    "path": "PS2/SLES_526.86/SLES_526.86_COV.png",
+    "kind": "cover",
+    "bytes": 97891,
+    "width": 192,
+    "height": 272,
+    "sha256": "500ad68a733d06dedcad1c21d6cb5f937658dc310e94cf53adf008d8c14d4c8a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52686.jpg"
+    },
+    "gameId": "SLES_526.86"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_526.86/SLES_526.86_BG.png",
+    "kind": "background",
+    "bytes": 199405,
+    "width": 640,
+    "height": 480,
+    "sha256": "fbc3b9a94d6f7371405ff6ca47a0a8f4be38582cd44174877e7c4f6fc8e06469",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_526.86/SLES_526.86_BG_00.png"
+    },
+    "gameId": "SLES_526.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_526.86/SLES_526.86_BG.png",
+      "kind": "background",
+      "bytes": 199405,
+      "width": 640,
+      "height": 480,
+      "sha256": "fbc3b9a94d6f7371405ff6ca47a0a8f4be38582cd44174877e7c4f6fc8e06469",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.86/SLES_526.86_BG_00.png"
+      },
+      "gameId": "SLES_526.86"
+    },
+    {
+      "path": "PS2/SLES_526.86/SLES_526.86_BG_01.png",
+      "kind": "background",
+      "bytes": 213162,
+      "width": 640,
+      "height": 480,
+      "sha256": "a19c252fe7476ae9ccba766db893741333dd803aadb62fd9361cd199f13dd4c1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.86/SLES_526.86_BG_01.png"
+      },
+      "gameId": "SLES_526.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Backyard Wrestling 2 - There Goes the Neighborhood"
+}

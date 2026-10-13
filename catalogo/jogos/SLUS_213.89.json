@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_213.89",
+  "cover": {
+    "path": "PS2/SLUS_213.89/SLUS_213.89_COV.png",
+    "kind": "cover",
+    "bytes": 97038,
+    "width": 192,
+    "height": 272,
+    "sha256": "52eb2c6907ac32c6fdebbc4b8950c2976da20ec9cac58d6f45ae8e7f1f697edb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21389.jpg"
+    },
+    "gameId": "SLUS_213.89"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.89/SLUS_213.89_ICO.png",
+    "kind": "disc",
+    "bytes": 33236,
+    "width": 256,
+    "height": 256,
+    "sha256": "3e028322c5dcf31473ce233bda62948d68a2f099f71eef2c5bbe1ef20ffe4a57",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.89_ICO.png"
+    },
+    "gameId": "SLUS_213.89"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.89/SLUS_213.89_BG.png",
+    "kind": "background",
+    "bytes": 167536,
+    "width": 640,
+    "height": 480,
+    "sha256": "cfa0c0fdcd3a8d540517d43f02d49602558ed5077aa060325ae4934acd4434b4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.89/SLUS_213.89_BG_00.png"
+    },
+    "gameId": "SLUS_213.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.89/SLUS_213.89_BG.png",
+      "kind": "background",
+      "bytes": 167536,
+      "width": 640,
+      "height": 480,
+      "sha256": "cfa0c0fdcd3a8d540517d43f02d49602558ed5077aa060325ae4934acd4434b4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.89/SLUS_213.89_BG_00.png"
+      },
+      "gameId": "SLUS_213.89"
+    },
+    {
+      "path": "PS2/SLUS_213.89/SLUS_213.89_BG_01.png",
+      "kind": "background",
+      "bytes": 223998,
+      "width": 640,
+      "height": 480,
+      "sha256": "097014a7ff225b9f083e5045358f8fc6e5719afc52504d51638d11cea69a1155",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.89/SLUS_213.89_BG_01.png"
+      },
+      "gameId": "SLUS_213.89"
+    },
+    {
+      "path": "PS2/SLUS_213.89/SLUS_213.89_BG_02.png",
+      "kind": "background",
+      "bytes": 148216,
+      "width": 640,
+      "height": 480,
+      "sha256": "23c935b6c21479f1abc1efd8c63004b462bf4567e9b59cf03ce1d22b1d579208",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.89/SLUS_213.89_BG_02.png"
+      },
+      "gameId": "SLUS_213.89"
+    },
+    {
+      "path": "PS2/SLUS_213.89/SLUS_213.89_BG_03.png",
+      "kind": "background",
+      "bytes": 183128,
+      "width": 640,
+      "height": 480,
+      "sha256": "5247e9323e0d4c56db5b961b2bcee1f4ca750c7484f65d07034246a83ce74fc1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.89/SLUS_213.89_BG_03.png"
+      },
+      "gameId": "SLUS_213.89"
+    },
+    {
+      "path": "PS2/SLUS_213.89/SLUS_213.89_BG_04.png",
+      "kind": "background",
+      "bytes": 191305,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6d97faed113a9c6f9c4dbc51aaa2aacffcd8bbbdaf1b1568238eff64f04be7a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.89/SLUS_213.89_BG_04.png"
+      },
+      "gameId": "SLUS_213.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Xenosaga Episode III: Also sprach Zarathustra (Disc 1)"
+}

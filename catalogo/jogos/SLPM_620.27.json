@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.27",
+  "cover": {
+    "path": "PS2/SLPM_620.27/SLPM_620.27_COV.png",
+    "kind": "cover",
+    "bytes": 77324,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e29abc59d08ca0514097595fb2ec6b2357c97d2a41d63e4b36906e9f4efb187",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62027.jpg"
+    },
+    "gameId": "SLPM_620.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Snowboard Heaven"
+}

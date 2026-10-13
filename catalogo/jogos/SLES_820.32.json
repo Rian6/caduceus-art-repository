@@ -1,0 +1,77 @@
+{
+  "id": "SLES_820.32",
+  "cover": {
+    "path": "PS2/SLES_820.32/SLES_820.32_COV.png",
+    "kind": "cover",
+    "bytes": 82275,
+    "width": 192,
+    "height": 272,
+    "sha256": "1d4e0408a1ac59643b491c64f32a10074a1a8bd746f8eaa635b10f6b23c98dea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-82032.jpg"
+    },
+    "gameId": "SLES_820.32"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_820.32/SLES_820.32_BG.png",
+    "kind": "background",
+    "bytes": 256248,
+    "width": 640,
+    "height": 480,
+    "sha256": "d14d833bcc475f05736bec22a98e7f6fafb7dd132601b7ab98a27f937bd83a20",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_820.32/SLES_820.32_BG_00.png"
+    },
+    "gameId": "SLES_820.32"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_820.32/SLES_820.32_BG.png",
+      "kind": "background",
+      "bytes": 256248,
+      "width": 640,
+      "height": 480,
+      "sha256": "d14d833bcc475f05736bec22a98e7f6fafb7dd132601b7ab98a27f937bd83a20",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.32/SLES_820.32_BG_00.png"
+      },
+      "gameId": "SLES_820.32"
+    },
+    {
+      "path": "PS2/SLES_820.32/SLES_820.32_BG_01.png",
+      "kind": "background",
+      "bytes": 171965,
+      "width": 640,
+      "height": 480,
+      "sha256": "a57497f4b4ea3e607bf85e159dbfa0e1e6542e5aca2d48aa3cb24123f1f32142",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.32/SLES_820.32_BG_01.png"
+      },
+      "gameId": "SLES_820.32"
+    },
+    {
+      "path": "PS2/SLES_820.32/SLES_820.32_BG_02.png",
+      "kind": "background",
+      "bytes": 143529,
+      "width": 640,
+      "height": 480,
+      "sha256": "9b5f9ad79aa98cc96e7b7692c711b28b6af251249c22a6359f93d4fc14b65dab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_820.32/SLES_820.32_BG_02.png"
+      },
+      "gameId": "SLES_820.32"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL GEAR SOLID 3 - SNAKE EATER"
+}

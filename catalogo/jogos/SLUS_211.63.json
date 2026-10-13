@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_211.63",
+  "cover": {
+    "path": "PS2/SLUS_211.63/SLUS_211.63_COV.png",
+    "kind": "cover",
+    "bytes": 109662,
+    "width": 192,
+    "height": 272,
+    "sha256": "1a18e446247fa80cfb2fcc1250958a4baa5ce50b544820b94af60e19a792fd7b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21163.jpg"
+    },
+    "gameId": "SLUS_211.63"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.63/SLUS_211.63_ICO.png",
+    "kind": "disc",
+    "bytes": 38240,
+    "width": 256,
+    "height": 256,
+    "sha256": "60969bf8527329e37de7a52ee8c8d906ec4adf3c1460f63fbe5cbc467e782b17",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.63_ICO.png"
+    },
+    "gameId": "SLUS_211.63"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.63/SLUS_211.63_BG.png",
+    "kind": "background",
+    "bytes": 245447,
+    "width": 640,
+    "height": 480,
+    "sha256": "8814e538f17ee2066f57c0dc641af78c4da4f45b995f077195ac1d8a7d1357eb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.63/SLUS_211.63_BG_00.png"
+    },
+    "gameId": "SLUS_211.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.63/SLUS_211.63_BG.png",
+      "kind": "background",
+      "bytes": 245447,
+      "width": 640,
+      "height": 480,
+      "sha256": "8814e538f17ee2066f57c0dc641af78c4da4f45b995f077195ac1d8a7d1357eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.63/SLUS_211.63_BG_00.png"
+      },
+      "gameId": "SLUS_211.63"
+    },
+    {
+      "path": "PS2/SLUS_211.63/SLUS_211.63_BG_01.png",
+      "kind": "background",
+      "bytes": 247116,
+      "width": 640,
+      "height": 480,
+      "sha256": "c478730450c2b871c87577f75fad0246cf40e8dd612d04acbe5124cdf564aa62",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.63/SLUS_211.63_BG_01.png"
+      },
+      "gameId": "SLUS_211.63"
+    },
+    {
+      "path": "PS2/SLUS_211.63/SLUS_211.63_BG_02.png",
+      "kind": "background",
+      "bytes": 238388,
+      "width": 640,
+      "height": 480,
+      "sha256": "957c5a14acf7bfc7ae3e9297a41ea05c798c68096799a37d5556dbc5c1a393c1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.63/SLUS_211.63_BG_02.png"
+      },
+      "gameId": "SLUS_211.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Brothers in Arms - Road to Hill 30"
+}

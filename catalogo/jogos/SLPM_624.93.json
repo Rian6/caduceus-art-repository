@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.93",
+  "cover": {
+    "path": "PS2/SLPM_624.93/SLPM_624.93_COV.png",
+    "kind": "cover",
+    "bytes": 93834,
+    "width": 192,
+    "height": 272,
+    "sha256": "83ee52f7c76b3a2cad615c6de5595e9368aea1986cf248bb9f2d2fd007d85b89",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62493.jpg"
+    },
+    "gameId": "SLPM_624.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.54 - The Daikaijuu"
+}

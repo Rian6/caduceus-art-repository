@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_210.82",
+  "cover": {
+    "path": "PS2/SLUS_210.82/SLUS_210.82_COV.png",
+    "kind": "cover",
+    "bytes": 110530,
+    "width": 192,
+    "height": 272,
+    "sha256": "4070bf916def11ec0b72531f1350456e4230dd020361bc6bf0698403d044127f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21082.jpg"
+    },
+    "gameId": "SLUS_210.82"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.82/SLUS_210.82_ICO.png",
+    "kind": "disc",
+    "bytes": 35613,
+    "width": 256,
+    "height": 256,
+    "sha256": "f688f110b303208da5a6aa83815cfeea359204e51a2aed5bba090dfd786fdabc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.82_ICO.png"
+    },
+    "gameId": "SLUS_210.82"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.82/SLUS_210.82_BG.png",
+    "kind": "background",
+    "bytes": 243758,
+    "width": 640,
+    "height": 480,
+    "sha256": "ed67a8e3e68855111656637f859dd068770f4cb511e2536926f7ea1625b91b7c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.82/SLUS_210.82_BG_00.png"
+    },
+    "gameId": "SLUS_210.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.82/SLUS_210.82_BG.png",
+      "kind": "background",
+      "bytes": 243758,
+      "width": 640,
+      "height": 480,
+      "sha256": "ed67a8e3e68855111656637f859dd068770f4cb511e2536926f7ea1625b91b7c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.82/SLUS_210.82_BG_00.png"
+      },
+      "gameId": "SLUS_210.82"
+    },
+    {
+      "path": "PS2/SLUS_210.82/SLUS_210.82_BG_01.png",
+      "kind": "background",
+      "bytes": 199300,
+      "width": 640,
+      "height": 480,
+      "sha256": "afc7fbfe783b87a7f0f3f7084514799282baf7bcb69da181f37419c2b567269e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.82/SLUS_210.82_BG_01.png"
+      },
+      "gameId": "SLUS_210.82"
+    },
+    {
+      "path": "PS2/SLUS_210.82/SLUS_210.82_BG_02.png",
+      "kind": "background",
+      "bytes": 266146,
+      "width": 640,
+      "height": 480,
+      "sha256": "fcf8411d5184babb8d914061a029b4f5de9319ac9acd7a937be1871c3ab08bee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.82/SLUS_210.82_BG_02.png"
+      },
+      "gameId": "SLUS_210.82"
+    },
+    {
+      "path": "PS2/SLUS_210.82/SLUS_210.82_BG_03.png",
+      "kind": "background",
+      "bytes": 206293,
+      "width": 640,
+      "height": 480,
+      "sha256": "7f5934cd53156124bf6a827956e2dc38549aa4a0f2ff74fcb1432f6ded2a95eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.82/SLUS_210.82_BG_03.png"
+      },
+      "gameId": "SLUS_210.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe"
+}

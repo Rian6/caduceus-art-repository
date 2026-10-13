@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.70",
+  "cover": {
+    "path": "PS2/SLPM_625.70/SLPM_625.70_COV.png",
+    "kind": "cover",
+    "bytes": 87984,
+    "width": 192,
+    "height": 272,
+    "sha256": "3fb7922927da12528341a126f7d6e948e44b00aee56b3fb86b5abacf773df75d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62570.jpg"
+    },
+    "gameId": "SLPM_625.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hudson Selection Vol. 4: Takahashi Meijin no Boukenjima [Hudson the Best]"
+}

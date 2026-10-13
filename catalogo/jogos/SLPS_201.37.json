@@ -1,0 +1,91 @@
+{
+  "id": "SLPS_201.37",
+  "cover": {
+    "path": "PS2/SLPS_201.37/SLPS_201.37_COV.png",
+    "kind": "cover",
+    "bytes": 109476,
+    "width": 192,
+    "height": 272,
+    "sha256": "8c23fdd57b2e9f60952d73b0c275c4a5d999c6867d40c2500b6676b5bb29ce1c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20137.jpg"
+    },
+    "gameId": "SLPS_201.37"
+  },
+  "disc": {
+    "path": "PS2/SLPS_201.37/SLPS_201.37_ICO.png",
+    "kind": "disc",
+    "bytes": 8252,
+    "width": 128,
+    "height": 128,
+    "sha256": "6f94e69f32ec3a4c14681bfe44d63016b683033dc09296cb160b9151cdd81d4e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_201.37_ICO.png"
+    },
+    "gameId": "SLPS_201.37"
+  },
+  "background": {
+    "path": "PS2/SLPS_201.37/SLPS_201.37_BG.png",
+    "kind": "background",
+    "bytes": 190585,
+    "width": 640,
+    "height": 480,
+    "sha256": "bd4f7b4bdc9b03999da8b71feb78d98df420e8f06ef27ebddb7d117248cfb808",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_201.37/SLPS_201.37_BG_00.png"
+    },
+    "gameId": "SLPS_201.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_201.37/SLPS_201.37_BG.png",
+      "kind": "background",
+      "bytes": 190585,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd4f7b4bdc9b03999da8b71feb78d98df420e8f06ef27ebddb7d117248cfb808",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.37/SLPS_201.37_BG_00.png"
+      },
+      "gameId": "SLPS_201.37"
+    },
+    {
+      "path": "PS2/SLPS_201.37/SLPS_201.37_BG_01.png",
+      "kind": "background",
+      "bytes": 153211,
+      "width": 640,
+      "height": 480,
+      "sha256": "a60834fa963558f057e35abc57a2a508ce875c52df24415d89b4ffdf75f899b3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.37/SLPS_201.37_BG_01.png"
+      },
+      "gameId": "SLPS_201.37"
+    },
+    {
+      "path": "PS2/SLPS_201.37/SLPS_201.37_BG_02.png",
+      "kind": "background",
+      "bytes": 204107,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c367cb99c51041d9d732b7fdca2fb2ad6843e631dd01668c89bb68e4bd6bf6b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.37/SLPS_201.37_BG_02.png"
+      },
+      "gameId": "SLPS_201.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUILTY GEAR X PLUS"
+}

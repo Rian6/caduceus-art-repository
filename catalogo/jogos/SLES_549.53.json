@@ -1,0 +1,51 @@
+{
+  "id": "SLES_549.53",
+  "cover": {
+    "path": "PS2/SLES_549.53/SLES_549.53_COV.png",
+    "kind": "cover",
+    "bytes": 92742,
+    "width": 192,
+    "height": 272,
+    "sha256": "f371297c8f160277fbe8d0b671828f72ca708f3151eafd16460677ad3d890e24",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54953.jpg"
+    },
+    "gameId": "SLES_549.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_549.53/SLES_549.53_BG.png",
+    "kind": "background",
+    "bytes": 153749,
+    "width": 640,
+    "height": 480,
+    "sha256": "58c488b134c0114724f13d43ace2050f85761bcc5550b1b2ccdfc0365e5ccb77",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.53/SLES_549.53_BG_00.png"
+    },
+    "gameId": "SLES_549.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_549.53/SLES_549.53_BG.png",
+      "kind": "background",
+      "bytes": 153749,
+      "width": 640,
+      "height": 480,
+      "sha256": "58c488b134c0114724f13d43ace2050f85761bcc5550b1b2ccdfc0365e5ccb77",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.53/SLES_549.53_BG_00.png"
+      },
+      "gameId": "SLES_549.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Totally Spies - Totally Party"
+}

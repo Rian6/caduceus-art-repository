@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_657.76",
+  "cover": {
+    "path": "PS2/SLPM_657.76/SLPM_657.76_COV.png",
+    "kind": "cover",
+    "bytes": 104133,
+    "width": 192,
+    "height": 272,
+    "sha256": "84c0e5bf181af2ac6f44f48af7f179437273c757b751b085d641ad27f2e25c41",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65776.jpg"
+    },
+    "gameId": "SLPM_657.76"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_657.76/SLPM_657.76_BG.png",
+    "kind": "background",
+    "bytes": 197866,
+    "width": 640,
+    "height": 480,
+    "sha256": "adf1aa2063ac52b938c1e1415625900218d56f44102f6477fb238d2e921afc61",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_657.76/SLPM_657.76_BG_00.png"
+    },
+    "gameId": "SLPM_657.76"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_657.76/SLPM_657.76_BG.png",
+      "kind": "background",
+      "bytes": 197866,
+      "width": 640,
+      "height": 480,
+      "sha256": "adf1aa2063ac52b938c1e1415625900218d56f44102f6477fb238d2e921afc61",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.76/SLPM_657.76_BG_00.png"
+      },
+      "gameId": "SLPM_657.76"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tenkuu Danzai: Skelter Heaven"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.96",
+  "cover": {
+    "path": "PS2/SLPM_666.96/SLPM_666.96_COV.png",
+    "kind": "cover",
+    "bytes": 72218,
+    "width": 192,
+    "height": 272,
+    "sha256": "bfe7c9d981f5d0d4d230609dc0fe72242d199305730fd28458eef3a4d2f62c66",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66696.jpg"
+    },
+    "gameId": "SLPM_666.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEMORIES OFF - SOREKARA AGAIN [SUPERLITE 2000 RENAI ADVENTURE]"
+}

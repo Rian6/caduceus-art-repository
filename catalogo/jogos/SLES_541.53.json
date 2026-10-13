@@ -1,0 +1,39 @@
+{
+  "id": "SLES_541.53",
+  "cover": {
+    "path": "PS2/SLES_541.53/SLES_541.53_COV.png",
+    "kind": "cover",
+    "bytes": 92771,
+    "width": 192,
+    "height": 272,
+    "sha256": "2cb193953b62f1ed9ae86e19313b75cb57c715adcc2bb02402ceaaa138224d00",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54153.jpg"
+    },
+    "gameId": "SLES_541.53"
+  },
+  "disc": {
+    "path": "PS2/SLES_541.53/SLES_541.53_ICO.png",
+    "kind": "disc",
+    "bytes": 11259,
+    "width": 128,
+    "height": 128,
+    "sha256": "8dccc128f564721324888a262fb1d0d4eebdee1bcf4f0e545ad40a88a3d29942",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_541.53_ICO.png"
+    },
+    "gameId": "SLES_541.53"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Virtua Pro Football"
+}

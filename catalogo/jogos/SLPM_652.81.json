@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.81",
+  "cover": {
+    "path": "PS2/SLPM_652.81/SLPM_652.81_COV.png",
+    "kind": "cover",
+    "bytes": 108498,
+    "width": 192,
+    "height": 272,
+    "sha256": "00cd51b31c93d4c031e95ccbcb1e8e08ea9e65ca751b95e01b775afa76b1ffd7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65281.jpg"
+    },
+    "gameId": "SLPM_652.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GREEN GREEN - KANE NO OTO DYNAMIC [DELUXE PACK]"
+}

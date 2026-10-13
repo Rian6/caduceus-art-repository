@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_212.12",
+  "cover": {
+    "path": "PS2/SLUS_212.12/SLUS_212.12_COV.png",
+    "kind": "cover",
+    "bytes": 103577,
+    "width": 192,
+    "height": 272,
+    "sha256": "16c358b7518f4ef14a4af5507efca7aecf5f21f848168253e6dea761b58707a3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21212.jpg"
+    },
+    "gameId": "SLUS_212.12"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.12/SLUS_212.12_ICO.png",
+    "kind": "disc",
+    "bytes": 36411,
+    "width": 256,
+    "height": 256,
+    "sha256": "209d304642cdd4ae2bd78a9fb12c8e0dd2c6951dbc46929fd1a9d7a650117fc2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.12_ICO.png"
+    },
+    "gameId": "SLUS_212.12"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.12/SLUS_212.12_BG.png",
+    "kind": "background",
+    "bytes": 214327,
+    "width": 640,
+    "height": 480,
+    "sha256": "14d2801e2a5b48f8fb2421011fee1f824b1ad39c9ca8bd23901c442521d4d145",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.12/SLUS_212.12_BG_00.png"
+    },
+    "gameId": "SLUS_212.12"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.12/SLUS_212.12_BG.png",
+      "kind": "background",
+      "bytes": 214327,
+      "width": 640,
+      "height": 480,
+      "sha256": "14d2801e2a5b48f8fb2421011fee1f824b1ad39c9ca8bd23901c442521d4d145",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.12/SLUS_212.12_BG_00.png"
+      },
+      "gameId": "SLUS_212.12"
+    },
+    {
+      "path": "PS2/SLUS_212.12/SLUS_212.12_BG_01.png",
+      "kind": "background",
+      "bytes": 111689,
+      "width": 640,
+      "height": 480,
+      "sha256": "85a3aab8cbde39acd14c1199dce968c816b8fa52d955ec516b187b7565851cba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.12/SLUS_212.12_BG_01.png"
+      },
+      "gameId": "SLUS_212.12"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Spartan - Total Warrior"
+}

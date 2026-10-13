@@ -1,0 +1,25 @@
+{
+  "id": "SCES_547.01",
+  "cover": {
+    "path": "PS2/SCES_547.01/SCES_547.01_COV.png",
+    "kind": "cover",
+    "bytes": 109152,
+    "width": 192,
+    "height": 272,
+    "sha256": "b5bee988dd5f7c2c33988ba06057eb5598456a047422017858635d988d22cefd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54701.jpg"
+    },
+    "gameId": "SCES_547.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Junior: RoboJam"
+}

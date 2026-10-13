@@ -1,0 +1,51 @@
+{
+  "id": "SLES_518.17",
+  "cover": {
+    "path": "PS2/SLES_518.17/SLES_518.17_COV.png",
+    "kind": "cover",
+    "bytes": 28905,
+    "width": 192,
+    "height": 272,
+    "sha256": "73a04ff6f1149d95ec544905d64e0f1c5ef4f489e11a2c0cee27ecc11b8061d5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51817.jpg"
+    },
+    "gameId": "SLES_518.17"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_518.17/SLES_518.17_BG.png",
+    "kind": "background",
+    "bytes": 138762,
+    "width": 640,
+    "height": 480,
+    "sha256": "0f086260caf6c218220ab2a5984061fa02ebbad3d326676fc6af41bbe8082bb0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.17/SLES_518.17_BG_00.png"
+    },
+    "gameId": "SLES_518.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.17/SLES_518.17_BG.png",
+      "kind": "background",
+      "bytes": 138762,
+      "width": 640,
+      "height": 480,
+      "sha256": "0f086260caf6c218220ab2a5984061fa02ebbad3d326676fc6af41bbe8082bb0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.17/SLES_518.17_BG_00.png"
+      },
+      "gameId": "SLES_518.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FINAL FANTASY X-2"
+}

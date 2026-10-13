@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_653.17",
+  "cover": {
+    "path": "PS2/SLPM_653.17/SLPM_653.17_COV.png",
+    "kind": "cover",
+    "bytes": 100495,
+    "width": 192,
+    "height": 272,
+    "sha256": "fdce47bf0a327aca69114c664e23f45ee2a999281834c260aa5b23d3e16264d5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65317.jpg"
+    },
+    "gameId": "SLPM_653.17"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_653.17/SLPM_653.17_BG.png",
+    "kind": "background",
+    "bytes": 160915,
+    "width": 640,
+    "height": 480,
+    "sha256": "52167bd377ab0449b0f966c73d7645ca5ccf29145a8eec027bf345306b15b7ea",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_653.17/SLPM_653.17_BG_00.png"
+    },
+    "gameId": "SLPM_653.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_653.17/SLPM_653.17_BG.png",
+      "kind": "background",
+      "bytes": 160915,
+      "width": 640,
+      "height": 480,
+      "sha256": "52167bd377ab0449b0f966c73d7645ca5ccf29145a8eec027bf345306b15b7ea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_653.17/SLPM_653.17_BG_00.png"
+      },
+      "gameId": "SLPM_653.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jikkyou Pro Yakyuu 10"
+}

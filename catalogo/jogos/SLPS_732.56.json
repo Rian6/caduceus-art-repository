@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.56",
+  "cover": {
+    "path": "PS2/SLPS_732.56/SLPS_732.56_COV.png",
+    "kind": "cover",
+    "bytes": 83029,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e59a9cbd5dfc7fb354e36ab12f8d36234c9935535bca8f71cd065186e1c74bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73256.jpg"
+    },
+    "gameId": "SLPS_732.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZERO - AKAI CHOU [PLAYSTATION 2 THE BEST REPRINT]"
+}

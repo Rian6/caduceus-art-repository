@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.86",
+  "cover": {
+    "path": "PS2/SLPM_657.86/SLPM_657.86_COV.png",
+    "kind": "cover",
+    "bytes": 92373,
+    "width": 192,
+    "height": 272,
+    "sha256": "6a31a480a460f023c862a07c716c98bab11d1a75b1ddad56b02688b11e336862",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65786.jpg"
+    },
+    "gameId": "SLPM_657.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NATSUIRO HOSHIKUZU NO MEMORY"
+}

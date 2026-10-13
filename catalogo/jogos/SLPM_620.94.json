@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.94",
+  "cover": {
+    "path": "PS2/SLPM_620.94/SLPM_620.94_COV.png",
+    "kind": "cover",
+    "bytes": 73034,
+    "width": 192,
+    "height": 272,
+    "sha256": "1d345dd7658aa6ff401410b45548b5556530b44de7db513feb045666aac4d82c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62094.jpg"
+    },
+    "gameId": "SLPM_620.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.02 - THE PARTY GAME"
+}

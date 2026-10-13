@@ -1,0 +1,25 @@
+{
+  "id": "SCED_501.44",
+  "cover": {
+    "path": "PS2/SCED_501.44/SCED_501.44_COV.png",
+    "kind": "cover",
+    "bytes": 60364,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc07750009366cfe2ee4e58fd6907516080ba3d7b11871c700bccb6b4f64ea3a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCED_501.44/SCED_501.44_COV.png"
+    },
+    "gameId": "SCED_501.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Official PlayStation 2 Magazine Demo 9"
+}

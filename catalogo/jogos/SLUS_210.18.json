@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_210.18",
+  "cover": {
+    "path": "PS2/SLUS_210.18/SLUS_210.18_COV.png",
+    "kind": "cover",
+    "bytes": 81334,
+    "width": 192,
+    "height": 272,
+    "sha256": "19aece2efa6e3bf0f01e429cd200608e485a18aefa83e7c4d09b8252d3683ecb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21018.jpg"
+    },
+    "gameId": "SLUS_210.18"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.18/SLUS_210.18_ICO.png",
+    "kind": "disc",
+    "bytes": 28622,
+    "width": 256,
+    "height": 256,
+    "sha256": "ac8cf2e51afce19ed76301c23bb7a763105af21041b928c7d269b6a3d67873ea",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.18_ICO.png"
+    },
+    "gameId": "SLUS_210.18"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.18/SLUS_210.18_BG.png",
+    "kind": "background",
+    "bytes": 63097,
+    "width": 640,
+    "height": 480,
+    "sha256": "18debe51ff75db300497a67e54dcf812e68cd92b3a1b14e1978ce51dbcb3b202",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.18/SLUS_210.18_BG_00.png"
+    },
+    "gameId": "SLUS_210.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.18/SLUS_210.18_BG.png",
+      "kind": "background",
+      "bytes": 63097,
+      "width": 640,
+      "height": 480,
+      "sha256": "18debe51ff75db300497a67e54dcf812e68cd92b3a1b14e1978ce51dbcb3b202",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.18/SLUS_210.18_BG_00.png"
+      },
+      "gameId": "SLUS_210.18"
+    },
+    {
+      "path": "PS2/SLUS_210.18/SLUS_210.18_BG_01.png",
+      "kind": "background",
+      "bytes": 205565,
+      "width": 640,
+      "height": 480,
+      "sha256": "f12ac07fa2d65695e3a87aa5d7edb5ad7638b3d1b5bf99d30f7f295a77f06878",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.18/SLUS_210.18_BG_01.png"
+      },
+      "gameId": "SLUS_210.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dog's Life"
+}

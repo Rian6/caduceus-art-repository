@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.30",
+  "cover": {
+    "path": "PS2/SLPS_252.30/SLPS_252.30_COV.png",
+    "kind": "cover",
+    "bytes": 72631,
+    "width": 192,
+    "height": 272,
+    "sha256": "b38b4fce53303c7911ed8272dc1a1fadb016f6e9646db818634a1d644ab0374b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25230.jpg"
+    },
+    "gameId": "SLPS_252.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOUL CALIBUR II"
+}

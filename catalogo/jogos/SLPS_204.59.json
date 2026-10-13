@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.59",
+  "cover": {
+    "path": "PS2/SLPS_204.59/SLPS_204.59_COV.png",
+    "kind": "cover",
+    "bytes": 105986,
+    "width": 192,
+    "height": 272,
+    "sha256": "7957cad372ffb187d9d977a343cc5a1430e7526525a387947039fef33fe781ad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20459.jpg"
+    },
+    "gameId": "SLPS_204.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yamasa Digi World SP - Moe yo! Kung Fu Lady"
+}

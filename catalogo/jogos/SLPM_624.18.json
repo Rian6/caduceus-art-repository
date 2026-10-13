@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_624.18",
+  "cover": {
+    "path": "PS2/SLPM_624.18/SLPM_624.18_COV.png",
+    "kind": "cover",
+    "bytes": 96958,
+    "width": 192,
+    "height": 272,
+    "sha256": "6d6508795cc414d0bf2e095baebec159d8dd554f5f4a0af87f719f7bb0dcef5f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62418.jpg"
+    },
+    "gameId": "SLPM_624.18"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.18/SLPM_624.18_BG.png",
+    "kind": "background",
+    "bytes": 225858,
+    "width": 640,
+    "height": 480,
+    "sha256": "1539af416853c99ef2d6b83bd1c3b5a5ffae1d2fe63a75cb956a6c3e9ad223c6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.18/SLPM_624.18_BG_00.png"
+    },
+    "gameId": "SLPM_624.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.18/SLPM_624.18_BG.png",
+      "kind": "background",
+      "bytes": 225858,
+      "width": 640,
+      "height": 480,
+      "sha256": "1539af416853c99ef2d6b83bd1c3b5a5ffae1d2fe63a75cb956a6c3e9ad223c6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.18/SLPM_624.18_BG_00.png"
+      },
+      "gameId": "SLPM_624.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HUDSON SELECTION VOL. 3 - PC GENJIN"
+}

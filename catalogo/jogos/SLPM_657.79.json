@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.79",
+  "cover": {
+    "path": "PS2/SLPM_657.79/SLPM_657.79_COV.png",
+    "kind": "cover",
+    "bytes": 72311,
+    "width": 192,
+    "height": 272,
+    "sha256": "610ad3c775310e90b84a9b85f2c261861344f82f534ac50cdf532fa4d3cf3521",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65779.jpg"
+    },
+    "gameId": "SLPM_657.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Exciting Pro Wrestling 5 (Yuke's The Best)"
+}

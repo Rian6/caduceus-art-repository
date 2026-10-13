@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_256.23",
+  "cover": {
+    "path": "PS2/SLPS_256.23/SLPS_256.23_COV.png",
+    "kind": "cover",
+    "bytes": 94307,
+    "width": 192,
+    "height": 272,
+    "sha256": "fee90dad9f7c8b6c09417a5aad32fa88f30dd3891f8891500fc6304ddf3926af",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25623.jpg"
+    },
+    "gameId": "SLPS_256.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.23/SLPS_256.23_BG.png",
+    "kind": "background",
+    "bytes": 180502,
+    "width": 640,
+    "height": 480,
+    "sha256": "0382cc60fafeb8b5f18d28b5ac0b38eee124f09981a3445426de79d00f527446",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.23/SLPS_256.23_BG_00.png"
+    },
+    "gameId": "SLPS_256.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.23/SLPS_256.23_BG.png",
+      "kind": "background",
+      "bytes": 180502,
+      "width": 640,
+      "height": 480,
+      "sha256": "0382cc60fafeb8b5f18d28b5ac0b38eee124f09981a3445426de79d00f527446",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.23/SLPS_256.23_BG_00.png"
+      },
+      "gameId": "SLPS_256.23"
+    },
+    {
+      "path": "PS2/SLPS_256.23/SLPS_256.23_BG_01.png",
+      "kind": "background",
+      "bytes": 241232,
+      "width": 640,
+      "height": 480,
+      "sha256": "1a2685c12c1d941ee72a6e77b47de707e1378bd10d6f456e12445076dff701f0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.23/SLPS_256.23_BG_01.png"
+      },
+      "gameId": "SLPS_256.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Another Century's Episode 2"
+}

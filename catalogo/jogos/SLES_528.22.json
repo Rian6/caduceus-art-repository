@@ -1,0 +1,103 @@
+{
+  "id": "SLES_528.22",
+  "cover": {
+    "path": "PS2/SLES_528.22/SLES_528.22_COV.png",
+    "kind": "cover",
+    "bytes": 111501,
+    "width": 192,
+    "height": 272,
+    "sha256": "37281da7b6d6f6900d03143e91efdfb264e4a36bb9f045aad1d6a37a1deaf176",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52822.jpg"
+    },
+    "gameId": "SLES_528.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.22/SLES_528.22_BG.png",
+    "kind": "background",
+    "bytes": 205679,
+    "width": 640,
+    "height": 480,
+    "sha256": "a03faa2996700c97a757f9c5609f6f37051e4462781834ef058d09913c36b719",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.22/SLES_528.22_BG_00.png"
+    },
+    "gameId": "SLES_528.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.22/SLES_528.22_BG.png",
+      "kind": "background",
+      "bytes": 205679,
+      "width": 640,
+      "height": 480,
+      "sha256": "a03faa2996700c97a757f9c5609f6f37051e4462781834ef058d09913c36b719",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.22/SLES_528.22_BG_00.png"
+      },
+      "gameId": "SLES_528.22"
+    },
+    {
+      "path": "PS2/SLES_528.22/SLES_528.22_BG_01.png",
+      "kind": "background",
+      "bytes": 188065,
+      "width": 640,
+      "height": 480,
+      "sha256": "8f273640ffc87337e16b069bf5afde491e0ad818dbe6e4710d2af28838211cca",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.22/SLES_528.22_BG_01.png"
+      },
+      "gameId": "SLES_528.22"
+    },
+    {
+      "path": "PS2/SLES_528.22/SLES_528.22_BG_02.png",
+      "kind": "background",
+      "bytes": 213739,
+      "width": 640,
+      "height": 480,
+      "sha256": "1b7d1735b22cccc69550ef5b7c630bd0aa6bd766b08bad5e8b47d6a5fc58be52",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.22/SLES_528.22_BG_02.png"
+      },
+      "gameId": "SLES_528.22"
+    },
+    {
+      "path": "PS2/SLES_528.22/SLES_528.22_BG_03.png",
+      "kind": "background",
+      "bytes": 197976,
+      "width": 640,
+      "height": 480,
+      "sha256": "82d8eebf1ce22bea2dcc6c59c9b9f464e14317c5d79f5e8200cd5c78feb9dd49",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.22/SLES_528.22_BG_03.png"
+      },
+      "gameId": "SLES_528.22"
+    },
+    {
+      "path": "PS2/SLES_528.22/SLES_528.22_BG_04.png",
+      "kind": "background",
+      "bytes": 169548,
+      "width": 640,
+      "height": 480,
+      "sha256": "465c461cc6319ba5b12629d11764125a70f097dce34385530695a4d3c988d97a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.22/SLES_528.22_BG_04.png"
+      },
+      "gameId": "SLES_528.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Prince of Persia: Warrior Within"
+}

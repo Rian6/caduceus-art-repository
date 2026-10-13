@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_250.33",
+  "cover": {
+    "path": "PS2/SLPS_250.33/SLPS_250.33_COV.png",
+    "kind": "cover",
+    "bytes": 91007,
+    "width": 192,
+    "height": 272,
+    "sha256": "fd417738eafda85e2fc3332daaeb52032b6b0ab9b3a1c0b91a18ad79575c1c80",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25033.jpg"
+    },
+    "gameId": "SLPS_250.33"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_250.33/SLPS_250.33_BG.png",
+    "kind": "background",
+    "bytes": 147803,
+    "width": 640,
+    "height": 480,
+    "sha256": "677072f6007af3f9b28acf07574737660b7f5608724cd23d8af75add3fdb5d11",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.33/SLPS_250.33_BG_00.png"
+    },
+    "gameId": "SLPS_250.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_250.33/SLPS_250.33_BG.png",
+      "kind": "background",
+      "bytes": 147803,
+      "width": 640,
+      "height": 480,
+      "sha256": "677072f6007af3f9b28acf07574737660b7f5608724cd23d8af75add3fdb5d11",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.33/SLPS_250.33_BG_00.png"
+      },
+      "gameId": "SLPS_250.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAZE NO KLONOA 2 - SEKAI GA NOZONDA WASUREMONO"
+}

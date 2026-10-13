@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_210.14",
+  "cover": {
+    "path": "PS2/SLUS_210.14/SLUS_210.14_COV.png",
+    "kind": "cover",
+    "bytes": 90516,
+    "width": 192,
+    "height": 272,
+    "sha256": "c805052d10e6230f05b7b337e2f4dcf1af51880a6ce84f1de3b5476f27a85425",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21014.jpg"
+    },
+    "gameId": "SLUS_210.14"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.14/SLUS_210.14_ICO.png",
+    "kind": "disc",
+    "bytes": 33653,
+    "width": 256,
+    "height": 256,
+    "sha256": "047c3f4dfe39bfdb17a030efb299e94a000774c42d0280188a5c3fca84c09157",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.14_ICO.png"
+    },
+    "gameId": "SLUS_210.14"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.14/SLUS_210.14_BG.png",
+    "kind": "background",
+    "bytes": 164038,
+    "width": 640,
+    "height": 480,
+    "sha256": "4b2d53aa7e210501117d1671027cc5d89cd5c6c757b2e101765a672a9de32a64",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.14/SLUS_210.14_BG_00.png"
+    },
+    "gameId": "SLUS_210.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.14/SLUS_210.14_BG.png",
+      "kind": "background",
+      "bytes": 164038,
+      "width": 640,
+      "height": 480,
+      "sha256": "4b2d53aa7e210501117d1671027cc5d89cd5c6c757b2e101765a672a9de32a64",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.14/SLUS_210.14_BG_00.png"
+      },
+      "gameId": "SLUS_210.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "High Roller Casino"
+}

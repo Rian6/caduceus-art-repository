@@ -1,0 +1,65 @@
+{
+  "id": "SLES_542.22",
+  "cover": {
+    "path": "PS2/SLES_542.22/SLES_542.22_COV.png",
+    "kind": "cover",
+    "bytes": 80594,
+    "width": 192,
+    "height": 272,
+    "sha256": "49ea8357af287983d3a0d864b3db8984a48cc3bab8c7edd86a4cbda6779679d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54222.jpg"
+    },
+    "gameId": "SLES_542.22"
+  },
+  "disc": {
+    "path": "PS2/SLES_542.22/SLES_542.22_ICO.png",
+    "kind": "disc",
+    "bytes": 10458,
+    "width": 128,
+    "height": 128,
+    "sha256": "c5c1c9cbf91bcc0191858f3790b60e001e3f5338a38e9e291555d254e8a38df1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_542.22_ICO.png"
+    },
+    "gameId": "SLES_542.22"
+  },
+  "background": {
+    "path": "PS2/SLES_542.22/SLES_542.22_BG.png",
+    "kind": "background",
+    "bytes": 160263,
+    "width": 640,
+    "height": 480,
+    "sha256": "60878148222f0d0f980918b152e4bff0be1719c9d860f34c73a1719ed6aa041a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_542.22/SLES_542.22_BG_00.png"
+    },
+    "gameId": "SLES_542.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_542.22/SLES_542.22_BG.png",
+      "kind": "background",
+      "bytes": 160263,
+      "width": 640,
+      "height": 480,
+      "sha256": "60878148222f0d0f980918b152e4bff0be1719c9d860f34c73a1719ed6aa041a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.22/SLES_542.22_BG_00.png"
+      },
+      "gameId": "SLES_542.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super-Bikes Riding Challenge"
+}

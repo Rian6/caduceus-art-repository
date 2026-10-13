@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.78",
+  "cover": {
+    "path": "PS2/SLPM_627.78/SLPM_627.78_COV.png",
+    "kind": "cover",
+    "bytes": 102613,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff05dea527e7ecafd0f26aaab7e3fa5879cb710b49f52a6658617b20269b4c7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62778.jpg"
+    },
+    "gameId": "SLPM_627.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLOTTER UP MANIA 10 - PIONEER SPECIAL III"
+}

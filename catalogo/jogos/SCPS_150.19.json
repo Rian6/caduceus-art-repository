@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.19",
+  "cover": {
+    "path": "PS2/SCPS_150.19/SCPS_150.19_COV.png",
+    "kind": "cover",
+    "bytes": 57635,
+    "width": 192,
+    "height": 272,
+    "sha256": "f50a403a25e7d8054a34525451fff31f2faf35df3d6af4f759670fb4d38afc7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15019.jpg"
+    },
+    "gameId": "SCPS_150.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Formula One 2001"
+}

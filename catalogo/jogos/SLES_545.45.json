@@ -1,0 +1,65 @@
+{
+  "id": "SLES_545.45",
+  "cover": {
+    "path": "PS2/SLES_545.45/SLES_545.45_COV.png",
+    "kind": "cover",
+    "bytes": 94725,
+    "width": 192,
+    "height": 272,
+    "sha256": "55d98a894aab43a15d0b1a65b2a99d4356931efffdcc6fe89d2253f04de189a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54545.jpg"
+    },
+    "gameId": "SLES_545.45"
+  },
+  "disc": {
+    "path": "PS2/SLES_545.45/SLES_545.45_ICO.png",
+    "kind": "disc",
+    "bytes": 10090,
+    "width": 128,
+    "height": 128,
+    "sha256": "2a27763c2837d4416451f980ac04c1783c72103e2da54c5df360ccde4afa7060",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_545.45_ICO.png"
+    },
+    "gameId": "SLES_545.45"
+  },
+  "background": {
+    "path": "PS2/SLES_545.45/SLES_545.45_BG.png",
+    "kind": "background",
+    "bytes": 174988,
+    "width": 640,
+    "height": 480,
+    "sha256": "a209a635517216ef69cfdfef7e92a2066f523af17079f8cfced06c328231867c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.45/SLES_545.45_BG_00.png"
+    },
+    "gameId": "SLES_545.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_545.45/SLES_545.45_BG.png",
+      "kind": "background",
+      "bytes": 174988,
+      "width": 640,
+      "height": 480,
+      "sha256": "a209a635517216ef69cfdfef7e92a2066f523af17079f8cfced06c328231867c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.45/SLES_545.45_BG_00.png"
+      },
+      "gameId": "SLES_545.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Maxxed Out Racing - Nitro"
+}

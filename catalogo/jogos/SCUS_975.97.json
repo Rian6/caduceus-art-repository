@@ -1,0 +1,65 @@
+{
+  "id": "SCUS_975.97",
+  "cover": {
+    "path": "PS2/SCUS_975.97/SCUS_975.97_COV.png",
+    "kind": "cover",
+    "bytes": 119373,
+    "width": 192,
+    "height": 272,
+    "sha256": "92b1dc63b0f0eba52edab56c701b4610e8440190af2aa5394344e1218c4fc7e7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97597.jpg"
+    },
+    "gameId": "SCUS_975.97"
+  },
+  "disc": {
+    "path": "PS2/SCUS_975.97/SCUS_975.97_ICO.png",
+    "kind": "disc",
+    "bytes": 12069,
+    "width": 128,
+    "height": 128,
+    "sha256": "534908bd7b3b6a9bf108a1a1a9577f702a99bcb3177a28e78002a03d6ae58615",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCUS_975.97_ICO.png"
+    },
+    "gameId": "SCUS_975.97"
+  },
+  "background": {
+    "path": "PS2/SCUS_975.97/SCUS_975.97_BG.png",
+    "kind": "background",
+    "bytes": 173154,
+    "width": 640,
+    "height": 480,
+    "sha256": "ca1b8924bf586abec931e548306d725e0e25925135196aa1a361159fc3f70497",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_975.97/SCUS_975.97_BG_00.png"
+    },
+    "gameId": "SCUS_975.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_975.97/SCUS_975.97_BG.png",
+      "kind": "background",
+      "bytes": 173154,
+      "width": 640,
+      "height": 480,
+      "sha256": "ca1b8924bf586abec931e548306d725e0e25925135196aa1a361159fc3f70497",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_975.97/SCUS_975.97_BG_00.png"
+      },
+      "gameId": "SCUS_975.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Jr. RoboJam (With Buzzers)"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_513.77",
+  "cover": {
+    "path": "PS2/SLES_513.77/SLES_513.77_COV.png",
+    "kind": "cover",
+    "bytes": 96144,
+    "width": 192,
+    "height": 272,
+    "sha256": "6873d9d6668a1324fb5d5788c6495358a09a57044f499d8136395d75c4041f37",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51377.jpg"
+    },
+    "gameId": "SLES_513.77"
+  },
+  "disc": {
+    "path": "PS2/SLES_513.77/SLES_513.77_ICO.png",
+    "kind": "disc",
+    "bytes": 11126,
+    "width": 128,
+    "height": 128,
+    "sha256": "f54349c0a3b8e63eb3977bbc880e62478dc7422ba0c4eebc09c98dc0c2337ab6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_513.77_ICO.png"
+    },
+    "gameId": "SLES_513.77"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taxi 3"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.72",
+  "cover": {
+    "path": "PS2/SLPS_255.72/SLPS_255.72_COV.png",
+    "kind": "cover",
+    "bytes": 108236,
+    "width": 192,
+    "height": 272,
+    "sha256": "8b56a124bde93cc9ba435c834c66a0e75fca865d1426cfcec013a9a05627edcb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25572.jpg"
+    },
+    "gameId": "SLPS_255.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAMURAI SPIRITS ZERO [SNK BEST COLLECTION]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.55",
+  "cover": {
+    "path": "PS2/SLPM_653.55/SLPM_653.55_COV.png",
+    "kind": "cover",
+    "bytes": 97004,
+    "width": 192,
+    "height": 272,
+    "sha256": "71e89680057611e19001e31a1ea8189370dd80fdfd8c87384f022774aae60bc9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65355.jpg"
+    },
+    "gameId": "SLPM_653.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NATSUIRO KOMACHI [FIRST PRINT LIMITED EDITION]"
+}

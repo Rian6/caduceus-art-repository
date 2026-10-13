@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.03",
+  "cover": {
+    "path": "PS2/SLKA_251.03/SLKA_251.03_COV.png",
+    "kind": "cover",
+    "bytes": 106272,
+    "width": 192,
+    "height": 272,
+    "sha256": "8cae75c0154a5ea108a17f18c39a83d84bca7fc8e0db50d981bf523b7d774646",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25103.jpg"
+    },
+    "gameId": "SLKA_251.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHINSEIKI EVANGELION 2 - EVANGELIONS"
+}

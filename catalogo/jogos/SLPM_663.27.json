@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.27",
+  "cover": {
+    "path": "PS2/SLPM_663.27/SLPM_663.27_COV.png",
+    "kind": "cover",
+    "bytes": 89213,
+    "width": 192,
+    "height": 272,
+    "sha256": "1d983fd04b24e18b79dbbe62968c2fe8ebfe64d683d78fe8b4bd9dd933444c15",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66327.jpg"
+    },
+    "gameId": "SLPM_663.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wallace and Gromit - Yasaibatake de Dai-Pinch!"
+}

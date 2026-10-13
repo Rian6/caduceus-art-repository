@@ -1,0 +1,39 @@
+{
+  "id": "SCES_519.77",
+  "cover": {
+    "path": "PS2/SCES_519.77/SCES_519.77_COV.png",
+    "kind": "cover",
+    "bytes": 108206,
+    "width": 192,
+    "height": 272,
+    "sha256": "75575630ca510bedd63aad22634371855e35f8453687d558fd2ed1de35e7dfa5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51977.jpg"
+    },
+    "gameId": "SCES_519.77"
+  },
+  "disc": {
+    "path": "PS2/SCES_519.77/SCES_519.77_ICO.png",
+    "kind": "disc",
+    "bytes": 11372,
+    "width": 128,
+    "height": 128,
+    "sha256": "8c21dd785329a279f9cd06a0f0f503fbc50172a999113dc05487157e744610d0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_519.77_ICO.png"
+    },
+    "gameId": "SCES_519.77"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hardware Online Arena"
+}

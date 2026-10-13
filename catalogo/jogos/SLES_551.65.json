@@ -1,0 +1,64 @@
+{
+  "id": "SLES_551.65",
+  "cover": {
+    "path": "PS2/SLES_551.65/SLES_551.65_COV.png",
+    "kind": "cover",
+    "bytes": 94278,
+    "width": 192,
+    "height": 272,
+    "sha256": "a9666976e6ebd5d11a49fcdc37cd467bb6da9629ceed7f3d404ff3fbaca473b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55165.jpg"
+    },
+    "gameId": "SLES_551.65"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_551.65/SLES_551.65_BG.png",
+    "kind": "background",
+    "bytes": 175842,
+    "width": 640,
+    "height": 480,
+    "sha256": "1219d2a02359f87ef400acb40441856df8191bcaa46d58647d855d7a48cb918d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_551.65/SLES_551.65_BG_00.png"
+    },
+    "gameId": "SLES_551.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_551.65/SLES_551.65_BG.png",
+      "kind": "background",
+      "bytes": 175842,
+      "width": 640,
+      "height": 480,
+      "sha256": "1219d2a02359f87ef400acb40441856df8191bcaa46d58647d855d7a48cb918d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.65/SLES_551.65_BG_00.png"
+      },
+      "gameId": "SLES_551.65"
+    },
+    {
+      "path": "PS2/SLES_551.65/SLES_551.65_BG_01.png",
+      "kind": "background",
+      "bytes": 241249,
+      "width": 640,
+      "height": 480,
+      "sha256": "6ce569ca901c3660bc0391867e974934a753690a8ffb4681c72c49ef21218aee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.65/SLES_551.65_BG_01.png"
+      },
+      "gameId": "SLES_551.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Mummy: Tomb of the Dragon Emperor"
+}

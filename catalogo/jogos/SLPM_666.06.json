@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.06",
+  "cover": {
+    "path": "PS2/SLPM_666.06/SLPM_666.06_COV.png",
+    "kind": "cover",
+    "bytes": 90182,
+    "width": 192,
+    "height": 272,
+    "sha256": "b7a8884553b5b35f17582ea0e3694704fbac939cce26c3b6106d9a949521ce7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66606.jpg"
+    },
+    "gameId": "SLPM_666.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WHITE BREATH - KIZUNA [FIRST PRINT LIMITED EDITION]"
+}

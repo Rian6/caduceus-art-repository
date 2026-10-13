@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.33",
+  "cover": {
+    "path": "PS2/SLPM_650.33/SLPM_650.33_COV.png",
+    "kind": "cover",
+    "bytes": 112826,
+    "width": 192,
+    "height": 272,
+    "sha256": "400c34b3e5fff312a8fdc80a8d7b8826e4b3e56f8d1b19ccbea8b082341ee109",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65033.jpg"
+    },
+    "gameId": "SLPM_650.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kikou Heidan J-Phoenix"
+}

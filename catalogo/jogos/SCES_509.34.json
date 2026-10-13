@@ -1,0 +1,65 @@
+{
+  "id": "SCES_509.34",
+  "cover": {
+    "path": "PS2/SCES_509.34/SCES_509.34_COV.png",
+    "kind": "cover",
+    "bytes": 70945,
+    "width": 192,
+    "height": 272,
+    "sha256": "25875302f5024603f81d01740e662b39d8eb4dd40925bf5bf8c9ae58677cfbbe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50934.jpg"
+    },
+    "gameId": "SCES_509.34"
+  },
+  "disc": {
+    "path": "PS2/SCES_509.34/SCES_509.34_ICO.png",
+    "kind": "disc",
+    "bytes": 10340,
+    "width": 128,
+    "height": 128,
+    "sha256": "3303d979c12762a06a9e8da9674cc312c9475664a8c6ce9caa02e269e6462fdb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_509.34_ICO.png"
+    },
+    "gameId": "SCES_509.34"
+  },
+  "background": {
+    "path": "PS2/SCES_509.34/SCES_509.34_BG.png",
+    "kind": "background",
+    "bytes": 139075,
+    "width": 640,
+    "height": 480,
+    "sha256": "fcecebc7a848b8939521a324700c53508113d060409b316090681c4054a58f19",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_509.34/SCES_509.34_BG_00.png"
+    },
+    "gameId": "SCES_509.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_509.34/SCES_509.34_BG.png",
+      "kind": "background",
+      "bytes": 139075,
+      "width": 640,
+      "height": 480,
+      "sha256": "fcecebc7a848b8939521a324700c53508113d060409b316090681c4054a58f19",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.34/SCES_509.34_BG_00.png"
+      },
+      "gameId": "SCES_509.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WRC - World Rally Championship II Extreme"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_205.00",
+  "cover": {
+    "path": "PS2/SLPS_205.00/SLPS_205.00_COV.png",
+    "kind": "cover",
+    "bytes": 88546,
+    "width": 192,
+    "height": 272,
+    "sha256": "3dcd0160f0cba366bd855e533fc214c910644c1cb513b750ea41ca71b51922b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20500.jpg"
+    },
+    "gameId": "SLPS_205.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.120 - The Saigo No Nippon Hei - Utsukushiki Kokudo Dakkan Sakusen"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_545.52",
+  "cover": {
+    "path": "PS2/SLES_545.52/SLES_545.52_COV.png",
+    "kind": "cover",
+    "bytes": 67107,
+    "width": 192,
+    "height": 272,
+    "sha256": "0270cc21c954356083ab03331fa8935982bc73dc6049f624dea904f6f49fb2e1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.52/SLES_545.52_COV.png"
+    },
+    "gameId": "SLES_545.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rogue Galaxy"
+}

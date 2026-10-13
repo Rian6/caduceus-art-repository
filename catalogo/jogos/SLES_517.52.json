@@ -1,0 +1,25 @@
+{
+  "id": "SLES_517.52",
+  "cover": {
+    "path": "PS2/SLES_517.52/SLES_517.52_COV.png",
+    "kind": "cover",
+    "bytes": 90795,
+    "width": 192,
+    "height": 272,
+    "sha256": "511bedd4e211fe1da7a5e6c19af237d39c7b12fc41fcf002d63000760f286820",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51752.jpg"
+    },
+    "gameId": "SLES_517.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tony Hawk's Underground"
+}

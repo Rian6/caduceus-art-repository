@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.09",
+  "cover": {
+    "path": "PS2/SLPS_200.09/SLPS_200.09_COV.png",
+    "kind": "cover",
+    "bytes": 91692,
+    "width": 192,
+    "height": 272,
+    "sha256": "541e9ba83435f8144f730763cc7e2f26d16372a2f7318d4e9ffe03bc8300fe3f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20009.jpg"
+    },
+    "gameId": "SLPS_200.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GOLF PARADISE"
+}

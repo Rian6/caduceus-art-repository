@@ -1,0 +1,91 @@
+{
+  "id": "SLES_530.60",
+  "cover": {
+    "path": "PS2/SLES_530.60/SLES_530.60_COV.png",
+    "kind": "cover",
+    "bytes": 100983,
+    "width": 192,
+    "height": 272,
+    "sha256": "0cf98805f71c67db38d0ac3eb84b0d2256af7fe3c629dda43a861a341a706d6e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53060.jpg"
+    },
+    "gameId": "SLES_530.60"
+  },
+  "disc": {
+    "path": "PS2/SLES_530.60/SLES_530.60_ICO.png",
+    "kind": "disc",
+    "bytes": 11025,
+    "width": 128,
+    "height": 128,
+    "sha256": "fbd1347f86e579148d23f3816685bccd0640a1bab7a0b227f39410d0d871552f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_530.60_ICO.png"
+    },
+    "gameId": "SLES_530.60"
+  },
+  "background": {
+    "path": "PS2/SLES_530.60/SLES_530.60_BG.png",
+    "kind": "background",
+    "bytes": 97685,
+    "width": 640,
+    "height": 480,
+    "sha256": "b17745a99fd5ae0149cefe3541f36bb378eeffde056375cfa790143d3003eafb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.60/SLES_530.60_BG_00.png"
+    },
+    "gameId": "SLES_530.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.60/SLES_530.60_BG.png",
+      "kind": "background",
+      "bytes": 97685,
+      "width": 640,
+      "height": 480,
+      "sha256": "b17745a99fd5ae0149cefe3541f36bb378eeffde056375cfa790143d3003eafb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.60/SLES_530.60_BG_00.png"
+      },
+      "gameId": "SLES_530.60"
+    },
+    {
+      "path": "PS2/SLES_530.60/SLES_530.60_BG_01.png",
+      "kind": "background",
+      "bytes": 153841,
+      "width": 640,
+      "height": 480,
+      "sha256": "6315b262e0849943fcdc2436620464cbb13add6a9a3bf9b86924914cf041942c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.60/SLES_530.60_BG_01.png"
+      },
+      "gameId": "SLES_530.60"
+    },
+    {
+      "path": "PS2/SLES_530.60/SLES_530.60_BG_02.png",
+      "kind": "background",
+      "bytes": 162649,
+      "width": 640,
+      "height": 480,
+      "sha256": "b336945f298e56ed7c19bc89a823190c860aec9962a71f1226023020057c65e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.60/SLES_530.60_BG_02.png"
+      },
+      "gameId": "SLES_530.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Asterix & Obelix XXL 2: Mission: Las Vegum"
+}

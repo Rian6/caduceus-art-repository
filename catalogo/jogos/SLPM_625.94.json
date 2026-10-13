@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.94",
+  "cover": {
+    "path": "PS2/SLPM_625.94/SLPM_625.94_COV.png",
+    "kind": "cover",
+    "bytes": 94325,
+    "width": 192,
+    "height": 272,
+    "sha256": "fa346c85d6f17d3c893c3603284e2a61ab44db6a119ef0e5c3aa46ae0587f75e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62594.jpg"
+    },
+    "gameId": "SLPM_625.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taisen Hot Gimmick - Cosplay-jong (Psikyo Best)"
+}

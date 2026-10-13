@@ -1,0 +1,64 @@
+{
+  "id": "SLES_541.59",
+  "cover": {
+    "path": "PS2/SLES_541.59/SLES_541.59_COV.png",
+    "kind": "cover",
+    "bytes": 99645,
+    "width": 192,
+    "height": 272,
+    "sha256": "765a21edc8495b829279db86a5fe30fb203352265e1769b7f729792de7e41e9b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54159.jpg"
+    },
+    "gameId": "SLES_541.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.59/SLES_541.59_BG.png",
+    "kind": "background",
+    "bytes": 197566,
+    "width": 640,
+    "height": 480,
+    "sha256": "72aa27dde01666ae18a6f94e3ccf0fcb16008c08edd49ed405d610e7707c4d28",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.59/SLES_541.59_BG_00.png"
+    },
+    "gameId": "SLES_541.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.59/SLES_541.59_BG.png",
+      "kind": "background",
+      "bytes": 197566,
+      "width": 640,
+      "height": 480,
+      "sha256": "72aa27dde01666ae18a6f94e3ccf0fcb16008c08edd49ed405d610e7707c4d28",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.59/SLES_541.59_BG_00.png"
+      },
+      "gameId": "SLES_541.59"
+    },
+    {
+      "path": "PS2/SLES_541.59/SLES_541.59_BG_01.png",
+      "kind": "background",
+      "bytes": 197644,
+      "width": 640,
+      "height": 480,
+      "sha256": "5b80974edd7659092682486506a513e2d7dc1dd2d5479055ea0c822fe02cccfc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.59/SLES_541.59_BG_01.png"
+      },
+      "gameId": "SLES_541.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ERAGON"
+}

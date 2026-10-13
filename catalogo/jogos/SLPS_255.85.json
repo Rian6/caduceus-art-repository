@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.85",
+  "cover": {
+    "path": "PS2/SLPS_255.85/SLPS_255.85_COV.png",
+    "kind": "cover",
+    "bytes": 91436,
+    "width": 192,
+    "height": 272,
+    "sha256": "33eec502b1796ae8a7bb1c80927c6d8e6ec81d630f18eac90c375587369458d8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25585.jpg"
+    },
+    "gameId": "SLPS_255.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Monster Farm 5 - Circus Caravan"
+}

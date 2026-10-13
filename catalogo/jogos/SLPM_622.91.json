@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_622.91",
+  "cover": {
+    "path": "PS2/SLPM_622.91/SLPM_622.91_COV.png",
+    "kind": "cover",
+    "bytes": 104663,
+    "width": 192,
+    "height": 272,
+    "sha256": "ad456933f41422b42f4c45dc7367e80260838ed0fbbc3e2b63b8cedf2a9aae56",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62291.jpg"
+    },
+    "gameId": "SLPM_622.91"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_622.91/SLPM_622.91_BG.png",
+    "kind": "background",
+    "bytes": 207754,
+    "width": 640,
+    "height": 480,
+    "sha256": "fd8ff774041eed061a49eada5d3e25781651dd17eed9f1aa585bec13edf64905",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_622.91/SLPM_622.91_BG_00.png"
+    },
+    "gameId": "SLPM_622.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_622.91/SLPM_622.91_BG.png",
+      "kind": "background",
+      "bytes": 207754,
+      "width": 640,
+      "height": 480,
+      "sha256": "fd8ff774041eed061a49eada5d3e25781651dd17eed9f1aa585bec13edf64905",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_622.91/SLPM_622.91_BG_00.png"
+      },
+      "gameId": "SLPM_622.91"
+    },
+    {
+      "path": "PS2/SLPM_622.91/SLPM_622.91_BG_01.png",
+      "kind": "background",
+      "bytes": 214765,
+      "width": 640,
+      "height": 480,
+      "sha256": "6b42b50ac8a844db071c5ea02140d13239ae4f2d6287df7ef04510a8f9b0d3d3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_622.91/SLPM_622.91_BG_01.png"
+      },
+      "gameId": "SLPM_622.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bomberman Land 2: Game Shijou Saidai no Theme Park"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.14",
+  "cover": {
+    "path": "PS2/SLPS_259.14/SLPS_259.14_COV.png",
+    "kind": "cover",
+    "bytes": 111611,
+    "width": 192,
+    "height": 272,
+    "sha256": "f6de668f2c15cb7319cc64b6817b9307a7e0971bc5e9d01d8aaf74e17f177ca7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25914.jpg"
+    },
+    "gameId": "SLPS_259.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam Giren no Yabou - Axis no Kyoui V"
+}

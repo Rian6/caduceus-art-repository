@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.96",
+  "cover": {
+    "path": "PS2/SLAJ_250.96/SLAJ_250.96_COV.png",
+    "kind": "cover",
+    "bytes": 90779,
+    "width": 192,
+    "height": 272,
+    "sha256": "0618d9846da0e6ff5796d5b45fe2d8b88237644e50487d78b8de4e185da20ca3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25096.jpg"
+    },
+    "gameId": "SLAJ_250.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Musou Orochi"
+}

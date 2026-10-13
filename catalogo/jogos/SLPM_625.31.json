@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.31",
+  "cover": {
+    "path": "PS2/SLPM_625.31/SLPM_625.31_COV.png",
+    "kind": "cover",
+    "bytes": 76405,
+    "width": 192,
+    "height": 272,
+    "sha256": "dfc2a94ee793ba67d80759ba0fcb48e9823dbc3d2b10f6e95161a62ac15ca0e8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62531.jpg"
+    },
+    "gameId": "SLPM_625.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mahjong Yarouze 2 (Konami Dendou Selection)"
+}

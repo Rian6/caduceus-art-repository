@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.50",
+  "cover": {
+    "path": "PS2/SLPM_621.50/SLPM_621.50_COV.png",
+    "kind": "cover",
+    "bytes": 61085,
+    "width": 192,
+    "height": 272,
+    "sha256": "19d0c48720f036a66d9c500cfdb0ec8d3da80b551396095ec298bb001c1ce0b7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62150.jpg"
+    },
+    "gameId": "SLPM_621.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.03 - The Bass Fishing"
+}

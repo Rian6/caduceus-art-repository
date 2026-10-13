@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.02",
+  "cover": {
+    "path": "PS2/SLPS_259.02/SLPS_259.02_COV.png",
+    "kind": "cover",
+    "bytes": 89107,
+    "width": 192,
+    "height": 272,
+    "sha256": "cd431a6fa850d25c8442c1a7b565ace24086913034cacd09ed469c940313cd46",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25902.jpg"
+    },
+    "gameId": "SLPS_259.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JUNJOU ROMANTICA - KOI NO DOKI DOKI DAISAKUSEN"
+}

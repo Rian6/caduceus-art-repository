@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_254.01",
+  "cover": {
+    "path": "PS2/SLKA_254.01/SLKA_254.01_COV.png",
+    "kind": "cover",
+    "bytes": 103260,
+    "width": 192,
+    "height": 272,
+    "sha256": "17a8e8df85f50631c5bb9c69965706508702ecdf793fe17e55fb5b744f2d6bb6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25401.jpg"
+    },
+    "gameId": "SLKA_254.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FLATOUT 2"
+}

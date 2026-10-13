@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_256.74",
+  "cover": {
+    "path": "PS2/SLPS_256.74/SLPS_256.74_COV.png",
+    "kind": "cover",
+    "bytes": 106640,
+    "width": 192,
+    "height": 272,
+    "sha256": "e0883ea7d42e0f6a2f4b478f263564ef016125a0622b318fb0fcf927a8063c19",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25674.jpg"
+    },
+    "gameId": "SLPS_256.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.74/SLPS_256.74_BG.png",
+    "kind": "background",
+    "bytes": 197988,
+    "width": 640,
+    "height": 480,
+    "sha256": "791fc715b4fe2bee7b617fe2e848d06e76a237d57f51e075b77e6330ed142362",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.74/SLPS_256.74_BG_00.png"
+    },
+    "gameId": "SLPS_256.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.74/SLPS_256.74_BG.png",
+      "kind": "background",
+      "bytes": 197988,
+      "width": 640,
+      "height": 480,
+      "sha256": "791fc715b4fe2bee7b617fe2e848d06e76a237d57f51e075b77e6330ed142362",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.74/SLPS_256.74_BG_00.png"
+      },
+      "gameId": "SLPS_256.74"
+    },
+    {
+      "path": "PS2/SLPS_256.74/SLPS_256.74_BG_01.png",
+      "kind": "background",
+      "bytes": 242042,
+      "width": 640,
+      "height": 480,
+      "sha256": "63ca0206d7ec1b57d52aba128341329d6bb22adb03455720fa679442b112f08c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.74/SLPS_256.74_BG_01.png"
+      },
+      "gameId": "SLPS_256.74"
+    },
+    {
+      "path": "PS2/SLPS_256.74/SLPS_256.74_BG_02.png",
+      "kind": "background",
+      "bytes": 147310,
+      "width": 640,
+      "height": 480,
+      "sha256": "d5bd7e003def16802b81abc060001f63dfb002fab808fdf388bc3c86e26e55c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.74/SLPS_256.74_BG_02.png"
+      },
+      "gameId": "SLPS_256.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Metal Slug 6"
+}

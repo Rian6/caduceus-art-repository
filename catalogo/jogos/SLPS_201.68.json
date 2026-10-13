@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.68",
+  "cover": {
+    "path": "PS2/SLPS_201.68/SLPS_201.68_COV.png",
+    "kind": "cover",
+    "bytes": 95234,
+    "width": 192,
+    "height": 272,
+    "sha256": "7f02b0a81c8d3fd6ea52bbb0e3191814bf8426af18d8bd55ba9026a468190cc3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20168.jpg"
+    },
+    "gameId": "SLPS_201.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL 2002"
+}

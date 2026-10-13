@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_668.97",
+  "cover": {
+    "path": "PS2/SLPM_668.97/SLPM_668.97_COV.png",
+    "kind": "cover",
+    "bytes": 93466,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c6ef416982f6e41e17ab085d05f86f35afad65af6d7cd4c0d4b7d745427fc77",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66897.jpg"
+    },
+    "gameId": "SLPM_668.97"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_668.97/SLPM_668.97_BG.png",
+    "kind": "background",
+    "bytes": 176498,
+    "width": 640,
+    "height": 480,
+    "sha256": "a9b334eee8e9658ee21f76b19c3b16d0fdfd89e6a9403f4b41a37c8a8d261eb1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_668.97/SLPM_668.97_BG_00.png"
+    },
+    "gameId": "SLPM_668.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_668.97/SLPM_668.97_BG.png",
+      "kind": "background",
+      "bytes": 176498,
+      "width": 640,
+      "height": 480,
+      "sha256": "a9b334eee8e9658ee21f76b19c3b16d0fdfd89e6a9403f4b41a37c8a8d261eb1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_668.97/SLPM_668.97_BG_00.png"
+      },
+      "gameId": "SLPM_668.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Xyanide"
+}

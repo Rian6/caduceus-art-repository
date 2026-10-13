@@ -1,0 +1,64 @@
+{
+  "id": "SLES_537.15",
+  "cover": {
+    "path": "PS2/SLES_537.15/SLES_537.15_COV.png",
+    "kind": "cover",
+    "bytes": 107571,
+    "width": 192,
+    "height": 272,
+    "sha256": "567cf4d29d14403c7f5cb7e18d7fd838fe9ea6288f9472dca3489d2d6de75ad9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53715.jpg"
+    },
+    "gameId": "SLES_537.15"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.15/SLES_537.15_BG.png",
+    "kind": "background",
+    "bytes": 199300,
+    "width": 640,
+    "height": 480,
+    "sha256": "afc7fbfe783b87a7f0f3f7084514799282baf7bcb69da181f37419c2b567269e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.15/SLES_537.15_BG_00.png"
+    },
+    "gameId": "SLES_537.15"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.15/SLES_537.15_BG.png",
+      "kind": "background",
+      "bytes": 199300,
+      "width": 640,
+      "height": 480,
+      "sha256": "afc7fbfe783b87a7f0f3f7084514799282baf7bcb69da181f37419c2b567269e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.15/SLES_537.15_BG_00.png"
+      },
+      "gameId": "SLES_537.15"
+    },
+    {
+      "path": "PS2/SLES_537.15/SLES_537.15_BG_01.png",
+      "kind": "background",
+      "bytes": 206293,
+      "width": 640,
+      "height": 480,
+      "sha256": "7f5934cd53156124bf6a827956e2dc38549aa4a0f2ff74fcb1432f6ded2a95eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.15/SLES_537.15_BG_01.png"
+      },
+      "gameId": "SLES_537.15"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe"
+}

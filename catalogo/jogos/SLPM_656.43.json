@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_656.43",
+  "cover": {
+    "path": "PS2/SLPM_656.43/SLPM_656.43_COV.png",
+    "kind": "cover",
+    "bytes": 112730,
+    "width": 192,
+    "height": 272,
+    "sha256": "74c951dc8dade80a72c09dbe1b5ec0ebbb859329f3ef9ebf49d924e925bf1dfb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65643.jpg"
+    },
+    "gameId": "SLPM_656.43"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_656.43/SLPM_656.43_BG.png",
+    "kind": "background",
+    "bytes": 176555,
+    "width": 640,
+    "height": 480,
+    "sha256": "369074815965fba797fe58478458c24a18691aa2a49fa2196db654b674adb799",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_656.43/SLPM_656.43_BG_00.png"
+    },
+    "gameId": "SLPM_656.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_656.43/SLPM_656.43_BG.png",
+      "kind": "background",
+      "bytes": 176555,
+      "width": 640,
+      "height": 480,
+      "sha256": "369074815965fba797fe58478458c24a18691aa2a49fa2196db654b674adb799",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.43/SLPM_656.43_BG_00.png"
+      },
+      "gameId": "SLPM_656.43"
+    },
+    {
+      "path": "PS2/SLPM_656.43/SLPM_656.43_BG_01.png",
+      "kind": "background",
+      "bytes": 188980,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb9baa2e35a47f80087c9b9879483a18bd6781d8621ba040e0863a5987ff00e4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.43/SLPM_656.43_BG_01.png"
+      },
+      "gameId": "SLPM_656.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROCKMAN X COMMAND MISSION"
+}

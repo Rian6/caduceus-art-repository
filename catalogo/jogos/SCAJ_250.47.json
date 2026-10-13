@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_250.47",
+  "cover": {
+    "path": "PS2/SCAJ_250.47/SCAJ_250.47_COV.png",
+    "kind": "cover",
+    "bytes": 91554,
+    "width": 192,
+    "height": 272,
+    "sha256": "4d980ee076e7ed1d2b777fc210e6dacf18ca7b63137c36b8c6030a94262f3620",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-25047.jpg"
+    },
+    "gameId": "SCAJ_250.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dororo"
+}

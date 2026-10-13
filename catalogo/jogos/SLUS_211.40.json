@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_211.40",
+  "cover": {
+    "path": "PS2/SLUS_211.40/SLUS_211.40_COV.png",
+    "kind": "cover",
+    "bytes": 109134,
+    "width": 192,
+    "height": 272,
+    "sha256": "e587fc6ac990f492f7a0777b452e612b9a174d3064f13f7f87803f759fbc5684",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21140.jpg"
+    },
+    "gameId": "SLUS_211.40"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.40/SLUS_211.40_ICO.png",
+    "kind": "disc",
+    "bytes": 35534,
+    "width": 256,
+    "height": 256,
+    "sha256": "b7d5854a0cbed347c76f34974ebce5b7a42e54a555b093353b74526451e846bb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.40_ICO.png"
+    },
+    "gameId": "SLUS_211.40"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.40/SLUS_211.40_BG.png",
+    "kind": "background",
+    "bytes": 186591,
+    "width": 640,
+    "height": 480,
+    "sha256": "4d99dea2bffd5317c217f41f88e3235fd3450c62839d03ce839944682399144f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.40/SLUS_211.40_BG_00.png"
+    },
+    "gameId": "SLUS_211.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.40/SLUS_211.40_BG.png",
+      "kind": "background",
+      "bytes": 186591,
+      "width": 640,
+      "height": 480,
+      "sha256": "4d99dea2bffd5317c217f41f88e3235fd3450c62839d03ce839944682399144f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.40/SLUS_211.40_BG_00.png"
+      },
+      "gameId": "SLUS_211.40"
+    },
+    {
+      "path": "PS2/SLUS_211.40/SLUS_211.40_BG_01.png",
+      "kind": "background",
+      "bytes": 187255,
+      "width": 640,
+      "height": 480,
+      "sha256": "e9e774ab0d2d4d10d4eae8095047feae515ea784269e8c097b4e8c6d5b9fd485",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.40/SLUS_211.40_BG_01.png"
+      },
+      "gameId": "SLUS_211.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mobile Suit Gundam Seed - Never Ending Tomorrow"
+}

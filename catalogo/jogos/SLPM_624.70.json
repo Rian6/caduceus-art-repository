@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.70",
+  "cover": {
+    "path": "PS2/SLPM_624.70/SLPM_624.70_COV.png",
+    "kind": "cover",
+    "bytes": 108715,
+    "width": 192,
+    "height": 272,
+    "sha256": "67f362c66aa9601a1e460a6447182eff2358f20ec0c365b632ff97c9e0e06607",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62470.jpg"
+    },
+    "gameId": "SLPM_624.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Teitoku no Ketsudan 4 with Power-Up Kit"
+}

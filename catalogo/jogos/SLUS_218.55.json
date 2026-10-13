@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_218.55",
+  "cover": {
+    "path": "PS2/SLUS_218.55/SLUS_218.55_COV.png",
+    "kind": "cover",
+    "bytes": 106323,
+    "width": 192,
+    "height": 272,
+    "sha256": "4d4c60d5eaaff81d4ea628b2701452e7b14f6ea3a4229b80b7e980dae4d2895b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21855.jpg"
+    },
+    "gameId": "SLUS_218.55"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.55/SLUS_218.55_ICO.png",
+    "kind": "disc",
+    "bytes": 34337,
+    "width": 256,
+    "height": 256,
+    "sha256": "329052ddd2de41cec8e41bf9ed0a6db6f0a12fe686663a57b3eb4dcbec69928d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.55_ICO.png"
+    },
+    "gameId": "SLUS_218.55"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NPPL Championship Paintball 2009"
+}

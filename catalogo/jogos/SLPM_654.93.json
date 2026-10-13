@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.93",
+  "cover": {
+    "path": "PS2/SLPM_654.93/SLPM_654.93_COV.png",
+    "kind": "cover",
+    "bytes": 80365,
+    "width": 192,
+    "height": 272,
+    "sha256": "c90546f8002afbd71b82a037d5a1b3943aa8b2d3914dd920e9e163c05f393a8a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65493.jpg"
+    },
+    "gameId": "SLPM_654.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FURASERA - HURRAH! SAILOR [LIMITED EDITION]"
+}

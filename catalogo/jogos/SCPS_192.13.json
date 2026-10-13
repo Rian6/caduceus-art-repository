@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_192.13",
+  "cover": {
+    "path": "PS2/SCPS_192.13/SCPS_192.13_COV.png",
+    "kind": "cover",
+    "bytes": 69357,
+    "width": 192,
+    "height": 272,
+    "sha256": "b87adaac35a7c963db4396da96ff77f135d95009077c5f8adfd9d3cd1b29babc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19213.jpg"
+    },
+    "gameId": "SCPS_192.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OPERATOR'S SIDE [WITH USB HEADSETS] [PLAYSTATION 2 THE BEST]"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_544.93",
+  "cover": {
+    "path": "PS2/SLES_544.93/SLES_544.93_COV.png",
+    "kind": "cover",
+    "bytes": 94174,
+    "width": 192,
+    "height": 272,
+    "sha256": "33b144fe9e0c0c5a240250d0b913a9cce17d5070276739f7d2a9eb650955a60f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54493.jpg"
+    },
+    "gameId": "SLES_544.93"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_544.93/SLES_544.93_BG.png",
+    "kind": "background",
+    "bytes": 205211,
+    "width": 640,
+    "height": 480,
+    "sha256": "760d90d0560a7a2e3150d2fb76988a7b5e05030d8f7ca8203e5f69e5fea92257",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.93/SLES_544.93_BG_00.png"
+    },
+    "gameId": "SLES_544.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.93/SLES_544.93_BG.png",
+      "kind": "background",
+      "bytes": 205211,
+      "width": 640,
+      "height": 480,
+      "sha256": "760d90d0560a7a2e3150d2fb76988a7b5e05030d8f7ca8203e5f69e5fea92257",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.93/SLES_544.93_BG_00.png"
+      },
+      "gameId": "SLES_544.93"
+    },
+    {
+      "path": "PS2/SLES_544.93/SLES_544.93_BG_01.png",
+      "kind": "background",
+      "bytes": 200451,
+      "width": 640,
+      "height": 480,
+      "sha256": "0557da5ef5e0258bf3ae731ef1649b751cfc4226116c4df5f0e517c51a1f27b3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.93/SLES_544.93_BG_01.png"
+      },
+      "gameId": "SLES_544.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Need for Speed: Carbon"
+}

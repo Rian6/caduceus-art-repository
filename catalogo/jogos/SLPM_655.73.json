@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.73",
+  "cover": {
+    "path": "PS2/SLPM_655.73/SLPM_655.73_COV.png",
+    "kind": "cover",
+    "bytes": 70227,
+    "width": 192,
+    "height": 272,
+    "sha256": "6d787728ec8a2ced454d5818273d10ec267e67750a8b949969b3fe36054ec306",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65573.jpg"
+    },
+    "gameId": "SLPM_655.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WRC II EXTREME [SPIKE THE BEST]"
+}

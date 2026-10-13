@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_216.69",
+  "cover": {
+    "path": "PS2/SLUS_216.69/SLUS_216.69_COV.png",
+    "kind": "cover",
+    "bytes": 77673,
+    "width": 192,
+    "height": 272,
+    "sha256": "346611dff7c8ee3c673df2d7894336fb0b9409e0f0eae51903377d997fb0548e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21669.jpg"
+    },
+    "gameId": "SLUS_216.69"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.69/SLUS_216.69_ICO.png",
+    "kind": "disc",
+    "bytes": 32445,
+    "width": 256,
+    "height": 256,
+    "sha256": "79072c00f0a564b0682c55fe5e64508d4ada3686a012bf074b4ab7db860ad1c9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.69_ICO.png"
+    },
+    "gameId": "SLUS_216.69"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.69/SLUS_216.69_BG.png",
+    "kind": "background",
+    "bytes": 194791,
+    "width": 640,
+    "height": 480,
+    "sha256": "9c5cb0e010d9e646ae7b14c843ee1a2b499ee668c260ee7f893d5201401b3681",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.69/SLUS_216.69_BG_00.png"
+    },
+    "gameId": "SLUS_216.69"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.69/SLUS_216.69_BG.png",
+      "kind": "background",
+      "bytes": 194791,
+      "width": 640,
+      "height": 480,
+      "sha256": "9c5cb0e010d9e646ae7b14c843ee1a2b499ee668c260ee7f893d5201401b3681",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.69/SLUS_216.69_BG_00.png"
+      },
+      "gameId": "SLUS_216.69"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA 2K8"
+}

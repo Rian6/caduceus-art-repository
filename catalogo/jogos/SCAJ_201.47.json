@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.47",
+  "cover": {
+    "path": "PS2/SCAJ_201.47/SCAJ_201.47_COV.png",
+    "kind": "cover",
+    "bytes": 103941,
+    "width": 192,
+    "height": 272,
+    "sha256": "fabb8f529f3123e8b1217c5ad775ae312643b175a97f243d5506a2aac1e53670",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20147.jpg"
+    },
+    "gameId": "SCAJ_201.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HEAVY METAL THUNDER"
+}

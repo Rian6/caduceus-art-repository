@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.19",
+  "cover": {
+    "path": "PS2/SLPM_627.19/SLPM_627.19_COV.png",
+    "kind": "cover",
+    "bytes": 98636,
+    "width": 192,
+    "height": 272,
+    "sha256": "2bba8b9b06894bd6fa9fdb1300c3738f1a401e49842e221b50b4a5dedb18696d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62719.jpg"
+    },
+    "gameId": "SLPM_627.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachi-Slot Nobunaga no Yabou - Tenka Sousei"
+}

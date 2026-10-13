@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.78",
+  "cover": {
+    "path": "PS2/SLPS_200.78/SLPS_200.78_COV.png",
+    "kind": "cover",
+    "bytes": 99283,
+    "width": 192,
+    "height": 272,
+    "sha256": "fbebf49e55e0904b99904db0816d4110269818c583295058402e39726d20faee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20078.jpg"
+    },
+    "gameId": "SLPS_200.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sim People"
+}

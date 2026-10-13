@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_217.23",
+  "cover": {
+    "path": "PS2/SLUS_217.23/SLUS_217.23_COV.png",
+    "kind": "cover",
+    "bytes": 107261,
+    "width": 192,
+    "height": 272,
+    "sha256": "fd0f7d9704a8c2ed0570d9e55a46fea5ac585c7177e5703e2a399825455a99f8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21723.jpg"
+    },
+    "gameId": "SLUS_217.23"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.23/SLUS_217.23_ICO.png",
+    "kind": "disc",
+    "bytes": 29082,
+    "width": 256,
+    "height": 256,
+    "sha256": "80a9d259aec7aa2aea580d48c662711e5492a60e194f1feaa5226d826fe5d654",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.23_ICO.png"
+    },
+    "gameId": "SLUS_217.23"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.23/SLUS_217.23_BG.png",
+    "kind": "background",
+    "bytes": 175731,
+    "width": 640,
+    "height": 480,
+    "sha256": "2cebf7e9df6100d398b45f22dbe8abc36e10232a45863aeb9211b6b899dd6731",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.23/SLUS_217.23_BG_00.png"
+    },
+    "gameId": "SLUS_217.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.23/SLUS_217.23_BG.png",
+      "kind": "background",
+      "bytes": 175731,
+      "width": 640,
+      "height": 480,
+      "sha256": "2cebf7e9df6100d398b45f22dbe8abc36e10232a45863aeb9211b6b899dd6731",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.23/SLUS_217.23_BG_00.png"
+      },
+      "gameId": "SLUS_217.23"
+    },
+    {
+      "path": "PS2/SLUS_217.23/SLUS_217.23_BG_01.png",
+      "kind": "background",
+      "bytes": 140541,
+      "width": 640,
+      "height": 480,
+      "sha256": "4c2a28a2b8e445dbd7beedc6091f6634116f0aefea9ae70aa1c61a521075e991",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.23/SLUS_217.23_BG_01.png"
+      },
+      "gameId": "SLUS_217.23"
+    },
+    {
+      "path": "PS2/SLUS_217.23/SLUS_217.23_BG_02.png",
+      "kind": "background",
+      "bytes": 134318,
+      "width": 640,
+      "height": 480,
+      "sha256": "65f9e30de8e3893536bcf5c51909ea37b0556f4754d05aec428787bbc3da120e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.23/SLUS_217.23_BG_02.png"
+      },
+      "gameId": "SLUS_217.23"
+    },
+    {
+      "path": "PS2/SLUS_217.23/SLUS_217.23_BG_03.png",
+      "kind": "background",
+      "bytes": 139029,
+      "width": 640,
+      "height": 480,
+      "sha256": "0fee36f5cbfc9a74ce6dc5f83c18ffa1c142c431bbd5b42ca6f89b5e4235c77d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.23/SLUS_217.23_BG_03.png"
+      },
+      "gameId": "SLUS_217.23"
+    },
+    {
+      "path": "PS2/SLUS_217.23/SLUS_217.23_BG_04.png",
+      "kind": "background",
+      "bytes": 115939,
+      "width": 640,
+      "height": 480,
+      "sha256": "01df57eeafcf50b52c1939b5dbc180cbdd2f36425076b784ecd7a7ba6eaf3177",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.23/SLUS_217.23_BG_04.png"
+      },
+      "gameId": "SLUS_217.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fatal Fury Battle Archives Vol.2"
+}

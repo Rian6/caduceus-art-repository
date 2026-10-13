@@ -1,0 +1,77 @@
+{
+  "id": "SCES_551.78",
+  "cover": {
+    "path": "PS2/SCES_551.78/SCES_551.78_COV.png",
+    "kind": "cover",
+    "bytes": 88527,
+    "width": 192,
+    "height": 272,
+    "sha256": "16611af7cc9e30712c7dd5a45cb26225df96946e91884563c5ca42c45396e999",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55178.jpg"
+    },
+    "gameId": "SCES_551.78"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_551.78/SCES_551.78_BG.png",
+    "kind": "background",
+    "bytes": 185012,
+    "width": 640,
+    "height": 480,
+    "sha256": "bf03c3f5b74ccf6b06ba91875ca284c118077fb66df1306f8ca37d1db11e28b9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_551.78/SCES_551.78_BG_00.png"
+    },
+    "gameId": "SCES_551.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_551.78/SCES_551.78_BG.png",
+      "kind": "background",
+      "bytes": 185012,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf03c3f5b74ccf6b06ba91875ca284c118077fb66df1306f8ca37d1db11e28b9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_551.78/SCES_551.78_BG_00.png"
+      },
+      "gameId": "SCES_551.78"
+    },
+    {
+      "path": "PS2/SCES_551.78/SCES_551.78_BG_01.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_551.78/SCES_551.78_BG_01.png"
+      },
+      "gameId": "SCES_551.78"
+    },
+    {
+      "path": "PS2/SCES_551.78/SCES_551.78_BG_02.png",
+      "kind": "background",
+      "bytes": 174136,
+      "width": 640,
+      "height": 480,
+      "sha256": "ca898ed4d72893edc1475cc577d35fa2abc4362c871a6102f5546357b73a20d2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_551.78/SCES_551.78_BG_02.png"
+      },
+      "gameId": "SCES_551.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Boys Bands vs Girls Bands"
+}

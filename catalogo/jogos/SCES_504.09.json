@@ -1,0 +1,25 @@
+{
+  "id": "SCES_504.09",
+  "cover": {
+    "path": "PS2/SCES_504.09/SCES_504.09_COV.png",
+    "kind": "cover",
+    "bytes": 74580,
+    "width": 192,
+    "height": 272,
+    "sha256": "e5b4d2a5e02296ee5a5f5151d13642e0b22c9572e946186fbfd517e469a8cb86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50409.jpg"
+    },
+    "gameId": "SCES_504.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MOTOGP 2"
+}

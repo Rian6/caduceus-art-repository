@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.59",
+  "cover": {
+    "path": "PS2/SLES_505.59/SLES_505.59_COV.png",
+    "kind": "cover",
+    "bytes": 67915,
+    "width": 192,
+    "height": 272,
+    "sha256": "784d36f254fc672cf97c586c03cf3fddc7a543bd9c979a476351d0870e8a8f9f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50559.jpg"
+    },
+    "gameId": "SLES_505.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guy Roux Manager 2002"
+}

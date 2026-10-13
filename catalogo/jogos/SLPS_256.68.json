@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.68",
+  "cover": {
+    "path": "PS2/SLPS_256.68/SLPS_256.68_COV.png",
+    "kind": "cover",
+    "bytes": 109190,
+    "width": 192,
+    "height": 272,
+    "sha256": "e1fece76e68df4a098bb6d324e3db7491e70f15058525ee50a95a28848a8bbc3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25668.jpg"
+    },
+    "gameId": "SLPS_256.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TORIKAGO NO MUKOUGAWA"
+}

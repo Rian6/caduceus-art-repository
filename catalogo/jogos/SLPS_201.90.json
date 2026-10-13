@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.90",
+  "cover": {
+    "path": "PS2/SLPS_201.90/SLPS_201.90_COV.png",
+    "kind": "cover",
+    "bytes": 98406,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf94e78bee76b76f371c4e7f80e0ab48bc5bc9cc03e6a7c9a74c9d25f0c0862e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20190.jpg"
+    },
+    "gameId": "SLPS_201.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Netchuu! Pro Yakyuu 2002"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.09",
+  "cover": {
+    "path": "PS2/SLPS_253.09/SLPS_253.09_COV.png",
+    "kind": "cover",
+    "bytes": 86644,
+    "width": 192,
+    "height": 272,
+    "sha256": "ae459e5b4152c88733f8cd56845d85c6d6d077366512efa512426effb2d50b7e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25309.jpg"
+    },
+    "gameId": "SLPS_253.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Exciting Pro Wrestling 4 (Yuke's The Best)"
+}

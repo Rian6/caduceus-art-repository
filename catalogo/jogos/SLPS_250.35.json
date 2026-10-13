@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.35",
+  "cover": {
+    "path": "PS2/SLPS_250.35/SLPS_250.35_COV.png",
+    "kind": "cover",
+    "bytes": 91516,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e3724f53745a3ed1c601d4029107b6b4931d46296e59ab16a135057cd15b9a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25035.jpg"
+    },
+    "gameId": "SLPS_250.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MONSTER FARM"
+}

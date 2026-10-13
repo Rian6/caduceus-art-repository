@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.28",
+  "cover": {
+    "path": "PS2/SLPM_656.28/SLPM_656.28_COV.png",
+    "kind": "cover",
+    "bytes": 74225,
+    "width": 192,
+    "height": 272,
+    "sha256": "6c10ac8575b57341a1674ba3887e222a95c25a054f6877775ec4c3294d710494",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65628.jpg"
+    },
+    "gameId": "SLPM_656.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Supeerlite 2000 Vol. 21 - Konohana Pack: 3-tsu no Jikenbo"
+}

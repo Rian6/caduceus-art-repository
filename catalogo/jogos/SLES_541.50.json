@@ -1,0 +1,64 @@
+{
+  "id": "SLES_541.50",
+  "cover": {
+    "path": "PS2/SLES_541.50/SLES_541.50_COV.png",
+    "kind": "cover",
+    "bytes": 84548,
+    "width": 192,
+    "height": 272,
+    "sha256": "332bf424e98c0985f74f4124159f306de4d4866d114b79bdc94cf2229ff03491",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54150.jpg"
+    },
+    "gameId": "SLES_541.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.50/SLES_541.50_BG.png",
+    "kind": "background",
+    "bytes": 142844,
+    "width": 640,
+    "height": 480,
+    "sha256": "1d9f086d5f267eb9230ecd5df76c410d4277e13019e183cf9180585663431e2b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.50/SLES_541.50_BG_00.png"
+    },
+    "gameId": "SLES_541.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.50/SLES_541.50_BG.png",
+      "kind": "background",
+      "bytes": 142844,
+      "width": 640,
+      "height": 480,
+      "sha256": "1d9f086d5f267eb9230ecd5df76c410d4277e13019e183cf9180585663431e2b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.50/SLES_541.50_BG_00.png"
+      },
+      "gameId": "SLES_541.50"
+    },
+    {
+      "path": "PS2/SLES_541.50/SLES_541.50_BG_01.png",
+      "kind": "background",
+      "bytes": 138393,
+      "width": 640,
+      "height": 480,
+      "sha256": "f8cba79a2c04e4f46bef38fe6226aee71ece51e7e345618f078212f1de0a3c2d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.50/SLES_541.50_BG_01.png"
+      },
+      "gameId": "SLES_541.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bionicle Heroes"
+}

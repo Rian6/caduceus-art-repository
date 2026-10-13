@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.25",
+  "cover": {
+    "path": "PS2/SLPM_552.25/SLPM_552.25_COV.png",
+    "kind": "cover",
+    "bytes": 124213,
+    "width": 192,
+    "height": 272,
+    "sha256": "b8543f1ebaec70556b10e0148f227a48dd6eb71457e63aa9c31be22d3312ba02",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55225.jpg"
+    },
+    "gameId": "SLPM_552.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Hime: Senran ni Mau Otometachi"
+}

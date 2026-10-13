@@ -1,0 +1,77 @@
+{
+  "id": "SCES_550.19",
+  "cover": {
+    "path": "PS2/SCES_550.19/SCES_550.19_COV.png",
+    "kind": "cover",
+    "bytes": 100805,
+    "width": 192,
+    "height": 272,
+    "sha256": "521202a8e70e2e19efbf72fda56787687012dbf9f0b576fac546e498aec476a9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55019.jpg"
+    },
+    "gameId": "SCES_550.19"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_550.19/SCES_550.19_BG.png",
+    "kind": "background",
+    "bytes": 191843,
+    "width": 640,
+    "height": 480,
+    "sha256": "69542e224f26b50b901578555e9895e0e5d471555e0b0ba9a0d071bad3da1804",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_550.19/SCES_550.19_BG_00.png"
+    },
+    "gameId": "SCES_550.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_550.19/SCES_550.19_BG.png",
+      "kind": "background",
+      "bytes": 191843,
+      "width": 640,
+      "height": 480,
+      "sha256": "69542e224f26b50b901578555e9895e0e5d471555e0b0ba9a0d071bad3da1804",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_550.19/SCES_550.19_BG_00.png"
+      },
+      "gameId": "SCES_550.19"
+    },
+    {
+      "path": "PS2/SCES_550.19/SCES_550.19_BG_01.png",
+      "kind": "background",
+      "bytes": 144904,
+      "width": 640,
+      "height": 480,
+      "sha256": "1675edb95ef677dba4fec76acbfb749115c17f50fb9e52e942e40c76272bab9b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_550.19/SCES_550.19_BG_01.png"
+      },
+      "gameId": "SCES_550.19"
+    },
+    {
+      "path": "PS2/SCES_550.19/SCES_550.19_BG_02.png",
+      "kind": "background",
+      "bytes": 160475,
+      "width": 640,
+      "height": 480,
+      "sha256": "070396ae34cc9672123c08db0625ca8e05819cc50be05944427e106a0fd574cb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_550.19/SCES_550.19_BG_02.png"
+      },
+      "gameId": "SCES_550.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ratchet & Clank - Size Matters"
+}

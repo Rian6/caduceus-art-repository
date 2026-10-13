@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.60",
+  "cover": {
+    "path": "PS2/SLPM_651.60/SLPM_651.60_COV.png",
+    "kind": "cover",
+    "bytes": 113031,
+    "width": 192,
+    "height": 272,
+    "sha256": "4af7943a703dd95412b4a28d815aaf28fd4b426e8ccdfbbd41495ea395b8b514",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65160.jpg"
+    },
+    "gameId": "SLPM_651.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GITAROO MAN [KOEI SUMMER CHANCE]"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_110.12",
+  "cover": {
+    "path": "PS2/SCPS_110.12/SCPS_110.12_COV.png",
+    "kind": "cover",
+    "bytes": 61571,
+    "width": 192,
+    "height": 272,
+    "sha256": "aec32a39a9765f75ec638ceeb969a77a60b5935ce988f949f8a1597c966c37e8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11012.jpg"
+    },
+    "gameId": "SCPS_110.12"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_110.12/SCPS_110.12_BG.png",
+    "kind": "background",
+    "bytes": 109632,
+    "width": 640,
+    "height": 480,
+    "sha256": "ddddf7240c057858c939a7bcd6844e979e7fae395f28c1db0a57f79d8f6f3f74",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_110.12/SCPS_110.12_BG_00.png"
+    },
+    "gameId": "SCPS_110.12"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_110.12/SCPS_110.12_BG.png",
+      "kind": "background",
+      "bytes": 109632,
+      "width": 640,
+      "height": 480,
+      "sha256": "ddddf7240c057858c939a7bcd6844e979e7fae395f28c1db0a57f79d8f6f3f74",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_110.12/SCPS_110.12_BG_00.png"
+      },
+      "gameId": "SCPS_110.12"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rimococoron"
+}

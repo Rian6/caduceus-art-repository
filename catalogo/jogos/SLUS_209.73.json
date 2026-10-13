@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_209.73",
+  "cover": {
+    "path": "PS2/SLUS_209.73/SLUS_209.73_COV.png",
+    "kind": "cover",
+    "bytes": 96567,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0a6abe644c92c6374b84aa5a95a2da77e7c6c86f51832b76b754a428f0c993d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20973.jpg"
+    },
+    "gameId": "SLUS_209.73"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.73/SLUS_209.73_ICO.png",
+    "kind": "disc",
+    "bytes": 31164,
+    "width": 256,
+    "height": 256,
+    "sha256": "6bf08ea0a7e6c7298c8359aeb93b2e96e9149700b34c942100595533905a8010",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.73_ICO.png"
+    },
+    "gameId": "SLUS_209.73"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.73/SLUS_209.73_BG.png",
+    "kind": "background",
+    "bytes": 198670,
+    "width": 640,
+    "height": 480,
+    "sha256": "155599b7e50b4700f0fadae5258331b12494c5e144ed4d1c4a5900b5c6772731",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.73/SLUS_209.73_BG_00.png"
+    },
+    "gameId": "SLUS_209.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.73/SLUS_209.73_BG.png",
+      "kind": "background",
+      "bytes": 198670,
+      "width": 640,
+      "height": 480,
+      "sha256": "155599b7e50b4700f0fadae5258331b12494c5e144ed4d1c4a5900b5c6772731",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.73/SLUS_209.73_BG_00.png"
+      },
+      "gameId": "SLUS_209.73"
+    },
+    {
+      "path": "PS2/SLUS_209.73/SLUS_209.73_BG_01.png",
+      "kind": "background",
+      "bytes": 230705,
+      "width": 640,
+      "height": 480,
+      "sha256": "8ec055dfa9c2b5e4882c18411ddc109d289ecb0d229869fea3a336c69913ddba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.73/SLUS_209.73_BG_01.png"
+      },
+      "gameId": "SLUS_209.73"
+    },
+    {
+      "path": "PS2/SLUS_209.73/SLUS_209.73_BG_02.png",
+      "kind": "background",
+      "bytes": 186605,
+      "width": 640,
+      "height": 480,
+      "sha256": "ad8803b58815d14f3a409ea11e0411f540da7138b83cb20ef20535da7d1d78e4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.73/SLUS_209.73_BG_02.png"
+      },
+      "gameId": "SLUS_209.73"
+    },
+    {
+      "path": "PS2/SLUS_209.73/SLUS_209.73_BG_03.png",
+      "kind": "background",
+      "bytes": 247487,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e479a46fea5cf5a69b846c2ecd5d7c7a9aa747dc61d25986b0b9fda5aef44c3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.73/SLUS_209.73_BG_03.png"
+      },
+      "gameId": "SLUS_209.73"
+    },
+    {
+      "path": "PS2/SLUS_209.73/SLUS_209.73_BG_04.png",
+      "kind": "background",
+      "bytes": 183563,
+      "width": 640,
+      "height": 480,
+      "sha256": "154b2fe29a5c7ff5bbbe339fe600149cdad5a273c923eb195171f82c556d76c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.73/SLUS_209.73_BG_04.png"
+      },
+      "gameId": "SLUS_209.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Champions - Return to Arms"
+}

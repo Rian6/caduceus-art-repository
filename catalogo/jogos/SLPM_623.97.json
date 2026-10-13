@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.97",
+  "cover": {
+    "path": "PS2/SLPM_623.97/SLPM_623.97_COV.png",
+    "kind": "cover",
+    "bytes": 75627,
+    "width": 192,
+    "height": 272,
+    "sha256": "63998970bbade080b2f30cdd74b78c3e33bae01f3e1419cb8f183b1337fdc4ed",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62397.jpg"
+    },
+    "gameId": "SLPM_623.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 HONKAKU SHIKOU VOL.005 - THE KIRYOKU KENTEI"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.70",
+  "cover": {
+    "path": "PS2/SLPS_250.70/SLPS_250.70_COV.png",
+    "kind": "cover",
+    "bytes": 119851,
+    "width": 192,
+    "height": 272,
+    "sha256": "e81f2a3fe3b0e96d43752795260a6652e58dfca5fb767ddc1dbe70077c03bebb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25070.jpg"
+    },
+    "gameId": "SLPS_250.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sunrise Eiyuutan 2"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_209.92",
+  "cover": {
+    "path": "PS2/SLUS_209.92/SLUS_209.92_COV.png",
+    "kind": "cover",
+    "bytes": 74616,
+    "width": 192,
+    "height": 272,
+    "sha256": "507ccea9f3d2ddba3d3486c583b673225da89036e647a55e9b151e21146d58e8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20992.jpg"
+    },
+    "gameId": "SLUS_209.92"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.92/SLUS_209.92_ICO.png",
+    "kind": "disc",
+    "bytes": 19609,
+    "width": 256,
+    "height": 256,
+    "sha256": "16c55b0551b44b07d2d8e9c944fee7a3f268c33eb574f117fda0f6ed75e83ff7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.92_ICO.png"
+    },
+    "gameId": "SLUS_209.92"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.92/SLUS_209.92_BG.png",
+    "kind": "background",
+    "bytes": 172602,
+    "width": 640,
+    "height": 480,
+    "sha256": "4335be52a4b9eca467f293ef7c378832848ec0db1233c29b9a6b594af0ff6e40",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.92/SLUS_209.92_BG_00.png"
+    },
+    "gameId": "SLUS_209.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.92/SLUS_209.92_BG.png",
+      "kind": "background",
+      "bytes": 172602,
+      "width": 640,
+      "height": 480,
+      "sha256": "4335be52a4b9eca467f293ef7c378832848ec0db1233c29b9a6b594af0ff6e40",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.92/SLUS_209.92_BG_00.png"
+      },
+      "gameId": "SLUS_209.92"
+    },
+    {
+      "path": "PS2/SLUS_209.92/SLUS_209.92_BG_01.png",
+      "kind": "background",
+      "bytes": 167985,
+      "width": 640,
+      "height": 480,
+      "sha256": "b118309612394386fa1475077a3167d8efd946fe5e239ded4f9ff1e7d57fe8b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.92/SLUS_209.92_BG_01.png"
+      },
+      "gameId": "SLUS_209.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Catwoman"
+}

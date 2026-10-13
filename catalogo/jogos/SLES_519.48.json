@@ -1,0 +1,25 @@
+{
+  "id": "SLES_519.48",
+  "cover": {
+    "path": "PS2/SLES_519.48/SLES_519.48_COV.png",
+    "kind": "cover",
+    "bytes": 83774,
+    "width": 192,
+    "height": 272,
+    "sha256": "7773d654bd8e39281a4b0b0b1f732c56f09d8212352b966b89c539cd880c2d98",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51948.jpg"
+    },
+    "gameId": "SLES_519.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN NHL Hockey"
+}

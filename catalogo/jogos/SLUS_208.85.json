@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_208.85",
+  "cover": {
+    "path": "PS2/SLUS_208.85/SLUS_208.85_COV.png",
+    "kind": "cover",
+    "bytes": 106973,
+    "width": 192,
+    "height": 272,
+    "sha256": "56b42359f992233472c32810beccc72f91a8b021875510fdc6f0c6a9c5004071",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20885.jpg"
+    },
+    "gameId": "SLUS_208.85"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.85/SLUS_208.85_ICO.png",
+    "kind": "disc",
+    "bytes": 17938,
+    "width": 256,
+    "height": 256,
+    "sha256": "4effdc561bf6208a0c2c073f6f67f91c79b000bc12156f4c7fb84d5c948bc34f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.85_ICO.png"
+    },
+    "gameId": "SLUS_208.85"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.85/SLUS_208.85_BG.png",
+    "kind": "background",
+    "bytes": 100350,
+    "width": 640,
+    "height": 480,
+    "sha256": "a38c0395e2d0ab5288692fd3fedf71c6b68f1f95c4f2582366278fd566c2fdd4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.85/SLUS_208.85_BG_00.png"
+    },
+    "gameId": "SLUS_208.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.85/SLUS_208.85_BG.png",
+      "kind": "background",
+      "bytes": 100350,
+      "width": 640,
+      "height": 480,
+      "sha256": "a38c0395e2d0ab5288692fd3fedf71c6b68f1f95c4f2582366278fd566c2fdd4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.85/SLUS_208.85_BG_00.png"
+      },
+      "gameId": "SLUS_208.85"
+    },
+    {
+      "path": "PS2/SLUS_208.85/SLUS_208.85_BG_01.png",
+      "kind": "background",
+      "bytes": 199029,
+      "width": 640,
+      "height": 480,
+      "sha256": "82847ef21c0df78c9ca78cdfcdd048b6e503fafc58d7567fd37880fb2319d093",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.85/SLUS_208.85_BG_01.png"
+      },
+      "gameId": "SLUS_208.85"
+    },
+    {
+      "path": "PS2/SLUS_208.85/SLUS_208.85_BG_02.png",
+      "kind": "background",
+      "bytes": 243750,
+      "width": 640,
+      "height": 480,
+      "sha256": "563193bf9925913640d3377180d271e9e53860e6c49040059a09bec66cc5d6b9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.85/SLUS_208.85_BG_02.png"
+      },
+      "gameId": "SLUS_208.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Red Star"
+}

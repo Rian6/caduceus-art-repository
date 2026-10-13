@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_624.45",
+  "cover": {
+    "path": "PS2/SLPM_624.45/SLPM_624.45_COV.png",
+    "kind": "cover",
+    "bytes": 100471,
+    "width": 192,
+    "height": 272,
+    "sha256": "2f75e57edfb4c074ffb23f8595fac9e5ea3f31e4c814ee3048f79aeb2699dcbd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62445.jpg"
+    },
+    "gameId": "SLPM_624.45"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.45/SLPM_624.45_BG.png",
+    "kind": "background",
+    "bytes": 224425,
+    "width": 640,
+    "height": 480,
+    "sha256": "65417a201debbd7bb763a3f47c9290a732cd09d9bb9ea2d2cae680dbb18ee590",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.45/SLPM_624.45_BG_00.png"
+    },
+    "gameId": "SLPM_624.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.45/SLPM_624.45_BG.png",
+      "kind": "background",
+      "bytes": 224425,
+      "width": 640,
+      "height": 480,
+      "sha256": "65417a201debbd7bb763a3f47c9290a732cd09d9bb9ea2d2cae680dbb18ee590",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.45/SLPM_624.45_BG_00.png"
+      },
+      "gameId": "SLPM_624.45"
+    },
+    {
+      "path": "PS2/SLPM_624.45/SLPM_624.45_BG_01.png",
+      "kind": "background",
+      "bytes": 232037,
+      "width": 640,
+      "height": 480,
+      "sha256": "65af71fc82c387f8578c1b32dffc0ee5db55b7bba8a031a15e34974da8c85e25",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.45/SLPM_624.45_BG_01.png"
+      },
+      "gameId": "SLPM_624.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Ages 2500 Series Vol. 9: Gain Ground"
+}

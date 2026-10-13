@@ -1,0 +1,25 @@
+{
+  "id": "SLES_547.44",
+  "cover": {
+    "path": "PS2/SLES_547.44/SLES_547.44_COV.png",
+    "kind": "cover",
+    "bytes": 60900,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e3b4c77e477d811e3d829615d704a70c32d7f8e4befd8a822829088909ba14b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_547.44/SLES_547.44_COV.png"
+    },
+    "gameId": "SLES_547.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar Ratatouille"
+}

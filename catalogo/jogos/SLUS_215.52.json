@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_215.52",
+  "cover": {
+    "path": "PS2/SLUS_215.52/SLUS_215.52_COV.png",
+    "kind": "cover",
+    "bytes": 95022,
+    "width": 192,
+    "height": 272,
+    "sha256": "419a442c15055d1c29e5e7ca61689d3966be1660fa42db217a1fe908fb3105ac",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21552.jpg"
+    },
+    "gameId": "SLUS_215.52"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.52/SLUS_215.52_ICO.png",
+    "kind": "disc",
+    "bytes": 10451,
+    "width": 128,
+    "height": 128,
+    "sha256": "e35555ae73e568e2964193b52f1d0071aa1e31dc763cd2ed14b61842c7b6dcc9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLUS_215.52_ICO.png"
+    },
+    "gameId": "SLUS_215.52"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.52/SLUS_215.52_BG.png",
+    "kind": "background",
+    "bytes": 235331,
+    "width": 640,
+    "height": 480,
+    "sha256": "63e56f667536e08a290802536623d6f17ce06458bac42723a1bb243ce8fa3dd9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.52/SLUS_215.52_BG_00.png"
+    },
+    "gameId": "SLUS_215.52"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.52/SLUS_215.52_BG.png",
+      "kind": "background",
+      "bytes": 235331,
+      "width": 640,
+      "height": 480,
+      "sha256": "63e56f667536e08a290802536623d6f17ce06458bac42723a1bb243ce8fa3dd9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.52/SLUS_215.52_BG_00.png"
+      },
+      "gameId": "SLUS_215.52"
+    },
+    {
+      "path": "PS2/SLUS_215.52/SLUS_215.52_BG_01.png",
+      "kind": "background",
+      "bytes": 217216,
+      "width": 640,
+      "height": 480,
+      "sha256": "79d6b0eb8e613649dd058afc5a8c3e06e47ed73adb0dc7527ea5d8560b36f17e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.52/SLUS_215.52_BG_01.png"
+      },
+      "gameId": "SLUS_215.52"
+    },
+    {
+      "path": "PS2/SLUS_215.52/SLUS_215.52_BG_02.png",
+      "kind": "background",
+      "bytes": 124405,
+      "width": 640,
+      "height": 480,
+      "sha256": "cffe26460e18a7c090bb0904c1a0087662a0cff8f3f5fea9104972be2fea9789",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.52/SLUS_215.52_BG_02.png"
+      },
+      "gameId": "SLUS_215.52"
+    },
+    {
+      "path": "PS2/SLUS_215.52/SLUS_215.52_BG_03.png",
+      "kind": "background",
+      "bytes": 264354,
+      "width": 640,
+      "height": 480,
+      "sha256": "76b0d99b0412c14713139200a0afb6462afb57a6e4d609ccfb939b1e5194bd49",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.52/SLUS_215.52_BG_03.png"
+      },
+      "gameId": "SLUS_215.52"
+    },
+    {
+      "path": "PS2/SLUS_215.52/SLUS_215.52_BG_04.png",
+      "kind": "background",
+      "bytes": 139195,
+      "width": 640,
+      "height": 480,
+      "sha256": "1ca40db4614e655fe6c85ad06349f93d243652d556671af061874309bd0c5e11",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.52/SLUS_215.52_BG_04.png"
+      },
+      "gameId": "SLUS_215.52"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Spider-Man 3"
+}

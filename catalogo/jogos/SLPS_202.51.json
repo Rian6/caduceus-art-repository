@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.51",
+  "cover": {
+    "path": "PS2/SLPS_202.51/SLPS_202.51_COV.png",
+    "kind": "cover",
+    "bytes": 105182,
+    "width": 192,
+    "height": 272,
+    "sha256": "15a6e521c63f2c1d480707523874c4e1d6a63e5e064ee6a813af495e71a01880",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20251.jpg"
+    },
+    "gameId": "SLPS_202.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Makai Senki Disgaea"
+}

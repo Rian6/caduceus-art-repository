@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_973.95",
+  "cover": {
+    "path": "PS2/SCUS_973.95/SCUS_973.95_COV.png",
+    "kind": "cover",
+    "bytes": 17347,
+    "width": 192,
+    "height": 272,
+    "sha256": "fbcc684f998accd03f406c224cc9c2f19c28278ff58777c9ddac77caeaf28f68",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97395.jpg"
+    },
+    "gameId": "SCUS_973.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HDD Utility Disc"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.11",
+  "cover": {
+    "path": "PS2/SLES_548.11/SLES_548.11_COV.png",
+    "kind": "cover",
+    "bytes": 89705,
+    "width": 192,
+    "height": 272,
+    "sha256": "34a143ed2a2f3662ff02a7d46b4ffd37ce677461dc0049bdfb7a5cfff5109cfd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54811.jpg"
+    },
+    "gameId": "SLES_548.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rugby 08"
+}

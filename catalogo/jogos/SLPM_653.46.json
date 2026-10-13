@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.46",
+  "cover": {
+    "path": "PS2/SLPM_653.46/SLPM_653.46_COV.png",
+    "kind": "cover",
+    "bytes": 98824,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0cff2670352a5526a38d63a81e51cea7917475557ce6beac8ddc588356d638f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65346.jpg"
+    },
+    "gameId": "SLPM_653.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winning Post 6"
+}

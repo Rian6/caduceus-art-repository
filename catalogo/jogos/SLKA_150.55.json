@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_150.55",
+  "cover": {
+    "path": "PS2/SLKA_150.55/SLKA_150.55_COV.png",
+    "kind": "cover",
+    "bytes": 51714,
+    "width": 192,
+    "height": 272,
+    "sha256": "99da9024891b521f64883a9a8549645d9cf74eb8474642206737f1e56078466a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_150.55/SLKA_150.55_COV.png"
+    },
+    "gameId": "SLKA_150.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Raiden III"
+}

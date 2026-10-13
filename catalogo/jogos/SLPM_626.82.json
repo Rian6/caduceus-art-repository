@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.82",
+  "cover": {
+    "path": "PS2/SLPM_626.82/SLPM_626.82_COV.png",
+    "kind": "cover",
+    "bytes": 92334,
+    "width": 192,
+    "height": 272,
+    "sha256": "13b115eb1f1761f45c61f0871f1ab640092a7372cef3e2b30d6cbb8d3bab3a99",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62682.jpg"
+    },
+    "gameId": "SLPM_626.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLOTTER UP CORE 8 - GOKUENDA! KYOJIN NO HOSHI 3"
+}

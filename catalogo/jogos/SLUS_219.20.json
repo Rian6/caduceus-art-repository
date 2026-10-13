@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_219.20",
+  "cover": {
+    "path": "PS2/SLUS_219.20/SLUS_219.20_COV.png",
+    "kind": "cover",
+    "bytes": 96413,
+    "width": 192,
+    "height": 272,
+    "sha256": "b472de4cc99d865eda5d42cc7dcdf7a5a6a5f6d7f24fbfedb324997c78f229a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21920.jpg"
+    },
+    "gameId": "SLUS_219.20"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.20/SLUS_219.20_ICO.png",
+    "kind": "disc",
+    "bytes": 27219,
+    "width": 256,
+    "height": 256,
+    "sha256": "cfb6dcbe39dce9011cb056a6d8159c596b7d134f17721698a73f6e41313afb79",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_219.20_ICO.png"
+    },
+    "gameId": "SLUS_219.20"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney Sing It - Pop Hits"
+}

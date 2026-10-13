@@ -1,0 +1,25 @@
+{
+  "id": "TCPS_101.09",
+  "cover": {
+    "path": "PS2/TCPS_101.09/TCPS_101.09_COV.png",
+    "kind": "cover",
+    "bytes": 85601,
+    "width": 192,
+    "height": 272,
+    "sha256": "50b7ed18e9f8a21238457f692c7a1068d02e54689beae9af5caa0b74c8d54e99",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/TCPS-10109.jpg"
+    },
+    "gameId": "TCPS_101.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ys III - Wanderer from Ys (Limited Edition)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.64",
+  "cover": {
+    "path": "PS2/SCAJ_200.64/SCAJ_200.64_COV.png",
+    "kind": "cover",
+    "bytes": 79443,
+    "width": 192,
+    "height": 272,
+    "sha256": "af4cc7c7d78da23732e527dfac78b9944968ac2ebf2181af3c4e04d1a5358522",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20064.jpg"
+    },
+    "gameId": "SCAJ_200.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NEBULA - ECHO NIGHT"
+}

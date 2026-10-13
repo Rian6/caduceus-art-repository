@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_621.86",
+  "cover": {
+    "path": "PS2/SLPM_621.86/SLPM_621.86_COV.png",
+    "kind": "cover",
+    "bytes": 112385,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff34ddedc72762c2950eb93d2b72d1132860bb71151ee4c46ef93dacb78472f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62186.jpg"
+    },
+    "gameId": "SLPM_621.86"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_621.86/SLPM_621.86_BG.png",
+    "kind": "background",
+    "bytes": 195561,
+    "width": 640,
+    "height": 480,
+    "sha256": "77aaac129b00d43833573c0dcfa171d72dbaebfcf67363c68bc6d410c11cb3af",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_621.86/SLPM_621.86_BG_00.png"
+    },
+    "gameId": "SLPM_621.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_621.86/SLPM_621.86_BG.png",
+      "kind": "background",
+      "bytes": 195561,
+      "width": 640,
+      "height": 480,
+      "sha256": "77aaac129b00d43833573c0dcfa171d72dbaebfcf67363c68bc6d410c11cb3af",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_621.86/SLPM_621.86_BG_00.png"
+      },
+      "gameId": "SLPM_621.86"
+    },
+    {
+      "path": "PS2/SLPM_621.86/SLPM_621.86_BG_01.png",
+      "kind": "background",
+      "bytes": 196041,
+      "width": 640,
+      "height": 480,
+      "sha256": "385cf5cd6385d7018bd8a33889e4294ecfa46a46e45e9a024e1b6a1fca73a67b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_621.86/SLPM_621.86_BG_01.png"
+      },
+      "gameId": "SLPM_621.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GetBackers Dakkanya - Ubawareta Mugenjou"
+}

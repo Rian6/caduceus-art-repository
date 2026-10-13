@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.39",
+  "cover": {
+    "path": "PS2/SLPS_253.39/SLPS_253.39_COV.png",
+    "kind": "cover",
+    "bytes": 85297,
+    "width": 192,
+    "height": 272,
+    "sha256": "a17a2a9d798273416992042f9cfc9cf42b3597ecbbbea9373c8def429f61d8ce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25339.jpg"
+    },
+    "gameId": "SLPS_253.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core: Nexus (Disc 2) (Revolution)"
+}

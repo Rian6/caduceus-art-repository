@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.31",
+  "cover": {
+    "path": "PS2/SLPS_252.31/SLPS_252.31_COV.png",
+    "kind": "cover",
+    "bytes": 87353,
+    "width": 192,
+    "height": 272,
+    "sha256": "423cce424c2f527a64f19a54b2f96c503a9b23f79da2969cdcab35db5f0a9ed8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25231.jpg"
+    },
+    "gameId": "SLPS_252.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Myst III - Exile"
+}

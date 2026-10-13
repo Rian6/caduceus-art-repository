@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.62",
+  "cover": {
+    "path": "PS2/SLPS_254.62/SLPS_254.62_COV.png",
+    "kind": "cover",
+    "bytes": 82894,
+    "width": 192,
+    "height": 272,
+    "sha256": "029c349c950bd57939cc152330fc4388fad604c07951b4e72959109250c29dac",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25462.jpg"
+    },
+    "gameId": "SLPS_254.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core - Last Raven"
+}

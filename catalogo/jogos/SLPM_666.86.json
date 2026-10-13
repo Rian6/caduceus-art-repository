@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_666.86",
+  "cover": {
+    "path": "PS2/SLPM_666.86/SLPM_666.86_COV.png",
+    "kind": "cover",
+    "bytes": 92477,
+    "width": 192,
+    "height": 272,
+    "sha256": "9887232925908389d4f61bd3a653b4cbed20aa77d4b13bf53c4020cd941610ac",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66686.jpg"
+    },
+    "gameId": "SLPM_666.86"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_666.86/SLPM_666.86_BG.png",
+    "kind": "background",
+    "bytes": 181062,
+    "width": 640,
+    "height": 480,
+    "sha256": "a8c195d56fe6ebb53562aa94646732de06c1ac2e0eb7d316ad0b2210c82eec76",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_666.86/SLPM_666.86_BG_00.png"
+    },
+    "gameId": "SLPM_666.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_666.86/SLPM_666.86_BG.png",
+      "kind": "background",
+      "bytes": 181062,
+      "width": 640,
+      "height": 480,
+      "sha256": "a8c195d56fe6ebb53562aa94646732de06c1ac2e0eb7d316ad0b2210c82eec76",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.86/SLPM_666.86_BG_00.png"
+      },
+      "gameId": "SLPM_666.86"
+    },
+    {
+      "path": "PS2/SLPM_666.86/SLPM_666.86_BG_01.png",
+      "kind": "background",
+      "bytes": 181920,
+      "width": 640,
+      "height": 480,
+      "sha256": "71d2eacaf5b4451254d4c6d12d8a7b75ffbf25b6ee1b83e5d2adbe2c6e24c8a9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.86/SLPM_666.86_BG_01.png"
+      },
+      "gameId": "SLPM_666.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guitar Freaks & Drummania - Masterpiece Gold"
+}

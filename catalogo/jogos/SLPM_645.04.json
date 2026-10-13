@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_645.04",
+  "cover": {
+    "path": "PS2/SLPM_645.04/SLPM_645.04_COV.png",
+    "kind": "cover",
+    "bytes": 97606,
+    "width": 192,
+    "height": 272,
+    "sha256": "0aef7d3b3bb8493641d6f3e37f938d7edfa18af49f59f4b4f53cff568ab25a91",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-64504.jpg"
+    },
+    "gameId": "SLPM_645.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Maximo"
+}

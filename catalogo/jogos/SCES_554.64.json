@@ -1,0 +1,51 @@
+{
+  "id": "SCES_554.64",
+  "cover": {
+    "path": "PS2/SCES_554.64/SCES_554.64_COV.png",
+    "kind": "cover",
+    "bytes": 83482,
+    "width": 192,
+    "height": 272,
+    "sha256": "8eae0f2c07bac55dbcd53d84019d7189b374ab677ae5c16ab2286e77a10a73c6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55464.jpg"
+    },
+    "gameId": "SCES_554.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_554.64/SCES_554.64_BG.png",
+    "kind": "background",
+    "bytes": 174858,
+    "width": 640,
+    "height": 480,
+    "sha256": "b72bd515b121d677296a53befc224174ec1fdffa522846900e662b44b015f47e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_554.64/SCES_554.64_BG_00.png"
+    },
+    "gameId": "SCES_554.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_554.64/SCES_554.64_BG.png",
+      "kind": "background",
+      "bytes": 174858,
+      "width": 640,
+      "height": 480,
+      "sha256": "b72bd515b121d677296a53befc224174ec1fdffa522846900e662b44b015f47e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_554.64/SCES_554.64_BG_00.png"
+      },
+      "gameId": "SCES_554.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hanuman: Boy Warrior"
+}

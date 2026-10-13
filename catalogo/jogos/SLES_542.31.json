@@ -1,0 +1,25 @@
+{
+  "id": "SLES_542.31",
+  "cover": {
+    "path": "PS2/SLES_542.31/SLES_542.31_COV.png",
+    "kind": "cover",
+    "bytes": 99685,
+    "width": 192,
+    "height": 272,
+    "sha256": "b82a0d074b55fd848a51e96a7a1dbf855a4fec0568cf1e589a1cd3ec3a9930ae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54231.jpg"
+    },
+    "gameId": "SLES_542.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ricky Ponting International Cricket 2007"
+}

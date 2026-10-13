@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.64",
+  "cover": {
+    "path": "PS2/SLPM_663.64/SLPM_663.64_COV.png",
+    "kind": "cover",
+    "bytes": 106225,
+    "width": 192,
+    "height": 272,
+    "sha256": "bfa0b11cecfda29a1d8fa7f1f873c15e904ce55208693a2460515422bd3e5b9a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66364.jpg"
+    },
+    "gameId": "SLPM_663.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Yakyuu Spirits 3"
+}

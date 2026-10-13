@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.20",
+  "cover": {
+    "path": "PS2/SLPS_202.20/SLPS_202.20_COV.png",
+    "kind": "cover",
+    "bytes": 101256,
+    "width": 192,
+    "height": 272,
+    "sha256": "f9a2e7d1d40c1307fe7bd778c4b3e42a1a078a55fe508d1c44070850ee4db6fc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20220.jpg"
+    },
+    "gameId": "SLPS_202.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachi-Slot Aruze Oukoku 7"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_521.23",
+  "cover": {
+    "path": "PS2/SLES_521.23/SLES_521.23_COV.png",
+    "kind": "cover",
+    "bytes": 90823,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b9d617fd8717e1a244846adfd3053027255a4e5534d62ed8654b093a2acc028",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52123.jpg"
+    },
+    "gameId": "SLES_521.23"
+  },
+  "disc": {
+    "path": "PS2/SLES_521.23/SLES_521.23_ICO.png",
+    "kind": "disc",
+    "bytes": 10396,
+    "width": 128,
+    "height": 128,
+    "sha256": "58f76dd04b8036dd3930ef33c92e766714bf499ccb11fb0069ac0bafe2a907af",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_521.23_ICO.png"
+    },
+    "gameId": "SLES_521.23"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EA Sports Cricket 2004"
+}

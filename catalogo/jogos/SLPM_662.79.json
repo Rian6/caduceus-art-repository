@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.79",
+  "cover": {
+    "path": "PS2/SLPM_662.79/SLPM_662.79_COV.png",
+    "kind": "cover",
+    "bytes": 97528,
+    "width": 192,
+    "height": 272,
+    "sha256": "c54dc1c7d13c6ecffe7f058b2949317f715d96d6d67119f940ada3c0b3c1995c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66279.jpg"
+    },
+    "gameId": "SLPM_662.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nobunaga no Yabou - Kakushin"
+}

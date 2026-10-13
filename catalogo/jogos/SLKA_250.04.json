@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.04",
+  "cover": {
+    "path": "PS2/SLKA_250.04/SLKA_250.04_COV.png",
+    "kind": "cover",
+    "bytes": 89343,
+    "width": 192,
+    "height": 272,
+    "sha256": "df0377cdcf61f5421c423cab7fc13e4b1b7c92f455e78600ed8c6bf4f277d123",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25004.jpg"
+    },
+    "gameId": "SLKA_250.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007 - NIGHTFIRE"
+}

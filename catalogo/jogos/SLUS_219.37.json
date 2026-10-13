@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_219.37",
+  "cover": {
+    "path": "PS2/SLUS_219.37/SLUS_219.37_COV.png",
+    "kind": "cover",
+    "bytes": 96429,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d5f2277a4b9843292b81c4bb00d86ed07acef6a37a57f3bb517125d0e5058e3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21937.jpg"
+    },
+    "gameId": "SLUS_219.37"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.37/SLUS_219.37_ICO.png",
+    "kind": "disc",
+    "bytes": 25223,
+    "width": 256,
+    "height": 256,
+    "sha256": "79d2a879e15cbb5c4e24a788f250d0c68f8a6bcb0b624425524345ad1ace7ec6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_219.37_ICO.png"
+    },
+    "gameId": "SLUS_219.37"
+  },
+  "background": {
+    "path": "PS2/SLUS_219.37/SLUS_219.37_BG.png",
+    "kind": "background",
+    "bytes": 195789,
+    "width": 640,
+    "height": 480,
+    "sha256": "c27e62369fde6407092672e1042d889fff5853753381db3c74072eb43efd6d79",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_219.37/SLUS_219.37_BG_00.png"
+    },
+    "gameId": "SLUS_219.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_219.37/SLUS_219.37_BG.png",
+      "kind": "background",
+      "bytes": 195789,
+      "width": 640,
+      "height": 480,
+      "sha256": "c27e62369fde6407092672e1042d889fff5853753381db3c74072eb43efd6d79",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.37/SLUS_219.37_BG_00.png"
+      },
+      "gameId": "SLUS_219.37"
+    },
+    {
+      "path": "PS2/SLUS_219.37/SLUS_219.37_BG_01.png",
+      "kind": "background",
+      "bytes": 200569,
+      "width": 640,
+      "height": 480,
+      "sha256": "334694829b48f556a0b22b6184ae40e6fa67f01e05916a2d1ea8c4f34223e264",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.37/SLUS_219.37_BG_01.png"
+      },
+      "gameId": "SLUS_219.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Madden NFL '11"
+}

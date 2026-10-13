@@ -1,0 +1,64 @@
+{
+  "id": "SLES_533.39",
+  "cover": {
+    "path": "PS2/SLES_533.39/SLES_533.39_COV.png",
+    "kind": "cover",
+    "bytes": 102826,
+    "width": 192,
+    "height": 272,
+    "sha256": "96c486439762cf12ed71eaef57582e0ad3237c34a3698a043266a93365df6634",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53339.jpg"
+    },
+    "gameId": "SLES_533.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_533.39/SLES_533.39_BG.png",
+    "kind": "background",
+    "bytes": 186702,
+    "width": 640,
+    "height": 480,
+    "sha256": "f9265d827a9c8257f762987da4114c49bd4bbbf4003b310d97888fcc2aa1d63f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.39/SLES_533.39_BG_00.png"
+    },
+    "gameId": "SLES_533.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.39/SLES_533.39_BG.png",
+      "kind": "background",
+      "bytes": 186702,
+      "width": 640,
+      "height": 480,
+      "sha256": "f9265d827a9c8257f762987da4114c49bd4bbbf4003b310d97888fcc2aa1d63f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.39/SLES_533.39_BG_00.png"
+      },
+      "gameId": "SLES_533.39"
+    },
+    {
+      "path": "PS2/SLES_533.39/SLES_533.39_BG_01.png",
+      "kind": "background",
+      "bytes": 187201,
+      "width": 640,
+      "height": 480,
+      "sha256": "acab52564e73d8ea3d74a416d988befd79a8446d3ba00c06fa394f36b01b9b97",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.39/SLES_533.39_BG_01.png"
+      },
+      "gameId": "SLES_533.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 5"
+}

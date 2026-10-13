@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.15",
+  "cover": {
+    "path": "PS2/SLPS_250.15/SLPS_250.15_COV.png",
+    "kind": "cover",
+    "bytes": 70216,
+    "width": 192,
+    "height": 272,
+    "sha256": "965b21baa5496a4990f8ae1b278fe7c88d4913a24b7995840beb0971d5619393",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25015.jpg"
+    },
+    "gameId": "SLPS_250.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Choro Q - HG"
+}

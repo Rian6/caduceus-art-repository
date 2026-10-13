@@ -1,0 +1,25 @@
+{
+  "id": "SLES_551.36",
+  "cover": {
+    "path": "PS2/SLES_551.36/SLES_551.36_COV.png",
+    "kind": "cover",
+    "bytes": 108850,
+    "width": 192,
+    "height": 272,
+    "sha256": "9072a10cc55ddfa5630c25f792a766e3c977ac3f6f3f3a1c2a7a6b0e2af9b531",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55136.jpg"
+    },
+    "gameId": "SLES_551.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LET'S RIDE! SILVER BUCKLE STABLES"
+}

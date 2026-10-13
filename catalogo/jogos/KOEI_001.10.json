@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_001.10",
+  "cover": {
+    "path": "PS2/KOEI_001.10/KOEI_001.10_COV.png",
+    "kind": "cover",
+    "bytes": 79650,
+    "width": 192,
+    "height": 272,
+    "sha256": "c9835b0e358d9248f9944e2e50a5ff32158af5fa8e467b011c9fccbc0b61e856",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/KOEI-00110.jpg"
+    },
+    "gameId": "KOEI_001.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE - MAIHITOYO [PREMIUM BOX]"
+}

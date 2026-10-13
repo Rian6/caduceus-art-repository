@@ -1,0 +1,64 @@
+{
+  "id": "SLES_526.22",
+  "cover": {
+    "path": "PS2/SLES_526.22/SLES_526.22_COV.png",
+    "kind": "cover",
+    "bytes": 96603,
+    "width": 192,
+    "height": 272,
+    "sha256": "ce6ee522cb444e2408a844dea5806e03ddea1f78561b3e1d3902042faa6fd189",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52622.jpg"
+    },
+    "gameId": "SLES_526.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_526.22/SLES_526.22_BG.png",
+    "kind": "background",
+    "bytes": 180242,
+    "width": 640,
+    "height": 480,
+    "sha256": "c5fdf50eb45549d1ef0b3d3f37e1bf8253d294eda37699a55e2dbc265e32f627",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_526.22/SLES_526.22_BG_00.png"
+    },
+    "gameId": "SLES_526.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_526.22/SLES_526.22_BG.png",
+      "kind": "background",
+      "bytes": 180242,
+      "width": 640,
+      "height": 480,
+      "sha256": "c5fdf50eb45549d1ef0b3d3f37e1bf8253d294eda37699a55e2dbc265e32f627",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.22/SLES_526.22_BG_00.png"
+      },
+      "gameId": "SLES_526.22"
+    },
+    {
+      "path": "PS2/SLES_526.22/SLES_526.22_BG_01.png",
+      "kind": "background",
+      "bytes": 233916,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ddc19c0c4c35d85f0dd453a4a8fe6d9bd08dc4a8a03143766873bc15dbdd23d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.22/SLES_526.22_BG_01.png"
+      },
+      "gameId": "SLES_526.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tony Hawk's Underground 2"
+}

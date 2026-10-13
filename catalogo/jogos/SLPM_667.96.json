@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.96",
+  "cover": {
+    "path": "PS2/SLPM_667.96/SLPM_667.96_COV.png",
+    "kind": "cover",
+    "bytes": 58341,
+    "width": 192,
+    "height": 272,
+    "sha256": "5a4ee8286acff415ca7914c97f721dd80381e3926b26fc93ba176ac8a037a8ca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66796.jpg"
+    },
+    "gameId": "SLPM_667.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Metal Gear Solid - 20th Anniversary Collection"
+}

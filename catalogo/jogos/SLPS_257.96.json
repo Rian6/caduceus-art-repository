@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.96",
+  "cover": {
+    "path": "PS2/SLPS_257.96/SLPS_257.96_COV.png",
+    "kind": "cover",
+    "bytes": 102480,
+    "width": 192,
+    "height": 272,
+    "sha256": "659605ee6be2f3e334229438b8d7d615fa61a8ad7695ade4b59e0c2b10b46c7d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25796.jpg"
+    },
+    "gameId": "SLPS_257.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ORE NO SHITE AGAKE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.07",
+  "cover": {
+    "path": "PS2/SLPS_204.07/SLPS_204.07_COV.png",
+    "kind": "cover",
+    "bytes": 87859,
+    "width": 192,
+    "height": 272,
+    "sha256": "6f26c226a676047a972a1e3728b23c4ffe5eff311668743fa823ad2a31fa8da0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20407.jpg"
+    },
+    "gameId": "SLPS_204.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mahjong Sangokushi"
+}

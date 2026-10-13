@@ -1,0 +1,51 @@
+{
+  "id": "SLES_528.04",
+  "cover": {
+    "path": "PS2/SLES_528.04/SLES_528.04_COV.png",
+    "kind": "cover",
+    "bytes": 99891,
+    "width": 192,
+    "height": 272,
+    "sha256": "799e98fdb906fbc845a7611c6d317cd8fbd42bf903c1a4be7aad7d3837196282",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52804.jpg"
+    },
+    "gameId": "SLES_528.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.04/SLES_528.04_BG.png",
+    "kind": "background",
+    "bytes": 231370,
+    "width": 640,
+    "height": 480,
+    "sha256": "ed9328ffd4ba4d35ecd9a776b484bee10b26a09a4d3774cb5927a31f44d5c6f9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.04/SLES_528.04_BG_00.png"
+    },
+    "gameId": "SLES_528.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.04/SLES_528.04_BG.png",
+      "kind": "background",
+      "bytes": 231370,
+      "width": 640,
+      "height": 480,
+      "sha256": "ed9328ffd4ba4d35ecd9a776b484bee10b26a09a4d3774cb5927a31f44d5c6f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.04/SLES_528.04_BG_00.png"
+      },
+      "gameId": "SLES_528.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Il Signore degli Anelli: La Terza Era"
+}

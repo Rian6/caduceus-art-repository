@@ -1,0 +1,25 @@
+{
+  "id": "SLES_518.51",
+  "cover": {
+    "path": "PS2/SLES_518.51/SLES_518.51_COV.png",
+    "kind": "cover",
+    "bytes": 102170,
+    "width": 192,
+    "height": 272,
+    "sha256": "8d612b0d681335987ecb745140fe7f858b7e425f2b652dc6d4c3bb2914225b62",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51851.jpg"
+    },
+    "gameId": "SLES_518.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TONY HAWK'S UNDERGROUND"
+}

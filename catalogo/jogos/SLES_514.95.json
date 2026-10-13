@@ -1,0 +1,51 @@
+{
+  "id": "SLES_514.95",
+  "cover": {
+    "path": "PS2/SLES_514.95/SLES_514.95_COV.png",
+    "kind": "cover",
+    "bytes": 93337,
+    "width": 192,
+    "height": 272,
+    "sha256": "5f0425386b1f65fc0bbe24b6b0427a9bd56dab79ee7026e7b7beec88997074bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51495.jpg"
+    },
+    "gameId": "SLES_514.95"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_514.95/SLES_514.95_BG.png",
+    "kind": "background",
+    "bytes": 188503,
+    "width": 640,
+    "height": 480,
+    "sha256": "b7ffdbb9e257002db2e8f4764d45e3070a77cda349ea93a6af8d6a9dab74b331",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_514.95/SLES_514.95_BG_00.png"
+    },
+    "gameId": "SLES_514.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_514.95/SLES_514.95_BG.png",
+      "kind": "background",
+      "bytes": 188503,
+      "width": 640,
+      "height": 480,
+      "sha256": "b7ffdbb9e257002db2e8f4764d45e3070a77cda349ea93a6af8d6a9dab74b331",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.95/SLES_514.95_BG_00.png"
+      },
+      "gameId": "SLES_514.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SX Superstar"
+}

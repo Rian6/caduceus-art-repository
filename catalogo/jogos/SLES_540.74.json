@@ -1,0 +1,39 @@
+{
+  "id": "SLES_540.74",
+  "cover": {
+    "path": "PS2/SLES_540.74/SLES_540.74_COV.png",
+    "kind": "cover",
+    "bytes": 107511,
+    "width": 192,
+    "height": 272,
+    "sha256": "b24ba02432c2b7b9f40c9084ab1df5c70e306d340e2715911a2b34587bbdbe71",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54074.jpg"
+    },
+    "gameId": "SLES_540.74"
+  },
+  "disc": {
+    "path": "PS2/SLES_540.74/SLES_540.74_ICO.png",
+    "kind": "disc",
+    "bytes": 12874,
+    "width": 128,
+    "height": 128,
+    "sha256": "81e910e2e38ac20b97ef0dbdc056460209734c0f25ef79bdf543281206dd0980",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_540.74_ICO.png"
+    },
+    "gameId": "SLES_540.74"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Speedboat GP"
+}

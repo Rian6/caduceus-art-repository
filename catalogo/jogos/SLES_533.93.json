@@ -1,0 +1,103 @@
+{
+  "id": "SLES_533.93",
+  "cover": {
+    "path": "PS2/SLES_533.93/SLES_533.93_COV.png",
+    "kind": "cover",
+    "bytes": 91859,
+    "width": 192,
+    "height": 272,
+    "sha256": "d7345a1e43e265a5e602d950b615e490c72688f127910ed1eb41b08311397d2c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53393.jpg"
+    },
+    "gameId": "SLES_533.93"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_533.93/SLES_533.93_BG.png",
+    "kind": "background",
+    "bytes": 104727,
+    "width": 640,
+    "height": 480,
+    "sha256": "cc0647818fa95afda9ec77ed5115bb7820890cf6a35b1dc98fb1c526e6da7ac4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.93/SLES_533.93_BG_00.png"
+    },
+    "gameId": "SLES_533.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.93/SLES_533.93_BG.png",
+      "kind": "background",
+      "bytes": 104727,
+      "width": 640,
+      "height": 480,
+      "sha256": "cc0647818fa95afda9ec77ed5115bb7820890cf6a35b1dc98fb1c526e6da7ac4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.93/SLES_533.93_BG_00.png"
+      },
+      "gameId": "SLES_533.93"
+    },
+    {
+      "path": "PS2/SLES_533.93/SLES_533.93_BG_01.png",
+      "kind": "background",
+      "bytes": 60176,
+      "width": 640,
+      "height": 480,
+      "sha256": "c83de862b758c9b7a22aac8f56b377e1796dbfb4c3c3bc3b75c8c3742d27f56a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.93/SLES_533.93_BG_01.png"
+      },
+      "gameId": "SLES_533.93"
+    },
+    {
+      "path": "PS2/SLES_533.93/SLES_533.93_BG_02.png",
+      "kind": "background",
+      "bytes": 59794,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3c5807105de4bd334f8f7847ea3aa36eec649b697fcb068be4e29ba95d5676a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.93/SLES_533.93_BG_02.png"
+      },
+      "gameId": "SLES_533.93"
+    },
+    {
+      "path": "PS2/SLES_533.93/SLES_533.93_BG_03.png",
+      "kind": "background",
+      "bytes": 145233,
+      "width": 640,
+      "height": 480,
+      "sha256": "bacc6a38932687ee1a1a8ea556a9ea73bdbcb84d674e3fb9780f6eefe142192f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.93/SLES_533.93_BG_03.png"
+      },
+      "gameId": "SLES_533.93"
+    },
+    {
+      "path": "PS2/SLES_533.93/SLES_533.93_BG_04.png",
+      "kind": "background",
+      "bytes": 198896,
+      "width": 640,
+      "height": 480,
+      "sha256": "0855efacbef43c92adbd852448eeb92faae6570d0b062112ddbb696593788972",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.93/SLES_533.93_BG_04.png"
+      },
+      "gameId": "SLES_533.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Spartan Total Warrior"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLES_529.20",
+  "cover": {
+    "path": "PS2/SLES_529.20/SLES_529.20_COV.png",
+    "kind": "cover",
+    "bytes": 97887,
+    "width": 192,
+    "height": 272,
+    "sha256": "e040ac282655963fbc212ab906fc33bd791c9911998b1b66e9f54a8e2d98ef8e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52920.jpg"
+    },
+    "gameId": "SLES_529.20"
+  },
+  "disc": {
+    "path": "PS2/SLES_529.20/SLES_529.20_ICO.png",
+    "kind": "disc",
+    "bytes": 10394,
+    "width": 128,
+    "height": 128,
+    "sha256": "bc2fa34c91605cb041cfd004507f829aac15faaf7ca7b6ae10478ffb218f59af",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_529.20_ICO.png"
+    },
+    "gameId": "SLES_529.20"
+  },
+  "background": {
+    "path": "PS2/SLES_529.20/SLES_529.20_BG.png",
+    "kind": "background",
+    "bytes": 218371,
+    "width": 640,
+    "height": 480,
+    "sha256": "91b53022284de5d0c5fa19a83b4b0871c2330159b579f6f7faefe368e81cbc44",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.20/SLES_529.20_BG_00.png"
+    },
+    "gameId": "SLES_529.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.20/SLES_529.20_BG.png",
+      "kind": "background",
+      "bytes": 218371,
+      "width": 640,
+      "height": 480,
+      "sha256": "91b53022284de5d0c5fa19a83b4b0871c2330159b579f6f7faefe368e81cbc44",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.20/SLES_529.20_BG_00.png"
+      },
+      "gameId": "SLES_529.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Alarm for Cobra 11: Vol. II"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_201.34",
+  "cover": {
+    "path": "PS2/SLUS_201.34/SLUS_201.34_COV.png",
+    "kind": "cover",
+    "bytes": 101470,
+    "width": 192,
+    "height": 272,
+    "sha256": "115e9e66206d1f3df99d44f2334eea160e8f5b547f468c8afda0fe1352a4e9e5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20134.jpg"
+    },
+    "gameId": "SLUS_201.34"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.34/SLUS_201.34_ICO.png",
+    "kind": "disc",
+    "bytes": 32171,
+    "width": 256,
+    "height": 256,
+    "sha256": "32b0d402571ba1b7a326aa361514b0d9db36e6ad9e1a6011d56d4db9bcfdd20b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.34_ICO.png"
+    },
+    "gameId": "SLUS_201.34"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.34/SLUS_201.34_BG.png",
+    "kind": "background",
+    "bytes": 202438,
+    "width": 640,
+    "height": 480,
+    "sha256": "4387487fcafa9529e7ed4240c728a0e48057bf086325133c49d4436f2d8aac03",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.34/SLUS_201.34_BG_00.png"
+    },
+    "gameId": "SLUS_201.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.34/SLUS_201.34_BG.png",
+      "kind": "background",
+      "bytes": 202438,
+      "width": 640,
+      "height": 480,
+      "sha256": "4387487fcafa9529e7ed4240c728a0e48057bf086325133c49d4436f2d8aac03",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.34/SLUS_201.34_BG_00.png"
+      },
+      "gameId": "SLUS_201.34"
+    },
+    {
+      "path": "PS2/SLUS_201.34/SLUS_201.34_BG_01.png",
+      "kind": "background",
+      "bytes": 164176,
+      "width": 640,
+      "height": 480,
+      "sha256": "dfec3c384505f3ab1e57a1b3b80903eab2208e58b0679b5b5c216473dc32fdd6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.34/SLUS_201.34_BG_01.png"
+      },
+      "gameId": "SLUS_201.34"
+    },
+    {
+      "path": "PS2/SLUS_201.34/SLUS_201.34_BG_02.png",
+      "kind": "background",
+      "bytes": 179900,
+      "width": 640,
+      "height": 480,
+      "sha256": "7788b9e178382988c804b67e458eb6a76254347de767f06a5bbdecb6f816870b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.34/SLUS_201.34_BG_02.png"
+      },
+      "gameId": "SLUS_201.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sky Odyssey"
+}

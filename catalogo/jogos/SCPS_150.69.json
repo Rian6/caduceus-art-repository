@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.69",
+  "cover": {
+    "path": "PS2/SCPS_150.69/SCPS_150.69_COV.png",
+    "kind": "cover",
+    "bytes": 93041,
+    "width": 192,
+    "height": 272,
+    "sha256": "6b0f2bb78d86f89baf8ca3ce594e356baf6dc036f94e61d8534c3cb2b5dec7de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15069.jpg"
+    },
+    "gameId": "SCPS_150.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "UO-7-TSU NO MIZU TO DENSETSU NO NUSHI"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.36",
+  "cover": {
+    "path": "PS2/SLPM_620.36/SLPM_620.36_COV.png",
+    "kind": "cover",
+    "bytes": 58001,
+    "width": 192,
+    "height": 272,
+    "sha256": "2ccfb6852f392adc594efd96c48c73415b7fa3a9acf06cd861f48393793b5269",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62036.jpg"
+    },
+    "gameId": "SLPM_620.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Choukousoku Reversi"
+}

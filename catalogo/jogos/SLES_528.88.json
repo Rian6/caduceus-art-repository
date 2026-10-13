@@ -1,0 +1,77 @@
+{
+  "id": "SLES_528.88",
+  "cover": {
+    "path": "PS2/SLES_528.88/SLES_528.88_COV.png",
+    "kind": "cover",
+    "bytes": 104497,
+    "width": 192,
+    "height": 272,
+    "sha256": "97095b26944880cb8f4bad673d551f3d1c1a364137a01f41074fb2c73b8506e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52888.jpg"
+    },
+    "gameId": "SLES_528.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.88/SLES_528.88_BG.png",
+    "kind": "background",
+    "bytes": 259652,
+    "width": 640,
+    "height": 480,
+    "sha256": "729ec2a3283b047ca4a1f0cdec8d8b394a38224213f130ed5fdc39329c48b4f9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.88/SLES_528.88_BG_00.png"
+    },
+    "gameId": "SLES_528.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.88/SLES_528.88_BG.png",
+      "kind": "background",
+      "bytes": 259652,
+      "width": 640,
+      "height": 480,
+      "sha256": "729ec2a3283b047ca4a1f0cdec8d8b394a38224213f130ed5fdc39329c48b4f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.88/SLES_528.88_BG_00.png"
+      },
+      "gameId": "SLES_528.88"
+    },
+    {
+      "path": "PS2/SLES_528.88/SLES_528.88_BG_01.png",
+      "kind": "background",
+      "bytes": 238388,
+      "width": 640,
+      "height": 480,
+      "sha256": "957c5a14acf7bfc7ae3e9297a41ea05c798c68096799a37d5556dbc5c1a393c1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.88/SLES_528.88_BG_01.png"
+      },
+      "gameId": "SLES_528.88"
+    },
+    {
+      "path": "PS2/SLES_528.88/SLES_528.88_BG_02.png",
+      "kind": "background",
+      "bytes": 211545,
+      "width": 640,
+      "height": 480,
+      "sha256": "57742936f61f325bf7e229df510a56835d6acab2b7403c9168ba20249206d7bf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.88/SLES_528.88_BG_02.png"
+      },
+      "gameId": "SLES_528.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Brothers in Arms - Road to Hill 30"
+}

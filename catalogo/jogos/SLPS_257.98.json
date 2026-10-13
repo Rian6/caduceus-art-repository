@@ -1,0 +1,90 @@
+{
+  "id": "SLPS_257.98",
+  "cover": {
+    "path": "PS2/SLPS_257.98/SLPS_257.98_COV.png",
+    "kind": "cover",
+    "bytes": 92307,
+    "width": 192,
+    "height": 272,
+    "sha256": "6525aab279904e0744699dffc142c767582c4d13d74bbd5749ccbe74dc9ea20d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25798.jpg"
+    },
+    "gameId": "SLPS_257.98"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_257.98/SLPS_257.98_BG.png",
+    "kind": "background",
+    "bytes": 168547,
+    "width": 640,
+    "height": 480,
+    "sha256": "80f0fc2d94ad76320aeb7125a0a13dd2101438d8a7970d95cd1c1efcf1723ac0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.98/SLPS_257.98_BG_00.png"
+    },
+    "gameId": "SLPS_257.98"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.98/SLPS_257.98_BG.png",
+      "kind": "background",
+      "bytes": 168547,
+      "width": 640,
+      "height": 480,
+      "sha256": "80f0fc2d94ad76320aeb7125a0a13dd2101438d8a7970d95cd1c1efcf1723ac0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.98/SLPS_257.98_BG_00.png"
+      },
+      "gameId": "SLPS_257.98"
+    },
+    {
+      "path": "PS2/SLPS_257.98/SLPS_257.98_BG_01.png",
+      "kind": "background",
+      "bytes": 202775,
+      "width": 640,
+      "height": 480,
+      "sha256": "3934c4fc1a75d204ea68e6ed5d6018bfdfd777a0b177973ecf68c2b0150c64a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.98/SLPS_257.98_BG_01.png"
+      },
+      "gameId": "SLPS_257.98"
+    },
+    {
+      "path": "PS2/SLPS_257.98/SLPS_257.98_BG_02.png",
+      "kind": "background",
+      "bytes": 170275,
+      "width": 640,
+      "height": 480,
+      "sha256": "35658a8994b829b155c76ea6f2c734a59e20d2a757a3fcc1f13e940fedd125cc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.98/SLPS_257.98_BG_02.png"
+      },
+      "gameId": "SLPS_257.98"
+    },
+    {
+      "path": "PS2/SLPS_257.98/SLPS_257.98_BG_03.png",
+      "kind": "background",
+      "bytes": 170414,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff0ff51a3646f9d104f2c94e4be11e7a2856efe0fbf9395c2bb9c53bd48fe3a9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.98/SLPS_257.98_BG_03.png"
+      },
+      "gameId": "SLPS_257.98"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ikki Tousen: Shining Dragon"
+}

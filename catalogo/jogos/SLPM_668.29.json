@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.29",
+  "cover": {
+    "path": "PS2/SLPM_668.29/SLPM_668.29_COV.png",
+    "kind": "cover",
+    "bytes": 101759,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e41d2890a1ff01e7df8516b30fdb7c9d527389dc77c49440f1ba94b6d1a193b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66829.jpg"
+    },
+    "gameId": "SLPM_668.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Major League Baseball 2K7"
+}

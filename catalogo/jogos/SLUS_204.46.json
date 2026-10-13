@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_204.46",
+  "cover": {
+    "path": "PS2/SLUS_204.46/SLUS_204.46_COV.png",
+    "kind": "cover",
+    "bytes": 87794,
+    "width": 192,
+    "height": 272,
+    "sha256": "ec051f675e0190e5bd82acf9e08299507ef004fc130e0ca4a366f63c380ecb83",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20446.jpg"
+    },
+    "gameId": "SLUS_204.46"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.46/SLUS_204.46_ICO.png",
+    "kind": "disc",
+    "bytes": 31114,
+    "width": 256,
+    "height": 256,
+    "sha256": "cc209dfc24e7e71f1682d3f40f1e6afb27f1102895c72fff767fd88eb63c6339",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.46_ICO.png"
+    },
+    "gameId": "SLUS_204.46"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.46/SLUS_204.46_BG.png",
+    "kind": "background",
+    "bytes": 171815,
+    "width": 640,
+    "height": 480,
+    "sha256": "eea79ba57c57cafee38aac4e3e85c93241e03ceebf35c00ab82dfbceaefe3ef1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.46/SLUS_204.46_BG_00.png"
+    },
+    "gameId": "SLUS_204.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.46/SLUS_204.46_BG.png",
+      "kind": "background",
+      "bytes": 171815,
+      "width": 640,
+      "height": 480,
+      "sha256": "eea79ba57c57cafee38aac4e3e85c93241e03ceebf35c00ab82dfbceaefe3ef1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.46/SLUS_204.46_BG_00.png"
+      },
+      "gameId": "SLUS_204.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Agassi Tennis Generation"
+}

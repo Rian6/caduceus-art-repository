@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.85",
+  "cover": {
+    "path": "PS2/SLPM_655.85/SLPM_655.85_COV.png",
+    "kind": "cover",
+    "bytes": 104545,
+    "width": 192,
+    "height": 272,
+    "sha256": "c95c88094c6327d0bdca0dc660082f98ffde5ce4f30ace5c3bb516145cedbab0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65585.jpg"
+    },
+    "gameId": "SLPM_655.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PRINCESS HOLIDAY KOROGARU RINGOTEI SENYAICHIYA"
+}

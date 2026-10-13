@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.38",
+  "cover": {
+    "path": "PS2/SLPM_666.38/SLPM_666.38_COV.png",
+    "kind": "cover",
+    "bytes": 73750,
+    "width": 192,
+    "height": 272,
+    "sha256": "2cf0fd913103f2e15f5a47f6dd0e3347b2675711a651bc826eeea78cce8fc074",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66638.jpg"
+    },
+    "gameId": "SLPM_666.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEMENTO [CAPKORE]"
+}

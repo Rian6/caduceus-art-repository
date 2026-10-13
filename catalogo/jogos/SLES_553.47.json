@@ -1,0 +1,103 @@
+{
+  "id": "SLES_553.47",
+  "cover": {
+    "path": "PS2/SLES_553.47/SLES_553.47_COV.png",
+    "kind": "cover",
+    "bytes": 112484,
+    "width": 192,
+    "height": 272,
+    "sha256": "6beaae733b915d818e3474f67919415fbf932ec184305f6701bc3da593f6ba01",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55347.jpg"
+    },
+    "gameId": "SLES_553.47"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_553.47/SLES_553.47_BG.png",
+    "kind": "background",
+    "bytes": 208074,
+    "width": 640,
+    "height": 480,
+    "sha256": "79e00665f12b20f035e4089c20bbab8119a8c92d0d4962242ac179941f665823",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.47/SLES_553.47_BG_00.png"
+    },
+    "gameId": "SLES_553.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_553.47/SLES_553.47_BG.png",
+      "kind": "background",
+      "bytes": 208074,
+      "width": 640,
+      "height": 480,
+      "sha256": "79e00665f12b20f035e4089c20bbab8119a8c92d0d4962242ac179941f665823",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.47/SLES_553.47_BG_00.png"
+      },
+      "gameId": "SLES_553.47"
+    },
+    {
+      "path": "PS2/SLES_553.47/SLES_553.47_BG_01.png",
+      "kind": "background",
+      "bytes": 200224,
+      "width": 640,
+      "height": 480,
+      "sha256": "a7edd8da750b0e0ad31a22c4669913818d8af0c5b87cbdd88c2a8a93fcf9e5ec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.47/SLES_553.47_BG_01.png"
+      },
+      "gameId": "SLES_553.47"
+    },
+    {
+      "path": "PS2/SLES_553.47/SLES_553.47_BG_02.png",
+      "kind": "background",
+      "bytes": 205615,
+      "width": 640,
+      "height": 480,
+      "sha256": "7a2e3ba8f1bb6a0dcdd1018457449f78f34d40fbc77e07e3cfa7e33dc550d2a4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.47/SLES_553.47_BG_02.png"
+      },
+      "gameId": "SLES_553.47"
+    },
+    {
+      "path": "PS2/SLES_553.47/SLES_553.47_BG_03.png",
+      "kind": "background",
+      "bytes": 190866,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3f5cda7c626c9cdd3fe60f243c1db310954c3157c780becc1ffdefaba771cc6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.47/SLES_553.47_BG_03.png"
+      },
+      "gameId": "SLES_553.47"
+    },
+    {
+      "path": "PS2/SLES_553.47/SLES_553.47_BG_04.png",
+      "kind": "background",
+      "bytes": 151143,
+      "width": 640,
+      "height": 480,
+      "sha256": "353dfdf3a16fcfa79c573be348f9aa1d182e216b68ff856d5c39e24727c3310a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.47/SLES_553.47_BG_04.png"
+      },
+      "gameId": "SLES_553.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Ball Z - Infinite World"
+}

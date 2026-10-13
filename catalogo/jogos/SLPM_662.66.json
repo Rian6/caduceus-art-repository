@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.66",
+  "cover": {
+    "path": "PS2/SLPM_662.66/SLPM_662.66_COV.png",
+    "kind": "cover",
+    "bytes": 92571,
+    "width": 192,
+    "height": 272,
+    "sha256": "535dd037516481e22cbc09438206e88def829219b51caffac6682fa6861489d3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66266.jpg"
+    },
+    "gameId": "SLPM_662.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kurogane no Houkou 2 - Warship Commander (Koei The Best)"
+}

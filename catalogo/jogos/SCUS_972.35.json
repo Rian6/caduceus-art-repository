@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_972.35",
+  "cover": {
+    "path": "PS2/SCUS_972.35/SCUS_972.35_COV.png",
+    "kind": "cover",
+    "bytes": 101555,
+    "width": 192,
+    "height": 272,
+    "sha256": "66e3dacfd846a8ab5805cb88e80a13f158fd6150f37a41ccb5b5b24b2363b5df",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97235.jpg"
+    },
+    "gameId": "SCUS_972.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jampack: Winter 2002"
+}

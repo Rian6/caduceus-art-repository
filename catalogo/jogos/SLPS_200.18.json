@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.18",
+  "cover": {
+    "path": "PS2/SLPS_200.18/SLPS_200.18_COV.png",
+    "kind": "cover",
+    "bytes": 101965,
+    "width": 192,
+    "height": 272,
+    "sha256": "070315dcbb9e19bc7b1f2059b8244ee076b7f0c5c4f26f676a884c403bf045db",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20018.jpg"
+    },
+    "gameId": "SLPS_200.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Stepping Selection [2 DISCS]"
+}

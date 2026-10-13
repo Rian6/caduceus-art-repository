@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.46",
+  "cover": {
+    "path": "PS2/SLPS_251.46/SLPS_251.46_COV.png",
+    "kind": "cover",
+    "bytes": 106690,
+    "width": 192,
+    "height": 272,
+    "sha256": "d881f7844cd2243c4b1b1fea61a4460e1bb24e94c2b40b853fbedcf5922d574a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25146.jpg"
+    },
+    "gameId": "SLPS_251.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HOOLIGAN - KIMI NO NAKA NO YUUKI"
+}

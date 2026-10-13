@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.26",
+  "cover": {
+    "path": "PS2/SLPM_625.26/SLPM_625.26_COV.png",
+    "kind": "cover",
+    "bytes": 92124,
+    "width": 192,
+    "height": 272,
+    "sha256": "a38ec5c3abdeea4e5cfe537b13f871b631e388213849b57a563b1b0d712ff6c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62526.jpg"
+    },
+    "gameId": "SLPM_625.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Giant Robo - The Animation - Chikyuu ga Seishisuru Hi"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_545.17",
+  "cover": {
+    "path": "PS2/SLES_545.17/SLES_545.17_COV.png",
+    "kind": "cover",
+    "bytes": 113072,
+    "width": 192,
+    "height": 272,
+    "sha256": "d19970d31c84295d77ac98c49977f808ce4bb5b51e8824886778d116cff0638c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54517.jpg"
+    },
+    "gameId": "SLES_545.17"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_545.17/SLES_545.17_BG.png",
+    "kind": "background",
+    "bytes": 193044,
+    "width": 640,
+    "height": 480,
+    "sha256": "ff4fea5501de489deae1df396c89529af6ee9fa695884550691921084cf88954",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.17/SLES_545.17_BG_00.png"
+    },
+    "gameId": "SLES_545.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_545.17/SLES_545.17_BG.png",
+      "kind": "background",
+      "bytes": 193044,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff4fea5501de489deae1df396c89529af6ee9fa695884550691921084cf88954",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.17/SLES_545.17_BG_00.png"
+      },
+      "gameId": "SLES_545.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Thrillville"
+}

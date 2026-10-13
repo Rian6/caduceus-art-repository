@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.77",
+  "cover": {
+    "path": "PS2/SLPS_257.77/SLPS_257.77_COV.png",
+    "kind": "cover",
+    "bytes": 93293,
+    "width": 192,
+    "height": 272,
+    "sha256": "ffd90ce253861dba7d23605e99df33d20ae804b3954bf2a6947a516592840b06",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25777.jpg"
+    },
+    "gameId": "SLPS_257.77"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUMOMOMO MOMOMO - CHIJOU SAIKYOU NO YOME [LIMITED EDITION]"
+}

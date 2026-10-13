@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.71",
+  "cover": {
+    "path": "PS2/SLPS_255.71/SLPS_255.71_COV.png",
+    "kind": "cover",
+    "bytes": 96151,
+    "width": 192,
+    "height": 272,
+    "sha256": "1e18ceba8e3b6698802dcdc84608cfaf22f8090ba4d3205516014632b6e39b9b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25571.jpg"
+    },
+    "gameId": "SLPS_255.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL SLUG 4 [SNK BEST COLLECTION]"
+}

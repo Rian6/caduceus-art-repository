@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_218.11",
+  "cover": {
+    "path": "PS2/SLUS_218.11/SLUS_218.11_COV.png",
+    "kind": "cover",
+    "bytes": 77446,
+    "width": 192,
+    "height": 272,
+    "sha256": "63580027014cf6f5423c0f56eff550fc5b1f7daae22571a1cef99a8a45518de6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21811.jpg"
+    },
+    "gameId": "SLUS_218.11"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.11/SLUS_218.11_ICO.png",
+    "kind": "disc",
+    "bytes": 31323,
+    "width": 256,
+    "height": 256,
+    "sha256": "e1679041c5a59582910255352bb127e66101552cfb717790af6f255a4ccf94fc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.11_ICO.png"
+    },
+    "gameId": "SLUS_218.11"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.11/SLUS_218.11_BG.png",
+    "kind": "background",
+    "bytes": 210692,
+    "width": 640,
+    "height": 480,
+    "sha256": "424880edd9af435664d3925b52e37c2bb72b9c0d4fd3ca75e1e4b246e135ac52",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.11/SLUS_218.11_BG_00.png"
+    },
+    "gameId": "SLUS_218.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.11/SLUS_218.11_BG.png",
+      "kind": "background",
+      "bytes": 210692,
+      "width": 640,
+      "height": 480,
+      "sha256": "424880edd9af435664d3925b52e37c2bb72b9c0d4fd3ca75e1e4b246e135ac52",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.11/SLUS_218.11_BG_00.png"
+      },
+      "gameId": "SLUS_218.11"
+    },
+    {
+      "path": "PS2/SLUS_218.11/SLUS_218.11_BG_01.png",
+      "kind": "background",
+      "bytes": 164653,
+      "width": 640,
+      "height": 480,
+      "sha256": "45f3ca29b8c0f24806bebd8b2b3ade5d1dd4e1b25bc4a4d384a61dae7305247f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.11/SLUS_218.11_BG_01.png"
+      },
+      "gameId": "SLUS_218.11"
+    },
+    {
+      "path": "PS2/SLUS_218.11/SLUS_218.11_BG_02.png",
+      "kind": "background",
+      "bytes": 189308,
+      "width": 640,
+      "height": 480,
+      "sha256": "91be54ae5b1e3cf18f7d8d44aa7732d114ef3f8c2a41e664d2e479facd49cba9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.11/SLUS_218.11_BG_02.png"
+      },
+      "gameId": "SLUS_218.11"
+    },
+    {
+      "path": "PS2/SLUS_218.11/SLUS_218.11_BG_03.png",
+      "kind": "background",
+      "bytes": 130568,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e867c656cb5dbc2cea445a3751f4888ebfb8932b9ef66f3e46c02011b3d3c94",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.11/SLUS_218.11_BG_03.png"
+      },
+      "gameId": "SLUS_218.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MotoGP 08"
+}

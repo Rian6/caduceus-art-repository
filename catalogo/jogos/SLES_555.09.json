@@ -1,0 +1,39 @@
+{
+  "id": "SLES_555.09",
+  "cover": {
+    "path": "PS2/SLES_555.09/SLES_555.09_COV.png",
+    "kind": "cover",
+    "bytes": 86877,
+    "width": 192,
+    "height": 272,
+    "sha256": "7193c5c82a374049b58af91336aef13aea6f6c172e83daf6647eea4774f161c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55509.jpg"
+    },
+    "gameId": "SLES_555.09"
+  },
+  "disc": {
+    "path": "PS2/SLES_555.09/SLES_555.09_ICO.png",
+    "kind": "disc",
+    "bytes": 11217,
+    "width": 128,
+    "height": 128,
+    "sha256": "cf19b71f2eef091defbfdccd3632e6126364e9ae3bc836ff06282dca92aa7351",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_555.09_ICO.png"
+    },
+    "gameId": "SLES_555.09"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Music Maker - Rockstar"
+}

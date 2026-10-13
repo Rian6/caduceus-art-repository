@@ -1,0 +1,64 @@
+{
+  "id": "SLES_527.34",
+  "cover": {
+    "path": "PS2/SLES_527.34/SLES_527.34_COV.png",
+    "kind": "cover",
+    "bytes": 91441,
+    "width": 192,
+    "height": 272,
+    "sha256": "999fad55b88549e2552e80149bef9d0d000351953471fd7753c9d1523865c500",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52734.jpg"
+    },
+    "gameId": "SLES_527.34"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.34/SLES_527.34_BG.png",
+    "kind": "background",
+    "bytes": 152834,
+    "width": 640,
+    "height": 480,
+    "sha256": "38b37b73d56dd76f37d397a39a541887741626fcefd14358d028ba951a38a781",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.34/SLES_527.34_BG_00.png"
+    },
+    "gameId": "SLES_527.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.34/SLES_527.34_BG.png",
+      "kind": "background",
+      "bytes": 152834,
+      "width": 640,
+      "height": 480,
+      "sha256": "38b37b73d56dd76f37d397a39a541887741626fcefd14358d028ba951a38a781",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.34/SLES_527.34_BG_00.png"
+      },
+      "gameId": "SLES_527.34"
+    },
+    {
+      "path": "PS2/SLES_527.34/SLES_527.34_BG_01.png",
+      "kind": "background",
+      "bytes": 183294,
+      "width": 640,
+      "height": 480,
+      "sha256": "79ed62b31cf8f95c1b767cbe7727d84b178c030918a0ce5544a2b9bba053d4ad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.34/SLES_527.34_BG_01.png"
+      },
+      "gameId": "SLES_527.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Worms Forts - Under Siege"
+}

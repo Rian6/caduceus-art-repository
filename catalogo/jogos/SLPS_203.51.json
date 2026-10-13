@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.51",
+  "cover": {
+    "path": "PS2/SLPS_203.51/SLPS_203.51_COV.png",
+    "kind": "cover",
+    "bytes": 92090,
+    "width": 192,
+    "height": 272,
+    "sha256": "1bf3596158e3f68f692ad21c991ad923daab39f689f4543392de2485ef0bb9dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20351.jpg"
+    },
+    "gameId": "SLPS_203.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLOTTER UP MANIA 4 - TROPICAL INCENSE! SUPER HANA HANA & SHIOMARU & OASE"
+}

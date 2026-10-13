@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.42",
+  "cover": {
+    "path": "PS2/SLPM_651.42/SLPM_651.42_COV.png",
+    "kind": "cover",
+    "bytes": 102643,
+    "width": 192,
+    "height": 272,
+    "sha256": "2ac0986e9e2dbb16bac8c7ffd030471b38a2bcf8e0cd10a4a9fec5e73c86d450",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65142.jpg"
+    },
+    "gameId": "SLPM_651.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KYOJIN NO HOSHI - THE ANIME SUPER REMIX"
+}

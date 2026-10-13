@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.61",
+  "cover": {
+    "path": "PS2/SLPM_657.61/SLPM_657.61_COV.png",
+    "kind": "cover",
+    "bytes": 76856,
+    "width": 192,
+    "height": 272,
+    "sha256": "81ff962fd85b95d279a7d47f11c34a24c9130133cbf559dce416ca0a5f2f66be",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65761.jpg"
+    },
+    "gameId": "SLPM_657.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kousoku Kidoutai - World Super Police"
+}

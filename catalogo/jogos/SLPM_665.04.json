@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.04",
+  "cover": {
+    "path": "PS2/SLPM_665.04/SLPM_665.04_COV.png",
+    "kind": "cover",
+    "bytes": 89755,
+    "width": 192,
+    "height": 272,
+    "sha256": "38af8b3649da7bbe0c20868032e6b537dfb05f739135643f1831ba98f07c2eab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66504.jpg"
+    },
+    "gameId": "SLPM_665.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONIMUSHA 2 [MEGA HITS]"
+}

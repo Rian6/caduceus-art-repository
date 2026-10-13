@@ -1,0 +1,103 @@
+{
+  "id": "SLES_538.53",
+  "cover": {
+    "path": "PS2/SLES_538.53/SLES_538.53_COV.png",
+    "kind": "cover",
+    "bytes": 103730,
+    "width": 192,
+    "height": 272,
+    "sha256": "2b2e21ff7a7747cb9ad64fcdb436e9d0a6a13e07b03a4df8fb810c4ef84193d0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53853.jpg"
+    },
+    "gameId": "SLES_538.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_538.53/SLES_538.53_BG.png",
+    "kind": "background",
+    "bytes": 116092,
+    "width": 640,
+    "height": 480,
+    "sha256": "9645cac3897a7766d529173245dd06b47dc10cc3d0dbf378a2011724f7fff068",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_538.53/SLES_538.53_BG_00.png"
+    },
+    "gameId": "SLES_538.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_538.53/SLES_538.53_BG.png",
+      "kind": "background",
+      "bytes": 116092,
+      "width": 640,
+      "height": 480,
+      "sha256": "9645cac3897a7766d529173245dd06b47dc10cc3d0dbf378a2011724f7fff068",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.53/SLES_538.53_BG_00.png"
+      },
+      "gameId": "SLES_538.53"
+    },
+    {
+      "path": "PS2/SLES_538.53/SLES_538.53_BG_01.png",
+      "kind": "background",
+      "bytes": 56647,
+      "width": 640,
+      "height": 480,
+      "sha256": "81e93df7f6bfbb43aa5a7bb878f7a57962fb0e73b07d094fdae00cb14479d2be",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.53/SLES_538.53_BG_01.png"
+      },
+      "gameId": "SLES_538.53"
+    },
+    {
+      "path": "PS2/SLES_538.53/SLES_538.53_BG_02.png",
+      "kind": "background",
+      "bytes": 213186,
+      "width": 640,
+      "height": 480,
+      "sha256": "79f28e94c4ad9cc44ea22279f5a125da8bbd1901b1a7470c65910932389658a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.53/SLES_538.53_BG_02.png"
+      },
+      "gameId": "SLES_538.53"
+    },
+    {
+      "path": "PS2/SLES_538.53/SLES_538.53_BG_03.png",
+      "kind": "background",
+      "bytes": 56867,
+      "width": 640,
+      "height": 480,
+      "sha256": "12b795b8883d5800c874032effc45eea873987d9983c36b944189ba863dfeeb0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.53/SLES_538.53_BG_03.png"
+      },
+      "gameId": "SLES_538.53"
+    },
+    {
+      "path": "PS2/SLES_538.53/SLES_538.53_BG_04.png",
+      "kind": "background",
+      "bytes": 253034,
+      "width": 640,
+      "height": 480,
+      "sha256": "f2b61d0423adbe0fcb632eaa7a797870ebc525f04fc6ffb583e20e0a4f3e5289",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.53/SLES_538.53_BG_04.png"
+      },
+      "gameId": "SLES_538.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FINAL FIGHT STREETWISE"
+}

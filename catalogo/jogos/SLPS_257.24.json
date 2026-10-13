@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.24",
+  "cover": {
+    "path": "PS2/SLPS_257.24/SLPS_257.24_COV.png",
+    "kind": "cover",
+    "bytes": 104604,
+    "width": 192,
+    "height": 272,
+    "sha256": "e95efb0c5546e7695ceac54a3bd5b91cdbd82713f6c48dc4196c9cb147463e5d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25724.jpg"
+    },
+    "gameId": "SLPS_257.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 11 - Pachinko Misora Hibari"
+}

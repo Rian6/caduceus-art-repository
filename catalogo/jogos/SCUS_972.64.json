@@ -1,0 +1,91 @@
+{
+  "id": "SCUS_972.64",
+  "cover": {
+    "path": "PS2/SCUS_972.64/SCUS_972.64_COV.png",
+    "kind": "cover",
+    "bytes": 103271,
+    "width": 192,
+    "height": 272,
+    "sha256": "160472fa75460749739e9b7cf731ad3ca7a51bedd1dc5ebf9a779f56650050a8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97264.jpg"
+    },
+    "gameId": "SCUS_972.64"
+  },
+  "disc": {
+    "path": "PS2/SCUS_972.64/SCUS_972.64_ICO.png",
+    "kind": "disc",
+    "bytes": 31763,
+    "width": 256,
+    "height": 256,
+    "sha256": "4fdd5d50287b4239805093475eaeff360bb2fe35b457131d1f9fb62a18efdf55",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_972.64_ICO.png"
+    },
+    "gameId": "SCUS_972.64"
+  },
+  "background": {
+    "path": "PS2/SCUS_972.64/SCUS_972.64_BG.png",
+    "kind": "background",
+    "bytes": 195565,
+    "width": 640,
+    "height": 480,
+    "sha256": "0d626df3f88bcb0f400c826ad77e71e6833553eee675bf227edd6ab18b12b24e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_972.64/SCUS_972.64_BG_00.png"
+    },
+    "gameId": "SCUS_972.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_972.64/SCUS_972.64_BG.png",
+      "kind": "background",
+      "bytes": 195565,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d626df3f88bcb0f400c826ad77e71e6833553eee675bf227edd6ab18b12b24e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_972.64/SCUS_972.64_BG_00.png"
+      },
+      "gameId": "SCUS_972.64"
+    },
+    {
+      "path": "PS2/SCUS_972.64/SCUS_972.64_BG_01.png",
+      "kind": "background",
+      "bytes": 173850,
+      "width": 640,
+      "height": 480,
+      "sha256": "0f77b9e5dfbc47d434357a54ea771e69e54469cf6fa5a3b55eacdca2bba91e78",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_972.64/SCUS_972.64_BG_01.png"
+      },
+      "gameId": "SCUS_972.64"
+    },
+    {
+      "path": "PS2/SCUS_972.64/SCUS_972.64_BG_02.png",
+      "kind": "background",
+      "bytes": 187254,
+      "width": 640,
+      "height": 480,
+      "sha256": "b81857f1f05e5fffea7366b892ce0f6b0011fa653a4aee980c43503032379eb8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_972.64/SCUS_972.64_BG_02.png"
+      },
+      "gameId": "SCUS_972.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SYPHON FILTER - THE OMEGA STRAIN"
+}

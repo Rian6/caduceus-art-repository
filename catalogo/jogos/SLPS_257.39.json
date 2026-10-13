@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.39",
+  "cover": {
+    "path": "PS2/SLPS_257.39/SLPS_257.39_COV.png",
+    "kind": "cover",
+    "bytes": 107240,
+    "width": 192,
+    "height": 272,
+    "sha256": "8b33736b29393cc1b2ae179f46d3697f275f121afcdaddd640b2a7683976596f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25739.jpg"
+    },
+    "gameId": "SLPS_257.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOUL CRADLE - SEKAI O KURAU MONO"
+}

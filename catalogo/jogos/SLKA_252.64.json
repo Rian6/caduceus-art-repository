@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.64",
+  "cover": {
+    "path": "PS2/SLKA_252.64/SLKA_252.64_COV.png",
+    "kind": "cover",
+    "bytes": 103706,
+    "width": 192,
+    "height": 272,
+    "sha256": "d0d8b059d0606819c3a66860a570121177095e2eba938e5598992979f27c002c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25264.jpg"
+    },
+    "gameId": "SLKA_252.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Full Spectrum Warrior"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_625.43",
+  "cover": {
+    "path": "PS2/SLPM_625.43/SLPM_625.43_COV.png",
+    "kind": "cover",
+    "bytes": 94022,
+    "width": 192,
+    "height": 272,
+    "sha256": "4018b75a560accca5e45066a51af99b07cc92838bae64faeb5c5f0bfc42c0120",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62543.jpg"
+    },
+    "gameId": "SLPM_625.43"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_625.43/SLPM_625.43_BG.png",
+    "kind": "background",
+    "bytes": 227913,
+    "width": 640,
+    "height": 480,
+    "sha256": "d87de4a2d3360e9cb3a7f36c4d0779f8bc5ef571fab13fead64964ceaf9f6aa8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_625.43/SLPM_625.43_BG_00.png"
+    },
+    "gameId": "SLPM_625.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_625.43/SLPM_625.43_BG.png",
+      "kind": "background",
+      "bytes": 227913,
+      "width": 640,
+      "height": 480,
+      "sha256": "d87de4a2d3360e9cb3a7f36c4d0779f8bc5ef571fab13fead64964ceaf9f6aa8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_625.43/SLPM_625.43_BG_00.png"
+      },
+      "gameId": "SLPM_625.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.65 - The Kyonshi Panic"
+}

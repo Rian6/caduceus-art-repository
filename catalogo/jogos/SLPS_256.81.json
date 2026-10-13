@@ -1,0 +1,65 @@
+{
+  "id": "SLPS_256.81",
+  "cover": {
+    "path": "PS2/SLPS_256.81/SLPS_256.81_COV.png",
+    "kind": "cover",
+    "bytes": 102082,
+    "width": 192,
+    "height": 272,
+    "sha256": "92abd8c773119b3035264ba8dd6458c43ddbfd1f62ca5d1be4f719aae10a56c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25681.jpg"
+    },
+    "gameId": "SLPS_256.81"
+  },
+  "disc": {
+    "path": "PS2/SLPS_256.81/SLPS_256.81_ICO.png",
+    "kind": "disc",
+    "bytes": 11118,
+    "width": 128,
+    "height": 128,
+    "sha256": "02c3de33f996e628a41445c794b7e193a42ffe273d9d72c65c14c337f0f21ed1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_256.81_ICO.png"
+    },
+    "gameId": "SLPS_256.81"
+  },
+  "background": {
+    "path": "PS2/SLPS_256.81/SLPS_256.81_BG.png",
+    "kind": "background",
+    "bytes": 160504,
+    "width": 640,
+    "height": 480,
+    "sha256": "57a3841d5c51b5ab5642c0ed3a83036637a8a711e796cebb98b60fa5247943c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.81/SLPS_256.81_BG_00.png"
+    },
+    "gameId": "SLPS_256.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.81/SLPS_256.81_BG.png",
+      "kind": "background",
+      "bytes": 160504,
+      "width": 640,
+      "height": 480,
+      "sha256": "57a3841d5c51b5ab5642c0ed3a83036637a8a711e796cebb98b60fa5247943c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.81/SLPS_256.81_BG_00.png"
+      },
+      "gameId": "SLPS_256.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAI-OTOME HIME - OTOME BUTOU SHI"
+}

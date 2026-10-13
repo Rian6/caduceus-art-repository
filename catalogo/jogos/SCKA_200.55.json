@@ -1,0 +1,117 @@
+{
+  "id": "SCKA_200.55",
+  "cover": {
+    "path": "PS2/SCKA_200.55/SCKA_200.55_COV.png",
+    "kind": "cover",
+    "bytes": 81129,
+    "width": 192,
+    "height": 272,
+    "sha256": "7611358cbdb3d000a4e4a089607a048ce267593bef3b592c8c02a3125801e24a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20055.jpg"
+    },
+    "gameId": "SCKA_200.55"
+  },
+  "disc": {
+    "path": "PS2/SCKA_200.55/SCKA_200.55_ICO.png",
+    "kind": "disc",
+    "bytes": 12542,
+    "width": 128,
+    "height": 128,
+    "sha256": "d93172dc03054d6a5fa8fb7a4f4f5bcbec3335aa863747d8e34587cff21610d0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCKA_200.55_ICO.png"
+    },
+    "gameId": "SCKA_200.55"
+  },
+  "background": {
+    "path": "PS2/SCKA_200.55/SCKA_200.55_BG.png",
+    "kind": "background",
+    "bytes": 170083,
+    "width": 640,
+    "height": 480,
+    "sha256": "8117aefb6ace6672442598490f605858d92551062dcbf2ce91ac6f7b0fb41861",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.55/SCKA_200.55_BG_00.png"
+    },
+    "gameId": "SCKA_200.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.55/SCKA_200.55_BG.png",
+      "kind": "background",
+      "bytes": 170083,
+      "width": 640,
+      "height": 480,
+      "sha256": "8117aefb6ace6672442598490f605858d92551062dcbf2ce91ac6f7b0fb41861",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.55/SCKA_200.55_BG_00.png"
+      },
+      "gameId": "SCKA_200.55"
+    },
+    {
+      "path": "PS2/SCKA_200.55/SCKA_200.55_BG_01.png",
+      "kind": "background",
+      "bytes": 175873,
+      "width": 640,
+      "height": 480,
+      "sha256": "c29541ec8351c0a7cb5c242e7f7527d452446585c6f8403e609c1e9b49eb4a73",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.55/SCKA_200.55_BG_01.png"
+      },
+      "gameId": "SCKA_200.55"
+    },
+    {
+      "path": "PS2/SCKA_200.55/SCKA_200.55_BG_02.png",
+      "kind": "background",
+      "bytes": 117541,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ab32d39201eed812675efdfd61cb0a02c139aea686d6a08b9a6317973c37edb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.55/SCKA_200.55_BG_02.png"
+      },
+      "gameId": "SCKA_200.55"
+    },
+    {
+      "path": "PS2/SCKA_200.55/SCKA_200.55_BG_03.png",
+      "kind": "background",
+      "bytes": 183347,
+      "width": 640,
+      "height": 480,
+      "sha256": "4b9aade0cfc4ea0ae4bb37c68ccdb922d73e250783971a87c3a6795752e2c4ba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.55/SCKA_200.55_BG_03.png"
+      },
+      "gameId": "SCKA_200.55"
+    },
+    {
+      "path": "PS2/SCKA_200.55/SCKA_200.55_BG_04.png",
+      "kind": "background",
+      "bytes": 152952,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd5cd25f45e09155942f632f7d5cd8def16255670fc2a9a3290ffab267f8fc5d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.55/SCKA_200.55_BG_04.png"
+      },
+      "gameId": "SCKA_200.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mystic Nights"
+}

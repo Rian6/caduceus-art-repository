@@ -1,0 +1,24 @@
+{
+  "id": "GHCE_000.01",
+  "cover": {
+    "path": "PS2/GHCE_000.01/GHCE_000.01_COV.png",
+    "kind": "cover",
+    "bytes": 109191,
+    "width": 192,
+    "height": 272,
+    "sha256": "2ce48d458596ea82a9b4647997eb3d4c8ff3a1fd919eb229b083bf0c5eea91f5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/GHCE-00001.jpg"
+    },
+    "gameId": "GHCE_000.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

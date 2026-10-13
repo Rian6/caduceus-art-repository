@@ -1,0 +1,103 @@
+{
+  "id": "SLES_503.06",
+  "cover": {
+    "path": "PS2/SLES_503.06/SLES_503.06_COV.png",
+    "kind": "cover",
+    "bytes": 81246,
+    "width": 192,
+    "height": 272,
+    "sha256": "78d11b72e1878fb73e6e4e8fe8fe20a590c0ec247c34b63ef75822a972089118",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50306.jpg"
+    },
+    "gameId": "SLES_503.06"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_503.06/SLES_503.06_BG.png",
+    "kind": "background",
+    "bytes": 107334,
+    "width": 640,
+    "height": 480,
+    "sha256": "78db222c2dd417d6740596d77ff1fa963cf233c1d7e09e0f2139292551fd65d6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_503.06/SLES_503.06_BG_00.png"
+    },
+    "gameId": "SLES_503.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_503.06/SLES_503.06_BG.png",
+      "kind": "background",
+      "bytes": 107334,
+      "width": 640,
+      "height": 480,
+      "sha256": "78db222c2dd417d6740596d77ff1fa963cf233c1d7e09e0f2139292551fd65d6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.06/SLES_503.06_BG_00.png"
+      },
+      "gameId": "SLES_503.06"
+    },
+    {
+      "path": "PS2/SLES_503.06/SLES_503.06_BG_01.png",
+      "kind": "background",
+      "bytes": 169607,
+      "width": 640,
+      "height": 480,
+      "sha256": "421b22d483cb72a1865699586ca2a6345ca402957344a1f4a9bb6c0e885bc770",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.06/SLES_503.06_BG_01.png"
+      },
+      "gameId": "SLES_503.06"
+    },
+    {
+      "path": "PS2/SLES_503.06/SLES_503.06_BG_02.png",
+      "kind": "background",
+      "bytes": 203486,
+      "width": 640,
+      "height": 480,
+      "sha256": "effe176c07f500597d6886bb6db724df7cac19ab03734d7551d8d5a436befeea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.06/SLES_503.06_BG_02.png"
+      },
+      "gameId": "SLES_503.06"
+    },
+    {
+      "path": "PS2/SLES_503.06/SLES_503.06_BG_03.png",
+      "kind": "background",
+      "bytes": 226395,
+      "width": 640,
+      "height": 480,
+      "sha256": "055b5e43d194fd303ed63fc4113b33cdf9059ed62fd7cabdcfe2ed55280e5489",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.06/SLES_503.06_BG_03.png"
+      },
+      "gameId": "SLES_503.06"
+    },
+    {
+      "path": "PS2/SLES_503.06/SLES_503.06_BG_04.png",
+      "kind": "background",
+      "bytes": 175801,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb223dbd3a8d1e62ccce1003b928f890c472208db721a1b9b434e51474bda9c3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.06/SLES_503.06_BG_04.png"
+      },
+      "gameId": "SLES_503.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Resident Evil: Code: Veronica X"
+}

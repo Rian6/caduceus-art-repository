@@ -1,0 +1,25 @@
+{
+  "id": "SCES_510.40",
+  "cover": {
+    "path": "PS2/SCES_510.40/SCES_510.40_COV.png",
+    "kind": "cover",
+    "bytes": 60828,
+    "width": 192,
+    "height": 272,
+    "sha256": "4b503937fa7f37d68a1fd948bcabf42abffc93b4a4f02abe7d64079c7e32198c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_510.40/SCES_510.40_COV.png"
+    },
+    "gameId": "SCES_510.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Le Monde des Bleus 2003 - Un Nouveau Défi"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "SLES_555.92",
+  "cover": {
+    "path": "PS2/SLES_555.92/SLES_555.92_COV.png",
+    "kind": "cover",
+    "bytes": 100626,
+    "width": 192,
+    "height": 272,
+    "sha256": "843f47657baa4d249bdcf961371a1c22d0e01a47a3c3f026c78ac97aebb23b6d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55592.jpg"
+    },
+    "gameId": "SLES_555.92"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_555.92/SLES_555.92_BG.png",
+    "kind": "background",
+    "bytes": 142784,
+    "width": 640,
+    "height": 480,
+    "sha256": "e63556d8ab24b75a44b175fb2981e871c8e9d19accefe2e5f3f5ce454e19b597",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_555.92/SLES_555.92_BG_00.png"
+    },
+    "gameId": "SLES_555.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_555.92/SLES_555.92_BG.png",
+      "kind": "background",
+      "bytes": 142784,
+      "width": 640,
+      "height": 480,
+      "sha256": "e63556d8ab24b75a44b175fb2981e871c8e9d19accefe2e5f3f5ce454e19b597",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.92/SLES_555.92_BG_00.png"
+      },
+      "gameId": "SLES_555.92"
+    },
+    {
+      "path": "PS2/SLES_555.92/SLES_555.92_BG_01.png",
+      "kind": "background",
+      "bytes": 198812,
+      "width": 640,
+      "height": 480,
+      "sha256": "56781129fa97efe251963acb8d5a1387f5b3a9a759e56de703e7fa8182df429b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.92/SLES_555.92_BG_01.png"
+      },
+      "gameId": "SLES_555.92"
+    },
+    {
+      "path": "PS2/SLES_555.92/SLES_555.92_BG_02.png",
+      "kind": "background",
+      "bytes": 171437,
+      "width": 640,
+      "height": 480,
+      "sha256": "01603f1af53212ff30580c95c7768a9ce79781dea54c40d1ce99a1623699a567",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.92/SLES_555.92_BG_02.png"
+      },
+      "gameId": "SLES_555.92"
+    },
+    {
+      "path": "PS2/SLES_555.92/SLES_555.92_BG_03.png",
+      "kind": "background",
+      "bytes": 211358,
+      "width": 640,
+      "height": 480,
+      "sha256": "64da86c2d3292cf12274c697f055d9167eb15c954fdbcd2c755062b98d719307",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.92/SLES_555.92_BG_03.png"
+      },
+      "gameId": "SLES_555.92"
+    },
+    {
+      "path": "PS2/SLES_555.92/SLES_555.92_BG_04.png",
+      "kind": "background",
+      "bytes": 123286,
+      "width": 640,
+      "height": 480,
+      "sha256": "19222220f11f136669a64d5fe115a53675e1f251e25cd6bfd6377df506393a89",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.92/SLES_555.92_BG_04.png"
+      },
+      "gameId": "SLES_555.92"
+    },
+    {
+      "path": "PS2/SLES_555.92/SLES_555.92_BG_05.png",
+      "kind": "background",
+      "bytes": 126388,
+      "width": 640,
+      "height": 480,
+      "sha256": "3e96ac8015c19fec4be1277440d0f15efbe8773a996a6b4d6685cecfbc9ce1d5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.92/SLES_555.92_BG_05.png"
+      },
+      "gameId": "SLES_555.92"
+    },
+    {
+      "path": "PS2/SLES_555.92/SLES_555.92_BG_06.png",
+      "kind": "background",
+      "bytes": 161295,
+      "width": 640,
+      "height": 480,
+      "sha256": "96914c593f8e1104652b9f794936bddef92064a1a6c3710c9cb9892e49997b75",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.92/SLES_555.92_BG_06.png"
+      },
+      "gameId": "SLES_555.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ben 10: Alien Force: Vilgax Attacks"
+}

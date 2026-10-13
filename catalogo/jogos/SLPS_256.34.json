@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.34",
+  "cover": {
+    "path": "PS2/SLPS_256.34/SLPS_256.34_COV.png",
+    "kind": "cover",
+    "bytes": 104497,
+    "width": 192,
+    "height": 272,
+    "sha256": "c0171aebd4cf1abdc7c2ed4d703adcf62731cc28662a6f45146683dff16e6e61",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25634.jpg"
+    },
+    "gameId": "SLPS_256.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL SLUG 5 [SNK BEST COLLECTION]"
+}

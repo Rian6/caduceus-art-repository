@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.48",
+  "cover": {
+    "path": "PS2/SLPM_650.48/SLPM_650.48_COV.png",
+    "kind": "cover",
+    "bytes": 104387,
+    "width": 192,
+    "height": 272,
+    "sha256": "d39010ee976fe93bee37313be32790aa01e98eae81f0b737f618fb4895de8c1a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65048.jpg"
+    },
+    "gameId": "SLPM_650.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KINNIKU BANZUKE - MUSCLE WARS 21"
+}

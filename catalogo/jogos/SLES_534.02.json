@@ -1,0 +1,65 @@
+{
+  "id": "SLES_534.02",
+  "cover": {
+    "path": "PS2/SLES_534.02/SLES_534.02_COV.png",
+    "kind": "cover",
+    "bytes": 90898,
+    "width": 192,
+    "height": 272,
+    "sha256": "c5215229e4494cf02809c424193738b183a5bd73f9433fc142a33eb7562072f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53402.jpg"
+    },
+    "gameId": "SLES_534.02"
+  },
+  "disc": {
+    "path": "PS2/SLES_534.02/SLES_534.02_ICO.png",
+    "kind": "disc",
+    "bytes": 11155,
+    "width": 128,
+    "height": 128,
+    "sha256": "bc7c9d7974d56f3f37ac6e3d350f9c8fcf4e565b48dcf7d4f726ab1e626452ee",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_534.02_ICO.png"
+    },
+    "gameId": "SLES_534.02"
+  },
+  "background": {
+    "path": "PS2/SLES_534.02/SLES_534.02_BG.png",
+    "kind": "background",
+    "bytes": 191999,
+    "width": 640,
+    "height": 480,
+    "sha256": "fefacd860a9212da4072fe78942b7e07b2a24924474870c5987e3db96d6e33fe",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.02/SLES_534.02_BG_00.png"
+    },
+    "gameId": "SLES_534.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.02/SLES_534.02_BG.png",
+      "kind": "background",
+      "bytes": 191999,
+      "width": 640,
+      "height": 480,
+      "sha256": "fefacd860a9212da4072fe78942b7e07b2a24924474870c5987e3db96d6e33fe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.02/SLES_534.02_BG_00.png"
+      },
+      "gameId": "SLES_534.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taxi Rider"
+}

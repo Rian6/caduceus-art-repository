@@ -1,0 +1,25 @@
+{
+  "id": "SLES_528.20",
+  "cover": {
+    "path": "PS2/SLES_528.20/SLES_528.20_COV.png",
+    "kind": "cover",
+    "bytes": 65727,
+    "width": 192,
+    "height": 272,
+    "sha256": "6b640f921081d85efb531fd6f9d5621135e639a9dc765b8e037a0b1799483ba6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52820.jpg"
+    },
+    "gameId": "SLES_528.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S PIXAR - THE INCREDIBLES"
+}

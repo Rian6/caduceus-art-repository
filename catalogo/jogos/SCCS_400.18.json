@@ -1,0 +1,25 @@
+{
+  "id": "SCCS_400.18",
+  "cover": {
+    "path": "PS2/SCCS_400.18/SCCS_400.18_COV.png",
+    "kind": "cover",
+    "bytes": 60758,
+    "width": 192,
+    "height": 272,
+    "sha256": "93b89f54ae6efa8afa13867712dea57852c46f0c441361974dfc6490fc08ea52",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCCS_400.18/SCCS_400.18_COV.png"
+    },
+    "gameId": "SCCS_400.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy - Monkey Mania"
+}

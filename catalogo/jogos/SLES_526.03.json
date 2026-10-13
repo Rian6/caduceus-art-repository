@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.03",
+  "cover": {
+    "path": "PS2/SLES_526.03/SLES_526.03_COV.png",
+    "kind": "cover",
+    "bytes": 92439,
+    "width": 192,
+    "height": 272,
+    "sha256": "14fd7d7d08a13691243be78edaa9ad81cedcb954e946fb6a6ead85e3a6ba5b98",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52603.jpg"
+    },
+    "gameId": "SLES_526.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Room Zoom - Race for Impact"
+}

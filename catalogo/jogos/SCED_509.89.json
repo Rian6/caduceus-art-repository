@@ -1,0 +1,25 @@
+{
+  "id": "SCED_509.89",
+  "cover": {
+    "path": "PS2/SCED_509.89/SCED_509.89_COV.png",
+    "kind": "cover",
+    "bytes": 88770,
+    "width": 192,
+    "height": 272,
+    "sha256": "8bff85e7ee55f85fbd3f77b2b26578ca8ff269a02c41a5ad5d605ccbd4f83e7e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCED-50989.jpg"
+    },
+    "gameId": "SCED_509.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Official PlayStation 2 Magazine Demo 21"
+}

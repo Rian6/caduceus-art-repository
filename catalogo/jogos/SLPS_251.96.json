@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.96",
+  "cover": {
+    "path": "PS2/SLPS_251.96/SLPS_251.96_COV.png",
+    "kind": "cover",
+    "bytes": 103122,
+    "width": 192,
+    "height": 272,
+    "sha256": "e007a74b3433b5add79f5e4873cfcaa78ef392de74d55ea5e673bb94ffaf6578",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25196.jpg"
+    },
+    "gameId": "SLPS_251.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Venus & Braves"
+}

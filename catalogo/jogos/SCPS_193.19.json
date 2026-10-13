@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_193.19",
+  "cover": {
+    "path": "PS2/SCPS_193.19/SCPS_193.19_COV.png",
+    "kind": "cover",
+    "bytes": 80634,
+    "width": 192,
+    "height": 272,
+    "sha256": "a86e4d6058656d8e46a1f882885682468af35920a010c07f6396734239379d3c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19319.jpg"
+    },
+    "gameId": "SCPS_193.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MINNA NO GOLF 4 - EVERYBODY'S GOLF [PLAYSTATION 2 THE BEST REPRINT]"
+}

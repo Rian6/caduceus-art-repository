@@ -1,0 +1,24 @@
+{
+  "id": "ARP2_012.01",
+  "cover": {
+    "path": "PS2/ARP2_012.01/ARP2_012.01_COV.png",
+    "kind": "cover",
+    "bytes": 117734,
+    "width": 192,
+    "height": 272,
+    "sha256": "9bdc75162175937ce45f81847e627e949903b8ecfb68074b3ccb635dfa8f89cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/ARP2-01201.jpg"
+    },
+    "gameId": "ARP2_012.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

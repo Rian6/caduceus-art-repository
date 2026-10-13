@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.48",
+  "cover": {
+    "path": "PS2/SLKA_251.48/SLKA_251.48_COV.png",
+    "kind": "cover",
+    "bytes": 59151,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc13f71514651b74992a4dee5b0a90e906a8a64ed66824ae3fcbbb03f815bf7f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.48/SLKA_251.48_COV.png"
+    },
+    "gameId": "SLKA_251.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MVP Baseball 2004"
+}

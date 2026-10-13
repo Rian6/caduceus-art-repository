@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.10",
+  "cover": {
+    "path": "PS2/SLPM_658.10/SLPM_658.10_COV.png",
+    "kind": "cover",
+    "bytes": 105516,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed857e88290b477795d31bee20cd89ead73bec46dde7ffeef5ad27f292e2b371",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65810.jpg"
+    },
+    "gameId": "SLPM_658.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DENSHA DE GO! RYOJOU-HEN [TAITO BEST]"
+}

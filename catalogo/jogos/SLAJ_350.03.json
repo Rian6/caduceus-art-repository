@@ -1,0 +1,51 @@
+{
+  "id": "SLAJ_350.03",
+  "cover": {
+    "path": "PS2/SLAJ_350.03/SLAJ_350.03_COV.png",
+    "kind": "cover",
+    "bytes": 89063,
+    "width": 192,
+    "height": 272,
+    "sha256": "62374f4530d61f5d33bd8f680887f5e421f383ea7781f395ec2c24f0a8a8d79b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-35003.jpg"
+    },
+    "gameId": "SLAJ_350.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLAJ_350.03/SLAJ_350.03_BG.png",
+    "kind": "background",
+    "bytes": 189157,
+    "width": 640,
+    "height": 480,
+    "sha256": "fcc50b9354d683446b615ec89b31f938de3f42b6852b97b46177e8b64256476e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLAJ_350.03/SLAJ_350.03_BG_00.png"
+    },
+    "gameId": "SLAJ_350.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLAJ_350.03/SLAJ_350.03_BG.png",
+      "kind": "background",
+      "bytes": 189157,
+      "width": 640,
+      "height": 480,
+      "sha256": "fcc50b9354d683446b615ec89b31f938de3f42b6852b97b46177e8b64256476e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_350.03/SLAJ_350.03_BG_00.png"
+      },
+      "gameId": "SLAJ_350.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAKURA TAISEN - ATSUKI CHISHIO NI"
+}

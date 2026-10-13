@@ -1,0 +1,25 @@
+{
+  "id": "SCED_539.90",
+  "cover": {
+    "path": "PS2/SCED_539.90/SCED_539.90_COV.png",
+    "kind": "cover",
+    "bytes": 59754,
+    "width": 192,
+    "height": 272,
+    "sha256": "88f988e077e784bfba2c95817a94e0412855309ae82d1e57426814dde1ad7aa0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCED_539.90/SCED_539.90_COV.png"
+    },
+    "gameId": "SCED_539.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shadow of the Colossus + Ico (Demos)"
+}

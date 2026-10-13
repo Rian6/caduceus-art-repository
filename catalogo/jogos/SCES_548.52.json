@@ -1,0 +1,25 @@
+{
+  "id": "SCES_548.52",
+  "cover": {
+    "path": "PS2/SCES_548.52/SCES_548.52_COV.png",
+    "kind": "cover",
+    "bytes": 98957,
+    "width": 192,
+    "height": 272,
+    "sha256": "753e2113aed9dfee8486ba5d7e961a6c838c14254cb57ab7ed90394039e468c6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54852.jpg"
+    },
+    "gameId": "SCES_548.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Hollywood Leffavisa"
+}

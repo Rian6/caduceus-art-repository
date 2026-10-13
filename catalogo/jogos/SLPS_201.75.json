@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.75",
+  "cover": {
+    "path": "PS2/SLPS_201.75/SLPS_201.75_COV.png",
+    "kind": "cover",
+    "bytes": 102615,
+    "width": 192,
+    "height": 272,
+    "sha256": "012cd89bd8b4f14708343e19eee34f00ebb6c63ce939aa7ed305e8c0853cba21",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20175.jpg"
+    },
+    "gameId": "SLPS_201.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TYPING RENAI HAKUSHO - BOYS BE..."
+}

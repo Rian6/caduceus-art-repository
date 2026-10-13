@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.56",
+  "cover": {
+    "path": "PS2/SLPM_657.56/SLPM_657.56_COV.png",
+    "kind": "cover",
+    "bytes": 109746,
+    "width": 192,
+    "height": 272,
+    "sha256": "9febfd7d39edd3959f743d5e2303ac36a49cb222675fe39eb5cea9f1b3a0a517",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65756.jpg"
+    },
+    "gameId": "SLPM_657.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tennis no Oji-Sama - Rush & Dream!"
+}

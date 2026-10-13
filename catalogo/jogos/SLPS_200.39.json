@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.39",
+  "cover": {
+    "path": "PS2/SLPS_200.39/SLPS_200.39_COV.png",
+    "kind": "cover",
+    "bytes": 102852,
+    "width": 192,
+    "height": 272,
+    "sha256": "53217b828f9687e6897709cc1d70860a79d5a4846a8dffd030f50b90c61806be",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20039.jpg"
+    },
+    "gameId": "SLPS_200.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ide Yousuke no Mahjong Kazoku 2"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SCPS_110.24",
+  "cover": {
+    "path": "PS2/SCPS_110.24/SCPS_110.24_COV.png",
+    "kind": "cover",
+    "bytes": 90892,
+    "width": 192,
+    "height": 272,
+    "sha256": "368052e989b1bbcb51523c9da8a993f99eba39638d06909fcd32532546118ea8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11024.jpg"
+    },
+    "gameId": "SCPS_110.24"
+  },
+  "disc": {
+    "path": "PS2/SCPS_110.24/SCPS_110.24_ICO.png",
+    "kind": "disc",
+    "bytes": 10991,
+    "width": 128,
+    "height": 128,
+    "sha256": "f0c6b475ee98fc8775f71f605bc0ba2662fae94812c5dbb9971119f85341c8d1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCPS_110.24_ICO.png"
+    },
+    "gameId": "SCPS_110.24"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OTOSTAZ"
+}

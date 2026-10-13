@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_291.75",
+  "cover": {
+    "path": "PS2/SLUS_291.75/SLUS_291.75_COV.png",
+    "kind": "cover",
+    "bytes": 90724,
+    "width": 192,
+    "height": 272,
+    "sha256": "b5b81747091f035ee09f7750f99dcf2d5a580c5e9024960edda966eb382e6210",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-29175.jpg"
+    },
+    "gameId": "SLUS_291.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Namco Transmission v3.2"
+}

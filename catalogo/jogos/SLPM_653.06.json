@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.06",
+  "cover": {
+    "path": "PS2/SLPM_653.06/SLPM_653.06_COV.png",
+    "kind": "cover",
+    "bytes": 108808,
+    "width": 192,
+    "height": 272,
+    "sha256": "b15d4c6f5ee3ade288cf384d4b0701760af1b1fce821001efd03b5ce218b494b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65306.jpg"
+    },
+    "gameId": "SLPM_653.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAKURA YUKI GEKKA [FIRST PRINT LIMITED EDITION]"
+}

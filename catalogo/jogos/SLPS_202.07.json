@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.07",
+  "cover": {
+    "path": "PS2/SLPS_202.07/SLPS_202.07_COV.png",
+    "kind": "cover",
+    "bytes": 100923,
+    "width": 192,
+    "height": 272,
+    "sha256": "bdd70e0664be065a88bfaa8e204740d1c0fd7fa96dc99f4b8a83f1f42ab2cd8e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20207.jpg"
+    },
+    "gameId": "SLPS_202.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "USAGI YASEI NO TOPAI"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_550.07",
+  "cover": {
+    "path": "PS2/SLES_550.07/SLES_550.07_COV.png",
+    "kind": "cover",
+    "bytes": 98007,
+    "width": 192,
+    "height": 272,
+    "sha256": "25cd4e539a4a51691d4b41a9462cbdae3429dedd298e0ca4b7160c081e79da69",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55007.jpg"
+    },
+    "gameId": "SLES_550.07"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_550.07/SLES_550.07_BG.png",
+    "kind": "background",
+    "bytes": 153136,
+    "width": 640,
+    "height": 480,
+    "sha256": "aa07a980d6f53b859876c2d5f3f24cd9ed06a5df5ff9975063c55c1a2a5e8adb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.07/SLES_550.07_BG_00.png"
+    },
+    "gameId": "SLES_550.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.07/SLES_550.07_BG.png",
+      "kind": "background",
+      "bytes": 153136,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa07a980d6f53b859876c2d5f3f24cd9ed06a5df5ff9975063c55c1a2a5e8adb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.07/SLES_550.07_BG_00.png"
+      },
+      "gameId": "SLES_550.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Boogie"
+}

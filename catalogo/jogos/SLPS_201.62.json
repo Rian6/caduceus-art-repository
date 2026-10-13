@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.62",
+  "cover": {
+    "path": "PS2/SLPS_201.62/SLPS_201.62_COV.png",
+    "kind": "cover",
+    "bytes": 100322,
+    "width": 192,
+    "height": 272,
+    "sha256": "9ee75c2dbedc1bb48d834b3988833f7d74a10c544059968fec6804e8a2f72adf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20162.jpg"
+    },
+    "gameId": "SLPS_201.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Typing Shinken Shoubu - Musashi no Ken (With Keyboard)"
+}

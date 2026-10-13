@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_510.09",
+  "cover": {
+    "path": "PS2/SCPS_510.09/SCPS_510.09_COV.png",
+    "kind": "cover",
+    "bytes": 73290,
+    "width": 192,
+    "height": 272,
+    "sha256": "d65b94fe7e4502a598528be07e84b2e67eb4fcc3ee1e46170f4c712a233c7c45",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-51009.jpg"
+    },
+    "gameId": "SCPS_510.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "U - UNDERWATER UNIT"
+}

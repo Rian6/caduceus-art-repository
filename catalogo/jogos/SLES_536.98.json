@@ -1,0 +1,51 @@
+{
+  "id": "SLES_536.98",
+  "cover": {
+    "path": "PS2/SLES_536.98/SLES_536.98_COV.png",
+    "kind": "cover",
+    "bytes": 85471,
+    "width": 192,
+    "height": 272,
+    "sha256": "0bd476cc4d0f94f4799835b9718c98920e6ae6b5a11601cbe984ce2b829f1ba0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53698.jpg"
+    },
+    "gameId": "SLES_536.98"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_536.98/SLES_536.98_BG.png",
+    "kind": "background",
+    "bytes": 188330,
+    "width": 640,
+    "height": 480,
+    "sha256": "ce708d25781a726c57b0e8cfaf62be00e80ab3084e901b6c986168ddd808611b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.98/SLES_536.98_BG_00.png"
+    },
+    "gameId": "SLES_536.98"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_536.98/SLES_536.98_BG.png",
+      "kind": "background",
+      "bytes": 188330,
+      "width": 640,
+      "height": 480,
+      "sha256": "ce708d25781a726c57b0e8cfaf62be00e80ab3084e901b6c986168ddd808611b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.98/SLES_536.98_BG_00.png"
+      },
+      "gameId": "SLES_536.98"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ford vs. Chevy"
+}

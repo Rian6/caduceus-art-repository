@@ -1,0 +1,51 @@
+{
+  "id": "SLES_541.84",
+  "cover": {
+    "path": "PS2/SLES_541.84/SLES_541.84_COV.png",
+    "kind": "cover",
+    "bytes": 75063,
+    "width": 192,
+    "height": 272,
+    "sha256": "eccd09e57f27b2bd61ffb18a8bffac3e9646cacdc42c2956cdc53ffde6527903",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54184.jpg"
+    },
+    "gameId": "SLES_541.84"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.84/SLES_541.84_BG.png",
+    "kind": "background",
+    "bytes": 48043,
+    "width": 640,
+    "height": 480,
+    "sha256": "a36e81e7fc8f28235a3efe5e3f78f5e023b069c015f25dd7a0874f954233f4d1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.84/SLES_541.84_BG_00.png"
+    },
+    "gameId": "SLES_541.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.84/SLES_541.84_BG.png",
+      "kind": "background",
+      "bytes": 48043,
+      "width": 640,
+      "height": 480,
+      "sha256": "a36e81e7fc8f28235a3efe5e3f78f5e023b069c015f25dd7a0874f954233f4d1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.84/SLES_541.84_BG_00.png"
+      },
+      "gameId": "SLES_541.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Scarface: The World Is Yours"
+}

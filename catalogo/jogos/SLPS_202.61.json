@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.61",
+  "cover": {
+    "path": "PS2/SLPS_202.61/SLPS_202.61_COV.png",
+    "kind": "cover",
+    "bytes": 119197,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0006588197ef0008feebf4e57de0ebcc3933afd4a786683f95a6a934ccaae96",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20261.jpg"
+    },
+    "gameId": "SLPS_202.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sanyo Pachinko Paradise 8 - Shin Umi Monogatari"
+}

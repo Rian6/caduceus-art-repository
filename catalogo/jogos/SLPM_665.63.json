@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.63",
+  "cover": {
+    "path": "PS2/SLPM_665.63/SLPM_665.63_COV.png",
+    "kind": "cover",
+    "bytes": 93643,
+    "width": 192,
+    "height": 272,
+    "sha256": "4e63c43698bfb64ccee91d002f8f85276963e02f585e5f4174d92bd88fed3cd9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66563.jpg"
+    },
+    "gameId": "SLPM_665.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MIZU NO SENRITSU [2800 COLLECTION]"
+}

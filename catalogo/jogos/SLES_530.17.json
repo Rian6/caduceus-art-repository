@@ -1,0 +1,90 @@
+{
+  "id": "SLES_530.17",
+  "cover": {
+    "path": "PS2/SLES_530.17/SLES_530.17_COV.png",
+    "kind": "cover",
+    "bytes": 105529,
+    "width": 192,
+    "height": 272,
+    "sha256": "88559c64fa75703b10eca896597e4357f89ee2664dee283b57e4b6ec3865d448",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53017.jpg"
+    },
+    "gameId": "SLES_530.17"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_530.17/SLES_530.17_BG.png",
+    "kind": "background",
+    "bytes": 179593,
+    "width": 640,
+    "height": 480,
+    "sha256": "c7d0827c422e782a5845c2d4d2be02436a35314655498e5b545d80852fd4be8d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.17/SLES_530.17_BG_00.png"
+    },
+    "gameId": "SLES_530.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.17/SLES_530.17_BG.png",
+      "kind": "background",
+      "bytes": 179593,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7d0827c422e782a5845c2d4d2be02436a35314655498e5b545d80852fd4be8d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.17/SLES_530.17_BG_00.png"
+      },
+      "gameId": "SLES_530.17"
+    },
+    {
+      "path": "PS2/SLES_530.17/SLES_530.17_BG_01.png",
+      "kind": "background",
+      "bytes": 141511,
+      "width": 640,
+      "height": 480,
+      "sha256": "47f138b6e9a3bfaa8ca52d9ee48a12aa71fd675620f57129d80a11a40f5b7d1b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.17/SLES_530.17_BG_01.png"
+      },
+      "gameId": "SLES_530.17"
+    },
+    {
+      "path": "PS2/SLES_530.17/SLES_530.17_BG_02.png",
+      "kind": "background",
+      "bytes": 115481,
+      "width": 640,
+      "height": 480,
+      "sha256": "f80dee3626d9bb9eae13a05de562d7d3fee31f92542b0deee16da76a5b914a26",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.17/SLES_530.17_BG_02.png"
+      },
+      "gameId": "SLES_530.17"
+    },
+    {
+      "path": "PS2/SLES_530.17/SLES_530.17_BG_03.png",
+      "kind": "background",
+      "bytes": 200753,
+      "width": 640,
+      "height": 480,
+      "sha256": "e0f53b168aaed6af1d67f1acebf37c25a7f9c6f430a43d46f9ce871ff7e889c6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.17/SLES_530.17_BG_03.png"
+      },
+      "gameId": "SLES_530.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Teenage Mutant Ninja Turtles 2 - Battle Nexus"
+}

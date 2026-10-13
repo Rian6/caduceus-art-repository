@@ -1,0 +1,39 @@
+{
+  "id": "SLES_517.12",
+  "cover": {
+    "path": "PS2/SLES_517.12/SLES_517.12_COV.png",
+    "kind": "cover",
+    "bytes": 85963,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ce58c9c8cd2202263e343fae49a6070c5701c0ebb2dba8b5b457e01c1a5f8a4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51712.jpg"
+    },
+    "gameId": "SLES_517.12"
+  },
+  "disc": {
+    "path": "PS2/SLES_517.12/SLES_517.12_ICO.png",
+    "kind": "disc",
+    "bytes": 11741,
+    "width": 128,
+    "height": 128,
+    "sha256": "c507626843991eb34c04b2b2d95d59dc4a26e3cddc80beadfc1da87a4e2f3396",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_517.12_ICO.png"
+    },
+    "gameId": "SLES_517.12"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Snowboard Racer 2"
+}

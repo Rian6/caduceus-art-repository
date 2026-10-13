@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.01",
+  "cover": {
+    "path": "PS2/SLPM_620.01/SLPM_620.01_COV.png",
+    "kind": "cover",
+    "bytes": 74339,
+    "width": 192,
+    "height": 272,
+    "sha256": "7c250fdbe8fb8ece3a57c7755141397a12342255a0401c817008b5f1f8b2eafa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62001.jpg"
+    },
+    "gameId": "SLPM_620.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DRUMMANIA"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_508.97",
+  "cover": {
+    "path": "PS2/SLES_508.97/SLES_508.97_COV.png",
+    "kind": "cover",
+    "bytes": 86268,
+    "width": 192,
+    "height": 272,
+    "sha256": "28a1c0606385f6763d2b1426266310bb9e677b6c88f9a427f6c97a5da2189a91",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50897.jpg"
+    },
+    "gameId": "SLES_508.97"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_508.97/SLES_508.97_BG.png",
+    "kind": "background",
+    "bytes": 169369,
+    "width": 640,
+    "height": 480,
+    "sha256": "3f631c5760fe48b7b1863eee2a4be08ca2c6080a17b41a057cde71729eb6195c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_508.97/SLES_508.97_BG_00.png"
+    },
+    "gameId": "SLES_508.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_508.97/SLES_508.97_BG.png",
+      "kind": "background",
+      "bytes": 169369,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f631c5760fe48b7b1863eee2a4be08ca2c6080a17b41a057cde71729eb6195c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.97/SLES_508.97_BG_00.png"
+      },
+      "gameId": "SLES_508.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Trucks"
+}

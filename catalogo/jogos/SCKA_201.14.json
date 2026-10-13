@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_201.14",
+  "cover": {
+    "path": "PS2/SCKA_201.14/SCKA_201.14_COV.png",
+    "kind": "cover",
+    "bytes": 82865,
+    "width": 192,
+    "height": 272,
+    "sha256": "566ed2382e50d4cb49a321e20f36bda5ed3394fb6d38802010eccac0d3ad1a77",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20114.jpg"
+    },
+    "gameId": "SCKA_201.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OBSCURE II - THE AFTERMATH"
+}

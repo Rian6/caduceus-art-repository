@@ -1,0 +1,51 @@
+{
+  "id": "SCKA_200.05",
+  "cover": {
+    "path": "PS2/SCKA_200.05/SCKA_200.05_COV.png",
+    "kind": "cover",
+    "bytes": 84911,
+    "width": 192,
+    "height": 272,
+    "sha256": "822e3a8124793887aa793f8a477c25b8a9f34df0aa29d7f9ad6d7349175010f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20005.jpg"
+    },
+    "gameId": "SCKA_200.05"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.05/SCKA_200.05_BG.png",
+    "kind": "background",
+    "bytes": 143744,
+    "width": 640,
+    "height": 480,
+    "sha256": "40d8e79a2cba0cb14283c5ea09938ca1f0683fe8ad496d07e2f1b78016b52721",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.05/SCKA_200.05_BG_00.png"
+    },
+    "gameId": "SCKA_200.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.05/SCKA_200.05_BG.png",
+      "kind": "background",
+      "bytes": 143744,
+      "width": 640,
+      "height": 480,
+      "sha256": "40d8e79a2cba0cb14283c5ea09938ca1f0683fe8ad496d07e2f1b78016b52721",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.05/SCKA_200.05_BG_00.png"
+      },
+      "gameId": "SCKA_200.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Let's Bravo Music"
+}

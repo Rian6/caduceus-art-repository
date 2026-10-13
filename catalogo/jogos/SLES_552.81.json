@@ -1,0 +1,25 @@
+{
+  "id": "SLES_552.81",
+  "cover": {
+    "path": "PS2/SLES_552.81/SLES_552.81_COV.png",
+    "kind": "cover",
+    "bytes": 105517,
+    "width": 192,
+    "height": 272,
+    "sha256": "4c49865cee0c3de40cd6b2768ad4a47c6990492ed34be0d960b82895f1ee346a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55281.jpg"
+    },
+    "gameId": "SLES_552.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dora the Explorer: Dora Saves the Snow Princess"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.95",
+  "cover": {
+    "path": "PS2/SLPM_622.95/SLPM_622.95_COV.png",
+    "kind": "cover",
+    "bytes": 81063,
+    "width": 192,
+    "height": 272,
+    "sha256": "764218de566ced75a178fee42a8fde685d2913905d0879eda39b33ddd652306d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62295.jpg"
+    },
+    "gameId": "SLPM_622.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.022 - THE TSUUKIN DENSHA UTENSHI - DENSHA DE GO! 3 TSUUKINHEN"
+}

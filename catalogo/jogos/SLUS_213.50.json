@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_213.50",
+  "cover": {
+    "path": "PS2/SLUS_213.50/SLUS_213.50_COV.png",
+    "kind": "cover",
+    "bytes": 113212,
+    "width": 192,
+    "height": 272,
+    "sha256": "39432aca9f2180c3c13f3f9586de3e9f8b01a702bcb33fbfc30e26a91b6b6eb8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21350.jpg"
+    },
+    "gameId": "SLUS_213.50"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.50/SLUS_213.50_ICO.png",
+    "kind": "disc",
+    "bytes": 36922,
+    "width": 256,
+    "height": 256,
+    "sha256": "847be201f62eda5460a4753cf8907786ede005e2b326bc392cfd15fab678ebc0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.50_ICO.png"
+    },
+    "gameId": "SLUS_213.50"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.50/SLUS_213.50_BG.png",
+    "kind": "background",
+    "bytes": 200867,
+    "width": 640,
+    "height": 480,
+    "sha256": "9c3926d7c4507f774005156e748b3af3f246debf948db5d28149f60225e2b24f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.50/SLUS_213.50_BG_00.png"
+    },
+    "gameId": "SLUS_213.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.50/SLUS_213.50_BG.png",
+      "kind": "background",
+      "bytes": 200867,
+      "width": 640,
+      "height": 480,
+      "sha256": "9c3926d7c4507f774005156e748b3af3f246debf948db5d28149f60225e2b24f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.50/SLUS_213.50_BG_00.png"
+      },
+      "gameId": "SLUS_213.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cabela's Dangerous Hunts 2"
+}

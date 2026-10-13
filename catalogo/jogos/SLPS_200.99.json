@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.99",
+  "cover": {
+    "path": "PS2/SLPS_200.99/SLPS_200.99_COV.png",
+    "kind": "cover",
+    "bytes": 83416,
+    "width": 192,
+    "height": 272,
+    "sha256": "c59c769417c4ece56e64723a5f61a7032f988af64ead64069db113f6cad4f4c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20099.jpg"
+    },
+    "gameId": "SLPS_200.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DREAM AUDITION 3"
+}

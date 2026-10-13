@@ -1,0 +1,24 @@
+{
+  "id": "TCPS_101.30",
+  "cover": {
+    "path": "PS2/TCPS_101.30/TCPS_101.30_COV.png",
+    "kind": "cover",
+    "bytes": 91159,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e1ae8e3a62c01c78dce0662a51310d76d95cbb3361c7b96eb7452bcae89dc3d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/TCPS-10130.jpg"
+    },
+    "gameId": "TCPS_101.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

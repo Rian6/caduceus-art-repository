@@ -1,0 +1,51 @@
+{
+  "id": "SLES_541.10",
+  "cover": {
+    "path": "PS2/SLES_541.10/SLES_541.10_COV.png",
+    "kind": "cover",
+    "bytes": 96926,
+    "width": 192,
+    "height": 272,
+    "sha256": "f5a83870ea90f73d286ff0bcb4bd12e917b87e6d8de9d98d4dd0c7041f0e0e14",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54110.jpg"
+    },
+    "gameId": "SLES_541.10"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.10/SLES_541.10_BG.png",
+    "kind": "background",
+    "bytes": 153540,
+    "width": 640,
+    "height": 480,
+    "sha256": "d417a8f177d089c1eb158429a21d24be0bbc165d82c3653d1e813669ed859aef",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.10/SLES_541.10_BG_00.png"
+    },
+    "gameId": "SLES_541.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.10/SLES_541.10_BG.png",
+      "kind": "background",
+      "bytes": 153540,
+      "width": 640,
+      "height": 480,
+      "sha256": "d417a8f177d089c1eb158429a21d24be0bbc165d82c3653d1e813669ed859aef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.10/SLES_541.10_BG_00.png"
+      },
+      "gameId": "SLES_541.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Monster Trux Arenas: Special Edition"
+}

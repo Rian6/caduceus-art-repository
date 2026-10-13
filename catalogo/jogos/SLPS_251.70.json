@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_251.70",
+  "cover": {
+    "path": "PS2/SLPS_251.70/SLPS_251.70_COV.png",
+    "kind": "cover",
+    "bytes": 107202,
+    "width": 192,
+    "height": 272,
+    "sha256": "246a06a41c89e39760fd2b3f5e1d8fb8b3de8e4b9ecc93350c06526faf81ba94",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25170.jpg"
+    },
+    "gameId": "SLPS_251.70"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_251.70/SLPS_251.70_BG.png",
+    "kind": "background",
+    "bytes": 231100,
+    "width": 640,
+    "height": 480,
+    "sha256": "1436c693530f382674467ca0a9d2ce40af2ff1b7720607382cd49a0eea170238",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_251.70/SLPS_251.70_BG_00.png"
+    },
+    "gameId": "SLPS_251.70"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_251.70/SLPS_251.70_BG.png",
+      "kind": "background",
+      "bytes": 231100,
+      "width": 640,
+      "height": 480,
+      "sha256": "1436c693530f382674467ca0a9d2ce40af2ff1b7720607382cd49a0eea170238",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.70/SLPS_251.70_BG_00.png"
+      },
+      "gameId": "SLPS_251.70"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SD Gundam G Generation Neo"
+}

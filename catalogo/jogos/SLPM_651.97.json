@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.97",
+  "cover": {
+    "path": "PS2/SLPM_651.97/SLPM_651.97_COV.png",
+    "kind": "cover",
+    "bytes": 110210,
+    "width": 192,
+    "height": 272,
+    "sha256": "43b1adb02612661dc6e3ae0671d8996d1b42adb68d44be3e1e6bf0f21ac4f14a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65197.jpg"
+    },
+    "gameId": "SLPM_651.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nobunaga no Yabou -  Online"
+}

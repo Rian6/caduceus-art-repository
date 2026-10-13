@@ -1,0 +1,25 @@
+{
+  "id": "TCPS_100.85",
+  "cover": {
+    "path": "PS2/TCPS_100.85/TCPS_100.85_COV.png",
+    "kind": "cover",
+    "bytes": 83448,
+    "width": 192,
+    "height": 272,
+    "sha256": "31df7c7205e3cf82a98f70e12ea0c7d08285aeba80a84b99f7b2fd54fab8fbc6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/TCPS-10085.jpg"
+    },
+    "gameId": "TCPS_100.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DENSHA DE GO! FINAL [LIMITED EDITION]"
+}

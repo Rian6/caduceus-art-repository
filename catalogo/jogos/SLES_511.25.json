@@ -1,0 +1,51 @@
+{
+  "id": "SLES_511.25",
+  "cover": {
+    "path": "PS2/SLES_511.25/SLES_511.25_COV.png",
+    "kind": "cover",
+    "bytes": 106088,
+    "width": 192,
+    "height": 272,
+    "sha256": "86d0a4c36ef092cb3a4b81d29e1aa416b0621f34606ae8bcc60fe34ad57e6236",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51125.jpg"
+    },
+    "gameId": "SLES_511.25"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_511.25/SLES_511.25_BG.png",
+    "kind": "background",
+    "bytes": 165497,
+    "width": 640,
+    "height": 480,
+    "sha256": "26300d1f8a6a425522f4d65e1de17b17a36e2ccac4a64c52bbe23dbc07d1d6e3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_511.25/SLES_511.25_BG_00.png"
+    },
+    "gameId": "SLES_511.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_511.25/SLES_511.25_BG.png",
+      "kind": "background",
+      "bytes": 165497,
+      "width": 640,
+      "height": 480,
+      "sha256": "26300d1f8a6a425522f4d65e1de17b17a36e2ccac4a64c52bbe23dbc07d1d6e3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.25/SLES_511.25_BG_00.png"
+      },
+      "gameId": "SLES_511.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Soccer Slam"
+}

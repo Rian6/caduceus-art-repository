@@ -1,0 +1,65 @@
+{
+  "id": "SLES_546.68",
+  "cover": {
+    "path": "PS2/SLES_546.68/SLES_546.68_COV.png",
+    "kind": "cover",
+    "bytes": 62195,
+    "width": 192,
+    "height": 272,
+    "sha256": "1611fab1f07d665249c97cee437b1b96ca2900ef654b534775ce14f27bb129ee",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.68/SLES_546.68_COV.png"
+    },
+    "gameId": "SLES_546.68"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.68/SLES_546.68_ICO.png",
+    "kind": "disc",
+    "bytes": 10314,
+    "width": 128,
+    "height": 128,
+    "sha256": "403469ad31c42c114f2c05870de92f654b8c8f64aa378ac7b41bf2cdce5c4ae3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.68_ICO.png"
+    },
+    "gameId": "SLES_546.68"
+  },
+  "background": {
+    "path": "PS2/SLES_546.68/SLES_546.68_BG.png",
+    "kind": "background",
+    "bytes": 214724,
+    "width": 640,
+    "height": 480,
+    "sha256": "5b5f991f285e3d801519f4fa50e56953bed8867b19c2e05ec9d471b8250cf1cf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.68/SLES_546.68_BG_00.png"
+    },
+    "gameId": "SLES_546.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_546.68/SLES_546.68_BG.png",
+      "kind": "background",
+      "bytes": 214724,
+      "width": 640,
+      "height": 480,
+      "sha256": "5b5f991f285e3d801519f4fa50e56953bed8867b19c2e05ec9d471b8250cf1cf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.68/SLES_546.68_BG_00.png"
+      },
+      "gameId": "SLES_546.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Thomas & Friends - A Day at the Races"
+}

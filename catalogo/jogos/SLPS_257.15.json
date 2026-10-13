@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.15",
+  "cover": {
+    "path": "PS2/SLPS_257.15/SLPS_257.15_COV.png",
+    "kind": "cover",
+    "bytes": 93847,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f1e410c72a6b6db3111ed6b759b1d5858c427b348cbda5b73c396116bde9323",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25715.jpg"
+    },
+    "gameId": "SLPS_257.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tales of Destiny"
+}

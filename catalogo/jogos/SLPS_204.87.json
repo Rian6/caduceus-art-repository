@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.87",
+  "cover": {
+    "path": "PS2/SLPS_204.87/SLPS_204.87_COV.png",
+    "kind": "cover",
+    "bytes": 112365,
+    "width": 192,
+    "height": 272,
+    "sha256": "0ab84d57bd9cff5f23336e6810c8025336ed39875df84bf5eef1097b0fc6b0c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20487.jpg"
+    },
+    "gameId": "SLPS_204.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PACHI SLOT KING! - KAGAKU NINJA TAI GATCHAMAN"
+}

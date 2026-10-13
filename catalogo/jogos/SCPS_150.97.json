@@ -1,0 +1,103 @@
+{
+  "id": "SCPS_150.97",
+  "cover": {
+    "path": "PS2/SCPS_150.97/SCPS_150.97_COV.png",
+    "kind": "cover",
+    "bytes": 71689,
+    "width": 192,
+    "height": 272,
+    "sha256": "5c9d49c8b2886857dafc38b4e6ba0b0d1220bdb1d95980fd69611c7083ec0f9c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15097.jpg"
+    },
+    "gameId": "SCPS_150.97"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.97/SCPS_150.97_BG.png",
+    "kind": "background",
+    "bytes": 150566,
+    "width": 640,
+    "height": 480,
+    "sha256": "8e7ba45383fe87434c013b1ee03e126a212de0459af33f31a90cef691f9ccc72",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.97/SCPS_150.97_BG_00.png"
+    },
+    "gameId": "SCPS_150.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.97/SCPS_150.97_BG.png",
+      "kind": "background",
+      "bytes": 150566,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e7ba45383fe87434c013b1ee03e126a212de0459af33f31a90cef691f9ccc72",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.97/SCPS_150.97_BG_00.png"
+      },
+      "gameId": "SCPS_150.97"
+    },
+    {
+      "path": "PS2/SCPS_150.97/SCPS_150.97_BG_01.png",
+      "kind": "background",
+      "bytes": 155295,
+      "width": 640,
+      "height": 480,
+      "sha256": "845a7384e2dd454c0f2071d563351957f4bb4800427e9a8d7f44a7025368554a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.97/SCPS_150.97_BG_01.png"
+      },
+      "gameId": "SCPS_150.97"
+    },
+    {
+      "path": "PS2/SCPS_150.97/SCPS_150.97_BG_02.png",
+      "kind": "background",
+      "bytes": 141155,
+      "width": 640,
+      "height": 480,
+      "sha256": "40f5ed82b8b6c80bb86cca2e4a94b384c6934830e0dbdfc9ba35b834cc7deddc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.97/SCPS_150.97_BG_02.png"
+      },
+      "gameId": "SCPS_150.97"
+    },
+    {
+      "path": "PS2/SCPS_150.97/SCPS_150.97_BG_03.png",
+      "kind": "background",
+      "bytes": 198418,
+      "width": 640,
+      "height": 480,
+      "sha256": "59c07cdfd8f13dbd0b96242bd334f7742b237c6ae87d4a1f52438a646c2fff1e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.97/SCPS_150.97_BG_03.png"
+      },
+      "gameId": "SCPS_150.97"
+    },
+    {
+      "path": "PS2/SCPS_150.97/SCPS_150.97_BG_04.png",
+      "kind": "background",
+      "bytes": 197192,
+      "width": 640,
+      "height": 480,
+      "sha256": "2672e26b1f8b3de417f67717cf301b7394cfdd0c25292244740ef68f578c7b92",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.97/SCPS_150.97_BG_04.png"
+      },
+      "gameId": "SCPS_150.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wander to Kyozou"
+}

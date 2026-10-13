@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.53",
+  "cover": {
+    "path": "PS2/SLPM_662.53/SLPM_662.53_COV.png",
+    "kind": "cover",
+    "bytes": 95119,
+    "width": 192,
+    "height": 272,
+    "sha256": "61236c24c379b9408adc9510dc25fa7443bf5390d8b17bdf54482d73bad909a5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66253.jpg"
+    },
+    "gameId": "SLPM_662.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FINALIST [FIRST PRINT LIMITED EDITION]"
+}

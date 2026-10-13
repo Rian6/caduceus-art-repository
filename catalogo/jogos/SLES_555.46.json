@@ -1,0 +1,51 @@
+{
+  "id": "SLES_555.46",
+  "cover": {
+    "path": "PS2/SLES_555.46/SLES_555.46_COV.png",
+    "kind": "cover",
+    "bytes": 102387,
+    "width": 192,
+    "height": 272,
+    "sha256": "462628d099d4002c995e2711c085e51938ccfd974fb46475309151b253b1bbfe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55546.jpg"
+    },
+    "gameId": "SLES_555.46"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_555.46/SLES_555.46_BG.png",
+    "kind": "background",
+    "bytes": 174558,
+    "width": 640,
+    "height": 480,
+    "sha256": "8941f862909764cd7f4ee94ab578d65a723d63074f3c9c282b3f1e4cd145736c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_555.46/SLES_555.46_BG_00.png"
+    },
+    "gameId": "SLES_555.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_555.46/SLES_555.46_BG.png",
+      "kind": "background",
+      "bytes": 174558,
+      "width": 640,
+      "height": 480,
+      "sha256": "8941f862909764cd7f4ee94ab578d65a723d63074f3c9c282b3f1e4cd145736c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.46/SLES_555.46_BG_00.png"
+      },
+      "gameId": "SLES_555.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Secret Saturdays - Beasts of the 5th Sun"
+}

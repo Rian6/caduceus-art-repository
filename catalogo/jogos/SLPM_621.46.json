@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.46",
+  "cover": {
+    "path": "PS2/SLPM_621.46/SLPM_621.46_COV.png",
+    "kind": "cover",
+    "bytes": 67958,
+    "width": 192,
+    "height": 272,
+    "sha256": "4fde2a8a956a1cb9d706ee931b132ddc00ce99f2755101738aeaa4e0169e82da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62146.jpg"
+    },
+    "gameId": "SLPM_621.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Choukousoku Mahjong Plus"
+}

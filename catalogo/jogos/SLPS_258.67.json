@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.67",
+  "cover": {
+    "path": "PS2/SLPS_258.67/SLPS_258.67_COV.png",
+    "kind": "cover",
+    "bytes": 93442,
+    "width": 192,
+    "height": 272,
+    "sha256": "5c3a2b98a04fb1717936d303a684b23bebe52a15837f85675888b3be6b2a2035",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25867.jpg"
+    },
+    "gameId": "SLPS_258.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HANAYOI ROMANESQUE - AI TO KANASHIMI [LIMITED EDITION]"
+}

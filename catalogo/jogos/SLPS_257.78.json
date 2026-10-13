@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.78",
+  "cover": {
+    "path": "PS2/SLPS_257.78/SLPS_257.78_COV.png",
+    "kind": "cover",
+    "bytes": 84402,
+    "width": 192,
+    "height": 272,
+    "sha256": "bcc0bf2a2dd53765184a1e1dd53fcdbf202cbd3ca8670856bb9aee69290c5048",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25778.jpg"
+    },
+    "gameId": "SLPS_257.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUMOMOMO MOMOMO - CHIJOU SAIKYOU NO YOME"
+}

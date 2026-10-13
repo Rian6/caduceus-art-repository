@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_212.60",
+  "cover": {
+    "path": "PS2/SLUS_212.60/SLUS_212.60_COV.png",
+    "kind": "cover",
+    "bytes": 113759,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e7a968c16e47068c46f2b40a6b870d26d6923df1768ee7e697294fd14e08f0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21260.jpg"
+    },
+    "gameId": "SLUS_212.60"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.60/SLUS_212.60_ICO.png",
+    "kind": "disc",
+    "bytes": 33167,
+    "width": 256,
+    "height": 256,
+    "sha256": "ecc61af3ac00ec92414993e852c3d057c987c2159789ad3ca18d0eccefa03691",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.60_ICO.png"
+    },
+    "gameId": "SLUS_212.60"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.60/SLUS_212.60_BG.png",
+    "kind": "background",
+    "bytes": 97867,
+    "width": 640,
+    "height": 480,
+    "sha256": "146c5f4799c3a94e3a481e18bad0f76063cbc0617159fbcc5a1e0bba4fd861b1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.60/SLUS_212.60_BG_00.png"
+    },
+    "gameId": "SLUS_212.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.60/SLUS_212.60_BG.png",
+      "kind": "background",
+      "bytes": 97867,
+      "width": 640,
+      "height": 480,
+      "sha256": "146c5f4799c3a94e3a481e18bad0f76063cbc0617159fbcc5a1e0bba4fd861b1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.60/SLUS_212.60_BG_00.png"
+      },
+      "gameId": "SLUS_212.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ed, Edd, 'n Eddy - The Mis-Edventures"
+}

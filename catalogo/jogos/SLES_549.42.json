@@ -1,0 +1,51 @@
+{
+  "id": "SLES_549.42",
+  "cover": {
+    "path": "PS2/SLES_549.42/SLES_549.42_COV.png",
+    "kind": "cover",
+    "bytes": 91532,
+    "width": 192,
+    "height": 272,
+    "sha256": "cdd40cddbdf884311470be6f57c3fb60f2257df13e2767eb3dd9f1491fcbcbe8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54942.jpg"
+    },
+    "gameId": "SLES_549.42"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_549.42/SLES_549.42_BG.png",
+    "kind": "background",
+    "bytes": 168206,
+    "width": 640,
+    "height": 480,
+    "sha256": "5f052a0f05716df4d190df7a47d44f1e0b400097ff5c7af01f179eec3a79166d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.42/SLES_549.42_BG_00.png"
+    },
+    "gameId": "SLES_549.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_549.42/SLES_549.42_BG.png",
+      "kind": "background",
+      "bytes": 168206,
+      "width": 640,
+      "height": 480,
+      "sha256": "5f052a0f05716df4d190df7a47d44f1e0b400097ff5c7af01f179eec3a79166d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.42/SLES_549.42_BG_00.png"
+      },
+      "gameId": "SLES_549.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Princess - Enchanted Journey"
+}

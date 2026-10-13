@@ -1,0 +1,51 @@
+{
+  "id": "SLES_508.28",
+  "cover": {
+    "path": "PS2/SLES_508.28/SLES_508.28_COV.png",
+    "kind": "cover",
+    "bytes": 91841,
+    "width": 192,
+    "height": 272,
+    "sha256": "a7ae23684731612fc1e8a2f6ef3df6edab3948c4227790c9a7740742aa88f3c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50828.jpg"
+    },
+    "gameId": "SLES_508.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_508.28/SLES_508.28_BG.png",
+    "kind": "background",
+    "bytes": 194179,
+    "width": 640,
+    "height": 480,
+    "sha256": "c36e887a347ceb8f5a0e8bbfd6d449b81417bdd185c2040e1762e60c965439f1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_508.28/SLES_508.28_BG_00.png"
+    },
+    "gameId": "SLES_508.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_508.28/SLES_508.28_BG.png",
+      "kind": "background",
+      "bytes": 194179,
+      "width": 640,
+      "height": 480,
+      "sha256": "c36e887a347ceb8f5a0e8bbfd6d449b81417bdd185c2040e1762e60c965439f1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.28/SLES_508.28_BG_00.png"
+      },
+      "gameId": "SLES_508.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR WARS - THE CLONE WARS"
+}

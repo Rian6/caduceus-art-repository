@@ -1,0 +1,25 @@
+{
+  "id": "SLES_502.20",
+  "cover": {
+    "path": "PS2/SLES_502.20/SLES_502.20_COV.png",
+    "kind": "cover",
+    "bytes": 89364,
+    "width": 192,
+    "height": 272,
+    "sha256": "cb9cf57294e5af0e224611ac4483e5465700ed6217602c283837470d36873dd1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50220.jpg"
+    },
+    "gameId": "SLES_502.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rugby"
+}

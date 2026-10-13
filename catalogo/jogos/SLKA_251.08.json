@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_251.08",
+  "cover": {
+    "path": "PS2/SLKA_251.08/SLKA_251.08_COV.png",
+    "kind": "cover",
+    "bytes": 64915,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d70b943f0fba84277cf81d8e1d2a09499e66e49271b13dcf5b4666d5b325c85",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.08/SLKA_251.08_COV.png"
+    },
+    "gameId": "SLKA_251.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_251.08/SLKA_251.08_BG.png",
+    "kind": "background",
+    "bytes": 150089,
+    "width": 640,
+    "height": 480,
+    "sha256": "5c1d495223c421aa318c342a847c51f068470522ebc53c8305202ad9650912d1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.08/SLKA_251.08_BG_00.png"
+    },
+    "gameId": "SLKA_251.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_251.08/SLKA_251.08_BG.png",
+      "kind": "background",
+      "bytes": 150089,
+      "width": 640,
+      "height": 480,
+      "sha256": "5c1d495223c421aa318c342a847c51f068470522ebc53c8305202ad9650912d1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.08/SLKA_251.08_BG_00.png"
+      },
+      "gameId": "SLKA_251.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Eve - Burst Error Plus"
+}

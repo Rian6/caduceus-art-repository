@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.38",
+  "cover": {
+    "path": "PS2/SCPS_550.38/SCPS_550.38_COV.png",
+    "kind": "cover",
+    "bytes": 91243,
+    "width": 192,
+    "height": 272,
+    "sha256": "6193a0d54e4180ec4470f0761e3029de934e691a3aae9f1d1c2240bf3114d28b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55038.jpg"
+    },
+    "gameId": "SCPS_550.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pac-Man World 2"
+}

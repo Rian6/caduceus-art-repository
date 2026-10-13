@@ -1,0 +1,103 @@
+{
+  "id": "SLES_539.74",
+  "cover": {
+    "path": "PS2/SLES_539.74/SLES_539.74_COV.png",
+    "kind": "cover",
+    "bytes": 115797,
+    "width": 192,
+    "height": 272,
+    "sha256": "fbc914eddca08b85da5b8e8c17e5fe054723fed479252bc0f34ba52135a2afa3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53974.jpg"
+    },
+    "gameId": "SLES_539.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_539.74/SLES_539.74_BG.png",
+    "kind": "background",
+    "bytes": 186978,
+    "width": 640,
+    "height": 480,
+    "sha256": "35e07107e50e2c3ef00ad686fe5a97e1ad4a508a428569428df82cc4e28daa50",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.74/SLES_539.74_BG_00.png"
+    },
+    "gameId": "SLES_539.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.74/SLES_539.74_BG.png",
+      "kind": "background",
+      "bytes": 186978,
+      "width": 640,
+      "height": 480,
+      "sha256": "35e07107e50e2c3ef00ad686fe5a97e1ad4a508a428569428df82cc4e28daa50",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.74/SLES_539.74_BG_00.png"
+      },
+      "gameId": "SLES_539.74"
+    },
+    {
+      "path": "PS2/SLES_539.74/SLES_539.74_BG_01.png",
+      "kind": "background",
+      "bytes": 193817,
+      "width": 640,
+      "height": 480,
+      "sha256": "60d53c84dc675cf86ab29babb3533bfa5203c87c817c76c3bebd765de1e2c4d1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.74/SLES_539.74_BG_01.png"
+      },
+      "gameId": "SLES_539.74"
+    },
+    {
+      "path": "PS2/SLES_539.74/SLES_539.74_BG_02.png",
+      "kind": "background",
+      "bytes": 171326,
+      "width": 640,
+      "height": 480,
+      "sha256": "cfca2c4aef17d8af980878610fafeb5547e6e0a33cc9d8679a4c1b321b22d08a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.74/SLES_539.74_BG_02.png"
+      },
+      "gameId": "SLES_539.74"
+    },
+    {
+      "path": "PS2/SLES_539.74/SLES_539.74_BG_03.png",
+      "kind": "background",
+      "bytes": 202123,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1b9133ada562f6c1430b81ccbcbb99d704e0277887774b2f34b3eed38660775",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.74/SLES_539.74_BG_03.png"
+      },
+      "gameId": "SLES_539.74"
+    },
+    {
+      "path": "PS2/SLES_539.74/SLES_539.74_BG_04.png",
+      "kind": "background",
+      "bytes": 188768,
+      "width": 640,
+      "height": 480,
+      "sha256": "2ec2d4702c48a6bc44e7fefc45e7f917a1939dfbcdd14ed2012fd791c25dcea8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.74/SLES_539.74_BG_04.png"
+      },
+      "gameId": "SLES_539.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Quest: The Journey of the Cursed King"
+}

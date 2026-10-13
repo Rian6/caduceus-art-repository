@@ -1,0 +1,64 @@
+{
+  "id": "SLKA_150.28",
+  "cover": {
+    "path": "PS2/SLKA_150.28/SLKA_150.28_COV.png",
+    "kind": "cover",
+    "bytes": 87477,
+    "width": 192,
+    "height": 272,
+    "sha256": "8c711de82118834219f28cb3da3908c22a8ada2d66da646b2b1393132411646d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-15028.jpg"
+    },
+    "gameId": "SLKA_150.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_150.28/SLKA_150.28_BG.png",
+    "kind": "background",
+    "bytes": 153122,
+    "width": 640,
+    "height": 480,
+    "sha256": "4bb66fff3fa5ac9261e4065452f472bb0af9d19d45efac28aa0263b817d3e54e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_150.28/SLKA_150.28_BG_00.png"
+    },
+    "gameId": "SLKA_150.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_150.28/SLKA_150.28_BG.png",
+      "kind": "background",
+      "bytes": 153122,
+      "width": 640,
+      "height": 480,
+      "sha256": "4bb66fff3fa5ac9261e4065452f472bb0af9d19d45efac28aa0263b817d3e54e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_150.28/SLKA_150.28_BG_00.png"
+      },
+      "gameId": "SLKA_150.28"
+    },
+    {
+      "path": "PS2/SLKA_150.28/SLKA_150.28_BG_01.png",
+      "kind": "background",
+      "bytes": 127268,
+      "width": 640,
+      "height": 480,
+      "sha256": "742c52563d8d0f257ede7985e92a91464faede500c0cd8de90e0c52db10352e7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_150.28/SLKA_150.28_BG_01.png"
+      },
+      "gameId": "SLKA_150.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 ULTIMATE SERIES VOL.6 - LOVE * UPPER!"
+}

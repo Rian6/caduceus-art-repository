@@ -1,0 +1,24 @@
+{
+  "id": "SCED_523.55",
+  "cover": {
+    "path": "PS2/SCED_523.55/SCED_523.55_COV.png",
+    "kind": "cover",
+    "bytes": 87616,
+    "width": 192,
+    "height": 272,
+    "sha256": "7353e43789d5c6213e82731ef796fc9b74053b3391db69018b9eee1e0c1bb0cc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCED-52355.jpg"
+    },
+    "gameId": "SCED_523.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

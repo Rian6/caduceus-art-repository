@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_217.83",
+  "cover": {
+    "path": "PS2/SLUS_217.83/SLUS_217.83_COV.png",
+    "kind": "cover",
+    "bytes": 93858,
+    "width": 192,
+    "height": 272,
+    "sha256": "7f77699914dfd597237a2238fb8fdd824ab3a7529e8a8f577427de11c819c5f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21783.jpg"
+    },
+    "gameId": "SLUS_217.83"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.83/SLUS_217.83_ICO.png",
+    "kind": "disc",
+    "bytes": 32867,
+    "width": 256,
+    "height": 256,
+    "sha256": "8d36a7dc8a65c3c3accad5d70ee48bbbfcdf15053ac3c6273396aef4bc9324c3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.83_ICO.png"
+    },
+    "gameId": "SLUS_217.83"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.83/SLUS_217.83_BG.png",
+    "kind": "background",
+    "bytes": 177376,
+    "width": 640,
+    "height": 480,
+    "sha256": "6881d0bf26169d74df4ebd7921ca7b10725af74abe658c78936ccd76dc1bde17",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.83/SLUS_217.83_BG_00.png"
+    },
+    "gameId": "SLUS_217.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.83/SLUS_217.83_BG.png",
+      "kind": "background",
+      "bytes": 177376,
+      "width": 640,
+      "height": 480,
+      "sha256": "6881d0bf26169d74df4ebd7921ca7b10725af74abe658c78936ccd76dc1bde17",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.83/SLUS_217.83_BG_00.png"
+      },
+      "gameId": "SLUS_217.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPACE CHIMPS"
+}

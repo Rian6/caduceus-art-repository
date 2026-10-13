@@ -1,0 +1,51 @@
+{
+  "id": "SLES_527.20",
+  "cover": {
+    "path": "PS2/SLES_527.20/SLES_527.20_COV.png",
+    "kind": "cover",
+    "bytes": 82456,
+    "width": 192,
+    "height": 272,
+    "sha256": "701f438f35d6454187922e67ee5d8b06e5f71dfe86332bdcdef8b8eaab3de07e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52720.jpg"
+    },
+    "gameId": "SLES_527.20"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.20/SLES_527.20_BG.png",
+    "kind": "background",
+    "bytes": 118855,
+    "width": 640,
+    "height": 480,
+    "sha256": "08eb8fb46bbb60c3fd520d8033b693052600d2ca496b985cd73fc30786b1327b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.20/SLES_527.20_BG_00.png"
+    },
+    "gameId": "SLES_527.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.20/SLES_527.20_BG.png",
+      "kind": "background",
+      "bytes": 118855,
+      "width": 640,
+      "height": 480,
+      "sha256": "08eb8fb46bbb60c3fd520d8033b693052600d2ca496b985cd73fc30786b1327b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.20/SLES_527.20_BG_00.png"
+      },
+      "gameId": "SLES_527.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ford Racing 3"
+}

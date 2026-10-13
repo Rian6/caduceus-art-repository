@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.69",
+  "cover": {
+    "path": "PS2/SLPS_204.69/SLPS_204.69_COV.png",
+    "kind": "cover",
+    "bytes": 106060,
+    "width": 192,
+    "height": 272,
+    "sha256": "3fa7ba7fa95903766190c42bee71feb3c9b2c7098e4a5ca956435df0d7630e45",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20469.jpg"
+    },
+    "gameId": "SLPS_204.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Machi-ing Maker 2 - Zoku Boku no Machi Zukuri"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.58",
+  "cover": {
+    "path": "PS2/SLPS_200.58/SLPS_200.58_COV.png",
+    "kind": "cover",
+    "bytes": 83132,
+    "width": 192,
+    "height": 272,
+    "sha256": "fbbe407447c686793c0b845632b91e5b0913e0223c3bf139cb4cd6643cf8d14b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20058.jpg"
+    },
+    "gameId": "SLPS_200.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KENGO"
+}

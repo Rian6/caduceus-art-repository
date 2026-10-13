@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.43",
+  "cover": {
+    "path": "PS2/SLPM_551.43/SLPM_551.43_COV.png",
+    "kind": "cover",
+    "bytes": 87020,
+    "width": 192,
+    "height": 272,
+    "sha256": "067ad830223e6828aa64b7627923743c979d7b12fd192384342e0ab11c64b72e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55143.jpg"
+    },
+    "gameId": "SLPM_551.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BIOHAZARD - CODE - VERONICA KANZENBAN [BEST PRIZE]"
+}

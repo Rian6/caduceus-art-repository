@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.36",
+  "cover": {
+    "path": "PS2/SLPM_655.36/SLPM_655.36_COV.png",
+    "kind": "cover",
+    "bytes": 114651,
+    "width": 192,
+    "height": 272,
+    "sha256": "22e373e2da6ec47cfc59aed4abaf0a58b281ca55e2e1985becdd9f4152ae215d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65536.jpg"
+    },
+    "gameId": "SLPM_655.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HOUSHINENGI 2 [KOEI THE BEST]"
+}

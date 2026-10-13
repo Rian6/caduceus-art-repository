@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.81",
+  "cover": {
+    "path": "PS2/SLPS_252.81/SLPS_252.81_COV.png",
+    "kind": "cover",
+    "bytes": 85452,
+    "width": 192,
+    "height": 272,
+    "sha256": "45d463eef7ee904e0f6d7f326a1d58c07260a0ef2cd8bfb7834ec342585fb9a4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25281.jpg"
+    },
+    "gameId": "SLPS_252.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TRUE LOVE STORY 3 [ENTERBRAIN COLLECTION]"
+}

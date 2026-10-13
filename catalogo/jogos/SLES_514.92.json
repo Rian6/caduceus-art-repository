@@ -1,0 +1,65 @@
+{
+  "id": "SLES_514.92",
+  "cover": {
+    "path": "PS2/SLES_514.92/SLES_514.92_COV.png",
+    "kind": "cover",
+    "bytes": 86580,
+    "width": 192,
+    "height": 272,
+    "sha256": "86246f9e737559cda0eb0d16202538a088e1e1410a524f43d59444fb83862274",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51492.jpg"
+    },
+    "gameId": "SLES_514.92"
+  },
+  "disc": {
+    "path": "PS2/SLES_514.92/SLES_514.92_ICO.png",
+    "kind": "disc",
+    "bytes": 10062,
+    "width": 128,
+    "height": 128,
+    "sha256": "a14835e0f2accf36f392cfcd23e23a43defc1a1f603c4be016ee70dea7411217",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_514.92_ICO.png"
+    },
+    "gameId": "SLES_514.92"
+  },
+  "background": {
+    "path": "PS2/SLES_514.92/SLES_514.92_BG.png",
+    "kind": "background",
+    "bytes": 102627,
+    "width": 640,
+    "height": 480,
+    "sha256": "086b84e141e4a9c72bef27edec9b6872598eaa763678782081d6369ed0f3178f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_514.92/SLES_514.92_BG_00.png"
+    },
+    "gameId": "SLES_514.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_514.92/SLES_514.92_BG.png",
+      "kind": "background",
+      "bytes": 102627,
+      "width": 640,
+      "height": 480,
+      "sha256": "086b84e141e4a9c72bef27edec9b6872598eaa763678782081d6369ed0f3178f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.92/SLES_514.92_BG_00.png"
+      },
+      "gameId": "SLES_514.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Beach Soccer"
+}

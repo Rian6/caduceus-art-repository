@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.54",
+  "cover": {
+    "path": "PS2/SLPS_251.54/SLPS_251.54_COV.png",
+    "kind": "cover",
+    "bytes": 83895,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ab22d2d25778697500121975ca7b4efa5b9c6c1bae4b0cc2ddf5d17f11c7c5c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25154.jpg"
+    },
+    "gameId": "SLPS_251.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FLOWER, SUN AND RAIN (HANA TO TAIYOU TO AME TO) [VICTOR THE BEST]"
+}

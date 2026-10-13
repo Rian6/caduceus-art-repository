@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_627.80",
+  "cover": {
+    "path": "PS2/SLPM_627.80/SLPM_627.80_COV.png",
+    "kind": "cover",
+    "bytes": 108969,
+    "width": 192,
+    "height": 272,
+    "sha256": "b6bc5a44424227e6d87597154e8c073356676ec8ea70e1509de62b9bc6bf3f86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62780.jpg"
+    },
+    "gameId": "SLPM_627.80"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_627.80/SLPM_627.80_BG.png",
+    "kind": "background",
+    "bytes": 150955,
+    "width": 640,
+    "height": 480,
+    "sha256": "6567c4eb3b2dab602a9270689288063f4c59bd0c91ecacf35846e4e7e6c678f0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_627.80/SLPM_627.80_BG_00.png"
+    },
+    "gameId": "SLPM_627.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_627.80/SLPM_627.80_BG.png",
+      "kind": "background",
+      "bytes": 150955,
+      "width": 640,
+      "height": 480,
+      "sha256": "6567c4eb3b2dab602a9270689288063f4c59bd0c91ecacf35846e4e7e6c678f0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.80/SLPM_627.80_BG_00.png"
+      },
+      "gameId": "SLPM_627.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Ages 2500 Series Vol. 33: Fantasy Zone Complete Collection"
+}

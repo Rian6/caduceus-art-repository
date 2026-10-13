@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_213.27",
+  "cover": {
+    "path": "PS2/SLUS_213.27/SLUS_213.27_COV.png",
+    "kind": "cover",
+    "bytes": 106437,
+    "width": 192,
+    "height": 272,
+    "sha256": "09fb47df71567a70644eefc17efd3efe8432ce8d254ffeb1830db9585cbc9445",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21327.jpg"
+    },
+    "gameId": "SLUS_213.27"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.27/SLUS_213.27_ICO.png",
+    "kind": "disc",
+    "bytes": 33390,
+    "width": 256,
+    "height": 256,
+    "sha256": "c99db48c7ea1faf2b4fd66196cffc10eb00b81e6e99b8ab80b3b284daf669847",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.27_ICO.png"
+    },
+    "gameId": "SLUS_213.27"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.27/SLUS_213.27_BG.png",
+    "kind": "background",
+    "bytes": 166488,
+    "width": 640,
+    "height": 480,
+    "sha256": "647b4d1f363c06314ffb9f480cfe04ef509f46e571b69c1e788e930b67a1b9fc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.27/SLUS_213.27_BG_00.png"
+    },
+    "gameId": "SLUS_213.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.27/SLUS_213.27_BG.png",
+      "kind": "background",
+      "bytes": 166488,
+      "width": 640,
+      "height": 480,
+      "sha256": "647b4d1f363c06314ffb9f480cfe04ef509f46e571b69c1e788e930b67a1b9fc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.27/SLUS_213.27_BG_00.png"
+      },
+      "gameId": "SLUS_213.27"
+    },
+    {
+      "path": "PS2/SLUS_213.27/SLUS_213.27_BG_01.png",
+      "kind": "background",
+      "bytes": 140519,
+      "width": 640,
+      "height": 480,
+      "sha256": "9bd0e053fcc22de1057706285de5f0abf90ac177f90f4e1fcdf68cb99e5c1620",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.27/SLUS_213.27_BG_01.png"
+      },
+      "gameId": "SLUS_213.27"
+    },
+    {
+      "path": "PS2/SLUS_213.27/SLUS_213.27_BG_02.png",
+      "kind": "background",
+      "bytes": 141977,
+      "width": 640,
+      "height": 480,
+      "sha256": "64384699432d87f2109a4add2047db965ee64405d8e054d4885fd2066ffa9077",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.27/SLUS_213.27_BG_02.png"
+      },
+      "gameId": "SLUS_213.27"
+    },
+    {
+      "path": "PS2/SLUS_213.27/SLUS_213.27_BG_03.png",
+      "kind": "background",
+      "bytes": 145581,
+      "width": 640,
+      "height": 480,
+      "sha256": "9b8e7ddb3dc9699e256ac9ada8de36316176744257588f333e0915a5fc8a5450",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.27/SLUS_213.27_BG_03.png"
+      },
+      "gameId": "SLUS_213.27"
+    },
+    {
+      "path": "PS2/SLUS_213.27/SLUS_213.27_BG_04.png",
+      "kind": "background",
+      "bytes": 218050,
+      "width": 640,
+      "height": 480,
+      "sha256": "876be76dda6eaeab9ffc556889b16d0895a84a8ab1cff766b21d3a4ec33570fd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.27/SLUS_213.27_BG_04.png"
+      },
+      "gameId": "SLUS_213.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Atelier Iris 2 - The Azoth of Destiny"
+}

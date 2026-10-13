@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.90",
+  "cover": {
+    "path": "PS2/SLES_505.90/SLES_505.90_COV.png",
+    "kind": "cover",
+    "bytes": 81231,
+    "width": 192,
+    "height": 272,
+    "sha256": "7a0d9c125445709e0ba1803e96e056f4960141f58d25e68f74ae7553d5deb458",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50590.jpg"
+    },
+    "gameId": "SLES_505.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAGIX Music Maker"
+}

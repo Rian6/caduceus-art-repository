@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.62",
+  "cover": {
+    "path": "PS2/SLPS_204.62/SLPS_204.62_COV.png",
+    "kind": "cover",
+    "bytes": 97739,
+    "width": 192,
+    "height": 272,
+    "sha256": "be6443163034b679af08dba30cce6d0352ec6b545d97a9fbab2e2ec98502c16a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20462.jpg"
+    },
+    "gameId": "SLPS_204.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ougon Kishi Garo (Limited Edition)"
+}

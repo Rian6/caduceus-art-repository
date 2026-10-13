@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.71",
+  "cover": {
+    "path": "PS2/SLPM_650.71/SLPM_650.71_COV.png",
+    "kind": "cover",
+    "bytes": 82310,
+    "width": 192,
+    "height": 272,
+    "sha256": "d057b8ad8f58cf0a4ac9a2a2700023dc1a9cccff4400b8a09682439efef63bdb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65071.jpg"
+    },
+    "gameId": "SLPM_650.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zero 4 Champ Series - Drift Champ"
+}

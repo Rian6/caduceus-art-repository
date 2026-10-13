@@ -1,0 +1,64 @@
+{
+  "id": "SLES_528.63",
+  "cover": {
+    "path": "PS2/SLES_528.63/SLES_528.63_COV.png",
+    "kind": "cover",
+    "bytes": 93443,
+    "width": 192,
+    "height": 272,
+    "sha256": "c45ace7e0d66b19bcf6d642211c8994fff5bba05fbdde85d18d880a5889233c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52863.jpg"
+    },
+    "gameId": "SLES_528.63"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.63/SLES_528.63_BG.png",
+    "kind": "background",
+    "bytes": 222352,
+    "width": 640,
+    "height": 480,
+    "sha256": "a43d37151fef7e4e4e89e4e08e99768075d1a8447a8064a0c5b570b2fdebaf6e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.63/SLES_528.63_BG_00.png"
+    },
+    "gameId": "SLES_528.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.63/SLES_528.63_BG.png",
+      "kind": "background",
+      "bytes": 222352,
+      "width": 640,
+      "height": 480,
+      "sha256": "a43d37151fef7e4e4e89e4e08e99768075d1a8447a8064a0c5b570b2fdebaf6e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.63/SLES_528.63_BG_00.png"
+      },
+      "gameId": "SLES_528.63"
+    },
+    {
+      "path": "PS2/SLES_528.63/SLES_528.63_BG_01.png",
+      "kind": "background",
+      "bytes": 184190,
+      "width": 640,
+      "height": 480,
+      "sha256": "e7af108d0d190976ad6eb61c11f2306c8df495a02d7e06dc631f62c7d1e34163",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.63/SLES_528.63_BG_01.png"
+      },
+      "gameId": "SLES_528.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PINBALL HALL OF FAME - THE GOTTLIEB COLLECTION"
+}

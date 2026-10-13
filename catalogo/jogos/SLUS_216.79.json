@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_216.79",
+  "cover": {
+    "path": "PS2/SLUS_216.79/SLUS_216.79_COV.png",
+    "kind": "cover",
+    "bytes": 92873,
+    "width": 192,
+    "height": 272,
+    "sha256": "febcceea91cb9337cf04226a4d05f7784d1aabd708e2766c5f3b554318246bfc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21679.jpg"
+    },
+    "gameId": "SLUS_216.79"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.79/SLUS_216.79_ICO.png",
+    "kind": "disc",
+    "bytes": 31132,
+    "width": 256,
+    "height": 256,
+    "sha256": "9928e20b8d68d0f2d331c33e84f57252286b959dd8afb71999cc2ccdf6d6afa9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.79_ICO.png"
+    },
+    "gameId": "SLUS_216.79"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.79/SLUS_216.79_BG.png",
+    "kind": "background",
+    "bytes": 184731,
+    "width": 640,
+    "height": 480,
+    "sha256": "5590b9c0431a39457f33581208f470b5e3818e4ef688da96c4d2096d8dbe0efe",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.79/SLUS_216.79_BG_00.png"
+    },
+    "gameId": "SLUS_216.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.79/SLUS_216.79_BG.png",
+      "kind": "background",
+      "bytes": 184731,
+      "width": 640,
+      "height": 480,
+      "sha256": "5590b9c0431a39457f33581208f470b5e3818e4ef688da96c4d2096d8dbe0efe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.79/SLUS_216.79_BG_00.png"
+      },
+      "gameId": "SLUS_216.79"
+    },
+    {
+      "path": "PS2/SLUS_216.79/SLUS_216.79_BG_01.png",
+      "kind": "background",
+      "bytes": 126778,
+      "width": 640,
+      "height": 480,
+      "sha256": "4f923f0a5b600c1677558a72f4a777a4a90618f29736288c4858a696423723fa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.79/SLUS_216.79_BG_01.png"
+      },
+      "gameId": "SLUS_216.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Power Rangers: Super Legends: 15th Anniversary"
+}

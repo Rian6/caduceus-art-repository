@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_212.51",
+  "cover": {
+    "path": "PS2/SLUS_212.51/SLUS_212.51_COV.png",
+    "kind": "cover",
+    "bytes": 109716,
+    "width": 192,
+    "height": 272,
+    "sha256": "bb5663ff6dc3be244a3ccb07a070a00ae59c02dee7a7f993c8b6309ececa3954",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21251.jpg"
+    },
+    "gameId": "SLUS_212.51"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.51/SLUS_212.51_ICO.png",
+    "kind": "disc",
+    "bytes": 34284,
+    "width": 256,
+    "height": 256,
+    "sha256": "1f4137605b172aac5b78306e9b22cb5edfb436467aa86cc89f6983c629564a35",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.51_ICO.png"
+    },
+    "gameId": "SLUS_212.51"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.51/SLUS_212.51_BG.png",
+    "kind": "background",
+    "bytes": 163472,
+    "width": 640,
+    "height": 480,
+    "sha256": "6cfe1c863c9cd54975253e26ac0188df81d8bc52c16d69699e199a959df27f4f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.51/SLUS_212.51_BG_00.png"
+    },
+    "gameId": "SLUS_212.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.51/SLUS_212.51_BG.png",
+      "kind": "background",
+      "bytes": 163472,
+      "width": 640,
+      "height": 480,
+      "sha256": "6cfe1c863c9cd54975253e26ac0188df81d8bc52c16d69699e199a959df27f4f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.51/SLUS_212.51_BG_00.png"
+      },
+      "gameId": "SLUS_212.51"
+    },
+    {
+      "path": "PS2/SLUS_212.51/SLUS_212.51_BG_01.png",
+      "kind": "background",
+      "bytes": 192924,
+      "width": 640,
+      "height": 480,
+      "sha256": "dc68b709a94f7d3847a99df3acfe6df3df7ecdb30fd7f8c47e5bfb1559b87995",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.51/SLUS_212.51_BG_01.png"
+      },
+      "gameId": "SLUS_212.51"
+    },
+    {
+      "path": "PS2/SLUS_212.51/SLUS_212.51_BG_02.png",
+      "kind": "background",
+      "bytes": 209479,
+      "width": 640,
+      "height": 480,
+      "sha256": "d1ca31572653e5cae0619bf2fa846e01183c3577b0b5fb3f44cf9ab1e193fd16",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.51/SLUS_212.51_BG_02.png"
+      },
+      "gameId": "SLUS_212.51"
+    },
+    {
+      "path": "PS2/SLUS_212.51/SLUS_212.51_BG_03.png",
+      "kind": "background",
+      "bytes": 183561,
+      "width": 640,
+      "height": 480,
+      "sha256": "91ae8d32e62900f67ec1b6f772dbdc9d31de9b5367efb861a52a93a6db553f82",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.51/SLUS_212.51_BG_03.png"
+      },
+      "gameId": "SLUS_212.51"
+    },
+    {
+      "path": "PS2/SLUS_212.51/SLUS_212.51_BG_04.png",
+      "kind": "background",
+      "bytes": 190579,
+      "width": 640,
+      "height": 480,
+      "sha256": "93e58becc663b7905f37ca2464a7bd3bd24bd64ef46ea4f07a8363fea103deb3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.51/SLUS_212.51_BG_04.png"
+      },
+      "gameId": "SLUS_212.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FLATOUT 2"
+}

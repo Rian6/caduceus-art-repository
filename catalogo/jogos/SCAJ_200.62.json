@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.62",
+  "cover": {
+    "path": "PS2/SCAJ_200.62/SCAJ_200.62_COV.png",
+    "kind": "cover",
+    "bytes": 92113,
+    "width": 192,
+    "height": 272,
+    "sha256": "03dd516f285f52ad0bbec02583834e214628829a9e142c878108e5dca8a22bb3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20062.jpg"
+    },
+    "gameId": "SCAJ_200.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CROUCHING TIGEER, HIDDEN DRAGON"
+}

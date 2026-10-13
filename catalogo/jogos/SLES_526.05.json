@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.05",
+  "cover": {
+    "path": "PS2/SLES_526.05/SLES_526.05_COV.png",
+    "kind": "cover",
+    "bytes": 87219,
+    "width": 192,
+    "height": 272,
+    "sha256": "12a657180986ee07552203e9b6c3987616bc37f49f2c52292d37f79d82a4038e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52605.jpg"
+    },
+    "gameId": "SLES_526.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Polar Express"
+}

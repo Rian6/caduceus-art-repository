@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.56",
+  "cover": {
+    "path": "PS2/SLPM_551.56/SLPM_551.56_COV.png",
+    "kind": "cover",
+    "bytes": 99731,
+    "width": 192,
+    "height": 272,
+    "sha256": "36d4e4fc67e4ba1dc5dc0b9ce9074c52b6d41e938b3d60b54fcc4602ad085366",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55156.jpg"
+    },
+    "gameId": "SLPM_551.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "D.C.I.F.: Da Capo: Innocent Finale"
+}

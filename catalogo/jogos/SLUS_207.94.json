@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_207.94",
+  "cover": {
+    "path": "PS2/SLUS_207.94/SLUS_207.94_COV.png",
+    "kind": "cover",
+    "bytes": 89822,
+    "width": 192,
+    "height": 272,
+    "sha256": "a0c5fa3fdc742f68154eac4a9baa4c1329f6a443d04d9ce39880c2d78dc00afd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20794.jpg"
+    },
+    "gameId": "SLUS_207.94"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.94/SLUS_207.94_ICO.png",
+    "kind": "disc",
+    "bytes": 32271,
+    "width": 256,
+    "height": 256,
+    "sha256": "561860576f7d06d772eeb147d942bf26aea0f7e5bf4aa464bc0a3a11a801ceff",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.94_ICO.png"
+    },
+    "gameId": "SLUS_207.94"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN Major League Baseball"
+}

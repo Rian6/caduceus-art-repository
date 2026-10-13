@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.63",
+  "cover": {
+    "path": "PS2/SLPS_257.63/SLPS_257.63_COV.png",
+    "kind": "cover",
+    "bytes": 104250,
+    "width": 192,
+    "height": 272,
+    "sha256": "04eab402497862b8c2a90ea117d160b2e71c8d0aaa0539fa44a581c10a59b7ed",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25763.jpg"
+    },
+    "gameId": "SLPS_257.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Bokujou Monogatari - Pure Innocent Life"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SLES_512.33",
+  "cover": {
+    "path": "PS2/SLES_512.33/SLES_512.33_COV.png",
+    "kind": "cover",
+    "bytes": 102958,
+    "width": 192,
+    "height": 272,
+    "sha256": "68b010f20905fe41642c100a917b0aa1d01c9ac10b0fc98976f60ec148662c53",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51233.jpg"
+    },
+    "gameId": "SLES_512.33"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_512.33/SLES_512.33_BG.png",
+    "kind": "background",
+    "bytes": 178972,
+    "width": 640,
+    "height": 480,
+    "sha256": "7156f4cf10978ebd31f6e01c58a246b2faf17c37da143246436141f11e89f30d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_512.33/SLES_512.33_BG_00.png"
+    },
+    "gameId": "SLES_512.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_512.33/SLES_512.33_BG.png",
+      "kind": "background",
+      "bytes": 178972,
+      "width": 640,
+      "height": 480,
+      "sha256": "7156f4cf10978ebd31f6e01c58a246b2faf17c37da143246436141f11e89f30d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.33/SLES_512.33_BG_00.png"
+      },
+      "gameId": "SLES_512.33"
+    },
+    {
+      "path": "PS2/SLES_512.33/SLES_512.33_BG_01.png",
+      "kind": "background",
+      "bytes": 170097,
+      "width": 640,
+      "height": 480,
+      "sha256": "a71477f83a1f6fdee5d0610bce850e670fe2508c6684eaef06415c487a353a5b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.33/SLES_512.33_BG_01.png"
+      },
+      "gameId": "SLES_512.33"
+    },
+    {
+      "path": "PS2/SLES_512.33/SLES_512.33_BG_02.png",
+      "kind": "background",
+      "bytes": 214835,
+      "width": 640,
+      "height": 480,
+      "sha256": "7eac3273324cab7b49c91b8b0e5f01b617fb0541ad417fad3e5f9e6b59046a02",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.33/SLES_512.33_BG_02.png"
+      },
+      "gameId": "SLES_512.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Ball Z: Budokai"
+}

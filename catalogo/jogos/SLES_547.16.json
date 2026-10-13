@@ -1,0 +1,39 @@
+{
+  "id": "SLES_547.16",
+  "cover": {
+    "path": "PS2/SLES_547.16/SLES_547.16_COV.png",
+    "kind": "cover",
+    "bytes": 107012,
+    "width": 192,
+    "height": 272,
+    "sha256": "55a05df67fe7d22f2dda347142717fb8d73386cc81e3955866247dcee04643f4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54716.jpg"
+    },
+    "gameId": "SLES_547.16"
+  },
+  "disc": {
+    "path": "PS2/SLES_547.16/SLES_547.16_ICO.png",
+    "kind": "disc",
+    "bytes": 12810,
+    "width": 128,
+    "height": 128,
+    "sha256": "60b118bdfa5903683fcd421867bb409db7c62e4dab059fe8008e5561cf7363da",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_547.16_ICO.png"
+    },
+    "gameId": "SLES_547.16"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Skateboard Madness - Xtreme Edition"
+}

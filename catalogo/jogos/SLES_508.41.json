@@ -1,0 +1,25 @@
+{
+  "id": "SLES_508.41",
+  "cover": {
+    "path": "PS2/SLES_508.41/SLES_508.41_COV.png",
+    "kind": "cover",
+    "bytes": 79712,
+    "width": 192,
+    "height": 272,
+    "sha256": "cd76dc92dd9762c6c6ff5df0d635283259995d89487c88089efed866ce6ee8fe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50841.jpg"
+    },
+    "gameId": "SLES_508.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LARGO WINCH - EMPIRE UNDER THREAT"
+}

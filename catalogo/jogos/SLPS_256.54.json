@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.54",
+  "cover": {
+    "path": "PS2/SLPS_256.54/SLPS_256.54_COV.png",
+    "kind": "cover",
+    "bytes": 98968,
+    "width": 192,
+    "height": 272,
+    "sha256": "034faae6fa43bcc0b0e345299f895feb00ed8e9c4ed56ca363d5e39c4dea6cff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25654.jpg"
+    },
+    "gameId": "SLPS_256.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUSTER EDGE"
+}

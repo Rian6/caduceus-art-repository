@@ -1,0 +1,25 @@
+{
+  "id": "SLES_541.73",
+  "cover": {
+    "path": "PS2/SLES_541.73/SLES_541.73_COV.png",
+    "kind": "cover",
+    "bytes": 61261,
+    "width": 192,
+    "height": 272,
+    "sha256": "95a21c850b52c2c3af2cce0939620e4d154204b5308780041116d5c664b9da61",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.73/SLES_541.73_COV.png"
+    },
+    "gameId": "SLES_541.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamWorks' På Andra Sidan Häcken (Over the hedge)"
+}

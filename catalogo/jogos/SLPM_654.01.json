@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.01",
+  "cover": {
+    "path": "PS2/SLPM_654.01/SLPM_654.01_COV.png",
+    "kind": "cover",
+    "bytes": 78515,
+    "width": 192,
+    "height": 272,
+    "sha256": "229786a4cc1f21b67a33cb00a87aab61ffbd46a29306904c5e25f56047554b91",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65401.jpg"
+    },
+    "gameId": "SLPM_654.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tengai Makyou II - Manji Maru (Limited Edition)"
+}

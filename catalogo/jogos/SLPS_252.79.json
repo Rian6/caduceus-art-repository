@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.79",
+  "cover": {
+    "path": "PS2/SLPS_252.79/SLPS_252.79_COV.png",
+    "kind": "cover",
+    "bytes": 109777,
+    "width": 192,
+    "height": 272,
+    "sha256": "1b42e14f8e98ed48686747a18ba349cc29d6e2fdb36feb1defb6e953794f8e9b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25279.jpg"
+    },
+    "gameId": "SLPS_252.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BOUKEN SHOUNEN CLUB GAHOU"
+}

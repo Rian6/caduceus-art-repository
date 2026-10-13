@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_213.05",
+  "cover": {
+    "path": "PS2/SLUS_213.05/SLUS_213.05_COV.png",
+    "kind": "cover",
+    "bytes": 107249,
+    "width": 192,
+    "height": 272,
+    "sha256": "2129e8025dd4a438a7f97c775df27777d77389ba1b69f5e1c416591db48986c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21305.jpg"
+    },
+    "gameId": "SLUS_213.05"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.05/SLUS_213.05_ICO.png",
+    "kind": "disc",
+    "bytes": 34762,
+    "width": 256,
+    "height": 256,
+    "sha256": "83b7363541bf3956060177d172bd7f189e5e8d2f7cc9ef86966a626528e7ca4d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.05_ICO.png"
+    },
+    "gameId": "SLUS_213.05"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.05/SLUS_213.05_BG.png",
+    "kind": "background",
+    "bytes": 270135,
+    "width": 640,
+    "height": 480,
+    "sha256": "da2ff75fe6ec239d0c7289449aa759f83af111f2c7a082ace4c8dc712885b00d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.05/SLUS_213.05_BG_00.png"
+    },
+    "gameId": "SLUS_213.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.05/SLUS_213.05_BG.png",
+      "kind": "background",
+      "bytes": 270135,
+      "width": 640,
+      "height": 480,
+      "sha256": "da2ff75fe6ec239d0c7289449aa759f83af111f2c7a082ace4c8dc712885b00d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.05/SLUS_213.05_BG_00.png"
+      },
+      "gameId": "SLUS_213.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ARTHUR AND THE INVISIBLES - THE GAME"
+}

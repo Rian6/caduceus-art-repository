@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.30",
+  "cover": {
+    "path": "PS2/SLPS_256.30/SLPS_256.30_COV.png",
+    "kind": "cover",
+    "bytes": 96634,
+    "width": 192,
+    "height": 272,
+    "sha256": "a162f25f9571d26d2fbe72a3465074e3d259ad4b7863dddbd554d11f451df0c6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25630.jpg"
+    },
+    "gameId": "SLPS_256.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Yakyuu Netsu Star 2006"
+}

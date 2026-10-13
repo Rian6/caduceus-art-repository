@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.09",
+  "cover": {
+    "path": "PS2/SLPM_620.09/SLPM_620.09_COV.png",
+    "kind": "cover",
+    "bytes": 100420,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc3b842a9eafe042c754196e6869ebc03f385e0b82c2f3e9caf1e1bc0e0110d0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62009.jpg"
+    },
+    "gameId": "SLPM_620.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GANBARE NIPPON! OLYMPIC 2000"
+}

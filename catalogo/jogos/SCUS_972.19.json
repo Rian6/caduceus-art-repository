@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_972.19",
+  "cover": {
+    "path": "PS2/SCUS_972.19/SCUS_972.19_COV.png",
+    "kind": "cover",
+    "bytes": 49154,
+    "width": 192,
+    "height": 272,
+    "sha256": "63696b265f47e8903db55bd9432fae882f9f1893bed8b570fc403310c10d513a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_972.19/SCUS_972.19_COV.png"
+    },
+    "gameId": "SCUS_972.19"
+  },
+  "disc": {
+    "path": "PS2/SCUS_972.19/SCUS_972.19_ICO.png",
+    "kind": "disc",
+    "bytes": 10508,
+    "width": 128,
+    "height": 128,
+    "sha256": "63ec8004e7d3464869d82790bb76fa72902609d837bb085e27a33a3a542f7ea8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCUS_972.19_ICO.png"
+    },
+    "gameId": "SCUS_972.19"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 3 - A-Spec - Nissan 350Z Edition"
+}

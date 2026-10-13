@@ -1,0 +1,104 @@
+{
+  "id": "SLES_530.35",
+  "cover": {
+    "path": "PS2/SLES_530.35/SLES_530.35_COV.png",
+    "kind": "cover",
+    "bytes": 101359,
+    "width": 192,
+    "height": 272,
+    "sha256": "c56cbf5fee49a0f2a46a536ad70e2131bc9f3e319a7efd3721496f04c4e4303f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53035.jpg"
+    },
+    "gameId": "SLES_530.35"
+  },
+  "disc": {
+    "path": "PS2/SLES_530.35/SLES_530.35_ICO.png",
+    "kind": "disc",
+    "bytes": 11139,
+    "width": 128,
+    "height": 128,
+    "sha256": "e77305c310d41aa556333a187bd22cb5186a90507d1e4ec290585ca54f04e2c7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_530.35_ICO.png"
+    },
+    "gameId": "SLES_530.35"
+  },
+  "background": {
+    "path": "PS2/SLES_530.35/SLES_530.35_BG.png",
+    "kind": "background",
+    "bytes": 177149,
+    "width": 640,
+    "height": 480,
+    "sha256": "0173bbacd3dd7138f4f51dd1ba5866a067dce0adff3758e8b33b0ea1f61d7ced",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.35/SLES_530.35_BG_00.png"
+    },
+    "gameId": "SLES_530.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.35/SLES_530.35_BG.png",
+      "kind": "background",
+      "bytes": 177149,
+      "width": 640,
+      "height": 480,
+      "sha256": "0173bbacd3dd7138f4f51dd1ba5866a067dce0adff3758e8b33b0ea1f61d7ced",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.35/SLES_530.35_BG_00.png"
+      },
+      "gameId": "SLES_530.35"
+    },
+    {
+      "path": "PS2/SLES_530.35/SLES_530.35_BG_01.png",
+      "kind": "background",
+      "bytes": 206759,
+      "width": 640,
+      "height": 480,
+      "sha256": "b368985d6fe5d4fb1b353e05659ed5426f9a78c294f11bc2b3abb8a79b56bef6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.35/SLES_530.35_BG_01.png"
+      },
+      "gameId": "SLES_530.35"
+    },
+    {
+      "path": "PS2/SLES_530.35/SLES_530.35_BG_02.png",
+      "kind": "background",
+      "bytes": 173907,
+      "width": 640,
+      "height": 480,
+      "sha256": "974e415fbf532429792ccda1168c312f3fa4764633c457437101abf4a2c463b4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.35/SLES_530.35_BG_02.png"
+      },
+      "gameId": "SLES_530.35"
+    },
+    {
+      "path": "PS2/SLES_530.35/SLES_530.35_BG_03.png",
+      "kind": "background",
+      "bytes": 222412,
+      "width": 640,
+      "height": 480,
+      "sha256": "4c79c6ca3b373fee77221cfedd00dba57a1b804925da06c15e3076cc11bdfd93",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.35/SLES_530.35_BG_03.png"
+      },
+      "gameId": "SLES_530.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MASTERS OF THE UNIVERSE - HE-MAN DEFENDER OF GRAYSKULL"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_519.26",
+  "cover": {
+    "path": "PS2/SLES_519.26/SLES_519.26_COV.png",
+    "kind": "cover",
+    "bytes": 101098,
+    "width": 192,
+    "height": 272,
+    "sha256": "590c5dab98e738d57d24fde36584646ad8d1e9535e949e1cf6ac5996878aee27",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51926.jpg"
+    },
+    "gameId": "SLES_519.26"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_519.26/SLES_519.26_BG.png",
+    "kind": "background",
+    "bytes": 198753,
+    "width": 640,
+    "height": 480,
+    "sha256": "ecfb56edb7737b4aa25276bbc9fd56e2b6d5f29e39735d8a69e12d490104026d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.26/SLES_519.26_BG_00.png"
+    },
+    "gameId": "SLES_519.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.26/SLES_519.26_BG.png",
+      "kind": "background",
+      "bytes": 198753,
+      "width": 640,
+      "height": 480,
+      "sha256": "ecfb56edb7737b4aa25276bbc9fd56e2b6d5f29e39735d8a69e12d490104026d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.26/SLES_519.26_BG_00.png"
+      },
+      "gameId": "SLES_519.26"
+    },
+    {
+      "path": "PS2/SLES_519.26/SLES_519.26_BG_01.png",
+      "kind": "background",
+      "bytes": 74746,
+      "width": 640,
+      "height": 480,
+      "sha256": "c9b1664f2dcd18ffb7c8f84fd61ca0644e47cdd4b4e49d6b56593da7d4ef9e88",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.26/SLES_519.26_BG_01.png"
+      },
+      "gameId": "SLES_519.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OUTLAW GOLF"
+}

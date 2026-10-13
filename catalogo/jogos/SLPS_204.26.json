@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.26",
+  "cover": {
+    "path": "PS2/SLPS_204.26/SLPS_204.26_COV.png",
+    "kind": "cover",
+    "bytes": 99550,
+    "width": 192,
+    "height": 272,
+    "sha256": "6c4e538ed46240098e85cfd4572bed2ec9633f6bb3793d351536b4fad94b715a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20426.jpg"
+    },
+    "gameId": "SLPS_204.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DREAMWORKS' MADAGASCAR"
+}

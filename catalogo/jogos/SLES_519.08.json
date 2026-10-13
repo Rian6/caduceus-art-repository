@@ -1,0 +1,64 @@
+{
+  "id": "SLES_519.08",
+  "cover": {
+    "path": "PS2/SLES_519.08/SLES_519.08_COV.png",
+    "kind": "cover",
+    "bytes": 65389,
+    "width": 192,
+    "height": 272,
+    "sha256": "5ffa94981c8df995089e464a21b445c4092ce51c28602c9e2fed657cbabbcac0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51908.jpg"
+    },
+    "gameId": "SLES_519.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_519.08/SLES_519.08_BG.png",
+    "kind": "background",
+    "bytes": 182542,
+    "width": 640,
+    "height": 480,
+    "sha256": "bc8db7e5d2111ff5382c9e0a25898668e3f0077000ce2eff71375623c9345e74",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.08/SLES_519.08_BG_00.png"
+    },
+    "gameId": "SLES_519.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.08/SLES_519.08_BG.png",
+      "kind": "background",
+      "bytes": 182542,
+      "width": 640,
+      "height": 480,
+      "sha256": "bc8db7e5d2111ff5382c9e0a25898668e3f0077000ce2eff71375623c9345e74",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.08/SLES_519.08_BG_00.png"
+      },
+      "gameId": "SLES_519.08"
+    },
+    {
+      "path": "PS2/SLES_519.08/SLES_519.08_BG_01.png",
+      "kind": "background",
+      "bytes": 195785,
+      "width": 640,
+      "height": 480,
+      "sha256": "7f83f0989e5be5d9bc5dccb0f0162d190826fd72f92a818183a08001b9443c90",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.08/SLES_519.08_BG_01.png"
+      },
+      "gameId": "SLES_519.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Van Helsing"
+}

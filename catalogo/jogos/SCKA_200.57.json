@@ -1,0 +1,64 @@
+{
+  "id": "SCKA_200.57",
+  "cover": {
+    "path": "PS2/SCKA_200.57/SCKA_200.57_COV.png",
+    "kind": "cover",
+    "bytes": 93740,
+    "width": 192,
+    "height": 272,
+    "sha256": "3c622f248405a4020f032bf75412b456f88b4c69d4c4f95abdf890a689937379",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20057.jpg"
+    },
+    "gameId": "SCKA_200.57"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.57/SCKA_200.57_BG.png",
+    "kind": "background",
+    "bytes": 147219,
+    "width": 640,
+    "height": 480,
+    "sha256": "706a67e7baf0a5390843d36913631f23f1daf5718ea504856ef9bc07d9254aa0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.57/SCKA_200.57_BG_00.png"
+    },
+    "gameId": "SCKA_200.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.57/SCKA_200.57_BG.png",
+      "kind": "background",
+      "bytes": 147219,
+      "width": 640,
+      "height": 480,
+      "sha256": "706a67e7baf0a5390843d36913631f23f1daf5718ea504856ef9bc07d9254aa0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.57/SCKA_200.57_BG_00.png"
+      },
+      "gameId": "SCKA_200.57"
+    },
+    {
+      "path": "PS2/SCKA_200.57/SCKA_200.57_BG_01.png",
+      "kind": "background",
+      "bytes": 203624,
+      "width": 640,
+      "height": 480,
+      "sha256": "17ed791cab5e4b39f7aa4c090b88a5b5f3e57874e86fe1bb83b7ab75fa5cf0c0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.57/SCKA_200.57_BG_01.png"
+      },
+      "gameId": "SCKA_200.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Everybody's Golf 4"
+}

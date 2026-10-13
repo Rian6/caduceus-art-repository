@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_204.68",
+  "cover": {
+    "path": "PS2/SLUS_204.68/SLUS_204.68_COV.png",
+    "kind": "cover",
+    "bytes": 106286,
+    "width": 192,
+    "height": 272,
+    "sha256": "268e18b29c2c083f74bf76f5f68c3a3269fcfe8d3993b47596f91453ac00eaae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20468.jpg"
+    },
+    "gameId": "SLUS_204.68"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.68/SLUS_204.68_ICO.png",
+    "kind": "disc",
+    "bytes": 31633,
+    "width": 256,
+    "height": 256,
+    "sha256": "4827ac19e6d8b90e15ba9020a74b0aa913c6b930f7fa2156727f2cd505fc2cb8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.68_ICO.png"
+    },
+    "gameId": "SLUS_204.68"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.68/SLUS_204.68_BG.png",
+    "kind": "background",
+    "bytes": 263055,
+    "width": 640,
+    "height": 480,
+    "sha256": "d39a1a7cd4a2e2996543aca6501bdc0003a3c8f8c6e53317707a18e1c0c65ee5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.68/SLUS_204.68_BG_00.png"
+    },
+    "gameId": "SLUS_204.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.68/SLUS_204.68_BG.png",
+      "kind": "background",
+      "bytes": 263055,
+      "width": 640,
+      "height": 480,
+      "sha256": "d39a1a7cd4a2e2996543aca6501bdc0003a3c8f8c6e53317707a18e1c0c65ee5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.68/SLUS_204.68_BG_00.png"
+      },
+      "gameId": "SLUS_204.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Tactics"
+}

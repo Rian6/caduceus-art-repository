@@ -1,0 +1,39 @@
+{
+  "id": "SLES_537.48",
+  "cover": {
+    "path": "PS2/SLES_537.48/SLES_537.48_COV.png",
+    "kind": "cover",
+    "bytes": 113480,
+    "width": 192,
+    "height": 272,
+    "sha256": "dea8c01dba87a9e37a1f839a7efce7885d9736a63fbdfb963aac388b39bc61d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53748.jpg"
+    },
+    "gameId": "SLES_537.48"
+  },
+  "disc": {
+    "path": "PS2/SLES_537.48/SLES_537.48_ICO.png",
+    "kind": "disc",
+    "bytes": 11592,
+    "width": 128,
+    "height": 128,
+    "sha256": "4abba8e0ffdf69194e42c42bb21124fafba919cd125e1071611ee3e4c5ecb7d5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_537.48_ICO.png"
+    },
+    "gameId": "SLES_537.48"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Quest for Sleeping Beauty"
+}

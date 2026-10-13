@@ -1,0 +1,25 @@
+{
+  "id": "GUST_000.06",
+  "cover": {
+    "path": "PS2/GUST_000.06/GUST_000.06_COV.png",
+    "kind": "cover",
+    "bytes": 72449,
+    "width": 192,
+    "height": 272,
+    "sha256": "ecc7e1470d9eb60306c78f261b4b113a18d3ccf23651e87104156c9e9b4d960b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/GUST_000.06/GUST_000.06_COV.png"
+    },
+    "gameId": "GUST_000.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Atelier Marie + Elie -Salburg no Renkinjutsushi 1 & 2 (Premium Box)"
+}

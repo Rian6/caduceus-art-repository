@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.36",
+  "cover": {
+    "path": "PS2/KOEI_201.36/KOEI_201.36_COV.png",
+    "kind": "cover",
+    "bytes": 93717,
+    "width": 192,
+    "height": 272,
+    "sha256": "d08f595deab72861217a3dd6c1dda60207727a90899de73bc3f106469cbeaafd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/KOEI-20136.jpg"
+    },
+    "gameId": "KOEI_201.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KIN'IRO NO KORUDA 2 + KINIRO NO CORDA 2 ENCORE [TWIN PACK]"
+}

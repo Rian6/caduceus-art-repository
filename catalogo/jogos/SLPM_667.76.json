@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.76",
+  "cover": {
+    "path": "PS2/SLPM_667.76/SLPM_667.76_COV.png",
+    "kind": "cover",
+    "bytes": 90109,
+    "width": 192,
+    "height": 272,
+    "sha256": "d762716b8a47dd3e32a69ffc14d9b75b0570b3a27995ec0c125b4fefc4813302",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66776.jpg"
+    },
+    "gameId": "SLPM_667.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TAITO MEMORIES GEKAN [ETERNAL HITS]"
+}

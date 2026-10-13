@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.47",
+  "cover": {
+    "path": "PS2/SLPM_657.47/SLPM_657.47_COV.png",
+    "kind": "cover",
+    "bytes": 88512,
+    "width": 192,
+    "height": 272,
+    "sha256": "ef04d2f33a3f12a8d6b27f7555d5ba634f7780a268c56ba7c0db7ab0d3e6de27",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65747.jpg"
+    },
+    "gameId": "SLPM_657.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FULLMETAL ALCHEMIST - HAGANE NO RENKINJUTSUSHI 2 - AKAKI ELIXIR NO AKUMA [LIMITED EDITION]"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_204.31",
+  "cover": {
+    "path": "PS2/SLUS_204.31/SLUS_204.31_COV.png",
+    "kind": "cover",
+    "bytes": 94698,
+    "width": 192,
+    "height": 272,
+    "sha256": "54ae1a08266537a84a76b6358adc47cf905c9a88838aa8c37e9c1c7cf1a8d1f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20431.jpg"
+    },
+    "gameId": "SLUS_204.31"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.31/SLUS_204.31_ICO.png",
+    "kind": "disc",
+    "bytes": 32288,
+    "width": 256,
+    "height": 256,
+    "sha256": "0f32134b41c0f2e9ad1f85c975a64bed5f46b96c830d845674c6285b6b33bfde",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.31_ICO.png"
+    },
+    "gameId": "SLUS_204.31"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.31/SLUS_204.31_BG.png",
+    "kind": "background",
+    "bytes": 211440,
+    "width": 640,
+    "height": 480,
+    "sha256": "5e1fc6235f83add69a3b21b56e65649451770906555a57b5de80ea42f2608e59",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.31/SLUS_204.31_BG_00.png"
+    },
+    "gameId": "SLUS_204.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.31/SLUS_204.31_BG.png",
+      "kind": "background",
+      "bytes": 211440,
+      "width": 640,
+      "height": 480,
+      "sha256": "5e1fc6235f83add69a3b21b56e65649451770906555a57b5de80ea42f2608e59",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.31/SLUS_204.31_BG_00.png"
+      },
+      "gameId": "SLUS_204.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WRECKLESS - THE YAKUZA MISSIONS"
+}

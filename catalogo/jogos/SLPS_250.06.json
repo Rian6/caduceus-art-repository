@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.06",
+  "cover": {
+    "path": "PS2/SLPS_250.06/SLPS_250.06_COV.png",
+    "kind": "cover",
+    "bytes": 86088,
+    "width": 192,
+    "height": 272,
+    "sha256": "fd5b98600df190b4996b46549d5529ff08d571dcfba58220cf9d7aeb6014e48b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25006.jpg"
+    },
+    "gameId": "SLPS_250.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Eikan wa Kimini- Koushien e no Michi"
+}

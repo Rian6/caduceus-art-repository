@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_217.33",
+  "cover": {
+    "path": "PS2/SLUS_217.33/SLUS_217.33_COV.png",
+    "kind": "cover",
+    "bytes": 111357,
+    "width": 192,
+    "height": 272,
+    "sha256": "1f0989f54346aacf340c9fefe734efbf26f622f639c2ff8000af5b5b9f955b09",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21733.jpg"
+    },
+    "gameId": "SLUS_217.33"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.33/SLUS_217.33_ICO.png",
+    "kind": "disc",
+    "bytes": 34368,
+    "width": 256,
+    "height": 256,
+    "sha256": "e2a31de09abdc4b716b08324cd5e691cf9ff53e34d67f28324fd9e56509108bf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.33_ICO.png"
+    },
+    "gameId": "SLUS_217.33"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.33/SLUS_217.33_BG.png",
+    "kind": "background",
+    "bytes": 157295,
+    "width": 640,
+    "height": 480,
+    "sha256": "3a8e236ea1d28ef051784582485e0d65342a5158c4cb47a8f94745f82a709f3d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.33/SLUS_217.33_BG_00.png"
+    },
+    "gameId": "SLUS_217.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.33/SLUS_217.33_BG.png",
+      "kind": "background",
+      "bytes": 157295,
+      "width": 640,
+      "height": 480,
+      "sha256": "3a8e236ea1d28ef051784582485e0d65342a5158c4cb47a8f94745f82a709f3d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.33/SLUS_217.33_BG_00.png"
+      },
+      "gameId": "SLUS_217.33"
+    },
+    {
+      "path": "PS2/SLUS_217.33/SLUS_217.33_BG_01.png",
+      "kind": "background",
+      "bytes": 26841,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf5abcc90b0985a3d76574ecde95dd21f8d408095b903c69af5a9e01415916c4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.33/SLUS_217.33_BG_01.png"
+      },
+      "gameId": "SLUS_217.33"
+    },
+    {
+      "path": "PS2/SLUS_217.33/SLUS_217.33_BG_02.png",
+      "kind": "background",
+      "bytes": 203881,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c6ada227a1f21aae889a28095088a9d5976234d81693662d1a31c11e9ce1f91",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.33/SLUS_217.33_BG_02.png"
+      },
+      "gameId": "SLUS_217.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Superstars Tennis"
+}

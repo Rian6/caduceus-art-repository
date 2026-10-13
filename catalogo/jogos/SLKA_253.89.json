@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_253.89",
+  "cover": {
+    "path": "PS2/SLKA_253.89/SLKA_253.89_COV.png",
+    "kind": "cover",
+    "bytes": 64981,
+    "width": 192,
+    "height": 272,
+    "sha256": "8078b05afa7d95877e0587add654e2a6b8d7160db006312ec78c9eba8668a561",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25389.jpg"
+    },
+    "gameId": "SLKA_253.89"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_253.89/SLKA_253.89_BG.png",
+    "kind": "background",
+    "bytes": 110674,
+    "width": 640,
+    "height": 480,
+    "sha256": "509c2511b74a6b9fa1d523989aa74af9b63f0472c3ef0af1625da73e3b1edb6c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.89/SLKA_253.89_BG_00.png"
+    },
+    "gameId": "SLKA_253.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_253.89/SLKA_253.89_BG.png",
+      "kind": "background",
+      "bytes": 110674,
+      "width": 640,
+      "height": 480,
+      "sha256": "509c2511b74a6b9fa1d523989aa74af9b63f0472c3ef0af1625da73e3b1edb6c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_253.89/SLKA_253.89_BG_00.png"
+      },
+      "gameId": "SLKA_253.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHINOBIDO IMASIME"
+}

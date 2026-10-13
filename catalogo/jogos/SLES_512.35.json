@@ -1,0 +1,65 @@
+{
+  "id": "SLES_512.35",
+  "cover": {
+    "path": "PS2/SLES_512.35/SLES_512.35_COV.png",
+    "kind": "cover",
+    "bytes": 101092,
+    "width": 192,
+    "height": 272,
+    "sha256": "c903fdb986de71f16a670bcdcd479c721962f0755476da820ac7da4cdc2aed77",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51235.jpg"
+    },
+    "gameId": "SLES_512.35"
+  },
+  "disc": {
+    "path": "PS2/SLES_512.35/SLES_512.35_ICO.png",
+    "kind": "disc",
+    "bytes": 10075,
+    "width": 128,
+    "height": 128,
+    "sha256": "0814ef5815b5f5006a2b47034322ca17e1715b06add878c8852ab18fcfe57978",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_512.35_ICO.png"
+    },
+    "gameId": "SLES_512.35"
+  },
+  "background": {
+    "path": "PS2/SLES_512.35/SLES_512.35_BG.png",
+    "kind": "background",
+    "bytes": 189724,
+    "width": 640,
+    "height": 480,
+    "sha256": "e8b890e5c874575d2e45a03f6465f6fcb0351e6d3a8ed3691c9e15f970d1da82",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_512.35/SLES_512.35_BG_00.png"
+    },
+    "gameId": "SLES_512.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_512.35/SLES_512.35_BG.png",
+      "kind": "background",
+      "bytes": 189724,
+      "width": 640,
+      "height": 480,
+      "sha256": "e8b890e5c874575d2e45a03f6465f6fcb0351e6d3a8ed3691c9e15f970d1da82",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.35/SLES_512.35_BG_00.png"
+      },
+      "gameId": "SLES_512.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Raging Blades"
+}

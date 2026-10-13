@@ -1,0 +1,25 @@
+{
+  "id": "SLES_507.28",
+  "cover": {
+    "path": "PS2/SLES_507.28/SLES_507.28_COV.png",
+    "kind": "cover",
+    "bytes": 97032,
+    "width": 192,
+    "height": 272,
+    "sha256": "10d4809523e5ed54c6f8575fe5ed0eb1ef1a3a77134b4c9f879786d67e55fd9d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50728.jpg"
+    },
+    "gameId": "SLES_507.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tiger Woods PGA Tour 2002"
+}

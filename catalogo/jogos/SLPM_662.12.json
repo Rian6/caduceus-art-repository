@@ -1,0 +1,91 @@
+{
+  "id": "SLPM_662.12",
+  "cover": {
+    "path": "PS2/SLPM_662.12/SLPM_662.12_COV.png",
+    "kind": "cover",
+    "bytes": 95357,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0970f4b377438b0e5a20d2073bd3c3105f22bf3da102507260cdd73587ec0a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66212.jpg"
+    },
+    "gameId": "SLPM_662.12"
+  },
+  "disc": {
+    "path": "PS2/SLPM_662.12/SLPM_662.12_ICO.png",
+    "kind": "disc",
+    "bytes": 10765,
+    "width": 128,
+    "height": 128,
+    "sha256": "bba41544359972870304ed5b6f088ecb2ab37a1a282795e9a8286a7b5bad60c2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_662.12_ICO.png"
+    },
+    "gameId": "SLPM_662.12"
+  },
+  "background": {
+    "path": "PS2/SLPM_662.12/SLPM_662.12_BG.png",
+    "kind": "background",
+    "bytes": 189468,
+    "width": 640,
+    "height": 480,
+    "sha256": "7d67020df868f2a6bc0a6a1d5eb79d61901e3dfc0ca9d16f55601378bb34a629",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_662.12/SLPM_662.12_BG_00.png"
+    },
+    "gameId": "SLPM_662.12"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_662.12/SLPM_662.12_BG.png",
+      "kind": "background",
+      "bytes": 189468,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d67020df868f2a6bc0a6a1d5eb79d61901e3dfc0ca9d16f55601378bb34a629",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.12/SLPM_662.12_BG_00.png"
+      },
+      "gameId": "SLPM_662.12"
+    },
+    {
+      "path": "PS2/SLPM_662.12/SLPM_662.12_BG_01.png",
+      "kind": "background",
+      "bytes": 186978,
+      "width": 640,
+      "height": 480,
+      "sha256": "5c31769a1d8621876855729238fb2cff63ea33c2070ef8f9a2261059cb8081a3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.12/SLPM_662.12_BG_01.png"
+      },
+      "gameId": "SLPM_662.12"
+    },
+    {
+      "path": "PS2/SLPM_662.12/SLPM_662.12_BG_02.png",
+      "kind": "background",
+      "bytes": 171777,
+      "width": 640,
+      "height": 480,
+      "sha256": "257250fcc3c134f3c5f97a1451809f360aa58a7c88888f182b5f3df90e1199f0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.12/SLPM_662.12_BG_02.png"
+      },
+      "gameId": "SLPM_662.12"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SEGA RALLY 2006"
+}

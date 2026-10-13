@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.28",
+  "cover": {
+    "path": "PS2/SLPS_258.28/SLPS_258.28_COV.png",
+    "kind": "cover",
+    "bytes": 100342,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d7e1b2b3134d0810234fd005f7b22155a699256df5cb44d97b05cec87d37883",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25828.jpg"
+    },
+    "gameId": "SLPS_258.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 13 - Hissatsu Shigotojin III"
+}

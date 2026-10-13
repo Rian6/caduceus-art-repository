@@ -1,0 +1,25 @@
+{
+  "id": "SLES_500.39",
+  "cover": {
+    "path": "PS2/SLES_500.39/SLES_500.39_COV.png",
+    "kind": "cover",
+    "bytes": 90022,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff6bc6038f49626b7555e044eb4c0a847e42452c0d5a5640269cb9195acc1df7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50039.jpg"
+    },
+    "gameId": "SLES_500.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "INTERNATIONAL SUPERSTAR SOCCER"
+}

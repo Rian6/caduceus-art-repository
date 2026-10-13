@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_250.34",
+  "cover": {
+    "path": "PS2/SLPS_250.34/SLPS_250.34_COV.png",
+    "kind": "cover",
+    "bytes": 86376,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2a94711d96d292740385dcdb45d6e23be4e13cfd09be456a0378e66e23efb54",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25034.jpg"
+    },
+    "gameId": "SLPS_250.34"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_250.34/SLPS_250.34_BG.png",
+    "kind": "background",
+    "bytes": 108297,
+    "width": 640,
+    "height": 480,
+    "sha256": "0483afcd3edcff5064052e035860b6e58c16c287f6705a6538f54d6bb6d95f06",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.34/SLPS_250.34_BG_00.png"
+    },
+    "gameId": "SLPS_250.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_250.34/SLPS_250.34_BG.png",
+      "kind": "background",
+      "bytes": 108297,
+      "width": 640,
+      "height": 480,
+      "sha256": "0483afcd3edcff5064052e035860b6e58c16c287f6705a6538f54d6bb6d95f06",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.34/SLPS_250.34_BG_00.png"
+      },
+      "gameId": "SLPS_250.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FLOWER, SUN AND RAIN (HANA TO TAIYOU TO AME TO)"
+}

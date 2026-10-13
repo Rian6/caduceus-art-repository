@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.83",
+  "cover": {
+    "path": "PS2/SLPM_660.83/SLPM_660.83_COV.png",
+    "kind": "cover",
+    "bytes": 102118,
+    "width": 192,
+    "height": 272,
+    "sha256": "e692a25d0736e871b5f513b4a0b1a87858a09c305c0ec83b92110096c445f28c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66083.jpg"
+    },
+    "gameId": "SLPM_660.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LAMUNE - GARASU-BIN NI UTURU UMI [LIMITED EDITION]"
+}

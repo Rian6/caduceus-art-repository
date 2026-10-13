@@ -1,0 +1,64 @@
+{
+  "id": "SCPS_191.03",
+  "cover": {
+    "path": "PS2/SCPS_191.03/SCPS_191.03_COV.png",
+    "kind": "cover",
+    "bytes": 70711,
+    "width": 192,
+    "height": 272,
+    "sha256": "c7b4bd01441c141367813a456730ac5a9a440033979924968363e1c900c14f26",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19103.jpg"
+    },
+    "gameId": "SCPS_191.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_191.03/SCPS_191.03_BG.png",
+    "kind": "background",
+    "bytes": 201253,
+    "width": 640,
+    "height": 480,
+    "sha256": "523970005f24cc589996ff31e273cf49df2699f798acde33dee064fc22e667e0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_191.03/SCPS_191.03_BG_00.png"
+    },
+    "gameId": "SCPS_191.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_191.03/SCPS_191.03_BG.png",
+      "kind": "background",
+      "bytes": 201253,
+      "width": 640,
+      "height": 480,
+      "sha256": "523970005f24cc589996ff31e273cf49df2699f798acde33dee064fc22e667e0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_191.03/SCPS_191.03_BG_00.png"
+      },
+      "gameId": "SCPS_191.03"
+    },
+    {
+      "path": "PS2/SCPS_191.03/SCPS_191.03_BG_01.png",
+      "kind": "background",
+      "bytes": 182749,
+      "width": 640,
+      "height": 480,
+      "sha256": "df34fbe6d26ddb1af5a203ec70b2b515de39d027135f0f6137a6d613ac0b7758",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_191.03/SCPS_191.03_BG_01.png"
+      },
+      "gameId": "SCPS_191.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ICO"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_675.25",
+  "cover": {
+    "path": "PS2/SLPM_675.25/SLPM_675.25_COV.png",
+    "kind": "cover",
+    "bytes": 103250,
+    "width": 192,
+    "height": 272,
+    "sha256": "faf88ee48961e801d6b913a5ccce449a65d0f6e08e96f36e5ea0d7cd7f08120b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-67525.jpg"
+    },
+    "gameId": "SLPM_675.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Medal of Honor: Frontline"
+}

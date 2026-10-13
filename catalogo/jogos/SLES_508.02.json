@@ -1,0 +1,25 @@
+{
+  "id": "SLES_508.02",
+  "cover": {
+    "path": "PS2/SLES_508.02/SLES_508.02_COV.png",
+    "kind": "cover",
+    "bytes": 81462,
+    "width": 192,
+    "height": 272,
+    "sha256": "116e0594dfc47f3b7c3aa042b40b9b9c0b0fe3cf0207e1b0d168be5cc7289047",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50802.jpg"
+    },
+    "gameId": "SLES_508.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Knockout Kings 2002"
+}

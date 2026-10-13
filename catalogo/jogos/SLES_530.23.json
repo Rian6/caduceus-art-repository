@@ -1,0 +1,39 @@
+{
+  "id": "SLES_530.23",
+  "cover": {
+    "path": "PS2/SLES_530.23/SLES_530.23_COV.png",
+    "kind": "cover",
+    "bytes": 87241,
+    "width": 192,
+    "height": 272,
+    "sha256": "090dbb9311eb15586868422e05621db60883ec4b626572117ffd4d63bc5cbafa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53023.jpg"
+    },
+    "gameId": "SLES_530.23"
+  },
+  "disc": {
+    "path": "PS2/SLES_530.23/SLES_530.23_ICO.png",
+    "kind": "disc",
+    "bytes": 10925,
+    "width": 128,
+    "height": 128,
+    "sha256": "da2190ddd1214dfb01df3785a9417352a835306fedf5792b2c549dae94060ebd",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_530.23_ICO.png"
+    },
+    "gameId": "SLES_530.23"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RTL Skijumping 2005"
+}

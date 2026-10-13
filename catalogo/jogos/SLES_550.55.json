@@ -1,0 +1,39 @@
+{
+  "id": "SLES_550.55",
+  "cover": {
+    "path": "PS2/SLES_550.55/SLES_550.55_COV.png",
+    "kind": "cover",
+    "bytes": 101337,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff8fe21984d461512bfe5f49a455e34977f7f075f17c5c53fff9103714607adf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55055.jpg"
+    },
+    "gameId": "SLES_550.55"
+  },
+  "disc": {
+    "path": "PS2/SLES_550.55/SLES_550.55_ICO.png",
+    "kind": "disc",
+    "bytes": 11621,
+    "width": 128,
+    "height": 128,
+    "sha256": "03ea2b6a9d5d9bee21cd54a794da2298ba72c91133a5d330d1bfff0a4711be26",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_550.55_ICO.png"
+    },
+    "gameId": "SLES_550.55"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Stealth Force 2"
+}

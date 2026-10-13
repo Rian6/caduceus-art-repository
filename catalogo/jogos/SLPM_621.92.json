@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.92",
+  "cover": {
+    "path": "PS2/SLPM_621.92/SLPM_621.92_COV.png",
+    "kind": "cover",
+    "bytes": 91497,
+    "width": 192,
+    "height": 272,
+    "sha256": "65b1f364ea8b53e750be9837bc51fe886ee022c6774b40d82c191bce93f24e20",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62192.jpg"
+    },
+    "gameId": "SLPM_621.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JIKKYOU POWERFUL PRO YAKYUU 9"
+}

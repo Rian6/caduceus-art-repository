@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.18",
+  "cover": {
+    "path": "PS2/SLPM_742.18/SLPM_742.18_COV.png",
+    "kind": "cover",
+    "bytes": 89147,
+    "width": 192,
+    "height": 272,
+    "sha256": "abb3a476f7856671f599f3432462777f3415472bda3642fee0f74b06686dc77d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74218.jpg"
+    },
+    "gameId": "SLPM_742.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHINING TEARS [PLAYSTATION 2 THE BEST]"
+}

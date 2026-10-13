@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_560.10",
+  "cover": {
+    "path": "PS2/SCPS_560.10/SCPS_560.10_COV.png",
+    "kind": "cover",
+    "bytes": 96913,
+    "width": 192,
+    "height": 272,
+    "sha256": "cd5b252de97a13ea8e50e064d2878b6ccebe9412784bb3e99d17cbad0e3e691e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-56010.jpg"
+    },
+    "gameId": "SCPS_560.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DOWNHILL RACER"
+}

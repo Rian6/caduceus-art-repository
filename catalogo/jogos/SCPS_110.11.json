@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.11",
+  "cover": {
+    "path": "PS2/SCPS_110.11/SCPS_110.11_COV.png",
+    "kind": "cover",
+    "bytes": 98750,
+    "width": 192,
+    "height": 272,
+    "sha256": "e10ab35b7c64aeb41e1f1e349589a1fdf7b3df5a286d5b716add1e934dc93825",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11011.jpg"
+    },
+    "gameId": "SCPS_110.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Check-i-Tv (Kyoukara Check! Pack)"
+}

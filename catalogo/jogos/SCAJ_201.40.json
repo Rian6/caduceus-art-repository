@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.40",
+  "cover": {
+    "path": "PS2/SCAJ_201.40/SCAJ_201.40_COV.png",
+    "kind": "cover",
+    "bytes": 109645,
+    "width": 192,
+    "height": 272,
+    "sha256": "55cfe914a04dcf1100265860dc1b54048c4187ee9655e8dd528b70ad0d6e575f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20140.jpg"
+    },
+    "gameId": "SCAJ_201.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BLEACH - ERABARESHI TAMASHII"
+}

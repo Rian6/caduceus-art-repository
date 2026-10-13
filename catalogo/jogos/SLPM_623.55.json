@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.55",
+  "cover": {
+    "path": "PS2/SLPM_623.55/SLPM_623.55_COV.png",
+    "kind": "cover",
+    "bytes": 105660,
+    "width": 192,
+    "height": 272,
+    "sha256": "a0ea85ec615688f5a4cec687f2495e90c538d698d3ed3ee479446c19335a378f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62355.jpg"
+    },
+    "gameId": "SLPM_623.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Choro Q HG 2 (The Best Takara)"
+}

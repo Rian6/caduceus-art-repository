@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.88",
+  "cover": {
+    "path": "PS2/SLPM_662.88/SLPM_662.88_COV.png",
+    "kind": "cover",
+    "bytes": 95374,
+    "width": 192,
+    "height": 272,
+    "sha256": "0b22e91b420bd28f946a938b6b388726fc080de7294a594b72dbb46ace348070",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66288.jpg"
+    },
+    "gameId": "SLPM_662.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FULL HOUSE KISS 2"
+}

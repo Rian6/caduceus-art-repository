@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.82",
+  "cover": {
+    "path": "PS2/SLPM_663.82/SLPM_663.82_COV.png",
+    "kind": "cover",
+    "bytes": 89774,
+    "width": 192,
+    "height": 272,
+    "sha256": "621712d682028bc828d706185a01c1d543bb791065a4ac4e765fd9764eb04edf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66382.jpg"
+    },
+    "gameId": "SLPM_663.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENSHOU GAKUEN GENSOUROKU [ASMIK TOKUDA SERIES]"
+}

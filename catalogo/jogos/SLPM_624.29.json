@@ -1,0 +1,90 @@
+{
+  "id": "SLPM_624.29",
+  "cover": {
+    "path": "PS2/SLPM_624.29/SLPM_624.29_COV.png",
+    "kind": "cover",
+    "bytes": 91595,
+    "width": 192,
+    "height": 272,
+    "sha256": "cecf55e3b0b5cfdcc0565251cf05bf059262f15578ae0c788e8181ca35caa9e1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62429.jpg"
+    },
+    "gameId": "SLPM_624.29"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.29/SLPM_624.29_BG.png",
+    "kind": "background",
+    "bytes": 172419,
+    "width": 640,
+    "height": 480,
+    "sha256": "ac9521529452d088372e2173c81d5dbf5cb1d5a9f32ad19a3d32a0d0ff1f613d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.29/SLPM_624.29_BG_00.png"
+    },
+    "gameId": "SLPM_624.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.29/SLPM_624.29_BG.png",
+      "kind": "background",
+      "bytes": 172419,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac9521529452d088372e2173c81d5dbf5cb1d5a9f32ad19a3d32a0d0ff1f613d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.29/SLPM_624.29_BG_00.png"
+      },
+      "gameId": "SLPM_624.29"
+    },
+    {
+      "path": "PS2/SLPM_624.29/SLPM_624.29_BG_01.png",
+      "kind": "background",
+      "bytes": 155747,
+      "width": 640,
+      "height": 480,
+      "sha256": "86ad456431f7ec69c5277e8b1125b33a43de056024c0100e573252c075a560bc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.29/SLPM_624.29_BG_01.png"
+      },
+      "gameId": "SLPM_624.29"
+    },
+    {
+      "path": "PS2/SLPM_624.29/SLPM_624.29_BG_02.png",
+      "kind": "background",
+      "bytes": 142521,
+      "width": 640,
+      "height": 480,
+      "sha256": "c74fe6f1791850ffc2e74fe7d2f53f75ccdde2cc2ad03cc4fabd05d19da2c6e1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.29/SLPM_624.29_BG_02.png"
+      },
+      "gameId": "SLPM_624.29"
+    },
+    {
+      "path": "PS2/SLPM_624.29/SLPM_624.29_BG_03.png",
+      "kind": "background",
+      "bytes": 101179,
+      "width": 640,
+      "height": 480,
+      "sha256": "733cdda5eac465c9ab76b9c0682f315d9cf11e22b31901bb9fce059fca67081f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.29/SLPM_624.29_BG_03.png"
+      },
+      "gameId": "SLPM_624.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Ultimate Series Vol.15 - Love * Ping Pong!"
+}

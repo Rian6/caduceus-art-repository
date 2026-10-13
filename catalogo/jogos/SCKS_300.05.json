@@ -1,0 +1,25 @@
+{
+  "id": "SCKS_300.05",
+  "cover": {
+    "path": "PS2/SCKS_300.05/SCKS_300.05_COV.png",
+    "kind": "cover",
+    "bytes": 111657,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e78688ee737f5ff180242803cc49550590ff10d774edcb0ed117523e49f4135",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKS-30005.jpg"
+    },
+    "gameId": "SCKS_300.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROGUE GALAXY"
+}

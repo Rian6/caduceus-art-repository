@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_212.44",
+  "cover": {
+    "path": "PS2/SLUS_212.44/SLUS_212.44_COV.png",
+    "kind": "cover",
+    "bytes": 93998,
+    "width": 192,
+    "height": 272,
+    "sha256": "af685f442aa1e2d128904628f2f52fcf241b48bd70866a8f0757ce60a32eefed",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21244.jpg"
+    },
+    "gameId": "SLUS_212.44"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.44/SLUS_212.44_ICO.png",
+    "kind": "disc",
+    "bytes": 34836,
+    "width": 256,
+    "height": 256,
+    "sha256": "ae63ac712a40319b575912e79e591a91c47625a92a6beba01e3bb672a00b585f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.44_ICO.png"
+    },
+    "gameId": "SLUS_212.44"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.44/SLUS_212.44_BG.png",
+    "kind": "background",
+    "bytes": 205796,
+    "width": 640,
+    "height": 480,
+    "sha256": "adfaf42950ef1f37bcd4032778980a3d09f6e1a68fe801e1f0ac1c1f544790ab",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.44/SLUS_212.44_BG_00.png"
+    },
+    "gameId": "SLUS_212.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.44/SLUS_212.44_BG.png",
+      "kind": "background",
+      "bytes": 205796,
+      "width": 640,
+      "height": 480,
+      "sha256": "adfaf42950ef1f37bcd4032778980a3d09f6e1a68fe801e1f0ac1c1f544790ab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.44/SLUS_212.44_BG_00.png"
+      },
+      "gameId": "SLUS_212.44"
+    },
+    {
+      "path": "PS2/SLUS_212.44/SLUS_212.44_BG_01.png",
+      "kind": "background",
+      "bytes": 237931,
+      "width": 640,
+      "height": 480,
+      "sha256": "02d5387fbedaf29244cf589a71b34c21f4d7b121e0780b447dc145fa5b1659a9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.44/SLUS_212.44_BG_01.png"
+      },
+      "gameId": "SLUS_212.44"
+    },
+    {
+      "path": "PS2/SLUS_212.44/SLUS_212.44_BG_02.png",
+      "kind": "background",
+      "bytes": 186669,
+      "width": 640,
+      "height": 480,
+      "sha256": "a76c44b2479c6c07c463e2730c52e067b408341ee4fb1cd44bfd5a0184db3858",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.44/SLUS_212.44_BG_02.png"
+      },
+      "gameId": "SLUS_212.44"
+    },
+    {
+      "path": "PS2/SLUS_212.44/SLUS_212.44_BG_03.png",
+      "kind": "background",
+      "bytes": 191325,
+      "width": 640,
+      "height": 480,
+      "sha256": "3bf4761048d197abf5753c2742691e62a62d7fce841b2a38ab02103e780d60c1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.44/SLUS_212.44_BG_03.png"
+      },
+      "gameId": "SLUS_212.44"
+    },
+    {
+      "path": "PS2/SLUS_212.44/SLUS_212.44_BG_04.png",
+      "kind": "background",
+      "bytes": 213971,
+      "width": 640,
+      "height": 480,
+      "sha256": "6f19e1ab972ad087ead7d932cb0d55d6363ab94a4b2e4145924ff21f2270129e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.44/SLUS_212.44_BG_04.png"
+      },
+      "gameId": "SLUS_212.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fatal Frame III: The Tormented"
+}

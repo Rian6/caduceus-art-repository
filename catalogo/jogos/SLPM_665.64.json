@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.64",
+  "cover": {
+    "path": "PS2/SLPM_665.64/SLPM_665.64_COV.png",
+    "kind": "cover",
+    "bytes": 95282,
+    "width": 192,
+    "height": 272,
+    "sha256": "4e527350373198556b37fa724818558069ca3988d3dcfdcaea68e56034654a49",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66564.jpg"
+    },
+    "gameId": "SLPM_665.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "REC - DokiDoki Seiyuu Paradise (Limited Edition)"
+}

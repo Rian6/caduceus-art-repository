@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.10",
+  "cover": {
+    "path": "PS2/SCPS_110.10/SCPS_110.10_COV.png",
+    "kind": "cover",
+    "bytes": 89604,
+    "width": 192,
+    "height": 272,
+    "sha256": "9bdf898a038606cfe1207f07f20560be2692d108c2bbe27cdea2dac2459dd5ac",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11010.jpg"
+    },
+    "gameId": "SCPS_110.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yoake no Mariko (With Microphone)"
+}

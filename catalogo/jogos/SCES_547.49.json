@@ -1,0 +1,78 @@
+{
+  "id": "SCES_547.49",
+  "cover": {
+    "path": "PS2/SCES_547.49/SCES_547.49_COV.png",
+    "kind": "cover",
+    "bytes": 117705,
+    "width": 192,
+    "height": 272,
+    "sha256": "7206d965096a1364620fd7ba50f2227aab790a0fd8afd84d23d336a1b16d9bee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54749.jpg"
+    },
+    "gameId": "SCES_547.49"
+  },
+  "disc": {
+    "path": "PS2/SCES_547.49/SCES_547.49_ICO.png",
+    "kind": "disc",
+    "bytes": 11748,
+    "width": 128,
+    "height": 128,
+    "sha256": "7f7dfa1c68444d8c0d80c9bf97d607daaa95715c514b8b00d1e652dccb65109b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_547.49_ICO.png"
+    },
+    "gameId": "SCES_547.49"
+  },
+  "background": {
+    "path": "PS2/SCES_547.49/SCES_547.49_BG.png",
+    "kind": "background",
+    "bytes": 202358,
+    "width": 640,
+    "height": 480,
+    "sha256": "405096cd81644a68a2cc3a570f7568a504c4559ff900c97145a002ec9e977bee",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_547.49/SCES_547.49_BG_00.png"
+    },
+    "gameId": "SCES_547.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_547.49/SCES_547.49_BG.png",
+      "kind": "background",
+      "bytes": 202358,
+      "width": 640,
+      "height": 480,
+      "sha256": "405096cd81644a68a2cc3a570f7568a504c4559ff900c97145a002ec9e977bee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_547.49/SCES_547.49_BG_00.png"
+      },
+      "gameId": "SCES_547.49"
+    },
+    {
+      "path": "PS2/SCES_547.49/SCES_547.49_BG_01.png",
+      "kind": "background",
+      "bytes": 196603,
+      "width": 640,
+      "height": 480,
+      "sha256": "0a637db941158ebf44063e2d3e109fa10842695ce513d9b960b700682b324a96",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_547.49/SCES_547.49_BG_01.png"
+      },
+      "gameId": "SCES_547.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Junior – Dino Den"
+}

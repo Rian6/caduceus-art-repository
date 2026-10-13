@@ -1,0 +1,90 @@
+{
+  "id": "SLES_543.60",
+  "cover": {
+    "path": "PS2/SLES_543.60/SLES_543.60_COV.png",
+    "kind": "cover",
+    "bytes": 94377,
+    "width": 192,
+    "height": 272,
+    "sha256": "efa1ebfe7b4e9649c4ca98ab1f1d12fc48113b9831b1c58aa26e36383ae95401",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54360.jpg"
+    },
+    "gameId": "SLES_543.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.60/SLES_543.60_BG.png",
+    "kind": "background",
+    "bytes": 144607,
+    "width": 640,
+    "height": 480,
+    "sha256": "4959686ac8f76cd754abfb1dbfaccf100e51543c71db6018ec0b3d9f280acdbf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.60/SLES_543.60_BG_00.png"
+    },
+    "gameId": "SLES_543.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.60/SLES_543.60_BG.png",
+      "kind": "background",
+      "bytes": 144607,
+      "width": 640,
+      "height": 480,
+      "sha256": "4959686ac8f76cd754abfb1dbfaccf100e51543c71db6018ec0b3d9f280acdbf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.60/SLES_543.60_BG_00.png"
+      },
+      "gameId": "SLES_543.60"
+    },
+    {
+      "path": "PS2/SLES_543.60/SLES_543.60_BG_01.png",
+      "kind": "background",
+      "bytes": 158389,
+      "width": 640,
+      "height": 480,
+      "sha256": "41aa876597e3255f921c9d0ae4d410a2698af82f3b2538fddf5589afc20f8a10",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.60/SLES_543.60_BG_01.png"
+      },
+      "gameId": "SLES_543.60"
+    },
+    {
+      "path": "PS2/SLES_543.60/SLES_543.60_BG_02.png",
+      "kind": "background",
+      "bytes": 60021,
+      "width": 640,
+      "height": 480,
+      "sha256": "6fd527b90c50da5c67e218c3675b6424fcf66abd783886b741dce0649ff86a6e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.60/SLES_543.60_BG_02.png"
+      },
+      "gameId": "SLES_543.60"
+    },
+    {
+      "path": "PS2/SLES_543.60/SLES_543.60_BG_03.png",
+      "kind": "background",
+      "bytes": 153456,
+      "width": 640,
+      "height": 480,
+      "sha256": "87a0209eff7cef4da98504ab433eb02a51ac262c3422d83cf06af0defd62bda4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.60/SLES_543.60_BG_03.png"
+      },
+      "gameId": "SLES_543.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Evolution Soccer 6"
+}

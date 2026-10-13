@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_654.31",
+  "cover": {
+    "path": "PS2/SLPM_654.31/SLPM_654.31_COV.png",
+    "kind": "cover",
+    "bytes": 103837,
+    "width": 192,
+    "height": 272,
+    "sha256": "7dcf8b7ae8ece833a89ae9499738118ad0c24b65fa3361ffad3d74230ea1d488",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65431.jpg"
+    },
+    "gameId": "SLPM_654.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_654.31/SLPM_654.31_BG.png",
+    "kind": "background",
+    "bytes": 122766,
+    "width": 640,
+    "height": 480,
+    "sha256": "ecec09802e4d7ca583a7f5b2c00006ba51da24ba20cb0f5ce833929a6b71dae8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.31/SLPM_654.31_BG_00.png"
+    },
+    "gameId": "SLPM_654.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.31/SLPM_654.31_BG.png",
+      "kind": "background",
+      "bytes": 122766,
+      "width": 640,
+      "height": 480,
+      "sha256": "ecec09802e4d7ca583a7f5b2c00006ba51da24ba20cb0f5ce833929a6b71dae8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.31/SLPM_654.31_BG_00.png"
+      },
+      "gameId": "SLPM_654.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sonic Heroes"
+}

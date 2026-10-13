@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_213.77",
+  "cover": {
+    "path": "PS2/SLUS_213.77/SLUS_213.77_COV.png",
+    "kind": "cover",
+    "bytes": 89010,
+    "width": 192,
+    "height": 272,
+    "sha256": "b007f14c85033e6a1c9da8cebd336096b7cf63a1803259bf8f4d05e1f59f751b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21377.jpg"
+    },
+    "gameId": "SLUS_213.77"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.77/SLUS_213.77_ICO.png",
+    "kind": "disc",
+    "bytes": 34127,
+    "width": 256,
+    "height": 256,
+    "sha256": "cb65dca13ad1ec095201a4243f0eb00ec9e536151841ccaf3c2edd0b2505f994",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.77_ICO.png"
+    },
+    "gameId": "SLUS_213.77"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.77/SLUS_213.77_BG.png",
+    "kind": "background",
+    "bytes": 189595,
+    "width": 640,
+    "height": 480,
+    "sha256": "b84e8de644aa42fa9306e9d44ebee144b2cb623ccbf99c2774db1a7419dbd910",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.77/SLUS_213.77_BG_00.png"
+    },
+    "gameId": "SLUS_213.77"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.77/SLUS_213.77_BG.png",
+      "kind": "background",
+      "bytes": 189595,
+      "width": 640,
+      "height": 480,
+      "sha256": "b84e8de644aa42fa9306e9d44ebee144b2cb623ccbf99c2774db1a7419dbd910",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.77/SLUS_213.77_BG_00.png"
+      },
+      "gameId": "SLUS_213.77"
+    },
+    {
+      "path": "PS2/SLUS_213.77/SLUS_213.77_BG_01.png",
+      "kind": "background",
+      "bytes": 86652,
+      "width": 640,
+      "height": 480,
+      "sha256": "cdbcad22357320f929dd7df3fabb78c9576ffaff7d68b7d8ef8bcd537013e889",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.77/SLUS_213.77_BG_01.png"
+      },
+      "gameId": "SLUS_213.77"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dance Dance Revolution SuperNova"
+}

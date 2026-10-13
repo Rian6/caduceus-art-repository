@@ -1,0 +1,77 @@
+{
+  "id": "SLES_530.05",
+  "cover": {
+    "path": "PS2/SLES_530.05/SLES_530.05_COV.png",
+    "kind": "cover",
+    "bytes": 95112,
+    "width": 192,
+    "height": 272,
+    "sha256": "f4badf79d2ca0169ac4a36498010f7445c1036ef790b34aa5941d9dc6ee54373",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53005.jpg"
+    },
+    "gameId": "SLES_530.05"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_530.05/SLES_530.05_BG.png",
+    "kind": "background",
+    "bytes": 171200,
+    "width": 640,
+    "height": 480,
+    "sha256": "15a3304a23be99757c76721e18c8a6f9f3665b465cf7821012a24602b1576d6f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.05/SLES_530.05_BG_00.png"
+    },
+    "gameId": "SLES_530.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.05/SLES_530.05_BG.png",
+      "kind": "background",
+      "bytes": 171200,
+      "width": 640,
+      "height": 480,
+      "sha256": "15a3304a23be99757c76721e18c8a6f9f3665b465cf7821012a24602b1576d6f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.05/SLES_530.05_BG_00.png"
+      },
+      "gameId": "SLES_530.05"
+    },
+    {
+      "path": "PS2/SLES_530.05/SLES_530.05_BG_01.png",
+      "kind": "background",
+      "bytes": 152315,
+      "width": 640,
+      "height": 480,
+      "sha256": "4a5ba5fd038a2818531ca41ec19347e6db34986d72d1caf2baf7c1a2bce6a261",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.05/SLES_530.05_BG_01.png"
+      },
+      "gameId": "SLES_530.05"
+    },
+    {
+      "path": "PS2/SLES_530.05/SLES_530.05_BG_02.png",
+      "kind": "background",
+      "bytes": 172257,
+      "width": 640,
+      "height": 480,
+      "sha256": "17083a44711d34a403da4d8d0ec05529b0d164b5a636d7b14a0f52e5a9930349",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.05/SLES_530.05_BG_02.png"
+      },
+      "gameId": "SLES_530.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Monster Trux Extreme - Off-Road Edition"
+}

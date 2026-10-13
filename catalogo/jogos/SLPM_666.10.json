@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.10",
+  "cover": {
+    "path": "PS2/SLPM_666.10/SLPM_666.10_COV.png",
+    "kind": "cover",
+    "bytes": 108863,
+    "width": 192,
+    "height": 272,
+    "sha256": "c8869dd28d3400ab8b1bf36ec14b5149f1a71307cce8602367bba20ef134d144",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66610.jpg"
+    },
+    "gameId": "SLPM_666.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENNIS NO OJI-SAMA - DOKIDOKI SURVIVAL - UMIBE NO SECRET"
+}

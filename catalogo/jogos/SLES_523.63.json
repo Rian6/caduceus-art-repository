@@ -1,0 +1,25 @@
+{
+  "id": "SLES_523.63",
+  "cover": {
+    "path": "PS2/SLES_523.63/SLES_523.63_COV.png",
+    "kind": "cover",
+    "bytes": 95943,
+    "width": 192,
+    "height": 272,
+    "sha256": "ab584774ae7961cab79ad117af3377cc7d51caaa741e57c62374408ecba3d250",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52363.jpg"
+    },
+    "gameId": "SLES_523.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bad Boys II"
+}

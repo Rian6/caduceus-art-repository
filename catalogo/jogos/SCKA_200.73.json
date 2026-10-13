@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.73",
+  "cover": {
+    "path": "PS2/SCKA_200.73/SCKA_200.73_COV.png",
+    "kind": "cover",
+    "bytes": 66284,
+    "width": 192,
+    "height": 272,
+    "sha256": "e30c84efc31d7095fcbb1fbfbe2e4e8b182feccfdc2d507c47d41f99092caf51",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20073.jpg"
+    },
+    "gameId": "SCKA_200.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XII"
+}

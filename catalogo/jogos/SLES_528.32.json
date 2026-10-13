@@ -1,0 +1,90 @@
+{
+  "id": "SLES_528.32",
+  "cover": {
+    "path": "PS2/SLES_528.32/SLES_528.32_COV.png",
+    "kind": "cover",
+    "bytes": 109073,
+    "width": 192,
+    "height": 272,
+    "sha256": "9d329d18900a530b8a911ec4e6f72806e856d2b84c5236326730911b1dfcede7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52832.jpg"
+    },
+    "gameId": "SLES_528.32"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.32/SLES_528.32_BG.png",
+    "kind": "background",
+    "bytes": 101167,
+    "width": 640,
+    "height": 480,
+    "sha256": "607b87b2dfbc3f416869236b37cbbee8f7922e2be22948ce8d8599543079c37a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.32/SLES_528.32_BG_00.png"
+    },
+    "gameId": "SLES_528.32"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.32/SLES_528.32_BG.png",
+      "kind": "background",
+      "bytes": 101167,
+      "width": 640,
+      "height": 480,
+      "sha256": "607b87b2dfbc3f416869236b37cbbee8f7922e2be22948ce8d8599543079c37a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.32/SLES_528.32_BG_00.png"
+      },
+      "gameId": "SLES_528.32"
+    },
+    {
+      "path": "PS2/SLES_528.32/SLES_528.32_BG_01.png",
+      "kind": "background",
+      "bytes": 189151,
+      "width": 640,
+      "height": 480,
+      "sha256": "48a5a3a0489df05c55bf1585931f73f2ce2d386939d06a8b0890a1306d1fc3b3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.32/SLES_528.32_BG_01.png"
+      },
+      "gameId": "SLES_528.32"
+    },
+    {
+      "path": "PS2/SLES_528.32/SLES_528.32_BG_02.png",
+      "kind": "background",
+      "bytes": 169734,
+      "width": 640,
+      "height": 480,
+      "sha256": "71c0eb0187f28bb5b196dacc5706a00d66537b32f050e5f28b96a8c4aa4b0942",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.32/SLES_528.32_BG_02.png"
+      },
+      "gameId": "SLES_528.32"
+    },
+    {
+      "path": "PS2/SLES_528.32/SLES_528.32_BG_03.png",
+      "kind": "background",
+      "bytes": 170739,
+      "width": 640,
+      "height": 480,
+      "sha256": "76f59e15151faabe5a12800eec45d6abacefdb4f443a2dd4724631908e9933ef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.32/SLES_528.32_BG_03.png"
+      },
+      "gameId": "SLES_528.32"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEGAMAN X - COMMAND MISSION"
+}

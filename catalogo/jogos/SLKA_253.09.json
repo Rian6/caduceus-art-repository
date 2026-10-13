@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.09",
+  "cover": {
+    "path": "PS2/SLKA_253.09/SLKA_253.09_COV.png",
+    "kind": "cover",
+    "bytes": 86234,
+    "width": 192,
+    "height": 272,
+    "sha256": "58960b370ecec8a9038f24d529e77dedfa430e0e582fe55a6547ab29062653b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25309.jpg"
+    },
+    "gameId": "SLKA_253.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "INDIGO PROPHECY"
+}

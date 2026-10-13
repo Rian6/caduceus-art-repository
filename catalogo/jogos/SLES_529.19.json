@@ -1,0 +1,39 @@
+{
+  "id": "SLES_529.19",
+  "cover": {
+    "path": "PS2/SLES_529.19/SLES_529.19_COV.png",
+    "kind": "cover",
+    "bytes": 112746,
+    "width": 192,
+    "height": 272,
+    "sha256": "de00e23f530b05bd901aaeae845e4ca6e5a9ffa8ea0332ae6d3821f959d6d79c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52919.jpg"
+    },
+    "gameId": "SLES_529.19"
+  },
+  "disc": {
+    "path": "PS2/SLES_529.19/SLES_529.19_ICO.png",
+    "kind": "disc",
+    "bytes": 11552,
+    "width": 128,
+    "height": 128,
+    "sha256": "d6562838692cdd9259380ffd503746a22a886da272b5b38f11036dbda5af53fb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_529.19_ICO.png"
+    },
+    "gameId": "SLES_529.19"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NLR Rugby League 2"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SCES_528.93",
+  "cover": {
+    "path": "PS2/SCES_528.93/SCES_528.93_COV.png",
+    "kind": "cover",
+    "bytes": 89589,
+    "width": 192,
+    "height": 272,
+    "sha256": "ad7d0fa513997a3c900be63fdf6a931abe542fbfad7e0efaf46db6e60452dbbb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52893.jpg"
+    },
+    "gameId": "SCES_528.93"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_528.93/SCES_528.93_BG.png",
+    "kind": "background",
+    "bytes": 176146,
+    "width": 640,
+    "height": 480,
+    "sha256": "125206023bf0cff33a50ebbc640baa337516dbf242f01cfbfb3bef122481c7ac",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_528.93/SCES_528.93_BG_00.png"
+    },
+    "gameId": "SCES_528.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_528.93/SCES_528.93_BG.png",
+      "kind": "background",
+      "bytes": 176146,
+      "width": 640,
+      "height": 480,
+      "sha256": "125206023bf0cff33a50ebbc640baa337516dbf242f01cfbfb3bef122481c7ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_528.93/SCES_528.93_BG_00.png"
+      },
+      "gameId": "SCES_528.93"
+    },
+    {
+      "path": "PS2/SCES_528.93/SCES_528.93_BG_01.png",
+      "kind": "background",
+      "bytes": 167399,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d970278507b28f1e7c57d4c543df397edb9f71d20645d516e23b141e0390a55",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_528.93/SCES_528.93_BG_01.png"
+      },
+      "gameId": "SCES_528.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KILLZONE"
+}

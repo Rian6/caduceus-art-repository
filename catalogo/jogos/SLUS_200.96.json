@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_200.96",
+  "cover": {
+    "path": "PS2/SLUS_200.96/SLUS_200.96_COV.png",
+    "kind": "cover",
+    "bytes": 90036,
+    "width": 192,
+    "height": 272,
+    "sha256": "928e950bbafe8b7f9380da83d6b1234ec19e5ab529afdcc7fd30256efaa5e27e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20096.jpg"
+    },
+    "gameId": "SLUS_200.96"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.96/SLUS_200.96_ICO.png",
+    "kind": "disc",
+    "bytes": 31479,
+    "width": 256,
+    "height": 256,
+    "sha256": "572740eaf312663d675a5a667f5e49a235fdbb1808e0950a1cc840126324fc06",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.96_ICO.png"
+    },
+    "gameId": "SLUS_200.96"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SWING AWAY GOLF"
+}

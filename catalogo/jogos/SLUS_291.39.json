@@ -1,0 +1,51 @@
+{
+  "id": "SLUS_291.39",
+  "cover": {
+    "path": "PS2/SLUS_291.39/SLUS_291.39_COV.png",
+    "kind": "cover",
+    "bytes": 60888,
+    "width": 192,
+    "height": 272,
+    "sha256": "aeef984437af3a767fc7640a30c044c962e9d46d00835d8d4ef382906cbf8172",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_291.39/SLUS_291.39_COV.png"
+    },
+    "gameId": "SLUS_291.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLUS_291.39/SLUS_291.39_BG.png",
+    "kind": "background",
+    "bytes": 232790,
+    "width": 640,
+    "height": 480,
+    "sha256": "c1b54bf87f6bd90edd9ff1cbc3cb4ca103b46ec8f3881f8612af239be6d90b7a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_291.39/SLUS_291.39_BG_00.png"
+    },
+    "gameId": "SLUS_291.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_291.39/SLUS_291.39_BG.png",
+      "kind": "background",
+      "bytes": 232790,
+      "width": 640,
+      "height": 480,
+      "sha256": "c1b54bf87f6bd90edd9ff1cbc3cb4ca103b46ec8f3881f8612af239be6d90b7a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_291.39/SLUS_291.39_BG_00.png"
+      },
+      "gameId": "SLUS_291.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shadow of Rome (DEMO)"
+}

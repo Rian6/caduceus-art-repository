@@ -1,0 +1,117 @@
+{
+  "id": "SLPM_663.74",
+  "cover": {
+    "path": "PS2/SLPM_663.74/SLPM_663.74_COV.png",
+    "kind": "cover",
+    "bytes": 85048,
+    "width": 192,
+    "height": 272,
+    "sha256": "bbd2437950bc5b34ff969fa235cb546bc94f2793655df542fccf216867421a66",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66374.jpg"
+    },
+    "gameId": "SLPM_663.74"
+  },
+  "disc": {
+    "path": "PS2/SLPM_663.74/SLPM_663.74_ICO.png",
+    "kind": "disc",
+    "bytes": 9752,
+    "width": 128,
+    "height": 128,
+    "sha256": "dd8274165cc55a754f79452f646618736c08fcc3a02266acf4058d83c5fefe31",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_663.74_ICO.png"
+    },
+    "gameId": "SLPM_663.74"
+  },
+  "background": {
+    "path": "PS2/SLPM_663.74/SLPM_663.74_BG.png",
+    "kind": "background",
+    "bytes": 177534,
+    "width": 640,
+    "height": 480,
+    "sha256": "6c9f592f36d0e5fb0f442ea9980210296f298f106203d960e3b1ecb4b227f48f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_663.74/SLPM_663.74_BG_00.png"
+    },
+    "gameId": "SLPM_663.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_663.74/SLPM_663.74_BG.png",
+      "kind": "background",
+      "bytes": 177534,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c9f592f36d0e5fb0f442ea9980210296f298f106203d960e3b1ecb4b227f48f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_663.74/SLPM_663.74_BG_00.png"
+      },
+      "gameId": "SLPM_663.74"
+    },
+    {
+      "path": "PS2/SLPM_663.74/SLPM_663.74_BG_01.png",
+      "kind": "background",
+      "bytes": 195993,
+      "width": 640,
+      "height": 480,
+      "sha256": "81f4b5d0403edbfe217450068c348951bd913e1457a2fb25b27572a847e36e84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_663.74/SLPM_663.74_BG_01.png"
+      },
+      "gameId": "SLPM_663.74"
+    },
+    {
+      "path": "PS2/SLPM_663.74/SLPM_663.74_BG_02.png",
+      "kind": "background",
+      "bytes": 207498,
+      "width": 640,
+      "height": 480,
+      "sha256": "1629811933137a61d9b8e4a0393e188ba0d161706512337410edde8cc856dd49",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_663.74/SLPM_663.74_BG_02.png"
+      },
+      "gameId": "SLPM_663.74"
+    },
+    {
+      "path": "PS2/SLPM_663.74/SLPM_663.74_BG_03.png",
+      "kind": "background",
+      "bytes": 154867,
+      "width": 640,
+      "height": 480,
+      "sha256": "43b48e44ed8348be6e23d1c17215cc758115b08b9fc2149250fc168a6b8535b2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_663.74/SLPM_663.74_BG_03.png"
+      },
+      "gameId": "SLPM_663.74"
+    },
+    {
+      "path": "PS2/SLPM_663.74/SLPM_663.74_BG_04.png",
+      "kind": "background",
+      "bytes": 198195,
+      "width": 640,
+      "height": 480,
+      "sha256": "e293d6f4ee1ec286b9123ce8a5196de59490f6dfa113b28bac4f806580b33939",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_663.74/SLPM_663.74_BG_04.png"
+      },
+      "gameId": "SLPM_663.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 10"
+}

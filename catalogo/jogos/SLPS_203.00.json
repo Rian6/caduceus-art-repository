@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.00",
+  "cover": {
+    "path": "PS2/SLPS_203.00/SLPS_203.00_COV.png",
+    "kind": "cover",
+    "bytes": 104446,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc8824661dd82ad55123ebdf7cef2efd318f3346873d7cacbd3346af44c7eb79",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20300.jpg"
+    },
+    "gameId": "SLPS_203.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam Seed"
+}

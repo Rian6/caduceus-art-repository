@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_205.86",
+  "cover": {
+    "path": "PS2/SLUS_205.86/SLUS_205.86_COV.png",
+    "kind": "cover",
+    "bytes": 95386,
+    "width": 192,
+    "height": 272,
+    "sha256": "4a59a17b1c1176b9469bfe595cfcc56ab8a8cc7fce1e0adefc63781b3413090e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20586.jpg"
+    },
+    "gameId": "SLUS_205.86"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.86/SLUS_205.86_ICO.png",
+    "kind": "disc",
+    "bytes": 30893,
+    "width": 256,
+    "height": 256,
+    "sha256": "28af048fd4b11e4d483fdfdabb9493043922623d7fd52906e5eb807e49c7ad25",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.86_ICO.png"
+    },
+    "gameId": "SLUS_205.86"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.86/SLUS_205.86_BG.png",
+    "kind": "background",
+    "bytes": 198129,
+    "width": 640,
+    "height": 480,
+    "sha256": "15cb36b7e5080cbf31ae93c47279c74ed18732e480dee2d66e8b81bc29e66c47",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.86/SLUS_205.86_BG_00.png"
+    },
+    "gameId": "SLUS_205.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.86/SLUS_205.86_BG.png",
+      "kind": "background",
+      "bytes": 198129,
+      "width": 640,
+      "height": 480,
+      "sha256": "15cb36b7e5080cbf31ae93c47279c74ed18732e480dee2d66e8b81bc29e66c47",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.86/SLUS_205.86_BG_00.png"
+      },
+      "gameId": "SLUS_205.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "IHRA Drag Racing 2"
+}

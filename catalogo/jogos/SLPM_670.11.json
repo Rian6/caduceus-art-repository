@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_670.11",
+  "cover": {
+    "path": "PS2/SLPM_670.11/SLPM_670.11_COV.png",
+    "kind": "cover",
+    "bytes": 94199,
+    "width": 192,
+    "height": 272,
+    "sha256": "9cbc3ba2bbe478bcc85a4e0c4c745029ebccfb41d546fa8c9361cc4cf45e8d20",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-67011.jpg"
+    },
+    "gameId": "SLPM_670.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GOD OF WAR [CAPKORE]"
+}

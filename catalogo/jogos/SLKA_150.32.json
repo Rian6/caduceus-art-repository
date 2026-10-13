@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_150.32",
+  "cover": {
+    "path": "PS2/SLKA_150.32/SLKA_150.32_COV.png",
+    "kind": "cover",
+    "bytes": 100093,
+    "width": 192,
+    "height": 272,
+    "sha256": "980cd97281e4937a44683b3e86e8deac5f6785370953ce69c76309abd984f4a9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-15032.jpg"
+    },
+    "gameId": "SLKA_150.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRADIUS V"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.82",
+  "cover": {
+    "path": "PS2/SLPM_662.82/SLPM_662.82_COV.png",
+    "kind": "cover",
+    "bytes": 67790,
+    "width": 192,
+    "height": 272,
+    "sha256": "cb63f86d50f34c81703ad4fd12b4c0847c4c4815f544337f2c428e42287c2820",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66282.jpg"
+    },
+    "gameId": "SLPM_662.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEMORIES OFF - AFTER RAIN VOL.2 - SOUEN [SUPERLITE 2000 VOL.38]"
+}

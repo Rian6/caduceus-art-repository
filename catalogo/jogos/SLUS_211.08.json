@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_211.08",
+  "cover": {
+    "path": "PS2/SLUS_211.08/SLUS_211.08_COV.png",
+    "kind": "cover",
+    "bytes": 64391,
+    "width": 192,
+    "height": 272,
+    "sha256": "6d7e271e6dc66fce5a0efb7c14837c5355e185499c7c95401f3ce89c3a42163e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21108.jpg"
+    },
+    "gameId": "SLUS_211.08"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.08/SLUS_211.08_ICO.png",
+    "kind": "disc",
+    "bytes": 30049,
+    "width": 256,
+    "height": 256,
+    "sha256": "65c5520390de3f155e09f929c403bf987a5f042f0c06e47c0bc12959bea2b561",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.08_ICO.png"
+    },
+    "gameId": "SLUS_211.08"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.08/SLUS_211.08_BG.png",
+    "kind": "background",
+    "bytes": 146037,
+    "width": 640,
+    "height": 480,
+    "sha256": "88c5afd391ab3fc7865549d3653f1203e06b1616f5dc3f6ec1b181aca38e289c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.08/SLUS_211.08_BG_00.png"
+    },
+    "gameId": "SLUS_211.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.08/SLUS_211.08_BG.png",
+      "kind": "background",
+      "bytes": 146037,
+      "width": 640,
+      "height": 480,
+      "sha256": "88c5afd391ab3fc7865549d3653f1203e06b1616f5dc3f6ec1b181aca38e289c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.08/SLUS_211.08_BG_00.png"
+      },
+      "gameId": "SLUS_211.08"
+    },
+    {
+      "path": "PS2/SLUS_211.08/SLUS_211.08_BG_01.png",
+      "kind": "background",
+      "bytes": 103468,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9b04fcc630c703320c0a74392acff28aa7dc4c2ea0672f0ef0eefc994160c04",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.08/SLUS_211.08_BG_01.png"
+      },
+      "gameId": "SLUS_211.08"
+    },
+    {
+      "path": "PS2/SLUS_211.08/SLUS_211.08_BG_02.png",
+      "kind": "background",
+      "bytes": 181173,
+      "width": 640,
+      "height": 480,
+      "sha256": "a7aaa6ce802e0da844120564a19922c0db05c4a5e1851a02f84bdce578ef6157",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.08/SLUS_211.08_BG_02.png"
+      },
+      "gameId": "SLUS_211.08"
+    },
+    {
+      "path": "PS2/SLUS_211.08/SLUS_211.08_BG_03.png",
+      "kind": "background",
+      "bytes": 213827,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f0b86b5e5b97ddcf8f49ddbb6f4d30db7f1d0583deb300777cf4355cf047a01",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.08/SLUS_211.08_BG_03.png"
+      },
+      "gameId": "SLUS_211.08"
+    },
+    {
+      "path": "PS2/SLUS_211.08/SLUS_211.08_BG_04.png",
+      "kind": "background",
+      "bytes": 186786,
+      "width": 640,
+      "height": 480,
+      "sha256": "5cd222454ee97e859b76185050a44a4e5c10015b4fefe4ba4e656e3280abc0dc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.08/SLUS_211.08_BG_04.png"
+      },
+      "gameId": "SLUS_211.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hitman: Blood Money"
+}

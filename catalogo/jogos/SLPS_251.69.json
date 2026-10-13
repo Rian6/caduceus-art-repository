@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.69",
+  "cover": {
+    "path": "PS2/SLPS_251.69/SLPS_251.69_COV.png",
+    "kind": "cover",
+    "bytes": 86517,
+    "width": 192,
+    "height": 272,
+    "sha256": "febb7ab952a6a5baa8fb65ed5c86842b80693945b39586f68b3f32c8baf3d3ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25169.jpg"
+    },
+    "gameId": "SLPS_251.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core 3 - Silent Line"
+}

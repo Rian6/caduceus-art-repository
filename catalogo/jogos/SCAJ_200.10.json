@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.10",
+  "cover": {
+    "path": "PS2/SCAJ_200.10/SCAJ_200.10_COV.png",
+    "kind": "cover",
+    "bytes": 110248,
+    "width": 192,
+    "height": 272,
+    "sha256": "96e32379748785a270a7f2ac9b56e4286c820266e00a2711ef928c8531254935",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20010.jpg"
+    },
+    "gameId": "SCAJ_200.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BAKUSOU DEKOTORA DENSETSU - OTOKO HANAMICHI YUME ROMAN"
+}

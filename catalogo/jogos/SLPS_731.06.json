@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_731.06",
+  "cover": {
+    "path": "PS2/SLPS_731.06/SLPS_731.06_COV.png",
+    "kind": "cover",
+    "bytes": 76157,
+    "width": 192,
+    "height": 272,
+    "sha256": "7b24fb27324f1946f4b8ce76da67d8adb65cd8a065c131597c60fa52d09532c5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73106.jpg"
+    },
+    "gameId": "SLPS_731.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pilot ni Narou! 2 (PlayStation 2 the Best Reprint)"
+}

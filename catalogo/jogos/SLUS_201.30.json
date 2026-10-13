@@ -1,0 +1,130 @@
+{
+  "id": "SLUS_201.30",
+  "cover": {
+    "path": "PS2/SLUS_201.30/SLUS_201.30_COV.png",
+    "kind": "cover",
+    "bytes": 87239,
+    "width": 192,
+    "height": 272,
+    "sha256": "766657208cb0d90cdfe2204d53028d1ea6b5ec039861b365f9cef7b5374afa99",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20130.jpg"
+    },
+    "gameId": "SLUS_201.30"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.30/SLUS_201.30_ICO.png",
+    "kind": "disc",
+    "bytes": 33160,
+    "width": 256,
+    "height": 256,
+    "sha256": "e1f4ef45b85b4370179a9d38722d8ee920b24c37fc01021a9465713e41938d9b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.30_ICO.png"
+    },
+    "gameId": "SLUS_201.30"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.30/SLUS_201.30_BG.png",
+    "kind": "background",
+    "bytes": 189630,
+    "width": 640,
+    "height": 480,
+    "sha256": "92608e6890dc7ae757fe7c21ab57d2b99d291ffebcb2bb4c0b050a91f3120a7a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.30/SLUS_201.30_BG_00.png"
+    },
+    "gameId": "SLUS_201.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.30/SLUS_201.30_BG.png",
+      "kind": "background",
+      "bytes": 189630,
+      "width": 640,
+      "height": 480,
+      "sha256": "92608e6890dc7ae757fe7c21ab57d2b99d291ffebcb2bb4c0b050a91f3120a7a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.30/SLUS_201.30_BG_00.png"
+      },
+      "gameId": "SLUS_201.30"
+    },
+    {
+      "path": "PS2/SLUS_201.30/SLUS_201.30_BG_01.png",
+      "kind": "background",
+      "bytes": 186666,
+      "width": 640,
+      "height": 480,
+      "sha256": "18e6c01e09dc0fe233b3553fd76a9bd1878ad1dfa8c95887551fc223344a4956",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.30/SLUS_201.30_BG_01.png"
+      },
+      "gameId": "SLUS_201.30"
+    },
+    {
+      "path": "PS2/SLUS_201.30/SLUS_201.30_BG_02.png",
+      "kind": "background",
+      "bytes": 193792,
+      "width": 640,
+      "height": 480,
+      "sha256": "03509f4ec88f58e5c4b533027b6dbd2af6fe02466cbc97d4370a85ea64dedcda",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.30/SLUS_201.30_BG_02.png"
+      },
+      "gameId": "SLUS_201.30"
+    },
+    {
+      "path": "PS2/SLUS_201.30/SLUS_201.30_BG_03.png",
+      "kind": "background",
+      "bytes": 107148,
+      "width": 640,
+      "height": 480,
+      "sha256": "539ab0ab843d646314e954775f9a9db16a647b2e31ba25befe2f7d6faa5e31b7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.30/SLUS_201.30_BG_03.png"
+      },
+      "gameId": "SLUS_201.30"
+    },
+    {
+      "path": "PS2/SLUS_201.30/SLUS_201.30_BG_04.png",
+      "kind": "background",
+      "bytes": 195524,
+      "width": 640,
+      "height": 480,
+      "sha256": "83283f8f893acfea87f949052cdb775cf1f92be5233c57e509451f821126c2dd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.30/SLUS_201.30_BG_04.png"
+      },
+      "gameId": "SLUS_201.30"
+    },
+    {
+      "path": "PS2/SLUS_201.30/SLUS_201.30_BG_05.png",
+      "kind": "background",
+      "bytes": 141075,
+      "width": 640,
+      "height": 480,
+      "sha256": "b6408f0c0d476c445ea67afb6ca0c230918a8aa075736fe98b0a898f777b7f8a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.30/SLUS_201.30_BG_05.png"
+      },
+      "gameId": "SLUS_201.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STREET FIGHTER EX3"
+}

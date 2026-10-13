@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_205.59",
+  "cover": {
+    "path": "PS2/SLUS_205.59/SLUS_205.59_COV.png",
+    "kind": "cover",
+    "bytes": 90643,
+    "width": 192,
+    "height": 272,
+    "sha256": "e80e14d008d3040d81fbd4c597358f478327ef70d7cf154d7b39dc31041cfd49",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20559.jpg"
+    },
+    "gameId": "SLUS_205.59"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.59/SLUS_205.59_ICO.png",
+    "kind": "disc",
+    "bytes": 31887,
+    "width": 256,
+    "height": 256,
+    "sha256": "a30d9b3047c259b327739cd8adb1442c84bc0a666775b00ff9759f2d333e938b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.59_ICO.png"
+    },
+    "gameId": "SLUS_205.59"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.59/SLUS_205.59_BG.png",
+    "kind": "background",
+    "bytes": 148469,
+    "width": 640,
+    "height": 480,
+    "sha256": "e87da3985e9b687fd87766cb6e665beb738447905557730e3c0ce663cadceb1d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.59/SLUS_205.59_BG_00.png"
+    },
+    "gameId": "SLUS_205.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.59/SLUS_205.59_BG.png",
+      "kind": "background",
+      "bytes": 148469,
+      "width": 640,
+      "height": 480,
+      "sha256": "e87da3985e9b687fd87766cb6e665beb738447905557730e3c0ce663cadceb1d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.59/SLUS_205.59_BG_00.png"
+      },
+      "gameId": "SLUS_205.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROCKY"
+}

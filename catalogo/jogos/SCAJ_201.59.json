@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.59",
+  "cover": {
+    "path": "PS2/SCAJ_201.59/SCAJ_201.59_COV.png",
+    "kind": "cover",
+    "bytes": 106049,
+    "width": 192,
+    "height": 272,
+    "sha256": "85a67eb9fb014a707358188460396102b41bdbc37544df0ce8bcde7c98dd7989",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20159.jpg"
+    },
+    "gameId": "SCAJ_201.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOUL CALIBUR III"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "TCPS_101.34",
+  "cover": {
+    "path": "PS2/TCPS_101.34/TCPS_101.34_COV.png",
+    "kind": "cover",
+    "bytes": 105466,
+    "width": 192,
+    "height": 272,
+    "sha256": "a39fe42b140ab764186e8fbfe890fa15fe09f1745020c5f6feed13164efc3c7d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/TCPS-10134.jpg"
+    },
+    "gameId": "TCPS_101.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PSYCHIC FORCE COMPLETE [WITH EMILIO FIGURINE]"
+}

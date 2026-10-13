@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.07",
+  "cover": {
+    "path": "PS2/SLPS_259.07/SLPS_259.07_COV.png",
+    "kind": "cover",
+    "bytes": 101252,
+    "width": 192,
+    "height": 272,
+    "sha256": "f68e47cea9f8d579e6c330c339a7a51e94d95a7c01f5886c1d7d0e03f0a93c5d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25907.jpg"
+    },
+    "gameId": "SLPS_259.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 15 - Pachinko Fuyu no Sonata 2"
+}

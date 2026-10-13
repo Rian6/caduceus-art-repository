@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.73",
+  "cover": {
+    "path": "PS2/SLES_526.73/SLES_526.73_COV.png",
+    "kind": "cover",
+    "bytes": 88495,
+    "width": 192,
+    "height": 272,
+    "sha256": "d053e474666bf2b9aa8239bf380f874f337b190977a961fc0d2c77be1c4bbe00",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52673.jpg"
+    },
+    "gameId": "SLES_526.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL 2005"
+}

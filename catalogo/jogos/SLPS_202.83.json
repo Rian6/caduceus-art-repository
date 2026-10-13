@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.83",
+  "cover": {
+    "path": "PS2/SLPS_202.83/SLPS_202.83_COV.png",
+    "kind": "cover",
+    "bytes": 68204,
+    "width": 192,
+    "height": 272,
+    "sha256": "96a046b2c419454e87224b89480ddb5e202fd44a141807ded12aaf6badb24a58",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20283.jpg"
+    },
+    "gameId": "SLPS_202.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CHULIP [VICTOR THE BEST]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.21",
+  "cover": {
+    "path": "PS2/SLPM_626.21/SLPM_626.21_COV.png",
+    "kind": "cover",
+    "bytes": 77314,
+    "width": 192,
+    "height": 272,
+    "sha256": "09f57bda09e8ca09cbecd67c6a12f9c541bb2545c94c568056a114f15374b669",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62621.jpg"
+    },
+    "gameId": "SLPM_626.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRADIUS V [KONAMI THE BEST]"
+}

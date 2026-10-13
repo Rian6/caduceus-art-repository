@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.87",
+  "cover": {
+    "path": "PS2/SLPM_667.87/SLPM_667.87_COV.png",
+    "kind": "cover",
+    "bytes": 91907,
+    "width": 192,
+    "height": 272,
+    "sha256": "0654a135a31a644284cde1be55b548ddbfda5fe0535622ce4088283adc4deb29",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66787.jpg"
+    },
+    "gameId": "SLPM_667.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUIKA A.S+ ETERNAL NAME"
+}

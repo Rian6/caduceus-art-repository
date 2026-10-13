@@ -1,0 +1,65 @@
+{
+  "id": "SLES_554.79",
+  "cover": {
+    "path": "PS2/SLES_554.79/SLES_554.79_COV.png",
+    "kind": "cover",
+    "bytes": 87181,
+    "width": 192,
+    "height": 272,
+    "sha256": "9b7f1ee6684c5643d32b988db99f9c09a3fb9495795f7ae5326b71743ea94455",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55479.jpg"
+    },
+    "gameId": "SLES_554.79"
+  },
+  "disc": {
+    "path": "PS2/SLES_554.79/SLES_554.79_ICO.png",
+    "kind": "disc",
+    "bytes": 9869,
+    "width": 128,
+    "height": 128,
+    "sha256": "1c6e5f1c4df1255b141844a2a5c294e074b3680ee874206bfe7efeef5bca202f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_554.79_ICO.png"
+    },
+    "gameId": "SLES_554.79"
+  },
+  "background": {
+    "path": "PS2/SLES_554.79/SLES_554.79_BG.png",
+    "kind": "background",
+    "bytes": 144101,
+    "width": 640,
+    "height": 480,
+    "sha256": "43df6836fdad02dc45bf0b1609cdacd9f3849f79eba922534fc1f3c976da4523",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_554.79/SLES_554.79_BG_00.png"
+    },
+    "gameId": "SLES_554.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_554.79/SLES_554.79_BG.png",
+      "kind": "background",
+      "bytes": 144101,
+      "width": 640,
+      "height": 480,
+      "sha256": "43df6836fdad02dc45bf0b1609cdacd9f3849f79eba922534fc1f3c976da4523",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.79/SLES_554.79_BG_00.png"
+      },
+      "gameId": "SLES_554.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Truck Racer"
+}

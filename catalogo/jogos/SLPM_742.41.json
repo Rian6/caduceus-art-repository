@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.41",
+  "cover": {
+    "path": "PS2/SLPM_742.41/SLPM_742.41_COV.png",
+    "kind": "cover",
+    "bytes": 75541,
+    "width": 192,
+    "height": 272,
+    "sha256": "e08fabc1bd9b67d839c57b69088acc8407c4f0aa3210f909518bd3c167ca584b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74241.jpg"
+    },
+    "gameId": "SLPM_742.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GOD HAND [PLAYSTATION 2 THE BEST]"
+}

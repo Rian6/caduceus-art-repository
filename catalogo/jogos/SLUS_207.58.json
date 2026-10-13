@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_207.58",
+  "cover": {
+    "path": "PS2/SLUS_207.58/SLUS_207.58_COV.png",
+    "kind": "cover",
+    "bytes": 123119,
+    "width": 192,
+    "height": 272,
+    "sha256": "2da9007c4bbd26053ec130029587babb25625ce1635fcedebba7b726c5b128c0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20758.jpg"
+    },
+    "gameId": "SLUS_207.58"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.58/SLUS_207.58_ICO.png",
+    "kind": "disc",
+    "bytes": 32019,
+    "width": 256,
+    "height": 256,
+    "sha256": "745924faf915e3c7eb390d2f845cac48b0235a17e3eef1bf1b1e46e1e79ffdca",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.58_ICO.png"
+    },
+    "gameId": "SLUS_207.58"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.58/SLUS_207.58_BG.png",
+    "kind": "background",
+    "bytes": 222699,
+    "width": 640,
+    "height": 480,
+    "sha256": "a012544fa291066882c092474908c6f20a4dfe149982003b9ee86c33ec6eb62a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.58/SLUS_207.58_BG_00.png"
+    },
+    "gameId": "SLUS_207.58"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.58/SLUS_207.58_BG.png",
+      "kind": "background",
+      "bytes": 222699,
+      "width": 640,
+      "height": 480,
+      "sha256": "a012544fa291066882c092474908c6f20a4dfe149982003b9ee86c33ec6eb62a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.58/SLUS_207.58_BG_00.png"
+      },
+      "gameId": "SLUS_207.58"
+    },
+    {
+      "path": "PS2/SLUS_207.58/SLUS_207.58_BG_01.png",
+      "kind": "background",
+      "bytes": 202240,
+      "width": 640,
+      "height": 480,
+      "sha256": "9797d0bafb976fa0821f99890d59896df52bb0fc34ebfb86e63a99f3b750bb9b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.58/SLUS_207.58_BG_01.png"
+      },
+      "gameId": "SLUS_207.58"
+    },
+    {
+      "path": "PS2/SLUS_207.58/SLUS_207.58_BG_02.png",
+      "kind": "background",
+      "bytes": 202353,
+      "width": 640,
+      "height": 480,
+      "sha256": "5b1961341e4c686fb022cafa8558eafa3e6c037a233bec3b5cb09be9e2fec51c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.58/SLUS_207.58_BG_02.png"
+      },
+      "gameId": "SLUS_207.58"
+    },
+    {
+      "path": "PS2/SLUS_207.58/SLUS_207.58_BG_03.png",
+      "kind": "background",
+      "bytes": 199110,
+      "width": 640,
+      "height": 480,
+      "sha256": "c904bb6f36668d5c849aa6c63d06f1ba6bb2802166db056507f974864eba3fe5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.58/SLUS_207.58_BG_03.png"
+      },
+      "gameId": "SLUS_207.58"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Growlanser Generations (Disc 1) (Growlanser II: The Sense of Justice)"
+}

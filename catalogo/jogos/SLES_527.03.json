@@ -1,0 +1,64 @@
+{
+  "id": "SLES_527.03",
+  "cover": {
+    "path": "PS2/SLES_527.03/SLES_527.03_COV.png",
+    "kind": "cover",
+    "bytes": 104216,
+    "width": 192,
+    "height": 272,
+    "sha256": "77f52259808a155e57b772efe25003a09baa1d752b8c3e5799be62027eacc7a9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52703.jpg"
+    },
+    "gameId": "SLES_527.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.03/SLES_527.03_BG.png",
+    "kind": "background",
+    "bytes": 163178,
+    "width": 640,
+    "height": 480,
+    "sha256": "4cade69a3c6d5256c8a97c75c904ae7a7df6750c101b6b6ee6efef770658b361",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.03/SLES_527.03_BG_00.png"
+    },
+    "gameId": "SLES_527.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.03/SLES_527.03_BG.png",
+      "kind": "background",
+      "bytes": 163178,
+      "width": 640,
+      "height": 480,
+      "sha256": "4cade69a3c6d5256c8a97c75c904ae7a7df6750c101b6b6ee6efef770658b361",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.03/SLES_527.03_BG_00.png"
+      },
+      "gameId": "SLES_527.03"
+    },
+    {
+      "path": "PS2/SLES_527.03/SLES_527.03_BG_01.png",
+      "kind": "background",
+      "bytes": 192915,
+      "width": 640,
+      "height": 480,
+      "sha256": "c872dfc967f3d64e5a707cdd2459e6aec0353471fbe6da45d5d7013f7c5372d2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.03/SLES_527.03_BG_01.png"
+      },
+      "gameId": "SLES_527.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PSI-OPS - THE MINDGATE CONSPIRACY"
+}

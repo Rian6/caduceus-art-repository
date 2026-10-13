@@ -1,0 +1,78 @@
+{
+  "id": "SLPS_204.63",
+  "cover": {
+    "path": "PS2/SLPS_204.63/SLPS_204.63_COV.png",
+    "kind": "cover",
+    "bytes": 110381,
+    "width": 192,
+    "height": 272,
+    "sha256": "14cc3f4db6f613c5ec9feb1fd6bf217088d29fa961e7766cdec19e4f6bbb01d6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20463.jpg"
+    },
+    "gameId": "SLPS_204.63"
+  },
+  "disc": {
+    "path": "PS2/SLPS_204.63/SLPS_204.63_ICO.png",
+    "kind": "disc",
+    "bytes": 10974,
+    "width": 128,
+    "height": 128,
+    "sha256": "85554caed372d48c7f915480a4b252e51dbe4c04a7486dcbe9f9a96adef3e0d3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_204.63_ICO.png"
+    },
+    "gameId": "SLPS_204.63"
+  },
+  "background": {
+    "path": "PS2/SLPS_204.63/SLPS_204.63_BG.png",
+    "kind": "background",
+    "bytes": 257515,
+    "width": 640,
+    "height": 480,
+    "sha256": "e8909b5514e902149cbe5c0f97a42d4584be5966bb7adc282111d2d766e931d5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_204.63/SLPS_204.63_BG_00.png"
+    },
+    "gameId": "SLPS_204.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_204.63/SLPS_204.63_BG.png",
+      "kind": "background",
+      "bytes": 257515,
+      "width": 640,
+      "height": 480,
+      "sha256": "e8909b5514e902149cbe5c0f97a42d4584be5966bb7adc282111d2d766e931d5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.63/SLPS_204.63_BG_00.png"
+      },
+      "gameId": "SLPS_204.63"
+    },
+    {
+      "path": "PS2/SLPS_204.63/SLPS_204.63_BG_01.png",
+      "kind": "background",
+      "bytes": 139157,
+      "width": 640,
+      "height": 480,
+      "sha256": "e57c94c47a9b4bd27e593cead4e14350ce767af5dce5274d4b86e9fb5680bbd7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.63/SLPS_204.63_BG_01.png"
+      },
+      "gameId": "SLPS_204.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ougon Kishi Garo"
+}

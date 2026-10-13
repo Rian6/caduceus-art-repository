@@ -1,0 +1,117 @@
+{
+  "id": "SLPS_256.75",
+  "cover": {
+    "path": "PS2/SLPS_256.75/SLPS_256.75_COV.png",
+    "kind": "cover",
+    "bytes": 107659,
+    "width": 192,
+    "height": 272,
+    "sha256": "5cb4ad7895858515139d2f40bedf8d949f58f0f13ac425e058ee84c50edfff35",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25675.jpg"
+    },
+    "gameId": "SLPS_256.75"
+  },
+  "disc": {
+    "path": "PS2/SLPS_256.75/SLPS_256.75_ICO.png",
+    "kind": "disc",
+    "bytes": 36422,
+    "width": 128,
+    "height": 128,
+    "sha256": "875fc94918c173e26c4b5802b043cc8df3c12da29591816920d8b97d3ed75321",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_256.75_ICO.png"
+    },
+    "gameId": "SLPS_256.75"
+  },
+  "background": {
+    "path": "PS2/SLPS_256.75/SLPS_256.75_BG.png",
+    "kind": "background",
+    "bytes": 175454,
+    "width": 640,
+    "height": 480,
+    "sha256": "955402af5f54762d35c220463205d484089e1ea65fc7fac84f549a415edd7bfa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.75/SLPS_256.75_BG_00.png"
+    },
+    "gameId": "SLPS_256.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.75/SLPS_256.75_BG.png",
+      "kind": "background",
+      "bytes": 175454,
+      "width": 640,
+      "height": 480,
+      "sha256": "955402af5f54762d35c220463205d484089e1ea65fc7fac84f549a415edd7bfa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.75/SLPS_256.75_BG_00.png"
+      },
+      "gameId": "SLPS_256.75"
+    },
+    {
+      "path": "PS2/SLPS_256.75/SLPS_256.75_BG_01.png",
+      "kind": "background",
+      "bytes": 203919,
+      "width": 640,
+      "height": 480,
+      "sha256": "d3faa356c42769d3c8aeb096e441e5db9af8d3e104cf8e9c20e6b470087eae77",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.75/SLPS_256.75_BG_01.png"
+      },
+      "gameId": "SLPS_256.75"
+    },
+    {
+      "path": "PS2/SLPS_256.75/SLPS_256.75_BG_02.png",
+      "kind": "background",
+      "bytes": 215802,
+      "width": 640,
+      "height": 480,
+      "sha256": "27294b611b4b1bef4a922410881080cf036c10506ae4be0a62bd5243bf11700a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.75/SLPS_256.75_BG_02.png"
+      },
+      "gameId": "SLPS_256.75"
+    },
+    {
+      "path": "PS2/SLPS_256.75/SLPS_256.75_BG_03.png",
+      "kind": "background",
+      "bytes": 115476,
+      "width": 640,
+      "height": 480,
+      "sha256": "37c367b6f95daf043d97ce05568c5dad1c7cf393b7c53c4efc75b8f60d35d6d7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.75/SLPS_256.75_BG_03.png"
+      },
+      "gameId": "SLPS_256.75"
+    },
+    {
+      "path": "PS2/SLPS_256.75/SLPS_256.75_BG_04.png",
+      "kind": "background",
+      "bytes": 210168,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3a8327b4c8594011fbad398cad803dbfd288a9cf874b65d5073ff47217c0765",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.75/SLPS_256.75_BG_04.png"
+      },
+      "gameId": "SLPS_256.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Battle Stadium D.O.N."
+}

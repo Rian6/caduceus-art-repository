@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.98",
+  "cover": {
+    "path": "PS2/SLPS_255.98/SLPS_255.98_COV.png",
+    "kind": "cover",
+    "bytes": 89703,
+    "width": 192,
+    "height": 272,
+    "sha256": "036b114129cae9f785286ca04b450452617b5d3a06c554824f276e4c9aa7f10b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25598.jpg"
+    },
+    "gameId": "SLPS_255.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GAKKOU O TSUKUROU!! HAPPY DAYS [BEST COLLECTION]"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SLES_545.81",
+  "cover": {
+    "path": "PS2/SLES_545.81/SLES_545.81_COV.png",
+    "kind": "cover",
+    "bytes": 101452,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c9914832f4c29c5acb1329f80f22a4f2a46e19045849aac35cc0ca7d7c0140b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54581.jpg"
+    },
+    "gameId": "SLES_545.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_545.81/SLES_545.81_BG.png",
+    "kind": "background",
+    "bytes": 223808,
+    "width": 640,
+    "height": 480,
+    "sha256": "fdb5b1b3779c39404dff83e85baca901ed40f9f7d190d53e184db394c05983df",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.81/SLES_545.81_BG_00.png"
+    },
+    "gameId": "SLES_545.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_545.81/SLES_545.81_BG.png",
+      "kind": "background",
+      "bytes": 223808,
+      "width": 640,
+      "height": 480,
+      "sha256": "fdb5b1b3779c39404dff83e85baca901ed40f9f7d190d53e184db394c05983df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.81/SLES_545.81_BG_00.png"
+      },
+      "gameId": "SLES_545.81"
+    },
+    {
+      "path": "PS2/SLES_545.81/SLES_545.81_BG_01.png",
+      "kind": "background",
+      "bytes": 190799,
+      "width": 640,
+      "height": 480,
+      "sha256": "5429df20a46bdb354c82cd8be6c9b9dbf579326c1bdbf1e0bf5c6927a050f454",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.81/SLES_545.81_BG_01.png"
+      },
+      "gameId": "SLES_545.81"
+    },
+    {
+      "path": "PS2/SLES_545.81/SLES_545.81_BG_02.png",
+      "kind": "background",
+      "bytes": 186421,
+      "width": 640,
+      "height": 480,
+      "sha256": "2212370b0e7083bdc7d40c8cd17849526eb934befcb440e480c250ae6c0485d5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.81/SLES_545.81_BG_02.png"
+      },
+      "gameId": "SLES_545.81"
+    },
+    {
+      "path": "PS2/SLES_545.81/SLES_545.81_BG_03.png",
+      "kind": "background",
+      "bytes": 188938,
+      "width": 640,
+      "height": 480,
+      "sha256": "7f5cba0947c533f861661644b721f85d4cbb37b6b09d083be74dfc9a86ba3f7f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.81/SLES_545.81_BG_03.png"
+      },
+      "gameId": "SLES_545.81"
+    },
+    {
+      "path": "PS2/SLES_545.81/SLES_545.81_BG_04.png",
+      "kind": "background",
+      "bytes": 166133,
+      "width": 640,
+      "height": 480,
+      "sha256": "b63b75f3db35f59c13cd6d7d7eff3ad1f087abe068f93b4faf8eac8daf568ff1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.81/SLES_545.81_BG_04.png"
+      },
+      "gameId": "SLES_545.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Red Star"
+}

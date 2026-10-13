@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.10",
+  "cover": {
+    "path": "PS2/SLPS_250.10/SLPS_250.10_COV.png",
+    "kind": "cover",
+    "bytes": 72948,
+    "width": 192,
+    "height": 272,
+    "sha256": "c16d44a5fafed4698ff23b36710097a320aa8d46e439aaaffe640d12daa272b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25010.jpg"
+    },
+    "gameId": "SLPS_250.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Unison"
+}

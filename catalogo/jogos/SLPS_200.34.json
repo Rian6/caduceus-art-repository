@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.34",
+  "cover": {
+    "path": "PS2/SLPS_200.34/SLPS_200.34_COV.png",
+    "kind": "cover",
+    "bytes": 91339,
+    "width": 192,
+    "height": 272,
+    "sha256": "39f0f5d144b6144dd35ffce4c1985f0e1e44c6816110062959ef60d8f0e53923",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20034.jpg"
+    },
+    "gameId": "SLPS_200.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Velvet File"
+}

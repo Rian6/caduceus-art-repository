@@ -1,0 +1,24 @@
+{
+  "id": "NMP2_007.01",
+  "cover": {
+    "path": "PS2/NMP2_007.01/NMP2_007.01_COV.png",
+    "kind": "cover",
+    "bytes": 102923,
+    "width": 192,
+    "height": 272,
+    "sha256": "1eac14be28aff57683b7c9da93b79b8b69eae31b875cd132b5a6f3549b0ff2f6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/NMP2-00701.jpg"
+    },
+    "gameId": "NMP2_007.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

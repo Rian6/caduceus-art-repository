@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.86",
+  "cover": {
+    "path": "PS2/SLES_548.86/SLES_548.86_COV.png",
+    "kind": "cover",
+    "bytes": 90120,
+    "width": 192,
+    "height": 272,
+    "sha256": "cad91f104ae7a5c3fde5aa478c2fb3ea8e9f1c6fbef953a63255e5ad3d0d5fa5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54886.jpg"
+    },
+    "gameId": "SLES_548.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Asterix at the Olympic Games"
+}

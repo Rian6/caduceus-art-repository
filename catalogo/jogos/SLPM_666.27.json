@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.27",
+  "cover": {
+    "path": "PS2/SLPM_666.27/SLPM_666.27_COV.png",
+    "kind": "cover",
+    "bytes": 95655,
+    "width": 192,
+    "height": 272,
+    "sha256": "8236140157fc89f93cada9714350807371a090732d75535bc25dfa7d0356c149",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66627.jpg"
+    },
+    "gameId": "SLPM_666.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WWE SmackDown vs. RAW 2007"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "TCPS_101.33",
+  "cover": {
+    "path": "PS2/TCPS_101.33/TCPS_101.33_COV.png",
+    "kind": "cover",
+    "bytes": 99375,
+    "width": 192,
+    "height": 272,
+    "sha256": "6609c341e0502f38f151bb9b4727507a5b06e8b2c6ceb2998d832981bc22e01a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/TCPS-10133.jpg"
+    },
+    "gameId": "TCPS_101.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PSYCHIC FORCE COMPLETE [WITH WONG FIGURINE]"
+}

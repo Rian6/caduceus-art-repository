@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.17",
+  "cover": {
+    "path": "PS2/SLPS_203.17/SLPS_203.17_COV.png",
+    "kind": "cover",
+    "bytes": 95266,
+    "width": 192,
+    "height": 272,
+    "sha256": "1a7e9b86905c1025a2e34f22553222c1e054e47aab8f6095687b27aa31a3c97e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20317.jpg"
+    },
+    "gameId": "SLPS_203.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jissen Pachi-Slot Hisshouhou! King Camel"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.50",
+  "cover": {
+    "path": "PS2/SCPS_150.50/SCPS_150.50_COV.png",
+    "kind": "cover",
+    "bytes": 78136,
+    "width": 192,
+    "height": 272,
+    "sha256": "54fc3e54429de27e6bf967f9eabd786015bde065cd620246ad888146e3f386f0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15050.jpg"
+    },
+    "gameId": "SCPS_150.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.50/SCPS_150.50_BG.png",
+    "kind": "background",
+    "bytes": 189020,
+    "width": 640,
+    "height": 480,
+    "sha256": "e20858004d037599526e4b805507de744dde0dd36326b78621851fe95bb78ae8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.50/SCPS_150.50_BG_00.png"
+    },
+    "gameId": "SCPS_150.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.50/SCPS_150.50_BG.png",
+      "kind": "background",
+      "bytes": 189020,
+      "width": 640,
+      "height": 480,
+      "sha256": "e20858004d037599526e4b805507de744dde0dd36326b78621851fe95bb78ae8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.50/SCPS_150.50_BG_00.png"
+      },
+      "gameId": "SCPS_150.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FLIPNIC"
+}

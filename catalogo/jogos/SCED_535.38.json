@@ -1,0 +1,25 @@
+{
+  "id": "SCED_535.38",
+  "cover": {
+    "path": "PS2/SCED_535.38/SCED_535.38_COV.png",
+    "kind": "cover",
+    "bytes": 71681,
+    "width": 192,
+    "height": 272,
+    "sha256": "c164b041da5e5837bc4e34dca1d471cc8c4ec0b074f20e97689e756bcad247dd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCED_535.38/SCED_535.38_COV.png"
+    },
+    "gameId": "SCED_535.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tekken 5 (DEMO)"
+}

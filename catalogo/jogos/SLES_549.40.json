@@ -1,0 +1,25 @@
+{
+  "id": "SLES_549.40",
+  "cover": {
+    "path": "PS2/SLES_549.40/SLES_549.40_COV.png",
+    "kind": "cover",
+    "bytes": 97963,
+    "width": 192,
+    "height": 272,
+    "sha256": "1bfb6797c4b12768d3a4b84c28a1b7673be3d67f820b38e69bb2dd0fad136422",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54940.jpg"
+    },
+    "gameId": "SLES_549.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winter Sports 2008: The Ultimate Challenge"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_544.26",
+  "cover": {
+    "path": "PS2/SLES_544.26/SLES_544.26_COV.png",
+    "kind": "cover",
+    "bytes": 95183,
+    "width": 192,
+    "height": 272,
+    "sha256": "6a7114a0724b214bb95fb4afe39a9858286d8b957035038df3360acd8f18d6b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54426.jpg"
+    },
+    "gameId": "SLES_544.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CASPER & THE GHOSTLY TRIO"
+}

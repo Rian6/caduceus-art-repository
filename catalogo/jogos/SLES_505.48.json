@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.48",
+  "cover": {
+    "path": "PS2/SLES_505.48/SLES_505.48_COV.png",
+    "kind": "cover",
+    "bytes": 103383,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc908331f2b1836a4219875af26e7388dba33fd1202c98b4c65da15c04d89685",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50548.jpg"
+    },
+    "gameId": "SLES_505.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BDFL Manager 2002"
+}

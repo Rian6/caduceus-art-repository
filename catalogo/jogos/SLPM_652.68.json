@@ -1,0 +1,117 @@
+{
+  "id": "SLPM_652.68",
+  "cover": {
+    "path": "PS2/SLPM_652.68/SLPM_652.68_COV.png",
+    "kind": "cover",
+    "bytes": 111540,
+    "width": 192,
+    "height": 272,
+    "sha256": "68ea1a374ed263f3a312a1ba13ddd1303264cb961e047ea6653df1da38643d64",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65268.jpg"
+    },
+    "gameId": "SLPM_652.68"
+  },
+  "disc": {
+    "path": "PS2/SLPM_652.68/SLPM_652.68_ICO.png",
+    "kind": "disc",
+    "bytes": 10328,
+    "width": 128,
+    "height": 128,
+    "sha256": "33579bc831dc8beaf069beee62cee7cd092f98d6cdc41a84402fcb2c03352e96",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_652.68_ICO.png"
+    },
+    "gameId": "SLPM_652.68"
+  },
+  "background": {
+    "path": "PS2/SLPM_652.68/SLPM_652.68_BG.png",
+    "kind": "background",
+    "bytes": 157746,
+    "width": 640,
+    "height": 480,
+    "sha256": "769fb989b55f02e724e9863d8e75f08644118beba3ca7523c30fbcf929406785",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_652.68/SLPM_652.68_BG_00.png"
+    },
+    "gameId": "SLPM_652.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_652.68/SLPM_652.68_BG.png",
+      "kind": "background",
+      "bytes": 157746,
+      "width": 640,
+      "height": 480,
+      "sha256": "769fb989b55f02e724e9863d8e75f08644118beba3ca7523c30fbcf929406785",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_652.68/SLPM_652.68_BG_00.png"
+      },
+      "gameId": "SLPM_652.68"
+    },
+    {
+      "path": "PS2/SLPM_652.68/SLPM_652.68_BG_01.png",
+      "kind": "background",
+      "bytes": 168619,
+      "width": 640,
+      "height": 480,
+      "sha256": "94b3add418e053b2110b46df52b2f0f85b83decd61514d46f54a4500e8f577e3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_652.68/SLPM_652.68_BG_01.png"
+      },
+      "gameId": "SLPM_652.68"
+    },
+    {
+      "path": "PS2/SLPM_652.68/SLPM_652.68_BG_02.png",
+      "kind": "background",
+      "bytes": 190557,
+      "width": 640,
+      "height": 480,
+      "sha256": "c62c8297c6061142cb4acb31112ca3216340d3aaaedeef0da956824c6b0b67d0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_652.68/SLPM_652.68_BG_02.png"
+      },
+      "gameId": "SLPM_652.68"
+    },
+    {
+      "path": "PS2/SLPM_652.68/SLPM_652.68_BG_03.png",
+      "kind": "background",
+      "bytes": 232425,
+      "width": 640,
+      "height": 480,
+      "sha256": "310a71ed7b7913d0cdffc748af126f3857ebcf722f3c3919c95f2f87067ade45",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_652.68/SLPM_652.68_BG_03.png"
+      },
+      "gameId": "SLPM_652.68"
+    },
+    {
+      "path": "PS2/SLPM_652.68/SLPM_652.68_BG_04.png",
+      "kind": "background",
+      "bytes": 152562,
+      "width": 640,
+      "height": 480,
+      "sha256": "91af5d86a8f194d29b8dfcfdfaf31d0e5df16c20f93b72db87fde4199470d384",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_652.68/SLPM_652.68_BG_04.png"
+      },
+      "gameId": "SLPM_652.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "INITIAL D SPECIAL STAGE"
+}

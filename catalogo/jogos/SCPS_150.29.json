@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.29",
+  "cover": {
+    "path": "PS2/SCPS_150.29/SCPS_150.29_COV.png",
+    "kind": "cover",
+    "bytes": 77623,
+    "width": 192,
+    "height": 272,
+    "sha256": "3d84e3e9673e95efc19d193ac251f6a9ab051a890ea71b2e1eccdaabbba594ef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15029.jpg"
+    },
+    "gameId": "SCPS_150.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "XI Go"
+}

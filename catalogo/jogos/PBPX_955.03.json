@@ -1,0 +1,117 @@
+{
+  "id": "PBPX_955.03",
+  "cover": {
+    "path": "PS2/PBPX_955.03/PBPX_955.03_COV.png",
+    "kind": "cover",
+    "bytes": 87294,
+    "width": 192,
+    "height": 272,
+    "sha256": "2291d92bc77b683d8bd9aba918ce2db4f047a67729894bfc9229854f81c12c59",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PBPX-95503.jpg"
+    },
+    "gameId": "PBPX_955.03"
+  },
+  "disc": {
+    "path": "PS2/PBPX_955.03/PBPX_955.03_ICO.png",
+    "kind": "disc",
+    "bytes": 10449,
+    "width": 128,
+    "height": 128,
+    "sha256": "0270dfa67513928f35eafd0aab1b60ce794b09f806a5fc9113b7de1520bb74e4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/PBPX_955.03_ICO.png"
+    },
+    "gameId": "PBPX_955.03"
+  },
+  "background": {
+    "path": "PS2/PBPX_955.03/PBPX_955.03_BG.png",
+    "kind": "background",
+    "bytes": 150843,
+    "width": 640,
+    "height": 480,
+    "sha256": "efb1023c71e6d106630140eaad60e64f9f014cebb7c5983d04e1ac9fa5223f44",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/PBPX_955.03/PBPX_955.03_BG_00.png"
+    },
+    "gameId": "PBPX_955.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/PBPX_955.03/PBPX_955.03_BG.png",
+      "kind": "background",
+      "bytes": 150843,
+      "width": 640,
+      "height": 480,
+      "sha256": "efb1023c71e6d106630140eaad60e64f9f014cebb7c5983d04e1ac9fa5223f44",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/PBPX_955.03/PBPX_955.03_BG_00.png"
+      },
+      "gameId": "PBPX_955.03"
+    },
+    {
+      "path": "PS2/PBPX_955.03/PBPX_955.03_BG_01.png",
+      "kind": "background",
+      "bytes": 177410,
+      "width": 640,
+      "height": 480,
+      "sha256": "4cda11832d6618f61af808d7af2a37c6b4909fc06eeafe2e9e84e6af1e9d2af9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/PBPX_955.03/PBPX_955.03_BG_01.png"
+      },
+      "gameId": "PBPX_955.03"
+    },
+    {
+      "path": "PS2/PBPX_955.03/PBPX_955.03_BG_02.png",
+      "kind": "background",
+      "bytes": 177444,
+      "width": 640,
+      "height": 480,
+      "sha256": "536938fcdacb44cd7002e54005f58cf37989cef5e4db56172ba2a45185c9932c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/PBPX_955.03/PBPX_955.03_BG_02.png"
+      },
+      "gameId": "PBPX_955.03"
+    },
+    {
+      "path": "PS2/PBPX_955.03/PBPX_955.03_BG_03.png",
+      "kind": "background",
+      "bytes": 138060,
+      "width": 640,
+      "height": 480,
+      "sha256": "5bc766d7f9737e7f4b9bebc04e64763652afc78db7aa9adfb1605205c4523e2b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/PBPX_955.03/PBPX_955.03_BG_03.png"
+      },
+      "gameId": "PBPX_955.03"
+    },
+    {
+      "path": "PS2/PBPX_955.03/PBPX_955.03_BG_04.png",
+      "kind": "background",
+      "bytes": 108918,
+      "width": 640,
+      "height": 480,
+      "sha256": "6fe23299f50d40e557d3ad38c74b41e235881c13f7543d4b03bbcc8c639c4658",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/PBPX_955.03/PBPX_955.03_BG_04.png"
+      },
+      "gameId": "PBPX_955.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 3: A-Spec (GT3 Racing Pack)"
+}

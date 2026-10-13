@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.04",
+  "cover": {
+    "path": "PS2/SLPS_732.04/SLPS_732.04_COV.png",
+    "kind": "cover",
+    "bytes": 60405,
+    "width": 192,
+    "height": 272,
+    "sha256": "7f0df449d63a9d58f8af5d477a8c6dc43df82f1545f9c88598cf11c738cb21fe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73204.jpg"
+    },
+    "gameId": "SLPS_732.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zettai Zetsumei Toshi"
+}

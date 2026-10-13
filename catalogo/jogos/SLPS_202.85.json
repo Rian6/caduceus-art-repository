@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.85",
+  "cover": {
+    "path": "PS2/SLPS_202.85/SLPS_202.85_COV.png",
+    "kind": "cover",
+    "bytes": 81052,
+    "width": 192,
+    "height": 272,
+    "sha256": "841adb8e1d731c15e35099f252bd04319e4a6e50c6930cd22242f56889dfb0da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20285.jpg"
+    },
+    "gameId": "SLPS_202.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Slotter Up Core  - Enda! Kyojin no Hoshi"
+}

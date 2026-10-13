@@ -1,0 +1,26 @@
+{
+  "id": "SLUS_200.00",
+  "cover": null,
+  "disc": {
+    "path": "PS2/SLUS_200.00/SLUS_200.00_ICO.png",
+    "kind": "disc",
+    "bytes": 11791,
+    "width": 128,
+    "height": 128,
+    "sha256": "b9ed0bdb4388f4c5bbba214620aa44604938f3ba4c81efb87a7276beae759602",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLUS_200.00_ICO.png"
+    },
+    "gameId": "SLUS_200.00"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

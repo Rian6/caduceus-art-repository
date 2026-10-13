@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_255.51",
+  "cover": {
+    "path": "PS2/SLPS_255.51/SLPS_255.51_COV.png",
+    "kind": "cover",
+    "bytes": 90133,
+    "width": 192,
+    "height": 272,
+    "sha256": "cc9dabaa7157cdaa72d530dea7b236d30cc44e77023793f9f839f47e52721a2f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25551.jpg"
+    },
+    "gameId": "SLPS_255.51"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_255.51/SLPS_255.51_BG.png",
+    "kind": "background",
+    "bytes": 170805,
+    "width": 640,
+    "height": 480,
+    "sha256": "a3c236dcbc711fd0aca2d19cd37f047918b660d80c8970e6dedde1480feffe5e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.51/SLPS_255.51_BG_00.png"
+    },
+    "gameId": "SLPS_255.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.51/SLPS_255.51_BG.png",
+      "kind": "background",
+      "bytes": 170805,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3c236dcbc711fd0aca2d19cd37f047918b660d80c8970e6dedde1480feffe5e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.51/SLPS_255.51_BG_00.png"
+      },
+      "gameId": "SLPS_255.51"
+    },
+    {
+      "path": "PS2/SLPS_255.51/SLPS_255.51_BG_01.png",
+      "kind": "background",
+      "bytes": 121996,
+      "width": 640,
+      "height": 480,
+      "sha256": "eafb02fda840a3db114afd97215cfa3a407845427f3a7d1014049b1020e8bb06",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.51/SLPS_255.51_BG_01.png"
+      },
+      "gameId": "SLPS_255.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cowboy Bebop: Tsuioku no Serenade"
+}

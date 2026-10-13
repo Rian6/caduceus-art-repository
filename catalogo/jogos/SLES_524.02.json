@@ -1,0 +1,39 @@
+{
+  "id": "SLES_524.02",
+  "cover": {
+    "path": "PS2/SLES_524.02/SLES_524.02_COV.png",
+    "kind": "cover",
+    "bytes": 84697,
+    "width": 192,
+    "height": 272,
+    "sha256": "8625e27295f9ebf68321fc27dc64dbb4ba3ed18fa31bf7c372e7654faab3dbad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52402.jpg"
+    },
+    "gameId": "SLES_524.02"
+  },
+  "disc": {
+    "path": "PS2/SLES_524.02/SLES_524.02_ICO.png",
+    "kind": "disc",
+    "bytes": 10669,
+    "width": 128,
+    "height": 128,
+    "sha256": "0a46b7ea32fb02b5f78d30492503778138f7b2b15b4b0b82ca0723444b3da46f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_524.02_ICO.png"
+    },
+    "gameId": "SLES_524.02"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Perfect Ace 2 - The Championships"
+}

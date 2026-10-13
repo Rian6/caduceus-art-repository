@@ -1,0 +1,65 @@
+{
+  "id": "SLES_551.70",
+  "cover": {
+    "path": "PS2/SLES_551.70/SLES_551.70_COV.png",
+    "kind": "cover",
+    "bytes": 90688,
+    "width": 192,
+    "height": 272,
+    "sha256": "59ad7df8d4d16c0dcccae3a5a72abf26a226bd3ea8c54dd7acc88e8a2c24a71b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55170.jpg"
+    },
+    "gameId": "SLES_551.70"
+  },
+  "disc": {
+    "path": "PS2/SLES_551.70/SLES_551.70_ICO.png",
+    "kind": "disc",
+    "bytes": 10897,
+    "width": 128,
+    "height": 128,
+    "sha256": "2c76fd67bd719749bdfa6bb2adc2b12c8173c49ad876bdcf8f1e2266e96e0a1f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_551.70_ICO.png"
+    },
+    "gameId": "SLES_551.70"
+  },
+  "background": {
+    "path": "PS2/SLES_551.70/SLES_551.70_BG.png",
+    "kind": "background",
+    "bytes": 166219,
+    "width": 640,
+    "height": 480,
+    "sha256": "2562a874f5eb8e61ab013d288cfae03082a09d5ec243bc58f52656b704c3adb0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_551.70/SLES_551.70_BG_00.png"
+    },
+    "gameId": "SLES_551.70"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_551.70/SLES_551.70_BG.png",
+      "kind": "background",
+      "bytes": 166219,
+      "width": 640,
+      "height": 480,
+      "sha256": "2562a874f5eb8e61ab013d288cfae03082a09d5ec243bc58f52656b704c3adb0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.70/SLES_551.70_BG_00.png"
+      },
+      "gameId": "SLES_551.70"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Margot's Word Brain"
+}

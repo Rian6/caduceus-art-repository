@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_250.62",
+  "cover": {
+    "path": "PS2/SLKA_250.62/SLKA_250.62_COV.png",
+    "kind": "cover",
+    "bytes": 103754,
+    "width": 192,
+    "height": 272,
+    "sha256": "c6c76e291d73891a572cf2440156fcf0a9363378a0173fadbde2993079b4028b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25062.jpg"
+    },
+    "gameId": "SLKA_250.62"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_250.62/SLKA_250.62_BG.png",
+    "kind": "background",
+    "bytes": 146022,
+    "width": 640,
+    "height": 480,
+    "sha256": "d6dac08fba2c69346da7689c327d162f4d41e16f46f4c09bb18517660edb714f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.62/SLKA_250.62_BG_00.png"
+    },
+    "gameId": "SLKA_250.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_250.62/SLKA_250.62_BG.png",
+      "kind": "background",
+      "bytes": 146022,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6dac08fba2c69346da7689c327d162f4d41e16f46f4c09bb18517660edb714f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.62/SLKA_250.62_BG_00.png"
+      },
+      "gameId": "SLKA_250.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DRAGON BALL Z - BUDOKAI 2"
+}

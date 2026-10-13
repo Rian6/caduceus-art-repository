@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.66",
+  "cover": {
+    "path": "PS2/SLPS_254.66/SLPS_254.66_COV.png",
+    "kind": "cover",
+    "bytes": 115411,
+    "width": 192,
+    "height": 272,
+    "sha256": "cc3dc4a2d8464fc72b1dbaa40536aed7467dc5397b84fa0edc1cebe5e0ea5de8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25466.jpg"
+    },
+    "gameId": "SLPS_254.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EIEN NO ASERIA - KONO DAICHI NO HATE DE [LIMITED EDITION]"
+}

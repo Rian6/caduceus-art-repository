@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_657.88",
+  "cover": {
+    "path": "PS2/SLPM_657.88/SLPM_657.88_COV.png",
+    "kind": "cover",
+    "bytes": 71857,
+    "width": 192,
+    "height": 272,
+    "sha256": "ba68c2e9e6b3401d725cdd77289692b961c42c4a9e66adb6d0b546aba315d2de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65788.jpg"
+    },
+    "gameId": "SLPM_657.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_657.88/SLPM_657.88_BG.png",
+    "kind": "background",
+    "bytes": 174433,
+    "width": 640,
+    "height": 480,
+    "sha256": "2de2012a35297d6466ade67508218a7604489cc48072189fd42b1688b648bf70",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_657.88/SLPM_657.88_BG_00.png"
+    },
+    "gameId": "SLPM_657.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_657.88/SLPM_657.88_BG.png",
+      "kind": "background",
+      "bytes": 174433,
+      "width": 640,
+      "height": 480,
+      "sha256": "2de2012a35297d6466ade67508218a7604489cc48072189fd42b1688b648bf70",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.88/SLPM_657.88_BG_00.png"
+      },
+      "gameId": "SLPM_657.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 8 - Liveware Evolution"
+}

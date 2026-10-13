@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.89",
+  "cover": {
+    "path": "PS2/SLPM_550.89/SLPM_550.89_COV.png",
+    "kind": "cover",
+    "bytes": 107158,
+    "width": 192,
+    "height": 272,
+    "sha256": "0eb0566d6f9825c6b43dca5335ec12bea8aac078e0efcd56cff39c8814308c64",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55089.jpg"
+    },
+    "gameId": "SLPM_550.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Naxat Soft Reachmania Vol. 1 - CR Galaxy Angel"
+}

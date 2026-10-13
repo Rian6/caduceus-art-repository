@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.56",
+  "cover": {
+    "path": "PS2/SLPS_258.56/SLPS_258.56_COV.png",
+    "kind": "cover",
+    "bytes": 95456,
+    "width": 192,
+    "height": 272,
+    "sha256": "32dd4e5bce20093076346e4c6c5d026d399c40e2bc4b205b1f0334473f862072",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25856.jpg"
+    },
+    "gameId": "SLPS_258.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LARA CROFT - TOMB RAIDER - ANNIVERSARY"
+}

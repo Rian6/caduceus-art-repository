@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.72",
+  "cover": {
+    "path": "PS2/SLPM_657.72/SLPM_657.72_COV.png",
+    "kind": "cover",
+    "bytes": 97754,
+    "width": 192,
+    "height": 272,
+    "sha256": "a123a1493f0b881b91edfe475148fb99eb4e5e5213b5a5fb25e398cd370ca2af",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65772.jpg"
+    },
+    "gameId": "SLPM_657.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Natural 2 Duo - Sakurairo no Kisetsu"
+}

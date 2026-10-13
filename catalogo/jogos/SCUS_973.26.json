@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_973.26",
+  "cover": {
+    "path": "PS2/SCUS_973.26/SCUS_973.26_COV.png",
+    "kind": "cover",
+    "bytes": 85967,
+    "width": 192,
+    "height": 272,
+    "sha256": "5729615010e85d852c8fc12fcadfc3ee82feb1deeee820fb4f5136d36b1b9e10",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97326.jpg"
+    },
+    "gameId": "SCUS_973.26"
+  },
+  "disc": {
+    "path": "PS2/SCUS_973.26/SCUS_973.26_ICO.png",
+    "kind": "disc",
+    "bytes": 33702,
+    "width": 256,
+    "height": 256,
+    "sha256": "8d1f9c227f1f5babf9ebb13d686efe26d896437f8167555a27902f68159a5406",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_973.26_ICO.png"
+    },
+    "gameId": "SCUS_973.26"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MLB 2005"
+}

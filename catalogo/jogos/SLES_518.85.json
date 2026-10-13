@@ -1,0 +1,90 @@
+{
+  "id": "SLES_518.85",
+  "cover": {
+    "path": "PS2/SLES_518.85/SLES_518.85_COV.png",
+    "kind": "cover",
+    "bytes": 84745,
+    "width": 192,
+    "height": 272,
+    "sha256": "d9e3fcae9c60c985207fad03f2bbf365f82765161c99101d7e6e228f2b2cb45a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51885.jpg"
+    },
+    "gameId": "SLES_518.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_518.85/SLES_518.85_BG.png",
+    "kind": "background",
+    "bytes": 215849,
+    "width": 640,
+    "height": 480,
+    "sha256": "01016c13f7713f8559e69a257c6838ca54324f9c772489fbd91336659ea84bb7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.85/SLES_518.85_BG_00.png"
+    },
+    "gameId": "SLES_518.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.85/SLES_518.85_BG.png",
+      "kind": "background",
+      "bytes": 215849,
+      "width": 640,
+      "height": 480,
+      "sha256": "01016c13f7713f8559e69a257c6838ca54324f9c772489fbd91336659ea84bb7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.85/SLES_518.85_BG_00.png"
+      },
+      "gameId": "SLES_518.85"
+    },
+    {
+      "path": "PS2/SLES_518.85/SLES_518.85_BG_01.png",
+      "kind": "background",
+      "bytes": 185061,
+      "width": 640,
+      "height": 480,
+      "sha256": "125a79f1650741e37a2fab249ac38ff4b6cf9aa020409884840aabff3e2c8ece",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.85/SLES_518.85_BG_01.png"
+      },
+      "gameId": "SLES_518.85"
+    },
+    {
+      "path": "PS2/SLES_518.85/SLES_518.85_BG_02.png",
+      "kind": "background",
+      "bytes": 98638,
+      "width": 640,
+      "height": 480,
+      "sha256": "beb3e4569a927dc3ca9ec8862f4715cf23cf0910a2f7d78f692c45258a6f3966",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.85/SLES_518.85_BG_02.png"
+      },
+      "gameId": "SLES_518.85"
+    },
+    {
+      "path": "PS2/SLES_518.85/SLES_518.85_BG_03.png",
+      "kind": "background",
+      "bytes": 97925,
+      "width": 640,
+      "height": 480,
+      "sha256": "118712a88177eae85d7fe7dd81d0599c70260d39198491659fe404d0620a964a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.85/SLES_518.85_BG_03.png"
+      },
+      "gameId": "SLES_518.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEGAMAN X7"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_500.60",
+  "cover": {
+    "path": "PS2/SLES_500.60/SLES_500.60_COV.png",
+    "kind": "cover",
+    "bytes": 92809,
+    "width": 192,
+    "height": 272,
+    "sha256": "8b2233de295325e3c54ef3e06b2ce7a49c3f4fc83678c88626a6acff2af1a450",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50060.jpg"
+    },
+    "gameId": "SLES_500.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_500.60/SLES_500.60_BG.png",
+    "kind": "background",
+    "bytes": 204482,
+    "width": 640,
+    "height": 480,
+    "sha256": "fdbf58ec91cfe4320a4c8924ed9f52f95790f6ab4e0da24bcf5a411fe9222459",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.60/SLES_500.60_BG_00.png"
+    },
+    "gameId": "SLES_500.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.60/SLES_500.60_BG.png",
+      "kind": "background",
+      "bytes": 204482,
+      "width": 640,
+      "height": 480,
+      "sha256": "fdbf58ec91cfe4320a4c8924ed9f52f95790f6ab4e0da24bcf5a411fe9222459",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.60/SLES_500.60_BG_00.png"
+      },
+      "gameId": "SLES_500.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "International Superstar Soccer"
+}

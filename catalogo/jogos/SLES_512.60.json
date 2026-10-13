@@ -1,0 +1,51 @@
+{
+  "id": "SLES_512.60",
+  "cover": {
+    "path": "PS2/SLES_512.60/SLES_512.60_COV.png",
+    "kind": "cover",
+    "bytes": 92643,
+    "width": 192,
+    "height": 272,
+    "sha256": "34715a5ab8f4519ea8da6fc5d9993a7b10d2723142d7ed1524e31ea75ff9231e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51260.jpg"
+    },
+    "gameId": "SLES_512.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_512.60/SLES_512.60_BG.png",
+    "kind": "background",
+    "bytes": 139833,
+    "width": 640,
+    "height": 480,
+    "sha256": "10e2ada614353431a9d1d5b5064046ef2afe41356fc8ea5ff132867e84c9fdd4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_512.60/SLES_512.60_BG_00.png"
+    },
+    "gameId": "SLES_512.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_512.60/SLES_512.60_BG.png",
+      "kind": "background",
+      "bytes": 139833,
+      "width": 640,
+      "height": 480,
+      "sha256": "10e2ada614353431a9d1d5b5064046ef2afe41356fc8ea5ff132867e84c9fdd4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.60/SLES_512.60_BG_00.png"
+      },
+      "gameId": "SLES_512.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007 - NIGHTFIRE"
+}

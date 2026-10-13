@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.26",
+  "cover": {
+    "path": "PS2/SLKA_252.26/SLKA_252.26_COV.png",
+    "kind": "cover",
+    "bytes": 87253,
+    "width": 192,
+    "height": 272,
+    "sha256": "4cf4f03d5cb0e2f856045e1182ff33f2a056cc648541fb1d6dfe317d1b6f02d4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25226.jpg"
+    },
+    "gameId": "SLKA_252.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S PIXAR - MR. INCREDIBLE"
+}

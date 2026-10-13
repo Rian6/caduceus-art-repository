@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.33",
+  "cover": {
+    "path": "PS2/SLPM_552.33/SLPM_552.33_COV.png",
+    "kind": "cover",
+    "bytes": 106953,
+    "width": 192,
+    "height": 272,
+    "sha256": "297accce2c57657838173d97e6f0b9ec831fe23f7a89f3483a51e1b83fc8063a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55233.jpg"
+    },
+    "gameId": "SLPM_552.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KIN'IRO NO KORUDA - LA CORDA D'ORO [KOEI TEIBAN SERIES]"
+}

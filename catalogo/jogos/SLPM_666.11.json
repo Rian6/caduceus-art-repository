@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_666.11",
+  "cover": {
+    "path": "PS2/SLPM_666.11/SLPM_666.11_COV.png",
+    "kind": "cover",
+    "bytes": 73258,
+    "width": 192,
+    "height": 272,
+    "sha256": "c36b8fe7a915322413e63f10d6812561af9b6549f049a101fdd94298bb8e3c20",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66611.jpg"
+    },
+    "gameId": "SLPM_666.11"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_666.11/SLPM_666.11_BG.png",
+    "kind": "background",
+    "bytes": 178296,
+    "width": 640,
+    "height": 480,
+    "sha256": "f53b1cdacbf6c45d1f09d31349f6ef6da21a253580bd7673a0b2fdf60117d2b0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_666.11/SLPM_666.11_BG_00.png"
+    },
+    "gameId": "SLPM_666.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_666.11/SLPM_666.11_BG.png",
+      "kind": "background",
+      "bytes": 178296,
+      "width": 640,
+      "height": 480,
+      "sha256": "f53b1cdacbf6c45d1f09d31349f6ef6da21a253580bd7673a0b2fdf60117d2b0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.11/SLPM_666.11_BG_00.png"
+      },
+      "gameId": "SLPM_666.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOMOYO AFTER - IT'S WONDERFUL LIFE (CS EDITION)"
+}

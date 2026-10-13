@@ -1,0 +1,25 @@
+{
+  "id": "SCPM_853.01",
+  "cover": {
+    "path": "PS2/SCPM_853.01/SCPM_853.01_COV.png",
+    "kind": "cover",
+    "bytes": 101902,
+    "width": 192,
+    "height": 272,
+    "sha256": "538e02ec10203177da9b0da34efbe2665ef58eea225790a86bb0787d8b483a82",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPM-85301.jpg"
+    },
+    "gameId": "SCPM_853.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo Concept: Copen Special Edition"
+}

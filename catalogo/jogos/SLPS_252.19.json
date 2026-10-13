@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.19",
+  "cover": {
+    "path": "PS2/SLPS_252.19/SLPS_252.19_COV.png",
+    "kind": "cover",
+    "bytes": 99418,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc7521492d4bb666a30fae7c92a2f83ff0d3779e14c2951fcb2a72ef125839f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25219.jpg"
+    },
+    "gameId": "SLPS_252.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CANARY - KONO OMOI O UTA NI NOSETE"
+}

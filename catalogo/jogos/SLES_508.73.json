@@ -1,0 +1,51 @@
+{
+  "id": "SLES_508.73",
+  "cover": {
+    "path": "PS2/SLES_508.73/SLES_508.73_COV.png",
+    "kind": "cover",
+    "bytes": 73968,
+    "width": 192,
+    "height": 272,
+    "sha256": "1975b34412c48831970e319d1fd8b8f8ef98472439bbf8ad3df2529f3ca5e7b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50873.jpg"
+    },
+    "gameId": "SLES_508.73"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_508.73/SLES_508.73_BG.png",
+    "kind": "background",
+    "bytes": 172290,
+    "width": 640,
+    "height": 480,
+    "sha256": "9e8cb023b1531c4dcad03fb4cdca99493b320fa2fbd9c5aeb91321e94be051df",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_508.73/SLES_508.73_BG_00.png"
+    },
+    "gameId": "SLES_508.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_508.73/SLES_508.73_BG.png",
+      "kind": "background",
+      "bytes": 172290,
+      "width": 640,
+      "height": 480,
+      "sha256": "9e8cb023b1531c4dcad03fb4cdca99493b320fa2fbd9c5aeb91321e94be051df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.73/SLES_508.73_BG_00.png"
+      },
+      "gameId": "SLES_508.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "REIGN OF FIRE"
+}

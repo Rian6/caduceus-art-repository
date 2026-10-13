@@ -1,0 +1,25 @@
+{
+  "id": "SLED_539.54",
+  "cover": {
+    "path": "PS2/SLED_539.54/SLED_539.54_COV.png",
+    "kind": "cover",
+    "bytes": 103339,
+    "width": 192,
+    "height": 272,
+    "sha256": "dabfe11a6d57fbba17ff3e9dbe07bda004bdf104544d3eec71d46de98a4ad7c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLED-53954.jpg"
+    },
+    "gameId": "SLED_539.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Driver: Parallel Lines (Demo)"
+}

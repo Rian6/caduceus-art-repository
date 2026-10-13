@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.04",
+  "cover": {
+    "path": "PS2/SLPS_201.04/SLPS_201.04_COV.png",
+    "kind": "cover",
+    "bytes": 110069,
+    "width": 192,
+    "height": 272,
+    "sha256": "2a7eedc36cc61416d901288471bef8bf44a5b9ba41c61dabc3dcbcfa9209cec3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20104.jpg"
+    },
+    "gameId": "SLPS_201.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BOKUJOU MONOGATARI 3 - HEART NI HI O TSUKETE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCED_531.66",
+  "cover": {
+    "path": "PS2/SCED_531.66/SCED_531.66_COV.png",
+    "kind": "cover",
+    "bytes": 101825,
+    "width": 192,
+    "height": 272,
+    "sha256": "d0e3ac0cc561f87c27358fc6045ac928f54c7a6cd6976f87501932e54e5c8865",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCED-53166.jpg"
+    },
+    "gameId": "SCED_531.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Official PlayStation 2 Magazine Demo 63"
+}

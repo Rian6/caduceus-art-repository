@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.10",
+  "cover": {
+    "path": "PS2/SCAJ_201.10/SCAJ_201.10_COV.png",
+    "kind": "cover",
+    "bytes": 121617,
+    "width": 192,
+    "height": 272,
+    "sha256": "bb784d9e7a94bf51bbc377e1b41e025bc9b6724c4f8970942a846700dfde715d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20110.jpg"
+    },
+    "gameId": "SCAJ_201.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Quest VIII: Sora to Umi to Daichi to Norowareshi Himegimi"
+}

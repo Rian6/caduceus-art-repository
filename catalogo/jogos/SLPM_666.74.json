@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.74",
+  "cover": {
+    "path": "PS2/SLPM_666.74/SLPM_666.74_COV.png",
+    "kind": "cover",
+    "bytes": 79138,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b6565634e0daf9fec278da66bc02f8c5e0d28b4ef392b3d3dafc543c6167d72",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66674.jpg"
+    },
+    "gameId": "SLPM_666.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tiger Woods PGA Tour '07"
+}

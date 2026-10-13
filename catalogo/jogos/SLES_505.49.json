@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.49",
+  "cover": {
+    "path": "PS2/SLES_505.49/SLES_505.49_COV.png",
+    "kind": "cover",
+    "bytes": 94997,
+    "width": 192,
+    "height": 272,
+    "sha256": "5f937ad6de93b31f779483fbdb44ac63cb2d047d5a81eec80a69e09e8f3cb82c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50549.jpg"
+    },
+    "gameId": "SLES_505.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FOOTBALL MANAGER CAMPIONATO 2002"
+}

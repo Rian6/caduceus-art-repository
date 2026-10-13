@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.73",
+  "cover": {
+    "path": "PS2/SCPS_150.73/SCPS_150.73_COV.png",
+    "kind": "cover",
+    "bytes": 88301,
+    "width": 192,
+    "height": 272,
+    "sha256": "9cf601a1ac333b33dc643d2f1c75becfb95101ce7ca102d9c83120235f468829",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15073.jpg"
+    },
+    "gameId": "SCPS_150.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy - FuriFuri Dance Tengoku (With Camera)"
+}

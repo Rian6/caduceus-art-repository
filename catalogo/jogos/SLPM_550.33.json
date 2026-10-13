@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.33",
+  "cover": {
+    "path": "PS2/SLPM_550.33/SLPM_550.33_COV.png",
+    "kind": "cover",
+    "bytes": 109290,
+    "width": 192,
+    "height": 272,
+    "sha256": "f8c1f89352ac0b0ab9da781744808389e9f667f157dd1751e8f0cc4376e87e1f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55033.jpg"
+    },
+    "gameId": "SLPM_550.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "J-League Winning Eleven 2008 Club Championship"
+}

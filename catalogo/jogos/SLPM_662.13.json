@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_662.13",
+  "cover": {
+    "path": "PS2/SLPM_662.13/SLPM_662.13_COV.png",
+    "kind": "cover",
+    "bytes": 91640,
+    "width": 192,
+    "height": 272,
+    "sha256": "fac2de085bfc8ca4eb64f289c11a0547c275123d680eb3b109607534ad0ebf30",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66213.jpg"
+    },
+    "gameId": "SLPM_662.13"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_662.13/SLPM_662.13_BG.png",
+    "kind": "background",
+    "bytes": 212829,
+    "width": 640,
+    "height": 480,
+    "sha256": "3868819713e212b8fc1f14aa3dd63ac16775c710cbb061731602beb368b3a7b9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_662.13/SLPM_662.13_BG_00.png"
+    },
+    "gameId": "SLPM_662.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_662.13/SLPM_662.13_BG.png",
+      "kind": "background",
+      "bytes": 212829,
+      "width": 640,
+      "height": 480,
+      "sha256": "3868819713e212b8fc1f14aa3dd63ac16775c710cbb061731602beb368b3a7b9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.13/SLPM_662.13_BG_00.png"
+      },
+      "gameId": "SLPM_662.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BIOHAZARD 4"
+}

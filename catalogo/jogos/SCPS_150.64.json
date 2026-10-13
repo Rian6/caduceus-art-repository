@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.64",
+  "cover": {
+    "path": "PS2/SCPS_150.64/SCPS_150.64_COV.png",
+    "kind": "cover",
+    "bytes": 86964,
+    "width": 192,
+    "height": 272,
+    "sha256": "a14754ee7a302a41e9502b8f268aa529a49a6e446eb1445ceb199ffc2c7a61f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15064.jpg"
+    },
+    "gameId": "SCPS_150.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.64/SCPS_150.64_BG.png",
+    "kind": "background",
+    "bytes": 163710,
+    "width": 640,
+    "height": 480,
+    "sha256": "8f7ce1fed3c2c783b7e2383cec54ee2a2b0a9bca664f6df79b5cba3377c5d5d1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.64/SCPS_150.64_BG_00.png"
+    },
+    "gameId": "SCPS_150.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.64/SCPS_150.64_BG.png",
+      "kind": "background",
+      "bytes": 163710,
+      "width": 640,
+      "height": 480,
+      "sha256": "8f7ce1fed3c2c783b7e2383cec54ee2a2b0a9bca664f6df79b5cba3377c5d5d1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.64/SCPS_150.64_BG_00.png"
+      },
+      "gameId": "SCPS_150.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Koukaku Kidoutai: Stand Alone Complex"
+}

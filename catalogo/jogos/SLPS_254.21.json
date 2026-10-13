@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.21",
+  "cover": {
+    "path": "PS2/SLPS_254.21/SLPS_254.21_COV.png",
+    "kind": "cover",
+    "bytes": 84296,
+    "width": 192,
+    "height": 272,
+    "sha256": "599f712ca76add5b759c0f612213680d625ce69e76b621118c8f8f42e8413698",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25421.jpg"
+    },
+    "gameId": "SLPS_254.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BOKUJOU MONOGATARI - OH! WONDERFUL LIFE [LIMITED EDITION]"
+}

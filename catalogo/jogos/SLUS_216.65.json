@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_216.65",
+  "cover": {
+    "path": "PS2/SLUS_216.65/SLUS_216.65_COV.png",
+    "kind": "cover",
+    "bytes": 96289,
+    "width": 192,
+    "height": 272,
+    "sha256": "2904d0a378667ca7d8f33655a3f0e83c5e928069f59feee9bc88d328e1c12867",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21665.jpg"
+    },
+    "gameId": "SLUS_216.65"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.65/SLUS_216.65_ICO.png",
+    "kind": "disc",
+    "bytes": 29578,
+    "width": 256,
+    "height": 256,
+    "sha256": "3357d68079bf7a275f29ff43768b3b4cf700ce2ac10776f89b4e3cde3ca9e45b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.65_ICO.png"
+    },
+    "gameId": "SLUS_216.65"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.65/SLUS_216.65_BG.png",
+    "kind": "background",
+    "bytes": 141311,
+    "width": 640,
+    "height": 480,
+    "sha256": "06bfe1615b5f88c0f3ce345ecb4409d6bdeba2cad9fcb5e00c321621bd167ffb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.65/SLUS_216.65_BG_00.png"
+    },
+    "gameId": "SLUS_216.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.65/SLUS_216.65_BG.png",
+      "kind": "background",
+      "bytes": 141311,
+      "width": 640,
+      "height": 480,
+      "sha256": "06bfe1615b5f88c0f3ce345ecb4409d6bdeba2cad9fcb5e00c321621bd167ffb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.65/SLUS_216.65_BG_00.png"
+      },
+      "gameId": "SLUS_216.65"
+    },
+    {
+      "path": "PS2/SLUS_216.65/SLUS_216.65_BG_01.png",
+      "kind": "background",
+      "bytes": 147577,
+      "width": 640,
+      "height": 480,
+      "sha256": "780fd67b3ebaf35fd7e879996c1da530ad5fcc482db33451e86c97a530484a8f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.65/SLUS_216.65_BG_01.png"
+      },
+      "gameId": "SLUS_216.65"
+    },
+    {
+      "path": "PS2/SLUS_216.65/SLUS_216.65_BG_02.png",
+      "kind": "background",
+      "bytes": 162024,
+      "width": 640,
+      "height": 480,
+      "sha256": "ae177087efa6b0e01c6d2b984b819beddeca770357588b95bcb28746b40cac47",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.65/SLUS_216.65_BG_02.png"
+      },
+      "gameId": "SLUS_216.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Simpsons Game"
+}

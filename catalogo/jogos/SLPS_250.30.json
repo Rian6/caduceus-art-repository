@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.30",
+  "cover": {
+    "path": "PS2/SLPS_250.30/SLPS_250.30_COV.png",
+    "kind": "cover",
+    "bytes": 88480,
+    "width": 192,
+    "height": 272,
+    "sha256": "c0f649c543c9f56a967dfc7186cba95ed02ed7b1a5310e646733b08d28988fe6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25030.jpg"
+    },
+    "gameId": "SLPS_250.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Lunatic Dawn - Tempest"
+}

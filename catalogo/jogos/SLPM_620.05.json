@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.05",
+  "cover": {
+    "path": "PS2/SLPM_620.05/SLPM_620.05_COV.png",
+    "kind": "cover",
+    "bytes": 85345,
+    "width": 192,
+    "height": 272,
+    "sha256": "642bc623fff84a5b22110b57b4e4586d59294543e5110f228237e27b3e065de9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62005.jpg"
+    },
+    "gameId": "SLPM_620.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou"
+}

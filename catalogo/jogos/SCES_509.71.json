@@ -1,0 +1,90 @@
+{
+  "id": "SCES_509.71",
+  "cover": {
+    "path": "PS2/SCES_509.71/SCES_509.71_COV.png",
+    "kind": "cover",
+    "bytes": 80263,
+    "width": 192,
+    "height": 272,
+    "sha256": "1b6407a6a1d9a2c632041355466e33fec28721a21461783c5a869754e7d39e07",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50971.jpg"
+    },
+    "gameId": "SCES_509.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_509.71/SCES_509.71_BG.png",
+    "kind": "background",
+    "bytes": 225790,
+    "width": 640,
+    "height": 480,
+    "sha256": "06f3548a66136fec5bc1694cdafb9a8b14c4b26892e15e4d5af4ac8362db5652",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_509.71/SCES_509.71_BG_00.png"
+    },
+    "gameId": "SCES_509.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_509.71/SCES_509.71_BG.png",
+      "kind": "background",
+      "bytes": 225790,
+      "width": 640,
+      "height": 480,
+      "sha256": "06f3548a66136fec5bc1694cdafb9a8b14c4b26892e15e4d5af4ac8362db5652",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.71/SCES_509.71_BG_00.png"
+      },
+      "gameId": "SCES_509.71"
+    },
+    {
+      "path": "PS2/SCES_509.71/SCES_509.71_BG_01.png",
+      "kind": "background",
+      "bytes": 186917,
+      "width": 640,
+      "height": 480,
+      "sha256": "01694c7d170635c968195f9df758e97c602ed01b7177b4af14d37a3b62066bb0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.71/SCES_509.71_BG_01.png"
+      },
+      "gameId": "SCES_509.71"
+    },
+    {
+      "path": "PS2/SCES_509.71/SCES_509.71_BG_02.png",
+      "kind": "background",
+      "bytes": 200680,
+      "width": 640,
+      "height": 480,
+      "sha256": "d15108de961df3eae08f0edc35392888210b164bf3ae995ed3a71209ec48c26b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.71/SCES_509.71_BG_02.png"
+      },
+      "gameId": "SCES_509.71"
+    },
+    {
+      "path": "PS2/SCES_509.71/SCES_509.71_BG_03.png",
+      "kind": "background",
+      "bytes": 186247,
+      "width": 640,
+      "height": 480,
+      "sha256": "2dba7954d24b8c7ddbeaf71d6710f635f78b73f0490cd62181daa1e7bac94fb1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.71/SCES_509.71_BG_03.png"
+      },
+      "gameId": "SCES_509.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kingdom Hearts"
+}

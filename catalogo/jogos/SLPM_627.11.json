@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.11",
+  "cover": {
+    "path": "PS2/SLPM_627.11/SLPM_627.11_COV.png",
+    "kind": "cover",
+    "bytes": 61367,
+    "width": 192,
+    "height": 272,
+    "sha256": "e66c41439f3f796412ccea221547ed1397910c7486273093aea6f9b50a957f1d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62711.jpg"
+    },
+    "gameId": "SLPM_627.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Youkoso Hitsuji-Mura (Superlite 2000 Vol. 36)"
+}

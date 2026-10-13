@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_150.11",
+  "cover": {
+    "path": "PS2/SLKA_150.11/SLKA_150.11_COV.png",
+    "kind": "cover",
+    "bytes": 48059,
+    "width": 192,
+    "height": 272,
+    "sha256": "0e3940b8befafd00cfd4a3515d3cbad3ceca7dffbbd82e3bc2e4a1c78e5666f2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_150.11/SLKA_150.11_COV.png"
+    },
+    "gameId": "SLKA_150.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "XII Stag"
+}

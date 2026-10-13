@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.55",
+  "cover": {
+    "path": "PS2/SCPS_150.55/SCPS_150.55_COV.png",
+    "kind": "cover",
+    "bytes": 57676,
+    "width": 192,
+    "height": 272,
+    "sha256": "5dc897ed9091fbdb473e78dea2bee5a3e3ab7003cbc21c2f363ab6b7a5746660",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15055.jpg"
+    },
+    "gameId": "SCPS_150.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.55/SCPS_150.55_BG.png",
+    "kind": "background",
+    "bytes": 102926,
+    "width": 640,
+    "height": 480,
+    "sha256": "b0bc9fa482f4aa76c05424be75d96aa36f51b97f00be0fa91e6d329f63f8a888",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.55/SCPS_150.55_BG_00.png"
+    },
+    "gameId": "SCPS_150.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.55/SCPS_150.55_BG.png",
+      "kind": "background",
+      "bytes": 102926,
+      "width": 640,
+      "height": 480,
+      "sha256": "b0bc9fa482f4aa76c05424be75d96aa36f51b97f00be0fa91e6d329f63f8a888",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.55/SCPS_150.55_BG_00.png"
+      },
+      "gameId": "SCPS_150.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 4: Prologue"
+}

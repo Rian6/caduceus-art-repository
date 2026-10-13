@@ -1,0 +1,51 @@
+{
+  "id": "SLES_502.48",
+  "cover": {
+    "path": "PS2/SLES_502.48/SLES_502.48_COV.png",
+    "kind": "cover",
+    "bytes": 89702,
+    "width": 192,
+    "height": 272,
+    "sha256": "17c5c216dffb5ce39775cea8c75cc224875169a62cce775b72217838c610ed7d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50248.jpg"
+    },
+    "gameId": "SLES_502.48"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_502.48/SLES_502.48_BG.png",
+    "kind": "background",
+    "bytes": 153689,
+    "width": 640,
+    "height": 480,
+    "sha256": "53ad10db5ddbc926025067127daa60298de006bf0b1cec6f6c11255385889b5a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.48/SLES_502.48_BG_00.png"
+    },
+    "gameId": "SLES_502.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.48/SLES_502.48_BG.png",
+      "kind": "background",
+      "bytes": 153689,
+      "width": 640,
+      "height": 480,
+      "sha256": "53ad10db5ddbc926025067127daa60298de006bf0b1cec6f6c11255385889b5a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.48/SLES_502.48_BG_00.png"
+      },
+      "gameId": "SLES_502.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MDK 2 - ARMAGEDDON"
+}

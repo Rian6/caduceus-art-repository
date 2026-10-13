@@ -1,0 +1,116 @@
+{
+  "id": "SLPM_650.50",
+  "cover": {
+    "path": "PS2/SLPM_650.50/SLPM_650.50_COV.png",
+    "kind": "cover",
+    "bytes": 107196,
+    "width": 192,
+    "height": 272,
+    "sha256": "0da6149819c534b0274df1e29ed3d0d70bc862c383f17fe4e29a7668914c52c8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65050.jpg"
+    },
+    "gameId": "SLPM_650.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_650.50/SLPM_650.50_BG.png",
+    "kind": "background",
+    "bytes": 200771,
+    "width": 640,
+    "height": 480,
+    "sha256": "1331045b53d61859084a787bc2cc8baaf49b550efda595490cdd707ecfdbeec1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_650.50/SLPM_650.50_BG_00.png"
+    },
+    "gameId": "SLPM_650.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_650.50/SLPM_650.50_BG.png",
+      "kind": "background",
+      "bytes": 200771,
+      "width": 640,
+      "height": 480,
+      "sha256": "1331045b53d61859084a787bc2cc8baaf49b550efda595490cdd707ecfdbeec1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.50/SLPM_650.50_BG_00.png"
+      },
+      "gameId": "SLPM_650.50"
+    },
+    {
+      "path": "PS2/SLPM_650.50/SLPM_650.50_BG_01.png",
+      "kind": "background",
+      "bytes": 220183,
+      "width": 640,
+      "height": 480,
+      "sha256": "e435f94efc1503429b9ce1cfa716271cfbf544253e1759cd93596bd0c521ff4b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.50/SLPM_650.50_BG_01.png"
+      },
+      "gameId": "SLPM_650.50"
+    },
+    {
+      "path": "PS2/SLPM_650.50/SLPM_650.50_BG_02.png",
+      "kind": "background",
+      "bytes": 231272,
+      "width": 640,
+      "height": 480,
+      "sha256": "f4ddb31efb13cbc977e8eaef4910d9547f2a630b133051fe7ed1f6ebab8bc4b5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.50/SLPM_650.50_BG_02.png"
+      },
+      "gameId": "SLPM_650.50"
+    },
+    {
+      "path": "PS2/SLPM_650.50/SLPM_650.50_BG_03.png",
+      "kind": "background",
+      "bytes": 156287,
+      "width": 640,
+      "height": 480,
+      "sha256": "f90835af3feac503e895440e1cde0aa56cd0399f868dfd0340070f0dcad51713",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.50/SLPM_650.50_BG_03.png"
+      },
+      "gameId": "SLPM_650.50"
+    },
+    {
+      "path": "PS2/SLPM_650.50/SLPM_650.50_BG_04.png",
+      "kind": "background",
+      "bytes": 179857,
+      "width": 640,
+      "height": 480,
+      "sha256": "e76e128e1e079a47a107dd3477f800a1e79bad2ff4fe172fda754184c22a0068",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.50/SLPM_650.50_BG_04.png"
+      },
+      "gameId": "SLPM_650.50"
+    },
+    {
+      "path": "PS2/SLPM_650.50/SLPM_650.50_BG_05.png",
+      "kind": "background",
+      "bytes": 188015,
+      "width": 640,
+      "height": 480,
+      "sha256": "a8a0265ea5195405cd143626decd28a94e29d93e81dc891ee9c6f25ed7488a46",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.50/SLPM_650.50_BG_05.png"
+      },
+      "gameId": "SLPM_650.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yu-Gi-Oh! Shin Duel Monsters II: Keishou Sareshi Kioku"
+}

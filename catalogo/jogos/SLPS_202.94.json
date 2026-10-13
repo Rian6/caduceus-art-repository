@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.94",
+  "cover": {
+    "path": "PS2/SLPS_202.94/SLPS_202.94_COV.png",
+    "kind": "cover",
+    "bytes": 118205,
+    "width": 192,
+    "height": 272,
+    "sha256": "e57c4adcffe0736449a569cc3c3de82233fb1753ceea3f8787c87814bedb7c26",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20294.jpg"
+    },
+    "gameId": "SLPS_202.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HANABI SHOKUNIN NINAROU 2"
+}

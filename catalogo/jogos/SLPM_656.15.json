@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.15",
+  "cover": {
+    "path": "PS2/SLPM_656.15/SLPM_656.15_COV.png",
+    "kind": "cover",
+    "bytes": 101957,
+    "width": 192,
+    "height": 272,
+    "sha256": "aac7e0d3dbf8b926901a0317f4f6aa87308db4fc400631d818346789a99db1e3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65615.jpg"
+    },
+    "gameId": "SLPM_656.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DOKAPON DX - WATARU SEKAI WA ONI DARAKE"
+}

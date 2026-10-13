@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_252.87",
+  "cover": {
+    "path": "PS2/SLPS_252.87/SLPS_252.87_COV.png",
+    "kind": "cover",
+    "bytes": 96267,
+    "width": 192,
+    "height": 272,
+    "sha256": "fc4836ea26e17ba833f37ab33c327e4a2d1834ed240543c2ea2d6649778bc794",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25287.jpg"
+    },
+    "gameId": "SLPS_252.87"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_252.87/SLPS_252.87_BG.png",
+    "kind": "background",
+    "bytes": 169182,
+    "width": 640,
+    "height": 480,
+    "sha256": "b68c9a611cc277aea159f2de50306cf559413936f55d319b250d8a4c8c49d50e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_252.87/SLPS_252.87_BG_00.png"
+    },
+    "gameId": "SLPS_252.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_252.87/SLPS_252.87_BG.png",
+      "kind": "background",
+      "bytes": 169182,
+      "width": 640,
+      "height": 480,
+      "sha256": "b68c9a611cc277aea159f2de50306cf559413936f55d319b250d8a4c8c49d50e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.87/SLPS_252.87_BG_00.png"
+      },
+      "gameId": "SLPS_252.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hajime no Ippo 2 - Victorious Road"
+}

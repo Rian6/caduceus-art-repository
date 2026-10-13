@@ -1,0 +1,51 @@
+{
+  "id": "SCKA_200.31",
+  "cover": {
+    "path": "PS2/SCKA_200.31/SCKA_200.31_COV.png",
+    "kind": "cover",
+    "bytes": 80883,
+    "width": 192,
+    "height": 272,
+    "sha256": "70ffdbae3f3991443a8d728ea3f61b03be70cc6160bc644d1ca78eecbd444bb2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20031.jpg"
+    },
+    "gameId": "SCKA_200.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.31/SCKA_200.31_BG.png",
+    "kind": "background",
+    "bytes": 161010,
+    "width": 640,
+    "height": 480,
+    "sha256": "66272039bdbe82c3d29852f4d45103530619e6e580c2471dc61e3b0c0267e56a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.31/SCKA_200.31_BG_00.png"
+    },
+    "gameId": "SCKA_200.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.31/SCKA_200.31_BG.png",
+      "kind": "background",
+      "bytes": 161010,
+      "width": 640,
+      "height": 480,
+      "sha256": "66272039bdbe82c3d29852f4d45103530619e6e580c2471dc61e3b0c0267e56a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.31/SCKA_200.31_BG_00.png"
+      },
+      "gameId": "SCKA_200.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ATHENS 2004"
+}

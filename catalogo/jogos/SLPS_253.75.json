@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.75",
+  "cover": {
+    "path": "PS2/SLPS_253.75/SLPS_253.75_COV.png",
+    "kind": "cover",
+    "bytes": 77443,
+    "width": 192,
+    "height": 272,
+    "sha256": "796f9615da8112f34a9c8e42d9698483452c0aeed2904ac23f43e2e5d08396da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25375.jpg"
+    },
+    "gameId": "SLPS_253.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "XIII"
+}

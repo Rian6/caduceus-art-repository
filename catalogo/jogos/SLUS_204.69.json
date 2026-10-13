@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_204.69",
+  "cover": {
+    "path": "PS2/SLUS_204.69/SLUS_204.69_COV.png",
+    "kind": "cover",
+    "bytes": 90168,
+    "width": 192,
+    "height": 272,
+    "sha256": "61b2976318423bc06b5526b4f03aa90d22f7085a09e6c538275e90e1c0cfb33d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20469.jpg"
+    },
+    "gameId": "SLUS_204.69"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.69/SLUS_204.69_ICO.png",
+    "kind": "disc",
+    "bytes": 34720,
+    "width": 256,
+    "height": 256,
+    "sha256": "e42f39ed1bff3c4334683af42e554af2ec0408d48a5b8b499de3e6e39dc61c68",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.69_ICO.png"
+    },
+    "gameId": "SLUS_204.69"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.69/SLUS_204.69_BG.png",
+    "kind": "background",
+    "bytes": 154134,
+    "width": 640,
+    "height": 480,
+    "sha256": "be9748cb5e38c88d9554a756d6e99ed765d5abd77ed4112af3c4be5bc2ff48eb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.69/SLUS_204.69_BG_00.png"
+    },
+    "gameId": "SLUS_204.69"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.69/SLUS_204.69_BG.png",
+      "kind": "background",
+      "bytes": 154134,
+      "width": 640,
+      "height": 480,
+      "sha256": "be9748cb5e38c88d9554a756d6e99ed765d5abd77ed4112af3c4be5bc2ff48eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.69/SLUS_204.69_BG_00.png"
+      },
+      "gameId": "SLUS_204.69"
+    },
+    {
+      "path": "PS2/SLUS_204.69/SLUS_204.69_BG_01.png",
+      "kind": "background",
+      "bytes": 185602,
+      "width": 640,
+      "height": 480,
+      "sha256": "bfb9de65561be85d3346c8809b51e97879b50961e89b15baa17d3086277efb73",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.69/SLUS_204.69_BG_01.png"
+      },
+      "gameId": "SLUS_204.69"
+    },
+    {
+      "path": "PS2/SLUS_204.69/SLUS_204.69_BG_02.png",
+      "kind": "background",
+      "bytes": 199713,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d4616b9caf0a5bf66077b412e0c5d0cbcb430d63b52af2846ee6c08e185fd18",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.69/SLUS_204.69_BG_02.png"
+      },
+      "gameId": "SLUS_204.69"
+    },
+    {
+      "path": "PS2/SLUS_204.69/SLUS_204.69_BG_03.png",
+      "kind": "background",
+      "bytes": 179386,
+      "width": 640,
+      "height": 480,
+      "sha256": "230a5b8c06303a527b6ed01a74a4fa6bc973d4eb893f8a959f37951e5e937b6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.69/SLUS_204.69_BG_03.png"
+      },
+      "gameId": "SLUS_204.69"
+    },
+    {
+      "path": "PS2/SLUS_204.69/SLUS_204.69_BG_04.png",
+      "kind": "background",
+      "bytes": 103687,
+      "width": 640,
+      "height": 480,
+      "sha256": "3bacb72d27fc6630b84695e0ea2f8c0c2fd20835c601279b14f6f0294e02af7b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.69/SLUS_204.69_BG_04.png"
+      },
+      "gameId": "SLUS_204.69"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Xenosaga - Episode I - Der Wille zur Macht"
+}

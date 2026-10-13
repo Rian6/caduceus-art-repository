@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.93",
+  "cover": {
+    "path": "PS2/SCAJ_201.93/SCAJ_201.93_COV.png",
+    "kind": "cover",
+    "bytes": 98817,
+    "width": 192,
+    "height": 272,
+    "sha256": "795aad3dba232e08b808740fd1fb224325c0cb905ff09faf1fa2901effb0cb20",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20193.jpg"
+    },
+    "gameId": "SCAJ_201.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tales of Destiny (Director's Cut)(Premium Box)"
+}

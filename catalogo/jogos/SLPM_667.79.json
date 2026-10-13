@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.79",
+  "cover": {
+    "path": "PS2/SLPM_667.79/SLPM_667.79_COV.png",
+    "kind": "cover",
+    "bytes": 111864,
+    "width": 192,
+    "height": 272,
+    "sha256": "c8c9cc9805640f59b751667019bbfe8cdc676fe981d296280cc3da71b59c1e99",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66779.jpg"
+    },
+    "gameId": "SLPM_667.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Galaxy Angel II - Mugen Kairou no Kagi [2 DISCS]"
+}

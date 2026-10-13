@@ -1,0 +1,39 @@
+{
+  "id": "SLES_543.72",
+  "cover": {
+    "path": "PS2/SLES_543.72/SLES_543.72_COV.png",
+    "kind": "cover",
+    "bytes": 95857,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a12feb32f2794d98076e867e778593f1c8ac2110db1bcecc2c6604a037ac14d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54372.jpg"
+    },
+    "gameId": "SLES_543.72"
+  },
+  "disc": {
+    "path": "PS2/SLES_543.72/SLES_543.72_ICO.png",
+    "kind": "disc",
+    "bytes": 11087,
+    "width": 128,
+    "height": 128,
+    "sha256": "322113f8ad04fef0a9cda3328ec2fd5d01554d90083e44ff553e4dceb4a9ff1f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_543.72_ICO.png"
+    },
+    "gameId": "SLES_543.72"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RTL Biathlon 2007"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.15",
+  "cover": {
+    "path": "PS2/SLKA_252.15/SLKA_252.15_COV.png",
+    "kind": "cover",
+    "bytes": 86708,
+    "width": 192,
+    "height": 272,
+    "sha256": "59e415d9aa49f2bbd76dd81b5a2aad8a7bf3816e0594ef51abdf51db549e674c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25215.jpg"
+    },
+    "gameId": "SLKA_252.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHINING WIND"
+}

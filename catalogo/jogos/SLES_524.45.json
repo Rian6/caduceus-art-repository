@@ -1,0 +1,103 @@
+{
+  "id": "SLES_524.45",
+  "cover": {
+    "path": "PS2/SLES_524.45/SLES_524.45_COV.png",
+    "kind": "cover",
+    "bytes": 85040,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e77dc2b30c8cb2864438d623ff6c68ac3a23bb80f94242c8a6c826a7d684cc7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52445.jpg"
+    },
+    "gameId": "SLES_524.45"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_524.45/SLES_524.45_BG.png",
+    "kind": "background",
+    "bytes": 218938,
+    "width": 640,
+    "height": 480,
+    "sha256": "c937cbd4a1366d60617b5fa49dad65c6002587cfa38e9c6f2f64140d0db38bc5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_524.45/SLES_524.45_BG_00.png"
+    },
+    "gameId": "SLES_524.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_524.45/SLES_524.45_BG.png",
+      "kind": "background",
+      "bytes": 218938,
+      "width": 640,
+      "height": 480,
+      "sha256": "c937cbd4a1366d60617b5fa49dad65c6002587cfa38e9c6f2f64140d0db38bc5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.45/SLES_524.45_BG_00.png"
+      },
+      "gameId": "SLES_524.45"
+    },
+    {
+      "path": "PS2/SLES_524.45/SLES_524.45_BG_01.png",
+      "kind": "background",
+      "bytes": 140635,
+      "width": 640,
+      "height": 480,
+      "sha256": "0b4e1c1c48aaa9c190a83d69dc264630f1310a679d15f9c610eef2004565c8da",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.45/SLES_524.45_BG_01.png"
+      },
+      "gameId": "SLES_524.45"
+    },
+    {
+      "path": "PS2/SLES_524.45/SLES_524.45_BG_02.png",
+      "kind": "background",
+      "bytes": 235966,
+      "width": 640,
+      "height": 480,
+      "sha256": "a80df2dc787da556f1e8fbb987b4f509e2006b0ed95cdb43fe11bdf8af713abd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.45/SLES_524.45_BG_02.png"
+      },
+      "gameId": "SLES_524.45"
+    },
+    {
+      "path": "PS2/SLES_524.45/SLES_524.45_BG_03.png",
+      "kind": "background",
+      "bytes": 129812,
+      "width": 640,
+      "height": 480,
+      "sha256": "d175986fe39ddbf218a1f27af20eb36ee3b97ee3c0c0f8771f710a325628b07c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.45/SLES_524.45_BG_03.png"
+      },
+      "gameId": "SLES_524.45"
+    },
+    {
+      "path": "PS2/SLES_524.45/SLES_524.45_BG_04.png",
+      "kind": "background",
+      "bytes": 222015,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f7691f9a85b5f2b257df6a527de7daa64e79f26277f0a1b4e914149218606ec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.45/SLES_524.45_BG_04.png"
+      },
+      "gameId": "SLES_524.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SILENT HILL 4 - THE ROOM"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_300.03",
+  "cover": {
+    "path": "PS2/SCAJ_300.03/SCAJ_300.03_COV.png",
+    "kind": "cover",
+    "bytes": 81093,
+    "width": 192,
+    "height": 272,
+    "sha256": "ffe42666beb44ab6f6ab8176823e3f8357c9a21ec5071119aab2c2d473332dcb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-30003.jpg"
+    },
+    "gameId": "SCAJ_300.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIREN"
+}

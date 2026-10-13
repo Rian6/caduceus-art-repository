@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.49",
+  "cover": {
+    "path": "PS2/SLAJ_250.49/SLAJ_250.49_COV.png",
+    "kind": "cover",
+    "bytes": 111344,
+    "width": 192,
+    "height": 272,
+    "sha256": "63173fc3aabac32cc7b866ce7e90a77b78415dba90fbc32236ee28efe6230da0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25049.jpg"
+    },
+    "gameId": "SLAJ_250.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KENGO 3"
+}

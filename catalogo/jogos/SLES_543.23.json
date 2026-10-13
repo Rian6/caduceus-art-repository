@@ -1,0 +1,103 @@
+{
+  "id": "SLES_543.23",
+  "cover": {
+    "path": "PS2/SLES_543.23/SLES_543.23_COV.png",
+    "kind": "cover",
+    "bytes": 98774,
+    "width": 192,
+    "height": 272,
+    "sha256": "d3ffec83bf9bb6b2dcdc4132de972f7eeb22a2cbd4713b61d0183d415e58d2f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54323.jpg"
+    },
+    "gameId": "SLES_543.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.23/SLES_543.23_BG.png",
+    "kind": "background",
+    "bytes": 202889,
+    "width": 640,
+    "height": 480,
+    "sha256": "098ce1e747bd8c7661c514b906a1525ebea41ea8cde98292c2cd257d40f7c2df",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.23/SLES_543.23_BG_00.png"
+    },
+    "gameId": "SLES_543.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.23/SLES_543.23_BG.png",
+      "kind": "background",
+      "bytes": 202889,
+      "width": 640,
+      "height": 480,
+      "sha256": "098ce1e747bd8c7661c514b906a1525ebea41ea8cde98292c2cd257d40f7c2df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.23/SLES_543.23_BG_00.png"
+      },
+      "gameId": "SLES_543.23"
+    },
+    {
+      "path": "PS2/SLES_543.23/SLES_543.23_BG_01.png",
+      "kind": "background",
+      "bytes": 142977,
+      "width": 640,
+      "height": 480,
+      "sha256": "0335d06d03425b9d5310f57ba86ec14ff68eb0d760fb9f9b3f34dc7db1c6afde",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.23/SLES_543.23_BG_01.png"
+      },
+      "gameId": "SLES_543.23"
+    },
+    {
+      "path": "PS2/SLES_543.23/SLES_543.23_BG_02.png",
+      "kind": "background",
+      "bytes": 198276,
+      "width": 640,
+      "height": 480,
+      "sha256": "92f33b6a6da0fd04baf50ec4afb3ecfce94c09ef65c57124cae9b05e187d3e35",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.23/SLES_543.23_BG_02.png"
+      },
+      "gameId": "SLES_543.23"
+    },
+    {
+      "path": "PS2/SLES_543.23/SLES_543.23_BG_03.png",
+      "kind": "background",
+      "bytes": 184082,
+      "width": 640,
+      "height": 480,
+      "sha256": "5d0f694164c18afd1396a8afe1c0ad304af2b664531f7e2859d2d6188c957e0d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.23/SLES_543.23_BG_03.png"
+      },
+      "gameId": "SLES_543.23"
+    },
+    {
+      "path": "PS2/SLES_543.23/SLES_543.23_BG_04.png",
+      "kind": "background",
+      "bytes": 200451,
+      "width": 640,
+      "height": 480,
+      "sha256": "0557da5ef5e0258bf3ae731ef1649b751cfc4226116c4df5f0e517c51a1f27b3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.23/SLES_543.23_BG_04.png"
+      },
+      "gameId": "SLES_543.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Need for Speed: Carbon"
+}

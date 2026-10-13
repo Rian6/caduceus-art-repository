@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.47",
+  "cover": {
+    "path": "PS2/SLPM_552.47/SLPM_552.47_COV.png",
+    "kind": "cover",
+    "bytes": 110640,
+    "width": 192,
+    "height": 272,
+    "sha256": "c2442777650995beec00a9cfc894173394c3346f4a9d71f2e0ed027311929552",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55247.jpg"
+    },
+    "gameId": "SLPM_552.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "S.Y.K: Renshouden"
+}

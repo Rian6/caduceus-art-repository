@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.62",
+  "cover": {
+    "path": "PS2/SLPS_202.62/SLPS_202.62_COV.png",
+    "kind": "cover",
+    "bytes": 97636,
+    "width": 192,
+    "height": 272,
+    "sha256": "e512366c0a35dff2d3421a7d14ecdfb794176cab325d691710bfa27883b684d3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20262.jpg"
+    },
+    "gameId": "SLPS_202.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Slot Pro DX -Fujiko 2"
+}

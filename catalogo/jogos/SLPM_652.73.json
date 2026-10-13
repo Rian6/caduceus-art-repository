@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.73",
+  "cover": {
+    "path": "PS2/SLPM_652.73/SLPM_652.73_COV.png",
+    "kind": "cover",
+    "bytes": 103208,
+    "width": 192,
+    "height": 272,
+    "sha256": "fc3f1935630de1fd329eb03c469cae5bb04ce55a6dc515c427cdc34d8bde5511",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65273.jpg"
+    },
+    "gameId": "SLPM_652.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TRIANGLE AGAIN 2"
+}

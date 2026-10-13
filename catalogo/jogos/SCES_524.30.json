@@ -1,0 +1,25 @@
+{
+  "id": "SCES_524.30",
+  "cover": {
+    "path": "PS2/SCES_524.30/SCES_524.30_COV.png",
+    "kind": "cover",
+    "bytes": 102958,
+    "width": 192,
+    "height": 272,
+    "sha256": "373f261b02978c3ed0a8be0822db4ea84f55fc736ee0bd46656cc2718ad061ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52430.jpg"
+    },
+    "gameId": "SCES_524.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Le Monde des Bleus 2005"
+}

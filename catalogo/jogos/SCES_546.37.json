@@ -1,0 +1,39 @@
+{
+  "id": "SCES_546.37",
+  "cover": {
+    "path": "PS2/SCES_546.37/SCES_546.37_COV.png",
+    "kind": "cover",
+    "bytes": 86727,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff806d970e924f9bcc3ae67db3a916165a6a84cd83fa20296710f162c4961332",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54637.jpg"
+    },
+    "gameId": "SCES_546.37"
+  },
+  "disc": {
+    "path": "PS2/SCES_546.37/SCES_546.37_ICO.png",
+    "kind": "disc",
+    "bytes": 11532,
+    "width": 128,
+    "height": 128,
+    "sha256": "b3e21fe19af6ceaa6addc5dd53265f7fb24520b9c7e465bd1c9eb18344a1b819",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_546.37_ICO.png"
+    },
+    "gameId": "SCES_546.37"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gaelic Games - Hurling"
+}

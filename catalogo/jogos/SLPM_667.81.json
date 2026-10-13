@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.81",
+  "cover": {
+    "path": "PS2/SLPM_667.81/SLPM_667.81_COV.png",
+    "kind": "cover",
+    "bytes": 93168,
+    "width": 192,
+    "height": 272,
+    "sha256": "ca410c6daf3d1f567d720c48d4f4dd6ac49f51c2891329a9bbe0e2d57869371d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66781.jpg"
+    },
+    "gameId": "SLPM_667.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Quest - Shonen Yangus to Fushigi no Dungeon (Ultimate Hits)"
+}

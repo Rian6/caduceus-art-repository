@@ -1,0 +1,25 @@
+{
+  "id": "SLES_500.56",
+  "cover": {
+    "path": "PS2/SLES_500.56/SLES_500.56_COV.png",
+    "kind": "cover",
+    "bytes": 104251,
+    "width": 192,
+    "height": 272,
+    "sha256": "a262983dfc75f86cd32a73d6df0a86742b0b2b7407e604ecb218e926a7b4ffd1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50056.jpg"
+    },
+    "gameId": "SLES_500.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Surfing H3O"
+}

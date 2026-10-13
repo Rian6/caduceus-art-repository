@@ -1,0 +1,39 @@
+{
+  "id": "SLES_551.90",
+  "cover": {
+    "path": "PS2/SLES_551.90/SLES_551.90_COV.png",
+    "kind": "cover",
+    "bytes": 97161,
+    "width": 192,
+    "height": 272,
+    "sha256": "5e5a477408da86adf4a48ede3c597851eae317d6247d45c4d4b64dd64b25ad5b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55190.jpg"
+    },
+    "gameId": "SLES_551.90"
+  },
+  "disc": {
+    "path": "PS2/SLES_551.90/SLES_551.90_ICO.png",
+    "kind": "disc",
+    "bytes": 12199,
+    "width": 128,
+    "height": 128,
+    "sha256": "8d6ea28ced33f4aaa76b4f487a1c403ad2d037d701a01cd1f4d420b69bebb2c3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_551.90_ICO.png"
+    },
+    "gameId": "SLES_551.90"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Steam Express"
+}

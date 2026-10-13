@@ -1,0 +1,65 @@
+{
+  "id": "SLES_515.47",
+  "cover": {
+    "path": "PS2/SLES_515.47/SLES_515.47_COV.png",
+    "kind": "cover",
+    "bytes": 77319,
+    "width": 192,
+    "height": 272,
+    "sha256": "5f7ccc4eeeab1346bd7006a9912c932f7db5a36e7fb0d503f9006c11780553ce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51547.jpg"
+    },
+    "gameId": "SLES_515.47"
+  },
+  "disc": {
+    "path": "PS2/SLES_515.47/SLES_515.47_ICO.png",
+    "kind": "disc",
+    "bytes": 9870,
+    "width": 128,
+    "height": 128,
+    "sha256": "aaac54ef1670215cac611e2dae5332fe70dfebbc574936ecab0168efc3924035",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_515.47_ICO.png"
+    },
+    "gameId": "SLES_515.47"
+  },
+  "background": {
+    "path": "PS2/SLES_515.47/SLES_515.47_BG.png",
+    "kind": "background",
+    "bytes": 54090,
+    "width": 640,
+    "height": 480,
+    "sha256": "e30d95408dfb9e42940dd2b20b7e9c9a0ccf084b1eca6ff20bc59a6e4415dc60",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_515.47/SLES_515.47_BG_00.png"
+    },
+    "gameId": "SLES_515.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_515.47/SLES_515.47_BG.png",
+      "kind": "background",
+      "bytes": 54090,
+      "width": 640,
+      "height": 480,
+      "sha256": "e30d95408dfb9e42940dd2b20b7e9c9a0ccf084b1eca6ff20bc59a6e4415dc60",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.47/SLES_515.47_BG_00.png"
+      },
+      "gameId": "SLES_515.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Roland Garros French Open 2003"
+}

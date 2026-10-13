@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.47",
+  "cover": {
+    "path": "PS2/SLPM_742.47/SLPM_742.47_COV.png",
+    "kind": "cover",
+    "bytes": 83695,
+    "width": 192,
+    "height": 272,
+    "sha256": "4b417ad8dec4e58670f3cafaba89eb5d5dec6a4f87a4855d1403c310ac4afb38",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74247.jpg"
+    },
+    "gameId": "SLPM_742.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Musou 2 (PlayStation 2 the Best)"
+}

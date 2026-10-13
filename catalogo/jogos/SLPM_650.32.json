@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_650.32",
+  "cover": {
+    "path": "PS2/SLPM_650.32/SLPM_650.32_COV.png",
+    "kind": "cover",
+    "bytes": 56099,
+    "width": 192,
+    "height": 272,
+    "sha256": "12af0fe23f5a55de485f86591528009d59da43aa916c3877005c689f5a9f192b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65032.jpg"
+    },
+    "gameId": "SLPM_650.32"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_650.32/SLPM_650.32_BG.png",
+    "kind": "background",
+    "bytes": 205468,
+    "width": 640,
+    "height": 480,
+    "sha256": "89d9f1f20a23e9bb0d80c05766e41404b0d20f9007ab58c20351f2f4b09721ca",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_650.32/SLPM_650.32_BG_00.png"
+    },
+    "gameId": "SLPM_650.32"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_650.32/SLPM_650.32_BG.png",
+      "kind": "background",
+      "bytes": 205468,
+      "width": 640,
+      "height": 480,
+      "sha256": "89d9f1f20a23e9bb0d80c05766e41404b0d20f9007ab58c20351f2f4b09721ca",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.32/SLPM_650.32_BG_00.png"
+      },
+      "gameId": "SLPM_650.32"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOKYO BUS ANNAI - KYOU KARA KIMI MO UNTENSHU"
+}

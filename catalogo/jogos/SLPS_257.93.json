@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.93",
+  "cover": {
+    "path": "PS2/SLPS_257.93/SLPS_257.93_COV.png",
+    "kind": "cover",
+    "bytes": 82421,
+    "width": 192,
+    "height": 272,
+    "sha256": "b015fd59e4c063a4dae799b25767ef03ceeda131b054f15ce62632b2b9266c59",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25793.jpg"
+    },
+    "gameId": "SLPS_257.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Garou - Mark of the Wolves(SNK Best Collection)"
+}

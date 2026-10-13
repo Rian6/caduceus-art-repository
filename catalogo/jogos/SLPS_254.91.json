@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.91",
+  "cover": {
+    "path": "PS2/SLPS_254.91/SLPS_254.91_COV.png",
+    "kind": "cover",
+    "bytes": 70837,
+    "width": 192,
+    "height": 272,
+    "sha256": "d894b6ee7f83cb8465f6dd5b86dfb5020ed7750e434d8114db56c4c41de62880",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25491.jpg"
+    },
+    "gameId": "SLPS_254.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SD Gundam G Generation Neo (Gundam The Best)"
+}

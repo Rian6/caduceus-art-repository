@@ -1,0 +1,25 @@
+{
+  "id": "SLES_550.43",
+  "cover": {
+    "path": "PS2/SLES_550.43/SLES_550.43_COV.png",
+    "kind": "cover",
+    "bytes": 93256,
+    "width": 192,
+    "height": 272,
+    "sha256": "056ed7d9b8501a8122bdade7644c7f1657a4a7b592abe7955af9c6cab0029676",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55043.jpg"
+    },
+    "gameId": "SLES_550.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Garfield: Lasagna World Tour"
+}

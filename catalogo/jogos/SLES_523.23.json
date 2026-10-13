@@ -1,0 +1,78 @@
+{
+  "id": "SLES_523.23",
+  "cover": {
+    "path": "PS2/SLES_523.23/SLES_523.23_COV.png",
+    "kind": "cover",
+    "bytes": 72993,
+    "width": 192,
+    "height": 272,
+    "sha256": "c417a090a3648f512939bff6cdcd08c722aeda6cb68a0485c6d81a71c9760b4f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52323.jpg"
+    },
+    "gameId": "SLES_523.23"
+  },
+  "disc": {
+    "path": "PS2/SLES_523.23/SLES_523.23_ICO.png",
+    "kind": "disc",
+    "bytes": 9953,
+    "width": 128,
+    "height": 128,
+    "sha256": "28aee29681ce9c612a104d1273cd637e46e63ee16b7399392101562293bc88cf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_523.23_ICO.png"
+    },
+    "gameId": "SLES_523.23"
+  },
+  "background": {
+    "path": "PS2/SLES_523.23/SLES_523.23_BG.png",
+    "kind": "background",
+    "bytes": 142282,
+    "width": 640,
+    "height": 480,
+    "sha256": "3124a38471c04452db8556cbbc5ce65cdb4e787753f3d4cd5fe14d795a353520",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.23/SLES_523.23_BG_00.png"
+    },
+    "gameId": "SLES_523.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.23/SLES_523.23_BG.png",
+      "kind": "background",
+      "bytes": 142282,
+      "width": 640,
+      "height": 480,
+      "sha256": "3124a38471c04452db8556cbbc5ce65cdb4e787753f3d4cd5fe14d795a353520",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.23/SLES_523.23_BG_00.png"
+      },
+      "gameId": "SLES_523.23"
+    },
+    {
+      "path": "PS2/SLES_523.23/SLES_523.23_BG_01.png",
+      "kind": "background",
+      "bytes": 45469,
+      "width": 640,
+      "height": 480,
+      "sha256": "25c273fa17b9e6b6a08115d24efc19f17880c5f814b2e87479774f951295cf1b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.23/SLES_523.23_BG_01.png"
+      },
+      "gameId": "SLES_523.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Richard Burns Rally"
+}

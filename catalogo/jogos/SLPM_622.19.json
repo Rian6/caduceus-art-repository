@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.19",
+  "cover": {
+    "path": "PS2/SLPM_622.19/SLPM_622.19_COV.png",
+    "kind": "cover",
+    "bytes": 72664,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2bf245a7af6557c1623b970f2e0d7a9c1ddeb09850546082f1110fca899c5a7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62219.jpg"
+    },
+    "gameId": "SLPM_622.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.08 - The Tennis"
+}

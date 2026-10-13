@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.84",
+  "cover": {
+    "path": "PS2/SLPM_660.84/SLPM_660.84_COV.png",
+    "kind": "cover",
+    "bytes": 107188,
+    "width": 192,
+    "height": 272,
+    "sha256": "34ef6f2a731cbe27285a4f1fe56bd857cfdbe2c573420f886da9b6a2987cb7d5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66084.jpg"
+    },
+    "gameId": "SLPM_660.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LAMUNE - GARASU-BIN NI UTURU UMI"
+}

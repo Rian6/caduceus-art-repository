@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_218.35",
+  "cover": {
+    "path": "PS2/SLUS_218.35/SLUS_218.35_COV.png",
+    "kind": "cover",
+    "bytes": 118843,
+    "width": 192,
+    "height": 272,
+    "sha256": "506491cda9f51779e60b428090de0ff5e0e6c7a71b2be0267822d5efbd59e978",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21835.jpg"
+    },
+    "gameId": "SLUS_218.35"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.35/SLUS_218.35_ICO.png",
+    "kind": "disc",
+    "bytes": 38401,
+    "width": 256,
+    "height": 256,
+    "sha256": "74f57e9dad364054e01321d21b987d5f383c566701166133ad4ed2bdf0485f53",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.35_ICO.png"
+    },
+    "gameId": "SLUS_218.35"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.35/SLUS_218.35_BG.png",
+    "kind": "background",
+    "bytes": 238747,
+    "width": 640,
+    "height": 480,
+    "sha256": "c815b95486c6dc469668e53c799c3f50437ca208f6fbd52d9bff3c5d0b3f1b50",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.35/SLUS_218.35_BG_00.png"
+    },
+    "gameId": "SLUS_218.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.35/SLUS_218.35_BG.png",
+      "kind": "background",
+      "bytes": 238747,
+      "width": 640,
+      "height": 480,
+      "sha256": "c815b95486c6dc469668e53c799c3f50437ca208f6fbd52d9bff3c5d0b3f1b50",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.35/SLUS_218.35_BG_00.png"
+      },
+      "gameId": "SLUS_218.35"
+    },
+    {
+      "path": "PS2/SLUS_218.35/SLUS_218.35_BG_01.png",
+      "kind": "background",
+      "bytes": 249477,
+      "width": 640,
+      "height": 480,
+      "sha256": "bc9c0861329f022d60731d4cadadd362d024ccbba6108328d5d29264a6162eac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.35/SLUS_218.35_BG_01.png"
+      },
+      "gameId": "SLUS_218.35"
+    },
+    {
+      "path": "PS2/SLUS_218.35/SLUS_218.35_BG_02.png",
+      "kind": "background",
+      "bytes": 253715,
+      "width": 640,
+      "height": 480,
+      "sha256": "40e953f366f9647c6cbbeb2e2f4ebb03a12b9024b8454c1fd0a10ae3d2d86097",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.35/SLUS_218.35_BG_02.png"
+      },
+      "gameId": "SLUS_218.35"
+    },
+    {
+      "path": "PS2/SLUS_218.35/SLUS_218.35_BG_03.png",
+      "kind": "background",
+      "bytes": 247173,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1dbe37224b7413b6b184ea1535eefe0afcce8525e123b78f45633a25302b5e1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.35/SLUS_218.35_BG_03.png"
+      },
+      "gameId": "SLUS_218.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The History Channel - Civil War - Secret Mission"
+}

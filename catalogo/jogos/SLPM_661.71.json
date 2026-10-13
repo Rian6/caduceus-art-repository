@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.71",
+  "cover": {
+    "path": "PS2/SLPM_661.71/SLPM_661.71_COV.png",
+    "kind": "cover",
+    "bytes": 93470,
+    "width": 192,
+    "height": 272,
+    "sha256": "51a9173a5c131a992cedb4641251c7fb3076c5fe7222dc186fb7a701772aee13",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66171.jpg"
+    },
+    "gameId": "SLPM_661.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live 06"
+}

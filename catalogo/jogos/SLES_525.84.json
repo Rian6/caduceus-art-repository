@@ -1,0 +1,116 @@
+{
+  "id": "SLES_525.84",
+  "cover": {
+    "path": "PS2/SLES_525.84/SLES_525.84_COV.png",
+    "kind": "cover",
+    "bytes": 101007,
+    "width": 192,
+    "height": 272,
+    "sha256": "74fdad001fa77210d6079208da6df887f1e5e40d78f79023de7fa38301cf2d31",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52584.jpg"
+    },
+    "gameId": "SLES_525.84"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.84/SLES_525.84_BG.png",
+    "kind": "background",
+    "bytes": 188469,
+    "width": 640,
+    "height": 480,
+    "sha256": "d1fb6b76f79212f171ac81526c879f4f311ca266bcabdc0bf580f294ddf84943",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.84/SLES_525.84_BG_00.png"
+    },
+    "gameId": "SLES_525.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.84/SLES_525.84_BG.png",
+      "kind": "background",
+      "bytes": 188469,
+      "width": 640,
+      "height": 480,
+      "sha256": "d1fb6b76f79212f171ac81526c879f4f311ca266bcabdc0bf580f294ddf84943",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.84/SLES_525.84_BG_00.png"
+      },
+      "gameId": "SLES_525.84"
+    },
+    {
+      "path": "PS2/SLES_525.84/SLES_525.84_BG_01.png",
+      "kind": "background",
+      "bytes": 210314,
+      "width": 640,
+      "height": 480,
+      "sha256": "666d2ae2097b5cbba0ba1c32a2dc31ce872a925da6ec3e253e5b13d2d40e3647",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.84/SLES_525.84_BG_01.png"
+      },
+      "gameId": "SLES_525.84"
+    },
+    {
+      "path": "PS2/SLES_525.84/SLES_525.84_BG_02.png",
+      "kind": "background",
+      "bytes": 180366,
+      "width": 640,
+      "height": 480,
+      "sha256": "80aaa13e7fc2d021433d647efb0e9bbc45e267a0a2ba082b7f3ad58705713b41",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.84/SLES_525.84_BG_02.png"
+      },
+      "gameId": "SLES_525.84"
+    },
+    {
+      "path": "PS2/SLES_525.84/SLES_525.84_BG_03.png",
+      "kind": "background",
+      "bytes": 186478,
+      "width": 640,
+      "height": 480,
+      "sha256": "2f8e349015941b90cee6818e095f8427242b7a96b7c2b63c7f0399fd8f140edb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.84/SLES_525.84_BG_03.png"
+      },
+      "gameId": "SLES_525.84"
+    },
+    {
+      "path": "PS2/SLES_525.84/SLES_525.84_BG_04.png",
+      "kind": "background",
+      "bytes": 190186,
+      "width": 640,
+      "height": 480,
+      "sha256": "bbbed166a09c012fc8aa1f0c4a7e329be4ccae447928bd4c99c827a1b13b08d1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.84/SLES_525.84_BG_04.png"
+      },
+      "gameId": "SLES_525.84"
+    },
+    {
+      "path": "PS2/SLES_525.84/SLES_525.84_BG_05.png",
+      "kind": "background",
+      "bytes": 187911,
+      "width": 640,
+      "height": 480,
+      "sha256": "e85715e791918b849ff28a8db969927002c809dc428fe7167856909c9cca3bac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.84/SLES_525.84_BG_05.png"
+      },
+      "gameId": "SLES_525.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Burnout 3 - Takedown"
+}

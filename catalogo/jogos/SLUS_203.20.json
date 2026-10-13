@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_203.20",
+  "cover": {
+    "path": "PS2/SLUS_203.20/SLUS_203.20_COV.png",
+    "kind": "cover",
+    "bytes": 95855,
+    "width": 192,
+    "height": 272,
+    "sha256": "718b9ac48591251f6ebfc97c672e828c1dddda382a6b9823ac66b3efa3b027c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20320.jpg"
+    },
+    "gameId": "SLUS_203.20"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.20/SLUS_203.20_ICO.png",
+    "kind": "disc",
+    "bytes": 30079,
+    "width": 256,
+    "height": 256,
+    "sha256": "9732430949e09fb87876d3e0bd80bbacc99bd5d596a5eab600d5ce26488c1a21",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.20_ICO.png"
+    },
+    "gameId": "SLUS_203.20"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN INTERNATIONAL WINTER SPORTS 2002"
+}

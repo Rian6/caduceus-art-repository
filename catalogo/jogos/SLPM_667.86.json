@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.86",
+  "cover": {
+    "path": "PS2/SLPM_667.86/SLPM_667.86_COV.png",
+    "kind": "cover",
+    "bytes": 101038,
+    "width": 192,
+    "height": 272,
+    "sha256": "e8c5cf1c0a0b17123cc1f4d462dda66a35f2a9f04750406c6400961c4f0921ad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66786.jpg"
+    },
+    "gameId": "SLPM_667.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GIFT - PRISM [Sweet So Sweet!]"
+}

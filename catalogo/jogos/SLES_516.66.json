@@ -1,0 +1,25 @@
+{
+  "id": "SLES_516.66",
+  "cover": {
+    "path": "PS2/SLES_516.66/SLES_516.66_COV.png",
+    "kind": "cover",
+    "bytes": 90269,
+    "width": 192,
+    "height": 272,
+    "sha256": "2e6725f54056763664959815c6c3835d80dfd3217753eee46a7a5cafaf54d2d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51666.jpg"
+    },
+    "gameId": "SLES_516.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S PIGLET - EL GRAN JUEGO"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.60",
+  "cover": {
+    "path": "PS2/SLPM_658.60/SLPM_658.60_COV.png",
+    "kind": "cover",
+    "bytes": 103941,
+    "width": 192,
+    "height": 272,
+    "sha256": "a779b422720b169264b1ce12d2e6db28c32cb29c98bf75f1e507c80c0f8dffee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65860.jpg"
+    },
+    "gameId": "SLPM_658.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shinseiki Genso - Spectral Souls II (Limited Edition)"
+}

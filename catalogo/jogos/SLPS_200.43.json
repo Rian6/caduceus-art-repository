@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.43",
+  "cover": {
+    "path": "PS2/SLPS_200.43/SLPS_200.43_COV.png",
+    "kind": "cover",
+    "bytes": 89405,
+    "width": 192,
+    "height": 272,
+    "sha256": "667510217862d871a19312bd6a6e4f70bfe841cbd47d986d8ce61bfa9c19f542",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20043.jpg"
+    },
+    "gameId": "SLPS_200.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Lake Masters EX"
+}

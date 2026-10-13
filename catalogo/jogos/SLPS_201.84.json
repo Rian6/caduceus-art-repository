@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.84",
+  "cover": {
+    "path": "PS2/SLPS_201.84/SLPS_201.84_COV.png",
+    "kind": "cover",
+    "bytes": 104509,
+    "width": 192,
+    "height": 272,
+    "sha256": "c3798cc7c5b8cd77ff763ce1b12272629c7d877550b1fef6355d2fb4525402a1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20184.jpg"
+    },
+    "gameId": "SLPS_201.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Eikan wa Kimini 2002 - Koshien no Kodou"
+}

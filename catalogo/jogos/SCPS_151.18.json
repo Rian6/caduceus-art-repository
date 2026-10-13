@@ -1,0 +1,64 @@
+{
+  "id": "SCPS_151.18",
+  "cover": {
+    "path": "PS2/SCPS_151.18/SCPS_151.18_COV.png",
+    "kind": "cover",
+    "bytes": 76218,
+    "width": 192,
+    "height": 272,
+    "sha256": "cc0275333366a823994288dc58eb6f3590826f0e13cdbbe0904a82c425ef6cce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15118.jpg"
+    },
+    "gameId": "SCPS_151.18"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_151.18/SCPS_151.18_BG.png",
+    "kind": "background",
+    "bytes": 174989,
+    "width": 640,
+    "height": 480,
+    "sha256": "d5b49ab5db472e7d7558740378e080e19d6ce09f8edb08024437a20a953e8990",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_151.18/SCPS_151.18_BG_00.png"
+    },
+    "gameId": "SCPS_151.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_151.18/SCPS_151.18_BG.png",
+      "kind": "background",
+      "bytes": 174989,
+      "width": 640,
+      "height": 480,
+      "sha256": "d5b49ab5db472e7d7558740378e080e19d6ce09f8edb08024437a20a953e8990",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_151.18/SCPS_151.18_BG_00.png"
+      },
+      "gameId": "SCPS_151.18"
+    },
+    {
+      "path": "PS2/SCPS_151.18/SCPS_151.18_BG_01.png",
+      "kind": "background",
+      "bytes": 189619,
+      "width": 640,
+      "height": 480,
+      "sha256": "0e49fe6b263ed82377d9c716bcfab48ecb662ab9aa1c31f422959a64deddaff3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_151.18/SCPS_151.18_BG_01.png"
+      },
+      "gameId": "SCPS_151.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wild ARMs - The Vth Vanguard"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.58",
+  "cover": {
+    "path": "PS2/SLES_526.58/SLES_526.58_COV.png",
+    "kind": "cover",
+    "bytes": 84850,
+    "width": 192,
+    "height": 272,
+    "sha256": "ecf30d8da55b38d79e13b8a1e5b165c090985381a382381615034e6f85f9b1a8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52658.jpg"
+    },
+    "gameId": "SLES_526.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - Hamburg SV"
+}

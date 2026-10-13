@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_250.41",
+  "cover": {
+    "path": "PS2/SLKA_250.41/SLKA_250.41_COV.png",
+    "kind": "cover",
+    "bytes": 82815,
+    "width": 192,
+    "height": 272,
+    "sha256": "6edcb3f1ba0dbd650d35387330274f84eb84980b0d2af1ca2ce06738de8e6fbe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25041.jpg"
+    },
+    "gameId": "SLKA_250.41"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_250.41/SLKA_250.41_BG.png",
+    "kind": "background",
+    "bytes": 204168,
+    "width": 640,
+    "height": 480,
+    "sha256": "a7426bb0f9d51ae748af34248fc22fcbbdf9ec7ed69a311724529df52b083511",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.41/SLKA_250.41_BG_00.png"
+    },
+    "gameId": "SLKA_250.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_250.41/SLKA_250.41_BG.png",
+      "kind": "background",
+      "bytes": 204168,
+      "width": 640,
+      "height": 480,
+      "sha256": "a7426bb0f9d51ae748af34248fc22fcbbdf9ec7ed69a311724529df52b083511",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.41/SLKA_250.41_BG_00.png"
+      },
+      "gameId": "SLKA_250.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core 3 - Silent Line"
+}

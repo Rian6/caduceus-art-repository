@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.03",
+  "cover": {
+    "path": "PS2/SLPM_622.03/SLPM_622.03_COV.png",
+    "kind": "cover",
+    "bytes": 77641,
+    "width": 192,
+    "height": 272,
+    "sha256": "a1d3b1ad4e36a4fbd7fc5fc4987a2e8b54d838d7ce93a86ea041e265a6da94b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62203.jpg"
+    },
+    "gameId": "SLPM_622.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dog of Bay (Reprint)"
+}

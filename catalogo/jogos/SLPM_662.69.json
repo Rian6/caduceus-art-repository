@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.69",
+  "cover": {
+    "path": "PS2/SLPM_662.69/SLPM_662.69_COV.png",
+    "kind": "cover",
+    "bytes": 92256,
+    "width": 192,
+    "height": 272,
+    "sha256": "203663ee9715dd17b31f1b40dbdddaf85147b9b02ed1271702ea71a2a0ccc1f0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66269.jpg"
+    },
+    "gameId": "SLPM_662.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Blazing Souls (Limited Edition)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_529.11",
+  "cover": {
+    "path": "PS2/SLES_529.11/SLES_529.11_COV.png",
+    "kind": "cover",
+    "bytes": 69248,
+    "width": 192,
+    "height": 272,
+    "sha256": "379df15326e324c3ee7867a725f3a25c52b4f51c3151fa73b202321bedab8a23",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52911.jpg"
+    },
+    "gameId": "SLES_529.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "UEFA Champions League 2004-2005"
+}

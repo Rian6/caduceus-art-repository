@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.09",
+  "cover": {
+    "path": "PS2/SLPM_551.09/SLPM_551.09_COV.png",
+    "kind": "cover",
+    "bytes": 75105,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e026f34fcc9655e2b9e21c798c5095e8da59ce22b6dfece6c7aa17e3d96d526",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55109.jpg"
+    },
+    "gameId": "SLPM_551.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Major League Baseball 2K8"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_533.34",
+  "cover": {
+    "path": "PS2/SLES_533.34/SLES_533.34_COV.png",
+    "kind": "cover",
+    "bytes": 101569,
+    "width": 192,
+    "height": 272,
+    "sha256": "b744eaa2fbf3b741eda2362e9b36e0f843cbca7f96412339ecf94de5e764a27e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53334.jpg"
+    },
+    "gameId": "SLES_533.34"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_533.34/SLES_533.34_BG.png",
+    "kind": "background",
+    "bytes": 141667,
+    "width": 640,
+    "height": 480,
+    "sha256": "ad12c12893ea255788db4678cf76a33f4549c5b0ce537a1cce614a1477e9fde4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.34/SLES_533.34_BG_00.png"
+    },
+    "gameId": "SLES_533.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.34/SLES_533.34_BG.png",
+      "kind": "background",
+      "bytes": 141667,
+      "width": 640,
+      "height": 480,
+      "sha256": "ad12c12893ea255788db4678cf76a33f4549c5b0ce537a1cce614a1477e9fde4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.34/SLES_533.34_BG_00.png"
+      },
+      "gameId": "SLES_533.34"
+    },
+    {
+      "path": "PS2/SLES_533.34/SLES_533.34_BG_01.png",
+      "kind": "background",
+      "bytes": 260262,
+      "width": 640,
+      "height": 480,
+      "sha256": "aeaeb33c5827b13eae3bb1ee4acf285e6e3a0d76aa6ed12d0e541f50a80257eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.34/SLES_533.34_BG_01.png"
+      },
+      "gameId": "SLES_533.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEDAL OF HONOR - EUROPEAN ASSAULT"
+}

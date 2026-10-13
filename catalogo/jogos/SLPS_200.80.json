@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.80",
+  "cover": {
+    "path": "PS2/SLPS_200.80/SLPS_200.80_COV.png",
+    "kind": "cover",
+    "bytes": 86301,
+    "width": 192,
+    "height": 272,
+    "sha256": "655659aa1bef442a5a68fd673dcbb98a845967be4be998d47531b7d60d312286",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20080.jpg"
+    },
+    "gameId": "SLPS_200.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ASHITA NO JOE - TOUCHI TYPING NAMIDA HASHI [KEYBOARD SET]"
+}

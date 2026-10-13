@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.68",
+  "cover": {
+    "path": "PS2/SLPS_258.68/SLPS_258.68_COV.png",
+    "kind": "cover",
+    "bytes": 107533,
+    "width": 192,
+    "height": 272,
+    "sha256": "ac20a2e0d824302ed22714cae5a8f0c689a96e376c1463efb10fd65d86745d0b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25868.jpg"
+    },
+    "gameId": "SLPS_258.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HANAYOI ROMANESQUE - AI TO KANASHIMI"
+}

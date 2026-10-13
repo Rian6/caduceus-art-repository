@@ -1,0 +1,65 @@
+{
+  "id": "SLES_518.63",
+  "cover": {
+    "path": "PS2/SLES_518.63/SLES_518.63_COV.png",
+    "kind": "cover",
+    "bytes": 83682,
+    "width": 192,
+    "height": 272,
+    "sha256": "fb18437638c50485c1add1e9670227594615a777d40586f76e6b46425a5a5609",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51863.jpg"
+    },
+    "gameId": "SLES_518.63"
+  },
+  "disc": {
+    "path": "PS2/SLES_518.63/SLES_518.63_ICO.png",
+    "kind": "disc",
+    "bytes": 9955,
+    "width": 128,
+    "height": 128,
+    "sha256": "857a3023b2108550691e6b095e84e31608f8e7d1273015081f715f14a95b104f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_518.63_ICO.png"
+    },
+    "gameId": "SLES_518.63"
+  },
+  "background": {
+    "path": "PS2/SLES_518.63/SLES_518.63_BG.png",
+    "kind": "background",
+    "bytes": 172279,
+    "width": 640,
+    "height": 480,
+    "sha256": "eb241a6018f15a8b43e32fd8a0e5da6e03ccbc59104e5bafc565e55541b12d2c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.63/SLES_518.63_BG_00.png"
+    },
+    "gameId": "SLES_518.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.63/SLES_518.63_BG.png",
+      "kind": "background",
+      "bytes": 172279,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb241a6018f15a8b43e32fd8a0e5da6e03ccbc59104e5bafc565e55541b12d2c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.63/SLES_518.63_BG_00.png"
+      },
+      "gameId": "SLES_518.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Maze Action"
+}

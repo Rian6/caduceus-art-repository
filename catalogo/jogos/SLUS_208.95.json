@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_208.95",
+  "cover": {
+    "path": "PS2/SLUS_208.95/SLUS_208.95_COV.png",
+    "kind": "cover",
+    "bytes": 83409,
+    "width": 192,
+    "height": 272,
+    "sha256": "c3f598dcc84441c90a652092451e32de45a83ab51351adf33e57cca8d92c14aa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20895.jpg"
+    },
+    "gameId": "SLUS_208.95"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.95/SLUS_208.95_ICO.png",
+    "kind": "disc",
+    "bytes": 34971,
+    "width": 256,
+    "height": 256,
+    "sha256": "9d9428f97c7b5c3afd4dacf19291bb8585094afd22eec500e891615217cede14",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.95_ICO.png"
+    },
+    "gameId": "SLUS_208.95"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.95/SLUS_208.95_BG.png",
+    "kind": "background",
+    "bytes": 213964,
+    "width": 640,
+    "height": 480,
+    "sha256": "069fed6409752f738571b3141d727bda35ab570ea7b91c796e1237e767db4eeb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.95/SLUS_208.95_BG_00.png"
+    },
+    "gameId": "SLUS_208.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.95/SLUS_208.95_BG.png",
+      "kind": "background",
+      "bytes": 213964,
+      "width": 640,
+      "height": 480,
+      "sha256": "069fed6409752f738571b3141d727bda35ab570ea7b91c796e1237e767db4eeb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.95/SLUS_208.95_BG_00.png"
+      },
+      "gameId": "SLUS_208.95"
+    },
+    {
+      "path": "PS2/SLUS_208.95/SLUS_208.95_BG_01.png",
+      "kind": "background",
+      "bytes": 168250,
+      "width": 640,
+      "height": 480,
+      "sha256": "2826bb12912bf516edd656286217a30a730f79682361aa00cf6f0fad6da60259",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.95/SLUS_208.95_BG_01.png"
+      },
+      "gameId": "SLUS_208.95"
+    },
+    {
+      "path": "PS2/SLUS_208.95/SLUS_208.95_BG_02.png",
+      "kind": "background",
+      "bytes": 126953,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c4946e5dcb588018c08673916df8da5be78ac08ecbe67fbc1b19119141b7eb4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.95/SLUS_208.95_BG_02.png"
+      },
+      "gameId": "SLUS_208.95"
+    },
+    {
+      "path": "PS2/SLUS_208.95/SLUS_208.95_BG_03.png",
+      "kind": "background",
+      "bytes": 194180,
+      "width": 640,
+      "height": 480,
+      "sha256": "d0d7aab64310c71fb9b476f9d39f6e81f7faac903d18f27ebdedd3b0871481db",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.95/SLUS_208.95_BG_03.png"
+      },
+      "gameId": "SLUS_208.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bujingai: The Forsaken City"
+}

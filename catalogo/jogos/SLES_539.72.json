@@ -1,0 +1,39 @@
+{
+  "id": "SLES_539.72",
+  "cover": {
+    "path": "PS2/SLES_539.72/SLES_539.72_COV.png",
+    "kind": "cover",
+    "bytes": 95770,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf51aa06586146b7e4b3d62645cdfc5ac2f67cf3c6b23766b33a2e71b4093b74",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53972.jpg"
+    },
+    "gameId": "SLES_539.72"
+  },
+  "disc": {
+    "path": "PS2/SLES_539.72/SLES_539.72_ICO.png",
+    "kind": "disc",
+    "bytes": 11245,
+    "width": 128,
+    "height": 128,
+    "sha256": "3860ec7a95dc49e1b3a4bf305c64e42e7edc85ffe71612421708f0c6f9ce78e4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_539.72_ICO.png"
+    },
+    "gameId": "SLES_539.72"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Stock Car Crash"
+}

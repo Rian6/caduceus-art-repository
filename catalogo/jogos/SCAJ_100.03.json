@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_100.03",
+  "cover": {
+    "path": "PS2/SCAJ_100.03/SCAJ_100.03_COV.png",
+    "kind": "cover",
+    "bytes": 99170,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ee100571796573aaabaa116882f90fdf4da563fd394908fccd78b94337631bb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-10003.jpg"
+    },
+    "gameId": "SCAJ_100.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin - Doki! Shinkyoku Darake no Haru Matsuri"
+}

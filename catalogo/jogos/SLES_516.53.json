@@ -1,0 +1,64 @@
+{
+  "id": "SLES_516.53",
+  "cover": {
+    "path": "PS2/SLES_516.53/SLES_516.53_COV.png",
+    "kind": "cover",
+    "bytes": 103706,
+    "width": 192,
+    "height": 272,
+    "sha256": "61cbbc8b36c8c682d9952a7b3f798f37d8e3a638cb633902a736ddba21b7d720",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51653.jpg"
+    },
+    "gameId": "SLES_516.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_516.53/SLES_516.53_BG.png",
+    "kind": "background",
+    "bytes": 188404,
+    "width": 640,
+    "height": 480,
+    "sha256": "3314dce906e4bc7275c17cafa5a108ad2c72266c1f5fccd6ba291a3dc6a3cc0f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_516.53/SLES_516.53_BG_00.png"
+    },
+    "gameId": "SLES_516.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_516.53/SLES_516.53_BG.png",
+      "kind": "background",
+      "bytes": 188404,
+      "width": 640,
+      "height": 480,
+      "sha256": "3314dce906e4bc7275c17cafa5a108ad2c72266c1f5fccd6ba291a3dc6a3cc0f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.53/SLES_516.53_BG_00.png"
+      },
+      "gameId": "SLES_516.53"
+    },
+    {
+      "path": "PS2/SLES_516.53/SLES_516.53_BG_01.png",
+      "kind": "background",
+      "bytes": 164170,
+      "width": 640,
+      "height": 480,
+      "sha256": "a4ad5702e7038dee65a76241533f1904c5412cb0a7ec877b9ce766df8762b012",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.53/SLES_516.53_BG_01.png"
+      },
+      "gameId": "SLES_516.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MACE GRIFFIN - BOUNTY HUNTER"
+}

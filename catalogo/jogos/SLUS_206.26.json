@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_206.26",
+  "cover": {
+    "path": "PS2/SLUS_206.26/SLUS_206.26_COV.png",
+    "kind": "cover",
+    "bytes": 106950,
+    "width": 192,
+    "height": 272,
+    "sha256": "a584d6f33f403ff1db38c37500c31fb31164634113af71c1bab2b7ee573bc4ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20626.jpg"
+    },
+    "gameId": "SLUS_206.26"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.26/SLUS_206.26_ICO.png",
+    "kind": "disc",
+    "bytes": 34723,
+    "width": 256,
+    "height": 256,
+    "sha256": "1b60db09526c66bc88091a5b09c9309f34b8bd491bdccac3565ce1d9ace8faca",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.26_ICO.png"
+    },
+    "gameId": "SLUS_206.26"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.26/SLUS_206.26_BG.png",
+    "kind": "background",
+    "bytes": 234918,
+    "width": 640,
+    "height": 480,
+    "sha256": "f89dc14fb4346b06812c2d8a3a5781abdf920f0440b3247d924f08a845669d8a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.26/SLUS_206.26_BG_00.png"
+    },
+    "gameId": "SLUS_206.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.26/SLUS_206.26_BG.png",
+      "kind": "background",
+      "bytes": 234918,
+      "width": 640,
+      "height": 480,
+      "sha256": "f89dc14fb4346b06812c2d8a3a5781abdf920f0440b3247d924f08a845669d8a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.26/SLUS_206.26_BG_00.png"
+      },
+      "gameId": "SLUS_206.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEER HUNTER"
+}

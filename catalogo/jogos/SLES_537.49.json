@@ -1,0 +1,25 @@
+{
+  "id": "SLES_537.49",
+  "cover": {
+    "path": "PS2/SLES_537.49/SLES_537.49_COV.png",
+    "kind": "cover",
+    "bytes": 101354,
+    "width": 192,
+    "height": 272,
+    "sha256": "75d2b468acefa64b89d9b4f27d540c119154fa4c263cbbc159ab86fb68dc0e89",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53749.jpg"
+    },
+    "gameId": "SLES_537.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cake Mania - Baker's Challenge"
+}

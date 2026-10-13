@@ -1,0 +1,51 @@
+{
+  "id": "SLES_511.24",
+  "cover": {
+    "path": "PS2/SLES_511.24/SLES_511.24_COV.png",
+    "kind": "cover",
+    "bytes": 92153,
+    "width": 192,
+    "height": 272,
+    "sha256": "572eadfefc3238830cbf6be2b672ac25fc89d8947018c2115a9dc0238ada26c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51124.jpg"
+    },
+    "gameId": "SLES_511.24"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_511.24/SLES_511.24_BG.png",
+    "kind": "background",
+    "bytes": 255250,
+    "width": 640,
+    "height": 480,
+    "sha256": "3882600ff42bdc226e6c57e99a63ff7f649c77cc90ba53bd51844cb8540029bb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_511.24/SLES_511.24_BG_00.png"
+    },
+    "gameId": "SLES_511.24"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_511.24/SLES_511.24_BG.png",
+      "kind": "background",
+      "bytes": 255250,
+      "width": 640,
+      "height": 480,
+      "sha256": "3882600ff42bdc226e6c57e99a63ff7f649c77cc90ba53bd51844cb8540029bb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.24/SLES_511.24_BG_00.png"
+      },
+      "gameId": "SLES_511.24"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TUROK - EVOLUTION"
+}

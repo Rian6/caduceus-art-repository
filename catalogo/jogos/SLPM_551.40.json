@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.40",
+  "cover": {
+    "path": "PS2/SLPM_551.40/SLPM_551.40_COV.png",
+    "kind": "cover",
+    "bytes": 92442,
+    "width": 192,
+    "height": 272,
+    "sha256": "a29960587da3d2f86d614d2573eb2561f1b3854c234dc8dcca5edbb5a0fe7957",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55140.jpg"
+    },
+    "gameId": "SLPM_551.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SILENT HILL 4 - THE ROOM [KONAMI DENDOU SELECTION]"
+}

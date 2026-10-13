@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_214.03",
+  "cover": {
+    "path": "PS2/SLUS_214.03/SLUS_214.03_COV.png",
+    "kind": "cover",
+    "bytes": 102560,
+    "width": 192,
+    "height": 272,
+    "sha256": "1232266276bd3e67ef33866cd21e4830e750582b03c3f1cf919aafd54f4e40b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21403.jpg"
+    },
+    "gameId": "SLUS_214.03"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.03/SLUS_214.03_ICO.png",
+    "kind": "disc",
+    "bytes": 28363,
+    "width": 256,
+    "height": 256,
+    "sha256": "1a673d0f9876060a32e31ecaa3144af1f10e91080087cea3bd7b9cf2dcaf9673",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.03_ICO.png"
+    },
+    "gameId": "SLUS_214.03"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Backyard Sports: Baseball 2007"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.78",
+  "cover": {
+    "path": "PS2/SLPM_653.78/SLPM_653.78_COV.png",
+    "kind": "cover",
+    "bytes": 83652,
+    "width": 192,
+    "height": 272,
+    "sha256": "4c2ccb19e20ad95b127604029b4f633ef8fbe48550fdc84b6634f744bb5f22d6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65378.jpg"
+    },
+    "gameId": "SLPM_653.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Busin 0- Wizardry Alternative Neo"
+}

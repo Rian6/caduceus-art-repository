@@ -1,0 +1,64 @@
+{
+  "id": "SLES_536.39",
+  "cover": {
+    "path": "PS2/SLES_536.39/SLES_536.39_COV.png",
+    "kind": "cover",
+    "bytes": 101233,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc2d32abd28bdfa16283df2302767db4bc2a336b664292787a0c59f28e58d3f6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53639.jpg"
+    },
+    "gameId": "SLES_536.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_536.39/SLES_536.39_BG.png",
+    "kind": "background",
+    "bytes": 77114,
+    "width": 640,
+    "height": 480,
+    "sha256": "36bdcb233b42693db4cf17e0f6b0430809389839db953234f26c01d46199aec1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.39/SLES_536.39_BG_00.png"
+    },
+    "gameId": "SLES_536.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_536.39/SLES_536.39_BG.png",
+      "kind": "background",
+      "bytes": 77114,
+      "width": 640,
+      "height": 480,
+      "sha256": "36bdcb233b42693db4cf17e0f6b0430809389839db953234f26c01d46199aec1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.39/SLES_536.39_BG_00.png"
+      },
+      "gameId": "SLES_536.39"
+    },
+    {
+      "path": "PS2/SLES_536.39/SLES_536.39_BG_01.png",
+      "kind": "background",
+      "bytes": 171796,
+      "width": 640,
+      "height": 480,
+      "sha256": "a970e5ec14ae8c45efcb41514153d7e74980d1005c7dd63ce71c2a1d3da3b0e2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.39/SLES_536.39_BG_01.png"
+      },
+      "gameId": "SLES_536.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ford Street Racing"
+}

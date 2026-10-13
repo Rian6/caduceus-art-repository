@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.04",
+  "cover": {
+    "path": "PS2/SLPS_253.04/SLPS_253.04_COV.png",
+    "kind": "cover",
+    "bytes": 90051,
+    "width": 192,
+    "height": 272,
+    "sha256": "566c7675f5a01072604b9bac6ad9914ea64e3310eb7d64a5d144e03ad3b98b7f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25304.jpg"
+    },
+    "gameId": "SLPS_253.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BEAST SAPP"
+}

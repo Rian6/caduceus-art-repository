@@ -1,0 +1,78 @@
+{
+  "id": "SLES_527.76",
+  "cover": {
+    "path": "PS2/SLES_527.76/SLES_527.76_COV.png",
+    "kind": "cover",
+    "bytes": 115086,
+    "width": 192,
+    "height": 272,
+    "sha256": "5a31db85f439f01c107c39c8d7bc0061e61385d6fb471a3675b73cf9c80f565b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52776.jpg"
+    },
+    "gameId": "SLES_527.76"
+  },
+  "disc": {
+    "path": "PS2/SLES_527.76/SLES_527.76_ICO.png",
+    "kind": "disc",
+    "bytes": 10391,
+    "width": 128,
+    "height": 128,
+    "sha256": "456d30e55c629fb9acef8d160da0cfae6b4ec7908d894c8af4a6a0b94d29b544",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_527.76_ICO.png"
+    },
+    "gameId": "SLES_527.76"
+  },
+  "background": {
+    "path": "PS2/SLES_527.76/SLES_527.76_BG.png",
+    "kind": "background",
+    "bytes": 189130,
+    "width": 640,
+    "height": 480,
+    "sha256": "075acb0e986598a95394c42eee86a93d80eb48e5a4b291a9e2f9ee96b2a655df",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.76/SLES_527.76_BG_00.png"
+    },
+    "gameId": "SLES_527.76"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.76/SLES_527.76_BG.png",
+      "kind": "background",
+      "bytes": 189130,
+      "width": 640,
+      "height": 480,
+      "sha256": "075acb0e986598a95394c42eee86a93d80eb48e5a4b291a9e2f9ee96b2a655df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.76/SLES_527.76_BG_00.png"
+      },
+      "gameId": "SLES_527.76"
+    },
+    {
+      "path": "PS2/SLES_527.76/SLES_527.76_BG_01.png",
+      "kind": "background",
+      "bytes": 153781,
+      "width": 640,
+      "height": 480,
+      "sha256": "883b2b010bf9b7fed464822de417ed820d8399fc7641e85755e6e91e2a5bcd7e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.76/SLES_527.76_BG_01.png"
+      },
+      "gameId": "SLES_527.76"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Junior Board Games"
+}

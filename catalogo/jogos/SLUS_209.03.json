@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_209.03",
+  "cover": {
+    "path": "PS2/SLUS_209.03/SLUS_209.03_COV.png",
+    "kind": "cover",
+    "bytes": 111164,
+    "width": 192,
+    "height": 272,
+    "sha256": "c0ba0aee9c115a7e27764b34488b2662a8308608b466816c5f20d1ea385c4692",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20903.jpg"
+    },
+    "gameId": "SLUS_209.03"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.03/SLUS_209.03_ICO.png",
+    "kind": "disc",
+    "bytes": 32374,
+    "width": 256,
+    "height": 256,
+    "sha256": "96cccccff598c935b1f5777a7188dcb6aa87c53f4a6776cf24f07a413ac99ce4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.03_ICO.png"
+    },
+    "gameId": "SLUS_209.03"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.03/SLUS_209.03_BG.png",
+    "kind": "background",
+    "bytes": 156417,
+    "width": 640,
+    "height": 480,
+    "sha256": "0cd2ad83fb02b1946301019ac6120809c1cf5232de0b3b1b3fc9938dd1182217",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.03/SLUS_209.03_BG_00.png"
+    },
+    "gameId": "SLUS_209.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.03/SLUS_209.03_BG.png",
+      "kind": "background",
+      "bytes": 156417,
+      "width": 640,
+      "height": 480,
+      "sha256": "0cd2ad83fb02b1946301019ac6120809c1cf5232de0b3b1b3fc9938dd1182217",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.03/SLUS_209.03_BG_00.png"
+      },
+      "gameId": "SLUS_209.03"
+    },
+    {
+      "path": "PS2/SLUS_209.03/SLUS_209.03_BG_01.png",
+      "kind": "background",
+      "bytes": 213410,
+      "width": 640,
+      "height": 480,
+      "sha256": "16bc5f4b50b6fcb7bc4108523c13a97205761cff181af90cc87b98b7f389e098",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.03/SLUS_209.03_BG_01.png"
+      },
+      "gameId": "SLUS_209.03"
+    },
+    {
+      "path": "PS2/SLUS_209.03/SLUS_209.03_BG_02.png",
+      "kind": "background",
+      "bytes": 173522,
+      "width": 640,
+      "height": 480,
+      "sha256": "199aa055cc46282dd237defc7e7edf36413d4183568318099e8cf9ecf312db7f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.03/SLUS_209.03_BG_02.png"
+      },
+      "gameId": "SLUS_209.03"
+    },
+    {
+      "path": "PS2/SLUS_209.03/SLUS_209.03_BG_03.png",
+      "kind": "background",
+      "bytes": 225813,
+      "width": 640,
+      "height": 480,
+      "sha256": "2dff98369beff75d52b131a5d4055a54b457454982a27c911d208f08cf2317a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.03/SLUS_209.03_BG_03.png"
+      },
+      "gameId": "SLUS_209.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEGAMAN X - COMMAND MISSION"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCES_556.63",
+  "cover": {
+    "path": "PS2/SCES_556.63/SCES_556.63_COV.png",
+    "kind": "cover",
+    "bytes": 104835,
+    "width": 192,
+    "height": 272,
+    "sha256": "709a5abd2905c05c3482a6cc9342c4e1a9a1ebce00360b2ab124ca45c10454b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55663.jpg"
+    },
+    "gameId": "SCES_556.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Street Cricket Champions 2"
+}

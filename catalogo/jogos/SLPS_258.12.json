@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.12",
+  "cover": {
+    "path": "PS2/SLPS_258.12/SLPS_258.12_COV.png",
+    "kind": "cover",
+    "bytes": 101895,
+    "width": 192,
+    "height": 272,
+    "sha256": "84b4e7df13b90c4f65718e58712b1c2be00f165d56bb04884016a81fb331bb16",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25812.jpg"
+    },
+    "gameId": "SLPS_258.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TORI NO HOSHI - AERIAL PLANET"
+}

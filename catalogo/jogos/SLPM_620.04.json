@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.04",
+  "cover": {
+    "path": "PS2/SLPM_620.04/SLPM_620.04_COV.png",
+    "kind": "cover",
+    "bytes": 82873,
+    "width": 192,
+    "height": 272,
+    "sha256": "b8e4895a08ed5a741d0966ef34261574ef4cec962f9eab71a8b880eff52b3cd5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62004.jpg"
+    },
+    "gameId": "SLPM_620.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mahjong Yarouze 2"
+}

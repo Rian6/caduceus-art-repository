@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.99",
+  "cover": {
+    "path": "PS2/SCAJ_201.99/SCAJ_201.99_COV.png",
+    "kind": "cover",
+    "bytes": 98455,
+    "width": 192,
+    "height": 272,
+    "sha256": "071a941b4e0a4fb71eded0ba2be5e6f7d16a2aebf4e017c2ab3ae27e451714df",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20199.jpg"
+    },
+    "gameId": "SCAJ_201.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tekken 5 (Playstation 2 The Best)"
+}

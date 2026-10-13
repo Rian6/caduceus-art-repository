@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.43",
+  "cover": {
+    "path": "PS2/SLPS_251.43/SLPS_251.43_COV.png",
+    "kind": "cover",
+    "bytes": 115765,
+    "width": 192,
+    "height": 272,
+    "sha256": "05d7d32fe7248e463f576bee1c66fd407eae72bae05887942a43aabe1e07c838",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25143.jpg"
+    },
+    "gameId": "SLPS_251.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": ".Hack Akunshou Heni Vol.2"
+}

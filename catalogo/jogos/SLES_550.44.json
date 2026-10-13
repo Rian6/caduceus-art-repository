@@ -1,0 +1,25 @@
+{
+  "id": "SLES_550.44",
+  "cover": {
+    "path": "PS2/SLES_550.44/SLES_550.44_COV.png",
+    "kind": "cover",
+    "bytes": 96996,
+    "width": 192,
+    "height": 272,
+    "sha256": "0ea0da1b093b15a034804e0f9a66f8d4d0fc91a3b88c2ab2a7ecc2bf44b6a490",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55044.jpg"
+    },
+    "gameId": "SLES_550.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Premier Manager 09"
+}

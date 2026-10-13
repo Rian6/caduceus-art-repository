@@ -1,0 +1,77 @@
+{
+  "id": "SLPM_552.71",
+  "cover": {
+    "path": "PS2/SLPM_552.71/SLPM_552.71_COV.png",
+    "kind": "cover",
+    "bytes": 89474,
+    "width": 192,
+    "height": 272,
+    "sha256": "edd5fb0a4aca826d77b099689b37e47fabb9cbc0de917dcdc0ce6a338a5e071e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55271.jpg"
+    },
+    "gameId": "SLPM_552.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_552.71/SLPM_552.71_BG.png",
+    "kind": "background",
+    "bytes": 165059,
+    "width": 640,
+    "height": 480,
+    "sha256": "8eba97a67b6efe9e3bb376aed1f47f949bb6efb179cee7ad40e262e771fd5a5e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_552.71/SLPM_552.71_BG_00.png"
+    },
+    "gameId": "SLPM_552.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_552.71/SLPM_552.71_BG.png",
+      "kind": "background",
+      "bytes": 165059,
+      "width": 640,
+      "height": 480,
+      "sha256": "8eba97a67b6efe9e3bb376aed1f47f949bb6efb179cee7ad40e262e771fd5a5e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_552.71/SLPM_552.71_BG_00.png"
+      },
+      "gameId": "SLPM_552.71"
+    },
+    {
+      "path": "PS2/SLPM_552.71/SLPM_552.71_BG_01.png",
+      "kind": "background",
+      "bytes": 186652,
+      "width": 640,
+      "height": 480,
+      "sha256": "9445a8f3cc8975b67554b0ee70ae13dcbd16197c2602f31b3baaaf0db8f5aafd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_552.71/SLPM_552.71_BG_01.png"
+      },
+      "gameId": "SLPM_552.71"
+    },
+    {
+      "path": "PS2/SLPM_552.71/SLPM_552.71_BG_02.png",
+      "kind": "background",
+      "bytes": 188770,
+      "width": 640,
+      "height": 480,
+      "sha256": "a690d9542cc73cf3988d64a9198737d68e6a6ad7ec5073f63269d18193120c3e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_552.71/SLPM_552.71_BG_02.png"
+      },
+      "gameId": "SLPM_552.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA 10: World Class Soccer (EA:SY! 1980)"
+}

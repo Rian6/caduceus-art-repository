@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_971.79",
+  "cover": {
+    "path": "PS2/SCUS_971.79/SCUS_971.79_COV.png",
+    "kind": "cover",
+    "bytes": 69503,
+    "width": 192,
+    "height": 272,
+    "sha256": "32b12e59bd9cd8f07c5b3aa1d82a47fad3437348226b1d62b009b7bea77fe331",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97179.jpg"
+    },
+    "gameId": "SCUS_971.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TWISTED METAL - BLACK [GREATEST HITS]"
+}

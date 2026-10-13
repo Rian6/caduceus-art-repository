@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.28",
+  "cover": {
+    "path": "PS2/SLPM_552.28/SLPM_552.28_COV.png",
+    "kind": "cover",
+    "bytes": 106870,
+    "width": 192,
+    "height": 272,
+    "sha256": "93e6336387f712b5bfd39938758eaf2e5320b0820056e83fb11095afc095e116",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55228.jpg"
+    },
+    "gameId": "SLPM_552.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLOTTER UP MANIA 11 - 2027 VS 2027 II"
+}

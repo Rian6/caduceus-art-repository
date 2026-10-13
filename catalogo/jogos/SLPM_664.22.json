@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.22",
+  "cover": {
+    "path": "PS2/SLPM_664.22/SLPM_664.22_COV.png",
+    "kind": "cover",
+    "bytes": 66645,
+    "width": 192,
+    "height": 272,
+    "sha256": "10da7e2e4dd23205f591f5d0dd35bc67eb1f8cf6cd660598339cfa7c613dd96f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66422.jpg"
+    },
+    "gameId": "SLPM_664.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROMANCING SAGA - MINSTREL SONG [ULTIMATE HITS]"
+}

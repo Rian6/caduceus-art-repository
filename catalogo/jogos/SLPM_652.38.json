@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_652.38",
+  "cover": {
+    "path": "PS2/SLPM_652.38/SLPM_652.38_COV.png",
+    "kind": "cover",
+    "bytes": 111059,
+    "width": 192,
+    "height": 272,
+    "sha256": "1f7494efc11c708f211aebf8a61ef97f15b28195a57f5c5156c21e15a722ae94",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65238.jpg"
+    },
+    "gameId": "SLPM_652.38"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_652.38/SLPM_652.38_BG.png",
+    "kind": "background",
+    "bytes": 185888,
+    "width": 640,
+    "height": 480,
+    "sha256": "a2e5214e535b1ec843dd0f890234f147cd7ebdf9628f91a5293ee54ff951608f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_652.38/SLPM_652.38_BG_00.png"
+    },
+    "gameId": "SLPM_652.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_652.38/SLPM_652.38_BG.png",
+      "kind": "background",
+      "bytes": 185888,
+      "width": 640,
+      "height": 480,
+      "sha256": "a2e5214e535b1ec843dd0f890234f147cd7ebdf9628f91a5293ee54ff951608f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_652.38/SLPM_652.38_BG_00.png"
+      },
+      "gameId": "SLPM_652.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Angelic Concert (Special Box)"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SCES_529.30",
+  "cover": {
+    "path": "PS2/SCES_529.30/SCES_529.30_COV.png",
+    "kind": "cover",
+    "bytes": 96049,
+    "width": 192,
+    "height": 272,
+    "sha256": "29a22cbd64a729a71ab86e6df92c328b5a7da7b682bbffc14c5df49bdbdf7849",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52930.jpg"
+    },
+    "gameId": "SCES_529.30"
+  },
+  "disc": {
+    "path": "PS2/SCES_529.30/SCES_529.30_ICO.png",
+    "kind": "disc",
+    "bytes": 10311,
+    "width": 128,
+    "height": 128,
+    "sha256": "e9476bf195def9212564268aabe3239ca1581135f16795a28e8b69f9a8ddb65d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_529.30_ICO.png"
+    },
+    "gameId": "SCES_529.30"
+  },
+  "background": {
+    "path": "PS2/SCES_529.30/SCES_529.30_BG.png",
+    "kind": "background",
+    "bytes": 170939,
+    "width": 640,
+    "height": 480,
+    "sha256": "85101499654283c2ee4c84be282c13895ef59e691c43560c72e2916bf3cb4326",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_529.30/SCES_529.30_BG_00.png"
+    },
+    "gameId": "SCES_529.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_529.30/SCES_529.30_BG.png",
+      "kind": "background",
+      "bytes": 170939,
+      "width": 640,
+      "height": 480,
+      "sha256": "85101499654283c2ee4c84be282c13895ef59e691c43560c72e2916bf3cb4326",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_529.30/SCES_529.30_BG_00.png"
+      },
+      "gameId": "SCES_529.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy: Monkey Mania"
+}

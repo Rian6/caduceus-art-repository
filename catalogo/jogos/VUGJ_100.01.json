@@ -1,0 +1,25 @@
+{
+  "id": "VUGJ_100.01",
+  "cover": {
+    "path": "PS2/VUGJ_100.01/VUGJ_100.01_COV.png",
+    "kind": "cover",
+    "bytes": 85577,
+    "width": 192,
+    "height": 272,
+    "sha256": "498fb37af13e1e11da6fe6b5cf9c9795166b4ebc85dbf12064fb4e4bcb051c01",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/VUGJ-10001.jpg"
+    },
+    "gameId": "VUGJ_100.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ICE AGE 2 - THE MELTDOWN (WITH DVD)"
+}

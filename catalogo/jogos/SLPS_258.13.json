@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.13",
+  "cover": {
+    "path": "PS2/SLPS_258.13/SLPS_258.13_COV.png",
+    "kind": "cover",
+    "bytes": 100246,
+    "width": 192,
+    "height": 272,
+    "sha256": "a11803def00154989c481e2af9f9cb36808a3d420ef96929bec1828df682a4cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25813.jpg"
+    },
+    "gameId": "SLPS_258.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hisshou Pachinko*Pachi-Slot Kouryoku Series Vol. 11 - CR Shinseiki Evangelion - Magokoro o, Kimi ni"
+}

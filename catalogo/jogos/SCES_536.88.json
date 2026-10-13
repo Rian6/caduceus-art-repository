@@ -1,0 +1,90 @@
+{
+  "id": "SCES_536.88",
+  "cover": {
+    "path": "PS2/SCES_536.88/SCES_536.88_COV.png",
+    "kind": "cover",
+    "bytes": 99947,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed4bb76a3945d7d0e60d9dab3d91eb6582d6ac92402daafde6c2d6b9ba6f62bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53688.jpg"
+    },
+    "gameId": "SCES_536.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_536.88/SCES_536.88_BG.png",
+    "kind": "background",
+    "bytes": 207900,
+    "width": 640,
+    "height": 480,
+    "sha256": "513c2779e572da0f890ed9c8370ed0add68584b59b331b01faf74b5f6922809f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_536.88/SCES_536.88_BG_00.png"
+    },
+    "gameId": "SCES_536.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_536.88/SCES_536.88_BG.png",
+      "kind": "background",
+      "bytes": 207900,
+      "width": 640,
+      "height": 480,
+      "sha256": "513c2779e572da0f890ed9c8370ed0add68584b59b331b01faf74b5f6922809f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_536.88/SCES_536.88_BG_00.png"
+      },
+      "gameId": "SCES_536.88"
+    },
+    {
+      "path": "PS2/SCES_536.88/SCES_536.88_BG_01.png",
+      "kind": "background",
+      "bytes": 194593,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b67d55cdea1ea90e679d0c2a4a101f74567598aee8a2de0d68b8bfe83b5d016",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_536.88/SCES_536.88_BG_01.png"
+      },
+      "gameId": "SCES_536.88"
+    },
+    {
+      "path": "PS2/SCES_536.88/SCES_536.88_BG_02.png",
+      "kind": "background",
+      "bytes": 213640,
+      "width": 640,
+      "height": 480,
+      "sha256": "b44c9742a60e5dc78d922ebba8c8bbde926944c7481a615f410cede531470346",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_536.88/SCES_536.88_BG_02.png"
+      },
+      "gameId": "SCES_536.88"
+    },
+    {
+      "path": "PS2/SCES_536.88/SCES_536.88_BG_03.png",
+      "kind": "background",
+      "bytes": 184614,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc77c252adee85084622ae4f8761e7a89f56786713a533693edc2955260aa53a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_536.88/SCES_536.88_BG_03.png"
+      },
+      "gameId": "SCES_536.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "URBAN REIGN"
+}

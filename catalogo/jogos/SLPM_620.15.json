@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_620.15",
+  "cover": {
+    "path": "PS2/SLPM_620.15/SLPM_620.15_COV.png",
+    "kind": "cover",
+    "bytes": 92164,
+    "width": 192,
+    "height": 272,
+    "sha256": "e2b5c6fe266e44a1c108697f0252078ce2cb10e5db6e3428f0b4667365023303",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62015.jpg"
+    },
+    "gameId": "SLPM_620.15"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_620.15/SLPM_620.15_BG.png",
+    "kind": "background",
+    "bytes": 182969,
+    "width": 640,
+    "height": 480,
+    "sha256": "66e36cbe73ba687d0c3355f4c3aad70c9fe80192fe358dde7d20976766b582da",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_620.15/SLPM_620.15_BG_00.png"
+    },
+    "gameId": "SLPM_620.15"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_620.15/SLPM_620.15_BG.png",
+      "kind": "background",
+      "bytes": 182969,
+      "width": 640,
+      "height": 480,
+      "sha256": "66e36cbe73ba687d0c3355f4c3aad70c9fe80192fe358dde7d20976766b582da",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.15/SLPM_620.15_BG_00.png"
+      },
+      "gameId": "SLPM_620.15"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SILPHEED - THE LOST PLANET"
+}

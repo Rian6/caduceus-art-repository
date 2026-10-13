@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.92",
+  "cover": {
+    "path": "PS2/SCKA_200.92/SCKA_200.92_COV.png",
+    "kind": "cover",
+    "bytes": 112449,
+    "width": 192,
+    "height": 272,
+    "sha256": "841615fd725df0680a19b8c28a8ab69664e3db480a08d1d6835a5ffe3c75ef41",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20092.jpg"
+    },
+    "gameId": "SCKA_200.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "K-1 World GP 2006"
+}

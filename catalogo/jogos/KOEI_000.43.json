@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_000.43",
+  "cover": {
+    "path": "PS2/KOEI_000.43/KOEI_000.43_COV.png",
+    "kind": "cover",
+    "bytes": 62363,
+    "width": 192,
+    "height": 272,
+    "sha256": "859598917c3f655358d023ff661a20b446fb471ede6ae83e3c77979c5b05a749",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_000.43/KOEI_000.43_COV.png"
+    },
+    "gameId": "KOEI_000.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winning Post 7 (Premium Box)"
+}

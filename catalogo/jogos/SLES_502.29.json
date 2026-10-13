@@ -1,0 +1,51 @@
+{
+  "id": "SLES_502.29",
+  "cover": {
+    "path": "PS2/SLES_502.29/SLES_502.29_COV.png",
+    "kind": "cover",
+    "bytes": 105909,
+    "width": 192,
+    "height": 272,
+    "sha256": "6586b638931055ee5685fbd2f68f1692f5d8e217c6e032acb475141d9d7c730a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50229.jpg"
+    },
+    "gameId": "SLES_502.29"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_502.29/SLES_502.29_BG.png",
+    "kind": "background",
+    "bytes": 168372,
+    "width": 640,
+    "height": 480,
+    "sha256": "9efa54ae6a4b7a66b5a4ecc5f026b345e744409a543452e6b8aad5681de57f0d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.29/SLES_502.29_BG_00.png"
+    },
+    "gameId": "SLES_502.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.29/SLES_502.29_BG.png",
+      "kind": "background",
+      "bytes": 168372,
+      "width": 640,
+      "height": 480,
+      "sha256": "9efa54ae6a4b7a66b5a4ecc5f026b345e744409a543452e6b8aad5681de57f0d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.29/SLES_502.29_BG_00.png"
+      },
+      "gameId": "SLES_502.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "La Fuga de Monkey Island"
+}

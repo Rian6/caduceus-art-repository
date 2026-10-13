@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.92",
+  "cover": {
+    "path": "PS2/SLPM_662.92/SLPM_662.92_COV.png",
+    "kind": "cover",
+    "bytes": 96375,
+    "width": 192,
+    "height": 272,
+    "sha256": "a10bdcc19ac80bde4cac16db3216f0ea94b4e89baea4ed9957cbdc641da09af8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66292.jpg"
+    },
+    "gameId": "SLPM_662.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jissen Pachi-Slot Hisshouhou! Ultraman Club ST"
+}

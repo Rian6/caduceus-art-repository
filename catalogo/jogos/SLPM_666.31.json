@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.31",
+  "cover": {
+    "path": "PS2/SLPM_666.31/SLPM_666.31_COV.png",
+    "kind": "cover",
+    "bytes": 88197,
+    "width": 192,
+    "height": 272,
+    "sha256": "afb5e0f1d35c4b5698fad966a520cb79759ccd61ae44fa99c071f63861369d97",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66631.jpg"
+    },
+    "gameId": "SLPM_666.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GOKUJO SEITOKAI [KONAMI THE BEST]"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_212.29",
+  "cover": {
+    "path": "PS2/SLUS_212.29/SLUS_212.29_COV.png",
+    "kind": "cover",
+    "bytes": 109848,
+    "width": 192,
+    "height": 272,
+    "sha256": "95fd063b4c4a8cb23ce2802ec61b67b7a514f895ee1753e7e72200c379b7e768",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21229.jpg"
+    },
+    "gameId": "SLUS_212.29"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.29/SLUS_212.29_ICO.png",
+    "kind": "disc",
+    "bytes": 36980,
+    "width": 256,
+    "height": 256,
+    "sha256": "cd9704d6234359c2b902c3e11e4aafeaad8538c61fcc3972cc3f087ea5e01863",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.29_ICO.png"
+    },
+    "gameId": "SLUS_212.29"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Motocross Mania 3"
+}

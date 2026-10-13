@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.34",
+  "cover": {
+    "path": "PS2/SLAJ_250.34/SLAJ_250.34_COV.png",
+    "kind": "cover",
+    "bytes": 89434,
+    "width": 192,
+    "height": 272,
+    "sha256": "30e7ccc26b3164356b0850d388c58ba5e4a6882fd7bebf589ee9b30a926548d0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25034.jpg"
+    },
+    "gameId": "SLAJ_250.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAKURA TAISEN MONOGATARI - MYSTERIOUS PARIS"
+}

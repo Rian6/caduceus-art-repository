@@ -1,0 +1,25 @@
+{
+  "id": "SLES_517.82",
+  "cover": {
+    "path": "PS2/SLES_517.82/SLES_517.82_COV.png",
+    "kind": "cover",
+    "bytes": 58069,
+    "width": 192,
+    "height": 272,
+    "sha256": "d7038b8a9f96d12d17ac36b4532f9bce17103271d47e36ff769150756a2aa41b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.82/SLES_517.82_COV.png"
+    },
+    "gameId": "SLES_517.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fire Warrior"
+}

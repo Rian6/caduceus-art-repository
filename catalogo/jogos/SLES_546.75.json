@@ -1,0 +1,39 @@
+{
+  "id": "SLES_546.75",
+  "cover": {
+    "path": "PS2/SLES_546.75/SLES_546.75_COV.png",
+    "kind": "cover",
+    "bytes": 91818,
+    "width": 192,
+    "height": 272,
+    "sha256": "8fa77b625dc821f4e41e798db6b8cab1cbe9dc859a2fd61ff322741f8f24a1a3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54675.jpg"
+    },
+    "gameId": "SLES_546.75"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.75/SLES_546.75_ICO.png",
+    "kind": "disc",
+    "bytes": 9845,
+    "width": 128,
+    "height": 128,
+    "sha256": "3cafe92cd58de08000dbb10061b19c1a54d92d1b5ad73f8c00190ee2e520ea9c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.75_ICO.png"
+    },
+    "gameId": "SLES_546.75"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Street Warrior"
+}

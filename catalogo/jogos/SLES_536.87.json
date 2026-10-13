@@ -1,0 +1,51 @@
+{
+  "id": "SLES_536.87",
+  "cover": {
+    "path": "PS2/SLES_536.87/SLES_536.87_COV.png",
+    "kind": "cover",
+    "bytes": 88169,
+    "width": 192,
+    "height": 272,
+    "sha256": "e0c3733a671403579b9e7b28d39be1b430ce4ef0dede1d7276480a7810686d61",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53687.jpg"
+    },
+    "gameId": "SLES_536.87"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_536.87/SLES_536.87_BG.png",
+    "kind": "background",
+    "bytes": 439434,
+    "width": 640,
+    "height": 480,
+    "sha256": "9ee39dd0d668839448afbafd37ed17c1a206ed555036ee798b875582922efaa6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.87/SLES_536.87_BG_00.png"
+    },
+    "gameId": "SLES_536.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_536.87/SLES_536.87_BG.png",
+      "kind": "background",
+      "bytes": 439434,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ee39dd0d668839448afbafd37ed17c1a206ed555036ee798b875582922efaa6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.87/SLES_536.87_BG_00.png"
+      },
+      "gameId": "SLES_536.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA 2K6"
+}

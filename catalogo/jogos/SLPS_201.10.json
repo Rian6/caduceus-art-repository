@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.10",
+  "cover": {
+    "path": "PS2/SLPS_201.10/SLPS_201.10_COV.png",
+    "kind": "cover",
+    "bytes": 95362,
+    "width": 192,
+    "height": 272,
+    "sha256": "f30d106c1606c6f154df844d3d9645f79b065f81b48676aacf6cb6753abd4053",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20110.jpg"
+    },
+    "gameId": "SLPS_201.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mezase! Meimon Yakyuubu 2"
+}

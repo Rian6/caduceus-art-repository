@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.44",
+  "cover": {
+    "path": "PS2/SLPS_203.44/SLPS_203.44_COV.png",
+    "kind": "cover",
+    "bytes": 66100,
+    "width": 192,
+    "height": 272,
+    "sha256": "c61012213f5e9e6ee06d25e97eac551e658b3fea64513600db47b106ed678c0c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_203.44/SLPS_203.44_COV.png"
+    },
+    "gameId": "SLPS_203.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Phantom Brave (Limieted Edition)"
+}

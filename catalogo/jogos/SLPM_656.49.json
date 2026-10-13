@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.49",
+  "cover": {
+    "path": "PS2/SLPM_656.49/SLPM_656.49_COV.png",
+    "kind": "cover",
+    "bytes": 101275,
+    "width": 192,
+    "height": 272,
+    "sha256": "70a899b0b46e17ca58d0e2c6ef518e07b7601b06ad22438900fbfceec2f164c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65649.jpg"
+    },
+    "gameId": "SLPM_656.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Street Vol.2 (EA Best Hits)"
+}

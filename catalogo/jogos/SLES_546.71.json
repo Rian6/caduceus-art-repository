@@ -1,0 +1,39 @@
+{
+  "id": "SLES_546.71",
+  "cover": {
+    "path": "PS2/SLES_546.71/SLES_546.71_COV.png",
+    "kind": "cover",
+    "bytes": 93987,
+    "width": 192,
+    "height": 272,
+    "sha256": "14e6b6eb578d044869949a05e21eebaf6fa83046408b27c066cc4437920775f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54671.jpg"
+    },
+    "gameId": "SLES_546.71"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.71/SLES_546.71_ICO.png",
+    "kind": "disc",
+    "bytes": 11580,
+    "width": 128,
+    "height": 128,
+    "sha256": "f5e688d0eb15a650328af802aac2d59ba3ca31a2a8ef39d3177e048afbf8135f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.71_ICO.png"
+    },
+    "gameId": "SLES_546.71"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Johnny Bravo in The Hukka-Mega-Mighty-Ultra-Extreme Date-O-Rama!"
+}

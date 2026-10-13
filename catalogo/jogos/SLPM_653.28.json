@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_653.28",
+  "cover": {
+    "path": "PS2/SLPM_653.28/SLPM_653.28_COV.png",
+    "kind": "cover",
+    "bytes": 102375,
+    "width": 192,
+    "height": 272,
+    "sha256": "09d5008feab3fa9c71a5d474b9010f9dec334be19f8ecfc16270265adf8de45e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65328.jpg"
+    },
+    "gameId": "SLPM_653.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_653.28/SLPM_653.28_BG.png",
+    "kind": "background",
+    "bytes": 235780,
+    "width": 640,
+    "height": 480,
+    "sha256": "cf61b02f515bfc8229e84254a9ad3969341123b7aa1ed6b80fbce2508409c04e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_653.28/SLPM_653.28_BG_00.png"
+    },
+    "gameId": "SLPM_653.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_653.28/SLPM_653.28_BG.png",
+      "kind": "background",
+      "bytes": 235780,
+      "width": 640,
+      "height": 480,
+      "sha256": "cf61b02f515bfc8229e84254a9ad3969341123b7aa1ed6b80fbce2508409c04e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_653.28/SLPM_653.28_BG_00.png"
+      },
+      "gameId": "SLPM_653.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHIRACHUU TANKENBU"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.20",
+  "cover": {
+    "path": "PS2/SLPM_551.20/SLPM_551.20_COV.png",
+    "kind": "cover",
+    "bytes": 104272,
+    "width": 192,
+    "height": 272,
+    "sha256": "e68b4c7191fa0b47cb8b2d16b1e3e406c870d9c5e7f5c16bcbf44a36286449f5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55120.jpg"
+    },
+    "gameId": "SLPM_551.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FUKAKUTEI SEKAI NO TANTEI SHINSHI - AKUGYOU FUTAASA NO JIKEN FILE [LIMITED EDITION]"
+}

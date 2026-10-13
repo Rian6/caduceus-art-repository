@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_651.85",
+  "cover": {
+    "path": "PS2/SLPM_651.85/SLPM_651.85_COV.png",
+    "kind": "cover",
+    "bytes": 86822,
+    "width": 192,
+    "height": 272,
+    "sha256": "408ee14eab0c64da730bb82b873ce46ad4583400392d7cbe17571d5fd1381704",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65185.jpg"
+    },
+    "gameId": "SLPM_651.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_651.85/SLPM_651.85_BG.png",
+    "kind": "background",
+    "bytes": 93569,
+    "width": 640,
+    "height": 480,
+    "sha256": "185f3394ca5cd367ad81476ddf59e3c8ec2a607eb75e3535a1e47410d39be896",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_651.85/SLPM_651.85_BG_00.png"
+    },
+    "gameId": "SLPM_651.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_651.85/SLPM_651.85_BG.png",
+      "kind": "background",
+      "bytes": 93569,
+      "width": 640,
+      "height": 480,
+      "sha256": "185f3394ca5cd367ad81476ddf59e3c8ec2a607eb75e3535a1e47410d39be896",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_651.85/SLPM_651.85_BG_00.png"
+      },
+      "gameId": "SLPM_651.85"
+    },
+    {
+      "path": "PS2/SLPM_651.85/SLPM_651.85_BG_01.png",
+      "kind": "background",
+      "bytes": 138249,
+      "width": 640,
+      "height": 480,
+      "sha256": "48bbbfde50a1b907ef607897dad0178deecac86b8b1ddd5146df43f2bbe2010a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_651.85/SLPM_651.85_BG_01.png"
+      },
+      "gameId": "SLPM_651.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ferrari F355 Challenge"
+}

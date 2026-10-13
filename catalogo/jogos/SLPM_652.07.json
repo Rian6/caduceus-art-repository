@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.07",
+  "cover": {
+    "path": "PS2/SLPM_652.07/SLPM_652.07_COV.png",
+    "kind": "cover",
+    "bytes": 103150,
+    "width": 192,
+    "height": 272,
+    "sha256": "70354a1f1da23c365c74f79fafd44b81cc2105123aec7381ec7967aba7b16012",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65207.jpg"
+    },
+    "gameId": "SLPM_652.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CHOU BATTLE HOUSIN"
+}

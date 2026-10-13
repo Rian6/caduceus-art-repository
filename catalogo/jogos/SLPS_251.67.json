@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.67",
+  "cover": {
+    "path": "PS2/SLPS_251.67/SLPS_251.67_COV.png",
+    "kind": "cover",
+    "bytes": 81530,
+    "width": 192,
+    "height": 272,
+    "sha256": "a20586d3d61583963ec043402b92b93dce72d50356aa554210d7746c04ad310a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25167.jpg"
+    },
+    "gameId": "SLPS_251.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Triple Play 2002"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.31",
+  "cover": {
+    "path": "PS2/SLPS_203.31/SLPS_203.31_COV.png",
+    "kind": "cover",
+    "bytes": 107229,
+    "width": 192,
+    "height": 272,
+    "sha256": "a7cc6e68874df3f68836cbe13a62e397e6995fcb167755e7f9d56b271d5088ff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20331.jpg"
+    },
+    "gameId": "SLPS_203.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fever 9 - Sankyo Koushiki Pachinko Simulation"
+}

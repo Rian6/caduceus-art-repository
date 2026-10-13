@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_731.07",
+  "cover": {
+    "path": "PS2/SLPS_731.07/SLPS_731.07_COV.png",
+    "kind": "cover",
+    "bytes": 99352,
+    "width": 192,
+    "height": 272,
+    "sha256": "6fdf1ffa67603196120605317bdbba7e6eea29d3063cbf0f964693558f0604fe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73107.jpg"
+    },
+    "gameId": "SLPS_731.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin - Go! Go! Godaime (Playstation 2 The Best)"
+}

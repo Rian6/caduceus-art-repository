@@ -1,0 +1,65 @@
+{
+  "id": "SLPS_259.06",
+  "cover": {
+    "path": "PS2/SLPS_259.06/SLPS_259.06_COV.png",
+    "kind": "cover",
+    "bytes": 108303,
+    "width": 192,
+    "height": 272,
+    "sha256": "11281aa298c936ede16c583e10a4835f0a06cd5700ac3fd9843fc3b0177654b7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25906.jpg"
+    },
+    "gameId": "SLPS_259.06"
+  },
+  "disc": {
+    "path": "PS2/SLPS_259.06/SLPS_259.06_ICO.png",
+    "kind": "disc",
+    "bytes": 10549,
+    "width": 128,
+    "height": 128,
+    "sha256": "5d83ef46f078b384b7f421aa86dcd8f1ca6f84e4efb4b1a13d9a992e3970383e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_259.06_ICO.png"
+    },
+    "gameId": "SLPS_259.06"
+  },
+  "background": {
+    "path": "PS2/SLPS_259.06/SLPS_259.06_BG.png",
+    "kind": "background",
+    "bytes": 166541,
+    "width": 640,
+    "height": 480,
+    "sha256": "2dad069619445f14341abf9306a0166e6121e8c8ef838fe8ff5517e0a75374db",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_259.06/SLPS_259.06_BG_00.png"
+    },
+    "gameId": "SLPS_259.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_259.06/SLPS_259.06_BG.png",
+      "kind": "background",
+      "bytes": 166541,
+      "width": 640,
+      "height": 480,
+      "sha256": "2dad069619445f14341abf9306a0166e6121e8c8ef838fe8ff5517e0a75374db",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_259.06/SLPS_259.06_BG_00.png"
+      },
+      "gameId": "SLPS_259.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ADK Damashii"
+}

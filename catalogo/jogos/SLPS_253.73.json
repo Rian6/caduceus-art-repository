@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_253.73",
+  "cover": {
+    "path": "PS2/SLPS_253.73/SLPS_253.73_COV.png",
+    "kind": "cover",
+    "bytes": 79477,
+    "width": 192,
+    "height": 272,
+    "sha256": "6479ac770046245e7e9db6c6361cfc5a8f3516f82cfacf36b3af6525660480ba",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25373.jpg"
+    },
+    "gameId": "SLPS_253.73"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_253.73/SLPS_253.73_BG.png",
+    "kind": "background",
+    "bytes": 172665,
+    "width": 640,
+    "height": 480,
+    "sha256": "443b8d9a581b194e1a343b134f9614b295e7f3ce1ac50fd92792a160224c2af7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.73/SLPS_253.73_BG_00.png"
+    },
+    "gameId": "SLPS_253.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.73/SLPS_253.73_BG.png",
+      "kind": "background",
+      "bytes": 172665,
+      "width": 640,
+      "height": 480,
+      "sha256": "443b8d9a581b194e1a343b134f9614b295e7f3ce1ac50fd92792a160224c2af7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.73/SLPS_253.73_BG_00.png"
+      },
+      "gameId": "SLPS_253.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUNSLINGER GIRL VOLUME 2"
+}

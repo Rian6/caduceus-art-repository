@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.58",
+  "cover": {
+    "path": "PS2/SCAJ_201.58/SCAJ_201.58_COV.png",
+    "kind": "cover",
+    "bytes": 80677,
+    "width": 192,
+    "height": 272,
+    "sha256": "d3d01a08fac2ede782cef9a84574a761d813f21333354af3d3b5e96272d3a809",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20158.jpg"
+    },
+    "gameId": "SCAJ_201.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ikusa Gami"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SCES_525.82",
+  "cover": {
+    "path": "PS2/SCES_525.82/SCES_525.82_COV.png",
+    "kind": "cover",
+    "bytes": 95670,
+    "width": 192,
+    "height": 272,
+    "sha256": "cae574a0c13e0701262a8d2908ec2aebab79f1daa75a51023768a4e4aa4bfd16",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52582.jpg"
+    },
+    "gameId": "SCES_525.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_525.82/SCES_525.82_BG.png",
+    "kind": "background",
+    "bytes": 173189,
+    "width": 640,
+    "height": 480,
+    "sha256": "59977eee84d1615ad713347d9ddc02fd741e5ad00b2211364130a3e1de6c5428",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_525.82/SCES_525.82_BG_00.png"
+    },
+    "gameId": "SCES_525.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_525.82/SCES_525.82_BG.png",
+      "kind": "background",
+      "bytes": 173189,
+      "width": 640,
+      "height": 480,
+      "sha256": "59977eee84d1615ad713347d9ddc02fd741e5ad00b2211364130a3e1de6c5428",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_525.82/SCES_525.82_BG_00.png"
+      },
+      "gameId": "SCES_525.82"
+    },
+    {
+      "path": "PS2/SCES_525.82/SCES_525.82_BG_01.png",
+      "kind": "background",
+      "bytes": 151026,
+      "width": 640,
+      "height": 480,
+      "sha256": "1bb1cda98e9cdbe0e8105103967151f4060f513f668ebf085a061482831fac98",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_525.82/SCES_525.82_BG_01.png"
+      },
+      "gameId": "SCES_525.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EVERYBODY'S GOLF"
+}

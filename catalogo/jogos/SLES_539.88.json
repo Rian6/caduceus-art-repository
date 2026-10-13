@@ -1,0 +1,51 @@
+{
+  "id": "SLES_539.88",
+  "cover": {
+    "path": "PS2/SLES_539.88/SLES_539.88_COV.png",
+    "kind": "cover",
+    "bytes": 97883,
+    "width": 192,
+    "height": 272,
+    "sha256": "aca3d574c1ce181669fd8807e1ce23c6b5390e841fc9420b61bf9a6380a0546b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53988.jpg"
+    },
+    "gameId": "SLES_539.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_539.88/SLES_539.88_BG.png",
+    "kind": "background",
+    "bytes": 183966,
+    "width": 640,
+    "height": 480,
+    "sha256": "ece887f55e88a8ccf1390c4606cde163ea89177d34b42c6020b806b2505f2135",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.88/SLES_539.88_BG_00.png"
+    },
+    "gameId": "SLES_539.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.88/SLES_539.88_BG.png",
+      "kind": "background",
+      "bytes": 183966,
+      "width": 640,
+      "height": 480,
+      "sha256": "ece887f55e88a8ccf1390c4606cde163ea89177d34b42c6020b806b2505f2135",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.88/SLES_539.88_BG_00.png"
+      },
+      "gameId": "SLES_539.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamWorks' Over the hedge"
+}

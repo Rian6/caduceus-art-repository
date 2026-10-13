@@ -1,0 +1,90 @@
+{
+  "id": "SLES_536.45",
+  "cover": {
+    "path": "PS2/SLES_536.45/SLES_536.45_COV.png",
+    "kind": "cover",
+    "bytes": 91217,
+    "width": 192,
+    "height": 272,
+    "sha256": "975c2bd9ea1b5d690a8e9438700d2ce43955382a3721a7a410756c6241eb143a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53645.jpg"
+    },
+    "gameId": "SLES_536.45"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_536.45/SLES_536.45_BG.png",
+    "kind": "background",
+    "bytes": 180492,
+    "width": 640,
+    "height": 480,
+    "sha256": "b13b97d185303debbc2d182bb3850c2cb9279c63200511ea139f380265342457",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.45/SLES_536.45_BG_00.png"
+    },
+    "gameId": "SLES_536.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_536.45/SLES_536.45_BG.png",
+      "kind": "background",
+      "bytes": 180492,
+      "width": 640,
+      "height": 480,
+      "sha256": "b13b97d185303debbc2d182bb3850c2cb9279c63200511ea139f380265342457",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.45/SLES_536.45_BG_00.png"
+      },
+      "gameId": "SLES_536.45"
+    },
+    {
+      "path": "PS2/SLES_536.45/SLES_536.45_BG_01.png",
+      "kind": "background",
+      "bytes": 198354,
+      "width": 640,
+      "height": 480,
+      "sha256": "838d7481c9186b2aadcec7c6873ab473d3d1b6af2bbb0238006198e38ff21142",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.45/SLES_536.45_BG_01.png"
+      },
+      "gameId": "SLES_536.45"
+    },
+    {
+      "path": "PS2/SLES_536.45/SLES_536.45_BG_02.png",
+      "kind": "background",
+      "bytes": 201093,
+      "width": 640,
+      "height": 480,
+      "sha256": "c59e699ddbc19475d77ed353e338b6d98f73c24098656a9b52518ef2b0f52b41",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.45/SLES_536.45_BG_02.png"
+      },
+      "gameId": "SLES_536.45"
+    },
+    {
+      "path": "PS2/SLES_536.45/SLES_536.45_BG_03.png",
+      "kind": "background",
+      "bytes": 218000,
+      "width": 640,
+      "height": 480,
+      "sha256": "c338b5ffef9a163424c3abc7f750bf162c860f74835797b2d1b0381e790377b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.45/SLES_536.45_BG_03.png"
+      },
+      "gameId": "SLES_536.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Knights of the Temple II"
+}

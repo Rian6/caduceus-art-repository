@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_251.02",
+  "cover": {
+    "path": "PS2/SLPS_251.02/SLPS_251.02_COV.png",
+    "kind": "cover",
+    "bytes": 103100,
+    "width": 192,
+    "height": 272,
+    "sha256": "786b993109a1da6715acd9baa67f689efa4473047545f717d18bec97161abe5c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25102.jpg"
+    },
+    "gameId": "SLPS_251.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_251.02/SLPS_251.02_BG.png",
+    "kind": "background",
+    "bytes": 188858,
+    "width": 640,
+    "height": 480,
+    "sha256": "16c3690dfd03c360309c3212e4cda58474731b8298c9f7e9986a0ce7a6a4431a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_251.02/SLPS_251.02_BG_00.png"
+    },
+    "gameId": "SLPS_251.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_251.02/SLPS_251.02_BG.png",
+      "kind": "background",
+      "bytes": 188858,
+      "width": 640,
+      "height": 480,
+      "sha256": "16c3690dfd03c360309c3212e4cda58474731b8298c9f7e9986a0ce7a6a4431a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.02/SLPS_251.02_BG_00.png"
+      },
+      "gameId": "SLPS_251.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Project Arms"
+}

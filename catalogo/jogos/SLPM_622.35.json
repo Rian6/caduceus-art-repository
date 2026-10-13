@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.35",
+  "cover": {
+    "path": "PS2/SLPM_622.35/SLPM_622.35_COV.png",
+    "kind": "cover",
+    "bytes": 107851,
+    "width": 192,
+    "height": 272,
+    "sha256": "a9fb1d1587ff20e0685bc25b231bf7b4ce43f11618e26f34027add59b0b7912b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62235.jpg"
+    },
+    "gameId": "SLPM_622.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GetBass Battle"
+}

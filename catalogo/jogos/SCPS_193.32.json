@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_193.32",
+  "cover": {
+    "path": "PS2/SCPS_193.32/SCPS_193.32_COV.png",
+    "kind": "cover",
+    "bytes": 82512,
+    "width": 192,
+    "height": 272,
+    "sha256": "3991fc097225cd49983f8dd71b771f5339ba8b1ffbd7ee194a71f70ebe94b684",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19332.jpg"
+    },
+    "gameId": "SCPS_193.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MINNA NO TENNIS - EVERYBODY'S TENNIS [PLAYSTATION 2 THE BEST]"
+}

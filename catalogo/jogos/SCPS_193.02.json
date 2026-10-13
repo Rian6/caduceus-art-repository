@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_193.02",
+  "cover": {
+    "path": "PS2/SCPS_193.02/SCPS_193.02_COV.png",
+    "kind": "cover",
+    "bytes": 78502,
+    "width": 192,
+    "height": 272,
+    "sha256": "e8ee92559e34441c5921b05cc1bbd0290977571da0861da289ef96a17703e7b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19302.jpg"
+    },
+    "gameId": "SCPS_193.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ratchet & Clank 2 - Gagaga! Ginga no Commando-ssu (Playstation 2 The Best)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_552.46",
+  "cover": {
+    "path": "PS2/SLES_552.46/SLES_552.46_COV.png",
+    "kind": "cover",
+    "bytes": 88218,
+    "width": 192,
+    "height": 272,
+    "sha256": "8e4b2580e30b75c0ca296f21769e18d2314c05c09609787118049429af671776",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55246.jpg"
+    },
+    "gameId": "SLES_552.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA 09"
+}

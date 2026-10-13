@@ -1,0 +1,25 @@
+{
+  "id": "SLES_500.73",
+  "cover": {
+    "path": "PS2/SLES_500.73/SLES_500.73_COV.png",
+    "kind": "cover",
+    "bytes": 77327,
+    "width": 192,
+    "height": 272,
+    "sha256": "70e8550341a45acbf6dc0e92f59c2a4c8a6c3fa389d9e503e112b5c02fbd1d35",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50073.jpg"
+    },
+    "gameId": "SLES_500.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DRIVING EMOTION TYPE-S"
+}

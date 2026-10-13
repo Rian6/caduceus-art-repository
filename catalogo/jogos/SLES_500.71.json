@@ -1,0 +1,77 @@
+{
+  "id": "SLES_500.71",
+  "cover": {
+    "path": "PS2/SLES_500.71/SLES_500.71_COV.png",
+    "kind": "cover",
+    "bytes": 98124,
+    "width": 192,
+    "height": 272,
+    "sha256": "680a625f1e073068bc16a25c839e04c5df029b5eac0f45020c9bf11eced36481",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50071.jpg"
+    },
+    "gameId": "SLES_500.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_500.71/SLES_500.71_BG.png",
+    "kind": "background",
+    "bytes": 86407,
+    "width": 640,
+    "height": 480,
+    "sha256": "573dab2d01e08faa757d65f3e274bab8c075d1ef08b8d7452f499b959bdbcf04",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.71/SLES_500.71_BG_00.png"
+    },
+    "gameId": "SLES_500.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.71/SLES_500.71_BG.png",
+      "kind": "background",
+      "bytes": 86407,
+      "width": 640,
+      "height": 480,
+      "sha256": "573dab2d01e08faa757d65f3e274bab8c075d1ef08b8d7452f499b959bdbcf04",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.71/SLES_500.71_BG_00.png"
+      },
+      "gameId": "SLES_500.71"
+    },
+    {
+      "path": "PS2/SLES_500.71/SLES_500.71_BG_01.png",
+      "kind": "background",
+      "bytes": 198068,
+      "width": 640,
+      "height": 480,
+      "sha256": "faaea4d048d445560b7aeaf77b3c218f2741927054ba1e147b7ef542dcde1b54",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.71/SLES_500.71_BG_01.png"
+      },
+      "gameId": "SLES_500.71"
+    },
+    {
+      "path": "PS2/SLES_500.71/SLES_500.71_BG_02.png",
+      "kind": "background",
+      "bytes": 206078,
+      "width": 640,
+      "height": 480,
+      "sha256": "69d0e6b35fef363190085a7b87050dda084dd27fb54bc7761c7964840e625438",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.71/SLES_500.71_BG_02.png"
+      },
+      "gameId": "SLES_500.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Midnight Club: Street Racing"
+}

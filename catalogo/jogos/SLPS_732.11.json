@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.11",
+  "cover": {
+    "path": "PS2/SLPS_732.11/SLPS_732.11_COV.png",
+    "kind": "cover",
+    "bytes": 89237,
+    "width": 192,
+    "height": 272,
+    "sha256": "0e2f01c2b1380a855743329cfa0ba9add50bcb070994da4698e3b5f7e4b3b8b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73211.jpg"
+    },
+    "gameId": "SLPS_732.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUMMON NIGHT 3 [PLAYSTATION 2 THE BEST]"
+}

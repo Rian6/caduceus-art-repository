@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.75",
+  "cover": {
+    "path": "PS2/SLPM_656.75/SLPM_656.75_COV.png",
+    "kind": "cover",
+    "bytes": 112196,
+    "width": 192,
+    "height": 272,
+    "sha256": "81290c00e16be172fccd51e524dd40b20e0b4dad071ee394e58c583b60ed68ae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65675.jpg"
+    },
+    "gameId": "SLPM_656.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FINAL APPROACH [LIMITED EDITION]"
+}

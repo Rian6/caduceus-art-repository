@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_203.03",
+  "cover": {
+    "path": "PS2/SLUS_203.03/SLUS_203.03_COV.png",
+    "kind": "cover",
+    "bytes": 93363,
+    "width": 192,
+    "height": 272,
+    "sha256": "3708d546c8a77f387e55edc5c59f155497b3c2c59e3fe4075627e568fcbcc299",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20303.jpg"
+    },
+    "gameId": "SLUS_203.03"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.03/SLUS_203.03_ICO.png",
+    "kind": "disc",
+    "bytes": 26279,
+    "width": 256,
+    "height": 256,
+    "sha256": "728898021bcd8ceae7c4d03642140dc92c5b14d7f4d5b5776f9f8a94bdfc4bfb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.03_ICO.png"
+    },
+    "gameId": "SLUS_203.03"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.03/SLUS_203.03_BG.png",
+    "kind": "background",
+    "bytes": 185251,
+    "width": 640,
+    "height": 480,
+    "sha256": "f6bf04a81b3bc5a539b21474918bbe512544b36a1c183a613f9d4639c2a24b6a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.03/SLUS_203.03_BG_00.png"
+    },
+    "gameId": "SLUS_203.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.03/SLUS_203.03_BG.png",
+      "kind": "background",
+      "bytes": 185251,
+      "width": 640,
+      "height": 480,
+      "sha256": "f6bf04a81b3bc5a539b21474918bbe512544b36a1c183a613f9d4639c2a24b6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.03/SLUS_203.03_BG_00.png"
+      },
+      "gameId": "SLUS_203.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live 2002"
+}

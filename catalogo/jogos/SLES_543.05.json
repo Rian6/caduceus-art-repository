@@ -1,0 +1,91 @@
+{
+  "id": "SLES_543.05",
+  "cover": {
+    "path": "PS2/SLES_543.05/SLES_543.05_COV.png",
+    "kind": "cover",
+    "bytes": 92299,
+    "width": 192,
+    "height": 272,
+    "sha256": "0bae5c444469ea53666e82f5d6aae7d7fa50c93017c77bb779b8c3ab3d06f3d7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54305.jpg"
+    },
+    "gameId": "SLES_543.05"
+  },
+  "disc": {
+    "path": "PS2/SLES_543.05/SLES_543.05_ICO.png",
+    "kind": "disc",
+    "bytes": 11120,
+    "width": 128,
+    "height": 128,
+    "sha256": "5a5a9316fa47df63df1d374cf2230d96d6407753d33afb0a8ea5f16af05a3876",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_543.05_ICO.png"
+    },
+    "gameId": "SLES_543.05"
+  },
+  "background": {
+    "path": "PS2/SLES_543.05/SLES_543.05_BG.png",
+    "kind": "background",
+    "bytes": 188794,
+    "width": 640,
+    "height": 480,
+    "sha256": "c38e10e496e66f356e27cc639364e0b2a7f3e7f8dd1ea9fb39424ce1cf12674d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.05/SLES_543.05_BG_00.png"
+    },
+    "gameId": "SLES_543.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.05/SLES_543.05_BG.png",
+      "kind": "background",
+      "bytes": 188794,
+      "width": 640,
+      "height": 480,
+      "sha256": "c38e10e496e66f356e27cc639364e0b2a7f3e7f8dd1ea9fb39424ce1cf12674d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.05/SLES_543.05_BG_00.png"
+      },
+      "gameId": "SLES_543.05"
+    },
+    {
+      "path": "PS2/SLES_543.05/SLES_543.05_BG_01.png",
+      "kind": "background",
+      "bytes": 209778,
+      "width": 640,
+      "height": 480,
+      "sha256": "15b50be588d99d4f955afbb441f41be62e50dfbde6c78e78fbcbc4e7f061b8f6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.05/SLES_543.05_BG_01.png"
+      },
+      "gameId": "SLES_543.05"
+    },
+    {
+      "path": "PS2/SLES_543.05/SLES_543.05_BG_02.png",
+      "kind": "background",
+      "bytes": 216541,
+      "width": 640,
+      "height": 480,
+      "sha256": "9376ef28b60dc3c50162f66bff5da7ec8eacc04340449ea902cb3f32c40e1f57",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.05/SLES_543.05_BG_02.png"
+      },
+      "gameId": "SLES_543.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Demon Chaos"
+}

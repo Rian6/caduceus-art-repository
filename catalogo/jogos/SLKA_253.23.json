@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.23",
+  "cover": {
+    "path": "PS2/SLKA_253.23/SLKA_253.23_COV.png",
+    "kind": "cover",
+    "bytes": 97149,
+    "width": 192,
+    "height": 272,
+    "sha256": "98ee5c212997e45b57175a45374c863e0502d178875b3b034791f9c3e8e93278",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25323.jpg"
+    },
+    "gameId": "SLKA_253.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fifa '06"
+}

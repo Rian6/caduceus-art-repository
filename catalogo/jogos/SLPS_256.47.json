@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.47",
+  "cover": {
+    "path": "PS2/SLPS_256.47/SLPS_256.47_COV.png",
+    "kind": "cover",
+    "bytes": 82941,
+    "width": 192,
+    "height": 272,
+    "sha256": "c6d2a5d9d6f773f7e016bf0a2aa939ae676ad9285d9f25229f220d9e16e1d0d8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25647.jpg"
+    },
+    "gameId": "SLPS_256.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Ultimate Series Vol.32 - Azumi"
+}

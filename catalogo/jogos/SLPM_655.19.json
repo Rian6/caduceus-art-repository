@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.19",
+  "cover": {
+    "path": "PS2/SLPM_655.19/SLPM_655.19_COV.png",
+    "kind": "cover",
+    "bytes": 104599,
+    "width": 192,
+    "height": 272,
+    "sha256": "328331e760d23b0ad279a34a95fe4ecb5590d9b638eae81c32c0b4abbc6237c8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65519.jpg"
+    },
+    "gameId": "SLPM_655.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LIMEIRO SENKITAN JUN"
+}

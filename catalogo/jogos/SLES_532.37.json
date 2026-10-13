@@ -1,0 +1,65 @@
+{
+  "id": "SLES_532.37",
+  "cover": {
+    "path": "PS2/SLES_532.37/SLES_532.37_COV.png",
+    "kind": "cover",
+    "bytes": 82657,
+    "width": 192,
+    "height": 272,
+    "sha256": "04baf4560c046e4244f9243b36edf3bae324a08b9fc13e1c99316e87d4dec09b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53237.jpg"
+    },
+    "gameId": "SLES_532.37"
+  },
+  "disc": {
+    "path": "PS2/SLES_532.37/SLES_532.37_ICO.png",
+    "kind": "disc",
+    "bytes": 8035,
+    "width": 128,
+    "height": 128,
+    "sha256": "566c8099b719a7c30915317c6665ed571c0379d6f27497070c7fed1e370a2653",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_532.37_ICO.png"
+    },
+    "gameId": "SLES_532.37"
+  },
+  "background": {
+    "path": "PS2/SLES_532.37/SLES_532.37_BG.png",
+    "kind": "background",
+    "bytes": 204643,
+    "width": 640,
+    "height": 480,
+    "sha256": "31d6680359ff2d837cfa4fe8b2910b0c5783e3803cb9cac30e5346a4a626fbab",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_532.37/SLES_532.37_BG_00.png"
+    },
+    "gameId": "SLES_532.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_532.37/SLES_532.37_BG.png",
+      "kind": "background",
+      "bytes": 204643,
+      "width": 640,
+      "height": 480,
+      "sha256": "31d6680359ff2d837cfa4fe8b2910b0c5783e3803cb9cac30e5346a4a626fbab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.37/SLES_532.37_BG_00.png"
+      },
+      "gameId": "SLES_532.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fire Heroes"
+}

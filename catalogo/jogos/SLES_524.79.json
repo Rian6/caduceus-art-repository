@@ -1,0 +1,64 @@
+{
+  "id": "SLES_524.79",
+  "cover": {
+    "path": "PS2/SLES_524.79/SLES_524.79_COV.png",
+    "kind": "cover",
+    "bytes": 84490,
+    "width": 192,
+    "height": 272,
+    "sha256": "098772b8f0019e4808ef5616bc3e448f19809120b4efe05bdebb6a350845aca4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52479.jpg"
+    },
+    "gameId": "SLES_524.79"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_524.79/SLES_524.79_BG.png",
+    "kind": "background",
+    "bytes": 161102,
+    "width": 640,
+    "height": 480,
+    "sha256": "0f21d9facd70731072381093d45be99f4402d35334bbb9ea43afd952be614245",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_524.79/SLES_524.79_BG_00.png"
+    },
+    "gameId": "SLES_524.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_524.79/SLES_524.79_BG.png",
+      "kind": "background",
+      "bytes": 161102,
+      "width": 640,
+      "height": 480,
+      "sha256": "0f21d9facd70731072381093d45be99f4402d35334bbb9ea43afd952be614245",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.79/SLES_524.79_BG_00.png"
+      },
+      "gameId": "SLES_524.79"
+    },
+    {
+      "path": "PS2/SLES_524.79/SLES_524.79_BG_01.png",
+      "kind": "background",
+      "bytes": 143214,
+      "width": 640,
+      "height": 480,
+      "sha256": "67d083d1632ac65ea16ce4532189199c4f58fbd0eb1a544af6ecc6ea6d168e4f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.79/SLES_524.79_BG_01.png"
+      },
+      "gameId": "SLES_524.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAMURAI JACK - THE SHADOW OF AKU"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.68",
+  "cover": {
+    "path": "PS2/SLES_505.68/SLES_505.68_COV.png",
+    "kind": "cover",
+    "bytes": 80886,
+    "width": 192,
+    "height": 272,
+    "sha256": "49ea513a2b450207baefb17608e40502047ecf1e09badeb4820ae67baef8b5bc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50568.jpg"
+    },
+    "gameId": "SLES_505.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Top Gun - Combat Zones"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_211.97",
+  "cover": {
+    "path": "PS2/SLUS_211.97/SLUS_211.97_COV.png",
+    "kind": "cover",
+    "bytes": 105369,
+    "width": 192,
+    "height": 272,
+    "sha256": "a823513e7fb807114ffd85135dce59f89ae478d1ad599f02f1e7c2299f5d4e63",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21197.jpg"
+    },
+    "gameId": "SLUS_211.97"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.97/SLUS_211.97_ICO.png",
+    "kind": "disc",
+    "bytes": 34520,
+    "width": 256,
+    "height": 256,
+    "sha256": "b310c033cc344b6d4323a9d04c1cfffa130bd18209a4b40ab7c3b379fa0c8ad6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.97_ICO.png"
+    },
+    "gameId": "SLUS_211.97"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.97/SLUS_211.97_BG.png",
+    "kind": "background",
+    "bytes": 130010,
+    "width": 640,
+    "height": 480,
+    "sha256": "c065021a1f2890cb5fd81cc42e2c65b1a8ee311c092b6e3fdcc7bc3cef31c53c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.97/SLUS_211.97_BG_00.png"
+    },
+    "gameId": "SLUS_211.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.97/SLUS_211.97_BG.png",
+      "kind": "background",
+      "bytes": 130010,
+      "width": 640,
+      "height": 480,
+      "sha256": "c065021a1f2890cb5fd81cc42e2c65b1a8ee311c092b6e3fdcc7bc3cef31c53c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.97/SLUS_211.97_BG_00.png"
+      },
+      "gameId": "SLUS_211.97"
+    },
+    {
+      "path": "PS2/SLUS_211.97/SLUS_211.97_BG_01.png",
+      "kind": "background",
+      "bytes": 197010,
+      "width": 640,
+      "height": 480,
+      "sha256": "e76ebec7b021c4be84636fa8ecac48c4e553452300965ef665121fb04ed111d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.97/SLUS_211.97_BG_01.png"
+      },
+      "gameId": "SLUS_211.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dreamworks' Shrek Superslam"
+}

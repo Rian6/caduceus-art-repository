@@ -1,0 +1,103 @@
+{
+  "id": "SLPS_259.15",
+  "cover": {
+    "path": "PS2/SLPS_259.15/SLPS_259.15_COV.png",
+    "kind": "cover",
+    "bytes": 94851,
+    "width": 192,
+    "height": 272,
+    "sha256": "27d0989de35a5b269be539de7ec42606100b780bc6f34342b626b2163f3bbad2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25915.jpg"
+    },
+    "gameId": "SLPS_259.15"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_259.15/SLPS_259.15_BG.png",
+    "kind": "background",
+    "bytes": 196922,
+    "width": 640,
+    "height": 480,
+    "sha256": "46f1dcd90a41da7b5cdfa830f14f209f97db793946af585975ba19cc8bbe2d85",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_259.15/SLPS_259.15_BG_00.png"
+    },
+    "gameId": "SLPS_259.15"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_259.15/SLPS_259.15_BG.png",
+      "kind": "background",
+      "bytes": 196922,
+      "width": 640,
+      "height": 480,
+      "sha256": "46f1dcd90a41da7b5cdfa830f14f209f97db793946af585975ba19cc8bbe2d85",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_259.15/SLPS_259.15_BG_00.png"
+      },
+      "gameId": "SLPS_259.15"
+    },
+    {
+      "path": "PS2/SLPS_259.15/SLPS_259.15_BG_01.png",
+      "kind": "background",
+      "bytes": 172410,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4d877e342c929569e85b62d00b52f459f4caaf4311bba682b56e9e06e8ffa99",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_259.15/SLPS_259.15_BG_01.png"
+      },
+      "gameId": "SLPS_259.15"
+    },
+    {
+      "path": "PS2/SLPS_259.15/SLPS_259.15_BG_02.png",
+      "kind": "background",
+      "bytes": 199457,
+      "width": 640,
+      "height": 480,
+      "sha256": "6ad53914cb2693d79bd44d27fec584502ad0277e1b3e379ee0d4c1df08501244",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_259.15/SLPS_259.15_BG_02.png"
+      },
+      "gameId": "SLPS_259.15"
+    },
+    {
+      "path": "PS2/SLPS_259.15/SLPS_259.15_BG_03.png",
+      "kind": "background",
+      "bytes": 197847,
+      "width": 640,
+      "height": 480,
+      "sha256": "16380db1353169a9b15f6bb91a992404ddbfdcc38f1d2dc2cd7f507f9c2c21a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_259.15/SLPS_259.15_BG_03.png"
+      },
+      "gameId": "SLPS_259.15"
+    },
+    {
+      "path": "PS2/SLPS_259.15/SLPS_259.15_BG_04.png",
+      "kind": "background",
+      "bytes": 110413,
+      "width": 640,
+      "height": 480,
+      "sha256": "88f5a1c94a22ebf746e90bafb5fbb766cd7b7c094dba7501d90cc3f7bb8286af",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_259.15/SLPS_259.15_BG_04.png"
+      },
+      "gameId": "SLPS_259.15"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters 2002 Unlimited Match"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SLPM_621.18",
+  "cover": {
+    "path": "PS2/SLPM_621.18/SLPM_621.18_COV.png",
+    "kind": "cover",
+    "bytes": 92956,
+    "width": 192,
+    "height": 272,
+    "sha256": "cd4b07ed13fdd3f4159cee5bdff5d6b47efa7498586da767a0661f6e7dbaf8c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62118.jpg"
+    },
+    "gameId": "SLPM_621.18"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_621.18/SLPM_621.18_BG.png",
+    "kind": "background",
+    "bytes": 174955,
+    "width": 640,
+    "height": 480,
+    "sha256": "0c5b054c18ecf1b09bd7d79a8c81470e6355099a3d71698075c811e654316946",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_621.18/SLPM_621.18_BG_00.png"
+    },
+    "gameId": "SLPM_621.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_621.18/SLPM_621.18_BG.png",
+      "kind": "background",
+      "bytes": 174955,
+      "width": 640,
+      "height": 480,
+      "sha256": "0c5b054c18ecf1b09bd7d79a8c81470e6355099a3d71698075c811e654316946",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_621.18/SLPM_621.18_BG_00.png"
+      },
+      "gameId": "SLPM_621.18"
+    },
+    {
+      "path": "PS2/SLPM_621.18/SLPM_621.18_BG_01.png",
+      "kind": "background",
+      "bytes": 137888,
+      "width": 640,
+      "height": 480,
+      "sha256": "73b4d2290c552fadb7a448118b4e3d02a977ce5ed96a0967fb8d35879b75c496",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_621.18/SLPM_621.18_BG_01.png"
+      },
+      "gameId": "SLPM_621.18"
+    },
+    {
+      "path": "PS2/SLPM_621.18/SLPM_621.18_BG_02.png",
+      "kind": "background",
+      "bytes": 186120,
+      "width": 640,
+      "height": 480,
+      "sha256": "ca3e859c2118d286741daa23e3f2225c69192a8fda3bfa516229a5ca94eb0aad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_621.18/SLPM_621.18_BG_02.png"
+      },
+      "gameId": "SLPM_621.18"
+    },
+    {
+      "path": "PS2/SLPM_621.18/SLPM_621.18_BG_03.png",
+      "kind": "background",
+      "bytes": 219814,
+      "width": 640,
+      "height": 480,
+      "sha256": "6f118c63088105e930d9256e86b4e9cc8cae5c73037b64ccf24b079b666b90aa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_621.18/SLPM_621.18_BG_03.png"
+      },
+      "gameId": "SLPM_621.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bomberman Kart"
+}

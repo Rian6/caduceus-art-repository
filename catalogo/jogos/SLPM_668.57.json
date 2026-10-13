@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.57",
+  "cover": {
+    "path": "PS2/SLPM_668.57/SLPM_668.57_COV.png",
+    "kind": "cover",
+    "bytes": 110884,
+    "width": 192,
+    "height": 272,
+    "sha256": "5a8ce0e5507521b8ef0bd0103317498d427d09b7ecb3140bb20573be2214e832",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66857.jpg"
+    },
+    "gameId": "SLPM_668.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ITSUKA TODOKU ANO SORA NI [LIMITED EDITION]"
+}

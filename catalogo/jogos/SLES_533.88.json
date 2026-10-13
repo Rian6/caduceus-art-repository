@@ -1,0 +1,39 @@
+{
+  "id": "SLES_533.88",
+  "cover": {
+    "path": "PS2/SLES_533.88/SLES_533.88_COV.png",
+    "kind": "cover",
+    "bytes": 98611,
+    "width": 192,
+    "height": 272,
+    "sha256": "4ef71594387d76e6b88399a52bd5538f9988b63662a2fc925ed23bc1f8d9d6ec",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53388.jpg"
+    },
+    "gameId": "SLES_533.88"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.88/SLES_533.88_ICO.png",
+    "kind": "disc",
+    "bytes": 11338,
+    "width": 128,
+    "height": 128,
+    "sha256": "b420608e27a9badab3a953966f9aba526fe375afe33e4341706e4e9406ca8b3c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.88_ICO.png"
+    },
+    "gameId": "SLES_533.88"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rhythmic Star!"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SLPM_651.39",
+  "cover": {
+    "path": "PS2/SLPM_651.39/SLPM_651.39_COV.png",
+    "kind": "cover",
+    "bytes": 110441,
+    "width": 192,
+    "height": 272,
+    "sha256": "b7ed1271dc7e17c3ad51e57c766ec0c7977a8731ba07ad811af28bc76bb0a4ba",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65139.jpg"
+    },
+    "gameId": "SLPM_651.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_651.39/SLPM_651.39_BG.png",
+    "kind": "background",
+    "bytes": 206721,
+    "width": 640,
+    "height": 480,
+    "sha256": "5dda2afcaa5bfe1393f8a6712ae338a8ff0698f1f2d0c2e6945b94b388343322",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_651.39/SLPM_651.39_BG_00.png"
+    },
+    "gameId": "SLPM_651.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_651.39/SLPM_651.39_BG.png",
+      "kind": "background",
+      "bytes": 206721,
+      "width": 640,
+      "height": 480,
+      "sha256": "5dda2afcaa5bfe1393f8a6712ae338a8ff0698f1f2d0c2e6945b94b388343322",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_651.39/SLPM_651.39_BG_00.png"
+      },
+      "gameId": "SLPM_651.39"
+    },
+    {
+      "path": "PS2/SLPM_651.39/SLPM_651.39_BG_01.png",
+      "kind": "background",
+      "bytes": 266458,
+      "width": 640,
+      "height": 480,
+      "sha256": "40c5ba6a85c57e6cdd4a5033fccf030aceceb33721c14ce6216b7308f6286615",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_651.39/SLPM_651.39_BG_01.png"
+      },
+      "gameId": "SLPM_651.39"
+    },
+    {
+      "path": "PS2/SLPM_651.39/SLPM_651.39_BG_02.png",
+      "kind": "background",
+      "bytes": 205295,
+      "width": 640,
+      "height": 480,
+      "sha256": "73756573c28f77942e556e9ce3a6157745111650b9ac7c9f1fea818e7fc88e5f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_651.39/SLPM_651.39_BG_02.png"
+      },
+      "gameId": "SLPM_651.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gun Survivor 3: Dino Crisis"
+}

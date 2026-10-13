@@ -1,0 +1,64 @@
+{
+  "id": "SCKA_200.43",
+  "cover": {
+    "path": "PS2/SCKA_200.43/SCKA_200.43_COV.png",
+    "kind": "cover",
+    "bytes": 86223,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0fd26f25b7f5840c8c5c36982fc22300b40df9d8eaa1999d652e7873e2acf41",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20043.jpg"
+    },
+    "gameId": "SCKA_200.43"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.43/SCKA_200.43_BG.png",
+    "kind": "background",
+    "bytes": 209440,
+    "width": 640,
+    "height": 480,
+    "sha256": "bcc038d028290ec00d01269d33a3327b538b19c6bfa221c8212c82eb18e3cb6c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.43/SCKA_200.43_BG_00.png"
+    },
+    "gameId": "SCKA_200.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.43/SCKA_200.43_BG.png",
+      "kind": "background",
+      "bytes": 209440,
+      "width": 640,
+      "height": 480,
+      "sha256": "bcc038d028290ec00d01269d33a3327b538b19c6bfa221c8212c82eb18e3cb6c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.43/SCKA_200.43_BG_00.png"
+      },
+      "gameId": "SCKA_200.43"
+    },
+    {
+      "path": "PS2/SCKA_200.43/SCKA_200.43_BG_01.png",
+      "kind": "background",
+      "bytes": 174730,
+      "width": 640,
+      "height": 480,
+      "sha256": "92431b55aed7af2247b1702aafe377b50848bca38d7d22c8cee51212f95ddd23",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.43/SCKA_200.43_BG_01.png"
+      },
+      "gameId": "SCKA_200.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAGNA CARTA"
+}

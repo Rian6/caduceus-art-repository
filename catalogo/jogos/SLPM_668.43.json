@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.43",
+  "cover": {
+    "path": "PS2/SLPM_668.43/SLPM_668.43_COV.png",
+    "kind": "cover",
+    "bytes": 104892,
+    "width": 192,
+    "height": 272,
+    "sha256": "6dc84e2a24201e0163b644ba4c281d9362cbbf340409b3a9ef75c74274187c8c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66843.jpg"
+    },
+    "gameId": "SLPM_668.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Generation of Chaos - Desire"
+}

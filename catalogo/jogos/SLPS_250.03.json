@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.03",
+  "cover": {
+    "path": "PS2/SLPS_250.03/SLPS_250.03_COV.png",
+    "kind": "cover",
+    "bytes": 95172,
+    "width": 192,
+    "height": 272,
+    "sha256": "77647001ad29fa723b50f1cbaae08b0f7997367583f3a693d0c92aa85a7516a8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25003.jpg"
+    },
+    "gameId": "SLPS_250.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EVERGRACE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_550.28",
+  "cover": {
+    "path": "PS2/SLES_550.28/SLES_550.28_COV.png",
+    "kind": "cover",
+    "bytes": 107028,
+    "width": 192,
+    "height": 272,
+    "sha256": "217af4b47df9b6e8089e65d99281fd8eea3e7aa9d314d03434e94ad97c634827",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55028.jpg"
+    },
+    "gameId": "SLES_550.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar's Cars -  La Coppa Internazionale di Carl Attrezzi"
+}

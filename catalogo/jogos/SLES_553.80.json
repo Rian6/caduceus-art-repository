@@ -1,0 +1,90 @@
+{
+  "id": "SLES_553.80",
+  "cover": {
+    "path": "PS2/SLES_553.80/SLES_553.80_COV.png",
+    "kind": "cover",
+    "bytes": 87641,
+    "width": 192,
+    "height": 272,
+    "sha256": "1d14245d8ca187f33a9fd254491fab49f6212fdcdc6cbf8c4d57c5ab4ca799cd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55380.jpg"
+    },
+    "gameId": "SLES_553.80"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_553.80/SLES_553.80_BG.png",
+    "kind": "background",
+    "bytes": 190500,
+    "width": 640,
+    "height": 480,
+    "sha256": "6f5d80c2d590346e69dfde3451ee9a626284974a435287886bb62c2018788a6a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.80/SLES_553.80_BG_00.png"
+    },
+    "gameId": "SLES_553.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_553.80/SLES_553.80_BG.png",
+      "kind": "background",
+      "bytes": 190500,
+      "width": 640,
+      "height": 480,
+      "sha256": "6f5d80c2d590346e69dfde3451ee9a626284974a435287886bb62c2018788a6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.80/SLES_553.80_BG_00.png"
+      },
+      "gameId": "SLES_553.80"
+    },
+    {
+      "path": "PS2/SLES_553.80/SLES_553.80_BG_01.png",
+      "kind": "background",
+      "bytes": 127621,
+      "width": 640,
+      "height": 480,
+      "sha256": "01f1f1902beeb09064440b2f123394aaf6c7d87517b5a18015650bf0e3672518",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.80/SLES_553.80_BG_01.png"
+      },
+      "gameId": "SLES_553.80"
+    },
+    {
+      "path": "PS2/SLES_553.80/SLES_553.80_BG_02.png",
+      "kind": "background",
+      "bytes": 170889,
+      "width": 640,
+      "height": 480,
+      "sha256": "ce9e3c461970ad30064e9bf9820f4c815066a0e5836fa9ec17fcca5283deff89",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.80/SLES_553.80_BG_02.png"
+      },
+      "gameId": "SLES_553.80"
+    },
+    {
+      "path": "PS2/SLES_553.80/SLES_553.80_BG_03.png",
+      "kind": "background",
+      "bytes": 188755,
+      "width": 640,
+      "height": 480,
+      "sha256": "a67aeab0e9b4106386314ea8a50537796ffc0b623ff79d36c5d8173b56a7a3b5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.80/SLES_553.80_BG_03.png"
+      },
+      "gameId": "SLES_553.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sonic Unleashed"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.52",
+  "cover": {
+    "path": "PS2/SLPM_653.52/SLPM_653.52_COV.png",
+    "kind": "cover",
+    "bytes": 98524,
+    "width": 192,
+    "height": 272,
+    "sha256": "38ae8b7efc45d4682d05745a41aab28801cb66a38202da6ed939fc619f5640e1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65352.jpg"
+    },
+    "gameId": "SLPM_653.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 ULTIMATE SERIES VOL.10 - LOVE SONGS"
+}

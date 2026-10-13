@@ -1,0 +1,117 @@
+{
+  "id": "SLAJ_250.75",
+  "cover": null,
+  "disc": null,
+  "background": {
+    "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG.png",
+    "kind": "background",
+    "bytes": 212085,
+    "width": 640,
+    "height": 480,
+    "sha256": "d084e6f7601358ded6375d51d234d003ff784831c05fea78c3716bb657c6eb46",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_00.png"
+    },
+    "gameId": "SLAJ_250.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG.png",
+      "kind": "background",
+      "bytes": 212085,
+      "width": 640,
+      "height": 480,
+      "sha256": "d084e6f7601358ded6375d51d234d003ff784831c05fea78c3716bb657c6eb46",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_00.png"
+      },
+      "gameId": "SLAJ_250.75"
+    },
+    {
+      "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_01.png",
+      "kind": "background",
+      "bytes": 172411,
+      "width": 640,
+      "height": 480,
+      "sha256": "752ff745584afae95c36c11442d06eb96cc873b712e37eac588432068b613677",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_01.png"
+      },
+      "gameId": "SLAJ_250.75"
+    },
+    {
+      "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_02.png",
+      "kind": "background",
+      "bytes": 157847,
+      "width": 640,
+      "height": 480,
+      "sha256": "78703c3cd0b59f20a865bd075e9c3012a0f4602a68860c274ffc46f648ff2100",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_02.png"
+      },
+      "gameId": "SLAJ_250.75"
+    },
+    {
+      "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_03.png",
+      "kind": "background",
+      "bytes": 210970,
+      "width": 640,
+      "height": 480,
+      "sha256": "e513894e891ab426f2378ad24994f7bca23785981f754cdc028e817961b813da",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_03.png"
+      },
+      "gameId": "SLAJ_250.75"
+    },
+    {
+      "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_04.png",
+      "kind": "background",
+      "bytes": 180491,
+      "width": 640,
+      "height": 480,
+      "sha256": "ae560a6efb470011f2bbd2d8a9e667bdb4bad5a6a53cb70278d3f4bb2b1fdcb4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_04.png"
+      },
+      "gameId": "SLAJ_250.75"
+    },
+    {
+      "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_05.png",
+      "kind": "background",
+      "bytes": 172777,
+      "width": 640,
+      "height": 480,
+      "sha256": "2a1a1c03a4dae926cfd440e0ad42c28f88dfbefb7eeca441641b7f47f7c5979e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_05.png"
+      },
+      "gameId": "SLAJ_250.75"
+    },
+    {
+      "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_06.png",
+      "kind": "background",
+      "bytes": 181996,
+      "width": 640,
+      "height": 480,
+      "sha256": "328e5c2b5033afcdcb1e66583d3297ed6740c9067280f9216bbfa3d9d42c5ae0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.75/SLAJ_250.75_BG_06.png"
+      },
+      "gameId": "SLAJ_250.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Need for Speed - Most Wanted (Black Edition)"
+}

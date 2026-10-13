@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.99",
+  "cover": {
+    "path": "PS2/SLPM_663.99/SLPM_663.99_COV.png",
+    "kind": "cover",
+    "bytes": 107340,
+    "width": 192,
+    "height": 272,
+    "sha256": "ee794521c7f8bb88f0eaa698024283355c51236fbdb05620012bf6638d7cf52d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66399.jpg"
+    },
+    "gameId": "SLPM_663.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Samurai 7 (Limited EDition)"
+}

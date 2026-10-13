@@ -1,0 +1,104 @@
+{
+  "id": "SLPM_626.87",
+  "cover": {
+    "path": "PS2/SLPM_626.87/SLPM_626.87_COV.png",
+    "kind": "cover",
+    "bytes": 120028,
+    "width": 192,
+    "height": 272,
+    "sha256": "a84b2dab46db401f50e03c7ce00493222fe3e7ab243062feb4f7c08c83d32311",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62687.jpg"
+    },
+    "gameId": "SLPM_626.87"
+  },
+  "disc": {
+    "path": "PS2/SLPM_626.87/SLPM_626.87_ICO.png",
+    "kind": "disc",
+    "bytes": 10841,
+    "width": 128,
+    "height": 128,
+    "sha256": "95a91f706200bbb4b3f770f887c04f9184e08d6d79c581a8de261e847be5507c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_626.87_ICO.png"
+    },
+    "gameId": "SLPM_626.87"
+  },
+  "background": {
+    "path": "PS2/SLPM_626.87/SLPM_626.87_BG.png",
+    "kind": "background",
+    "bytes": 212505,
+    "width": 640,
+    "height": 480,
+    "sha256": "bf8b00514b8649c93173dfc32e4ab63d0ed6d0892d1ab6809eda8bcf45956544",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_626.87/SLPM_626.87_BG_00.png"
+    },
+    "gameId": "SLPM_626.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_626.87/SLPM_626.87_BG.png",
+      "kind": "background",
+      "bytes": 212505,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf8b00514b8649c93173dfc32e4ab63d0ed6d0892d1ab6809eda8bcf45956544",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.87/SLPM_626.87_BG_00.png"
+      },
+      "gameId": "SLPM_626.87"
+    },
+    {
+      "path": "PS2/SLPM_626.87/SLPM_626.87_BG_01.png",
+      "kind": "background",
+      "bytes": 159291,
+      "width": 640,
+      "height": 480,
+      "sha256": "d13af1a817e9f649bc91425b0f1d278f72d82c3530c8560f2240863be227d57e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.87/SLPM_626.87_BG_01.png"
+      },
+      "gameId": "SLPM_626.87"
+    },
+    {
+      "path": "PS2/SLPM_626.87/SLPM_626.87_BG_02.png",
+      "kind": "background",
+      "bytes": 219122,
+      "width": 640,
+      "height": 480,
+      "sha256": "770c198bead4de751e8279204b5e91a1610419c833657e6ae5164fcc7b67458a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.87/SLPM_626.87_BG_02.png"
+      },
+      "gameId": "SLPM_626.87"
+    },
+    {
+      "path": "PS2/SLPM_626.87/SLPM_626.87_BG_03.png",
+      "kind": "background",
+      "bytes": 237488,
+      "width": 640,
+      "height": 480,
+      "sha256": "1be08330f7b8b037481deeab0f4fa3ae7d965a2dff52ee3e12c44a90161b57d2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.87/SLPM_626.87_BG_03.png"
+      },
+      "gameId": "SLPM_626.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Ages 2500 Series Vol. 24: Last Bronx: Tokyo Bangaichi"
+}

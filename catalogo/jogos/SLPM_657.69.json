@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.69",
+  "cover": {
+    "path": "PS2/SLPM_657.69/SLPM_657.69_COV.png",
+    "kind": "cover",
+    "bytes": 98609,
+    "width": 192,
+    "height": 272,
+    "sha256": "f73f809b5b1beac4cd064027300d4fec949c9a9f0e99cf1eade715c5728ffa8f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65769.jpg"
+    },
+    "gameId": "SLPM_657.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pop'n'Music 10 (With Pop'n Controller)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.51",
+  "cover": {
+    "path": "PS2/SLPM_625.51/SLPM_625.51_COV.png",
+    "kind": "cover",
+    "bytes": 98482,
+    "width": 192,
+    "height": 272,
+    "sha256": "ca53411e206d107f980bea45bcbb4293abbaf9f693635e54fdd8751dd94702ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62551.jpg"
+    },
+    "gameId": "SLPM_625.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wizardry Empire III - Haoh no Keifu (Good Price)"
+}

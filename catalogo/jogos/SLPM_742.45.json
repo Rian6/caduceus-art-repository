@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_742.45",
+  "cover": {
+    "path": "PS2/SLPM_742.45/SLPM_742.45_COV.png",
+    "kind": "cover",
+    "bytes": 85926,
+    "width": 192,
+    "height": 272,
+    "sha256": "abaa8eb17cd9704d078df751cd35b07df82d84c8e8771929b3b1f1ed4933a1fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74245.jpg"
+    },
+    "gameId": "SLPM_742.45"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_742.45/SLPM_742.45_BG.png",
+    "kind": "background",
+    "bytes": 188521,
+    "width": 640,
+    "height": 480,
+    "sha256": "682ba9e8d0631ff9c3d65b93c780120184930751b4a7c45fe55db5285a0cb30a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_742.45/SLPM_742.45_BG_00.png"
+    },
+    "gameId": "SLPM_742.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_742.45/SLPM_742.45_BG.png",
+      "kind": "background",
+      "bytes": 188521,
+      "width": 640,
+      "height": 480,
+      "sha256": "682ba9e8d0631ff9c3d65b93c780120184930751b4a7c45fe55db5285a0cb30a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_742.45/SLPM_742.45_BG_00.png"
+      },
+      "gameId": "SLPM_742.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Monster Hunter 2 (Playstation 2 The Best)"
+}

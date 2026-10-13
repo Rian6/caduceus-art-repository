@@ -1,0 +1,25 @@
+{
+  "id": "SCES_513.65",
+  "cover": {
+    "path": "PS2/SCES_513.65/SCES_513.65_COV.png",
+    "kind": "cover",
+    "bytes": 66333,
+    "width": 192,
+    "height": 272,
+    "sha256": "bd6a49612f5ed9a05c793f2fe657acfd1816eff16ff05dbe3f793d9a56908857",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_513.65/SCES_513.65_COV.png"
+    },
+    "gameId": "SCES_513.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Brave: The Search for Spirit Dancer"
+}

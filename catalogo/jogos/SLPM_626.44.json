@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.44",
+  "cover": {
+    "path": "PS2/SLPM_626.44/SLPM_626.44_COV.png",
+    "kind": "cover",
+    "bytes": 90792,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed3a3e1d5db535fc9999926e77ac599216617e2161f3b1b068ac22b60f95e3f7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62644.jpg"
+    },
+    "gameId": "SLPM_626.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Oretachi Game Center Zoku - Time Pilot"
+}

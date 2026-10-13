@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.27",
+  "cover": {
+    "path": "PS2/SCPS_550.27/SCPS_550.27_COV.png",
+    "kind": "cover",
+    "bytes": 91366,
+    "width": 192,
+    "height": 272,
+    "sha256": "a5694157868c29d60436b7dd445914a7f3ce24068a18d9fb9a319c9709898b37",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55027.jpg"
+    },
+    "gameId": "SCPS_550.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RUNABOUT 3 - NEO AGE"
+}

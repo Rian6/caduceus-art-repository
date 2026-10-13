@@ -1,0 +1,78 @@
+{
+  "id": "SLES_528.35",
+  "cover": {
+    "path": "PS2/SLES_528.35/SLES_528.35_COV.png",
+    "kind": "cover",
+    "bytes": 94814,
+    "width": 192,
+    "height": 272,
+    "sha256": "71407facff69b5298d1cf6997951d0837a19a0504362252f8efc3864df7e05c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52835.jpg"
+    },
+    "gameId": "SLES_528.35"
+  },
+  "disc": {
+    "path": "PS2/SLES_528.35/SLES_528.35_ICO.png",
+    "kind": "disc",
+    "bytes": 11574,
+    "width": 128,
+    "height": 128,
+    "sha256": "59efc4ee7ccdf26bb1d88b403b58f9e457eb1468b9d857f0d88ab551330c0a18",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_528.35_ICO.png"
+    },
+    "gameId": "SLES_528.35"
+  },
+  "background": {
+    "path": "PS2/SLES_528.35/SLES_528.35_BG.png",
+    "kind": "background",
+    "bytes": 183326,
+    "width": 640,
+    "height": 480,
+    "sha256": "5aec8ceb200fdfd618a5add73f8f1c2722719074622137f6f7936867a1921752",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.35/SLES_528.35_BG_00.png"
+    },
+    "gameId": "SLES_528.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.35/SLES_528.35_BG.png",
+      "kind": "background",
+      "bytes": 183326,
+      "width": 640,
+      "height": 480,
+      "sha256": "5aec8ceb200fdfd618a5add73f8f1c2722719074622137f6f7936867a1921752",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.35/SLES_528.35_BG_00.png"
+      },
+      "gameId": "SLES_528.35"
+    },
+    {
+      "path": "PS2/SLES_528.35/SLES_528.35_BG_01.png",
+      "kind": "background",
+      "bytes": 112339,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff60505239e5b6b97e08852f97628d1eb1b2dc0572dcb5e71ce35f35c8851f95",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.35/SLES_528.35_BG_01.png"
+      },
+      "gameId": "SLES_528.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Mummy: The Animated Series"
+}

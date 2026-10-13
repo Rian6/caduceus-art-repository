@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.33",
+  "cover": {
+    "path": "PS2/SLPS_254.33/SLPS_254.33_COV.png",
+    "kind": "cover",
+    "bytes": 109726,
+    "width": 192,
+    "height": 272,
+    "sha256": "172b00ad9f9f84c1874358fc3608b90b332f33b4eff270e38dd0ca6e21a2483c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25433.jpg"
+    },
+    "gameId": "SLPS_254.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TEIKOKU SENSENKI [LIMITED EDITION]"
+}

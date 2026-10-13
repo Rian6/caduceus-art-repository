@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.72",
+  "cover": {
+    "path": "PS2/SLPS_203.72/SLPS_203.72_COV.png",
+    "kind": "cover",
+    "bytes": 105644,
+    "width": 192,
+    "height": 272,
+    "sha256": "092889a15fa0d76f86728609cb78b2bb4734cbeeba32c73e3dbe0962f035897e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20372.jpg"
+    },
+    "gameId": "SLPS_203.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JISSEN PACHI-SLOT HISSHOUHOU! HOKUTO NO KEN [LIMITED EDITION]"
+}

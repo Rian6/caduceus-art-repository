@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.21",
+  "cover": {
+    "path": "PS2/SLPM_663.21/SLPM_663.21_COV.png",
+    "kind": "cover",
+    "bytes": 86237,
+    "width": 192,
+    "height": 272,
+    "sha256": "77c2b4977bd132fc66ca42fadbea04c7c506751116efca45e55bf0f58546bb4e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66321.jpg"
+    },
+    "gameId": "SLPM_663.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Warship Gunner 2 - Koutetsu no Houkou"
+}

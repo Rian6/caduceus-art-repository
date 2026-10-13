@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.93",
+  "cover": {
+    "path": "PS2/SLPM_656.93/SLPM_656.93_COV.png",
+    "kind": "cover",
+    "bytes": 69422,
+    "width": 192,
+    "height": 272,
+    "sha256": "91bdb39b833818869becec1ac8578d9b1a733217bd36c2cc84c09ae761b6838c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65693.jpg"
+    },
+    "gameId": "SLPM_656.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tokimeki Memorial 3 (Konami Dendou Collection)"
+}

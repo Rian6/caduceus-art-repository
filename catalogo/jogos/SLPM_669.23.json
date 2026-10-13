@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.23",
+  "cover": {
+    "path": "PS2/SLPM_669.23/SLPM_669.23_COV.png",
+    "kind": "cover",
+    "bytes": 64546,
+    "width": 192,
+    "height": 272,
+    "sha256": "61617fb6de9e025461bdb615fe1adef3fcc9263717f0b15ae516542e6d3697f0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66923.jpg"
+    },
+    "gameId": "SLPM_669.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "D.C.II P.S.: Da Capo II: Plus Situation (Disc 2)"
+}

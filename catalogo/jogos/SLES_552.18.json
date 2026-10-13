@@ -1,0 +1,25 @@
+{
+  "id": "SLES_552.18",
+  "cover": {
+    "path": "PS2/SLES_552.18/SLES_552.18_COV.png",
+    "kind": "cover",
+    "bytes": 76633,
+    "width": 192,
+    "height": 272,
+    "sha256": "c1000416407c6dd46b5271039e5ba63b1945fb0dc53d7765389c17e965cf24e9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55218.jpg"
+    },
+    "gameId": "SLES_552.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tiger Woods PGA Tour 09"
+}

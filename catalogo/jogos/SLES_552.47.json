@@ -1,0 +1,51 @@
+{
+  "id": "SLES_552.47",
+  "cover": {
+    "path": "PS2/SLES_552.47/SLES_552.47_COV.png",
+    "kind": "cover",
+    "bytes": 88218,
+    "width": 192,
+    "height": 272,
+    "sha256": "8e4b2580e30b75c0ca296f21769e18d2314c05c09609787118049429af671776",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55247.jpg"
+    },
+    "gameId": "SLES_552.47"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_552.47/SLES_552.47_BG.png",
+    "kind": "background",
+    "bytes": 193358,
+    "width": 640,
+    "height": 480,
+    "sha256": "5448bdc28bc3ef55c521408ce1dcfa85916313adca5a4d0d175a22f8b4ea988b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_552.47/SLES_552.47_BG_00.png"
+    },
+    "gameId": "SLES_552.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_552.47/SLES_552.47_BG.png",
+      "kind": "background",
+      "bytes": 193358,
+      "width": 640,
+      "height": 480,
+      "sha256": "5448bdc28bc3ef55c521408ce1dcfa85916313adca5a4d0d175a22f8b4ea988b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.47/SLES_552.47_BG_00.png"
+      },
+      "gameId": "SLES_552.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA 09"
+}

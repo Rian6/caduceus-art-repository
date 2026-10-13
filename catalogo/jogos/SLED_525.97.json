@@ -1,0 +1,24 @@
+{
+  "id": "SLED_525.97",
+  "cover": {
+    "path": "PS2/SLED_525.97/SLED_525.97_COV.png",
+    "kind": "cover",
+    "bytes": 87575,
+    "width": 192,
+    "height": 272,
+    "sha256": "944687d01384509f9d87564f9c1d8dee528833bee2160f6013116a159e4a0ac6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLED-52597.jpg"
+    },
+    "gameId": "SLED_525.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

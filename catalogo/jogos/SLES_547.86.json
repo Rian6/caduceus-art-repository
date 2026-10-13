@@ -1,0 +1,39 @@
+{
+  "id": "SLES_547.86",
+  "cover": {
+    "path": "PS2/SLES_547.86/SLES_547.86_COV.png",
+    "kind": "cover",
+    "bytes": 109071,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1356bf5f6e2f422f9e0c10e452b9a0d2accaaab99e825e8d1913da5a0253549",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54786.jpg"
+    },
+    "gameId": "SLES_547.86"
+  },
+  "disc": {
+    "path": "PS2/SLES_547.86/SLES_547.86_ICO.png",
+    "kind": "disc",
+    "bytes": 10548,
+    "width": 128,
+    "height": 128,
+    "sha256": "d0f0af45b17c2cdf7d5f221493c53b7c9fd4d744841732f8ae780e3df3471724",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_547.86_ICO.png"
+    },
+    "gameId": "SLES_547.86"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Heracles - Chariot Racing"
+}

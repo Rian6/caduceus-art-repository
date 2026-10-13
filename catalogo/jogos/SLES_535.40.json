@@ -1,0 +1,103 @@
+{
+  "id": "SLES_535.40",
+  "cover": {
+    "path": "PS2/SLES_535.40/SLES_535.40_COV.png",
+    "kind": "cover",
+    "bytes": 77955,
+    "width": 192,
+    "height": 272,
+    "sha256": "88b040ecdd5087a724119027f49703e67b80b2cf047d04da56e0816e574623a1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53540.jpg"
+    },
+    "gameId": "SLES_535.40"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_535.40/SLES_535.40_BG.png",
+    "kind": "background",
+    "bytes": 163661,
+    "width": 640,
+    "height": 480,
+    "sha256": "630edb6e3d748e0682c101d41a4d61d0e8661e73669590bf1b909bc3062e1c2e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.40/SLES_535.40_BG_00.png"
+    },
+    "gameId": "SLES_535.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.40/SLES_535.40_BG.png",
+      "kind": "background",
+      "bytes": 163661,
+      "width": 640,
+      "height": 480,
+      "sha256": "630edb6e3d748e0682c101d41a4d61d0e8661e73669590bf1b909bc3062e1c2e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.40/SLES_535.40_BG_00.png"
+      },
+      "gameId": "SLES_535.40"
+    },
+    {
+      "path": "PS2/SLES_535.40/SLES_535.40_BG_01.png",
+      "kind": "background",
+      "bytes": 123472,
+      "width": 640,
+      "height": 480,
+      "sha256": "4c2a8ea4d4e2b1a64a7706218207e202717db734acef841973f83a202216ea5d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.40/SLES_535.40_BG_01.png"
+      },
+      "gameId": "SLES_535.40"
+    },
+    {
+      "path": "PS2/SLES_535.40/SLES_535.40_BG_02.png",
+      "kind": "background",
+      "bytes": 218867,
+      "width": 640,
+      "height": 480,
+      "sha256": "4bd5d52d61ed5140bdada3f98b8478f0b5eabf4206278c8c12011e60d7599355",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.40/SLES_535.40_BG_02.png"
+      },
+      "gameId": "SLES_535.40"
+    },
+    {
+      "path": "PS2/SLES_535.40/SLES_535.40_BG_03.png",
+      "kind": "background",
+      "bytes": 161806,
+      "width": 640,
+      "height": 480,
+      "sha256": "445778d208638ee70f78995b3670916b3186fc6b79131c23953e0646f6dfbfdc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.40/SLES_535.40_BG_03.png"
+      },
+      "gameId": "SLES_535.40"
+    },
+    {
+      "path": "PS2/SLES_535.40/SLES_535.40_BG_04.png",
+      "kind": "background",
+      "bytes": 132404,
+      "width": 640,
+      "height": 480,
+      "sha256": "0a7de3d3d11c63d1b5667a3ab862b8fdd00c2931c9164415dd44333bebe2bbbe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.40/SLES_535.40_BG_04.png"
+      },
+      "gameId": "SLES_535.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fahrenheit"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_502.01",
+  "cover": {
+    "path": "PS2/SLES_502.01/SLES_502.01_COV.png",
+    "kind": "cover",
+    "bytes": 62869,
+    "width": 192,
+    "height": 272,
+    "sha256": "ee9cd0fa2c7344b2bb1fcc33d7668394f9531c359c63ee12c1e4d4d695655eba",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50201.jpg"
+    },
+    "gameId": "SLES_502.01"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_502.01/SLES_502.01_BG.png",
+    "kind": "background",
+    "bytes": 69310,
+    "width": 640,
+    "height": 480,
+    "sha256": "12687d9a15b109bedf4ab87957c06df7cc051a60e78d2a15bf36798e2f54c648",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.01/SLES_502.01_BG_00.png"
+    },
+    "gameId": "SLES_502.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.01/SLES_502.01_BG.png",
+      "kind": "background",
+      "bytes": 69310,
+      "width": 640,
+      "height": 480,
+      "sha256": "12687d9a15b109bedf4ab87957c06df7cc051a60e78d2a15bf36798e2f54c648",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.01/SLES_502.01_BG_00.png"
+      },
+      "gameId": "SLES_502.01"
+    },
+    {
+      "path": "PS2/SLES_502.01/SLES_502.01_BG_01.png",
+      "kind": "background",
+      "bytes": 55320,
+      "width": 640,
+      "height": 480,
+      "sha256": "508f90e5de6656dbfdff50608a02a67994c15e76c82ddfacd46c346b1a82d835",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.01/SLES_502.01_BG_01.png"
+      },
+      "gameId": "SLES_502.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Evil Twin: Cyprien's Chronicles"
+}

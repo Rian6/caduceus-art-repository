@@ -1,0 +1,77 @@
+{
+  "id": "SLPM_742.31",
+  "cover": {
+    "path": "PS2/SLPM_742.31/SLPM_742.31_COV.png",
+    "kind": "cover",
+    "bytes": 84180,
+    "width": 192,
+    "height": 272,
+    "sha256": "94de4b6e6ccafef7547deef508244aa1dd0d3cd16bfdff2b880dd7685cd4d550",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74231.jpg"
+    },
+    "gameId": "SLPM_742.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_742.31/SLPM_742.31_BG.png",
+    "kind": "background",
+    "bytes": 177663,
+    "width": 640,
+    "height": 480,
+    "sha256": "0e9db5d94cb097697b9b705dc085567d707c613319e964f1dd504ad7a2b862e6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_742.31/SLPM_742.31_BG_00.png"
+    },
+    "gameId": "SLPM_742.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_742.31/SLPM_742.31_BG.png",
+      "kind": "background",
+      "bytes": 177663,
+      "width": 640,
+      "height": 480,
+      "sha256": "0e9db5d94cb097697b9b705dc085567d707c613319e964f1dd504ad7a2b862e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_742.31/SLPM_742.31_BG_00.png"
+      },
+      "gameId": "SLPM_742.31"
+    },
+    {
+      "path": "PS2/SLPM_742.31/SLPM_742.31_BG_01.png",
+      "kind": "background",
+      "bytes": 193535,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3b9c31c026858b014a8f4be818e8e19ead57bc2e72d26652de27dc523be7436",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_742.31/SLPM_742.31_BG_01.png"
+      },
+      "gameId": "SLPM_742.31"
+    },
+    {
+      "path": "PS2/SLPM_742.31/SLPM_742.31_BG_02.png",
+      "kind": "background",
+      "bytes": 185712,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c2153827c95604197c2d22c173d3ef54d394e3479a56ee342a2d4975689be58",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_742.31/SLPM_742.31_BG_02.png"
+      },
+      "gameId": "SLPM_742.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kessen III (Playstation 2 The Best Reprint)"
+}

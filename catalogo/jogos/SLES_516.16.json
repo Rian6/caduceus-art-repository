@@ -1,0 +1,90 @@
+{
+  "id": "SLES_516.16",
+  "cover": {
+    "path": "PS2/SLES_516.16/SLES_516.16_COV.png",
+    "kind": "cover",
+    "bytes": 102077,
+    "width": 192,
+    "height": 272,
+    "sha256": "c965672c8810ba8cceb863e6defea98f2601d994c26be01be9822216b2844e0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51616.jpg"
+    },
+    "gameId": "SLES_516.16"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_516.16/SLES_516.16_BG.png",
+    "kind": "background",
+    "bytes": 197167,
+    "width": 640,
+    "height": 480,
+    "sha256": "ea6f3ff50c06f6759b28ffaa75d8fca7e21fea870b26eef52e3c655a400ec70d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_516.16/SLES_516.16_BG_00.png"
+    },
+    "gameId": "SLES_516.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_516.16/SLES_516.16_BG.png",
+      "kind": "background",
+      "bytes": 197167,
+      "width": 640,
+      "height": 480,
+      "sha256": "ea6f3ff50c06f6759b28ffaa75d8fca7e21fea870b26eef52e3c655a400ec70d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.16/SLES_516.16_BG_00.png"
+      },
+      "gameId": "SLES_516.16"
+    },
+    {
+      "path": "PS2/SLES_516.16/SLES_516.16_BG_01.png",
+      "kind": "background",
+      "bytes": 192619,
+      "width": 640,
+      "height": 480,
+      "sha256": "260f97ab71ab18986b34fcae927326380d5ede9aeb90adf47989e0d83784fa3b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.16/SLES_516.16_BG_01.png"
+      },
+      "gameId": "SLES_516.16"
+    },
+    {
+      "path": "PS2/SLES_516.16/SLES_516.16_BG_02.png",
+      "kind": "background",
+      "bytes": 136000,
+      "width": 640,
+      "height": 480,
+      "sha256": "328f2ea40570c4db69516545699879224b99c7e5477cf34b506aa512f639e163",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.16/SLES_516.16_BG_02.png"
+      },
+      "gameId": "SLES_516.16"
+    },
+    {
+      "path": "PS2/SLES_516.16/SLES_516.16_BG_03.png",
+      "kind": "background",
+      "bytes": 215352,
+      "width": 640,
+      "height": 480,
+      "sha256": "6793fc5385dc6d3494a075e7f19589ee44f72ad53dc47c6bf7d50321fb2b8965",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.16/SLES_516.16_BG_03.png"
+      },
+      "gameId": "SLES_516.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Virtua Fighter 4: Evolution"
+}

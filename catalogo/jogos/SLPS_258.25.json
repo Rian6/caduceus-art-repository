@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.25",
+  "cover": {
+    "path": "PS2/SLPS_258.25/SLPS_258.25_COV.png",
+    "kind": "cover",
+    "bytes": 81190,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f27e6e4413f1436c7cf345ac6c9d8f0316fdc8514378aaf7de1ff138ae4068a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25825.jpg"
+    },
+    "gameId": "SLPS_258.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZERO NO TSUKAIMA - SHOU-AKUMA TO HARUKAZE NO CONCERTO [BEST COLLECTION]"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SCCS_400.03",
+  "cover": {
+    "path": "PS2/SCCS_400.03/SCCS_400.03_COV.png",
+    "kind": "cover",
+    "bytes": 98878,
+    "width": 192,
+    "height": 272,
+    "sha256": "4d630bbcb4bdd962c2b5054868d2f0b3bdedc5b0e526efdee8ce0c1bb98ea69f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCCS-40003.jpg"
+    },
+    "gameId": "SCCS_400.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCCS_400.03/SCCS_400.03_BG.png",
+    "kind": "background",
+    "bytes": 192953,
+    "width": 640,
+    "height": 480,
+    "sha256": "6900b5f2e00bb8ff472986df0134c3ae3843f9404fadcc3e5d65f6f44101692d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCCS_400.03/SCCS_400.03_BG_00.png"
+    },
+    "gameId": "SCCS_400.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCCS_400.03/SCCS_400.03_BG.png",
+      "kind": "background",
+      "bytes": 192953,
+      "width": 640,
+      "height": 480,
+      "sha256": "6900b5f2e00bb8ff472986df0134c3ae3843f9404fadcc3e5d65f6f44101692d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCCS_400.03/SCCS_400.03_BG_00.png"
+      },
+      "gameId": "SCCS_400.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Devil May Cry 2 (Disc 2)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.18",
+  "cover": {
+    "path": "PS2/SLPM_666.18/SLPM_666.18_COV.png",
+    "kind": "cover",
+    "bytes": 98583,
+    "width": 192,
+    "height": 272,
+    "sha256": "a4a5da3796a8f36e32974aeeaf99ee2e70b79fb55f75ebeefb81c658f4e82a8e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66618.jpg"
+    },
+    "gameId": "SLPM_666.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yumemishi (Limited Edition)"
+}

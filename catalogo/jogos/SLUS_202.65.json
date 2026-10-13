@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_202.65",
+  "cover": {
+    "path": "PS2/SLUS_202.65/SLUS_202.65_COV.png",
+    "kind": "cover",
+    "bytes": 89636,
+    "width": 192,
+    "height": 272,
+    "sha256": "e98448a06f6f43e5e4d0d64acc9b53dc880b36596bd63a009feacdeda29f1b71",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20265.jpg"
+    },
+    "gameId": "SLUS_202.65"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.65/SLUS_202.65_ICO.png",
+    "kind": "disc",
+    "bytes": 28961,
+    "width": 256,
+    "height": 256,
+    "sha256": "dc87897371cfe2274c37e3ae3d60a0c0b7edd179457cfeb9ca8c808d710c4d4d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.65_ICO.png"
+    },
+    "gameId": "SLUS_202.65"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.65/SLUS_202.65_BG.png",
+    "kind": "background",
+    "bytes": 207200,
+    "width": 640,
+    "height": 480,
+    "sha256": "588c85f5ca6e0d3f7bc74c3a7e9a248e596d579cc924c7b0e1a8f0caa15296aa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.65/SLUS_202.65_BG_00.png"
+    },
+    "gameId": "SLUS_202.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.65/SLUS_202.65_BG.png",
+      "kind": "background",
+      "bytes": 207200,
+      "width": 640,
+      "height": 480,
+      "sha256": "588c85f5ca6e0d3f7bc74c3a7e9a248e596d579cc924c7b0e1a8f0caa15296aa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.65/SLUS_202.65_BG_00.png"
+      },
+      "gameId": "SLUS_202.65"
+    },
+    {
+      "path": "PS2/SLUS_202.65/SLUS_202.65_BG_01.png",
+      "kind": "background",
+      "bytes": 149100,
+      "width": 640,
+      "height": 480,
+      "sha256": "50a3d6d9839934ee8614e2e8acae39dbb1a0c7ebd9f8ff1f193299b1f1f14256",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.65/SLUS_202.65_BG_01.png"
+      },
+      "gameId": "SLUS_202.65"
+    },
+    {
+      "path": "PS2/SLUS_202.65/SLUS_202.65_BG_02.png",
+      "kind": "background",
+      "bytes": 200601,
+      "width": 640,
+      "height": 480,
+      "sha256": "0f7e01b22c7c848fa643b2a4ac63cd521ee4516a264840c812c0c77f4293a07c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.65/SLUS_202.65_BG_02.png"
+      },
+      "gameId": "SLUS_202.65"
+    },
+    {
+      "path": "PS2/SLUS_202.65/SLUS_202.65_BG_03.png",
+      "kind": "background",
+      "bytes": 109461,
+      "width": 640,
+      "height": 480,
+      "sha256": "c2cec1b32aa7ccdcb33283d12fe68d591a3e6edad7fae8a21af3ab812bba75bd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.65/SLUS_202.65_BG_03.png"
+      },
+      "gameId": "SLUS_202.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007: Agent Under Fire"
+}

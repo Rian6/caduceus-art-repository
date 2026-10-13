@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.44",
+  "cover": {
+    "path": "PS2/SLPM_651.44/SLPM_651.44_COV.png",
+    "kind": "cover",
+    "bytes": 92085,
+    "width": 192,
+    "height": 272,
+    "sha256": "ae76396f3743f0adfd54ff5b177c6910e4bdf650591288346593cdef29d30bfa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65144.jpg"
+    },
+    "gameId": "SLPM_651.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAKEN SHAO [ATLUS BEST COLLECTION]"
+}

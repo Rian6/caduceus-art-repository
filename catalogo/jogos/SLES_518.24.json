@@ -1,0 +1,78 @@
+{
+  "id": "SLES_518.24",
+  "cover": {
+    "path": "PS2/SLES_518.24/SLES_518.24_COV.png",
+    "kind": "cover",
+    "bytes": 91269,
+    "width": 192,
+    "height": 272,
+    "sha256": "7faf537bb62ee3a98e64af1fcabb7eb50b416512cfbb6b70001f9569939c3d85",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51824.jpg"
+    },
+    "gameId": "SLES_518.24"
+  },
+  "disc": {
+    "path": "PS2/SLES_518.24/SLES_518.24_ICO.png",
+    "kind": "disc",
+    "bytes": 11003,
+    "width": 128,
+    "height": 128,
+    "sha256": "67237032c8518191606ef675511dc2c337160a448f9b6db96aeff9312282af01",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_518.24_ICO.png"
+    },
+    "gameId": "SLES_518.24"
+  },
+  "background": {
+    "path": "PS2/SLES_518.24/SLES_518.24_BG.png",
+    "kind": "background",
+    "bytes": 175535,
+    "width": 640,
+    "height": 480,
+    "sha256": "e63e014151c0b8ee03d5f7c15f412c1084ea730da5e309cb1b6c22b3e9620ec9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.24/SLES_518.24_BG_00.png"
+    },
+    "gameId": "SLES_518.24"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.24/SLES_518.24_BG.png",
+      "kind": "background",
+      "bytes": 175535,
+      "width": 640,
+      "height": 480,
+      "sha256": "e63e014151c0b8ee03d5f7c15f412c1084ea730da5e309cb1b6c22b3e9620ec9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.24/SLES_518.24_BG_00.png"
+      },
+      "gameId": "SLES_518.24"
+    },
+    {
+      "path": "PS2/SLES_518.24/SLES_518.24_BG_01.png",
+      "kind": "background",
+      "bytes": 153274,
+      "width": 640,
+      "height": 480,
+      "sha256": "b0d50c8144515d6d4b9dce88838cf7fd794932737affd051fd9fd6dcded4456a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.24/SLES_518.24_BG_01.png"
+      },
+      "gameId": "SLES_518.24"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Colin McRae Rally 04"
+}

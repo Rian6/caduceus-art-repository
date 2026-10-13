@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.17",
+  "cover": {
+    "path": "PS2/SLPS_255.17/SLPS_255.17_COV.png",
+    "kind": "cover",
+    "bytes": 90667,
+    "width": 192,
+    "height": 272,
+    "sha256": "2c28169637f883ec0119e3487c82eb43ba3587547a4187751ae718f15c95dd22",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25517.jpg"
+    },
+    "gameId": "SLPS_255.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ENJOY GOLF!"
+}

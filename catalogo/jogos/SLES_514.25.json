@@ -1,0 +1,25 @@
+{
+  "id": "SLES_514.25",
+  "cover": {
+    "path": "PS2/SLES_514.25/SLES_514.25_COV.png",
+    "kind": "cover",
+    "bytes": 102561,
+    "width": 192,
+    "height": 272,
+    "sha256": "42837437058d4864c6599da7fd934beb49811921f8c2eca9faa08241b9f7ecfc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51425.jpg"
+    },
+    "gameId": "SLES_514.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fatman & Slim"
+}

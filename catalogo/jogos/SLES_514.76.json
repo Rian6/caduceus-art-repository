@@ -1,0 +1,51 @@
+{
+  "id": "SLES_514.76",
+  "cover": {
+    "path": "PS2/SLES_514.76/SLES_514.76_COV.png",
+    "kind": "cover",
+    "bytes": 96286,
+    "width": 192,
+    "height": 272,
+    "sha256": "fa37c1f6b2d5fae22e7a7aabefe23c8ea51162e9fcfce8d60f1d9eb7880fb3cb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51476.jpg"
+    },
+    "gameId": "SLES_514.76"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_514.76/SLES_514.76_BG.png",
+    "kind": "background",
+    "bytes": 181739,
+    "width": 640,
+    "height": 480,
+    "sha256": "faa54b5cb121b0397bb4fa57a3c8b5f9342c7fb3e08aa605397f10f053c1cbd7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_514.76/SLES_514.76_BG_00.png"
+    },
+    "gameId": "SLES_514.76"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_514.76/SLES_514.76_BG.png",
+      "kind": "background",
+      "bytes": 181739,
+      "width": 640,
+      "height": 480,
+      "sha256": "faa54b5cb121b0397bb4fa57a3c8b5f9342c7fb3e08aa605397f10f053c1cbd7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.76/SLES_514.76_BG_00.png"
+      },
+      "gameId": "SLES_514.76"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MYSTIC HEROES"
+}

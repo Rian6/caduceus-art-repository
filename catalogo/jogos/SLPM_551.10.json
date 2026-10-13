@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.10",
+  "cover": {
+    "path": "PS2/SLPM_551.10/SLPM_551.10_COV.png",
+    "kind": "cover",
+    "bytes": 104029,
+    "width": 192,
+    "height": 272,
+    "sha256": "7baa8db1fc398f575f88cf3aa05b097d3943f7eb4d21b0f192dfd78c02c915f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55110.jpg"
+    },
+    "gameId": "SLPM_551.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mercenaries 2: World in Flames"
+}

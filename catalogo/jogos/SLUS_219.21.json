@@ -1,0 +1,143 @@
+{
+  "id": "SLUS_219.21",
+  "cover": {
+    "path": "PS2/SLUS_219.21/SLUS_219.21_COV.png",
+    "kind": "cover",
+    "bytes": 98423,
+    "width": 192,
+    "height": 272,
+    "sha256": "cf2c918147ef5bfabdbddaafdb2e3fe33278eec0f7d6d067242bf6d67ac3c5bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21921.jpg"
+    },
+    "gameId": "SLUS_219.21"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.21/SLUS_219.21_ICO.png",
+    "kind": "disc",
+    "bytes": 25868,
+    "width": 256,
+    "height": 256,
+    "sha256": "2c5a9d2a4d452c7fe9098ae6b9de35c36f6aa31255496c3ba69425a299548b00",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_219.21_ICO.png"
+    },
+    "gameId": "SLUS_219.21"
+  },
+  "background": {
+    "path": "PS2/SLUS_219.21/SLUS_219.21_BG.png",
+    "kind": "background",
+    "bytes": 123286,
+    "width": 640,
+    "height": 480,
+    "sha256": "19222220f11f136669a64d5fe115a53675e1f251e25cd6bfd6377df506393a89",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_219.21/SLUS_219.21_BG_00.png"
+    },
+    "gameId": "SLUS_219.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_219.21/SLUS_219.21_BG.png",
+      "kind": "background",
+      "bytes": 123286,
+      "width": 640,
+      "height": 480,
+      "sha256": "19222220f11f136669a64d5fe115a53675e1f251e25cd6bfd6377df506393a89",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.21/SLUS_219.21_BG_00.png"
+      },
+      "gameId": "SLUS_219.21"
+    },
+    {
+      "path": "PS2/SLUS_219.21/SLUS_219.21_BG_01.png",
+      "kind": "background",
+      "bytes": 211358,
+      "width": 640,
+      "height": 480,
+      "sha256": "64da86c2d3292cf12274c697f055d9167eb15c954fdbcd2c755062b98d719307",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.21/SLUS_219.21_BG_01.png"
+      },
+      "gameId": "SLUS_219.21"
+    },
+    {
+      "path": "PS2/SLUS_219.21/SLUS_219.21_BG_02.png",
+      "kind": "background",
+      "bytes": 161295,
+      "width": 640,
+      "height": 480,
+      "sha256": "96914c593f8e1104652b9f794936bddef92064a1a6c3710c9cb9892e49997b75",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.21/SLUS_219.21_BG_02.png"
+      },
+      "gameId": "SLUS_219.21"
+    },
+    {
+      "path": "PS2/SLUS_219.21/SLUS_219.21_BG_03.png",
+      "kind": "background",
+      "bytes": 142784,
+      "width": 640,
+      "height": 480,
+      "sha256": "e63556d8ab24b75a44b175fb2981e871c8e9d19accefe2e5f3f5ce454e19b597",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.21/SLUS_219.21_BG_03.png"
+      },
+      "gameId": "SLUS_219.21"
+    },
+    {
+      "path": "PS2/SLUS_219.21/SLUS_219.21_BG_04.png",
+      "kind": "background",
+      "bytes": 126388,
+      "width": 640,
+      "height": 480,
+      "sha256": "3e96ac8015c19fec4be1277440d0f15efbe8773a996a6b4d6685cecfbc9ce1d5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.21/SLUS_219.21_BG_04.png"
+      },
+      "gameId": "SLUS_219.21"
+    },
+    {
+      "path": "PS2/SLUS_219.21/SLUS_219.21_BG_05.png",
+      "kind": "background",
+      "bytes": 198812,
+      "width": 640,
+      "height": 480,
+      "sha256": "56781129fa97efe251963acb8d5a1387f5b3a9a759e56de703e7fa8182df429b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.21/SLUS_219.21_BG_05.png"
+      },
+      "gameId": "SLUS_219.21"
+    },
+    {
+      "path": "PS2/SLUS_219.21/SLUS_219.21_BG_06.png",
+      "kind": "background",
+      "bytes": 171437,
+      "width": 640,
+      "height": 480,
+      "sha256": "01603f1af53212ff30580c95c7768a9ce79781dea54c40d1ce99a1623699a567",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.21/SLUS_219.21_BG_06.png"
+      },
+      "gameId": "SLUS_219.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ben 10: Alien Force: Vilgax Attacks"
+}

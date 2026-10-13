@@ -1,0 +1,65 @@
+{
+  "id": "SLES_547.67",
+  "cover": {
+    "path": "PS2/SLES_547.67/SLES_547.67_COV.png",
+    "kind": "cover",
+    "bytes": 95845,
+    "width": 192,
+    "height": 272,
+    "sha256": "a032346888fa1ed25c23c10ed7727035e6dc9cc47e436817ec5cd18c2ce01982",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54767.jpg"
+    },
+    "gameId": "SLES_547.67"
+  },
+  "disc": {
+    "path": "PS2/SLES_547.67/SLES_547.67_ICO.png",
+    "kind": "disc",
+    "bytes": 13070,
+    "width": 128,
+    "height": 128,
+    "sha256": "88ae10542379e460e4618582fbed5ee59c7ac8ad8797f67b62317270887a5827",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_547.67_ICO.png"
+    },
+    "gameId": "SLES_547.67"
+  },
+  "background": {
+    "path": "PS2/SLES_547.67/SLES_547.67_BG.png",
+    "kind": "background",
+    "bytes": 197721,
+    "width": 640,
+    "height": 480,
+    "sha256": "cddf60f9ae47365684eed468e4fb03285fdec766ed9b113578789182b6df4717",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_547.67/SLES_547.67_BG_00.png"
+    },
+    "gameId": "SLES_547.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_547.67/SLES_547.67_BG.png",
+      "kind": "background",
+      "bytes": 197721,
+      "width": 640,
+      "height": 480,
+      "sha256": "cddf60f9ae47365684eed468e4fb03285fdec766ed9b113578789182b6df4717",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.67/SLES_547.67_BG_00.png"
+      },
+      "gameId": "SLES_547.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sniper Assault"
+}

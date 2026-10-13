@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.80",
+  "cover": {
+    "path": "PS2/SLKA_253.80/SLKA_253.80_COV.png",
+    "kind": "cover",
+    "bytes": 50559,
+    "width": 192,
+    "height": 272,
+    "sha256": "1bf14fc9eaa73d46878c77a4a3ce3b468c17c008035b7ddde25d858cc21c7419",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.80/SLKA_253.80_COV.png"
+    },
+    "gameId": "SLKA_253.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winback 2 - Project Poseidon"
+}

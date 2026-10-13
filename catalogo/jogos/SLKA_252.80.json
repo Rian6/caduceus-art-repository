@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.80",
+  "cover": {
+    "path": "PS2/SLKA_252.80/SLKA_252.80_COV.png",
+    "kind": "cover",
+    "bytes": 81780,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a79722b0c0081f83f9d60b7cc068bfa24616783a168c0506fdfb82fd2c2cc45",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25280.jpg"
+    },
+    "gameId": "SLKA_252.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ryuu ga Gotoku 2 [2 DISCS]"
+}

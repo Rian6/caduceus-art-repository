@@ -1,0 +1,247 @@
+{
+  "id": "SCUS_974.81",
+  "cover": {
+    "path": "PS2/SCUS_974.81/SCUS_974.81_COV.png",
+    "kind": "cover",
+    "bytes": 95768,
+    "width": 192,
+    "height": 272,
+    "sha256": "80066bb12af4197232bdb5cc969779431bb7485984cd422ef90ee8264ebbc64b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97481.jpg"
+    },
+    "gameId": "SCUS_974.81"
+  },
+  "disc": {
+    "path": "PS2/SCUS_974.81/SCUS_974.81_ICO.png",
+    "kind": "disc",
+    "bytes": 36008,
+    "width": 256,
+    "height": 256,
+    "sha256": "ff8729b4e1f6fe605ea40a8b99f50b86b0b2a9ceb6535bdcb6a603a135b6947b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_974.81_ICO.png"
+    },
+    "gameId": "SCUS_974.81"
+  },
+  "background": {
+    "path": "PS2/SCUS_974.81/SCUS_974.81_BG.png",
+    "kind": "background",
+    "bytes": 227400,
+    "width": 640,
+    "height": 480,
+    "sha256": "bc3b3a0213f0900f669aa10d920e8a09d941df3582598fd8cbe0e4f0fd6c4957",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_00.png"
+    },
+    "gameId": "SCUS_974.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG.png",
+      "kind": "background",
+      "bytes": 227400,
+      "width": 640,
+      "height": 480,
+      "sha256": "bc3b3a0213f0900f669aa10d920e8a09d941df3582598fd8cbe0e4f0fd6c4957",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_00.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_01.png",
+      "kind": "background",
+      "bytes": 207849,
+      "width": 640,
+      "height": 480,
+      "sha256": "7eb9926f47ecb03f3c90fd88aec00e756e79c0b439a1bb938ca8d95284b74fe9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_01.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_02.png",
+      "kind": "background",
+      "bytes": 215964,
+      "width": 640,
+      "height": 480,
+      "sha256": "57e5c698d3eed291717aa7ca346d3617a2bf2150c3804206c9f6ee96090ffe96",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_02.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_03.png",
+      "kind": "background",
+      "bytes": 215277,
+      "width": 640,
+      "height": 480,
+      "sha256": "285a3697e8068f6c4ffde1678e70536418c3327b02a4de92f51ae94c92fe26f3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_03.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_04.png",
+      "kind": "background",
+      "bytes": 196194,
+      "width": 640,
+      "height": 480,
+      "sha256": "51bb556de971e3e7b11af498ec9d043fc78ca2b53c76f2054b926ad304408568",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_04.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_05.png",
+      "kind": "background",
+      "bytes": 232468,
+      "width": 640,
+      "height": 480,
+      "sha256": "57731301c0e913ada7e953882786cec5d5ad8e136492d474135a19077d21b5a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_05.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_06.png",
+      "kind": "background",
+      "bytes": 205547,
+      "width": 640,
+      "height": 480,
+      "sha256": "2008a1cf128ac62f7d167b36777bba4fcbbd7dbd22e9c8a773f47ebfa9f11f68",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_06.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_07.png",
+      "kind": "background",
+      "bytes": 235412,
+      "width": 640,
+      "height": 480,
+      "sha256": "bda9625611fe65facdb61773ed19ba5b2eabddf25f507fa7a31f1a33c73a54da",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_07.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_08.png",
+      "kind": "background",
+      "bytes": 218380,
+      "width": 640,
+      "height": 480,
+      "sha256": "a290ce270c0688f7dee1df219314d877b3667722f53bc520f4ce1d272f8f30ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_08.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_09.png",
+      "kind": "background",
+      "bytes": 221334,
+      "width": 640,
+      "height": 480,
+      "sha256": "c254372bac2060307cc934e937a19477366304e5405e4d756edd2df829820254",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_09.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_10.png",
+      "kind": "background",
+      "bytes": 198888,
+      "width": 640,
+      "height": 480,
+      "sha256": "13479e803237d7209b07f13ed93fa92d2a054a85fc9f83ef1374fff1ba2dac70",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_10.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_11.png",
+      "kind": "background",
+      "bytes": 213310,
+      "width": 640,
+      "height": 480,
+      "sha256": "6f60c96967ffb3b4617999a72e92afa4d5e405dea2a0c1493d0341672aae4b0e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_11.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_12.png",
+      "kind": "background",
+      "bytes": 210477,
+      "width": 640,
+      "height": 480,
+      "sha256": "8a5dfca88a52d6f99e7e6a1ef2c13217edef4d3609eda9734c3442d65ee2694a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_12.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_13.png",
+      "kind": "background",
+      "bytes": 193281,
+      "width": 640,
+      "height": 480,
+      "sha256": "8d24b90977b11a5578b594e0c3d78ccb2a1baafd7cb367a441f08a826d9f01ad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_13.png"
+      },
+      "gameId": "SCUS_974.81"
+    },
+    {
+      "path": "PS2/SCUS_974.81/SCUS_974.81_BG_14.png",
+      "kind": "background",
+      "bytes": 234094,
+      "width": 640,
+      "height": 480,
+      "sha256": "34040ad9450076f88467119ee6b72097510e0fa9bfc9b687ed0a9ca5df38bd5c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_974.81/SCUS_974.81_BG_14.png"
+      },
+      "gameId": "SCUS_974.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "God of War II"
+}

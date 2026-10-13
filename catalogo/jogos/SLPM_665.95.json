@@ -1,0 +1,91 @@
+{
+  "id": "SLPM_665.95",
+  "cover": {
+    "path": "PS2/SLPM_665.95/SLPM_665.95_COV.png",
+    "kind": "cover",
+    "bytes": 102344,
+    "width": 192,
+    "height": 272,
+    "sha256": "f2d477f875b104ec991822db8bde6c3afe0453ba5782c7b0fb73babcba09df7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66595.jpg"
+    },
+    "gameId": "SLPM_665.95"
+  },
+  "disc": {
+    "path": "PS2/SLPM_665.95/SLPM_665.95_ICO.png",
+    "kind": "disc",
+    "bytes": 9468,
+    "width": 128,
+    "height": 128,
+    "sha256": "7ba8e4ea2e6ae2c8d236e9e34ae4de220d589f50533ae82be8b6a074f16baaaf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_665.95_ICO.png"
+    },
+    "gameId": "SLPM_665.95"
+  },
+  "background": {
+    "path": "PS2/SLPM_665.95/SLPM_665.95_BG.png",
+    "kind": "background",
+    "bytes": 173362,
+    "width": 640,
+    "height": 480,
+    "sha256": "c3693e9cf137f47254382b7933f222a3129da3af1002c81157f19d474e3f0c85",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_665.95/SLPM_665.95_BG_00.png"
+    },
+    "gameId": "SLPM_665.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_665.95/SLPM_665.95_BG.png",
+      "kind": "background",
+      "bytes": 173362,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3693e9cf137f47254382b7933f222a3129da3af1002c81157f19d474e3f0c85",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_665.95/SLPM_665.95_BG_00.png"
+      },
+      "gameId": "SLPM_665.95"
+    },
+    {
+      "path": "PS2/SLPM_665.95/SLPM_665.95_BG_01.png",
+      "kind": "background",
+      "bytes": 162431,
+      "width": 640,
+      "height": 480,
+      "sha256": "816e6885d803b993e7e013cfba1034f3ace0fbcd375fc16e8a05b13fc62b27ae",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_665.95/SLPM_665.95_BG_01.png"
+      },
+      "gameId": "SLPM_665.95"
+    },
+    {
+      "path": "PS2/SLPM_665.95/SLPM_665.95_BG_02.png",
+      "kind": "background",
+      "bytes": 205906,
+      "width": 640,
+      "height": 480,
+      "sha256": "c9672deaf93e52cdb86859bd037caca77167b14cb851ba60853c49b07e466120",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_665.95/SLPM_665.95_BG_02.png"
+      },
+      "gameId": "SLPM_665.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "J-League Winning Eleven 10 + Europe League 06-07"
+}

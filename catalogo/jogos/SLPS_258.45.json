@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.45",
+  "cover": {
+    "path": "PS2/SLPS_258.45/SLPS_258.45_COV.png",
+    "kind": "cover",
+    "bytes": 103922,
+    "width": 192,
+    "height": 272,
+    "sha256": "c388cee8247f5ef59e4f209441f0e0a3c286b3c4ff778dabf47604444e578e9f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25845.jpg"
+    },
+    "gameId": "SLPS_258.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LAST ESCORT 2 - SHINYA NO AMAI TOGE"
+}

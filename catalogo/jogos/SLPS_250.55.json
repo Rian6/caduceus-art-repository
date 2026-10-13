@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.55",
+  "cover": {
+    "path": "PS2/SLPS_250.55/SLPS_250.55_COV.png",
+    "kind": "cover",
+    "bytes": 82753,
+    "width": 192,
+    "height": 272,
+    "sha256": "7fbde90bfc585dcae7bd9d93c7424fde7d9d0c59457dbb600582bfb311c4f5d0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25055.jpg"
+    },
+    "gameId": "SLPS_250.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GOLF NAVIGATOR VOL.3"
+}

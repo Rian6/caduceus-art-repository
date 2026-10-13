@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.48",
+  "cover": {
+    "path": "PS2/KOEI_201.48/KOEI_201.48_COV.png",
+    "kind": "cover",
+    "bytes": 71087,
+    "width": 192,
+    "height": 272,
+    "sha256": "3f19fa0a9101dc9258a7011e39f7c5f44cc44f4790c4b1bd3e52f4e0730cf920",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/KOEI-20148.jpg"
+    },
+    "gameId": "KOEI_201.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE 4 [PREMIUM BOX]"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_215.00",
+  "cover": {
+    "path": "PS2/SLUS_215.00/SLUS_215.00_COV.png",
+    "kind": "cover",
+    "bytes": 86991,
+    "width": 192,
+    "height": 272,
+    "sha256": "3adfb9a41d2b58c8faa69158fca469c228b1a22940ce62f3ff7971d0c19e957e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21500.jpg"
+    },
+    "gameId": "SLUS_215.00"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.00/SLUS_215.00_ICO.png",
+    "kind": "disc",
+    "bytes": 27676,
+    "width": 256,
+    "height": 256,
+    "sha256": "70e5a8a1ecb0ba8df2551a30a2ac0594463e9564b54f4daae150ff6e7114e5b8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.00_ICO.png"
+    },
+    "gameId": "SLUS_215.00"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.00/SLUS_215.00_BG.png",
+    "kind": "background",
+    "bytes": 186776,
+    "width": 640,
+    "height": 480,
+    "sha256": "7bfb6be502a80f954325dfdcb2eb200052f0f7b3a44ef2342ff7c927bb9dca22",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.00/SLUS_215.00_BG_00.png"
+    },
+    "gameId": "SLUS_215.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.00/SLUS_215.00_BG.png",
+      "kind": "background",
+      "bytes": 186776,
+      "width": 640,
+      "height": 480,
+      "sha256": "7bfb6be502a80f954325dfdcb2eb200052f0f7b3a44ef2342ff7c927bb9dca22",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.00/SLUS_215.00_BG_00.png"
+      },
+      "gameId": "SLUS_215.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Suzuki Super-Bikes II: Riding Challenge"
+}

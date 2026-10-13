@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_207.74",
+  "cover": {
+    "path": "PS2/SLUS_207.74/SLUS_207.74_COV.png",
+    "kind": "cover",
+    "bytes": 111557,
+    "width": 192,
+    "height": 272,
+    "sha256": "f8b132970d1ab1c1f9818a71613f3ea86e3abb20afa57e76e7021b9e5223a283",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20774.jpg"
+    },
+    "gameId": "SLUS_207.74"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.74/SLUS_207.74_ICO.png",
+    "kind": "disc",
+    "bytes": 35638,
+    "width": 256,
+    "height": 256,
+    "sha256": "c46181a3d4f2d13ec97fddcab433fe5b4902fd8291fc85e449b1d3553537cdb7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.74_ICO.png"
+    },
+    "gameId": "SLUS_207.74"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.74/SLUS_207.74_BG.png",
+    "kind": "background",
+    "bytes": 213561,
+    "width": 640,
+    "height": 480,
+    "sha256": "a1ba1ac70f8e27f77dc60eb04bba2426ea3f6b8b1e5a42e3be4339e90ff30a0a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.74/SLUS_207.74_BG_00.png"
+    },
+    "gameId": "SLUS_207.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.74/SLUS_207.74_BG.png",
+      "kind": "background",
+      "bytes": 213561,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1ba1ac70f8e27f77dc60eb04bba2426ea3f6b8b1e5a42e3be4339e90ff30a0a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.74/SLUS_207.74_BG_00.png"
+      },
+      "gameId": "SLUS_207.74"
+    },
+    {
+      "path": "PS2/SLUS_207.74/SLUS_207.74_BG_01.png",
+      "kind": "background",
+      "bytes": 224784,
+      "width": 640,
+      "height": 480,
+      "sha256": "42821720535b12da286deaa3acda569597543f63b0675825a96eaf77782e3e95",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.74/SLUS_207.74_BG_01.png"
+      },
+      "gameId": "SLUS_207.74"
+    },
+    {
+      "path": "PS2/SLUS_207.74/SLUS_207.74_BG_02.png",
+      "kind": "background",
+      "bytes": 243922,
+      "width": 640,
+      "height": 480,
+      "sha256": "f92342853943c6f87d95db796f883e95e16d236e454afe20142d0bcf411e004c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.74/SLUS_207.74_BG_02.png"
+      },
+      "gameId": "SLUS_207.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Culdcept"
+}

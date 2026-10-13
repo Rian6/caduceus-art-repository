@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.33",
+  "cover": {
+    "path": "PS2/SLPM_625.33/SLPM_625.33_COV.png",
+    "kind": "cover",
+    "bytes": 93787,
+    "width": 192,
+    "height": 272,
+    "sha256": "1e195544c805699bfe75b870143766648440a1ac0f64772cec1a9806b34b7c32",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62533.jpg"
+    },
+    "gameId": "SLPM_625.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Usagi: Yasei no Topai The Arcade - Yamashiro Mahjong-Hen"
+}

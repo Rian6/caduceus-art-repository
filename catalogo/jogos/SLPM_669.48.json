@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.48",
+  "cover": {
+    "path": "PS2/SLPM_669.48/SLPM_669.48_COV.png",
+    "kind": "cover",
+    "bytes": 91179,
+    "width": 192,
+    "height": 272,
+    "sha256": "2a9707e5f90cf0b33c6315109528af53502391d110f71084cc8a04f92361f26c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66948.jpg"
+    },
+    "gameId": "SLPM_669.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nobunaga no Yabou - Kakushin (with Power-Up Kit and Sangokushi XI)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.56",
+  "cover": {
+    "path": "PS2/SLAJ_250.56/SLAJ_250.56_COV.png",
+    "kind": "cover",
+    "bytes": 100894,
+    "width": 192,
+    "height": 272,
+    "sha256": "b316cb8d00c7e6cf1f3c99e23196fb0711b49c1a736b39e24c45b6019d6e7249",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25056.jpg"
+    },
+    "gameId": "SLAJ_250.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHINING TEARS"
+}

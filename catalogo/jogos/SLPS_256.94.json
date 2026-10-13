@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.94",
+  "cover": {
+    "path": "PS2/SLPS_256.94/SLPS_256.94_COV.png",
+    "kind": "cover",
+    "bytes": 122938,
+    "width": 192,
+    "height": 272,
+    "sha256": "d64803554f9dd812c571ee41763d2d5e62093f426359dd575bd7f7c31d2b1a48",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25694.jpg"
+    },
+    "gameId": "SLPS_256.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PRINCESS PRINCESS"
+}

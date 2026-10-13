@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.41",
+  "cover": {
+    "path": "PS2/SCAJ_201.41/SCAJ_201.41_COV.png",
+    "kind": "cover",
+    "bytes": 81542,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e5506d836acb78451af26fd1be4b7580767528ba27571a26c2c1651c99d5c87",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20141.jpg"
+    },
+    "gameId": "SCAJ_201.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRANDIA III [2 CDS]"
+}

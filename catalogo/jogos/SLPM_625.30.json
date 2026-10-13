@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.30",
+  "cover": {
+    "path": "PS2/SLPM_625.30/SLPM_625.30_COV.png",
+    "kind": "cover",
+    "bytes": 82198,
+    "width": 192,
+    "height": 272,
+    "sha256": "60363604e08375f3008202f966ade19108013494e58fd84eafc92213d57ea0fc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62530.jpg"
+    },
+    "gameId": "SLPM_625.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRADIUS III & IV [KONAMI DENDOU COLLECTION]"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SLPM_675.12",
+  "cover": {
+    "path": "PS2/SLPM_675.12/SLPM_675.12_COV.png",
+    "kind": "cover",
+    "bytes": 54133,
+    "width": 192,
+    "height": 272,
+    "sha256": "02ec9542957e341a153ac8d1e956d5f6af38b713cc23f116c5aae4d90cd2bfdb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_675.12/SLPM_675.12_COV.png"
+    },
+    "gameId": "SLPM_675.12"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_675.12/SLPM_675.12_BG.png",
+    "kind": "background",
+    "bytes": 111474,
+    "width": 640,
+    "height": 480,
+    "sha256": "2a83ebab00cbda5382bba438f81b9183e85915f0bcb0377ba680b3e9f91a6ffb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_675.12/SLPM_675.12_BG_00.png"
+    },
+    "gameId": "SLPM_675.12"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_675.12/SLPM_675.12_BG.png",
+      "kind": "background",
+      "bytes": 111474,
+      "width": 640,
+      "height": 480,
+      "sha256": "2a83ebab00cbda5382bba438f81b9183e85915f0bcb0377ba680b3e9f91a6ffb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_675.12/SLPM_675.12_BG_00.png"
+      },
+      "gameId": "SLPM_675.12"
+    },
+    {
+      "path": "PS2/SLPM_675.12/SLPM_675.12_BG_01.png",
+      "kind": "background",
+      "bytes": 66270,
+      "width": 640,
+      "height": 480,
+      "sha256": "ec89ddb75bbc22009a52a2f93c31f056acda8787c01777e59584509a13c7e9c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_675.12/SLPM_675.12_BG_01.png"
+      },
+      "gameId": "SLPM_675.12"
+    },
+    {
+      "path": "PS2/SLPM_675.12/SLPM_675.12_BG_02.png",
+      "kind": "background",
+      "bytes": 134631,
+      "width": 640,
+      "height": 480,
+      "sha256": "ee1b6ae8f191e5e8a60ec67608a25f215049bff570982208c0c814c54ee0243a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_675.12/SLPM_675.12_BG_02.png"
+      },
+      "gameId": "SLPM_675.12"
+    },
+    {
+      "path": "PS2/SLPM_675.12/SLPM_675.12_BG_03.png",
+      "kind": "background",
+      "bytes": 151851,
+      "width": 640,
+      "height": 480,
+      "sha256": "485fa7bb72d831fde930f2a3d7e356f108f41be541eddd1595b9345c8a6dd499",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_675.12/SLPM_675.12_BG_03.png"
+      },
+      "gameId": "SLPM_675.12"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "2002 FIFA World Cup"
+}

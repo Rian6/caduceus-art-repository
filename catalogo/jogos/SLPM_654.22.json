@@ -1,0 +1,103 @@
+{
+  "id": "SLPM_654.22",
+  "cover": {
+    "path": "PS2/SLPM_654.22/SLPM_654.22_COV.png",
+    "kind": "cover",
+    "bytes": 90002,
+    "width": 192,
+    "height": 272,
+    "sha256": "458554dec534ef3bf87d3414b07d0c05e81219af7de69b3438e96d12fa58f83d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65422.jpg"
+    },
+    "gameId": "SLPM_654.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_654.22/SLPM_654.22_BG.png",
+    "kind": "background",
+    "bytes": 189635,
+    "width": 640,
+    "height": 480,
+    "sha256": "081294566e90d875f5b7ffed1f6dea1505fcc04414fcfcd5aadf6d723ed99fc0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.22/SLPM_654.22_BG_00.png"
+    },
+    "gameId": "SLPM_654.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.22/SLPM_654.22_BG.png",
+      "kind": "background",
+      "bytes": 189635,
+      "width": 640,
+      "height": 480,
+      "sha256": "081294566e90d875f5b7ffed1f6dea1505fcc04414fcfcd5aadf6d723ed99fc0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.22/SLPM_654.22_BG_00.png"
+      },
+      "gameId": "SLPM_654.22"
+    },
+    {
+      "path": "PS2/SLPM_654.22/SLPM_654.22_BG_01.png",
+      "kind": "background",
+      "bytes": 192307,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e8cd93bfb01465045e13d144b9b4a71933b464225a4c3ec9667bb69c0403c49",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.22/SLPM_654.22_BG_01.png"
+      },
+      "gameId": "SLPM_654.22"
+    },
+    {
+      "path": "PS2/SLPM_654.22/SLPM_654.22_BG_02.png",
+      "kind": "background",
+      "bytes": 168366,
+      "width": 640,
+      "height": 480,
+      "sha256": "5eafa2b0fdcb4bd28219fde550c92a80985487ec19978acfa72d2594074e4561",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.22/SLPM_654.22_BG_02.png"
+      },
+      "gameId": "SLPM_654.22"
+    },
+    {
+      "path": "PS2/SLPM_654.22/SLPM_654.22_BG_03.png",
+      "kind": "background",
+      "bytes": 152559,
+      "width": 640,
+      "height": 480,
+      "sha256": "228ccee2e771cc6f0e3d5fbdb23f6d4cefc6bc304d2f9c7893495dd77c22f760",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.22/SLPM_654.22_BG_03.png"
+      },
+      "gameId": "SLPM_654.22"
+    },
+    {
+      "path": "PS2/SLPM_654.22/SLPM_654.22_BG_04.png",
+      "kind": "background",
+      "bytes": 93831,
+      "width": 640,
+      "height": 480,
+      "sha256": "4d5d5b1a185b7fe5b0efeb39fdcaeb7965f9ee387be0e072b8a55313821961d4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.22/SLPM_654.22_BG_04.png"
+      },
+      "gameId": "SLPM_654.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Splinter Cell"
+}

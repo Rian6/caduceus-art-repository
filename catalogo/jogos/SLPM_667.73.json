@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.73",
+  "cover": {
+    "path": "PS2/SLPM_667.73/SLPM_667.73_COV.png",
+    "kind": "cover",
+    "bytes": 83432,
+    "width": 192,
+    "height": 272,
+    "sha256": "4ef6a1a5cd2e3f43664119b75a72939458f43951ec304912f0361114fa699198",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66773.jpg"
+    },
+    "gameId": "SLPM_667.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JET DE GO! 2 - LET'S GO BY AIRLINER [ETERNAL HITS]"
+}

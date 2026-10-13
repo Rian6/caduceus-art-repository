@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.68",
+  "cover": {
+    "path": "PS2/SLPS_200.68/SLPS_200.68_COV.png",
+    "kind": "cover",
+    "bytes": 99839,
+    "width": 192,
+    "height": 272,
+    "sha256": "183d5773fc1940c45bf051e088948b9b5d5354705dede210ba2ec1412b9fdc85",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20068.jpg"
+    },
+    "gameId": "SLPS_200.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MIDNIGHT CLUB - STREET RACING"
+}

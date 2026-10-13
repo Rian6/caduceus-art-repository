@@ -1,0 +1,39 @@
+{
+  "id": "SLES_525.20",
+  "cover": {
+    "path": "PS2/SLES_525.20/SLES_525.20_COV.png",
+    "kind": "cover",
+    "bytes": 92047,
+    "width": 192,
+    "height": 272,
+    "sha256": "12a7aa6b969861341c8c3e524d9451e091e8ea108b884ab9a5b0afe4b11a11b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52520.jpg"
+    },
+    "gameId": "SLES_525.20"
+  },
+  "disc": {
+    "path": "PS2/SLES_525.20/SLES_525.20_ICO.png",
+    "kind": "disc",
+    "bytes": 7623,
+    "width": 128,
+    "height": 128,
+    "sha256": "3dcbe1d6f41936f3d0bd0fd558781b153487cd0a7667028e240a6d486286becf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_525.20_ICO.png"
+    },
+    "gameId": "SLES_525.20"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Volleyball Challenge"
+}

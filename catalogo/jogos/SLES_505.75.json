@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.75",
+  "cover": {
+    "path": "PS2/SLES_505.75/SLES_505.75_COV.png",
+    "kind": "cover",
+    "bytes": 90842,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ccac7a32df629327af42432b8f40f71d63859d2fb189667ea0c3afcc9d63bf6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50575.jpg"
+    },
+    "gameId": "SLES_505.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dark Summit"
+}

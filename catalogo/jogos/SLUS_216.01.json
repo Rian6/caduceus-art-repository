@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_216.01",
+  "cover": {
+    "path": "PS2/SLUS_216.01/SLUS_216.01_COV.png",
+    "kind": "cover",
+    "bytes": 111314,
+    "width": 192,
+    "height": 272,
+    "sha256": "50d1cf24877fda339c2abe82d830626cea5914ea067042eb18c94f26b2d0b9d3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21601.jpg"
+    },
+    "gameId": "SLUS_216.01"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.01/SLUS_216.01_ICO.png",
+    "kind": "disc",
+    "bytes": 35147,
+    "width": 256,
+    "height": 256,
+    "sha256": "0e6e3a4dd808728612666815ebfa1c666693b18b15b5acf7080ed20357205e0c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.01_ICO.png"
+    },
+    "gameId": "SLUS_216.01"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sprint Cars 2: Showdown at Eldora"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_670.12",
+  "cover": {
+    "path": "PS2/SLPM_670.12/SLPM_670.12_COV.png",
+    "kind": "cover",
+    "bytes": 94256,
+    "width": 192,
+    "height": 272,
+    "sha256": "07705bd2e3fdfee1e327ebcada60eb7fe3a300a64b54851a7b4a02bd73e8dc8a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-67012.jpg"
+    },
+    "gameId": "SLPM_670.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GOD OF WAR [BEST PRIZE]"
+}

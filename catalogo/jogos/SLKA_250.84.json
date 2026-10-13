@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.84",
+  "cover": {
+    "path": "PS2/SLKA_250.84/SLKA_250.84_COV.png",
+    "kind": "cover",
+    "bytes": 44418,
+    "width": 192,
+    "height": 272,
+    "sha256": "3c83069638613d1ab95cff45540143b403e2bd8896f211f5fe3380e97ee1b2d3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.84/SLKA_250.84_COV.png"
+    },
+    "gameId": "SLKA_250.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shutokou Battle 01"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.42",
+  "cover": {
+    "path": "PS2/SLPM_627.42/SLPM_627.42_COV.png",
+    "kind": "cover",
+    "bytes": 107151,
+    "width": 192,
+    "height": 272,
+    "sha256": "70c23f1b572a714525e75341b240f16f5b85b2add4994636bd2a278cf3d2bd53",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62742.jpg"
+    },
+    "gameId": "SLPM_627.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wizardry Gaiden - Sentou no Kangoku - Prisoners of the Battles"
+}

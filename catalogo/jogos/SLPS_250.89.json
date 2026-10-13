@@ -1,0 +1,24 @@
+{
+  "id": "SLPS_250.89",
+  "cover": {
+    "path": "PS2/SLPS_250.89/SLPS_250.89_COV.png",
+    "kind": "cover",
+    "bytes": 103810,
+    "width": 192,
+    "height": 272,
+    "sha256": "5e09159f20bf10421b56e892a70dbf219fa25abb2246b2289d5bd81e87a28e92",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25089.jpg"
+    },
+    "gameId": "SLPS_250.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

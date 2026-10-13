@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.93",
+  "cover": {
+    "path": "PS2/SLPS_255.93/SLPS_255.93_COV.png",
+    "kind": "cover",
+    "bytes": 105688,
+    "width": 192,
+    "height": 272,
+    "sha256": "6bca6c209a527f1db5801dfa341fe5253d77ddde342cfe7d5b632b42463e23d1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25593.jpg"
+    },
+    "gameId": "SLPS_255.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hoshigari Empusa"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.73",
+  "cover": {
+    "path": "PS2/SLPS_256.73/SLPS_256.73_COV.png",
+    "kind": "cover",
+    "bytes": 96792,
+    "width": 192,
+    "height": 272,
+    "sha256": "51a60dafea163a7abb0f61c398ed0af9c00c7cf54f7d76d18ee34e082420d6b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25673.jpg"
+    },
+    "gameId": "SLPS_256.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LAST ESCORT - KUROCHOU SPECIAL NIGHT"
+}

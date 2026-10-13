@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_212.08",
+  "cover": {
+    "path": "PS2/SLUS_212.08/SLUS_212.08_COV.png",
+    "kind": "cover",
+    "bytes": 96332,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c17b57a5f131467fd8a61e856e480065613a89b77c52bb6e85436f563834838",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21208.jpg"
+    },
+    "gameId": "SLUS_212.08"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.08/SLUS_212.08_ICO.png",
+    "kind": "disc",
+    "bytes": 36903,
+    "width": 256,
+    "height": 256,
+    "sha256": "78808ec080fdad7af3bdf39e18a79023e3c37a59e1bac7e4d757c84b8294d06a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.08_ICO.png"
+    },
+    "gameId": "SLUS_212.08"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.08/SLUS_212.08_BG.png",
+    "kind": "background",
+    "bytes": 209425,
+    "width": 640,
+    "height": 480,
+    "sha256": "a1a80e71ebc8cc2eaf08814426817beb8824e963e4771cd2388ef2afefcb09e7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.08/SLUS_212.08_BG_00.png"
+    },
+    "gameId": "SLUS_212.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.08/SLUS_212.08_BG.png",
+      "kind": "background",
+      "bytes": 209425,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1a80e71ebc8cc2eaf08814426817beb8824e963e4771cd2388ef2afefcb09e7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.08/SLUS_212.08_BG_00.png"
+      },
+      "gameId": "SLUS_212.08"
+    },
+    {
+      "path": "PS2/SLUS_212.08/SLUS_212.08_BG_01.png",
+      "kind": "background",
+      "bytes": 226011,
+      "width": 640,
+      "height": 480,
+      "sha256": "6b653cbcb90eee5277c866cff1836dd5dee585386c4b15892ee0c2f817bd7756",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.08/SLUS_212.08_BG_01.png"
+      },
+      "gameId": "SLUS_212.08"
+    },
+    {
+      "path": "PS2/SLUS_212.08/SLUS_212.08_BG_02.png",
+      "kind": "background",
+      "bytes": 184948,
+      "width": 640,
+      "height": 480,
+      "sha256": "f1eb4d5094b83f26300f44e4e761a63ca161c4f83cc55dc09de9c1dc6dece1a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.08/SLUS_212.08_BG_02.png"
+      },
+      "gameId": "SLUS_212.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TONY HAWK'S AMERICAN WASTELAND"
+}

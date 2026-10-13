@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.33",
+  "cover": {
+    "path": "PS2/SLPS_732.33/SLPS_732.33_COV.png",
+    "kind": "cover",
+    "bytes": 102432,
+    "width": 192,
+    "height": 272,
+    "sha256": "eb1ad59a7506495a3546fc3329fef82318b9647ff1f0bfdcde01825a5cfcb66d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73233.jpg"
+    },
+    "gameId": "SLPS_732.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": ".Hack Zettai Houi Vol.4 (Playstation 2 The Best)"
+}

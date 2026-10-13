@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.67",
+  "cover": {
+    "path": "PS2/SLPM_664.67/SLPM_664.67_COV.png",
+    "kind": "cover",
+    "bytes": 103275,
+    "width": 192,
+    "height": 272,
+    "sha256": "caae16236da33a96e214f730a4eed1762e95d1b346408cff9b64c9fa259c5a7e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66467.jpg"
+    },
+    "gameId": "SLPM_664.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Geesen USA - Midway Arcade Treasures"
+}

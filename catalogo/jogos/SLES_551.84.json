@@ -1,0 +1,103 @@
+{
+  "id": "SLES_551.84",
+  "cover": {
+    "path": "PS2/SLES_551.84/SLES_551.84_COV.png",
+    "kind": "cover",
+    "bytes": 83773,
+    "width": 192,
+    "height": 272,
+    "sha256": "c08499220b79241d2743105e70f5edfca6bae3a1952874f0aabe28d4517d1e36",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55184.jpg"
+    },
+    "gameId": "SLES_551.84"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_551.84/SLES_551.84_BG.png",
+    "kind": "background",
+    "bytes": 124682,
+    "width": 640,
+    "height": 480,
+    "sha256": "691ceed9689865ec843895cb7a46165cc9a43ebb81ae4b56ddec1dea09050148",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_551.84/SLES_551.84_BG_00.png"
+    },
+    "gameId": "SLES_551.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_551.84/SLES_551.84_BG.png",
+      "kind": "background",
+      "bytes": 124682,
+      "width": 640,
+      "height": 480,
+      "sha256": "691ceed9689865ec843895cb7a46165cc9a43ebb81ae4b56ddec1dea09050148",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.84/SLES_551.84_BG_00.png"
+      },
+      "gameId": "SLES_551.84"
+    },
+    {
+      "path": "PS2/SLES_551.84/SLES_551.84_BG_01.png",
+      "kind": "background",
+      "bytes": 161318,
+      "width": 640,
+      "height": 480,
+      "sha256": "439e3f294f8e2656cdd2f81f0a3b1860d831d6516438231f35bcce7e415e8cfc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.84/SLES_551.84_BG_01.png"
+      },
+      "gameId": "SLES_551.84"
+    },
+    {
+      "path": "PS2/SLES_551.84/SLES_551.84_BG_02.png",
+      "kind": "background",
+      "bytes": 174529,
+      "width": 640,
+      "height": 480,
+      "sha256": "7f0092a8214735afa2f28173f2f8f22044934a64e182f00ec97c7d748a37923b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.84/SLES_551.84_BG_02.png"
+      },
+      "gameId": "SLES_551.84"
+    },
+    {
+      "path": "PS2/SLES_551.84/SLES_551.84_BG_03.png",
+      "kind": "background",
+      "bytes": 193213,
+      "width": 640,
+      "height": 480,
+      "sha256": "9decd44ea05474b2262060d133d493c3f08f55560ef8ff22cfef5f1813a585db",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.84/SLES_551.84_BG_03.png"
+      },
+      "gameId": "SLES_551.84"
+    },
+    {
+      "path": "PS2/SLES_551.84/SLES_551.84_BG_04.png",
+      "kind": "background",
+      "bytes": 189854,
+      "width": 640,
+      "height": 480,
+      "sha256": "37a9e0ca423271d4c5662af88efe9c8fe7d3c9a4d368e05b6b8cd3498d3b52d6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.84/SLES_551.84_BG_04.png"
+      },
+      "gameId": "SLES_551.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney-Pixar WALL-E"
+}

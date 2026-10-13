@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.74",
+  "cover": {
+    "path": "PS2/SLPM_653.74/SLPM_653.74_COV.png",
+    "kind": "cover",
+    "bytes": 79403,
+    "width": 192,
+    "height": 272,
+    "sha256": "68067cfc773091d379cfff35d5923ea7a05e1e237e4cb3b9f52fca4d946ab4cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65374.jpg"
+    },
+    "gameId": "SLPM_653.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ENERGY AIRFORCE AIM STRIKE!"
+}

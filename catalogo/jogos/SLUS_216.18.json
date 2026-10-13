@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_216.18",
+  "cover": {
+    "path": "PS2/SLUS_216.18/SLUS_216.18_COV.png",
+    "kind": "cover",
+    "bytes": 98827,
+    "width": 192,
+    "height": 272,
+    "sha256": "6686931b0c7489102a2f63d4b9b6e2a310707089311f156f57068d1798799a2d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21618.jpg"
+    },
+    "gameId": "SLUS_216.18"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.18/SLUS_216.18_ICO.png",
+    "kind": "disc",
+    "bytes": 35651,
+    "width": 256,
+    "height": 256,
+    "sha256": "1f3de75274d96699b90a57869ada1253798f797803e91e4c26a9327d92a6cf63",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.18_ICO.png"
+    },
+    "gameId": "SLUS_216.18"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TH3 PLAN"
+}

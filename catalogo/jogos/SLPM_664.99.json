@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_664.99",
+  "cover": {
+    "path": "PS2/SLPM_664.99/SLPM_664.99_COV.png",
+    "kind": "cover",
+    "bytes": 95536,
+    "width": 192,
+    "height": 272,
+    "sha256": "0e3542d9b8b8ef69ae23a31a12b0f16b301c4b31e69ec90e3ae166002283daff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66499.jpg"
+    },
+    "gameId": "SLPM_664.99"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_664.99/SLPM_664.99_BG.png",
+    "kind": "background",
+    "bytes": 176634,
+    "width": 640,
+    "height": 480,
+    "sha256": "13fadd6e543d87b2d6a3ebf135c1e687843691614b4a0c53e5bad428657dd39e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_664.99/SLPM_664.99_BG_00.png"
+    },
+    "gameId": "SLPM_664.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_664.99/SLPM_664.99_BG.png",
+      "kind": "background",
+      "bytes": 176634,
+      "width": 640,
+      "height": 480,
+      "sha256": "13fadd6e543d87b2d6a3ebf135c1e687843691614b4a0c53e5bad428657dd39e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_664.99/SLPM_664.99_BG_00.png"
+      },
+      "gameId": "SLPM_664.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAMISAMA KAZOKU - OUEN GANBOU"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "SLES_524.51",
+  "cover": {
+    "path": "PS2/SLES_524.51/SLES_524.51_COV.png",
+    "kind": "cover",
+    "bytes": 73462,
+    "width": 192,
+    "height": 272,
+    "sha256": "8ef237dff2bdfa284ad1fc663bc0673ab632f3f5cee592bf7bc9f9c27223eac2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52451.jpg"
+    },
+    "gameId": "SLES_524.51"
+  },
+  "disc": {
+    "path": "PS2/SLES_524.51/SLES_524.51_ICO.png",
+    "kind": "disc",
+    "bytes": 9758,
+    "width": 128,
+    "height": 128,
+    "sha256": "4946a3b5c50d601e25ee5398da64b0918d72e62b6f2556bed35e77f274bb84a6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_524.51_ICO.png"
+    },
+    "gameId": "SLES_524.51"
+  },
+  "background": {
+    "path": "PS2/SLES_524.51/SLES_524.51_BG.png",
+    "kind": "background",
+    "bytes": 184406,
+    "width": 640,
+    "height": 480,
+    "sha256": "90820e1dc132d5b88bb77df6522c81302126f152d4b59e109977aea164b8162d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_524.51/SLES_524.51_BG_00.png"
+    },
+    "gameId": "SLES_524.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_524.51/SLES_524.51_BG.png",
+      "kind": "background",
+      "bytes": 184406,
+      "width": 640,
+      "height": 480,
+      "sha256": "90820e1dc132d5b88bb77df6522c81302126f152d4b59e109977aea164b8162d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.51/SLES_524.51_BG_00.png"
+      },
+      "gameId": "SLES_524.51"
+    },
+    {
+      "path": "PS2/SLES_524.51/SLES_524.51_BG_01.png",
+      "kind": "background",
+      "bytes": 129627,
+      "width": 640,
+      "height": 480,
+      "sha256": "7f0d0cf4cd1ad7ce23018129bc53b7ec1e7521977efc0d400a0b8eb481efa50f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.51/SLES_524.51_BG_01.png"
+      },
+      "gameId": "SLES_524.51"
+    },
+    {
+      "path": "PS2/SLES_524.51/SLES_524.51_BG_02.png",
+      "kind": "background",
+      "bytes": 202937,
+      "width": 640,
+      "height": 480,
+      "sha256": "db2b3d8d8d39ffb2302eef76bb5fac8da3b69edc12b94dead0ec75c2058440b0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.51/SLES_524.51_BG_02.png"
+      },
+      "gameId": "SLES_524.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CONAN"
+}

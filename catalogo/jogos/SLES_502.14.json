@@ -1,0 +1,51 @@
+{
+  "id": "SLES_502.14",
+  "cover": {
+    "path": "PS2/SLES_502.14/SLES_502.14_COV.png",
+    "kind": "cover",
+    "bytes": 98764,
+    "width": 192,
+    "height": 272,
+    "sha256": "74842a22fb269adc9994cb94113c99c75c51b074a4b19a8ea936b17db4790915",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50214.jpg"
+    },
+    "gameId": "SLES_502.14"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_502.14/SLES_502.14_BG.png",
+    "kind": "background",
+    "bytes": 184874,
+    "width": 640,
+    "height": 480,
+    "sha256": "a1c769342d18ea5afee66b54e85e973251d209b65146b384e8de820ef08f03ec",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.14/SLES_502.14_BG_00.png"
+    },
+    "gameId": "SLES_502.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.14/SLES_502.14_BG.png",
+      "kind": "background",
+      "bytes": 184874,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1c769342d18ea5afee66b54e85e973251d209b65146b384e8de820ef08f03ec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.14/SLES_502.14_BG_00.png"
+      },
+      "gameId": "SLES_502.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "18 Wheeler: American Pro Trucker"
+}

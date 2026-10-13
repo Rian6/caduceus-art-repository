@@ -1,0 +1,51 @@
+{
+  "id": "SLES_519.52",
+  "cover": {
+    "path": "PS2/SLES_519.52/SLES_519.52_COV.png",
+    "kind": "cover",
+    "bytes": 83310,
+    "width": 192,
+    "height": 272,
+    "sha256": "38df4e9b292324bd35e08ee181d61f27de2cd34fdab4d6530fb22126c3ed0ff1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51952.jpg"
+    },
+    "gameId": "SLES_519.52"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_519.52/SLES_519.52_BG.png",
+    "kind": "background",
+    "bytes": 132805,
+    "width": 640,
+    "height": 480,
+    "sha256": "eea913cbe61baa9bb93b6318f4fc99c3af0205736041cab34005627fda791b7e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.52/SLES_519.52_BG_00.png"
+    },
+    "gameId": "SLES_519.52"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.52/SLES_519.52_BG.png",
+      "kind": "background",
+      "bytes": 132805,
+      "width": 640,
+      "height": 480,
+      "sha256": "eea913cbe61baa9bb93b6318f4fc99c3af0205736041cab34005627fda791b7e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.52/SLES_519.52_BG_00.png"
+      },
+      "gameId": "SLES_519.52"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "R-TYPE FINAL"
+}

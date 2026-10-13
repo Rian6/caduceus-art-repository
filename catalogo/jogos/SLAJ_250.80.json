@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.80",
+  "cover": {
+    "path": "PS2/SLAJ_250.80/SLAJ_250.80_COV.png",
+    "kind": "cover",
+    "bytes": 76593,
+    "width": 192,
+    "height": 272,
+    "sha256": "61aac0c9702a25b192434c7b720a75fc3dbe5d450347279bba6b74ce50150472",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25080.jpg"
+    },
+    "gameId": "SLAJ_250.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE GODFATHER"
+}

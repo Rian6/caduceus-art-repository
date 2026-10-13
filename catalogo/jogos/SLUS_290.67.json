@@ -1,0 +1,24 @@
+{
+  "id": "SLUS_290.67",
+  "cover": {
+    "path": "PS2/SLUS_290.67/SLUS_290.67_COV.png",
+    "kind": "cover",
+    "bytes": 87776,
+    "width": 192,
+    "height": 272,
+    "sha256": "59225f26b26e811972bedc05a7755cf7abe11bfa9881926a49557f75c4d6a3d3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-29067.jpg"
+    },
+    "gameId": "SLUS_290.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_513.81",
+  "cover": {
+    "path": "PS2/SLES_513.81/SLES_513.81_COV.png",
+    "kind": "cover",
+    "bytes": 88262,
+    "width": 192,
+    "height": 272,
+    "sha256": "a3cbc2dc5fd16d3c2ce5393a2411f4a3724ec6013b78c615ce6553f18a39cc70",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51381.jpg"
+    },
+    "gameId": "SLES_513.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_513.81/SLES_513.81_BG.png",
+    "kind": "background",
+    "bytes": 177503,
+    "width": 640,
+    "height": 480,
+    "sha256": "c1d191225aeb2fd106b8b483a4916d9327e8d5d9080fa327eaa2bc3d74312f7c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_513.81/SLES_513.81_BG_00.png"
+    },
+    "gameId": "SLES_513.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_513.81/SLES_513.81_BG.png",
+      "kind": "background",
+      "bytes": 177503,
+      "width": 640,
+      "height": 480,
+      "sha256": "c1d191225aeb2fd106b8b483a4916d9327e8d5d9080fa327eaa2bc3d74312f7c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.81/SLES_513.81_BG_00.png"
+      },
+      "gameId": "SLES_513.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Everblue 2"
+}

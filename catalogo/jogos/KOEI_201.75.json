@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.75",
+  "cover": {
+    "path": "PS2/KOEI_201.75/KOEI_201.75_COV.png",
+    "kind": "cover",
+    "bytes": 85168,
+    "width": 192,
+    "height": 272,
+    "sha256": "12eaa3d4c910656e8a3b7f22f2ebdbd7dfb98086ecef494a8ccca1c6dd687a5c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/KOEI-20175.jpg"
+    },
+    "gameId": "KOEI_201.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KIN'IRO NO KORUDA 3 [PREMIUM BOX]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.23",
+  "cover": {
+    "path": "PS2/SLPS_258.23/SLPS_258.23_COV.png",
+    "kind": "cover",
+    "bytes": 65398,
+    "width": 192,
+    "height": 272,
+    "sha256": "687b3f8dabe970a3da174c9c012e5861f70d97def6c96cc1ecd79ad1492826ef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25823.jpg"
+    },
+    "gameId": "SLPS_258.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Spider-Man 3"
+}

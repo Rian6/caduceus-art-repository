@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.41",
+  "cover": {
+    "path": "PS2/SLPM_551.41/SLPM_551.41_COV.png",
+    "kind": "cover",
+    "bytes": 92502,
+    "width": 192,
+    "height": 272,
+    "sha256": "ab91f8541ce5cec15a3291056904a03d0c7584fa5df5de7e7c52683e2361cb3a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55141.jpg"
+    },
+    "gameId": "SLPM_551.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DESTROY ALL HUMANS! [THQ COLLECTION]"
+}

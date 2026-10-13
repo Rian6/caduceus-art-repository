@@ -1,0 +1,90 @@
+{
+  "id": "SLPS_254.65",
+  "cover": {
+    "path": "PS2/SLPS_254.65/SLPS_254.65_COV.png",
+    "kind": "cover",
+    "bytes": 103652,
+    "width": 192,
+    "height": 272,
+    "sha256": "9532cb02cf2edcc7cf2b46a78c0f497ea05b94f4a91b08090e4a77d98c001f6e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25465.jpg"
+    },
+    "gameId": "SLPS_254.65"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_254.65/SLPS_254.65_BG.png",
+    "kind": "background",
+    "bytes": 230595,
+    "width": 640,
+    "height": 480,
+    "sha256": "831f18a0a21b4aafea20a257b69775fdd537cba64307d604b73bc76662df5902",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_254.65/SLPS_254.65_BG_00.png"
+    },
+    "gameId": "SLPS_254.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_254.65/SLPS_254.65_BG.png",
+      "kind": "background",
+      "bytes": 230595,
+      "width": 640,
+      "height": 480,
+      "sha256": "831f18a0a21b4aafea20a257b69775fdd537cba64307d604b73bc76662df5902",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.65/SLPS_254.65_BG_00.png"
+      },
+      "gameId": "SLPS_254.65"
+    },
+    {
+      "path": "PS2/SLPS_254.65/SLPS_254.65_BG_01.png",
+      "kind": "background",
+      "bytes": 224049,
+      "width": 640,
+      "height": 480,
+      "sha256": "919e3cf9afcd947d055de2f375e74db64cd2c8d1af4daf568cff4603d38dc9df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.65/SLPS_254.65_BG_01.png"
+      },
+      "gameId": "SLPS_254.65"
+    },
+    {
+      "path": "PS2/SLPS_254.65/SLPS_254.65_BG_02.png",
+      "kind": "background",
+      "bytes": 145482,
+      "width": 640,
+      "height": 480,
+      "sha256": "f6b0d88bd5f0f0ae7b58d1ef9b0475b3fedd2db9674686830246202b5131d6c3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.65/SLPS_254.65_BG_02.png"
+      },
+      "gameId": "SLPS_254.65"
+    },
+    {
+      "path": "PS2/SLPS_254.65/SLPS_254.65_BG_03.png",
+      "kind": "background",
+      "bytes": 163429,
+      "width": 640,
+      "height": 480,
+      "sha256": "8cea81620314b19b1dd35529a02d85b59f52194ecf4e552aa1ef21d9f7b70810",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.65/SLPS_254.65_BG_03.png"
+      },
+      "gameId": "SLPS_254.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Azumi"
+}

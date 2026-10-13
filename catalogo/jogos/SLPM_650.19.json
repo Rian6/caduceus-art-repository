@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.19",
+  "cover": {
+    "path": "PS2/SLPM_650.19/SLPM_650.19_COV.png",
+    "kind": "cover",
+    "bytes": 78596,
+    "width": 192,
+    "height": 272,
+    "sha256": "1fd17052b31e25025fa37f535b3b2a2cd88dde55d661b2174536726dca07a3f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65019.jpg"
+    },
+    "gameId": "SLPM_650.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Z.O.E. - Zone of Enders"
+}

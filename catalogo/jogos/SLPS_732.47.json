@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.47",
+  "cover": {
+    "path": "PS2/SLPS_732.47/SLPS_732.47_COV.png",
+    "kind": "cover",
+    "bytes": 80794,
+    "width": 192,
+    "height": 272,
+    "sha256": "1d36fa2bb8652a480ae5d41ca830137f5dcbb42416dcb995484ec0716b2f047a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73247.jpg"
+    },
+    "gameId": "SLPS_732.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core - Last Raven (Playstation 2 The Best)"
+}

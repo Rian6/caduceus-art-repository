@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_205.10",
+  "cover": {
+    "path": "PS2/SLPS_205.10/SLPS_205.10_COV.png",
+    "kind": "cover",
+    "bytes": 120660,
+    "width": 192,
+    "height": 272,
+    "sha256": "2909f20fff9cdcd797a45674036373f9a6469eb586db211407aebc5d7723a712",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20510.jpg"
+    },
+    "gameId": "SLPS_205.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sekai Saikyou Ginsei Igo Kouza"
+}

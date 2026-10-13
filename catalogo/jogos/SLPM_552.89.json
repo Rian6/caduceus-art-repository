@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.89",
+  "cover": {
+    "path": "PS2/SLPM_552.89/SLPM_552.89_COV.png",
+    "kind": "cover",
+    "bytes": 115754,
+    "width": 192,
+    "height": 272,
+    "sha256": "6ab418570b43317a6c6c32bccc8bd38c4b88e81333f28315402f66f2461a4e83",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55289.jpg"
+    },
+    "gameId": "SLPM_552.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sangoku Rensenki: Otome no Heihou!"
+}

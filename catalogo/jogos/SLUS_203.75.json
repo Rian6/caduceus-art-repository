@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_203.75",
+  "cover": {
+    "path": "PS2/SLUS_203.75/SLUS_203.75_COV.png",
+    "kind": "cover",
+    "bytes": 93368,
+    "width": 192,
+    "height": 272,
+    "sha256": "17d46f0fa5e7bbaf39494f597e302564e276a9e74562902b7397d496bfe3e4c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20375.jpg"
+    },
+    "gameId": "SLUS_203.75"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.75/SLUS_203.75_ICO.png",
+    "kind": "disc",
+    "bytes": 30483,
+    "width": 256,
+    "height": 256,
+    "sha256": "cbc399b5172d1662d850cfa7a1c5de07d28402db9d8ccd51091602d3865c9d75",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.75_ICO.png"
+    },
+    "gameId": "SLUS_203.75"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.75/SLUS_203.75_BG.png",
+    "kind": "background",
+    "bytes": 183236,
+    "width": 640,
+    "height": 480,
+    "sha256": "b310526f63b23b73ee26cf401b19f738dbdcd352b5bb268fcd676c402e793d84",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.75/SLUS_203.75_BG_00.png"
+    },
+    "gameId": "SLUS_203.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.75/SLUS_203.75_BG.png",
+      "kind": "background",
+      "bytes": 183236,
+      "width": 640,
+      "height": 480,
+      "sha256": "b310526f63b23b73ee26cf401b19f738dbdcd352b5bb268fcd676c402e793d84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.75/SLUS_203.75_BG_00.png"
+      },
+      "gameId": "SLUS_203.75"
+    },
+    {
+      "path": "PS2/SLUS_203.75/SLUS_203.75_BG_01.png",
+      "kind": "background",
+      "bytes": 45582,
+      "width": 640,
+      "height": 480,
+      "sha256": "902611b6c6be9f6efa39f6700d0cc3271e1b5e2d1c70979aac3902e85a2507bf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.75/SLUS_203.75_BG_01.png"
+      },
+      "gameId": "SLUS_203.75"
+    },
+    {
+      "path": "PS2/SLUS_203.75/SLUS_203.75_BG_02.png",
+      "kind": "background",
+      "bytes": 138866,
+      "width": 640,
+      "height": 480,
+      "sha256": "8539f1135bd8011f7bbbb6858cfd52a99bbc24f96a891fefb5a896d5cc4663d0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.75/SLUS_203.75_BG_02.png"
+      },
+      "gameId": "SLUS_203.75"
+    },
+    {
+      "path": "PS2/SLUS_203.75/SLUS_203.75_BG_03.png",
+      "kind": "background",
+      "bytes": 157709,
+      "width": 640,
+      "height": 480,
+      "sha256": "f06c6ff6df69eed5bfdd00e51712b249e05eaa95bd5ba701bee63598e1331015",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.75/SLUS_203.75_BG_03.png"
+      },
+      "gameId": "SLUS_203.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MISTER MOSKEETO"
+}

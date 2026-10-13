@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_256.77",
+  "cover": {
+    "path": "PS2/SLPS_256.77/SLPS_256.77_COV.png",
+    "kind": "cover",
+    "bytes": 94786,
+    "width": 192,
+    "height": 272,
+    "sha256": "63b311e7333c673575f07e39e4dfb62bd88677994c98ce67e12c059b4eed1cdf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25677.jpg"
+    },
+    "gameId": "SLPS_256.77"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.77/SLPS_256.77_BG.png",
+    "kind": "background",
+    "bytes": 190363,
+    "width": 640,
+    "height": 480,
+    "sha256": "bba19aec0b7328700070cc24805954917c2be0c823e971c7e13fd71a31349c86",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.77/SLPS_256.77_BG_00.png"
+    },
+    "gameId": "SLPS_256.77"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.77/SLPS_256.77_BG.png",
+      "kind": "background",
+      "bytes": 190363,
+      "width": 640,
+      "height": 480,
+      "sha256": "bba19aec0b7328700070cc24805954917c2be0c823e971c7e13fd71a31349c86",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.77/SLPS_256.77_BG_00.png"
+      },
+      "gameId": "SLPS_256.77"
+    },
+    {
+      "path": "PS2/SLPS_256.77/SLPS_256.77_BG_01.png",
+      "kind": "background",
+      "bytes": 161449,
+      "width": 640,
+      "height": 480,
+      "sha256": "7a9253bbfdca10480fb550f3e738a3646e269f0a5b1e6b9838664efe292d9dcd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.77/SLPS_256.77_BG_01.png"
+      },
+      "gameId": "SLPS_256.77"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Blood+: One Night Kiss"
+}

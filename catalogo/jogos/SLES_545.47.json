@@ -1,0 +1,25 @@
+{
+  "id": "SLES_545.47",
+  "cover": {
+    "path": "PS2/SLES_545.47/SLES_545.47_COV.png",
+    "kind": "cover",
+    "bytes": 91573,
+    "width": 192,
+    "height": 272,
+    "sha256": "5733465188a4112c278346639a0d3bcc4cdcd23e44e5d73f141d29e1a34fe541",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54547.jpg"
+    },
+    "gameId": "SLES_545.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Championship Poker - Featuring Howard Lederer - All in"
+}

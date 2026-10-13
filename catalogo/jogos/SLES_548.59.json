@@ -1,0 +1,64 @@
+{
+  "id": "SLES_548.59",
+  "cover": {
+    "path": "PS2/SLES_548.59/SLES_548.59_COV.png",
+    "kind": "cover",
+    "bytes": 92576,
+    "width": 192,
+    "height": 272,
+    "sha256": "40b8326890af9ac79b7f126b0d3208728e92ec5bcf9ab02b6b41a38891a6afe8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54859.jpg"
+    },
+    "gameId": "SLES_548.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_548.59/SLES_548.59_BG.png",
+    "kind": "background",
+    "bytes": 208795,
+    "width": 640,
+    "height": 480,
+    "sha256": "244f3eed2d93b58c2117e5fb9b261f18e09d1dd8c4c7a692365ce27d0b4e93a7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.59/SLES_548.59_BG_00.png"
+    },
+    "gameId": "SLES_548.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.59/SLES_548.59_BG.png",
+      "kind": "background",
+      "bytes": 208795,
+      "width": 640,
+      "height": 480,
+      "sha256": "244f3eed2d93b58c2117e5fb9b261f18e09d1dd8c4c7a692365ce27d0b4e93a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.59/SLES_548.59_BG_00.png"
+      },
+      "gameId": "SLES_548.59"
+    },
+    {
+      "path": "PS2/SLES_548.59/SLES_548.59_BG_01.png",
+      "kind": "background",
+      "bytes": 184751,
+      "width": 640,
+      "height": 480,
+      "sha256": "5b02ebf5c63253b954cfe19894297f8b1e45b2f5df311886f20710541a476860",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.59/SLES_548.59_BG_01.png"
+      },
+      "gameId": "SLES_548.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guitar Hero: Rocks the 80s"
+}

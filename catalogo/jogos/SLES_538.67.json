@@ -1,0 +1,25 @@
+{
+  "id": "SLES_538.67",
+  "cover": {
+    "path": "PS2/SLES_538.67/SLES_538.67_COV.png",
+    "kind": "cover",
+    "bytes": 83418,
+    "width": 192,
+    "height": 272,
+    "sha256": "77c8724ae9ee3602ae47ccab77042c2220948a900378eaceea2a70dd82ea130d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53867.jpg"
+    },
+    "gameId": "SLES_538.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Alpine Skiing  2006 featuring Bode Miller"
+}

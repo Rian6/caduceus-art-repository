@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_620.22",
+  "cover": {
+    "path": "PS2/SLPM_620.22/SLPM_620.22_COV.png",
+    "kind": "cover",
+    "bytes": 115168,
+    "width": 192,
+    "height": 272,
+    "sha256": "592e2329061c60d10b58f5ef8ed1f0b3220b5a93e22bd668c0a1a171dbd1e22f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62022.jpg"
+    },
+    "gameId": "SLPM_620.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_620.22/SLPM_620.22_BG.png",
+    "kind": "background",
+    "bytes": 55636,
+    "width": 640,
+    "height": 480,
+    "sha256": "90b4f65132eb189a9b1bf850761b1e47cfdfade5f49609f3a6f6706a8de1c826",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_620.22/SLPM_620.22_BG_00.png"
+    },
+    "gameId": "SLPM_620.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_620.22/SLPM_620.22_BG.png",
+      "kind": "background",
+      "bytes": 55636,
+      "width": 640,
+      "height": 480,
+      "sha256": "90b4f65132eb189a9b1bf850761b1e47cfdfade5f49609f3a6f6706a8de1c826",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.22/SLPM_620.22_BG_00.png"
+      },
+      "gameId": "SLPM_620.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Angelique Trois"
+}

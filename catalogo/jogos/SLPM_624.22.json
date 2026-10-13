@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_624.22",
+  "cover": {
+    "path": "PS2/SLPM_624.22/SLPM_624.22_COV.png",
+    "kind": "cover",
+    "bytes": 94583,
+    "width": 192,
+    "height": 272,
+    "sha256": "79b24ac5ae5eea8f6b18f14c109b6d94b9c51f93d2a05e4f73c0205e5b1ef5e6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62422.jpg"
+    },
+    "gameId": "SLPM_624.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.22/SLPM_624.22_BG.png",
+    "kind": "background",
+    "bytes": 122202,
+    "width": 640,
+    "height": 480,
+    "sha256": "06cd96152ff8fb2988b2c6cfd71f7eca81a33a631ec2abb519e1c620e4dd5b74",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.22/SLPM_624.22_BG_00.png"
+    },
+    "gameId": "SLPM_624.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.22/SLPM_624.22_BG.png",
+      "kind": "background",
+      "bytes": 122202,
+      "width": 640,
+      "height": 480,
+      "sha256": "06cd96152ff8fb2988b2c6cfd71f7eca81a33a631ec2abb519e1c620e4dd5b74",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.22/SLPM_624.22_BG_00.png"
+      },
+      "gameId": "SLPM_624.22"
+    },
+    {
+      "path": "PS2/SLPM_624.22/SLPM_624.22_BG_01.png",
+      "kind": "background",
+      "bytes": 236264,
+      "width": 640,
+      "height": 480,
+      "sha256": "c51a0fc031029f63e297135a53e3fe32ce31018e062e54edf5f64e9476e69e51",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.22/SLPM_624.22_BG_01.png"
+      },
+      "gameId": "SLPM_624.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hudson Selection Vol. 4: Takahashi Meijin no Bouken Jima"
+}

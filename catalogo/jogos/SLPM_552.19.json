@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.19",
+  "cover": {
+    "path": "PS2/SLPM_552.19/SLPM_552.19_COV.png",
+    "kind": "cover",
+    "bytes": 109646,
+    "width": 192,
+    "height": 272,
+    "sha256": "24603e0cf00052f65445b27cc3b6fcd3f7f8987ffdf01a147fffb4ca1c056779",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55219.jpg"
+    },
+    "gameId": "SLPM_552.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OSOUJI SENTAI CLEAN KEEPER H [LIMITED EDITION]"
+}

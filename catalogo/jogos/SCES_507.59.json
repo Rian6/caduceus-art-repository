@@ -1,0 +1,77 @@
+{
+  "id": "SCES_507.59",
+  "cover": {
+    "path": "PS2/SCES_507.59/SCES_507.59_COV.png",
+    "kind": "cover",
+    "bytes": 102054,
+    "width": 192,
+    "height": 272,
+    "sha256": "c1ffbe6d5139aaef5c32959f1c0c4dfad1500f0226343d463822b5d6c1047260",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50759.jpg"
+    },
+    "gameId": "SCES_507.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_507.59/SCES_507.59_BG.png",
+    "kind": "background",
+    "bytes": 200208,
+    "width": 640,
+    "height": 480,
+    "sha256": "3df6d60cf600fdad075730e8d608dd4fb30ab126b01ba95a3e4ce2b8785624c2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_507.59/SCES_507.59_BG_00.png"
+    },
+    "gameId": "SCES_507.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_507.59/SCES_507.59_BG.png",
+      "kind": "background",
+      "bytes": 200208,
+      "width": 640,
+      "height": 480,
+      "sha256": "3df6d60cf600fdad075730e8d608dd4fb30ab126b01ba95a3e4ce2b8785624c2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_507.59/SCES_507.59_BG_00.png"
+      },
+      "gameId": "SCES_507.59"
+    },
+    {
+      "path": "PS2/SCES_507.59/SCES_507.59_BG_01.png",
+      "kind": "background",
+      "bytes": 197728,
+      "width": 640,
+      "height": 480,
+      "sha256": "e8efd957f81f1dee586aef3755493b46ee8c4d85f8754735415f3397b161f413",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_507.59/SCES_507.59_BG_01.png"
+      },
+      "gameId": "SCES_507.59"
+    },
+    {
+      "path": "PS2/SCES_507.59/SCES_507.59_BG_02.png",
+      "kind": "background",
+      "bytes": 165209,
+      "width": 640,
+      "height": 480,
+      "sha256": "e33d11a71bb54ef77dbd941552b8193cc73558a8894a6eb7b9538af8cdd29e93",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_507.59/SCES_507.59_BG_02.png"
+      },
+      "gameId": "SCES_507.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Virtua Fighter 4"
+}

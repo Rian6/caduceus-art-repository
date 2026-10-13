@@ -1,0 +1,77 @@
+{
+  "id": "SLES_519.57",
+  "cover": {
+    "path": "PS2/SLES_519.57/SLES_519.57_COV.png",
+    "kind": "cover",
+    "bytes": 82181,
+    "width": 192,
+    "height": 272,
+    "sha256": "35252eff9626fd3f601f3eef071ea6b5382c69375bff4bae3c98e16f1bc6c1f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51957.jpg"
+    },
+    "gameId": "SLES_519.57"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_519.57/SLES_519.57_BG.png",
+    "kind": "background",
+    "bytes": 183658,
+    "width": 640,
+    "height": 480,
+    "sha256": "2c2fcaaf7c1d3982b6314e29be3bdb4758578633a7d894c284de204c28916388",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.57/SLES_519.57_BG_00.png"
+    },
+    "gameId": "SLES_519.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.57/SLES_519.57_BG.png",
+      "kind": "background",
+      "bytes": 183658,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c2fcaaf7c1d3982b6314e29be3bdb4758578633a7d894c284de204c28916388",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.57/SLES_519.57_BG_00.png"
+      },
+      "gameId": "SLES_519.57"
+    },
+    {
+      "path": "PS2/SLES_519.57/SLES_519.57_BG_01.png",
+      "kind": "background",
+      "bytes": 175782,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff08e30a6db564b268da0bcf38b8263100e49bcdf712d11c2ba29759e51002b5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.57/SLES_519.57_BG_01.png"
+      },
+      "gameId": "SLES_519.57"
+    },
+    {
+      "path": "PS2/SLES_519.57/SLES_519.57_BG_02.png",
+      "kind": "background",
+      "bytes": 207522,
+      "width": 640,
+      "height": 480,
+      "sha256": "be06dd7daea83d1ea2a0e9ac508539545076c623298feb62867b6aad428c8d5a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.57/SLES_519.57_BG_02.png"
+      },
+      "gameId": "SLES_519.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TERMINATOR 3 - LE SOULÈVEMENT DES MACHINES"
+}

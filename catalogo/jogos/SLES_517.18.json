@@ -1,0 +1,39 @@
+{
+  "id": "SLES_517.18",
+  "cover": {
+    "path": "PS2/SLES_517.18/SLES_517.18_COV.png",
+    "kind": "cover",
+    "bytes": 100381,
+    "width": 192,
+    "height": 272,
+    "sha256": "eea7e90b1c33ca6fbbd2c228d11ea326df001bf7249deed32f6b92078202a3a5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51718.jpg"
+    },
+    "gameId": "SLES_517.18"
+  },
+  "disc": {
+    "path": "PS2/SLES_517.18/SLES_517.18_ICO.png",
+    "kind": "disc",
+    "bytes": 10749,
+    "width": 128,
+    "height": 128,
+    "sha256": "e1438ad03ea0b3dcd2d655f75ad1e232b7101405a40d864d4b94dd1774557eed",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_517.18_ICO.png"
+    },
+    "gameId": "SLES_517.18"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "League Series Baseball 2"
+}

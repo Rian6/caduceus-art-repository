@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.58",
+  "cover": {
+    "path": "PS2/SLPM_626.58/SLPM_626.58_COV.png",
+    "kind": "cover",
+    "bytes": 90636,
+    "width": 192,
+    "height": 272,
+    "sha256": "d5fa8c57648bfce2b44bb214d5000b36d9e61f15b1b1008327283abcede421c5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62658.jpg"
+    },
+    "gameId": "SLPM_626.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kyoushuu Kidou Butai - Kougeki Helicopter Senki (Taito The Best)"
+}

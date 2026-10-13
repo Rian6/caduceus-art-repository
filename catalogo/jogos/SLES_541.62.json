@@ -1,0 +1,117 @@
+{
+  "id": "SLES_541.62",
+  "cover": {
+    "path": "PS2/SLES_541.62/SLES_541.62_COV.png",
+    "kind": "cover",
+    "bytes": 124932,
+    "width": 192,
+    "height": 272,
+    "sha256": "227f454d17ee830b4110b2b75d29bfc74999ce75b83924992548dd2c39dc0887",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54162.jpg"
+    },
+    "gameId": "SLES_541.62"
+  },
+  "disc": {
+    "path": "PS2/SLES_541.62/SLES_541.62_ICO.png",
+    "kind": "disc",
+    "bytes": 43033,
+    "width": 128,
+    "height": 128,
+    "sha256": "c232ca9f3b11f00a8e68c52df4bf49861e922b2818e7c7412a634b420c124d9b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_541.62_ICO.png"
+    },
+    "gameId": "SLES_541.62"
+  },
+  "background": {
+    "path": "PS2/SLES_541.62/SLES_541.62_BG.png",
+    "kind": "background",
+    "bytes": 206404,
+    "width": 640,
+    "height": 480,
+    "sha256": "b2b96f80940a76c6a1b255e68c10caf1b8cf8821f91ad48298c9273a8ff284dc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.62/SLES_541.62_BG_00.png"
+    },
+    "gameId": "SLES_541.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.62/SLES_541.62_BG.png",
+      "kind": "background",
+      "bytes": 206404,
+      "width": 640,
+      "height": 480,
+      "sha256": "b2b96f80940a76c6a1b255e68c10caf1b8cf8821f91ad48298c9273a8ff284dc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.62/SLES_541.62_BG_00.png"
+      },
+      "gameId": "SLES_541.62"
+    },
+    {
+      "path": "PS2/SLES_541.62/SLES_541.62_BG_01.png",
+      "kind": "background",
+      "bytes": 144879,
+      "width": 640,
+      "height": 480,
+      "sha256": "e67e92818b33740bbd76671da4de14c26db56b4103b169c5d8a327325eed8d86",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.62/SLES_541.62_BG_01.png"
+      },
+      "gameId": "SLES_541.62"
+    },
+    {
+      "path": "PS2/SLES_541.62/SLES_541.62_BG_02.png",
+      "kind": "background",
+      "bytes": 192419,
+      "width": 640,
+      "height": 480,
+      "sha256": "d77b23d11c67faaaa6dc4ee534f756d0158fb4d5781d6c80900e6ef1e8215881",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.62/SLES_541.62_BG_02.png"
+      },
+      "gameId": "SLES_541.62"
+    },
+    {
+      "path": "PS2/SLES_541.62/SLES_541.62_BG_03.png",
+      "kind": "background",
+      "bytes": 225881,
+      "width": 640,
+      "height": 480,
+      "sha256": "10fced3ddafcaae471f075218bcf4f0df92f957dd15a16c1607c51f670f656ee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.62/SLES_541.62_BG_03.png"
+      },
+      "gameId": "SLES_541.62"
+    },
+    {
+      "path": "PS2/SLES_541.62/SLES_541.62_BG_04.png",
+      "kind": "background",
+      "bytes": 177630,
+      "width": 640,
+      "height": 480,
+      "sha256": "4780d6272e63da18c39fbed2351e44192cf6789b982d6a5a1b1df99c501b71dc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.62/SLES_541.62_BG_04.png"
+      },
+      "gameId": "SLES_541.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saint Seiya: The Hades"
+}

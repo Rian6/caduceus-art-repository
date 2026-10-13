@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.22",
+  "cover": {
+    "path": "PS2/SLPS_255.22/SLPS_255.22_COV.png",
+    "kind": "cover",
+    "bytes": 64349,
+    "width": 192,
+    "height": 272,
+    "sha256": "624ad3029d9209dec81868928484caca1332e1a6521563c98a3ca3171bc0b25c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25522.jpg"
+    },
+    "gameId": "SLPS_255.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yoshitsuneki (Goukakenran Box)"
+}

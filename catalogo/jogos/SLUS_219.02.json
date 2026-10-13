@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_219.02",
+  "cover": {
+    "path": "PS2/SLUS_219.02/SLUS_219.02_COV.png",
+    "kind": "cover",
+    "bytes": 117821,
+    "width": 192,
+    "height": 272,
+    "sha256": "055198314a4a174d98c831e52c40a849a56b7603cc6fabfc16a37b805783715a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21902.jpg"
+    },
+    "gameId": "SLUS_219.02"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.02/SLUS_219.02_ICO.png",
+    "kind": "disc",
+    "bytes": 37035,
+    "width": 256,
+    "height": 256,
+    "sha256": "34061bc4747addb1286a61c5c392963ff28ad951d12f502626d6d0fb68e57c05",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_219.02_ICO.png"
+    },
+    "gameId": "SLUS_219.02"
+  },
+  "background": {
+    "path": "PS2/SLUS_219.02/SLUS_219.02_BG.png",
+    "kind": "background",
+    "bytes": 210937,
+    "width": 640,
+    "height": 480,
+    "sha256": "bfb569962e5989a31f9599ff45e13758a4e35e7972e0eac5b9746ad94c4848c5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_219.02/SLUS_219.02_BG_00.png"
+    },
+    "gameId": "SLUS_219.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_219.02/SLUS_219.02_BG.png",
+      "kind": "background",
+      "bytes": 210937,
+      "width": 640,
+      "height": 480,
+      "sha256": "bfb569962e5989a31f9599ff45e13758a4e35e7972e0eac5b9746ad94c4848c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.02/SLUS_219.02_BG_00.png"
+      },
+      "gameId": "SLUS_219.02"
+    },
+    {
+      "path": "PS2/SLUS_219.02/SLUS_219.02_BG_01.png",
+      "kind": "background",
+      "bytes": 208606,
+      "width": 640,
+      "height": 480,
+      "sha256": "9278c64342f54c87d334c9add90b4efda5c96f7ceb5acf35079e4419534acadd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.02/SLUS_219.02_BG_01.png"
+      },
+      "gameId": "SLUS_219.02"
+    },
+    {
+      "path": "PS2/SLUS_219.02/SLUS_219.02_BG_02.png",
+      "kind": "background",
+      "bytes": 191247,
+      "width": 640,
+      "height": 480,
+      "sha256": "2bf0a60a5e477e0ebaf47dc96a0e5592900de8cce3326b16f8c09e02973399c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.02/SLUS_219.02_BG_02.png"
+      },
+      "gameId": "SLUS_219.02"
+    },
+    {
+      "path": "PS2/SLUS_219.02/SLUS_219.02_BG_03.png",
+      "kind": "background",
+      "bytes": 203252,
+      "width": 640,
+      "height": 480,
+      "sha256": "c4f6ee65fb0cd3f8b1702be7ba58325fbce0dc932ea9ff9a0234618fa565d734",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.02/SLUS_219.02_BG_03.png"
+      },
+      "gameId": "SLUS_219.02"
+    },
+    {
+      "path": "PS2/SLUS_219.02/SLUS_219.02_BG_04.png",
+      "kind": "background",
+      "bytes": 217295,
+      "width": 640,
+      "height": 480,
+      "sha256": "67cc54f7a25c73875003f3f9e510d38b9736adc1b2cd21830a65eeb37e1c0fa4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.02/SLUS_219.02_BG_04.png"
+      },
+      "gameId": "SLUS_219.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bakugan Battle Brawlers"
+}

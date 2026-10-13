@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.25",
+  "cover": {
+    "path": "PS2/SLPS_251.25/SLPS_251.25_COV.png",
+    "kind": "cover",
+    "bytes": 91342,
+    "width": 192,
+    "height": 272,
+    "sha256": "c96e896eef7994652beca000a21415d1094e154527c1812a671cd9caf6afa7cc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25125.jpg"
+    },
+    "gameId": "SLPS_251.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JITSUMEI JIKKYOU KEIBA DREAM CLASSIC 2002"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_555.29",
+  "cover": {
+    "path": "PS2/SLES_555.29/SLES_555.29_COV.png",
+    "kind": "cover",
+    "bytes": 93414,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b27ed64016f370be65d4d95f0bd957f165a3b23104ec1dd60e9643cc345fdd1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55529.jpg"
+    },
+    "gameId": "SLES_555.29"
+  },
+  "disc": {
+    "path": "PS2/SLES_555.29/SLES_555.29_ICO.png",
+    "kind": "disc",
+    "bytes": 10099,
+    "width": 128,
+    "height": 128,
+    "sha256": "dd94098e7cad1b166e152b8f8f04b3a89d175f44218bac1dd3383760c5173060",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_555.29_ICO.png"
+    },
+    "gameId": "SLES_555.29"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Germany's Next Topmodel"
+}

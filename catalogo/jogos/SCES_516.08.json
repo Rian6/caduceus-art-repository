@@ -1,0 +1,103 @@
+{
+  "id": "SCES_516.08",
+  "cover": {
+    "path": "PS2/SCES_516.08/SCES_516.08_COV.png",
+    "kind": "cover",
+    "bytes": 100681,
+    "width": 192,
+    "height": 272,
+    "sha256": "670267b4547e2722945f54a53f9c6e79a06624493d1c59a91bba8215c2dcaf42",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51608.jpg"
+    },
+    "gameId": "SCES_516.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_516.08/SCES_516.08_BG.png",
+    "kind": "background",
+    "bytes": 184698,
+    "width": 640,
+    "height": 480,
+    "sha256": "f50be4f1a937387854bb34838f11e5fb02d4eedd19c931456be366f1a9509160",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_516.08/SCES_516.08_BG_00.png"
+    },
+    "gameId": "SCES_516.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_516.08/SCES_516.08_BG.png",
+      "kind": "background",
+      "bytes": 184698,
+      "width": 640,
+      "height": 480,
+      "sha256": "f50be4f1a937387854bb34838f11e5fb02d4eedd19c931456be366f1a9509160",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_516.08/SCES_516.08_BG_00.png"
+      },
+      "gameId": "SCES_516.08"
+    },
+    {
+      "path": "PS2/SCES_516.08/SCES_516.08_BG_01.png",
+      "kind": "background",
+      "bytes": 144386,
+      "width": 640,
+      "height": 480,
+      "sha256": "524e949a520af85a3d8e62ef99e5d7de13ef88038a3037228218165e097fe761",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_516.08/SCES_516.08_BG_01.png"
+      },
+      "gameId": "SCES_516.08"
+    },
+    {
+      "path": "PS2/SCES_516.08/SCES_516.08_BG_02.png",
+      "kind": "background",
+      "bytes": 150030,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d69b67e242a6466178d661a8477bf3b79a2d7b2a1d667846116b63fa4c6904d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_516.08/SCES_516.08_BG_02.png"
+      },
+      "gameId": "SCES_516.08"
+    },
+    {
+      "path": "PS2/SCES_516.08/SCES_516.08_BG_03.png",
+      "kind": "background",
+      "bytes": 195345,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f33e31153335b43b826b26faf551289de6f2be234b731b5d81c22e2c9eedb9d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_516.08/SCES_516.08_BG_03.png"
+      },
+      "gameId": "SCES_516.08"
+    },
+    {
+      "path": "PS2/SCES_516.08/SCES_516.08_BG_04.png",
+      "kind": "background",
+      "bytes": 232424,
+      "width": 640,
+      "height": 480,
+      "sha256": "5958625239657590b5ee652d390e55f6836aca78048bdf9b350af41670f76815",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_516.08/SCES_516.08_BG_04.png"
+      },
+      "gameId": "SCES_516.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jak II: Renegade"
+}

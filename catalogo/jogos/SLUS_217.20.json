@@ -1,0 +1,130 @@
+{
+  "id": "SLUS_217.20",
+  "cover": {
+    "path": "PS2/SLUS_217.20/SLUS_217.20_COV.png",
+    "kind": "cover",
+    "bytes": 116853,
+    "width": 192,
+    "height": 272,
+    "sha256": "a79e7da40857fbbbe37225a0b9f6016557c774b4322087a6a8d55a8ccf2d45f4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21720.jpg"
+    },
+    "gameId": "SLUS_217.20"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.20/SLUS_217.20_ICO.png",
+    "kind": "disc",
+    "bytes": 32831,
+    "width": 256,
+    "height": 256,
+    "sha256": "81e70c3d8fd0218d66ada2be4c09fb9adcdd47e6a0116218eb9e78fded3936f8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.20_ICO.png"
+    },
+    "gameId": "SLUS_217.20"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.20/SLUS_217.20_BG.png",
+    "kind": "background",
+    "bytes": 192244,
+    "width": 640,
+    "height": 480,
+    "sha256": "3922b1cf50ea8abc07fcb51016b5f612aa619b1e5ac5426118ff100a730e89c0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.20/SLUS_217.20_BG_00.png"
+    },
+    "gameId": "SLUS_217.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.20/SLUS_217.20_BG.png",
+      "kind": "background",
+      "bytes": 192244,
+      "width": 640,
+      "height": 480,
+      "sha256": "3922b1cf50ea8abc07fcb51016b5f612aa619b1e5ac5426118ff100a730e89c0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.20/SLUS_217.20_BG_00.png"
+      },
+      "gameId": "SLUS_217.20"
+    },
+    {
+      "path": "PS2/SLUS_217.20/SLUS_217.20_BG_01.png",
+      "kind": "background",
+      "bytes": 191322,
+      "width": 640,
+      "height": 480,
+      "sha256": "9709e256c7bf5c20c88c04bd835486ecfb5da00be625a6f162a3816395ac2d34",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.20/SLUS_217.20_BG_01.png"
+      },
+      "gameId": "SLUS_217.20"
+    },
+    {
+      "path": "PS2/SLUS_217.20/SLUS_217.20_BG_02.png",
+      "kind": "background",
+      "bytes": 173397,
+      "width": 640,
+      "height": 480,
+      "sha256": "26f6d0085eb4956dda14f65d0a42812e00cb56f5eea3f8316d2f09d8935af210",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.20/SLUS_217.20_BG_02.png"
+      },
+      "gameId": "SLUS_217.20"
+    },
+    {
+      "path": "PS2/SLUS_217.20/SLUS_217.20_BG_03.png",
+      "kind": "background",
+      "bytes": 192373,
+      "width": 640,
+      "height": 480,
+      "sha256": "d10f561b40b016227065d50074f2bf6457f2b695789c709ce069892e4da735ee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.20/SLUS_217.20_BG_03.png"
+      },
+      "gameId": "SLUS_217.20"
+    },
+    {
+      "path": "PS2/SLUS_217.20/SLUS_217.20_BG_04.png",
+      "kind": "background",
+      "bytes": 210553,
+      "width": 640,
+      "height": 480,
+      "sha256": "f420639632f523a94dfc9232e901dff7e85a0c0ce1cf6e0c2e219913087d877a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.20/SLUS_217.20_BG_04.png"
+      },
+      "gameId": "SLUS_217.20"
+    },
+    {
+      "path": "PS2/SLUS_217.20/SLUS_217.20_BG_05.png",
+      "kind": "background",
+      "bytes": 112497,
+      "width": 640,
+      "height": 480,
+      "sha256": "4acb2da61454b8873d0723abfc56b22ecdfe5a72d6608a543d48fd669840e61e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.20/SLUS_217.20_BG_05.png"
+      },
+      "gameId": "SLUS_217.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Arcana Heart"
+}

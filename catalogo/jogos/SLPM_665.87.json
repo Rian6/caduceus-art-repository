@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.87",
+  "cover": {
+    "path": "PS2/SLPM_665.87/SLPM_665.87_COV.png",
+    "kind": "cover",
+    "bytes": 91015,
+    "width": 192,
+    "height": 272,
+    "sha256": "30f41265a9198bd4fe35a9d576b3176cf13699ab349a2fe410ee1e0ba94f3c4a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66587.jpg"
+    },
+    "gameId": "SLPM_665.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUIGETSU MAYOI GOKORO [2800 COLLECTION]"
+}

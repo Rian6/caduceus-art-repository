@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_251.29",
+  "cover": {
+    "path": "PS2/SLPS_251.29/SLPS_251.29_COV.png",
+    "kind": "cover",
+    "bytes": 97203,
+    "width": 192,
+    "height": 272,
+    "sha256": "194a0af0f2f1cea5d4b8cd644078383c01e16a1b33806488f156168712708b7d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25129.jpg"
+    },
+    "gameId": "SLPS_251.29"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_251.29/SLPS_251.29_BG.png",
+    "kind": "background",
+    "bytes": 178266,
+    "width": 640,
+    "height": 480,
+    "sha256": "43b32d522ebce15dae4914c9a5f28775d65fffe86c5c0d027f913a8ac25c4582",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_251.29/SLPS_251.29_BG_00.png"
+    },
+    "gameId": "SLPS_251.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_251.29/SLPS_251.29_BG.png",
+      "kind": "background",
+      "bytes": 178266,
+      "width": 640,
+      "height": 480,
+      "sha256": "43b32d522ebce15dae4914c9a5f28775d65fffe86c5c0d027f913a8ac25c4582",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.29/SLPS_251.29_BG_00.png"
+      },
+      "gameId": "SLPS_251.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hajime no Ippo - Victorious Boxers - Championship Version"
+}

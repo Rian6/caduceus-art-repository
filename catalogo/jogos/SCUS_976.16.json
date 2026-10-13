@@ -1,0 +1,91 @@
+{
+  "id": "SCUS_976.16",
+  "cover": {
+    "path": "PS2/SCUS_976.16/SCUS_976.16_COV.png",
+    "kind": "cover",
+    "bytes": 79325,
+    "width": 192,
+    "height": 272,
+    "sha256": "0019fec70e414c2412ff54d5dc4df313408e88181ef7c89f83e8442279708d4b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97616.jpg"
+    },
+    "gameId": "SCUS_976.16"
+  },
+  "disc": {
+    "path": "PS2/SCUS_976.16/SCUS_976.16_ICO.png",
+    "kind": "disc",
+    "bytes": 10474,
+    "width": 128,
+    "height": 128,
+    "sha256": "92c1d6e70a2286d7c07ef6ed53f24ee2a3dff30869daa6b221575b9c0a27af14",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCUS_976.16_ICO.png"
+    },
+    "gameId": "SCUS_976.16"
+  },
+  "background": {
+    "path": "PS2/SCUS_976.16/SCUS_976.16_BG.png",
+    "kind": "background",
+    "bytes": 183637,
+    "width": 640,
+    "height": 480,
+    "sha256": "7e61ed54da9f509e5bf60394d0d561ba2eb7ea609f0f61ce6b5b3a623c6db57b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_976.16/SCUS_976.16_BG_00.png"
+    },
+    "gameId": "SCUS_976.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_976.16/SCUS_976.16_BG.png",
+      "kind": "background",
+      "bytes": 183637,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e61ed54da9f509e5bf60394d0d561ba2eb7ea609f0f61ce6b5b3a623c6db57b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_976.16/SCUS_976.16_BG_00.png"
+      },
+      "gameId": "SCUS_976.16"
+    },
+    {
+      "path": "PS2/SCUS_976.16/SCUS_976.16_BG_01.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_976.16/SCUS_976.16_BG_01.png"
+      },
+      "gameId": "SCUS_976.16"
+    },
+    {
+      "path": "PS2/SCUS_976.16/SCUS_976.16_BG_02.png",
+      "kind": "background",
+      "bytes": 154547,
+      "width": 640,
+      "height": 480,
+      "sha256": "59dda410b1160b061751bb8e0edd1b17755a87818d4102ab076ecbe8bda76dae",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_976.16/SCUS_976.16_BG_02.png"
+      },
+      "gameId": "SCUS_976.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SINGSTAR 80'S [WITH MICROPHONES]"
+}

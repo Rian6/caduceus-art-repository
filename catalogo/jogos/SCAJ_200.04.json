@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.04",
+  "cover": {
+    "path": "PS2/SCAJ_200.04/SCAJ_200.04_COV.png",
+    "kind": "cover",
+    "bytes": 103671,
+    "width": 192,
+    "height": 272,
+    "sha256": "cb6dba4a4495a7990fc740377fc0336629a5417d0cdbcf4f5fede18c33ea4534",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20004.jpg"
+    },
+    "gameId": "SCAJ_200.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": ".Hack Shinsoku Osen Vol.3"
+}

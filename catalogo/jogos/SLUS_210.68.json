@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_210.68",
+  "cover": {
+    "path": "PS2/SLUS_210.68/SLUS_210.68_COV.png",
+    "kind": "cover",
+    "bytes": 95446,
+    "width": 192,
+    "height": 272,
+    "sha256": "2797e47990536785e56dda9136047e7111b803970694a205b1d686e6ccf73085",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21068.jpg"
+    },
+    "gameId": "SLUS_210.68"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.68/SLUS_210.68_ICO.png",
+    "kind": "disc",
+    "bytes": 34292,
+    "width": 256,
+    "height": 256,
+    "sha256": "b799c70cf21530150f120e5af6dc4f5caf141305453b1c99b0a58b8a11f2b294",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.68_ICO.png"
+    },
+    "gameId": "SLUS_210.68"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.68/SLUS_210.68_BG.png",
+    "kind": "background",
+    "bytes": 53987,
+    "width": 640,
+    "height": 480,
+    "sha256": "697a519ad426c18627f10849a4acba0fdd2bc4640713bf03b811e18380e8f657",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.68/SLUS_210.68_BG_00.png"
+    },
+    "gameId": "SLUS_210.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.68/SLUS_210.68_BG.png",
+      "kind": "background",
+      "bytes": 53987,
+      "width": 640,
+      "height": 480,
+      "sha256": "697a519ad426c18627f10849a4acba0fdd2bc4640713bf03b811e18380e8f657",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.68/SLUS_210.68_BG_00.png"
+      },
+      "gameId": "SLUS_210.68"
+    },
+    {
+      "path": "PS2/SLUS_210.68/SLUS_210.68_BG_01.png",
+      "kind": "background",
+      "bytes": 214008,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d44b70cc85f47319c0b724f75c9e4ba9b05f5ff4012bdcddd9577c130d8cce5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.68/SLUS_210.68_BG_01.png"
+      },
+      "gameId": "SLUS_210.68"
+    },
+    {
+      "path": "PS2/SLUS_210.68/SLUS_210.68_BG_02.png",
+      "kind": "background",
+      "bytes": 217596,
+      "width": 640,
+      "height": 480,
+      "sha256": "5123051ceed7e4716eb5d3611859c71c7f365daf5a9d1dc9d266a15ff6c442ce",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.68/SLUS_210.68_BG_02.png"
+      },
+      "gameId": "SLUS_210.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "VIETCONG - PURPLE HAZE"
+}

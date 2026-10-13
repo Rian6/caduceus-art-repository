@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.59",
+  "cover": {
+    "path": "PS2/SLPS_250.59/SLPS_250.59_COV.png",
+    "kind": "cover",
+    "bytes": 106432,
+    "width": 192,
+    "height": 272,
+    "sha256": "d6e38f8bf82870d08f5bc4f49869edab9953f148573d65331ba2f08235fd545a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25059.jpg"
+    },
+    "gameId": "SLPS_250.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kikou Busou G-Breaker - Legend of Cloudia"
+}

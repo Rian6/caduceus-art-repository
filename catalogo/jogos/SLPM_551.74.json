@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_551.74",
+  "cover": {
+    "path": "PS2/SLPM_551.74/SLPM_551.74_COV.png",
+    "kind": "cover",
+    "bytes": 101472,
+    "width": 192,
+    "height": 272,
+    "sha256": "b5735fc88dd6f5ddc39d36960a4f49bdc0870dc75fe3d963d4fdded7abb42bf5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55174.jpg"
+    },
+    "gameId": "SLPM_551.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_551.74/SLPM_551.74_BG.png",
+    "kind": "background",
+    "bytes": 171325,
+    "width": 640,
+    "height": 480,
+    "sha256": "30e3dcfe1b653b1d5e549eb1bed08bef191356f64904fa4cef9f662a507bc582",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_551.74/SLPM_551.74_BG_00.png"
+    },
+    "gameId": "SLPM_551.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_551.74/SLPM_551.74_BG.png",
+      "kind": "background",
+      "bytes": 171325,
+      "width": 640,
+      "height": 480,
+      "sha256": "30e3dcfe1b653b1d5e549eb1bed08bef191356f64904fa4cef9f662a507bc582",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_551.74/SLPM_551.74_BG_00.png"
+      },
+      "gameId": "SLPM_551.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Strike Witches: Anata to Dekiru Koto: A Little Peaceful Days"
+}

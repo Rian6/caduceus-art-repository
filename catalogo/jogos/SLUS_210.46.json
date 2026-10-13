@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_210.46",
+  "cover": {
+    "path": "PS2/SLUS_210.46/SLUS_210.46_COV.png",
+    "kind": "cover",
+    "bytes": 104466,
+    "width": 192,
+    "height": 272,
+    "sha256": "8038f774528c63581f32a0213f8468be6a1e329b64dd202710de50e4aedbefb1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21046.jpg"
+    },
+    "gameId": "SLUS_210.46"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.46/SLUS_210.46_ICO.png",
+    "kind": "disc",
+    "bytes": 32592,
+    "width": 256,
+    "height": 256,
+    "sha256": "52d85328c283303e0a9de760512440c3d4ac61cf754f0f992b05ed6ac7b357d9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.46_ICO.png"
+    },
+    "gameId": "SLUS_210.46"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.46/SLUS_210.46_BG.png",
+    "kind": "background",
+    "bytes": 197938,
+    "width": 640,
+    "height": 480,
+    "sha256": "6ad101e564c1e64a6735aeda90aa84f75048ca7b325036f6beff89ae4250699b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.46/SLUS_210.46_BG_00.png"
+    },
+    "gameId": "SLUS_210.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.46/SLUS_210.46_BG.png",
+      "kind": "background",
+      "bytes": 197938,
+      "width": 640,
+      "height": 480,
+      "sha256": "6ad101e564c1e64a6735aeda90aa84f75048ca7b325036f6beff89ae4250699b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.46/SLUS_210.46_BG_00.png"
+      },
+      "gameId": "SLUS_210.46"
+    },
+    {
+      "path": "PS2/SLUS_210.46/SLUS_210.46_BG_01.png",
+      "kind": "background",
+      "bytes": 199702,
+      "width": 640,
+      "height": 480,
+      "sha256": "4af4d5cb641bae18c36c2c2cd0bd400beb36539e310005c8560a0d1fcf847e14",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.46/SLUS_210.46_BG_01.png"
+      },
+      "gameId": "SLUS_210.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KING ARTHUR"
+}

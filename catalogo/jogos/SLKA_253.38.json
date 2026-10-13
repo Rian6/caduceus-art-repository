@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.38",
+  "cover": {
+    "path": "PS2/SLKA_253.38/SLKA_253.38_COV.png",
+    "kind": "cover",
+    "bytes": 43142,
+    "width": 192,
+    "height": 272,
+    "sha256": "52e51ea2a79c84fbcc0fd146b88870731eab44c3e3d860c41ffa6dc7475405fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25338.jpg"
+    },
+    "gameId": "SLKA_253.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE GODFATHER"
+}

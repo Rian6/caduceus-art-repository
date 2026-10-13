@@ -1,0 +1,39 @@
+{
+  "id": "SLES_547.72",
+  "cover": {
+    "path": "PS2/SLES_547.72/SLES_547.72_COV.png",
+    "kind": "cover",
+    "bytes": 99499,
+    "width": 192,
+    "height": 272,
+    "sha256": "eb8f2c283ee889bb2a784299e588f3e287f3ada08d449d8002f94834a78cf822",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54772.jpg"
+    },
+    "gameId": "SLES_547.72"
+  },
+  "disc": {
+    "path": "PS2/SLES_547.72/SLES_547.72_ICO.png",
+    "kind": "disc",
+    "bytes": 12296,
+    "width": 128,
+    "height": 128,
+    "sha256": "4595dfb9916db9e16a6d49ef9edcd587113b1f410f3acab5b8336ef483a20c09",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_547.72_ICO.png"
+    },
+    "gameId": "SLES_547.72"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Monster Eggs"
+}

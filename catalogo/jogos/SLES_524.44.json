@@ -1,0 +1,117 @@
+{
+  "id": "SLES_524.44",
+  "cover": {
+    "path": "PS2/SLES_524.44/SLES_524.44_COV.png",
+    "kind": "cover",
+    "bytes": 96573,
+    "width": 192,
+    "height": 272,
+    "sha256": "36f28b4991c875149f081014181b77c1b50101646b1e55a32e4d2f9099b43658",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52444.jpg"
+    },
+    "gameId": "SLES_524.44"
+  },
+  "disc": {
+    "path": "PS2/SLES_524.44/SLES_524.44_ICO.png",
+    "kind": "disc",
+    "bytes": 11538,
+    "width": 128,
+    "height": 128,
+    "sha256": "9860f14ce7bd49587f820dff95602d16d9d2219313a9a3f8058064e70ecd8588",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_524.44_ICO.png"
+    },
+    "gameId": "SLES_524.44"
+  },
+  "background": {
+    "path": "PS2/SLES_524.44/SLES_524.44_BG.png",
+    "kind": "background",
+    "bytes": 136758,
+    "width": 640,
+    "height": 480,
+    "sha256": "f5824c3958f28bf8fcae9e2639a92a0e47067b7f71676e73f2203e38ddcfbb50",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_524.44/SLES_524.44_BG_00.png"
+    },
+    "gameId": "SLES_524.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_524.44/SLES_524.44_BG.png",
+      "kind": "background",
+      "bytes": 136758,
+      "width": 640,
+      "height": 480,
+      "sha256": "f5824c3958f28bf8fcae9e2639a92a0e47067b7f71676e73f2203e38ddcfbb50",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.44/SLES_524.44_BG_00.png"
+      },
+      "gameId": "SLES_524.44"
+    },
+    {
+      "path": "PS2/SLES_524.44/SLES_524.44_BG_01.png",
+      "kind": "background",
+      "bytes": 146910,
+      "width": 640,
+      "height": 480,
+      "sha256": "69b7d276281e10c3e7a5d8e3eed495227d3c67b966e9327c11179c98b3bd1d14",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.44/SLES_524.44_BG_01.png"
+      },
+      "gameId": "SLES_524.44"
+    },
+    {
+      "path": "PS2/SLES_524.44/SLES_524.44_BG_02.png",
+      "kind": "background",
+      "bytes": 228221,
+      "width": 640,
+      "height": 480,
+      "sha256": "f79c93ab21c4039fa0ab6c2d8eebb173f259d4337821e3a107ceee8e26ea3273",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.44/SLES_524.44_BG_02.png"
+      },
+      "gameId": "SLES_524.44"
+    },
+    {
+      "path": "PS2/SLES_524.44/SLES_524.44_BG_03.png",
+      "kind": "background",
+      "bytes": 143656,
+      "width": 640,
+      "height": 480,
+      "sha256": "cbdaa91c9d9d1d52e68d392b0b096933eb14723f9c3eea458404c3773f3e9db8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.44/SLES_524.44_BG_03.png"
+      },
+      "gameId": "SLES_524.44"
+    },
+    {
+      "path": "PS2/SLES_524.44/SLES_524.44_BG_04.png",
+      "kind": "background",
+      "bytes": 177840,
+      "width": 640,
+      "height": 480,
+      "sha256": "be44d6beab1349c6a007c78ad154cfe74f4332759da2db7a955239568b5444b6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.44/SLES_524.44_BG_04.png"
+      },
+      "gameId": "SLES_524.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hyper Street Fighter II - The Anniversary Edition"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_533.71",
+  "cover": {
+    "path": "PS2/SLES_533.71/SLES_533.71_COV.png",
+    "kind": "cover",
+    "bytes": 91726,
+    "width": 192,
+    "height": 272,
+    "sha256": "6328aee2f3fc272a6158f38e1915f0283ebaf63c3ccf0b9b2a17d7642deeb123",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53371.jpg"
+    },
+    "gameId": "SLES_533.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Real World Golf (Bundled with Gametrak)"
+}

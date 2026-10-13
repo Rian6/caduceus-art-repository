@@ -1,0 +1,65 @@
+{
+  "id": "SLPS_255.53",
+  "cover": {
+    "path": "PS2/SLPS_255.53/SLPS_255.53_COV.png",
+    "kind": "cover",
+    "bytes": 108102,
+    "width": 192,
+    "height": 272,
+    "sha256": "3587b03eeb5f5db3b3756e3ed9611781dc620ea4772b34dff5f3705adf4d7a83",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25553.jpg"
+    },
+    "gameId": "SLPS_255.53"
+  },
+  "disc": {
+    "path": "PS2/SLPS_255.53/SLPS_255.53_ICO.png",
+    "kind": "disc",
+    "bytes": 12091,
+    "width": 128,
+    "height": 128,
+    "sha256": "fcdf95414364c818900b09c97460dd1ee20a5732c62940d49684bac1a58d94ee",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_255.53_ICO.png"
+    },
+    "gameId": "SLPS_255.53"
+  },
+  "background": {
+    "path": "PS2/SLPS_255.53/SLPS_255.53_BG.png",
+    "kind": "background",
+    "bytes": 83644,
+    "width": 640,
+    "height": 480,
+    "sha256": "d3973baac7cabacb42ebd1646a590458b77beddf4584ce4abd1c1153c4aa0a3a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.53/SLPS_255.53_BG_00.png"
+    },
+    "gameId": "SLPS_255.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.53/SLPS_255.53_BG.png",
+      "kind": "background",
+      "bytes": 83644,
+      "width": 640,
+      "height": 480,
+      "sha256": "d3973baac7cabacb42ebd1646a590458b77beddf4584ce4abd1c1153c4aa0a3a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.53/SLPS_255.53_BG_00.png"
+      },
+      "gameId": "SLPS_255.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yoshitsune Eiyuuden Shura - The Story of Hero Yoshitsune Shura"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_209.27",
+  "cover": {
+    "path": "PS2/SLUS_209.27/SLUS_209.27_COV.png",
+    "kind": "cover",
+    "bytes": 100396,
+    "width": 192,
+    "height": 272,
+    "sha256": "fec85932ab54b769ba94040ac4bf11257646ff77a32d6f429d9ab131782d65cd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20927.jpg"
+    },
+    "gameId": "SLUS_209.27"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.27/SLUS_209.27_ICO.png",
+    "kind": "disc",
+    "bytes": 33687,
+    "width": 256,
+    "height": 256,
+    "sha256": "8dfdb84af9e2709eb33df9f7eab1b14cd6ee42f9545a04fb4e004d3406508c02",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.27_ICO.png"
+    },
+    "gameId": "SLUS_209.27"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.27/SLUS_209.27_BG.png",
+    "kind": "background",
+    "bytes": 190934,
+    "width": 640,
+    "height": 480,
+    "sha256": "55881b7b0320d63547f8756c41e11affbdfdea02dd89cfb98009e9097c3088ee",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.27/SLUS_209.27_BG_00.png"
+    },
+    "gameId": "SLUS_209.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.27/SLUS_209.27_BG.png",
+      "kind": "background",
+      "bytes": 190934,
+      "width": 640,
+      "height": 480,
+      "sha256": "55881b7b0320d63547f8756c41e11affbdfdea02dd89cfb98009e9097c3088ee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.27/SLUS_209.27_BG_00.png"
+      },
+      "gameId": "SLUS_209.27"
+    },
+    {
+      "path": "PS2/SLUS_209.27/SLUS_209.27_BG_01.png",
+      "kind": "background",
+      "bytes": 221892,
+      "width": 640,
+      "height": 480,
+      "sha256": "7cb155c3f0e783121d34609e7d0717ee36d2096dd262a69bd8ac914158a8567e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.27/SLUS_209.27_BG_01.png"
+      },
+      "gameId": "SLUS_209.27"
+    },
+    {
+      "path": "PS2/SLUS_209.27/SLUS_209.27_BG_02.png",
+      "kind": "background",
+      "bytes": 136858,
+      "width": 640,
+      "height": 480,
+      "sha256": "2340a41fc07aa906c582e195729c5e323a9c175c54f3daad50e2e39f3f4e2d89",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.27/SLUS_209.27_BG_02.png"
+      },
+      "gameId": "SLUS_209.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TIME CRISIS - CRISIS ZONE"
+}

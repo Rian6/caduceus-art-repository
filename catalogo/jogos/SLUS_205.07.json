@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_205.07",
+  "cover": {
+    "path": "PS2/SLUS_205.07/SLUS_205.07_COV.png",
+    "kind": "cover",
+    "bytes": 96515,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f1803b0e83b24f2ff3dd5ade4f71a1d72252e68cc8e5d7096d3142a458f96e5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20507.jpg"
+    },
+    "gameId": "SLUS_205.07"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.07/SLUS_205.07_ICO.png",
+    "kind": "disc",
+    "bytes": 32228,
+    "width": 256,
+    "height": 256,
+    "sha256": "1db3432313021e04abbfe715a49ab07558174de1e7fbfb1529e88427cf685479",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.07_ICO.png"
+    },
+    "gameId": "SLUS_205.07"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.07/SLUS_205.07_BG.png",
+    "kind": "background",
+    "bytes": 187658,
+    "width": 640,
+    "height": 480,
+    "sha256": "1af5af59504140409972e2158884bfb9ee96c65d9211fa5b6081c5da3bda8956",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.07/SLUS_205.07_BG_00.png"
+    },
+    "gameId": "SLUS_205.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.07/SLUS_205.07_BG.png",
+      "kind": "background",
+      "bytes": 187658,
+      "width": 640,
+      "height": 480,
+      "sha256": "1af5af59504140409972e2158884bfb9ee96c65d9211fa5b6081c5da3bda8956",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.07/SLUS_205.07_BG_00.png"
+      },
+      "gameId": "SLUS_205.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Legends of Wrestling II"
+}

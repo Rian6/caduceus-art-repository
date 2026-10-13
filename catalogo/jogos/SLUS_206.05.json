@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_206.05",
+  "cover": {
+    "path": "PS2/SLUS_206.05/SLUS_206.05_COV.png",
+    "kind": "cover",
+    "bytes": 117337,
+    "width": 192,
+    "height": 272,
+    "sha256": "f099a742ac813a3142266eb91d255b59f7ccc84fb332c6b4190121528d2d33e4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20605.jpg"
+    },
+    "gameId": "SLUS_206.05"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.05/SLUS_206.05_ICO.png",
+    "kind": "disc",
+    "bytes": 37048,
+    "width": 256,
+    "height": 256,
+    "sha256": "fdb18edec554cc064833fceb88506947a754dacd35ce24712a31254dc46c21ca",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.05_ICO.png"
+    },
+    "gameId": "SLUS_206.05"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Big Mutha Truckers"
+}

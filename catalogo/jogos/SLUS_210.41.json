@@ -1,0 +1,156 @@
+{
+  "id": "SLUS_210.41",
+  "cover": {
+    "path": "PS2/SLUS_210.41/SLUS_210.41_COV.png",
+    "kind": "cover",
+    "bytes": 105808,
+    "width": 192,
+    "height": 272,
+    "sha256": "93ea59de740b951453cef45a95d3354f63d9f7b05b520924ed53de4ddb044263",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21041.jpg"
+    },
+    "gameId": "SLUS_210.41"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.41/SLUS_210.41_ICO.png",
+    "kind": "disc",
+    "bytes": 35856,
+    "width": 256,
+    "height": 256,
+    "sha256": "2377a75890fbb71b916a80dfe050355c83745675ba102994e6e7a81283003369",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.41_ICO.png"
+    },
+    "gameId": "SLUS_210.41"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.41/SLUS_210.41_BG.png",
+    "kind": "background",
+    "bytes": 214242,
+    "width": 640,
+    "height": 480,
+    "sha256": "05a683517827cf4ce4a9b3507a8635e9d5c61618471be93c75d7ef838708dbad",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.41/SLUS_210.41_BG_00.png"
+    },
+    "gameId": "SLUS_210.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.41/SLUS_210.41_BG.png",
+      "kind": "background",
+      "bytes": 214242,
+      "width": 640,
+      "height": 480,
+      "sha256": "05a683517827cf4ce4a9b3507a8635e9d5c61618471be93c75d7ef838708dbad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.41/SLUS_210.41_BG_00.png"
+      },
+      "gameId": "SLUS_210.41"
+    },
+    {
+      "path": "PS2/SLUS_210.41/SLUS_210.41_BG_01.png",
+      "kind": "background",
+      "bytes": 190720,
+      "width": 640,
+      "height": 480,
+      "sha256": "69c4daa53607f69ce4577aae626987312bf9984efd2ab1eaf7d76e0bd750b144",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.41/SLUS_210.41_BG_01.png"
+      },
+      "gameId": "SLUS_210.41"
+    },
+    {
+      "path": "PS2/SLUS_210.41/SLUS_210.41_BG_02.png",
+      "kind": "background",
+      "bytes": 229743,
+      "width": 640,
+      "height": 480,
+      "sha256": "eba5031fac4f9d731c59dfeab07075375fb224e9c709f23f1f12faaebe9a8add",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.41/SLUS_210.41_BG_02.png"
+      },
+      "gameId": "SLUS_210.41"
+    },
+    {
+      "path": "PS2/SLUS_210.41/SLUS_210.41_BG_03.png",
+      "kind": "background",
+      "bytes": 187512,
+      "width": 640,
+      "height": 480,
+      "sha256": "f04f465847dc2317a2dd3160691d05bc036ab6f943096b72f563b0136986b53f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.41/SLUS_210.41_BG_03.png"
+      },
+      "gameId": "SLUS_210.41"
+    },
+    {
+      "path": "PS2/SLUS_210.41/SLUS_210.41_BG_04.png",
+      "kind": "background",
+      "bytes": 178072,
+      "width": 640,
+      "height": 480,
+      "sha256": "0c3cebd2f1ee28ad010105d92fe7b74255631d4e266454200ed33783c5faef0e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.41/SLUS_210.41_BG_04.png"
+      },
+      "gameId": "SLUS_210.41"
+    },
+    {
+      "path": "PS2/SLUS_210.41/SLUS_210.41_BG_05.png",
+      "kind": "background",
+      "bytes": 206152,
+      "width": 640,
+      "height": 480,
+      "sha256": "9702dc85ed3abec1e98bf1afdc9c06a5892cfeae9082246ab4793a9cbdf097b1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.41/SLUS_210.41_BG_05.png"
+      },
+      "gameId": "SLUS_210.41"
+    },
+    {
+      "path": "PS2/SLUS_210.41/SLUS_210.41_BG_06.png",
+      "kind": "background",
+      "bytes": 178660,
+      "width": 640,
+      "height": 480,
+      "sha256": "c1072cc2ccc16aaff6116760a6ada6a19cca4481e795da5c91519d5d7048c340",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.41/SLUS_210.41_BG_06.png"
+      },
+      "gameId": "SLUS_210.41"
+    },
+    {
+      "path": "PS2/SLUS_210.41/SLUS_210.41_BG_07.png",
+      "kind": "background",
+      "bytes": 193819,
+      "width": 640,
+      "height": 480,
+      "sha256": "5ca6e0895416f062508f10101c68026a9f4dd2cf9bfb7d0557c358a06548e66d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.41/SLUS_210.41_BG_07.png"
+      },
+      "gameId": "SLUS_210.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shadow Hearts: Covenant (Disc 1)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_508.34",
+  "cover": {
+    "path": "PS2/SLES_508.34/SLES_508.34_COV.png",
+    "kind": "cover",
+    "bytes": 84079,
+    "width": 192,
+    "height": 272,
+    "sha256": "fefa9dca319c963e7a51e7ad3893a6ddba653893bd5361fbfd53f75ab3d9e750",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50834.jpg"
+    },
+    "gameId": "SLES_508.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR WARS - BOUNTY HUNTER"
+}

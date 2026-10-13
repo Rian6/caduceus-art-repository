@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_254.35",
+  "cover": {
+    "path": "PS2/SLKA_254.35/SLKA_254.35_COV.png",
+    "kind": "cover",
+    "bytes": 123022,
+    "width": 192,
+    "height": 272,
+    "sha256": "db55da0b4cdb1826bfc5e080de33b647e2f69a8a309aa53a3db3f0afe6beb207",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25435.jpg"
+    },
+    "gameId": "SLKA_254.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SENGOKU BASARA X"
+}

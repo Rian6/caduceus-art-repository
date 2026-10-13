@@ -1,0 +1,103 @@
+{
+  "id": "SLES_535.23",
+  "cover": {
+    "path": "PS2/SLES_535.23/SLES_535.23_COV.png",
+    "kind": "cover",
+    "bytes": 100592,
+    "width": 192,
+    "height": 272,
+    "sha256": "c4f8c8ba29d1b0439b339a19f2551e165d2a8eab1ce21c2009c6d5ca0559f528",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53523.jpg"
+    },
+    "gameId": "SLES_535.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_535.23/SLES_535.23_BG.png",
+    "kind": "background",
+    "bytes": 272000,
+    "width": 640,
+    "height": 480,
+    "sha256": "f71a76ef66cf10b3cbeeb9a49f841d8f968b7c16efdbbb7c2d315eedd020093e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.23/SLES_535.23_BG_00.png"
+    },
+    "gameId": "SLES_535.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.23/SLES_535.23_BG.png",
+      "kind": "background",
+      "bytes": 272000,
+      "width": 640,
+      "height": 480,
+      "sha256": "f71a76ef66cf10b3cbeeb9a49f841d8f968b7c16efdbbb7c2d315eedd020093e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.23/SLES_535.23_BG_00.png"
+      },
+      "gameId": "SLES_535.23"
+    },
+    {
+      "path": "PS2/SLES_535.23/SLES_535.23_BG_01.png",
+      "kind": "background",
+      "bytes": 206822,
+      "width": 640,
+      "height": 480,
+      "sha256": "3ddd4598450725d2140928ba7cecc96c0d5cd204bc7b247ab0a42b2e29217fee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.23/SLES_535.23_BG_01.png"
+      },
+      "gameId": "SLES_535.23"
+    },
+    {
+      "path": "PS2/SLES_535.23/SLES_535.23_BG_02.png",
+      "kind": "background",
+      "bytes": 167959,
+      "width": 640,
+      "height": 480,
+      "sha256": "b8bcd2813cab9de1481440424d249e238c381c237bf31a273060e718ab4c4531",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.23/SLES_535.23_BG_02.png"
+      },
+      "gameId": "SLES_535.23"
+    },
+    {
+      "path": "PS2/SLES_535.23/SLES_535.23_BG_03.png",
+      "kind": "background",
+      "bytes": 255117,
+      "width": 640,
+      "height": 480,
+      "sha256": "f834dbaaff51443803c3171b48760afde9ac98ae78f6ccfeaeef7e937eca1e00",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.23/SLES_535.23_BG_03.png"
+      },
+      "gameId": "SLES_535.23"
+    },
+    {
+      "path": "PS2/SLES_535.23/SLES_535.23_BG_04.png",
+      "kind": "background",
+      "bytes": 253745,
+      "width": 640,
+      "height": 480,
+      "sha256": "01accdfbe386d04b8868bfdfdbe684b453387740b2098863f4ad2a32bd114fa5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.23/SLES_535.23_BG_04.png"
+      },
+      "gameId": "SLES_535.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUN"
+}

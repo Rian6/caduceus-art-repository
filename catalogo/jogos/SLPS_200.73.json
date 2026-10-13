@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.73",
+  "cover": {
+    "path": "PS2/SLPS_200.73/SLPS_200.73_COV.png",
+    "kind": "cover",
+    "bytes": 79636,
+    "width": 192,
+    "height": 272,
+    "sha256": "72b8870f149db45b28ecee103ed2b0fa8f80f6990257b92eed826bd8d8b379e6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20073.jpg"
+    },
+    "gameId": "SLPS_200.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live 2001"
+}

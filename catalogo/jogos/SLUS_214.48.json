@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_214.48",
+  "cover": {
+    "path": "PS2/SLUS_214.48/SLUS_214.48_COV.png",
+    "kind": "cover",
+    "bytes": 100059,
+    "width": 192,
+    "height": 272,
+    "sha256": "83d05ac0739841e696b85d03cc2388f4f5e1403bd3c5323cdacda7323a1b392a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21448.jpg"
+    },
+    "gameId": "SLUS_214.48"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.48/SLUS_214.48_ICO.png",
+    "kind": "disc",
+    "bytes": 35258,
+    "width": 256,
+    "height": 256,
+    "sha256": "5b67594474f93b2a4f3e62ac6307b53d6a4d0221921bce9f988bba4b87436421",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.48_ICO.png"
+    },
+    "gameId": "SLUS_214.48"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.48/SLUS_214.48_BG.png",
+    "kind": "background",
+    "bytes": 185594,
+    "width": 640,
+    "height": 480,
+    "sha256": "2291aa97656c1e9eb5cb509b25c8b15e1e4c16c03cbbfe58d901ece438826281",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.48/SLUS_214.48_BG_00.png"
+    },
+    "gameId": "SLUS_214.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.48/SLUS_214.48_BG.png",
+      "kind": "background",
+      "bytes": 185594,
+      "width": 640,
+      "height": 480,
+      "sha256": "2291aa97656c1e9eb5cb509b25c8b15e1e4c16c03cbbfe58d901ece438826281",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.48/SLUS_214.48_BG_00.png"
+      },
+      "gameId": "SLUS_214.48"
+    },
+    {
+      "path": "PS2/SLUS_214.48/SLUS_214.48_BG_01.png",
+      "kind": "background",
+      "bytes": 133114,
+      "width": 640,
+      "height": 480,
+      "sha256": "66c8b69223bf658bc1f6533205bac9e59909a4f4e2ad41078037eea69e50dbb9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.48/SLUS_214.48_BG_01.png"
+      },
+      "gameId": "SLUS_214.48"
+    },
+    {
+      "path": "PS2/SLUS_214.48/SLUS_214.48_BG_02.png",
+      "kind": "background",
+      "bytes": 200729,
+      "width": 640,
+      "height": 480,
+      "sha256": "009e0daac49ce1219b46e326faf5505e263aa77b7e5361dc35e044d512a79619",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.48/SLUS_214.48_BG_02.png"
+      },
+      "gameId": "SLUS_214.48"
+    },
+    {
+      "path": "PS2/SLUS_214.48/SLUS_214.48_BG_03.png",
+      "kind": "background",
+      "bytes": 180826,
+      "width": 640,
+      "height": 480,
+      "sha256": "96ed4aba228c60492b659419a36855439f99b5379836e91cb8ca365c6d0f7d22",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.48/SLUS_214.48_BG_03.png"
+      },
+      "gameId": "SLUS_214.48"
+    },
+    {
+      "path": "PS2/SLUS_214.48/SLUS_214.48_BG_04.png",
+      "kind": "background",
+      "bytes": 183412,
+      "width": 640,
+      "height": 480,
+      "sha256": "53f94729a427c24f8f818240ab8db8697b3a90718d9b35cdd13372b908395063",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.48/SLUS_214.48_BG_04.png"
+      },
+      "gameId": "SLUS_214.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RULE OF ROSE"
+}

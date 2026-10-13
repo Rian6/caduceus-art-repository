@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_212.94",
+  "cover": {
+    "path": "PS2/SLUS_212.94/SLUS_212.94_COV.png",
+    "kind": "cover",
+    "bytes": 80625,
+    "width": 192,
+    "height": 272,
+    "sha256": "48d46b427d4fea1744d904824b2a5af9ed4d5699dcfaef6c8e41b09666c9f076",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21294.jpg"
+    },
+    "gameId": "SLUS_212.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Marc Ecko's Getting Up: Contents Under Pressure (Limited Edition)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_192.09",
+  "cover": {
+    "path": "PS2/SCPS_192.09/SCPS_192.09_COV.png",
+    "kind": "cover",
+    "bytes": 77061,
+    "width": 192,
+    "height": 272,
+    "sha256": "4367b698f6cfb0e7a50643ffab75c6acb9a40e8449f82f341b890633c5d819db",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19209.jpg"
+    },
+    "gameId": "SCPS_192.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BOKU NO NATSUYASUMI 2 - UMI NO BOUKEN HEN [PLAYSTATION 2 THE BEST]"
+}

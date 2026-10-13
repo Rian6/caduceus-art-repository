@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_218.30",
+  "cover": {
+    "path": "PS2/SLUS_218.30/SLUS_218.30_COV.png",
+    "kind": "cover",
+    "bytes": 84192,
+    "width": 192,
+    "height": 272,
+    "sha256": "25f6c7aa959dff33f59b80c984adbf1f310b8f6b9e1ad8a3afdb6966ea586beb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21830.jpg"
+    },
+    "gameId": "SLUS_218.30"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.30/SLUS_218.30_ICO.png",
+    "kind": "disc",
+    "bytes": 35378,
+    "width": 256,
+    "height": 256,
+    "sha256": "0f62d0f2519e638eef4d756800707f743df0bc97694f6e0136be0f5246dba3bb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.30_ICO.png"
+    },
+    "gameId": "SLUS_218.30"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.30/SLUS_218.30_BG.png",
+    "kind": "background",
+    "bytes": 15846,
+    "width": 640,
+    "height": 480,
+    "sha256": "5151dea57bbebc5bdb6615e6630edf3ca5f1f5da1c1dead8cbbe299463132abd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.30/SLUS_218.30_BG_00.png"
+    },
+    "gameId": "SLUS_218.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.30/SLUS_218.30_BG.png",
+      "kind": "background",
+      "bytes": 15846,
+      "width": 640,
+      "height": 480,
+      "sha256": "5151dea57bbebc5bdb6615e6630edf3ca5f1f5da1c1dead8cbbe299463132abd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.30/SLUS_218.30_BG_00.png"
+      },
+      "gameId": "SLUS_218.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rock Band: Track Pack Volume 2"
+}

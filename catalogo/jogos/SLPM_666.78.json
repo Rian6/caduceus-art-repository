@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.78",
+  "cover": {
+    "path": "PS2/SLPM_666.78/SLPM_666.78_COV.png",
+    "kind": "cover",
+    "bytes": 83923,
+    "width": 192,
+    "height": 272,
+    "sha256": "8ffc64019c23deeb6a9057ab5465a4e2483033c6df5800c5004da3b2cda6a774",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66678.jpg"
+    },
+    "gameId": "SLPM_666.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FINAL FANTASY X-2 INTERNATIONAL + LAST MISSION [ULTIMATE HITS]"
+}

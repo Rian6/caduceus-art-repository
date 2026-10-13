@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_208.14",
+  "cover": {
+    "path": "PS2/SLUS_208.14/SLUS_208.14_COV.png",
+    "kind": "cover",
+    "bytes": 53935,
+    "width": 192,
+    "height": 272,
+    "sha256": "96b653fd21c057518c9edbf2b38316a86fec176d24e72cdcc1840a7910c8512d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20814.jpg"
+    },
+    "gameId": "SLUS_208.14"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.14/SLUS_208.14_ICO.png",
+    "kind": "disc",
+    "bytes": 23974,
+    "width": 256,
+    "height": 256,
+    "sha256": "b3ca0181b9da7e06205b039a2053033f6582dbff066085a87f658d7d33be2e46",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.14_ICO.png"
+    },
+    "gameId": "SLUS_208.14"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.14/SLUS_208.14_BG.png",
+    "kind": "background",
+    "bytes": 178604,
+    "width": 640,
+    "height": 480,
+    "sha256": "0c6c45b7d491b59d38f116d6ce09297df74ccd939567f9a11257d78b83f2cfc7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.14/SLUS_208.14_BG_00.png"
+    },
+    "gameId": "SLUS_208.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.14/SLUS_208.14_BG.png",
+      "kind": "background",
+      "bytes": 178604,
+      "width": 640,
+      "height": 480,
+      "sha256": "0c6c45b7d491b59d38f116d6ce09297df74ccd939567f9a11257d78b83f2cfc7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.14/SLUS_208.14_BG_00.png"
+      },
+      "gameId": "SLUS_208.14"
+    },
+    {
+      "path": "PS2/SLUS_208.14/SLUS_208.14_BG_01.png",
+      "kind": "background",
+      "bytes": 236679,
+      "width": 640,
+      "height": 480,
+      "sha256": "72efb3571c523b2c04729544ce959c1756510942f40bcec0de9008b6594cb025",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.14/SLUS_208.14_BG_01.png"
+      },
+      "gameId": "SLUS_208.14"
+    },
+    {
+      "path": "PS2/SLUS_208.14/SLUS_208.14_BG_02.png",
+      "kind": "background",
+      "bytes": 37085,
+      "width": 640,
+      "height": 480,
+      "sha256": "50d18c4fc13e72b26352131359313c8215e13edeca06df958c18f067b87a5f32",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.14/SLUS_208.14_BG_02.png"
+      },
+      "gameId": "SLUS_208.14"
+    },
+    {
+      "path": "PS2/SLUS_208.14/SLUS_208.14_BG_03.png",
+      "kind": "background",
+      "bytes": 29158,
+      "width": 640,
+      "height": 480,
+      "sha256": "f318dae9aab56dd837daf77da2f694f456576e3c82776e265acd17520fc7f63a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.14/SLUS_208.14_BG_03.png"
+      },
+      "gameId": "SLUS_208.14"
+    },
+    {
+      "path": "PS2/SLUS_208.14/SLUS_208.14_BG_04.png",
+      "kind": "background",
+      "bytes": 241643,
+      "width": 640,
+      "height": 480,
+      "sha256": "a9eca047ed13446acc5c4a2a2b233fdc9816ff1c49b0e0426874b2ec997f3784",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.14/SLUS_208.14_BG_04.png"
+      },
+      "gameId": "SLUS_208.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Max Payne 2: The Fall of Max Payne"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.77",
+  "cover": {
+    "path": "PS2/SLPS_250.77/SLPS_250.77_COV.png",
+    "kind": "cover",
+    "bytes": 82807,
+    "width": 192,
+    "height": 272,
+    "sha256": "26e7109beb25da2dc97a5bb3f6be216d994ee334181ae96dbd82b692825542a8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25077.jpg"
+    },
+    "gameId": "SLPS_250.77"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Vampire Night"
+}

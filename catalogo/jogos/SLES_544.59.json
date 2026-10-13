@@ -1,0 +1,91 @@
+{
+  "id": "SLES_544.59",
+  "cover": {
+    "path": "PS2/SLES_544.59/SLES_544.59_COV.png",
+    "kind": "cover",
+    "bytes": 104148,
+    "width": 192,
+    "height": 272,
+    "sha256": "81143cc1431f028ec3208ca2b5c08cbbc25b7345cfb92042c0d75c7ae41533f7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54459.jpg"
+    },
+    "gameId": "SLES_544.59"
+  },
+  "disc": {
+    "path": "PS2/SLES_544.59/SLES_544.59_ICO.png",
+    "kind": "disc",
+    "bytes": 11738,
+    "width": 128,
+    "height": 128,
+    "sha256": "e22f64a142da472577946406d4fa17b9a1ccbc9bc9b65e41e4543eb59868dc27",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_544.59_ICO.png"
+    },
+    "gameId": "SLES_544.59"
+  },
+  "background": {
+    "path": "PS2/SLES_544.59/SLES_544.59_BG.png",
+    "kind": "background",
+    "bytes": 212803,
+    "width": 640,
+    "height": 480,
+    "sha256": "ae924364067a078a473a609fc4bba8cb6dfb4374cd632a96c289c9f002251df3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.59/SLES_544.59_BG_00.png"
+    },
+    "gameId": "SLES_544.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.59/SLES_544.59_BG.png",
+      "kind": "background",
+      "bytes": 212803,
+      "width": 640,
+      "height": 480,
+      "sha256": "ae924364067a078a473a609fc4bba8cb6dfb4374cd632a96c289c9f002251df3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.59/SLES_544.59_BG_00.png"
+      },
+      "gameId": "SLES_544.59"
+    },
+    {
+      "path": "PS2/SLES_544.59/SLES_544.59_BG_01.png",
+      "kind": "background",
+      "bytes": 190095,
+      "width": 640,
+      "height": 480,
+      "sha256": "7014f7dbb31faff3ae6e06560c46bae2e89be126487d8ff6c755d5174477984d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.59/SLES_544.59_BG_01.png"
+      },
+      "gameId": "SLES_544.59"
+    },
+    {
+      "path": "PS2/SLES_544.59/SLES_544.59_BG_02.png",
+      "kind": "background",
+      "bytes": 144593,
+      "width": 640,
+      "height": 480,
+      "sha256": "5614adf7f0ed484cc2b28ae34e0c23b6cf39fad381b0168980f4b47c7196040f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.59/SLES_544.59_BG_02.png"
+      },
+      "gameId": "SLES_544.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "All-Star Fighters"
+}

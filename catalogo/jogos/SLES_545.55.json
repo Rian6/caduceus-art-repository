@@ -1,0 +1,64 @@
+{
+  "id": "SLES_545.55",
+  "cover": {
+    "path": "PS2/SLES_545.55/SLES_545.55_COV.png",
+    "kind": "cover",
+    "bytes": 81888,
+    "width": 192,
+    "height": 272,
+    "sha256": "28f4e159d07a94a149c958a35670bcc6600fbf7edbd9aa5998f52541bcf2d1b3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54555.jpg"
+    },
+    "gameId": "SLES_545.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_545.55/SLES_545.55_BG.png",
+    "kind": "background",
+    "bytes": 132237,
+    "width": 640,
+    "height": 480,
+    "sha256": "64dd79da3d6a0d7a5c6bae64a27f0ba8c2a481ceaf4d55d8db80879e835a27ab",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.55/SLES_545.55_BG_00.png"
+    },
+    "gameId": "SLES_545.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_545.55/SLES_545.55_BG.png",
+      "kind": "background",
+      "bytes": 132237,
+      "width": 640,
+      "height": 480,
+      "sha256": "64dd79da3d6a0d7a5c6bae64a27f0ba8c2a481ceaf4d55d8db80879e835a27ab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.55/SLES_545.55_BG_00.png"
+      },
+      "gameId": "SLES_545.55"
+    },
+    {
+      "path": "PS2/SLES_545.55/SLES_545.55_BG_01.png",
+      "kind": "background",
+      "bytes": 202331,
+      "width": 640,
+      "height": 480,
+      "sha256": "4d070575df456635d05f7ad46cc05fbbb309c94f3ab0669d3a76e2423ef85b7b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.55/SLES_545.55_BG_01.png"
+      },
+      "gameId": "SLES_545.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Megami Tensei - Digital Devil Saga 2"
+}

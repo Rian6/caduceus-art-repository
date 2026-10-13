@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.70",
+  "cover": {
+    "path": "PS2/SLPM_622.70/SLPM_622.70_COV.png",
+    "kind": "cover",
+    "bytes": 91475,
+    "width": 192,
+    "height": 272,
+    "sha256": "f415e4bb7cc09bf7364a47fe69eadd233cc6fbfce3f1d5f1ea1e08949e064a4b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62270.jpg"
+    },
+    "gameId": "SLPM_622.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.019 - THE RENAI SIMULATION - RENAI KISSA WATASHI NI OMA CAFE"
+}

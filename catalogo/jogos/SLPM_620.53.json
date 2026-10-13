@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.53",
+  "cover": {
+    "path": "PS2/SLPM_620.53/SLPM_620.53_COV.png",
+    "kind": "cover",
+    "bytes": 76323,
+    "width": 192,
+    "height": 272,
+    "sha256": "69af9f7479f5fce4813435bdb0a1a819d7821b52ff0e1503e88b26634f4da7a5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62053.jpg"
+    },
+    "gameId": "SLPM_620.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 5"
+}

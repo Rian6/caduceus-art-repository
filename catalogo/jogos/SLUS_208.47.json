@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_208.47",
+  "cover": {
+    "path": "PS2/SLUS_208.47/SLUS_208.47_COV.png",
+    "kind": "cover",
+    "bytes": 109942,
+    "width": 192,
+    "height": 272,
+    "sha256": "46e0d1d87801f5a0b762855ad8be9e6c0ce885065098cb2810bd571be17c8d9e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20847.jpg"
+    },
+    "gameId": "SLUS_208.47"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.47/SLUS_208.47_ICO.png",
+    "kind": "disc",
+    "bytes": 32205,
+    "width": 256,
+    "height": 256,
+    "sha256": "c1ca312204383497d85f9e14f38b59367e4ca526bbaf916d13291fe41b7f19fb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.47_ICO.png"
+    },
+    "gameId": "SLUS_208.47"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.47/SLUS_208.47_BG.png",
+    "kind": "background",
+    "bytes": 129339,
+    "width": 640,
+    "height": 480,
+    "sha256": "3903d6130d417c08b67d60bc8c8acd5a81a438a31447a06cb78b5fd4c44c8b44",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.47/SLUS_208.47_BG_00.png"
+    },
+    "gameId": "SLUS_208.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.47/SLUS_208.47_BG.png",
+      "kind": "background",
+      "bytes": 129339,
+      "width": 640,
+      "height": 480,
+      "sha256": "3903d6130d417c08b67d60bc8c8acd5a81a438a31447a06cb78b5fd4c44c8b44",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.47/SLUS_208.47_BG_00.png"
+      },
+      "gameId": "SLUS_208.47"
+    },
+    {
+      "path": "PS2/SLUS_208.47/SLUS_208.47_BG_01.png",
+      "kind": "background",
+      "bytes": 168668,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e7e1d2b585a68dba2f29a89cfce48996cf9ecee1ff93cbbab663cc3e0735fce",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.47/SLUS_208.47_BG_01.png"
+      },
+      "gameId": "SLUS_208.47"
+    },
+    {
+      "path": "PS2/SLUS_208.47/SLUS_208.47_BG_02.png",
+      "kind": "background",
+      "bytes": 196492,
+      "width": 640,
+      "height": 480,
+      "sha256": "5c7fde8e38c2860d9fae1b0019a5b010032540e1ccb01656c87cccf373a09031",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.47/SLUS_208.47_BG_02.png"
+      },
+      "gameId": "SLUS_208.47"
+    },
+    {
+      "path": "PS2/SLUS_208.47/SLUS_208.47_BG_03.png",
+      "kind": "background",
+      "bytes": 167254,
+      "width": 640,
+      "height": 480,
+      "sha256": "7c8d8ce67bc5701cc4e0152093fa622d384b23beb15ec9bc77b9d4c18434fd4f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.47/SLUS_208.47_BG_03.png"
+      },
+      "gameId": "SLUS_208.47"
+    },
+    {
+      "path": "PS2/SLUS_208.47/SLUS_208.47_BG_04.png",
+      "kind": "background",
+      "bytes": 185071,
+      "width": 640,
+      "height": 480,
+      "sha256": "9601def0f72b27ab4eee4352c2eae48fb281b8642df8f15349f825b907a0f993",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.47/SLUS_208.47_BG_04.png"
+      },
+      "gameId": "SLUS_208.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LA PUCELLE - TACTICS"
+}

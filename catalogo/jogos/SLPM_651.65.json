@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.65",
+  "cover": {
+    "path": "PS2/SLPM_651.65/SLPM_651.65_COV.png",
+    "kind": "cover",
+    "bytes": 69230,
+    "width": 192,
+    "height": 272,
+    "sha256": "f2bc5ef10c1d000d840630d65f683ed92d02b9bf38103bdc3dcb73640f4b2ae7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65165.jpg"
+    },
+    "gameId": "SLPM_651.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Project Minerva"
+}

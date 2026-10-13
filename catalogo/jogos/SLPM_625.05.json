@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.05",
+  "cover": {
+    "path": "PS2/SLPM_625.05/SLPM_625.05_COV.png",
+    "kind": "cover",
+    "bytes": 81039,
+    "width": 192,
+    "height": 272,
+    "sha256": "07aec46ea3980c4814b7b226790b9e7a7350388fe7b773a98e2d17d5d3c9eb82",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62505.jpg"
+    },
+    "gameId": "SLPM_625.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fukuhara Ai no Takkyu Icchokusen"
+}

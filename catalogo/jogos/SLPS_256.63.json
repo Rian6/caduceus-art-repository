@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.63",
+  "cover": {
+    "path": "PS2/SLPS_256.63/SLPS_256.63_COV.png",
+    "kind": "cover",
+    "bytes": 110798,
+    "width": 192,
+    "height": 272,
+    "sha256": "4046dee3276401b7ddc0b484601a4d69cbd6de995943a913bbee03b47211217b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25663.jpg"
+    },
+    "gameId": "SLPS_256.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KYO KARA MAOH! HAJIMARI NO TABI"
+}

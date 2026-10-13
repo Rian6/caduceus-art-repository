@@ -1,0 +1,25 @@
+{
+  "id": "SLES_501.37",
+  "cover": {
+    "path": "PS2/SLES_501.37/SLES_501.37_COV.png",
+    "kind": "cover",
+    "bytes": 54859,
+    "width": 192,
+    "height": 272,
+    "sha256": "940082cdcc425f4afa86357ea0a685e43f2c04b376d622b4b7b6375dbaa30186",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_501.37/SLES_501.37_COV.png"
+    },
+    "gameId": "SLES_501.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Robot Warlords"
+}

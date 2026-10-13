@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_200.11",
+  "cover": {
+    "path": "PS2/SLPS_200.11/SLPS_200.11_COV.png",
+    "kind": "cover",
+    "bytes": 82552,
+    "width": 192,
+    "height": 272,
+    "sha256": "cd5a17ff64b38c7a5a112b6cf4ac85e62f9649e480710ec3793211a2b9949d4d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20011.jpg"
+    },
+    "gameId": "SLPS_200.11"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_200.11/SLPS_200.11_BG.png",
+    "kind": "background",
+    "bytes": 146351,
+    "width": 640,
+    "height": 480,
+    "sha256": "290aef7f549139f096cef1b377ad7c07d5782914e368f30cc38f34008e409938",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_200.11/SLPS_200.11_BG_00.png"
+    },
+    "gameId": "SLPS_200.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_200.11/SLPS_200.11_BG.png",
+      "kind": "background",
+      "bytes": 146351,
+      "width": 640,
+      "height": 480,
+      "sha256": "290aef7f549139f096cef1b377ad7c07d5782914e368f30cc38f34008e409938",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_200.11/SLPS_200.11_BG_00.png"
+      },
+      "gameId": "SLPS_200.11"
+    },
+    {
+      "path": "PS2/SLPS_200.11/SLPS_200.11_BG_01.png",
+      "kind": "background",
+      "bytes": 234514,
+      "width": 640,
+      "height": 480,
+      "sha256": "89a287e3e442da65ed2a142fbc17839fca106d13d521a564787ea1bdc391a049",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_200.11/SLPS_200.11_BG_01.png"
+      },
+      "gameId": "SLPS_200.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "American Arcade"
+}

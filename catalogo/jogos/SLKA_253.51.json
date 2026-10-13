@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.51",
+  "cover": {
+    "path": "PS2/SLKA_253.51/SLKA_253.51_COV.png",
+    "kind": "cover",
+    "bytes": 124770,
+    "width": 192,
+    "height": 272,
+    "sha256": "18e34000ed3119a14c970ee42556895ac83f680d407f88948899b7b7f73ff3a7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25351.jpg"
+    },
+    "gameId": "SLKA_253.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONE PIECE - PIRATES' CARNIVAL"
+}

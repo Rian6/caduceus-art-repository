@@ -1,0 +1,25 @@
+{
+  "id": "SLES_525.51",
+  "cover": {
+    "path": "PS2/SLES_525.51/SLES_525.51_COV.png",
+    "kind": "cover",
+    "bytes": 96325,
+    "width": 192,
+    "height": 272,
+    "sha256": "e4f0f30c55467477a6f75a7d8be6864bac4c1a0d46517452ee6cd0f49c6ac825",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52551.jpg"
+    },
+    "gameId": "SLES_525.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Samurai Warriors"
+}

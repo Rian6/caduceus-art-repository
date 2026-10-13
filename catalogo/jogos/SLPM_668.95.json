@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.95",
+  "cover": {
+    "path": "PS2/SLPM_668.95/SLPM_668.95_COV.png",
+    "kind": "cover",
+    "bytes": 100715,
+    "width": 192,
+    "height": 272,
+    "sha256": "37e3d10bd88bd77ebad1973507091c2b3dcb466c9662e8fa02a36de0d3cc1472",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66895.jpg"
+    },
+    "gameId": "SLPM_668.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Manea Sugoroku - Kabukuro"
+}

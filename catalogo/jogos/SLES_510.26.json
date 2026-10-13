@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.26",
+  "cover": {
+    "path": "PS2/SLES_510.26/SLES_510.26_COV.png",
+    "kind": "cover",
+    "bytes": 101869,
+    "width": 192,
+    "height": 272,
+    "sha256": "c3191547885cefca277c3d894eae54c8a16a0aa50aec2e90da48fe42936272b7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51026.jpg"
+    },
+    "gameId": "SLES_510.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Football Manager - Campionato 2003"
+}

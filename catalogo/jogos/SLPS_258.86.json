@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.86",
+  "cover": {
+    "path": "PS2/SLPS_258.86/SLPS_258.86_COV.png",
+    "kind": "cover",
+    "bytes": 96471,
+    "width": 192,
+    "height": 272,
+    "sha256": "0ee82ec08717a0ef8865723c96c6c2bd29081ba813546fe4171ccfb438a1ebee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25886.jpg"
+    },
+    "gameId": "SLPS_258.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guitar Hero: Aerosmith"
+}

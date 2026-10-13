@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_740.07",
+  "cover": {
+    "path": "PS2/SLPM_740.07/SLPM_740.07_COV.png",
+    "kind": "cover",
+    "bytes": 67716,
+    "width": 192,
+    "height": 272,
+    "sha256": "fe77377e0e13304d618e03e3278a949831dfd0438c996ea4333b1819542c7931",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74007.jpg"
+    },
+    "gameId": "SLPM_740.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Busin - Wizardry Alternative (Playstation 2 The Best)"
+}

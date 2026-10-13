@@ -1,0 +1,64 @@
+{
+  "id": "SLES_524.86",
+  "cover": {
+    "path": "PS2/SLES_524.86/SLES_524.86_COV.png",
+    "kind": "cover",
+    "bytes": 101649,
+    "width": 192,
+    "height": 272,
+    "sha256": "e451375117f6b8985d32372069fd1de371c8247cbd194c538c80c14378f9964b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52486.jpg"
+    },
+    "gameId": "SLES_524.86"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_524.86/SLES_524.86_BG.png",
+    "kind": "background",
+    "bytes": 158378,
+    "width": 640,
+    "height": 480,
+    "sha256": "ec88b8d7759d8971c04c2a5ecb90dfc754fa49ea6f41d67f5c15815c5853dc9f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_524.86/SLES_524.86_BG_00.png"
+    },
+    "gameId": "SLES_524.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_524.86/SLES_524.86_BG.png",
+      "kind": "background",
+      "bytes": 158378,
+      "width": 640,
+      "height": 480,
+      "sha256": "ec88b8d7759d8971c04c2a5ecb90dfc754fa49ea6f41d67f5c15815c5853dc9f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.86/SLES_524.86_BG_00.png"
+      },
+      "gameId": "SLES_524.86"
+    },
+    {
+      "path": "PS2/SLES_524.86/SLES_524.86_BG_01.png",
+      "kind": "background",
+      "bytes": 202818,
+      "width": 640,
+      "height": 480,
+      "sha256": "c164e1668a1da77743d4c48830742b75e4838983bd330d6214ce57510a2b9318",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.86/SLES_524.86_BG_01.png"
+      },
+      "gameId": "SLES_524.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Astro Boy"
+}

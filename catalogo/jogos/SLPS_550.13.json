@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_550.13",
+  "cover": {
+    "path": "PS2/SLPS_550.13/SLPS_550.13_COV.png",
+    "kind": "cover",
+    "bytes": 107230,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ef1eee4aebf80f5a683dcafdb53dafb0b291453f2ebbc379b76c8b4738ed3b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-55013.jpg"
+    },
+    "gameId": "SLPS_550.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGACY OF KAIN - SOUL REAVER 2"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_201.48",
+  "cover": {
+    "path": "PS2/SLUS_201.48/SLUS_201.48_COV.png",
+    "kind": "cover",
+    "bytes": 101057,
+    "width": 192,
+    "height": 272,
+    "sha256": "36775c4447788c7c16e916b85ed8bb6d7d2afdc6456c2ed9914beb515b8be23a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20148.jpg"
+    },
+    "gameId": "SLUS_201.48"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.48/SLUS_201.48_ICO.png",
+    "kind": "disc",
+    "bytes": 29184,
+    "width": 256,
+    "height": 256,
+    "sha256": "073822f1b4907d92d6bd20fd453e422b3a04f8006a58e56d0c94ebc7407a425f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.48_ICO.png"
+    },
+    "gameId": "SLUS_201.48"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.48/SLUS_201.48_BG.png",
+    "kind": "background",
+    "bytes": 171567,
+    "width": 640,
+    "height": 480,
+    "sha256": "e92de3e79ac64b98aaa800f44323e15398022cbf43a90cdb1edca61b7b27d46b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.48/SLUS_201.48_BG_00.png"
+    },
+    "gameId": "SLUS_201.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.48/SLUS_201.48_BG.png",
+      "kind": "background",
+      "bytes": 171567,
+      "width": 640,
+      "height": 480,
+      "sha256": "e92de3e79ac64b98aaa800f44323e15398022cbf43a90cdb1edca61b7b27d46b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.48/SLUS_201.48_BG_00.png"
+      },
+      "gameId": "SLUS_201.48"
+    },
+    {
+      "path": "PS2/SLUS_201.48/SLUS_201.48_BG_01.png",
+      "kind": "background",
+      "bytes": 178956,
+      "width": 640,
+      "height": 480,
+      "sha256": "4014bab693a65444436fac1fe5196fd4be1332daf84cc6bbf5e5179147fe1745",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.48/SLUS_201.48_BG_01.png"
+      },
+      "gameId": "SLUS_201.48"
+    },
+    {
+      "path": "PS2/SLUS_201.48/SLUS_201.48_BG_02.png",
+      "kind": "background",
+      "bytes": 226465,
+      "width": 640,
+      "height": 480,
+      "sha256": "b36d5d5c85348dee5a2b56e1cc9d5081a2c30ef2f51ce91222d0669d1bbf8888",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.48/SLUS_201.48_BG_02.png"
+      },
+      "gameId": "SLUS_201.48"
+    },
+    {
+      "path": "PS2/SLUS_201.48/SLUS_201.48_BG_03.png",
+      "kind": "background",
+      "bytes": 120189,
+      "width": 640,
+      "height": 480,
+      "sha256": "739fd8b8937b48a0eefe45fd7ae1c7b5fb4f6138f4632ae71601525dc0b72a08",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.48/SLUS_201.48_BG_03.png"
+      },
+      "gameId": "SLUS_201.48"
+    },
+    {
+      "path": "PS2/SLUS_201.48/SLUS_201.48_BG_04.png",
+      "kind": "background",
+      "bytes": 178082,
+      "width": 640,
+      "height": 480,
+      "sha256": "7a4b27158b647ad0f37edff1f42f519a881ff4c03f29f580f2bd402a795af93f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.48/SLUS_201.48_BG_04.png"
+      },
+      "gameId": "SLUS_201.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zone of the Enders"
+}

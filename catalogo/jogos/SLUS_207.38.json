@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_207.38",
+  "cover": {
+    "path": "PS2/SLUS_207.38/SLUS_207.38_COV.png",
+    "kind": "cover",
+    "bytes": 82111,
+    "width": 192,
+    "height": 272,
+    "sha256": "1f4052f5b76d4fe329f178420b951108ab7d7bf774a3e31959c3423e3e3f6851",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20738.jpg"
+    },
+    "gameId": "SLUS_207.38"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.38/SLUS_207.38_ICO.png",
+    "kind": "disc",
+    "bytes": 33293,
+    "width": 256,
+    "height": 256,
+    "sha256": "7e60092e5c353525ae45f40b1ef4b80bd5c60f53f6b609d3edddbbccb5497ab4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.38_ICO.png"
+    },
+    "gameId": "SLUS_207.38"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.38/SLUS_207.38_BG.png",
+    "kind": "background",
+    "bytes": 162572,
+    "width": 640,
+    "height": 480,
+    "sha256": "aed001631e5876bd9ea99ec289083169a5a2fae17b8a8738e1f2e94524926e96",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.38/SLUS_207.38_BG_00.png"
+    },
+    "gameId": "SLUS_207.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.38/SLUS_207.38_BG.png",
+      "kind": "background",
+      "bytes": 162572,
+      "width": 640,
+      "height": 480,
+      "sha256": "aed001631e5876bd9ea99ec289083169a5a2fae17b8a8738e1f2e94524926e96",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.38/SLUS_207.38_BG_00.png"
+      },
+      "gameId": "SLUS_207.38"
+    },
+    {
+      "path": "PS2/SLUS_207.38/SLUS_207.38_BG_01.png",
+      "kind": "background",
+      "bytes": 162920,
+      "width": 640,
+      "height": 480,
+      "sha256": "152ab01dd4de7ed0725f71785abb579c00ddca64d6c74bb8576aa6a022e9326f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.38/SLUS_207.38_BG_01.png"
+      },
+      "gameId": "SLUS_207.38"
+    },
+    {
+      "path": "PS2/SLUS_207.38/SLUS_207.38_BG_02.png",
+      "kind": "background",
+      "bytes": 218693,
+      "width": 640,
+      "height": 480,
+      "sha256": "adc9b20d88c1c82a0c86bce3c29a12e35c57f81194a38200517d5fae1520bdf8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.38/SLUS_207.38_BG_02.png"
+      },
+      "gameId": "SLUS_207.38"
+    },
+    {
+      "path": "PS2/SLUS_207.38/SLUS_207.38_BG_03.png",
+      "kind": "background",
+      "bytes": 184058,
+      "width": 640,
+      "height": 480,
+      "sha256": "11dda9f23515ce0d2445c0eb92be769443d2fcc46118b85373a56dfcecc7a547",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.38/SLUS_207.38_BG_03.png"
+      },
+      "gameId": "SLUS_207.38"
+    },
+    {
+      "path": "PS2/SLUS_207.38/SLUS_207.38_BG_04.png",
+      "kind": "background",
+      "bytes": 168224,
+      "width": 640,
+      "height": 480,
+      "sha256": "3dc9abbf4dbb9cb37b5c64f8da535c9af3f7b0b7f99c7f3ec7ea5a459543d10d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.38/SLUS_207.38_BG_04.png"
+      },
+      "gameId": "SLUS_207.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Van Helsing"
+}

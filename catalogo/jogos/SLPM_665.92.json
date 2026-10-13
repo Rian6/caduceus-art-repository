@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.92",
+  "cover": {
+    "path": "PS2/SLPM_665.92/SLPM_665.92_COV.png",
+    "kind": "cover",
+    "bytes": 117473,
+    "width": 192,
+    "height": 272,
+    "sha256": "3512dadb3b0a186f99714fc05d43b8ce756fcc0c5757097c44ae1aea85b04341",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66592.jpg"
+    },
+    "gameId": "SLPM_665.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAHOU SENSEI NEGIMA! 3-JIKANME - KOI TO MAHOU TO SEKAIJU DENSETSU [THEATER VERSION]"
+}

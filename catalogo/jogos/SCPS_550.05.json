@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.05",
+  "cover": {
+    "path": "PS2/SCPS_550.05/SCPS_550.05_COV.png",
+    "kind": "cover",
+    "bytes": 67875,
+    "width": 192,
+    "height": 272,
+    "sha256": "d5d43f0127de6beec997caedd2bf57c828af4af240f6b7038bc8c11a378bdd2f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55005.jpg"
+    },
+    "gameId": "SCPS_550.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo Concept: 2001 Tokyo"
+}

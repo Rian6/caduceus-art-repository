@@ -1,0 +1,65 @@
+{
+  "id": "SLES_507.57",
+  "cover": {
+    "path": "PS2/SLES_507.57/SLES_507.57_COV.png",
+    "kind": "cover",
+    "bytes": 86202,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ee765943f789b724957d47a1f2d180fb5534fd7d814ffc8546f03eaf549a07a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50757.jpg"
+    },
+    "gameId": "SLES_507.57"
+  },
+  "disc": {
+    "path": "PS2/SLES_507.57/SLES_507.57_ICO.png",
+    "kind": "disc",
+    "bytes": 11643,
+    "width": 128,
+    "height": 128,
+    "sha256": "5bce330dab265f685250c3d62fde65e60c31cef81af02b10f4e6b9a581212100",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_507.57_ICO.png"
+    },
+    "gameId": "SLES_507.57"
+  },
+  "background": {
+    "path": "PS2/SLES_507.57/SLES_507.57_BG.png",
+    "kind": "background",
+    "bytes": 197320,
+    "width": 640,
+    "height": 480,
+    "sha256": "8b48460e003dc68e2e9ddf9cb065aee890a5a2d2b74f55143af14b04ce04ae30",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.57/SLES_507.57_BG_00.png"
+    },
+    "gameId": "SLES_507.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_507.57/SLES_507.57_BG.png",
+      "kind": "background",
+      "bytes": 197320,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b48460e003dc68e2e9ddf9cb065aee890a5a2d2b74f55143af14b04ce04ae30",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.57/SLES_507.57_BG_00.png"
+      },
+      "gameId": "SLES_507.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Atlantis III"
+}

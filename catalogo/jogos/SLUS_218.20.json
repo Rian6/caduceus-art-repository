@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_218.20",
+  "cover": {
+    "path": "PS2/SLUS_218.20/SLUS_218.20_COV.png",
+    "kind": "cover",
+    "bytes": 105646,
+    "width": 192,
+    "height": 272,
+    "sha256": "b5ef4a80b5d7f5ecff9cee0d15b1b90369deba7b65d5582aeee9bc9a39b538fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21820.jpg"
+    },
+    "gameId": "SLUS_218.20"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.20/SLUS_218.20_ICO.png",
+    "kind": "disc",
+    "bytes": 33285,
+    "width": 256,
+    "height": 256,
+    "sha256": "340f9930c88eeb71e0ae810efe9b868149e5ab005554bb45e0f3701122ea188b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.20_ICO.png"
+    },
+    "gameId": "SLUS_218.20"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.20/SLUS_218.20_BG.png",
+    "kind": "background",
+    "bytes": 178079,
+    "width": 640,
+    "height": 480,
+    "sha256": "687cb188fc8c91cdfc1e56101aeda651fbfe80faff19a7074b76321d1445a140",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.20/SLUS_218.20_BG_00.png"
+    },
+    "gameId": "SLUS_218.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.20/SLUS_218.20_BG.png",
+      "kind": "background",
+      "bytes": 178079,
+      "width": 640,
+      "height": 480,
+      "sha256": "687cb188fc8c91cdfc1e56101aeda651fbfe80faff19a7074b76321d1445a140",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.20/SLUS_218.20_BG_00.png"
+      },
+      "gameId": "SLUS_218.20"
+    },
+    {
+      "path": "PS2/SLUS_218.20/SLUS_218.20_BG_01.png",
+      "kind": "background",
+      "bytes": 220022,
+      "width": 640,
+      "height": 480,
+      "sha256": "edfa8827104d7922464b0d396beeb5121e6c5e2f22d1a63e41c46c96738b2b41",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.20/SLUS_218.20_BG_01.png"
+      },
+      "gameId": "SLUS_218.20"
+    },
+    {
+      "path": "PS2/SLUS_218.20/SLUS_218.20_BG_02.png",
+      "kind": "background",
+      "bytes": 200597,
+      "width": 640,
+      "height": 480,
+      "sha256": "1d89225a017e0721854ac07172a98242ab271997d5425bfe1281c9c0c48ee30a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.20/SLUS_218.20_BG_02.png"
+      },
+      "gameId": "SLUS_218.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Legend of Spyro: Dawn of the Dragon"
+}

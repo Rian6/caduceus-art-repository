@@ -1,0 +1,51 @@
+{
+  "id": "SLES_525.79",
+  "cover": {
+    "path": "PS2/SLES_525.79/SLES_525.79_COV.png",
+    "kind": "cover",
+    "bytes": 98383,
+    "width": 192,
+    "height": 272,
+    "sha256": "7da194b14574c75097626e33bc43b38d9e8b32ca70fe061801b5f45ae6caceff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52579.jpg"
+    },
+    "gameId": "SLES_525.79"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.79/SLES_525.79_BG.png",
+    "kind": "background",
+    "bytes": 176284,
+    "width": 640,
+    "height": 480,
+    "sha256": "74f3a0c519d3677b5872c90a146c241d330fd5557825f4133e45148b175177c5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.79/SLES_525.79_BG_00.png"
+    },
+    "gameId": "SLES_525.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.79/SLES_525.79_BG.png",
+      "kind": "background",
+      "bytes": 176284,
+      "width": 640,
+      "height": 480,
+      "sha256": "74f3a0c519d3677b5872c90a146c241d330fd5557825f4133e45148b175177c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.79/SLES_525.79_BG_00.png"
+      },
+      "gameId": "SLES_525.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Showdown - Legends of Wrestling"
+}

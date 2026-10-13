@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_510.04",
+  "cover": {
+    "path": "PS2/SCPS_510.04/SCPS_510.04_COV.png",
+    "kind": "cover",
+    "bytes": 90151,
+    "width": 192,
+    "height": 272,
+    "sha256": "26a18fbc03247d8c37d4d79430696a7cf5d7f58c4554de7627e44b306c7e84d1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-51004.jpg"
+    },
+    "gameId": "SCPS_510.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mad Maestro!"
+}

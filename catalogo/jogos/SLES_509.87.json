@@ -1,0 +1,64 @@
+{
+  "id": "SLES_509.87",
+  "cover": {
+    "path": "PS2/SLES_509.87/SLES_509.87_COV.png",
+    "kind": "cover",
+    "bytes": 81617,
+    "width": 192,
+    "height": 272,
+    "sha256": "12175c76868c1db972369483254b152b8d98ef2ea44d580884a03db9f3c706e9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50987.jpg"
+    },
+    "gameId": "SLES_509.87"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_509.87/SLES_509.87_BG.png",
+    "kind": "background",
+    "bytes": 122942,
+    "width": 640,
+    "height": 480,
+    "sha256": "a856d9a422c013b2b4521b508cb1cb32163c1a8fb557062189d1bc615bc2fc4d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_509.87/SLES_509.87_BG_00.png"
+    },
+    "gameId": "SLES_509.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_509.87/SLES_509.87_BG.png",
+      "kind": "background",
+      "bytes": 122942,
+      "width": 640,
+      "height": 480,
+      "sha256": "a856d9a422c013b2b4521b508cb1cb32163c1a8fb557062189d1bc615bc2fc4d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.87/SLES_509.87_BG_00.png"
+      },
+      "gameId": "SLES_509.87"
+    },
+    {
+      "path": "PS2/SLES_509.87/SLES_509.87_BG_01.png",
+      "kind": "background",
+      "bytes": 174027,
+      "width": 640,
+      "height": 480,
+      "sha256": "d91347cae15517c3f02eb4d76f15bfb70ce8b9853d1d640deef639c9e56d8246",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.87/SLES_509.87_BG_01.png"
+      },
+      "gameId": "SLES_509.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Scorpion King - Rise of the Akkadian"
+}

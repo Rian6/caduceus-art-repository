@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.46",
+  "cover": {
+    "path": "PS2/SLPM_669.46/SLPM_669.46_COV.png",
+    "kind": "cover",
+    "bytes": 80834,
+    "width": 192,
+    "height": 272,
+    "sha256": "b75cd9b19c9f34e3df043c33163e9fa7231fd37723ad0af63ab6ae135d7aaaf3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66946.jpg"
+    },
+    "gameId": "SLPM_669.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live '07 (EA Best Hits)"
+}

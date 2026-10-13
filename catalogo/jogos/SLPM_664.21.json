@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_664.21",
+  "cover": {
+    "path": "PS2/SLPM_664.21/SLPM_664.21_COV.png",
+    "kind": "cover",
+    "bytes": 69795,
+    "width": 192,
+    "height": 272,
+    "sha256": "5c265001325646561a0e5b7c6750f3e481b74373ccf4966f4cc393f4ee00de08",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66421.jpg"
+    },
+    "gameId": "SLPM_664.21"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_664.21/SLPM_664.21_BG.png",
+    "kind": "background",
+    "bytes": 110786,
+    "width": 640,
+    "height": 480,
+    "sha256": "60810b59378ba46222f4a7986bc61b1b2ce96aa4f097d312fa08be16f3a2bfd9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_664.21/SLPM_664.21_BG_00.png"
+    },
+    "gameId": "SLPM_664.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_664.21/SLPM_664.21_BG.png",
+      "kind": "background",
+      "bytes": 110786,
+      "width": 640,
+      "height": 480,
+      "sha256": "60810b59378ba46222f4a7986bc61b1b2ce96aa4f097d312fa08be16f3a2bfd9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_664.21/SLPM_664.21_BG_00.png"
+      },
+      "gameId": "SLPM_664.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Front Mission 5 - Scars of the War (Ultimate Hits)"
+}

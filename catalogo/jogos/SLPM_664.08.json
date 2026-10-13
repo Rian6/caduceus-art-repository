@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.08",
+  "cover": {
+    "path": "PS2/SLPM_664.08/SLPM_664.08_COV.png",
+    "kind": "cover",
+    "bytes": 113321,
+    "width": 192,
+    "height": 272,
+    "sha256": "61f96810ed72a0100bdb894ea82215885a792a91d327781693a44e0dca1c948d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66408.jpg"
+    },
+    "gameId": "SLPM_664.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TSUYO KISS - MIGHTY HEART"
+}

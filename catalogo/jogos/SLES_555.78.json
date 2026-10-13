@@ -1,0 +1,51 @@
+{
+  "id": "SLES_555.78",
+  "cover": {
+    "path": "PS2/SLES_555.78/SLES_555.78_COV.png",
+    "kind": "cover",
+    "bytes": 94947,
+    "width": 192,
+    "height": 272,
+    "sha256": "f31f4d829ba5532aec7a4ee3280c33b2a6983794e8c8d4fdf7f2d3fa09fb8599",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55578.jpg"
+    },
+    "gameId": "SLES_555.78"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_555.78/SLES_555.78_BG.png",
+    "kind": "background",
+    "bytes": 177487,
+    "width": 640,
+    "height": 480,
+    "sha256": "5de152ea78031204c82d8aea21e1e69f05aeb621cd932faedd86200bb25b2a3e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_555.78/SLES_555.78_BG_00.png"
+    },
+    "gameId": "SLES_555.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_555.78/SLES_555.78_BG.png",
+      "kind": "background",
+      "bytes": 177487,
+      "width": 640,
+      "height": 480,
+      "sha256": "5de152ea78031204c82d8aea21e1e69f05aeb621cd932faedd86200bb25b2a3e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.78/SLES_555.78_BG_00.png"
+      },
+      "gameId": "SLES_555.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Band Hero"
+}

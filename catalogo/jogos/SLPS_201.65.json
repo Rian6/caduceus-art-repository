@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.65",
+  "cover": {
+    "path": "PS2/SLPS_201.65/SLPS_201.65_COV.png",
+    "kind": "cover",
+    "bytes": 93217,
+    "width": 192,
+    "height": 272,
+    "sha256": "ba0f188d6f889a3c9262eef5e26d87600fd7af28e19270ad0154e0a1f134313e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20165.jpg"
+    },
+    "gameId": "SLPS_201.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LA PUCELLE [LIMITED EDITION]"
+}

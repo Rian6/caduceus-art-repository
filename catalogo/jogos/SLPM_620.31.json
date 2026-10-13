@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_620.31",
+  "cover": {
+    "path": "PS2/SLPM_620.31/SLPM_620.31_COV.png",
+    "kind": "cover",
+    "bytes": 89420,
+    "width": 192,
+    "height": 272,
+    "sha256": "356ae7afc456c3755e0dcd59e5230bb5565cb2f042e421c20da276a2dc6471a5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62031.jpg"
+    },
+    "gameId": "SLPM_620.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_620.31/SLPM_620.31_BG.png",
+    "kind": "background",
+    "bytes": 89986,
+    "width": 640,
+    "height": 480,
+    "sha256": "03096dc296266b924b62dfbea1ee08bf7b7398cdecd98083bb257266d26d5b27",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_620.31/SLPM_620.31_BG_00.png"
+    },
+    "gameId": "SLPM_620.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_620.31/SLPM_620.31_BG.png",
+      "kind": "background",
+      "bytes": 89986,
+      "width": 640,
+      "height": 480,
+      "sha256": "03096dc296266b924b62dfbea1ee08bf7b7398cdecd98083bb257266d26d5b27",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.31/SLPM_620.31_BG_00.png"
+      },
+      "gameId": "SLPM_620.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Primal Image For Printer"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_206.03",
+  "cover": {
+    "path": "PS2/SLUS_206.03/SLUS_206.03_COV.png",
+    "kind": "cover",
+    "bytes": 98361,
+    "width": 192,
+    "height": 272,
+    "sha256": "c9c556bbef85510794de4bd8df270b0aa20329f9365c60698ffb160ae5cd0ff8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20603.jpg"
+    },
+    "gameId": "SLUS_206.03"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.03/SLUS_206.03_ICO.png",
+    "kind": "disc",
+    "bytes": 34386,
+    "width": 256,
+    "height": 256,
+    "sha256": "b46cccdfdeb84415e966df9bd1a1567238be86157a2dedc9a796efb1d7325f4c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.03_ICO.png"
+    },
+    "gameId": "SLUS_206.03"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mary-Kate & Ashley - Sweet Sixteen - Licensed to Drive"
+}

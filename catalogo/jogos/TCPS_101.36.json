@@ -1,0 +1,25 @@
+{
+  "id": "TCPS_101.36",
+  "cover": {
+    "path": "PS2/TCPS_101.36/TCPS_101.36_COV.png",
+    "kind": "cover",
+    "bytes": 104267,
+    "width": 192,
+    "height": 272,
+    "sha256": "e8bd341f49f40b56b62a3d596d946bde77c12220114c098db70cc70e1a10de6e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/TCPS-10136.jpg"
+    },
+    "gameId": "TCPS_101.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PSYCHIC FORCE COMPLETE [LIMITED BOX]"
+}

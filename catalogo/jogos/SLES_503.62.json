@@ -1,0 +1,25 @@
+{
+  "id": "SLES_503.62",
+  "cover": {
+    "path": "PS2/SLES_503.62/SLES_503.62_COV.png",
+    "kind": "cover",
+    "bytes": 79176,
+    "width": 192,
+    "height": 272,
+    "sha256": "521758a8eda3aaa2bb0e08ddcf2302bf7b8a320d0b558646b46d007511750596",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50362.jpg"
+    },
+    "gameId": "SLES_503.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jonny Moseley Mad Trix"
+}

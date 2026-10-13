@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.03",
+  "cover": {
+    "path": "PS2/SLPS_204.03/SLPS_204.03_COV.png",
+    "kind": "cover",
+    "bytes": 98333,
+    "width": 192,
+    "height": 272,
+    "sha256": "3d900ff081559a3ef6ef35a9a857dca6d63ef8812712e04b49ece094f591faf1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20403.jpg"
+    },
+    "gameId": "SLPS_204.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shangai - Sangoku Pai Tatagi (Super Value 2000)"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SLES_540.02",
+  "cover": {
+    "path": "PS2/SLES_540.02/SLES_540.02_COV.png",
+    "kind": "cover",
+    "bytes": 105843,
+    "width": 192,
+    "height": 272,
+    "sha256": "6c6076f2ef475427653d6adb3c6087a622734cab4ef2b72c49717132635c6e25",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54002.jpg"
+    },
+    "gameId": "SLES_540.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_540.02/SLES_540.02_BG.png",
+    "kind": "background",
+    "bytes": 209851,
+    "width": 640,
+    "height": 480,
+    "sha256": "902ad365ae52576875b1aafa02f75f908446f7d0f1526c17b67716da3be61aa9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_540.02/SLES_540.02_BG_00.png"
+    },
+    "gameId": "SLES_540.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_540.02/SLES_540.02_BG.png",
+      "kind": "background",
+      "bytes": 209851,
+      "width": 640,
+      "height": 480,
+      "sha256": "902ad365ae52576875b1aafa02f75f908446f7d0f1526c17b67716da3be61aa9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.02/SLES_540.02_BG_00.png"
+      },
+      "gameId": "SLES_540.02"
+    },
+    {
+      "path": "PS2/SLES_540.02/SLES_540.02_BG_01.png",
+      "kind": "background",
+      "bytes": 184527,
+      "width": 640,
+      "height": 480,
+      "sha256": "51c3f23c2f51b69543529e3b09dc5f662c2516a89ac966efbdbf830eaf4d29c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.02/SLES_540.02_BG_01.png"
+      },
+      "gameId": "SLES_540.02"
+    },
+    {
+      "path": "PS2/SLES_540.02/SLES_540.02_BG_02.png",
+      "kind": "background",
+      "bytes": 189267,
+      "width": 640,
+      "height": 480,
+      "sha256": "7918d962e9d0344f2fd03d67e0ecc5f7c71165b35b8be34744a1c4e4589adeef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.02/SLES_540.02_BG_02.png"
+      },
+      "gameId": "SLES_540.02"
+    },
+    {
+      "path": "PS2/SLES_540.02/SLES_540.02_BG_03.png",
+      "kind": "background",
+      "bytes": 149883,
+      "width": 640,
+      "height": 480,
+      "sha256": "fbd524f33c0ee28118c6e61f662e92a0d4ee2a0589abff8c3382b2e687e93e0b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.02/SLES_540.02_BG_03.png"
+      },
+      "gameId": "SLES_540.02"
+    },
+    {
+      "path": "PS2/SLES_540.02/SLES_540.02_BG_04.png",
+      "kind": "background",
+      "bytes": 222708,
+      "width": 640,
+      "height": 480,
+      "sha256": "d706fcbc0d7f26d2dc204d46253bb0c97ca442c11266fa7606a6a3f8ba5324c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.02/SLES_540.02_BG_04.png"
+      },
+      "gameId": "SLES_540.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FLATOUT 2"
+}

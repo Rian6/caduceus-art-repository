@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.14",
+  "cover": {
+    "path": "PS2/SLPM_552.14/SLPM_552.14_COV.png",
+    "kind": "cover",
+    "bytes": 108632,
+    "width": 192,
+    "height": 272,
+    "sha256": "89b813b90532367a05f899274c272f37f989f63f35c3450300e7070688a9134e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55214.jpg"
+    },
+    "gameId": "SLPM_552.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HIIRO NO KAKERA - SHIN TAMAYORI HIME DENSHOU [LIMITED EDITION]"
+}

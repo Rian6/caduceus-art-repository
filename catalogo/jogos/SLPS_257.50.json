@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_257.50",
+  "cover": {
+    "path": "PS2/SLPS_257.50/SLPS_257.50_COV.png",
+    "kind": "cover",
+    "bytes": 102345,
+    "width": 192,
+    "height": 272,
+    "sha256": "c3a676fa01268459fc936a579002d06292137e5e7f5adb101aae1165dafd67c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25750.jpg"
+    },
+    "gameId": "SLPS_257.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_257.50/SLPS_257.50_BG.png",
+    "kind": "background",
+    "bytes": 157113,
+    "width": 640,
+    "height": 480,
+    "sha256": "abf92b0ddff7da39ccf2e0ef0f38a4e4c030fe89345574af18408682fb7cd167",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.50/SLPS_257.50_BG_00.png"
+    },
+    "gameId": "SLPS_257.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.50/SLPS_257.50_BG.png",
+      "kind": "background",
+      "bytes": 157113,
+      "width": 640,
+      "height": 480,
+      "sha256": "abf92b0ddff7da39ccf2e0ef0f38a4e4c030fe89345574af18408682fb7cd167",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.50/SLPS_257.50_BG_00.png"
+      },
+      "gameId": "SLPS_257.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Robot Taisen - Scramble Commander The 2nd"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_210.54",
+  "cover": {
+    "path": "PS2/SLUS_210.54/SLUS_210.54_COV.png",
+    "kind": "cover",
+    "bytes": 73008,
+    "width": 192,
+    "height": 272,
+    "sha256": "f4169f2bf42c372f79e33fab3555757187b6dd67e716a098e599b9b2eafccd02",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21054.jpg"
+    },
+    "gameId": "SLUS_210.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Treasure Planet (Classics)"
+}

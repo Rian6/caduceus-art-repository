@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.20",
+  "cover": {
+    "path": "PS2/SLPS_251.20/SLPS_251.20_COV.png",
+    "kind": "cover",
+    "bytes": 88226,
+    "width": 192,
+    "height": 272,
+    "sha256": "c6841052843d4b8a3cde8d6b92e85275d4c9d171a01429fb6f2f38b57fcf4475",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25120.jpg"
+    },
+    "gameId": "SLPS_251.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam Giren no Yabou - Zeon Dokuritsu Sensouden"
+}

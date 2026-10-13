@@ -1,0 +1,25 @@
+{
+  "id": "SLES_536.97",
+  "cover": {
+    "path": "PS2/SLES_536.97/SLES_536.97_COV.png",
+    "kind": "cover",
+    "bytes": 100086,
+    "width": 192,
+    "height": 272,
+    "sha256": "0f4cdb35b7679ece0623fa2e4a48c3573ac17f5906a0ac2c53e7ded5b72525f8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53697.jpg"
+    },
+    "gameId": "SLES_536.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nick Jr. Dora the Explorer: Journey to the Purple Planet"
+}

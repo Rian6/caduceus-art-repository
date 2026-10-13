@@ -1,0 +1,103 @@
+{
+  "id": "SLES_553.45",
+  "cover": {
+    "path": "PS2/SLES_553.45/SLES_553.45_COV.png",
+    "kind": "cover",
+    "bytes": 61606,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d2775357e20736c3be402f84d2f74ecd2d8e7e15724ef8a4db3ce0acd92b364",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55345.jpg"
+    },
+    "gameId": "SLES_553.45"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_553.45/SLES_553.45_BG.png",
+    "kind": "background",
+    "bytes": 157888,
+    "width": 640,
+    "height": 480,
+    "sha256": "e2e363fdc768caed540c22fdbb8ac7b8b370af412ac86eb96db2f4c7b8407dcb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.45/SLES_553.45_BG_00.png"
+    },
+    "gameId": "SLES_553.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_553.45/SLES_553.45_BG.png",
+      "kind": "background",
+      "bytes": 157888,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2e363fdc768caed540c22fdbb8ac7b8b370af412ac86eb96db2f4c7b8407dcb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.45/SLES_553.45_BG_00.png"
+      },
+      "gameId": "SLES_553.45"
+    },
+    {
+      "path": "PS2/SLES_553.45/SLES_553.45_BG_01.png",
+      "kind": "background",
+      "bytes": 132704,
+      "width": 640,
+      "height": 480,
+      "sha256": "2656238d7bfc8ebbba431c99bf8e38821fec8e3f032358db168a0796bd16d193",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.45/SLES_553.45_BG_01.png"
+      },
+      "gameId": "SLES_553.45"
+    },
+    {
+      "path": "PS2/SLES_553.45/SLES_553.45_BG_02.png",
+      "kind": "background",
+      "bytes": 143234,
+      "width": 640,
+      "height": 480,
+      "sha256": "8499af627e589aa8d126721b8d8c6235d3f4d4ca2043bdc594406e7eecd256c4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.45/SLES_553.45_BG_02.png"
+      },
+      "gameId": "SLES_553.45"
+    },
+    {
+      "path": "PS2/SLES_553.45/SLES_553.45_BG_03.png",
+      "kind": "background",
+      "bytes": 192175,
+      "width": 640,
+      "height": 480,
+      "sha256": "553075793e60ef3c1d96d1568504defe641fa1b7ac2b10bfaead97ac4e0094f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.45/SLES_553.45_BG_03.png"
+      },
+      "gameId": "SLES_553.45"
+    },
+    {
+      "path": "PS2/SLES_553.45/SLES_553.45_BG_04.png",
+      "kind": "background",
+      "bytes": 49802,
+      "width": 640,
+      "height": 480,
+      "sha256": "51d8014daaf2572ca5646773143900d5df674b42c50be8ed02db0f5971dded1c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.45/SLES_553.45_BG_04.png"
+      },
+      "gameId": "SLES_553.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007: Quantum of Solace"
+}

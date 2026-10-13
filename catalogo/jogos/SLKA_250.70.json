@@ -1,0 +1,64 @@
+{
+  "id": "SLKA_250.70",
+  "cover": {
+    "path": "PS2/SLKA_250.70/SLKA_250.70_COV.png",
+    "kind": "cover",
+    "bytes": 112770,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf326b964c4f996cfb1a773692c0987b6a5ae455ff544e3931d52f4c4909677e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25070.jpg"
+    },
+    "gameId": "SLKA_250.70"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_250.70/SLKA_250.70_BG.png",
+    "kind": "background",
+    "bytes": 78696,
+    "width": 640,
+    "height": 480,
+    "sha256": "06b1628596ec697e99fae685d6818b6177cc571d5f0e1554ad6cb02ccfe7a0fe",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.70/SLKA_250.70_BG_00.png"
+    },
+    "gameId": "SLKA_250.70"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_250.70/SLKA_250.70_BG.png",
+      "kind": "background",
+      "bytes": 78696,
+      "width": 640,
+      "height": 480,
+      "sha256": "06b1628596ec697e99fae685d6818b6177cc571d5f0e1554ad6cb02ccfe7a0fe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.70/SLKA_250.70_BG_00.png"
+      },
+      "gameId": "SLKA_250.70"
+    },
+    {
+      "path": "PS2/SLKA_250.70/SLKA_250.70_BG_01.png",
+      "kind": "background",
+      "bytes": 199858,
+      "width": 640,
+      "height": 480,
+      "sha256": "6f8b824677308fa477c40ec8459125a5a8abd6c4ec9ed16d9ebf7a5b227d0de2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.70/SLKA_250.70_BG_01.png"
+      },
+      "gameId": "SLKA_250.70"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guilty Gear XX #Reload: The Midnight Carnival"
+}

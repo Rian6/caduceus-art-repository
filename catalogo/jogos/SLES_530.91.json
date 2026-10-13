@@ -1,0 +1,64 @@
+{
+  "id": "SLES_530.91",
+  "cover": {
+    "path": "PS2/SLES_530.91/SLES_530.91_COV.png",
+    "kind": "cover",
+    "bytes": 92018,
+    "width": 192,
+    "height": 272,
+    "sha256": "12564548faf99579cf76ecd72c948006fba14f2f9a02d81390a2e2c63c7d0589",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53091.jpg"
+    },
+    "gameId": "SLES_530.91"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_530.91/SLES_530.91_BG.png",
+    "kind": "background",
+    "bytes": 238974,
+    "width": 640,
+    "height": 480,
+    "sha256": "afa281cae08b3187c1d47aa620d87842cc6fe7b4d9bf4a443f18b62b727fcede",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.91/SLES_530.91_BG_00.png"
+    },
+    "gameId": "SLES_530.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.91/SLES_530.91_BG.png",
+      "kind": "background",
+      "bytes": 238974,
+      "width": 640,
+      "height": 480,
+      "sha256": "afa281cae08b3187c1d47aa620d87842cc6fe7b4d9bf4a443f18b62b727fcede",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.91/SLES_530.91_BG_00.png"
+      },
+      "gameId": "SLES_530.91"
+    },
+    {
+      "path": "PS2/SLES_530.91/SLES_530.91_BG_01.png",
+      "kind": "background",
+      "bytes": 241694,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa3876f6523c6ef220f00ecaefe9737edf94c7a16775dbfd4a34eed9be2fafd8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.91/SLES_530.91_BG_01.png"
+      },
+      "gameId": "SLES_530.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PREDATOR - CONCRETE JUNGLE"
+}

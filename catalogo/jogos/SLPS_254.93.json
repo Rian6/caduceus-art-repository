@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.93",
+  "cover": {
+    "path": "PS2/SLPS_254.93/SLPS_254.93_COV.png",
+    "kind": "cover",
+    "bytes": 106200,
+    "width": 192,
+    "height": 272,
+    "sha256": "3d0251007a8832565ddb369e8e7db90218999927b2aa99878ec629d8845aabc9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25493.jpg"
+    },
+    "gameId": "SLPS_254.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Backyard Wrestling  2 - There Goes The Neightborhood"
+}

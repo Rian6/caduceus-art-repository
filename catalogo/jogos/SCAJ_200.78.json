@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.78",
+  "cover": {
+    "path": "PS2/SCAJ_200.78/SCAJ_200.78_COV.png",
+    "kind": "cover",
+    "bytes": 103644,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0e5eb4849d7fc871dbc0d3e4ccdb38005021a25efd48b7283d2914be17428ee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20078.jpg"
+    },
+    "gameId": "SCAJ_200.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KUON"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.93",
+  "cover": {
+    "path": "PS2/SLKA_251.93/SLKA_251.93_COV.png",
+    "kind": "cover",
+    "bytes": 66194,
+    "width": 192,
+    "height": 272,
+    "sha256": "022f80ab11642092dbd2bce7f3176b91f486e4d709ab220fe1729cb3cf4fbcbb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25193.jpg"
+    },
+    "gameId": "SLKA_251.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONIMUSHA 2 [BIG HIT VERSION]"
+}

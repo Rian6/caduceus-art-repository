@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_201.13",
+  "cover": {
+    "path": "PS2/SLUS_201.13/SLUS_201.13_COV.png",
+    "kind": "cover",
+    "bytes": 72103,
+    "width": 192,
+    "height": 272,
+    "sha256": "9c6a9b2828b2f36d770ce2dac10bc7cba9d15cb699dac01df0bcd13804b754b3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20113.jpg"
+    },
+    "gameId": "SLUS_201.13"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.13/SLUS_201.13_ICO.png",
+    "kind": "disc",
+    "bytes": 31897,
+    "width": 256,
+    "height": 256,
+    "sha256": "ee2eb7d465c798b41009d5b814304eb93072819d5f82438b13835e3b80b2dc5e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.13_ICO.png"
+    },
+    "gameId": "SLUS_201.13"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.13/SLUS_201.13_BG.png",
+    "kind": "background",
+    "bytes": 185458,
+    "width": 640,
+    "height": 480,
+    "sha256": "05ed38eaa64ebc230fa413bb5141e9b766c4c598c8e99c3fea0a4d1ad3a319bf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.13/SLUS_201.13_BG_00.png"
+    },
+    "gameId": "SLUS_201.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.13/SLUS_201.13_BG.png",
+      "kind": "background",
+      "bytes": 185458,
+      "width": 640,
+      "height": 480,
+      "sha256": "05ed38eaa64ebc230fa413bb5141e9b766c4c598c8e99c3fea0a4d1ad3a319bf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.13/SLUS_201.13_BG_00.png"
+      },
+      "gameId": "SLUS_201.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DRIVING EMOTION TYPE-S"
+}

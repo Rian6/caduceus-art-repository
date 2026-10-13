@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.44",
+  "cover": {
+    "path": "PS2/SLPS_251.44/SLPS_251.44_COV.png",
+    "kind": "cover",
+    "bytes": 90861,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf4b240c152d6059981edfba2b497ef42fbbc349436cac80ccf55793ccd635bb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25144.jpg"
+    },
+    "gameId": "SLPS_251.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEMORIAL SONG"
+}

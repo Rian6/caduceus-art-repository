@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.90",
+  "cover": {
+    "path": "PS2/SLPS_253.90/SLPS_253.90_COV.png",
+    "kind": "cover",
+    "bytes": 88255,
+    "width": 192,
+    "height": 272,
+    "sha256": "5c312f8ba2c83d7292a14a246679a07fd23c72244789c4790ac69a030978ce15",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25390.jpg"
+    },
+    "gameId": "SLPS_253.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLOVER HEART'S - LOOKING FOR HAPPINESS [LIMITED EDITION]"
+}

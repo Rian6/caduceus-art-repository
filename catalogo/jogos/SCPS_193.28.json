@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_193.28",
+  "cover": {
+    "path": "PS2/SCPS_193.28/SCPS_193.28_COV.png",
+    "kind": "cover",
+    "bytes": 91767,
+    "width": 192,
+    "height": 272,
+    "sha256": "0fe42759586141cbd9d94533cab614424f430200573549a5122e9a01dc6d9a2e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19328.jpg"
+    },
+    "gameId": "SCPS_193.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ratchet & Clank 4th - GiriGiri Ginga no Giga Battle (Playstation 2 The Best Reprint)"
+}

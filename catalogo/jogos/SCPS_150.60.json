@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.60",
+  "cover": {
+    "path": "PS2/SCPS_150.60/SCPS_150.60_COV.png",
+    "kind": "cover",
+    "bytes": 93298,
+    "width": 192,
+    "height": 272,
+    "sha256": "30ba062090d10b63461f8e85b7655063efb37f67bf0c025c9cd8cd8a01238d3d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15060.jpg"
+    },
+    "gameId": "SCPS_150.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KOUFUKU SOUSAKAN"
+}

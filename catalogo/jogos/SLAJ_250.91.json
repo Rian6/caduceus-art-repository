@@ -1,0 +1,64 @@
+{
+  "id": "SLAJ_250.91",
+  "cover": {
+    "path": "PS2/SLAJ_250.91/SLAJ_250.91_COV.png",
+    "kind": "cover",
+    "bytes": 90116,
+    "width": 192,
+    "height": 272,
+    "sha256": "0a1a468c60148817a17af96130973d79ebc15101dd9c77e34e60b39d87d9a2a3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25091.jpg"
+    },
+    "gameId": "SLAJ_250.91"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLAJ_250.91/SLAJ_250.91_BG.png",
+    "kind": "background",
+    "bytes": 125072,
+    "width": 640,
+    "height": 480,
+    "sha256": "0a0dccb5958be0a3668b0b64e6c635c85df3e729211a52d39e8a4e09f139a1f9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLAJ_250.91/SLAJ_250.91_BG_00.png"
+    },
+    "gameId": "SLAJ_250.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLAJ_250.91/SLAJ_250.91_BG.png",
+      "kind": "background",
+      "bytes": 125072,
+      "width": 640,
+      "height": 480,
+      "sha256": "0a0dccb5958be0a3668b0b64e6c635c85df3e729211a52d39e8a4e09f139a1f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.91/SLAJ_250.91_BG_00.png"
+      },
+      "gameId": "SLAJ_250.91"
+    },
+    {
+      "path": "PS2/SLAJ_250.91/SLAJ_250.91_BG_01.png",
+      "kind": "background",
+      "bytes": 200451,
+      "width": 640,
+      "height": 480,
+      "sha256": "0557da5ef5e0258bf3ae731ef1649b751cfc4226116c4df5f0e517c51a1f27b3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.91/SLAJ_250.91_BG_01.png"
+      },
+      "gameId": "SLAJ_250.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Need for Speed: Carbon: Collector's Edition"
+}

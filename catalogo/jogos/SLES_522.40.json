@@ -1,0 +1,51 @@
+{
+  "id": "SLES_522.40",
+  "cover": {
+    "path": "PS2/SLES_522.40/SLES_522.40_COV.png",
+    "kind": "cover",
+    "bytes": 72389,
+    "width": 192,
+    "height": 272,
+    "sha256": "a24c5b3dc8c8e9823cb6d5ae75009f142d60a56c1994592d823341cdd3e91525",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52240.jpg"
+    },
+    "gameId": "SLES_522.40"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_522.40/SLES_522.40_BG.png",
+    "kind": "background",
+    "bytes": 152207,
+    "width": 640,
+    "height": 480,
+    "sha256": "97d31992a9a5dc5b2bf5740284a541e4aa53b076e6f70acbbc8b80587cdef69e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_522.40/SLES_522.40_BG_00.png"
+    },
+    "gameId": "SLES_522.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_522.40/SLES_522.40_BG.png",
+      "kind": "background",
+      "bytes": 152207,
+      "width": 640,
+      "height": 480,
+      "sha256": "97d31992a9a5dc5b2bf5740284a541e4aa53b076e6f70acbbc8b80587cdef69e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.40/SLES_522.40_BG_00.png"
+      },
+      "gameId": "SLES_522.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "International Pool Championship"
+}

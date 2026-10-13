@@ -1,0 +1,194 @@
+{
+  "id": "SCPS_150.25",
+  "cover": {
+    "path": "PS2/SCPS_150.25/SCPS_150.25_COV.png",
+    "kind": "cover",
+    "bytes": 98164,
+    "width": 192,
+    "height": 272,
+    "sha256": "4fa572aebbf649fccfa4c58c33032c4489800f0c4b0e7a07dde1354626ed60dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15025.jpg"
+    },
+    "gameId": "SCPS_150.25"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.25/SCPS_150.25_BG.png",
+    "kind": "background",
+    "bytes": 18975,
+    "width": 640,
+    "height": 480,
+    "sha256": "83c2e40ab232f76570a738d391d447a65eacac5bcd2a1f31091e094c8dff7d04",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG_00.png"
+    },
+    "gameId": "SCPS_150.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG.png",
+      "kind": "background",
+      "bytes": 18975,
+      "width": 640,
+      "height": 480,
+      "sha256": "83c2e40ab232f76570a738d391d447a65eacac5bcd2a1f31091e094c8dff7d04",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.25/SCPS_150.25_BG_00.png"
+      },
+      "gameId": "SCPS_150.25"
+    },
+    {
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG_01.png",
+      "kind": "background",
+      "bytes": 156084,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d58eaed6f649df510a1c9222f8488c7a73a3706c4396dcd68b71c90b3b088ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.25/SCPS_150.25_BG_01.png"
+      },
+      "gameId": "SCPS_150.25"
+    },
+    {
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG_02.png",
+      "kind": "background",
+      "bytes": 156471,
+      "width": 640,
+      "height": 480,
+      "sha256": "9957f9f9120d793ec78a138971089933904e6a41500364c36bd843ff3d0bea85",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.25/SCPS_150.25_BG_02.png"
+      },
+      "gameId": "SCPS_150.25"
+    },
+    {
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG_03.png",
+      "kind": "background",
+      "bytes": 132609,
+      "width": 640,
+      "height": 480,
+      "sha256": "d87714bfe27398644b6e8181eb17aa200ba14f4a6fbc4ec276b07c4c8b185f4f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.25/SCPS_150.25_BG_03.png"
+      },
+      "gameId": "SCPS_150.25"
+    },
+    {
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG_04.png",
+      "kind": "background",
+      "bytes": 124659,
+      "width": 640,
+      "height": 480,
+      "sha256": "31f09351751169c3adc5150f06b29a790926c649862f09018ea0c203aa7a22b9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.25/SCPS_150.25_BG_04.png"
+      },
+      "gameId": "SCPS_150.25"
+    },
+    {
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG_05.png",
+      "kind": "background",
+      "bytes": 148271,
+      "width": 640,
+      "height": 480,
+      "sha256": "8117404ed3011dc0d9dcb19e3da34e19eb0e74b421eed48eb176725e46a8ff6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.25/SCPS_150.25_BG_05.png"
+      },
+      "gameId": "SCPS_150.25"
+    },
+    {
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG_06.png",
+      "kind": "background",
+      "bytes": 141328,
+      "width": 640,
+      "height": 480,
+      "sha256": "4ad20ce27333c069df9afea4289d4ca624f01c545da41ccd8d490ab90cbec5d4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.25/SCPS_150.25_BG_06.png"
+      },
+      "gameId": "SCPS_150.25"
+    },
+    {
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG_07.png",
+      "kind": "background",
+      "bytes": 153764,
+      "width": 640,
+      "height": 480,
+      "sha256": "835f65e5afd5e2b91cb072b20cb4c6346f40692c9c646435711d8f44897313d3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.25/SCPS_150.25_BG_07.png"
+      },
+      "gameId": "SCPS_150.25"
+    },
+    {
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG_08.png",
+      "kind": "background",
+      "bytes": 148910,
+      "width": 640,
+      "height": 480,
+      "sha256": "3199ec29fc5fede9f95623b045c637ae98cc1ed690714c88229000f0d4c2537d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.25/SCPS_150.25_BG_08.png"
+      },
+      "gameId": "SCPS_150.25"
+    },
+    {
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG_09.png",
+      "kind": "background",
+      "bytes": 105308,
+      "width": 640,
+      "height": 480,
+      "sha256": "370264c8ebc2e05edff2941a33df9efe8cb093fc204352f6241144093508f7bd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.25/SCPS_150.25_BG_09.png"
+      },
+      "gameId": "SCPS_150.25"
+    },
+    {
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG_10.png",
+      "kind": "background",
+      "bytes": 200051,
+      "width": 640,
+      "height": 480,
+      "sha256": "0b7ac807aef57ba63558bb5678e5f51174d996838a42fb657f4f50d25f280b61",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.25/SCPS_150.25_BG_10.png"
+      },
+      "gameId": "SCPS_150.25"
+    },
+    {
+      "path": "PS2/SCPS_150.25/SCPS_150.25_BG_11.png",
+      "kind": "background",
+      "bytes": 199372,
+      "width": 640,
+      "height": 480,
+      "sha256": "0b01204cf7f1e49d1defe401c0eeb467f18cdba97521b446e4c031b59bd528fb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.25/SCPS_150.25_BG_11.png"
+      },
+      "gameId": "SCPS_150.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saru! Get You! 2"
+}

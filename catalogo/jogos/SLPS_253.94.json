@@ -1,0 +1,65 @@
+{
+  "id": "SLPS_253.94",
+  "cover": {
+    "path": "PS2/SLPS_253.94/SLPS_253.94_COV.png",
+    "kind": "cover",
+    "bytes": 97736,
+    "width": 192,
+    "height": 272,
+    "sha256": "07a60e0d42db75c97b74f7b6f53b7bccbd7eca1fa94c1387e3a5102ee8227ad4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25394.jpg"
+    },
+    "gameId": "SLPS_253.94"
+  },
+  "disc": {
+    "path": "PS2/SLPS_253.94/SLPS_253.94_ICO.png",
+    "kind": "disc",
+    "bytes": 10430,
+    "width": 128,
+    "height": 128,
+    "sha256": "4001a330048aa17696e1dd01a86f8d5f356c9072ae58cd2dd0b732ce4aff57d0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_253.94_ICO.png"
+    },
+    "gameId": "SLPS_253.94"
+  },
+  "background": {
+    "path": "PS2/SLPS_253.94/SLPS_253.94_BG.png",
+    "kind": "background",
+    "bytes": 206166,
+    "width": 640,
+    "height": 480,
+    "sha256": "bcf139ad87dce1dc5d6a5b8bbaa25843031128320129b9c07923ca266d06359e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.94/SLPS_253.94_BG_00.png"
+    },
+    "gameId": "SLPS_253.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.94/SLPS_253.94_BG.png",
+      "kind": "background",
+      "bytes": 206166,
+      "width": 640,
+      "height": 480,
+      "sha256": "bcf139ad87dce1dc5d6a5b8bbaa25843031128320129b9c07923ca266d06359e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.94/SLPS_253.94_BG_00.png"
+      },
+      "gameId": "SLPS_253.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "A.C.E.: Another Century's Episode (PlayStation 2 the Best)"
+}

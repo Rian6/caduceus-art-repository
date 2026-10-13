@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.05",
+  "cover": {
+    "path": "PS2/SLAJ_250.05/SLAJ_250.05_COV.png",
+    "kind": "cover",
+    "bytes": 74440,
+    "width": 192,
+    "height": 272,
+    "sha256": "a1db3c8c8d7a057f054ee4f72d134c760bb700b904bbe731ad33f583922f2c55",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25005.jpg"
+    },
+    "gameId": "SLAJ_250.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 7"
+}

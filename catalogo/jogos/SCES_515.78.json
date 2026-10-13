@@ -1,0 +1,25 @@
+{
+  "id": "SCES_515.78",
+  "cover": {
+    "path": "PS2/SCES_515.78/SCES_515.78_COV.png",
+    "kind": "cover",
+    "bytes": 71702,
+    "width": 192,
+    "height": 272,
+    "sha256": "cf25b12d2ca3e6a6f58e9a640610843e389c7d86fcdac29b9582b7deb08bf629",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51578.jpg"
+    },
+    "gameId": "SCES_515.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Network Access Disc"
+}

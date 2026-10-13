@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.61",
+  "cover": {
+    "path": "PS2/SLPM_669.61/SLPM_669.61_COV.png",
+    "kind": "cover",
+    "bytes": 83808,
+    "width": 192,
+    "height": 272,
+    "sha256": "66298c668a8a00a5c02b380e85f6635a0d2e61b6f424244c21a9a98b4b04a94e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66961.jpg"
+    },
+    "gameId": "SLPM_669.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BLACK [EA:SY! 1980]"
+}

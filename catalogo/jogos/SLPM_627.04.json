@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.04",
+  "cover": {
+    "path": "PS2/SLPM_627.04/SLPM_627.04_COV.png",
+    "kind": "cover",
+    "bytes": 89800,
+    "width": 192,
+    "height": 272,
+    "sha256": "9c6c462dec0ed649cadb1c0454b19e5cb1f4eaa02bb3f1b7682bf632de5a9927",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62704.jpg"
+    },
+    "gameId": "SLPM_627.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Oretachi Game Center Zoku - Quarth"
+}

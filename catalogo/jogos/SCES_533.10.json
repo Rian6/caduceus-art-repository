@@ -1,0 +1,104 @@
+{
+  "id": "SCES_533.10",
+  "cover": {
+    "path": "PS2/SCES_533.10/SCES_533.10_COV.png",
+    "kind": "cover",
+    "bytes": 81127,
+    "width": 192,
+    "height": 272,
+    "sha256": "32436d92292baa087ea1eaeb9c94051002de32d879d7c17719f7ec1a78ab9896",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53310.jpg"
+    },
+    "gameId": "SCES_533.10"
+  },
+  "disc": {
+    "path": "PS2/SCES_533.10/SCES_533.10_ICO.png",
+    "kind": "disc",
+    "bytes": 10355,
+    "width": 128,
+    "height": 128,
+    "sha256": "08fcf96e36b78af597562134c1d78bcdcf207794afa60ef7f6e65fa4de4dfebc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_533.10_ICO.png"
+    },
+    "gameId": "SCES_533.10"
+  },
+  "background": {
+    "path": "PS2/SCES_533.10/SCES_533.10_BG.png",
+    "kind": "background",
+    "bytes": 140826,
+    "width": 640,
+    "height": 480,
+    "sha256": "7d16528ef0e37d6ac71cbdd92bef71fcbdbd9673e1d799d26442f3a09c993b24",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_533.10/SCES_533.10_BG_00.png"
+    },
+    "gameId": "SCES_533.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_533.10/SCES_533.10_BG.png",
+      "kind": "background",
+      "bytes": 140826,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d16528ef0e37d6ac71cbdd92bef71fcbdbd9673e1d799d26442f3a09c993b24",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.10/SCES_533.10_BG_00.png"
+      },
+      "gameId": "SCES_533.10"
+    },
+    {
+      "path": "PS2/SCES_533.10/SCES_533.10_BG_01.png",
+      "kind": "background",
+      "bytes": 148492,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1d2817a4328dfe4a92d4407cb5d4f51fd41ec5283b2e888f25f108248e665a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.10/SCES_533.10_BG_01.png"
+      },
+      "gameId": "SCES_533.10"
+    },
+    {
+      "path": "PS2/SCES_533.10/SCES_533.10_BG_02.png",
+      "kind": "background",
+      "bytes": 264577,
+      "width": 640,
+      "height": 480,
+      "sha256": "5dad32cdf3796764b20b4aede152372d20cbb1fd8ad74cd01e2124450fd0f52d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.10/SCES_533.10_BG_02.png"
+      },
+      "gameId": "SCES_533.10"
+    },
+    {
+      "path": "PS2/SCES_533.10/SCES_533.10_BG_03.png",
+      "kind": "background",
+      "bytes": 73873,
+      "width": 640,
+      "height": 480,
+      "sha256": "40cb6a09a34a7a818eaf1f24afb742b1ef8fb11f92ddd23a831fdf4d8121ca55",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_533.10/SCES_533.10_BG_03.png"
+      },
+      "gameId": "SCES_533.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Roland Garros 2005: Powered by Smash Court Tennis"
+}

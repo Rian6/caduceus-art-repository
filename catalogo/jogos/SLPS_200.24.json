@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.24",
+  "cover": {
+    "path": "PS2/SLPS_200.24/SLPS_200.24_COV.png",
+    "kind": "cover",
+    "bytes": 90289,
+    "width": 192,
+    "height": 272,
+    "sha256": "1a8a1e34ec14b36390cd907340677de27ba50f823594ea6eea7cdbbf038ec37b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20024.jpg"
+    },
+    "gameId": "SLPS_200.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HRESVELGR - FORMULA HIGHPOWERED"
+}

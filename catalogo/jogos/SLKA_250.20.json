@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.20",
+  "cover": {
+    "path": "PS2/SLKA_250.20/SLKA_250.20_COV.png",
+    "kind": "cover",
+    "bytes": 89470,
+    "width": 192,
+    "height": 272,
+    "sha256": "07335a068b99e871237175e42a9a215a0ed0b2cba936982c543dc270605bfb9a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25020.jpg"
+    },
+    "gameId": "SLKA_250.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Time Splitters 2"
+}

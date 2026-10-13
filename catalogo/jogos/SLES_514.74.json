@@ -1,0 +1,90 @@
+{
+  "id": "SLES_514.74",
+  "cover": {
+    "path": "PS2/SLES_514.74/SLES_514.74_COV.png",
+    "kind": "cover",
+    "bytes": 76487,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1cbc1623dfa81f58c6b200470f7eca3cee36363f982bc7242c130ff1e796194",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51474.jpg"
+    },
+    "gameId": "SLES_514.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_514.74/SLES_514.74_BG.png",
+    "kind": "background",
+    "bytes": 94642,
+    "width": 640,
+    "height": 480,
+    "sha256": "09a9f96dd9872a897b2d4ca39fc945397530de901864f53dcf40bb6bcf02080f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_514.74/SLES_514.74_BG_00.png"
+    },
+    "gameId": "SLES_514.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_514.74/SLES_514.74_BG.png",
+      "kind": "background",
+      "bytes": 94642,
+      "width": 640,
+      "height": 480,
+      "sha256": "09a9f96dd9872a897b2d4ca39fc945397530de901864f53dcf40bb6bcf02080f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.74/SLES_514.74_BG_00.png"
+      },
+      "gameId": "SLES_514.74"
+    },
+    {
+      "path": "PS2/SLES_514.74/SLES_514.74_BG_01.png",
+      "kind": "background",
+      "bytes": 237856,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1d71a3cba96b655e485ffc77761ea6e065afa3216301424f68c1ac070781a2e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.74/SLES_514.74_BG_01.png"
+      },
+      "gameId": "SLES_514.74"
+    },
+    {
+      "path": "PS2/SLES_514.74/SLES_514.74_BG_02.png",
+      "kind": "background",
+      "bytes": 82584,
+      "width": 640,
+      "height": 480,
+      "sha256": "1e24dc3a9455e9a462469145eef84f784241225548cdf1ac569f24966a1615ad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.74/SLES_514.74_BG_02.png"
+      },
+      "gameId": "SLES_514.74"
+    },
+    {
+      "path": "PS2/SLES_514.74/SLES_514.74_BG_03.png",
+      "kind": "background",
+      "bytes": 136882,
+      "width": 640,
+      "height": 480,
+      "sha256": "235253ba780fc490223cc9bc55e7050fd2c62a541a798d0fd7894ab647f1a916",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.74/SLES_514.74_BG_03.png"
+      },
+      "gameId": "SLES_514.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BloodRayne"
+}

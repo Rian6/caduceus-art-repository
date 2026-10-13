@@ -1,0 +1,103 @@
+{
+  "id": "SLES_542.55",
+  "cover": {
+    "path": "PS2/SLES_542.55/SLES_542.55_COV.png",
+    "kind": "cover",
+    "bytes": 76631,
+    "width": 192,
+    "height": 272,
+    "sha256": "f04eaa7851ab785b621b4a7ebae178278992ae0ebcf6bd33833b6a1200977e7d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54255.jpg"
+    },
+    "gameId": "SLES_542.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_542.55/SLES_542.55_BG.png",
+    "kind": "background",
+    "bytes": 213423,
+    "width": 640,
+    "height": 480,
+    "sha256": "ed77f3075e071effe8642d11e9e6d5464a40457d77c57f9a36e0d662a7696e8d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_542.55/SLES_542.55_BG_00.png"
+    },
+    "gameId": "SLES_542.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_542.55/SLES_542.55_BG.png",
+      "kind": "background",
+      "bytes": 213423,
+      "width": 640,
+      "height": 480,
+      "sha256": "ed77f3075e071effe8642d11e9e6d5464a40457d77c57f9a36e0d662a7696e8d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.55/SLES_542.55_BG_00.png"
+      },
+      "gameId": "SLES_542.55"
+    },
+    {
+      "path": "PS2/SLES_542.55/SLES_542.55_BG_01.png",
+      "kind": "background",
+      "bytes": 92668,
+      "width": 640,
+      "height": 480,
+      "sha256": "944d021af2e22c262e91e5c9c9e557f33cf64dadad8ada7f18aa8ab3250e5134",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.55/SLES_542.55_BG_01.png"
+      },
+      "gameId": "SLES_542.55"
+    },
+    {
+      "path": "PS2/SLES_542.55/SLES_542.55_BG_02.png",
+      "kind": "background",
+      "bytes": 140109,
+      "width": 640,
+      "height": 480,
+      "sha256": "be280aec57bca47b2fd0c63c3d352661a8819cd593619c62d1a0afc8aead3c39",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.55/SLES_542.55_BG_02.png"
+      },
+      "gameId": "SLES_542.55"
+    },
+    {
+      "path": "PS2/SLES_542.55/SLES_542.55_BG_03.png",
+      "kind": "background",
+      "bytes": 107967,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d6448d95330cc961e331d6bb822e403023b9014d94531b00fe0e17ccc794a0f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.55/SLES_542.55_BG_03.png"
+      },
+      "gameId": "SLES_542.55"
+    },
+    {
+      "path": "PS2/SLES_542.55/SLES_542.55_BG_04.png",
+      "kind": "background",
+      "bytes": 178827,
+      "width": 640,
+      "height": 480,
+      "sha256": "aaaf6e233cf8f265f7894ca6bfa0ca856b5ac7483c1f8e109be2ddbddb7c6609",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.55/SLES_542.55_BG_04.png"
+      },
+      "gameId": "SLES_542.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters - Maximum Impact 2"
+}

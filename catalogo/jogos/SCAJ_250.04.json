@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_250.04",
+  "cover": {
+    "path": "PS2/SCAJ_250.04/SCAJ_250.04_COV.png",
+    "kind": "cover",
+    "bytes": 80091,
+    "width": 192,
+    "height": 272,
+    "sha256": "6f0bec2a1918b3c1c1a6914f48be8cdccf30b42cc4afd930e04d0a098977afeb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-25004.jpg"
+    },
+    "gameId": "SCAJ_250.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KINGDOM HEARTS - FINAL MIX"
+}

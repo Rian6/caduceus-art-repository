@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.82",
+  "cover": {
+    "path": "PS2/SLPM_621.82/SLPM_621.82_COV.png",
+    "kind": "cover",
+    "bytes": 76758,
+    "width": 192,
+    "height": 272,
+    "sha256": "418af4f979bb3accbd962746cd495b132e06972ddbf533a92887a3eb8e17b82a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62182.jpg"
+    },
+    "gameId": "SLPM_621.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Top Gun - Ace of the Sky"
+}

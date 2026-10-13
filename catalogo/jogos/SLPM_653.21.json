@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.21",
+  "cover": {
+    "path": "PS2/SLPM_653.21/SLPM_653.21_COV.png",
+    "kind": "cover",
+    "bytes": 64740,
+    "width": 192,
+    "height": 272,
+    "sha256": "b20dfd77a1149e6c44133a6440cab96772f0bfb0482e4704780d6f72d63e3abc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_653.21/SLPM_653.21_COV.png"
+    },
+    "gameId": "SLPM_653.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tennis no Oujisama: Smash Hit!"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_213.81",
+  "cover": {
+    "path": "PS2/SLUS_213.81/SLUS_213.81_COV.png",
+    "kind": "cover",
+    "bytes": 93687,
+    "width": 192,
+    "height": 272,
+    "sha256": "7431a17c9c6136fe0050438238a1691f731bf0039dd15858f602e2ae53f99ad8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21381.jpg"
+    },
+    "gameId": "SLUS_213.81"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.81/SLUS_213.81_ICO.png",
+    "kind": "disc",
+    "bytes": 34787,
+    "width": 256,
+    "height": 256,
+    "sha256": "82b47be22df905d5da1a09acaf40614ad07b3d9eff087eccf1335a91601b897e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.81_ICO.png"
+    },
+    "gameId": "SLUS_213.81"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.81/SLUS_213.81_BG.png",
+    "kind": "background",
+    "bytes": 145324,
+    "width": 640,
+    "height": 480,
+    "sha256": "755ccf70102c3f30d4dc74408bb187e3e1c4f37e154c3a198d05b592e262edb2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.81/SLUS_213.81_BG_00.png"
+    },
+    "gameId": "SLUS_213.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.81/SLUS_213.81_BG.png",
+      "kind": "background",
+      "bytes": 145324,
+      "width": 640,
+      "height": 480,
+      "sha256": "755ccf70102c3f30d4dc74408bb187e3e1c4f37e154c3a198d05b592e262edb2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.81/SLUS_213.81_BG_00.png"
+      },
+      "gameId": "SLUS_213.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bode Miller Alpine Skiing"
+}

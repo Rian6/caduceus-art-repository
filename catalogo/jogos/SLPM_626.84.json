@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.84",
+  "cover": {
+    "path": "PS2/SLPM_626.84/SLPM_626.84_COV.png",
+    "kind": "cover",
+    "bytes": 99529,
+    "width": 192,
+    "height": 272,
+    "sha256": "8bb9b25e90cbd4b5a73fbee3ee597850d97f37f489f25a32bf5dd62067dccd3f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62684.jpg"
+    },
+    "gameId": "SLPM_626.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Toudai Shogi - Jouseki Dojo Kanketsuhen (Mycom The Best)"
+}

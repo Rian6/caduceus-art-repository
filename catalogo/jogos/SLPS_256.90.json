@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_256.90",
+  "cover": {
+    "path": "PS2/SLPS_256.90/SLPS_256.90_COV.png",
+    "kind": "cover",
+    "bytes": 115531,
+    "width": 192,
+    "height": 272,
+    "sha256": "f58468b2fa7b5fa97b067851bc7067ee51772694f1cacf85290e3498e75c63a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25690.jpg"
+    },
+    "gameId": "SLPS_256.90"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.90/SLPS_256.90_BG.png",
+    "kind": "background",
+    "bytes": 169699,
+    "width": 640,
+    "height": 480,
+    "sha256": "f54aea6b8c7a1f5629016b89418427c6db433547b0cb3ebf90c87f11d1aa7cb4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.90/SLPS_256.90_BG_00.png"
+    },
+    "gameId": "SLPS_256.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.90/SLPS_256.90_BG.png",
+      "kind": "background",
+      "bytes": 169699,
+      "width": 640,
+      "height": 480,
+      "sha256": "f54aea6b8c7a1f5629016b89418427c6db433547b0cb3ebf90c87f11d1aa7cb4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.90/SLPS_256.90_BG_00.png"
+      },
+      "gameId": "SLPS_256.90"
+    },
+    {
+      "path": "PS2/SLPS_256.90/SLPS_256.90_BG_01.png",
+      "kind": "background",
+      "bytes": 174259,
+      "width": 640,
+      "height": 480,
+      "sha256": "6450bdb56c4c308a52499fbf602753ad7f7240f0dfc068bbb503490317873609",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.90/SLPS_256.90_BG_01.png"
+      },
+      "gameId": "SLPS_256.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Ball Z - Sparkiing! NEO"
+}

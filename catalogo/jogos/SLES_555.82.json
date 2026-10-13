@@ -1,0 +1,90 @@
+{
+  "id": "SLES_555.82",
+  "cover": {
+    "path": "PS2/SLES_555.82/SLES_555.82_COV.png",
+    "kind": "cover",
+    "bytes": 90146,
+    "width": 192,
+    "height": 272,
+    "sha256": "b007e6edc8ebbbabc52ac17a31a292a72a37cf2291f7039c93cc00b2e9ad0d20",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55582.jpg"
+    },
+    "gameId": "SLES_555.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_555.82/SLES_555.82_BG.png",
+    "kind": "background",
+    "bytes": 165059,
+    "width": 640,
+    "height": 480,
+    "sha256": "8eba97a67b6efe9e3bb376aed1f47f949bb6efb179cee7ad40e262e771fd5a5e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_555.82/SLES_555.82_BG_00.png"
+    },
+    "gameId": "SLES_555.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_555.82/SLES_555.82_BG.png",
+      "kind": "background",
+      "bytes": 165059,
+      "width": 640,
+      "height": 480,
+      "sha256": "8eba97a67b6efe9e3bb376aed1f47f949bb6efb179cee7ad40e262e771fd5a5e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.82/SLES_555.82_BG_00.png"
+      },
+      "gameId": "SLES_555.82"
+    },
+    {
+      "path": "PS2/SLES_555.82/SLES_555.82_BG_01.png",
+      "kind": "background",
+      "bytes": 137156,
+      "width": 640,
+      "height": 480,
+      "sha256": "3da395695e8e199d98f8d30b465e0dcb5dc2c1c13614547bdca1cfef61f2f3cc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.82/SLES_555.82_BG_01.png"
+      },
+      "gameId": "SLES_555.82"
+    },
+    {
+      "path": "PS2/SLES_555.82/SLES_555.82_BG_02.png",
+      "kind": "background",
+      "bytes": 188770,
+      "width": 640,
+      "height": 480,
+      "sha256": "a690d9542cc73cf3988d64a9198737d68e6a6ad7ec5073f63269d18193120c3e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.82/SLES_555.82_BG_02.png"
+      },
+      "gameId": "SLES_555.82"
+    },
+    {
+      "path": "PS2/SLES_555.82/SLES_555.82_BG_03.png",
+      "kind": "background",
+      "bytes": 186652,
+      "width": 640,
+      "height": 480,
+      "sha256": "9445a8f3cc8975b67554b0ee70ae13dcbd16197c2602f31b3baaaf0db8f5aafd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_555.82/SLES_555.82_BG_03.png"
+      },
+      "gameId": "SLES_555.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA 10"
+}

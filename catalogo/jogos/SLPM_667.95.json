@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.95",
+  "cover": {
+    "path": "PS2/SLPM_667.95/SLPM_667.95_COV.png",
+    "kind": "cover",
+    "bytes": 40113,
+    "width": 192,
+    "height": 272,
+    "sha256": "d02ac5e7d54566e536ed7902e6dc3578b9ae00c5580ee8a45bb9aabf55758d09",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_667.95/SLPM_667.95_COV.png"
+    },
+    "gameId": "SLPM_667.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Metal Gear & Metal Gear 2: Solid Snake"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.31",
+  "cover": {
+    "path": "PS2/SLPM_665.31/SLPM_665.31_COV.png",
+    "kind": "cover",
+    "bytes": 100941,
+    "width": 192,
+    "height": 272,
+    "sha256": "91f605ae1bbc2c95a2b58869cd0ace44fcb78fd85db8433c6f3a20df7e806e78",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66531.jpg"
+    },
+    "gameId": "SLPM_665.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MIZU NO SENRITSU 2 - HI NO KIOKU [LIMITED EDITION]"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_206.33",
+  "cover": {
+    "path": "PS2/SLUS_206.33/SLUS_206.33_COV.png",
+    "kind": "cover",
+    "bytes": 96605,
+    "width": 192,
+    "height": 272,
+    "sha256": "4d681a65f6a4ef1bd806deb95e9f159748958bd59a4c8943782aec3c8d278c41",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20633.jpg"
+    },
+    "gameId": "SLUS_206.33"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.33/SLUS_206.33_ICO.png",
+    "kind": "disc",
+    "bytes": 35265,
+    "width": 256,
+    "height": 256,
+    "sha256": "e4ec1ab56e26a425534cafe109bcd73f57aa7496c890bd17caed2aefd332f372",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.33_ICO.png"
+    },
+    "gameId": "SLUS_206.33"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.33/SLUS_206.33_BG.png",
+    "kind": "background",
+    "bytes": 177099,
+    "width": 640,
+    "height": 480,
+    "sha256": "e2b4e900c01a5e67de323da02d3769d68a3d0f3ec4761b81e222f2bca5639549",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.33/SLUS_206.33_BG_00.png"
+    },
+    "gameId": "SLUS_206.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.33/SLUS_206.33_BG.png",
+      "kind": "background",
+      "bytes": 177099,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2b4e900c01a5e67de323da02d3769d68a3d0f3ec4761b81e222f2bca5639549",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.33/SLUS_206.33_BG_00.png"
+      },
+      "gameId": "SLUS_206.33"
+    },
+    {
+      "path": "PS2/SLUS_206.33/SLUS_206.33_BG_01.png",
+      "kind": "background",
+      "bytes": 184052,
+      "width": 640,
+      "height": 480,
+      "sha256": "5f02dd0c89ee7c6fb2102016d43efbd29909d315af4627d0c6b29f98825a0557",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.33/SLUS_206.33_BG_01.png"
+      },
+      "gameId": "SLUS_206.33"
+    },
+    {
+      "path": "PS2/SLUS_206.33/SLUS_206.33_BG_02.png",
+      "kind": "background",
+      "bytes": 110593,
+      "width": 640,
+      "height": 480,
+      "sha256": "7a227edfaebe075039cd42ca8cee13920f2a23d3b4addadc705d2ef8aae6a41c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.33/SLUS_206.33_BG_02.png"
+      },
+      "gameId": "SLUS_206.33"
+    },
+    {
+      "path": "PS2/SLUS_206.33/SLUS_206.33_BG_03.png",
+      "kind": "background",
+      "bytes": 186777,
+      "width": 640,
+      "height": 480,
+      "sha256": "ecafc31881e5fefb57b0294786a4abc8db96889b8bfae9b8edad7fca0b04bd08",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.33/SLUS_206.33_BG_03.png"
+      },
+      "gameId": "SLUS_206.33"
+    },
+    {
+      "path": "PS2/SLUS_206.33/SLUS_206.33_BG_04.png",
+      "kind": "background",
+      "bytes": 202397,
+      "width": 640,
+      "height": 480,
+      "sha256": "13cf5f7d11738364877fa4d22417f92116743171f1666770f8c4c6a8fbf3459c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.33/SLUS_206.33_BG_04.png"
+      },
+      "gameId": "SLUS_206.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLOCK TOWER 3"
+}

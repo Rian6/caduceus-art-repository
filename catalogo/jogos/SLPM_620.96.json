@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.96",
+  "cover": {
+    "path": "PS2/SLPM_620.96/SLPM_620.96_COV.png",
+    "kind": "cover",
+    "bytes": 91013,
+    "width": 192,
+    "height": 272,
+    "sha256": "8fa89c004a000773aa6ec904651f4abf81650a191ff500c6085a91a8f2d34634",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62096.jpg"
+    },
+    "gameId": "SLPM_620.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FLYING CIRCUS"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.49",
+  "cover": {
+    "path": "PS2/SLPS_204.49/SLPS_204.49_COV.png",
+    "kind": "cover",
+    "bytes": 108201,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf861a558e2b29c8bf46aec80a58acb7b08b42bb33fe78647d127e108c145f19",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20449.jpg"
+    },
+    "gameId": "SLPS_204.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAMEN RIDER HIBIKI"
+}

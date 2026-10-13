@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_730.05",
+  "cover": {
+    "path": "PS2/SLPS_730.05/SLPS_730.05_COV.png",
+    "kind": "cover",
+    "bytes": 87225,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c58435d7e0f2f1bdefcf216bab4f44685a82cad68434067ddcfdef78f73999f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73005.jpg"
+    },
+    "gameId": "SLPS_730.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUILTY GEAR X PLUS [PLAYSTATION 2 THE BEST]"
+}

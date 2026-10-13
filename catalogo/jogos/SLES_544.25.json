@@ -1,0 +1,64 @@
+{
+  "id": "SLES_544.25",
+  "cover": {
+    "path": "PS2/SLES_544.25/SLES_544.25_COV.png",
+    "kind": "cover",
+    "bytes": 68024,
+    "width": 192,
+    "height": 272,
+    "sha256": "22b3c3b330c7893e14180d842e7a22425b1a31ed33b84a8ab109a9767831410e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54425.jpg"
+    },
+    "gameId": "SLES_544.25"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_544.25/SLES_544.25_BG.png",
+    "kind": "background",
+    "bytes": 156518,
+    "width": 640,
+    "height": 480,
+    "sha256": "24eacb202862a4bec64c20660dea914ec7c4ec1aa1fa6056728a3e9c6749fe28",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.25/SLES_544.25_BG_00.png"
+    },
+    "gameId": "SLES_544.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.25/SLES_544.25_BG.png",
+      "kind": "background",
+      "bytes": 156518,
+      "width": 640,
+      "height": 480,
+      "sha256": "24eacb202862a4bec64c20660dea914ec7c4ec1aa1fa6056728a3e9c6749fe28",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.25/SLES_544.25_BG_00.png"
+      },
+      "gameId": "SLES_544.25"
+    },
+    {
+      "path": "PS2/SLES_544.25/SLES_544.25_BG_01.png",
+      "kind": "background",
+      "bytes": 174579,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d57fb9cb28cd3400420ed47fd6b1d0c25bb240bd420bb212b402a31a0838bc8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.25/SLES_544.25_BG_01.png"
+      },
+      "gameId": "SLES_544.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Babe"
+}

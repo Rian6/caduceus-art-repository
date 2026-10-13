@@ -1,0 +1,65 @@
+{
+  "id": "SLES_512.49",
+  "cover": {
+    "path": "PS2/SLES_512.49/SLES_512.49_COV.png",
+    "kind": "cover",
+    "bytes": 102486,
+    "width": 192,
+    "height": 272,
+    "sha256": "307cf6d42c5c2bed60198808b353d851478aeaca7d8b17f18fe6c4875e1c7203",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51249.jpg"
+    },
+    "gameId": "SLES_512.49"
+  },
+  "disc": {
+    "path": "PS2/SLES_512.49/SLES_512.49_ICO.png",
+    "kind": "disc",
+    "bytes": 11796,
+    "width": 128,
+    "height": 128,
+    "sha256": "9c4d1ff0e5120ef23529b8c30b6051e9283c91795ef05b5a55af0f9e85e81670",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_512.49_ICO.png"
+    },
+    "gameId": "SLES_512.49"
+  },
+  "background": {
+    "path": "PS2/SLES_512.49/SLES_512.49_BG.png",
+    "kind": "background",
+    "bytes": 180029,
+    "width": 640,
+    "height": 480,
+    "sha256": "b240827329b761fce22020c22f183a698904286b6139570a2bc74763b0790dc5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_512.49/SLES_512.49_BG_00.png"
+    },
+    "gameId": "SLES_512.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_512.49/SLES_512.49_BG.png",
+      "kind": "background",
+      "bytes": 180029,
+      "width": 640,
+      "height": 480,
+      "sha256": "b240827329b761fce22020c22f183a698904286b6139570a2bc74763b0790dc5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.49/SLES_512.49_BG_00.png"
+      },
+      "gameId": "SLES_512.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Castleween"
+}

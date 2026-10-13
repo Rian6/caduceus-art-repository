@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.61",
+  "cover": {
+    "path": "PS2/SLPM_668.61/SLPM_668.61_COV.png",
+    "kind": "cover",
+    "bytes": 102265,
+    "width": 192,
+    "height": 272,
+    "sha256": "f8fb04f9d6d5e5aeee5957b25a03022a858d75fea55848b9796aa6fdad98d2b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66861.jpg"
+    },
+    "gameId": "SLPM_668.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NETTAI TEIKIATSU SHOUJO"
+}

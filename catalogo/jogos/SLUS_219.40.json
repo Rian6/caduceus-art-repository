@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_219.40",
+  "cover": {
+    "path": "PS2/SLUS_219.40/SLUS_219.40_COV.png",
+    "kind": "cover",
+    "bytes": 109500,
+    "width": 192,
+    "height": 272,
+    "sha256": "cc47a3dc416592c0331e0947f7b1d965438f509edb59cb82c40ba5e2945fa063",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21940.jpg"
+    },
+    "gameId": "SLUS_219.40"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.40/SLUS_219.40_ICO.png",
+    "kind": "disc",
+    "bytes": 37413,
+    "width": 256,
+    "height": 256,
+    "sha256": "c6563486bc8a0693244cdaed205536803ddc2422a42b54f8f29f8f0675313b21",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_219.40_ICO.png"
+    },
+    "gameId": "SLUS_219.40"
+  },
+  "background": {
+    "path": "PS2/SLUS_219.40/SLUS_219.40_BG.png",
+    "kind": "background",
+    "bytes": 194195,
+    "width": 640,
+    "height": 480,
+    "sha256": "28a66fe73834b045c78df1bce56849b052b9745122f8975f9fdbeb59ec44c0a5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_219.40/SLUS_219.40_BG_00.png"
+    },
+    "gameId": "SLUS_219.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_219.40/SLUS_219.40_BG.png",
+      "kind": "background",
+      "bytes": 194195,
+      "width": 640,
+      "height": 480,
+      "sha256": "28a66fe73834b045c78df1bce56849b052b9745122f8975f9fdbeb59ec44c0a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.40/SLUS_219.40_BG_00.png"
+      },
+      "gameId": "SLUS_219.40"
+    },
+    {
+      "path": "PS2/SLUS_219.40/SLUS_219.40_BG_01.png",
+      "kind": "background",
+      "bytes": 182406,
+      "width": 640,
+      "height": 480,
+      "sha256": "360d864b5e8e55d1dcafa6090d8d3c153cebdad41e9c2dabf8bd2481bbb5e1c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.40/SLUS_219.40_BG_01.png"
+      },
+      "gameId": "SLUS_219.40"
+    },
+    {
+      "path": "PS2/SLUS_219.40/SLUS_219.40_BG_02.png",
+      "kind": "background",
+      "bytes": 209105,
+      "width": 640,
+      "height": 480,
+      "sha256": "b52dd2aee479b2b8f5a9ad5c662c1549baa7496556a14daa918713230a85246c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.40/SLUS_219.40_BG_02.png"
+      },
+      "gameId": "SLUS_219.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WWE ALL STARS"
+}

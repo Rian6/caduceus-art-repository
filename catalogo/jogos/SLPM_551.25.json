@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.25",
+  "cover": {
+    "path": "PS2/SLPM_551.25/SLPM_551.25_COV.png",
+    "kind": "cover",
+    "bytes": 109919,
+    "width": 192,
+    "height": 272,
+    "sha256": "7c3b157ff0c0b1d71871d7250a990f70a76cf4dd0bbe37195926633990b505e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55125.jpg"
+    },
+    "gameId": "SLPM_551.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAKARENA HEART [RUSSEL GAMES BEST]"
+}

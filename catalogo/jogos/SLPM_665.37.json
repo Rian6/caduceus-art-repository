@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.37",
+  "cover": {
+    "path": "PS2/SLPM_665.37/SLPM_665.37_COV.png",
+    "kind": "cover",
+    "bytes": 100266,
+    "width": 192,
+    "height": 272,
+    "sha256": "22bff2413b157d6a814eaa35d68866cce468d5e2c38dc8f5a7110d6d348decc8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66537.jpg"
+    },
+    "gameId": "SLPM_665.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Atelier Iris - Eternal Mana 2 (Gust Best Prize)"
+}

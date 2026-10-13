@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.54",
+  "cover": {
+    "path": "PS2/SLPM_657.54/SLPM_657.54_COV.png",
+    "kind": "cover",
+    "bytes": 86895,
+    "width": 192,
+    "height": 272,
+    "sha256": "e945634d38ea64acc79b4fe6345fdc90071131076dc296aef7b41b8bbe4a9714",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65754.jpg"
+    },
+    "gameId": "SLPM_657.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL GEAR SOLID 2 - SONS OF LIBERTY [KONAMI DENDOU COLLECTION]"
+}

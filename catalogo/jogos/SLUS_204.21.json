@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_204.21",
+  "cover": {
+    "path": "PS2/SLUS_204.21/SLUS_204.21_COV.png",
+    "kind": "cover",
+    "bytes": 94136,
+    "width": 192,
+    "height": 272,
+    "sha256": "1e08c5bdf400fc173c0474da1174b08cf3dba72f1308e668e15a63d9bc4eefed",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20421.jpg"
+    },
+    "gameId": "SLUS_204.21"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.21/SLUS_204.21_ICO.png",
+    "kind": "disc",
+    "bytes": 32527,
+    "width": 256,
+    "height": 256,
+    "sha256": "c0d2ec602874bd14fae426f2e547b5d9638debe3c17c4f08ddf892d493ebaf97",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.21_ICO.png"
+    },
+    "gameId": "SLUS_204.21"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.21/SLUS_204.21_BG.png",
+    "kind": "background",
+    "bytes": 187977,
+    "width": 640,
+    "height": 480,
+    "sha256": "a13261acdcd77f0b270bb42cc94b0f2131bff900a23266c2b968e1f69968d766",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.21/SLUS_204.21_BG_00.png"
+    },
+    "gameId": "SLUS_204.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.21/SLUS_204.21_BG.png",
+      "kind": "background",
+      "bytes": 187977,
+      "width": 640,
+      "height": 480,
+      "sha256": "a13261acdcd77f0b270bb42cc94b0f2131bff900a23266c2b968e1f69968d766",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.21/SLUS_204.21_BG_00.png"
+      },
+      "gameId": "SLUS_204.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BATTLESTAR GALACTICA"
+}

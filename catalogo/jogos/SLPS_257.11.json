@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.11",
+  "cover": {
+    "path": "PS2/SLPS_257.11/SLPS_257.11_COV.png",
+    "kind": "cover",
+    "bytes": 84032,
+    "width": 192,
+    "height": 272,
+    "sha256": "4606e36b93e68a85e595c65905fd57138aecc7109dc8ab1a02d466fca451e28e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25711.jpg"
+    },
+    "gameId": "SLPS_257.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KASHIMASHI! GIRL MEETS GIRL [BEST COLLECTION]"
+}

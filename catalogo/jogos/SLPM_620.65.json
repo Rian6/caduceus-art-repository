@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.65",
+  "cover": {
+    "path": "PS2/SLPM_620.65/SLPM_620.65_COV.png",
+    "kind": "cover",
+    "bytes": 74376,
+    "width": 192,
+    "height": 272,
+    "sha256": "101ef61da9146689b674105c143e91b290a7921065306a747a70b49102231e50",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62065.jpg"
+    },
+    "gameId": "SLPM_620.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.01 - THE TABLE GAME"
+}

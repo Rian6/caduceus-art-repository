@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.94",
+  "cover": {
+    "path": "PS2/SLPS_254.94/SLPS_254.94_COV.png",
+    "kind": "cover",
+    "bytes": 117674,
+    "width": 192,
+    "height": 272,
+    "sha256": "989f0b3c553645d2a6c26a89218d5c523875e48cb0b7a58d662d76b21523ee90",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25494.jpg"
+    },
+    "gameId": "SLPS_254.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FRAGRANCE TALE"
+}

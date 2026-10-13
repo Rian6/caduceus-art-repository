@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.29",
+  "cover": {
+    "path": "PS2/SLPS_202.29/SLPS_202.29_COV.png",
+    "kind": "cover",
+    "bytes": 106741,
+    "width": 192,
+    "height": 272,
+    "sha256": "207474bd9811de74baf4ec143ff172c3f278025833357ed2704320af34eea3e1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20229.jpg"
+    },
+    "gameId": "SLPS_202.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hissatsu Pachinko Station V5"
+}

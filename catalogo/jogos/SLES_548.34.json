@@ -1,0 +1,64 @@
+{
+  "id": "SLES_548.34",
+  "cover": {
+    "path": "PS2/SLES_548.34/SLES_548.34_COV.png",
+    "kind": "cover",
+    "bytes": 106567,
+    "width": 192,
+    "height": 272,
+    "sha256": "2cdc12129627f8432ee451423ceaad601cda0281db92c2463d22ffa3b6da8e7b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54834.jpg"
+    },
+    "gameId": "SLES_548.34"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_548.34/SLES_548.34_BG.png",
+    "kind": "background",
+    "bytes": 161828,
+    "width": 640,
+    "height": 480,
+    "sha256": "6a978361a3091bb5a63f535ec6174fa05423609938ae820283a60ec563369797",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.34/SLES_548.34_BG_00.png"
+    },
+    "gameId": "SLES_548.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.34/SLES_548.34_BG.png",
+      "kind": "background",
+      "bytes": 161828,
+      "width": 640,
+      "height": 480,
+      "sha256": "6a978361a3091bb5a63f535ec6174fa05423609938ae820283a60ec563369797",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.34/SLES_548.34_BG_00.png"
+      },
+      "gameId": "SLES_548.34"
+    },
+    {
+      "path": "PS2/SLES_548.34/SLES_548.34_BG_01.png",
+      "kind": "background",
+      "bytes": 170119,
+      "width": 640,
+      "height": 480,
+      "sha256": "4d0df6850d7f56ce606e7e6e43d797554742ded282fb9bcd726569260457fe12",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.34/SLES_548.34_BG_01.png"
+      },
+      "gameId": "SLES_548.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Juiced 2 - Hot Import Nights"
+}

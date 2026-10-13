@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_668.28",
+  "cover": {
+    "path": "PS2/SLPM_668.28/SLPM_668.28_COV.png",
+    "kind": "cover",
+    "bytes": 101315,
+    "width": 192,
+    "height": 272,
+    "sha256": "738b4241167b9d2f4ac716a3cdd142e74408b60f58a4665fe1e8e98179fa4c15",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66828.jpg"
+    },
+    "gameId": "SLPM_668.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_668.28/SLPM_668.28_BG.png",
+    "kind": "background",
+    "bytes": 163482,
+    "width": 640,
+    "height": 480,
+    "sha256": "25b431d4d669e335951a0f7f80bf398ec171e1eab2fc4d639861b73840255595",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_668.28/SLPM_668.28_BG_00.png"
+    },
+    "gameId": "SLPM_668.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_668.28/SLPM_668.28_BG.png",
+      "kind": "background",
+      "bytes": 163482,
+      "width": 640,
+      "height": 480,
+      "sha256": "25b431d4d669e335951a0f7f80bf398ec171e1eab2fc4d639861b73840255595",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_668.28/SLPM_668.28_BG_00.png"
+      },
+      "gameId": "SLPM_668.28"
+    },
+    {
+      "path": "PS2/SLPM_668.28/SLPM_668.28_BG_01.png",
+      "kind": "background",
+      "bytes": 188154,
+      "width": 640,
+      "height": 480,
+      "sha256": "e22dfa4597a3377fc565e71496c01456d6caa96dc813b634e4160ac3b5e1c00a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_668.28/SLPM_668.28_BG_01.png"
+      },
+      "gameId": "SLPM_668.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Beatmania IIDX - 13 Distorted"
+}

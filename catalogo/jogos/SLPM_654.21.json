@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.21",
+  "cover": {
+    "path": "PS2/SLPM_654.21/SLPM_654.21_COV.png",
+    "kind": "cover",
+    "bytes": 94842,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e8b66be9e75af03d2672d81d3a992fe4be246c2869880f5b35b5dd3581957cd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65421.jpg"
+    },
+    "gameId": "SLPM_654.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EVER17 - THE OUT OF INFINITY [PREMIUM EDITION]"
+}

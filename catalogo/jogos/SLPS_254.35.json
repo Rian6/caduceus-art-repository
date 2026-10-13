@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.35",
+  "cover": {
+    "path": "PS2/SLPS_254.35/SLPS_254.35_COV.png",
+    "kind": "cover",
+    "bytes": 107243,
+    "width": 192,
+    "height": 272,
+    "sha256": "8bdd0c69fa958fccda95636a298bbacbe4226f6e48f7f16457a7f5f32da37c61",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25435.jpg"
+    },
+    "gameId": "SLPS_254.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAJOKKO A LA MODE"
+}

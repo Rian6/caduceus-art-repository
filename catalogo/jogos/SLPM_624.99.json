@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.99",
+  "cover": {
+    "path": "PS2/SLPM_624.99/SLPM_624.99_COV.png",
+    "kind": "cover",
+    "bytes": 113705,
+    "width": 192,
+    "height": 272,
+    "sha256": "500dd8c3a17c0c98acd708eca0d0cff9ac6d68e3aef4e9e261fe00325e4588fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62499.jpg"
+    },
+    "gameId": "SLPM_624.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GAMBLER DENSETSU TETSUYA DIGEST"
+}

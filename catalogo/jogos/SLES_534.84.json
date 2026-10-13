@@ -1,0 +1,25 @@
+{
+  "id": "SLES_534.84",
+  "cover": {
+    "path": "PS2/SLES_534.84/SLES_534.84_COV.png",
+    "kind": "cover",
+    "bytes": 88867,
+    "width": 192,
+    "height": 272,
+    "sha256": "2cadf30e9a173d585133ea7b0abbbc98f3bb76a167dd9be6ee8f6d5153dff089",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53484.jpg"
+    },
+    "gameId": "SLES_534.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EAGLE EYE GOLF"
+}

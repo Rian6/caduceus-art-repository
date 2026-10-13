@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_210.06",
+  "cover": {
+    "path": "PS2/SLUS_210.06/SLUS_210.06_COV.png",
+    "kind": "cover",
+    "bytes": 95170,
+    "width": 192,
+    "height": 272,
+    "sha256": "7108bd0528025504b343d90e5dad1b2e96d4bdb8a763513486ed75679e52955a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21006.jpg"
+    },
+    "gameId": "SLUS_210.06"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.06/SLUS_210.06_ICO.png",
+    "kind": "disc",
+    "bytes": 32654,
+    "width": 256,
+    "height": 256,
+    "sha256": "61dead114324f41a376f1d140135627513f8c0a4434dda6222522fcb4a82aea1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.06_ICO.png"
+    },
+    "gameId": "SLUS_210.06"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.06/SLUS_210.06_BG.png",
+    "kind": "background",
+    "bytes": 187255,
+    "width": 640,
+    "height": 480,
+    "sha256": "f9e1507f6e13a287f353b81827b0be3f9cc5c9421f8da901de2fa7a9af45e3a3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.06/SLUS_210.06_BG_00.png"
+    },
+    "gameId": "SLUS_210.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.06/SLUS_210.06_BG.png",
+      "kind": "background",
+      "bytes": 187255,
+      "width": 640,
+      "height": 480,
+      "sha256": "f9e1507f6e13a287f353b81827b0be3f9cc5c9421f8da901de2fa7a9af45e3a3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.06/SLUS_210.06_BG_00.png"
+      },
+      "gameId": "SLUS_210.06"
+    },
+    {
+      "path": "PS2/SLUS_210.06/SLUS_210.06_BG_01.png",
+      "kind": "background",
+      "bytes": 175634,
+      "width": 640,
+      "height": 480,
+      "sha256": "5c28186343b3b00f647565d6ea858ab7637cb0a69a84c2bd7a712a69d27dbc19",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.06/SLUS_210.06_BG_01.png"
+      },
+      "gameId": "SLUS_210.06"
+    },
+    {
+      "path": "PS2/SLUS_210.06/SLUS_210.06_BG_02.png",
+      "kind": "background",
+      "bytes": 188767,
+      "width": 640,
+      "height": 480,
+      "sha256": "74c61066dbcd2f86c746b9e15d722c1ce11f3ba9972b95e095ba0153176b6b76",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.06/SLUS_210.06_BG_02.png"
+      },
+      "gameId": "SLUS_210.06"
+    },
+    {
+      "path": "PS2/SLUS_210.06/SLUS_210.06_BG_03.png",
+      "kind": "background",
+      "bytes": 204712,
+      "width": 640,
+      "height": 480,
+      "sha256": "4bf3981a6e6dcdb17367a107a6386d5cf11da3f5e26143bbccbd1626acfc5589",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.06/SLUS_210.06_BG_03.png"
+      },
+      "gameId": "SLUS_210.06"
+    },
+    {
+      "path": "PS2/SLUS_210.06/SLUS_210.06_BG_04.png",
+      "kind": "background",
+      "bytes": 159971,
+      "width": 640,
+      "height": 480,
+      "sha256": "c9400247cd479e2f012e90b5af15d204e9cdfcc10ea754356a8fbb97b90b0949",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.06/SLUS_210.06_BG_04.png"
+      },
+      "gameId": "SLUS_210.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ghost in the Shell: Stand Alone Complex"
+}

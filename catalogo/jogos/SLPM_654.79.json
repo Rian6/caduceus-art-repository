@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.79",
+  "cover": {
+    "path": "PS2/SLPM_654.79/SLPM_654.79_COV.png",
+    "kind": "cover",
+    "bytes": 91234,
+    "width": 192,
+    "height": 272,
+    "sha256": "63f1a14ebe5ae7f99015f4609ed2d8581bd8200c14f2ca0532b38c7b61471809",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65479.jpg"
+    },
+    "gameId": "SLPM_654.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Sims - Bustin' Out"
+}

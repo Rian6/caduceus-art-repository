@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.66",
+  "cover": {
+    "path": "PS2/SCKA_200.66/SCKA_200.66_COV.png",
+    "kind": "cover",
+    "bytes": 52949,
+    "width": 192,
+    "height": 272,
+    "sha256": "94f964b5e13cd7ba979957f300db28706e2795f1c762a2280a73e33e433d68c5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.66/SCKA_200.66_COV.png"
+    },
+    "gameId": "SCKA_200.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy: Play 3"
+}

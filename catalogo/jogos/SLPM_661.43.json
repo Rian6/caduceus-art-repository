@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.43",
+  "cover": {
+    "path": "PS2/SLPM_661.43/SLPM_661.43_COV.png",
+    "kind": "cover",
+    "bytes": 101982,
+    "width": 192,
+    "height": 272,
+    "sha256": "18daf578887c5c57326f7c473a0f1329c634369f29fb141c3e90368b20595f3d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66143.jpg"
+    },
+    "gameId": "SLPM_661.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rebirth Moon"
+}

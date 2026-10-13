@@ -1,0 +1,25 @@
+{
+  "id": "SLES_517.33",
+  "cover": {
+    "path": "PS2/SLES_517.33/SLES_517.33_COV.png",
+    "kind": "cover",
+    "bytes": 82361,
+    "width": 192,
+    "height": 272,
+    "sha256": "d6cb66599549d87c246a006833a830a3b6fcc89a598f6a23a43de376f4d1588d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51733.jpg"
+    },
+    "gameId": "SLES_517.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EA Sports Rugby 2004"
+}

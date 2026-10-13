@@ -1,0 +1,77 @@
+{
+  "id": "SCPS_193.22",
+  "cover": {
+    "path": "PS2/SCPS_193.22/SCPS_193.22_COV.png",
+    "kind": "cover",
+    "bytes": 89011,
+    "width": 192,
+    "height": 272,
+    "sha256": "9f591a6c85f7a4a20b3e4562098d3ad3c43b5bf86c6bacc21c7a49cbdd6cb5e5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19322.jpg"
+    },
+    "gameId": "SCPS_193.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_193.22/SCPS_193.22_BG.png",
+    "kind": "background",
+    "bytes": 189727,
+    "width": 640,
+    "height": 480,
+    "sha256": "74450386eaf0cdd6e55d20011f2a25eaffedc793978dd295084eb4936483b812",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_193.22/SCPS_193.22_BG_00.png"
+    },
+    "gameId": "SCPS_193.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_193.22/SCPS_193.22_BG.png",
+      "kind": "background",
+      "bytes": 189727,
+      "width": 640,
+      "height": 480,
+      "sha256": "74450386eaf0cdd6e55d20011f2a25eaffedc793978dd295084eb4936483b812",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_193.22/SCPS_193.22_BG_00.png"
+      },
+      "gameId": "SCPS_193.22"
+    },
+    {
+      "path": "PS2/SCPS_193.22/SCPS_193.22_BG_01.png",
+      "kind": "background",
+      "bytes": 193481,
+      "width": 640,
+      "height": 480,
+      "sha256": "5d42d7f6adca618c3ecc73866ebab378de1af1b899faf3d9ea734371abed4316",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_193.22/SCPS_193.22_BG_01.png"
+      },
+      "gameId": "SCPS_193.22"
+    },
+    {
+      "path": "PS2/SCPS_193.22/SCPS_193.22_BG_02.png",
+      "kind": "background",
+      "bytes": 174821,
+      "width": 640,
+      "height": 480,
+      "sha256": "adb727d135a12556a26e4498483544c0b66ba81371adb03a4ccb5bd0f4c6f50b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_193.22/SCPS_193.22_BG_02.png"
+      },
+      "gameId": "SCPS_193.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wild ARMs - The 4th Detonator  (Playstation 2 The Best Reprint)"
+}

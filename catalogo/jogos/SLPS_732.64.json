@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.64",
+  "cover": {
+    "path": "PS2/SLPS_732.64/SLPS_732.64_COV.png",
+    "kind": "cover",
+    "bytes": 94514,
+    "width": 192,
+    "height": 272,
+    "sha256": "4ee998b1bfcd743b7ec5cc62799e1f4455450a0ae29d98fb4df37eb4f89f3744",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73264.jpg"
+    },
+    "gameId": "SLPS_732.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUZUMIYA HARUCHI NO TOMADOI [PLAYSTATION 2 THE BEST]"
+}

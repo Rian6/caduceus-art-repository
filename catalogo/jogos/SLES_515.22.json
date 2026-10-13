@@ -1,0 +1,51 @@
+{
+  "id": "SLES_515.22",
+  "cover": {
+    "path": "PS2/SLES_515.22/SLES_515.22_COV.png",
+    "kind": "cover",
+    "bytes": 90760,
+    "width": 192,
+    "height": 272,
+    "sha256": "38577184411b31abb0dd13afd7713370f828c30f9bcb4a549a9637cd7e606d18",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51522.jpg"
+    },
+    "gameId": "SLES_515.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_515.22/SLES_515.22_BG.png",
+    "kind": "background",
+    "bytes": 174087,
+    "width": 640,
+    "height": 480,
+    "sha256": "0c21bc065ee80c463be679d9cacf8792c80a21b1107e55e944ebb81aac4c5027",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_515.22/SLES_515.22_BG_00.png"
+    },
+    "gameId": "SLES_515.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_515.22/SLES_515.22_BG.png",
+      "kind": "background",
+      "bytes": 174087,
+      "width": 640,
+      "height": 480,
+      "sha256": "0c21bc065ee80c463be679d9cacf8792c80a21b1107e55e944ebb81aac4c5027",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.22/SLES_515.22_BG_00.png"
+      },
+      "gameId": "SLES_515.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Return to Castle Wolfenstein: Operation Resurrection"
+}

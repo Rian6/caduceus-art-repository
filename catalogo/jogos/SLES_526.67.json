@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.67",
+  "cover": {
+    "path": "PS2/SLES_526.67/SLES_526.67_COV.png",
+    "kind": "cover",
+    "bytes": 95256,
+    "width": 192,
+    "height": 272,
+    "sha256": "3d5d062c0cf39348af0cd4a73b3332957d95b2bcb7e239e5517b952713c1ef3d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52667.jpg"
+    },
+    "gameId": "SLES_526.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - Birmingham City"
+}

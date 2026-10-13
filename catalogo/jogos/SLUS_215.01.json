@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_215.01",
+  "cover": {
+    "path": "PS2/SLUS_215.01/SLUS_215.01_COV.png",
+    "kind": "cover",
+    "bytes": 103305,
+    "width": 192,
+    "height": 272,
+    "sha256": "23e332c25a49a4088a3afa47e7cff168865c1fc3a50f4d82d6fd89d661040f41",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21501.jpg"
+    },
+    "gameId": "SLUS_215.01"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.01/SLUS_215.01_ICO.png",
+    "kind": "disc",
+    "bytes": 34644,
+    "width": 256,
+    "height": 256,
+    "sha256": "4e865b9a380f0a146ede40cea4246bd75823fd9763f7105ddff2db5507c98c3d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.01_ICO.png"
+    },
+    "gameId": "SLUS_215.01"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.01/SLUS_215.01_BG.png",
+    "kind": "background",
+    "bytes": 192702,
+    "width": 640,
+    "height": 480,
+    "sha256": "2c7afed3d00bdd85ee07c06dae8d3e671b3f3c4f0600bf1490ab836f9f225c91",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.01/SLUS_215.01_BG_00.png"
+    },
+    "gameId": "SLUS_215.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.01/SLUS_215.01_BG.png",
+      "kind": "background",
+      "bytes": 192702,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c7afed3d00bdd85ee07c06dae8d3e671b3f3c4f0600bf1490ab836f9f225c91",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.01/SLUS_215.01_BG_00.png"
+      },
+      "gameId": "SLUS_215.01"
+    },
+    {
+      "path": "PS2/SLUS_215.01/SLUS_215.01_BG_01.png",
+      "kind": "background",
+      "bytes": 240890,
+      "width": 640,
+      "height": 480,
+      "sha256": "a5dd2b48c95aabb61db89221f68dc8c9364640580727c56be675a2bba143083d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.01/SLUS_215.01_BG_01.png"
+      },
+      "gameId": "SLUS_215.01"
+    },
+    {
+      "path": "PS2/SLUS_215.01/SLUS_215.01_BG_02.png",
+      "kind": "background",
+      "bytes": 179964,
+      "width": 640,
+      "height": 480,
+      "sha256": "b0af25b34e8e60dc29960f185ce5e755b076c83aaa94fecca3fe4d5ddc96472f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.01/SLUS_215.01_BG_02.png"
+      },
+      "gameId": "SLUS_215.01"
+    },
+    {
+      "path": "PS2/SLUS_215.01/SLUS_215.01_BG_03.png",
+      "kind": "background",
+      "bytes": 173911,
+      "width": 640,
+      "height": 480,
+      "sha256": "273fe24712ad72e7c287b079ec68eb017c674311f6b5ca7fd932385e9f3bb632",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.01/SLUS_215.01_BG_03.png"
+      },
+      "gameId": "SLUS_215.01"
+    },
+    {
+      "path": "PS2/SLUS_215.01/SLUS_215.01_BG_04.png",
+      "kind": "background",
+      "bytes": 182573,
+      "width": 640,
+      "height": 480,
+      "sha256": "e020500093b301307e065e4e828a28ffa457911323e4a80ea96a244da9aa21f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.01/SLUS_215.01_BG_04.png"
+      },
+      "gameId": "SLUS_215.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RAW DANGER!"
+}

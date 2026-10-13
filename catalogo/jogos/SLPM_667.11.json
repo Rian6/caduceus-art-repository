@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.11",
+  "cover": {
+    "path": "PS2/SLPM_667.11/SLPM_667.11_COV.png",
+    "kind": "cover",
+    "bytes": 106529,
+    "width": 192,
+    "height": 272,
+    "sha256": "6cfa31390b01bb1e786080ae2960a72679dea7f2054ac148b24d62dfda8a65fe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66711.jpg"
+    },
+    "gameId": "SLPM_667.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROZEN MAIDEN - DUELLWALZER [TAITO BEST]"
+}

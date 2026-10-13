@@ -1,0 +1,25 @@
+{
+  "id": "SCED_520.94",
+  "cover": {
+    "path": "PS2/SCED_520.94/SCED_520.94_COV.png",
+    "kind": "cover",
+    "bytes": 54521,
+    "width": 192,
+    "height": 272,
+    "sha256": "a87b71d7fa29a38734c695c3a3b1f8e80e5d2dd19071816b5d53e4c99ae9633d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCED_520.94/SCED_520.94_COV.png"
+    },
+    "gameId": "SCED_520.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "G-Con 2 Competition Demo"
+}

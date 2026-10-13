@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_251.51",
+  "cover": {
+    "path": "PS2/SLPS_251.51/SLPS_251.51_COV.png",
+    "kind": "cover",
+    "bytes": 90558,
+    "width": 192,
+    "height": 272,
+    "sha256": "d84f7a8fb226cb71241fcd25d138a57b0ebf0ba924f729db6c7fe0800bbf515c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25151.jpg"
+    },
+    "gameId": "SLPS_251.51"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_251.51/SLPS_251.51_BG.png",
+    "kind": "background",
+    "bytes": 168555,
+    "width": 640,
+    "height": 480,
+    "sha256": "a76d311eadc3d15fcba832ca4c461985a8999f72054f1be467ae01286b515e9e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_251.51/SLPS_251.51_BG_00.png"
+    },
+    "gameId": "SLPS_251.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_251.51/SLPS_251.51_BG.png",
+      "kind": "background",
+      "bytes": 168555,
+      "width": 640,
+      "height": 480,
+      "sha256": "a76d311eadc3d15fcba832ca4c461985a8999f72054f1be467ae01286b515e9e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_251.51/SLPS_251.51_BG_00.png"
+      },
+      "gameId": "SLPS_251.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Medal of Honor: Shijou Saidai no Sakusen"
+}

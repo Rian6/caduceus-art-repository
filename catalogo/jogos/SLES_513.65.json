@@ -1,0 +1,51 @@
+{
+  "id": "SLES_513.65",
+  "cover": {
+    "path": "PS2/SLES_513.65/SLES_513.65_COV.png",
+    "kind": "cover",
+    "bytes": 79325,
+    "width": 192,
+    "height": 272,
+    "sha256": "10de66b9487b3bb293fd46b4f63f61613e95e7c8783fe073ef2675dcbbc0a597",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51365.jpg"
+    },
+    "gameId": "SLES_513.65"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_513.65/SLES_513.65_BG.png",
+    "kind": "background",
+    "bytes": 90677,
+    "width": 640,
+    "height": 480,
+    "sha256": "1757a6c629f0781b8b8717a9630266924177ac606cd08769f0dfe3d8d22779b6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_513.65/SLES_513.65_BG_00.png"
+    },
+    "gameId": "SLES_513.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_513.65/SLES_513.65_BG.png",
+      "kind": "background",
+      "bytes": 90677,
+      "width": 640,
+      "height": 480,
+      "sha256": "1757a6c629f0781b8b8717a9630266924177ac606cd08769f0dfe3d8d22779b6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.65/SLES_513.65_BG_00.png"
+      },
+      "gameId": "SLES_513.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BMX XXX"
+}

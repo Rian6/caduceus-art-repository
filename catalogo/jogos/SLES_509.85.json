@@ -1,0 +1,25 @@
+{
+  "id": "SLES_509.85",
+  "cover": {
+    "path": "PS2/SLES_509.85/SLES_509.85_COV.png",
+    "kind": "cover",
+    "bytes": 96423,
+    "width": 192,
+    "height": 272,
+    "sha256": "ba740eb92ca0569913e3d4c9e8953b3b7b6ba6e7faeccc4a091874cd386ba206",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50985.jpg"
+    },
+    "gameId": "SLES_509.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gumball 3000'"
+}

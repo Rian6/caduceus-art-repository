@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.89",
+  "cover": {
+    "path": "PS2/SLPS_259.89/SLPS_259.89_COV.png",
+    "kind": "cover",
+    "bytes": 77335,
+    "width": 192,
+    "height": 272,
+    "sha256": "02a8dd146f30cd046d6aa6aa156bf802e955e89a3da4522b1aba0e4aa486e17d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25989.jpg"
+    },
+    "gameId": "SLPS_259.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Amagami"
+}

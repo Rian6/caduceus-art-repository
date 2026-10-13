@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.44",
+  "cover": {
+    "path": "PS2/SLPM_652.44/SLPM_652.44_COV.png",
+    "kind": "cover",
+    "bytes": 93020,
+    "width": 192,
+    "height": 272,
+    "sha256": "e965e30ad10c8db6587c7cd4b1650be96782c649dced852b4547081ae6031e73",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65244.jpg"
+    },
+    "gameId": "SLPM_652.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Ghost Recon"
+}

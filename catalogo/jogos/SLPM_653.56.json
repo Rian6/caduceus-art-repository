@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.56",
+  "cover": {
+    "path": "PS2/SLPM_653.56/SLPM_653.56_COV.png",
+    "kind": "cover",
+    "bytes": 104753,
+    "width": 192,
+    "height": 272,
+    "sha256": "8d60d2e5cbb382b7aaaf194f384ede8fd9de9e4bcfcd8c5b1aecdd778678a332",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65356.jpg"
+    },
+    "gameId": "SLPM_653.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NATSUIRO KOMACHI"
+}

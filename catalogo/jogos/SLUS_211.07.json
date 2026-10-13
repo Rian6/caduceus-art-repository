@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_211.07",
+  "cover": {
+    "path": "PS2/SLUS_211.07/SLUS_211.07_COV.png",
+    "kind": "cover",
+    "bytes": 98433,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed64bb68332ba81a24c9fc1174f75749e62bc0f4b93d16011cdbfabf36e19835",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21107.jpg"
+    },
+    "gameId": "SLUS_211.07"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.07/SLUS_211.07_ICO.png",
+    "kind": "disc",
+    "bytes": 32168,
+    "width": 256,
+    "height": 256,
+    "sha256": "ca035d05374ee91e82481e489d98cf09247dad8433b2249b5f68a43b7d693a66",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.07_ICO.png"
+    },
+    "gameId": "SLUS_211.07"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.07/SLUS_211.07_BG.png",
+    "kind": "background",
+    "bytes": 189571,
+    "width": 640,
+    "height": 480,
+    "sha256": "ac715583bd4abef8bd1830899ee22c3e902916c834af201761784fd35a692eb2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.07/SLUS_211.07_BG_00.png"
+    },
+    "gameId": "SLUS_211.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.07/SLUS_211.07_BG.png",
+      "kind": "background",
+      "bytes": 189571,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac715583bd4abef8bd1830899ee22c3e902916c834af201761784fd35a692eb2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.07/SLUS_211.07_BG_00.png"
+      },
+      "gameId": "SLUS_211.07"
+    },
+    {
+      "path": "PS2/SLUS_211.07/SLUS_211.07_BG_01.png",
+      "kind": "background",
+      "bytes": 214634,
+      "width": 640,
+      "height": 480,
+      "sha256": "9e07a956a679585af78858d3cc236a53cf83f1c2b7fdc4c6ab4bdfd589a9d4f2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.07/SLUS_211.07_BG_01.png"
+      },
+      "gameId": "SLUS_211.07"
+    },
+    {
+      "path": "PS2/SLUS_211.07/SLUS_211.07_BG_02.png",
+      "kind": "background",
+      "bytes": 225380,
+      "width": 640,
+      "height": 480,
+      "sha256": "1da6bd510e7a3cb383d6580775f9fef52ec7c3264e8acee3f17f14959dbfff74",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.07/SLUS_211.07_BG_02.png"
+      },
+      "gameId": "SLUS_211.07"
+    },
+    {
+      "path": "PS2/SLUS_211.07/SLUS_211.07_BG_03.png",
+      "kind": "background",
+      "bytes": 184560,
+      "width": 640,
+      "height": 480,
+      "sha256": "6e0772bfe7f90c7fded8bc3396297fa7e30fa4d2bd1c7464f6f7ccbbf3505c87",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.07/SLUS_211.07_BG_03.png"
+      },
+      "gameId": "SLUS_211.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "X-Men - The Official Game"
+}

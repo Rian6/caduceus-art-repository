@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.86",
+  "cover": {
+    "path": "PS2/SLPM_625.86/SLPM_625.86_COV.png",
+    "kind": "cover",
+    "bytes": 90023,
+    "width": 192,
+    "height": 272,
+    "sha256": "b06356f82632cb7c169aa20c9fb30dfefe04dfdd080f7342c04fe2226d8c016c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62586.jpg"
+    },
+    "gameId": "SLPM_625.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.070 - THE KANSHIKIKA"
+}

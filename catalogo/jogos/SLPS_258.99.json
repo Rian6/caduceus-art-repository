@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.99",
+  "cover": {
+    "path": "PS2/SLPS_258.99/SLPS_258.99_COV.png",
+    "kind": "cover",
+    "bytes": 89835,
+    "width": 192,
+    "height": 272,
+    "sha256": "484c069421c85f6e9f694855f79885aa504ed9d5e6857e27d487fa93b2f70c90",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25899.jpg"
+    },
+    "gameId": "SLPS_258.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KATEIKYOUSHI HITMAN REBORN! - LET'S ANSATSU! NERAWARETA 10 DAIME! [BEST COLLECTION]"
+}

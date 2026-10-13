@@ -1,0 +1,51 @@
+{
+  "id": "SLES_506.20",
+  "cover": {
+    "path": "PS2/SLES_506.20/SLES_506.20_COV.png",
+    "kind": "cover",
+    "bytes": 44057,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b571494ef4013ec1ca3c5e33f0b1a114992506a4038f74ebb10d165b455cfd4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_506.20/SLES_506.20_COV.png"
+    },
+    "gameId": "SLES_506.20"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_506.20/SLES_506.20_BG.png",
+    "kind": "background",
+    "bytes": 217796,
+    "width": 640,
+    "height": 480,
+    "sha256": "f1fd9a75c0816c1d956b3958b2f2fb4a4ae5193536c50c54f22829d8aaaf92a7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_506.20/SLES_506.20_BG_00.png"
+    },
+    "gameId": "SLES_506.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_506.20/SLES_506.20_BG.png",
+      "kind": "background",
+      "bytes": 217796,
+      "width": 640,
+      "height": 480,
+      "sha256": "f1fd9a75c0816c1d956b3958b2f2fb4a4ae5193536c50c54f22829d8aaaf92a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.20/SLES_506.20_BG_00.png"
+      },
+      "gameId": "SLES_506.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jonny Moseley Mad Trix"
+}

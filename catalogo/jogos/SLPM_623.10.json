@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.10",
+  "cover": {
+    "path": "PS2/SLPM_623.10/SLPM_623.10_COV.png",
+    "kind": "cover",
+    "bytes": 78661,
+    "width": 192,
+    "height": 272,
+    "sha256": "1b4c57953b89c0bdd1b879ed96ed60251ddc352f135114977eb80d85df5bc165",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62310.jpg"
+    },
+    "gameId": "SLPM_623.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Souten Ryuu - The Arcade"
+}

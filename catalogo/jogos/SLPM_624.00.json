@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_624.00",
+  "cover": {
+    "path": "PS2/SLPM_624.00/SLPM_624.00_COV.png",
+    "kind": "cover",
+    "bytes": 119680,
+    "width": 192,
+    "height": 272,
+    "sha256": "5be252f6b7991e8d7b99e4a704f355c57881328c7a644bffec8638707ceabd89",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62400.jpg"
+    },
+    "gameId": "SLPM_624.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.00/SLPM_624.00_BG.png",
+    "kind": "background",
+    "bytes": 196185,
+    "width": 640,
+    "height": 480,
+    "sha256": "6eaf52d7af8b85442e99ee6c3460c6cebe3776bca761148dfdb57be2dfe33b2a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.00/SLPM_624.00_BG_00.png"
+    },
+    "gameId": "SLPM_624.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.00/SLPM_624.00_BG.png",
+      "kind": "background",
+      "bytes": 196185,
+      "width": 640,
+      "height": 480,
+      "sha256": "6eaf52d7af8b85442e99ee6c3460c6cebe3776bca761148dfdb57be2dfe33b2a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.00/SLPM_624.00_BG_00.png"
+      },
+      "gameId": "SLPM_624.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Ages 2500 Series Vol. 12 - Puyo Puyo Tsuu Perfect Set"
+}

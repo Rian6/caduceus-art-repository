@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.22",
+  "cover": {
+    "path": "PS2/SLPS_202.22/SLPS_202.22_COV.png",
+    "kind": "cover",
+    "bytes": 87418,
+    "width": 192,
+    "height": 272,
+    "sha256": "328e1c7a45db588241a62f4309ed7a904b2660c2607d5da1f4d82d117a45daa6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20222.jpg"
+    },
+    "gameId": "SLPS_202.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Inaka Kurashi - Nan no Shima no Monogatari"
+}

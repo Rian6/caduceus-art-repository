@@ -1,0 +1,51 @@
+{
+  "id": "SLES_521.73",
+  "cover": {
+    "path": "PS2/SLES_521.73/SLES_521.73_COV.png",
+    "kind": "cover",
+    "bytes": 85596,
+    "width": 192,
+    "height": 272,
+    "sha256": "9fee42ff1cda16284038f85533f3ca4fe3d33cd6d8e34b9d0a61d4805e02f936",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52173.jpg"
+    },
+    "gameId": "SLES_521.73"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_521.73/SLES_521.73_BG.png",
+    "kind": "background",
+    "bytes": 236302,
+    "width": 640,
+    "height": 480,
+    "sha256": "9301e87c36628a5f61d71b8761bc7292002c6043a34f780d1cf9e1267cfb555d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_521.73/SLES_521.73_BG_00.png"
+    },
+    "gameId": "SLES_521.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_521.73/SLES_521.73_BG.png",
+      "kind": "background",
+      "bytes": 236302,
+      "width": 640,
+      "height": 480,
+      "sha256": "9301e87c36628a5f61d71b8761bc7292002c6043a34f780d1cf9e1267cfb555d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.73/SLES_521.73_BG_00.png"
+      },
+      "gameId": "SLES_521.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 4 - Xtreme Legends"
+}

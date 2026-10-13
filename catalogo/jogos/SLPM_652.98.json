@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.98",
+  "cover": {
+    "path": "PS2/SLPM_652.98/SLPM_652.98_COV.png",
+    "kind": "cover",
+    "bytes": 109916,
+    "width": 192,
+    "height": 272,
+    "sha256": "bda0ee520d63bb5c9c692505c5a873a8ef350fe01415156bf9225321aead8d43",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65298.jpg"
+    },
+    "gameId": "SLPM_652.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WINNING POST 5 - MAXIMUM 2003"
+}

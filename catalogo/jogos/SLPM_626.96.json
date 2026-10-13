@@ -1,0 +1,39 @@
+{
+  "id": "SLPM_626.96",
+  "cover": {
+    "path": "PS2/SLPM_626.96/SLPM_626.96_COV.png",
+    "kind": "cover",
+    "bytes": 89436,
+    "width": 192,
+    "height": 272,
+    "sha256": "86ff4d67da42a75f05d37c5909b0eb8dec2c3a5ce8be2cfc0538e539a35c6c7f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62696.jpg"
+    },
+    "gameId": "SLPM_626.96"
+  },
+  "disc": {
+    "path": "PS2/SLPM_626.96/SLPM_626.96_ICO.png",
+    "kind": "disc",
+    "bytes": 9237,
+    "width": 128,
+    "height": 128,
+    "sha256": "f2070d7d8c6045f1e3d00a2215f1287427967b8b15c7831ac13a41f16f4409a9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_626.96_ICO.png"
+    },
+    "gameId": "SLPM_626.96"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Oretachi Game Center Zoku - Yie Ar Kung-Fu"
+}

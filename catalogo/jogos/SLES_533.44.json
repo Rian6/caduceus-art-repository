@@ -1,0 +1,78 @@
+{
+  "id": "SLES_533.44",
+  "cover": {
+    "path": "PS2/SLES_533.44/SLES_533.44_COV.png",
+    "kind": "cover",
+    "bytes": 98100,
+    "width": 192,
+    "height": 272,
+    "sha256": "a0aa947e9b0ea60366f13d95f3fed23b5643270785483392a4a32ec6a2bc6843",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53344.jpg"
+    },
+    "gameId": "SLES_533.44"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.44/SLES_533.44_ICO.png",
+    "kind": "disc",
+    "bytes": 10179,
+    "width": 128,
+    "height": 128,
+    "sha256": "f3db73f783ec290bbb14c308f0f169063d4960c2f57a242ce3584ccb2f80f54e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.44_ICO.png"
+    },
+    "gameId": "SLES_533.44"
+  },
+  "background": {
+    "path": "PS2/SLES_533.44/SLES_533.44_BG.png",
+    "kind": "background",
+    "bytes": 184015,
+    "width": 640,
+    "height": 480,
+    "sha256": "4fad3958074c59643039a8ea37a828965ac5d0569902fe47875d5de217ecf4e4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.44/SLES_533.44_BG_00.png"
+    },
+    "gameId": "SLES_533.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.44/SLES_533.44_BG.png",
+      "kind": "background",
+      "bytes": 184015,
+      "width": 640,
+      "height": 480,
+      "sha256": "4fad3958074c59643039a8ea37a828965ac5d0569902fe47875d5de217ecf4e4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.44/SLES_533.44_BG_00.png"
+      },
+      "gameId": "SLES_533.44"
+    },
+    {
+      "path": "PS2/SLES_533.44/SLES_533.44_BG_01.png",
+      "kind": "background",
+      "bytes": 243065,
+      "width": 640,
+      "height": 480,
+      "sha256": "785f13e914fcddb0e1cb76b8eb8963597bab7bd607debbcf95883991f8747527",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.44/SLES_533.44_BG_01.png"
+      },
+      "gameId": "SLES_533.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guerrilla Strike"
+}

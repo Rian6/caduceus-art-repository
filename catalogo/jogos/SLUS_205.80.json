@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_205.80",
+  "cover": {
+    "path": "PS2/SLUS_205.80/SLUS_205.80_COV.png",
+    "kind": "cover",
+    "bytes": 85913,
+    "width": 192,
+    "height": 272,
+    "sha256": "779992952e89e07a393b365eea031d39e4020a434d61d33be3c6c34eae72eeed",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20580.jpg"
+    },
+    "gameId": "SLUS_205.80"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.80/SLUS_205.80_ICO.png",
+    "kind": "disc",
+    "bytes": 27238,
+    "width": 256,
+    "height": 256,
+    "sha256": "f9974bbf19b8bbac81f1808c96c7591ec924f97e9937e14a1c301a668486b20c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.80_ICO.png"
+    },
+    "gameId": "SLUS_205.80"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.80/SLUS_205.80_BG.png",
+    "kind": "background",
+    "bytes": 189730,
+    "width": 640,
+    "height": 480,
+    "sha256": "73dd0c74a475930650c979439d2f2ab4c1bc0b9e534797c37fec101124d64eb4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.80/SLUS_205.80_BG_00.png"
+    },
+    "gameId": "SLUS_205.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.80/SLUS_205.80_BG.png",
+      "kind": "background",
+      "bytes": 189730,
+      "width": 640,
+      "height": 480,
+      "sha256": "73dd0c74a475930650c979439d2f2ab4c1bc0b9e534797c37fec101124d64eb4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.80/SLUS_205.80_BG_00.png"
+      },
+      "gameId": "SLUS_205.80"
+    },
+    {
+      "path": "PS2/SLUS_205.80/SLUS_205.80_BG_01.png",
+      "kind": "background",
+      "bytes": 160167,
+      "width": 640,
+      "height": 480,
+      "sha256": "0fb068f695247f30b38dbbd46bba5129cd7bbfc825df10daab15d8a6effb9675",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.80/SLUS_205.80_BG_01.png"
+      },
+      "gameId": "SLUS_205.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fifa Soccer 2003"
+}

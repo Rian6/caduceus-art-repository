@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.42",
+  "cover": {
+    "path": "PS2/SLPM_661.42/SLPM_661.42_COV.png",
+    "kind": "cover",
+    "bytes": 103616,
+    "width": 192,
+    "height": 272,
+    "sha256": "069c1f2926a5933e778c524b49fb6a0b9c245f78e2268cce7e0212c994fe9072",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66142.jpg"
+    },
+    "gameId": "SLPM_661.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rebirth Moon (Limited Edition)"
+}

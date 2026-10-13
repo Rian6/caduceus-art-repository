@@ -1,0 +1,25 @@
+{
+  "id": "SLES_544.34",
+  "cover": {
+    "path": "PS2/SLES_544.34/SLES_544.34_COV.png",
+    "kind": "cover",
+    "bytes": 37965,
+    "width": 192,
+    "height": 272,
+    "sha256": "a26b1af2a22a8363f5984042d9dbfc37c9dfc952f8f52229a8bfbf19bd4b3d5f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.34/SLES_544.34_COV.png"
+    },
+    "gameId": "SLES_544.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Babe"
+}

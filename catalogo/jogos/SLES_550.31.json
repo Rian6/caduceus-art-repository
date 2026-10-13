@@ -1,0 +1,51 @@
+{
+  "id": "SLES_550.31",
+  "cover": {
+    "path": "PS2/SLES_550.31/SLES_550.31_COV.png",
+    "kind": "cover",
+    "bytes": 89668,
+    "width": 192,
+    "height": 272,
+    "sha256": "d28630ff5e4ab6fff1a0f3a14ae64ce63519b5e156b87d8c13aee1ee725de5c8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55031.jpg"
+    },
+    "gameId": "SLES_550.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_550.31/SLES_550.31_BG.png",
+    "kind": "background",
+    "bytes": 169786,
+    "width": 640,
+    "height": 480,
+    "sha256": "d8a60a3c74aa3dcc1d3aa6bdb92bd28dca0940b7c64202bd4b0a19bf44287957",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.31/SLES_550.31_BG_00.png"
+    },
+    "gameId": "SLES_550.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.31/SLES_550.31_BG.png",
+      "kind": "background",
+      "bytes": 169786,
+      "width": 640,
+      "height": 480,
+      "sha256": "d8a60a3c74aa3dcc1d3aa6bdb92bd28dca0940b7c64202bd4b0a19bf44287957",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.31/SLES_550.31_BG_00.png"
+      },
+      "gameId": "SLES_550.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DREAMWORKS' KUNG FU PANDA"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_554.08",
+  "cover": {
+    "path": "PS2/SLES_554.08/SLES_554.08_COV.png",
+    "kind": "cover",
+    "bytes": 92358,
+    "width": 192,
+    "height": 272,
+    "sha256": "69c5795a2d160c9bf7c84c739b87e9c02db2f5fa1bc3bcdc437317fcdecd8f9a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55408.jpg"
+    },
+    "gameId": "SLES_554.08"
+  },
+  "disc": {
+    "path": "PS2/SLES_554.08/SLES_554.08_ICO.png",
+    "kind": "disc",
+    "bytes": 10575,
+    "width": 128,
+    "height": 128,
+    "sha256": "6c8782c2546bc0418470680f36329cf42d8b7443a4e52d13e4fcac5605e9de9e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_554.08_ICO.png"
+    },
+    "gameId": "SLES_554.08"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RTL Biathlon 2009"
+}

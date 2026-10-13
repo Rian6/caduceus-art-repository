@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.95",
+  "cover": {
+    "path": "PS2/SCAJ_201.95/SCAJ_201.95_COV.png",
+    "kind": "cover",
+    "bytes": 86470,
+    "width": 192,
+    "height": 272,
+    "sha256": "897a89d10a60912cd205dcd2f86a954d6dfae3dced862273fe73695d0404ee26",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20195.jpg"
+    },
+    "gameId": "SCAJ_201.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SARU! GET YOU! 3 [PLAYSTATION 2 THE BEST]"
+}

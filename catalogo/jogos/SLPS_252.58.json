@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_252.58",
+  "cover": {
+    "path": "PS2/SLPS_252.58/SLPS_252.58_COV.png",
+    "kind": "cover",
+    "bytes": 88747,
+    "width": 192,
+    "height": 272,
+    "sha256": "8413de1d304caaa85c93392c1cd4502129772a4962b0c63f6749e2f8be2b8f19",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25258.jpg"
+    },
+    "gameId": "SLPS_252.58"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_252.58/SLPS_252.58_BG.png",
+    "kind": "background",
+    "bytes": 185542,
+    "width": 640,
+    "height": 480,
+    "sha256": "de318c15abce55159f9de2c33efca7bef8ff0d289df1155eefe1dfad4c439f33",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_252.58/SLPS_252.58_BG_00.png"
+    },
+    "gameId": "SLPS_252.58"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_252.58/SLPS_252.58_BG.png",
+      "kind": "background",
+      "bytes": 185542,
+      "width": 640,
+      "height": 480,
+      "sha256": "de318c15abce55159f9de2c33efca7bef8ff0d289df1155eefe1dfad4c439f33",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.58/SLPS_252.58_BG_00.png"
+      },
+      "gameId": "SLPS_252.58"
+    },
+    {
+      "path": "PS2/SLPS_252.58/SLPS_252.58_BG_01.png",
+      "kind": "background",
+      "bytes": 179032,
+      "width": 640,
+      "height": 480,
+      "sha256": "053c8f835fc7cd6273cf2560b1f05ff80f1ced295d5e436a14d55415b7908747",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_252.58/SLPS_252.58_BG_01.png"
+      },
+      "gameId": "SLPS_252.58"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Virtual View - R.C.T. Eizou Play"
+}

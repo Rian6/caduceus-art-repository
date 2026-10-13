@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.91",
+  "cover": {
+    "path": "PS2/SLPS_257.91/SLPS_257.91_COV.png",
+    "kind": "cover",
+    "bytes": 89978,
+    "width": 192,
+    "height": 272,
+    "sha256": "0193bfb485ba6ac1ed31e36c1d7e962714cc5104e6515d729e228cfb838c8c33",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25791.jpg"
+    },
+    "gameId": "SLPS_257.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters - The Orochi Collection (NeoGeo Online Collection Vol.03 - the Best)"
+}

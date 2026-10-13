@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.98",
+  "cover": {
+    "path": "PS2/SLPM_663.98/SLPM_663.98_COV.png",
+    "kind": "cover",
+    "bytes": 103751,
+    "width": 192,
+    "height": 272,
+    "sha256": "73c1d5ce75e54aec73e3ef85010dd68d1fa730b2546636fa144519ff62324277",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66398.jpg"
+    },
+    "gameId": "SLPM_663.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PARFAIT - CHOCOLAT SECOND STYLE"
+}

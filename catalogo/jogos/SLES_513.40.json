@@ -1,0 +1,25 @@
+{
+  "id": "SLES_513.40",
+  "cover": {
+    "path": "PS2/SLES_513.40/SLES_513.40_COV.png",
+    "kind": "cover",
+    "bytes": 81921,
+    "width": 192,
+    "height": 272,
+    "sha256": "92917e39d502a1b14fbc73defea28d8d1044ee136ca958a2e05d214c4eea8303",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51340.jpg"
+    },
+    "gameId": "SLES_513.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA 2K3"
+}

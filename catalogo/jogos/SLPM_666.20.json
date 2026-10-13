@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_666.20",
+  "cover": {
+    "path": "PS2/SLPM_666.20/SLPM_666.20_COV.png",
+    "kind": "cover",
+    "bytes": 86311,
+    "width": 192,
+    "height": 272,
+    "sha256": "93ba971760a76ba76ca455cd305525e96fa45cbc216bb58e796ca106bcc12dea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66620.jpg"
+    },
+    "gameId": "SLPM_666.20"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_666.20/SLPM_666.20_BG.png",
+    "kind": "background",
+    "bytes": 183010,
+    "width": 640,
+    "height": 480,
+    "sha256": "460a09a40d484c85757f0b3e55010f4676bab70fb741d485d332f019e3b228ee",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_666.20/SLPM_666.20_BG_00.png"
+    },
+    "gameId": "SLPM_666.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_666.20/SLPM_666.20_BG.png",
+      "kind": "background",
+      "bytes": 183010,
+      "width": 640,
+      "height": 480,
+      "sha256": "460a09a40d484c85757f0b3e55010f4676bab70fb741d485d332f019e3b228ee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.20/SLPM_666.20_BG_00.png"
+      },
+      "gameId": "SLPM_666.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Higurashi no Naku Koro ni: Matsuri"
+}

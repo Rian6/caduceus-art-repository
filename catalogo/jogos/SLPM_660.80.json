@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.80",
+  "cover": {
+    "path": "PS2/SLPM_660.80/SLPM_660.80_COV.png",
+    "kind": "cover",
+    "bytes": 74598,
+    "width": 192,
+    "height": 272,
+    "sha256": "23aacbb6ad5c6737be676a2a524e7fda9bb521634ef6cb4f9d23011bb5b4e3f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66080.jpg"
+    },
+    "gameId": "SLPM_660.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Generation of Chaos III - Toki no Fuuin (If Collection)"
+}

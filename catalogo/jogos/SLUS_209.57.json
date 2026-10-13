@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_209.57",
+  "cover": {
+    "path": "PS2/SLUS_209.57/SLUS_209.57_COV.png",
+    "kind": "cover",
+    "bytes": 111519,
+    "width": 192,
+    "height": 272,
+    "sha256": "b5cb6b8336d11bce8e316d5f8ba627cbad1bc8b0bc9da1e7380587e2a77184f0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20957.jpg"
+    },
+    "gameId": "SLUS_209.57"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.57/SLUS_209.57_ICO.png",
+    "kind": "disc",
+    "bytes": 34222,
+    "width": 256,
+    "height": 256,
+    "sha256": "d52c59baede6a4ccad9041470ae111b6bf33469a36c908b1be8f0edffa737d60",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.57_ICO.png"
+    },
+    "gameId": "SLUS_209.57"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.57/SLUS_209.57_BG.png",
+    "kind": "background",
+    "bytes": 168080,
+    "width": 640,
+    "height": 480,
+    "sha256": "e5d0cf1c3e9608554229db88251f9c4b8198365f474fab5c2fa09d0846b21241",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.57/SLUS_209.57_BG_00.png"
+    },
+    "gameId": "SLUS_209.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.57/SLUS_209.57_BG.png",
+      "kind": "background",
+      "bytes": 168080,
+      "width": 640,
+      "height": 480,
+      "sha256": "e5d0cf1c3e9608554229db88251f9c4b8198365f474fab5c2fa09d0846b21241",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.57/SLUS_209.57_BG_00.png"
+      },
+      "gameId": "SLUS_209.57"
+    },
+    {
+      "path": "PS2/SLUS_209.57/SLUS_209.57_BG_01.png",
+      "kind": "background",
+      "bytes": 179858,
+      "width": 640,
+      "height": 480,
+      "sha256": "50ea40f878bbdedbc3826da0c9b4f2f65398188ab58de5c0133f027e5b6c5648",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.57/SLUS_209.57_BG_01.png"
+      },
+      "gameId": "SLUS_209.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCALER"
+}

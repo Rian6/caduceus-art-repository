@@ -1,0 +1,78 @@
+{
+  "id": "SLES_536.99",
+  "cover": {
+    "path": "PS2/SLES_536.99/SLES_536.99_COV.png",
+    "kind": "cover",
+    "bytes": 87417,
+    "width": 192,
+    "height": 272,
+    "sha256": "cea70bef40962bd6bdc3e6015215d35f505b60074d645f4c1df40879bddd30da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53699.jpg"
+    },
+    "gameId": "SLES_536.99"
+  },
+  "disc": {
+    "path": "PS2/SLES_536.99/SLES_536.99_ICO.png",
+    "kind": "disc",
+    "bytes": 10233,
+    "width": 128,
+    "height": 128,
+    "sha256": "920d5c1686537d2829ebb5d8c3ed2336e7d46fb6e6d4862c3e7ecf1fcb565fb6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_536.99_ICO.png"
+    },
+    "gameId": "SLES_536.99"
+  },
+  "background": {
+    "path": "PS2/SLES_536.99/SLES_536.99_BG.png",
+    "kind": "background",
+    "bytes": 244432,
+    "width": 640,
+    "height": 480,
+    "sha256": "a4de29f3f3b786a667536d6eac248bd163cdba050d6be46025fc7c2f8eb076dc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.99/SLES_536.99_BG_00.png"
+    },
+    "gameId": "SLES_536.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_536.99/SLES_536.99_BG.png",
+      "kind": "background",
+      "bytes": 244432,
+      "width": 640,
+      "height": 480,
+      "sha256": "a4de29f3f3b786a667536d6eac248bd163cdba050d6be46025fc7c2f8eb076dc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.99/SLES_536.99_BG_00.png"
+      },
+      "gameId": "SLES_536.99"
+    },
+    {
+      "path": "PS2/SLES_536.99/SLES_536.99_BG_01.png",
+      "kind": "background",
+      "bytes": 155672,
+      "width": 640,
+      "height": 480,
+      "sha256": "58584b962ab86b554344620937a94b4390464a4f6d2db669095b90a75851b238",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.99/SLES_536.99_BG_01.png"
+      },
+      "gameId": "SLES_536.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Swords of Destiny"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_528.64",
+  "cover": {
+    "path": "PS2/SLES_528.64/SLES_528.64_COV.png",
+    "kind": "cover",
+    "bytes": 96621,
+    "width": 192,
+    "height": 272,
+    "sha256": "0791880f02cb60f0b601dab6ce7906cba1a8cfd727249cc2d7b5266086b4f08e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52864.jpg"
+    },
+    "gameId": "SLES_528.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.64/SLES_528.64_BG.png",
+    "kind": "background",
+    "bytes": 209257,
+    "width": 640,
+    "height": 480,
+    "sha256": "9f042de75535b4defe6ad22ec26a189d3915d02b8ea0305fecdaffa9107111dc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.64/SLES_528.64_BG_00.png"
+    },
+    "gameId": "SLES_528.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.64/SLES_528.64_BG.png",
+      "kind": "background",
+      "bytes": 209257,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f042de75535b4defe6ad22ec26a189d3915d02b8ea0305fecdaffa9107111dc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.64/SLES_528.64_BG_00.png"
+      },
+      "gameId": "SLES_528.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MX World Tour"
+}

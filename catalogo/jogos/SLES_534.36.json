@@ -1,0 +1,78 @@
+{
+  "id": "SLES_534.36",
+  "cover": {
+    "path": "PS2/SLES_534.36/SLES_534.36_COV.png",
+    "kind": "cover",
+    "bytes": 86999,
+    "width": 192,
+    "height": 272,
+    "sha256": "2b052bbfba7e3deb71f8228201c049a1bcda9a271c5c2cfc257d34476268e0f7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53436.jpg"
+    },
+    "gameId": "SLES_534.36"
+  },
+  "disc": {
+    "path": "PS2/SLES_534.36/SLES_534.36_ICO.png",
+    "kind": "disc",
+    "bytes": 10678,
+    "width": 128,
+    "height": 128,
+    "sha256": "3762398e0589535af2a08b66a15ed4e2184b6b77c1057af2f04ec35b81e89e20",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_534.36_ICO.png"
+    },
+    "gameId": "SLES_534.36"
+  },
+  "background": {
+    "path": "PS2/SLES_534.36/SLES_534.36_BG.png",
+    "kind": "background",
+    "bytes": 183232,
+    "width": 640,
+    "height": 480,
+    "sha256": "4a16357fa4a4513dc613ececd6b91bbc113abb171298ddecf0d10f5248a128a7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.36/SLES_534.36_BG_00.png"
+    },
+    "gameId": "SLES_534.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.36/SLES_534.36_BG.png",
+      "kind": "background",
+      "bytes": 183232,
+      "width": 640,
+      "height": 480,
+      "sha256": "4a16357fa4a4513dc613ececd6b91bbc113abb171298ddecf0d10f5248a128a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.36/SLES_534.36_BG_00.png"
+      },
+      "gameId": "SLES_534.36"
+    },
+    {
+      "path": "PS2/SLES_534.36/SLES_534.36_BG_01.png",
+      "kind": "background",
+      "bytes": 188849,
+      "width": 640,
+      "height": 480,
+      "sha256": "967fef9f80ca0a82f64bca5aec08b98a97930fdc735f3675a29605c7b6f35678",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.36/SLES_534.36_BG_01.png"
+      },
+      "gameId": "SLES_534.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "YetiSports Arctic Adventures"
+}

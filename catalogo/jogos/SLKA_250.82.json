@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_250.82",
+  "cover": {
+    "path": "PS2/SLKA_250.82/SLKA_250.82_COV.png",
+    "kind": "cover",
+    "bytes": 108781,
+    "width": 192,
+    "height": 272,
+    "sha256": "cb5b9f771a0c267010f0bd2285023c934af94f0916bf4ff8366f6398ac602a2a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25082.jpg"
+    },
+    "gameId": "SLKA_250.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_250.82/SLKA_250.82_BG.png",
+    "kind": "background",
+    "bytes": 245089,
+    "width": 640,
+    "height": 480,
+    "sha256": "f855f9642fcc21d83be83504a7cff7d37560038ae7053fdc0928eb0cb4faf513",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.82/SLKA_250.82_BG_00.png"
+    },
+    "gameId": "SLKA_250.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_250.82/SLKA_250.82_BG.png",
+      "kind": "background",
+      "bytes": 245089,
+      "width": 640,
+      "height": 480,
+      "sha256": "f855f9642fcc21d83be83504a7cff7d37560038ae7053fdc0928eb0cb4faf513",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.82/SLKA_250.82_BG_00.png"
+      },
+      "gameId": "SLKA_250.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CASTLEVANIA"
+}

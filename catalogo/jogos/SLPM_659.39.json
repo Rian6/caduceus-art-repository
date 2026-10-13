@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_659.39",
+  "cover": {
+    "path": "PS2/SLPM_659.39/SLPM_659.39_COV.png",
+    "kind": "cover",
+    "bytes": 96401,
+    "width": 192,
+    "height": 272,
+    "sha256": "f2405673f3be5aa125d5e9801b77d7bdb419819468f73b3cbff26c6c75bc9eeb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65939.jpg"
+    },
+    "gameId": "SLPM_659.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_659.39/SLPM_659.39_BG.png",
+    "kind": "background",
+    "bytes": 180066,
+    "width": 640,
+    "height": 480,
+    "sha256": "f8295f6380b40033e4aee96fae9b0b6995155ff6d4b4aafa8d2f6c7f2a6a6b78",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_659.39/SLPM_659.39_BG_00.png"
+    },
+    "gameId": "SLPM_659.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_659.39/SLPM_659.39_BG.png",
+      "kind": "background",
+      "bytes": 180066,
+      "width": 640,
+      "height": 480,
+      "sha256": "f8295f6380b40033e4aee96fae9b0b6995155ff6d4b4aafa8d2f6c7f2a6a6b78",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.39/SLPM_659.39_BG_00.png"
+      },
+      "gameId": "SLPM_659.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Memories Off: After Rain Vol. 3: Sotsugyou"
+}

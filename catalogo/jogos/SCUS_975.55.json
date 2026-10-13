@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_975.55",
+  "cover": {
+    "path": "PS2/SCUS_975.55/SCUS_975.55_COV.png",
+    "kind": "cover",
+    "bytes": 99231,
+    "width": 192,
+    "height": 272,
+    "sha256": "7e45f37f94d328529a962fffddd74abdc9f6170e6e248c60b0a29c63b623e80d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97555.jpg"
+    },
+    "gameId": "SCUS_975.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jak and Daxter Complete Trilogy"
+}

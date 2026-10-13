@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.55",
+  "cover": {
+    "path": "PS2/SLPM_621.55/SLPM_621.55_COV.png",
+    "kind": "cover",
+    "bytes": 98750,
+    "width": 192,
+    "height": 272,
+    "sha256": "d49d445756b2cb4d9d25adfbc5d311167abfb9e5e496f4c869592db700b53fc2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62155.jpg"
+    },
+    "gameId": "SLPM_621.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Baseball 2002 - Battle Ball Park Sengen"
+}

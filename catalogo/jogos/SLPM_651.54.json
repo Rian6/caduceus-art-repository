@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.54",
+  "cover": {
+    "path": "PS2/SLPM_651.54/SLPM_651.54_COV.png",
+    "kind": "cover",
+    "bytes": 105404,
+    "width": 192,
+    "height": 272,
+    "sha256": "44b0e74c515bc4d606f59b1328c83e8263db839d57ebae013d3eebb0f8e6e736",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65154.jpg"
+    },
+    "gameId": "SLPM_651.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KIMI GA NOZOMU EIEN - RUMBLING HEARTS [LIMITED EDITION]"
+}

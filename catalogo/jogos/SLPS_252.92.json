@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.92",
+  "cover": {
+    "path": "PS2/SLPS_252.92/SLPS_252.92_COV.png",
+    "kind": "cover",
+    "bytes": 101470,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ef5507927a25f75d8c2e1074f128cc4a48db2c745cc98f7870cc8186142e77d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25292.jpg"
+    },
+    "gameId": "SLPS_252.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "D-A - Black"
+}

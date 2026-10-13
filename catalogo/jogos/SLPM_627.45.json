@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.45",
+  "cover": {
+    "path": "PS2/SLPM_627.45/SLPM_627.45_COV.png",
+    "kind": "cover",
+    "bytes": 84421,
+    "width": 192,
+    "height": 272,
+    "sha256": "daea1c3c2e30028dd0f3d7ba75e7aefba27981f3e5c4b1577bdfdc6276a5d090",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62745.jpg"
+    },
+    "gameId": "SLPM_627.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Oretachi Game Center Zoku - Trio de Punch"
+}

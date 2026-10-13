@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.66",
+  "cover": {
+    "path": "PS2/SLPM_667.66/SLPM_667.66_COV.png",
+    "kind": "cover",
+    "bytes": 92734,
+    "width": 192,
+    "height": 272,
+    "sha256": "8d655842e8663eb09ec6cb9e51a54e865c1f7c68292eed0167c993b000163455",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66766.jpg"
+    },
+    "gameId": "SLPM_667.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JUUJIMOTO RIPPUTAI SYPHER - GAME OF SURVIVAL"
+}

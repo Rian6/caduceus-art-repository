@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_976.44",
+  "cover": {
+    "path": "PS2/SCUS_976.44/SCUS_976.44_COV.png",
+    "kind": "cover",
+    "bytes": 79750,
+    "width": 192,
+    "height": 272,
+    "sha256": "88049e42e1b0e3abc377ed4cd233872ffa35b9129c6a9a06ea2ebdd032fe08ee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97644.jpg"
+    },
+    "gameId": "SCUS_976.44"
+  },
+  "disc": {
+    "path": "PS2/SCUS_976.44/SCUS_976.44_ICO.png",
+    "kind": "disc",
+    "bytes": 32524,
+    "width": 256,
+    "height": 256,
+    "sha256": "96bd2c767e99d46fe6b3a9ac3a05c8dc9331f4fcdfe6354cbff01c4771e8a873",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_976.44_ICO.png"
+    },
+    "gameId": "SCUS_976.44"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MLB 09: The Show"
+}

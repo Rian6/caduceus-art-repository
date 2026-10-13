@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.43",
+  "cover": {
+    "path": "PS2/SLPS_202.43/SLPS_202.43_COV.png",
+    "kind": "cover",
+    "bytes": 115893,
+    "width": 192,
+    "height": 272,
+    "sha256": "8b6d122b81ba02262c17c6fddf254baceb4155e415e10e940ceaacf6c5cac69a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20243.jpg"
+    },
+    "gameId": "SLPS_202.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAGICAL SPORTS - GO GO GOLF [NEWPRICE]"
+}

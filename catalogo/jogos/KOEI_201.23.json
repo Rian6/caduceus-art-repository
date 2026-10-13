@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.23",
+  "cover": {
+    "path": "PS2/KOEI_201.23/KOEI_201.23_COV.png",
+    "kind": "cover",
+    "bytes": 52791,
+    "width": 192,
+    "height": 272,
+    "sha256": "6d11d069da556441cdb6025c0b0bb5ac52f253df5e751e0795a1ceaa4794238f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_201.23/KOEI_201.23_COV.png"
+    },
+    "gameId": "KOEI_201.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Musou Orochi (Treasure Box)"
+}

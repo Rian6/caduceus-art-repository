@@ -1,0 +1,65 @@
+{
+  "id": "SLES_539.23",
+  "cover": {
+    "path": "PS2/SLES_539.23/SLES_539.23_COV.png",
+    "kind": "cover",
+    "bytes": 100471,
+    "width": 192,
+    "height": 272,
+    "sha256": "807f35bcc9fe604a9b08e336dba674b18e7fadea08cb6099890ff3c8b0a3f526",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53923.jpg"
+    },
+    "gameId": "SLES_539.23"
+  },
+  "disc": {
+    "path": "PS2/SLES_539.23/SLES_539.23_ICO.png",
+    "kind": "disc",
+    "bytes": 12082,
+    "width": 128,
+    "height": 128,
+    "sha256": "807143be6b89bd269c0f344c95162dd8bc4867ddc71d22aae2e214f339fa1f50",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_539.23_ICO.png"
+    },
+    "gameId": "SLES_539.23"
+  },
+  "background": {
+    "path": "PS2/SLES_539.23/SLES_539.23_BG.png",
+    "kind": "background",
+    "bytes": 210082,
+    "width": 640,
+    "height": 480,
+    "sha256": "b2b93b50bbac9ee49c7aa4d2a49aa181d9c33cc55c3a45c2f1b39d69f2e34f06",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.23/SLES_539.23_BG_00.png"
+    },
+    "gameId": "SLES_539.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.23/SLES_539.23_BG.png",
+      "kind": "background",
+      "bytes": 210082,
+      "width": 640,
+      "height": 480,
+      "sha256": "b2b93b50bbac9ee49c7aa4d2a49aa181d9c33cc55c3a45c2f1b39d69f2e34f06",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.23/SLES_539.23_BG_00.png"
+      },
+      "gameId": "SLES_539.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "London Cab Challenge"
+}

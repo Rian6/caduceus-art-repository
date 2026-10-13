@@ -1,0 +1,64 @@
+{
+  "id": "SLES_513.22",
+  "cover": {
+    "path": "PS2/SLES_513.22/SLES_513.22_COV.png",
+    "kind": "cover",
+    "bytes": 94274,
+    "width": 192,
+    "height": 272,
+    "sha256": "faf14293d073be8a348f836b393ef9987053034d307a3058fb35707a25b1cb53",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51322.jpg"
+    },
+    "gameId": "SLES_513.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_513.22/SLES_513.22_BG.png",
+    "kind": "background",
+    "bytes": 218988,
+    "width": 640,
+    "height": 480,
+    "sha256": "09ff83f99db0a248b30d8c5f079d88138fb30f4b4427048c3054060483e60a8e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_513.22/SLES_513.22_BG_00.png"
+    },
+    "gameId": "SLES_513.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_513.22/SLES_513.22_BG.png",
+      "kind": "background",
+      "bytes": 218988,
+      "width": 640,
+      "height": 480,
+      "sha256": "09ff83f99db0a248b30d8c5f079d88138fb30f4b4427048c3054060483e60a8e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.22/SLES_513.22_BG_00.png"
+      },
+      "gameId": "SLES_513.22"
+    },
+    {
+      "path": "PS2/SLES_513.22/SLES_513.22_BG_01.png",
+      "kind": "background",
+      "bytes": 223146,
+      "width": 640,
+      "height": 480,
+      "sha256": "ceb1dd19159a0e0c388fdf29931a2bcd81fdda4a4d081ad1e2b01aa4e1b53bff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.22/SLES_513.22_BG_01.png"
+      },
+      "gameId": "SLES_513.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Robotech: Battlecry"
+}

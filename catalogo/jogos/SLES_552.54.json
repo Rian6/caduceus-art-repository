@@ -1,0 +1,51 @@
+{
+  "id": "SLES_552.54",
+  "cover": {
+    "path": "PS2/SLES_552.54/SLES_552.54_COV.png",
+    "kind": "cover",
+    "bytes": 94822,
+    "width": 192,
+    "height": 272,
+    "sha256": "be9f8690fff685af771a1c6b04e987d78be78c53453a2b5420c33850b248d8b7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55254.jpg"
+    },
+    "gameId": "SLES_552.54"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_552.54/SLES_552.54_BG.png",
+    "kind": "background",
+    "bytes": 208504,
+    "width": 640,
+    "height": 480,
+    "sha256": "f94e88f7565be76c5f059961ff7f6c4117f15db286b2f19c2dcb21c6736ae6d2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_552.54/SLES_552.54_BG_00.png"
+    },
+    "gameId": "SLES_552.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_552.54/SLES_552.54_BG.png",
+      "kind": "background",
+      "bytes": 208504,
+      "width": 640,
+      "height": 480,
+      "sha256": "f94e88f7565be76c5f059961ff7f6c4117f15db286b2f19c2dcb21c6736ae6d2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.54/SLES_552.54_BG_00.png"
+      },
+      "gameId": "SLES_552.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Incredible Hulk"
+}

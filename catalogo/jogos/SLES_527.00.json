@@ -1,0 +1,51 @@
+{
+  "id": "SLES_527.00",
+  "cover": {
+    "path": "PS2/SLES_527.00/SLES_527.00_COV.png",
+    "kind": "cover",
+    "bytes": 96848,
+    "width": 192,
+    "height": 272,
+    "sha256": "4ee495e7be76576c83b9619f90f8d007e03feb5865fdc5097d54ee071cc8e443",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52700.jpg"
+    },
+    "gameId": "SLES_527.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.00/SLES_527.00_BG.png",
+    "kind": "background",
+    "bytes": 159128,
+    "width": 640,
+    "height": 480,
+    "sha256": "a6442f6deeb0ef2b8927aad662b6b9dfc4fc8b04add966386705c246b087602e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.00/SLES_527.00_BG_00.png"
+    },
+    "gameId": "SLES_527.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.00/SLES_527.00_BG.png",
+      "kind": "background",
+      "bytes": 159128,
+      "width": 640,
+      "height": 480,
+      "sha256": "a6442f6deeb0ef2b8927aad662b6b9dfc4fc8b04add966386705c246b087602e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.00/SLES_527.00_BG_00.png"
+      },
+      "gameId": "SLES_527.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE ADVENTURES OF JIMMY NEUTRON - BOY GENIUS - ATTACK OF THE TWONKIES"
+}

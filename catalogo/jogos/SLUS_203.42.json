@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_203.42",
+  "cover": {
+    "path": "PS2/SLUS_203.42/SLUS_203.42_COV.png",
+    "kind": "cover",
+    "bytes": 104636,
+    "width": 192,
+    "height": 272,
+    "sha256": "2e82878c7418f97421e4c4de234a0cc0343d5e76b4ca27fa08d9fee7bd1390ae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20342.jpg"
+    },
+    "gameId": "SLUS_203.42"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.42/SLUS_203.42_ICO.png",
+    "kind": "disc",
+    "bytes": 31088,
+    "width": 256,
+    "height": 256,
+    "sha256": "4a80ad85576d23059fb0b269f17b1d36bf11478a08e798ac5e779f191ea3cecf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.42_ICO.png"
+    },
+    "gameId": "SLUS_203.42"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Top Angler: Real Bass Fishing"
+}

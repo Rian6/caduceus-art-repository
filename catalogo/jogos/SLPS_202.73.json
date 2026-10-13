@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.73",
+  "cover": {
+    "path": "PS2/SLPS_202.73/SLPS_202.73_COV.png",
+    "kind": "cover",
+    "bytes": 92659,
+    "width": 192,
+    "height": 272,
+    "sha256": "211ca66b6b5ae9ea9b7b6db871f57ee50c65cb0f863ac083a23a279e8c30d38b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20273.jpg"
+    },
+    "gameId": "SLPS_202.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Netsu Chu! Pro Baseball 2003"
+}

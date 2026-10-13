@@ -1,0 +1,25 @@
+{
+  "id": "SLES_541.57",
+  "cover": {
+    "path": "PS2/SLES_541.57/SLES_541.57_COV.png",
+    "kind": "cover",
+    "bytes": 82303,
+    "width": 192,
+    "height": 272,
+    "sha256": "b18633695212b5a13cf2c457f8439841a6e6a5d3a128435f11908748a5595694",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54157.jpg"
+    },
+    "gameId": "SLES_541.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SnoCross 2 featuring Blair Morgan"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SCES_552.10",
+  "cover": {
+    "path": "PS2/SCES_552.10/SCES_552.10_COV.png",
+    "kind": "cover",
+    "bytes": 111034,
+    "width": 192,
+    "height": 272,
+    "sha256": "97db23c4682ec45fa1e2b279b1f5f5058238cce4831c0e8bd43ef027ee82cb9e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55210.jpg"
+    },
+    "gameId": "SCES_552.10"
+  },
+  "disc": {
+    "path": "PS2/SCES_552.10/SCES_552.10_ICO.png",
+    "kind": "disc",
+    "bytes": 12030,
+    "width": 128,
+    "height": 128,
+    "sha256": "529aaf44403b0429824177f4d50693877c558803ad359d64bcd3412289afe14f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_552.10_ICO.png"
+    },
+    "gameId": "SCES_552.10"
+  },
+  "background": {
+    "path": "PS2/SCES_552.10/SCES_552.10_BG.png",
+    "kind": "background",
+    "bytes": 169647,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a27c004c157507a41e7e29c0e1030c8200056078f80088041222640cd8f1de8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_552.10/SCES_552.10_BG_00.png"
+    },
+    "gameId": "SCES_552.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_552.10/SCES_552.10_BG.png",
+      "kind": "background",
+      "bytes": 169647,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a27c004c157507a41e7e29c0e1030c8200056078f80088041222640cd8f1de8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_552.10/SCES_552.10_BG_00.png"
+      },
+      "gameId": "SCES_552.10"
+    },
+    {
+      "path": "PS2/SCES_552.10/SCES_552.10_BG_01.png",
+      "kind": "background",
+      "bytes": 78303,
+      "width": 640,
+      "height": 480,
+      "sha256": "e65394602a050e674b44da25cdfa4a8bed9c97e6637ca944c5ba2e94e7ffdc58",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_552.10/SCES_552.10_BG_01.png"
+      },
+      "gameId": "SCES_552.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BUZZ! JUNIOR - ACE RACERS"
+}

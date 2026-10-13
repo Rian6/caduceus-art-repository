@@ -1,0 +1,51 @@
+{
+  "id": "SLES_511.60",
+  "cover": {
+    "path": "PS2/SLES_511.60/SLES_511.60_COV.png",
+    "kind": "cover",
+    "bytes": 100182,
+    "width": 192,
+    "height": 272,
+    "sha256": "3344ac86b4001b162ffb1c887c45f4242f80cc5720556dd43f535a20ae8b1483",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51160.jpg"
+    },
+    "gameId": "SLES_511.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_511.60/SLES_511.60_BG.png",
+    "kind": "background",
+    "bytes": 68707,
+    "width": 640,
+    "height": 480,
+    "sha256": "67e4dad4b2969f7ffd53d37e344008106f4e6caedecb0fa77dd4de7fb2accf47",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_511.60/SLES_511.60_BG_00.png"
+    },
+    "gameId": "SLES_511.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_511.60/SLES_511.60_BG.png",
+      "kind": "background",
+      "bytes": 68707,
+      "width": 640,
+      "height": 480,
+      "sha256": "67e4dad4b2969f7ffd53d37e344008106f4e6caedecb0fa77dd4de7fb2accf47",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.60/SLES_511.60_BG_00.png"
+      },
+      "gameId": "SLES_511.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUB REBELLION"
+}

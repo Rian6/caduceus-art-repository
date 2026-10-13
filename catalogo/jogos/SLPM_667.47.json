@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.47",
+  "cover": {
+    "path": "PS2/SLPM_667.47/SLPM_667.47_COV.png",
+    "kind": "cover",
+    "bytes": 104357,
+    "width": 192,
+    "height": 272,
+    "sha256": "3bd3904d78d39074a7a23f9a8471aaa9ee51cd43a7fce3e6bdfa1fd186759a3f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66747.jpg"
+    },
+    "gameId": "SLPM_667.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Baroque"
+}

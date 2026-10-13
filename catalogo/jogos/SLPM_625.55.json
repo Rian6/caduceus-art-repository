@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.55",
+  "cover": {
+    "path": "PS2/SLPM_625.55/SLPM_625.55_COV.png",
+    "kind": "cover",
+    "bytes": 106560,
+    "width": 192,
+    "height": 272,
+    "sha256": "448c2d89935312b485a6d3fd689de3008e183cf98e0982a7d24dddce6195e797",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62555.jpg"
+    },
+    "gameId": "SLPM_625.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Momotarou Densetsu USA"
+}

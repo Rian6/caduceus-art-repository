@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_259.20",
+  "cover": {
+    "path": "PS2/SLPS_259.20/SLPS_259.20_COV.png",
+    "kind": "cover",
+    "bytes": 112387,
+    "width": 192,
+    "height": 272,
+    "sha256": "3ea7ddf8648377ea307d7222c8b2af96a7e40cdebb707511dd3b32d5a8c5123a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25920.jpg"
+    },
+    "gameId": "SLPS_259.20"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_259.20/SLPS_259.20_BG.png",
+    "kind": "background",
+    "bytes": 229087,
+    "width": 640,
+    "height": 480,
+    "sha256": "29f77fa32daa8a48240227d973b517d39c18729ba37c64fc2fa23b6050754741",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_259.20/SLPS_259.20_BG_00.png"
+    },
+    "gameId": "SLPS_259.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_259.20/SLPS_259.20_BG.png",
+      "kind": "background",
+      "bytes": 229087,
+      "width": 640,
+      "height": 480,
+      "sha256": "29f77fa32daa8a48240227d973b517d39c18729ba37c64fc2fa23b6050754741",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_259.20/SLPS_259.20_BG_00.png"
+      },
+      "gameId": "SLPS_259.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Robot Taisen Z (Special Disc)"
+}

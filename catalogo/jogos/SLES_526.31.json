@@ -1,0 +1,77 @@
+{
+  "id": "SLES_526.31",
+  "cover": {
+    "path": "PS2/SLES_526.31/SLES_526.31_COV.png",
+    "kind": "cover",
+    "bytes": 107192,
+    "width": 192,
+    "height": 272,
+    "sha256": "dde91d5f7b53fff2e573b58ae7ff9d45dece6f7ba37f2e3d300811080f9efdec",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52631.jpg"
+    },
+    "gameId": "SLES_526.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_526.31/SLES_526.31_BG.png",
+    "kind": "background",
+    "bytes": 224335,
+    "width": 640,
+    "height": 480,
+    "sha256": "04797a7bcc1aa897a7f96cdf10c5c682ef7862c95d84310723a8156d3d89c320",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_526.31/SLES_526.31_BG_00.png"
+    },
+    "gameId": "SLES_526.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_526.31/SLES_526.31_BG.png",
+      "kind": "background",
+      "bytes": 224335,
+      "width": 640,
+      "height": 480,
+      "sha256": "04797a7bcc1aa897a7f96cdf10c5c682ef7862c95d84310723a8156d3d89c320",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.31/SLES_526.31_BG_00.png"
+      },
+      "gameId": "SLES_526.31"
+    },
+    {
+      "path": "PS2/SLES_526.31/SLES_526.31_BG_01.png",
+      "kind": "background",
+      "bytes": 32072,
+      "width": 640,
+      "height": 480,
+      "sha256": "faa6074f8ed6d711d33cf477a166a64fedb15c8583c28cf7e2da1911a551a260",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.31/SLES_526.31_BG_01.png"
+      },
+      "gameId": "SLES_526.31"
+    },
+    {
+      "path": "PS2/SLES_526.31/SLES_526.31_BG_02.png",
+      "kind": "background",
+      "bytes": 97612,
+      "width": 640,
+      "height": 480,
+      "sha256": "c9faeb3a3a6924e2e3069c0bf2e0c7801a800c6c424997eb300d21e93c67a361",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.31/SLES_526.31_BG_02.png"
+      },
+      "gameId": "SLES_526.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DIGIMON RUMBLE ARENA 2"
+}

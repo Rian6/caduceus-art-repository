@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_217.18",
+  "cover": {
+    "path": "PS2/SLUS_217.18/SLUS_217.18_COV.png",
+    "kind": "cover",
+    "bytes": 114120,
+    "width": 192,
+    "height": 272,
+    "sha256": "0782c894bacda605b89df7fa92ca75574b6467c99e298f6f4a040971f0dffa23",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21718.jpg"
+    },
+    "gameId": "SLUS_217.18"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.18/SLUS_217.18_ICO.png",
+    "kind": "disc",
+    "bytes": 38584,
+    "width": 256,
+    "height": 256,
+    "sha256": "664b9a32ef40342b77212af99b46f6f3b0c4bf3d67db33460634b435f99793dd",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.18_ICO.png"
+    },
+    "gameId": "SLUS_217.18"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.18/SLUS_217.18_BG.png",
+    "kind": "background",
+    "bytes": 65383,
+    "width": 640,
+    "height": 480,
+    "sha256": "72ea4483af29615bb33dbabcf97150bffdbc57ddf03e81e99f8d4e505a8d0249",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.18/SLUS_217.18_BG_00.png"
+    },
+    "gameId": "SLUS_217.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.18/SLUS_217.18_BG.png",
+      "kind": "background",
+      "bytes": 65383,
+      "width": 640,
+      "height": 480,
+      "sha256": "72ea4483af29615bb33dbabcf97150bffdbc57ddf03e81e99f8d4e505a8d0249",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.18/SLUS_217.18_BG_00.png"
+      },
+      "gameId": "SLUS_217.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Go Diego Go - Safari Rescue"
+}

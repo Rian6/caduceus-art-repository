@@ -1,0 +1,103 @@
+{
+  "id": "SLES_515.89",
+  "cover": {
+    "path": "PS2/SLES_515.89/SLES_515.89_COV.png",
+    "kind": "cover",
+    "bytes": 84590,
+    "width": 192,
+    "height": 272,
+    "sha256": "37abf30d28eea1a87c66185de4562986f717a20ea3513f8a599f040d8a2d7f30",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51589.jpg"
+    },
+    "gameId": "SLES_515.89"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_515.89/SLES_515.89_BG.png",
+    "kind": "background",
+    "bytes": 55322,
+    "width": 640,
+    "height": 480,
+    "sha256": "266fd9958a02adcaf1c555b0f44d9456fd8af2598ba09f8c2343addd03b78d16",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_515.89/SLES_515.89_BG_00.png"
+    },
+    "gameId": "SLES_515.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_515.89/SLES_515.89_BG.png",
+      "kind": "background",
+      "bytes": 55322,
+      "width": 640,
+      "height": 480,
+      "sha256": "266fd9958a02adcaf1c555b0f44d9456fd8af2598ba09f8c2343addd03b78d16",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.89/SLES_515.89_BG_00.png"
+      },
+      "gameId": "SLES_515.89"
+    },
+    {
+      "path": "PS2/SLES_515.89/SLES_515.89_BG_01.png",
+      "kind": "background",
+      "bytes": 156937,
+      "width": 640,
+      "height": 480,
+      "sha256": "0684072f60932ee4891334de3233369ecb952e23463d700581db337ff56a8c19",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.89/SLES_515.89_BG_01.png"
+      },
+      "gameId": "SLES_515.89"
+    },
+    {
+      "path": "PS2/SLES_515.89/SLES_515.89_BG_02.png",
+      "kind": "background",
+      "bytes": 82186,
+      "width": 640,
+      "height": 480,
+      "sha256": "dbf4ebab36f3061416da59567b499da3f15521080dce5623003e3c7acadef914",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.89/SLES_515.89_BG_02.png"
+      },
+      "gameId": "SLES_515.89"
+    },
+    {
+      "path": "PS2/SLES_515.89/SLES_515.89_BG_03.png",
+      "kind": "background",
+      "bytes": 192632,
+      "width": 640,
+      "height": 480,
+      "sha256": "e6390e56c909ecb3292df5fb319f0cd1c9580834587151b682aa30b6ba1c3943",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.89/SLES_515.89_BG_03.png"
+      },
+      "gameId": "SLES_515.89"
+    },
+    {
+      "path": "PS2/SLES_515.89/SLES_515.89_BG_04.png",
+      "kind": "background",
+      "bytes": 208773,
+      "width": 640,
+      "height": 480,
+      "sha256": "6b10d40dfaf9f99abe4c206c441d2e75d3e4b5de9b803c38bf79a2d87df5bfbc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.89/SLES_515.89_BG_04.png"
+      },
+      "gameId": "SLES_515.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RESIDENT EVIL - OUTBREAK"
+}

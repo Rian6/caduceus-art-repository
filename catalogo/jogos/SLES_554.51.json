@@ -1,0 +1,25 @@
+{
+  "id": "SLES_554.51",
+  "cover": {
+    "path": "PS2/SLES_554.51/SLES_554.51_COV.png",
+    "kind": "cover",
+    "bytes": 94687,
+    "width": 192,
+    "height": 272,
+    "sha256": "6a5daef45ef7ab41794dc61397459f0b8c87a89f4ec98390308c32b900250236",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55451.jpg"
+    },
+    "gameId": "SLES_554.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rock Band 2"
+}

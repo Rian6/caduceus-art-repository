@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_655.96",
+  "cover": {
+    "path": "PS2/SLPM_655.96/SLPM_655.96_COV.png",
+    "kind": "cover",
+    "bytes": 100805,
+    "width": 192,
+    "height": 272,
+    "sha256": "662ebefeecfb96ee93109af27eaf7f3ca695164d4f084ca13ec210c62c747fe1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65596.jpg"
+    },
+    "gameId": "SLPM_655.96"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_655.96/SLPM_655.96_BG.png",
+    "kind": "background",
+    "bytes": 195629,
+    "width": 640,
+    "height": 480,
+    "sha256": "df79eef8cde372d76d39a20ee368ac86fea215f28c0d493e6e6e95cb76b1e225",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_655.96/SLPM_655.96_BG_00.png"
+    },
+    "gameId": "SLPM_655.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_655.96/SLPM_655.96_BG.png",
+      "kind": "background",
+      "bytes": 195629,
+      "width": 640,
+      "height": 480,
+      "sha256": "df79eef8cde372d76d39a20ee368ac86fea215f28c0d493e6e6e95cb76b1e225",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_655.96/SLPM_655.96_BG_00.png"
+      },
+      "gameId": "SLPM_655.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Juuni Kokuki - Kakukakutaru Oudou, Kouryoku no Uka"
+}

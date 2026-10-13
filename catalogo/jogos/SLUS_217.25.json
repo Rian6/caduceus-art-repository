@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_217.25",
+  "cover": {
+    "path": "PS2/SLUS_217.25/SLUS_217.25_COV.png",
+    "kind": "cover",
+    "bytes": 115328,
+    "width": 192,
+    "height": 272,
+    "sha256": "3df3aa0ca886e566ec3dbeb88de32d0b99ca73e9ec7aeed19f24501e0e595d81",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21725.jpg"
+    },
+    "gameId": "SLUS_217.25"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.25/SLUS_217.25_ICO.png",
+    "kind": "disc",
+    "bytes": 30469,
+    "width": 256,
+    "height": 256,
+    "sha256": "68c00461a86f95449cdd29fea11005edcc4ab6c1aa06f5db2eed83bbe1750450",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.25_ICO.png"
+    },
+    "gameId": "SLUS_217.25"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.25/SLUS_217.25_BG.png",
+    "kind": "background",
+    "bytes": 181439,
+    "width": 640,
+    "height": 480,
+    "sha256": "3bdb271b043859f8b5255ef51745b5b7a210be7336761c21dd4c6ec87828660d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.25/SLUS_217.25_BG_00.png"
+    },
+    "gameId": "SLUS_217.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.25/SLUS_217.25_BG.png",
+      "kind": "background",
+      "bytes": 181439,
+      "width": 640,
+      "height": 480,
+      "sha256": "3bdb271b043859f8b5255ef51745b5b7a210be7336761c21dd4c6ec87828660d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.25/SLUS_217.25_BG_00.png"
+      },
+      "gameId": "SLUS_217.25"
+    },
+    {
+      "path": "PS2/SLUS_217.25/SLUS_217.25_BG_01.png",
+      "kind": "background",
+      "bytes": 213457,
+      "width": 640,
+      "height": 480,
+      "sha256": "4c25b60384917709c5f0f396a049df1822884b80761fa0e125d2c7330ec6bee4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.25/SLUS_217.25_BG_01.png"
+      },
+      "gameId": "SLUS_217.25"
+    },
+    {
+      "path": "PS2/SLUS_217.25/SLUS_217.25_BG_02.png",
+      "kind": "background",
+      "bytes": 201369,
+      "width": 640,
+      "height": 480,
+      "sha256": "96a835da9cbf037f2e244cc9f0ff1485d9eab028f193f9a7c74ad43b00319138",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.25/SLUS_217.25_BG_02.png"
+      },
+      "gameId": "SLUS_217.25"
+    },
+    {
+      "path": "PS2/SLUS_217.25/SLUS_217.25_BG_03.png",
+      "kind": "background",
+      "bytes": 205044,
+      "width": 640,
+      "height": 480,
+      "sha256": "07974ab7866f20c95117f5c0e303ca57c10962e59f830353011c659c22131f84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.25/SLUS_217.25_BG_03.png"
+      },
+      "gameId": "SLUS_217.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Heroes Anthology"
+}

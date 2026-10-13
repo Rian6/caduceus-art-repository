@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_217.57",
+  "cover": {
+    "path": "PS2/SLUS_217.57/SLUS_217.57_COV.png",
+    "kind": "cover",
+    "bytes": 100129,
+    "width": 192,
+    "height": 272,
+    "sha256": "0e92e2d5c016c51f4536ab75c1ea402936de6ca742e4270e2e4733e7ab54b7b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21757.jpg"
+    },
+    "gameId": "SLUS_217.57"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.57/SLUS_217.57_ICO.png",
+    "kind": "disc",
+    "bytes": 29120,
+    "width": 256,
+    "height": 256,
+    "sha256": "ba3c5dbc6293848925ce3e646f013705cda83f2a71c45a14c44c5b428ca77671",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.57_ICO.png"
+    },
+    "gameId": "SLUS_217.57"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.57/SLUS_217.57_BG.png",
+    "kind": "background",
+    "bytes": 188791,
+    "width": 640,
+    "height": 480,
+    "sha256": "29da38c1b04794fbc353ae208e9ce38e0d3ac8da8d8f4262915f8ce4117887bb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.57/SLUS_217.57_BG_00.png"
+    },
+    "gameId": "SLUS_217.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.57/SLUS_217.57_BG.png",
+      "kind": "background",
+      "bytes": 188791,
+      "width": 640,
+      "height": 480,
+      "sha256": "29da38c1b04794fbc353ae208e9ce38e0d3ac8da8d8f4262915f8ce4117887bb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.57/SLUS_217.57_BG_00.png"
+      },
+      "gameId": "SLUS_217.57"
+    },
+    {
+      "path": "PS2/SLUS_217.57/SLUS_217.57_BG_01.png",
+      "kind": "background",
+      "bytes": 137080,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a9199bd5f12d617402705a57d6886b9b761b313b5e5cb06b5383b0cf69cd7ec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.57/SLUS_217.57_BG_01.png"
+      },
+      "gameId": "SLUS_217.57"
+    },
+    {
+      "path": "PS2/SLUS_217.57/SLUS_217.57_BG_02.png",
+      "kind": "background",
+      "bytes": 190331,
+      "width": 640,
+      "height": 480,
+      "sha256": "8f15ad13850b6c5bd0184ecedf15d8fafbcb65272ba1a51a52ac46cabf17aac4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.57/SLUS_217.57_BG_02.png"
+      },
+      "gameId": "SLUS_217.57"
+    },
+    {
+      "path": "PS2/SLUS_217.57/SLUS_217.57_BG_03.png",
+      "kind": "background",
+      "bytes": 184453,
+      "width": 640,
+      "height": 480,
+      "sha256": "afce2b425b4de7bf9be3c3465c269c6530b99d981d7dfd0a98f02f7f3be28483",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.57/SLUS_217.57_BG_03.png"
+      },
+      "gameId": "SLUS_217.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DREAMWORKS' KUNG FU PANDA"
+}

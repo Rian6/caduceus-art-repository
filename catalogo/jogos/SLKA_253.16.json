@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.16",
+  "cover": {
+    "path": "PS2/SLKA_253.16/SLKA_253.16_COV.png",
+    "kind": "cover",
+    "bytes": 56316,
+    "width": 192,
+    "height": 272,
+    "sha256": "38f4380e4583fcdc634a4c389335e73d94ff23db727d01fc13f73ca9ad20bd95",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.16/SLKA_253.16_COV.png"
+    },
+    "gameId": "SLKA_253.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Incredibles: Rise of the Underminer"
+}

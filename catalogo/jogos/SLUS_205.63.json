@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_205.63",
+  "cover": {
+    "path": "PS2/SLUS_205.63/SLUS_205.63_COV.png",
+    "kind": "cover",
+    "bytes": 111951,
+    "width": 192,
+    "height": 272,
+    "sha256": "9f80ac6963413c67ad327d375b95bd4207f19d7f7a1517722b91c27726324081",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20563.jpg"
+    },
+    "gameId": "SLUS_205.63"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.63/SLUS_205.63_ICO.png",
+    "kind": "disc",
+    "bytes": 30520,
+    "width": 256,
+    "height": 256,
+    "sha256": "26157b9ac8e4e752eba12be24b2b87d867034d8653ea746ddd25abd8950d1efe",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.63_ICO.png"
+    },
+    "gameId": "SLUS_205.63"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.63/SLUS_205.63_BG.png",
+    "kind": "background",
+    "bytes": 209674,
+    "width": 640,
+    "height": 480,
+    "sha256": "a7f9456a29679b567d062be9902eb94ff00ac142c9cb95edb044c019fd1bc027",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.63/SLUS_205.63_BG_00.png"
+    },
+    "gameId": "SLUS_205.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.63/SLUS_205.63_BG.png",
+      "kind": "background",
+      "bytes": 209674,
+      "width": 640,
+      "height": 480,
+      "sha256": "a7f9456a29679b567d062be9902eb94ff00ac142c9cb95edb044c019fd1bc027",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.63/SLUS_205.63_BG_00.png"
+      },
+      "gameId": "SLUS_205.63"
+    },
+    {
+      "path": "PS2/SLUS_205.63/SLUS_205.63_BG_01.png",
+      "kind": "background",
+      "bytes": 122067,
+      "width": 640,
+      "height": 480,
+      "sha256": "147e73710f985e25921900d9b7de553315d3e28ab398bf49647de9c8859be866",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.63/SLUS_205.63_BG_01.png"
+      },
+      "gameId": "SLUS_205.63"
+    },
+    {
+      "path": "PS2/SLUS_205.63/SLUS_205.63_BG_02.png",
+      "kind": "background",
+      "bytes": 179112,
+      "width": 640,
+      "height": 480,
+      "sha256": "c2987f2f49cb6f7d43338604aefd2d4267c27b276ee34b765fb9d0b0436c693b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.63/SLUS_205.63_BG_02.png"
+      },
+      "gameId": "SLUS_205.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": ".Hack - Part 3 – Outbreak"
+}

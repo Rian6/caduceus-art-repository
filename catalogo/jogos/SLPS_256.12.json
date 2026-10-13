@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.12",
+  "cover": {
+    "path": "PS2/SLPS_256.12/SLPS_256.12_COV.png",
+    "kind": "cover",
+    "bytes": 106946,
+    "width": 192,
+    "height": 272,
+    "sha256": "93cc286a51b952ab2f0b2504f91606bac580c727ac0297a03ae6df073278961d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25612.jpg"
+    },
+    "gameId": "SLPS_256.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STRAWBERRY PANIC! - GIRLS' SCHOOL IN FULLBLOOM"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SCES_552.56",
+  "cover": {
+    "path": "PS2/SCES_552.56/SCES_552.56_COV.png",
+    "kind": "cover",
+    "bytes": 89095,
+    "width": 192,
+    "height": 272,
+    "sha256": "eef53462be18bf945c4387f9c3ad14ea7f57f57f236dcaab951f5ae2532028a8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55256.jpg"
+    },
+    "gameId": "SCES_552.56"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_552.56/SCES_552.56_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_552.56/SCES_552.56_BG_00.png"
+    },
+    "gameId": "SCES_552.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_552.56/SCES_552.56_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_552.56/SCES_552.56_BG_00.png"
+      },
+      "gameId": "SCES_552.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Canciones Disney"
+}

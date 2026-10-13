@@ -1,0 +1,77 @@
+{
+  "id": "SLES_513.01",
+  "cover": {
+    "path": "PS2/SLES_513.01/SLES_513.01_COV.png",
+    "kind": "cover",
+    "bytes": 88725,
+    "width": 192,
+    "height": 272,
+    "sha256": "f64f5dc27e0b3991f827ec3a08bbca1a155476996fcd60d36543f6fe99f734d3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51301.jpg"
+    },
+    "gameId": "SLES_513.01"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_513.01/SLES_513.01_BG.png",
+    "kind": "background",
+    "bytes": 204202,
+    "width": 640,
+    "height": 480,
+    "sha256": "f0e483670495256e0846c6151c065277dc1b1b37fee8c3c1c1a95e89fdbfac50",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_513.01/SLES_513.01_BG_00.png"
+    },
+    "gameId": "SLES_513.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_513.01/SLES_513.01_BG.png",
+      "kind": "background",
+      "bytes": 204202,
+      "width": 640,
+      "height": 480,
+      "sha256": "f0e483670495256e0846c6151c065277dc1b1b37fee8c3c1c1a95e89fdbfac50",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.01/SLES_513.01_BG_00.png"
+      },
+      "gameId": "SLES_513.01"
+    },
+    {
+      "path": "PS2/SLES_513.01/SLES_513.01_BG_01.png",
+      "kind": "background",
+      "bytes": 227254,
+      "width": 640,
+      "height": 480,
+      "sha256": "426171a88919a554c7581f3024f5931ddf0998a412ef5e463b6dc64fd270430d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.01/SLES_513.01_BG_01.png"
+      },
+      "gameId": "SLES_513.01"
+    },
+    {
+      "path": "PS2/SLES_513.01/SLES_513.01_BG_02.png",
+      "kind": "background",
+      "bytes": 122598,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b7e6f13002e3334ba58276b7579d88a18720590676200d985abdbcd8d620066",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.01/SLES_513.01_BG_02.png"
+      },
+      "gameId": "SLES_513.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOS - THE FINAL ESCAPE"
+}

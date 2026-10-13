@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.59",
+  "cover": {
+    "path": "PS2/SLPM_663.59/SLPM_663.59_COV.png",
+    "kind": "cover",
+    "bytes": 103052,
+    "width": 192,
+    "height": 272,
+    "sha256": "7c2d074d58af4563ae2b083194062ba85ee6590876fa4a77bfbe2adc23bc5152",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66359.jpg"
+    },
+    "gameId": "SLPM_663.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MUTSUBOSHI KIRARI HOSHIFURU MIYAKO"
+}

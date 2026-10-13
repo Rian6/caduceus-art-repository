@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.57",
+  "cover": {
+    "path": "PS2/SLPM_625.57/SLPM_625.57_COV.png",
+    "kind": "cover",
+    "bytes": 92429,
+    "width": 192,
+    "height": 272,
+    "sha256": "bfc1b7c3d48b74c9195e3aa18fa790421a4a4e4fad3a9ba3589e0ef84cb65f35",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62557.jpg"
+    },
+    "gameId": "SLPM_625.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.067 - THE SUIRI - SOSHITE DAREMO INAKUNATTA"
+}

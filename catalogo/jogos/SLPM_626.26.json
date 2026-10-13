@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_626.26",
+  "cover": {
+    "path": "PS2/SLPM_626.26/SLPM_626.26_COV.png",
+    "kind": "cover",
+    "bytes": 90066,
+    "width": 192,
+    "height": 272,
+    "sha256": "f6cc0802bafb0372aaaf047e8bd0652850fbe64824270eddd9af44cd4e680e2f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62626.jpg"
+    },
+    "gameId": "SLPM_626.26"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_626.26/SLPM_626.26_BG.png",
+    "kind": "background",
+    "bytes": 36759,
+    "width": 640,
+    "height": 480,
+    "sha256": "b271ce15ccc102f13dddf493c2c6213acaaae31aa507f7f01a3a227ee942123f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_626.26/SLPM_626.26_BG_00.png"
+    },
+    "gameId": "SLPM_626.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_626.26/SLPM_626.26_BG.png",
+      "kind": "background",
+      "bytes": 36759,
+      "width": 640,
+      "height": 480,
+      "sha256": "b271ce15ccc102f13dddf493c2c6213acaaae31aa507f7f01a3a227ee942123f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.26/SLPM_626.26_BG_00.png"
+      },
+      "gameId": "SLPM_626.26"
+    },
+    {
+      "path": "PS2/SLPM_626.26/SLPM_626.26_BG_01.png",
+      "kind": "background",
+      "bytes": 93102,
+      "width": 640,
+      "height": 480,
+      "sha256": "a64bd94dae347756a38a4911268f280c2e6ce16008a27f1b3557536a995cd1bb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.26/SLPM_626.26_BG_01.png"
+      },
+      "gameId": "SLPM_626.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Oretachi Game Center Zoku - Scramble"
+}

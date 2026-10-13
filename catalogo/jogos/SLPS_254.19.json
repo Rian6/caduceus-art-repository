@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_254.19",
+  "cover": {
+    "path": "PS2/SLPS_254.19/SLPS_254.19_COV.png",
+    "kind": "cover",
+    "bytes": 114753,
+    "width": 192,
+    "height": 272,
+    "sha256": "b05f069ea3cc2585d2afb66ce5ce837149b2ab10d6edb307bfa1f89b60eb5560",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25419.jpg"
+    },
+    "gameId": "SLPS_254.19"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_254.19/SLPS_254.19_BG.png",
+    "kind": "background",
+    "bytes": 219641,
+    "width": 640,
+    "height": 480,
+    "sha256": "e2b1f2454aa26eb3ad19ff9e62e5f4c58f4ecb78a6b8c5e8870ebb0b88324d79",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_254.19/SLPS_254.19_BG_00.png"
+    },
+    "gameId": "SLPS_254.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_254.19/SLPS_254.19_BG.png",
+      "kind": "background",
+      "bytes": 219641,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2b1f2454aa26eb3ad19ff9e62e5f4c58f4ecb78a6b8c5e8870ebb0b88324d79",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.19/SLPS_254.19_BG_00.png"
+      },
+      "gameId": "SLPS_254.19"
+    },
+    {
+      "path": "PS2/SLPS_254.19/SLPS_254.19_BG_01.png",
+      "kind": "background",
+      "bytes": 173753,
+      "width": 640,
+      "height": 480,
+      "sha256": "e912afa6f60168fd6f37e1841522a72d11dfd1ee388e3af3168b77cbe41d609f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.19/SLPS_254.19_BG_01.png"
+      },
+      "gameId": "SLPS_254.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam - Gundam vs Z Gundam"
+}

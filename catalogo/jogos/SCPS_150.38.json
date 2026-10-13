@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.38",
+  "cover": {
+    "path": "PS2/SCPS_150.38/SCPS_150.38_COV.png",
+    "kind": "cover",
+    "bytes": 76296,
+    "width": 192,
+    "height": 272,
+    "sha256": "10d1f85cd2dfc323068a98de2c137fcd7189e4dab54cf39ed496663a1009a963",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15038.jpg"
+    },
+    "gameId": "SCPS_150.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OPERATOR'S SIDE [WITH USB HEADSETS]"
+}

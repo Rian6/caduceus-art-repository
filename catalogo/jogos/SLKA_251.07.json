@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.07",
+  "cover": {
+    "path": "PS2/SLKA_251.07/SLKA_251.07_COV.png",
+    "kind": "cover",
+    "bytes": 98323,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c52ba5ebf183dae1da4f3a808df690a28f5f24f2411f1cb0131debec53b0c0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25107.jpg"
+    },
+    "gameId": "SLKA_251.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CROUCHING TIGEER, HIDDEN DRAGON"
+}

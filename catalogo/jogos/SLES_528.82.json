@@ -1,0 +1,64 @@
+{
+  "id": "SLES_528.82",
+  "cover": {
+    "path": "PS2/SLES_528.82/SLES_528.82_COV.png",
+    "kind": "cover",
+    "bytes": 84454,
+    "width": 192,
+    "height": 272,
+    "sha256": "871090a647264cb699eb7bdf6d6181d54c10e268a7f9ef0027194d9b2228f1c3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52882.jpg"
+    },
+    "gameId": "SLES_528.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_528.82/SLES_528.82_BG.png",
+    "kind": "background",
+    "bytes": 193443,
+    "width": 640,
+    "height": 480,
+    "sha256": "f8c55fe9ba4de9839952dcbcb5cd95811dc7c28d90e165cd2ff0aa80344de9ae",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.82/SLES_528.82_BG_00.png"
+    },
+    "gameId": "SLES_528.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.82/SLES_528.82_BG.png",
+      "kind": "background",
+      "bytes": 193443,
+      "width": 640,
+      "height": 480,
+      "sha256": "f8c55fe9ba4de9839952dcbcb5cd95811dc7c28d90e165cd2ff0aa80344de9ae",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.82/SLES_528.82_BG_00.png"
+      },
+      "gameId": "SLES_528.82"
+    },
+    {
+      "path": "PS2/SLES_528.82/SLES_528.82_BG_01.png",
+      "kind": "background",
+      "bytes": 154853,
+      "width": 640,
+      "height": 480,
+      "sha256": "54cb8e3e8770309a75f2c1a5af29006b2fd356efb8e91e6f67150758bb6bd990",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.82/SLES_528.82_BG_01.png"
+      },
+      "gameId": "SLES_528.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Stolen"
+}

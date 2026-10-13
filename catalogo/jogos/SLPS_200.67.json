@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.67",
+  "cover": {
+    "path": "PS2/SLPS_200.67/SLPS_200.67_COV.png",
+    "kind": "cover",
+    "bytes": 120951,
+    "width": 192,
+    "height": 272,
+    "sha256": "872d2e52fd057eb160ea58209a532aa05929ca5f4a92468502d8ce6a07414dff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20067.jpg"
+    },
+    "gameId": "SLPS_200.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CRAZY BUMP'S - KATTOBI CAR BATTLE"
+}

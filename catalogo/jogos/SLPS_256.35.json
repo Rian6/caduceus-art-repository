@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.35",
+  "cover": {
+    "path": "PS2/SLPS_256.35/SLPS_256.35_COV.png",
+    "kind": "cover",
+    "bytes": 94433,
+    "width": 192,
+    "height": 272,
+    "sha256": "90b17c4314961c5d1cf8a90e9c61949f8f8d2cf74cdb3073a64bdb13146cbf8b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25635.jpg"
+    },
+    "gameId": "SLPS_256.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters 2003 (SNK Best COllection)"
+}

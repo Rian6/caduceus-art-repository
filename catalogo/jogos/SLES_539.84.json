@@ -1,0 +1,51 @@
+{
+  "id": "SLES_539.84",
+  "cover": {
+    "path": "PS2/SLES_539.84/SLES_539.84_COV.png",
+    "kind": "cover",
+    "bytes": 87512,
+    "width": 192,
+    "height": 272,
+    "sha256": "3bb3a66ed1f7e58a1fed2e290d076ed55192863adb50630ce602b55e8d2c8660",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53984.jpg"
+    },
+    "gameId": "SLES_539.84"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_539.84/SLES_539.84_BG.png",
+    "kind": "background",
+    "bytes": 172003,
+    "width": 640,
+    "height": 480,
+    "sha256": "4945b72d0df77c8c3939f852ac1ee3e7c4f4beba9a81b0d3cee104240df5addf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.84/SLES_539.84_BG_00.png"
+    },
+    "gameId": "SLES_539.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.84/SLES_539.84_BG.png",
+      "kind": "background",
+      "bytes": 172003,
+      "width": 640,
+      "height": 480,
+      "sha256": "4945b72d0df77c8c3939f852ac1ee3e7c4f4beba9a81b0d3cee104240df5addf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.84/SLES_539.84_BG_00.png"
+      },
+      "gameId": "SLES_539.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ICE AGE 2 - THE MELTDOWN"
+}

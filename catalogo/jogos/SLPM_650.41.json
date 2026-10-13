@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.41",
+  "cover": {
+    "path": "PS2/SLPM_650.41/SLPM_650.41_COV.png",
+    "kind": "cover",
+    "bytes": 79712,
+    "width": 192,
+    "height": 272,
+    "sha256": "753bf04c2dad430de608e83ecbf42471ba579a33ae716ecabc2e0007071c5fab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65041.jpg"
+    },
+    "gameId": "SLPM_650.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Fear (Disc 2)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.74",
+  "cover": {
+    "path": "PS2/SLPS_252.74/SLPS_252.74_COV.png",
+    "kind": "cover",
+    "bytes": 93525,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ed2bf7624fe1e40a38a8313cbfb140b7fed11fc9db4a9940cffcf11fc3d6916",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25274.jpg"
+    },
+    "gameId": "SLPS_252.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AIKAGI"
+}

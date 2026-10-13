@@ -1,0 +1,64 @@
+{
+  "id": "SLES_525.69",
+  "cover": {
+    "path": "PS2/SLES_525.69/SLES_525.69_COV.png",
+    "kind": "cover",
+    "bytes": 103983,
+    "width": 192,
+    "height": 272,
+    "sha256": "db7a9fb39ce680814c678ad7dddcd65e49ecb6bfbe90411dee29826448cbf528",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52569.jpg"
+    },
+    "gameId": "SLES_525.69"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.69/SLES_525.69_BG.png",
+    "kind": "background",
+    "bytes": 161139,
+    "width": 640,
+    "height": 480,
+    "sha256": "b76d991d03c816304b6a76fb407724d4b176e4fb535ef8942ea24d68ddfbbae9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.69/SLES_525.69_BG_00.png"
+    },
+    "gameId": "SLES_525.69"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.69/SLES_525.69_BG.png",
+      "kind": "background",
+      "bytes": 161139,
+      "width": 640,
+      "height": 480,
+      "sha256": "b76d991d03c816304b6a76fb407724d4b176e4fb535ef8942ea24d68ddfbbae9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.69/SLES_525.69_BG_00.png"
+      },
+      "gameId": "SLES_525.69"
+    },
+    {
+      "path": "PS2/SLES_525.69/SLES_525.69_BG_01.png",
+      "kind": "background",
+      "bytes": 193371,
+      "width": 640,
+      "height": 480,
+      "sha256": "283170007fbbe2ab46facf901721d614d422c34e85f7460347387b1e339dd816",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.69/SLES_525.69_BG_01.png"
+      },
+      "gameId": "SLES_525.69"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPYRO - A HERO'S TAIL"
+}

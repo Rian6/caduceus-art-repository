@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_664.85",
+  "cover": {
+    "path": "PS2/SLPM_664.85/SLPM_664.85_COV.png",
+    "kind": "cover",
+    "bytes": 86487,
+    "width": 192,
+    "height": 272,
+    "sha256": "85508161ab2eec13d62d565eada8acc8c09a127c87a01693bdcd83cd8911670d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66485.jpg"
+    },
+    "gameId": "SLPM_664.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_664.85/SLPM_664.85_BG.png",
+    "kind": "background",
+    "bytes": 141511,
+    "width": 640,
+    "height": 480,
+    "sha256": "177b71c504636532da5d3ae88804a407409481c5d6765b92ccb7125592056028",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_664.85/SLPM_664.85_BG_00.png"
+    },
+    "gameId": "SLPM_664.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_664.85/SLPM_664.85_BG.png",
+      "kind": "background",
+      "bytes": 141511,
+      "width": 640,
+      "height": 480,
+      "sha256": "177b71c504636532da5d3ae88804a407409481c5d6765b92ccb7125592056028",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_664.85/SLPM_664.85_BG_00.png"
+      },
+      "gameId": "SLPM_664.85"
+    },
+    {
+      "path": "PS2/SLPM_664.85/SLPM_664.85_BG_01.png",
+      "kind": "background",
+      "bytes": 190696,
+      "width": 640,
+      "height": 480,
+      "sha256": "28c8cbbc9f56fccd0a777359df06d5fd11acf2cad6e094bbf34f05dcb6ba80c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_664.85/SLPM_664.85_BG_01.png"
+      },
+      "gameId": "SLPM_664.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "State of Emergency Revenge"
+}

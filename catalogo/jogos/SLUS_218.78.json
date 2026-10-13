@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_218.78",
+  "cover": {
+    "path": "PS2/SLUS_218.78/SLUS_218.78_COV.png",
+    "kind": "cover",
+    "bytes": 100923,
+    "width": 192,
+    "height": 272,
+    "sha256": "5ed761f20404e2ce8d33679e9cb907762f532c6b37d2a2683573a778a70fa774",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21878.jpg"
+    },
+    "gameId": "SLUS_218.78"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.78/SLUS_218.78_ICO.png",
+    "kind": "disc",
+    "bytes": 30528,
+    "width": 256,
+    "height": 256,
+    "sha256": "7b7ea9c2ad0406a3f7780298893a4b58b1b3c55cc0caa0b282f9cd7ec8990b2b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.78_ICO.png"
+    },
+    "gameId": "SLUS_218.78"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.78/SLUS_218.78_BG.png",
+    "kind": "background",
+    "bytes": 203647,
+    "width": 640,
+    "height": 480,
+    "sha256": "bc370a83b0c22bf3b28555f1b2deb682ad4df97cca5a5aec8d93f4893bfb3874",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.78/SLUS_218.78_BG_00.png"
+    },
+    "gameId": "SLUS_218.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.78/SLUS_218.78_BG.png",
+      "kind": "background",
+      "bytes": 203647,
+      "width": 640,
+      "height": 480,
+      "sha256": "bc370a83b0c22bf3b28555f1b2deb682ad4df97cca5a5aec8d93f4893bfb3874",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.78/SLUS_218.78_BG_00.png"
+      },
+      "gameId": "SLUS_218.78"
+    },
+    {
+      "path": "PS2/SLUS_218.78/SLUS_218.78_BG_01.png",
+      "kind": "background",
+      "bytes": 104370,
+      "width": 640,
+      "height": 480,
+      "sha256": "90e3e533a8b209842a17e18c4d15956ca4c04385ab4860294edd501f42b9d168",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.78/SLUS_218.78_BG_01.png"
+      },
+      "gameId": "SLUS_218.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ice Age - Dawn of the Dinosaurs"
+}

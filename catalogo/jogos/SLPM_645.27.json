@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_645.27",
+  "cover": {
+    "path": "PS2/SLPM_645.27/SLPM_645.27_COV.png",
+    "kind": "cover",
+    "bytes": 58190,
+    "width": 192,
+    "height": 272,
+    "sha256": "731f55c711e2bc064556425053c02af829aa606a7bbbada091f87aa717230c70",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_645.27/SLPM_645.27_COV.png"
+    },
+    "gameId": "SLPM_645.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Way of the Samurai"
+}

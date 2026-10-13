@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_256.55",
+  "cover": {
+    "path": "PS2/SLPS_256.55/SLPS_256.55_COV.png",
+    "kind": "cover",
+    "bytes": 107538,
+    "width": 192,
+    "height": 272,
+    "sha256": "b5b726b4218832c3a203440cd258187039c121b95489b0da73cbdaf7299f3c99",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25655.jpg"
+    },
+    "gameId": "SLPS_256.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.55/SLPS_256.55_BG.png",
+    "kind": "background",
+    "bytes": 135097,
+    "width": 640,
+    "height": 480,
+    "sha256": "16b7af4d4abda296bb60a81fd3aa2a25aff5505506e5f5fb0a6224d6401a5dc3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.55/SLPS_256.55_BG_00.png"
+    },
+    "gameId": "SLPS_256.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.55/SLPS_256.55_BG.png",
+      "kind": "background",
+      "bytes": 135097,
+      "width": 640,
+      "height": 480,
+      "sha256": "16b7af4d4abda296bb60a81fd3aa2a25aff5505506e5f5fb0a6224d6401a5dc3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.55/SLPS_256.55_BG_00.png"
+      },
+      "gameId": "SLPS_256.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": ".Hack G.U. Vol.2 - Kimi Omou Koe"
+}

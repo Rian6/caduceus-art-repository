@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_205.13",
+  "cover": {
+    "path": "PS2/SLUS_205.13/SLUS_205.13_COV.png",
+    "kind": "cover",
+    "bytes": 93157,
+    "width": 192,
+    "height": 272,
+    "sha256": "7d173108554d9d1a72c8dda15321fdbc2ca2cdc1ac23babd24ae67814fe87097",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20513.jpg"
+    },
+    "gameId": "SLUS_205.13"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.13/SLUS_205.13_ICO.png",
+    "kind": "disc",
+    "bytes": 35492,
+    "width": 256,
+    "height": 256,
+    "sha256": "de7fdefba197666b1b2066cee39d015971e7d51130ac6ef249a9d4047ecd3cec",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.13_ICO.png"
+    },
+    "gameId": "SLUS_205.13"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Starting Five"
+}

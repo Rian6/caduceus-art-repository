@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.20",
+  "cover": {
+    "path": "PS2/SLPM_655.20/SLPM_655.20_COV.png",
+    "kind": "cover",
+    "bytes": 106665,
+    "width": 192,
+    "height": 272,
+    "sha256": "837c4e5a340f3f0eea1b46b143c0ffc504872c9aba0fe69d3340c5f319925c5b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65520.jpg"
+    },
+    "gameId": "SLPM_655.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENTAMA 2WINS [LIMITED EDITION]"
+}

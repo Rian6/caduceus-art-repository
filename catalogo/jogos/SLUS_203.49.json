@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_203.49",
+  "cover": {
+    "path": "PS2/SLUS_203.49/SLUS_203.49_COV.png",
+    "kind": "cover",
+    "bytes": 117528,
+    "width": 192,
+    "height": 272,
+    "sha256": "957a0609b220befae709dfcd33508419b798dcadc99cfb09f22f80093a563e51",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20349.jpg"
+    },
+    "gameId": "SLUS_203.49"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.49/SLUS_203.49_ICO.png",
+    "kind": "disc",
+    "bytes": 36613,
+    "width": 256,
+    "height": 256,
+    "sha256": "f7495f489693f4c068bf277eab841f007561340a6a2f88750f75987847bebfe7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.49_ICO.png"
+    },
+    "gameId": "SLUS_203.49"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.49/SLUS_203.49_BG.png",
+    "kind": "background",
+    "bytes": 174445,
+    "width": 640,
+    "height": 480,
+    "sha256": "e2c106153fa68b7c6dff33bc85b425b4952d5a149d454d027e95d6e1de8b25db",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.49/SLUS_203.49_BG_00.png"
+    },
+    "gameId": "SLUS_203.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.49/SLUS_203.49_BG.png",
+      "kind": "background",
+      "bytes": 174445,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2c106153fa68b7c6dff33bc85b425b4952d5a149d454d027e95d6e1de8b25db",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.49/SLUS_203.49_BG_00.png"
+      },
+      "gameId": "SLUS_203.49"
+    },
+    {
+      "path": "PS2/SLUS_203.49/SLUS_203.49_BG_01.png",
+      "kind": "background",
+      "bytes": 198694,
+      "width": 640,
+      "height": 480,
+      "sha256": "34c3772a13543ec6f253a88e59531ff39a80f87753b1831f57c9e916d3db7258",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.49/SLUS_203.49_BG_01.png"
+      },
+      "gameId": "SLUS_203.49"
+    },
+    {
+      "path": "PS2/SLUS_203.49/SLUS_203.49_BG_02.png",
+      "kind": "background",
+      "bytes": 111429,
+      "width": 640,
+      "height": 480,
+      "sha256": "677a52d18e811aa28fcf9182cecfd9133abf26ef3846ae9f097d5d9e43e79956",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.49/SLUS_203.49_BG_02.png"
+      },
+      "gameId": "SLUS_203.49"
+    },
+    {
+      "path": "PS2/SLUS_203.49/SLUS_203.49_BG_03.png",
+      "kind": "background",
+      "bytes": 131395,
+      "width": 640,
+      "height": 480,
+      "sha256": "f899385df50d30d20506b94581e17a893a02e9236053ec87eb9515aeca45d097",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.49/SLUS_203.49_BG_03.png"
+      },
+      "gameId": "SLUS_203.49"
+    },
+    {
+      "path": "PS2/SLUS_203.49/SLUS_203.49_BG_04.png",
+      "kind": "background",
+      "bytes": 169287,
+      "width": 640,
+      "height": 480,
+      "sha256": "5f83cf2b69c29f9c6524a69b9fbf16138c449fcb1606b1dd02604a65b958b291",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.49/SLUS_203.49_BG_04.png"
+      },
+      "gameId": "SLUS_203.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Scooby-Doo! Night of 100 Frights"
+}

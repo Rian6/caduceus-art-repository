@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.36",
+  "cover": {
+    "path": "PS2/SLPM_664.36/SLPM_664.36_COV.png",
+    "kind": "cover",
+    "bytes": 64839,
+    "width": 192,
+    "height": 272,
+    "sha256": "bd8b742516c00b87935a584a55ffc5ddadbc02452e26032deeba81969374d519",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66436.jpg"
+    },
+    "gameId": "SLPM_664.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Atelier Iris - Grand Phantasm"
+}

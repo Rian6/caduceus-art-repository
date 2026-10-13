@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.01",
+  "cover": {
+    "path": "PS2/SCAJ_200.01/SCAJ_200.01_COV.png",
+    "kind": "cover",
+    "bytes": 105168,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e37b55097ff4988f717b8d531e75d2d38cb7b6a2466af4cdc9a100badb03ef5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20001.jpg"
+    },
+    "gameId": "SCAJ_200.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RATCHET & CLANK"
+}

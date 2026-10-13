@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.44",
+  "cover": {
+    "path": "PS2/SLPS_201.44/SLPS_201.44_COV.png",
+    "kind": "cover",
+    "bytes": 81970,
+    "width": 192,
+    "height": 272,
+    "sha256": "f70aec8a9262c54ec1bfdda0f9161a0e64974495a5d9d4b6852b9565d3c25ad6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20144.jpg"
+    },
+    "gameId": "SLPS_201.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Seed"
+}

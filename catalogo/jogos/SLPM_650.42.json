@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.42",
+  "cover": {
+    "path": "PS2/SLPM_650.42/SLPM_650.42_COV.png",
+    "kind": "cover",
+    "bytes": 80864,
+    "width": 192,
+    "height": 272,
+    "sha256": "40ae7f65be08e2e857a66f4fa439e0a53dc1f628621ee557d61653014d9f3fe4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65042.jpg"
+    },
+    "gameId": "SLPM_650.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Fear (Disc 3)"
+}

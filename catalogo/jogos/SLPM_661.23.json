@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.23",
+  "cover": {
+    "path": "PS2/SLPM_661.23/SLPM_661.23_COV.png",
+    "kind": "cover",
+    "bytes": 76400,
+    "width": 192,
+    "height": 272,
+    "sha256": "39929fb31024098535359b18e81b90a50cb307f0a24f0906b60d511498f96794",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66123.jpg"
+    },
+    "gameId": "SLPM_661.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KINGDOM HEARTS - FINAL MIX [ULTIMATE HITS]"
+}

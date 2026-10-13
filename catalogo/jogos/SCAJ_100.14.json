@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_100.14",
+  "cover": {
+    "path": "PS2/SCAJ_100.14/SCAJ_100.14_COV.png",
+    "kind": "cover",
+    "bytes": 119579,
+    "width": 192,
+    "height": 272,
+    "sha256": "d12e155e70d63e9b2ed0e98921a030b1e590ea609af2cda5b400acb6be848ee9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-10014.jpg"
+    },
+    "gameId": "SCAJ_100.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin - Wai Wai Happy Muyome"
+}

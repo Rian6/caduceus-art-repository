@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.11",
+  "cover": {
+    "path": "PS2/SLPM_552.11/SLPM_552.11_COV.png",
+    "kind": "cover",
+    "bytes": 111833,
+    "width": 192,
+    "height": 272,
+    "sha256": "290fce5e7bdc523ac3db5f9ec220be7a7a02458fb7c27f47fca3047e2fda1674",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55211.jpg"
+    },
+    "gameId": "SLPM_552.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachi-Slot Higrashi no Naku Koro ni Matsuri"
+}

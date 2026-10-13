@@ -1,0 +1,25 @@
+{
+  "id": "SLES_501.18",
+  "cover": {
+    "path": "PS2/SLES_501.18/SLES_501.18_COV.png",
+    "kind": "cover",
+    "bytes": 94217,
+    "width": 192,
+    "height": 272,
+    "sha256": "99d69175fe72bb0680c6eebb1902b55c46fe08d188ae27d254fceb8bee822a93",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50118.jpg"
+    },
+    "gameId": "SLES_501.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tiger Woods PGA Tour 2001"
+}

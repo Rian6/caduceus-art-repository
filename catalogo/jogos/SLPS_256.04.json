@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.04",
+  "cover": {
+    "path": "PS2/SLPS_256.04/SLPS_256.04_COV.png",
+    "kind": "cover",
+    "bytes": 83941,
+    "width": 192,
+    "height": 272,
+    "sha256": "e48f0e597ac81ad44ecf76ff3e80a69c142e61208da4031e6e0ecee69746800c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25604.jpg"
+    },
+    "gameId": "SLPS_256.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ar Tonelico - Sekai no Owari de Utai Tsudukeru Shoujo"
+}

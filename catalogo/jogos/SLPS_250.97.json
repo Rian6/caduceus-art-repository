@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.97",
+  "cover": {
+    "path": "PS2/SLPS_250.97/SLPS_250.97_COV.png",
+    "kind": "cover",
+    "bytes": 62247,
+    "width": 192,
+    "height": 272,
+    "sha256": "22c5d31d175f1fcfbffe1f644295aa3f20f344ab6504a2dd85cd07a5d738354d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.97/SLPS_250.97_COV.png"
+    },
+    "gameId": "SLPS_250.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Velvet File Plus (Reprint)"
+}

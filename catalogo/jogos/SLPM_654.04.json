@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.04",
+  "cover": {
+    "path": "PS2/SLPM_654.04/SLPM_654.04_COV.png",
+    "kind": "cover",
+    "bytes": 98378,
+    "width": 192,
+    "height": 272,
+    "sha256": "e5cb3c3b82be025e27b5b57ffbad8b9d1597fe1f280e023578596b1c6ffcecc0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65404.jpg"
+    },
+    "gameId": "SLPM_654.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kita E - Diamond Dust"
+}

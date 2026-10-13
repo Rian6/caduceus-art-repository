@@ -1,0 +1,117 @@
+{
+  "id": "SCES_532.47",
+  "cover": {
+    "path": "PS2/SCES_532.47/SCES_532.47_COV.png",
+    "kind": "cover",
+    "bytes": 96713,
+    "width": 192,
+    "height": 272,
+    "sha256": "f1b6ec1684aad195616f6003b32cb6ad00d7c982a561c43c070dd8e78d65d70b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53247.jpg"
+    },
+    "gameId": "SCES_532.47"
+  },
+  "disc": {
+    "path": "PS2/SCES_532.47/SCES_532.47_ICO.png",
+    "kind": "disc",
+    "bytes": 11001,
+    "width": 128,
+    "height": 128,
+    "sha256": "7866f662dd553cce285e5894d5043d9dc5cfb2e4cacbb37e87ae820853f62644",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_532.47_ICO.png"
+    },
+    "gameId": "SCES_532.47"
+  },
+  "background": {
+    "path": "PS2/SCES_532.47/SCES_532.47_BG.png",
+    "kind": "background",
+    "bytes": 237107,
+    "width": 640,
+    "height": 480,
+    "sha256": "2793b86e634d87bcb6c1b658ad40d7ec0a06e35fc8e890f63abd96e1b3784143",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_532.47/SCES_532.47_BG_00.png"
+    },
+    "gameId": "SCES_532.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_532.47/SCES_532.47_BG.png",
+      "kind": "background",
+      "bytes": 237107,
+      "width": 640,
+      "height": 480,
+      "sha256": "2793b86e634d87bcb6c1b658ad40d7ec0a06e35fc8e890f63abd96e1b3784143",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.47/SCES_532.47_BG_00.png"
+      },
+      "gameId": "SCES_532.47"
+    },
+    {
+      "path": "PS2/SCES_532.47/SCES_532.47_BG_01.png",
+      "kind": "background",
+      "bytes": 215393,
+      "width": 640,
+      "height": 480,
+      "sha256": "b57e5a709c7930a770811b4dacc9554d16d7fdf6191f896184f5f64ca25632df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.47/SCES_532.47_BG_01.png"
+      },
+      "gameId": "SCES_532.47"
+    },
+    {
+      "path": "PS2/SCES_532.47/SCES_532.47_BG_02.png",
+      "kind": "background",
+      "bytes": 229589,
+      "width": 640,
+      "height": 480,
+      "sha256": "393ce86cdce37c023ed0dcfe65f7068b7fc1244de48850201cc1d50f1e1b6e6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.47/SCES_532.47_BG_02.png"
+      },
+      "gameId": "SCES_532.47"
+    },
+    {
+      "path": "PS2/SCES_532.47/SCES_532.47_BG_03.png",
+      "kind": "background",
+      "bytes": 207470,
+      "width": 640,
+      "height": 480,
+      "sha256": "cdb9276dc81a85e518a32615b79e0b82a01d70eb64bfecceb12066c889780c0b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.47/SCES_532.47_BG_03.png"
+      },
+      "gameId": "SCES_532.47"
+    },
+    {
+      "path": "PS2/SCES_532.47/SCES_532.47_BG_04.png",
+      "kind": "background",
+      "bytes": 172766,
+      "width": 640,
+      "height": 480,
+      "sha256": "78ae63744a1335fa88e54e682ff092e773bdbaf926d2aa784197bd97cb933700",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.47/SCES_532.47_BG_04.png"
+      },
+      "gameId": "SCES_532.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WRC: Rally Evolved"
+}

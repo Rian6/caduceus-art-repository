@@ -1,0 +1,51 @@
+{
+  "id": "SLES_544.49",
+  "cover": {
+    "path": "PS2/SLES_544.49/SLES_544.49_COV.png",
+    "kind": "cover",
+    "bytes": 94339,
+    "width": 192,
+    "height": 272,
+    "sha256": "5017c932b6ddc841aea021b54b60b7a186f26a684d1870edf19e18cff55476a5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54449.jpg"
+    },
+    "gameId": "SLES_544.49"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_544.49/SLES_544.49_BG.png",
+    "kind": "background",
+    "bytes": 156999,
+    "width": 640,
+    "height": 480,
+    "sha256": "691503798e4adfda38d80ebc87dd0583c1d9674ea865ff788edb6c265e78bbc6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.49/SLES_544.49_BG_00.png"
+    },
+    "gameId": "SLES_544.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.49/SLES_544.49_BG.png",
+      "kind": "background",
+      "bytes": 156999,
+      "width": 640,
+      "height": 480,
+      "sha256": "691503798e4adfda38d80ebc87dd0583c1d9674ea865ff788edb6c265e78bbc6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.49/SLES_544.49_BG_00.png"
+      },
+      "gameId": "SLES_544.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Chicken Little - Ace in Action"
+}

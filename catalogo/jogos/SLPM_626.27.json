@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.27",
+  "cover": {
+    "path": "PS2/SLPM_626.27/SLPM_626.27_COV.png",
+    "kind": "cover",
+    "bytes": 94638,
+    "width": 192,
+    "height": 272,
+    "sha256": "e6452f2f1a5f13cc6a0559a781a9188a660aa438208dd7ec4c741beb10cce600",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62627.jpg"
+    },
+    "gameId": "SLPM_626.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Oretachi Game Center Zoku - Crazy Climber"
+}

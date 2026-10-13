@@ -1,0 +1,90 @@
+{
+  "id": "SLES_506.84",
+  "cover": {
+    "path": "PS2/SLES_506.84/SLES_506.84_COV.png",
+    "kind": "cover",
+    "bytes": 93272,
+    "width": 192,
+    "height": 272,
+    "sha256": "56650b8da4e61280daf444b862597753cfa1de652db3bf5d845f24528ffb3788",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50684.jpg"
+    },
+    "gameId": "SLES_506.84"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_506.84/SLES_506.84_BG.png",
+    "kind": "background",
+    "bytes": 192676,
+    "width": 640,
+    "height": 480,
+    "sha256": "ed61276d7bd5bcb34d093b77ffbe1273e274954546b88d70b59dca9079acf25a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_506.84/SLES_506.84_BG_00.png"
+    },
+    "gameId": "SLES_506.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_506.84/SLES_506.84_BG.png",
+      "kind": "background",
+      "bytes": 192676,
+      "width": 640,
+      "height": 480,
+      "sha256": "ed61276d7bd5bcb34d093b77ffbe1273e274954546b88d70b59dca9079acf25a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.84/SLES_506.84_BG_00.png"
+      },
+      "gameId": "SLES_506.84"
+    },
+    {
+      "path": "PS2/SLES_506.84/SLES_506.84_BG_01.png",
+      "kind": "background",
+      "bytes": 186057,
+      "width": 640,
+      "height": 480,
+      "sha256": "b42bc4b0edbdd35c7fc580ecf95c99b173138f169197dacbaa15ae3a2c18313a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.84/SLES_506.84_BG_01.png"
+      },
+      "gameId": "SLES_506.84"
+    },
+    {
+      "path": "PS2/SLES_506.84/SLES_506.84_BG_02.png",
+      "kind": "background",
+      "bytes": 161838,
+      "width": 640,
+      "height": 480,
+      "sha256": "ba0e05ba35eb9f394c8f53277312c944ebeeb6fd79fb4a6c9f1c9d4d91801a8b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.84/SLES_506.84_BG_02.png"
+      },
+      "gameId": "SLES_506.84"
+    },
+    {
+      "path": "PS2/SLES_506.84/SLES_506.84_BG_03.png",
+      "kind": "background",
+      "bytes": 220186,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac42acf8575f65bfb25af883911ddb27ef59b3cfaf4faffd61aed94c539b9498",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.84/SLES_506.84_BG_03.png"
+      },
+      "gameId": "SLES_506.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Medal of Honor: Frontline"
+}

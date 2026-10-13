@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.13",
+  "cover": {
+    "path": "PS2/SLPM_620.13/SLPM_620.13_COV.png",
+    "kind": "cover",
+    "bytes": 107342,
+    "width": 192,
+    "height": 272,
+    "sha256": "5ca8490f19064d7622cf2f039f4d6e85b1e96ea22fb301ba420d7bf6e4701566",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62013.jpg"
+    },
+    "gameId": "SLPM_620.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ring of Red"
+}

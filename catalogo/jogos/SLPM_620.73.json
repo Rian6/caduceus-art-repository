@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.73",
+  "cover": {
+    "path": "PS2/SLPM_620.73/SLPM_620.73_COV.png",
+    "kind": "cover",
+    "bytes": 83620,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ef5e61231b706bccbac2d3a38c7a214f8439221a92ef77ab335dd7ad63d2223",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62073.jpg"
+    },
+    "gameId": "SLPM_620.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TAM TAM PARADISE"
+}

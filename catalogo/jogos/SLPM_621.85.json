@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.85",
+  "cover": {
+    "path": "PS2/SLPM_621.85/SLPM_621.85_COV.png",
+    "kind": "cover",
+    "bytes": 107184,
+    "width": 192,
+    "height": 272,
+    "sha256": "60cffba14d5d3b52693131a3df42ab24e1acdcf4817ba114dd72c5a5ac9a238d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62185.jpg"
+    },
+    "gameId": "SLPM_621.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sangokushi VII (Koei The Best)"
+}

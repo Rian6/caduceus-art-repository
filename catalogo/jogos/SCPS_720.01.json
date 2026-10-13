@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_720.01",
+  "cover": {
+    "path": "PS2/SCPS_720.01/SCPS_720.01_COV.png",
+    "kind": "cover",
+    "bytes": 88109,
+    "width": 192,
+    "height": 272,
+    "sha256": "44ef68551dd2b8f0c8edc066241027f30d8789a06bb322710540ce4e9bd62552",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-72001.jpg"
+    },
+    "gameId": "SCPS_720.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 3: A-spec"
+}

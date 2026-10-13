@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_208.72",
+  "cover": {
+    "path": "PS2/SLUS_208.72/SLUS_208.72_COV.png",
+    "kind": "cover",
+    "bytes": 100457,
+    "width": 192,
+    "height": 272,
+    "sha256": "4b0c848288f2771188353e1190d7ca5f845bedce94f163e08ecd3037a339bd10",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20872.jpg"
+    },
+    "gameId": "SLUS_208.72"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.72/SLUS_208.72_ICO.png",
+    "kind": "disc",
+    "bytes": 30726,
+    "width": 256,
+    "height": 256,
+    "sha256": "65a4860f33c5318aa6d1c027fa60fb7d7054cbae1b51445f9629b32cce3a051f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.72_ICO.png"
+    },
+    "gameId": "SLUS_208.72"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.72/SLUS_208.72_BG.png",
+    "kind": "background",
+    "bytes": 92999,
+    "width": 640,
+    "height": 480,
+    "sha256": "2e862f94d044982bfcae2a765abd6498090fdfa85ebada96818aa0c7a061de72",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.72/SLUS_208.72_BG_00.png"
+    },
+    "gameId": "SLUS_208.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.72/SLUS_208.72_BG.png",
+      "kind": "background",
+      "bytes": 92999,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e862f94d044982bfcae2a765abd6498090fdfa85ebada96818aa0c7a061de72",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.72/SLUS_208.72_BG_00.png"
+      },
+      "gameId": "SLUS_208.72"
+    },
+    {
+      "path": "PS2/SLUS_208.72/SLUS_208.72_BG_01.png",
+      "kind": "background",
+      "bytes": 172966,
+      "width": 640,
+      "height": 480,
+      "sha256": "4ab728a5baf79798dec4c62ec41b1bca43544cd88a0f39bcfadf1f9bdcde778b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.72/SLUS_208.72_BG_01.png"
+      },
+      "gameId": "SLUS_208.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Juiced"
+}

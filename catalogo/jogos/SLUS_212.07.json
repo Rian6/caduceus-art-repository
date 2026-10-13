@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_212.07",
+  "cover": {
+    "path": "PS2/SLUS_212.07/SLUS_212.07_COV.png",
+    "kind": "cover",
+    "bytes": 117327,
+    "width": 192,
+    "height": 272,
+    "sha256": "225595e6cf6a89f5a653f61933fd7648cf7f263141334a1d42dc6f56ec050fa8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21207.jpg"
+    },
+    "gameId": "SLUS_212.07"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.07/SLUS_212.07_ICO.png",
+    "kind": "disc",
+    "bytes": 33276,
+    "width": 256,
+    "height": 256,
+    "sha256": "f9ef4a32d0dccddc5aff9022a6df3c3914f16e4cf4b164938ad0552b727c0a07",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.07_ICO.png"
+    },
+    "gameId": "SLUS_212.07"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.07/SLUS_212.07_BG.png",
+    "kind": "background",
+    "bytes": 172568,
+    "width": 640,
+    "height": 480,
+    "sha256": "a3d7d04a31c1978170d242fc25bd9304bcc9d445ee4bef2394db883bbd7789f0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.07/SLUS_212.07_BG_00.png"
+    },
+    "gameId": "SLUS_212.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.07/SLUS_212.07_BG.png",
+      "kind": "background",
+      "bytes": 172568,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3d7d04a31c1978170d242fc25bd9304bcc9d445ee4bef2394db883bbd7789f0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.07/SLUS_212.07_BG_00.png"
+      },
+      "gameId": "SLUS_212.07"
+    },
+    {
+      "path": "PS2/SLUS_212.07/SLUS_212.07_BG_01.png",
+      "kind": "background",
+      "bytes": 199567,
+      "width": 640,
+      "height": 480,
+      "sha256": "be3aed58a715e447cfa69184fd81118d7d41189c818a1bb56ef763c75f2fd23f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.07/SLUS_212.07_BG_01.png"
+      },
+      "gameId": "SLUS_212.07"
+    },
+    {
+      "path": "PS2/SLUS_212.07/SLUS_212.07_BG_02.png",
+      "kind": "background",
+      "bytes": 185102,
+      "width": 640,
+      "height": 480,
+      "sha256": "fb482093e4c7736001e4e38155f32b8e86ac34badacac573236308723c95d503",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.07/SLUS_212.07_BG_02.png"
+      },
+      "gameId": "SLUS_212.07"
+    },
+    {
+      "path": "PS2/SLUS_212.07/SLUS_212.07_BG_03.png",
+      "kind": "background",
+      "bytes": 213406,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f981053d1743dc724151b3cf4267727305ccef88507cdc39906225a002777d2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.07/SLUS_212.07_BG_03.png"
+      },
+      "gameId": "SLUS_212.07"
+    },
+    {
+      "path": "PS2/SLUS_212.07/SLUS_212.07_BG_04.png",
+      "kind": "background",
+      "bytes": 189469,
+      "width": 640,
+      "height": 480,
+      "sha256": "ab0ba5bc15b081c570dafbf237cd705871931db50f83f6394e345a9ad418cabb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.07/SLUS_212.07_BG_04.png"
+      },
+      "gameId": "SLUS_212.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Quest VIII: Journey of the Cursed King"
+}

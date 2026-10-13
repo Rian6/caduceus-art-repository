@@ -1,0 +1,103 @@
+{
+  "id": "SLES_546.59",
+  "cover": {
+    "path": "PS2/SLES_546.59/SLES_546.59_COV.png",
+    "kind": "cover",
+    "bytes": 97510,
+    "width": 192,
+    "height": 272,
+    "sha256": "3db94b2d978ee41c3455733fab046387231b28a57f5bf38d08a8dafe334248ba",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54659.jpg"
+    },
+    "gameId": "SLES_546.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_546.59/SLES_546.59_BG.png",
+    "kind": "background",
+    "bytes": 130866,
+    "width": 640,
+    "height": 480,
+    "sha256": "9417a29435ac44ba3a5d87ac708a844ac888a84672bc09be09550f297331fa8c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.59/SLES_546.59_BG_00.png"
+    },
+    "gameId": "SLES_546.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_546.59/SLES_546.59_BG.png",
+      "kind": "background",
+      "bytes": 130866,
+      "width": 640,
+      "height": 480,
+      "sha256": "9417a29435ac44ba3a5d87ac708a844ac888a84672bc09be09550f297331fa8c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.59/SLES_546.59_BG_00.png"
+      },
+      "gameId": "SLES_546.59"
+    },
+    {
+      "path": "PS2/SLES_546.59/SLES_546.59_BG_01.png",
+      "kind": "background",
+      "bytes": 141223,
+      "width": 640,
+      "height": 480,
+      "sha256": "1c3a859288e41b0c6db4feac6a48b9c717dfc62c4b36990dcde92fca9fdac5cb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.59/SLES_546.59_BG_01.png"
+      },
+      "gameId": "SLES_546.59"
+    },
+    {
+      "path": "PS2/SLES_546.59/SLES_546.59_BG_02.png",
+      "kind": "background",
+      "bytes": 191495,
+      "width": 640,
+      "height": 480,
+      "sha256": "83d6e3241b63b8b763dabf16de1dbb639f540149129a24bf70c1b410bb1cc4a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.59/SLES_546.59_BG_02.png"
+      },
+      "gameId": "SLES_546.59"
+    },
+    {
+      "path": "PS2/SLES_546.59/SLES_546.59_BG_03.png",
+      "kind": "background",
+      "bytes": 212364,
+      "width": 640,
+      "height": 480,
+      "sha256": "d15ba8dc1b5e9ade2d5b53fd4fc294470605b6b6e3273f97f60a5f368eeaa52e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.59/SLES_546.59_BG_03.png"
+      },
+      "gameId": "SLES_546.59"
+    },
+    {
+      "path": "PS2/SLES_546.59/SLES_546.59_BG_04.png",
+      "kind": "background",
+      "bytes": 82566,
+      "width": 640,
+      "height": 480,
+      "sha256": "a7a7d2f84271e71ef4a22e5ddb41bf689e77a4c1a37de8917e3282086288a683",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.59/SLES_546.59_BG_04.png"
+      },
+      "gameId": "SLES_546.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Star Wars - The Force Unleashed"
+}

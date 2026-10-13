@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.70",
+  "cover": {
+    "path": "PS2/SLPM_621.70/SLPM_621.70_COV.png",
+    "kind": "cover",
+    "bytes": 99491,
+    "width": 192,
+    "height": 272,
+    "sha256": "8b5d14c2814e6b13990e9f576d082d2d75ac013a7b58e559add4ba7bce62717a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62170.jpg"
+    },
+    "gameId": "SLPM_621.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Internet Mahjong - Toufuusou de Asobou"
+}

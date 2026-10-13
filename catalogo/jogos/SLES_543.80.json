@@ -1,0 +1,78 @@
+{
+  "id": "SLES_543.80",
+  "cover": {
+    "path": "PS2/SLES_543.80/SLES_543.80_COV.png",
+    "kind": "cover",
+    "bytes": 63834,
+    "width": 192,
+    "height": 272,
+    "sha256": "41b6add6a6bea2d25d9c7ebe3928d27777d5690b8195e70987a9486940fcf100",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54380.jpg"
+    },
+    "gameId": "SLES_543.80"
+  },
+  "disc": {
+    "path": "PS2/SLES_543.80/SLES_543.80_ICO.png",
+    "kind": "disc",
+    "bytes": 8450,
+    "width": 128,
+    "height": 128,
+    "sha256": "0a72aec882d16a40bfa05ee2ddf88d062ed7c7a481fd8223b2a53874514992e1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_543.80_ICO.png"
+    },
+    "gameId": "SLES_543.80"
+  },
+  "background": {
+    "path": "PS2/SLES_543.80/SLES_543.80_BG.png",
+    "kind": "background",
+    "bytes": 156518,
+    "width": 640,
+    "height": 480,
+    "sha256": "24eacb202862a4bec64c20660dea914ec7c4ec1aa1fa6056728a3e9c6749fe28",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.80/SLES_543.80_BG_00.png"
+    },
+    "gameId": "SLES_543.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.80/SLES_543.80_BG.png",
+      "kind": "background",
+      "bytes": 156518,
+      "width": 640,
+      "height": 480,
+      "sha256": "24eacb202862a4bec64c20660dea914ec7c4ec1aa1fa6056728a3e9c6749fe28",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.80/SLES_543.80_BG_00.png"
+      },
+      "gameId": "SLES_543.80"
+    },
+    {
+      "path": "PS2/SLES_543.80/SLES_543.80_BG_01.png",
+      "kind": "background",
+      "bytes": 174579,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d57fb9cb28cd3400420ed47fd6b1d0c25bb240bd420bb212b402a31a0838bc8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.80/SLES_543.80_BG_01.png"
+      },
+      "gameId": "SLES_543.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Babe"
+}

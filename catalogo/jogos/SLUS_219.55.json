@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_219.55",
+  "cover": {
+    "path": "PS2/SLUS_219.55/SLUS_219.55_COV.png",
+    "kind": "cover",
+    "bytes": 105532,
+    "width": 192,
+    "height": 272,
+    "sha256": "24da392701173370e10881b073ed7e80c088895022eb3dd30982d756ced81d0d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21955.jpg"
+    },
+    "gameId": "SLUS_219.55"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.55/SLUS_219.55_ICO.png",
+    "kind": "disc",
+    "bytes": 32095,
+    "width": 256,
+    "height": 256,
+    "sha256": "e1a1b7e4ac21c1b5a68c976db9c0ad0ce2243544454c0b812857b55b650c9546",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_219.55_ICO.png"
+    },
+    "gameId": "SLUS_219.55"
+  },
+  "background": {
+    "path": "PS2/SLUS_219.55/SLUS_219.55_BG.png",
+    "kind": "background",
+    "bytes": 175378,
+    "width": 640,
+    "height": 480,
+    "sha256": "b44bda6b58130225b1a75c9e2621f367c5343ebe634136839c54f7efcaa4bfb2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_219.55/SLUS_219.55_BG_00.png"
+    },
+    "gameId": "SLUS_219.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_219.55/SLUS_219.55_BG.png",
+      "kind": "background",
+      "bytes": 175378,
+      "width": 640,
+      "height": 480,
+      "sha256": "b44bda6b58130225b1a75c9e2621f367c5343ebe634136839c54f7efcaa4bfb2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.55/SLUS_219.55_BG_00.png"
+      },
+      "gameId": "SLUS_219.55"
+    },
+    {
+      "path": "PS2/SLUS_219.55/SLUS_219.55_BG_01.png",
+      "kind": "background",
+      "bytes": 198564,
+      "width": 640,
+      "height": 480,
+      "sha256": "995f45ef91c5e7526cce6978bd31ec5194902ba5fe8444646b64da0f6e1ab46f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.55/SLUS_219.55_BG_01.png"
+      },
+      "gameId": "SLUS_219.55"
+    },
+    {
+      "path": "PS2/SLUS_219.55/SLUS_219.55_BG_02.png",
+      "kind": "background",
+      "bytes": 192241,
+      "width": 640,
+      "height": 480,
+      "sha256": "08b99af0501a37de1efeaead3a80f1c0e881969bf590bd6a2709a21fc1fb1300",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.55/SLUS_219.55_BG_02.png"
+      },
+      "gameId": "SLUS_219.55"
+    },
+    {
+      "path": "PS2/SLUS_219.55/SLUS_219.55_BG_03.png",
+      "kind": "background",
+      "bytes": 184563,
+      "width": 640,
+      "height": 480,
+      "sha256": "b109b5dcd1e867abed788a0dddc62b6e7d81613ff00e96b04f30f57b9d5e7731",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.55/SLUS_219.55_BG_03.png"
+      },
+      "gameId": "SLUS_219.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PES 2013: Pro Evolution Soccer"
+}

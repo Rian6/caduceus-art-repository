@@ -1,0 +1,90 @@
+{
+  "id": "SCES_524.56",
+  "cover": {
+    "path": "PS2/SCES_524.56/SCES_524.56_COV.png",
+    "kind": "cover",
+    "bytes": 101556,
+    "width": 192,
+    "height": 272,
+    "sha256": "80c86a4bd5ec655c2901c701b8a4927061621c2746a2dcef9ccfff89df0d48dd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52456.jpg"
+    },
+    "gameId": "SCES_524.56"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_524.56/SCES_524.56_BG.png",
+    "kind": "background",
+    "bytes": 144003,
+    "width": 640,
+    "height": 480,
+    "sha256": "fd9fc806e7108c13ed51972794775804bfdf5600bde2102f009172d1de3ae07d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_524.56/SCES_524.56_BG_00.png"
+    },
+    "gameId": "SCES_524.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_524.56/SCES_524.56_BG.png",
+      "kind": "background",
+      "bytes": 144003,
+      "width": 640,
+      "height": 480,
+      "sha256": "fd9fc806e7108c13ed51972794775804bfdf5600bde2102f009172d1de3ae07d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.56/SCES_524.56_BG_00.png"
+      },
+      "gameId": "SCES_524.56"
+    },
+    {
+      "path": "PS2/SCES_524.56/SCES_524.56_BG_01.png",
+      "kind": "background",
+      "bytes": 164378,
+      "width": 640,
+      "height": 480,
+      "sha256": "c10319079ce51ee221ec6c1a73eb6ab38e6c1fb4880804e592f5864d12dffe79",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.56/SCES_524.56_BG_01.png"
+      },
+      "gameId": "SCES_524.56"
+    },
+    {
+      "path": "PS2/SCES_524.56/SCES_524.56_BG_02.png",
+      "kind": "background",
+      "bytes": 198905,
+      "width": 640,
+      "height": 480,
+      "sha256": "145a82c3546d68fc3d59e3c57016d84ebe4633ebb3fa81f301a725996d09a30e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.56/SCES_524.56_BG_02.png"
+      },
+      "gameId": "SCES_524.56"
+    },
+    {
+      "path": "PS2/SCES_524.56/SCES_524.56_BG_03.png",
+      "kind": "background",
+      "bytes": 193987,
+      "width": 640,
+      "height": 480,
+      "sha256": "97f6a08fceb56c22aa2efdc171fb95cee254d46dbc887dd3b299da2925f202ba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.56/SCES_524.56_BG_03.png"
+      },
+      "gameId": "SCES_524.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ratchet & Clank 3"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.81",
+  "cover": {
+    "path": "PS2/SCPS_150.81/SCPS_150.81_COV.png",
+    "kind": "cover",
+    "bytes": 95696,
+    "width": 192,
+    "height": 272,
+    "sha256": "70bc66d9b21cad8245019aef63f242fb10333de4859f2bfa338196cd121582f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15081.jpg"
+    },
+    "gameId": "SCPS_150.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dokodemo Issyo - Toro to Ippai"
+}

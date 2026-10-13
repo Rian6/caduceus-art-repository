@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_206.20",
+  "cover": {
+    "path": "PS2/SLUS_206.20/SLUS_206.20_COV.png",
+    "kind": "cover",
+    "bytes": 104767,
+    "width": 192,
+    "height": 272,
+    "sha256": "5109a46d48873f348d533841cb6aa8b91ce4198389b486b30004a1dcf89bed67",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20620.jpg"
+    },
+    "gameId": "SLUS_206.20"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.20/SLUS_206.20_ICO.png",
+    "kind": "disc",
+    "bytes": 32375,
+    "width": 256,
+    "height": 256,
+    "sha256": "3e074dd90e6bbbaf4f3c1143655fb57a1595780ebc41bac22c41c86bddc3c285",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.20_ICO.png"
+    },
+    "gameId": "SLUS_206.20"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.20/SLUS_206.20_BG.png",
+    "kind": "background",
+    "bytes": 164011,
+    "width": 640,
+    "height": 480,
+    "sha256": "fa39daada9f2ff5a75dfe730242b2aca8d4ddc167506b3b4f24110f61b7daffb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.20/SLUS_206.20_BG_00.png"
+    },
+    "gameId": "SLUS_206.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.20/SLUS_206.20_BG.png",
+      "kind": "background",
+      "bytes": 164011,
+      "width": 640,
+      "height": 480,
+      "sha256": "fa39daada9f2ff5a75dfe730242b2aca8d4ddc167506b3b4f24110f61b7daffb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.20/SLUS_206.20_BG_00.png"
+      },
+      "gameId": "SLUS_206.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SMASH CARS"
+}

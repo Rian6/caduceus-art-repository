@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.52",
+  "cover": {
+    "path": "PS2/SLPS_258.52/SLPS_258.52_COV.png",
+    "kind": "cover",
+    "bytes": 86699,
+    "width": 192,
+    "height": 272,
+    "sha256": "031f7d50557cfb252000094ce60a320bf37cb741886294c8ba7ae97a3f614d6a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25852.jpg"
+    },
+    "gameId": "SLPS_258.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachi Para 13 - Super Umi to Pachi Pro Fuuunroku (Irem Collection)"
+}

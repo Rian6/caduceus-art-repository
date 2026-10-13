@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.39",
+  "cover": {
+    "path": "PS2/SLPM_625.39/SLPM_625.39_COV.png",
+    "kind": "cover",
+    "bytes": 78167,
+    "width": 192,
+    "height": 272,
+    "sha256": "186c36ed256f5c8447a7e81ac04883c5dbca65bc1205df660c65db4ffad5cf1d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62539.jpg"
+    },
+    "gameId": "SLPM_625.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SuperLite 2000 Vol. 26 - Mezase! Chess Champion"
+}

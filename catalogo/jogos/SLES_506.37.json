@@ -1,0 +1,65 @@
+{
+  "id": "SLES_506.37",
+  "cover": {
+    "path": "PS2/SLES_506.37/SLES_506.37_COV.png",
+    "kind": "cover",
+    "bytes": 87971,
+    "width": 192,
+    "height": 272,
+    "sha256": "31331ef96213499bd67ea1f6087aff180391f6b84c465b8da8e065e07c29dfe7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50637.jpg"
+    },
+    "gameId": "SLES_506.37"
+  },
+  "disc": {
+    "path": "PS2/SLES_506.37/SLES_506.37_ICO.png",
+    "kind": "disc",
+    "bytes": 9391,
+    "width": 128,
+    "height": 128,
+    "sha256": "50691ea581f491abd341fa8c8398f6aac1988e600322a66dfdac2375e5851208",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_506.37_ICO.png"
+    },
+    "gameId": "SLES_506.37"
+  },
+  "background": {
+    "path": "PS2/SLES_506.37/SLES_506.37_BG.png",
+    "kind": "background",
+    "bytes": 176376,
+    "width": 640,
+    "height": 480,
+    "sha256": "c9e9c23ad45e53edfae7874adfa7a04801fac5b1e228430979f16236d1a1a8ad",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_506.37/SLES_506.37_BG_00.png"
+    },
+    "gameId": "SLES_506.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_506.37/SLES_506.37_BG.png",
+      "kind": "background",
+      "bytes": 176376,
+      "width": 640,
+      "height": 480,
+      "sha256": "c9e9c23ad45e53edfae7874adfa7a04801fac5b1e228430979f16236d1a1a8ad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.37/SLES_506.37_BG_00.png"
+      },
+      "gameId": "SLES_506.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PRO RALLY 2002"
+}

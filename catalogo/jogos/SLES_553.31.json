@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.31",
+  "cover": {
+    "path": "PS2/SLES_553.31/SLES_553.31_COV.png",
+    "kind": "cover",
+    "bytes": 110761,
+    "width": 192,
+    "height": 272,
+    "sha256": "1a1d9955549ba786765acdd8daf8842afafff9b8eb84f6211b54a6834e2b72de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55331.jpg"
+    },
+    "gameId": "SLES_553.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cabela's Dangerous Adventures"
+}

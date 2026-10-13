@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.69",
+  "cover": {
+    "path": "PS2/SLPS_257.69/SLPS_257.69_COV.png",
+    "kind": "cover",
+    "bytes": 100030,
+    "width": 192,
+    "height": 272,
+    "sha256": "27dd1ff555ecbab136957675eeb25ec0c56d65bbea576bd30cbf8f1196fe2be1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25769.jpg"
+    },
+    "gameId": "SLPS_257.69"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Yakyuu Netsu Star 2007"
+}

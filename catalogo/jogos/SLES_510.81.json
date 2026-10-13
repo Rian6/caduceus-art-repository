@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.81",
+  "cover": {
+    "path": "PS2/SLES_510.81/SLES_510.81_COV.png",
+    "kind": "cover",
+    "bytes": 77690,
+    "width": 192,
+    "height": 272,
+    "sha256": "ddd0ad1098c60c6015ab9d32ab992d51e11117730dcafe8b5b460d2b70a46b15",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51081.jpg"
+    },
+    "gameId": "SLES_510.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - JUVENTUS"
+}

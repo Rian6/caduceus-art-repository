@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_623.66",
+  "cover": {
+    "path": "PS2/SLPM_623.66/SLPM_623.66_COV.png",
+    "kind": "cover",
+    "bytes": 110427,
+    "width": 192,
+    "height": 272,
+    "sha256": "e2e57b969cc81058c8cd06c927c1e24304e946e3f5d5475b7d38dafb8ebefbc0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62366.jpg"
+    },
+    "gameId": "SLPM_623.66"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_623.66/SLPM_623.66_BG.png",
+    "kind": "background",
+    "bytes": 154427,
+    "width": 640,
+    "height": 480,
+    "sha256": "6d542653e62d01e1dfeaa3a0ce969dc947d9843a54f7bc9c7a36e4fe4fee8b74",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_623.66/SLPM_623.66_BG_00.png"
+    },
+    "gameId": "SLPM_623.66"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_623.66/SLPM_623.66_BG.png",
+      "kind": "background",
+      "bytes": 154427,
+      "width": 640,
+      "height": 480,
+      "sha256": "6d542653e62d01e1dfeaa3a0ce969dc947d9843a54f7bc9c7a36e4fe4fee8b74",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_623.66/SLPM_623.66_BG_00.png"
+      },
+      "gameId": "SLPM_623.66"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SEGA AGES 2500 SERIES VOL.03 - FANTASY ZONE"
+}

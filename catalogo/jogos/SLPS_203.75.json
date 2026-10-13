@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.75",
+  "cover": {
+    "path": "PS2/SLPS_203.75/SLPS_203.75_COV.png",
+    "kind": "cover",
+    "bytes": 106381,
+    "width": 192,
+    "height": 272,
+    "sha256": "53d670e197d4464067e8979298cd03970b3858c9c81f002da59d35b8a4140e61",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20375.jpg"
+    },
+    "gameId": "SLPS_203.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sanyo Pachinko Paradise 10 - Gen-san Okaeri!"
+}

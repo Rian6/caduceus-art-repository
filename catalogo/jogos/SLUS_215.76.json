@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_215.76",
+  "cover": {
+    "path": "PS2/SLUS_215.76/SLUS_215.76_COV.png",
+    "kind": "cover",
+    "bytes": 96575,
+    "width": 192,
+    "height": 272,
+    "sha256": "288673e03456a664d16867c6be5347341019131c8d94c0476753ceddf1359e54",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21576.jpg"
+    },
+    "gameId": "SLUS_215.76"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.76/SLUS_215.76_ICO.png",
+    "kind": "disc",
+    "bytes": 31932,
+    "width": 256,
+    "height": 256,
+    "sha256": "7a17d500c34bbb2472015cee9f73b2cdcebf13a0522eb7fa4e195fc361c07974",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.76_ICO.png"
+    },
+    "gameId": "SLUS_215.76"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.76/SLUS_215.76_BG.png",
+    "kind": "background",
+    "bytes": 168327,
+    "width": 640,
+    "height": 480,
+    "sha256": "49bf828b4a85d09cdbed6eab3b140ce87d78e93038341630ad2745c5bbffe6e3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.76/SLUS_215.76_BG_00.png"
+    },
+    "gameId": "SLUS_215.76"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.76/SLUS_215.76_BG.png",
+      "kind": "background",
+      "bytes": 168327,
+      "width": 640,
+      "height": 480,
+      "sha256": "49bf828b4a85d09cdbed6eab3b140ce87d78e93038341630ad2745c5bbffe6e3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.76/SLUS_215.76_BG_00.png"
+      },
+      "gameId": "SLUS_215.76"
+    },
+    {
+      "path": "PS2/SLUS_215.76/SLUS_215.76_BG_01.png",
+      "kind": "background",
+      "bytes": 184843,
+      "width": 640,
+      "height": 480,
+      "sha256": "10e7f80d23cc9f1ad34c3597c2e8cf2d09dd6367a3372019e49b84f77ea86f39",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.76/SLUS_215.76_BG_01.png"
+      },
+      "gameId": "SLUS_215.76"
+    },
+    {
+      "path": "PS2/SLUS_215.76/SLUS_215.76_BG_02.png",
+      "kind": "background",
+      "bytes": 121397,
+      "width": 640,
+      "height": 480,
+      "sha256": "88c436adc67bfa4ee984623a1bb2bf0f98f6e3410088d274ff7eab97f2f94744",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.76/SLUS_215.76_BG_02.png"
+      },
+      "gameId": "SLUS_215.76"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RAYMAN - RAVING RABBIDS"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.13",
+  "cover": {
+    "path": "PS2/SCPS_110.13/SCPS_110.13_COV.png",
+    "kind": "cover",
+    "bytes": 97497,
+    "width": 192,
+    "height": 272,
+    "sha256": "a21e036bae02214b55b015d8750d04f59dc546b8531e86c5e0c4360c6ff66573",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11013.jpg"
+    },
+    "gameId": "SCPS_110.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BRAVO MUSIC"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SLES_524.78",
+  "cover": {
+    "path": "PS2/SLES_524.78/SLES_524.78_COV.png",
+    "kind": "cover",
+    "bytes": 88030,
+    "width": 192,
+    "height": 272,
+    "sha256": "36d30b6ed07141cab7facdd142111d80864762198c52ff8f37fdedb6c5477477",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52478.jpg"
+    },
+    "gameId": "SLES_524.78"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_524.78/SLES_524.78_BG.png",
+    "kind": "background",
+    "bytes": 117723,
+    "width": 640,
+    "height": 480,
+    "sha256": "eb703a6a142f7b3dd221e147cc0387a885062f0c8b1ef567ee03b53490dd206c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_524.78/SLES_524.78_BG_00.png"
+    },
+    "gameId": "SLES_524.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_524.78/SLES_524.78_BG.png",
+      "kind": "background",
+      "bytes": 117723,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb703a6a142f7b3dd221e147cc0387a885062f0c8b1ef567ee03b53490dd206c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.78/SLES_524.78_BG_00.png"
+      },
+      "gameId": "SLES_524.78"
+    },
+    {
+      "path": "PS2/SLES_524.78/SLES_524.78_BG_01.png",
+      "kind": "background",
+      "bytes": 172843,
+      "width": 640,
+      "height": 480,
+      "sha256": "65db7da179f03696dfb744548699c146115dfb03a6795b4b0023db74fc1b1d13",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.78/SLES_524.78_BG_01.png"
+      },
+      "gameId": "SLES_524.78"
+    },
+    {
+      "path": "PS2/SLES_524.78/SLES_524.78_BG_02.png",
+      "kind": "background",
+      "bytes": 147447,
+      "width": 640,
+      "height": 480,
+      "sha256": "757ce8b6232a4e103a2458e12f0051294963dacf456d22143b1eccbbbcbbcbd6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.78/SLES_524.78_BG_02.png"
+      },
+      "gameId": "SLES_524.78"
+    },
+    {
+      "path": "PS2/SLES_524.78/SLES_524.78_BG_03.png",
+      "kind": "background",
+      "bytes": 193583,
+      "width": 640,
+      "height": 480,
+      "sha256": "a32393598edb5b0c32335059e2c1509af1588d64722bdce7273a692f7ebf233a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.78/SLES_524.78_BG_03.png"
+      },
+      "gameId": "SLES_524.78"
+    },
+    {
+      "path": "PS2/SLES_524.78/SLES_524.78_BG_04.png",
+      "kind": "background",
+      "bytes": 170316,
+      "width": 640,
+      "height": 480,
+      "sha256": "09ef55bae49f7724d8ba18ed4910e279caf422eeb9ce8b6b5492c1571fd9079a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_524.78/SLES_524.78_BG_04.png"
+      },
+      "gameId": "SLES_524.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Red Dead Revolver"
+}

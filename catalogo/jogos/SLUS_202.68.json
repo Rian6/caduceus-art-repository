@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_202.68",
+  "cover": {
+    "path": "PS2/SLUS_202.68/SLUS_202.68_COV.png",
+    "kind": "cover",
+    "bytes": 81946,
+    "width": 192,
+    "height": 272,
+    "sha256": "a39de5c5b421e3f953ff7e9e5486a8d108088ec37c6e0c0816f42f274b334246",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20268.jpg"
+    },
+    "gameId": "SLUS_202.68"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.68/SLUS_202.68_ICO.png",
+    "kind": "disc",
+    "bytes": 37260,
+    "width": 256,
+    "height": 256,
+    "sha256": "f07fca0ec98b82019888d88387ee948611b656788b4f3c01aad383d1d95ccd03",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.68_ICO.png"
+    },
+    "gameId": "SLUS_202.68"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.68/SLUS_202.68_BG.png",
+    "kind": "background",
+    "bytes": 210176,
+    "width": 640,
+    "height": 480,
+    "sha256": "a13c15f595a0e75b6f91c7699d3f17a28cef3698b17a7c7894cb40d02064da14",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.68/SLUS_202.68_BG_00.png"
+    },
+    "gameId": "SLUS_202.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.68/SLUS_202.68_BG.png",
+      "kind": "background",
+      "bytes": 210176,
+      "width": 640,
+      "height": 480,
+      "sha256": "a13c15f595a0e75b6f91c7699d3f17a28cef3698b17a7c7894cb40d02064da14",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.68/SLUS_202.68_BG_00.png"
+      },
+      "gameId": "SLUS_202.68"
+    },
+    {
+      "path": "PS2/SLUS_202.68/SLUS_202.68_BG_01.png",
+      "kind": "background",
+      "bytes": 182601,
+      "width": 640,
+      "height": 480,
+      "sha256": "a966ecdfcb21212db9f014a864a5e333bc285a1ad8b81d1d972c9faeea676868",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.68/SLUS_202.68_BG_01.png"
+      },
+      "gameId": "SLUS_202.68"
+    },
+    {
+      "path": "PS2/SLUS_202.68/SLUS_202.68_BG_02.png",
+      "kind": "background",
+      "bytes": 175749,
+      "width": 640,
+      "height": 480,
+      "sha256": "35173df5b72abd7f9e3980a5548ad6a9ddf4df15d04f6fad9a9fa71d2d6bc349",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.68/SLUS_202.68_BG_02.png"
+      },
+      "gameId": "SLUS_202.68"
+    },
+    {
+      "path": "PS2/SLUS_202.68/SLUS_202.68_BG_03.png",
+      "kind": "background",
+      "bytes": 119377,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c966b9515a20494ea8b81c424c2158d5e0345c41f763444779fdc9ad1be63c8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.68/SLUS_202.68_BG_03.png"
+      },
+      "gameId": "SLUS_202.68"
+    },
+    {
+      "path": "PS2/SLUS_202.68/SLUS_202.68_BG_04.png",
+      "kind": "background",
+      "bytes": 187443,
+      "width": 640,
+      "height": 480,
+      "sha256": "9d880ffcf15054b191ac58468608e4fd7851f65559aecf7e93b31f09d4881e9a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.68/SLUS_202.68_BG_04.png"
+      },
+      "gameId": "SLUS_202.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR WARS - RACER REVENGE"
+}

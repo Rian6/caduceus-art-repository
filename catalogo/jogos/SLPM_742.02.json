@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.02",
+  "cover": {
+    "path": "PS2/SLPM_742.02/SLPM_742.02_COV.png",
+    "kind": "cover",
+    "bytes": 83778,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e21a7c4c4438a9e218ce06ec65d3deeaa3842b6fb33acc2a11aae97697a6630",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74202.jpg"
+    },
+    "gameId": "SLPM_742.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fuun Shinshengumi (Playstation 2 The Best)"
+}

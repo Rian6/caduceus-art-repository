@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_656.02",
+  "cover": {
+    "path": "PS2/SLPM_656.02/SLPM_656.02_COV.png",
+    "kind": "cover",
+    "bytes": 78332,
+    "width": 192,
+    "height": 272,
+    "sha256": "7aa741bed66f576561547efa23333348f25c34575c659c77b2e65dbd69c1dfe6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65602.jpg"
+    },
+    "gameId": "SLPM_656.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_656.02/SLPM_656.02_BG.png",
+    "kind": "background",
+    "bytes": 171915,
+    "width": 640,
+    "height": 480,
+    "sha256": "36adbbdca1f53897437cf6db1063dc441f31e6366a2edcba36615b5f55f45d18",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_656.02/SLPM_656.02_BG_00.png"
+    },
+    "gameId": "SLPM_656.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_656.02/SLPM_656.02_BG.png",
+      "kind": "background",
+      "bytes": 171915,
+      "width": 640,
+      "height": 480,
+      "sha256": "36adbbdca1f53897437cf6db1063dc441f31e6366a2edcba36615b5f55f45d18",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.02/SLPM_656.02_BG_00.png"
+      },
+      "gameId": "SLPM_656.02"
+    },
+    {
+      "path": "PS2/SLPM_656.02/SLPM_656.02_BG_01.png",
+      "kind": "background",
+      "bytes": 130988,
+      "width": 640,
+      "height": 480,
+      "sha256": "5c9e8a019ab2ead01bedd9148edb2dfc4d5af3739f1bcf48141a0e75446b5979",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.02/SLPM_656.02_BG_01.png"
+      },
+      "gameId": "SLPM_656.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "King of Colosseum II"
+}

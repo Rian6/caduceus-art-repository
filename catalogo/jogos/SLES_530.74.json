@@ -1,0 +1,39 @@
+{
+  "id": "SLES_530.74",
+  "cover": {
+    "path": "PS2/SLES_530.74/SLES_530.74_COV.png",
+    "kind": "cover",
+    "bytes": 85852,
+    "width": 192,
+    "height": 272,
+    "sha256": "10f91a3370a1c16281639a00813da9b36c87ba2f0c3c0ed9d0ccdf162ddaa557",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53074.jpg"
+    },
+    "gameId": "SLES_530.74"
+  },
+  "disc": {
+    "path": "PS2/SLES_530.74/SLES_530.74_ICO.png",
+    "kind": "disc",
+    "bytes": 10629,
+    "width": 128,
+    "height": 128,
+    "sha256": "ab572625e592bc84ba4e19b37a90f54ef99229bb662174e623ccae90d230e9f0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_530.74_ICO.png"
+    },
+    "gameId": "SLES_530.74"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Soccer Life!"
+}

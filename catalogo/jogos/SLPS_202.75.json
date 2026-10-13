@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.75",
+  "cover": {
+    "path": "PS2/SLPS_202.75/SLPS_202.75_COV.png",
+    "kind": "cover",
+    "bytes": 101460,
+    "width": 192,
+    "height": 272,
+    "sha256": "e7cb00004884851cab5487fb8bbd18e61cd7c7e5ff82255ec5aa6f957cff7c91",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20275.jpg"
+    },
+    "gameId": "SLPS_202.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 3 -  CR P-Man & CR Yawarakizzu Kyoku-hen"
+}

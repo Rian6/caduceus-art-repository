@@ -1,0 +1,51 @@
+{
+  "id": "SLES_548.12",
+  "cover": {
+    "path": "PS2/SLES_548.12/SLES_548.12_COV.png",
+    "kind": "cover",
+    "bytes": 99013,
+    "width": 192,
+    "height": 272,
+    "sha256": "1dfc79c7cb4e26415b214370d302a5245c073d5412732ae49c34031f95d8a786",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54812.jpg"
+    },
+    "gameId": "SLES_548.12"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_548.12/SLES_548.12_BG.png",
+    "kind": "background",
+    "bytes": 240427,
+    "width": 640,
+    "height": 480,
+    "sha256": "cb05d541babdd171cf4e36c61a8b3e489235572039a347a59c711db18d207671",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.12/SLES_548.12_BG_00.png"
+    },
+    "gameId": "SLES_548.12"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.12/SLES_548.12_BG.png",
+      "kind": "background",
+      "bytes": 240427,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb05d541babdd171cf4e36c61a8b3e489235572039a347a59c711db18d207671",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.12/SLES_548.12_BG_00.png"
+      },
+      "gameId": "SLES_548.12"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Madden NFL 08"
+}

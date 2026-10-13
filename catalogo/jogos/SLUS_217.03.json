@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_217.03",
+  "cover": {
+    "path": "PS2/SLUS_217.03/SLUS_217.03_COV.png",
+    "kind": "cover",
+    "bytes": 106759,
+    "width": 192,
+    "height": 272,
+    "sha256": "a13f1519f4f910c35ed8c08f4eebe583c01d1e1f52d0d40a6a31d7d8f12bee3a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21703.jpg"
+    },
+    "gameId": "SLUS_217.03"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.03/SLUS_217.03_ICO.png",
+    "kind": "disc",
+    "bytes": 33190,
+    "width": 256,
+    "height": 256,
+    "sha256": "3b2a64b276ff53e0ba0763fc58267314b7129e0dc925532392b4efff9df66012",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.03_ICO.png"
+    },
+    "gameId": "SLUS_217.03"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.03/SLUS_217.03_BG.png",
+    "kind": "background",
+    "bytes": 248952,
+    "width": 640,
+    "height": 480,
+    "sha256": "3b835c84b0607bb6313bcda819825f965abe5dcb64239928e075f4f1b8f0b563",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.03/SLUS_217.03_BG_00.png"
+    },
+    "gameId": "SLUS_217.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.03/SLUS_217.03_BG.png",
+      "kind": "background",
+      "bytes": 248952,
+      "width": 640,
+      "height": 480,
+      "sha256": "3b835c84b0607bb6313bcda819825f965abe5dcb64239928e075f4f1b8f0b563",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.03/SLUS_217.03_BG_00.png"
+      },
+      "gameId": "SLUS_217.03"
+    },
+    {
+      "path": "PS2/SLUS_217.03/SLUS_217.03_BG_01.png",
+      "kind": "background",
+      "bytes": 192652,
+      "width": 640,
+      "height": 480,
+      "sha256": "3629d387fd794e6deaaace708baabb79b1629f92e969b3a111cb1f542a927ea3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.03/SLUS_217.03_BG_01.png"
+      },
+      "gameId": "SLUS_217.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Luxor - Pharaoh's Challenge"
+}

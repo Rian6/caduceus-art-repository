@@ -1,0 +1,64 @@
+{
+  "id": "SLKA_150.04",
+  "cover": {
+    "path": "PS2/SLKA_150.04/SLKA_150.04_COV.png",
+    "kind": "cover",
+    "bytes": 82303,
+    "width": 192,
+    "height": 272,
+    "sha256": "8ca61f0a995225cfb38d36f7bd652a162fee72208ac5e5af2312d168cbd117be",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-15004.jpg"
+    },
+    "gameId": "SLKA_150.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_150.04/SLKA_150.04_BG.png",
+    "kind": "background",
+    "bytes": 192852,
+    "width": 640,
+    "height": 480,
+    "sha256": "2b62d9fe445baef28d6f22c3ffdb933942fcd7b2333223f924e5583b5763e7a1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_150.04/SLKA_150.04_BG_00.png"
+    },
+    "gameId": "SLKA_150.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_150.04/SLKA_150.04_BG.png",
+      "kind": "background",
+      "bytes": 192852,
+      "width": 640,
+      "height": 480,
+      "sha256": "2b62d9fe445baef28d6f22c3ffdb933942fcd7b2333223f924e5583b5763e7a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_150.04/SLKA_150.04_BG_00.png"
+      },
+      "gameId": "SLKA_150.04"
+    },
+    {
+      "path": "PS2/SLKA_150.04/SLKA_150.04_BG_01.png",
+      "kind": "background",
+      "bytes": 186160,
+      "width": 640,
+      "height": 480,
+      "sha256": "e444e2eb2aae9e76bf152d16ab7de15080d3804825677f58af89b69980d7cf01",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_150.04/SLKA_150.04_BG_01.png"
+      },
+      "gameId": "SLKA_150.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Strikers 1945 I & II + Gunbird (Premium Package Shooting Collection) [2 DISCS]"
+}

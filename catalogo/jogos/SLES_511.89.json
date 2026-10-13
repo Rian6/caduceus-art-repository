@@ -1,0 +1,64 @@
+{
+  "id": "SLES_511.89",
+  "cover": {
+    "path": "PS2/SLES_511.89/SLES_511.89_COV.png",
+    "kind": "cover",
+    "bytes": 102250,
+    "width": 192,
+    "height": 272,
+    "sha256": "f7da22c4da8accc96766b05cb345a9c2612eb7e4cf25ab7419ad48de018c6220",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51189.jpg"
+    },
+    "gameId": "SLES_511.89"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_511.89/SLES_511.89_BG.png",
+    "kind": "background",
+    "bytes": 179094,
+    "width": 640,
+    "height": 480,
+    "sha256": "536f667516bbd49af5b5c4110519bb096d4e9df34160781f7636c66c865d0194",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_511.89/SLES_511.89_BG_00.png"
+    },
+    "gameId": "SLES_511.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_511.89/SLES_511.89_BG.png",
+      "kind": "background",
+      "bytes": 179094,
+      "width": 640,
+      "height": 480,
+      "sha256": "536f667516bbd49af5b5c4110519bb096d4e9df34160781f7636c66c865d0194",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.89/SLES_511.89_BG_00.png"
+      },
+      "gameId": "SLES_511.89"
+    },
+    {
+      "path": "PS2/SLES_511.89/SLES_511.89_BG_01.png",
+      "kind": "background",
+      "bytes": 136335,
+      "width": 640,
+      "height": 480,
+      "sha256": "7231871c99587b30d7851fc761d5238dc1e417a0136fa5adc8806f5d1d7e4a7e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.89/SLES_511.89_BG_01.png"
+      },
+      "gameId": "SLES_511.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MTV's Celebrity Deathmatch"
+}

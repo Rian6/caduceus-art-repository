@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.70",
+  "cover": {
+    "path": "PS2/SLPS_203.70/SLPS_203.70_COV.png",
+    "kind": "cover",
+    "bytes": 87847,
+    "width": 192,
+    "height": 272,
+    "sha256": "b927ad89c3e3128e30c161fd80f207d4f292e6d206599b3ad441bfa00a7ef370",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20370.jpg"
+    },
+    "gameId": "SLPS_203.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Slotter Up Core 3: Yuda! Doronjo ni Omakase"
+}

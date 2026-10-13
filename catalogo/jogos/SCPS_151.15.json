@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_151.15",
+  "cover": {
+    "path": "PS2/SCPS_151.15/SCPS_151.15_COV.png",
+    "kind": "cover",
+    "bytes": 102095,
+    "width": 192,
+    "height": 272,
+    "sha256": "92fd89de7e6c193a50bb1c980a30007a436c281fdc6d8eab331a9d507e09b418",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15115.jpg"
+    },
+    "gameId": "SCPS_151.15"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_151.15/SCPS_151.15_BG.png",
+    "kind": "background",
+    "bytes": 155604,
+    "width": 640,
+    "height": 480,
+    "sha256": "3e8e3a73de176db7061f937f104e8d0e2a9d518074ceb2a725083fa31a4cf633",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_151.15/SCPS_151.15_BG_00.png"
+    },
+    "gameId": "SCPS_151.15"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_151.15/SCPS_151.15_BG.png",
+      "kind": "background",
+      "bytes": 155604,
+      "width": 640,
+      "height": 480,
+      "sha256": "3e8e3a73de176db7061f937f104e8d0e2a9d518074ceb2a725083fa31a4cf633",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_151.15/SCPS_151.15_BG_00.png"
+      },
+      "gameId": "SCPS_151.15"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saru Get You - Million Monkeys"
+}

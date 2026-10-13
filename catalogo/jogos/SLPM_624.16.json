@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.16",
+  "cover": {
+    "path": "PS2/SLPM_624.16/SLPM_624.16_COV.png",
+    "kind": "cover",
+    "bytes": 120827,
+    "width": 192,
+    "height": 272,
+    "sha256": "93c5d9525ccd2dd8eecb68e23f9226859526057215ca2d78356bd653080f72d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62416.jpg"
+    },
+    "gameId": "SLPM_624.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Momotarou Dentetsu 12: Nishi Nihon-hen mo Arimasse!"
+}

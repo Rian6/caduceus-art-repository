@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.78",
+  "cover": {
+    "path": "PS2/SLAJ_250.78/SLAJ_250.78_COV.png",
+    "kind": "cover",
+    "bytes": 87842,
+    "width": 192,
+    "height": 272,
+    "sha256": "182712da3e17e19d6355638d1b86024d1fb73bc9d1c25c91fc1c4d6135fc76fc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25078.jpg"
+    },
+    "gameId": "SLAJ_250.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BLACK"
+}

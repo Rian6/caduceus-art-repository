@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.62",
+  "cover": {
+    "path": "PS2/SLPS_252.62/SLPS_252.62_COV.png",
+    "kind": "cover",
+    "bytes": 108047,
+    "width": 192,
+    "height": 272,
+    "sha256": "d3476584211f4412e4edc84605f0bcc34b05f7de7eccc503cc4427d22a4aec73",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25262.jpg"
+    },
+    "gameId": "SLPS_252.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PRIVATE NURSE - MARIA"
+}

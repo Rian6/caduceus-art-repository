@@ -1,0 +1,51 @@
+{
+  "id": "SLES_513.45",
+  "cover": {
+    "path": "PS2/SLES_513.45/SLES_513.45_COV.png",
+    "kind": "cover",
+    "bytes": 93551,
+    "width": 192,
+    "height": 272,
+    "sha256": "b899e7337ce7c8d51655754585e3f8eac74dccbdf5256c2401fb85e72da4d082",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51345.jpg"
+    },
+    "gameId": "SLES_513.45"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_513.45/SLES_513.45_BG.png",
+    "kind": "background",
+    "bytes": 235490,
+    "width": 640,
+    "height": 480,
+    "sha256": "6a0e9e7a7e7175462851c7bf8830f55665a681fa1beebd10e69c87c820bf5e16",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_513.45/SLES_513.45_BG_00.png"
+    },
+    "gameId": "SLES_513.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_513.45/SLES_513.45_BG.png",
+      "kind": "background",
+      "bytes": 235490,
+      "width": 640,
+      "height": 480,
+      "sha256": "6a0e9e7a7e7175462851c7bf8830f55665a681fa1beebd10e69c87c820bf5e16",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.45/SLES_513.45_BG_00.png"
+      },
+      "gameId": "SLES_513.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RLH - RUN LIKE HELL"
+}

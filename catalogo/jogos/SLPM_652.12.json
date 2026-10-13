@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.12",
+  "cover": {
+    "path": "PS2/SLPM_652.12/SLPM_652.12_COV.png",
+    "kind": "cover",
+    "bytes": 62221,
+    "width": 192,
+    "height": 272,
+    "sha256": "2cf839aea57f1112164c9340458464b19d782931ade1fa7017b64ab3f7e8a9c0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_652.12/SLPM_652.12_COV.png"
+    },
+    "gameId": "SLPM_652.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Lord of the Rings: The Two Towers"
+}

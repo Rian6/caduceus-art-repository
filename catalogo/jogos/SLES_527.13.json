@@ -1,0 +1,25 @@
+{
+  "id": "SLES_527.13",
+  "cover": {
+    "path": "PS2/SLES_527.13/SLES_527.13_COV.png",
+    "kind": "cover",
+    "bytes": 87957,
+    "width": 192,
+    "height": 272,
+    "sha256": "a53abf2916ef82afee4634b5c7719e7f1afe8a1284e1bf41463e7342271aafa5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52713.jpg"
+    },
+    "gameId": "SLES_527.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live 2005"
+}

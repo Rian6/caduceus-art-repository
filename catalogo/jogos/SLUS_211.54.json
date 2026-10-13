@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_211.54",
+  "cover": {
+    "path": "PS2/SLUS_211.54/SLUS_211.54_COV.png",
+    "kind": "cover",
+    "bytes": 81875,
+    "width": 192,
+    "height": 272,
+    "sha256": "0703b8269387859c308053511412640c7720b178c5a290e30dd7c6369a50d009",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21154.jpg"
+    },
+    "gameId": "SLUS_211.54"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.54/SLUS_211.54_ICO.png",
+    "kind": "disc",
+    "bytes": 24611,
+    "width": 256,
+    "height": 256,
+    "sha256": "8894432fa39955346df7d539ed75f84350114486c55241a619131ec1d5b42341",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.54_ICO.png"
+    },
+    "gameId": "SLUS_211.54"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.54/SLUS_211.54_BG.png",
+    "kind": "background",
+    "bytes": 127443,
+    "width": 640,
+    "height": 480,
+    "sha256": "d58e5055aae8330ab093d47d7484a6133971228945c69d6010769b41df0cb2e1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.54/SLUS_211.54_BG_00.png"
+    },
+    "gameId": "SLUS_211.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.54/SLUS_211.54_BG.png",
+      "kind": "background",
+      "bytes": 127443,
+      "width": 640,
+      "height": 480,
+      "sha256": "d58e5055aae8330ab093d47d7484a6133971228945c69d6010769b41df0cb2e1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.54/SLUS_211.54_BG_00.png"
+      },
+      "gameId": "SLUS_211.54"
+    },
+    {
+      "path": "PS2/SLUS_211.54/SLUS_211.54_BG_01.png",
+      "kind": "background",
+      "bytes": 118789,
+      "width": 640,
+      "height": 480,
+      "sha256": "b286eae0307fea2d8902a8e114714a107c35ff83aa591f8d1e92e835d992cba1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.54/SLUS_211.54_BG_01.png"
+      },
+      "gameId": "SLUS_211.54"
+    },
+    {
+      "path": "PS2/SLUS_211.54/SLUS_211.54_BG_02.png",
+      "kind": "background",
+      "bytes": 169242,
+      "width": 640,
+      "height": 480,
+      "sha256": "8ddfabe98397d5e65a1dcd7b1ef471ae0cd125da75c7ee8fcee1de8ade3462f5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.54/SLUS_211.54_BG_02.png"
+      },
+      "gameId": "SLUS_211.54"
+    },
+    {
+      "path": "PS2/SLUS_211.54/SLUS_211.54_BG_03.png",
+      "kind": "background",
+      "bytes": 106755,
+      "width": 640,
+      "height": 480,
+      "sha256": "0bffcae612b03d433555cc52705a926d7c4db676c08ee764c7fc87136831cb17",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.54/SLUS_211.54_BG_03.png"
+      },
+      "gameId": "SLUS_211.54"
+    },
+    {
+      "path": "PS2/SLUS_211.54/SLUS_211.54_BG_04.png",
+      "kind": "background",
+      "bytes": 10655,
+      "width": 640,
+      "height": 480,
+      "sha256": "4003453a373728400f1cd98b477a90c9945e66e6457d71a8a9c558f4a6503549",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.54/SLUS_211.54_BG_04.png"
+      },
+      "gameId": "SLUS_211.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KILLER 7"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "TCES_520.04",
+  "cover": {
+    "path": "PS2/TCES_520.04/TCES_520.04_COV.png",
+    "kind": "cover",
+    "bytes": 88692,
+    "width": 192,
+    "height": 272,
+    "sha256": "86781a880399ec7c6a71d2818ab2a6c5dcb0b9f6de4e95bed731a3bf817dcaeb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/TCES-52004.jpg"
+    },
+    "gameId": "TCES_520.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

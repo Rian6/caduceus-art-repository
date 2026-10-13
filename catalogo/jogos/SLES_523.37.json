@@ -1,0 +1,51 @@
+{
+  "id": "SLES_523.37",
+  "cover": {
+    "path": "PS2/SLES_523.37/SLES_523.37_COV.png",
+    "kind": "cover",
+    "bytes": 51786,
+    "width": 192,
+    "height": 272,
+    "sha256": "78f1c4fd0a44f0ccda9457f0fe5ecb047982dd93635349eab6551065c06660fb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52337.jpg"
+    },
+    "gameId": "SLES_523.37"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_523.37/SLES_523.37_BG.png",
+    "kind": "background",
+    "bytes": 203075,
+    "width": 640,
+    "height": 480,
+    "sha256": "77076d5548d54d509a0cedcd78945ab97d7d0fd2fa052bd40dcec8c6c77cc00b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.37/SLES_523.37_BG_00.png"
+    },
+    "gameId": "SLES_523.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.37/SLES_523.37_BG.png",
+      "kind": "background",
+      "bytes": 203075,
+      "width": 640,
+      "height": 480,
+      "sha256": "77076d5548d54d509a0cedcd78945ab97d7d0fd2fa052bd40dcec8c6c77cc00b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.37/SLES_523.37_BG_00.png"
+      },
+      "gameId": "SLES_523.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAX PAYNE 2 - THE FALL OF MAX PAYNE"
+}

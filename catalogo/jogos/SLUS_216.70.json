@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_216.70",
+  "cover": {
+    "path": "PS2/SLUS_216.70/SLUS_216.70_COV.png",
+    "kind": "cover",
+    "bytes": 112505,
+    "width": 192,
+    "height": 272,
+    "sha256": "19bde4dccfd66adc637d626e423502f95b73364be04efc557e90f96931a5b45b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21670.jpg"
+    },
+    "gameId": "SLUS_216.70"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.70/SLUS_216.70_ICO.png",
+    "kind": "disc",
+    "bytes": 30588,
+    "width": 256,
+    "height": 256,
+    "sha256": "cc984f696a5ea2e1ae47e5c323fc8f120fc871bcbc18080d4595228deeee5901",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.70_ICO.png"
+    },
+    "gameId": "SLUS_216.70"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Backyard Football '08"
+}

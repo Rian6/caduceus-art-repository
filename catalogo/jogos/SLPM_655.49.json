@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.49",
+  "cover": {
+    "path": "PS2/SLPM_655.49/SLPM_655.49_COV.png",
+    "kind": "cover",
+    "bytes": 72708,
+    "width": 192,
+    "height": 272,
+    "sha256": "70d260061419354e73fecdee4d0a316ce0480166aa34033146ff4d5f94c9e9f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65549.jpg"
+    },
+    "gameId": "SLPM_655.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "REMEMBER 11 - THE AGE OF INFINITY [LIMITED EDITION]"
+}

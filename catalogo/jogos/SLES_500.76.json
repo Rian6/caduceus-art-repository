@@ -1,0 +1,64 @@
+{
+  "id": "SLES_500.76",
+  "cover": {
+    "path": "PS2/SLES_500.76/SLES_500.76_COV.png",
+    "kind": "cover",
+    "bytes": 85010,
+    "width": 192,
+    "height": 272,
+    "sha256": "e4262f9fb61804c5c15607eab53f516b18b3f6641ef567ce627de8c432090711",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50076.jpg"
+    },
+    "gameId": "SLES_500.76"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_500.76/SLES_500.76_BG.png",
+    "kind": "background",
+    "bytes": 125129,
+    "width": 640,
+    "height": 480,
+    "sha256": "2a12a2798f97a2a081e97c49ab066af494d6a336cd15b68d6614e63f9149f283",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.76/SLES_500.76_BG_00.png"
+    },
+    "gameId": "SLES_500.76"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.76/SLES_500.76_BG.png",
+      "kind": "background",
+      "bytes": 125129,
+      "width": 640,
+      "height": 480,
+      "sha256": "2a12a2798f97a2a081e97c49ab066af494d6a336cd15b68d6614e63f9149f283",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.76/SLES_500.76_BG_00.png"
+      },
+      "gameId": "SLES_500.76"
+    },
+    {
+      "path": "PS2/SLES_500.76/SLES_500.76_BG_01.png",
+      "kind": "background",
+      "bytes": 183771,
+      "width": 640,
+      "height": 480,
+      "sha256": "22d7adb7c5957eb2c75cffa28c5f0f77d86a4140c36c1c573bfa88f7c92d7177",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.76/SLES_500.76_BG_01.png"
+      },
+      "gameId": "SLES_500.76"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Bust-A-Move"
+}

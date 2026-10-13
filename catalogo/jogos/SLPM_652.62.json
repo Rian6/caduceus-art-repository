@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.62",
+  "cover": {
+    "path": "PS2/SLPM_652.62/SLPM_652.62_COV.png",
+    "kind": "cover",
+    "bytes": 122170,
+    "width": 192,
+    "height": 272,
+    "sha256": "ec8c56c82f7e27d71300b7dca1696eb5c9639d60e601e630dd5f4fc1bac74836",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65262.jpg"
+    },
+    "gameId": "SLPM_652.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Boboboubo Boubobo: Hajike Matsuri"
+}

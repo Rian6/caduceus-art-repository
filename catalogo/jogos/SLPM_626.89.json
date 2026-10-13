@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_626.89",
+  "cover": {
+    "path": "PS2/SLPM_626.89/SLPM_626.89_COV.png",
+    "kind": "cover",
+    "bytes": 106059,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e7dae9673f42d5c66a5c03f0964b7b7c52e2193e5ba3eac5c4db4c8d467079e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62689.jpg"
+    },
+    "gameId": "SLPM_626.89"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_626.89/SLPM_626.89_BG.png",
+    "kind": "background",
+    "bytes": 207826,
+    "width": 640,
+    "height": 480,
+    "sha256": "e3712e83dace4c576d7d7ea9395ff2e2b674e1f82b09dd60665596f7ddd92f26",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_626.89/SLPM_626.89_BG_00.png"
+    },
+    "gameId": "SLPM_626.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_626.89/SLPM_626.89_BG.png",
+      "kind": "background",
+      "bytes": 207826,
+      "width": 640,
+      "height": 480,
+      "sha256": "e3712e83dace4c576d7d7ea9395ff2e2b674e1f82b09dd60665596f7ddd92f26",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.89/SLPM_626.89_BG_00.png"
+      },
+      "gameId": "SLPM_626.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Langrisser III"
+}

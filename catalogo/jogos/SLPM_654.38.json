@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_654.38",
+  "cover": {
+    "path": "PS2/SLPM_654.38/SLPM_654.38_COV.png",
+    "kind": "cover",
+    "bytes": 83961,
+    "width": 192,
+    "height": 272,
+    "sha256": "a675f197e882ba4409fcfebf4fc58cffbf21d68c0ab4b8074aa75c3d28306819",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65438.jpg"
+    },
+    "gameId": "SLPM_654.38"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_654.38/SLPM_654.38_BG.png",
+    "kind": "background",
+    "bytes": 211231,
+    "width": 640,
+    "height": 480,
+    "sha256": "ecdf1972ff22545e6d9bbc258737df71f7ddf454ac42d44e5f8aa8717ae5e7eb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.38/SLPM_654.38_BG_00.png"
+    },
+    "gameId": "SLPM_654.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.38/SLPM_654.38_BG.png",
+      "kind": "background",
+      "bytes": 211231,
+      "width": 640,
+      "height": 480,
+      "sha256": "ecdf1972ff22545e6d9bbc258737df71f7ddf454ac42d44e5f8aa8717ae5e7eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.38/SLPM_654.38_BG_00.png"
+      },
+      "gameId": "SLPM_654.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR OCEAN - TILL THE END OF TIME - DIRECTOR'S CUT [2 DISCS]"
+}

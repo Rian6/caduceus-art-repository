@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.16",
+  "cover": {
+    "path": "PS2/SLPM_656.16/SLPM_656.16_COV.png",
+    "kind": "cover",
+    "bytes": 66992,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e6be80964a9b1d46447491c81bffba19dfb76b3c44f9c801c6012a938c0d2e7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65616.jpg"
+    },
+    "gameId": "SLPM_656.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JUUNI KOKUKI - GUREN NO SHIROBE, KOUJIN NO MICHI [KONAMI THE BEST]"
+}

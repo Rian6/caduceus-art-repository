@@ -1,0 +1,25 @@
+{
+  "id": "SLES_516.89",
+  "cover": {
+    "path": "PS2/SLES_516.89/SLES_516.89_COV.png",
+    "kind": "cover",
+    "bytes": 90925,
+    "width": 192,
+    "height": 272,
+    "sha256": "0801ea59910d20d9d82a63ad136063a16c9131dbf10a3d17e0f2deb2c3640b72",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51689.jpg"
+    },
+    "gameId": "SLES_516.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pitfall: The Lost Expedition"
+}

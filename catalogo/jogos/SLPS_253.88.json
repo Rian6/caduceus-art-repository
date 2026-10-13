@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_253.88",
+  "cover": {
+    "path": "PS2/SLPS_253.88/SLPS_253.88_COV.png",
+    "kind": "cover",
+    "bytes": 87641,
+    "width": 192,
+    "height": 272,
+    "sha256": "e2e883909610cd5821553e54a7cfe35f561b6a0c79c0429e6f83d154347ac9ad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25388.jpg"
+    },
+    "gameId": "SLPS_253.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_253.88/SLPS_253.88_BG.png",
+    "kind": "background",
+    "bytes": 156704,
+    "width": 640,
+    "height": 480,
+    "sha256": "a4fdf8f7b40b9f445589d13f4ddefdb3b3f2d18d960dc81d44dbdcba51e913ce",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.88/SLPS_253.88_BG_00.png"
+    },
+    "gameId": "SLPS_253.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.88/SLPS_253.88_BG.png",
+      "kind": "background",
+      "bytes": 156704,
+      "width": 640,
+      "height": 480,
+      "sha256": "a4fdf8f7b40b9f445589d13f4ddefdb3b3f2d18d960dc81d44dbdcba51e913ce",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.88/SLPS_253.88_BG_00.png"
+      },
+      "gameId": "SLPS_253.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gunslinger Girl Volume 3"
+}

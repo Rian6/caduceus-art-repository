@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.15",
+  "cover": {
+    "path": "PS2/SLKA_251.15/SLKA_251.15_COV.png",
+    "kind": "cover",
+    "bytes": 109537,
+    "width": 192,
+    "height": 272,
+    "sha256": "b2a1ea681a521a1f9b211b13b3d7564cff83f162cb9d0c4bf88e351d4e7ec830",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25115.jpg"
+    },
+    "gameId": "SLKA_251.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROCKMAN X7"
+}

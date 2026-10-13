@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_657.67",
+  "cover": {
+    "path": "PS2/SLPM_657.67/SLPM_657.67_COV.png",
+    "kind": "cover",
+    "bytes": 75448,
+    "width": 192,
+    "height": 272,
+    "sha256": "8c9de9f549130b69d7eb768eab83aafad030cdf09d482a280f0bd76d47314c20",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65767.jpg"
+    },
+    "gameId": "SLPM_657.67"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_657.67/SLPM_657.67_BG.png",
+    "kind": "background",
+    "bytes": 154664,
+    "width": 640,
+    "height": 480,
+    "sha256": "1978ff3cd6cf31559db2b728b6fbf095968b39c96659f3f43f4fd9b9e5615e3c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_657.67/SLPM_657.67_BG_00.png"
+    },
+    "gameId": "SLPM_657.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_657.67/SLPM_657.67_BG.png",
+      "kind": "background",
+      "bytes": 154664,
+      "width": 640,
+      "height": 480,
+      "sha256": "1978ff3cd6cf31559db2b728b6fbf095968b39c96659f3f43f4fd9b9e5615e3c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.67/SLPM_657.67_BG_00.png"
+      },
+      "gameId": "SLPM_657.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Starting Five 2005"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.20",
+  "cover": {
+    "path": "PS2/SLPM_667.20/SLPM_667.20_COV.png",
+    "kind": "cover",
+    "bytes": 92959,
+    "width": 192,
+    "height": 272,
+    "sha256": "edc5281be479c9c270745b12b9f97430cf8bc424a03f0a7319a4f18c07f74c3e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66720.jpg"
+    },
+    "gameId": "SLPM_667.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guilty Gear XX Slash: The Midnight Carnival"
+}

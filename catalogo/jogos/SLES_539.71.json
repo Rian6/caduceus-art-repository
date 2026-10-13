@@ -1,0 +1,103 @@
+{
+  "id": "SLES_539.71",
+  "cover": {
+    "path": "PS2/SLES_539.71/SLES_539.71_COV.png",
+    "kind": "cover",
+    "bytes": 48476,
+    "width": 192,
+    "height": 272,
+    "sha256": "30dacfa76ea25b8e4ab7580482522ac4492eeed632194ae443d42ca9c185cc46",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53971.jpg"
+    },
+    "gameId": "SLES_539.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_539.71/SLES_539.71_BG.png",
+    "kind": "background",
+    "bytes": 54261,
+    "width": 640,
+    "height": 480,
+    "sha256": "e262cc0a1fce86d56febbb3be9b505c5f02000fa00da7bb055da5397c32d668c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.71/SLES_539.71_BG_00.png"
+    },
+    "gameId": "SLES_539.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.71/SLES_539.71_BG.png",
+      "kind": "background",
+      "bytes": 54261,
+      "width": 640,
+      "height": 480,
+      "sha256": "e262cc0a1fce86d56febbb3be9b505c5f02000fa00da7bb055da5397c32d668c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.71/SLES_539.71_BG_00.png"
+      },
+      "gameId": "SLES_539.71"
+    },
+    {
+      "path": "PS2/SLES_539.71/SLES_539.71_BG_01.png",
+      "kind": "background",
+      "bytes": 57029,
+      "width": 640,
+      "height": 480,
+      "sha256": "8cf2e81730b526c6fa42f178a78093418f03da0865f8f9bfe160be08c2e0108a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.71/SLES_539.71_BG_01.png"
+      },
+      "gameId": "SLES_539.71"
+    },
+    {
+      "path": "PS2/SLES_539.71/SLES_539.71_BG_02.png",
+      "kind": "background",
+      "bytes": 174122,
+      "width": 640,
+      "height": 480,
+      "sha256": "3bf82cdadad611b219677c82a93afa07f6ed2c75b98234aaa3abd36634624dfb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.71/SLES_539.71_BG_02.png"
+      },
+      "gameId": "SLES_539.71"
+    },
+    {
+      "path": "PS2/SLES_539.71/SLES_539.71_BG_03.png",
+      "kind": "background",
+      "bytes": 191844,
+      "width": 640,
+      "height": 480,
+      "sha256": "ffb69b4c511406cfa06ef76ee724195220ae1e4909f62f66cd0092d62cd2cb4f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.71/SLES_539.71_BG_03.png"
+      },
+      "gameId": "SLES_539.71"
+    },
+    {
+      "path": "PS2/SLES_539.71/SLES_539.71_BG_04.png",
+      "kind": "background",
+      "bytes": 72422,
+      "width": 640,
+      "height": 480,
+      "sha256": "69c0a5dbf90582e0c940cc3afe5db79dd77489eb7339cf45f03dbb470ef25a98",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.71/SLES_539.71_BG_04.png"
+      },
+      "gameId": "SLES_539.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "El Padrino"
+}

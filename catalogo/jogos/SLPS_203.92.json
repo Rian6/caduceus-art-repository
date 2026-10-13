@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.92",
+  "cover": {
+    "path": "PS2/SLPS_203.92/SLPS_203.92_COV.png",
+    "kind": "cover",
+    "bytes": 98899,
+    "width": 192,
+    "height": 272,
+    "sha256": "b541ac6344135d414211076cd49002a77a6c13f3d8226f2aba2c915e6363afa0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20392.jpg"
+    },
+    "gameId": "SLPS_203.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Toudai Shogi - Jouseki Dojo Kanketsuhen"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.39",
+  "cover": {
+    "path": "PS2/SLPS_259.39/SLPS_259.39_COV.png",
+    "kind": "cover",
+    "bytes": 103099,
+    "width": 192,
+    "height": 272,
+    "sha256": "ec0d762aad486b3aeecd4ed1f3498b52021073553a46710c6f641a2662d4d0f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25939.jpg"
+    },
+    "gameId": "SLPS_259.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HIMEHIBI - NEW PRINCESS DAYS!! ZOKU! NI-GAKKI"
+}

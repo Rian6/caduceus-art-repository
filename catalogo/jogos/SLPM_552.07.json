@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.07",
+  "cover": {
+    "path": "PS2/SLPM_552.07/SLPM_552.07_COV.png",
+    "kind": "cover",
+    "bytes": 112378,
+    "width": 192,
+    "height": 272,
+    "sha256": "07204daf6543a067fa3d7622633ed6e85b853584edeed9634ce3b416cc569b60",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55207.jpg"
+    },
+    "gameId": "SLPM_552.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAKUOKI - ZUISOUROKU [LIMITED EDITION]"
+}

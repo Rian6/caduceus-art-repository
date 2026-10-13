@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.36",
+  "cover": {
+    "path": "PS2/SLPS_254.36/SLPS_254.36_COV.png",
+    "kind": "cover",
+    "bytes": 111971,
+    "width": 192,
+    "height": 272,
+    "sha256": "fc7867dd01cbebe30d709ca36d34b2d7858a7973c9742c5a011c37a9e9b72d9b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25436.jpg"
+    },
+    "gameId": "SLPS_254.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TEIKOKU SENSENKI"
+}

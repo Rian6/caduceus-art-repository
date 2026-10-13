@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.49",
+  "cover": {
+    "path": "PS2/SCPS_150.49/SCPS_150.49_COV.png",
+    "kind": "cover",
+    "bytes": 108741,
+    "width": 192,
+    "height": 272,
+    "sha256": "f22a8023bc2ef438baf874edd197f47b5602d1fda12c37fdc7e4e96462a6c918",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15049.jpg"
+    },
+    "gameId": "SCPS_150.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Minna no Golf Online"
+}

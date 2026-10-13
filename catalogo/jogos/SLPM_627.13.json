@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.13",
+  "cover": {
+    "path": "PS2/SLPM_627.13/SLPM_627.13_COV.png",
+    "kind": "cover",
+    "bytes": 98430,
+    "width": 192,
+    "height": 272,
+    "sha256": "b3611c24619266bf1e3579b9da8d6c33e53c2efc1722159a63aef6f34773217c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62713.jpg"
+    },
+    "gameId": "SLPM_627.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yokushin - Giga Wings - Generations(Taito Best)"
+}

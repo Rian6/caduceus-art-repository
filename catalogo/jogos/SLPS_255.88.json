@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.88",
+  "cover": {
+    "path": "PS2/SLPS_255.88/SLPS_255.88_COV.png",
+    "kind": "cover",
+    "bytes": 76290,
+    "width": 192,
+    "height": 272,
+    "sha256": "0947c2045444a2595e83be64392dbd47dc5e06ab1322dfca7c802e1bc8e0165b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25588.jpg"
+    },
+    "gameId": "SLPS_255.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEITANTEI CONAN - DAIEI TEIKOKU NO ISAN [BANDAI THE BEST]"
+}

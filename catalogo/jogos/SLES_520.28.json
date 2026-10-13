@@ -1,0 +1,65 @@
+{
+  "id": "SLES_520.28",
+  "cover": {
+    "path": "PS2/SLES_520.28/SLES_520.28_COV.png",
+    "kind": "cover",
+    "bytes": 92426,
+    "width": 192,
+    "height": 272,
+    "sha256": "6f2116b43ebadb08e232216c055071fd699a62ce9dd9960aa4ddc1f271ab152f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52028.jpg"
+    },
+    "gameId": "SLES_520.28"
+  },
+  "disc": {
+    "path": "PS2/SLES_520.28/SLES_520.28_ICO.png",
+    "kind": "disc",
+    "bytes": 10663,
+    "width": 128,
+    "height": 128,
+    "sha256": "968b5b9abdd547f25f046b04c813c1bb63cf16a3c0ab2522817fce2c8550cc81",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_520.28_ICO.png"
+    },
+    "gameId": "SLES_520.28"
+  },
+  "background": {
+    "path": "PS2/SLES_520.28/SLES_520.28_BG.png",
+    "kind": "background",
+    "bytes": 142663,
+    "width": 640,
+    "height": 480,
+    "sha256": "b55d5d98b11e8d866882bad626ef49f60992beac04755caaeb66e39ca1ed93d3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_520.28/SLES_520.28_BG_00.png"
+    },
+    "gameId": "SLES_520.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_520.28/SLES_520.28_BG.png",
+      "kind": "background",
+      "bytes": 142663,
+      "width": 640,
+      "height": 480,
+      "sha256": "b55d5d98b11e8d866882bad626ef49f60992beac04755caaeb66e39ca1ed93d3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.28/SLES_520.28_BG_00.png"
+      },
+      "gameId": "SLES_520.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Junior Sports Basketball"
+}

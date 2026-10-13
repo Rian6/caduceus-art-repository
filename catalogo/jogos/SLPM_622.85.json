@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.85",
+  "cover": {
+    "path": "PS2/SLPM_622.85/SLPM_622.85_COV.png",
+    "kind": "cover",
+    "bytes": 98738,
+    "width": 192,
+    "height": 272,
+    "sha256": "692dbbfeff218394f029578d5ae8549053b1916284379b332723563c1f158f0b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62285.jpg"
+    },
+    "gameId": "SLPM_622.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Waku Waku Volley 2"
+}

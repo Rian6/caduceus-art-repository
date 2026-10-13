@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.51",
+  "cover": {
+    "path": "PS2/SLPM_667.51/SLPM_667.51_COV.png",
+    "kind": "cover",
+    "bytes": 101473,
+    "width": 192,
+    "height": 272,
+    "sha256": "1d4978e93bfd9873a91806a499195e8a76dcb1f03f84d9979a8e6c58e7381103",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66751.jpg"
+    },
+    "gameId": "SLPM_667.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAHOROBA STORIES - LIBRARY OF FORTUNE"
+}

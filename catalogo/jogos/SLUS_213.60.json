@@ -1,0 +1,272 @@
+{
+  "id": "SLUS_213.60",
+  "cover": {
+    "path": "PS2/SLUS_213.60/SLUS_213.60_COV.png",
+    "kind": "cover",
+    "bytes": 101541,
+    "width": 192,
+    "height": 272,
+    "sha256": "19677cca445499bdfa571c5b4bdd87acba55b05e5cb190bd3432f4e5e8cb379f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21360.jpg"
+    },
+    "gameId": "SLUS_213.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLUS_213.60/SLUS_213.60_BG.png",
+    "kind": "background",
+    "bytes": 200956,
+    "width": 640,
+    "height": 480,
+    "sha256": "0d30a27adfbcc31a875eb51a88b8183242d113f34613a93e58fd4494871f8ddf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_00.png"
+    },
+    "gameId": "SLUS_213.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG.png",
+      "kind": "background",
+      "bytes": 200956,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d30a27adfbcc31a875eb51a88b8183242d113f34613a93e58fd4494871f8ddf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_00.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_01.png",
+      "kind": "background",
+      "bytes": 150660,
+      "width": 640,
+      "height": 480,
+      "sha256": "250327e56f952be7fa6f9b54e9841a42557597b1c3ec2b1cdde25f0a8b5adc14",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_01.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_02.png",
+      "kind": "background",
+      "bytes": 161511,
+      "width": 640,
+      "height": 480,
+      "sha256": "c01e088cadcbd921e2a06ccd553148fded59c610d7960d1efd6dbf902dd1538e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_02.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_03.png",
+      "kind": "background",
+      "bytes": 132486,
+      "width": 640,
+      "height": 480,
+      "sha256": "5e3f23ce0f8e3e490731111f3137b4416725ee7b5b96f648c0d274ff497c2027",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_03.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_04.png",
+      "kind": "background",
+      "bytes": 153142,
+      "width": 640,
+      "height": 480,
+      "sha256": "bb47f36852bbb88b4d147e7ab785f24d17bec86e14b8667a946d5488781c8638",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_04.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_05.png",
+      "kind": "background",
+      "bytes": 225662,
+      "width": 640,
+      "height": 480,
+      "sha256": "c16a8c6ed9005ce0d0c1fca9ea3b8c33cdf2c6cee8a5cccd068d2ede004b84a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_05.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_06.png",
+      "kind": "background",
+      "bytes": 207970,
+      "width": 640,
+      "height": 480,
+      "sha256": "216dfa6949f34e01e16aab2636267e34ecf99770bb3179d554aabffd69f231c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_06.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_07.png",
+      "kind": "background",
+      "bytes": 228272,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c79a21b6da6088017a3e59e45c2841491b234583a460799fd3fccbe7b35a373",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_07.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_08.png",
+      "kind": "background",
+      "bytes": 167731,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7f0dd682eb13d09d98d51266ccd96d522a2a3c709e00f29fa741eeb3153f36a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_08.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_09.png",
+      "kind": "background",
+      "bytes": 212218,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2037850ceed9a20e7e024fa5b16eb3f03a99d7d91b554e164a5e4e2c5194156",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_09.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_10.png",
+      "kind": "background",
+      "bytes": 195870,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a1eb30401501b7d2181424bb7cfb1d9526f2216fce03c1652cf81e982e69433",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_10.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_11.png",
+      "kind": "background",
+      "bytes": 256699,
+      "width": 640,
+      "height": 480,
+      "sha256": "68e2b36f1c682d55dbed5446ac569e1683bf49b2b817f0136f9b5ed1a2274df8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_11.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_12.png",
+      "kind": "background",
+      "bytes": 139908,
+      "width": 640,
+      "height": 480,
+      "sha256": "f1dbfe9faad4ac3225545f0ac3314a98527d6d9ed4bd827127edd728435dda65",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_12.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_13.png",
+      "kind": "background",
+      "bytes": 147461,
+      "width": 640,
+      "height": 480,
+      "sha256": "c6fd240f854af149fcf0ab5d91587dbd532b4feb74dd6e7a044c73bc001d934b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_13.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_14.png",
+      "kind": "background",
+      "bytes": 252308,
+      "width": 640,
+      "height": 480,
+      "sha256": "8bcab95fa2f8c953b40d59e6cf9fb1508f16a61ff85d4dab63a1962a544a0ff1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_14.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_15.png",
+      "kind": "background",
+      "bytes": 152333,
+      "width": 640,
+      "height": 480,
+      "sha256": "75333270e013c3f4f4492027a165833e9da40cf49d159fbaa3f81d8bc07020fa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_15.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_16.png",
+      "kind": "background",
+      "bytes": 75841,
+      "width": 640,
+      "height": 480,
+      "sha256": "051dac8d2f09773eb99d39710b17a96eb20769677a2aba6a530d06a8de3fc5ab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_16.png"
+      },
+      "gameId": "SLUS_213.60"
+    },
+    {
+      "path": "PS2/SLUS_213.60/SLUS_213.60_BG_17.png",
+      "kind": "background",
+      "bytes": 178055,
+      "width": 640,
+      "height": 480,
+      "sha256": "32a99f2666536a349d9310f442f331593a34f0daf4852a0cb667ce085e669858",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.60/SLUS_213.60_BG_17.png"
+      },
+      "gameId": "SLUS_213.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Metal Gear Solid 3: Subsistence"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_201.43",
+  "cover": {
+    "path": "PS2/SLUS_201.43/SLUS_201.43_COV.png",
+    "kind": "cover",
+    "bytes": 88323,
+    "width": 192,
+    "height": 272,
+    "sha256": "2e0a8c23920ac62cc8b0d7c7c29d703c986a4a0ca177fe9eee1eab8adc557461",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20143.jpg"
+    },
+    "gameId": "SLUS_201.43"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.43/SLUS_201.43_ICO.png",
+    "kind": "disc",
+    "bytes": 34224,
+    "width": 256,
+    "height": 256,
+    "sha256": "daf9ebad2f8c2276db2b25553fdaf073c3ffec60934b654b0b57c2db78a390ad",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.43_ICO.png"
+    },
+    "gameId": "SLUS_201.43"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN NBA 2 Night"
+}

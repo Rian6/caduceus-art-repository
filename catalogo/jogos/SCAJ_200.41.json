@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.41",
+  "cover": {
+    "path": "PS2/SCAJ_200.41/SCAJ_200.41_COV.png",
+    "kind": "cover",
+    "bytes": 77172,
+    "width": 192,
+    "height": 272,
+    "sha256": "b9653189857da90f227ba9ae69bcc0fcda4779b8c558861225b76e5a32903d48",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20041.jpg"
+    },
+    "gameId": "SCAJ_200.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ENERGY AIRFORCE AIM STRIKE!"
+}

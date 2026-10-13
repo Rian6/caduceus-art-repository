@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.61",
+  "cover": {
+    "path": "PS2/SLPM_620.61/SLPM_620.61_COV.png",
+    "kind": "cover",
+    "bytes": 109275,
+    "width": 192,
+    "height": 272,
+    "sha256": "19145f384646d48d0f333e890b7e66d9600eb4f767e33fdf3371c8065b2a8640",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62061.jpg"
+    },
+    "gameId": "SLPM_620.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GI Jockey 2 2001"
+}

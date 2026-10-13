@@ -1,0 +1,51 @@
+{
+  "id": "SLES_551.97",
+  "cover": {
+    "path": "PS2/SLES_551.97/SLES_551.97_COV.png",
+    "kind": "cover",
+    "bytes": 98010,
+    "width": 192,
+    "height": 272,
+    "sha256": "48ac9882550370438368234df91287647a0eb4bee3b06452100b5380bce46469",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55197.jpg"
+    },
+    "gameId": "SLES_551.97"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_551.97/SLES_551.97_BG.png",
+    "kind": "background",
+    "bytes": 60432,
+    "width": 640,
+    "height": 480,
+    "sha256": "ecb3f245be6fa660b9a15371e9c0d19d333a658435c03303d36236e22347541a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_551.97/SLES_551.97_BG_00.png"
+    },
+    "gameId": "SLES_551.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_551.97/SLES_551.97_BG.png",
+      "kind": "background",
+      "bytes": 60432,
+      "width": 640,
+      "height": 480,
+      "sha256": "ecb3f245be6fa660b9a15371e9c0d19d333a658435c03303d36236e22347541a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.97/SLES_551.97_BG_00.png"
+      },
+      "gameId": "SLES_551.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dancing Stage Super NOVA 2"
+}

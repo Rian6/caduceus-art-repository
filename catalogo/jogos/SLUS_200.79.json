@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_200.79",
+  "cover": {
+    "path": "PS2/SLUS_200.79/SLUS_200.79_COV.png",
+    "kind": "cover",
+    "bytes": 107899,
+    "width": 192,
+    "height": 272,
+    "sha256": "72052135bae026b12b26e3bbb169f13f206fe677f438285c9514be037e9c9ce2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20079.jpg"
+    },
+    "gameId": "SLUS_200.79"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.79/SLUS_200.79_ICO.png",
+    "kind": "disc",
+    "bytes": 34021,
+    "width": 256,
+    "height": 256,
+    "sha256": "d018654ff8cd789c9c4857f04570eac098e3375c6105b2248060019f7c40d6ee",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.79_ICO.png"
+    },
+    "gameId": "SLUS_200.79"
+  },
+  "background": {
+    "path": "PS2/SLUS_200.79/SLUS_200.79_BG.png",
+    "kind": "background",
+    "bytes": 105322,
+    "width": 640,
+    "height": 480,
+    "sha256": "0ab96824e2b0057262ffa8dd0ca447e0e4ed90bedf45f658344847c31b50b9a7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_200.79/SLUS_200.79_BG_00.png"
+    },
+    "gameId": "SLUS_200.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_200.79/SLUS_200.79_BG.png",
+      "kind": "background",
+      "bytes": 105322,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ab96824e2b0057262ffa8dd0ca447e0e4ed90bedf45f658344847c31b50b9a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.79/SLUS_200.79_BG_00.png"
+      },
+      "gameId": "SLUS_200.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 2"
+}

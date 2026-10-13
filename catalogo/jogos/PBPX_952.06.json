@@ -1,0 +1,25 @@
+{
+  "id": "PBPX_952.06",
+  "cover": {
+    "path": "PS2/PBPX_952.06/PBPX_952.06_COV.png",
+    "kind": "cover",
+    "bytes": 6799,
+    "width": 192,
+    "height": 272,
+    "sha256": "6ae32bd35be021cc95d56071e0f44ff64950248e95fb5313ea050f81f4120aa8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PBPX-95206.jpg"
+    },
+    "gameId": "PBPX_952.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DVD Player Version 2.01"
+}

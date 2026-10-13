@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_203.55",
+  "cover": {
+    "path": "PS2/SLUS_203.55/SLUS_203.55_COV.png",
+    "kind": "cover",
+    "bytes": 112942,
+    "width": 192,
+    "height": 272,
+    "sha256": "9c74366726eaab0c3834c2f12171f425aeefcd54f76365df16e35470700d6bc1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20355.jpg"
+    },
+    "gameId": "SLUS_203.55"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.55/SLUS_203.55_ICO.png",
+    "kind": "disc",
+    "bytes": 33529,
+    "width": 256,
+    "height": 256,
+    "sha256": "902c23b1e0913921ec002674baebace2f82e4601606f5611566bdb669096f3f2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.55_ICO.png"
+    },
+    "gameId": "SLUS_203.55"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.55/SLUS_203.55_BG.png",
+    "kind": "background",
+    "bytes": 162374,
+    "width": 640,
+    "height": 480,
+    "sha256": "c5b0d8b79beb4bcfd24dda6b56b65abc792f64146aec4373cac1063e3425600f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.55/SLUS_203.55_BG_00.png"
+    },
+    "gameId": "SLUS_203.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.55/SLUS_203.55_BG.png",
+      "kind": "background",
+      "bytes": 162374,
+      "width": 640,
+      "height": 480,
+      "sha256": "c5b0d8b79beb4bcfd24dda6b56b65abc792f64146aec4373cac1063e3425600f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.55/SLUS_203.55_BG_00.png"
+      },
+      "gameId": "SLUS_203.55"
+    },
+    {
+      "path": "PS2/SLUS_203.55/SLUS_203.55_BG_01.png",
+      "kind": "background",
+      "bytes": 116317,
+      "width": 640,
+      "height": 480,
+      "sha256": "c0d8d0e0e17d41ae0a15a1e9d142d19d34550a48f5c82feb198a2225077eb2d3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.55/SLUS_203.55_BG_01.png"
+      },
+      "gameId": "SLUS_203.55"
+    },
+    {
+      "path": "PS2/SLUS_203.55/SLUS_203.55_BG_02.png",
+      "kind": "background",
+      "bytes": 112244,
+      "width": 640,
+      "height": 480,
+      "sha256": "c75a8992439af025524b3c7348d3b1d8e48d5ae5a7ccd25a13457e81f703c9d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.55/SLUS_203.55_BG_02.png"
+      },
+      "gameId": "SLUS_203.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom & Jerry - War of the Whiskers"
+}

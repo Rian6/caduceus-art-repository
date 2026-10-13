@@ -1,0 +1,78 @@
+{
+  "id": "SCES_519.20",
+  "cover": {
+    "path": "PS2/SCES_519.20/SCES_519.20_COV.png",
+    "kind": "cover",
+    "bytes": 65435,
+    "width": 192,
+    "height": 272,
+    "sha256": "bd16e85260a7fc0f2a24c1387295ca69fa5b7f77ae25164c9e9f905aeb86dac9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51920.jpg"
+    },
+    "gameId": "SCES_519.20"
+  },
+  "disc": {
+    "path": "PS2/SCES_519.20/SCES_519.20_ICO.png",
+    "kind": "disc",
+    "bytes": 11359,
+    "width": 128,
+    "height": 128,
+    "sha256": "4d9af43322a72a5a10f9d3b31f0dc0dd0c1bdccca3132da4bf13ffb74d19962f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_519.20_ICO.png"
+    },
+    "gameId": "SCES_519.20"
+  },
+  "background": {
+    "path": "PS2/SCES_519.20/SCES_519.20_BG.png",
+    "kind": "background",
+    "bytes": 129022,
+    "width": 640,
+    "height": 480,
+    "sha256": "2caab54dd7de692a24de9ed181f9abc9206f9c7d113efeaa31a23e83440e007c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_519.20/SCES_519.20_BG_00.png"
+    },
+    "gameId": "SCES_519.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_519.20/SCES_519.20_BG.png",
+      "kind": "background",
+      "bytes": 129022,
+      "width": 640,
+      "height": 480,
+      "sha256": "2caab54dd7de692a24de9ed181f9abc9206f9c7d113efeaa31a23e83440e007c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_519.20/SCES_519.20_BG_00.png"
+      },
+      "gameId": "SCES_519.20"
+    },
+    {
+      "path": "PS2/SCES_519.20/SCES_519.20_BG_01.png",
+      "kind": "background",
+      "bytes": 144637,
+      "width": 640,
+      "height": 480,
+      "sha256": "cfd0fc458ac435c43c6d266aa9829f4e5929f29078019e684f0ce8c9cf80d152",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_519.20/SCES_519.20_BG_01.png"
+      },
+      "gameId": "SCES_519.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FORBIDDEN SIREN"
+}

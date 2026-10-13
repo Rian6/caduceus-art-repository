@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_212.36",
+  "cover": {
+    "path": "PS2/SLUS_212.36/SLUS_212.36_COV.png",
+    "kind": "cover",
+    "bytes": 95138,
+    "width": 192,
+    "height": 272,
+    "sha256": "dde977d366bcf673a892eeb4d42690af6cf589aed3ccca31a14193c0faa9853e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21236.jpg"
+    },
+    "gameId": "SLUS_212.36"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.36/SLUS_212.36_ICO.png",
+    "kind": "disc",
+    "bytes": 30994,
+    "width": 256,
+    "height": 256,
+    "sha256": "ceb5c7e70a0553c5741903b1596fcafeb315cdd1c298a2a5bd8e5b07d2a5642c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.36_ICO.png"
+    },
+    "gameId": "SLUS_212.36"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.36/SLUS_212.36_BG.png",
+    "kind": "background",
+    "bytes": 148673,
+    "width": 640,
+    "height": 480,
+    "sha256": "6f0ae51b902ee17c096aa8b2bc8bc22109778a4e8f23872a8986ce66a83466f5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.36/SLUS_212.36_BG_00.png"
+    },
+    "gameId": "SLUS_212.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.36/SLUS_212.36_BG.png",
+      "kind": "background",
+      "bytes": 148673,
+      "width": 640,
+      "height": 480,
+      "sha256": "6f0ae51b902ee17c096aa8b2bc8bc22109778a4e8f23872a8986ce66a83466f5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.36/SLUS_212.36_BG_00.png"
+      },
+      "gameId": "SLUS_212.36"
+    },
+    {
+      "path": "PS2/SLUS_212.36/SLUS_212.36_BG_01.png",
+      "kind": "background",
+      "bytes": 750843,
+      "width": 640,
+      "height": 480,
+      "sha256": "3aeab8401362078c52cf2b451875954cae6e4eecd1af3d319893ad71adc29e6f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.36/SLUS_212.36_BG_01.png"
+      },
+      "gameId": "SLUS_212.36"
+    },
+    {
+      "path": "PS2/SLUS_212.36/SLUS_212.36_BG_02.png",
+      "kind": "background",
+      "bytes": 229303,
+      "width": 640,
+      "height": 480,
+      "sha256": "8a396759ea1c5be46e68719e83b92f48dc448d8436f2ada7a046071466875f34",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.36/SLUS_212.36_BG_02.png"
+      },
+      "gameId": "SLUS_212.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tokyo Xtreme Racer - Drift"
+}

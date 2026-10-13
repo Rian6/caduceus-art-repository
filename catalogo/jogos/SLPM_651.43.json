@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.43",
+  "cover": {
+    "path": "PS2/SLPM_651.43/SLPM_651.43_COV.png",
+    "kind": "cover",
+    "bytes": 97452,
+    "width": 192,
+    "height": 272,
+    "sha256": "7c33bbe156bc810a215ff70ea42cd3562815572a69b7dcc89d4e577fe1e352b0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65143.jpg"
+    },
+    "gameId": "SLPM_651.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Anime Super Remix: Ashita no Joe 2"
+}

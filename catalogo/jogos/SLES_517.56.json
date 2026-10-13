@@ -1,0 +1,51 @@
+{
+  "id": "SLES_517.56",
+  "cover": {
+    "path": "PS2/SLES_517.56/SLES_517.56_COV.png",
+    "kind": "cover",
+    "bytes": 89501,
+    "width": 192,
+    "height": 272,
+    "sha256": "f04a52973ee3e931b588fff632f3747cd0c685150cae511d3922d5347b883297",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51756.jpg"
+    },
+    "gameId": "SLES_517.56"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_517.56/SLES_517.56_BG.png",
+    "kind": "background",
+    "bytes": 116720,
+    "width": 640,
+    "height": 480,
+    "sha256": "2fdd940c8d2d13fd8720cb4e6a5382591e5bf16ea67332c702e910f1a4510039",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.56/SLES_517.56_BG_00.png"
+    },
+    "gameId": "SLES_517.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.56/SLES_517.56_BG.png",
+      "kind": "background",
+      "bytes": 116720,
+      "width": 640,
+      "height": 480,
+      "sha256": "2fdd940c8d2d13fd8720cb4e6a5382591e5bf16ea67332c702e910f1a4510039",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.56/SLES_517.56_BG_00.png"
+      },
+      "gameId": "SLES_517.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Batman - The Rise of Sin Tsu"
+}

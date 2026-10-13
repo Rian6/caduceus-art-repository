@@ -1,0 +1,25 @@
+{
+  "id": "PBPX_952.03",
+  "cover": {
+    "path": "PS2/PBPX_952.03/PBPX_952.03_COV.png",
+    "kind": "cover",
+    "bytes": 13122,
+    "width": 192,
+    "height": 272,
+    "sha256": "af8c2c0955a35720f61a78aa9f603412d14f3b2118966678041348d44fd91bd7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PBPX-95203.jpg"
+    },
+    "gameId": "PBPX_952.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Utility Disc Version 1.01"
+}

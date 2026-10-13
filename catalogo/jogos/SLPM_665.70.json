@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.70",
+  "cover": {
+    "path": "PS2/SLPM_665.70/SLPM_665.70_COV.png",
+    "kind": "cover",
+    "bytes": 94285,
+    "width": 192,
+    "height": 272,
+    "sha256": "567ea1b25ed9ecb586829f47462a8b8d8b7ef7ecf83407f85ba47af18e8533ae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66570.jpg"
+    },
+    "gameId": "SLPM_665.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "I'S PURE"
+}

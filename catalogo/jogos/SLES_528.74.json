@@ -1,0 +1,65 @@
+{
+  "id": "SLES_528.74",
+  "cover": {
+    "path": "PS2/SLES_528.74/SLES_528.74_COV.png",
+    "kind": "cover",
+    "bytes": 97456,
+    "width": 192,
+    "height": 272,
+    "sha256": "363b289deddd99aefcfec269a76899fa18bcb36ca9d6967add41fcb67cacd320",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52874.jpg"
+    },
+    "gameId": "SLES_528.74"
+  },
+  "disc": {
+    "path": "PS2/SLES_528.74/SLES_528.74_ICO.png",
+    "kind": "disc",
+    "bytes": 10540,
+    "width": 128,
+    "height": 128,
+    "sha256": "e4f51eddf6eff3edfd7a8b02343f08f3246bc22bafcedd4c36d7287f177762fb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_528.74_ICO.png"
+    },
+    "gameId": "SLES_528.74"
+  },
+  "background": {
+    "path": "PS2/SLES_528.74/SLES_528.74_BG.png",
+    "kind": "background",
+    "bytes": 176275,
+    "width": 640,
+    "height": 480,
+    "sha256": "516587adb7d382342aa8d6b2dda4e5a811bf8c9afaf3b8c8539a449896fb093d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_528.74/SLES_528.74_BG_00.png"
+    },
+    "gameId": "SLES_528.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_528.74/SLES_528.74_BG.png",
+      "kind": "background",
+      "bytes": 176275,
+      "width": 640,
+      "height": 480,
+      "sha256": "516587adb7d382342aa8d6b2dda4e5a811bf8c9afaf3b8c8539a449896fb093d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_528.74/SLES_528.74_BG_00.png"
+      },
+      "gameId": "SLES_528.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dark WInd (With Gametrak)"
+}

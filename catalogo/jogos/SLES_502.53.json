@@ -1,0 +1,25 @@
+{
+  "id": "SLES_502.53",
+  "cover": {
+    "path": "PS2/SLES_502.53/SLES_502.53_COV.png",
+    "kind": "cover",
+    "bytes": 65478,
+    "width": 192,
+    "height": 272,
+    "sha256": "564cb372c17ffb8f4885fa429f0de2b3b1c0cfa8a8b541d1e142f7eba0b5fb32",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50253.jpg"
+    },
+    "gameId": "SLES_502.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Moderngroove: Ministry of Sound Edition"
+}

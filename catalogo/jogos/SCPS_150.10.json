@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.10",
+  "cover": {
+    "path": "PS2/SCPS_150.10/SCPS_150.10_COV.png",
+    "kind": "cover",
+    "bytes": 75610,
+    "width": 192,
+    "height": 272,
+    "sha256": "c330b8431fd1fa172897a1cd5adeea1dec0b19f5d9a8fbf0c09245cbaf5511bb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15010.jpg"
+    },
+    "gameId": "SCPS_150.10"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.10/SCPS_150.10_BG.png",
+    "kind": "background",
+    "bytes": 166123,
+    "width": 640,
+    "height": 480,
+    "sha256": "b0aa36a3d685a10ee8435d2b272815324b5c5c4214d985bd886b1f8e16fed1bf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.10/SCPS_150.10_BG_00.png"
+    },
+    "gameId": "SCPS_150.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.10/SCPS_150.10_BG.png",
+      "kind": "background",
+      "bytes": 166123,
+      "width": 640,
+      "height": 480,
+      "sha256": "b0aa36a3d685a10ee8435d2b272815324b5c5c4214d985bd886b1f8e16fed1bf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.10/SCPS_150.10_BG_00.png"
+      },
+      "gameId": "SCPS_150.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo Concept: 2001 Tokyo"
+}

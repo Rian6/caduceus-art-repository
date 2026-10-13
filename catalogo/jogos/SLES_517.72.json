@@ -1,0 +1,64 @@
+{
+  "id": "SLES_517.72",
+  "cover": {
+    "path": "PS2/SLES_517.72/SLES_517.72_COV.png",
+    "kind": "cover",
+    "bytes": 85351,
+    "width": 192,
+    "height": 272,
+    "sha256": "b6a3517eb50443b1d7e03993272b9f0877984280e3efe4a618f227369ba3245a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51772.jpg"
+    },
+    "gameId": "SLES_517.72"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_517.72/SLES_517.72_BG.png",
+    "kind": "background",
+    "bytes": 191529,
+    "width": 640,
+    "height": 480,
+    "sha256": "8168cdcbaba2089bbefedeac9b661323b46e2f60e7fb5dc12ffa1a1d078af833",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.72/SLES_517.72_BG_00.png"
+    },
+    "gameId": "SLES_517.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.72/SLES_517.72_BG.png",
+      "kind": "background",
+      "bytes": 191529,
+      "width": 640,
+      "height": 480,
+      "sha256": "8168cdcbaba2089bbefedeac9b661323b46e2f60e7fb5dc12ffa1a1d078af833",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.72/SLES_517.72_BG_00.png"
+      },
+      "gameId": "SLES_517.72"
+    },
+    {
+      "path": "PS2/SLES_517.72/SLES_517.72_BG_01.png",
+      "kind": "background",
+      "bytes": 160840,
+      "width": 640,
+      "height": 480,
+      "sha256": "abeb7a3569f100c4ec5631a8af7b48e7576def31d54bce06429cfad5193274ce",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.72/SLES_517.72_BG_01.png"
+      },
+      "gameId": "SLES_517.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bad Boys II"
+}

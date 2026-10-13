@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.18",
+  "cover": {
+    "path": "PS2/SLKA_250.18/SLKA_250.18_COV.png",
+    "kind": "cover",
+    "bytes": 99867,
+    "width": 192,
+    "height": 272,
+    "sha256": "bbe105086ff56f5cb420f860080832534249c124a9aac2cfc2f1ebd8c078fbc4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25018.jpg"
+    },
+    "gameId": "SLKA_250.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPHINX AND THE CURSED MUMMY"
+}

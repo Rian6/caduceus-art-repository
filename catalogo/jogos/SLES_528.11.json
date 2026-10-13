@@ -1,0 +1,25 @@
+{
+  "id": "SLES_528.11",
+  "cover": {
+    "path": "PS2/SLES_528.11/SLES_528.11_COV.png",
+    "kind": "cover",
+    "bytes": 98371,
+    "width": 192,
+    "height": 272,
+    "sha256": "c9089e3c0094d82df212f3720d06370fe127d20192f925cd91b9ce82bb876027",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52811.jpg"
+    },
+    "gameId": "SLES_528.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Get On Da Mic"
+}

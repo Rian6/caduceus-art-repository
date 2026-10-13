@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.44",
+  "cover": {
+    "path": "PS2/SLPM_669.44/SLPM_669.44_COV.png",
+    "kind": "cover",
+    "bytes": 114477,
+    "width": 192,
+    "height": 272,
+    "sha256": "723196e2f0b47f867701d271638cdc7dfa47f76c2530fee4692881c96cd74350",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66944.jpg"
+    },
+    "gameId": "SLPM_669.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PETIT FOUR [LIMITED EDITION]"
+}

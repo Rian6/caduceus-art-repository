@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.93",
+  "cover": {
+    "path": "PS2/SLES_548.93/SLES_548.93_COV.png",
+    "kind": "cover",
+    "bytes": 75037,
+    "width": 192,
+    "height": 272,
+    "sha256": "5ee4c4a6152ba2a5aaa22119c7746e81b4bc166f448164f385b7bd8aab10d472",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54893.jpg"
+    },
+    "gameId": "SLES_548.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL '08"
+}

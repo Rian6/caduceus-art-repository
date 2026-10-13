@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.28",
+  "cover": {
+    "path": "PS2/SLPS_202.28/SLPS_202.28_COV.png",
+    "kind": "cover",
+    "bytes": 87609,
+    "width": 192,
+    "height": 272,
+    "sha256": "cf9bbd90ae5f7caecc04b5d6e6e0963fcb5088ddc6ef9b1a549a41bd030b449f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20228.jpg"
+    },
+    "gameId": "SLPS_202.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Daisenryaku 1941 - Gyakuten no Taiheiyou"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.87",
+  "cover": {
+    "path": "PS2/SLPM_658.87/SLPM_658.87_COV.png",
+    "kind": "cover",
+    "bytes": 101325,
+    "width": 192,
+    "height": 272,
+    "sha256": "0af49a8dd5daac52b89958e7b8ae5071e7175c819a0fbbbccc8fb83139b77c71",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65887.jpg"
+    },
+    "gameId": "SLPM_658.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LIKE LIFE AN HOUR"
+}

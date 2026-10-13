@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_211.30",
+  "cover": {
+    "path": "PS2/SLUS_211.30/SLUS_211.30_COV.png",
+    "kind": "cover",
+    "bytes": 107542,
+    "width": 192,
+    "height": 272,
+    "sha256": "628aa9a665969de74e5fa26b18fbe719c6dd8346411c5257d43334323637d894",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21130.jpg"
+    },
+    "gameId": "SLUS_211.30"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.30/SLUS_211.30_ICO.png",
+    "kind": "disc",
+    "bytes": 27863,
+    "width": 256,
+    "height": 256,
+    "sha256": "f8e06e2f3229a6c8234f5070ab4455a8ed8fd966bbb96e3ee3772ccbb49be6aa",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.30_ICO.png"
+    },
+    "gameId": "SLUS_211.30"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.30/SLUS_211.30_BG.png",
+    "kind": "background",
+    "bytes": 172723,
+    "width": 640,
+    "height": 480,
+    "sha256": "a9e2aad645ae5eee53fc6777c43eaf2f37200bd2a0338926cbc63f7646d8fd76",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.30/SLUS_211.30_BG_00.png"
+    },
+    "gameId": "SLUS_211.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.30/SLUS_211.30_BG.png",
+      "kind": "background",
+      "bytes": 172723,
+      "width": 640,
+      "height": 480,
+      "sha256": "a9e2aad645ae5eee53fc6777c43eaf2f37200bd2a0338926cbc63f7646d8fd76",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.30/SLUS_211.30_BG_00.png"
+      },
+      "gameId": "SLUS_211.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SnoCross 2 featuring Blair Morgan"
+}

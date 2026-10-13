@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.24",
+  "cover": {
+    "path": "PS2/SLPS_251.24/SLPS_251.24_COV.png",
+    "kind": "cover",
+    "bytes": 80257,
+    "width": 192,
+    "height": 272,
+    "sha256": "dd6d40063cd77be46fcebbbbabb8b2b4e3fa567dc606ce8fb8fea912013b4821",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25124.jpg"
+    },
+    "gameId": "SLPS_251.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kikou Busou G-Breaker 2 - Doumei no Hangeki"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.29",
+  "cover": {
+    "path": "PS2/SLPS_259.29/SLPS_259.29_COV.png",
+    "kind": "cover",
+    "bytes": 99483,
+    "width": 192,
+    "height": 272,
+    "sha256": "108c78c8f273dbe55363cd335a8f56c933b0b5c8fa5f6954a68c71c1340cb6e7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25929.jpg"
+    },
+    "gameId": "SLPS_259.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LITTLE ANCHOR"
+}

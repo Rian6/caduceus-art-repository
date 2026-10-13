@@ -1,0 +1,51 @@
+{
+  "id": "SLES_539.79",
+  "cover": {
+    "path": "PS2/SLES_539.79/SLES_539.79_COV.png",
+    "kind": "cover",
+    "bytes": 93670,
+    "width": 192,
+    "height": 272,
+    "sha256": "b7d76f33fc586a9c3026b5b72dae706241ac98a47689fff5687877584bcfc1c3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53979.jpg"
+    },
+    "gameId": "SLES_539.79"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_539.79/SLES_539.79_BG.png",
+    "kind": "background",
+    "bytes": 139807,
+    "width": 640,
+    "height": 480,
+    "sha256": "dc0b1a0bcf49557271452fbce75295a7b4c8341b5b3727b10e13738c0e690d29",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.79/SLES_539.79_BG_00.png"
+    },
+    "gameId": "SLES_539.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.79/SLES_539.79_BG.png",
+      "kind": "background",
+      "bytes": 139807,
+      "width": 640,
+      "height": 480,
+      "sha256": "dc0b1a0bcf49557271452fbce75295a7b4c8341b5b3727b10e13738c0e690d29",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.79/SLES_539.79_BG_00.png"
+      },
+      "gameId": "SLES_539.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Torrente 3 - El Protector"
+}

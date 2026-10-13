@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_620.76",
+  "cover": {
+    "path": "PS2/SLPM_620.76/SLPM_620.76_COV.png",
+    "kind": "cover",
+    "bytes": 96004,
+    "width": 192,
+    "height": 272,
+    "sha256": "0f398492665018fbdb4ad9000aeb5338cbb7e67105e964e13618c35180c11915",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62076.jpg"
+    },
+    "gameId": "SLPM_620.76"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_620.76/SLPM_620.76_BG.png",
+    "kind": "background",
+    "bytes": 153701,
+    "width": 640,
+    "height": 480,
+    "sha256": "c1d89bd018d608dae77816f010b76cc45d3de16751bfcab830a97222ba0d9c97",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_620.76/SLPM_620.76_BG_00.png"
+    },
+    "gameId": "SLPM_620.76"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_620.76/SLPM_620.76_BG.png",
+      "kind": "background",
+      "bytes": 153701,
+      "width": 640,
+      "height": 480,
+      "sha256": "c1d89bd018d608dae77816f010b76cc45d3de16751bfcab830a97222ba0d9c97",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.76/SLPM_620.76_BG_00.png"
+      },
+      "gameId": "SLPM_620.76"
+    },
+    {
+      "path": "PS2/SLPM_620.76/SLPM_620.76_BG_01.png",
+      "kind": "background",
+      "bytes": 217233,
+      "width": 640,
+      "height": 480,
+      "sha256": "61a5157d35e06c26518bd909b29855a603aa45719d0461d1a923fecbec83cb91",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.76/SLPM_620.76_BG_01.png"
+      },
+      "gameId": "SLPM_620.76"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Age of Empires II: The Age of Kings"
+}

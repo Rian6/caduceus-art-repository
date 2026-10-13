@@ -1,0 +1,39 @@
+{
+  "id": "SLPM_659.59",
+  "cover": {
+    "path": "PS2/SLPM_659.59/SLPM_659.59_COV.png",
+    "kind": "cover",
+    "bytes": 90135,
+    "width": 192,
+    "height": 272,
+    "sha256": "842f85a9670c2095c3cd5ab9540c65c01967fa7e5d28af1e445822875b13a530",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65959.jpg"
+    },
+    "gameId": "SLPM_659.59"
+  },
+  "disc": {
+    "path": "PS2/SLPM_659.59/SLPM_659.59_ICO.png",
+    "kind": "disc",
+    "bytes": 11119,
+    "width": 128,
+    "height": 128,
+    "sha256": "5ce8369475a7b8a848709e5a4aaaa129c76272b94dada7f99d76a49de9bc84dd",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_659.59_ICO.png"
+    },
+    "gameId": "SLPM_659.59"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Standard Daisenryaku - Ushiwareta Shouri"
+}

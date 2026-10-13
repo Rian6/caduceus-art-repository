@@ -1,0 +1,25 @@
+{
+  "id": "SLES_512.26",
+  "cover": {
+    "path": "PS2/SLES_512.26/SLES_512.26_COV.png",
+    "kind": "cover",
+    "bytes": 53313,
+    "width": 192,
+    "height": 272,
+    "sha256": "901b9f96d945b4e515ff6207440e18e4c0d0e8744fb80e1bcc522a1214d103d7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_512.26/SLES_512.26_COV.png"
+    },
+    "gameId": "SLES_512.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Twin Caliber"
+}

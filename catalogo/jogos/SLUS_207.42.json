@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_207.42",
+  "cover": {
+    "path": "PS2/SLUS_207.42/SLUS_207.42_COV.png",
+    "kind": "cover",
+    "bytes": 89752,
+    "width": 192,
+    "height": 272,
+    "sha256": "a80a32004ba50316ddbe0e69d16efc61dc143f8d8fe1d989f86fb5608c143896",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20742.jpg"
+    },
+    "gameId": "SLUS_207.42"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.42/SLUS_207.42_ICO.png",
+    "kind": "disc",
+    "bytes": 21280,
+    "width": 256,
+    "height": 256,
+    "sha256": "677bb6678c014eb32d20147a3f7aa4ae944fae13999b2a9de3a80f969ed8a0bf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.42_ICO.png"
+    },
+    "gameId": "SLUS_207.42"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.42/SLUS_207.42_BG.png",
+    "kind": "background",
+    "bytes": 169381,
+    "width": 640,
+    "height": 480,
+    "sha256": "394a9b420f970a097b9f1f583f4883ccf08e20be7c62d6846deb36b9df2e936c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.42/SLUS_207.42_BG_00.png"
+    },
+    "gameId": "SLUS_207.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.42/SLUS_207.42_BG.png",
+      "kind": "background",
+      "bytes": 169381,
+      "width": 640,
+      "height": 480,
+      "sha256": "394a9b420f970a097b9f1f583f4883ccf08e20be7c62d6846deb36b9df2e936c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.42/SLUS_207.42_BG_00.png"
+      },
+      "gameId": "SLUS_207.42"
+    },
+    {
+      "path": "PS2/SLUS_207.42/SLUS_207.42_BG_01.png",
+      "kind": "background",
+      "bytes": 246010,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b06a56bdb5fdecae26f3c43a64868199f59bbb449a12a6cfa5a8eed4443f337",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.42/SLUS_207.42_BG_01.png"
+      },
+      "gameId": "SLUS_207.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CHULIP"
+}

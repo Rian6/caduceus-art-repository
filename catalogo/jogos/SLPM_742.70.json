@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.70",
+  "cover": {
+    "path": "PS2/SLPM_742.70/SLPM_742.70_COV.png",
+    "kind": "cover",
+    "bytes": 85505,
+    "width": 192,
+    "height": 272,
+    "sha256": "42cecdbda2aeaa695f3bccc4ee273b2de13e19792c99b45209a99df64a4e7847",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74270.jpg"
+    },
+    "gameId": "SLPM_742.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fate/stay night: Réalta Nua"
+}

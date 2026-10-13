@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_252.79",
+  "cover": {
+    "path": "PS2/SLKA_252.79/SLKA_252.79_COV.png",
+    "kind": "cover",
+    "bytes": 103472,
+    "width": 192,
+    "height": 272,
+    "sha256": "1269343c670bf940cef3d061bea3cc76c514943ed7df49a61f54e7e738dad23c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25279.jpg"
+    },
+    "gameId": "SLKA_252.79"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_252.79/SLKA_252.79_BG.png",
+    "kind": "background",
+    "bytes": 526558,
+    "width": 640,
+    "height": 480,
+    "sha256": "9cdf828d3b5501b81f7903589bdc0b7949fda4d8dbd26ed1f4771c3cd525beed",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.79/SLKA_252.79_BG_00.png"
+    },
+    "gameId": "SLKA_252.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_252.79/SLKA_252.79_BG.png",
+      "kind": "background",
+      "bytes": 526558,
+      "width": 640,
+      "height": 480,
+      "sha256": "9cdf828d3b5501b81f7903589bdc0b7949fda4d8dbd26ed1f4771c3cd525beed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_252.79/SLKA_252.79_BG_00.png"
+      },
+      "gameId": "SLKA_252.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HELLO KITTY - MISSION RESCUE"
+}

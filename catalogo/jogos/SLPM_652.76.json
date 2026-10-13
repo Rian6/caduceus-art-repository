@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.76",
+  "cover": {
+    "path": "PS2/SLPM_652.76/SLPM_652.76_COV.png",
+    "kind": "cover",
+    "bytes": 67521,
+    "width": 192,
+    "height": 272,
+    "sha256": "06cb55692c5f722b15e9d463dfc31e5e8334db4fab12fb2ba8f2a37094b3813d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65276.jpg"
+    },
+    "gameId": "SLPM_652.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Grand Prix Challenge"
+}

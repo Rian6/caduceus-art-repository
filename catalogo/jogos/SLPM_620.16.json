@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.16",
+  "cover": {
+    "path": "PS2/SLPM_620.16/SLPM_620.16_COV.png",
+    "kind": "cover",
+    "bytes": 105354,
+    "width": 192,
+    "height": 272,
+    "sha256": "b9da422d3298aa8e503db43316688f0e4ca487f054d5f9fde931a2324bf414ba",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62016.jpg"
+    },
+    "gameId": "SLPM_620.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Puzzle Bobble"
+}

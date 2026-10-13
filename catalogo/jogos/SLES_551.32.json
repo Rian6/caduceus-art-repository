@@ -1,0 +1,39 @@
+{
+  "id": "SLES_551.32",
+  "cover": {
+    "path": "PS2/SLES_551.32/SLES_551.32_COV.png",
+    "kind": "cover",
+    "bytes": 100283,
+    "width": 192,
+    "height": 272,
+    "sha256": "8e774eec621f0b00f318962a0d1870d6dec63ecad9bda70ae0c74b0ad59c2609",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55132.jpg"
+    },
+    "gameId": "SLES_551.32"
+  },
+  "disc": {
+    "path": "PS2/SLES_551.32/SLES_551.32_ICO.png",
+    "kind": "disc",
+    "bytes": 11501,
+    "width": 128,
+    "height": 128,
+    "sha256": "8be41148ec9f97ebec924d6bfc07ee7c48d244dc9a4b42cf9fc3a108cd23ab80",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_551.32_ICO.png"
+    },
+    "gameId": "SLES_551.32"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "IRON CHEF"
+}

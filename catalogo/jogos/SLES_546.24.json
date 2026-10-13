@@ -1,0 +1,51 @@
+{
+  "id": "SLES_546.24",
+  "cover": {
+    "path": "PS2/SLES_546.24/SLES_546.24_COV.png",
+    "kind": "cover",
+    "bytes": 95240,
+    "width": 192,
+    "height": 272,
+    "sha256": "ca0397ce23aaa4c77791ed6bc03a57dfb8357942a925ae42585c4aad12dcc86b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54624.jpg"
+    },
+    "gameId": "SLES_546.24"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_546.24/SLES_546.24_BG.png",
+    "kind": "background",
+    "bytes": 243241,
+    "width": 640,
+    "height": 480,
+    "sha256": "ce858bccbdf837e773077c7a6ea2a4c1b1ac7d78c84f2aed3360e774b32a2ad3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.24/SLES_546.24_BG_00.png"
+    },
+    "gameId": "SLES_546.24"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_546.24/SLES_546.24_BG.png",
+      "kind": "background",
+      "bytes": 243241,
+      "width": 640,
+      "height": 480,
+      "sha256": "ce858bccbdf837e773077c7a6ea2a4c1b1ac7d78c84f2aed3360e774b32a2ad3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.24/SLES_546.24_BG_00.png"
+      },
+      "gameId": "SLES_546.24"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Samurai Warriors 2: Empires"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_500.32",
+  "cover": {
+    "path": "PS2/SLES_500.32/SLES_500.32_COV.png",
+    "kind": "cover",
+    "bytes": 100750,
+    "width": 192,
+    "height": 272,
+    "sha256": "a6cf201c9d6fa0c02c559a1b5941b17496b0e18e8d5f08e1d4bd4b4d4942d712",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50032.jpg"
+    },
+    "gameId": "SLES_500.32"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_500.32/SLES_500.32_BG.png",
+    "kind": "background",
+    "bytes": 177499,
+    "width": 640,
+    "height": 480,
+    "sha256": "45388c6aac394edf77edc2ceb8f61261b13e02a661693cc8c461a7ab898a397c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.32/SLES_500.32_BG_00.png"
+    },
+    "gameId": "SLES_500.32"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.32/SLES_500.32_BG.png",
+      "kind": "background",
+      "bytes": 177499,
+      "width": 640,
+      "height": 480,
+      "sha256": "45388c6aac394edf77edc2ceb8f61261b13e02a661693cc8c461a7ab898a397c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.32/SLES_500.32_BG_00.png"
+      },
+      "gameId": "SLES_500.32"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Theme Park World"
+}

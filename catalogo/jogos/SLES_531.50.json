@@ -1,0 +1,51 @@
+{
+  "id": "SLES_531.50",
+  "cover": {
+    "path": "PS2/SLES_531.50/SLES_531.50_COV.png",
+    "kind": "cover",
+    "bytes": 87486,
+    "width": 192,
+    "height": 272,
+    "sha256": "51ab668a5249c16863e09e00decbaade9eb3f4dd654b519e5a5a4dd964c7fa94",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53150.jpg"
+    },
+    "gameId": "SLES_531.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_531.50/SLES_531.50_BG.png",
+    "kind": "background",
+    "bytes": 206654,
+    "width": 640,
+    "height": 480,
+    "sha256": "5387a6c7e764af44ce141547ef1506b9b33ba71f03cc47e7b20cc1ef19e8b525",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.50/SLES_531.50_BG_00.png"
+    },
+    "gameId": "SLES_531.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.50/SLES_531.50_BG.png",
+      "kind": "background",
+      "bytes": 206654,
+      "width": 640,
+      "height": 480,
+      "sha256": "5387a6c7e764af44ce141547ef1506b9b33ba71f03cc47e7b20cc1ef19e8b525",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.50/SLES_531.50_BG_00.png"
+      },
+      "gameId": "SLES_531.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "10 Pin - Champions' Alley"
+}

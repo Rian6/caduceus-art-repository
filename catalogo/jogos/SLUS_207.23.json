@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_207.23",
+  "cover": {
+    "path": "PS2/SLUS_207.23/SLUS_207.23_COV.png",
+    "kind": "cover",
+    "bytes": 106033,
+    "width": 192,
+    "height": 272,
+    "sha256": "f58b2aee629dc354c48f6ccaaca2bd7c2bb6fbfd9f7bddb2b5d8dea561ba6f49",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20723.jpg"
+    },
+    "gameId": "SLUS_207.23"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.23/SLUS_207.23_ICO.png",
+    "kind": "disc",
+    "bytes": 37028,
+    "width": 256,
+    "height": 256,
+    "sha256": "4b1870b0c689bb72723d0388354db0c31558e1698f575deabd03ca037b91f46e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.23_ICO.png"
+    },
+    "gameId": "SLUS_207.23"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Robin Hood - Defender of the Crown"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.44",
+  "cover": {
+    "path": "PS2/SLPS_250.44/SLPS_250.44_COV.png",
+    "kind": "cover",
+    "bytes": 95923,
+    "width": 192,
+    "height": 272,
+    "sha256": "c1cbdda79aeb6dcadddc9a993b815bef38d875eb4eaec92a0a31798ffb346bd0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25044.jpg"
+    },
+    "gameId": "SLPS_250.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Evergrace II"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.88",
+  "cover": {
+    "path": "PS2/SLES_510.88/SLES_510.88_COV.png",
+    "kind": "cover",
+    "bytes": 92509,
+    "width": 192,
+    "height": 272,
+    "sha256": "66f971de98d7d7ac21e3f7857ebfade33c49b81be5c9c149f659f2c806cc6cd3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51088.jpg"
+    },
+    "gameId": "SLES_510.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - RANGERS"
+}

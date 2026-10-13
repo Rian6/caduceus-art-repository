@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.17",
+  "cover": {
+    "path": "PS2/SLPM_654.17/SLPM_654.17_COV.png",
+    "kind": "cover",
+    "bytes": 90004,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1563f7c31fa4db6186c4ee27fb1a065564b92d3dfe15287b333aec0ed51ede7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65417.jpg"
+    },
+    "gameId": "SLPM_654.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mat Hoffman's Pro BMX 2003"
+}

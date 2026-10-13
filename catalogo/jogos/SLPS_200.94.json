@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_200.94",
+  "cover": {
+    "path": "PS2/SLPS_200.94/SLPS_200.94_COV.png",
+    "kind": "cover",
+    "bytes": 95316,
+    "width": 192,
+    "height": 272,
+    "sha256": "e158ed513839e766d0785e671510d05497785737d9887082422332fb98e055e1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20094.jpg"
+    },
+    "gameId": "SLPS_200.94"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_200.94/SLPS_200.94_BG.png",
+    "kind": "background",
+    "bytes": 164579,
+    "width": 640,
+    "height": 480,
+    "sha256": "3eb2eb84c1bb9d8bf3bd9ad8ba6d9bded331c12cb5bd4a25c70f07614ae63d13",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_200.94/SLPS_200.94_BG_00.png"
+    },
+    "gameId": "SLPS_200.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_200.94/SLPS_200.94_BG.png",
+      "kind": "background",
+      "bytes": 164579,
+      "width": 640,
+      "height": 480,
+      "sha256": "3eb2eb84c1bb9d8bf3bd9ad8ba6d9bded331c12cb5bd4a25c70f07614ae63d13",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_200.94/SLPS_200.94_BG_00.png"
+      },
+      "gameId": "SLPS_200.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shinseiki Evangelion Typing E-Keikaku"
+}

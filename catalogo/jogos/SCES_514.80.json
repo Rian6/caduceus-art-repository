@@ -1,0 +1,51 @@
+{
+  "id": "SCES_514.80",
+  "cover": {
+    "path": "PS2/SCES_514.80/SCES_514.80_COV.png",
+    "kind": "cover",
+    "bytes": 71352,
+    "width": 192,
+    "height": 272,
+    "sha256": "414e575cd332220c350e8eb0e37ed155e09374d603ebc599b7bd719b0f592018",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51480.jpg"
+    },
+    "gameId": "SCES_514.80"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_514.80/SCES_514.80_BG.png",
+    "kind": "background",
+    "bytes": 156398,
+    "width": 640,
+    "height": 480,
+    "sha256": "02a060dea841c5236f7094eebf2d0351926620da0ac1b17b4d098d233cb34630",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_514.80/SCES_514.80_BG_00.png"
+    },
+    "gameId": "SCES_514.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_514.80/SCES_514.80_BG.png",
+      "kind": "background",
+      "bytes": 156398,
+      "width": 640,
+      "height": 480,
+      "sha256": "02a060dea841c5236f7094eebf2d0351926620da0ac1b17b4d098d233cb34630",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_514.80/SCES_514.80_BG_00.png"
+      },
+      "gameId": "SCES_514.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TWISTED METAL - BLACK ONLINE"
+}

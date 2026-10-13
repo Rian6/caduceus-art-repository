@@ -1,0 +1,65 @@
+{
+  "id": "SLES_544.94",
+  "cover": {
+    "path": "PS2/SLES_544.94/SLES_544.94_COV.png",
+    "kind": "cover",
+    "bytes": 74061,
+    "width": 192,
+    "height": 272,
+    "sha256": "abcffe016361825d6d529c6a553116cfd4315103909c70b0e8526807f8f6f16e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54494.jpg"
+    },
+    "gameId": "SLES_544.94"
+  },
+  "disc": {
+    "path": "PS2/SLES_544.94/SLES_544.94_ICO.png",
+    "kind": "disc",
+    "bytes": 9363,
+    "width": 128,
+    "height": 128,
+    "sha256": "8d5412ad64447eda90a2dcb6d17ffb9b92eb7b25b0d0130c05bfd0455dc7ada5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_544.94_ICO.png"
+    },
+    "gameId": "SLES_544.94"
+  },
+  "background": {
+    "path": "PS2/SLES_544.94/SLES_544.94_BG.png",
+    "kind": "background",
+    "bytes": 217773,
+    "width": 640,
+    "height": 480,
+    "sha256": "b431b1e004ff40707e7e83a650c7685dae33a1d8d1dde9c282650243859ad99a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.94/SLES_544.94_BG_00.png"
+    },
+    "gameId": "SLES_544.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.94/SLES_544.94_BG.png",
+      "kind": "background",
+      "bytes": 217773,
+      "width": 640,
+      "height": 480,
+      "sha256": "b431b1e004ff40707e7e83a650c7685dae33a1d8d1dde9c282650243859ad99a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.94/SLES_544.94_BG_00.png"
+      },
+      "gameId": "SLES_544.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Little Britain - The Video Game"
+}

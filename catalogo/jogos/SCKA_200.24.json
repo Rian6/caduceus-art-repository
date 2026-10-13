@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.24",
+  "cover": {
+    "path": "PS2/SCKA_200.24/SCKA_200.24_COV.png",
+    "kind": "cover",
+    "bytes": 54224,
+    "width": 192,
+    "height": 272,
+    "sha256": "6baf35ce041e89591c7edc682f341f1a9171e10bc71c55a0067081d1ff97b590",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.24/SCKA_200.24_COV.png"
+    },
+    "gameId": "SCKA_200.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy: Groove"
+}

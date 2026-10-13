@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_001.12",
+  "cover": {
+    "path": "PS2/KOEI_001.12/KOEI_001.12_COV.png",
+    "kind": "cover",
+    "bytes": 55919,
+    "width": 192,
+    "height": 272,
+    "sha256": "8ef2b75c0bec0cf2aac97f1b61e0933c8e8f6c07c31b402e19afb1c10d4d1d65",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_001.12/KOEI_001.12_COV.png"
+    },
+    "gameId": "KOEI_001.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Musou 2 Empires(Treasure Box)"
+}

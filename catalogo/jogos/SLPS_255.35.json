@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.35",
+  "cover": {
+    "path": "PS2/SLPS_255.35/SLPS_255.35_COV.png",
+    "kind": "cover",
+    "bytes": 106958,
+    "width": 192,
+    "height": 272,
+    "sha256": "b9f1364a4497bd0cff039ffa7226e1ca35b35e413a052504ebce8c89a6f0f20d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25535.jpg"
+    },
+    "gameId": "SLPS_255.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters - The Orochi Collection (NeoGeo Online Collection Vol.03 - Limited Edition))"
+}

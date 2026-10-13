@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.38",
+  "cover": {
+    "path": "PS2/SLPS_732.38/SLPS_732.38_COV.png",
+    "kind": "cover",
+    "bytes": 96225,
+    "width": 192,
+    "height": 272,
+    "sha256": "614799da964586e90510611160c082ed8a89f888aeca1e6cd137cfe6262253c5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73238.jpg"
+    },
+    "gameId": "SLPS_732.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dai-3-Ji Super Robot Taisen Alpha - Shuuen no Ginga e (Playstation 2 The Best)"
+}

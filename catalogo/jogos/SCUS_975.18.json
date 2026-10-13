@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_975.18",
+  "cover": {
+    "path": "PS2/SCUS_975.18/SCUS_975.18_COV.png",
+    "kind": "cover",
+    "bytes": 92020,
+    "width": 192,
+    "height": 272,
+    "sha256": "9d25f499af59cffa83cb762c679844d5e204d4f7104093bd4f9dd5189e4bcacd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97518.jpg"
+    },
+    "gameId": "SCUS_975.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ratchet & Clank – Up Your Arsenal (Greatest Hits)"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLPM_620.29",
+  "cover": {
+    "path": "PS2/SLPM_620.29/SLPM_620.29_COV.png",
+    "kind": "cover",
+    "bytes": 99171,
+    "width": 192,
+    "height": 272,
+    "sha256": "395657bd605b83702eab08c7a6daa3d47ca0dce449a027494c4d8916d53f8601",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62029.jpg"
+    },
+    "gameId": "SLPM_620.29"
+  },
+  "disc": {
+    "path": "PS2/SLPM_620.29/SLPM_620.29_ICO.png",
+    "kind": "disc",
+    "bytes": 9562,
+    "width": 128,
+    "height": 128,
+    "sha256": "f8f47c7f501aa43e7239346dc97554d14d9e1199edb1398c6e8c314bcd32f3a4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_620.29_ICO.png"
+    },
+    "gameId": "SLPM_620.29"
+  },
+  "background": {
+    "path": "PS2/SLPM_620.29/SLPM_620.29_BG.png",
+    "kind": "background",
+    "bytes": 35717,
+    "width": 640,
+    "height": 480,
+    "sha256": "919dd8586532f3ea0a60f52e28fb491042acb64e2b23f1a18cc266e1ecc377c5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_620.29/SLPM_620.29_BG_00.png"
+    },
+    "gameId": "SLPM_620.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_620.29/SLPM_620.29_BG.png",
+      "kind": "background",
+      "bytes": 35717,
+      "width": 640,
+      "height": 480,
+      "sha256": "919dd8586532f3ea0a60f52e28fb491042acb64e2b23f1a18cc266e1ecc377c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.29/SLPM_620.29_BG_00.png"
+      },
+      "gameId": "SLPM_620.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dance Summit 2001 - Bust A Move"
+}

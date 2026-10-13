@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.89",
+  "cover": {
+    "path": "PS2/SLES_510.89/SLES_510.89_COV.png",
+    "kind": "cover",
+    "bytes": 82690,
+    "width": 192,
+    "height": 272,
+    "sha256": "c6532da32c5c408c9d499f6468f636eb6ad0fc123cc767ecac53fe09cfc69a50",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51089.jpg"
+    },
+    "gameId": "SLES_510.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - ARSENAL"
+}

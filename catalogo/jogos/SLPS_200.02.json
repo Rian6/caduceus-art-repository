@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.02",
+  "cover": {
+    "path": "PS2/SLPS_200.02/SLPS_200.02_COV.png",
+    "kind": "cover",
+    "bytes": 62263,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e96d5f33bbd2dd79074276d4724288a0e35121dc1b5224dd568aa5b34216ebf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20002.jpg"
+    },
+    "gameId": "SLPS_200.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Doukyuu: Billiard Master 2"
+}

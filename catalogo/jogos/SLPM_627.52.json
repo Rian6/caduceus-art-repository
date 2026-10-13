@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.52",
+  "cover": {
+    "path": "PS2/SLPM_627.52/SLPM_627.52_COV.png",
+    "kind": "cover",
+    "bytes": 97502,
+    "width": 192,
+    "height": 272,
+    "sha256": "7b167829133b60cc9bd0ae941e93aa9e2761f7bf044bff648cb0aba7e383f788",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62752.jpg"
+    },
+    "gameId": "SLPM_627.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Slotter Up Core 9 - Jug Kyoku Tare! Final Juggler"
+}

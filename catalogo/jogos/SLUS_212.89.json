@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_212.89",
+  "cover": {
+    "path": "PS2/SLUS_212.89/SLUS_212.89_COV.png",
+    "kind": "cover",
+    "bytes": 111541,
+    "width": 192,
+    "height": 272,
+    "sha256": "c134265f9612f4c6c358ad4635a944ea535fec256931476f38f6386300cacad6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21289.jpg"
+    },
+    "gameId": "SLUS_212.89"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.89/SLUS_212.89_ICO.png",
+    "kind": "disc",
+    "bytes": 34151,
+    "width": 256,
+    "height": 256,
+    "sha256": "da5469dbc97ebc8f5ce361e5d3e97ade823e0c52c47af887b53864eff6c5e207",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.89_ICO.png"
+    },
+    "gameId": "SLUS_212.89"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SeaWorld Adventure Parks: Shamu's Deep Sea Adventures"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.05",
+  "cover": {
+    "path": "PS2/SLPM_742.05/SLPM_742.05_COV.png",
+    "kind": "cover",
+    "bytes": 69599,
+    "width": 192,
+    "height": 272,
+    "sha256": "d799548ecbc7884df559c9ccc4827eef2a0a57ba7cf4fd3d318e5181caa2e57f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74205.jpg"
+    },
+    "gameId": "SLPM_742.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHIN MEGAMI TENSEI III - NOCTURNE [PLAYSTATION 2 THE BEST]"
+}

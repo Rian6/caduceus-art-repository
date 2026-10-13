@@ -1,0 +1,51 @@
+{
+  "id": "SLES_550.64",
+  "cover": {
+    "path": "PS2/SLES_550.64/SLES_550.64_COV.png",
+    "kind": "cover",
+    "bytes": 103482,
+    "width": 192,
+    "height": 272,
+    "sha256": "8aab5f51d73ee5c3b3f92a58549f9e6289036e27c1566ca903c5dee0b3900b13",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55064.jpg"
+    },
+    "gameId": "SLES_550.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_550.64/SLES_550.64_BG.png",
+    "kind": "background",
+    "bytes": 201646,
+    "width": 640,
+    "height": 480,
+    "sha256": "0d27f392b8afe8b443df6e3ab1cca8ae04a88ffbcc2ad8ecaeb0276ed99b0b5c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.64/SLES_550.64_BG_00.png"
+    },
+    "gameId": "SLES_550.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.64/SLES_550.64_BG.png",
+      "kind": "background",
+      "bytes": 201646,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d27f392b8afe8b443df6e3ab1cca8ae04a88ffbcc2ad8ecaeb0276ed99b0b5c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.64/SLES_550.64_BG_00.png"
+      },
+      "gameId": "SLES_550.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Luxor - Pharaoh's Challenge"
+}

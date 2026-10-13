@@ -1,0 +1,64 @@
+{
+  "id": "SLES_523.73",
+  "cover": {
+    "path": "PS2/SLES_523.73/SLES_523.73_COV.png",
+    "kind": "cover",
+    "bytes": 90153,
+    "width": 192,
+    "height": 272,
+    "sha256": "f45a321020e0fc8936ac6c1942fd09a431d236b0669c4b2e9c6f03db49c31f0e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52373.jpg"
+    },
+    "gameId": "SLES_523.73"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_523.73/SLES_523.73_BG.png",
+    "kind": "background",
+    "bytes": 208010,
+    "width": 640,
+    "height": 480,
+    "sha256": "b83357c33f9bd4ada4d9e689bcd033974de51171ba3326ff8f80dc48d5bbbb07",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.73/SLES_523.73_BG_00.png"
+    },
+    "gameId": "SLES_523.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.73/SLES_523.73_BG.png",
+      "kind": "background",
+      "bytes": 208010,
+      "width": 640,
+      "height": 480,
+      "sha256": "b83357c33f9bd4ada4d9e689bcd033974de51171ba3326ff8f80dc48d5bbbb07",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.73/SLES_523.73_BG_00.png"
+      },
+      "gameId": "SLES_523.73"
+    },
+    {
+      "path": "PS2/SLES_523.73/SLES_523.73_BG_01.png",
+      "kind": "background",
+      "bytes": 201236,
+      "width": 640,
+      "height": 480,
+      "sha256": "d3d0e5f3dea5d4f62dd620d43226d272bb7c511830da707b9dd12fa193d4f44e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.73/SLES_523.73_BG_01.png"
+      },
+      "gameId": "SLES_523.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Champions of Norrath"
+}

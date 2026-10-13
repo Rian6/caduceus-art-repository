@@ -1,0 +1,64 @@
+{
+  "id": "SLES_523.39",
+  "cover": {
+    "path": "PS2/SLES_523.39/SLES_523.39_COV.png",
+    "kind": "cover",
+    "bytes": 95619,
+    "width": 192,
+    "height": 272,
+    "sha256": "db7d29f4d8c1075907c6794372e2e5d25c92d4c3bbcb0ba01cc6877f38d67692",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52339.jpg"
+    },
+    "gameId": "SLES_523.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_523.39/SLES_523.39_BG.png",
+    "kind": "background",
+    "bytes": 206799,
+    "width": 640,
+    "height": 480,
+    "sha256": "5c9b78621431264c33d4e5af2ee84374e92bcace9e13ab76313142bc0a93f74a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.39/SLES_523.39_BG_00.png"
+    },
+    "gameId": "SLES_523.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.39/SLES_523.39_BG.png",
+      "kind": "background",
+      "bytes": 206799,
+      "width": 640,
+      "height": 480,
+      "sha256": "5c9b78621431264c33d4e5af2ee84374e92bcace9e13ab76313142bc0a93f74a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.39/SLES_523.39_BG_00.png"
+      },
+      "gameId": "SLES_523.39"
+    },
+    {
+      "path": "PS2/SLES_523.39/SLES_523.39_BG_01.png",
+      "kind": "background",
+      "bytes": 151793,
+      "width": 640,
+      "height": 480,
+      "sha256": "9286ed9c7d8c2220128b472ea4c611486753450771f370322e372c550a8bbbed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.39/SLES_523.39_BG_01.png"
+      },
+      "gameId": "SLES_523.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Crash 'n Burn"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_217.31",
+  "cover": {
+    "path": "PS2/SLUS_217.31/SLUS_217.31_COV.png",
+    "kind": "cover",
+    "bytes": 93858,
+    "width": 192,
+    "height": 272,
+    "sha256": "44342f349096031e7ddea99f52c26b50e52c7d869fa98eb67493b5355409ad73",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21731.jpg"
+    },
+    "gameId": "SLUS_217.31"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.31/SLUS_217.31_ICO.png",
+    "kind": "disc",
+    "bytes": 34144,
+    "width": 256,
+    "height": 256,
+    "sha256": "af12d12807777de976e4273836bb1844f2361d6ae4e5b7d37370f3eebc9e771a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.31_ICO.png"
+    },
+    "gameId": "SLUS_217.31"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.31/SLUS_217.31_BG.png",
+    "kind": "background",
+    "bytes": 217974,
+    "width": 640,
+    "height": 480,
+    "sha256": "98f48745e697fd40f9c190815a745502bf55a2c1d5515c8000b653fe8130df06",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.31/SLUS_217.31_BG_00.png"
+    },
+    "gameId": "SLUS_217.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.31/SLUS_217.31_BG.png",
+      "kind": "background",
+      "bytes": 217974,
+      "width": 640,
+      "height": 480,
+      "sha256": "98f48745e697fd40f9c190815a745502bf55a2c1d5515c8000b653fe8130df06",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.31/SLUS_217.31_BG_00.png"
+      },
+      "gameId": "SLUS_217.31"
+    },
+    {
+      "path": "PS2/SLUS_217.31/SLUS_217.31_BG_01.png",
+      "kind": "background",
+      "bytes": 164228,
+      "width": 640,
+      "height": 480,
+      "sha256": "1b3e6a10f8ff13bd656133598737af58f61586f1ea9e12ad82189e1f61bc2e70",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.31/SLUS_217.31_BG_01.png"
+      },
+      "gameId": "SLUS_217.31"
+    },
+    {
+      "path": "PS2/SLUS_217.31/SLUS_217.31_BG_02.png",
+      "kind": "background",
+      "bytes": 172331,
+      "width": 640,
+      "height": 480,
+      "sha256": "b8b2e326658a6ed7e56be704487ef039dc506de44ffe9a048b6dd0be957dabb5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.31/SLUS_217.31_BG_02.png"
+      },
+      "gameId": "SLUS_217.31"
+    },
+    {
+      "path": "PS2/SLUS_217.31/SLUS_217.31_BG_03.png",
+      "kind": "background",
+      "bytes": 195327,
+      "width": 640,
+      "height": 480,
+      "sha256": "8667551c7117911ccd7a4f5b02bead71b0c6b4a6c6edd8e98c3ec340142df237",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.31/SLUS_217.31_BG_03.png"
+      },
+      "gameId": "SLUS_217.31"
+    },
+    {
+      "path": "PS2/SLUS_217.31/SLUS_217.31_BG_04.png",
+      "kind": "background",
+      "bytes": 162854,
+      "width": 640,
+      "height": 480,
+      "sha256": "7abfb0228c78c4eb55b2284ce53fc2975e1062517f723fecb94b1f00ea4f4bf0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.31/SLUS_217.31_BG_04.png"
+      },
+      "gameId": "SLUS_217.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SILENT HILL - ORIGINS"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_550.49",
+  "cover": {
+    "path": "PS2/SLES_550.49/SLES_550.49_COV.png",
+    "kind": "cover",
+    "bytes": 94015,
+    "width": 192,
+    "height": 272,
+    "sha256": "c828d81590182434869db4dba45f5a847ce4958a1ff04c8f8b4cd2460ccac3b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55049.jpg"
+    },
+    "gameId": "SLES_550.49"
+  },
+  "disc": {
+    "path": "PS2/SLES_550.49/SLES_550.49_ICO.png",
+    "kind": "disc",
+    "bytes": 9676,
+    "width": 128,
+    "height": 128,
+    "sha256": "ed70ea3ccac302faa45dd48020fa347c777249fd2443fbb5b7a7a7adfa4d2d93",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_550.49_ICO.png"
+    },
+    "gameId": "SLES_550.49"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Toy Golf Extreme"
+}

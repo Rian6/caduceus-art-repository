@@ -1,0 +1,64 @@
+{
+  "id": "SLES_512.83",
+  "cover": {
+    "path": "PS2/SLES_512.83/SLES_512.83_COV.png",
+    "kind": "cover",
+    "bytes": 96307,
+    "width": 192,
+    "height": 272,
+    "sha256": "57038f16faf969d0a30a7ec919da1e9c938e57406310bfe50f255f2d6f1089bc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51283.jpg"
+    },
+    "gameId": "SLES_512.83"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_512.83/SLES_512.83_BG.png",
+    "kind": "background",
+    "bytes": 121397,
+    "width": 640,
+    "height": 480,
+    "sha256": "4d86004ea729025d7ef595330f153719c4cc51ffdac5eea5b0dfa327424cc33c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_512.83/SLES_512.83_BG_00.png"
+    },
+    "gameId": "SLES_512.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_512.83/SLES_512.83_BG.png",
+      "kind": "background",
+      "bytes": 121397,
+      "width": 640,
+      "height": 480,
+      "sha256": "4d86004ea729025d7ef595330f153719c4cc51ffdac5eea5b0dfa327424cc33c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.83/SLES_512.83_BG_00.png"
+      },
+      "gameId": "SLES_512.83"
+    },
+    {
+      "path": "PS2/SLES_512.83/SLES_512.83_BG_01.png",
+      "kind": "background",
+      "bytes": 145968,
+      "width": 640,
+      "height": 480,
+      "sha256": "473da1df8d21e46e6c31172b69574096716af538ee026535eeb4750001648d8c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.83/SLES_512.83_BG_01.png"
+      },
+      "gameId": "SLES_512.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WWE SmackDown! - Shut Your Mouth"
+}

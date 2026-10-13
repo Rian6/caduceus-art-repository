@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.92",
+  "cover": {
+    "path": "PS2/SLPS_251.92/SLPS_251.92_COV.png",
+    "kind": "cover",
+    "bytes": 94548,
+    "width": 192,
+    "height": 272,
+    "sha256": "01e88205c422fe1c5a2e15feda74057b1aa4656b20b2d6dddf2ec0d38fe36d6a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25192.jpg"
+    },
+    "gameId": "SLPS_251.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MY MERRY MAY [LIMITED EDITION]"
+}

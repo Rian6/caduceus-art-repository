@@ -1,0 +1,51 @@
+{
+  "id": "SLES_519.72",
+  "cover": {
+    "path": "PS2/SLES_519.72/SLES_519.72_COV.png",
+    "kind": "cover",
+    "bytes": 93719,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c7fc531d34b0e69b2a898a164a202081ff0f365cefbc4cf6e431432f7bf29c3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51972.jpg"
+    },
+    "gameId": "SLES_519.72"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_519.72/SLES_519.72_BG.png",
+    "kind": "background",
+    "bytes": 217515,
+    "width": 640,
+    "height": 480,
+    "sha256": "ce83518e42503ccc3e6efb52ce72ff9eed4fd4492e661f2f960a1793c91a36e9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.72/SLES_519.72_BG_00.png"
+    },
+    "gameId": "SLES_519.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.72/SLES_519.72_BG.png",
+      "kind": "background",
+      "bytes": 217515,
+      "width": 640,
+      "height": 480,
+      "sha256": "ce83518e42503ccc3e6efb52ce72ff9eed4fd4492e661f2f960a1793c91a36e9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.72/SLES_519.72_BG_00.png"
+      },
+      "gameId": "SLES_519.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Jam 2004"
+}

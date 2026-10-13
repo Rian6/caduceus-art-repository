@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.41",
+  "cover": {
+    "path": "PS2/SLPS_202.41/SLPS_202.41_COV.png",
+    "kind": "cover",
+    "bytes": 109289,
+    "width": 192,
+    "height": 272,
+    "sha256": "4edc43d89134a1486b7753cb0ec9fef6a55684ab2fb48fd4a3e4d9eeff32bf7e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20241.jpg"
+    },
+    "gameId": "SLPS_202.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shangai - Sangoku Pai Tatagi"
+}

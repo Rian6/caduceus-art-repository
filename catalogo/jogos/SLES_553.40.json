@@ -1,0 +1,51 @@
+{
+  "id": "SLES_553.40",
+  "cover": {
+    "path": "PS2/SLES_553.40/SLES_553.40_COV.png",
+    "kind": "cover",
+    "bytes": 94233,
+    "width": 192,
+    "height": 272,
+    "sha256": "113c4ac95830c55b074c0b06c3b083172650374c3ebcc795336c81484ddf9605",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55340.jpg"
+    },
+    "gameId": "SLES_553.40"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_553.40/SLES_553.40_BG.png",
+    "kind": "background",
+    "bytes": 145608,
+    "width": 640,
+    "height": 480,
+    "sha256": "347009aca719f2b5bdcba978dc2cb95b799728b369519666280e4568a960f6b0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.40/SLES_553.40_BG_00.png"
+    },
+    "gameId": "SLES_553.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_553.40/SLES_553.40_BG.png",
+      "kind": "background",
+      "bytes": 145608,
+      "width": 640,
+      "height": 480,
+      "sha256": "347009aca719f2b5bdcba978dc2cb95b799728b369519666280e4568a960f6b0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.40/SLES_553.40_BG_00.png"
+      },
+      "gameId": "SLES_553.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPACE CHIMPS"
+}

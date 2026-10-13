@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.84",
+  "cover": {
+    "path": "PS2/SCAJ_201.84/SCAJ_201.84_COV.png",
+    "kind": "cover",
+    "bytes": 104489,
+    "width": 192,
+    "height": 272,
+    "sha256": "8052be7432e64cb7f5eff31e159f52eff7216f31255b2bd4f418cf36008b52a1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20184.jpg"
+    },
+    "gameId": "SCAJ_201.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SEIKEN DENSETSU 4"
+}

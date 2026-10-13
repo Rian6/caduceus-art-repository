@@ -1,0 +1,65 @@
+{
+  "id": "SLES_549.84",
+  "cover": {
+    "path": "PS2/SLES_549.84/SLES_549.84_COV.png",
+    "kind": "cover",
+    "bytes": 86401,
+    "width": 192,
+    "height": 272,
+    "sha256": "3b5a46fb15002f41b7afa65f8a71e73f89bf45dd9d5379d8c65a552ab590f60e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54984.jpg"
+    },
+    "gameId": "SLES_549.84"
+  },
+  "disc": {
+    "path": "PS2/SLES_549.84/SLES_549.84_ICO.png",
+    "kind": "disc",
+    "bytes": 11506,
+    "width": 128,
+    "height": 128,
+    "sha256": "2695ce422c559e9c79dd6993913876ca6386dd6c2c810f411fd0a53314f19db6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_549.84_ICO.png"
+    },
+    "gameId": "SLES_549.84"
+  },
+  "background": {
+    "path": "PS2/SLES_549.84/SLES_549.84_BG.png",
+    "kind": "background",
+    "bytes": 185825,
+    "width": 640,
+    "height": 480,
+    "sha256": "2d5aba432478f73ad18f38687b28cf5815961ab91418d6ce9b21261792eac939",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.84/SLES_549.84_BG_00.png"
+    },
+    "gameId": "SLES_549.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_549.84/SLES_549.84_BG.png",
+      "kind": "background",
+      "bytes": 185825,
+      "width": 640,
+      "height": 480,
+      "sha256": "2d5aba432478f73ad18f38687b28cf5815961ab91418d6ce9b21261792eac939",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.84/SLES_549.84_BG_00.png"
+      },
+      "gameId": "SLES_549.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Water Horse - Legends of the Deep"
+}

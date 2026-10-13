@@ -1,0 +1,65 @@
+{
+  "id": "SLPS_253.58",
+  "cover": {
+    "path": "PS2/SLPS_253.58/SLPS_253.58_COV.png",
+    "kind": "cover",
+    "bytes": 94985,
+    "width": 192,
+    "height": 272,
+    "sha256": "a29444f973baec9384e122a2ec5d0bed8143c21281c2c9464f987e4014265c68",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25358.jpg"
+    },
+    "gameId": "SLPS_253.58"
+  },
+  "disc": {
+    "path": "PS2/SLPS_253.58/SLPS_253.58_ICO.png",
+    "kind": "disc",
+    "bytes": 10247,
+    "width": 128,
+    "height": 128,
+    "sha256": "65adda2f13bf3ebdce7ffb3386e1b37b26ffb6c519590fc179d652bccb9e329d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_253.58_ICO.png"
+    },
+    "gameId": "SLPS_253.58"
+  },
+  "background": {
+    "path": "PS2/SLPS_253.58/SLPS_253.58_BG.png",
+    "kind": "background",
+    "bytes": 188272,
+    "width": 640,
+    "height": 480,
+    "sha256": "485ad1026922ea8f7e600c7e43c98d75284d5137a3e53b9c5bd94e2f5e0d2f4d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.58/SLPS_253.58_BG_00.png"
+    },
+    "gameId": "SLPS_253.58"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.58/SLPS_253.58_BG.png",
+      "kind": "background",
+      "bytes": 188272,
+      "width": 640,
+      "height": 480,
+      "sha256": "485ad1026922ea8f7e600c7e43c98d75284d5137a3e53b9c5bd94e2f5e0d2f4d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.58/SLPS_253.58_BG_00.png"
+      },
+      "gameId": "SLPS_253.58"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Konjiki no Gashbell¡! Yuujou Tag Battle"
+}

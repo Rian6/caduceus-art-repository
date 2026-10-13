@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_258.87",
+  "cover": {
+    "path": "PS2/SLPS_258.87/SLPS_258.87_COV.png",
+    "kind": "cover",
+    "bytes": 124398,
+    "width": 192,
+    "height": 272,
+    "sha256": "54095fedc48119b81c5d7e6ff4b6631923fb756a2a37dcb9f78fde61eb2b0d50",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25887.jpg"
+    },
+    "gameId": "SLPS_258.87"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_258.87/SLPS_258.87_BG.png",
+    "kind": "background",
+    "bytes": 178429,
+    "width": 640,
+    "height": 480,
+    "sha256": "0c6469bd3f624a0e4767bf79e4040a8e44faba4a229acb0f04f58b4d2ed33981",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_258.87/SLPS_258.87_BG_00.png"
+    },
+    "gameId": "SLPS_258.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_258.87/SLPS_258.87_BG.png",
+      "kind": "background",
+      "bytes": 178429,
+      "width": 640,
+      "height": 480,
+      "sha256": "0c6469bd3f624a0e4767bf79e4040a8e44faba4a229acb0f04f58b4d2ed33981",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_258.87/SLPS_258.87_BG_00.png"
+      },
+      "gameId": "SLPS_258.87"
+    },
+    {
+      "path": "PS2/SLPS_258.87/SLPS_258.87_BG_01.png",
+      "kind": "background",
+      "bytes": 184712,
+      "width": 640,
+      "height": 480,
+      "sha256": "a951ecc6c35bab88e0c83902fbedb71df29cfa2a91b139f37fce710c7f356437",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_258.87/SLPS_258.87_BG_01.png"
+      },
+      "gameId": "SLPS_258.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Robot Taisen Z"
+}

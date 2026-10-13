@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.03",
+  "cover": {
+    "path": "PS2/SLPM_665.03/SLPM_665.03_COV.png",
+    "kind": "cover",
+    "bytes": 94687,
+    "width": 192,
+    "height": 272,
+    "sha256": "10a73eb25434efb1dd319da2879351aa1cdd473d84743a9a1dc457f55b274952",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66503.jpg"
+    },
+    "gameId": "SLPM_665.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL GEAR SOLID 2 - SONS OF LIBERTY [MEGA HITS]"
+}

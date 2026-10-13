@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_652.75",
+  "cover": {
+    "path": "PS2/SLPM_652.75/SLPM_652.75_COV.png",
+    "kind": "cover",
+    "bytes": 84969,
+    "width": 192,
+    "height": 272,
+    "sha256": "53ee195b8ec843397fd732e5496f9f7dbd1e1005f9d2f3210166df96d486eed1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65275.jpg"
+    },
+    "gameId": "SLPM_652.75"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_652.75/SLPM_652.75_BG.png",
+    "kind": "background",
+    "bytes": 166306,
+    "width": 640,
+    "height": 480,
+    "sha256": "464d125d47fac6dbe117bee5f1c19efa095c06ccb55eefa443d960435a2b45f0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_652.75/SLPM_652.75_BG_00.png"
+    },
+    "gameId": "SLPM_652.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_652.75/SLPM_652.75_BG.png",
+      "kind": "background",
+      "bytes": 166306,
+      "width": 640,
+      "height": 480,
+      "sha256": "464d125d47fac6dbe117bee5f1c19efa095c06ccb55eefa443d960435a2b45f0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_652.75/SLPM_652.75_BG_00.png"
+      },
+      "gameId": "SLPM_652.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAISHUU HEIKI KANOJO"
+}

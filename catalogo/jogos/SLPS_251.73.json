@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.73",
+  "cover": {
+    "path": "PS2/SLPS_251.73/SLPS_251.73_COV.png",
+    "kind": "cover",
+    "bytes": 79315,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff51fd823f7991053c9df3a3d9dd32e11b9652142b202253c27cee36183e8722",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25173.jpg"
+    },
+    "gameId": "SLPS_251.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OMOIDE NI KAWARU-KUN - MEMORIES OFF"
+}

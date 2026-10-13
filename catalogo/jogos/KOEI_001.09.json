@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_001.09",
+  "cover": {
+    "path": "PS2/KOEI_001.09/KOEI_001.09_COV.png",
+    "kind": "cover",
+    "bytes": 64738,
+    "width": 192,
+    "height": 272,
+    "sha256": "9120a5cb53c367ab23959a5aeef21c44c739125c5e6beccb59da857a0cfe0e0d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_001.09/KOEI_001.09_COV.png"
+    },
+    "gameId": "KOEI_001.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "San Goku Shi 11 (Premium Box)"
+}

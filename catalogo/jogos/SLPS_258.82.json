@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.82",
+  "cover": {
+    "path": "PS2/SLPS_258.82/SLPS_258.82_COV.png",
+    "kind": "cover",
+    "bytes": 74593,
+    "width": 192,
+    "height": 272,
+    "sha256": "c4bdc1f867427e9d44da630c414d7223e3b857995a2e0619b3921fbec08c7c21",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25882.jpg"
+    },
+    "gameId": "SLPS_258.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ikki Tousen: Shining Dragon (Best Collection)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.32",
+  "cover": {
+    "path": "PS2/SLPM_651.32/SLPM_651.32_COV.png",
+    "kind": "cover",
+    "bytes": 106416,
+    "width": 192,
+    "height": 272,
+    "sha256": "c94b44054829acc644bdc3755a64fc0a3ea9c96f5eed9325bc5c3df230705726",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65132.jpg"
+    },
+    "gameId": "SLPM_651.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Warriors of Might and Magic"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_253.16",
+  "cover": {
+    "path": "PS2/SLPS_253.16/SLPS_253.16_COV.png",
+    "kind": "cover",
+    "bytes": 98221,
+    "width": 192,
+    "height": 272,
+    "sha256": "97a77ab29d986d2fd46cd10911a309a30f6e71e5d4e220cd24431ac299f75e96",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25316.jpg"
+    },
+    "gameId": "SLPS_253.16"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_253.16/SLPS_253.16_BG.png",
+    "kind": "background",
+    "bytes": 187101,
+    "width": 640,
+    "height": 480,
+    "sha256": "7390ca0fd106d277b32e14d7717e654c98261f4eb48830804021a0566eef6163",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.16/SLPS_253.16_BG_00.png"
+    },
+    "gameId": "SLPS_253.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.16/SLPS_253.16_BG.png",
+      "kind": "background",
+      "bytes": 187101,
+      "width": 640,
+      "height": 480,
+      "sha256": "7390ca0fd106d277b32e14d7717e654c98261f4eb48830804021a0566eef6163",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.16/SLPS_253.16_BG_00.png"
+      },
+      "gameId": "SLPS_253.16"
+    },
+    {
+      "path": "PS2/SLPS_253.16/SLPS_253.16_BG_01.png",
+      "kind": "background",
+      "bytes": 201536,
+      "width": 640,
+      "height": 480,
+      "sha256": "6e82165d098d3630bf8edc2f223642251b2ee9743aeb938d41a7d15915e8599a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.16/SLPS_253.16_BG_01.png"
+      },
+      "gameId": "SLPS_253.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SVC CHAOS - SNK VS CAPCOM"
+}

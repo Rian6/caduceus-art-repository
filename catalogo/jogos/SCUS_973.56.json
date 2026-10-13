@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_973.56",
+  "cover": {
+    "path": "PS2/SCUS_973.56/SCUS_973.56_COV.png",
+    "kind": "cover",
+    "bytes": 62127,
+    "width": 192,
+    "height": 272,
+    "sha256": "9f2ecb985b68a2b48deecca2bd6c6d8fd9205f227789050cc43a66ab44c14cba",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97356.jpg"
+    },
+    "gameId": "SCUS_973.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Network Adaptor Start-Up Disc v2.5"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_500.38",
+  "cover": {
+    "path": "PS2/SLES_500.38/SLES_500.38_COV.png",
+    "kind": "cover",
+    "bytes": 88385,
+    "width": 192,
+    "height": 272,
+    "sha256": "067f8af080052bbfbd3d066823596f51a74a9e313ecc4d6df0df896857135c88",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50038.jpg"
+    },
+    "gameId": "SLES_500.38"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_500.38/SLES_500.38_BG.png",
+    "kind": "background",
+    "bytes": 235553,
+    "width": 640,
+    "height": 480,
+    "sha256": "06939007da8cd0c0603f2f86a86f98d5a310113ea05068fe928c52c69354cf4f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.38/SLES_500.38_BG_00.png"
+    },
+    "gameId": "SLES_500.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.38/SLES_500.38_BG.png",
+      "kind": "background",
+      "bytes": 235553,
+      "width": 640,
+      "height": 480,
+      "sha256": "06939007da8cd0c0603f2f86a86f98d5a310113ea05068fe928c52c69354cf4f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.38/SLES_500.38_BG_00.png"
+      },
+      "gameId": "SLES_500.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gradius III and IV"
+}

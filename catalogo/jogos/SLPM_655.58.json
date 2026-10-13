@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.58",
+  "cover": {
+    "path": "PS2/SLPM_655.58/SLPM_655.58_COV.png",
+    "kind": "cover",
+    "bytes": 101896,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1f1e352fbe0b6353447226d6d941c9da037306d2b5f8e1565846f68ad05cc9d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65558.jpg"
+    },
+    "gameId": "SLPM_655.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STEADY X STUDY"
+}

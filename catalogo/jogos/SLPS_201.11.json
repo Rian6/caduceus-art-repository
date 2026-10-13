@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.11",
+  "cover": {
+    "path": "PS2/SLPS_201.11/SLPS_201.11_COV.png",
+    "kind": "cover",
+    "bytes": 103551,
+    "width": 192,
+    "height": 272,
+    "sha256": "cfb57e5ac02c364dbda587caa9a1734064399fcec09cf5a98c6fcb8a0835d328",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20111.jpg"
+    },
+    "gameId": "SLPS_201.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Magical Sports - 2001 Pro Yakyuu"
+}

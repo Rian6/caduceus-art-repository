@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.96",
+  "cover": {
+    "path": "PS2/SLES_510.96/SLES_510.96_COV.png",
+    "kind": "cover",
+    "bytes": 113471,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f16c18ea0eaa6b90d65fdfeef18043536891b58b3158548062d58446b65ba86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51096.jpg"
+    },
+    "gameId": "SLES_510.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DINO STALKER"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_627.29",
+  "cover": {
+    "path": "PS2/SLPM_627.29/SLPM_627.29_COV.png",
+    "kind": "cover",
+    "bytes": 85004,
+    "width": 192,
+    "height": 272,
+    "sha256": "2f1ba0d9ca5615c2ec08e7f66bcdda5c96cb90f2c0b62c362407d6b92d5ae099",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62729.jpg"
+    },
+    "gameId": "SLPM_627.29"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_627.29/SLPM_627.29_BG.png",
+    "kind": "background",
+    "bytes": 196572,
+    "width": 640,
+    "height": 480,
+    "sha256": "8dd99d570d2e9b19ce8c500b0d0f7c407b383fb698420b9d84abe10312fa9258",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_627.29/SLPM_627.29_BG_00.png"
+    },
+    "gameId": "SLPM_627.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_627.29/SLPM_627.29_BG.png",
+      "kind": "background",
+      "bytes": 196572,
+      "width": 640,
+      "height": 480,
+      "sha256": "8dd99d570d2e9b19ce8c500b0d0f7c407b383fb698420b9d84abe10312fa9258",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.29/SLPM_627.29_BG_00.png"
+      },
+      "gameId": "SLPM_627.29"
+    },
+    {
+      "path": "PS2/SLPM_627.29/SLPM_627.29_BG_01.png",
+      "kind": "background",
+      "bytes": 180950,
+      "width": 640,
+      "height": 480,
+      "sha256": "301a20a258f57bad0dc87e2bdf7113c7398b4518cc37c4926465be4ebe5dfe92",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.29/SLPM_627.29_BG_01.png"
+      },
+      "gameId": "SLPM_627.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Oretachi Game Center Zoku - Akumajou Dracula"
+}

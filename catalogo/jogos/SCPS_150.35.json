@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.35",
+  "cover": {
+    "path": "PS2/SCPS_150.35/SCPS_150.35_COV.png",
+    "kind": "cover",
+    "bytes": 75592,
+    "width": 192,
+    "height": 272,
+    "sha256": "44ccc554340a617a3caa72299d90a57dd5f23c0496e5ba8173cfc8f3a277d1e4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15035.jpg"
+    },
+    "gameId": "SCPS_150.35"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.35/SCPS_150.35_BG.png",
+    "kind": "background",
+    "bytes": 196655,
+    "width": 640,
+    "height": 480,
+    "sha256": "ae86743a60b7d8bb9645f7e9a300511ac2fc4986a5728bf5444f7498ad66e11a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.35/SCPS_150.35_BG_00.png"
+    },
+    "gameId": "SCPS_150.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.35/SCPS_150.35_BG.png",
+      "kind": "background",
+      "bytes": 196655,
+      "width": 640,
+      "height": 480,
+      "sha256": "ae86743a60b7d8bb9645f7e9a300511ac2fc4986a5728bf5444f7498ad66e11a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.35/SCPS_150.35_BG_00.png"
+      },
+      "gameId": "SCPS_150.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE KEIHIN KYUUKOU - TRAIN SIMULATOR REAL"
+}

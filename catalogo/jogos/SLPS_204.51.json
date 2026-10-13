@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_204.51",
+  "cover": {
+    "path": "PS2/SLPS_204.51/SLPS_204.51_COV.png",
+    "kind": "cover",
+    "bytes": 129287,
+    "width": 192,
+    "height": 272,
+    "sha256": "790dc2aed8f811c453d0dc9533c2131767b0be71c24df0d525195ab067d616f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20451.jpg"
+    },
+    "gameId": "SLPS_204.51"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_204.51/SLPS_204.51_BG.png",
+    "kind": "background",
+    "bytes": 145567,
+    "width": 640,
+    "height": 480,
+    "sha256": "eba6e218ba868143d751944465cf03e19cf03ee334ac7cdf3d811f0e277ebfd5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_204.51/SLPS_204.51_BG_00.png"
+    },
+    "gameId": "SLPS_204.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_204.51/SLPS_204.51_BG.png",
+      "kind": "background",
+      "bytes": 145567,
+      "width": 640,
+      "height": 480,
+      "sha256": "eba6e218ba868143d751944465cf03e19cf03ee334ac7cdf3d811f0e277ebfd5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.51/SLPS_204.51_BG_00.png"
+      },
+      "gameId": "SLPS_204.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin - Wai Wai Happy Muyome"
+}

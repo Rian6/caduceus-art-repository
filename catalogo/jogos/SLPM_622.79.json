@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.79",
+  "cover": {
+    "path": "PS2/SLPM_622.79/SLPM_622.79_COV.png",
+    "kind": "cover",
+    "bytes": 98015,
+    "width": 192,
+    "height": 272,
+    "sha256": "0882ddf9c797bf246f030138434c9599550d395595cff52816e66b29126a17b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62279.jpg"
+    },
+    "gameId": "SLPM_622.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "G-1 JOCKEY 3 & WINNING POST 5 - MAXIMUM 2002 [2 DISCS]"
+}

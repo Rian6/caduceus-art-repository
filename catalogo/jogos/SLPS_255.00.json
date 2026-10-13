@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_255.00",
+  "cover": {
+    "path": "PS2/SLPS_255.00/SLPS_255.00_COV.png",
+    "kind": "cover",
+    "bytes": 61625,
+    "width": 192,
+    "height": 272,
+    "sha256": "518b613032819bb6f3ecd9119be31bd2880be4913fdfc25e55c375ea1707efa3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25500.jpg"
+    },
+    "gameId": "SLPS_255.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_255.00/SLPS_255.00_BG.png",
+    "kind": "background",
+    "bytes": 173218,
+    "width": 640,
+    "height": 480,
+    "sha256": "3527e5a58ea3fabf51da7e640394ea343fe7d9b7e3a5cc0f01ffbed74849c07f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.00/SLPS_255.00_BG_00.png"
+    },
+    "gameId": "SLPS_255.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.00/SLPS_255.00_BG.png",
+      "kind": "background",
+      "bytes": 173218,
+      "width": 640,
+      "height": 480,
+      "sha256": "3527e5a58ea3fabf51da7e640394ea343fe7d9b7e3a5cc0f01ffbed74849c07f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.00/SLPS_255.00_BG_00.png"
+      },
+      "gameId": "SLPS_255.00"
+    },
+    {
+      "path": "PS2/SLPS_255.00/SLPS_255.00_BG_01.png",
+      "kind": "background",
+      "bytes": 44269,
+      "width": 640,
+      "height": 480,
+      "sha256": "c5daad0d981a3900ceb05b1f5598a580c1d42b64cec432526c9b2631c3d15e4b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.00/SLPS_255.00_BG_01.png"
+      },
+      "gameId": "SLPS_255.00"
+    },
+    {
+      "path": "PS2/SLPS_255.00/SLPS_255.00_BG_02.png",
+      "kind": "background",
+      "bytes": 7504,
+      "width": 640,
+      "height": 480,
+      "sha256": "fc86b82e4c2fc7d8e2941a8a261c3c72d027d10b0d9648515197b0a52cbc74ca",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.00/SLPS_255.00_BG_02.png"
+      },
+      "gameId": "SLPS_255.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Namco 50th Anniversary - NamCollection"
+}

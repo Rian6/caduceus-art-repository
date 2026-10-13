@@ -1,0 +1,65 @@
+{
+  "id": "SLES_539.24",
+  "cover": {
+    "path": "PS2/SLES_539.24/SLES_539.24_COV.png",
+    "kind": "cover",
+    "bytes": 97473,
+    "width": 192,
+    "height": 272,
+    "sha256": "d19c3250a2af25de73c7ab22e21d5ab8e5fae807d266543ef053f544986d0c30",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53924.jpg"
+    },
+    "gameId": "SLES_539.24"
+  },
+  "disc": {
+    "path": "PS2/SLES_539.24/SLES_539.24_ICO.png",
+    "kind": "disc",
+    "bytes": 11541,
+    "width": 128,
+    "height": 128,
+    "sha256": "13464d15cf2e3816631b6ac4282c04fa921e4963903fd7c84d37ba1a1eaf4820",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_539.24_ICO.png"
+    },
+    "gameId": "SLES_539.24"
+  },
+  "background": {
+    "path": "PS2/SLES_539.24/SLES_539.24_BG.png",
+    "kind": "background",
+    "bytes": 155179,
+    "width": 640,
+    "height": 480,
+    "sha256": "e9b255590157cb7e385715bed3d0c50b300a60b19224b95b7b7799e495da78d0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.24/SLES_539.24_BG_00.png"
+    },
+    "gameId": "SLES_539.24"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.24/SLES_539.24_BG.png",
+      "kind": "background",
+      "bytes": 155179,
+      "width": 640,
+      "height": 480,
+      "sha256": "e9b255590157cb7e385715bed3d0c50b300a60b19224b95b7b7799e495da78d0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.24/SLES_539.24_BG_00.png"
+      },
+      "gameId": "SLES_539.24"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Combat Ace"
+}

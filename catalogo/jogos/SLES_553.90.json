@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.90",
+  "cover": {
+    "path": "PS2/SLES_553.90/SLES_553.90_COV.png",
+    "kind": "cover",
+    "bytes": 59828,
+    "width": 192,
+    "height": 272,
+    "sha256": "5dbc192005ce2febbb69ff7550e2a780db8d2d5a82d2c610aef85123480c8d80",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.90/SLES_553.90_COV.png"
+    },
+    "gameId": "SLES_553.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamWorks' Madagascar 2 - Escape 2 Africa"
+}

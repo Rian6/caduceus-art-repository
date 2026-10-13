@@ -1,0 +1,25 @@
+{
+  "id": "SLES_546.14",
+  "cover": {
+    "path": "PS2/SLES_546.14/SLES_546.14_COV.png",
+    "kind": "cover",
+    "bytes": 101653,
+    "width": 192,
+    "height": 272,
+    "sha256": "6483228ec2291a8b634cc6e62a28e7eacf481a656fed24ef166f7e682582a7d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54614.jpg"
+    },
+    "gameId": "SLES_546.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Lucinda Green's Equestrian Challenge"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.28",
+  "cover": {
+    "path": "PS2/SLPS_257.28/SLPS_257.28_COV.png",
+    "kind": "cover",
+    "bytes": 117739,
+    "width": 192,
+    "height": 272,
+    "sha256": "46dbef9e9121705d92f4e927cc8d10a7a7a1878ef44435dc79af4e7fca1ee9da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25728.jpg"
+    },
+    "gameId": "SLPS_257.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KUJIBIKI UNBALANCE - KAICHOU ONEGAI SMASH FIGHT [LIMITED EDITION]"
+}

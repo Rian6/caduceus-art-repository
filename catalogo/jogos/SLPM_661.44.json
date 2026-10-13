@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_661.44",
+  "cover": {
+    "path": "PS2/SLPM_661.44/SLPM_661.44_COV.png",
+    "kind": "cover",
+    "bytes": 93916,
+    "width": 192,
+    "height": 272,
+    "sha256": "fa60d748173124555bb5a75eceec10451b2b027e1fffb66330ae2a44bb507a3d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66144.jpg"
+    },
+    "gameId": "SLPM_661.44"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_661.44/SLPM_661.44_BG.png",
+    "kind": "background",
+    "bytes": 214506,
+    "width": 640,
+    "height": 480,
+    "sha256": "f0e1c0dcd0d6870523432a2b11730daac23135542f6f7078c5ee582b317e07fd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_661.44/SLPM_661.44_BG_00.png"
+    },
+    "gameId": "SLPM_661.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_661.44/SLPM_661.44_BG.png",
+      "kind": "background",
+      "bytes": 214506,
+      "width": 640,
+      "height": 480,
+      "sha256": "f0e1c0dcd0d6870523432a2b11730daac23135542f6f7078c5ee582b317e07fd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_661.44/SLPM_661.44_BG_00.png"
+      },
+      "gameId": "SLPM_661.44"
+    },
+    {
+      "path": "PS2/SLPM_661.44/SLPM_661.44_BG_01.png",
+      "kind": "background",
+      "bytes": 182110,
+      "width": 640,
+      "height": 480,
+      "sha256": "5c22563ccf10ab0eb228cf01839b0d174cdf6f9672ddd3190c4a793941b30a77",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_661.44/SLPM_661.44_BG_01.png"
+      },
+      "gameId": "SLPM_661.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "D1 - PROFESSIONAL DRIFT GRAND PRIX SERIES 2005"
+}

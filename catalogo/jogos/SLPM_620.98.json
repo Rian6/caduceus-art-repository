@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_620.98",
+  "cover": {
+    "path": "PS2/SLPM_620.98/SLPM_620.98_COV.png",
+    "kind": "cover",
+    "bytes": 70556,
+    "width": 192,
+    "height": 272,
+    "sha256": "9ad195cfb579d27c8838d8729be8f751029ec217dfefd78acb5b82c19a20d204",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62098.jpg"
+    },
+    "gameId": "SLPM_620.98"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_620.98/SLPM_620.98_BG.png",
+    "kind": "background",
+    "bytes": 188611,
+    "width": 640,
+    "height": 480,
+    "sha256": "f2c34bbdc9ba254ab5ec39f9dae1c7fcebf6a94b50a7c361a82ec9d3f1177c1d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_620.98/SLPM_620.98_BG_00.png"
+    },
+    "gameId": "SLPM_620.98"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_620.98/SLPM_620.98_BG.png",
+      "kind": "background",
+      "bytes": 188611,
+      "width": 640,
+      "height": 480,
+      "sha256": "f2c34bbdc9ba254ab5ec39f9dae1c7fcebf6a94b50a7c361a82ec9d3f1177c1d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.98/SLPM_620.98_BG_00.png"
+      },
+      "gameId": "SLPM_620.98"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Busin - Wizardry Alternative"
+}

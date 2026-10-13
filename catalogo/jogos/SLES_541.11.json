@@ -1,0 +1,25 @@
+{
+  "id": "SLES_541.11",
+  "cover": {
+    "path": "PS2/SLES_541.11/SLES_541.11_COV.png",
+    "kind": "cover",
+    "bytes": 79871,
+    "width": 192,
+    "height": 272,
+    "sha256": "3f20a1de7d30e6eeaab39f5ff2593d529d86d13c72a1b1e12890bff6e289bd16",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54111.jpg"
+    },
+    "gameId": "SLES_541.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PDC World Championship Darts"
+}

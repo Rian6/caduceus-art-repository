@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.48",
+  "cover": {
+    "path": "PS2/SLPM_623.48/SLPM_623.48_COV.png",
+    "kind": "cover",
+    "bytes": 75477,
+    "width": 192,
+    "height": 272,
+    "sha256": "58a63648a1c24f2df271f5aef182535ca97fec4f911136ff1dbaf8703f84c55e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62348.jpg"
+    },
+    "gameId": "SLPM_623.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE MECHSMITH - RUN=DIM [IF COLLECTION]"
+}

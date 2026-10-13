@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_192.04",
+  "cover": {
+    "path": "PS2/SCPS_192.04/SCPS_192.04_COV.png",
+    "kind": "cover",
+    "bytes": 79317,
+    "width": 192,
+    "height": 272,
+    "sha256": "3221307d6bbe30753bc46287d514a70ca344e576ddc1a79fe1fd27bb100c81da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19204.jpg"
+    },
+    "gameId": "SCPS_192.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGAIA 2 - DUEL SAGA [PLAYSTATION 2 THE BEST]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.18",
+  "cover": {
+    "path": "PS2/SLPM_552.18/SLPM_552.18_COV.png",
+    "kind": "cover",
+    "bytes": 117813,
+    "width": 192,
+    "height": 272,
+    "sha256": "b6780bc17a1ef3f1a1be5bd320c34f7e37068fe4fef3ef2540e9e35f9c95c84e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55218.jpg"
+    },
+    "gameId": "SLPM_552.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SENGOKU HIME - SENRAN NI MAU OTOMETACHI [LIMITED EDITION]"
+}

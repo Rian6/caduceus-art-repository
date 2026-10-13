@@ -1,0 +1,64 @@
+{
+  "id": "SLES_535.60",
+  "cover": {
+    "path": "PS2/SLES_535.60/SLES_535.60_COV.png",
+    "kind": "cover",
+    "bytes": 103817,
+    "width": 192,
+    "height": 272,
+    "sha256": "afa390c8818c66afe43eee18df4679550b5b34fc1f1861fd57c4a360d1670cca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53560.jpg"
+    },
+    "gameId": "SLES_535.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_535.60/SLES_535.60_BG.png",
+    "kind": "background",
+    "bytes": 142187,
+    "width": 640,
+    "height": 480,
+    "sha256": "cf53f981b17eb0162a6c812e7b9b28321b15aa33d4c6030c75c2c39d803bb9ea",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.60/SLES_535.60_BG_00.png"
+    },
+    "gameId": "SLES_535.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.60/SLES_535.60_BG.png",
+      "kind": "background",
+      "bytes": 142187,
+      "width": 640,
+      "height": 480,
+      "sha256": "cf53f981b17eb0162a6c812e7b9b28321b15aa33d4c6030c75c2c39d803bb9ea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.60/SLES_535.60_BG_00.png"
+      },
+      "gameId": "SLES_535.60"
+    },
+    {
+      "path": "PS2/SLES_535.60/SLES_535.60_BG_01.png",
+      "kind": "background",
+      "bytes": 159960,
+      "width": 640,
+      "height": 480,
+      "sha256": "037d3439a9913ed24bacefb23b0eebd0ae06c24958b7c0a2abd2cc18e3eb8491",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.60/SLES_535.60_BG_01.png"
+      },
+      "gameId": "SLES_535.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SONIC RIDERS"
+}

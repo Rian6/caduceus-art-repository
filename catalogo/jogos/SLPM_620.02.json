@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.02",
+  "cover": {
+    "path": "PS2/SLPM_620.02/SLPM_620.02_COV.png",
+    "kind": "cover",
+    "bytes": 92905,
+    "width": 192,
+    "height": 272,
+    "sha256": "967fa4d7765dde2a0f6f40613579a4940cf8f56ac6818cfbc7989bc2f0785550",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62002.jpg"
+    },
+    "gameId": "SLPM_620.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JIKKYOU WORLD SOCCER 2000"
+}

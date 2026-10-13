@@ -1,0 +1,25 @@
+{
+  "id": "SLES_506.36",
+  "cover": {
+    "path": "PS2/SLES_506.36/SLES_506.36_COV.png",
+    "kind": "cover",
+    "bytes": 110580,
+    "width": 192,
+    "height": 272,
+    "sha256": "8adee55df8067206d7cc2cd94c99a09489c69d4aad741613bd57c17c290a53eb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50636.jpg"
+    },
+    "gameId": "SLES_506.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CENTRE COURT - HARD HITTER"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.12",
+  "cover": {
+    "path": "PS2/SLKA_251.12/SLKA_251.12_COV.png",
+    "kind": "cover",
+    "bytes": 83200,
+    "width": 192,
+    "height": 272,
+    "sha256": "cf10f9334404ec594ffd5d449e47e33f6447ec8c8e1c68b393c6b5b250ec87db",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25112.jpg"
+    },
+    "gameId": "SLKA_251.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters 2001"
+}

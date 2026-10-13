@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.44",
+  "cover": {
+    "path": "PS2/SLPS_256.44/SLPS_256.44_COV.png",
+    "kind": "cover",
+    "bytes": 95432,
+    "width": 192,
+    "height": 272,
+    "sha256": "ebadfb769df9e107bd86dbfee6d15422170810359e4f303dafdf727085dd4d2c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25644.jpg"
+    },
+    "gameId": "SLPS_256.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Ultimate Series Vol.31 - K-1 World Max 2005"
+}

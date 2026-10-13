@@ -1,0 +1,64 @@
+{
+  "id": "SCES_545.72",
+  "cover": {
+    "path": "PS2/SCES_545.72/SCES_545.72_COV.png",
+    "kind": "cover",
+    "bytes": 78022,
+    "width": 192,
+    "height": 272,
+    "sha256": "a4634be81e33aa9cd1c6d647e1194d3d070b205db4d5e332e9821be0d8edd055",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54572.jpg"
+    },
+    "gameId": "SCES_545.72"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_545.72/SCES_545.72_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_545.72/SCES_545.72_BG_00.png"
+    },
+    "gameId": "SCES_545.72"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_545.72/SCES_545.72_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.72/SCES_545.72_BG_00.png"
+      },
+      "gameId": "SCES_545.72"
+    },
+    {
+      "path": "PS2/SCES_545.72/SCES_545.72_BG_01.png",
+      "kind": "background",
+      "bytes": 127942,
+      "width": 640,
+      "height": 480,
+      "sha256": "ad2db742588bc901a9ef02a3e366b8a2086b0de3a4bfddf91fcaa908d373652f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_545.72/SCES_545.72_BG_01.png"
+      },
+      "gameId": "SCES_545.72"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Pop Hits: 40 Principales"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_550.48",
+  "cover": {
+    "path": "PS2/SLES_550.48/SLES_550.48_COV.png",
+    "kind": "cover",
+    "bytes": 82100,
+    "width": 192,
+    "height": 272,
+    "sha256": "8535987aba7b10402fa4aec287ae1a86a1de315596708044460b84ce331c4e0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55048.jpg"
+    },
+    "gameId": "SLES_550.48"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_550.48/SLES_550.48_BG.png",
+    "kind": "background",
+    "bytes": 200671,
+    "width": 640,
+    "height": 480,
+    "sha256": "577b6c08b70af29c1deb31439815cf1282ad4698494cddf3283e1d7f768be618",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.48/SLES_550.48_BG_00.png"
+    },
+    "gameId": "SLES_550.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.48/SLES_550.48_BG.png",
+      "kind": "background",
+      "bytes": 200671,
+      "width": 640,
+      "height": 480,
+      "sha256": "577b6c08b70af29c1deb31439815cf1282ad4698494cddf3283e1d7f768be618",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.48/SLES_550.48_BG_00.png"
+      },
+      "gameId": "SLES_550.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Star Trek: Conquest"
+}

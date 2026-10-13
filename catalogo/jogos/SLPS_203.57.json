@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.57",
+  "cover": {
+    "path": "PS2/SLPS_203.57/SLPS_203.57_COV.png",
+    "kind": "cover",
+    "bytes": 91782,
+    "width": 192,
+    "height": 272,
+    "sha256": "dcc77bb1164385c977e9b4ef45e9d57699d20de57be41e0d4a6f7d60fd2abc82",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20357.jpg"
+    },
+    "gameId": "SLPS_203.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "YAMASA DIGI WORLD SP - UMI ICHI BAN R [BEST OF BEST]"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_531.54",
+  "cover": {
+    "path": "PS2/SLES_531.54/SLES_531.54_COV.png",
+    "kind": "cover",
+    "bytes": 92294,
+    "width": 192,
+    "height": 272,
+    "sha256": "3b687ebd16bc9c5abb7615c1b3a1d53a34f48dee6fea4e2e832447209440e89b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53154.jpg"
+    },
+    "gameId": "SLES_531.54"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_531.54/SLES_531.54_BG.png",
+    "kind": "background",
+    "bytes": 200162,
+    "width": 640,
+    "height": 480,
+    "sha256": "98ffd66aac66f9f9204fa6c75de6b8de16ba4341cedd2c6c1daa711e2f8677ad",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.54/SLES_531.54_BG_00.png"
+    },
+    "gameId": "SLES_531.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.54/SLES_531.54_BG.png",
+      "kind": "background",
+      "bytes": 200162,
+      "width": 640,
+      "height": 480,
+      "sha256": "98ffd66aac66f9f9204fa6c75de6b8de16ba4341cedd2c6c1daa711e2f8677ad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.54/SLES_531.54_BG_00.png"
+      },
+      "gameId": "SLES_531.54"
+    },
+    {
+      "path": "PS2/SLES_531.54/SLES_531.54_BG_01.png",
+      "kind": "background",
+      "bytes": 46711,
+      "width": 640,
+      "height": 480,
+      "sha256": "8d22ba3acbb872a91da362b91d4c043f2b7f6a3524f8a0cd4f722fe57b22e84f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.54/SLES_531.54_BG_01.png"
+      },
+      "gameId": "SLES_531.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE BARD'S TALE"
+}

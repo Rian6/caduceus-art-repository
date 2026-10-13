@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.94",
+  "cover": {
+    "path": "PS2/SLPS_250.94/SLPS_250.94_COV.png",
+    "kind": "cover",
+    "bytes": 94339,
+    "width": 192,
+    "height": 272,
+    "sha256": "46e0f4b3d0fd786a2a0de82dbf86f7e3099c91803fb08fa345e2b950ac97f785",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25094.jpg"
+    },
+    "gameId": "SLPS_250.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "REVEAL FANTASIA"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.72",
+  "cover": {
+    "path": "PS2/SLPS_201.72/SLPS_201.72_COV.png",
+    "kind": "cover",
+    "bytes": 85228,
+    "width": 192,
+    "height": 272,
+    "sha256": "62204184f7687e8150acefd6fbf2452e522eb77ae402f1b492e6e2226f1deb3c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20172.jpg"
+    },
+    "gameId": "SLPS_201.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Koushien - Konpeki no Sora"
+}

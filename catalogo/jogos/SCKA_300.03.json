@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_300.03",
+  "cover": {
+    "path": "PS2/SCKA_300.03/SCKA_300.03_COV.png",
+    "kind": "cover",
+    "bytes": 85867,
+    "width": 192,
+    "height": 272,
+    "sha256": "a8a1bb179a2b124c3067d150b52ba5f5b09f17fd7cbb090eca161f9054a81658",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-30003.jpg"
+    },
+    "gameId": "SCKA_300.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GOD OF WAR [BIGHIT SERIES]"
+}

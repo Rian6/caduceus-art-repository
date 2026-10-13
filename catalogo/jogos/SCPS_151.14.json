@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_151.14",
+  "cover": {
+    "path": "PS2/SCPS_151.14/SCPS_151.14_COV.png",
+    "kind": "cover",
+    "bytes": 90308,
+    "width": 192,
+    "height": 272,
+    "sha256": "69089bb9388c0a7a26a5f15214d29b3b14005ae79bb4673e7228ad3c2309cfc1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15114.jpg"
+    },
+    "gameId": "SCPS_151.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kikou Souhei Armodyne"
+}

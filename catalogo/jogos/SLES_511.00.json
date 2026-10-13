@@ -1,0 +1,25 @@
+{
+  "id": "SLES_511.00",
+  "cover": {
+    "path": "PS2/SLES_511.00/SLES_511.00_COV.png",
+    "kind": "cover",
+    "bytes": 77692,
+    "width": 192,
+    "height": 272,
+    "sha256": "80b5c746a048ee7ba83d34f30539f03672013e7236c0ac3144f3388965ef8c69",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51100.jpg"
+    },
+    "gameId": "SLES_511.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football: Liverpool FC"
+}

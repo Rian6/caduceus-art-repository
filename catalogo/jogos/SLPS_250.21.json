@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.21",
+  "cover": {
+    "path": "PS2/SLPS_250.21/SLPS_250.21_COV.png",
+    "kind": "cover",
+    "bytes": 83944,
+    "width": 192,
+    "height": 272,
+    "sha256": "9eee6f92d20e33122d6c9f14380bb68a50dfa74482f1693424c17ca9c16b7dda",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25021.jpg"
+    },
+    "gameId": "SLPS_250.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JITSUMEI JIKKYOU KEIBA DREAM CLASSIC 2001 SPRING"
+}

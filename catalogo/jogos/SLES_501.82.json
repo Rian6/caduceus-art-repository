@@ -1,0 +1,25 @@
+{
+  "id": "SLES_501.82",
+  "cover": {
+    "path": "PS2/SLES_501.82/SLES_501.82_COV.png",
+    "kind": "cover",
+    "bytes": 89653,
+    "width": 192,
+    "height": 272,
+    "sha256": "3ba1728aec1ed727a5dd11968b4671281d9dffb854001faa74179deff9989db5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50182.jpg"
+    },
+    "gameId": "SLES_501.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MTV Music Generator 2"
+}

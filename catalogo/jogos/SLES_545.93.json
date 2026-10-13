@@ -1,0 +1,39 @@
+{
+  "id": "SLES_545.93",
+  "cover": {
+    "path": "PS2/SLES_545.93/SLES_545.93_COV.png",
+    "kind": "cover",
+    "bytes": 100188,
+    "width": 192,
+    "height": 272,
+    "sha256": "2a7980e3007e1b3b7608750778e377599102132a8bb4795badf6cdfd8a996ce7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54593.jpg"
+    },
+    "gameId": "SLES_545.93"
+  },
+  "disc": {
+    "path": "PS2/SLES_545.93/SLES_545.93_ICO.png",
+    "kind": "disc",
+    "bytes": 11586,
+    "width": 128,
+    "height": 128,
+    "sha256": "1008bc709b65ae97384acee8a88be3429a4f741040535ec35fb7fc27248d4ec8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_545.93_ICO.png"
+    },
+    "gameId": "SLES_545.93"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Space Rebellion"
+}

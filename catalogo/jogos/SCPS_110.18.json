@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.18",
+  "cover": {
+    "path": "PS2/SCPS_110.18/SCPS_110.18_COV.png",
+    "kind": "cover",
+    "bytes": 90290,
+    "width": 192,
+    "height": 272,
+    "sha256": "32b9caaa6aeba919e1e76ca2c77090b50368620a16ed8855d36521362af4ddbe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11018.jpg"
+    },
+    "gameId": "SCPS_110.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yoake no Mariko"
+}

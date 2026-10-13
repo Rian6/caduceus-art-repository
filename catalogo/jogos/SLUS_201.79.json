@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_201.79",
+  "cover": {
+    "path": "PS2/SLUS_201.79/SLUS_201.79_COV.png",
+    "kind": "cover",
+    "bytes": 70490,
+    "width": 192,
+    "height": 272,
+    "sha256": "4075a888a93d96140a7b6b783745487e824b5f44732b238f8cf6791ea2749f20",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20179.jpg"
+    },
+    "gameId": "SLUS_201.79"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.79/SLUS_201.79_ICO.png",
+    "kind": "disc",
+    "bytes": 32427,
+    "width": 256,
+    "height": 256,
+    "sha256": "00904d6dd48d8a58f3abcdd24f996e588c1f20af39fffab7abc2ffa5d0539c00",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.79_ICO.png"
+    },
+    "gameId": "SLUS_201.79"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.79/SLUS_201.79_BG.png",
+    "kind": "background",
+    "bytes": 93401,
+    "width": 640,
+    "height": 480,
+    "sha256": "ed4ec79dd61f884ed334c00d455eae18a855f8814a06830fe4a1358eb9831a55",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.79/SLUS_201.79_BG_00.png"
+    },
+    "gameId": "SLUS_201.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.79/SLUS_201.79_BG.png",
+      "kind": "background",
+      "bytes": 93401,
+      "width": 640,
+      "height": 480,
+      "sha256": "ed4ec79dd61f884ed334c00d455eae18a855f8814a06830fe4a1358eb9831a55",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.79/SLUS_201.79_BG_00.png"
+      },
+      "gameId": "SLUS_201.79"
+    },
+    {
+      "path": "PS2/SLUS_201.79/SLUS_201.79_BG_01.png",
+      "kind": "background",
+      "bytes": 161612,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3def7e3bc18fca0fb0fc50ca5d41f850f05a3522d1c936257635f7d7e772123",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.79/SLUS_201.79_BG_01.png"
+      },
+      "gameId": "SLUS_201.79"
+    },
+    {
+      "path": "PS2/SLUS_201.79/SLUS_201.79_BG_02.png",
+      "kind": "background",
+      "bytes": 160739,
+      "width": 640,
+      "height": 480,
+      "sha256": "0396dcc15ad438eedb64eebf5f69e18d3bfe5df755626f17c55c1c14772c667b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.79/SLUS_201.79_BG_02.png"
+      },
+      "gameId": "SLUS_201.79"
+    },
+    {
+      "path": "PS2/SLUS_201.79/SLUS_201.79_BG_03.png",
+      "kind": "background",
+      "bytes": 36697,
+      "width": 640,
+      "height": 480,
+      "sha256": "93688aa89d68018d4a42b810a19e0fe5f7fed98b4a0a007b4655e6ef142b883e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.79/SLUS_201.79_BG_03.png"
+      },
+      "gameId": "SLUS_201.79"
+    },
+    {
+      "path": "PS2/SLUS_201.79/SLUS_201.79_BG_04.png",
+      "kind": "background",
+      "bytes": 167247,
+      "width": 640,
+      "height": 480,
+      "sha256": "5d9e6e8c3fb2eb31f666979a687237a95b84306a0832f3904f4c298795987257",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.79/SLUS_201.79_BG_04.png"
+      },
+      "gameId": "SLUS_201.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The X-Files: Resist or Serve"
+}

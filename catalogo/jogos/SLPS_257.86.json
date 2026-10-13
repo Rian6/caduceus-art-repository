@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.86",
+  "cover": {
+    "path": "PS2/SLPS_257.86/SLPS_257.86_COV.png",
+    "kind": "cover",
+    "bytes": 100946,
+    "width": 192,
+    "height": 272,
+    "sha256": "59254f2f41c50e36138db4623b4f24e196e27c8c48e1cb5c134b630fd5c3c08a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25786.jpg"
+    },
+    "gameId": "SLPS_257.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hisshou Pachinko*Pachi-Slot Kouryoku Series Vol. 10 - CR Shinseiki Evangelion: Kiseki no Kachi"
+}

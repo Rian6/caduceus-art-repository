@@ -1,0 +1,90 @@
+{
+  "id": "SLES_517.53",
+  "cover": {
+    "path": "PS2/SLES_517.53/SLES_517.53_COV.png",
+    "kind": "cover",
+    "bytes": 75888,
+    "width": 192,
+    "height": 272,
+    "sha256": "b389fe0546dc06bc1694a9b3a3653e2cf09c534782b0a3950e872509040846a9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51753.jpg"
+    },
+    "gameId": "SLES_517.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_517.53/SLES_517.53_BG.png",
+    "kind": "background",
+    "bytes": 169985,
+    "width": 640,
+    "height": 480,
+    "sha256": "44c83653ec057adaf82ff755815468641fe0c41e3d8ee0209bfd83a293fba40c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.53/SLES_517.53_BG_00.png"
+    },
+    "gameId": "SLES_517.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.53/SLES_517.53_BG.png",
+      "kind": "background",
+      "bytes": 169985,
+      "width": 640,
+      "height": 480,
+      "sha256": "44c83653ec057adaf82ff755815468641fe0c41e3d8ee0209bfd83a293fba40c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.53/SLES_517.53_BG_00.png"
+      },
+      "gameId": "SLES_517.53"
+    },
+    {
+      "path": "PS2/SLES_517.53/SLES_517.53_BG_01.png",
+      "kind": "background",
+      "bytes": 84354,
+      "width": 640,
+      "height": 480,
+      "sha256": "894c2d2ca98b12c7c6a0a66d73632c63285671c365c55637293b4b5e5e91522b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.53/SLES_517.53_BG_01.png"
+      },
+      "gameId": "SLES_517.53"
+    },
+    {
+      "path": "PS2/SLES_517.53/SLES_517.53_BG_02.png",
+      "kind": "background",
+      "bytes": 237630,
+      "width": 640,
+      "height": 480,
+      "sha256": "77d77fcb8bdf32161635e31d63665dab7bfb712cb3d89d9538955bcc6b39f5d0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.53/SLES_517.53_BG_02.png"
+      },
+      "gameId": "SLES_517.53"
+    },
+    {
+      "path": "PS2/SLES_517.53/SLES_517.53_BG_03.png",
+      "kind": "background",
+      "bytes": 168182,
+      "width": 640,
+      "height": 480,
+      "sha256": "f5d89957a86fb3feb991fd2e20144ee08414c1b36d5fc38781c6ae9a5b2a9b04",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.53/SLES_517.53_BG_03.png"
+      },
+      "gameId": "SLES_517.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "True Crime: Streets of LA"
+}

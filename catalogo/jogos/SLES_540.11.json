@@ -1,0 +1,25 @@
+{
+  "id": "SLES_540.11",
+  "cover": {
+    "path": "PS2/SLES_540.11/SLES_540.11_COV.png",
+    "kind": "cover",
+    "bytes": 105057,
+    "width": 192,
+    "height": 272,
+    "sha256": "1d9c3869bb588d20adc346f3ada5a6648dd267d9c3f8d7e83643505dabe6c50b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54011.jpg"
+    },
+    "gameId": "SLES_540.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S PIXAR - BILAR"
+}

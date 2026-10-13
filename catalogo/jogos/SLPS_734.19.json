@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_734.19",
+  "cover": {
+    "path": "PS2/SLPS_734.19/SLPS_734.19_COV.png",
+    "kind": "cover",
+    "bytes": 80957,
+    "width": 192,
+    "height": 272,
+    "sha256": "aeb68b53c41863edf7525b9b5813c06cdab382b0c7ff8c2f1bbd08cb948514a1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73419.jpg"
+    },
+    "gameId": "SLPS_734.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LUPIN III - MAJUTSU NO ISAN [PLAYSTATION 2 THE BEST]"
+}

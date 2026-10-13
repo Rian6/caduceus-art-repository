@@ -1,0 +1,65 @@
+{
+  "id": "SLES_502.59",
+  "cover": {
+    "path": "PS2/SLES_502.59/SLES_502.59_COV.png",
+    "kind": "cover",
+    "bytes": 102532,
+    "width": 192,
+    "height": 272,
+    "sha256": "4c3ce9f765a114ad07ec656771c5f2f45843a7c9ddc87daa0fdc21d0edd2c93b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50259.jpg"
+    },
+    "gameId": "SLES_502.59"
+  },
+  "disc": {
+    "path": "PS2/SLES_502.59/SLES_502.59_ICO.png",
+    "kind": "disc",
+    "bytes": 11444,
+    "width": 128,
+    "height": 128,
+    "sha256": "26c44a40bc9a4c7abfb3d7df24c660dfcd0ca5df4ab7363780370b5ccba089af",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_502.59_ICO.png"
+    },
+    "gameId": "SLES_502.59"
+  },
+  "background": {
+    "path": "PS2/SLES_502.59/SLES_502.59_BG.png",
+    "kind": "background",
+    "bytes": 207453,
+    "width": 640,
+    "height": 480,
+    "sha256": "d89a23894d67292a2d048d835e219362938573dc9f3a57533b12783fba4324b6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.59/SLES_502.59_BG_00.png"
+    },
+    "gameId": "SLES_502.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.59/SLES_502.59_BG.png",
+      "kind": "background",
+      "bytes": 207453,
+      "width": 640,
+      "height": 480,
+      "sha256": "d89a23894d67292a2d048d835e219362938573dc9f3a57533b12783fba4324b6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.59/SLES_502.59_BG_00.png"
+      },
+      "gameId": "SLES_502.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE FLINTSTONES IN VIVA ROCK VEGAS"
+}

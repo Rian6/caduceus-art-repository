@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.52",
+  "cover": {
+    "path": "PS2/SLPM_651.52/SLPM_651.52_COV.png",
+    "kind": "cover",
+    "bytes": 102654,
+    "width": 192,
+    "height": 272,
+    "sha256": "15cbe273424da214ead53c03d8c38e8c3c96d5e7c1d1a8ed43f8acd8ee8d80af",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65152.jpg"
+    },
+    "gameId": "SLPM_651.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUNGRAVE [LIMITED EDITION]"
+}

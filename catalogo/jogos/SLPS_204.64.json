@@ -1,0 +1,117 @@
+{
+  "id": "SLPS_204.64",
+  "cover": {
+    "path": "PS2/SLPS_204.64/SLPS_204.64_COV.png",
+    "kind": "cover",
+    "bytes": 92645,
+    "width": 192,
+    "height": 272,
+    "sha256": "f6f751c5a0e4ae596a403fd8c503e1255c3ec73de1d5926d39284f699fa0bf0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20464.jpg"
+    },
+    "gameId": "SLPS_204.64"
+  },
+  "disc": {
+    "path": "PS2/SLPS_204.64/SLPS_204.64_ICO.png",
+    "kind": "disc",
+    "bytes": 10949,
+    "width": 128,
+    "height": 128,
+    "sha256": "261245c337e77343a941a9e3a4a84be189defe7afd97594579765a06128578fb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_204.64_ICO.png"
+    },
+    "gameId": "SLPS_204.64"
+  },
+  "background": {
+    "path": "PS2/SLPS_204.64/SLPS_204.64_BG.png",
+    "kind": "background",
+    "bytes": 86569,
+    "width": 640,
+    "height": 480,
+    "sha256": "047f2a8025db66387e73da8edad900ddf1aaa245754fec4f44f2cde53503cfe6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_204.64/SLPS_204.64_BG_00.png"
+    },
+    "gameId": "SLPS_204.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_204.64/SLPS_204.64_BG.png",
+      "kind": "background",
+      "bytes": 86569,
+      "width": 640,
+      "height": 480,
+      "sha256": "047f2a8025db66387e73da8edad900ddf1aaa245754fec4f44f2cde53503cfe6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.64/SLPS_204.64_BG_00.png"
+      },
+      "gameId": "SLPS_204.64"
+    },
+    {
+      "path": "PS2/SLPS_204.64/SLPS_204.64_BG_01.png",
+      "kind": "background",
+      "bytes": 119506,
+      "width": 640,
+      "height": 480,
+      "sha256": "32d48ddb3b23e00dccfff8ff48effcb6851c10d961b7be4d14ccfd9d09ffa828",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.64/SLPS_204.64_BG_01.png"
+      },
+      "gameId": "SLPS_204.64"
+    },
+    {
+      "path": "PS2/SLPS_204.64/SLPS_204.64_BG_02.png",
+      "kind": "background",
+      "bytes": 196843,
+      "width": 640,
+      "height": 480,
+      "sha256": "1dff6250d42b28329e4f64d0359258a27994cbf6f1bd261d1ee86fcccf3ae4d9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.64/SLPS_204.64_BG_02.png"
+      },
+      "gameId": "SLPS_204.64"
+    },
+    {
+      "path": "PS2/SLPS_204.64/SLPS_204.64_BG_03.png",
+      "kind": "background",
+      "bytes": 156906,
+      "width": 640,
+      "height": 480,
+      "sha256": "1434266dfd6ca9cd6ff0c5db6b110b74eac26b3ab215443b049975e42cacbbf5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.64/SLPS_204.64_BG_03.png"
+      },
+      "gameId": "SLPS_204.64"
+    },
+    {
+      "path": "PS2/SLPS_204.64/SLPS_204.64_BG_04.png",
+      "kind": "background",
+      "bytes": 108298,
+      "width": 640,
+      "height": 480,
+      "sha256": "72c3c79a6786063b151a87876f899fd5919641e9d08acb2b7d62ac72169915e5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.64/SLPS_204.64_BG_04.png"
+      },
+      "gameId": "SLPS_204.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.105 - The Maid Fuku to Kikanjuu"
+}

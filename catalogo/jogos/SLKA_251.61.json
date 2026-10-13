@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.61",
+  "cover": {
+    "path": "PS2/SLKA_251.61/SLKA_251.61_COV.png",
+    "kind": "cover",
+    "bytes": 111913,
+    "width": 192,
+    "height": 272,
+    "sha256": "6ea0743ed2abed261d51ff8bdd694aec600d66319313990a1c2541aa27852c7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25161.jpg"
+    },
+    "gameId": "SLKA_251.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AQUA KIDS"
+}

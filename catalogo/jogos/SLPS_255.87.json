@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_255.87",
+  "cover": {
+    "path": "PS2/SLPS_255.87/SLPS_255.87_COV.png",
+    "kind": "cover",
+    "bytes": 104084,
+    "width": 192,
+    "height": 272,
+    "sha256": "56715e406fe9e26b5a8467e5cab7e8ee9093c46ad86ae97799ad56c0ade1456c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25587.jpg"
+    },
+    "gameId": "SLPS_255.87"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_255.87/SLPS_255.87_BG.png",
+    "kind": "background",
+    "bytes": 174129,
+    "width": 640,
+    "height": 480,
+    "sha256": "6acf998590ffb8d7fa210406962bef3eef32088779eb802e911986dabdce970b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.87/SLPS_255.87_BG_00.png"
+    },
+    "gameId": "SLPS_255.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.87/SLPS_255.87_BG.png",
+      "kind": "background",
+      "bytes": 174129,
+      "width": 640,
+      "height": 480,
+      "sha256": "6acf998590ffb8d7fa210406962bef3eef32088779eb802e911986dabdce970b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.87/SLPS_255.87_BG_00.png"
+      },
+      "gameId": "SLPS_255.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUGAR SUGAR RUNE"
+}

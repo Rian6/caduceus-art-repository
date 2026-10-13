@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.33",
+  "cover": {
+    "path": "PS2/SLPM_660.33/SLPM_660.33_COV.png",
+    "kind": "cover",
+    "bytes": 84693,
+    "width": 192,
+    "height": 272,
+    "sha256": "0dbbe4bcbdd18f8adc3405466def0eddea8ed21698645a832da94e322dee5958",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66033.jpg"
+    },
+    "gameId": "SLPM_660.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Oz"
+}

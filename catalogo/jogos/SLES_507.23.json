@@ -1,0 +1,77 @@
+{
+  "id": "SLES_507.23",
+  "cover": {
+    "path": "PS2/SLES_507.23/SLES_507.23_COV.png",
+    "kind": "cover",
+    "bytes": 87973,
+    "width": 192,
+    "height": 272,
+    "sha256": "7a9920976c349caa253ea958a2935d330d40d0223286ec803cc3fc64e6309508",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50723.jpg"
+    },
+    "gameId": "SLES_507.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_507.23/SLES_507.23_BG.png",
+    "kind": "background",
+    "bytes": 208915,
+    "width": 640,
+    "height": 480,
+    "sha256": "7999222143aaf8bec8c1c037f668ae4a59264228c5c3005549d4800f6d734d25",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.23/SLES_507.23_BG_00.png"
+    },
+    "gameId": "SLES_507.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_507.23/SLES_507.23_BG.png",
+      "kind": "background",
+      "bytes": 208915,
+      "width": 640,
+      "height": 480,
+      "sha256": "7999222143aaf8bec8c1c037f668ae4a59264228c5c3005549d4800f6d734d25",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.23/SLES_507.23_BG_00.png"
+      },
+      "gameId": "SLES_507.23"
+    },
+    {
+      "path": "PS2/SLES_507.23/SLES_507.23_BG_01.png",
+      "kind": "background",
+      "bytes": 151990,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f9704b41e505651574673e47d10f0e48814e38d72d168e35320eb1674237ce3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.23/SLES_507.23_BG_01.png"
+      },
+      "gameId": "SLES_507.23"
+    },
+    {
+      "path": "PS2/SLES_507.23/SLES_507.23_BG_02.png",
+      "kind": "background",
+      "bytes": 197624,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa86530043f23595797b14f152f28fd053cbe276d6c4cc8780ebbd55ea08cc71",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.23/SLES_507.23_BG_02.png"
+      },
+      "gameId": "SLES_507.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Toca Race Driver"
+}

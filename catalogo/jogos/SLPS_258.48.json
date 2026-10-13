@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.48",
+  "cover": {
+    "path": "PS2/SLPS_258.48/SLPS_258.48_COV.png",
+    "kind": "cover",
+    "bytes": 93984,
+    "width": 192,
+    "height": 272,
+    "sha256": "d155bb536b9ae7c03ee5444a6dbfc5246be7c83d8c04e10d08ecc558f84788ef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25848.jpg"
+    },
+    "gameId": "SLPS_258.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NARAKU NO SHIRO - ICHIYANAGI NAGOMU, 2-DOME NO JUNAN"
+}

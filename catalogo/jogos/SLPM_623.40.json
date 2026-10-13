@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.40",
+  "cover": {
+    "path": "PS2/SLPM_623.40/SLPM_623.40_COV.png",
+    "kind": "cover",
+    "bytes": 97366,
+    "width": 192,
+    "height": 272,
+    "sha256": "fc8d46b8d1089287d4b84c0c843088dfc6fc9c17318e697be8b354033041c194",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62340.jpg"
+    },
+    "gameId": "SLPM_623.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RIPPLE NO TAMAGO"
+}

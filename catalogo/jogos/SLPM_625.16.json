@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.16",
+  "cover": {
+    "path": "PS2/SLPM_625.16/SLPM_625.16_COV.png",
+    "kind": "cover",
+    "bytes": 105738,
+    "width": 192,
+    "height": 272,
+    "sha256": "b1d544701a1472509049bf7f86714839cfe062e74480bbbdb95365d4c6e03a38",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62516.jpg"
+    },
+    "gameId": "SLPM_625.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Let's Play Sports!"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLES_535.95",
+  "cover": {
+    "path": "PS2/SLES_535.95/SLES_535.95_COV.png",
+    "kind": "cover",
+    "bytes": 96151,
+    "width": 192,
+    "height": 272,
+    "sha256": "a2bb9ed9ed4a2e28059f895b9804a46d232a909ba9421ad626b3faed53e2c9dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53595.jpg"
+    },
+    "gameId": "SLES_535.95"
+  },
+  "disc": {
+    "path": "PS2/SLES_535.95/SLES_535.95_ICO.png",
+    "kind": "disc",
+    "bytes": 11717,
+    "width": 128,
+    "height": 128,
+    "sha256": "59d661a7af22e3cacc7c8d92dd75ef7201cb6724f359336925bc5631daed5cca",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_535.95_ICO.png"
+    },
+    "gameId": "SLES_535.95"
+  },
+  "background": {
+    "path": "PS2/SLES_535.95/SLES_535.95_BG.png",
+    "kind": "background",
+    "bytes": 238895,
+    "width": 640,
+    "height": 480,
+    "sha256": "5257199a216e9818f22992a494ce6b29c012866f8d5ea9ce1d792f11f46d18bf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.95/SLES_535.95_BG_00.png"
+    },
+    "gameId": "SLES_535.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.95/SLES_535.95_BG.png",
+      "kind": "background",
+      "bytes": 238895,
+      "width": 640,
+      "height": 480,
+      "sha256": "5257199a216e9818f22992a494ce6b29c012866f8d5ea9ce1d792f11f46d18bf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.95/SLES_535.95_BG_00.png"
+      },
+      "gameId": "SLES_535.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wild Water Adrenaline featuring Salomon"
+}

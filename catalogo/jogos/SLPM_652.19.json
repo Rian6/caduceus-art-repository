@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.19",
+  "cover": {
+    "path": "PS2/SLPM_652.19/SLPM_652.19_COV.png",
+    "kind": "cover",
+    "bytes": 102740,
+    "width": 192,
+    "height": 272,
+    "sha256": "aade22d36250c9dfae842b9e6786dc0170b7b1417169c563895fa5e1df435334",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65219.jpg"
+    },
+    "gameId": "SLPM_652.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAPPY BREEDING - CHEERFUL PARTY [LIMITED EDITION]"
+}

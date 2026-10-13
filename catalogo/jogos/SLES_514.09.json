@@ -1,0 +1,39 @@
+{
+  "id": "SLES_514.09",
+  "cover": {
+    "path": "PS2/SLES_514.09/SLES_514.09_COV.png",
+    "kind": "cover",
+    "bytes": 112986,
+    "width": 192,
+    "height": 272,
+    "sha256": "d996576354c67422f3d8e7fa8b1c7e4c49d97271237c0aded32b973ed09bc64a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51409.jpg"
+    },
+    "gameId": "SLES_514.09"
+  },
+  "disc": {
+    "path": "PS2/SLES_514.09/SLES_514.09_ICO.png",
+    "kind": "disc",
+    "bytes": 10956,
+    "width": 128,
+    "height": 128,
+    "sha256": "f674910da6c6a26826e5c9b0473affd03287f151a73d8a625d89b94b4f4aa7d2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_514.09_ICO.png"
+    },
+    "gameId": "SLES_514.09"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Frogger Beyond"
+}

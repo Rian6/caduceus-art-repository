@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.29",
+  "cover": {
+    "path": "PS2/SLPM_742.29/SLPM_742.29_COV.png",
+    "kind": "cover",
+    "bytes": 81862,
+    "width": 192,
+    "height": 272,
+    "sha256": "1af7b463380e9db1247e4ed8f0b57f3f78be402f811ea5669e4080fb339cd6e6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74229.jpg"
+    },
+    "gameId": "SLPM_742.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BIOHAZARD 4 [PLAYSTATION 2 THE BEST]"
+}

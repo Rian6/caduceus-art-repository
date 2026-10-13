@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.40",
+  "cover": {
+    "path": "PS2/SLPM_656.40/SLPM_656.40_COV.png",
+    "kind": "cover",
+    "bytes": 112530,
+    "width": 192,
+    "height": 272,
+    "sha256": "7754e5e40d2ca5d7560b205795a60fa665f2f8a8f72f1214f7f764652349b189",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65640.jpg"
+    },
+    "gameId": "SLPM_656.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PATISSERIE NA NYANKO - HATSUKOI WA ICHIGO AJI"
+}

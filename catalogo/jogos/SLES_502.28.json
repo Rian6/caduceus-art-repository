@@ -1,0 +1,51 @@
+{
+  "id": "SLES_502.28",
+  "cover": {
+    "path": "PS2/SLES_502.28/SLES_502.28_COV.png",
+    "kind": "cover",
+    "bytes": 99983,
+    "width": 192,
+    "height": 272,
+    "sha256": "24271550b95431132cb5b36f33de92eec9e81d8cd93438557460e1a3287c8160",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50228.jpg"
+    },
+    "gameId": "SLES_502.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_502.28/SLES_502.28_BG.png",
+    "kind": "background",
+    "bytes": 135573,
+    "width": 640,
+    "height": 480,
+    "sha256": "ab5622105e43036e8d6fb2747fa24572b772c47151f255e06af421b2ae2e25c7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.28/SLES_502.28_BG_00.png"
+    },
+    "gameId": "SLES_502.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.28/SLES_502.28_BG.png",
+      "kind": "background",
+      "bytes": 135573,
+      "width": 640,
+      "height": 480,
+      "sha256": "ab5622105e43036e8d6fb2747fa24572b772c47151f255e06af421b2ae2e25c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.28/SLES_502.28_BG_00.png"
+      },
+      "gameId": "SLES_502.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FUGA DA MONKEY ISLAND"
+}

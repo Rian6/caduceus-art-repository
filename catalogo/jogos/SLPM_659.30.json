@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.30",
+  "cover": {
+    "path": "PS2/SLPM_659.30/SLPM_659.30_COV.png",
+    "kind": "cover",
+    "bytes": 100314,
+    "width": 192,
+    "height": 272,
+    "sha256": "f7cd04e336f9e21dde97095178b82d02cecb7434a399f5a7e613050c07317bc6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65930.jpg"
+    },
+    "gameId": "SLPM_659.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EVE - BURST ERROR PLUS [GAMEVILLAGE THE BEST]"
+}

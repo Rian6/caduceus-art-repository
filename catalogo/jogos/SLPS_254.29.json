@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.29",
+  "cover": {
+    "path": "PS2/SLPS_254.29/SLPS_254.29_COV.png",
+    "kind": "cover",
+    "bytes": 78607,
+    "width": 192,
+    "height": 272,
+    "sha256": "27c54db1f68f42c828dd3d5ecaa406f10ce3b2ac87e3ce69d6ca97cc01da2a88",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25429.jpg"
+    },
+    "gameId": "SLPS_254.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters 2000 (SNK Best Collection)"
+}

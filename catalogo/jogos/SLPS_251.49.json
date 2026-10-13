@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.49",
+  "cover": {
+    "path": "PS2/SLPS_251.49/SLPS_251.49_COV.png",
+    "kind": "cover",
+    "bytes": 95836,
+    "width": 192,
+    "height": 272,
+    "sha256": "703a0cb92d1a4ae51d80f14696cbe23a5ddff84870129825452721ba323d1b07",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25149.jpg"
+    },
+    "gameId": "SLPS_251.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EVER17 - THE OUT OF INFINITY"
+}

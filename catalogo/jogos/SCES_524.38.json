@@ -1,0 +1,117 @@
+{
+  "id": "SCES_524.38",
+  "cover": {
+    "path": "PS2/SCES_524.38/SCES_524.38_COV.png",
+    "kind": "cover",
+    "bytes": 65494,
+    "width": 192,
+    "height": 272,
+    "sha256": "3bb6dfcd42621278ff0d1312e05fd942ffa6dc0aeef249568109dd943bbfadd1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52438.jpg"
+    },
+    "gameId": "SCES_524.38"
+  },
+  "disc": {
+    "path": "PS2/SCES_524.38/SCES_524.38_ICO.png",
+    "kind": "disc",
+    "bytes": 9911,
+    "width": 128,
+    "height": 128,
+    "sha256": "707e188cc880c2ce7fa2988fc473b61bf675d1fda85561cbb630f9b7d05404da",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_524.38_ICO.png"
+    },
+    "gameId": "SCES_524.38"
+  },
+  "background": {
+    "path": "PS2/SCES_524.38/SCES_524.38_BG.png",
+    "kind": "background",
+    "bytes": 160392,
+    "width": 640,
+    "height": 480,
+    "sha256": "b5c7998d96b2a3677f9f20de503463b13cd7d9f288b94a4e9101898064a1becd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_524.38/SCES_524.38_BG_00.png"
+    },
+    "gameId": "SCES_524.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_524.38/SCES_524.38_BG.png",
+      "kind": "background",
+      "bytes": 160392,
+      "width": 640,
+      "height": 480,
+      "sha256": "b5c7998d96b2a3677f9f20de503463b13cd7d9f288b94a4e9101898064a1becd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.38/SCES_524.38_BG_00.png"
+      },
+      "gameId": "SCES_524.38"
+    },
+    {
+      "path": "PS2/SCES_524.38/SCES_524.38_BG_01.png",
+      "kind": "background",
+      "bytes": 157956,
+      "width": 640,
+      "height": 480,
+      "sha256": "8040e8e9d68119636f0bd04883cc2e37825c9316ae81bdeb2190401fcb0cdeee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.38/SCES_524.38_BG_01.png"
+      },
+      "gameId": "SCES_524.38"
+    },
+    {
+      "path": "PS2/SCES_524.38/SCES_524.38_BG_02.png",
+      "kind": "background",
+      "bytes": 155781,
+      "width": 640,
+      "height": 480,
+      "sha256": "b90b4f6b19c3a3a0b83595b332816ab09957912ab8177108154892ca1aeaeb01",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.38/SCES_524.38_BG_02.png"
+      },
+      "gameId": "SCES_524.38"
+    },
+    {
+      "path": "PS2/SCES_524.38/SCES_524.38_BG_03.png",
+      "kind": "background",
+      "bytes": 72290,
+      "width": 640,
+      "height": 480,
+      "sha256": "66ec2139641da75a791f226395689d68554219d4b51cc5bb5f9abee8c7221bba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.38/SCES_524.38_BG_03.png"
+      },
+      "gameId": "SCES_524.38"
+    },
+    {
+      "path": "PS2/SCES_524.38/SCES_524.38_BG_04.png",
+      "kind": "background",
+      "bytes": 164097,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e9ca0601ab3a157cfd882faaddd9a151060418e46eca398c2806fa4bc00e26e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.38/SCES_524.38_BG_04.png"
+      },
+      "gameId": "SCES_524.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 4 - Prologue"
+}

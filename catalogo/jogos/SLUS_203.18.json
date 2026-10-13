@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_203.18",
+  "cover": {
+    "path": "PS2/SLUS_203.18/SLUS_203.18_COV.png",
+    "kind": "cover",
+    "bytes": 91112,
+    "width": 192,
+    "height": 272,
+    "sha256": "5a7450d66ddc2cbb805937a5b1d551ab01842653d44655b0d94f7940b348d0bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20318.jpg"
+    },
+    "gameId": "SLUS_203.18"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.18/SLUS_203.18_ICO.png",
+    "kind": "disc",
+    "bytes": 34950,
+    "width": 256,
+    "height": 256,
+    "sha256": "75857d37df909820004195fddfc81313f4aea2fb55e8037a6654c58504d421ac",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.18_ICO.png"
+    },
+    "gameId": "SLUS_203.18"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.18/SLUS_203.18_BG.png",
+    "kind": "background",
+    "bytes": 208111,
+    "width": 640,
+    "height": 480,
+    "sha256": "9b60a1c040114d55d03765ea7188e39e9ac468a91e84f60b3d2cf7714bdd091b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.18/SLUS_203.18_BG_00.png"
+    },
+    "gameId": "SLUS_203.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.18/SLUS_203.18_BG.png",
+      "kind": "background",
+      "bytes": 208111,
+      "width": 640,
+      "height": 480,
+      "sha256": "9b60a1c040114d55d03765ea7188e39e9ac468a91e84f60b3d2cf7714bdd091b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.18/SLUS_203.18_BG_00.png"
+      },
+      "gameId": "SLUS_203.18"
+    },
+    {
+      "path": "PS2/SLUS_203.18/SLUS_203.18_BG_01.png",
+      "kind": "background",
+      "bytes": 221579,
+      "width": 640,
+      "height": 480,
+      "sha256": "f09a4e21a249b64826f296dcb17005a901cb7f86595db64c997f25e2b57332b1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.18/SLUS_203.18_BG_01.png"
+      },
+      "gameId": "SLUS_203.18"
+    },
+    {
+      "path": "PS2/SLUS_203.18/SLUS_203.18_BG_02.png",
+      "kind": "background",
+      "bytes": 219985,
+      "width": 640,
+      "height": 480,
+      "sha256": "22a4ec09001f4f36f179ea0f2510a36caf6ec7e9bd27a25244a31eb07b80119c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.18/SLUS_203.18_BG_02.png"
+      },
+      "gameId": "SLUS_203.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "King's Field -The Ancient City"
+}

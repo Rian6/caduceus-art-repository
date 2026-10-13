@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.07",
+  "cover": {
+    "path": "PS2/SLPM_659.07/SLPM_659.07_COV.png",
+    "kind": "cover",
+    "bytes": 82959,
+    "width": 192,
+    "height": 272,
+    "sha256": "c85c13dfdce30ac1dadbbc32608828b2a2035b0d815afce479d047483faaa7fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65907.jpg"
+    },
+    "gameId": "SLPM_659.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEF JAM - FIGHT FOR NY"
+}

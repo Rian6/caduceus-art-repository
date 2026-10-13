@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.98",
+  "cover": {
+    "path": "PS2/SLPS_252.98/SLPS_252.98_COV.png",
+    "kind": "cover",
+    "bytes": 82021,
+    "width": 192,
+    "height": 272,
+    "sha256": "b08f9ced9adec3b34c27abc0562c7413e343a41bbd6fe048189368ae78bc49c6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25298.jpg"
+    },
+    "gameId": "SLPS_252.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENTAMA - 1ST SUNNY SIDE"
+}

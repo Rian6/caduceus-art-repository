@@ -1,0 +1,24 @@
+{
+  "id": "PAPX_902.01",
+  "cover": {
+    "path": "PS2/PAPX_902.01/PAPX_902.01_COV.png",
+    "kind": "cover",
+    "bytes": 75556,
+    "width": 192,
+    "height": 272,
+    "sha256": "bda1cbaf29546523f43696301e9b7e1bfd002b94407c7fe4702fa70da724151d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PAPX-90201.jpg"
+    },
+    "gameId": "PAPX_902.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

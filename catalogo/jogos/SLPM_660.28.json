@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.28",
+  "cover": {
+    "path": "PS2/SLPM_660.28/SLPM_660.28_COV.png",
+    "kind": "cover",
+    "bytes": 110773,
+    "width": 192,
+    "height": 272,
+    "sha256": "3780833a271b08c0939a80c43965617414e170620e992e62663f75faf8b82a86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66028.jpg"
+    },
+    "gameId": "SLPM_660.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "URURUN QUEST - KOIYUUKI"
+}

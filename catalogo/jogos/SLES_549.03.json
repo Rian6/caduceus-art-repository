@@ -1,0 +1,64 @@
+{
+  "id": "SLES_549.03",
+  "cover": {
+    "path": "PS2/SLES_549.03/SLES_549.03_COV.png",
+    "kind": "cover",
+    "bytes": 107619,
+    "width": 192,
+    "height": 272,
+    "sha256": "bcdfe343894e586ce1dad980f7b61a39143f40c5de8541e1ca70e79a8289a6c9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54903.jpg"
+    },
+    "gameId": "SLES_549.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_549.03/SLES_549.03_BG.png",
+    "kind": "background",
+    "bytes": 215317,
+    "width": 640,
+    "height": 480,
+    "sha256": "5d083649f0cda27b28ac657759df3dcc60b7dc00f56a100dd97287da42a0a01d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.03/SLES_549.03_BG_00.png"
+    },
+    "gameId": "SLES_549.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_549.03/SLES_549.03_BG.png",
+      "kind": "background",
+      "bytes": 215317,
+      "width": 640,
+      "height": 480,
+      "sha256": "5d083649f0cda27b28ac657759df3dcc60b7dc00f56a100dd97287da42a0a01d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.03/SLES_549.03_BG_00.png"
+      },
+      "gameId": "SLES_549.03"
+    },
+    {
+      "path": "PS2/SLES_549.03/SLES_549.03_BG_01.png",
+      "kind": "background",
+      "bytes": 190993,
+      "width": 640,
+      "height": 480,
+      "sha256": "a08a1c18b48dfa411e0230367a0ea45a7a8c83b74195df0ae2aca68e305c553c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.03/SLES_549.03_BG_01.png"
+      },
+      "gameId": "SLES_549.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Sims 2: Castaway"
+}

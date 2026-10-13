@@ -1,0 +1,39 @@
+{
+  "id": "SLES_527.17",
+  "cover": {
+    "path": "PS2/SLES_527.17/SLES_527.17_COV.png",
+    "kind": "cover",
+    "bytes": 91127,
+    "width": 192,
+    "height": 272,
+    "sha256": "e36489402eeaf4e43495122c6dc687cffb74fbc42ace01c3a602841155780b4b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52717.jpg"
+    },
+    "gameId": "SLES_527.17"
+  },
+  "disc": {
+    "path": "PS2/SLES_527.17/SLES_527.17_ICO.png",
+    "kind": "disc",
+    "bytes": 10574,
+    "width": 128,
+    "height": 128,
+    "sha256": "f480ba67815f6fe2bdd4507dbfe9aa476be42a657698b0d106ac8dc36bba7c2f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_527.17_ICO.png"
+    },
+    "gameId": "SLES_527.17"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Brian Lara International Cricket 2005"
+}

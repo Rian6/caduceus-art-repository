@@ -1,0 +1,51 @@
+{
+  "id": "SCES_550.61",
+  "cover": {
+    "path": "PS2/SCES_550.61/SCES_550.61_COV.png",
+    "kind": "cover",
+    "bytes": 53331,
+    "width": 192,
+    "height": 272,
+    "sha256": "05d0c29e12e7f6093f0913990d5c206706fea220d8e758add8f48f2635559bc1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_550.61/SCES_550.61_COV.png"
+    },
+    "gameId": "SCES_550.61"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_550.61/SCES_550.61_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_550.61/SCES_550.61_BG_00.png"
+    },
+    "gameId": "SCES_550.61"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_550.61/SCES_550.61_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_550.61/SCES_550.61_BG_00.png"
+      },
+      "gameId": "SCES_550.61"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Wakacyjna Impreza!"
+}

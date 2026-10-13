@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.82",
+  "cover": {
+    "path": "PS2/SLPS_200.82/SLPS_200.82_COV.png",
+    "kind": "cover",
+    "bytes": 106751,
+    "width": 192,
+    "height": 272,
+    "sha256": "518725739f100ec71e613a85348f9daecf2cc99e7678a9b78ca59713114e34db",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20082.jpg"
+    },
+    "gameId": "SLPS_200.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saikyou Toudai Shogi 3"
+}

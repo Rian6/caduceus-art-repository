@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_212.18",
+  "cover": {
+    "path": "PS2/SLUS_212.18/SLUS_212.18_COV.png",
+    "kind": "cover",
+    "bytes": 105370,
+    "width": 192,
+    "height": 272,
+    "sha256": "cb0890d1f7bf8c1567b0dc6e8a9d0f674383fe0111638140b290732263873ea5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21218.jpg"
+    },
+    "gameId": "SLUS_212.18"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.18/SLUS_212.18_ICO.png",
+    "kind": "disc",
+    "bytes": 35335,
+    "width": 256,
+    "height": 256,
+    "sha256": "bf0b5965d38404ce167cafc9cdc46456b70c5777a53e28023a9a55ef6526f3da",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.18_ICO.png"
+    },
+    "gameId": "SLUS_212.18"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.18/SLUS_212.18_BG.png",
+    "kind": "background",
+    "bytes": 198095,
+    "width": 640,
+    "height": 480,
+    "sha256": "c3199195cbf22bfd55c96bf409770c8cd16149d0bf6a0c09688347125be0ee3c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.18/SLUS_212.18_BG_00.png"
+    },
+    "gameId": "SLUS_212.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.18/SLUS_212.18_BG.png",
+      "kind": "background",
+      "bytes": 198095,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3199195cbf22bfd55c96bf409770c8cd16149d0bf6a0c09688347125be0ee3c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.18/SLUS_212.18_BG_00.png"
+      },
+      "gameId": "SLUS_212.18"
+    },
+    {
+      "path": "PS2/SLUS_212.18/SLUS_212.18_BG_01.png",
+      "kind": "background",
+      "bytes": 187607,
+      "width": 640,
+      "height": 480,
+      "sha256": "1a7d8c76e3c63745bd44113951d4327bf99855ccafc91252665ba145b1b96d32",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.18/SLUS_212.18_BG_01.png"
+      },
+      "gameId": "SLUS_212.18"
+    },
+    {
+      "path": "PS2/SLUS_212.18/SLUS_212.18_BG_02.png",
+      "kind": "background",
+      "bytes": 173958,
+      "width": 640,
+      "height": 480,
+      "sha256": "befeb775f8b6e25b7c35e33033b1d33f59d665511dce14241cba69793ae1bd8f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.18/SLUS_212.18_BG_02.png"
+      },
+      "gameId": "SLUS_212.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tak: The Great Juju Challenge"
+}

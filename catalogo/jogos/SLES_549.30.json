@@ -1,0 +1,39 @@
+{
+  "id": "SLES_549.30",
+  "cover": {
+    "path": "PS2/SLES_549.30/SLES_549.30_COV.png",
+    "kind": "cover",
+    "bytes": 89818,
+    "width": 192,
+    "height": 272,
+    "sha256": "1402466dd61e741a2cd3ede62ddfa669c486354188aa61fda0eab4a1ef07f9b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54930.jpg"
+    },
+    "gameId": "SLES_549.30"
+  },
+  "disc": {
+    "path": "PS2/SLES_549.30/SLES_549.30_ICO.png",
+    "kind": "disc",
+    "bytes": 10131,
+    "width": 128,
+    "height": 128,
+    "sha256": "add61d21e1d1d8dcae0192443babf645fd5e645a38485e3363d2768a190125ee",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_549.30_ICO.png"
+    },
+    "gameId": "SLES_549.30"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RealPlay Puzzlesphere"
+}

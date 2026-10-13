@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.44",
+  "cover": {
+    "path": "PS2/SLES_505.44/SLES_505.44_COV.png",
+    "kind": "cover",
+    "bytes": 92902,
+    "width": 192,
+    "height": 272,
+    "sha256": "a4f03e8b3b2ef06d343f78f6fce4455f59d0803472fa9a5320073a65c5699343",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50544.jpg"
+    },
+    "gameId": "SLES_505.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jet Ion GP"
+}

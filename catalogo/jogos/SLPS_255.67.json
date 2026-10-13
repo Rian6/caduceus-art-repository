@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.67",
+  "cover": {
+    "path": "PS2/SLPS_255.67/SLPS_255.67_COV.png",
+    "kind": "cover",
+    "bytes": 112945,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea5ff907ccd1fdd7fdda6c8a409711c838d52cc7fd9a488ff3420adeedb8583c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25567.jpg"
+    },
+    "gameId": "SLPS_255.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 9 - Pachinko Mitokoumon"
+}

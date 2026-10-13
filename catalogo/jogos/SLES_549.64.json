@@ -1,0 +1,64 @@
+{
+  "id": "SLES_549.64",
+  "cover": {
+    "path": "PS2/SLES_549.64/SLES_549.64_COV.png",
+    "kind": "cover",
+    "bytes": 82108,
+    "width": 192,
+    "height": 272,
+    "sha256": "442545aebfac01316025830a73c5bfac02f0da95b35337d2e561640ff386fb31",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54964.jpg"
+    },
+    "gameId": "SLES_549.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_549.64/SLES_549.64_BG.png",
+    "kind": "background",
+    "bytes": 253577,
+    "width": 640,
+    "height": 480,
+    "sha256": "a4feeca121fceb2da4c05a22728fe4d72c17c3986de9a257bfca1977d8ad2544",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.64/SLES_549.64_BG_00.png"
+    },
+    "gameId": "SLES_549.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_549.64/SLES_549.64_BG.png",
+      "kind": "background",
+      "bytes": 253577,
+      "width": 640,
+      "height": 480,
+      "sha256": "a4feeca121fceb2da4c05a22728fe4d72c17c3986de9a257bfca1977d8ad2544",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.64/SLES_549.64_BG_00.png"
+      },
+      "gameId": "SLES_549.64"
+    },
+    {
+      "path": "PS2/SLES_549.64/SLES_549.64_BG_01.png",
+      "kind": "background",
+      "bytes": 195871,
+      "width": 640,
+      "height": 480,
+      "sha256": "28632b52f87a4fd1d57d69d531d4628fec991f6f6beb5d7586220b1e2096adf8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.64/SLES_549.64_BG_01.png"
+      },
+      "gameId": "SLES_549.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tony Hawk's Proving Ground"
+}

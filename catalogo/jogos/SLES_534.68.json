@@ -1,0 +1,78 @@
+{
+  "id": "SLES_534.68",
+  "cover": {
+    "path": "PS2/SLES_534.68/SLES_534.68_COV.png",
+    "kind": "cover",
+    "bytes": 88506,
+    "width": 192,
+    "height": 272,
+    "sha256": "8ac6e9606b7d7be50d22a299ac2f73b55f892185fd6a25486294a206f2598e6e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53468.jpg"
+    },
+    "gameId": "SLES_534.68"
+  },
+  "disc": {
+    "path": "PS2/SLES_534.68/SLES_534.68_ICO.png",
+    "kind": "disc",
+    "bytes": 10731,
+    "width": 128,
+    "height": 128,
+    "sha256": "68d612dcb201130109830dcbadf31bd4ddedfc6bde48db4ac069f01b168ab43a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_534.68_ICO.png"
+    },
+    "gameId": "SLES_534.68"
+  },
+  "background": {
+    "path": "PS2/SLES_534.68/SLES_534.68_BG.png",
+    "kind": "background",
+    "bytes": 192074,
+    "width": 640,
+    "height": 480,
+    "sha256": "07498c09c5b419aa243a9d8596beb84c5b3f079e9f2190834403018ba974cc4f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.68/SLES_534.68_BG_00.png"
+    },
+    "gameId": "SLES_534.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.68/SLES_534.68_BG.png",
+      "kind": "background",
+      "bytes": 192074,
+      "width": 640,
+      "height": 480,
+      "sha256": "07498c09c5b419aa243a9d8596beb84c5b3f079e9f2190834403018ba974cc4f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.68/SLES_534.68_BG_00.png"
+      },
+      "gameId": "SLES_534.68"
+    },
+    {
+      "path": "PS2/SLES_534.68/SLES_534.68_BG_01.png",
+      "kind": "background",
+      "bytes": 169501,
+      "width": 640,
+      "height": 480,
+      "sha256": "761a6b93e28051d9ce2326cdb071707124acb947479efc0ad600774cd5c1311f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.68/SLES_534.68_BG_01.png"
+      },
+      "gameId": "SLES_534.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Family Board Games"
+}

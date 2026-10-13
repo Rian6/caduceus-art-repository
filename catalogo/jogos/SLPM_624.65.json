@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_624.65",
+  "cover": {
+    "path": "PS2/SLPM_624.65/SLPM_624.65_COV.png",
+    "kind": "cover",
+    "bytes": 88647,
+    "width": 192,
+    "height": 272,
+    "sha256": "932b2b2710fdbb840a3fb20404a559e0612bd3be80a167fc9f34584556b77aa4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62465.jpg"
+    },
+    "gameId": "SLPM_624.65"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.65/SLPM_624.65_BG.png",
+    "kind": "background",
+    "bytes": 102265,
+    "width": 640,
+    "height": 480,
+    "sha256": "7cf9a0071cd436c0e1be2e7a3677aba5b221c85e02784199f51f5e32171c1c58",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.65/SLPM_624.65_BG_00.png"
+    },
+    "gameId": "SLPM_624.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.65/SLPM_624.65_BG.png",
+      "kind": "background",
+      "bytes": 102265,
+      "width": 640,
+      "height": 480,
+      "sha256": "7cf9a0071cd436c0e1be2e7a3677aba5b221c85e02784199f51f5e32171c1c58",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.65/SLPM_624.65_BG_00.png"
+      },
+      "gameId": "SLPM_624.65"
+    },
+    {
+      "path": "PS2/SLPM_624.65/SLPM_624.65_BG_01.png",
+      "kind": "background",
+      "bytes": 80217,
+      "width": 640,
+      "height": 480,
+      "sha256": "3ab9c8cc2c0af5498afb1d7736d9b71e4a003a61c6bbbcbe570e83a102980474",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.65/SLPM_624.65_BG_01.png"
+      },
+      "gameId": "SLPM_624.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LE MANS 24 HOURS [SEGA THE BEST 2800]"
+}

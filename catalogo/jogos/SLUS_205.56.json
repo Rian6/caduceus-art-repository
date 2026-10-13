@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_205.56",
+  "cover": {
+    "path": "PS2/SLUS_205.56/SLUS_205.56_COV.png",
+    "kind": "cover",
+    "bytes": 82407,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0d63774d2a11acc2bb310374bd1a23385cab6d2947c8ea18beecb93473fa012",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20556.jpg"
+    },
+    "gameId": "SLUS_205.56"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.56/SLUS_205.56_ICO.png",
+    "kind": "disc",
+    "bytes": 31686,
+    "width": 256,
+    "height": 256,
+    "sha256": "4d973abddf7d63f42251769cebae4ae06cd5396e5e51eb7a31affda3cd92831b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.56_ICO.png"
+    },
+    "gameId": "SLUS_205.56"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.56/SLUS_205.56_BG.png",
+    "kind": "background",
+    "bytes": 172977,
+    "width": 640,
+    "height": 480,
+    "sha256": "36ba5965fcb112ebef36c877d3c92b2ac3805e950a0e4003d7a93aa5a244d6cb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.56/SLUS_205.56_BG_00.png"
+    },
+    "gameId": "SLUS_205.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.56/SLUS_205.56_BG.png",
+      "kind": "background",
+      "bytes": 172977,
+      "width": 640,
+      "height": 480,
+      "sha256": "36ba5965fcb112ebef36c877d3c92b2ac3805e950a0e4003d7a93aa5a244d6cb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.56/SLUS_205.56_BG_00.png"
+      },
+      "gameId": "SLUS_205.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "REIGN OF FIRE"
+}

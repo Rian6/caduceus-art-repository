@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.38",
+  "cover": {
+    "path": "PS2/SLPM_658.38/SLPM_658.38_COV.png",
+    "kind": "cover",
+    "bytes": 59214,
+    "width": 192,
+    "height": 272,
+    "sha256": "724d3da1945dec7ef920f37d165f8566b9cd814d326940d5d53a2cce745851c6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65838.jpg"
+    },
+    "gameId": "SLPM_658.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hanjuku Hero 4 - 7-nin no Hanjuku Hero (Limited Edition)"
+}

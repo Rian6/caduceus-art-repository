@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.98",
+  "cover": {
+    "path": "PS2/SLKA_250.98/SLKA_250.98_COV.png",
+    "kind": "cover",
+    "bytes": 76128,
+    "width": 192,
+    "height": 272,
+    "sha256": "eb16e1ae845d49f858bca9b223c49fbebb191e448e316fbb8d7d29580595ee68",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25098.jpg"
+    },
+    "gameId": "SLKA_250.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE LORD OF THE RINGS - THE RETURN OF THE KING"
+}

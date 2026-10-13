@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.40",
+  "cover": {
+    "path": "PS2/SLPM_626.40/SLPM_626.40_COV.png",
+    "kind": "cover",
+    "bytes": 103815,
+    "width": 192,
+    "height": 272,
+    "sha256": "e939c99c1e7438578ee47c757877e675827096e0436ad04cb52281821331f227",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62640.jpg"
+    },
+    "gameId": "SLPM_626.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taikou Risshiden IV (Koei Teiban Series)"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_207.86",
+  "cover": {
+    "path": "PS2/SLUS_207.86/SLUS_207.86_COV.png",
+    "kind": "cover",
+    "bytes": 114582,
+    "width": 192,
+    "height": 272,
+    "sha256": "50a61a7ca41f94a146bfa898947547996ce780a214ad8931a73357636ce2ec60",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20786.jpg"
+    },
+    "gameId": "SLUS_207.86"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.86/SLUS_207.86_ICO.png",
+    "kind": "disc",
+    "bytes": 32700,
+    "width": 256,
+    "height": 256,
+    "sha256": "fc3780de80fdbaaa8f28ba98e00f666d3879323fb6c52606718f280715088e81",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.86_ICO.png"
+    },
+    "gameId": "SLUS_207.86"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.86/SLUS_207.86_BG.png",
+    "kind": "background",
+    "bytes": 205475,
+    "width": 640,
+    "height": 480,
+    "sha256": "3659d7cc7eb59300c2241194749ef32d973c4dac5ebda4df4a5e97d30a49ffe2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.86/SLUS_207.86_BG_00.png"
+    },
+    "gameId": "SLUS_207.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.86/SLUS_207.86_BG.png",
+      "kind": "background",
+      "bytes": 205475,
+      "width": 640,
+      "height": 480,
+      "sha256": "3659d7cc7eb59300c2241194749ef32d973c4dac5ebda4df4a5e97d30a49ffe2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.86/SLUS_207.86_BG_00.png"
+      },
+      "gameId": "SLUS_207.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Metal Arms - Glitch in the System"
+}

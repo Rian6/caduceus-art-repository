@@ -1,0 +1,64 @@
+{
+  "id": "SCES_519.71",
+  "cover": {
+    "path": "PS2/SCES_519.71/SCES_519.71_COV.png",
+    "kind": "cover",
+    "bytes": 90260,
+    "width": 192,
+    "height": 272,
+    "sha256": "b720cc928b7234e70da8e6581fcc8c745e954a83cec948ce820ff6ed0d228631",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51971.jpg"
+    },
+    "gameId": "SCES_519.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_519.71/SCES_519.71_BG.png",
+    "kind": "background",
+    "bytes": 169737,
+    "width": 640,
+    "height": 480,
+    "sha256": "da0af147685ae6c7e2ecbd170e17d4828f8c9019db0857d64928fae25713bd5a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_519.71/SCES_519.71_BG_00.png"
+    },
+    "gameId": "SCES_519.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_519.71/SCES_519.71_BG.png",
+      "kind": "background",
+      "bytes": 169737,
+      "width": 640,
+      "height": 480,
+      "sha256": "da0af147685ae6c7e2ecbd170e17d4828f8c9019db0857d64928fae25713bd5a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_519.71/SCES_519.71_BG_00.png"
+      },
+      "gameId": "SCES_519.71"
+    },
+    {
+      "path": "PS2/SCES_519.71/SCES_519.71_BG_01.png",
+      "kind": "background",
+      "bytes": 198678,
+      "width": 640,
+      "height": 480,
+      "sha256": "71ffb7f59b0c87ecbaea475d7c594caebb86b750b329986f1f42616cac35af06",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_519.71/SCES_519.71_BG_01.png"
+      },
+      "gameId": "SCES_519.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rise to Honour"
+}

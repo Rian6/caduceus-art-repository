@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_250.71",
+  "cover": {
+    "path": "PS2/SLKA_250.71/SLKA_250.71_COV.png",
+    "kind": "cover",
+    "bytes": 104926,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d16e028b5bdb3776269ad34576d0977262b3984797588a5c37c2685109820e6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25071.jpg"
+    },
+    "gameId": "SLKA_250.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_250.71/SLKA_250.71_BG.png",
+    "kind": "background",
+    "bytes": 135155,
+    "width": 640,
+    "height": 480,
+    "sha256": "17367f85fb1e5c9fdf04d47b29ef42a3a240d18f2ccba76fa96d0ab4a6ddd214",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.71/SLKA_250.71_BG_00.png"
+    },
+    "gameId": "SLKA_250.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_250.71/SLKA_250.71_BG.png",
+      "kind": "background",
+      "bytes": 135155,
+      "width": 640,
+      "height": 480,
+      "sha256": "17367f85fb1e5c9fdf04d47b29ef42a3a240d18f2ccba76fa96d0ab4a6ddd214",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.71/SLKA_250.71_BG_00.png"
+      },
+      "gameId": "SLKA_250.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TANTEI JINGUJI SABURO - INNOCENT BLACK [BIG HIT]"
+}

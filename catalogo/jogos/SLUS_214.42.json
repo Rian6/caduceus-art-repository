@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_214.42",
+  "cover": {
+    "path": "PS2/SLUS_214.42/SLUS_214.42_COV.png",
+    "kind": "cover",
+    "bytes": 117317,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e99fc9851ce6277eb2f73a3d9853febc40d54baf6ac3dcc805323ffe426e488",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21442.jpg"
+    },
+    "gameId": "SLUS_214.42"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.42/SLUS_214.42_ICO.png",
+    "kind": "disc",
+    "bytes": 33547,
+    "width": 256,
+    "height": 256,
+    "sha256": "052fdd5033740a57661be1826a388b732dce3c6fe34704f95c00b88955d89802",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.42_ICO.png"
+    },
+    "gameId": "SLUS_214.42"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.42/SLUS_214.42_BG.png",
+    "kind": "background",
+    "bytes": 164046,
+    "width": 640,
+    "height": 480,
+    "sha256": "888c097bd5105e92799e6a7f829249ad0bdffbe6ea659cb743172288cbbae9ab",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.42/SLUS_214.42_BG_00.png"
+    },
+    "gameId": "SLUS_214.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.42/SLUS_214.42_BG.png",
+      "kind": "background",
+      "bytes": 164046,
+      "width": 640,
+      "height": 480,
+      "sha256": "888c097bd5105e92799e6a7f829249ad0bdffbe6ea659cb743172288cbbae9ab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.42/SLUS_214.42_BG_00.png"
+      },
+      "gameId": "SLUS_214.42"
+    },
+    {
+      "path": "PS2/SLUS_214.42/SLUS_214.42_BG_01.png",
+      "kind": "background",
+      "bytes": 90724,
+      "width": 640,
+      "height": 480,
+      "sha256": "bda35f26aa7f3a821bcb1466e92a904a352ca12c7e8f296890c365a3f7f33d1d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.42/SLUS_214.42_BG_01.png"
+      },
+      "gameId": "SLUS_214.42"
+    },
+    {
+      "path": "PS2/SLUS_214.42/SLUS_214.42_BG_02.png",
+      "kind": "background",
+      "bytes": 147525,
+      "width": 640,
+      "height": 480,
+      "sha256": "1cfc3baf828ca49fb57b92c3b1d9ad5a507c730d2655d3d0965dbf296b8ad388",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.42/SLUS_214.42_BG_02.png"
+      },
+      "gameId": "SLUS_214.42"
+    },
+    {
+      "path": "PS2/SLUS_214.42/SLUS_214.42_BG_03.png",
+      "kind": "background",
+      "bytes": 181297,
+      "width": 640,
+      "height": 480,
+      "sha256": "437c7a0d28c841afacb20866805f3dd5ec8ad322ac23cec7f5a7fc27c000e9c3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.42/SLUS_214.42_BG_03.png"
+      },
+      "gameId": "SLUS_214.42"
+    },
+    {
+      "path": "PS2/SLUS_214.42/SLUS_214.42_BG_04.png",
+      "kind": "background",
+      "bytes": 207623,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1ec7508bda2794985f453bfe5e13cda607e611b03b0e432c89f48942b3694dc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.42/SLUS_214.42_BG_04.png"
+      },
+      "gameId": "SLUS_214.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Dragon Ball Z"
+}

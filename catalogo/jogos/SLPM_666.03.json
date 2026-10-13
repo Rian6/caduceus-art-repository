@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_666.03",
+  "cover": {
+    "path": "PS2/SLPM_666.03/SLPM_666.03_COV.png",
+    "kind": "cover",
+    "bytes": 89559,
+    "width": 192,
+    "height": 272,
+    "sha256": "9a81987b7407bc30f3bef4552c6a0f1bcc4691268d44f3be9f1fe91143ecca46",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66603.jpg"
+    },
+    "gameId": "SLPM_666.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_666.03/SLPM_666.03_BG.png",
+    "kind": "background",
+    "bytes": 136813,
+    "width": 640,
+    "height": 480,
+    "sha256": "7d8567ebbb1fe71da903f8bbc606b9ce1d3b929cd349057a2549abfb00dad303",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_666.03/SLPM_666.03_BG_00.png"
+    },
+    "gameId": "SLPM_666.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_666.03/SLPM_666.03_BG.png",
+      "kind": "background",
+      "bytes": 136813,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d8567ebbb1fe71da903f8bbc606b9ce1d3b929cd349057a2549abfb00dad303",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.03/SLPM_666.03_BG_00.png"
+      },
+      "gameId": "SLPM_666.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ryuu ga Gotoku 2 (Disc 2)"
+}

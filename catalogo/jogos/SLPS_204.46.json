@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.46",
+  "cover": {
+    "path": "PS2/SLPS_204.46/SLPS_204.46_COV.png",
+    "kind": "cover",
+    "bytes": 105365,
+    "width": 192,
+    "height": 272,
+    "sha256": "8b0c8ec2843d7ac5e4737899447dd50ca13d353a2f86b0e229d7dfa4c83497c3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20446.jpg"
+    },
+    "gameId": "SLPS_204.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.089 - THE PARTY GAMES 2"
+}

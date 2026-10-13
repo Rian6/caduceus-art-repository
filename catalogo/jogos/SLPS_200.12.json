@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.12",
+  "cover": {
+    "path": "PS2/SLPS_200.12/SLPS_200.12_COV.png",
+    "kind": "cover",
+    "bytes": 84265,
+    "width": 192,
+    "height": 272,
+    "sha256": "e6248f2d6b639954cc1a6366122b383cfbfcd00052d050474aa5d3044d06daf9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20012.jpg"
+    },
+    "gameId": "SLPS_200.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sky Surfer"
+}

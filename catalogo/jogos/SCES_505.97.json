@@ -1,0 +1,25 @@
+{
+  "id": "SCES_505.97",
+  "cover": {
+    "path": "PS2/SCES_505.97/SCES_505.97_COV.png",
+    "kind": "cover",
+    "bytes": 85192,
+    "width": 192,
+    "height": 272,
+    "sha256": "7080a914b0a3528c866b72cdee7b025f3419dcd8f97067ad5d0703bcc605c394",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50597.jpg"
+    },
+    "gameId": "SCES_505.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar Monsters en Co.: Schrik Eiland"
+}

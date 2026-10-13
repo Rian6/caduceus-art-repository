@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_202.46",
+  "cover": {
+    "path": "PS2/SLUS_202.46/SLUS_202.46_COV.png",
+    "kind": "cover",
+    "bytes": 113124,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc075294456010bf55d1574f5a86eceaa727e3ba6e2479717960bbac66e38b32",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20246.jpg"
+    },
+    "gameId": "SLUS_202.46"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.46/SLUS_202.46_ICO.png",
+    "kind": "disc",
+    "bytes": 33474,
+    "width": 256,
+    "height": 256,
+    "sha256": "1bc0d56270582ae31656ec1e5789cd77684cb4eda054a19c286fc933614f8cc2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.46_ICO.png"
+    },
+    "gameId": "SLUS_202.46"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.46/SLUS_202.46_BG.png",
+    "kind": "background",
+    "bytes": 212934,
+    "width": 640,
+    "height": 480,
+    "sha256": "377d2c897ae0e7ce25387a71aebee7bfe643100c1402840292860e0907cc638b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.46/SLUS_202.46_BG_00.png"
+    },
+    "gameId": "SLUS_202.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.46/SLUS_202.46_BG.png",
+      "kind": "background",
+      "bytes": 212934,
+      "width": 640,
+      "height": 480,
+      "sha256": "377d2c897ae0e7ce25387a71aebee7bfe643100c1402840292860e0907cc638b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.46/SLUS_202.46_BG_00.png"
+      },
+      "gameId": "SLUS_202.46"
+    },
+    {
+      "path": "PS2/SLUS_202.46/SLUS_202.46_BG_01.png",
+      "kind": "background",
+      "bytes": 209345,
+      "width": 640,
+      "height": 480,
+      "sha256": "dcb8394ad165d76de2d6c6069ad34a954ecb9490093b3d9cd74ed2c2451d5e1f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.46/SLUS_202.46_BG_01.png"
+      },
+      "gameId": "SLUS_202.46"
+    },
+    {
+      "path": "PS2/SLUS_202.46/SLUS_202.46_BG_02.png",
+      "kind": "background",
+      "bytes": 233098,
+      "width": 640,
+      "height": 480,
+      "sha256": "bdcc5cfa018f691d6d211098daeb85248322af14dce8f64e4c961973155537cc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.46/SLUS_202.46_BG_02.png"
+      },
+      "gameId": "SLUS_202.46"
+    },
+    {
+      "path": "PS2/SLUS_202.46/SLUS_202.46_BG_03.png",
+      "kind": "background",
+      "bytes": 209124,
+      "width": 640,
+      "height": 480,
+      "sha256": "94a7c88a8d739c25db748e67edc4684d658e2dff529dc2af97e9c0679611423e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.46/SLUS_202.46_BG_03.png"
+      },
+      "gameId": "SLUS_202.46"
+    },
+    {
+      "path": "PS2/SLUS_202.46/SLUS_202.46_BG_04.png",
+      "kind": "background",
+      "bytes": 60434,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3454d7e364f56fc843223a24e0cf9b034dc297fb8f9d0a6f82d54c927532518",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.46/SLUS_202.46_BG_04.png"
+      },
+      "gameId": "SLUS_202.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Capcom vs. SNK 2: Mark of the Millennium 2001"
+}

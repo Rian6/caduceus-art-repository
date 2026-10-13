@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_212.39",
+  "cover": {
+    "path": "PS2/SLUS_212.39/SLUS_212.39_COV.png",
+    "kind": "cover",
+    "bytes": 86000,
+    "width": 192,
+    "height": 272,
+    "sha256": "7b5fe3bcfb2a36947e86c854b67dab2df31cd5689a898127731eec4499b0687b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21239.jpg"
+    },
+    "gameId": "SLUS_212.39"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.39/SLUS_212.39_ICO.png",
+    "kind": "disc",
+    "bytes": 32010,
+    "width": 256,
+    "height": 256,
+    "sha256": "b12dc78acf8df52ffb08998966819838da9d55e808cd111218d855b381e619d7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.39_ICO.png"
+    },
+    "gameId": "SLUS_212.39"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.39/SLUS_212.39_BG.png",
+    "kind": "background",
+    "bytes": 69670,
+    "width": 640,
+    "height": 480,
+    "sha256": "7c68d1e651be3cc4995edee36949888ab044a3208d9cdd0e458328ee07bf6e36",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.39/SLUS_212.39_BG_00.png"
+    },
+    "gameId": "SLUS_212.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.39/SLUS_212.39_BG.png",
+      "kind": "background",
+      "bytes": 69670,
+      "width": 640,
+      "height": 480,
+      "sha256": "7c68d1e651be3cc4995edee36949888ab044a3208d9cdd0e458328ee07bf6e36",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.39/SLUS_212.39_BG_00.png"
+      },
+      "gameId": "SLUS_212.39"
+    },
+    {
+      "path": "PS2/SLUS_212.39/SLUS_212.39_BG_01.png",
+      "kind": "background",
+      "bytes": 61836,
+      "width": 640,
+      "height": 480,
+      "sha256": "ab47f351dafc0c6bb8702decfd5214cc10a26bb745a16ad22c87d5e80b78b560",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.39/SLUS_212.39_BG_01.png"
+      },
+      "gameId": "SLUS_212.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Beatmania"
+}

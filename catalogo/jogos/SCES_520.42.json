@@ -1,0 +1,65 @@
+{
+  "id": "SCES_520.42",
+  "cover": {
+    "path": "PS2/SCES_520.42/SCES_520.42_COV.png",
+    "kind": "cover",
+    "bytes": 93288,
+    "width": 192,
+    "height": 272,
+    "sha256": "d0954f0d3248ce87b28ba9e5c65e40ca1f534d2b2d0a09fe25b261293c28174e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52042.jpg"
+    },
+    "gameId": "SCES_520.42"
+  },
+  "disc": {
+    "path": "PS2/SCES_520.42/SCES_520.42_ICO.png",
+    "kind": "disc",
+    "bytes": 10092,
+    "width": 128,
+    "height": 128,
+    "sha256": "e8725200a1b4c347225131150c3213da78c2e7ffe9ad9ed72faf915bc91609d8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_520.42_ICO.png"
+    },
+    "gameId": "SCES_520.42"
+  },
+  "background": {
+    "path": "PS2/SCES_520.42/SCES_520.42_BG.png",
+    "kind": "background",
+    "bytes": 168101,
+    "width": 640,
+    "height": 480,
+    "sha256": "b5754c1210aa74f4f70604f49d2c5273275c56740c25b5ab0ae93dff45c76b10",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_520.42/SCES_520.42_BG_00.png"
+    },
+    "gameId": "SCES_520.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_520.42/SCES_520.42_BG.png",
+      "kind": "background",
+      "bytes": 168101,
+      "width": 640,
+      "height": 480,
+      "sha256": "b5754c1210aa74f4f70604f49d2c5273275c56740c25b5ab0ae93dff45c76b10",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_520.42/SCES_520.42_BG_00.png"
+      },
+      "gameId": "SCES_520.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Formula One 04"
+}

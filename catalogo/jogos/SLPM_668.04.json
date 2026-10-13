@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.04",
+  "cover": {
+    "path": "PS2/SLPM_668.04/SLPM_668.04_COV.png",
+    "kind": "cover",
+    "bytes": 107038,
+    "width": 192,
+    "height": 272,
+    "sha256": "29202be2f9d9bb8d756d0e262949607d0882e66c2563e04e35ee584f1a495cd5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66804.jpg"
+    },
+    "gameId": "SLPM_668.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "COLORFUL AQUARIUM - MY LITTLE MERMAID [LIMITED EDITION]"
+}

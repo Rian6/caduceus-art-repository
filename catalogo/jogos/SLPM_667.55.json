@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.55",
+  "cover": {
+    "path": "PS2/SLPM_667.55/SLPM_667.55_COV.png",
+    "kind": "cover",
+    "bytes": 101479,
+    "width": 192,
+    "height": 272,
+    "sha256": "afd2e223c92c20cd0c9d313346f04d04c7965bf9894097bf8379ab7402f9f1c3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66755.jpg"
+    },
+    "gameId": "SLPM_667.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAJOKKO A LA MODE II - HIKARI TO YAMI NO ETRANGER"
+}

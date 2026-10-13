@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.06",
+  "cover": {
+    "path": "PS2/SLPM_623.06/SLPM_623.06_COV.png",
+    "kind": "cover",
+    "bytes": 54260,
+    "width": 192,
+    "height": 272,
+    "sha256": "d413b72e84932ac3f50a1a76327a35fb5b4c9d6f59e4da4173e8f3abfc2d2c74",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62306.jpg"
+    },
+    "gameId": "SLPM_623.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SuperLite 2000 Vol. 2 - Shogi"
+}

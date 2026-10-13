@@ -1,0 +1,65 @@
+{
+  "id": "SLES_540.84",
+  "cover": {
+    "path": "PS2/SLES_540.84/SLES_540.84_COV.png",
+    "kind": "cover",
+    "bytes": 94720,
+    "width": 192,
+    "height": 272,
+    "sha256": "55102b552b7acd0ee21b498e904908f059d65a5280572cd969fbc2502d087fe2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54084.jpg"
+    },
+    "gameId": "SLES_540.84"
+  },
+  "disc": {
+    "path": "PS2/SLES_540.84/SLES_540.84_ICO.png",
+    "kind": "disc",
+    "bytes": 10119,
+    "width": 128,
+    "height": 128,
+    "sha256": "25776d40999544841cda298934820d7e7c7ce6162f4129bbb4641176bd0dece8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_540.84_ICO.png"
+    },
+    "gameId": "SLES_540.84"
+  },
+  "background": {
+    "path": "PS2/SLES_540.84/SLES_540.84_BG.png",
+    "kind": "background",
+    "bytes": 215531,
+    "width": 640,
+    "height": 480,
+    "sha256": "b428fcab1c6eb6137cebfafe4eb315a1e0d5f8863bdaa01444e1fc6e76a3c372",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_540.84/SLES_540.84_BG_00.png"
+    },
+    "gameId": "SLES_540.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_540.84/SLES_540.84_BG.png",
+      "kind": "background",
+      "bytes": 215531,
+      "width": 640,
+      "height": 480,
+      "sha256": "b428fcab1c6eb6137cebfafe4eb315a1e0d5f8863bdaa01444e1fc6e76a3c372",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.84/SLES_540.84_BG_00.png"
+      },
+      "gameId": "SLES_540.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PowerShot Pinball"
+}

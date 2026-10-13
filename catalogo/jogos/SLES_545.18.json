@@ -1,0 +1,39 @@
+{
+  "id": "SLES_545.18",
+  "cover": {
+    "path": "PS2/SLES_545.18/SLES_545.18_COV.png",
+    "kind": "cover",
+    "bytes": 93634,
+    "width": 192,
+    "height": 272,
+    "sha256": "e628da113e2d3e59a2560a342da9d2161960e78d4a70cac0f430b5765dd46783",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54518.jpg"
+    },
+    "gameId": "SLES_545.18"
+  },
+  "disc": {
+    "path": "PS2/SLES_545.18/SLES_545.18_ICO.png",
+    "kind": "disc",
+    "bytes": 11520,
+    "width": 128,
+    "height": 128,
+    "sha256": "5f340a72ca5096f83dcb18962eac09226bd590107a0626a30c53ba615b8bdf2f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_545.18_ICO.png"
+    },
+    "gameId": "SLES_545.18"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Clumsy Shumsy"
+}

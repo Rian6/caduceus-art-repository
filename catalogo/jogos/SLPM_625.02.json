@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_625.02",
+  "cover": {
+    "path": "PS2/SLPM_625.02/SLPM_625.02_COV.png",
+    "kind": "cover",
+    "bytes": 92132,
+    "width": 192,
+    "height": 272,
+    "sha256": "557360cc8bb3ecd8b3569c18c4f7d96c33d3a5574808e88ecdeff23c9e1f4a6b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62502.jpg"
+    },
+    "gameId": "SLPM_625.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nobunaga Senki"
+}

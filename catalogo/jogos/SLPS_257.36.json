@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.36",
+  "cover": {
+    "path": "PS2/SLPS_257.36/SLPS_257.36_COV.png",
+    "kind": "cover",
+    "bytes": 110639,
+    "width": 192,
+    "height": 272,
+    "sha256": "3780d1710ce4b86408a5efdf1344ad8bf1e06a10222770dd92811a87c578f3f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25736.jpg"
+    },
+    "gameId": "SLPS_257.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Samurai Spirits - Tenkaichi Kenkakuden (SNK Best)"
+}

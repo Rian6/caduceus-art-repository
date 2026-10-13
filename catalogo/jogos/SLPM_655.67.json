@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.67",
+  "cover": {
+    "path": "PS2/SLPM_655.67/SLPM_655.67_COV.png",
+    "kind": "cover",
+    "bytes": 100988,
+    "width": 192,
+    "height": 272,
+    "sha256": "d7837512ba6bd21c0229ccac26cc139e4e89710b40c8003b4d4e5634cb72d6f6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65567.jpg"
+    },
+    "gameId": "SLPM_655.67"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kin'iro no Corda"
+}

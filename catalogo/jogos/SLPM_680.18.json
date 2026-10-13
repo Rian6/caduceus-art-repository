@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_680.18",
+  "cover": {
+    "path": "PS2/SLPM_680.18/SLPM_680.18_COV.png",
+    "kind": "cover",
+    "bytes": 70248,
+    "width": 192,
+    "height": 272,
+    "sha256": "149f39512ecbfccf0bc57d83977bd1ef79df1b6b0caca95df49d4de472041d21",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-68018.jpg"
+    },
+    "gameId": "SLPM_680.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Virtua Fighter: 10th Anniversary Edition"
+}

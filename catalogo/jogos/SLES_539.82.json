@@ -1,0 +1,64 @@
+{
+  "id": "SLES_539.82",
+  "cover": {
+    "path": "PS2/SLES_539.82/SLES_539.82_COV.png",
+    "kind": "cover",
+    "bytes": 85456,
+    "width": 192,
+    "height": 272,
+    "sha256": "e8974058c7957988444c0c08b6e532ee3ff081e18e06e8e3ad225e2e28a77531",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53982.jpg"
+    },
+    "gameId": "SLES_539.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_539.82/SLES_539.82_BG.png",
+    "kind": "background",
+    "bytes": 137358,
+    "width": 640,
+    "height": 480,
+    "sha256": "7dd5ad3099cf1ee40634f69f8a1a6c1d9a23028629b29bdf57f46791845d19a6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.82/SLES_539.82_BG_00.png"
+    },
+    "gameId": "SLES_539.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.82/SLES_539.82_BG.png",
+      "kind": "background",
+      "bytes": 137358,
+      "width": 640,
+      "height": 480,
+      "sha256": "7dd5ad3099cf1ee40634f69f8a1a6c1d9a23028629b29bdf57f46791845d19a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.82/SLES_539.82_BG_00.png"
+      },
+      "gameId": "SLES_539.82"
+    },
+    {
+      "path": "PS2/SLES_539.82/SLES_539.82_BG_01.png",
+      "kind": "background",
+      "bytes": 182689,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7252fb3ca43d23ca68846ec3e7f572749207f8525bd459ac6fc5bf92cdb15d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.82/SLES_539.82_BG_01.png"
+      },
+      "gameId": "SLES_539.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fight Night Round 3"
+}

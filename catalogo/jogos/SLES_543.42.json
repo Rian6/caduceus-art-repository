@@ -1,0 +1,51 @@
+{
+  "id": "SLES_543.42",
+  "cover": {
+    "path": "PS2/SLES_543.42/SLES_543.42_COV.png",
+    "kind": "cover",
+    "bytes": 98071,
+    "width": 192,
+    "height": 272,
+    "sha256": "9404ccf74d86568813be7f9897b98b612ad757efa33cab40de2088faaee8a2a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54342.jpg"
+    },
+    "gameId": "SLES_543.42"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.42/SLES_543.42_BG.png",
+    "kind": "background",
+    "bytes": 212774,
+    "width": 640,
+    "height": 480,
+    "sha256": "dd8947765db09a734570186a4d5ea519022e78e4362f0d4fe3626bddba769118",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.42/SLES_543.42_BG_00.png"
+    },
+    "gameId": "SLES_543.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.42/SLES_543.42_BG.png",
+      "kind": "background",
+      "bytes": 212774,
+      "width": 640,
+      "height": 480,
+      "sha256": "dd8947765db09a734570186a4d5ea519022e78e4362f0d4fe3626bddba769118",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.42/SLES_543.42_BG_00.png"
+      },
+      "gameId": "SLES_543.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bratz - Forever Diamondz"
+}

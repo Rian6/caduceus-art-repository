@@ -1,0 +1,77 @@
+{
+  "id": "SLPM_620.67",
+  "cover": {
+    "path": "PS2/SLPM_620.67/SLPM_620.67_COV.png",
+    "kind": "cover",
+    "bytes": 108227,
+    "width": 192,
+    "height": 272,
+    "sha256": "a81ac0f265a5c2dc212b0c572d62952bbfa496ece50c6911cbea426ea421f12d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62067.jpg"
+    },
+    "gameId": "SLPM_620.67"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_620.67/SLPM_620.67_BG.png",
+    "kind": "background",
+    "bytes": 208929,
+    "width": 640,
+    "height": 480,
+    "sha256": "ac270b93e06bfc015d82d9b0d7e1f3a9931190a3acc507fc7deebf4efef59cb1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_620.67/SLPM_620.67_BG_00.png"
+    },
+    "gameId": "SLPM_620.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_620.67/SLPM_620.67_BG.png",
+      "kind": "background",
+      "bytes": 208929,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac270b93e06bfc015d82d9b0d7e1f3a9931190a3acc507fc7deebf4efef59cb1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.67/SLPM_620.67_BG_00.png"
+      },
+      "gameId": "SLPM_620.67"
+    },
+    {
+      "path": "PS2/SLPM_620.67/SLPM_620.67_BG_01.png",
+      "kind": "background",
+      "bytes": 225351,
+      "width": 640,
+      "height": 480,
+      "sha256": "261ede29e5daaa3c53c5768ed1b422d8a934f0b4306d18f4564d0a74dfdd2e38",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.67/SLPM_620.67_BG_01.png"
+      },
+      "gameId": "SLPM_620.67"
+    },
+    {
+      "path": "PS2/SLPM_620.67/SLPM_620.67_BG_02.png",
+      "kind": "background",
+      "bytes": 200058,
+      "width": 640,
+      "height": 480,
+      "sha256": "05066e3ec15dbe88dce1b258d6c02873ecb00f33ff1808e6331dd08b819bd5db",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.67/SLPM_620.67_BG_02.png"
+      },
+      "gameId": "SLPM_620.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hunter x Hunter: Ryuumyaku no Saidan"
+}

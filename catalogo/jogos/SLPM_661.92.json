@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.92",
+  "cover": {
+    "path": "PS2/SLPM_661.92/SLPM_661.92_COV.png",
+    "kind": "cover",
+    "bytes": 104084,
+    "width": 192,
+    "height": 272,
+    "sha256": "fd0ef49b75ddc0c26cbab1538611cd9be8b2cf81f546b8a41178a8f6cad58062",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66192.jpg"
+    },
+    "gameId": "SLPM_661.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "IZUMO 2"
+}

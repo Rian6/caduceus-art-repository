@@ -1,0 +1,39 @@
+{
+  "id": "SLES_536.52",
+  "cover": {
+    "path": "PS2/SLES_536.52/SLES_536.52_COV.png",
+    "kind": "cover",
+    "bytes": 91668,
+    "width": 192,
+    "height": 272,
+    "sha256": "b84f061bbf1f5949f7e45ef1d6b512ba30a748a7f01e71d1c9750ad391902728",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53652.jpg"
+    },
+    "gameId": "SLES_536.52"
+  },
+  "disc": {
+    "path": "PS2/SLES_536.52/SLES_536.52_ICO.png",
+    "kind": "disc",
+    "bytes": 10984,
+    "width": 128,
+    "height": 128,
+    "sha256": "7c4690477cda8b773687cfc317fa9f84bef945901c3c84560d6f53f28a5f752f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_536.52_ICO.png"
+    },
+    "gameId": "SLES_536.52"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Daemon Summoner"
+}

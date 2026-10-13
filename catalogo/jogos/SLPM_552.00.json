@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.00",
+  "cover": {
+    "path": "PS2/SLPM_552.00/SLPM_552.00_COV.png",
+    "kind": "cover",
+    "bytes": 112752,
+    "width": 192,
+    "height": 272,
+    "sha256": "5dbb917493705f753f95b69ae73435a882775f144b001fbc7c0cb2b24624d37c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55200.jpg"
+    },
+    "gameId": "SLPM_552.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOUKA GETTAN - KOUFUU NO RYOUOU"
+}

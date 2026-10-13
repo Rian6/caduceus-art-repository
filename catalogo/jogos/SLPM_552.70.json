@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.70",
+  "cover": {
+    "path": "PS2/SLPM_552.70/SLPM_552.70_COV.png",
+    "kind": "cover",
+    "bytes": 107317,
+    "width": 192,
+    "height": 272,
+    "sha256": "d375c7974542a76df0e2d77cb16117aef1ad254c263b3355727e679bf4cc8790",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55270.jpg"
+    },
+    "gameId": "SLPM_552.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shinkyouku Soukai Polyphonica: After School"
+}

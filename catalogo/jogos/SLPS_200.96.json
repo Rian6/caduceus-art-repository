@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.96",
+  "cover": {
+    "path": "PS2/SLPS_200.96/SLPS_200.96_COV.png",
+    "kind": "cover",
+    "bytes": 89386,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d65c910a84c2c4e0224346bc52c265c08b36ea21ed89bc18f6ba921ea8ed4d8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20096.jpg"
+    },
+    "gameId": "SLPS_200.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gambler Densetsu Tetsuya"
+}

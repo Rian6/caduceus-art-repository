@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_191.53",
+  "cover": {
+    "path": "PS2/SCPS_191.53/SCPS_191.53_COV.png",
+    "kind": "cover",
+    "bytes": 86456,
+    "width": 192,
+    "height": 272,
+    "sha256": "bd23fc8940d6ec6982b18c60d81723481a47c3f702f5742ed188d78646f51149",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19153.jpg"
+    },
+    "gameId": "SCPS_191.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_191.53/SCPS_191.53_BG.png",
+    "kind": "background",
+    "bytes": 73272,
+    "width": 640,
+    "height": 480,
+    "sha256": "637b9f47f86a103e256357c1091e9810e3310abd55c4443f8287b064f3843c8f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_191.53/SCPS_191.53_BG_00.png"
+    },
+    "gameId": "SCPS_191.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_191.53/SCPS_191.53_BG.png",
+      "kind": "background",
+      "bytes": 73272,
+      "width": 640,
+      "height": 480,
+      "sha256": "637b9f47f86a103e256357c1091e9810e3310abd55c4443f8287b064f3843c8f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_191.53/SCPS_191.53_BG_00.png"
+      },
+      "gameId": "SCPS_191.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pipo Sarou 2001 (Playstation 2 The Best Reprint)"
+}

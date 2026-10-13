@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.02",
+  "cover": {
+    "path": "PS2/SLPM_653.02/SLPM_653.02_COV.png",
+    "kind": "cover",
+    "bytes": 104243,
+    "width": 192,
+    "height": 272,
+    "sha256": "d4e8d65e7fb23ddd260c4fdfce53bc39e4c2de1b3d0fbfe72520d1d7595b0a20",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65302.jpg"
+    },
+    "gameId": "SLPM_653.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TORAKAPUU! DASH!!"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.44",
+  "cover": {
+    "path": "PS2/SLPM_621.44/SLPM_621.44_COV.png",
+    "kind": "cover",
+    "bytes": 84462,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a9dee8cf80993865adcbba783c4c1a573bf39fb7bb4294e0c3caa202482feb0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62144.jpg"
+    },
+    "gameId": "SLPM_621.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Puzzle Bobble (Taito The Best)"
+}

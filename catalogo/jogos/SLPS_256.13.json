@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.13",
+  "cover": {
+    "path": "PS2/SLPS_256.13/SLPS_256.13_COV.png",
+    "kind": "cover",
+    "bytes": 74797,
+    "width": 192,
+    "height": 272,
+    "sha256": "fdf74e83a9f64e5adf3a9c37e81bb175637462588ebf1dcb2b757a39b94fe150",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25613.jpg"
+    },
+    "gameId": "SLPS_256.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MY HOME O TSUKUROU! 2 - SHOU [BEST COLLECTION]"
+}

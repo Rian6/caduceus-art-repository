@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.01",
+  "cover": {
+    "path": "PS2/SCPS_150.01/SCPS_150.01_COV.png",
+    "kind": "cover",
+    "bytes": 71315,
+    "width": 192,
+    "height": 272,
+    "sha256": "06f57af42f771fbf3cf52fb24b6882748e1fb53338c3f11c36ce7b840b195e4c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15001.jpg"
+    },
+    "gameId": "SCPS_150.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCANDAL"
+}

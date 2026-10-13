@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_204.67",
+  "cover": {
+    "path": "PS2/SLUS_204.67/SLUS_204.67_COV.png",
+    "kind": "cover",
+    "bytes": 100898,
+    "width": 192,
+    "height": 272,
+    "sha256": "5cb6fc88b8168dbaed59d01c4f4132bb8df528a54f8235cc27c2065ff2687b48",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20467.jpg"
+    },
+    "gameId": "SLUS_204.67"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.67/SLUS_204.67_ICO.png",
+    "kind": "disc",
+    "bytes": 31900,
+    "width": 256,
+    "height": 256,
+    "sha256": "376e1e2a68084933cdf2896b52534c3eeff94053103150b7ef0dd05f06210673",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.67_ICO.png"
+    },
+    "gameId": "SLUS_204.67"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.67/SLUS_204.67_BG.png",
+    "kind": "background",
+    "bytes": 198878,
+    "width": 640,
+    "height": 480,
+    "sha256": "166217d2daf030fe700bc00afeee393f3146e1ac599f83489c7dfc93af443acd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.67/SLUS_204.67_BG_00.png"
+    },
+    "gameId": "SLUS_204.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.67/SLUS_204.67_BG.png",
+      "kind": "background",
+      "bytes": 198878,
+      "width": 640,
+      "height": 480,
+      "sha256": "166217d2daf030fe700bc00afeee393f3146e1ac599f83489c7dfc93af443acd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.67/SLUS_204.67_BG_00.png"
+      },
+      "gameId": "SLUS_204.67"
+    },
+    {
+      "path": "PS2/SLUS_204.67/SLUS_204.67_BG_01.png",
+      "kind": "background",
+      "bytes": 209599,
+      "width": 640,
+      "height": 480,
+      "sha256": "b3924bd804dc529bb91f074aeddc4fe6d0a89e9a70327717f8c3187fa0a4fbd8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.67/SLUS_204.67_BG_01.png"
+      },
+      "gameId": "SLUS_204.67"
+    },
+    {
+      "path": "PS2/SLUS_204.67/SLUS_204.67_BG_02.png",
+      "kind": "background",
+      "bytes": 45375,
+      "width": 640,
+      "height": 480,
+      "sha256": "36942a41954a4adbcfe96cbdaf0b631696ad426e1b3811c3b3f6315c458e223f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.67/SLUS_204.67_BG_02.png"
+      },
+      "gameId": "SLUS_204.67"
+    },
+    {
+      "path": "PS2/SLUS_204.67/SLUS_204.67_BG_03.png",
+      "kind": "background",
+      "bytes": 183377,
+      "width": 640,
+      "height": 480,
+      "sha256": "abbc6b04261f950a99ddffd84c894b3d8a0eeee24c322453967f114edfd2569d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.67/SLUS_204.67_BG_03.png"
+      },
+      "gameId": "SLUS_204.67"
+    },
+    {
+      "path": "PS2/SLUS_204.67/SLUS_204.67_BG_04.png",
+      "kind": "background",
+      "bytes": 180006,
+      "width": 640,
+      "height": 480,
+      "sha256": "9dc009a0193508168bd4273262c60cf449adc24d425fcf2e22dfd818ac7559c8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.67/SLUS_204.67_BG_04.png"
+      },
+      "gameId": "SLUS_204.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Lara Croft Tomb Raider: The Angel of Darkness"
+}

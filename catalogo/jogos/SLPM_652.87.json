@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.87",
+  "cover": {
+    "path": "PS2/SLPM_652.87/SLPM_652.87_COV.png",
+    "kind": "cover",
+    "bytes": 109081,
+    "width": 192,
+    "height": 272,
+    "sha256": "e4f525b5376cd74ed752c48cd28e9f892f6c14d5599f81081a8dd566cd6e434f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65287.jpg"
+    },
+    "gameId": "SLPM_652.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XI - Zilart no Gen'ei"
+}

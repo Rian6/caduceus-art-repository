@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.00",
+  "cover": {
+    "path": "PS2/SLPS_258.00/SLPS_258.00_COV.png",
+    "kind": "cover",
+    "bytes": 91713,
+    "width": 192,
+    "height": 272,
+    "sha256": "7284a2cbfe4dbbc0dcc26e6fc0b1c84923ca5f05d49ee5faab255c016deb4716",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25800.jpg"
+    },
+    "gameId": "SLPS_258.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ultraman Fighting Evolution - Rebirth (Banpresto Best)"
+}

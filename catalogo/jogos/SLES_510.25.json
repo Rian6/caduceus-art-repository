@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.25",
+  "cover": {
+    "path": "PS2/SLES_510.25/SLES_510.25_COV.png",
+    "kind": "cover",
+    "bytes": 97340,
+    "width": 192,
+    "height": 272,
+    "sha256": "f1ee33a1b10fbcfc412ce1c9364f4e76687c00e3996aedc12f6b671957135847",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51025.jpg"
+    },
+    "gameId": "SLES_510.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BDFL Manager 2003"
+}

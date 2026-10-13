@@ -1,0 +1,64 @@
+{
+  "id": "SLES_505.86",
+  "cover": {
+    "path": "PS2/SLES_505.86/SLES_505.86_COV.png",
+    "kind": "cover",
+    "bytes": 90143,
+    "width": 192,
+    "height": 272,
+    "sha256": "9003b03ecaa5d5336d7c7cf5d1be5907691fb19641dcfadc418ef574b06e20b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50586.jpg"
+    },
+    "gameId": "SLES_505.86"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_505.86/SLES_505.86_BG.png",
+    "kind": "background",
+    "bytes": 57610,
+    "width": 640,
+    "height": 480,
+    "sha256": "f651ba3f30e5151405fcd0daab18334899e73579d24d6e137f0bcc1ac8f24fc3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_505.86/SLES_505.86_BG_00.png"
+    },
+    "gameId": "SLES_505.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_505.86/SLES_505.86_BG.png",
+      "kind": "background",
+      "bytes": 57610,
+      "width": 640,
+      "height": 480,
+      "sha256": "f651ba3f30e5151405fcd0daab18334899e73579d24d6e137f0bcc1ac8f24fc3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.86/SLES_505.86_BG_00.png"
+      },
+      "gameId": "SLES_505.86"
+    },
+    {
+      "path": "PS2/SLES_505.86/SLES_505.86_BG_01.png",
+      "kind": "background",
+      "bytes": 240332,
+      "width": 640,
+      "height": 480,
+      "sha256": "99dd22eb7827a8b5500b07c7b3588e10f3f3ce46b9026c0312caceb536cfab14",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_505.86/SLES_505.86_BG_01.png"
+      },
+      "gameId": "SLES_505.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN International Winter Sports"
+}

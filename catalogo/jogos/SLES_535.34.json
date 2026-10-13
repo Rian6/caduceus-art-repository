@@ -1,0 +1,51 @@
+{
+  "id": "SLES_535.34",
+  "cover": {
+    "path": "PS2/SLES_535.34/SLES_535.34_COV.png",
+    "kind": "cover",
+    "bytes": 95664,
+    "width": 192,
+    "height": 272,
+    "sha256": "7313a76a33cbfaf2b945df3074819bfb5b43a62634a366bea9393a4840b0561e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53534.jpg"
+    },
+    "gameId": "SLES_535.34"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_535.34/SLES_535.34_BG.png",
+    "kind": "background",
+    "bytes": 191419,
+    "width": 640,
+    "height": 480,
+    "sha256": "0ef18fa8789534b1bd90084e61e1b927a89a7ee4786c6cb66421c9bd58c62702",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.34/SLES_535.34_BG_00.png"
+    },
+    "gameId": "SLES_535.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.34/SLES_535.34_BG.png",
+      "kind": "background",
+      "bytes": 191419,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ef18fa8789534b1bd90084e61e1b927a89a7ee4786c6cb66421c9bd58c62702",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.34/SLES_535.34_BG_00.png"
+      },
+      "gameId": "SLES_535.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TONY HAWK'S AMERICAN WASTELAND"
+}

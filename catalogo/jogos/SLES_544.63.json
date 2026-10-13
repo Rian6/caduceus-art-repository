@@ -1,0 +1,25 @@
+{
+  "id": "SLES_544.63",
+  "cover": {
+    "path": "PS2/SLES_544.63/SLES_544.63_COV.png",
+    "kind": "cover",
+    "bytes": 106087,
+    "width": 192,
+    "height": 272,
+    "sha256": "fd47a4fd6551786d23c34bf53ff6efac8002ab43162f5772b9fd014516a1a485",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54463.jpg"
+    },
+    "gameId": "SLES_544.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sprint Cars - Road to Knoxville"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_514.58",
+  "cover": {
+    "path": "PS2/SLES_514.58/SLES_514.58_COV.png",
+    "kind": "cover",
+    "bytes": 79355,
+    "width": 192,
+    "height": 272,
+    "sha256": "8ccdc223e6385691e6e7f27c584011e6b1bbecbe418960f0bb49ffc453937154",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51458.jpg"
+    },
+    "gameId": "SLES_514.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BDFL Manager 2004"
+}

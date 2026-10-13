@@ -1,0 +1,24 @@
+{
+  "id": "PBPX_952.21",
+  "cover": {
+    "path": "PS2/PBPX_952.21/PBPX_952.21_COV.png",
+    "kind": "cover",
+    "bytes": 77844,
+    "width": 192,
+    "height": 272,
+    "sha256": "64469fb43b2bbbe884d4c94f35f477c8e12864f24f8faab1a099d8f3492a2060",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PBPX-95221.jpg"
+    },
+    "gameId": "PBPX_952.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

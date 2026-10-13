@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_213.80",
+  "cover": {
+    "path": "PS2/SLUS_213.80/SLUS_213.80_COV.png",
+    "kind": "cover",
+    "bytes": 103953,
+    "width": 192,
+    "height": 272,
+    "sha256": "5e9da204293e582f66af4f0ae740e04647594f3d76c864a2d5355ed2238365a4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21380.jpg"
+    },
+    "gameId": "SLUS_213.80"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.80/SLUS_213.80_ICO.png",
+    "kind": "disc",
+    "bytes": 31420,
+    "width": 256,
+    "height": 256,
+    "sha256": "8da736416ed2c28875d0e492d499034a36eddcc9f56899d9c402a5cd3b10bde4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.80_ICO.png"
+    },
+    "gameId": "SLUS_213.80"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.80/SLUS_213.80_BG.png",
+    "kind": "background",
+    "bytes": 108431,
+    "width": 640,
+    "height": 480,
+    "sha256": "c916efa467256f6f822edbbcc5032e141ad1a4fbece955432eb58807f0b9e9c4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.80/SLUS_213.80_BG_00.png"
+    },
+    "gameId": "SLUS_213.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.80/SLUS_213.80_BG.png",
+      "kind": "background",
+      "bytes": 108431,
+      "width": 640,
+      "height": 480,
+      "sha256": "c916efa467256f6f822edbbcc5032e141ad1a4fbece955432eb58807f0b9e9c4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.80/SLUS_213.80_BG_00.png"
+      },
+      "gameId": "SLUS_213.80"
+    },
+    {
+      "path": "PS2/SLUS_213.80/SLUS_213.80_BG_01.png",
+      "kind": "background",
+      "bytes": 188594,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c890d8ae8d40dfab47b595af2989e28c690dd2c4e09bfcc55e47ac3d052bd7d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.80/SLUS_213.80_BG_01.png"
+      },
+      "gameId": "SLUS_213.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Snoopy vs. The Red Baron"
+}

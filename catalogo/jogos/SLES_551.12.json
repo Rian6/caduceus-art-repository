@@ -1,0 +1,25 @@
+{
+  "id": "SLES_551.12",
+  "cover": {
+    "path": "PS2/SLES_551.12/SLES_551.12_COV.png",
+    "kind": "cover",
+    "bytes": 101852,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d7caba87b1c966311f9bd373afec44bb5b20a9971e8dbb07c64a606b285ce24",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55112.jpg"
+    },
+    "gameId": "SLES_551.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dora the Explorer: Dora Saves the Mermaids"
+}

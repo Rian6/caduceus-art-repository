@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_560.05",
+  "cover": {
+    "path": "PS2/SCPS_560.05/SCPS_560.05_COV.png",
+    "kind": "cover",
+    "bytes": 93646,
+    "width": 192,
+    "height": 272,
+    "sha256": "36a55f732b86bb0bbdd979655f9dad1c0d9e73ca00df811586db802242504945",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-56005.jpg"
+    },
+    "gameId": "SCPS_560.05"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_560.05/SCPS_560.05_BG.png",
+    "kind": "background",
+    "bytes": 167945,
+    "width": 640,
+    "height": 480,
+    "sha256": "ae6e9385bafb2159c54440e653a31eee30557e1f239fe087af269344f43d37ff",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_560.05/SCPS_560.05_BG_00.png"
+    },
+    "gameId": "SCPS_560.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_560.05/SCPS_560.05_BG.png",
+      "kind": "background",
+      "bytes": 167945,
+      "width": 640,
+      "height": 480,
+      "sha256": "ae6e9385bafb2159c54440e653a31eee30557e1f239fe087af269344f43d37ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_560.05/SCPS_560.05_BG_00.png"
+      },
+      "gameId": "SCPS_560.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo - Concept 2002 Tokyo-Seoul"
+}

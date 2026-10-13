@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.91",
+  "cover": {
+    "path": "PS2/SLPM_664.91/SLPM_664.91_COV.png",
+    "kind": "cover",
+    "bytes": 103991,
+    "width": 192,
+    "height": 272,
+    "sha256": "2fd2dacd81f89d21535b6e6b57d9a50beab8a8b70efa2bc1ac5d3f74a0f1da17",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66491.jpg"
+    },
+    "gameId": "SLPM_664.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AYAKA SHIBITO - GENYOU IBUNROKU"
+}

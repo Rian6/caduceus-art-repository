@@ -1,0 +1,64 @@
+{
+  "id": "SLES_512.71",
+  "cover": {
+    "path": "PS2/SLES_512.71/SLES_512.71_COV.png",
+    "kind": "cover",
+    "bytes": 102279,
+    "width": 192,
+    "height": 272,
+    "sha256": "700a85d20937e167142186afbf87ab25d172e3fabd1822c26ab6aa21d3ec993a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51271.jpg"
+    },
+    "gameId": "SLES_512.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_512.71/SLES_512.71_BG.png",
+    "kind": "background",
+    "bytes": 189380,
+    "width": 640,
+    "height": 480,
+    "sha256": "56d07280e57409e209027d9e243c06abfbd131701e67c92f106573bb05a2cbe9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_512.71/SLES_512.71_BG_00.png"
+    },
+    "gameId": "SLES_512.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_512.71/SLES_512.71_BG.png",
+      "kind": "background",
+      "bytes": 189380,
+      "width": 640,
+      "height": 480,
+      "sha256": "56d07280e57409e209027d9e243c06abfbd131701e67c92f106573bb05a2cbe9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.71/SLES_512.71_BG_00.png"
+      },
+      "gameId": "SLES_512.71"
+    },
+    {
+      "path": "PS2/SLES_512.71/SLES_512.71_BG_01.png",
+      "kind": "background",
+      "bytes": 151500,
+      "width": 640,
+      "height": 480,
+      "sha256": "78b6b482afc2761c2dc9ecee8612d5994d122a865b90684840a19626dfe45f20",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.71/SLES_512.71_BG_01.png"
+      },
+      "gameId": "SLES_512.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mobile Suit Gundam - Federation vs. Zeon"
+}

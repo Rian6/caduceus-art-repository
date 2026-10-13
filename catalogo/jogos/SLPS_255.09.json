@@ -1,0 +1,117 @@
+{
+  "id": "SLPS_255.09",
+  "cover": {
+    "path": "PS2/SLPS_255.09/SLPS_255.09_COV.png",
+    "kind": "cover",
+    "bytes": 90336,
+    "width": 192,
+    "height": 272,
+    "sha256": "304282e442834482d208c2b108e114cf77a71858e86746e93b2b29cf01f1d9d5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25509.jpg"
+    },
+    "gameId": "SLPS_255.09"
+  },
+  "disc": {
+    "path": "PS2/SLPS_255.09/SLPS_255.09_ICO.png",
+    "kind": "disc",
+    "bytes": 10743,
+    "width": 128,
+    "height": 128,
+    "sha256": "4906d0c3827c209259b5aba1e34c0aa7d517394a05827bc35906d851637c7a18",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_255.09_ICO.png"
+    },
+    "gameId": "SLPS_255.09"
+  },
+  "background": {
+    "path": "PS2/SLPS_255.09/SLPS_255.09_BG.png",
+    "kind": "background",
+    "bytes": 183465,
+    "width": 640,
+    "height": 480,
+    "sha256": "cc4b7fe621a864ce3281449df3f32c70c056068fa47e40a2bf7eb6787ef110b4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.09/SLPS_255.09_BG_00.png"
+    },
+    "gameId": "SLPS_255.09"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.09/SLPS_255.09_BG.png",
+      "kind": "background",
+      "bytes": 183465,
+      "width": 640,
+      "height": 480,
+      "sha256": "cc4b7fe621a864ce3281449df3f32c70c056068fa47e40a2bf7eb6787ef110b4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.09/SLPS_255.09_BG_00.png"
+      },
+      "gameId": "SLPS_255.09"
+    },
+    {
+      "path": "PS2/SLPS_255.09/SLPS_255.09_BG_01.png",
+      "kind": "background",
+      "bytes": 173860,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e4039d3987a0e9c9f46f944bbd69aa6aa7c76d63644b18ebf98e6a785a54acc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.09/SLPS_255.09_BG_01.png"
+      },
+      "gameId": "SLPS_255.09"
+    },
+    {
+      "path": "PS2/SLPS_255.09/SLPS_255.09_BG_02.png",
+      "kind": "background",
+      "bytes": 160738,
+      "width": 640,
+      "height": 480,
+      "sha256": "e63788768b9cd2e1256284ef3bc50c07e94c6640f115e2e8ad1361596e5f9e7e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.09/SLPS_255.09_BG_02.png"
+      },
+      "gameId": "SLPS_255.09"
+    },
+    {
+      "path": "PS2/SLPS_255.09/SLPS_255.09_BG_03.png",
+      "kind": "background",
+      "bytes": 197401,
+      "width": 640,
+      "height": 480,
+      "sha256": "e9ad448ccca57a19e069457947e68a0ad6f9caef4366ca9400f5595ff0473720",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.09/SLPS_255.09_BG_03.png"
+      },
+      "gameId": "SLPS_255.09"
+    },
+    {
+      "path": "PS2/SLPS_255.09/SLPS_255.09_BG_04.png",
+      "kind": "background",
+      "bytes": 186141,
+      "width": 640,
+      "height": 480,
+      "sha256": "be47f5ce5843411968f71f751c78641c9b004afcb2307ded85f5971f71f23d44",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.09/SLPS_255.09_BG_04.png"
+      },
+      "gameId": "SLPS_255.09"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NeoGeo Online Collection Vol. 1: Garou: Mark of the Wolves"
+}

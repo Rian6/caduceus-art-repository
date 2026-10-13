@@ -1,0 +1,39 @@
+{
+  "id": "SLES_546.41",
+  "cover": {
+    "path": "PS2/SLES_546.41/SLES_546.41_COV.png",
+    "kind": "cover",
+    "bytes": 92920,
+    "width": 192,
+    "height": 272,
+    "sha256": "b6c712d2a7fa666fb34786fc6d95de90b2e56f0477cb633a93abade13e01364f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54641.jpg"
+    },
+    "gameId": "SLES_546.41"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.41/SLES_546.41_ICO.png",
+    "kind": "disc",
+    "bytes": 11715,
+    "width": 128,
+    "height": 128,
+    "sha256": "43a1a999a0c0955347cb65d65ee34b648fa057af0f5b645d5e11f747557cb1ae",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.41_ICO.png"
+    },
+    "gameId": "SLES_546.41"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "International Cricket Captain III"
+}

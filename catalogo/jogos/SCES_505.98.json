@@ -1,0 +1,51 @@
+{
+  "id": "SCES_505.98",
+  "cover": {
+    "path": "PS2/SCES_505.98/SCES_505.98_COV.png",
+    "kind": "cover",
+    "bytes": 80540,
+    "width": 192,
+    "height": 272,
+    "sha256": "de0f770cad3f623a2ecb3c84d83d641aa77491488f95c8894df3ba3c6a94c01c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50598.jpg"
+    },
+    "gameId": "SCES_505.98"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_505.98/SCES_505.98_BG.png",
+    "kind": "background",
+    "bytes": 195065,
+    "width": 640,
+    "height": 480,
+    "sha256": "26315f32ed821556d96a922a161e369e6b2249a21d83b0adf96a6706f76ca9bc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_505.98/SCES_505.98_BG_00.png"
+    },
+    "gameId": "SCES_505.98"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_505.98/SCES_505.98_BG.png",
+      "kind": "background",
+      "bytes": 195065,
+      "width": 640,
+      "height": 480,
+      "sha256": "26315f32ed821556d96a922a161e369e6b2249a21d83b0adf96a6706f76ca9bc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_505.98/SCES_505.98_BG_00.png"
+      },
+      "gameId": "SCES_505.98"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S PIXAR - MONSTERIT OY - SÄIKKYSAARI"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.26",
+  "cover": {
+    "path": "PS2/SLPS_252.26/SLPS_252.26_COV.png",
+    "kind": "cover",
+    "bytes": 105743,
+    "width": 192,
+    "height": 272,
+    "sha256": "e1b89f20eb675b04b620d8b5f3afa180a264d60421c229484c9b013dbf995fa2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25226.jpg"
+    },
+    "gameId": "SLPS_252.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEMORIES OFF DUET - 1ST AND 2ND STORIES"
+}

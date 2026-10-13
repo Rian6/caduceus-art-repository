@@ -1,0 +1,25 @@
+{
+  "id": "SLES_546.94",
+  "cover": {
+    "path": "PS2/SLES_546.94/SLES_546.94_COV.png",
+    "kind": "cover",
+    "bytes": 102591,
+    "width": 192,
+    "height": 272,
+    "sha256": "5865770b628d103b62ce8078a4fa331294556217702ce1d7095724352ca1abaf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54694.jpg"
+    },
+    "gameId": "SLES_546.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "K-1 World GP"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_192.53",
+  "cover": {
+    "path": "PS2/SCPS_192.53/SCPS_192.53_COV.png",
+    "kind": "cover",
+    "bytes": 89487,
+    "width": 192,
+    "height": 272,
+    "sha256": "db972efb9301de99dca02b082c05396f9beaad86675a4be2248e97a5c89fb195",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19253.jpg"
+    },
+    "gameId": "SCPS_192.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WILD ARMS - ALTER CODE F [PLAYSTATION 2 THE BEST REPRINT]"
+}

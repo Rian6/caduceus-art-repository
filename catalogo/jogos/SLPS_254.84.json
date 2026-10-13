@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.84",
+  "cover": {
+    "path": "PS2/SLPS_254.84/SLPS_254.84_COV.png",
+    "kind": "cover",
+    "bytes": 94989,
+    "width": 192,
+    "height": 272,
+    "sha256": "75ee329e5a2b10faed4ef9cece8e95cb6b81ae6493b1c995a671ad01f33d1a6a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25484.jpg"
+    },
+    "gameId": "SLPS_254.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SVC CHAOS - SNK VS CAPCOM [SNK BEST COLLECTION]"
+}

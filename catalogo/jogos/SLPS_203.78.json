@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.78",
+  "cover": {
+    "path": "PS2/SLPS_203.78/SLPS_203.78_COV.png",
+    "kind": "cover",
+    "bytes": 104765,
+    "width": 192,
+    "height": 272,
+    "sha256": "bb6dab9b206111358e16c19d35be0439e7acab2303388a5079028f062c2dd025",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20378.jpg"
+    },
+    "gameId": "SLPS_203.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Slotter Up Core 4 - Ton-chan Gekida! Jissen Pachi-Slot Ore-izm!!"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.22",
+  "cover": {
+    "path": "PS2/SCPS_150.22/SCPS_150.22_COV.png",
+    "kind": "cover",
+    "bytes": 109545,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc1a6bd0db99660c58ae683d8016a6ac8b481d2fb26c80c2eae6ca29f847b758",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15022.jpg"
+    },
+    "gameId": "SCPS_150.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DUAL HEARTS"
+}

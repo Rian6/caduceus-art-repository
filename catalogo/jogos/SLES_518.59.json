@@ -1,0 +1,65 @@
+{
+  "id": "SLES_518.59",
+  "cover": {
+    "path": "PS2/SLES_518.59/SLES_518.59_COV.png",
+    "kind": "cover",
+    "bytes": 87166,
+    "width": 192,
+    "height": 272,
+    "sha256": "83680f020ea75d366baed262025be02629bc380c2854c9d318b5fad7c59ed7be",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51859.jpg"
+    },
+    "gameId": "SLES_518.59"
+  },
+  "disc": {
+    "path": "PS2/SLES_518.59/SLES_518.59_ICO.png",
+    "kind": "disc",
+    "bytes": 9643,
+    "width": 128,
+    "height": 128,
+    "sha256": "d35bc3167c4a53d64a6b1c05be92829ad2e642839b17dc16b2b4b4d79c7f5f58",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_518.59_ICO.png"
+    },
+    "gameId": "SLES_518.59"
+  },
+  "background": {
+    "path": "PS2/SLES_518.59/SLES_518.59_BG.png",
+    "kind": "background",
+    "bytes": 115865,
+    "width": 640,
+    "height": 480,
+    "sha256": "314b528839ee8076c89a912d24f38ddd4df06d6357abc3224646054a146fa942",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.59/SLES_518.59_BG_00.png"
+    },
+    "gameId": "SLES_518.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.59/SLES_518.59_BG.png",
+      "kind": "background",
+      "bytes": 115865,
+      "width": 640,
+      "height": 480,
+      "sha256": "314b528839ee8076c89a912d24f38ddd4df06d6357abc3224646054a146fa942",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.59/SLES_518.59_BG_00.png"
+      },
+      "gameId": "SLES_518.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Billiards Xciting"
+}

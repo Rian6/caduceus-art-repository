@@ -1,0 +1,90 @@
+{
+  "id": "SCES_525.29",
+  "cover": {
+    "path": "PS2/SCES_525.29/SCES_525.29_COV.png",
+    "kind": "cover",
+    "bytes": 98908,
+    "width": 192,
+    "height": 272,
+    "sha256": "a9b9cd225ec5103a4de6a9ebfbefdc6355b79f98a5d0d1a3be0221f492584f7a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52529.jpg"
+    },
+    "gameId": "SCES_525.29"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_525.29/SCES_525.29_BG.png",
+    "kind": "background",
+    "bytes": 194139,
+    "width": 640,
+    "height": 480,
+    "sha256": "70a8c1c1f4eaefa7c9e500a7e951239c45ca09772a4f6bf9f025b5b21b995843",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_525.29/SCES_525.29_BG_00.png"
+    },
+    "gameId": "SCES_525.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_525.29/SCES_525.29_BG.png",
+      "kind": "background",
+      "bytes": 194139,
+      "width": 640,
+      "height": 480,
+      "sha256": "70a8c1c1f4eaefa7c9e500a7e951239c45ca09772a4f6bf9f025b5b21b995843",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_525.29/SCES_525.29_BG_00.png"
+      },
+      "gameId": "SCES_525.29"
+    },
+    {
+      "path": "PS2/SCES_525.29/SCES_525.29_BG_01.png",
+      "kind": "background",
+      "bytes": 103349,
+      "width": 640,
+      "height": 480,
+      "sha256": "470326721e74089f0f69485549794e9151804ac2a63a28120e4f59500a862f53",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_525.29/SCES_525.29_BG_01.png"
+      },
+      "gameId": "SCES_525.29"
+    },
+    {
+      "path": "PS2/SCES_525.29/SCES_525.29_BG_02.png",
+      "kind": "background",
+      "bytes": 108504,
+      "width": 640,
+      "height": 480,
+      "sha256": "1dfac6222e7402c746eaa4e17080d09ab8bb825adfa345c54fe67108952a9522",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_525.29/SCES_525.29_BG_02.png"
+      },
+      "gameId": "SCES_525.29"
+    },
+    {
+      "path": "PS2/SCES_525.29/SCES_525.29_BG_03.png",
+      "kind": "background",
+      "bytes": 178806,
+      "width": 640,
+      "height": 480,
+      "sha256": "6e881ee1186f34ad3417338c9cc2703fd5696b13ab1ca24fa0dab6cacd0c569b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_525.29/SCES_525.29_BG_03.png"
+      },
+      "gameId": "SCES_525.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLY 2 - BAND OF THIEVES"
+}

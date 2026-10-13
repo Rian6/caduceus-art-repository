@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.49",
+  "cover": {
+    "path": "PS2/SLPS_253.49/SLPS_253.49_COV.png",
+    "kind": "cover",
+    "bytes": 111486,
+    "width": 192,
+    "height": 272,
+    "sha256": "fd4cfb7ca9294cd9bbbe7d6e8787dc27d6c2a7bc41b5475384abde1cd7c700dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25349.jpg"
+    },
+    "gameId": "SLPS_253.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KOKORO NO TOBIRA"
+}

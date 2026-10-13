@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_214.47",
+  "cover": {
+    "path": "PS2/SLUS_214.47/SLUS_214.47_COV.png",
+    "kind": "cover",
+    "bytes": 97041,
+    "width": 192,
+    "height": 272,
+    "sha256": "f1d036e5f5aa13b05d9b2b5ef6d7ac4fc2544fda5600090d848c9999f7174fc4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21447.jpg"
+    },
+    "gameId": "SLUS_214.47"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.47/SLUS_214.47_ICO.png",
+    "kind": "disc",
+    "bytes": 31293,
+    "width": 256,
+    "height": 256,
+    "sha256": "b83186b40f26bc853f14f1dbfdcef42d510fd5ee5cc07a807bcee53389506410",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.47_ICO.png"
+    },
+    "gameId": "SLUS_214.47"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.47/SLUS_214.47_BG.png",
+    "kind": "background",
+    "bytes": 172041,
+    "width": 640,
+    "height": 480,
+    "sha256": "5484938ec7c0159242335ddc2733e24357e0feff80e6e90bbb200cb2eb76ce44",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.47/SLUS_214.47_BG_00.png"
+    },
+    "gameId": "SLUS_214.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.47/SLUS_214.47_BG.png",
+      "kind": "background",
+      "bytes": 172041,
+      "width": 640,
+      "height": 480,
+      "sha256": "5484938ec7c0159242335ddc2733e24357e0feff80e6e90bbb200cb2eb76ce44",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.47/SLUS_214.47_BG_00.png"
+      },
+      "gameId": "SLUS_214.47"
+    },
+    {
+      "path": "PS2/SLUS_214.47/SLUS_214.47_BG_01.png",
+      "kind": "background",
+      "bytes": 60314,
+      "width": 640,
+      "height": 480,
+      "sha256": "f0c3431d19cf0304550b9b2d552133bc5dbaab8fc7f1eeba61ef617a02e84872",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.47/SLUS_214.47_BG_01.png"
+      },
+      "gameId": "SLUS_214.47"
+    },
+    {
+      "path": "PS2/SLUS_214.47/SLUS_214.47_BG_02.png",
+      "kind": "background",
+      "bytes": 146795,
+      "width": 640,
+      "height": 480,
+      "sha256": "608843caa28d31b50e097274fb5b507b553b03ca9f55d4fa4c9913e01756763c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.47/SLUS_214.47_BG_02.png"
+      },
+      "gameId": "SLUS_214.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guitar Hero II"
+}

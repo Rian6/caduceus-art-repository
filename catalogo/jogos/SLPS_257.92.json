@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.92",
+  "cover": {
+    "path": "PS2/SLPS_257.92/SLPS_257.92_COV.png",
+    "kind": "cover",
+    "bytes": 97851,
+    "width": 192,
+    "height": 272,
+    "sha256": "520d085270e12979d29d42f2a17e9ff74c4ae2cf23492df3f681442b1f25508e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25792.jpg"
+    },
+    "gameId": "SLPS_257.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BAKUMATSU ROMAN - GEKKA NO KENSHI 1-2 [SNK BEST COLLECTION]"
+}

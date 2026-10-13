@@ -1,0 +1,39 @@
+{
+  "id": "SLPS_259.78",
+  "cover": {
+    "path": "PS2/SLPS_259.78/SLPS_259.78_COV.png",
+    "kind": "cover",
+    "bytes": 113622,
+    "width": 192,
+    "height": 272,
+    "sha256": "d3e8294acdba94858e1102b074092ba5a70c65a1b75f1d2e3e3abc8cb5521f12",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25978.jpg"
+    },
+    "gameId": "SLPS_259.78"
+  },
+  "disc": {
+    "path": "PS2/SLPS_259.78/SLPS_259.78_ICO.png",
+    "kind": "disc",
+    "bytes": 10972,
+    "width": 128,
+    "height": 128,
+    "sha256": "603c2f3003f4b974d234168c490c70c5a83f8f35012d4cb8bbe87dcd601d005f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_259.78_ICO.png"
+    },
+    "gameId": "SLPS_259.78"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Master of Monsters Final EX"
+}

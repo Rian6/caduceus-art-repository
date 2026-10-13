@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.99",
+  "cover": {
+    "path": "PS2/SLPS_202.99/SLPS_202.99_COV.png",
+    "kind": "cover",
+    "bytes": 91208,
+    "width": 192,
+    "height": 272,
+    "sha256": "abf10daa944fa4975f8fcbcd55ad2a79fe05162fff57aae7a2b5abb618198ff1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20299.jpg"
+    },
+    "gameId": "SLPS_202.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Black Matrix 2 (Best-ban)"
+}

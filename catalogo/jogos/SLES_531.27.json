@@ -1,0 +1,104 @@
+{
+  "id": "SLES_531.27",
+  "cover": {
+    "path": "PS2/SLES_531.27/SLES_531.27_COV.png",
+    "kind": "cover",
+    "bytes": 105488,
+    "width": 192,
+    "height": 272,
+    "sha256": "b998c62d91f7074e07f8745a022fd76ee337d23e62411620b92ab81d9009ddd1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53127.jpg"
+    },
+    "gameId": "SLES_531.27"
+  },
+  "disc": {
+    "path": "PS2/SLES_531.27/SLES_531.27_ICO.png",
+    "kind": "disc",
+    "bytes": 10654,
+    "width": 128,
+    "height": 128,
+    "sha256": "4b2e5762e386fb1a7d3dde0837754c65cf2496cedfdefba83339dfc199e83a04",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_531.27_ICO.png"
+    },
+    "gameId": "SLES_531.27"
+  },
+  "background": {
+    "path": "PS2/SLES_531.27/SLES_531.27_BG.png",
+    "kind": "background",
+    "bytes": 179593,
+    "width": 640,
+    "height": 480,
+    "sha256": "c7d0827c422e782a5845c2d4d2be02436a35314655498e5b545d80852fd4be8d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.27/SLES_531.27_BG_00.png"
+    },
+    "gameId": "SLES_531.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.27/SLES_531.27_BG.png",
+      "kind": "background",
+      "bytes": 179593,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7d0827c422e782a5845c2d4d2be02436a35314655498e5b545d80852fd4be8d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.27/SLES_531.27_BG_00.png"
+      },
+      "gameId": "SLES_531.27"
+    },
+    {
+      "path": "PS2/SLES_531.27/SLES_531.27_BG_01.png",
+      "kind": "background",
+      "bytes": 127368,
+      "width": 640,
+      "height": 480,
+      "sha256": "c18bd114bbebed3475b1243a4010d7d4c35bf5a259e87f7911064ed7b98d92c4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.27/SLES_531.27_BG_01.png"
+      },
+      "gameId": "SLES_531.27"
+    },
+    {
+      "path": "PS2/SLES_531.27/SLES_531.27_BG_02.png",
+      "kind": "background",
+      "bytes": 200793,
+      "width": 640,
+      "height": 480,
+      "sha256": "d21eac97843cd56d76205d30162fd01bac77906a4b9326ecf52e6c3c470f123a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.27/SLES_531.27_BG_02.png"
+      },
+      "gameId": "SLES_531.27"
+    },
+    {
+      "path": "PS2/SLES_531.27/SLES_531.27_BG_03.png",
+      "kind": "background",
+      "bytes": 121064,
+      "width": 640,
+      "height": 480,
+      "sha256": "2466d809e40288241d683cdf44c0feedb50af1a1dc98b10ef9de9182ea0e7460",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.27/SLES_531.27_BG_03.png"
+      },
+      "gameId": "SLES_531.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TMNT: Mutant Melee"
+}

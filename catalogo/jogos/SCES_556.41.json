@@ -1,0 +1,64 @@
+{
+  "id": "SCES_556.41",
+  "cover": {
+    "path": "PS2/SCES_556.41/SCES_556.41_COV.png",
+    "kind": "cover",
+    "bytes": 87898,
+    "width": 192,
+    "height": 272,
+    "sha256": "0f977d1dc7855d6a68b7a66dcd13c4b393266f49b31ebd9f28d8fe807f891c2d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55641.jpg"
+    },
+    "gameId": "SCES_556.41"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_556.41/SCES_556.41_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_556.41/SCES_556.41_BG_00.png"
+    },
+    "gameId": "SCES_556.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_556.41/SCES_556.41_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_556.41/SCES_556.41_BG_00.png"
+      },
+      "gameId": "SCES_556.41"
+    },
+    {
+      "path": "PS2/SCES_556.41/SCES_556.41_BG_01.png",
+      "kind": "background",
+      "bytes": 162329,
+      "width": 640,
+      "height": 480,
+      "sha256": "cea1eca5ea13bfe02464277de03153e222b3399e69a21ff06f645e4eabf6ac0d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_556.41/SCES_556.41_BG_01.png"
+      },
+      "gameId": "SCES_556.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Apre-Sky Party 2"
+}

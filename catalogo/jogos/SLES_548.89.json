@@ -1,0 +1,65 @@
+{
+  "id": "SLES_548.89",
+  "cover": {
+    "path": "PS2/SLES_548.89/SLES_548.89_COV.png",
+    "kind": "cover",
+    "bytes": 93880,
+    "width": 192,
+    "height": 272,
+    "sha256": "dff10503857d885fa2cf53dea591968aa17b540d841eacaf5f00e61157c83c14",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54889.jpg"
+    },
+    "gameId": "SLES_548.89"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.89/SLES_548.89_ICO.png",
+    "kind": "disc",
+    "bytes": 12612,
+    "width": 128,
+    "height": 128,
+    "sha256": "cf179a9d3dbde7d03ae5606e5e02a93870aead32fe867db8cc49d41da1d1891a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.89_ICO.png"
+    },
+    "gameId": "SLES_548.89"
+  },
+  "background": {
+    "path": "PS2/SLES_548.89/SLES_548.89_BG.png",
+    "kind": "background",
+    "bytes": 217363,
+    "width": 640,
+    "height": 480,
+    "sha256": "9d75d05b5776f799174d6fc52b88216445bbddb4392f324be690b403e7e40ea8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.89/SLES_548.89_BG_00.png"
+    },
+    "gameId": "SLES_548.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.89/SLES_548.89_BG.png",
+      "kind": "background",
+      "bytes": 217363,
+      "width": 640,
+      "height": 480,
+      "sha256": "9d75d05b5776f799174d6fc52b88216445bbddb4392f324be690b403e7e40ea8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.89/SLES_548.89_BG_00.png"
+      },
+      "gameId": "SLES_548.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SWAT Siege"
+}

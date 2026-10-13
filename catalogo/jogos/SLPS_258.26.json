@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.26",
+  "cover": {
+    "path": "PS2/SLPS_258.26/SLPS_258.26_COV.png",
+    "kind": "cover",
+    "bytes": 76924,
+    "width": 192,
+    "height": 272,
+    "sha256": "175fb9c41573d55548d0f259e8615b30b8a86b071bcf4da8acae4841eb319abd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25826.jpg"
+    },
+    "gameId": "SLPS_258.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "My Home o Tsukurou! 2 - Juujitsu! Kantan Sekkei!! (Best Collection)"
+}

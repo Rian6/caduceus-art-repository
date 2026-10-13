@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.88",
+  "cover": {
+    "path": "PS2/SLPS_202.88/SLPS_202.88_COV.png",
+    "kind": "cover",
+    "bytes": 100445,
+    "width": 192,
+    "height": 272,
+    "sha256": "0be830afed86d5de33cae833655fc55d55820ba7d38d22f98604e5eed3979ba6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20288.jpg"
+    },
+    "gameId": "SLPS_202.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saikyo Todai Shogi 2003"
+}

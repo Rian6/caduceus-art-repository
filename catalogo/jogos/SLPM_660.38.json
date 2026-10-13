@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.38",
+  "cover": {
+    "path": "PS2/SLPM_660.38/SLPM_660.38_COV.png",
+    "kind": "cover",
+    "bytes": 85650,
+    "width": 192,
+    "height": 272,
+    "sha256": "09dc3896f7714ea1cb6a2d4e5e91dbda5cda0f3347dc733300f1debc52a60c88",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66038.jpg"
+    },
+    "gameId": "SLPM_660.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Georama Sensenjou Nashi"
+}

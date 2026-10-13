@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_624.53",
+  "cover": {
+    "path": "PS2/SLPM_624.53/SLPM_624.53_COV.png",
+    "kind": "cover",
+    "bytes": 89002,
+    "width": 192,
+    "height": 272,
+    "sha256": "4349182c70bf0a568c21afd0214bc0c8585edfb474b57c4a85206033bf5cd3df",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62453.jpg"
+    },
+    "gameId": "SLPM_624.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.53/SLPM_624.53_BG.png",
+    "kind": "background",
+    "bytes": 190599,
+    "width": 640,
+    "height": 480,
+    "sha256": "511939146925e92999823f2cbbe45b5813d39924d2550528b6b99a4604427e15",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.53/SLPM_624.53_BG_00.png"
+    },
+    "gameId": "SLPM_624.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.53/SLPM_624.53_BG.png",
+      "kind": "background",
+      "bytes": 190599,
+      "width": 640,
+      "height": 480,
+      "sha256": "511939146925e92999823f2cbbe45b5813d39924d2550528b6b99a4604427e15",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.53/SLPM_624.53_BG_00.png"
+      },
+      "gameId": "SLPM_624.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "G-Taste Mahjong (Psikyo Best)"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_541.74",
+  "cover": {
+    "path": "PS2/SLES_541.74/SLES_541.74_COV.png",
+    "kind": "cover",
+    "bytes": 107281,
+    "width": 192,
+    "height": 272,
+    "sha256": "9a0aca99b44fddc4a9c5c2445bd16002d07131e7eadb0c2a9c7185ba1280b5de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54174.jpg"
+    },
+    "gameId": "SLES_541.74"
+  },
+  "disc": {
+    "path": "PS2/SLES_541.74/SLES_541.74_ICO.png",
+    "kind": "disc",
+    "bytes": 10562,
+    "width": 128,
+    "height": 128,
+    "sha256": "1b9de60c9390db6465d284d8924d9ce111ee2bd97a2bf5a0db096d79d9f164ee",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_541.74_ICO.png"
+    },
+    "gameId": "SLES_541.74"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZooCube"
+}

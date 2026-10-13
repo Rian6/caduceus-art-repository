@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.52",
+  "cover": {
+    "path": "PS2/SLPS_256.52/SLPS_256.52_COV.png",
+    "kind": "cover",
+    "bytes": 110992,
+    "width": 192,
+    "height": 272,
+    "sha256": "93fc733317d3b85a0ccda8e10cc710f24d425aa216d2541692791ba38664c407",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25652.jpg"
+    },
+    "gameId": "SLPS_256.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dot Hack G.U. Terminal Disc: The End of the World"
+}

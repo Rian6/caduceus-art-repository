@@ -1,0 +1,39 @@
+{
+  "id": "SLES_523.71",
+  "cover": {
+    "path": "PS2/SLES_523.71/SLES_523.71_COV.png",
+    "kind": "cover",
+    "bytes": 109156,
+    "width": 192,
+    "height": 272,
+    "sha256": "e9835f055a31747ca259e60a3369ed246974ffaa3d1d08f1a1c38f49300a77b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52371.jpg"
+    },
+    "gameId": "SLES_523.71"
+  },
+  "disc": {
+    "path": "PS2/SLES_523.71/SLES_523.71_ICO.png",
+    "kind": "disc",
+    "bytes": 10565,
+    "width": 128,
+    "height": 128,
+    "sha256": "c729b7b3d7b12a4203468f733a3e136d58f0ebe43031685414f26bb8f0d99fde",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_523.71_ICO.png"
+    },
+    "gameId": "SLES_523.71"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Animal World Soccer"
+}

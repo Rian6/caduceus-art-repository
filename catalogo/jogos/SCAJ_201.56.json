@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.56",
+  "cover": {
+    "path": "PS2/SCAJ_201.56/SCAJ_201.56_COV.png",
+    "kind": "cover",
+    "bytes": 87428,
+    "width": 192,
+    "height": 272,
+    "sha256": "6fd2f20b3d6ef39b6c1de259b3d6131787204903a91002c43ba0f382a4894376",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20156.jpg"
+    },
+    "gameId": "SCAJ_201.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gallop Racer 8 - Live Horse Racing"
+}

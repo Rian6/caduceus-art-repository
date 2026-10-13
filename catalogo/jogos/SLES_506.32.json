@@ -1,0 +1,25 @@
+{
+  "id": "SLES_506.32",
+  "cover": {
+    "path": "PS2/SLES_506.32/SLES_506.32_COV.png",
+    "kind": "cover",
+    "bytes": 96293,
+    "width": 192,
+    "height": 272,
+    "sha256": "6735731e58e72e3194f4de7d6b93aa6bde27195abf1d430eb74c380ea88ebf7d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50632.jpg"
+    },
+    "gameId": "SLES_506.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Rage"
+}

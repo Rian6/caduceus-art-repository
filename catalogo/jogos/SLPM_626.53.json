@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.53",
+  "cover": {
+    "path": "PS2/SLPM_626.53/SLPM_626.53_COV.png",
+    "kind": "cover",
+    "bytes": 102380,
+    "width": 192,
+    "height": 272,
+    "sha256": "04055473ae336322be0b82aa1936d07972abdbf8fadd0375b474ebcdc64eb615",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62653.jpg"
+    },
+    "gameId": "SLPM_626.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Psikyo Shooting Collection Vol.1 - Strikers 1945 1&2 (Taito The Best)"
+}

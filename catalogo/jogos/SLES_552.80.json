@@ -1,0 +1,90 @@
+{
+  "id": "SLES_552.80",
+  "cover": {
+    "path": "PS2/SLES_552.80/SLES_552.80_COV.png",
+    "kind": "cover",
+    "bytes": 103921,
+    "width": 192,
+    "height": 272,
+    "sha256": "76df6e802c405c694adc123cd6d4147b292013037d8a2d1d4e92b2530fd7448c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55280.jpg"
+    },
+    "gameId": "SLES_552.80"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_552.80/SLES_552.80_BG.png",
+    "kind": "background",
+    "bytes": 203939,
+    "width": 640,
+    "height": 480,
+    "sha256": "00b4a4619baa05b6fd3dc86c6d87d967bd3443fafb87cbb92c03023d70d5f19e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_552.80/SLES_552.80_BG_00.png"
+    },
+    "gameId": "SLES_552.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_552.80/SLES_552.80_BG.png",
+      "kind": "background",
+      "bytes": 203939,
+      "width": 640,
+      "height": 480,
+      "sha256": "00b4a4619baa05b6fd3dc86c6d87d967bd3443fafb87cbb92c03023d70d5f19e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.80/SLES_552.80_BG_00.png"
+      },
+      "gameId": "SLES_552.80"
+    },
+    {
+      "path": "PS2/SLES_552.80/SLES_552.80_BG_01.png",
+      "kind": "background",
+      "bytes": 157898,
+      "width": 640,
+      "height": 480,
+      "sha256": "57d02279fbd03e5aef6239efe188638c295be5334f260282dcd39423c3744130",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.80/SLES_552.80_BG_01.png"
+      },
+      "gameId": "SLES_552.80"
+    },
+    {
+      "path": "PS2/SLES_552.80/SLES_552.80_BG_02.png",
+      "kind": "background",
+      "bytes": 211568,
+      "width": 640,
+      "height": 480,
+      "sha256": "2b9d962a7d07da80359c1f5f776c4ee5c65ebe4a7eaa0a76a1f7bccfd6710570",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.80/SLES_552.80_BG_02.png"
+      },
+      "gameId": "SLES_552.80"
+    },
+    {
+      "path": "PS2/SLES_552.80/SLES_552.80_BG_03.png",
+      "kind": "background",
+      "bytes": 144779,
+      "width": 640,
+      "height": 480,
+      "sha256": "9388095345ddd40933d8d619c8c47d23923f14ae06d495833426c44f52b93f20",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.80/SLES_552.80_BG_03.png"
+      },
+      "gameId": "SLES_552.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters '98: Ultimate Match"
+}

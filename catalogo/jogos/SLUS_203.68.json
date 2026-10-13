@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_203.68",
+  "cover": {
+    "path": "PS2/SLUS_203.68/SLUS_203.68_COV.png",
+    "kind": "cover",
+    "bytes": 97695,
+    "width": 192,
+    "height": 272,
+    "sha256": "801936d06db2c9a8586fc495122cf1235e0e02574dc9b9ea142e8bfe0dc4859f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20368.jpg"
+    },
+    "gameId": "SLUS_203.68"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.68/SLUS_203.68_ICO.png",
+    "kind": "disc",
+    "bytes": 32384,
+    "width": 256,
+    "height": 256,
+    "sha256": "4560c1d607fb271d6801a181d15a6807bba22619f703b895d7c6ffc17817d29f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.68_ICO.png"
+    },
+    "gameId": "SLUS_203.68"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.68/SLUS_203.68_BG.png",
+    "kind": "background",
+    "bytes": 161838,
+    "width": 640,
+    "height": 480,
+    "sha256": "ba0e05ba35eb9f394c8f53277312c944ebeeb6fd79fb4a6c9f1c9d4d91801a8b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.68/SLUS_203.68_BG_00.png"
+    },
+    "gameId": "SLUS_203.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.68/SLUS_203.68_BG.png",
+      "kind": "background",
+      "bytes": 161838,
+      "width": 640,
+      "height": 480,
+      "sha256": "ba0e05ba35eb9f394c8f53277312c944ebeeb6fd79fb4a6c9f1c9d4d91801a8b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.68/SLUS_203.68_BG_00.png"
+      },
+      "gameId": "SLUS_203.68"
+    },
+    {
+      "path": "PS2/SLUS_203.68/SLUS_203.68_BG_01.png",
+      "kind": "background",
+      "bytes": 192676,
+      "width": 640,
+      "height": 480,
+      "sha256": "ed61276d7bd5bcb34d093b77ffbe1273e274954546b88d70b59dca9079acf25a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.68/SLUS_203.68_BG_01.png"
+      },
+      "gameId": "SLUS_203.68"
+    },
+    {
+      "path": "PS2/SLUS_203.68/SLUS_203.68_BG_02.png",
+      "kind": "background",
+      "bytes": 167286,
+      "width": 640,
+      "height": 480,
+      "sha256": "76b90f84911e471a4f2b1d8d05c972a0771b61f65b2d27a5a0faa0d12b7a0316",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.68/SLUS_203.68_BG_02.png"
+      },
+      "gameId": "SLUS_203.68"
+    },
+    {
+      "path": "PS2/SLUS_203.68/SLUS_203.68_BG_03.png",
+      "kind": "background",
+      "bytes": 210993,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e1e1f07c9f7898a626e70eab740d7af5e0945103deb1da16ef787eba01a1fe0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.68/SLUS_203.68_BG_03.png"
+      },
+      "gameId": "SLUS_203.68"
+    },
+    {
+      "path": "PS2/SLUS_203.68/SLUS_203.68_BG_04.png",
+      "kind": "background",
+      "bytes": 179670,
+      "width": 640,
+      "height": 480,
+      "sha256": "174e7893ced671a17dd9551b114bccf93045baf2e2706484725e2daf3a1fc183",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.68/SLUS_203.68_BG_04.png"
+      },
+      "gameId": "SLUS_203.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Medal of Honor: Frontline"
+}

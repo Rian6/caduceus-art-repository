@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.33",
+  "cover": {
+    "path": "PS2/SLPM_621.33/SLPM_621.33_COV.png",
+    "kind": "cover",
+    "bytes": 89849,
+    "width": 192,
+    "height": 272,
+    "sha256": "77920e3b7da283716d52b04ed1904ce382648350228c18e871f30fd0ef2bb74a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62133.jpg"
+    },
+    "gameId": "SLPM_621.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BLOODY ROAR 3 [HUDSON THE BEST]"
+}

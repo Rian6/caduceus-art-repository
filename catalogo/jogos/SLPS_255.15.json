@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.15",
+  "cover": {
+    "path": "PS2/SLPS_255.15/SLPS_255.15_COV.png",
+    "kind": "cover",
+    "bytes": 98791,
+    "width": 192,
+    "height": 272,
+    "sha256": "8b42a03d07dc20ef4d6bcc49b2a1840424b510eb2d2244c17a527f5cbe4e1e5d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25515.jpg"
+    },
+    "gameId": "SLPS_255.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FUTAKOI ALTERNATIVE [LIMITED EDITION]"
+}

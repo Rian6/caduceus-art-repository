@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.29",
+  "cover": {
+    "path": "PS2/SLKA_251.29/SLKA_251.29_COV.png",
+    "kind": "cover",
+    "bytes": 91101,
+    "width": 192,
+    "height": 272,
+    "sha256": "c345fcb5e75e3b3014c32fe3b7d571b4cf3ef2d7dececc44287b74cdd3814bc9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25129.jpg"
+    },
+    "gameId": "SLKA_251.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007 - EVERYTHING OR NOTHING"
+}

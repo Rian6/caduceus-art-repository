@@ -1,0 +1,51 @@
+{
+  "id": "SLES_519.89",
+  "cover": {
+    "path": "PS2/SLES_519.89/SLES_519.89_COV.png",
+    "kind": "cover",
+    "bytes": 100091,
+    "width": 192,
+    "height": 272,
+    "sha256": "331b9f9773fb7df7b6b64343217c0e7fefabeebfacbd51b3ccc9bac81aa68556",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51989.jpg"
+    },
+    "gameId": "SLES_519.89"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_519.89/SLES_519.89_BG.png",
+    "kind": "background",
+    "bytes": 188049,
+    "width": 640,
+    "height": 480,
+    "sha256": "aa999c1cb025b306eec3db85ec0dc3e5f266fd1e0621380b0f9f1d5844f67d8e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.89/SLES_519.89_BG_00.png"
+    },
+    "gameId": "SLES_519.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.89/SLES_519.89_BG.png",
+      "kind": "background",
+      "bytes": 188049,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa999c1cb025b306eec3db85ec0dc3e5f266fd1e0621380b0f9f1d5844f67d8e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.89/SLES_519.89_BG_00.png"
+      },
+      "gameId": "SLES_519.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WALLACE & GROMIT IN PROJECT ZOO"
+}

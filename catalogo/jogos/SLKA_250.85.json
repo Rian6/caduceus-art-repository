@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_250.85",
+  "cover": {
+    "path": "PS2/SLKA_250.85/SLKA_250.85_COV.png",
+    "kind": "cover",
+    "bytes": 55203,
+    "width": 192,
+    "height": 272,
+    "sha256": "29d524f8b202058b1681f7954ecf21c6e0fb480f4ec83f65d1447c5ede524e84",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.85/SLKA_250.85_COV.png"
+    },
+    "gameId": "SLKA_250.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_250.85/SLKA_250.85_BG.png",
+    "kind": "background",
+    "bytes": 161930,
+    "width": 640,
+    "height": 480,
+    "sha256": "8f59e9d5759299adf04dc1273060b29d47e841d1b47e237da9d08fd815723fb4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.85/SLKA_250.85_BG_00.png"
+    },
+    "gameId": "SLKA_250.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_250.85/SLKA_250.85_BG.png",
+      "kind": "background",
+      "bytes": 161930,
+      "width": 640,
+      "height": 480,
+      "sha256": "8f59e9d5759299adf04dc1273060b29d47e841d1b47e237da9d08fd815723fb4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.85/SLKA_250.85_BG_00.png"
+      },
+      "gameId": "SLKA_250.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 3  - Mushouden"
+}

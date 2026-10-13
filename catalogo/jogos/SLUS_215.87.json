@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_215.87",
+  "cover": {
+    "path": "PS2/SLUS_215.87/SLUS_215.87_COV.png",
+    "kind": "cover",
+    "bytes": 85563,
+    "width": 192,
+    "height": 272,
+    "sha256": "ac8fdb92c3478760d0960c928ac091a40b3f3618f065bf8e5968c7665578c919",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21587.jpg"
+    },
+    "gameId": "SLUS_215.87"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.87/SLUS_215.87_ICO.png",
+    "kind": "disc",
+    "bytes": 33528,
+    "width": 256,
+    "height": 256,
+    "sha256": "5decf6c87ec887896f678faf5f02d2298ccb3f13587830a3617fb49700a2948c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.87_ICO.png"
+    },
+    "gameId": "SLUS_215.87"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.87/SLUS_215.87_BG.png",
+    "kind": "background",
+    "bytes": 128845,
+    "width": 640,
+    "height": 480,
+    "sha256": "a61bc561f2fd710109e268d19b2c1ff8991440152eccad1c6982ee88f4085254",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.87/SLUS_215.87_BG_00.png"
+    },
+    "gameId": "SLUS_215.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.87/SLUS_215.87_BG.png",
+      "kind": "background",
+      "bytes": 128845,
+      "width": 640,
+      "height": 480,
+      "sha256": "a61bc561f2fd710109e268d19b2c1ff8991440152eccad1c6982ee88f4085254",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.87/SLUS_215.87_BG_00.png"
+      },
+      "gameId": "SLUS_215.87"
+    },
+    {
+      "path": "PS2/SLUS_215.87/SLUS_215.87_BG_01.png",
+      "kind": "background",
+      "bytes": 208164,
+      "width": 640,
+      "height": 480,
+      "sha256": "492185c0360f7308949af31f80701aaf37cb2e11170c1d918a70a3b351c4f1d2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.87/SLUS_215.87_BG_01.png"
+      },
+      "gameId": "SLUS_215.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Made Man: Confessions of the Family Blood"
+}

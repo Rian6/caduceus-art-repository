@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.94",
+  "cover": {
+    "path": "PS2/SLPM_656.94/SLPM_656.94_COV.png",
+    "kind": "cover",
+    "bytes": 82926,
+    "width": 192,
+    "height": 272,
+    "sha256": "48dbaf0209cebe5ac9650a4095053fdb69aac4970d7d011e3c26abb1e0d98f66",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65694.jpg"
+    },
+    "gameId": "SLPM_656.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Genso Suikoden III (Konami Dendou Collection)"
+}

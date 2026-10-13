@@ -1,0 +1,51 @@
+{
+  "id": "SLES_509.22",
+  "cover": {
+    "path": "PS2/SLES_509.22/SLES_509.22_COV.png",
+    "kind": "cover",
+    "bytes": 88176,
+    "width": 192,
+    "height": 272,
+    "sha256": "b57b3b585f084f6d61239b5dbf35bf7cfd794f029f3dc63ff4bcf06cf556a49b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50922.jpg"
+    },
+    "gameId": "SLES_509.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_509.22/SLES_509.22_BG.png",
+    "kind": "background",
+    "bytes": 71321,
+    "width": 640,
+    "height": 480,
+    "sha256": "b1576f6426de1deb466af8bbbdc67243d1fbcaf472fb4d3f936b265dbffd02cf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_509.22/SLES_509.22_BG_00.png"
+    },
+    "gameId": "SLES_509.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_509.22/SLES_509.22_BG.png",
+      "kind": "background",
+      "bytes": 71321,
+      "width": 640,
+      "height": 480,
+      "sha256": "b1576f6426de1deb466af8bbbdc67243d1fbcaf472fb4d3f936b265dbffd02cf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.22/SLES_509.22_BG_00.png"
+      },
+      "gameId": "SLES_509.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Terminator - Dawn of Fate"
+}

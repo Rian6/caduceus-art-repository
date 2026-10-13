@@ -1,0 +1,90 @@
+{
+  "id": "SLES_519.76",
+  "cover": {
+    "path": "PS2/SLES_519.76/SLES_519.76_COV.png",
+    "kind": "cover",
+    "bytes": 114845,
+    "width": 192,
+    "height": 272,
+    "sha256": "9ef48faac8952c77d0a09158af58947f1b8637c2d286ffc1a91e1cea63469336",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51976.jpg"
+    },
+    "gameId": "SLES_519.76"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_519.76/SLES_519.76_BG.png",
+    "kind": "background",
+    "bytes": 184862,
+    "width": 640,
+    "height": 480,
+    "sha256": "8f41e3c84a7a9c474b17a775679794d132d3646722aa063a4f698ecc4b6ffdaa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.76/SLES_519.76_BG_00.png"
+    },
+    "gameId": "SLES_519.76"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.76/SLES_519.76_BG.png",
+      "kind": "background",
+      "bytes": 184862,
+      "width": 640,
+      "height": 480,
+      "sha256": "8f41e3c84a7a9c474b17a775679794d132d3646722aa063a4f698ecc4b6ffdaa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.76/SLES_519.76_BG_00.png"
+      },
+      "gameId": "SLES_519.76"
+    },
+    {
+      "path": "PS2/SLES_519.76/SLES_519.76_BG_01.png",
+      "kind": "background",
+      "bytes": 209166,
+      "width": 640,
+      "height": 480,
+      "sha256": "b3b1badcae0caaa314b453f805c762303faaf0a9d0d6e07b70b51049601bf437",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.76/SLES_519.76_BG_01.png"
+      },
+      "gameId": "SLES_519.76"
+    },
+    {
+      "path": "PS2/SLES_519.76/SLES_519.76_BG_02.png",
+      "kind": "background",
+      "bytes": 180782,
+      "width": 640,
+      "height": 480,
+      "sha256": "5ffd9542eff24033557cef3cb469e84eff49d9c20746d1add278a2f9d387746e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.76/SLES_519.76_BG_02.png"
+      },
+      "gameId": "SLES_519.76"
+    },
+    {
+      "path": "PS2/SLES_519.76/SLES_519.76_BG_03.png",
+      "kind": "background",
+      "bytes": 228577,
+      "width": 640,
+      "height": 480,
+      "sha256": "f24e5510b9d5597a75f76c5c59ad9cdfbf673a93a5d1386ec3ff81eb545f86a4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.76/SLES_519.76_BG_03.png"
+      },
+      "gameId": "SLES_519.76"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Ghost Recon - Jungle Storm"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.45",
+  "cover": {
+    "path": "PS2/SLPM_657.45/SLPM_657.45_COV.png",
+    "kind": "cover",
+    "bytes": 81497,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc1a1725855397cb77c38faa1369196ba4fb6bfd776cab4b8cbefd04563cc2ed",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65745.jpg"
+    },
+    "gameId": "SLPM_657.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOKIMEKI MEMORIAL GIRL'S SIDE [KONAMI DENDOU COLLECTION]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_250.45",
+  "cover": {
+    "path": "PS2/SCAJ_250.45/SCAJ_250.45_COV.png",
+    "kind": "cover",
+    "bytes": 94661,
+    "width": 192,
+    "height": 272,
+    "sha256": "93398aafb1bc40e452e7c352abd9c648eac1c8e8815cb3ae12093d1b89316314",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-25045.jpg"
+    },
+    "gameId": "SCAJ_250.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sakura Taisen V - Episode 0 - Kouya no Samurai Musume"
+}

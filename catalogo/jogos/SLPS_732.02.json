@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.02",
+  "cover": {
+    "path": "PS2/SLPS_732.02/SLPS_732.02_COV.png",
+    "kind": "cover",
+    "bytes": 69361,
+    "width": 192,
+    "height": 272,
+    "sha256": "b6fb52afcb71e2df29c1e7c293ecf6e4655d7d546bd77ad2820ff1aa2c1791d7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73202.jpg"
+    },
+    "gameId": "SLPS_732.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core - Nexus (Playstation 2 The Best)"
+}

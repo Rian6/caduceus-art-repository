@@ -1,0 +1,143 @@
+{
+  "id": "SLUS_209.63",
+  "cover": {
+    "path": "PS2/SLUS_209.63/SLUS_209.63_COV.png",
+    "kind": "cover",
+    "bytes": 103480,
+    "width": 192,
+    "height": 272,
+    "sha256": "e3972ab99719a59b41233141b8fc0cbe0aeb2e16b044f5900a82d6095559667a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20963.jpg"
+    },
+    "gameId": "SLUS_209.63"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.63/SLUS_209.63_ICO.png",
+    "kind": "disc",
+    "bytes": 33165,
+    "width": 256,
+    "height": 256,
+    "sha256": "b85295997cf0a97870417dba4f53a0cadd79f5cbac57da9b03c8652e44af6a5e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.63_ICO.png"
+    },
+    "gameId": "SLUS_209.63"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.63/SLUS_209.63_BG.png",
+    "kind": "background",
+    "bytes": 287442,
+    "width": 640,
+    "height": 480,
+    "sha256": "bdeed6cef3592a8c97abeca2df4de5be19e76ee46f88880a9ceb03241ac7fbf6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.63/SLUS_209.63_BG_00.png"
+    },
+    "gameId": "SLUS_209.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.63/SLUS_209.63_BG.png",
+      "kind": "background",
+      "bytes": 287442,
+      "width": 640,
+      "height": 480,
+      "sha256": "bdeed6cef3592a8c97abeca2df4de5be19e76ee46f88880a9ceb03241ac7fbf6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.63/SLUS_209.63_BG_00.png"
+      },
+      "gameId": "SLUS_209.63"
+    },
+    {
+      "path": "PS2/SLUS_209.63/SLUS_209.63_BG_01.png",
+      "kind": "background",
+      "bytes": 215691,
+      "width": 640,
+      "height": 480,
+      "sha256": "3b5123c8decc80f6170ced6c06bd3591891acae518b84dcda73106a768232b70",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.63/SLUS_209.63_BG_01.png"
+      },
+      "gameId": "SLUS_209.63"
+    },
+    {
+      "path": "PS2/SLUS_209.63/SLUS_209.63_BG_02.png",
+      "kind": "background",
+      "bytes": 185664,
+      "width": 640,
+      "height": 480,
+      "sha256": "348f24622a5a8227e7b73c90d0ed3cf79d53ad165e0e490a743e409c4ce6e786",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.63/SLUS_209.63_BG_02.png"
+      },
+      "gameId": "SLUS_209.63"
+    },
+    {
+      "path": "PS2/SLUS_209.63/SLUS_209.63_BG_03.png",
+      "kind": "background",
+      "bytes": 204528,
+      "width": 640,
+      "height": 480,
+      "sha256": "0f28ffe976050808fe6e4b5d8afe86bea917f73f51864ef9881248cc15216391",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.63/SLUS_209.63_BG_03.png"
+      },
+      "gameId": "SLUS_209.63"
+    },
+    {
+      "path": "PS2/SLUS_209.63/SLUS_209.63_BG_04.png",
+      "kind": "background",
+      "bytes": 227610,
+      "width": 640,
+      "height": 480,
+      "sha256": "3521b79af0692d7852e99861f359c2fae808a5926300f7688b8c924e20ec6b18",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.63/SLUS_209.63_BG_04.png"
+      },
+      "gameId": "SLUS_209.63"
+    },
+    {
+      "path": "PS2/SLUS_209.63/SLUS_209.63_BG_05.png",
+      "kind": "background",
+      "bytes": 174948,
+      "width": 640,
+      "height": 480,
+      "sha256": "01c6dbe9e88243074a20a11b0899765be6915b3ffb021f5e0a41bd03e565fb46",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.63/SLUS_209.63_BG_05.png"
+      },
+      "gameId": "SLUS_209.63"
+    },
+    {
+      "path": "PS2/SLUS_209.63/SLUS_209.63_BG_06.png",
+      "kind": "background",
+      "bytes": 200256,
+      "width": 640,
+      "height": 480,
+      "sha256": "c48c4123e08fca99ee7a4876c831bb1b87313b0bffc8a09cb70c0ee093e8501b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.63/SLUS_209.63_BG_06.png"
+      },
+      "gameId": "SLUS_209.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XII"
+}

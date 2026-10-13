@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.92",
+  "cover": {
+    "path": "PS2/SLPM_624.92/SLPM_624.92_COV.png",
+    "kind": "cover",
+    "bytes": 88658,
+    "width": 192,
+    "height": 272,
+    "sha256": "794aab2f82b3ee325738cc3e5ffa6fbef714ee2628f680d72ad51cd26069be5a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62492.jpg"
+    },
+    "gameId": "SLPM_624.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Karaoke Revolution - Kising Selection"
+}

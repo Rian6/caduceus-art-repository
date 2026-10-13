@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.10",
+  "cover": {
+    "path": "PS2/SLPS_252.10/SLPS_252.10_COV.png",
+    "kind": "cover",
+    "bytes": 86383,
+    "width": 192,
+    "height": 272,
+    "sha256": "cef3d281495bc11d5c707010c4d8987b6879718db4f0b2ca1ddd4c5827dc4d44",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25210.jpg"
+    },
+    "gameId": "SLPS_252.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Exciting Pro Wrestling 4"
+}

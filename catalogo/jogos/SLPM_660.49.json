@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.49",
+  "cover": {
+    "path": "PS2/SLPM_660.49/SLPM_660.49_COV.png",
+    "kind": "cover",
+    "bytes": 85468,
+    "width": 192,
+    "height": 272,
+    "sha256": "a90441de0458239c28a8284be99929ffd9469d3261659f10176c1de754f9a65b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66049.jpg"
+    },
+    "gameId": "SLPM_660.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "D.C.P.S. - DA CAPO - PLUS SITUATION [KADOKAWA THE BEST]"
+}

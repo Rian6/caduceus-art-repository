@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_151.06",
+  "cover": {
+    "path": "PS2/SCPS_151.06/SCPS_151.06_COV.png",
+    "kind": "cover",
+    "bytes": 87805,
+    "width": 192,
+    "height": 272,
+    "sha256": "85f4e51f17e377788d51d303a9482c387dfaa6e7c8720109a0f0f84c10138e35",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15106.jpg"
+    },
+    "gameId": "SCPS_151.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Siren 2"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.94",
+  "cover": {
+    "path": "PS2/SLPM_666.94/SLPM_666.94_COV.png",
+    "kind": "cover",
+    "bytes": 69489,
+    "width": 192,
+    "height": 272,
+    "sha256": "11997509e8d2b5da52e097a391296e95f0c76a605ec48b455558d9fc6532c20e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66694.jpg"
+    },
+    "gameId": "SLPM_666.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPONGEBOB SQUAREPANTS - CREATURE FROM THE KRUSTY KRAB"
+}

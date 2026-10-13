@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.16",
+  "cover": {
+    "path": "PS2/SCPS_550.16/SCPS_550.16_COV.png",
+    "kind": "cover",
+    "bytes": 85483,
+    "width": 192,
+    "height": 272,
+    "sha256": "6f85970b77fcbcf770245114aaaedea9d14be24b5f01db9dba59c8b6e647ab63",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55016.jpg"
+    },
+    "gameId": "SCPS_550.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JET DE GO! 2 - LET'S GO BY AIRLINER"
+}

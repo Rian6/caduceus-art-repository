@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.11",
+  "cover": {
+    "path": "PS2/SLKA_250.11/SLKA_250.11_COV.png",
+    "kind": "cover",
+    "bytes": 76578,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed0f19f70fd9b4d66382662a77cfc920718c9c54a2c25c449d64d19385e90c71",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25011.jpg"
+    },
+    "gameId": "SLKA_250.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "REIGN OF FIRE"
+}

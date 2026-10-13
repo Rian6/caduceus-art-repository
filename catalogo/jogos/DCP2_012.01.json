@@ -1,0 +1,24 @@
+{
+  "id": "DCP2_012.01",
+  "cover": {
+    "path": "PS2/DCP2_012.01/DCP2_012.01_COV.png",
+    "kind": "cover",
+    "bytes": 115416,
+    "width": 192,
+    "height": 272,
+    "sha256": "1df2ec3681ab9c3de85fb62f3c4e9ddffeeb1ce1b860b6c27a74f30f102bf66f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/DCP2-01201.jpg"
+    },
+    "gameId": "DCP2_012.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

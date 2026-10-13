@@ -1,0 +1,65 @@
+{
+  "id": "SLPM_624.01",
+  "cover": {
+    "path": "PS2/SLPM_624.01/SLPM_624.01_COV.png",
+    "kind": "cover",
+    "bytes": 76898,
+    "width": 192,
+    "height": 272,
+    "sha256": "421dc01469a6b0cee076c181d53d77ca4fa839a7c39908902be3577d8f2f8490",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62401.jpg"
+    },
+    "gameId": "SLPM_624.01"
+  },
+  "disc": {
+    "path": "PS2/SLPM_624.01/SLPM_624.01_ICO.png",
+    "kind": "disc",
+    "bytes": 12363,
+    "width": 128,
+    "height": 128,
+    "sha256": "7f000bd10c3bc59c012eaf67e8d54b51c5bd7f7b4bc5ee49a22b80d17c4503dc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_624.01_ICO.png"
+    },
+    "gameId": "SLPM_624.01"
+  },
+  "background": {
+    "path": "PS2/SLPM_624.01/SLPM_624.01_BG.png",
+    "kind": "background",
+    "bytes": 234432,
+    "width": 640,
+    "height": 480,
+    "sha256": "7d80d80ad91831681fbb3d0f736e8df36ac8078b94a2032594c4556cd9356e53",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.01/SLPM_624.01_BG_00.png"
+    },
+    "gameId": "SLPM_624.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.01/SLPM_624.01_BG.png",
+      "kind": "background",
+      "bytes": 234432,
+      "width": 640,
+      "height": 480,
+      "sha256": "7d80d80ad91831681fbb3d0f736e8df36ac8078b94a2032594c4556cd9356e53",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.01/SLPM_624.01_BG_00.png"
+      },
+      "gameId": "SLPM_624.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Death Crimson OX+"
+}

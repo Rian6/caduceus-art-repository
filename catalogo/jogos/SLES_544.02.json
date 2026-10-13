@@ -1,0 +1,77 @@
+{
+  "id": "SLES_544.02",
+  "cover": {
+    "path": "PS2/SLES_544.02/SLES_544.02_COV.png",
+    "kind": "cover",
+    "bytes": 82268,
+    "width": 192,
+    "height": 272,
+    "sha256": "65cda63d860b2af82b041ac361091d30d0f7c22b484c46887e24c89e571bf47f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54402.jpg"
+    },
+    "gameId": "SLES_544.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_544.02/SLES_544.02_BG.png",
+    "kind": "background",
+    "bytes": 200451,
+    "width": 640,
+    "height": 480,
+    "sha256": "0557da5ef5e0258bf3ae731ef1649b751cfc4226116c4df5f0e517c51a1f27b3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.02/SLES_544.02_BG_00.png"
+    },
+    "gameId": "SLES_544.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.02/SLES_544.02_BG.png",
+      "kind": "background",
+      "bytes": 200451,
+      "width": 640,
+      "height": 480,
+      "sha256": "0557da5ef5e0258bf3ae731ef1649b751cfc4226116c4df5f0e517c51a1f27b3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.02/SLES_544.02_BG_00.png"
+      },
+      "gameId": "SLES_544.02"
+    },
+    {
+      "path": "PS2/SLES_544.02/SLES_544.02_BG_01.png",
+      "kind": "background",
+      "bytes": 158015,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb93910f0266c33080d839849641dfce14a0eea16ae8c5ab62630662896fd430",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.02/SLES_544.02_BG_01.png"
+      },
+      "gameId": "SLES_544.02"
+    },
+    {
+      "path": "PS2/SLES_544.02/SLES_544.02_BG_02.png",
+      "kind": "background",
+      "bytes": 125072,
+      "width": 640,
+      "height": 480,
+      "sha256": "0a0dccb5958be0a3668b0b64e6c635c85df3e729211a52d39e8a4e09f139a1f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.02/SLES_544.02_BG_02.png"
+      },
+      "gameId": "SLES_544.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Need for Speed: Carbon: Collector's Edition"
+}

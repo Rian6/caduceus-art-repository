@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.30",
+  "cover": {
+    "path": "PS2/SLPM_665.30/SLPM_665.30_COV.png",
+    "kind": "cover",
+    "bytes": 103302,
+    "width": 192,
+    "height": 272,
+    "sha256": "39a2489013265dee71b9db1eca2b9417ead7748032e4d8f2aa520b323695acc4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66530.jpg"
+    },
+    "gameId": "SLPM_665.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GIFT - PRISM"
+}

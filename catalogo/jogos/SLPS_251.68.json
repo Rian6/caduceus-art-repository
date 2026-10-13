@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.68",
+  "cover": {
+    "path": "PS2/SLPS_251.68/SLPS_251.68_COV.png",
+    "kind": "cover",
+    "bytes": 98462,
+    "width": 192,
+    "height": 272,
+    "sha256": "fc7063281372f62b859e6a153e5c11a8b44689787ee0e04be005f128d12bf314",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25168.jpg"
+    },
+    "gameId": "SLPS_251.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live 2003"
+}

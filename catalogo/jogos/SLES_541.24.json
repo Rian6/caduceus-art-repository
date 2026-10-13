@@ -1,0 +1,65 @@
+{
+  "id": "SLES_541.24",
+  "cover": {
+    "path": "PS2/SLES_541.24/SLES_541.24_COV.png",
+    "kind": "cover",
+    "bytes": 108563,
+    "width": 192,
+    "height": 272,
+    "sha256": "ededcf23b41137227825d26807f5b96682541ab1abb84ffce91ac87e3d8315b9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54124.jpg"
+    },
+    "gameId": "SLES_541.24"
+  },
+  "disc": {
+    "path": "PS2/SLES_541.24/SLES_541.24_ICO.png",
+    "kind": "disc",
+    "bytes": 12033,
+    "width": 128,
+    "height": 128,
+    "sha256": "0aa95633df2f7afc0d42027f446a1ee24ecd48f4f42b0dd99d37f2de2cad5c86",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_541.24_ICO.png"
+    },
+    "gameId": "SLES_541.24"
+  },
+  "background": {
+    "path": "PS2/SLES_541.24/SLES_541.24_BG.png",
+    "kind": "background",
+    "bytes": 215948,
+    "width": 640,
+    "height": 480,
+    "sha256": "115082ff8e1c1aee9cf14f614b2ad7243d37b411be6c8c7d1b2085fb573152a6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.24/SLES_541.24_BG_00.png"
+    },
+    "gameId": "SLES_541.24"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.24/SLES_541.24_BG.png",
+      "kind": "background",
+      "bytes": 215948,
+      "width": 640,
+      "height": 480,
+      "sha256": "115082ff8e1c1aee9cf14f614b2ad7243d37b411be6c8c7d1b2085fb573152a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.24/SLES_541.24_BG_00.png"
+      },
+      "gameId": "SLES_541.24"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Quest for Aladdin'S Treasure"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_529.77",
+  "cover": {
+    "path": "PS2/SLES_529.77/SLES_529.77_COV.png",
+    "kind": "cover",
+    "bytes": 86436,
+    "width": 192,
+    "height": 272,
+    "sha256": "5fcbe0bdb6d91162df450dbef7c6404ba58a0bed267a202ffcf31f5d728ca6e9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52977.jpg"
+    },
+    "gameId": "SLES_529.77"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_529.77/SLES_529.77_BG.png",
+    "kind": "background",
+    "bytes": 225517,
+    "width": 640,
+    "height": 480,
+    "sha256": "a9b0765791eaabf5715475fcd22a1c05735c121500c31765508b2c01edce10f7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.77/SLES_529.77_BG_00.png"
+    },
+    "gameId": "SLES_529.77"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.77/SLES_529.77_BG.png",
+      "kind": "background",
+      "bytes": 225517,
+      "width": 640,
+      "height": 480,
+      "sha256": "a9b0765791eaabf5715475fcd22a1c05735c121500c31765508b2c01edce10f7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.77/SLES_529.77_BG_00.png"
+      },
+      "gameId": "SLES_529.77"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GoldenEye: Agente Corrupto"
+}

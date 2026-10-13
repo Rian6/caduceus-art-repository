@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.17",
+  "cover": {
+    "path": "PS2/SLPS_200.17/SLPS_200.17_COV.png",
+    "kind": "cover",
+    "bytes": 82333,
+    "width": 192,
+    "height": 272,
+    "sha256": "7471f2f237ab7ee2aff85a39b70aa82412ceefde86784679b9b3fcb6fc26b29b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20017.jpg"
+    },
+    "gameId": "SLPS_200.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Street Mahjong Trans-Asakami 2"
+}

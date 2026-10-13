@@ -1,0 +1,39 @@
+{
+  "id": "SLES_548.82",
+  "cover": {
+    "path": "PS2/SLES_548.82/SLES_548.82_COV.png",
+    "kind": "cover",
+    "bytes": 88619,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e9409710c750a67b7f74c44959b1888b6c00d5ad52f1e033ac7026d555bfd9b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54882.jpg"
+    },
+    "gameId": "SLES_548.82"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.82/SLES_548.82_ICO.png",
+    "kind": "disc",
+    "bytes": 12221,
+    "width": 128,
+    "height": 128,
+    "sha256": "3729d3076e7749fe6e37911e2473389348daf2cb03c2f180f4090b742c6bebe6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.82_ICO.png"
+    },
+    "gameId": "SLES_548.82"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gecko Blaster"
+}

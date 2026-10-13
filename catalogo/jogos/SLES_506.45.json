@@ -1,0 +1,51 @@
+{
+  "id": "SLES_506.45",
+  "cover": {
+    "path": "PS2/SLES_506.45/SLES_506.45_COV.png",
+    "kind": "cover",
+    "bytes": 101790,
+    "width": 192,
+    "height": 272,
+    "sha256": "38cdc5896368fd0efae9e54adc7a29cd1c11f744fd9eb87cc86a40bccde7c317",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50645.jpg"
+    },
+    "gameId": "SLES_506.45"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_506.45/SLES_506.45_BG.png",
+    "kind": "background",
+    "bytes": 158308,
+    "width": 640,
+    "height": 480,
+    "sha256": "cc43a3cbff1c5173c485f407d6b6e564e29839a2cc8783e41a9b8ba01a678c72",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_506.45/SLES_506.45_BG_00.png"
+    },
+    "gameId": "SLES_506.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_506.45/SLES_506.45_BG.png",
+      "kind": "background",
+      "bytes": 158308,
+      "width": 640,
+      "height": 480,
+      "sha256": "cc43a3cbff1c5173c485f407d6b6e564e29839a2cc8783e41a9b8ba01a678c72",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.45/SLES_506.45_BG_00.png"
+      },
+      "gameId": "SLES_506.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shifters"
+}

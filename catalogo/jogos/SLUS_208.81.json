@@ -1,0 +1,130 @@
+{
+  "id": "SLUS_208.81",
+  "cover": {
+    "path": "PS2/SLUS_208.81/SLUS_208.81_COV.png",
+    "kind": "cover",
+    "bytes": 92145,
+    "width": 192,
+    "height": 272,
+    "sha256": "46136eaac6c1e7cc58ed4452e946a7bfd5db4747492e1d1998e51425244cf60f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20881.jpg"
+    },
+    "gameId": "SLUS_208.81"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.81/SLUS_208.81_ICO.png",
+    "kind": "disc",
+    "bytes": 34349,
+    "width": 256,
+    "height": 256,
+    "sha256": "d8edac64aeaca302104e6a1658cfd35e730d6342c1b91e06cf59d4dbcb05f5c5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.81_ICO.png"
+    },
+    "gameId": "SLUS_208.81"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.81/SLUS_208.81_BG.png",
+    "kind": "background",
+    "bytes": 193738,
+    "width": 640,
+    "height": 480,
+    "sha256": "9e601a154d872d27d2e1136b2e7df528c0b7689ee6689095b61c26290f4fb4d8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.81/SLUS_208.81_BG_00.png"
+    },
+    "gameId": "SLUS_208.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.81/SLUS_208.81_BG.png",
+      "kind": "background",
+      "bytes": 193738,
+      "width": 640,
+      "height": 480,
+      "sha256": "9e601a154d872d27d2e1136b2e7df528c0b7689ee6689095b61c26290f4fb4d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.81/SLUS_208.81_BG_00.png"
+      },
+      "gameId": "SLUS_208.81"
+    },
+    {
+      "path": "PS2/SLUS_208.81/SLUS_208.81_BG_01.png",
+      "kind": "background",
+      "bytes": 165974,
+      "width": 640,
+      "height": 480,
+      "sha256": "2cffcf718dede10b3c01056df3488ccf6d22521733706ce6de5560591c223e5a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.81/SLUS_208.81_BG_01.png"
+      },
+      "gameId": "SLUS_208.81"
+    },
+    {
+      "path": "PS2/SLUS_208.81/SLUS_208.81_BG_02.png",
+      "kind": "background",
+      "bytes": 180044,
+      "width": 640,
+      "height": 480,
+      "sha256": "e8547eab06f69e215a711ddc362de7d7932671f3029e65312f0aa9d8945028df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.81/SLUS_208.81_BG_02.png"
+      },
+      "gameId": "SLUS_208.81"
+    },
+    {
+      "path": "PS2/SLUS_208.81/SLUS_208.81_BG_03.png",
+      "kind": "background",
+      "bytes": 183890,
+      "width": 640,
+      "height": 480,
+      "sha256": "093dd7b23dee3021b6f59d8f5f64b65fcd4143657b515d87a647b871ecf670f0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.81/SLUS_208.81_BG_03.png"
+      },
+      "gameId": "SLUS_208.81"
+    },
+    {
+      "path": "PS2/SLUS_208.81/SLUS_208.81_BG_04.png",
+      "kind": "background",
+      "bytes": 188564,
+      "width": 640,
+      "height": 480,
+      "sha256": "91ad69b7914a31cc8c4a8a6c673c915c285ca35870631daf76809d08fe6c1afc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.81/SLUS_208.81_BG_04.png"
+      },
+      "gameId": "SLUS_208.81"
+    },
+    {
+      "path": "PS2/SLUS_208.81/SLUS_208.81_BG_05.png",
+      "kind": "background",
+      "bytes": 218522,
+      "width": 640,
+      "height": 480,
+      "sha256": "33de9d1b6c86854830e5c684aa62fd2b0725b49b4de8fe1cc4218d73a81aa011",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.81/SLUS_208.81_BG_05.png"
+      },
+      "gameId": "SLUS_208.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mortal Kombat: Deception"
+}

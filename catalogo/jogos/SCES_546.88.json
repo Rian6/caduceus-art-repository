@@ -1,0 +1,90 @@
+{
+  "id": "SCES_546.88",
+  "cover": {
+    "path": "PS2/SCES_546.88/SCES_546.88_COV.png",
+    "kind": "cover",
+    "bytes": 112893,
+    "width": 192,
+    "height": 272,
+    "sha256": "9084bd14b4522c99d40c6883aef2f474743241da3a6354304cfb6715d0450a2e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54688.jpg"
+    },
+    "gameId": "SCES_546.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_546.88/SCES_546.88_BG.png",
+    "kind": "background",
+    "bytes": 214766,
+    "width": 640,
+    "height": 480,
+    "sha256": "9ebe7ec94af53526fb9bd230646ed2760d766cb578e052278c8eb60b2665a8cb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_546.88/SCES_546.88_BG_00.png"
+    },
+    "gameId": "SCES_546.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_546.88/SCES_546.88_BG.png",
+      "kind": "background",
+      "bytes": 214766,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ebe7ec94af53526fb9bd230646ed2760d766cb578e052278c8eb60b2665a8cb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_546.88/SCES_546.88_BG_00.png"
+      },
+      "gameId": "SCES_546.88"
+    },
+    {
+      "path": "PS2/SCES_546.88/SCES_546.88_BG_01.png",
+      "kind": "background",
+      "bytes": 243436,
+      "width": 640,
+      "height": 480,
+      "sha256": "33b2aabbd42a00a8df9b82e39a5762c33a5f61ef91b3f699849524dd07ecc67b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_546.88/SCES_546.88_BG_01.png"
+      },
+      "gameId": "SCES_546.88"
+    },
+    {
+      "path": "PS2/SCES_546.88/SCES_546.88_BG_02.png",
+      "kind": "background",
+      "bytes": 197480,
+      "width": 640,
+      "height": 480,
+      "sha256": "02a8ae8ba31a491c81bd18af91ef63e9823ec4b1b38dde3467b6e6606357a094",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_546.88/SCES_546.88_BG_02.png"
+      },
+      "gameId": "SCES_546.88"
+    },
+    {
+      "path": "PS2/SCES_546.88/SCES_546.88_BG_03.png",
+      "kind": "background",
+      "bytes": 231505,
+      "width": 640,
+      "height": 480,
+      "sha256": "79de32c8b62f72dd292728154a1f1004b34b86e132c9ba43d4f5f50afecbee27",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_546.88/SCES_546.88_BG_03.png"
+      },
+      "gameId": "SCES_546.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ATV Offroad Fury 4"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.04",
+  "cover": {
+    "path": "PS2/SLPM_658.04/SLPM_658.04_COV.png",
+    "kind": "cover",
+    "bytes": 80271,
+    "width": 192,
+    "height": 272,
+    "sha256": "30e2f954b21d6a0b9f9caee8fd6e6255077c0bf63e650274b338b09b81972e62",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65804.jpg"
+    },
+    "gameId": "SLPM_658.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winning Eleven Tactics - European Club Soccer"
+}

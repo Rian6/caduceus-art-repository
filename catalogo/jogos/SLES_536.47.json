@@ -1,0 +1,51 @@
+{
+  "id": "SLES_536.47",
+  "cover": {
+    "path": "PS2/SLES_536.47/SLES_536.47_COV.png",
+    "kind": "cover",
+    "bytes": 102015,
+    "width": 192,
+    "height": 272,
+    "sha256": "6ae3afb9ef74ea936adb137e3540112f31fafc845357ff21899d727f535c571f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53647.jpg"
+    },
+    "gameId": "SLES_536.47"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_536.47/SLES_536.47_BG.png",
+    "kind": "background",
+    "bytes": 240121,
+    "width": 640,
+    "height": 480,
+    "sha256": "7b5a9786a1755b20ef104cfb38e570ba39bf633deacd448fae4194f93c10b94b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.47/SLES_536.47_BG_00.png"
+    },
+    "gameId": "SLES_536.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_536.47/SLES_536.47_BG.png",
+      "kind": "background",
+      "bytes": 240121,
+      "width": 640,
+      "height": 480,
+      "sha256": "7b5a9786a1755b20ef104cfb38e570ba39bf633deacd448fae4194f93c10b94b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.47/SLES_536.47_BG_00.png"
+      },
+      "gameId": "SLES_536.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUN"
+}

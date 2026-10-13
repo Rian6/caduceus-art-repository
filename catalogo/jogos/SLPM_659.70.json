@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.70",
+  "cover": {
+    "path": "PS2/SLPM_659.70/SLPM_659.70_COV.png",
+    "kind": "cover",
+    "bytes": 83143,
+    "width": 192,
+    "height": 272,
+    "sha256": "f2ca86f4295bf199008a7ee5e4365db4a9a775d69cffc6c68bba3ac026061c9a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65970.jpg"
+    },
+    "gameId": "SLPM_659.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KAPPA NO KAI-KATA - HOW TO BREED KAPPAS [KONAMI DENDO SELECTION]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.41",
+  "cover": {
+    "path": "PS2/SLPM_621.41/SLPM_621.41_COV.png",
+    "kind": "cover",
+    "bytes": 98344,
+    "width": 192,
+    "height": 272,
+    "sha256": "0893ba9b4121ecfee1917fb50a2d6615b8600e22c5dde3be4b76bbd02d1c60b2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62141.jpg"
+    },
+    "gameId": "SLPM_621.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Eisei Meijin VI - Tsuushin Shogi Club"
+}

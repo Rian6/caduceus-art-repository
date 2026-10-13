@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_201.01",
+  "cover": {
+    "path": "PS2/SLUS_201.01/SLUS_201.01_COV.png",
+    "kind": "cover",
+    "bytes": 94256,
+    "width": 192,
+    "height": 272,
+    "sha256": "a24ac512b51a9bcb1e8860ca7912a079927e3fe0f178079bb0c96a5d8dccf53f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20101.jpg"
+    },
+    "gameId": "SLUS_201.01"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.01/SLUS_201.01_ICO.png",
+    "kind": "disc",
+    "bytes": 28511,
+    "width": 256,
+    "height": 256,
+    "sha256": "31a267be20c8d7c9101cf609feaa356a5774f5892bfd08c3883f59d05e28aa03",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.01_ICO.png"
+    },
+    "gameId": "SLUS_201.01"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.01/SLUS_201.01_BG.png",
+    "kind": "background",
+    "bytes": 152040,
+    "width": 640,
+    "height": 480,
+    "sha256": "1078d4760184d9d052f342fc75e9d5e1dee83d20334d13ff7bcef5df846cd507",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.01/SLUS_201.01_BG_00.png"
+    },
+    "gameId": "SLUS_201.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.01/SLUS_201.01_BG.png",
+      "kind": "background",
+      "bytes": 152040,
+      "width": 640,
+      "height": 480,
+      "sha256": "1078d4760184d9d052f342fc75e9d5e1dee83d20334d13ff7bcef5df846cd507",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.01/SLUS_201.01_BG_00.png"
+      },
+      "gameId": "SLUS_201.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NASCAR 2001"
+}

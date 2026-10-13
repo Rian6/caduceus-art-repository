@@ -1,0 +1,65 @@
+{
+  "id": "SLES_520.41",
+  "cover": {
+    "path": "PS2/SLES_520.41/SLES_520.41_COV.png",
+    "kind": "cover",
+    "bytes": 110871,
+    "width": 192,
+    "height": 272,
+    "sha256": "c87b003cbcbae54ac8199496d7b439d73193f0e2aba778aad5d4af43ac7bae12",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52041.jpg"
+    },
+    "gameId": "SLES_520.41"
+  },
+  "disc": {
+    "path": "PS2/SLES_520.41/SLES_520.41_ICO.png",
+    "kind": "disc",
+    "bytes": 11734,
+    "width": 128,
+    "height": 128,
+    "sha256": "de6f92dcf39b849049629aa9dbb3f604ffcdcbb9b763afb37de06d648dbcb956",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_520.41_ICO.png"
+    },
+    "gameId": "SLES_520.41"
+  },
+  "background": {
+    "path": "PS2/SLES_520.41/SLES_520.41_BG.png",
+    "kind": "background",
+    "bytes": 127016,
+    "width": 640,
+    "height": 480,
+    "sha256": "2bfa998b9931c0925788cb1dde8c90ae9a7e4fbccbb178fd3554171a1ba3d31b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_520.41/SLES_520.41_BG_00.png"
+    },
+    "gameId": "SLES_520.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_520.41/SLES_520.41_BG.png",
+      "kind": "background",
+      "bytes": 127016,
+      "width": 640,
+      "height": 480,
+      "sha256": "2bfa998b9931c0925788cb1dde8c90ae9a7e4fbccbb178fd3554171a1ba3d31b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.41/SLES_520.41_BG_00.png"
+      },
+      "gameId": "SLES_520.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Detonator"
+}

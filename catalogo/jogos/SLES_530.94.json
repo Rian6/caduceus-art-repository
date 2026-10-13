@@ -1,0 +1,25 @@
+{
+  "id": "SLES_530.94",
+  "cover": {
+    "path": "PS2/SLES_530.94/SLES_530.94_COV.png",
+    "kind": "cover",
+    "bytes": 87428,
+    "width": 192,
+    "height": 272,
+    "sha256": "77587509185a1eaa8fd6e0897afcfbc77277562df394dca55c2157f0bf80e5f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53094.jpg"
+    },
+    "gameId": "SLES_530.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EA Sports Rugby 2005"
+}

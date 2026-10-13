@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.79",
+  "cover": {
+    "path": "PS2/SLPS_250.79/SLPS_250.79_COV.png",
+    "kind": "cover",
+    "bytes": 93519,
+    "width": 192,
+    "height": 272,
+    "sha256": "aaf17405e8a28e10c0339d105e83edb6cee808157335864d2fea81b5d1f14b2b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25079.jpg"
+    },
+    "gameId": "SLPS_250.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Madden NFL Superbowl 2002"
+}

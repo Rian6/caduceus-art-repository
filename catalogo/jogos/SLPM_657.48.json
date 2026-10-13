@@ -1,0 +1,65 @@
+{
+  "id": "SLPM_657.48",
+  "cover": {
+    "path": "PS2/SLPM_657.48/SLPM_657.48_COV.png",
+    "kind": "cover",
+    "bytes": 115966,
+    "width": 192,
+    "height": 272,
+    "sha256": "a5cfa17b9ee73cf9327d828c83bc45b03bf0a14b61523be5c28994d2458663e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65748.jpg"
+    },
+    "gameId": "SLPM_657.48"
+  },
+  "disc": {
+    "path": "PS2/SLPM_657.48/SLPM_657.48_ICO.png",
+    "kind": "disc",
+    "bytes": 9971,
+    "width": 128,
+    "height": 128,
+    "sha256": "ba95db491a3ea9938a525cfe36cdf5ffb37fe274a6c133eff91cd3c1a8960c1a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_657.48_ICO.png"
+    },
+    "gameId": "SLPM_657.48"
+  },
+  "background": {
+    "path": "PS2/SLPM_657.48/SLPM_657.48_BG.png",
+    "kind": "background",
+    "bytes": 166981,
+    "width": 640,
+    "height": 480,
+    "sha256": "2dc7c64821b3c71c992b8a40629a4db85edfeaaa6e713743c42400d731e16b3d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_657.48/SLPM_657.48_BG_00.png"
+    },
+    "gameId": "SLPM_657.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_657.48/SLPM_657.48_BG.png",
+      "kind": "background",
+      "bytes": 166981,
+      "width": 640,
+      "height": 480,
+      "sha256": "2dc7c64821b3c71c992b8a40629a4db85edfeaaa6e713743c42400d731e16b3d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.48/SLPM_657.48_BG_00.png"
+      },
+      "gameId": "SLPM_657.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zoids Struggle"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SCES_556.50",
+  "cover": {
+    "path": "PS2/SCES_556.50/SCES_556.50_COV.png",
+    "kind": "cover",
+    "bytes": 90067,
+    "width": 192,
+    "height": 272,
+    "sha256": "0ced06b6506fbd1da5ebe9522dde1f8ac11ba56b382da8f4c9027e4b579f0efd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55650.jpg"
+    },
+    "gameId": "SCES_556.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_556.50/SCES_556.50_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_556.50/SCES_556.50_BG_00.png"
+    },
+    "gameId": "SCES_556.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_556.50/SCES_556.50_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_556.50/SCES_556.50_BG_00.png"
+      },
+      "gameId": "SCES_556.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar SuomiSuosikit"
+}

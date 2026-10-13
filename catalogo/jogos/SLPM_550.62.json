@@ -1,0 +1,24 @@
+{
+  "id": "SLPM_550.62",
+  "cover": {
+    "path": "PS2/SLPM_550.62/SLPM_550.62_COV.png",
+    "kind": "cover",
+    "bytes": 105884,
+    "width": 192,
+    "height": 272,
+    "sha256": "154c0c7c0b80445993cac91cd0740d7f6b4e3458d9a13f257012b7be595b3201",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55062.jpg"
+    },
+    "gameId": "SLPM_550.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

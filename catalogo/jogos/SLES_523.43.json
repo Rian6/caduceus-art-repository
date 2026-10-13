@@ -1,0 +1,25 @@
+{
+  "id": "SLES_523.43",
+  "cover": {
+    "path": "PS2/SLES_523.43/SLES_523.43_COV.png",
+    "kind": "cover",
+    "bytes": 103214,
+    "width": 192,
+    "height": 272,
+    "sha256": "8ae008ec64862aa695079907a6c2e87d46cba8bdb2b77446a7fa53fe4d008e53",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52343.jpg"
+    },
+    "gameId": "SLES_523.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Midway Arcade Treasures"
+}

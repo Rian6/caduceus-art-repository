@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.15",
+  "cover": {
+    "path": "PS2/SCPS_550.15/SCPS_550.15_COV.png",
+    "kind": "cover",
+    "bytes": 64774,
+    "width": 192,
+    "height": 272,
+    "sha256": "7d0ec9d1de3635b21b40ff7972c43575bd880191efe1bdd5fc383a97ee20a2d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55015.jpg"
+    },
+    "gameId": "SCPS_550.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZETTAI ZETSUMEI TOSHI"
+}

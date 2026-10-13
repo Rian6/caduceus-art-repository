@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.64",
+  "cover": {
+    "path": "PS2/SCAJ_201.64/SCAJ_201.64_COV.png",
+    "kind": "cover",
+    "bytes": 86092,
+    "width": 192,
+    "height": 272,
+    "sha256": "0891657fd70734b32b35f63ee3a24aec5a46879eb14b7288a2c8b6e7031e2d81",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20164.jpg"
+    },
+    "gameId": "SCAJ_201.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kingdom Hearts II"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.83",
+  "cover": {
+    "path": "PS2/SLPS_254.83/SLPS_254.83_COV.png",
+    "kind": "cover",
+    "bytes": 97716,
+    "width": 192,
+    "height": 272,
+    "sha256": "312abec6407a40e50dc331f052075a6f1a68060fef764b58e357541d8e96a4a0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25483.jpg"
+    },
+    "gameId": "SLPS_254.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SWEET SEASON"
+}

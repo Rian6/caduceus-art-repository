@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_150.21",
+  "cover": {
+    "path": "PS2/SLKA_150.21/SLKA_150.21_COV.png",
+    "kind": "cover",
+    "bytes": 68307,
+    "width": 192,
+    "height": 272,
+    "sha256": "25fd52bc593199f6657fc81382a500590cfc2f11901bf50441b9e99b495ff3a9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_150.21/SLKA_150.21_COV.png"
+    },
+    "gameId": "SLKA_150.21"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_150.21/SLKA_150.21_BG.png",
+    "kind": "background",
+    "bytes": 227809,
+    "width": 640,
+    "height": 480,
+    "sha256": "514588d983b1e5bb635a25c517935572876c1b4f33f289b6d4d86ff00b134a96",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_150.21/SLKA_150.21_BG_00.png"
+    },
+    "gameId": "SLKA_150.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_150.21/SLKA_150.21_BG.png",
+      "kind": "background",
+      "bytes": 227809,
+      "width": 640,
+      "height": 480,
+      "sha256": "514588d983b1e5bb635a25c517935572876c1b4f33f289b6d4d86ff00b134a96",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_150.21/SLKA_150.21_BG_00.png"
+      },
+      "gameId": "SLKA_150.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Growlanser III - The Dual Darkness"
+}

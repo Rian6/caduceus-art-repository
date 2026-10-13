@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_254.67",
+  "cover": {
+    "path": "PS2/SLKA_254.67/SLKA_254.67_COV.png",
+    "kind": "cover",
+    "bytes": 109023,
+    "width": 192,
+    "height": 272,
+    "sha256": "5fbec9aa39e3624f43a3e683c60561ef5d7b05df7a83926853e01c0717358b20",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_254.67/SLKA_254.67_COV.png"
+    },
+    "gameId": "SLKA_254.67"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_254.67/SLKA_254.67_BG.png",
+    "kind": "background",
+    "bytes": 442901,
+    "width": 640,
+    "height": 480,
+    "sha256": "238a4a3dcb01f52bd6d1a1a4b7694e908f3ac6b0429963ee9ed5f34aecc812ad",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_254.67/SLKA_254.67_BG_00.png"
+    },
+    "gameId": "SLKA_254.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_254.67/SLKA_254.67_BG.png",
+      "kind": "background",
+      "bytes": 442901,
+      "width": 640,
+      "height": 480,
+      "sha256": "238a4a3dcb01f52bd6d1a1a4b7694e908f3ac6b0429963ee9ed5f34aecc812ad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_254.67/SLKA_254.67_BG_00.png"
+      },
+      "gameId": "SLKA_254.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BeatMania IIDX 16: Empress + Premium Best"
+}

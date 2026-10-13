@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_150.18",
+  "cover": {
+    "path": "PS2/SLKA_150.18/SLKA_150.18_COV.png",
+    "kind": "cover",
+    "bytes": 66463,
+    "width": 192,
+    "height": 272,
+    "sha256": "b11aa36d16732b2ee1bc6947f871f710378e401631a285e02892e64fa834e326",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_150.18/SLKA_150.18_COV.png"
+    },
+    "gameId": "SLKA_150.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam Seed"
+}

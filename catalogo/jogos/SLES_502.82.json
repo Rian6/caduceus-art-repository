@@ -1,0 +1,91 @@
+{
+  "id": "SLES_502.82",
+  "cover": {
+    "path": "PS2/SLES_502.82/SLES_502.82_COV.png",
+    "kind": "cover",
+    "bytes": 107936,
+    "width": 192,
+    "height": 272,
+    "sha256": "060abaee3b4b6ed56bde6f69f0684228963e1c66c60ac5dc32d3a9e361042cc8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50282.jpg"
+    },
+    "gameId": "SLES_502.82"
+  },
+  "disc": {
+    "path": "PS2/SLES_502.82/SLES_502.82_ICO.png",
+    "kind": "disc",
+    "bytes": 12135,
+    "width": 128,
+    "height": 128,
+    "sha256": "5cb8efe8fa64f1fcd5aa7102043b80240895b45edb548e4b2be43a8cc73d653d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_502.82_ICO.png"
+    },
+    "gameId": "SLES_502.82"
+  },
+  "background": {
+    "path": "PS2/SLES_502.82/SLES_502.82_BG.png",
+    "kind": "background",
+    "bytes": 153701,
+    "width": 640,
+    "height": 480,
+    "sha256": "c1d89bd018d608dae77816f010b76cc45d3de16751bfcab830a97222ba0d9c97",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.82/SLES_502.82_BG_00.png"
+    },
+    "gameId": "SLES_502.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.82/SLES_502.82_BG.png",
+      "kind": "background",
+      "bytes": 153701,
+      "width": 640,
+      "height": 480,
+      "sha256": "c1d89bd018d608dae77816f010b76cc45d3de16751bfcab830a97222ba0d9c97",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.82/SLES_502.82_BG_00.png"
+      },
+      "gameId": "SLES_502.82"
+    },
+    {
+      "path": "PS2/SLES_502.82/SLES_502.82_BG_01.png",
+      "kind": "background",
+      "bytes": 189135,
+      "width": 640,
+      "height": 480,
+      "sha256": "05ece1e99bec1826c2f8a5c6b370a0a35926e23fe66976e183c3008f254b1d01",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.82/SLES_502.82_BG_01.png"
+      },
+      "gameId": "SLES_502.82"
+    },
+    {
+      "path": "PS2/SLES_502.82/SLES_502.82_BG_02.png",
+      "kind": "background",
+      "bytes": 217233,
+      "width": 640,
+      "height": 480,
+      "sha256": "61a5157d35e06c26518bd909b29855a603aa45719d0461d1a923fecbec83cb91",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.82/SLES_502.82_BG_02.png"
+      },
+      "gameId": "SLES_502.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Age of Empires II: The Age of Kings"
+}

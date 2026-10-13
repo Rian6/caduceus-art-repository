@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.32",
+  "cover": {
+    "path": "PS2/SLKA_252.32/SLKA_252.32_COV.png",
+    "kind": "cover",
+    "bytes": 110133,
+    "width": 192,
+    "height": 272,
+    "sha256": "ad1136f461dbe8dd9d6440260145555d9c06c5f7b1dbb7a496dd8897cdd1452e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25232.jpg"
+    },
+    "gameId": "SLKA_252.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NARUTO - NARUTIMATE HERO"
+}

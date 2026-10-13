@@ -1,0 +1,25 @@
+{
+  "id": "SLES_528.10",
+  "cover": {
+    "path": "PS2/SLES_528.10/SLES_528.10_COV.png",
+    "kind": "cover",
+    "bytes": 73533,
+    "width": 192,
+    "height": 272,
+    "sha256": "accc99b7baa9ecede6114ed30b8de5d90fb121e5768f89ee705a606c5726295f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52810.jpg"
+    },
+    "gameId": "SLES_528.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Lemony Snicket's A Series of Unfortunate Events"
+}

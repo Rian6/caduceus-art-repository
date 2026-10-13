@@ -1,0 +1,117 @@
+{
+  "id": "SCES_500.03",
+  "cover": {
+    "path": "PS2/SCES_500.03/SCES_500.03_COV.png",
+    "kind": "cover",
+    "bytes": 95914,
+    "width": 192,
+    "height": 272,
+    "sha256": "17fb5faa79a7c8dbfc6cdc6ec2df8a2532b05549f7dff86ad1a2e0ba91d3bb41",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50003.jpg"
+    },
+    "gameId": "SCES_500.03"
+  },
+  "disc": {
+    "path": "PS2/SCES_500.03/SCES_500.03_ICO.png",
+    "kind": "disc",
+    "bytes": 11983,
+    "width": 128,
+    "height": 128,
+    "sha256": "23113b1fddef74438831e65f0f2528c20c9dfffc2a9b285f260de53f78b02da3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_500.03_ICO.png"
+    },
+    "gameId": "SCES_500.03"
+  },
+  "background": {
+    "path": "PS2/SCES_500.03/SCES_500.03_BG.png",
+    "kind": "background",
+    "bytes": 113219,
+    "width": 640,
+    "height": 480,
+    "sha256": "39b066ada89d9795add2073d12eec9532c71cac72281c803123b5f1d1934beac",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_500.03/SCES_500.03_BG_00.png"
+    },
+    "gameId": "SCES_500.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_500.03/SCES_500.03_BG.png",
+      "kind": "background",
+      "bytes": 113219,
+      "width": 640,
+      "height": 480,
+      "sha256": "39b066ada89d9795add2073d12eec9532c71cac72281c803123b5f1d1934beac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_500.03/SCES_500.03_BG_00.png"
+      },
+      "gameId": "SCES_500.03"
+    },
+    {
+      "path": "PS2/SCES_500.03/SCES_500.03_BG_01.png",
+      "kind": "background",
+      "bytes": 93774,
+      "width": 640,
+      "height": 480,
+      "sha256": "3456a308db8d14f71689c8562ed0eee9ac34e2eab178106798c1f3c1a7d9e7b4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_500.03/SCES_500.03_BG_01.png"
+      },
+      "gameId": "SCES_500.03"
+    },
+    {
+      "path": "PS2/SCES_500.03/SCES_500.03_BG_02.png",
+      "kind": "background",
+      "bytes": 184152,
+      "width": 640,
+      "height": 480,
+      "sha256": "3028a6f9bb811867dabdcac149425cf75f6dc01404b71a093c20c9d52896073f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_500.03/SCES_500.03_BG_02.png"
+      },
+      "gameId": "SCES_500.03"
+    },
+    {
+      "path": "PS2/SCES_500.03/SCES_500.03_BG_03.png",
+      "kind": "background",
+      "bytes": 122106,
+      "width": 640,
+      "height": 480,
+      "sha256": "822f406d8d063e020c9048fbc8945e4c460717945972c742e1f339a654585bec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_500.03/SCES_500.03_BG_03.png"
+      },
+      "gameId": "SCES_500.03"
+    },
+    {
+      "path": "PS2/SCES_500.03/SCES_500.03_BG_04.png",
+      "kind": "background",
+      "bytes": 177281,
+      "width": 640,
+      "height": 480,
+      "sha256": "a84c0546c91d47533463ae32791a363cb8920ecae0753839bed768665c5392dd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_500.03/SCES_500.03_BG_04.png"
+      },
+      "gameId": "SCES_500.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dead or Alive 2"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_624.71",
+  "cover": {
+    "path": "PS2/SLPM_624.71/SLPM_624.71_COV.png",
+    "kind": "cover",
+    "bytes": 65577,
+    "width": 192,
+    "height": 272,
+    "sha256": "a6d144022cb05c1e00696fcb029ef2197f61692d26bbaf301250c6fb502fdc5f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62471.jpg"
+    },
+    "gameId": "SLPM_624.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.71/SLPM_624.71_BG.png",
+    "kind": "background",
+    "bytes": 148430,
+    "width": 640,
+    "height": 480,
+    "sha256": "daf605e205ec32559580c0dd81ea4e7d4023d3925df1cbf26bb99cd3e4fe5dfd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.71/SLPM_624.71_BG_00.png"
+    },
+    "gameId": "SLPM_624.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.71/SLPM_624.71_BG.png",
+      "kind": "background",
+      "bytes": 148430,
+      "width": 640,
+      "height": 480,
+      "sha256": "daf605e205ec32559580c0dd81ea4e7d4023d3925df1cbf26bb99cd3e4fe5dfd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.71/SLPM_624.71_BG_00.png"
+      },
+      "gameId": "SLPM_624.71"
+    },
+    {
+      "path": "PS2/SLPM_624.71/SLPM_624.71_BG_01.png",
+      "kind": "background",
+      "bytes": 140477,
+      "width": 640,
+      "height": 480,
+      "sha256": "7703fb309a2119a6cb95c14f39dbf9fbe7946b5a7d7d4e5d5adc069cbf562085",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.71/SLPM_624.71_BG_01.png"
+      },
+      "gameId": "SLPM_624.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "UNO [SUPERLITE 2000 VOL.16]"
+}

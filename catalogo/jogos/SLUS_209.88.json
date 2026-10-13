@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_209.88",
+  "cover": {
+    "path": "PS2/SLUS_209.88/SLUS_209.88_COV.png",
+    "kind": "cover",
+    "bytes": 72904,
+    "width": 192,
+    "height": 272,
+    "sha256": "6793c1a5da5b74d0ede49b741414b4a454022107461b3c83fae6e6c22cb83b87",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20988.jpg"
+    },
+    "gameId": "SLUS_209.88"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.88/SLUS_209.88_ICO.png",
+    "kind": "disc",
+    "bytes": 32137,
+    "width": 256,
+    "height": 256,
+    "sha256": "e72aa3222d288e55fe592e83655507f41726890e56b91ebef69474ea0644d344",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.88_ICO.png"
+    },
+    "gameId": "SLUS_209.88"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.88/SLUS_209.88_BG.png",
+    "kind": "background",
+    "bytes": 55822,
+    "width": 640,
+    "height": 480,
+    "sha256": "2ee31fd9f45f0f3f307fcf7005cf863fe6aca239bb122b823faeba8866cce0a6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.88/SLUS_209.88_BG_00.png"
+    },
+    "gameId": "SLUS_209.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.88/SLUS_209.88_BG.png",
+      "kind": "background",
+      "bytes": 55822,
+      "width": 640,
+      "height": 480,
+      "sha256": "2ee31fd9f45f0f3f307fcf7005cf863fe6aca239bb122b823faeba8866cce0a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.88/SLUS_209.88_BG_00.png"
+      },
+      "gameId": "SLUS_209.88"
+    },
+    {
+      "path": "PS2/SLUS_209.88/SLUS_209.88_BG_01.png",
+      "kind": "background",
+      "bytes": 13661,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f9423cd3b36501df9e58cf6f773b3ab3b635e2d334f8dc55303cde63c01c9cb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.88/SLUS_209.88_BG_01.png"
+      },
+      "gameId": "SLUS_209.88"
+    },
+    {
+      "path": "PS2/SLUS_209.88/SLUS_209.88_BG_02.png",
+      "kind": "background",
+      "bytes": 154412,
+      "width": 640,
+      "height": 480,
+      "sha256": "9b98cc9d2f51c8890f8d0bdc8219007e590d5a9cbcb4eda21ffd5c86c96ffa42",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.88/SLUS_209.88_BG_02.png"
+      },
+      "gameId": "SLUS_209.88"
+    },
+    {
+      "path": "PS2/SLUS_209.88/SLUS_209.88_BG_03.png",
+      "kind": "background",
+      "bytes": 55116,
+      "width": 640,
+      "height": 480,
+      "sha256": "4d9da15ea16fbcaff7b2f8a25ed8fa1959885f0299a0bae36c9d69d73cb6630f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.88/SLUS_209.88_BG_03.png"
+      },
+      "gameId": "SLUS_209.88"
+    },
+    {
+      "path": "PS2/SLUS_209.88/SLUS_209.88_BG_04.png",
+      "kind": "background",
+      "bytes": 22163,
+      "width": 640,
+      "height": 480,
+      "sha256": "51c7850cb143dbea46079034d436d8134784962ccf66dff52b6a224e60ad0eaf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.88/SLUS_209.88_BG_04.png"
+      },
+      "gameId": "SLUS_209.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PLAYBOY - THE MANSION"
+}

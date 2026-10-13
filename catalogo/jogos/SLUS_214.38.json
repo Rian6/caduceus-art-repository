@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_214.38",
+  "cover": {
+    "path": "PS2/SLUS_214.38/SLUS_214.38_COV.png",
+    "kind": "cover",
+    "bytes": 117309,
+    "width": 192,
+    "height": 272,
+    "sha256": "a1e0e04b4814f93e67dc61684af5cbc2e8ee306c47ae652a93ec48c49911c2e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21438.jpg"
+    },
+    "gameId": "SLUS_214.38"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.38/SLUS_214.38_ICO.png",
+    "kind": "disc",
+    "bytes": 31759,
+    "width": 256,
+    "height": 256,
+    "sha256": "da7a27a8c5d39f6df4d20311dab365e17f837b84153eeed9e78337dc2f7f7037",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.38_ICO.png"
+    },
+    "gameId": "SLUS_214.38"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.38/SLUS_214.38_BG.png",
+    "kind": "background",
+    "bytes": 162113,
+    "width": 640,
+    "height": 480,
+    "sha256": "37f6b3302ddb759b4b48dc6e2d9f97a32d64d2dd2ca1ee0d8a79cb47b018b2c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.38/SLUS_214.38_BG_00.png"
+    },
+    "gameId": "SLUS_214.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.38/SLUS_214.38_BG.png",
+      "kind": "background",
+      "bytes": 162113,
+      "width": 640,
+      "height": 480,
+      "sha256": "37f6b3302ddb759b4b48dc6e2d9f97a32d64d2dd2ca1ee0d8a79cb47b018b2c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.38/SLUS_214.38_BG_00.png"
+      },
+      "gameId": "SLUS_214.38"
+    },
+    {
+      "path": "PS2/SLUS_214.38/SLUS_214.38_BG_01.png",
+      "kind": "background",
+      "bytes": 114367,
+      "width": 640,
+      "height": 480,
+      "sha256": "b3bd6a3d8d884577cd9867fe2037fbc75bdd35dceb3e46029018f64c2d4f4db8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.38/SLUS_214.38_BG_01.png"
+      },
+      "gameId": "SLUS_214.38"
+    },
+    {
+      "path": "PS2/SLUS_214.38/SLUS_214.38_BG_02.png",
+      "kind": "background",
+      "bytes": 187662,
+      "width": 640,
+      "height": 480,
+      "sha256": "a5386347280af8f41619a488a4226eb005ba9a6ac218f07937e952e848c5bd3b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.38/SLUS_214.38_BG_02.png"
+      },
+      "gameId": "SLUS_214.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cartoon Network Racing"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_546.88",
+  "cover": {
+    "path": "PS2/SLES_546.88/SLES_546.88_COV.png",
+    "kind": "cover",
+    "bytes": 66675,
+    "width": 192,
+    "height": 272,
+    "sha256": "0516ae413318ef47167963b4bdc39d8f520b704cb409d2bd683655bee824e763",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.88/SLES_546.88_COV.png"
+    },
+    "gameId": "SLES_546.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ATV Off-Road Fury 3"
+}

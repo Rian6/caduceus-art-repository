@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.28",
+  "cover": {
+    "path": "PS2/SLPM_652.28/SLPM_652.28_COV.png",
+    "kind": "cover",
+    "bytes": 113315,
+    "width": 192,
+    "height": 272,
+    "sha256": "4b9431e043286e5af4ade5ee104397f3408983346896861429b72e72b6b504c9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65228.jpg"
+    },
+    "gameId": "SLPM_652.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TAISHO MONONOKE IBUNROKU"
+}

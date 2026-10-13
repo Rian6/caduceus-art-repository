@@ -1,0 +1,104 @@
+{
+  "id": "SLES_533.50",
+  "cover": {
+    "path": "PS2/SLES_533.50/SLES_533.50_COV.png",
+    "kind": "cover",
+    "bytes": 101523,
+    "width": 192,
+    "height": 272,
+    "sha256": "625e3506c635a7b21be412a7d50479c518da6838e320524e67f2df30467c3e66",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53350.jpg"
+    },
+    "gameId": "SLES_533.50"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.50/SLES_533.50_ICO.png",
+    "kind": "disc",
+    "bytes": 10672,
+    "width": 128,
+    "height": 128,
+    "sha256": "6c995c52e160ddf5d2c1e32652da6a24706952173d2fb2fcb5fa8dab402fa540",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.50_ICO.png"
+    },
+    "gameId": "SLES_533.50"
+  },
+  "background": {
+    "path": "PS2/SLES_533.50/SLES_533.50_BG.png",
+    "kind": "background",
+    "bytes": 168909,
+    "width": 640,
+    "height": 480,
+    "sha256": "bfadf434ac675813fa41792b47a6149fe7201b3853844e546f14661096cff72a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.50/SLES_533.50_BG_00.png"
+    },
+    "gameId": "SLES_533.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.50/SLES_533.50_BG.png",
+      "kind": "background",
+      "bytes": 168909,
+      "width": 640,
+      "height": 480,
+      "sha256": "bfadf434ac675813fa41792b47a6149fe7201b3853844e546f14661096cff72a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.50/SLES_533.50_BG_00.png"
+      },
+      "gameId": "SLES_533.50"
+    },
+    {
+      "path": "PS2/SLES_533.50/SLES_533.50_BG_01.png",
+      "kind": "background",
+      "bytes": 145486,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1dff0cfa6b784db8c38fbc6c8371f985cc2f299101345156fdfa52870682d97",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.50/SLES_533.50_BG_01.png"
+      },
+      "gameId": "SLES_533.50"
+    },
+    {
+      "path": "PS2/SLES_533.50/SLES_533.50_BG_02.png",
+      "kind": "background",
+      "bytes": 135565,
+      "width": 640,
+      "height": 480,
+      "sha256": "a6ae25f265a3150f46b3616583cd5ec034bbdb3a841cc6fb7871a92a9a946269",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.50/SLES_533.50_BG_02.png"
+      },
+      "gameId": "SLES_533.50"
+    },
+    {
+      "path": "PS2/SLES_533.50/SLES_533.50_BG_03.png",
+      "kind": "background",
+      "bytes": 136928,
+      "width": 640,
+      "height": 480,
+      "sha256": "ebe829101944d85773d72b6aa86a8ff0c38e2460de65dd092415636d787bee49",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.50/SLES_533.50_BG_03.png"
+      },
+      "gameId": "SLES_533.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sonic Gems Collection"
+}

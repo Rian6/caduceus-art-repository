@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_217.51",
+  "cover": {
+    "path": "PS2/SLUS_217.51/SLUS_217.51_COV.png",
+    "kind": "cover",
+    "bytes": 107076,
+    "width": 192,
+    "height": 272,
+    "sha256": "9dfa00d6865fc02dea050e76ca220751175a5ef8a2c5038a240c0c63dd9a45b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21751.jpg"
+    },
+    "gameId": "SLUS_217.51"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.51/SLUS_217.51_ICO.png",
+    "kind": "disc",
+    "bytes": 29075,
+    "width": 256,
+    "height": 256,
+    "sha256": "ea5fe98c96892abcdbfb9b952cf0056c7997325d4f7d37700b6fe1dd85278f0c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.51_ICO.png"
+    },
+    "gameId": "SLUS_217.51"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Backyard Baseball '09"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.08",
+  "cover": {
+    "path": "PS2/SLPM_663.08/SLPM_663.08_COV.png",
+    "kind": "cover",
+    "bytes": 57713,
+    "width": 192,
+    "height": 272,
+    "sha256": "7d619e5750f827600f9c95c6e5467d5703450ffd5c3762f26e8d115f409883a3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66308.jpg"
+    },
+    "gameId": "SLPM_663.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harukanaru Jikuu no Naka (Premium Box)"
+}

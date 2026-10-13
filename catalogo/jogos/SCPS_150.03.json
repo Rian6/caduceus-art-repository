@@ -1,0 +1,64 @@
+{
+  "id": "SCPS_150.03",
+  "cover": {
+    "path": "PS2/SCPS_150.03/SCPS_150.03_COV.png",
+    "kind": "cover",
+    "bytes": 95349,
+    "width": 192,
+    "height": 272,
+    "sha256": "8281368bd2c0456525a841bd91d2c192bad085cbc6538985bc98b7ce7e08b26e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15003.jpg"
+    },
+    "gameId": "SCPS_150.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.03/SCPS_150.03_BG.png",
+    "kind": "background",
+    "bytes": 179900,
+    "width": 640,
+    "height": 480,
+    "sha256": "7788b9e178382988c804b67e458eb6a76254347de767f06a5bbdecb6f816870b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.03/SCPS_150.03_BG_00.png"
+    },
+    "gameId": "SCPS_150.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.03/SCPS_150.03_BG.png",
+      "kind": "background",
+      "bytes": 179900,
+      "width": 640,
+      "height": 480,
+      "sha256": "7788b9e178382988c804b67e458eb6a76254347de767f06a5bbdecb6f816870b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.03/SCPS_150.03_BG_00.png"
+      },
+      "gameId": "SCPS_150.03"
+    },
+    {
+      "path": "PS2/SCPS_150.03/SCPS_150.03_BG_01.png",
+      "kind": "background",
+      "bytes": 164176,
+      "width": 640,
+      "height": 480,
+      "sha256": "dfec3c384505f3ab1e57a1b3b80903eab2208e58b0679b5b5c216473dc32fdd6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.03/SCPS_150.03_BG_01.png"
+      },
+      "gameId": "SCPS_150.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Sky Odyssey"
+}

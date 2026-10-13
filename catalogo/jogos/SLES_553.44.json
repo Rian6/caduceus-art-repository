@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.44",
+  "cover": {
+    "path": "PS2/SLES_553.44/SLES_553.44_COV.png",
+    "kind": "cover",
+    "bytes": 84689,
+    "width": 192,
+    "height": 272,
+    "sha256": "36cab4279f8d53e59812269d96d411515fc5c1e3b842258bab1619024445de55",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55344.jpg"
+    },
+    "gameId": "SLES_553.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rock Band - Songs Pack 1"
+}

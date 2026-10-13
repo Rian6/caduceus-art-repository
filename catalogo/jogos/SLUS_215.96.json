@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_215.96",
+  "cover": {
+    "path": "PS2/SLUS_215.96/SLUS_215.96_COV.png",
+    "kind": "cover",
+    "bytes": 105009,
+    "width": 192,
+    "height": 272,
+    "sha256": "7b83c5eef95ba1078393b18fb8de8395600dccd20de32422efac1fba9324bd07",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21596.jpg"
+    },
+    "gameId": "SLUS_215.96"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.96/SLUS_215.96_ICO.png",
+    "kind": "disc",
+    "bytes": 35339,
+    "width": 256,
+    "height": 256,
+    "sha256": "7b66465cf161ab21248a1eb9960d465002eeba35dc5bc580499e9d27c4c14f91",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.96_ICO.png"
+    },
+    "gameId": "SLUS_215.96"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.96/SLUS_215.96_BG.png",
+    "kind": "background",
+    "bytes": 171704,
+    "width": 640,
+    "height": 480,
+    "sha256": "b344c496de4bf64dd3e62ce498e4ecae46683dd633a902d1a87417507aa5ef67",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.96/SLUS_215.96_BG_00.png"
+    },
+    "gameId": "SLUS_215.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.96/SLUS_215.96_BG.png",
+      "kind": "background",
+      "bytes": 171704,
+      "width": 640,
+      "height": 480,
+      "sha256": "b344c496de4bf64dd3e62ce498e4ecae46683dd633a902d1a87417507aa5ef67",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.96/SLUS_215.96_BG_00.png"
+      },
+      "gameId": "SLUS_215.96"
+    },
+    {
+      "path": "PS2/SLUS_215.96/SLUS_215.96_BG_01.png",
+      "kind": "background",
+      "bytes": 122092,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff51867839cb592ad830ca932b8f54c777a5c631484256ff85ba85939fb4f73a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.96/SLUS_215.96_BG_01.png"
+      },
+      "gameId": "SLUS_215.96"
+    },
+    {
+      "path": "PS2/SLUS_215.96/SLUS_215.96_BG_02.png",
+      "kind": "background",
+      "bytes": 187984,
+      "width": 640,
+      "height": 480,
+      "sha256": "22e36f770bc6f26fccf63737ed37aabc1831d4b63b36ecf437a4c07d679c29ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.96/SLUS_215.96_BG_02.png"
+      },
+      "gameId": "SLUS_215.96"
+    },
+    {
+      "path": "PS2/SLUS_215.96/SLUS_215.96_BG_03.png",
+      "kind": "background",
+      "bytes": 205212,
+      "width": 640,
+      "height": 480,
+      "sha256": "f790244d803b0b56f6130d501ee8f838f35eef84abe10625b3a436209b0bcff4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.96/SLUS_215.96_BG_03.png"
+      },
+      "gameId": "SLUS_215.96"
+    },
+    {
+      "path": "PS2/SLUS_215.96/SLUS_215.96_BG_04.png",
+      "kind": "background",
+      "bytes": 137114,
+      "width": 640,
+      "height": 480,
+      "sha256": "a457a1fe1c1ba6a68473fd130da0c9c0ad109a48d1e2dd1149d622d569b5ce87",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.96/SLUS_215.96_BG_04.png"
+      },
+      "gameId": "SLUS_215.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Burnout - Dominator"
+}

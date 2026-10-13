@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_217.29",
+  "cover": {
+    "path": "PS2/SLUS_217.29/SLUS_217.29_COV.png",
+    "kind": "cover",
+    "bytes": 83113,
+    "width": 192,
+    "height": 272,
+    "sha256": "8d6d0423da84bf4afcd1a1f4a3614cb131ad0b71507d2ce4c39be5a65e784ff0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21729.jpg"
+    },
+    "gameId": "SLUS_217.29"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.29/SLUS_217.29_ICO.png",
+    "kind": "disc",
+    "bytes": 29210,
+    "width": 256,
+    "height": 256,
+    "sha256": "cc37d03eb117a4058766ce75a5b3842c96d3f87612292541751e27ea0c66121f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.29_ICO.png"
+    },
+    "gameId": "SLUS_217.29"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.29/SLUS_217.29_BG.png",
+    "kind": "background",
+    "bytes": 220713,
+    "width": 640,
+    "height": 480,
+    "sha256": "c29d10e46709ec5eb08f5c9ecc031228f5a10a8e8f1557ff3337fc83a4ec01c0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.29/SLUS_217.29_BG_00.png"
+    },
+    "gameId": "SLUS_217.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.29/SLUS_217.29_BG.png",
+      "kind": "background",
+      "bytes": 220713,
+      "width": 640,
+      "height": 480,
+      "sha256": "c29d10e46709ec5eb08f5c9ecc031228f5a10a8e8f1557ff3337fc83a4ec01c0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.29/SLUS_217.29_BG_00.png"
+      },
+      "gameId": "SLUS_217.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Major League Baseball 2K8"
+}

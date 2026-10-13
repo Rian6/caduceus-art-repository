@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.33",
+  "cover": {
+    "path": "PS2/SLPS_201.33/SLPS_201.33_COV.png",
+    "kind": "cover",
+    "bytes": 56241,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e8fd17f62c4b4d88bf33d83f4941da2b5b9d3469c8f5c66fed8bb81b81fb110",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_201.33/SLPS_201.33_COV.png"
+    },
+    "gameId": "SLPS_201.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Mahjong Kiwame Next (Reprint)"
+}

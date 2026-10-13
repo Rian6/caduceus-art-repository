@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_192.01",
+  "cover": {
+    "path": "PS2/SCPS_192.01/SCPS_192.01_COV.png",
+    "kind": "cover",
+    "bytes": 100234,
+    "width": 192,
+    "height": 272,
+    "sha256": "1fa85f83ad4fddc8a126a685a54c49ef36918dbf3e1b6295131cc790461a3982",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19201.jpg"
+    },
+    "gameId": "SCPS_192.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PARAPPA THE RAPPER 2 [PLAYSTATION 2 THE BEST]"
+}

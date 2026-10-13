@@ -1,0 +1,78 @@
+{
+  "id": "SCPS_150.54",
+  "cover": {
+    "path": "PS2/SCPS_150.54/SCPS_150.54_COV.png",
+    "kind": "cover",
+    "bytes": 90725,
+    "width": 192,
+    "height": 272,
+    "sha256": "f1b174448efb7b9eaa22c63961bc655c33723af344be249f3e48b598060573d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15054.jpg"
+    },
+    "gameId": "SCPS_150.54"
+  },
+  "disc": {
+    "path": "PS2/SCPS_150.54/SCPS_150.54_ICO.png",
+    "kind": "disc",
+    "bytes": 10715,
+    "width": 128,
+    "height": 128,
+    "sha256": "ebb8a9f858dc2942475fc25d7028992d8e07d54c240ba9be68bac7b1e7849211",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCPS_150.54_ICO.png"
+    },
+    "gameId": "SCPS_150.54"
+  },
+  "background": {
+    "path": "PS2/SCPS_150.54/SCPS_150.54_BG.png",
+    "kind": "background",
+    "bytes": 173400,
+    "width": 640,
+    "height": 480,
+    "sha256": "6af166beed19784a9e770e59b95c1b2fc794458ce428c8e16335f764cb2687ae",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.54/SCPS_150.54_BG_00.png"
+    },
+    "gameId": "SCPS_150.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.54/SCPS_150.54_BG.png",
+      "kind": "background",
+      "bytes": 173400,
+      "width": 640,
+      "height": 480,
+      "sha256": "6af166beed19784a9e770e59b95c1b2fc794458ce428c8e16335f764cb2687ae",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.54/SCPS_150.54_BG_00.png"
+      },
+      "gameId": "SCPS_150.54"
+    },
+    {
+      "path": "PS2/SCPS_150.54/SCPS_150.54_BG_01.png",
+      "kind": "background",
+      "bytes": 72586,
+      "width": 640,
+      "height": 480,
+      "sha256": "538e02c981c5f429b66893e94bbe9a77c0b1dceefcce2a103d483ec0f309a2ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.54/SCPS_150.54_BG_01.png"
+      },
+      "gameId": "SCPS_150.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Chain Dive"
+}

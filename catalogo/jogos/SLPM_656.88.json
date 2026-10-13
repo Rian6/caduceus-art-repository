@@ -1,0 +1,130 @@
+{
+  "id": "SLPM_656.88",
+  "cover": {
+    "path": "PS2/SLPM_656.88/SLPM_656.88_COV.png",
+    "kind": "cover",
+    "bytes": 106008,
+    "width": 192,
+    "height": 272,
+    "sha256": "a1e473ab4d32e0409c3e01bf6bf6a6069a35e281eeaf500efa0ed3919a9f6125",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65688.jpg"
+    },
+    "gameId": "SLPM_656.88"
+  },
+  "disc": {
+    "path": "PS2/SLPM_656.88/SLPM_656.88_ICO.png",
+    "kind": "disc",
+    "bytes": 10067,
+    "width": 128,
+    "height": 128,
+    "sha256": "ba5c59b1c7f8955c7a2c735de38ce6f40a9bfb1d88076015513afabc1ff4d0c8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_656.88_ICO.png"
+    },
+    "gameId": "SLPM_656.88"
+  },
+  "background": {
+    "path": "PS2/SLPM_656.88/SLPM_656.88_BG.png",
+    "kind": "background",
+    "bytes": 191270,
+    "width": 640,
+    "height": 480,
+    "sha256": "f8ee4d23b9a60af3425d98e218ec2f014d57978e0be08ce4a3ff3b3242041b52",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_656.88/SLPM_656.88_BG_00.png"
+    },
+    "gameId": "SLPM_656.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_656.88/SLPM_656.88_BG.png",
+      "kind": "background",
+      "bytes": 191270,
+      "width": 640,
+      "height": 480,
+      "sha256": "f8ee4d23b9a60af3425d98e218ec2f014d57978e0be08ce4a3ff3b3242041b52",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.88/SLPM_656.88_BG_00.png"
+      },
+      "gameId": "SLPM_656.88"
+    },
+    {
+      "path": "PS2/SLPM_656.88/SLPM_656.88_BG_01.png",
+      "kind": "background",
+      "bytes": 201126,
+      "width": 640,
+      "height": 480,
+      "sha256": "f0bf90c8ad7d92a07213f3225ec1d6122da3e0d2bb8e939061a2f6710a6356ba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.88/SLPM_656.88_BG_01.png"
+      },
+      "gameId": "SLPM_656.88"
+    },
+    {
+      "path": "PS2/SLPM_656.88/SLPM_656.88_BG_02.png",
+      "kind": "background",
+      "bytes": 20492,
+      "width": 640,
+      "height": 480,
+      "sha256": "1794d63cb5023f6eb3ce766154ccf659a22535acfb58679c6b82125ea1ef1168",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.88/SLPM_656.88_BG_02.png"
+      },
+      "gameId": "SLPM_656.88"
+    },
+    {
+      "path": "PS2/SLPM_656.88/SLPM_656.88_BG_03.png",
+      "kind": "background",
+      "bytes": 254689,
+      "width": 640,
+      "height": 480,
+      "sha256": "14da1921cae9048eed9db430773dc5ec2e5957bbe2340b460826215d44d00539",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.88/SLPM_656.88_BG_03.png"
+      },
+      "gameId": "SLPM_656.88"
+    },
+    {
+      "path": "PS2/SLPM_656.88/SLPM_656.88_BG_04.png",
+      "kind": "background",
+      "bytes": 205121,
+      "width": 640,
+      "height": 480,
+      "sha256": "63e7a52498e2e0250411464a622db5053eb3209ab1e78a1ba32e3f8f0b08e7de",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.88/SLPM_656.88_BG_04.png"
+      },
+      "gameId": "SLPM_656.88"
+    },
+    {
+      "path": "PS2/SLPM_656.88/SLPM_656.88_BG_05.png",
+      "kind": "background",
+      "bytes": 249122,
+      "width": 640,
+      "height": 480,
+      "sha256": "953f440c70b3f5887ecc488971c86de2f81526e91c74c117b8f4c988d9decaf0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_656.88/SLPM_656.88_BG_05.png"
+      },
+      "gameId": "SLPM_656.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Berserk: Millennium Falcon: Sennen Teikoku no Taka-hen: Seima Senki no Shou"
+}

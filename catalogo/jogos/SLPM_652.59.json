@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.59",
+  "cover": {
+    "path": "PS2/SLPM_652.59/SLPM_652.59_COV.png",
+    "kind": "cover",
+    "bytes": 71627,
+    "width": 192,
+    "height": 272,
+    "sha256": "82a749d4c5a18ed1850462aab0c232fd1e7bb97a12dbf12ec7c4adb42288ed4a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65259.jpg"
+    },
+    "gameId": "SLPM_652.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHIN MEGAMI TENSEI III - NOCTURNE [TSUTAYA ORIGINAL VERSION]"
+}

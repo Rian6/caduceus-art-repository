@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.98",
+  "cover": {
+    "path": "PS2/SLPS_203.98/SLPS_203.98_COV.png",
+    "kind": "cover",
+    "bytes": 118451,
+    "width": 192,
+    "height": 272,
+    "sha256": "f48514384e51d91ca5c6e5f420e02ec68122c1edab869738146dfa25e2adcd58",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20398.jpg"
+    },
+    "gameId": "SLPS_203.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LA PUCELLE - HIKARI NO SEIJO DENSETSU"
+}

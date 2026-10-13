@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.36",
+  "cover": {
+    "path": "PS2/SLPM_651.36/SLPM_651.36_COV.png",
+    "kind": "cover",
+    "bytes": 94116,
+    "width": 192,
+    "height": 272,
+    "sha256": "92a0ed2139a32e086745b4aab40b4607ea96ca029b2f69378724e79fede3d900",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65136.jpg"
+    },
+    "gameId": "SLPM_651.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NATSUIRO NO SUNADOKEI"
+}

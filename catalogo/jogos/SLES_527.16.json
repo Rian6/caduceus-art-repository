@@ -1,0 +1,25 @@
+{
+  "id": "SLES_527.16",
+  "cover": {
+    "path": "PS2/SLES_527.16/SLES_527.16_COV.png",
+    "kind": "cover",
+    "bytes": 55970,
+    "width": 192,
+    "height": 272,
+    "sha256": "29381e7d0ee1db8c090aa0a25988b09373c6546008f886053cd2f579202b4182",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.16/SLES_527.16_COV.png"
+    },
+    "gameId": "SLES_527.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Energy Thieves"
+}

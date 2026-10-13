@@ -1,0 +1,77 @@
+{
+  "id": "SLES_543.95",
+  "cover": {
+    "path": "PS2/SLES_543.95/SLES_543.95_COV.png",
+    "kind": "cover",
+    "bytes": 108807,
+    "width": 192,
+    "height": 272,
+    "sha256": "c4cab38a65f4df66a5034a5ebbb0f241398d2d2f866f8dca0b0691357dfa167f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54395.jpg"
+    },
+    "gameId": "SLES_543.95"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.95/SLES_543.95_BG.png",
+    "kind": "background",
+    "bytes": 230646,
+    "width": 640,
+    "height": 480,
+    "sha256": "1ae6ca5458c0782550bf87bb7b8436ac17bdfe0759edc6bb5e3d14598edb421c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.95/SLES_543.95_BG_00.png"
+    },
+    "gameId": "SLES_543.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.95/SLES_543.95_BG.png",
+      "kind": "background",
+      "bytes": 230646,
+      "width": 640,
+      "height": 480,
+      "sha256": "1ae6ca5458c0782550bf87bb7b8436ac17bdfe0759edc6bb5e3d14598edb421c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.95/SLES_543.95_BG_00.png"
+      },
+      "gameId": "SLES_543.95"
+    },
+    {
+      "path": "PS2/SLES_543.95/SLES_543.95_BG_01.png",
+      "kind": "background",
+      "bytes": 191777,
+      "width": 640,
+      "height": 480,
+      "sha256": "b746bd83e508e47f3008341d3df55681969b9624e3c1b38bdd7ed8ea4375d903",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.95/SLES_543.95_BG_01.png"
+      },
+      "gameId": "SLES_543.95"
+    },
+    {
+      "path": "PS2/SLES_543.95/SLES_543.95_BG_02.png",
+      "kind": "background",
+      "bytes": 260586,
+      "width": 640,
+      "height": 480,
+      "sha256": "2a19b0f0f8f2fc1c14df56b18aa0f198366e59f5e86d9c7bab047d5f7635d8ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.95/SLES_543.95_BG_02.png"
+      },
+      "gameId": "SLES_543.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NEOGEO BATTLE COLISEUM"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SCUS_973.53",
+  "cover": {
+    "path": "PS2/SCUS_973.53/SCUS_973.53_COV.png",
+    "kind": "cover",
+    "bytes": 93559,
+    "width": 192,
+    "height": 272,
+    "sha256": "decd013ce568fa155a4e665e876d27de421b00c62e6e533b39f95ec80d0792f6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97353.jpg"
+    },
+    "gameId": "SCUS_973.53"
+  },
+  "disc": {
+    "path": "PS2/SCUS_973.53/SCUS_973.53_ICO.png",
+    "kind": "disc",
+    "bytes": 36746,
+    "width": 256,
+    "height": 256,
+    "sha256": "fbdb1c1ff1dd11982b2acfeb0c4a43c41350b698b5f37a8d679eb7aad429b721",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_973.53_ICO.png"
+    },
+    "gameId": "SCUS_973.53"
+  },
+  "background": {
+    "path": "PS2/SCUS_973.53/SCUS_973.53_BG.png",
+    "kind": "background",
+    "bytes": 136828,
+    "width": 640,
+    "height": 480,
+    "sha256": "9f057ff6cf02f690640b1e09a40359e943f4a28b1ad8985859e0a7a1e57b210f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_973.53/SCUS_973.53_BG_00.png"
+    },
+    "gameId": "SCUS_973.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_973.53/SCUS_973.53_BG.png",
+      "kind": "background",
+      "bytes": 136828,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f057ff6cf02f690640b1e09a40359e943f4a28b1ad8985859e0a7a1e57b210f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_973.53/SCUS_973.53_BG_00.png"
+      },
+      "gameId": "SCUS_973.53"
+    },
+    {
+      "path": "PS2/SCUS_973.53/SCUS_973.53_BG_01.png",
+      "kind": "background",
+      "bytes": 180688,
+      "width": 640,
+      "height": 480,
+      "sha256": "51cfb357699b508c34163fb8c1d2e0448060878640963c900c3678cb3b9acba5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_973.53/SCUS_973.53_BG_01.png"
+      },
+      "gameId": "SCUS_973.53"
+    },
+    {
+      "path": "PS2/SCUS_973.53/SCUS_973.53_BG_02.png",
+      "kind": "background",
+      "bytes": 165386,
+      "width": 640,
+      "height": 480,
+      "sha256": "97133f786a5e5961ca2987864c3f0e217407f5453269e2f513641c22b45a7a74",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_973.53/SCUS_973.53_BG_02.png"
+      },
+      "gameId": "SCUS_973.53"
+    },
+    {
+      "path": "PS2/SCUS_973.53/SCUS_973.53_BG_03.png",
+      "kind": "background",
+      "bytes": 171884,
+      "width": 640,
+      "height": 480,
+      "sha256": "667096ecbcd090f407067e047c1b14785d9760c5f12fe1307e5c6a1aa1fb1ae0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_973.53/SCUS_973.53_BG_03.png"
+      },
+      "gameId": "SCUS_973.53"
+    },
+    {
+      "path": "PS2/SCUS_973.53/SCUS_973.53_BG_04.png",
+      "kind": "background",
+      "bytes": 126716,
+      "width": 640,
+      "height": 480,
+      "sha256": "ed4c16cb074c7456bd452e1ef5783d08df50764491574f3beb591647280d9f57",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_973.53/SCUS_973.53_BG_04.png"
+      },
+      "gameId": "SCUS_973.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ratchet & Clank – Up Your Arsenal"
+}

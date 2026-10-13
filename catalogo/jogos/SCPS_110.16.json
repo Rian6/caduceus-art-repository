@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.16",
+  "cover": {
+    "path": "PS2/SCPS_110.16/SCPS_110.16_COV.png",
+    "kind": "cover",
+    "bytes": 74555,
+    "width": 192,
+    "height": 272,
+    "sha256": "b4778ffd3f23719c6e26769961ab7266c3ead80b82b832b913bf2f6aa643f29c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11016.jpg"
+    },
+    "gameId": "SCPS_110.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SEIGI NO MIKATA"
+}

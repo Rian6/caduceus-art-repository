@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.16",
+  "cover": {
+    "path": "PS2/SLPM_550.16/SLPM_550.16_COV.png",
+    "kind": "cover",
+    "bytes": 117454,
+    "width": 192,
+    "height": 272,
+    "sha256": "2fda6c6c739137921f89d62914c632241e912321a226ee0c2db9bb6aefe65d95",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55016.jpg"
+    },
+    "gameId": "SLPM_550.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yotsunoha - A Journey of Sincerity"
+}

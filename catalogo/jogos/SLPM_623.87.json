@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.87",
+  "cover": {
+    "path": "PS2/SLPM_623.87/SLPM_623.87_COV.png",
+    "kind": "cover",
+    "bytes": 66774,
+    "width": 192,
+    "height": 272,
+    "sha256": "fb6c693d3d4638ed9d06fc06a2a48419c76eb5a3640d703f4052f55d42bb6eda",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62387.jpg"
+    },
+    "gameId": "SLPM_623.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SuperLite 2000 Vol. 12 - Sudoku"
+}

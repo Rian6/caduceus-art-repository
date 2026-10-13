@@ -1,0 +1,25 @@
+{
+  "id": "SCED_508.44",
+  "cover": {
+    "path": "PS2/SCED_508.44/SCED_508.44_COV.png",
+    "kind": "cover",
+    "bytes": 51922,
+    "width": 192,
+    "height": 272,
+    "sha256": "aa87c7567aea0dc587639b0342f67b66da7304815083d38f16c589fe223f5c93",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCED_508.44/SCED_508.44_COV.png"
+    },
+    "gameId": "SCED_508.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ico (DEMO)"
+}

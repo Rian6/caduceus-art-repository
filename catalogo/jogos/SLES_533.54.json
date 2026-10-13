@@ -1,0 +1,65 @@
+{
+  "id": "SLES_533.54",
+  "cover": {
+    "path": "PS2/SLES_533.54/SLES_533.54_COV.png",
+    "kind": "cover",
+    "bytes": 83607,
+    "width": 192,
+    "height": 272,
+    "sha256": "ef5cfc384a53b566aced2c189712aff7ec296293ee04fff808726f63d0c84b9c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53354.jpg"
+    },
+    "gameId": "SLES_533.54"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.54/SLES_533.54_ICO.png",
+    "kind": "disc",
+    "bytes": 11655,
+    "width": 128,
+    "height": 128,
+    "sha256": "fea0ed21bbbf1f5e3ae4743f2f11b3850ce27e130fcd29b5392dc95acfc2ea15",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.54_ICO.png"
+    },
+    "gameId": "SLES_533.54"
+  },
+  "background": {
+    "path": "PS2/SLES_533.54/SLES_533.54_BG.png",
+    "kind": "background",
+    "bytes": 177533,
+    "width": 640,
+    "height": 480,
+    "sha256": "9b2bf81dd98fadce26925bb5515f446ccfb10ac1295c268b11d0556f41f1ccf8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.54/SLES_533.54_BG_00.png"
+    },
+    "gameId": "SLES_533.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.54/SLES_533.54_BG.png",
+      "kind": "background",
+      "bytes": 177533,
+      "width": 640,
+      "height": 480,
+      "sha256": "9b2bf81dd98fadce26925bb5515f446ccfb10ac1295c268b11d0556f41f1ccf8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.54/SLES_533.54_BG_00.png"
+      },
+      "gameId": "SLES_533.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Superbikes GP"
+}

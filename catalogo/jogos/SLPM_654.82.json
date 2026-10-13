@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.82",
+  "cover": {
+    "path": "PS2/SLPM_654.82/SLPM_654.82_COV.png",
+    "kind": "cover",
+    "bytes": 86217,
+    "width": 192,
+    "height": 272,
+    "sha256": "c118287bac52c625fae34c6be84fd1f942849a62e2d4fce67e76d9691725e612",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65482.jpg"
+    },
+    "gameId": "SLPM_654.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AFTER... WASUREEMU KIZUNA"
+}

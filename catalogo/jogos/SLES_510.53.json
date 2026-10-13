@@ -1,0 +1,51 @@
+{
+  "id": "SLES_510.53",
+  "cover": {
+    "path": "PS2/SLES_510.53/SLES_510.53_COV.png",
+    "kind": "cover",
+    "bytes": 82786,
+    "width": 192,
+    "height": 272,
+    "sha256": "5fa1945ca04f18d37f13b9e97ad9a2e1034e36edfdaa8e1d1f1ff847d5a051da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51053.jpg"
+    },
+    "gameId": "SLES_510.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_510.53/SLES_510.53_BG.png",
+    "kind": "background",
+    "bytes": 112244,
+    "width": 640,
+    "height": 480,
+    "sha256": "c75a8992439af025524b3c7348d3b1d8e48d5ae5a7ccd25a13457e81f703c9d8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_510.53/SLES_510.53_BG_00.png"
+    },
+    "gameId": "SLES_510.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_510.53/SLES_510.53_BG.png",
+      "kind": "background",
+      "bytes": 112244,
+      "width": 640,
+      "height": 480,
+      "sha256": "c75a8992439af025524b3c7348d3b1d8e48d5ae5a7ccd25a13457e81f703c9d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_510.53/SLES_510.53_BG_00.png"
+      },
+      "gameId": "SLES_510.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom and Jerry in War of the Whiskers"
+}

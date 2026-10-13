@@ -1,0 +1,51 @@
+{
+  "id": "SLES_540.18",
+  "cover": {
+    "path": "PS2/SLES_540.18/SLES_540.18_COV.png",
+    "kind": "cover",
+    "bytes": 101830,
+    "width": 192,
+    "height": 272,
+    "sha256": "7f3acc9378cb07bde8b7ab50a912816e3fc59f13128613eb7f478a74e8a41d70",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54018.jpg"
+    },
+    "gameId": "SLES_540.18"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_540.18/SLES_540.18_BG.png",
+    "kind": "background",
+    "bytes": 191275,
+    "width": 640,
+    "height": 480,
+    "sha256": "0070faaee622260c12fc9a77abc0bb282b6cd6a6cfb9728d753b44c84c345e25",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_540.18/SLES_540.18_BG_00.png"
+    },
+    "gameId": "SLES_540.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_540.18/SLES_540.18_BG.png",
+      "kind": "background",
+      "bytes": 191275,
+      "width": 640,
+      "height": 480,
+      "sha256": "0070faaee622260c12fc9a77abc0bb282b6cd6a6cfb9728d753b44c84c345e25",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.18/SLES_540.18_BG_00.png"
+      },
+      "gameId": "SLES_540.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jackpot Madness"
+}

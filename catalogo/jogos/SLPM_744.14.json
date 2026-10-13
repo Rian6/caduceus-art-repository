@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_744.14",
+  "cover": {
+    "path": "PS2/SLPM_744.14/SLPM_744.14_COV.png",
+    "kind": "cover",
+    "bytes": 73624,
+    "width": 192,
+    "height": 272,
+    "sha256": "9152f92d4d106cf36e42048c76df03ffabb1939ea46e093a742a8cd25c4be3ad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74414.jpg"
+    },
+    "gameId": "SLPM_744.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Energy Airforce (Playstation 2 The Best)"
+}

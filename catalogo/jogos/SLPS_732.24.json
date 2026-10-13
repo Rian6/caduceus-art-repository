@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.24",
+  "cover": {
+    "path": "PS2/SLPS_732.24/SLPS_732.24_COV.png",
+    "kind": "cover",
+    "bytes": 90693,
+    "width": 192,
+    "height": 272,
+    "sha256": "72dd778f5ff2d1c78fc1d8ebae55985ca6a23c7199e1db0d9c44a2190817479c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73224.jpg"
+    },
+    "gameId": "SLPS_732.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Xenosaga Episode II- Jenseits von Gut und Böse (Playstation 2 The Best) [2 DISCS]"
+}

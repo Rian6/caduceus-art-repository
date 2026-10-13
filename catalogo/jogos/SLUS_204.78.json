@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_204.78",
+  "cover": {
+    "path": "PS2/SLUS_204.78/SLUS_204.78_COV.png",
+    "kind": "cover",
+    "bytes": 108517,
+    "width": 192,
+    "height": 272,
+    "sha256": "e6c5dfacd0f28b4956269b722073329a6cf83901e70753521e2b97cd459f68ac",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20478.jpg"
+    },
+    "gameId": "SLUS_204.78"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.78/SLUS_204.78_ICO.png",
+    "kind": "disc",
+    "bytes": 33384,
+    "width": 256,
+    "height": 256,
+    "sha256": "5ba98fe54fe698fe4a4ed4493201700600cf3dca92cfb4f9bc0aa1041f8af53f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.78_ICO.png"
+    },
+    "gameId": "SLUS_204.78"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.78/SLUS_204.78_BG.png",
+    "kind": "background",
+    "bytes": 184555,
+    "width": 640,
+    "height": 480,
+    "sha256": "385c78f1f0717c7be5dc794249738009c167aebc4f381b406252658b42b3d3fc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.78/SLUS_204.78_BG_00.png"
+    },
+    "gameId": "SLUS_204.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.78/SLUS_204.78_BG.png",
+      "kind": "background",
+      "bytes": 184555,
+      "width": 640,
+      "height": 480,
+      "sha256": "385c78f1f0717c7be5dc794249738009c167aebc4f381b406252658b42b3d3fc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.78/SLUS_204.78_BG_00.png"
+      },
+      "gameId": "SLUS_204.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S PK - OUT OF THE SHADOWS"
+}

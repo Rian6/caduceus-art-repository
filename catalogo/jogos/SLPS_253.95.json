@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.95",
+  "cover": {
+    "path": "PS2/SLPS_253.95/SLPS_253.95_COV.png",
+    "kind": "cover",
+    "bytes": 43339,
+    "width": 192,
+    "height": 272,
+    "sha256": "b4672ba72b20923ff3eeb9cde30ce7f4715ed58b204301bebb75e5c52cf60029",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25395.jpg"
+    },
+    "gameId": "SLPS_253.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SENTIMENTAL PRELUDE"
+}

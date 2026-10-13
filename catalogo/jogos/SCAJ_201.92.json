@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.92",
+  "cover": {
+    "path": "PS2/SCAJ_201.92/SCAJ_201.92_COV.png",
+    "kind": "cover",
+    "bytes": 100060,
+    "width": 192,
+    "height": 272,
+    "sha256": "53a8f16743f155bc6e202de36ef86724a51ef603b750bc7664c438d7f80a133a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20192.jpg"
+    },
+    "gameId": "SCAJ_201.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Robot Taisen Original Generation Gaiden"
+}

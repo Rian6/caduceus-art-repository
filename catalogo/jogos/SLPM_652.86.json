@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.86",
+  "cover": {
+    "path": "PS2/SLPM_652.86/SLPM_652.86_COV.png",
+    "kind": "cover",
+    "bytes": 96841,
+    "width": 192,
+    "height": 272,
+    "sha256": "084bb7c5ebbd42aa49faf8bcc717411b957ea248ac756795455e7e4a35f31e4a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65286.jpg"
+    },
+    "gameId": "SLPM_652.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AUTO MODELLISTA - US TUNED"
+}

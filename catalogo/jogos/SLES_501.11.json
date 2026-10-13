@@ -1,0 +1,64 @@
+{
+  "id": "SLES_501.11",
+  "cover": {
+    "path": "PS2/SLES_501.11/SLES_501.11_COV.png",
+    "kind": "cover",
+    "bytes": 84862,
+    "width": 192,
+    "height": 272,
+    "sha256": "919f4a3c07ef63fcdeb95d1a7b25ae0ef1c7afff5dd76df84f57a79a8ad82922",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50111.jpg"
+    },
+    "gameId": "SLES_501.11"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_501.11/SLES_501.11_BG.png",
+    "kind": "background",
+    "bytes": 184948,
+    "width": 640,
+    "height": 480,
+    "sha256": "f9ee0448ea8603531c882c6f38ead0435e3f1021589a2c147c37af53989371b8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_501.11/SLES_501.11_BG_00.png"
+    },
+    "gameId": "SLES_501.11"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_501.11/SLES_501.11_BG.png",
+      "kind": "background",
+      "bytes": 184948,
+      "width": 640,
+      "height": 480,
+      "sha256": "f9ee0448ea8603531c882c6f38ead0435e3f1021589a2c147c37af53989371b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.11/SLES_501.11_BG_00.png"
+      },
+      "gameId": "SLES_501.11"
+    },
+    {
+      "path": "PS2/SLES_501.11/SLES_501.11_BG_01.png",
+      "kind": "background",
+      "bytes": 94796,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd2a3658f4d681003d79359cf750c6c5ee9e5c3d6d6169001871ec059aaa41d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.11/SLES_501.11_BG_01.png"
+      },
+      "gameId": "SLES_501.11"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zone of the Enders"
+}

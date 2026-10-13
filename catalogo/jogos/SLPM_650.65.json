@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.65",
+  "cover": {
+    "path": "PS2/SLPM_650.65/SLPM_650.65_COV.png",
+    "kind": "cover",
+    "bytes": 74142,
+    "width": 192,
+    "height": 272,
+    "sha256": "54cde139850879d11a4aa4d17ecb318c780ef608b1e888345789499510ef8e2b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65065.jpg"
+    },
+    "gameId": "SLPM_650.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SORCEROUS STABBER ORPHEN [KADOKAWA THE BEST]"
+}

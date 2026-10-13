@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.30",
+  "cover": {
+    "path": "PS2/SLPM_551.30/SLPM_551.30_COV.png",
+    "kind": "cover",
+    "bytes": 87555,
+    "width": 192,
+    "height": 272,
+    "sha256": "1fa8d4e17e859d37339324dcccd6f1601721d28f42379324339d19563653c99b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55130.jpg"
+    },
+    "gameId": "SLPM_551.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Yakyuu Spirits 5 Kanzenban (Limited Edition)"
+}

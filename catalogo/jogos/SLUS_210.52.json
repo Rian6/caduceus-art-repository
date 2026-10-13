@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_210.52",
+  "cover": {
+    "path": "PS2/SLUS_210.52/SLUS_210.52_COV.png",
+    "kind": "cover",
+    "bytes": 67303,
+    "width": 192,
+    "height": 272,
+    "sha256": "09bfa8148841324f963505bbcf117985c3de9fd163a86f5f752966de59ee6c17",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21052.jpg"
+    },
+    "gameId": "SLUS_210.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Monsters, Inc. (Disney/Pixar Classics)"
+}

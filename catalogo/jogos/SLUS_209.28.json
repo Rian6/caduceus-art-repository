@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_209.28",
+  "cover": {
+    "path": "PS2/SLUS_209.28/SLUS_209.28_COV.png",
+    "kind": "cover",
+    "bytes": 96975,
+    "width": 192,
+    "height": 272,
+    "sha256": "5bbbe3c61af664d7c64b97e45be740d108f11451ca0ca5c110aa886c2be5155b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20928.jpg"
+    },
+    "gameId": "SLUS_209.28"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.28/SLUS_209.28_ICO.png",
+    "kind": "disc",
+    "bytes": 34731,
+    "width": 256,
+    "height": 256,
+    "sha256": "bd3719f8568b74d6cd575ddfe8f6622550d48dfc9b37252f3bc0be9056709a49",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.28_ICO.png"
+    },
+    "gameId": "SLUS_209.28"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.28/SLUS_209.28_BG.png",
+    "kind": "background",
+    "bytes": 115062,
+    "width": 640,
+    "height": 480,
+    "sha256": "1d2ae3932f57a6177588fc51e903f04a051a42f8de2e8c152f003d51751614b0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.28/SLUS_209.28_BG_00.png"
+    },
+    "gameId": "SLUS_209.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.28/SLUS_209.28_BG.png",
+      "kind": "background",
+      "bytes": 115062,
+      "width": 640,
+      "height": 480,
+      "sha256": "1d2ae3932f57a6177588fc51e903f04a051a42f8de2e8c152f003d51751614b0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.28/SLUS_209.28_BG_00.png"
+      },
+      "gameId": "SLUS_209.28"
+    },
+    {
+      "path": "PS2/SLUS_209.28/SLUS_209.28_BG_01.png",
+      "kind": "background",
+      "bytes": 171583,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c396bd0aba1910557eae1e5d35d3e49c659f54891de7eae3b11a9bc913e4334",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.28/SLUS_209.28_BG_01.png"
+      },
+      "gameId": "SLUS_209.28"
+    },
+    {
+      "path": "PS2/SLUS_209.28/SLUS_209.28_BG_02.png",
+      "kind": "background",
+      "bytes": 137492,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ba7079bd457e246c6ec2c6973d2d3416b506b73f7d8614c1555cfa333eb3970",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.28/SLUS_209.28_BG_02.png"
+      },
+      "gameId": "SLUS_209.28"
+    },
+    {
+      "path": "PS2/SLUS_209.28/SLUS_209.28_BG_03.png",
+      "kind": "background",
+      "bytes": 188369,
+      "width": 640,
+      "height": 480,
+      "sha256": "4f5d1c8bb9ea7cec16361e503aa2c75e87c1e8c33f538d0063f8fb6d4ab38608",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.28/SLUS_209.28_BG_03.png"
+      },
+      "gameId": "SLUS_209.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ECHO NIGHT BEYOND"
+}

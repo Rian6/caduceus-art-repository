@@ -1,0 +1,77 @@
+{
+  "id": "SLES_554.05",
+  "cover": {
+    "path": "PS2/SLES_554.05/SLES_554.05_COV.png",
+    "kind": "cover",
+    "bytes": 63368,
+    "width": 192,
+    "height": 272,
+    "sha256": "ee28f996256e3e9590cbfdc80f2ce22f1b31ace0b09ce5ba8ec54273e810fbcd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_554.05/SLES_554.05_COV.png"
+    },
+    "gameId": "SLES_554.05"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_554.05/SLES_554.05_BG.png",
+    "kind": "background",
+    "bytes": 196869,
+    "width": 640,
+    "height": 480,
+    "sha256": "a8ca44c1ed673b14fb7947de2258a0df69ad07718ceb0b642040e5ba10886f99",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_554.05/SLES_554.05_BG_00.png"
+    },
+    "gameId": "SLES_554.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_554.05/SLES_554.05_BG.png",
+      "kind": "background",
+      "bytes": 196869,
+      "width": 640,
+      "height": 480,
+      "sha256": "a8ca44c1ed673b14fb7947de2258a0df69ad07718ceb0b642040e5ba10886f99",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.05/SLES_554.05_BG_00.png"
+      },
+      "gameId": "SLES_554.05"
+    },
+    {
+      "path": "PS2/SLES_554.05/SLES_554.05_BG_01.png",
+      "kind": "background",
+      "bytes": 200581,
+      "width": 640,
+      "height": 480,
+      "sha256": "406c917d923eccca1b9db87375820474130527f2dc50d0095901a930f6a6d001",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.05/SLES_554.05_BG_01.png"
+      },
+      "gameId": "SLES_554.05"
+    },
+    {
+      "path": "PS2/SLES_554.05/SLES_554.05_BG_02.png",
+      "kind": "background",
+      "bytes": 186681,
+      "width": 640,
+      "height": 480,
+      "sha256": "809779a59c3468b59dbdda50f5dd407948734225bb756c81925b778b5a03132c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.05/SLES_554.05_BG_02.png"
+      },
+      "gameId": "SLES_554.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PES 2009: Pro Evolution Soccer"
+}

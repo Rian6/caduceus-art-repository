@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_552.03",
+  "cover": {
+    "path": "PS2/SLPM_552.03/SLPM_552.03_COV.png",
+    "kind": "cover",
+    "bytes": 117702,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e5fcd0380ee040da381b6fff32f5fb32eb32480ddba2017a0522a77726a0f98",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55203.jpg"
+    },
+    "gameId": "SLPM_552.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_552.03/SLPM_552.03_BG.png",
+    "kind": "background",
+    "bytes": 175256,
+    "width": 640,
+    "height": 480,
+    "sha256": "3956241e8bf711106dd341b4ab913668091a1312f07a03b6ec3f74162543af01",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_552.03/SLPM_552.03_BG_00.png"
+    },
+    "gameId": "SLPM_552.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_552.03/SLPM_552.03_BG.png",
+      "kind": "background",
+      "bytes": 175256,
+      "width": 640,
+      "height": 480,
+      "sha256": "3956241e8bf711106dd341b4ab913668091a1312f07a03b6ec3f74162543af01",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_552.03/SLPM_552.03_BG_00.png"
+      },
+      "gameId": "SLPM_552.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Little Busters! Converted Edition"
+}

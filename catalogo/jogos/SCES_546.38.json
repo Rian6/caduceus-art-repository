@@ -1,0 +1,39 @@
+{
+  "id": "SCES_546.38",
+  "cover": {
+    "path": "PS2/SCES_546.38/SCES_546.38_COV.png",
+    "kind": "cover",
+    "bytes": 85875,
+    "width": 192,
+    "height": 272,
+    "sha256": "8fcd6026765b839b777b7ead628555178e7270cb2331e32eb6b50c5d4d08480f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54638.jpg"
+    },
+    "gameId": "SCES_546.38"
+  },
+  "disc": {
+    "path": "PS2/SCES_546.38/SCES_546.38_ICO.png",
+    "kind": "disc",
+    "bytes": 11202,
+    "width": 128,
+    "height": 128,
+    "sha256": "1fd7946a9ac8d81842e1a8a3d55811e1a27f5801e2a84c3180c41f531b8e091a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_546.38_ICO.png"
+    },
+    "gameId": "SCES_546.38"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gaelic Games - Football 2"
+}

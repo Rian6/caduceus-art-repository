@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.60",
+  "cover": {
+    "path": "PS2/SLKA_253.60/SLKA_253.60_COV.png",
+    "kind": "cover",
+    "bytes": 103682,
+    "width": 192,
+    "height": 272,
+    "sha256": "2cfac68493bfd75d2d0d8bab5878cfbe0907ddf08c1872a4b10f44898ba79748",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25360.jpg"
+    },
+    "gameId": "SLKA_253.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAMURAI CHAMPLOO"
+}

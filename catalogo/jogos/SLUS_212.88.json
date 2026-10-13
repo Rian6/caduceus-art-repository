@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_212.88",
+  "cover": {
+    "path": "PS2/SLUS_212.88/SLUS_212.88_COV.png",
+    "kind": "cover",
+    "bytes": 96742,
+    "width": 192,
+    "height": 272,
+    "sha256": "0369fe812d4f2b3070c683f1e9af62d188bb3337d92e15cb1fb97db8d03b6c0b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21288.jpg"
+    },
+    "gameId": "SLUS_212.88"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.88/SLUS_212.88_ICO.png",
+    "kind": "disc",
+    "bytes": 24648,
+    "width": 256,
+    "height": 256,
+    "sha256": "a469096358b576124a50e27b2d30aac94955166ca9735c93f1bfb00db66bec28",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.88_ICO.png"
+    },
+    "gameId": "SLUS_212.88"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.88/SLUS_212.88_BG.png",
+    "kind": "background",
+    "bytes": 169518,
+    "width": 640,
+    "height": 480,
+    "sha256": "f36e2ee3052325e4097b57a231c73442ce28ac453d695107ad38fcfeb5ca4d5b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.88/SLUS_212.88_BG_00.png"
+    },
+    "gameId": "SLUS_212.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.88/SLUS_212.88_BG.png",
+      "kind": "background",
+      "bytes": 169518,
+      "width": 640,
+      "height": 480,
+      "sha256": "f36e2ee3052325e4097b57a231c73442ce28ac453d695107ad38fcfeb5ca4d5b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.88/SLUS_212.88_BG_00.png"
+      },
+      "gameId": "SLUS_212.88"
+    },
+    {
+      "path": "PS2/SLUS_212.88/SLUS_212.88_BG_01.png",
+      "kind": "background",
+      "bytes": 225559,
+      "width": 640,
+      "height": 480,
+      "sha256": "0efb1a6825b52d8a152de0406a546da5cabdda2e7b1768f0c90a17b6fec93d75",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.88/SLUS_212.88_BG_01.png"
+      },
+      "gameId": "SLUS_212.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "American Chopper 2"
+}

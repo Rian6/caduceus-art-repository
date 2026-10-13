@@ -1,0 +1,25 @@
+{
+  "id": "SLES_540.93",
+  "cover": {
+    "path": "PS2/SLES_540.93/SLES_540.93_COV.png",
+    "kind": "cover",
+    "bytes": 88193,
+    "width": 192,
+    "height": 272,
+    "sha256": "8485b0157ebabdc2a58a9b49cfd0d542f8f3480c4e5e2ceed88b13accf541e39",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54093.jpg"
+    },
+    "gameId": "SLES_540.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guitar Hero"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ALCH_000.02",
+  "cover": {
+    "path": "PS2/ALCH_000.02/ALCH_000.02_COV.png",
+    "kind": "cover",
+    "bytes": 70478,
+    "width": 192,
+    "height": 272,
+    "sha256": "28a46e8f4c04720ade62b07e8235b04d3c90bc7629f961df63272f00dbbde4b1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/ALCH_000.02/ALCH_000.02_COV.png"
+    },
+    "gameId": "ALCH_000.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Baldr Force EXE (Mega Box)"
+}

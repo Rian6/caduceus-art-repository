@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_725.02",
+  "cover": {
+    "path": "PS2/SLPS_725.02/SLPS_725.02_COV.png",
+    "kind": "cover",
+    "bytes": 83624,
+    "width": 192,
+    "height": 272,
+    "sha256": "db825cbc86ba9f194ef2cd9c65d9ad6dabb5a2610eab33fb6976386c94da6bfb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-72502.jpg"
+    },
+    "gameId": "SLPS_725.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_725.02/SLPS_725.02_BG.png",
+    "kind": "background",
+    "bytes": 186506,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a62a33518665edf73fb5279510454743c2e09aaaca66d845125f7690695aed6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_725.02/SLPS_725.02_BG_00.png"
+    },
+    "gameId": "SLPS_725.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_725.02/SLPS_725.02_BG.png",
+      "kind": "background",
+      "bytes": 186506,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a62a33518665edf73fb5279510454743c2e09aaaca66d845125f7690695aed6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_725.02/SLPS_725.02_BG_00.png"
+      },
+      "gameId": "SLPS_725.02"
+    },
+    {
+      "path": "PS2/SLPS_725.02/SLPS_725.02_BG_01.png",
+      "kind": "background",
+      "bytes": 139216,
+      "width": 640,
+      "height": 480,
+      "sha256": "b2097e0b6699286ccdedf38f6a9c4997c9194bd1499959371c4deac51e67d6f5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_725.02/SLPS_725.02_BG_01.png"
+      },
+      "gameId": "SLPS_725.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tales of Destiny 2 (Playstation 2 The Best)"
+}

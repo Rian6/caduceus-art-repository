@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_622.50",
+  "cover": {
+    "path": "PS2/SLPM_622.50/SLPM_622.50_COV.png",
+    "kind": "cover",
+    "bytes": 73763,
+    "width": 192,
+    "height": 272,
+    "sha256": "910cfc85b5a99559136716fc3ba7cba8d984067bc7bc55e8f47e7bc14d45238b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62250.jpg"
+    },
+    "gameId": "SLPM_622.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_622.50/SLPM_622.50_BG.png",
+    "kind": "background",
+    "bytes": 432693,
+    "width": 640,
+    "height": 480,
+    "sha256": "3c06777b4ca6af6526f00ae7e4368bc166f2d629a49e0383043f4b2cd0eb38a2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_622.50/SLPM_622.50_BG_00.png"
+    },
+    "gameId": "SLPM_622.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_622.50/SLPM_622.50_BG.png",
+      "kind": "background",
+      "bytes": 432693,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c06777b4ca6af6526f00ae7e4368bc166f2d629a49e0383043f4b2cd0eb38a2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_622.50/SLPM_622.50_BG_00.png"
+      },
+      "gameId": "SLPM_622.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hello Kitty: Minna de Sugoroku (Simple 2000 Hello Kitty Series Vol. 2)"
+}

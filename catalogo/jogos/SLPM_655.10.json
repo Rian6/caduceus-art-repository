@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.10",
+  "cover": {
+    "path": "PS2/SLPM_655.10/SLPM_655.10_COV.png",
+    "kind": "cover",
+    "bytes": 100434,
+    "width": 192,
+    "height": 272,
+    "sha256": "f4f0cc6fce7dc9ecbe458c3aa8995132f6d71195ec6953f562f54b44eea908df",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65510.jpg"
+    },
+    "gameId": "SLPM_655.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENNIS NO OJI-SAMA - LOVE OF PRINCE - BITTER"
+}

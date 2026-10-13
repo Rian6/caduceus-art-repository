@@ -1,0 +1,65 @@
+{
+  "id": "SLES_546.95",
+  "cover": {
+    "path": "PS2/SLES_546.95/SLES_546.95_COV.png",
+    "kind": "cover",
+    "bytes": 93411,
+    "width": 192,
+    "height": 272,
+    "sha256": "743951f4afa590c9a752a8c9aaac933cbf04cf3449b219f180a55cecbba9f81f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54695.jpg"
+    },
+    "gameId": "SLES_546.95"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.95/SLES_546.95_ICO.png",
+    "kind": "disc",
+    "bytes": 9531,
+    "width": 128,
+    "height": 128,
+    "sha256": "78b4de990c865dd8f64402d38ad799df5b3a4f235716a6c4d01c602a377f5e66",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.95_ICO.png"
+    },
+    "gameId": "SLES_546.95"
+  },
+  "background": {
+    "path": "PS2/SLES_546.95/SLES_546.95_BG.png",
+    "kind": "background",
+    "bytes": 145399,
+    "width": 640,
+    "height": 480,
+    "sha256": "f5396ac3989e4d42efd0c8e333022b01d1808d26bef7dec08a0e7c1145ea5b16",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.95/SLES_546.95_BG_00.png"
+    },
+    "gameId": "SLES_546.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_546.95/SLES_546.95_BG.png",
+      "kind": "background",
+      "bytes": 145399,
+      "width": 640,
+      "height": 480,
+      "sha256": "f5396ac3989e4d42efd0c8e333022b01d1808d26bef7dec08a0e7c1145ea5b16",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.95/SLES_546.95_BG_00.png"
+      },
+      "gameId": "SLES_546.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Azur & Asmar"
+}

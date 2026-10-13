@@ -1,0 +1,65 @@
+{
+  "id": "SLPS_255.23",
+  "cover": {
+    "path": "PS2/SLPS_255.23/SLPS_255.23_COV.png",
+    "kind": "cover",
+    "bytes": 116277,
+    "width": 192,
+    "height": 272,
+    "sha256": "edb2b0a94a813d6b1b453aeac4fd91290267225e675d8eb5f613e546d88943de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25523.jpg"
+    },
+    "gameId": "SLPS_255.23"
+  },
+  "disc": {
+    "path": "PS2/SLPS_255.23/SLPS_255.23_ICO.png",
+    "kind": "disc",
+    "bytes": 12527,
+    "width": 128,
+    "height": 128,
+    "sha256": "7524e4146cc9682fedab1d13fa9a30bf709bfa7d3a350b05873d20ff14ab4fce",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_255.23_ICO.png"
+    },
+    "gameId": "SLPS_255.23"
+  },
+  "background": {
+    "path": "PS2/SLPS_255.23/SLPS_255.23_BG.png",
+    "kind": "background",
+    "bytes": 246364,
+    "width": 640,
+    "height": 480,
+    "sha256": "d8e7d4edeea4b79aec0b79f856ee09d9c91163554d18512bb496e9db10973f3f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.23/SLPS_255.23_BG_00.png"
+    },
+    "gameId": "SLPS_255.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.23/SLPS_255.23_BG.png",
+      "kind": "background",
+      "bytes": 246364,
+      "width": 640,
+      "height": 480,
+      "sha256": "d8e7d4edeea4b79aec0b79f856ee09d9c91163554d18512bb496e9db10973f3f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.23/SLPS_255.23_BG_00.png"
+      },
+      "gameId": "SLPS_255.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yoshitsuneki"
+}

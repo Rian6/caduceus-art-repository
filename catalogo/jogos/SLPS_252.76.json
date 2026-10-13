@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.76",
+  "cover": {
+    "path": "PS2/SLPS_252.76/SLPS_252.76_COV.png",
+    "kind": "cover",
+    "bytes": 92786,
+    "width": 192,
+    "height": 272,
+    "sha256": "628a8ec4ec4b8f6b6647441e8626af59a3953029bc33b93b81f7e0a435be99c3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25276.jpg"
+    },
+    "gameId": "SLPS_252.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NATSU YUME YA WA - THE TAILS OF A MIDSUMMER NIGHT'S DREAM"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_550.91",
+  "cover": {
+    "path": "PS2/SLES_550.91/SLES_550.91_COV.png",
+    "kind": "cover",
+    "bytes": 104423,
+    "width": 192,
+    "height": 272,
+    "sha256": "e0c1d47b654464c5a481487964572292aa984b7e5899c79c1f70efc5aa70985e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55091.jpg"
+    },
+    "gameId": "SLES_550.91"
+  },
+  "disc": {
+    "path": "PS2/SLES_550.91/SLES_550.91_ICO.png",
+    "kind": "disc",
+    "bytes": 11896,
+    "width": 128,
+    "height": 128,
+    "sha256": "a06f55a3e42d832e16d991fb643363e396fca8950d8345d9d823cf8d4c717d7f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_550.91_ICO.png"
+    },
+    "gameId": "SLES_550.91"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HOPPIE"
+}

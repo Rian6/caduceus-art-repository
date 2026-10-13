@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_974.00",
+  "cover": {
+    "path": "PS2/SCUS_974.00/SCUS_974.00_COV.png",
+    "kind": "cover",
+    "bytes": 91237,
+    "width": 192,
+    "height": 272,
+    "sha256": "73bf2661a9aaa8aa7cb6609a8805dc0f383f6b156a52e7b38983c16b4534f64c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97400.jpg"
+    },
+    "gameId": "SCUS_974.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy: Groove (w/Camera)"
+}

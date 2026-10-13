@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_202.83",
+  "cover": {
+    "path": "PS2/SLUS_202.83/SLUS_202.83_COV.png",
+    "kind": "cover",
+    "bytes": 100918,
+    "width": 192,
+    "height": 272,
+    "sha256": "ca3f72b96ee92ecf982a2362bc9942de9eba1a2701072d2412bdefa55c2489d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20283.jpg"
+    },
+    "gameId": "SLUS_202.83"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.83/SLUS_202.83_ICO.png",
+    "kind": "disc",
+    "bytes": 29398,
+    "width": 256,
+    "height": 256,
+    "sha256": "a8d68c24bc73d50bfb9698eb3625c43fa207ad6c7d4ffb7bb4c3346b1c192ef7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.83_ICO.png"
+    },
+    "gameId": "SLUS_202.83"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World of Outlaws: Sprint Cars 2002"
+}

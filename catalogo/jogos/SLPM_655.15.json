@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_655.15",
+  "cover": {
+    "path": "PS2/SLPM_655.15/SLPM_655.15_COV.png",
+    "kind": "cover",
+    "bytes": 93335,
+    "width": 192,
+    "height": 272,
+    "sha256": "6c11963a4e51d254d53b5d7ee55108123be3b94cd5aaf5c1198adb73e08ffbff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65515.jpg"
+    },
+    "gameId": "SLPM_655.15"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_655.15/SLPM_655.15_BG.png",
+    "kind": "background",
+    "bytes": 167924,
+    "width": 640,
+    "height": 480,
+    "sha256": "638dbcc7a9f3e500bf2ae8388d5faf982305cde45e7064d6eb439c9f6e70ec05",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_655.15/SLPM_655.15_BG_00.png"
+    },
+    "gameId": "SLPM_655.15"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_655.15/SLPM_655.15_BG.png",
+      "kind": "background",
+      "bytes": 167924,
+      "width": 640,
+      "height": 480,
+      "sha256": "638dbcc7a9f3e500bf2ae8388d5faf982305cde45e7064d6eb439c9f6e70ec05",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_655.15/SLPM_655.15_BG_00.png"
+      },
+      "gameId": "SLPM_655.15"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAKURA TAISEN MONOGATARI - MYSTERIOUS PARIS"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SLES_551.23",
+  "cover": {
+    "path": "PS2/SLES_551.23/SLES_551.23_COV.png",
+    "kind": "cover",
+    "bytes": 95773,
+    "width": 192,
+    "height": 272,
+    "sha256": "102a2cda4825e32167778bb27659d2b3839b18342573a03eebdcee4ad43e50dd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55123.jpg"
+    },
+    "gameId": "SLES_551.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_551.23/SLES_551.23_BG.png",
+    "kind": "background",
+    "bytes": 170005,
+    "width": 640,
+    "height": 480,
+    "sha256": "fd19ca92455a2f829c589a1922a4d2c1bb4fbcc0bfcc243a3331c28ffd0f4404",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_551.23/SLES_551.23_BG_00.png"
+    },
+    "gameId": "SLES_551.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_551.23/SLES_551.23_BG.png",
+      "kind": "background",
+      "bytes": 170005,
+      "width": 640,
+      "height": 480,
+      "sha256": "fd19ca92455a2f829c589a1922a4d2c1bb4fbcc0bfcc243a3331c28ffd0f4404",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.23/SLES_551.23_BG_00.png"
+      },
+      "gameId": "SLES_551.23"
+    },
+    {
+      "path": "PS2/SLES_551.23/SLES_551.23_BG_01.png",
+      "kind": "background",
+      "bytes": 169435,
+      "width": 640,
+      "height": 480,
+      "sha256": "3d9316807bb3ceb302bd06508aa654a0320de195255a7a8d9c14e03d64e8fc54",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.23/SLES_551.23_BG_01.png"
+      },
+      "gameId": "SLES_551.23"
+    },
+    {
+      "path": "PS2/SLES_551.23/SLES_551.23_BG_02.png",
+      "kind": "background",
+      "bytes": 140718,
+      "width": 640,
+      "height": 480,
+      "sha256": "560a14906dee9d156155cab1a66d145878043f83eaaeb562bcd5dc8f6201ccac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.23/SLES_551.23_BG_02.png"
+      },
+      "gameId": "SLES_551.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGEND OF SAYUKI"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SCES_503.61",
+  "cover": {
+    "path": "PS2/SCES_503.61/SCES_503.61_COV.png",
+    "kind": "cover",
+    "bytes": 101083,
+    "width": 192,
+    "height": 272,
+    "sha256": "d502e2beec09b2a4258f5373fdd61569fcaf6b5876ca40da63604fd38ef2ec0b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50361.jpg"
+    },
+    "gameId": "SCES_503.61"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_503.61/SCES_503.61_BG.png",
+    "kind": "background",
+    "bytes": 201669,
+    "width": 640,
+    "height": 480,
+    "sha256": "b4e3c530e804b4ed12d9eb3aff4a98086e7c0605b6c855dabe93eeba9223162b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_503.61/SCES_503.61_BG_00.png"
+    },
+    "gameId": "SCES_503.61"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_503.61/SCES_503.61_BG.png",
+      "kind": "background",
+      "bytes": 201669,
+      "width": 640,
+      "height": 480,
+      "sha256": "b4e3c530e804b4ed12d9eb3aff4a98086e7c0605b6c855dabe93eeba9223162b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_503.61/SCES_503.61_BG_00.png"
+      },
+      "gameId": "SCES_503.61"
+    },
+    {
+      "path": "PS2/SCES_503.61/SCES_503.61_BG_01.png",
+      "kind": "background",
+      "bytes": 193877,
+      "width": 640,
+      "height": 480,
+      "sha256": "20c16090507098342591669b0c057ca1fe59f3d99f386eefed555121ed6ff29c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_503.61/SCES_503.61_BG_01.png"
+      },
+      "gameId": "SCES_503.61"
+    },
+    {
+      "path": "PS2/SCES_503.61/SCES_503.61_BG_02.png",
+      "kind": "background",
+      "bytes": 181091,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ff82762d1808475d60ca694d72e60fb57a50f360babf764aa45451081698e8e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_503.61/SCES_503.61_BG_02.png"
+      },
+      "gameId": "SCES_503.61"
+    },
+    {
+      "path": "PS2/SCES_503.61/SCES_503.61_BG_03.png",
+      "kind": "background",
+      "bytes": 184698,
+      "width": 640,
+      "height": 480,
+      "sha256": "f50be4f1a937387854bb34838f11e5fb02d4eedd19c931456be366f1a9509160",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_503.61/SCES_503.61_BG_03.png"
+      },
+      "gameId": "SCES_503.61"
+    },
+    {
+      "path": "PS2/SCES_503.61/SCES_503.61_BG_04.png",
+      "kind": "background",
+      "bytes": 215548,
+      "width": 640,
+      "height": 480,
+      "sha256": "51518abfddde446d7bb3531996b725c36820bfbec6ce9c5b7e108b8f37bee5b4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_503.61/SCES_503.61_BG_04.png"
+      },
+      "gameId": "SCES_503.61"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jak and Daxter: The Precursor Legacy"
+}

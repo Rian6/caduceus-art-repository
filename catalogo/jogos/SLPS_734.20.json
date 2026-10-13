@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_734.20",
+  "cover": {
+    "path": "PS2/SLPS_734.20/SLPS_734.20_COV.png",
+    "kind": "cover",
+    "bytes": 78750,
+    "width": 192,
+    "height": 272,
+    "sha256": "35763a50549d8633e57e36bdfea9ad28b6b3b4c6b0e327f45ae1f5b41a35382f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73420.jpg"
+    },
+    "gameId": "SLPS_734.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core 3 -Silent Line (Playstation 2 The Best)"
+}

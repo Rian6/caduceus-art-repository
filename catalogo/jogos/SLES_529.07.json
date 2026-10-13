@@ -1,0 +1,25 @@
+{
+  "id": "SLES_529.07",
+  "cover": {
+    "path": "PS2/SLES_529.07/SLES_529.07_COV.png",
+    "kind": "cover",
+    "bytes": 110338,
+    "width": 192,
+    "height": 272,
+    "sha256": "e6ec8c13d0653695019dd90cda59d1751f1e919aed4e1a7c8c296f4eeac1bea6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52907.jpg"
+    },
+    "gameId": "SLES_529.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nickelodeon SpongeBob SquarePants: Movin' with Friends"
+}

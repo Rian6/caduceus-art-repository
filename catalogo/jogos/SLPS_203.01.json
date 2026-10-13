@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.01",
+  "cover": {
+    "path": "PS2/SLPS_203.01/SLPS_203.01_COV.png",
+    "kind": "cover",
+    "bytes": 103111,
+    "width": 192,
+    "height": 272,
+    "sha256": "849e69aec212412faa3382c8a86f53fe08a45dbf3fc61aa569bd529644aed8dd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20301.jpg"
+    },
+    "gameId": "SLPS_203.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GACHINKO PRO YAKYUU"
+}

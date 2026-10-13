@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.41",
+  "cover": {
+    "path": "PS2/SLPM_666.41/SLPM_666.41_COV.png",
+    "kind": "cover",
+    "bytes": 115554,
+    "width": 192,
+    "height": 272,
+    "sha256": "fe3e2129d5adfde5a86a227361622c2e539fbb81eff95b579179f819083c5bc0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66641.jpg"
+    },
+    "gameId": "SLPM_666.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCHOOL LOVE! ~SOYOKAZE NO HARMONY~"
+}

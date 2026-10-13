@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.61",
+  "cover": {
+    "path": "PS2/SLPS_203.61/SLPS_203.61_COV.png",
+    "kind": "cover",
+    "bytes": 108557,
+    "width": 192,
+    "height": 272,
+    "sha256": "eba8efbd2c8104849a497126ac334f7f9c1439cd13325a4e2c1c070666f79f5d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20361.jpg"
+    },
+    "gameId": "SLPS_203.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PRINCESS MAKER"
+}

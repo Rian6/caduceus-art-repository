@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.90",
+  "cover": {
+    "path": "PS2/SLPS_257.90/SLPS_257.90_COV.png",
+    "kind": "cover",
+    "bytes": 99244,
+    "width": 192,
+    "height": 272,
+    "sha256": "6259bc5a4889885b6ee4474bcdb1535f880ee052698aca09f85dc9f1c906a5be",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25790.jpg"
+    },
+    "gameId": "SLPS_257.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RYUUKO NO KEN - TEN-CHI-JIN [SNK BEST COLLECTION]"
+}

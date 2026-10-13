@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.41",
+  "cover": {
+    "path": "PS2/SLPM_663.41/SLPM_663.41_COV.png",
+    "kind": "cover",
+    "bytes": 84839,
+    "width": 192,
+    "height": 272,
+    "sha256": "1df2f580ad9fef70dc9d6d4dbb7342af7a7f9c4718001845602371e71b5323bc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66341.jpg"
+    },
+    "gameId": "SLPM_663.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jan Sangoku Musou"
+}

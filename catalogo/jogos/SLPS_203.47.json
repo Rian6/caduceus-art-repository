@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.47",
+  "cover": {
+    "path": "PS2/SLPS_203.47/SLPS_203.47_COV.png",
+    "kind": "cover",
+    "bytes": 102782,
+    "width": 192,
+    "height": 272,
+    "sha256": "0e3747a2caeaec32a81f31983a70ea6e4883e428b0cb880544c750e3bff1ef96",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20347.jpg"
+    },
+    "gameId": "SLPS_203.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saikyo Todai Shogi 2004"
+}

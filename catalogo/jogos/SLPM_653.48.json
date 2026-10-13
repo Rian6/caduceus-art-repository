@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.48",
+  "cover": {
+    "path": "PS2/SLPM_653.48/SLPM_653.48_COV.png",
+    "kind": "cover",
+    "bytes": 110848,
+    "width": 192,
+    "height": 272,
+    "sha256": "55f65fa3589db481f3a8bab411dfe2f495a8b06372671de3aee95f1b835fa717",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65348.jpg"
+    },
+    "gameId": "SLPM_653.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BISTRO CUPID 2"
+}

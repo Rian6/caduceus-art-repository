@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_209.66",
+  "cover": {
+    "path": "PS2/SLUS_209.66/SLUS_209.66_COV.png",
+    "kind": "cover",
+    "bytes": 92581,
+    "width": 192,
+    "height": 272,
+    "sha256": "17cf39774f4ae774259b1075485e29d7ae420dd4d4555eda85da0b484a459b86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20966.jpg"
+    },
+    "gameId": "SLUS_209.66"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.66/SLUS_209.66_ICO.png",
+    "kind": "disc",
+    "bytes": 34535,
+    "width": 256,
+    "height": 256,
+    "sha256": "18a64791088b449e26bed86ff9d3fcf1cbbf13c86c91f28554a3f6554c943c50",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.66_ICO.png"
+    },
+    "gameId": "SLUS_209.66"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.66/SLUS_209.66_BG.png",
+    "kind": "background",
+    "bytes": 141511,
+    "width": 640,
+    "height": 480,
+    "sha256": "177b71c504636532da5d3ae88804a407409481c5d6765b92ccb7125592056028",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.66/SLUS_209.66_BG_00.png"
+    },
+    "gameId": "SLUS_209.66"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.66/SLUS_209.66_BG.png",
+      "kind": "background",
+      "bytes": 141511,
+      "width": 640,
+      "height": 480,
+      "sha256": "177b71c504636532da5d3ae88804a407409481c5d6765b92ccb7125592056028",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.66/SLUS_209.66_BG_00.png"
+      },
+      "gameId": "SLUS_209.66"
+    },
+    {
+      "path": "PS2/SLUS_209.66/SLUS_209.66_BG_01.png",
+      "kind": "background",
+      "bytes": 205018,
+      "width": 640,
+      "height": 480,
+      "sha256": "9de2ea56dae3d94e13b9ae63e27e184cb1188054a3f00c5639f26f0cd7339b46",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.66/SLUS_209.66_BG_01.png"
+      },
+      "gameId": "SLUS_209.66"
+    },
+    {
+      "path": "PS2/SLUS_209.66/SLUS_209.66_BG_02.png",
+      "kind": "background",
+      "bytes": 164499,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c4d30e503e6e15ed2edc4f551782a8caa91a3663dcf7cd6763768680baeef94",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.66/SLUS_209.66_BG_02.png"
+      },
+      "gameId": "SLUS_209.66"
+    },
+    {
+      "path": "PS2/SLUS_209.66/SLUS_209.66_BG_03.png",
+      "kind": "background",
+      "bytes": 190696,
+      "width": 640,
+      "height": 480,
+      "sha256": "28c8cbbc9f56fccd0a777359df06d5fd11acf2cad6e094bbf34f05dcb6ba80c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.66/SLUS_209.66_BG_03.png"
+      },
+      "gameId": "SLUS_209.66"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "State of Emergency 2"
+}

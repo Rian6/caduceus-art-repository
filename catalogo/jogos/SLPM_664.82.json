@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.82",
+  "cover": {
+    "path": "PS2/SLPM_664.82/SLPM_664.82_COV.png",
+    "kind": "cover",
+    "bytes": 51740,
+    "width": 192,
+    "height": 272,
+    "sha256": "7975112f1ef682611920a194384046583487cd9f82c8f97e814b09984a884545",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66482.jpg"
+    },
+    "gameId": "SLPM_664.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOKIMEKI MEMORIAL GIRL'S SIDE 2ND KISS"
+}

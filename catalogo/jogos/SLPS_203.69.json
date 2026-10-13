@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_203.69",
+  "cover": {
+    "path": "PS2/SLPS_203.69/SLPS_203.69_COV.png",
+    "kind": "cover",
+    "bytes": 109228,
+    "width": 192,
+    "height": 272,
+    "sha256": "5f6910cf1dc52660c1d1cc32ebe24ee7389c61eaf22e223ad6235655f8daf4b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20369.jpg"
+    },
+    "gameId": "SLPS_203.69"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_203.69/SLPS_203.69_BG.png",
+    "kind": "background",
+    "bytes": 194376,
+    "width": 640,
+    "height": 480,
+    "sha256": "63157ae5a381bb0dce1949a2a9a422224175ffb47c07fa62bfb068f861542eb1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_203.69/SLPS_203.69_BG_00.png"
+    },
+    "gameId": "SLPS_203.69"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_203.69/SLPS_203.69_BG.png",
+      "kind": "background",
+      "bytes": 194376,
+      "width": 640,
+      "height": 480,
+      "sha256": "63157ae5a381bb0dce1949a2a9a422224175ffb47c07fa62bfb068f861542eb1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_203.69/SLPS_203.69_BG_00.png"
+      },
+      "gameId": "SLPS_203.69"
+    },
+    {
+      "path": "PS2/SLPS_203.69/SLPS_203.69_BG_01.png",
+      "kind": "background",
+      "bytes": 161234,
+      "width": 640,
+      "height": 480,
+      "sha256": "60e5975b97946e09dc7750658fb068edcb97dc9608ed7cbc21f8d4beaa1d0b28",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_203.69/SLPS_203.69_BG_01.png"
+      },
+      "gameId": "SLPS_203.69"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kinnikuman Generations"
+}

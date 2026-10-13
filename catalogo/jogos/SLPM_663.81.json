@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.81",
+  "cover": {
+    "path": "PS2/SLPM_663.81/SLPM_663.81_COV.png",
+    "kind": "cover",
+    "bytes": 101020,
+    "width": 192,
+    "height": 272,
+    "sha256": "bd1f139b428338a78d8ae84680c31715370ad17cec76f03e258853d853f2bbad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66381.jpg"
+    },
+    "gameId": "SLPM_663.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mitsu x Mitsu Drops - Love x Love Honey Life"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_522.42",
+  "cover": {
+    "path": "PS2/SLES_522.42/SLES_522.42_COV.png",
+    "kind": "cover",
+    "bytes": 98536,
+    "width": 192,
+    "height": 272,
+    "sha256": "f333f5a1caff460b031c5ebb110436a3421369403884646a9a56c2854f4a5bad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52242.jpg"
+    },
+    "gameId": "SLES_522.42"
+  },
+  "disc": {
+    "path": "PS2/SLES_522.42/SLES_522.42_ICO.png",
+    "kind": "disc",
+    "bytes": 10542,
+    "width": 128,
+    "height": 128,
+    "sha256": "4c4be31fcdf45e27b7132948801a3e00cb5d89f8c9ac4e392c4035a3e17dea64",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_522.42_ICO.png"
+    },
+    "gameId": "SLES_522.42"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dalmatians 3"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.37",
+  "cover": {
+    "path": "PS2/SLPM_623.37/SLPM_623.37_COV.png",
+    "kind": "cover",
+    "bytes": 82433,
+    "width": 192,
+    "height": 272,
+    "sha256": "74f046c17164d6fe52f18893e726a1829c9d601cb0ef1e2da751254fe7cf2110",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62337.jpg"
+    },
+    "gameId": "SLPM_623.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.30 - The Street Basket 3 on 3"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.59",
+  "cover": {
+    "path": "PS2/SLES_553.59/SLES_553.59_COV.png",
+    "kind": "cover",
+    "bytes": 110192,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ceff8b3aa8d421d1e41861aa5b29a9b38413ddf518679efcdd4b5c6f7d273c0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55359.jpg"
+    },
+    "gameId": "SLES_553.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bratz: Girlz Really Rock"
+}

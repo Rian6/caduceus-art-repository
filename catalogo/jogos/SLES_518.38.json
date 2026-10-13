@@ -1,0 +1,77 @@
+{
+  "id": "SLES_518.38",
+  "cover": {
+    "path": "PS2/SLES_518.38/SLES_518.38_COV.png",
+    "kind": "cover",
+    "bytes": 88452,
+    "width": 192,
+    "height": 272,
+    "sha256": "3f6613b0f1634dcf1d50afe7451d948dd03378c6acf73cf84fb1433b8cee78ec",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51838.jpg"
+    },
+    "gameId": "SLES_518.38"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_518.38/SLES_518.38_BG.png",
+    "kind": "background",
+    "bytes": 179786,
+    "width": 640,
+    "height": 480,
+    "sha256": "06bbd89f6f193bfaad867fa5a32c9790b6e3659c9e3ab439c629c79a521afd6a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.38/SLES_518.38_BG_00.png"
+    },
+    "gameId": "SLES_518.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.38/SLES_518.38_BG.png",
+      "kind": "background",
+      "bytes": 179786,
+      "width": 640,
+      "height": 480,
+      "sha256": "06bbd89f6f193bfaad867fa5a32c9790b6e3659c9e3ab439c629c79a521afd6a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.38/SLES_518.38_BG_00.png"
+      },
+      "gameId": "SLES_518.38"
+    },
+    {
+      "path": "PS2/SLES_518.38/SLES_518.38_BG_01.png",
+      "kind": "background",
+      "bytes": 230902,
+      "width": 640,
+      "height": 480,
+      "sha256": "f4452f4140bccd3768fcff8cf5ea04239466aac707cf60dfa605e547effedbf9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.38/SLES_518.38_BG_01.png"
+      },
+      "gameId": "SLES_518.38"
+    },
+    {
+      "path": "PS2/SLES_518.38/SLES_518.38_BG_02.png",
+      "kind": "background",
+      "bytes": 201317,
+      "width": 640,
+      "height": 480,
+      "sha256": "36593a4e0e1b1f8fe0146da6e6ff6453c059e6997bf691e6e767b4a3d7f78a71",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.38/SLES_518.38_BG_02.png"
+      },
+      "gameId": "SLES_518.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ASTERIX & OBELIX XXL"
+}

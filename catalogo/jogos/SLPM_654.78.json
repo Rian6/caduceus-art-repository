@@ -1,0 +1,117 @@
+{
+  "id": "SLPM_654.78",
+  "cover": {
+    "path": "PS2/SLPM_654.78/SLPM_654.78_COV.png",
+    "kind": "cover",
+    "bytes": 91089,
+    "width": 192,
+    "height": 272,
+    "sha256": "cd88c160845b7dbd85c5b929646994ec0986ce99a2147982781161dbd6d50346",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65478.jpg"
+    },
+    "gameId": "SLPM_654.78"
+  },
+  "disc": {
+    "path": "PS2/SLPM_654.78/SLPM_654.78_ICO.png",
+    "kind": "disc",
+    "bytes": 11099,
+    "width": 128,
+    "height": 128,
+    "sha256": "fb3e0b22ed52d79f599beb0b8f4418ede712520e05c961b159528c0baad8793a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_654.78_ICO.png"
+    },
+    "gameId": "SLPM_654.78"
+  },
+  "background": {
+    "path": "PS2/SLPM_654.78/SLPM_654.78_BG.png",
+    "kind": "background",
+    "bytes": 110977,
+    "width": 640,
+    "height": 480,
+    "sha256": "09c5fd3befb97e985a99e77987b6ebf8e7504b59e611cef11fdc68e1a33b5614",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.78/SLPM_654.78_BG_00.png"
+    },
+    "gameId": "SLPM_654.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.78/SLPM_654.78_BG.png",
+      "kind": "background",
+      "bytes": 110977,
+      "width": 640,
+      "height": 480,
+      "sha256": "09c5fd3befb97e985a99e77987b6ebf8e7504b59e611cef11fdc68e1a33b5614",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.78/SLPM_654.78_BG_00.png"
+      },
+      "gameId": "SLPM_654.78"
+    },
+    {
+      "path": "PS2/SLPM_654.78/SLPM_654.78_BG_01.png",
+      "kind": "background",
+      "bytes": 154027,
+      "width": 640,
+      "height": 480,
+      "sha256": "33031ae281435f98c5d6310b1458d0f922ce41baa5a7ca4c5591ad2c44445c5d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.78/SLPM_654.78_BG_01.png"
+      },
+      "gameId": "SLPM_654.78"
+    },
+    {
+      "path": "PS2/SLPM_654.78/SLPM_654.78_BG_02.png",
+      "kind": "background",
+      "bytes": 194736,
+      "width": 640,
+      "height": 480,
+      "sha256": "81a6c98effd80554297ca8f9cb70edf79a8c459254fbb06ba75902073724b72a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.78/SLPM_654.78_BG_02.png"
+      },
+      "gameId": "SLPM_654.78"
+    },
+    {
+      "path": "PS2/SLPM_654.78/SLPM_654.78_BG_03.png",
+      "kind": "background",
+      "bytes": 37911,
+      "width": 640,
+      "height": 480,
+      "sha256": "43232006b2834f3d0c1209dc0fe59a8ef20b4f40accde5fb371594ec4ccd1d72",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.78/SLPM_654.78_BG_03.png"
+      },
+      "gameId": "SLPM_654.78"
+    },
+    {
+      "path": "PS2/SLPM_654.78/SLPM_654.78_BG_04.png",
+      "kind": "background",
+      "bytes": 171973,
+      "width": 640,
+      "height": 480,
+      "sha256": "89069a34b493391715f7e6e722c4016f368d284834ed96365d2dc755f72ef1a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.78/SLPM_654.78_BG_04.png"
+      },
+      "gameId": "SLPM_654.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy X-2 International + Last Mission"
+}

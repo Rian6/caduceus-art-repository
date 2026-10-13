@@ -1,0 +1,51 @@
+{
+  "id": "SLES_550.25",
+  "cover": {
+    "path": "PS2/SLES_550.25/SLES_550.25_COV.png",
+    "kind": "cover",
+    "bytes": 102372,
+    "width": 192,
+    "height": 272,
+    "sha256": "01e5ffff0f0865695cc11d9e8826b0672f47c0eb46b65c19a5a6bf65c933525f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55025.jpg"
+    },
+    "gameId": "SLES_550.25"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_550.25/SLES_550.25_BG.png",
+    "kind": "background",
+    "bytes": 213725,
+    "width": 640,
+    "height": 480,
+    "sha256": "a7e4fcd1aa93551e86aa52a1d2ee4582b24eca9a3aca422897987ff45e713f8b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.25/SLES_550.25_BG_00.png"
+    },
+    "gameId": "SLES_550.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.25/SLES_550.25_BG.png",
+      "kind": "background",
+      "bytes": 213725,
+      "width": 640,
+      "height": 480,
+      "sha256": "a7e4fcd1aa93551e86aa52a1d2ee4582b24eca9a3aca422897987ff45e713f8b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.25/SLES_550.25_BG_00.png"
+      },
+      "gameId": "SLES_550.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar's Cars - Mater-National Championship"
+}

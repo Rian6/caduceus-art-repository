@@ -1,0 +1,90 @@
+{
+  "id": "SLPS_257.81",
+  "cover": {
+    "path": "PS2/SLPS_257.81/SLPS_257.81_COV.png",
+    "kind": "cover",
+    "bytes": 93065,
+    "width": 192,
+    "height": 272,
+    "sha256": "75309bc485776423ca49064b0a133fd3dbc9da63c1a188ecc271c3a0eb44289c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25781.jpg"
+    },
+    "gameId": "SLPS_257.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_257.81/SLPS_257.81_BG.png",
+    "kind": "background",
+    "bytes": 192175,
+    "width": 640,
+    "height": 480,
+    "sha256": "50a73b8860a5007032787eb33d833820694f82aefa0a1e851bd65a4541ff4b29",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.81/SLPS_257.81_BG_00.png"
+    },
+    "gameId": "SLPS_257.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.81/SLPS_257.81_BG.png",
+      "kind": "background",
+      "bytes": 192175,
+      "width": 640,
+      "height": 480,
+      "sha256": "50a73b8860a5007032787eb33d833820694f82aefa0a1e851bd65a4541ff4b29",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.81/SLPS_257.81_BG_00.png"
+      },
+      "gameId": "SLPS_257.81"
+    },
+    {
+      "path": "PS2/SLPS_257.81/SLPS_257.81_BG_01.png",
+      "kind": "background",
+      "bytes": 107687,
+      "width": 640,
+      "height": 480,
+      "sha256": "199340f965d699b7c5d7144be960bf8e25a5e9f0de06aa9363f04d217ad13666",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.81/SLPS_257.81_BG_01.png"
+      },
+      "gameId": "SLPS_257.81"
+    },
+    {
+      "path": "PS2/SLPS_257.81/SLPS_257.81_BG_02.png",
+      "kind": "background",
+      "bytes": 195581,
+      "width": 640,
+      "height": 480,
+      "sha256": "e3741f24dda97c09fe5c53a70357995ace07355c30c9ef770b093b8f925117c4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.81/SLPS_257.81_BG_02.png"
+      },
+      "gameId": "SLPS_257.81"
+    },
+    {
+      "path": "PS2/SLPS_257.81/SLPS_257.81_BG_03.png",
+      "kind": "background",
+      "bytes": 217810,
+      "width": 640,
+      "height": 480,
+      "sha256": "5bbb3d7137070c8bc978238c0c859fb25844568df015d0d69b7fa2548eeea3eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.81/SLPS_257.81_BG_03.png"
+      },
+      "gameId": "SLPS_257.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fuun Super Combo (NeoGeo Online Collection Vol. 8)"
+}

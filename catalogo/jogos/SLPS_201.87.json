@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.87",
+  "cover": {
+    "path": "PS2/SLPS_201.87/SLPS_201.87_COV.png",
+    "kind": "cover",
+    "bytes": 99298,
+    "width": 192,
+    "height": 272,
+    "sha256": "295074d7ec9c951f35a6e8a2e52ef4b3f4b0b8900f602d95623e58aca9a54b27",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20187.jpg"
+    },
+    "gameId": "SLPS_201.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Black Matrix 2"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.89",
+  "cover": {
+    "path": "PS2/SLPM_661.89/SLPM_661.89_COV.png",
+    "kind": "cover",
+    "bytes": 97149,
+    "width": 192,
+    "height": 272,
+    "sha256": "98ee5c212997e45b57175a45374c863e0502d178875b3b034791f9c3e8e93278",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66189.jpg"
+    },
+    "gameId": "SLPM_661.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SSX On Tour"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.78",
+  "cover": {
+    "path": "PS2/SLPS_252.78/SLPS_252.78_COV.png",
+    "kind": "cover",
+    "bytes": 112245,
+    "width": 192,
+    "height": 272,
+    "sha256": "5a2b4725feda799ab9e9bdc55ad374290490d8e463aed7bf6b3185ca9f2e6525",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25278.jpg"
+    },
+    "gameId": "SLPS_252.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEMORIES OFF - MIX"
+}

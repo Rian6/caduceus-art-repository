@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_193.11",
+  "cover": {
+    "path": "PS2/SCPS_193.11/SCPS_193.11_COV.png",
+    "kind": "cover",
+    "bytes": 89223,
+    "width": 192,
+    "height": 272,
+    "sha256": "46fe4c8a4d69a5f65ccc30b1ce72263b9021de937bc4fd92a2c2379c92b58870",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19311.jpg"
+    },
+    "gameId": "SCPS_193.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SARU! GET YOU! 3 [PLAYSTATION 2 THE BEST]"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_500.57",
+  "cover": {
+    "path": "PS2/SLES_500.57/SLES_500.57_COV.png",
+    "kind": "cover",
+    "bytes": 106596,
+    "width": 192,
+    "height": 272,
+    "sha256": "8e69c70e7e7aa62fa486f357341c5e53e271370347d8bd2e96a36dcd589491c5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50057.jpg"
+    },
+    "gameId": "SLES_500.57"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_500.57/SLES_500.57_BG.png",
+    "kind": "background",
+    "bytes": 105322,
+    "width": 640,
+    "height": 480,
+    "sha256": "0ab96824e2b0057262ffa8dd0ca447e0e4ed90bedf45f658344847c31b50b9a7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.57/SLES_500.57_BG_00.png"
+    },
+    "gameId": "SLES_500.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.57/SLES_500.57_BG.png",
+      "kind": "background",
+      "bytes": 105322,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ab96824e2b0057262ffa8dd0ca447e0e4ed90bedf45f658344847c31b50b9a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.57/SLES_500.57_BG_00.png"
+      },
+      "gameId": "SLES_500.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 2"
+}

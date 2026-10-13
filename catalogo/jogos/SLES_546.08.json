@@ -1,0 +1,51 @@
+{
+  "id": "SLES_546.08",
+  "cover": {
+    "path": "PS2/SLES_546.08/SLES_546.08_COV.png",
+    "kind": "cover",
+    "bytes": 104345,
+    "width": 192,
+    "height": 272,
+    "sha256": "695a7b6119100e11a26c44aaf37cd9c4bebceee265c5c13a7628353fc342af7c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54608.jpg"
+    },
+    "gameId": "SLES_546.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_546.08/SLES_546.08_BG.png",
+    "kind": "background",
+    "bytes": 190225,
+    "width": 640,
+    "height": 480,
+    "sha256": "1249de2242dd5e4d166a8e4b1b5901854692121b2b828e77815e8ffe391a0603",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.08/SLES_546.08_BG_00.png"
+    },
+    "gameId": "SLES_546.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_546.08/SLES_546.08_BG.png",
+      "kind": "background",
+      "bytes": 190225,
+      "width": 640,
+      "height": 480,
+      "sha256": "1249de2242dd5e4d166a8e4b1b5901854692121b2b828e77815e8ffe391a0603",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.08/SLES_546.08_BG_00.png"
+      },
+      "gameId": "SLES_546.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Barbie in The 12 Dancing Princesses"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.83",
+  "cover": {
+    "path": "PS2/SLPM_667.83/SLPM_667.83_COV.png",
+    "kind": "cover",
+    "bytes": 123616,
+    "width": 192,
+    "height": 272,
+    "sha256": "b35de2e939c4ca661772aef5b9e317cf686ac5695a0910ad0db090ecff710284",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66783.jpg"
+    },
+    "gameId": "SLPM_667.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "IDOL JANSHI SUCHIE PAI IV [LIMITED EDITION]"
+}

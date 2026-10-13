@@ -1,0 +1,25 @@
+{
+  "id": "SLES_535.97",
+  "cover": {
+    "path": "PS2/SLES_535.97/SLES_535.97_COV.png",
+    "kind": "cover",
+    "bytes": 88757,
+    "width": 192,
+    "height": 272,
+    "sha256": "e0bc8629585ae6bd60a613473355ccf09783665e8ceb8409c6beb9672224bbbd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53597.jpg"
+    },
+    "gameId": "SLES_535.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Ultimate Sports Quiz"
+}

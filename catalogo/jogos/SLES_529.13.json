@@ -1,0 +1,64 @@
+{
+  "id": "SLES_529.13",
+  "cover": {
+    "path": "PS2/SLES_529.13/SLES_529.13_COV.png",
+    "kind": "cover",
+    "bytes": 93182,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f21ba0d0973d0b7267af70c76972e6d22d70acf73294f19ab90f278dbcd97f8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52913.jpg"
+    },
+    "gameId": "SLES_529.13"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_529.13/SLES_529.13_BG.png",
+    "kind": "background",
+    "bytes": 206353,
+    "width": 640,
+    "height": 480,
+    "sha256": "aa7a548b06202ee2eb34ec9e9645aed142ecf865024f4b8a54d6442464792494",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.13/SLES_529.13_BG_00.png"
+    },
+    "gameId": "SLES_529.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.13/SLES_529.13_BG.png",
+      "kind": "background",
+      "bytes": 206353,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa7a548b06202ee2eb34ec9e9645aed142ecf865024f4b8a54d6442464792494",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.13/SLES_529.13_BG_00.png"
+      },
+      "gameId": "SLES_529.13"
+    },
+    {
+      "path": "PS2/SLES_529.13/SLES_529.13_BG_01.png",
+      "kind": "background",
+      "bytes": 182326,
+      "width": 640,
+      "height": 480,
+      "sha256": "19147af8f1c18b255dedb2afdca44a217e6f6d6eaa73a7964abcfc6bb8430acb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.13/SLES_529.13_BG_01.png"
+      },
+      "gameId": "SLES_529.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Suikoden IV"
+}

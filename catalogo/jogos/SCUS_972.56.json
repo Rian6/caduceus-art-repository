@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_972.56",
+  "cover": {
+    "path": "PS2/SCUS_972.56/SCUS_972.56_COV.png",
+    "kind": "cover",
+    "bytes": 83889,
+    "width": 192,
+    "height": 272,
+    "sha256": "22d9e681927953358c1e7420f86a8f7086754620869ea2335ff8501177f867b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97256.jpg"
+    },
+    "gameId": "SCUS_972.56"
+  },
+  "disc": {
+    "path": "PS2/SCUS_972.56/SCUS_972.56_ICO.png",
+    "kind": "disc",
+    "bytes": 30816,
+    "width": 256,
+    "height": 256,
+    "sha256": "e33d5a486a79865ffb3507b48c450f23ae135ae7d26e67f8270645c029894cf8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_972.56_ICO.png"
+    },
+    "gameId": "SCUS_972.56"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MLB 2004"
+}

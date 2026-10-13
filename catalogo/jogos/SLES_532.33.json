@@ -1,0 +1,91 @@
+{
+  "id": "SLES_532.33",
+  "cover": {
+    "path": "PS2/SLES_532.33/SLES_532.33_COV.png",
+    "kind": "cover",
+    "bytes": 106133,
+    "width": 192,
+    "height": 272,
+    "sha256": "6b463e6e6a29e83468e78d8e394a954ac26cf007586cc79244b04834c00d633d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53233.jpg"
+    },
+    "gameId": "SLES_532.33"
+  },
+  "disc": {
+    "path": "PS2/SLES_532.33/SLES_532.33_ICO.png",
+    "kind": "disc",
+    "bytes": 11795,
+    "width": 128,
+    "height": 128,
+    "sha256": "3a2d9fd1ad10a947121217307f8bf1883370d9031bc188bcdc3af4acf200db74",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_532.33_ICO.png"
+    },
+    "gameId": "SLES_532.33"
+  },
+  "background": {
+    "path": "PS2/SLES_532.33/SLES_532.33_BG.png",
+    "kind": "background",
+    "bytes": 205935,
+    "width": 640,
+    "height": 480,
+    "sha256": "a14ea2a7fcfc33973cbe75165d8011e69307fd9c15cd8818125b9e1ffa681482",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_532.33/SLES_532.33_BG_00.png"
+    },
+    "gameId": "SLES_532.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_532.33/SLES_532.33_BG.png",
+      "kind": "background",
+      "bytes": 205935,
+      "width": 640,
+      "height": 480,
+      "sha256": "a14ea2a7fcfc33973cbe75165d8011e69307fd9c15cd8818125b9e1ffa681482",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.33/SLES_532.33_BG_00.png"
+      },
+      "gameId": "SLES_532.33"
+    },
+    {
+      "path": "PS2/SLES_532.33/SLES_532.33_BG_01.png",
+      "kind": "background",
+      "bytes": 262675,
+      "width": 640,
+      "height": 480,
+      "sha256": "f4a115a2ba713e4e2b1505e6407481a7059e7ca7884667ad33a1ccdc00569ad8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.33/SLES_532.33_BG_01.png"
+      },
+      "gameId": "SLES_532.33"
+    },
+    {
+      "path": "PS2/SLES_532.33/SLES_532.33_BG_02.png",
+      "kind": "background",
+      "bytes": 218559,
+      "width": 640,
+      "height": 480,
+      "sha256": "b9cf4fd14ae5f932bd7c73075b8e7900fa63c76fb1f27e5bcff20caa95039221",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.33/SLES_532.33_BG_02.png"
+      },
+      "gameId": "SLES_532.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ASSAULT SUITS VALKEN"
+}

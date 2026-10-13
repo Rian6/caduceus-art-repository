@@ -1,0 +1,25 @@
+{
+  "id": "SLES_516.02",
+  "cover": {
+    "path": "PS2/SLES_516.02/SLES_516.02_COV.png",
+    "kind": "cover",
+    "bytes": 92548,
+    "width": 192,
+    "height": 272,
+    "sha256": "d265990a27f6aa6da587177a294092eb59c1c37b07b2d323e94abeea217755a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51602.jpg"
+    },
+    "gameId": "SLES_516.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "All-Star Baseball 2004"
+}

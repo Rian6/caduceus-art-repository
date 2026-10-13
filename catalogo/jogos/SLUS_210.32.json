@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_210.32",
+  "cover": {
+    "path": "PS2/SLUS_210.32/SLUS_210.32_COV.png",
+    "kind": "cover",
+    "bytes": 98199,
+    "width": 192,
+    "height": 272,
+    "sha256": "def21a491d6545251ffc29fa8d9494e3d159d75f06861adfe2e08a26561a50bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21032.jpg"
+    },
+    "gameId": "SLUS_210.32"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.32/SLUS_210.32_ICO.png",
+    "kind": "disc",
+    "bytes": 21690,
+    "width": 256,
+    "height": 256,
+    "sha256": "8aacd0f31964ad2935327289a286030dc6c105fec73df0fe88282be01488ae36",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.32_ICO.png"
+    },
+    "gameId": "SLUS_210.32"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.32/SLUS_210.32_BG.png",
+    "kind": "background",
+    "bytes": 196289,
+    "width": 640,
+    "height": 480,
+    "sha256": "30eef28d0d41793923081da57e85df12ceb8f250330c095c08235aea752a978d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.32/SLUS_210.32_BG_00.png"
+    },
+    "gameId": "SLUS_210.32"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.32/SLUS_210.32_BG.png",
+      "kind": "background",
+      "bytes": 196289,
+      "width": 640,
+      "height": 480,
+      "sha256": "30eef28d0d41793923081da57e85df12ceb8f250330c095c08235aea752a978d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.32/SLUS_210.32_BG_00.png"
+      },
+      "gameId": "SLUS_210.32"
+    },
+    {
+      "path": "PS2/SLUS_210.32/SLUS_210.32_BG_01.png",
+      "kind": "background",
+      "bytes": 193812,
+      "width": 640,
+      "height": 480,
+      "sha256": "f4a282d0ca0a6af61781840f6f84833bc23ee98a3ab7cc9e90800991f293f6f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.32/SLUS_210.32_BG_01.png"
+      },
+      "gameId": "SLUS_210.32"
+    },
+    {
+      "path": "PS2/SLUS_210.32/SLUS_210.32_BG_02.png",
+      "kind": "background",
+      "bytes": 77912,
+      "width": 640,
+      "height": 480,
+      "sha256": "8807f0e61343258091ce6649d923e9056a5b81b7212e824e20045f44c4f12a8c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.32/SLUS_210.32_BG_02.png"
+      },
+      "gameId": "SLUS_210.32"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Marc Ecko's Getting Up: Contents Under Pressure"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_501.27",
+  "cover": {
+    "path": "PS2/SLES_501.27/SLES_501.27_COV.png",
+    "kind": "cover",
+    "bytes": 111484,
+    "width": 192,
+    "height": 272,
+    "sha256": "7eb84df88c15a17c70bbd495f161ed04b83b0419eb2343caeecf055459d6b045",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50127.JPG"
+    },
+    "gameId": "SLES_501.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Quake III  Revolution"
+}

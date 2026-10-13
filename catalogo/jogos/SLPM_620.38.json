@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.38",
+  "cover": {
+    "path": "PS2/SLPM_620.38/SLPM_620.38_COV.png",
+    "kind": "cover",
+    "bytes": 66745,
+    "width": 192,
+    "height": 272,
+    "sha256": "b4b09fb8d4ceba209c27e5493f73b09e919c983580c7ceed47973c7086a5ffd4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62038.jpg"
+    },
+    "gameId": "SLPM_620.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Choukousoku Mahjong"
+}

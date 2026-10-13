@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_192.11",
+  "cover": {
+    "path": "PS2/SCPS_192.11/SCPS_192.11_COV.png",
+    "kind": "cover",
+    "bytes": 89224,
+    "width": 192,
+    "height": 272,
+    "sha256": "73121db840c19f3c45a0c1be2022474cd992abf4cedc47d0f3ac28e73dfb29f5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19211.jpg"
+    },
+    "gameId": "SCPS_192.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RATCHET & CLANK [PLAYSTATION 2 THE BEST]"
+}

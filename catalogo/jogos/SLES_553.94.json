@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.94",
+  "cover": {
+    "path": "PS2/SLES_553.94/SLES_553.94_COV.png",
+    "kind": "cover",
+    "bytes": 106316,
+    "width": 192,
+    "height": 272,
+    "sha256": "2135c90ed1158a1d3f29ae564024e33f732c2c19349abbc8d4cc7f9342dd4a60",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55394.jpg"
+    },
+    "gameId": "SLES_553.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney Think Fast"
+}

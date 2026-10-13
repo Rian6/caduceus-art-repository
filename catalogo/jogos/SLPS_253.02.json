@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_253.02",
+  "cover": {
+    "path": "PS2/SLPS_253.02/SLPS_253.02_COV.png",
+    "kind": "cover",
+    "bytes": 71199,
+    "width": 192,
+    "height": 272,
+    "sha256": "91540f25b121af47b5bf0dd722357072bb7d26bbbe6466de9151b887ca72720e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25302.jpg"
+    },
+    "gameId": "SLPS_253.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_253.02/SLPS_253.02_BG.png",
+    "kind": "background",
+    "bytes": 224728,
+    "width": 640,
+    "height": 480,
+    "sha256": "069a2f0ea3bead9193adcebbee66275fcd6f59cdcc3146669ee5ccde01f90840",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.02/SLPS_253.02_BG_00.png"
+    },
+    "gameId": "SLPS_253.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.02/SLPS_253.02_BG.png",
+      "kind": "background",
+      "bytes": 224728,
+      "width": 640,
+      "height": 480,
+      "sha256": "069a2f0ea3bead9193adcebbee66275fcd6f59cdcc3146669ee5ccde01f90840",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.02/SLPS_253.02_BG_00.png"
+      },
+      "gameId": "SLPS_253.02"
+    },
+    {
+      "path": "PS2/SLPS_253.02/SLPS_253.02_BG_01.png",
+      "kind": "background",
+      "bytes": 182369,
+      "width": 640,
+      "height": 480,
+      "sha256": "a11a05d0211fd15a2ba21e3416f5e4d1260efa5fc6db4ebe7d8d9e40487edff3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.02/SLPS_253.02_BG_01.png"
+      },
+      "gameId": "SLPS_253.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kamen Rider: Seigi no Keifu"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_537.79",
+  "cover": {
+    "path": "PS2/SLES_537.79/SLES_537.79_COV.png",
+    "kind": "cover",
+    "bytes": 100263,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0797ba6ef4fa53209acb276e62eaf069f8b712f804bdaaebd8f494fd3e72120",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53779.jpg"
+    },
+    "gameId": "SLES_537.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "American Chopper 2: Full Throttle"
+}

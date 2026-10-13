@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.27",
+  "cover": {
+    "path": "PS2/SLPS_202.27/SLPS_202.27_COV.png",
+    "kind": "cover",
+    "bytes": 106473,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ead18fa738d5069d713d467dd2d3eec5e595af8434498d2c469eb24869b919f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20227.jpg"
+    },
+    "gameId": "SLPS_202.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yamasa Digi World SP - Neo Planett XX"
+}

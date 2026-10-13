@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.52",
+  "cover": {
+    "path": "PS2/SLPS_200.52/SLPS_200.52_COV.png",
+    "kind": "cover",
+    "bytes": 89369,
+    "width": 192,
+    "height": 272,
+    "sha256": "a3e9c1d8b2b716cbfb4e832a1129d9c42c67c5d689eb611c92985ec5cb576b4b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20052.jpg"
+    },
+    "gameId": "SLPS_200.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GLOBAL FOLKTALE"
+}

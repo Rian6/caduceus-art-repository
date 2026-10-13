@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.96",
+  "cover": {
+    "path": "PS2/SLPS_202.96/SLPS_202.96_COV.png",
+    "kind": "cover",
+    "bytes": 69252,
+    "width": 192,
+    "height": 272,
+    "sha256": "bb6e2d545d3c15323c49b78f1822fdbedd4391afaf5ab82f6e7bc891cc7d915a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20296.jpg"
+    },
+    "gameId": "SLPS_202.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Yakyuu Simulation Dugout '03 - The Turning Point"
+}

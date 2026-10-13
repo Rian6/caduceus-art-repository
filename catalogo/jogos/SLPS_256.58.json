@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.58",
+  "cover": {
+    "path": "PS2/SLPS_256.58/SLPS_256.58_COV.png",
+    "kind": "cover",
+    "bytes": 112909,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e83da84f2293c26d804a41dda25384d151042b5c5a5e99a9087602025bc9bfe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25658.jpg"
+    },
+    "gameId": "SLPS_256.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BINCHOTAN - SHIAWASE KOYOMI [LIMITED EDITION]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_504.97",
+  "cover": {
+    "path": "PS2/SLES_504.97/SLES_504.97_COV.png",
+    "kind": "cover",
+    "bytes": 75963,
+    "width": 192,
+    "height": 272,
+    "sha256": "5ea1d1bd0ec7d6333925fa7439b6914e2d05b3a69f4bc65a5044cb830ae01fc0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50497.jpg"
+    },
+    "gameId": "SLES_504.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wer wird Millionär - 2 Edition"
+}

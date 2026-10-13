@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.79",
+  "cover": {
+    "path": "PS2/SLPS_255.79/SLPS_255.79_COV.png",
+    "kind": "cover",
+    "bytes": 105767,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ce5077df084163aeeac281e342d07514e8c5a36d9acfea40d880661422761b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25579.jpg"
+    },
+    "gameId": "SLPS_255.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LITTLE AID"
+}

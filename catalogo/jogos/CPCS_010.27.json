@@ -1,0 +1,25 @@
+{
+  "id": "CPCS_010.27",
+  "cover": {
+    "path": "PS2/CPCS_010.27/CPCS_010.27_COV.png",
+    "kind": "cover",
+    "bytes": 76523,
+    "width": 192,
+    "height": 272,
+    "sha256": "b987e11cd3d5b612f85c2be6d1ab1e84577f35b3b58403f7001ecbaf689ba0f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/CPCS-01027.jpg"
+    },
+    "gameId": "CPCS_010.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRAND THEFT AUTO - DOUBLE PACK"
+}

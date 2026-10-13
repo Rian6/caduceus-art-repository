@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_255.01",
+  "cover": {
+    "path": "PS2/SLPS_255.01/SLPS_255.01_COV.png",
+    "kind": "cover",
+    "bytes": 109383,
+    "width": 192,
+    "height": 272,
+    "sha256": "5303af0e3b4cf9b37c06d79841658ffecbd2bbcbd27693652201c238fcac0aa4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25501.jpg"
+    },
+    "gameId": "SLPS_255.01"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_255.01/SLPS_255.01_BG.png",
+    "kind": "background",
+    "bytes": 148281,
+    "width": 640,
+    "height": 480,
+    "sha256": "3aea25f9f8a251a75951e60cbb0560f5dec3ea3e9dcc61af515a190736bf3a94",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.01/SLPS_255.01_BG_00.png"
+    },
+    "gameId": "SLPS_255.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.01/SLPS_255.01_BG.png",
+      "kind": "background",
+      "bytes": 148281,
+      "width": 640,
+      "height": 480,
+      "sha256": "3aea25f9f8a251a75951e60cbb0560f5dec3ea3e9dcc61af515a190736bf3a94",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.01/SLPS_255.01_BG_00.png"
+      },
+      "gameId": "SLPS_255.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Onmyou Taisenki: Hasha no In"
+}

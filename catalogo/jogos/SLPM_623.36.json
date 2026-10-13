@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.36",
+  "cover": {
+    "path": "PS2/SLPM_623.36/SLPM_623.36_COV.png",
+    "kind": "cover",
+    "bytes": 99433,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ea803876a6f2716268f04833cd9762db42f18ad9315e9166dd5912e00b1948b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62336.jpg"
+    },
+    "gameId": "SLPM_623.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.44 - The Hajimete no RPG  - Densetsu no Keishousha"
+}

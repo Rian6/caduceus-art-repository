@@ -1,0 +1,25 @@
+{
+  "id": "SCED_542.02",
+  "cover": {
+    "path": "PS2/SCED_542.02/SCED_542.02_COV.png",
+    "kind": "cover",
+    "bytes": 63703,
+    "width": 192,
+    "height": 272,
+    "sha256": "ae00c3e5ecf4040a93478834c5849a38946c5145c85029e4c26a0bc4ff703d82",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCED_542.02/SCED_542.02_COV.png"
+    },
+    "gameId": "SCED_542.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Official PlayStation 2 Magazine Demo 74"
+}

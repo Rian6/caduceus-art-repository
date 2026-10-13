@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.71",
+  "cover": {
+    "path": "PS2/SLPM_659.71/SLPM_659.71_COV.png",
+    "kind": "cover",
+    "bytes": 95435,
+    "width": 192,
+    "height": 272,
+    "sha256": "2e54866e4f2fea5a8fea53a54467ea846354f4af9d253e592fb89a3e0c54b7b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65971.jpg"
+    },
+    "gameId": "SLPM_659.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOSHITE BOKURA WA... AND HE SAID"
+}

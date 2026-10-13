@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.66",
+  "cover": {
+    "path": "PS2/SLKA_253.66/SLKA_253.66_COV.png",
+    "kind": "cover",
+    "bytes": 100591,
+    "width": 192,
+    "height": 272,
+    "sha256": "3ab538bb6180c759beff466a772b45b8bfea103befe04c4d0809161499dbcc60",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25366.jpg"
+    },
+    "gameId": "SLKA_253.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Naruto - Konoha Spirits"
+}

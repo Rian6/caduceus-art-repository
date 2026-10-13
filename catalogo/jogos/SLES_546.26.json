@@ -1,0 +1,65 @@
+{
+  "id": "SLES_546.26",
+  "cover": {
+    "path": "PS2/SLES_546.26/SLES_546.26_COV.png",
+    "kind": "cover",
+    "bytes": 95323,
+    "width": 192,
+    "height": 272,
+    "sha256": "30bdc68c73c711b03f24dc66df6dc57043c4c57fb7361e2595844517f8c486d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54626.jpg"
+    },
+    "gameId": "SLES_546.26"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.26/SLES_546.26_ICO.png",
+    "kind": "disc",
+    "bytes": 8237,
+    "width": 128,
+    "height": 128,
+    "sha256": "fe3abd67d09a4e56c099d983ac181ed1f294708b483695fd65254ef161971d51",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.26_ICO.png"
+    },
+    "gameId": "SLES_546.26"
+  },
+  "background": {
+    "path": "PS2/SLES_546.26/SLES_546.26_BG.png",
+    "kind": "background",
+    "bytes": 187350,
+    "width": 640,
+    "height": 480,
+    "sha256": "67d40e7fb3a1391832a0c7b520cda3ff3e7be6d665c5ced587a8bed722edf8b8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.26/SLES_546.26_BG_00.png"
+    },
+    "gameId": "SLES_546.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_546.26/SLES_546.26_BG.png",
+      "kind": "background",
+      "bytes": 187350,
+      "width": 640,
+      "height": 480,
+      "sha256": "67d40e7fb3a1391832a0c7b520cda3ff3e7be6d665c5ced587a8bed722edf8b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.26/SLES_546.26_BG_00.png"
+      },
+      "gameId": "SLES_546.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "An American Tail"
+}

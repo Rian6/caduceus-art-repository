@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.91",
+  "cover": {
+    "path": "PS2/SLPS_253.91/SLPS_253.91_COV.png",
+    "kind": "cover",
+    "bytes": 95950,
+    "width": 192,
+    "height": 272,
+    "sha256": "46f2366868701a557d904988e35436dfa8a540663ff2e58005c3d62fc55df8d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25391.jpg"
+    },
+    "gameId": "SLPS_253.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLOVER HEART'S - LOOKING FOR HAPPINESS"
+}

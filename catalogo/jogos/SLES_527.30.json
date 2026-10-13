@@ -1,0 +1,90 @@
+{
+  "id": "SLES_527.30",
+  "cover": {
+    "path": "PS2/SLES_527.30/SLES_527.30_COV.png",
+    "kind": "cover",
+    "bytes": 105690,
+    "width": 192,
+    "height": 272,
+    "sha256": "d25d847d1176ce1ee8fa700880b03a1f445def31e84a90a751941215d6406207",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52730.jpg"
+    },
+    "gameId": "SLES_527.30"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.30/SLES_527.30_BG.png",
+    "kind": "background",
+    "bytes": 183777,
+    "width": 640,
+    "height": 480,
+    "sha256": "cd87fa1df0fcc860faae822d59cc02b3b135bbda42df35871f0bfb24b3710f79",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.30/SLES_527.30_BG_00.png"
+    },
+    "gameId": "SLES_527.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.30/SLES_527.30_BG.png",
+      "kind": "background",
+      "bytes": 183777,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd87fa1df0fcc860faae822d59cc02b3b135bbda42df35871f0bfb24b3710f79",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.30/SLES_527.30_BG_00.png"
+      },
+      "gameId": "SLES_527.30"
+    },
+    {
+      "path": "PS2/SLES_527.30/SLES_527.30_BG_01.png",
+      "kind": "background",
+      "bytes": 211917,
+      "width": 640,
+      "height": 480,
+      "sha256": "8717d857dbd21bfdfba7dbeb3252c65928b43bb0e3bda2174f83e790f5587d7e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.30/SLES_527.30_BG_01.png"
+      },
+      "gameId": "SLES_527.30"
+    },
+    {
+      "path": "PS2/SLES_527.30/SLES_527.30_BG_02.png",
+      "kind": "background",
+      "bytes": 201476,
+      "width": 640,
+      "height": 480,
+      "sha256": "f5d131fdfca1c418430473567c05f7e34907ed2a9dd7e0762e4d6ea19ee96432",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.30/SLES_527.30_BG_02.png"
+      },
+      "gameId": "SLES_527.30"
+    },
+    {
+      "path": "PS2/SLES_527.30/SLES_527.30_BG_03.png",
+      "kind": "background",
+      "bytes": 224075,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2fdfbc3da536b9218f3b86d0db3015808263a13cc15eb62cdb51eeafd82abf8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.30/SLES_527.30_BG_03.png"
+      },
+      "gameId": "SLES_527.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Ball Z: Budokai 3"
+}

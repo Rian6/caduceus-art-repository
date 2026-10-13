@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.95",
+  "cover": {
+    "path": "PS2/SLPS_202.95/SLPS_202.95_COV.png",
+    "kind": "cover",
+    "bytes": 96093,
+    "width": 192,
+    "height": 272,
+    "sha256": "46c73e4091b0f7a15d1e448fad6d8f83d21bc6091122f343034477251a7df9f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20295.jpg"
+    },
+    "gameId": "SLPS_202.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "F1 Career Challenge"
+}

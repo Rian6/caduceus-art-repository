@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.07",
+  "cover": {
+    "path": "PS2/SLPS_255.07/SLPS_255.07_COV.png",
+    "kind": "cover",
+    "bytes": 110273,
+    "width": 192,
+    "height": 272,
+    "sha256": "e037d905f8473caf812c95f5611d6f605989f23ce8c8e7a99f7181f7908bb090",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25507.jpg"
+    },
+    "gameId": "SLPS_255.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAI-HIME - UNMEI NO KEITOUJU [DX PACK]"
+}

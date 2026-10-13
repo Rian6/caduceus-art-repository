@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.94",
+  "cover": {
+    "path": "PS2/SLPS_258.94/SLPS_258.94_COV.png",
+    "kind": "cover",
+    "bytes": 86557,
+    "width": 192,
+    "height": 272,
+    "sha256": "be1929132ea6da2ee79f546572e3a31beec36ed3aaedcc6d4c49f8f50ee6a874",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25894.jpg"
+    },
+    "gameId": "SLPS_258.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Aa! Megami-sama [Best Collection]"
+}

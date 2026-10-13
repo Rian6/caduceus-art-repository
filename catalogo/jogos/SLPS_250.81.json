@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.81",
+  "cover": {
+    "path": "PS2/SLPS_250.81/SLPS_250.81_COV.png",
+    "kind": "cover",
+    "bytes": 69929,
+    "width": 192,
+    "height": 272,
+    "sha256": "f61a5fa4822cd6e26490d09b72e62f4dbcb1709b562a0a7ad458673494cb9c47",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25081.jpg"
+    },
+    "gameId": "SLPS_250.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saishuu Densha"
+}

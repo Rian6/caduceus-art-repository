@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_250.46",
+  "cover": {
+    "path": "PS2/SLKA_250.46/SLKA_250.46_COV.png",
+    "kind": "cover",
+    "bytes": 97253,
+    "width": 192,
+    "height": 272,
+    "sha256": "f6ba25c4ed0875e8cc63f7b7ffaa98d659970519ab96531d0eb52c4228cdee0b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25046.jpg"
+    },
+    "gameId": "SLKA_250.46"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_250.46/SLKA_250.46_BG.png",
+    "kind": "background",
+    "bytes": 187973,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a3accc1627a98dd9312611769baae7fba866594a35833bd3687d07c892133ef",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.46/SLKA_250.46_BG_00.png"
+    },
+    "gameId": "SLKA_250.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_250.46/SLKA_250.46_BG.png",
+      "kind": "background",
+      "bytes": 187973,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a3accc1627a98dd9312611769baae7fba866594a35833bd3687d07c892133ef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.46/SLKA_250.46_BG_00.png"
+      },
+      "gameId": "SLKA_250.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Ball Z"
+}

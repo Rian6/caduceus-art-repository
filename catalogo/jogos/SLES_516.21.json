@@ -1,0 +1,78 @@
+{
+  "id": "SLES_516.21",
+  "cover": {
+    "path": "PS2/SLES_516.21/SLES_516.21_COV.png",
+    "kind": "cover",
+    "bytes": 103960,
+    "width": 192,
+    "height": 272,
+    "sha256": "f15b008760e2a6aaae98cfc441ec8da48db41cdf1f7f16824d889a5802f6c70e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51621.jpg"
+    },
+    "gameId": "SLES_516.21"
+  },
+  "disc": {
+    "path": "PS2/SLES_516.21/SLES_516.21_ICO.png",
+    "kind": "disc",
+    "bytes": 10761,
+    "width": 128,
+    "height": 128,
+    "sha256": "5a0abb1e044917e7b52b9b16f11bb4d6ee08f307d3e4b4a25197442bb986eff9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_516.21_ICO.png"
+    },
+    "gameId": "SLES_516.21"
+  },
+  "background": {
+    "path": "PS2/SLES_516.21/SLES_516.21_BG.png",
+    "kind": "background",
+    "bytes": 167193,
+    "width": 640,
+    "height": 480,
+    "sha256": "3f764db9ae6f4ebca1903a64a1883cf59c2f636c5e8a23b541988b0bba96b647",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_516.21/SLES_516.21_BG_00.png"
+    },
+    "gameId": "SLES_516.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_516.21/SLES_516.21_BG.png",
+      "kind": "background",
+      "bytes": 167193,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f764db9ae6f4ebca1903a64a1883cf59c2f636c5e8a23b541988b0bba96b647",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.21/SLES_516.21_BG_00.png"
+      },
+      "gameId": "SLES_516.21"
+    },
+    {
+      "path": "PS2/SLES_516.21/SLES_516.21_BG_01.png",
+      "kind": "background",
+      "bytes": 194580,
+      "width": 640,
+      "height": 480,
+      "sha256": "295128e01f08bd2c5cd13e7e8ec1203f1ffec1a5a790e10dc40e5e665394010b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.21/SLES_516.21_BG_01.png"
+      },
+      "gameId": "SLES_516.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dirt Track Devils"
+}

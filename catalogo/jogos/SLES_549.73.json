@@ -1,0 +1,39 @@
+{
+  "id": "SLES_549.73",
+  "cover": {
+    "path": "PS2/SLES_549.73/SLES_549.73_COV.png",
+    "kind": "cover",
+    "bytes": 109489,
+    "width": 192,
+    "height": 272,
+    "sha256": "a8fc3297ae54be7343de29951d4d8022cabd61110dcb3ca583deaf49824a0afe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54973.jpg"
+    },
+    "gameId": "SLES_549.73"
+  },
+  "disc": {
+    "path": "PS2/SLES_549.73/SLES_549.73_ICO.png",
+    "kind": "disc",
+    "bytes": 12361,
+    "width": 128,
+    "height": 128,
+    "sha256": "1b2edeb2cbc4bee5a33946f436f9e72f8549b7bcbb0ad205e4a5b811517d2efe",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_549.73_ICO.png"
+    },
+    "gameId": "SLES_549.73"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LE AVVENTURE DI LUPIN III - LUPIN LA MORTE, ZENIGATA L'AMORE"
+}

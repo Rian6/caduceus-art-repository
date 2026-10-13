@@ -1,0 +1,51 @@
+{
+  "id": "SCES_542.65",
+  "cover": {
+    "path": "PS2/SCES_542.65/SCES_542.65_COV.png",
+    "kind": "cover",
+    "bytes": 100214,
+    "width": 192,
+    "height": 272,
+    "sha256": "0496edaca5d9d5cf01cdcbe0fbeb60c4b2c01d20e5ae25cb04327e7c33096459",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54265.jpg"
+    },
+    "gameId": "SCES_542.65"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_542.65/SCES_542.65_BG.png",
+    "kind": "background",
+    "bytes": 155316,
+    "width": 640,
+    "height": 480,
+    "sha256": "9e887309d255a4b6f38c762a884694f6e2352a57652e3b873c98099e0eb46a2a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_542.65/SCES_542.65_BG_00.png"
+    },
+    "gameId": "SCES_542.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_542.65/SCES_542.65_BG.png",
+      "kind": "background",
+      "bytes": 155316,
+      "width": 640,
+      "height": 480,
+      "sha256": "9e887309d255a4b6f38c762a884694f6e2352a57652e3b873c98099e0eb46a2a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.65/SCES_542.65_BG_00.png"
+      },
+      "gameId": "SCES_542.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! The Sports Quiz"
+}

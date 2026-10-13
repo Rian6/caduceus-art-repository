@@ -1,0 +1,103 @@
+{
+  "id": "SLES_527.55",
+  "cover": {
+    "path": "PS2/SLES_527.55/SLES_527.55_COV.png",
+    "kind": "cover",
+    "bytes": 79286,
+    "width": 192,
+    "height": 272,
+    "sha256": "662fce9b55367a20382087583ce8efac6529757c5e7768e2cda373bd400347b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52755.jpg"
+    },
+    "gameId": "SLES_527.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.55/SLES_527.55_BG.png",
+    "kind": "background",
+    "bytes": 158495,
+    "width": 640,
+    "height": 480,
+    "sha256": "e0700e85418013738311095a7b499948af9162927b4d0ab719abad451b6c8549",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.55/SLES_527.55_BG_00.png"
+    },
+    "gameId": "SLES_527.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.55/SLES_527.55_BG.png",
+      "kind": "background",
+      "bytes": 158495,
+      "width": 640,
+      "height": 480,
+      "sha256": "e0700e85418013738311095a7b499948af9162927b4d0ab719abad451b6c8549",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.55/SLES_527.55_BG_00.png"
+      },
+      "gameId": "SLES_527.55"
+    },
+    {
+      "path": "PS2/SLES_527.55/SLES_527.55_BG_01.png",
+      "kind": "background",
+      "bytes": 245024,
+      "width": 640,
+      "height": 480,
+      "sha256": "23d3a359c6873be9a3f6a31f62f5334c39665902d90850e2a78006b8def571c1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.55/SLES_527.55_BG_01.png"
+      },
+      "gameId": "SLES_527.55"
+    },
+    {
+      "path": "PS2/SLES_527.55/SLES_527.55_BG_02.png",
+      "kind": "background",
+      "bytes": 231874,
+      "width": 640,
+      "height": 480,
+      "sha256": "9e6dc5c1d9daf23e8518bee902a0067474aea7907fa3b3173a9325c85c39ca26",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.55/SLES_527.55_BG_02.png"
+      },
+      "gameId": "SLES_527.55"
+    },
+    {
+      "path": "PS2/SLES_527.55/SLES_527.55_BG_03.png",
+      "kind": "background",
+      "bytes": 199574,
+      "width": 640,
+      "height": 480,
+      "sha256": "1fcfb5f4d2965e7b53e43add59630ff6fc3693a9bd121a9e2f06e8d1ffc35835",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.55/SLES_527.55_BG_03.png"
+      },
+      "gameId": "SLES_527.55"
+    },
+    {
+      "path": "PS2/SLES_527.55/SLES_527.55_BG_04.png",
+      "kind": "background",
+      "bytes": 173678,
+      "width": 640,
+      "height": 480,
+      "sha256": "be8c78907c2bae867c2452978586db46ffbeb7c2019b12c61357be5310dd21f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.55/SLES_527.55_BG_04.png"
+      },
+      "gameId": "SLES_527.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Blood Will Tell - Osamu’s Tezuka Dororo"
+}

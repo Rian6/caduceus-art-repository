@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.66",
+  "cover": {
+    "path": "PS2/SCAJ_201.66/SCAJ_201.66_COV.png",
+    "kind": "cover",
+    "bytes": 77071,
+    "width": 192,
+    "height": 272,
+    "sha256": "f31ee1abc0c2b2cfa4d8b2cb3cc381a18022f8fbb3807d6be67dbf99626a8cd2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20166.jpg"
+    },
+    "gameId": "SCAJ_201.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Front Mission 5 - Scars of the War"
+}

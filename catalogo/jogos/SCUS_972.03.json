@@ -1,0 +1,117 @@
+{
+  "id": "SCUS_972.03",
+  "cover": {
+    "path": "PS2/SCUS_972.03/SCUS_972.03_COV.png",
+    "kind": "cover",
+    "bytes": 96619,
+    "width": 192,
+    "height": 272,
+    "sha256": "b00607f1f598bf2ee08272fde93af6d8e5cc73690f86186ddf6c8eae9787af64",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97203.jpg"
+    },
+    "gameId": "SCUS_972.03"
+  },
+  "disc": {
+    "path": "PS2/SCUS_972.03/SCUS_972.03_ICO.png",
+    "kind": "disc",
+    "bytes": 35974,
+    "width": 256,
+    "height": 256,
+    "sha256": "bd18a0389a34ce18f607d6508fa3cb737d655446a9f9767d134f33b737e90e81",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_972.03_ICO.png"
+    },
+    "gameId": "SCUS_972.03"
+  },
+  "background": {
+    "path": "PS2/SCUS_972.03/SCUS_972.03_BG.png",
+    "kind": "background",
+    "bytes": 167408,
+    "width": 640,
+    "height": 480,
+    "sha256": "ccb15145ed5249add3c64a1470f272d972e07d8d2b742bbb08c0514a54e1e84a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_972.03/SCUS_972.03_BG_00.png"
+    },
+    "gameId": "SCUS_972.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_972.03/SCUS_972.03_BG.png",
+      "kind": "background",
+      "bytes": 167408,
+      "width": 640,
+      "height": 480,
+      "sha256": "ccb15145ed5249add3c64a1470f272d972e07d8d2b742bbb08c0514a54e1e84a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_972.03/SCUS_972.03_BG_00.png"
+      },
+      "gameId": "SCUS_972.03"
+    },
+    {
+      "path": "PS2/SCUS_972.03/SCUS_972.03_BG_01.png",
+      "kind": "background",
+      "bytes": 210953,
+      "width": 640,
+      "height": 480,
+      "sha256": "41ac2cd541adf5746325e6c394f569d1a80f6d2af110bdf4fd907b3a4da64bbf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_972.03/SCUS_972.03_BG_01.png"
+      },
+      "gameId": "SCUS_972.03"
+    },
+    {
+      "path": "PS2/SCUS_972.03/SCUS_972.03_BG_02.png",
+      "kind": "background",
+      "bytes": 148718,
+      "width": 640,
+      "height": 480,
+      "sha256": "0c9292d1338736e79cfcbea2d321f53768e131ca2b4a7ae005d8dbba455a8821",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_972.03/SCUS_972.03_BG_02.png"
+      },
+      "gameId": "SCUS_972.03"
+    },
+    {
+      "path": "PS2/SCUS_972.03/SCUS_972.03_BG_03.png",
+      "kind": "background",
+      "bytes": 220134,
+      "width": 640,
+      "height": 480,
+      "sha256": "a593f27a519bdfde52704e9049cdd804a63230d04ad599dbfdd78006ff333d73",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_972.03/SCUS_972.03_BG_03.png"
+      },
+      "gameId": "SCUS_972.03"
+    },
+    {
+      "path": "PS2/SCUS_972.03/SCUS_972.03_BG_04.png",
+      "kind": "background",
+      "bytes": 182052,
+      "width": 640,
+      "height": 480,
+      "sha256": "7b277cc0ee818b6e7c7817f1666d32e441f38e01a09127e15624dd3145c2c057",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_972.03/SCUS_972.03_BG_04.png"
+      },
+      "gameId": "SCUS_972.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WILD ARMS 3"
+}

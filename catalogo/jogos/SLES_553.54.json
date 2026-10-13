@@ -1,0 +1,90 @@
+{
+  "id": "SLES_553.54",
+  "cover": {
+    "path": "PS2/SLES_553.54/SLES_553.54_COV.png",
+    "kind": "cover",
+    "bytes": 106457,
+    "width": 192,
+    "height": 272,
+    "sha256": "f2dfddd601660046587658e5661f3d155a17494b2219321e8bd1e7c3fddcaf57",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55354.jpg"
+    },
+    "gameId": "SLES_553.54"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_553.54/SLES_553.54_BG.png",
+    "kind": "background",
+    "bytes": 122020,
+    "width": 640,
+    "height": 480,
+    "sha256": "440df93786472c6a80bf3c14dd25f0e6c4c28a92c6f9856638653667587380d4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.54/SLES_553.54_BG_00.png"
+    },
+    "gameId": "SLES_553.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_553.54/SLES_553.54_BG.png",
+      "kind": "background",
+      "bytes": 122020,
+      "width": 640,
+      "height": 480,
+      "sha256": "440df93786472c6a80bf3c14dd25f0e6c4c28a92c6f9856638653667587380d4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.54/SLES_553.54_BG_00.png"
+      },
+      "gameId": "SLES_553.54"
+    },
+    {
+      "path": "PS2/SLES_553.54/SLES_553.54_BG_01.png",
+      "kind": "background",
+      "bytes": 180402,
+      "width": 640,
+      "height": 480,
+      "sha256": "506c1b13a259392ed7d6736bf7d044208b52c9fb4c88f0be4d176c9937339c59",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.54/SLES_553.54_BG_01.png"
+      },
+      "gameId": "SLES_553.54"
+    },
+    {
+      "path": "PS2/SLES_553.54/SLES_553.54_BG_02.png",
+      "kind": "background",
+      "bytes": 171619,
+      "width": 640,
+      "height": 480,
+      "sha256": "1bf99cb8e6823b9e17c8b736873e2ba93f196d19f683aaa8d9ca6f2eb2b4a82f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.54/SLES_553.54_BG_02.png"
+      },
+      "gameId": "SLES_553.54"
+    },
+    {
+      "path": "PS2/SLES_553.54/SLES_553.54_BG_03.png",
+      "kind": "background",
+      "bytes": 187316,
+      "width": 640,
+      "height": 480,
+      "sha256": "a452f8698ba60cce8f8ca3e72e9c3b2a682bcd49d0eb7091780196a49548081b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.54/SLES_553.54_BG_03.png"
+      },
+      "gameId": "SLES_553.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Persona 3 FES"
+}

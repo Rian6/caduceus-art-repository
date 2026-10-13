@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.76",
+  "cover": {
+    "path": "PS2/SLPM_658.76/SLPM_658.76_COV.png",
+    "kind": "cover",
+    "bytes": 82683,
+    "width": 192,
+    "height": 272,
+    "sha256": "462bbe727e88411a4105fcc708bd5dc4bb12c53018db5c629e227b142932abf9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65876.jpg"
+    },
+    "gameId": "SLPM_658.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Busin 0 - Wizardry Alternative Neo (Atlus Best Collection)"
+}

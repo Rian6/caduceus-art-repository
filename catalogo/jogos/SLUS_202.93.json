@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_202.93",
+  "cover": {
+    "path": "PS2/SLUS_202.93/SLUS_202.93_COV.png",
+    "kind": "cover",
+    "bytes": 105452,
+    "width": 192,
+    "height": 272,
+    "sha256": "c6a191c6f41eb4c7622157d38d088cbfd724a45a959e185d35af31c0da62fa55",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20293.jpg"
+    },
+    "gameId": "SLUS_202.93"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.93/SLUS_202.93_ICO.png",
+    "kind": "disc",
+    "bytes": 32277,
+    "width": 256,
+    "height": 256,
+    "sha256": "3c6919e59afb30b1caa0436545a37b1d02ce3be0521de612c4d7dae7a01811ab",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.93_ICO.png"
+    },
+    "gameId": "SLUS_202.93"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.93/SLUS_202.93_BG.png",
+    "kind": "background",
+    "bytes": 141288,
+    "width": 640,
+    "height": 480,
+    "sha256": "aef5cd1516965ccd2dc7adba7de936e5cc1dc218cf2077fc3f57ac488848038e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.93/SLUS_202.93_BG_00.png"
+    },
+    "gameId": "SLUS_202.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.93/SLUS_202.93_BG.png",
+      "kind": "background",
+      "bytes": 141288,
+      "width": 640,
+      "height": 480,
+      "sha256": "aef5cd1516965ccd2dc7adba7de936e5cc1dc218cf2077fc3f57ac488848038e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.93/SLUS_202.93_BG_00.png"
+      },
+      "gameId": "SLUS_202.93"
+    },
+    {
+      "path": "PS2/SLUS_202.93/SLUS_202.93_BG_01.png",
+      "kind": "background",
+      "bytes": 192431,
+      "width": 640,
+      "height": 480,
+      "sha256": "48213515bda69c2eadb4c742425017648c55abfc7e75b1876832383adbbc05fa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.93/SLUS_202.93_BG_01.png"
+      },
+      "gameId": "SLUS_202.93"
+    },
+    {
+      "path": "PS2/SLUS_202.93/SLUS_202.93_BG_02.png",
+      "kind": "background",
+      "bytes": 169468,
+      "width": 640,
+      "height": 480,
+      "sha256": "2746287f7ee3a057dd2851215ae49816918e125b8250f342940f7aac1be08b2f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.93/SLUS_202.93_BG_02.png"
+      },
+      "gameId": "SLUS_202.93"
+    },
+    {
+      "path": "PS2/SLUS_202.93/SLUS_202.93_BG_03.png",
+      "kind": "background",
+      "bytes": 93655,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c2cc628e96df4094a449ec38ea374b9a70a22fff65c7b8c1abad12fcedbc01f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.93/SLUS_202.93_BG_03.png"
+      },
+      "gameId": "SLUS_202.93"
+    },
+    {
+      "path": "PS2/SLUS_202.93/SLUS_202.93_BG_04.png",
+      "kind": "background",
+      "bytes": 170094,
+      "width": 640,
+      "height": 480,
+      "sha256": "37cb5468e725251f495035fcc9d89cf7cb812eda6746b63f9e3ae15cdcf69696",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.93/SLUS_202.93_BG_04.png"
+      },
+      "gameId": "SLUS_202.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Star Wars: Jedi Starfighter"
+}

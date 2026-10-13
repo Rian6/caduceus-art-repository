@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.06",
+  "cover": {
+    "path": "PS2/SLPM_664.06/SLPM_664.06_COV.png",
+    "kind": "cover",
+    "bytes": 91954,
+    "width": 192,
+    "height": 272,
+    "sha256": "50e95ec64cd625bd07dfc0a1323d0bfb8f661183de4538f9f4edffcc5fbac077",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66406.jpg"
+    },
+    "gameId": "SLPM_664.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OUKA KOKORO KAGAYAKASERU SAKURA"
+}

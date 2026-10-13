@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.37",
+  "cover": {
+    "path": "PS2/SLPM_663.37/SLPM_663.37_COV.png",
+    "kind": "cover",
+    "bytes": 100878,
+    "width": 192,
+    "height": 272,
+    "sha256": "f5183187eae3bb8d6efe81f637707aedce5b2a9c361744eb060f72e32964de59",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66337.jpg"
+    },
+    "gameId": "SLPM_663.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EVE - NEW GENERATION [DELUXE PACK]"
+}

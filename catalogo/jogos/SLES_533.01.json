@@ -1,0 +1,117 @@
+{
+  "id": "SLES_533.01",
+  "cover": {
+    "path": "PS2/SLES_533.01/SLES_533.01_COV.png",
+    "kind": "cover",
+    "bytes": 112650,
+    "width": 192,
+    "height": 272,
+    "sha256": "f51d37507e163b4ba0f87ace6bb005172dd54e33340c681d5ee650d330b3d115",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53301.jpg"
+    },
+    "gameId": "SLES_533.01"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.01/SLES_533.01_ICO.png",
+    "kind": "disc",
+    "bytes": 11160,
+    "width": 128,
+    "height": 128,
+    "sha256": "41449d3ef68623a7f73663c7e6466ccb6246d9f6ad61e9b32f2c7d60a2fc2d8d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.01_ICO.png"
+    },
+    "gameId": "SLES_533.01"
+  },
+  "background": {
+    "path": "PS2/SLES_533.01/SLES_533.01_BG.png",
+    "kind": "background",
+    "bytes": 150439,
+    "width": 640,
+    "height": 480,
+    "sha256": "677d3f3cd7bf3f325155eba8229c828bebd9d352a0be8af05380bd4c07bdbc03",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.01/SLES_533.01_BG_00.png"
+    },
+    "gameId": "SLES_533.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.01/SLES_533.01_BG.png",
+      "kind": "background",
+      "bytes": 150439,
+      "width": 640,
+      "height": 480,
+      "sha256": "677d3f3cd7bf3f325155eba8229c828bebd9d352a0be8af05380bd4c07bdbc03",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.01/SLES_533.01_BG_00.png"
+      },
+      "gameId": "SLES_533.01"
+    },
+    {
+      "path": "PS2/SLES_533.01/SLES_533.01_BG_01.png",
+      "kind": "background",
+      "bytes": 188563,
+      "width": 640,
+      "height": 480,
+      "sha256": "593aada2d82f58b1f03bb57206e51d04921aee70fff79450e8506057af22b1be",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.01/SLES_533.01_BG_01.png"
+      },
+      "gameId": "SLES_533.01"
+    },
+    {
+      "path": "PS2/SLES_533.01/SLES_533.01_BG_02.png",
+      "kind": "background",
+      "bytes": 89996,
+      "width": 640,
+      "height": 480,
+      "sha256": "76351b81c19eab0cffb921884702d119954007e746a5c848cda8bcef1668178a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.01/SLES_533.01_BG_02.png"
+      },
+      "gameId": "SLES_533.01"
+    },
+    {
+      "path": "PS2/SLES_533.01/SLES_533.01_BG_03.png",
+      "kind": "background",
+      "bytes": 165924,
+      "width": 640,
+      "height": 480,
+      "sha256": "9d613f0543bad16567b15eeeeee467e571c30a9a5c27dcd8c4424ffa4762aa4a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.01/SLES_533.01_BG_03.png"
+      },
+      "gameId": "SLES_533.01"
+    },
+    {
+      "path": "PS2/SLES_533.01/SLES_533.01_BG_04.png",
+      "kind": "background",
+      "bytes": 178921,
+      "width": 640,
+      "height": 480,
+      "sha256": "5e4db4ce0901118c90d8b9fa7229d86c78fcb29cf8c52ac90c46c1bcb87b0716",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.01/SLES_533.01_BG_04.png"
+      },
+      "gameId": "SLES_533.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bomberman Hardball"
+}

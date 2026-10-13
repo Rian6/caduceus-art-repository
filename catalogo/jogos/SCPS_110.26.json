@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.26",
+  "cover": {
+    "path": "PS2/SCPS_110.26/SCPS_110.26_COV.png",
+    "kind": "cover",
+    "bytes": 114687,
+    "width": 192,
+    "height": 272,
+    "sha256": "5ec282577a101b65e884b76a04db1a3072a6b030c1e68ae1ffd9fd734f9e328d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11026.jpg"
+    },
+    "gameId": "SCPS_110.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GACHAROKU"
+}

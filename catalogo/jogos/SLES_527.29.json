@@ -1,0 +1,51 @@
+{
+  "id": "SLES_527.29",
+  "cover": {
+    "path": "PS2/SLES_527.29/SLES_527.29_COV.png",
+    "kind": "cover",
+    "bytes": 93840,
+    "width": 192,
+    "height": 272,
+    "sha256": "48137116fa32385edf38629d74776ce7d2d163e423f4d04be2c9ac2b8a0e0bfb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52729.jpg"
+    },
+    "gameId": "SLES_527.29"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.29/SLES_527.29_BG.png",
+    "kind": "background",
+    "bytes": 79006,
+    "width": 640,
+    "height": 480,
+    "sha256": "5bb684a1ca3d622d70e00ab63ddf0a9e0361e19b18c976de9b92f57f1fe3ee7f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.29/SLES_527.29_BG_00.png"
+    },
+    "gameId": "SLES_527.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.29/SLES_527.29_BG.png",
+      "kind": "background",
+      "bytes": 79006,
+      "width": 640,
+      "height": 480,
+      "sha256": "5bb684a1ca3d622d70e00ab63ddf0a9e0361e19b18c976de9b92f57f1fe3ee7f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.29/SLES_527.29_BG_00.png"
+      },
+      "gameId": "SLES_527.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Animaniacs: The Great Edgar Hunt"
+}

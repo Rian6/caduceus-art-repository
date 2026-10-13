@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.12",
+  "cover": {
+    "path": "PS2/SLPS_203.12/SLPS_203.12_COV.png",
+    "kind": "cover",
+    "bytes": 80499,
+    "width": 192,
+    "height": 272,
+    "sha256": "75cfcb13acbf36526366ef4707004860776101ce670bd3637eae4be60f6cab0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20312.jpg"
+    },
+    "gameId": "SLPS_203.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Primopuel - My Special Partner (Limited Edition)"
+}

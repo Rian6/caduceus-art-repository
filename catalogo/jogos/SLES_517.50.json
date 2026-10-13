@@ -1,0 +1,78 @@
+{
+  "id": "SLES_517.50",
+  "cover": {
+    "path": "PS2/SLES_517.50/SLES_517.50_COV.png",
+    "kind": "cover",
+    "bytes": 83789,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d478260d6fa02ac8f31a78a5340b797b6a10ae96079ba248afa9000b8e9ce87",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51750.jpg"
+    },
+    "gameId": "SLES_517.50"
+  },
+  "disc": {
+    "path": "PS2/SLES_517.50/SLES_517.50_ICO.png",
+    "kind": "disc",
+    "bytes": 9203,
+    "width": 128,
+    "height": 128,
+    "sha256": "759ce22673e4a6864bd91cda0ee162fb46d3e33d8c1cabe37fc0b43021b0286a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_517.50_ICO.png"
+    },
+    "gameId": "SLES_517.50"
+  },
+  "background": {
+    "path": "PS2/SLES_517.50/SLES_517.50_BG.png",
+    "kind": "background",
+    "bytes": 215374,
+    "width": 640,
+    "height": 480,
+    "sha256": "d1aebf1676a4b21d10c06b0da7b8ca96897d732a01236adbbbf1d08d99ce19c7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.50/SLES_517.50_BG_00.png"
+    },
+    "gameId": "SLES_517.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.50/SLES_517.50_BG.png",
+      "kind": "background",
+      "bytes": 215374,
+      "width": 640,
+      "height": 480,
+      "sha256": "d1aebf1676a4b21d10c06b0da7b8ca96897d732a01236adbbbf1d08d99ce19c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.50/SLES_517.50_BG_00.png"
+      },
+      "gameId": "SLES_517.50"
+    },
+    {
+      "path": "PS2/SLES_517.50/SLES_517.50_BG_01.png",
+      "kind": "background",
+      "bytes": 176348,
+      "width": 640,
+      "height": 480,
+      "sha256": "f06aca9771bf02e1657fd3a98b10ddc827daaf6d8409995c9270a02a0d0379a2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.50/SLES_517.50_BG_01.png"
+      },
+      "gameId": "SLES_517.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Charlie's Angels"
+}

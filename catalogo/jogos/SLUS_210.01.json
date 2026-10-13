@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_210.01",
+  "cover": {
+    "path": "PS2/SLUS_210.01/SLUS_210.01_COV.png",
+    "kind": "cover",
+    "bytes": 91697,
+    "width": 192,
+    "height": 272,
+    "sha256": "1f1b87622af9be8b442cabe37a87d04ed359d88a77476bb039dd5299159347a5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21001.jpg"
+    },
+    "gameId": "SLUS_210.01"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.01/SLUS_210.01_ICO.png",
+    "kind": "disc",
+    "bytes": 32451,
+    "width": 256,
+    "height": 256,
+    "sha256": "ee48f068a4ae9a1ff20b2c00c8d4434c15c450271c4d03544c6eda0f76fbfdd8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.01_ICO.png"
+    },
+    "gameId": "SLUS_210.01"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL 2005"
+}

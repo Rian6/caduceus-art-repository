@@ -1,0 +1,39 @@
+{
+  "id": "SLES_545.92",
+  "cover": {
+    "path": "PS2/SLES_545.92/SLES_545.92_COV.png",
+    "kind": "cover",
+    "bytes": 88739,
+    "width": 192,
+    "height": 272,
+    "sha256": "e30fd652c14d76b538e6a6f2e81b2f7cfea15d8788f51e71673372abb0cb720f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54592.jpg"
+    },
+    "gameId": "SLES_545.92"
+  },
+  "disc": {
+    "path": "PS2/SLES_545.92/SLES_545.92_ICO.png",
+    "kind": "disc",
+    "bytes": 10782,
+    "width": 128,
+    "height": 128,
+    "sha256": "e02847d2c91b782ce8bce2f1faa966ec57eb9775c131e0e8a8cf6195ec5d2de9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_545.92_ICO.png"
+    },
+    "gameId": "SLES_545.92"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Petanque Pro"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_601.01",
+  "cover": {
+    "path": "PS2/SLPM_601.01/SLPM_601.01_COV.png",
+    "kind": "cover",
+    "bytes": 100060,
+    "width": 192,
+    "height": 272,
+    "sha256": "cfcd853efeb4bfe8998e39087bb25f31deeda14b4e9ed6394cf8c3581eca63f8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-60101.jpg"
+    },
+    "gameId": "SLPM_601.01"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_601.01/SLPM_601.01_BG.png",
+    "kind": "background",
+    "bytes": 128579,
+    "width": 640,
+    "height": 480,
+    "sha256": "5801e46af646886cbf5045376b1b4e8c1a75ac6bbaca61f2800273306b25ff42",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_601.01/SLPM_601.01_BG_00.png"
+    },
+    "gameId": "SLPM_601.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_601.01/SLPM_601.01_BG.png",
+      "kind": "background",
+      "bytes": 128579,
+      "width": 640,
+      "height": 480,
+      "sha256": "5801e46af646886cbf5045376b1b4e8c1a75ac6bbaca61f2800273306b25ff42",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_601.01/SLPM_601.01_BG_00.png"
+      },
+      "gameId": "SLPM_601.01"
+    },
+    {
+      "path": "PS2/SLPM_601.01/SLPM_601.01_BG_01.png",
+      "kind": "background",
+      "bytes": 166852,
+      "width": 640,
+      "height": 480,
+      "sha256": "c98bbc00dd529b3e7f4d194e11c5864090e3d098cfdc1a9623f930b7881c83a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_601.01/SLPM_601.01_BG_01.png"
+      },
+      "gameId": "SLPM_601.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "0 Story (Love Story) (Demos)"
+}

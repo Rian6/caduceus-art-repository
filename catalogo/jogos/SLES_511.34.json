@@ -1,0 +1,51 @@
+{
+  "id": "SLES_511.34",
+  "cover": {
+    "path": "PS2/SLES_511.34/SLES_511.34_COV.png",
+    "kind": "cover",
+    "bytes": 101506,
+    "width": 192,
+    "height": 272,
+    "sha256": "dcf243e6c604730ffc6c34f36b3473d1c52742ea498099a9640a6f9b76009ba9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51134.jpg"
+    },
+    "gameId": "SLES_511.34"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_511.34/SLES_511.34_BG.png",
+    "kind": "background",
+    "bytes": 133363,
+    "width": 640,
+    "height": 480,
+    "sha256": "4e02d0a9d759239ea872c46974e3e73a7c632cf1a2277ccc4b0f708709d7e2af",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_511.34/SLES_511.34_BG_00.png"
+    },
+    "gameId": "SLES_511.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_511.34/SLES_511.34_BG.png",
+      "kind": "background",
+      "bytes": 133363,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e02d0a9d759239ea872c46974e3e73a7c632cf1a2277ccc4b0f708709d7e2af",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.34/SLES_511.34_BG_00.png"
+      },
+      "gameId": "SLES_511.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Powerpuff Girls: Relish Rampage"
+}

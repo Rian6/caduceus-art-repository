@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.87",
+  "cover": {
+    "path": "PS2/SLPS_256.87/SLPS_256.87_COV.png",
+    "kind": "cover",
+    "bytes": 105034,
+    "width": 192,
+    "height": 272,
+    "sha256": "8910783030c1da893612b60cedd448913761fb8ccd00246de1cf2d97f078839c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25687.jpg"
+    },
+    "gameId": "SLPS_256.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Korobotto Adventures"
+}

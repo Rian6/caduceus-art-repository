@@ -1,0 +1,25 @@
+{
+  "id": "SLES_512.66",
+  "cover": {
+    "path": "PS2/SLES_512.66/SLES_512.66_COV.png",
+    "kind": "cover",
+    "bytes": 95859,
+    "width": 192,
+    "height": 272,
+    "sha256": "a735143bcdf6ccb09590453dd8c86898321b3723f8a4e537db82b89418c2c9e0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51266.jpg"
+    },
+    "gameId": "SLES_512.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Tactics"
+}

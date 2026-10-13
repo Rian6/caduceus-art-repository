@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.81",
+  "cover": {
+    "path": "PS2/SLPS_203.81/SLPS_203.81_COV.png",
+    "kind": "cover",
+    "bytes": 97172,
+    "width": 192,
+    "height": 272,
+    "sha256": "b04f91b2a2639e0545f9d5ae843253bf7379717d70ae8ba692e70ed144243b5e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20381.jpg"
+    },
+    "gameId": "SLPS_203.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MONKEY TURN V"
+}

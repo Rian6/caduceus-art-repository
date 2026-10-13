@@ -1,0 +1,51 @@
+{
+  "id": "SLES_539.69",
+  "cover": {
+    "path": "PS2/SLES_539.69/SLES_539.69_COV.png",
+    "kind": "cover",
+    "bytes": 49916,
+    "width": 192,
+    "height": 272,
+    "sha256": "62a935b16664853377225525249c1fcbcf985147c295201822cc5c58d56c1343",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53969.jpg"
+    },
+    "gameId": "SLES_539.69"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_539.69/SLES_539.69_BG.png",
+    "kind": "background",
+    "bytes": 197786,
+    "width": 640,
+    "height": 480,
+    "sha256": "6b9245147f778312fd2dafb62c787f09f40727d140455ca6968bb80529154a73",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.69/SLES_539.69_BG_00.png"
+    },
+    "gameId": "SLES_539.69"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.69/SLES_539.69_BG.png",
+      "kind": "background",
+      "bytes": 197786,
+      "width": 640,
+      "height": 480,
+      "sha256": "6b9245147f778312fd2dafb62c787f09f40727d140455ca6968bb80529154a73",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.69/SLES_539.69_BG_00.png"
+      },
+      "gameId": "SLES_539.69"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DER PATE"
+}

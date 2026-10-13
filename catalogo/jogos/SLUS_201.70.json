@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_201.70",
+  "cover": {
+    "path": "PS2/SLUS_201.70/SLUS_201.70_COV.png",
+    "kind": "cover",
+    "bytes": 107171,
+    "width": 192,
+    "height": 272,
+    "sha256": "f745fc9fcb4770114ef5da6297e1bca3b973db0536f04dba56a9fce71e98371b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20170.jpg"
+    },
+    "gameId": "SLUS_201.70"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.70/SLUS_201.70_ICO.png",
+    "kind": "disc",
+    "bytes": 34331,
+    "width": 256,
+    "height": 256,
+    "sha256": "7826aa690df22f137353698aec5d3090fa9edc738fae14c3ee7243c46052c5b0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.70_ICO.png"
+    },
+    "gameId": "SLUS_201.70"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.70/SLUS_201.70_BG.png",
+    "kind": "background",
+    "bytes": 106919,
+    "width": 640,
+    "height": 480,
+    "sha256": "6c89faf17fa0c71eede49f85ec98669de0c9720d64fee9d1611c4b0dcda42588",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.70/SLUS_201.70_BG_00.png"
+    },
+    "gameId": "SLUS_201.70"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.70/SLUS_201.70_BG.png",
+      "kind": "background",
+      "bytes": 106919,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c89faf17fa0c71eede49f85ec98669de0c9720d64fee9d1611c4b0dcda42588",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.70/SLUS_201.70_BG_00.png"
+      },
+      "gameId": "SLUS_201.70"
+    },
+    {
+      "path": "PS2/SLUS_201.70/SLUS_201.70_BG_01.png",
+      "kind": "background",
+      "bytes": 156748,
+      "width": 640,
+      "height": 480,
+      "sha256": "29592bb55624b6bc9c84d553824ba266ae44f24a446ca58489defb9af2215f88",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.70/SLUS_201.70_BG_01.png"
+      },
+      "gameId": "SLUS_201.70"
+    },
+    {
+      "path": "PS2/SLUS_201.70/SLUS_201.70_BG_02.png",
+      "kind": "background",
+      "bytes": 57179,
+      "width": 640,
+      "height": 480,
+      "sha256": "9c5b18843dc77f2840a9b1bb88df37d3f384f9e29422756ae225e1b42d6a7f2a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.70/SLUS_201.70_BG_02.png"
+      },
+      "gameId": "SLUS_201.70"
+    },
+    {
+      "path": "PS2/SLUS_201.70/SLUS_201.70_BG_03.png",
+      "kind": "background",
+      "bytes": 53437,
+      "width": 640,
+      "height": 480,
+      "sha256": "21befe656c4572de813dc43bad39fdbd428ffaf6d3978d89d6780520584d4be8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.70/SLUS_201.70_BG_03.png"
+      },
+      "gameId": "SLUS_201.70"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE ADVENTURES OF COOKIE & CREAM"
+}

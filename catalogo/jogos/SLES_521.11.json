@@ -1,0 +1,25 @@
+{
+  "id": "SLES_521.11",
+  "cover": {
+    "path": "PS2/SLES_521.11/SLES_521.11_COV.png",
+    "kind": "cover",
+    "bytes": 91556,
+    "width": 192,
+    "height": 272,
+    "sha256": "d5162825e48c74ef31d29c7667d4ab61da06b0d6908eb68eb79aefb24f668e51",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52111.jpg"
+    },
+    "gameId": "SLES_521.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mojo!"
+}

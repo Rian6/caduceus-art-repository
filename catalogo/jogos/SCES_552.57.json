@@ -1,0 +1,64 @@
+{
+  "id": "SCES_552.57",
+  "cover": {
+    "path": "PS2/SCES_552.57/SCES_552.57_COV.png",
+    "kind": "cover",
+    "bytes": 55272,
+    "width": 192,
+    "height": 272,
+    "sha256": "ccebf7fa90f119755f0415bcf1112c74babce7eb09d1938d81f807c81cad7d41",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_552.57/SCES_552.57_COV.png"
+    },
+    "gameId": "SCES_552.57"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_552.57/SCES_552.57_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_552.57/SCES_552.57_BG_00.png"
+    },
+    "gameId": "SCES_552.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_552.57/SCES_552.57_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_552.57/SCES_552.57_BG_00.png"
+      },
+      "gameId": "SCES_552.57"
+    },
+    {
+      "path": "PS2/SCES_552.57/SCES_552.57_BG_01.png",
+      "kind": "background",
+      "bytes": 158290,
+      "width": 640,
+      "height": 480,
+      "sha256": "acc54873c1b73b587e7348d5090b161488ee43d8d269d5302795369b7a74b242",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_552.57/SCES_552.57_BG_01.png"
+      },
+      "gameId": "SCES_552.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar: Chansons Magiques de Disney"
+}

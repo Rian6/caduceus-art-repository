@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.23",
+  "cover": {
+    "path": "PS2/SLPM_667.23/SLPM_667.23_COV.png",
+    "kind": "cover",
+    "bytes": 91009,
+    "width": 192,
+    "height": 272,
+    "sha256": "aa7fdfcac073b9715ee82ca6003c0490891d25892b2786a0dabe8bd3fa5ccd93",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66723.jpg"
+    },
+    "gameId": "SLPM_667.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zoids Infinity Fuzors (TomyKore Best)"
+}

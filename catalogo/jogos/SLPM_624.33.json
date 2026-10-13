@@ -1,0 +1,77 @@
+{
+  "id": "SLPM_624.33",
+  "cover": {
+    "path": "PS2/SLPM_624.33/SLPM_624.33_COV.png",
+    "kind": "cover",
+    "bytes": 109846,
+    "width": 192,
+    "height": 272,
+    "sha256": "22c0d94c75e79e366a0eead55ea8b9233d44b931ecbcfafcbd895f2b40a23abf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62433.jpg"
+    },
+    "gameId": "SLPM_624.33"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.33/SLPM_624.33_BG.png",
+    "kind": "background",
+    "bytes": 142482,
+    "width": 640,
+    "height": 480,
+    "sha256": "cdd24172ec882f865ebdcb5919ff6fa5f3d83114d0a39c17920be63d26beca9f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.33/SLPM_624.33_BG_00.png"
+    },
+    "gameId": "SLPM_624.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.33/SLPM_624.33_BG.png",
+      "kind": "background",
+      "bytes": 142482,
+      "width": 640,
+      "height": 480,
+      "sha256": "cdd24172ec882f865ebdcb5919ff6fa5f3d83114d0a39c17920be63d26beca9f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.33/SLPM_624.33_BG_00.png"
+      },
+      "gameId": "SLPM_624.33"
+    },
+    {
+      "path": "PS2/SLPM_624.33/SLPM_624.33_BG_01.png",
+      "kind": "background",
+      "bytes": 176895,
+      "width": 640,
+      "height": 480,
+      "sha256": "f1585c355e394cabbf7bd77b2143a780a5604332007051fae384d6a2308541cc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.33/SLPM_624.33_BG_01.png"
+      },
+      "gameId": "SLPM_624.33"
+    },
+    {
+      "path": "PS2/SLPM_624.33/SLPM_624.33_BG_02.png",
+      "kind": "background",
+      "bytes": 101878,
+      "width": 640,
+      "height": 480,
+      "sha256": "ebdcbb2b4e1c18fc1a54c49c82b8f29fed80f5a16d971fdc7ed293d42bb789f2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.33/SLPM_624.33_BG_02.png"
+      },
+      "gameId": "SLPM_624.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SEGA AGES 2500 SERIES VOL.06 - ICHINI NO TANT-R TO BONANZA BROS [LEGACY EDITION]"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_215.71",
+  "cover": {
+    "path": "PS2/SLUS_215.71/SLUS_215.71_COV.png",
+    "kind": "cover",
+    "bytes": 106520,
+    "width": 192,
+    "height": 272,
+    "sha256": "52474df31d9208136002fcfc9604899b70185b49b0c883dd40e17128743e5acc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21571.jpg"
+    },
+    "gameId": "SLUS_215.71"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.71/SLUS_215.71_ICO.png",
+    "kind": "disc",
+    "bytes": 35939,
+    "width": 256,
+    "height": 256,
+    "sha256": "2c34a5ecb7cf606ad02207561f2c7959322c567605673d64b41b633875877311",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.71_ICO.png"
+    },
+    "gameId": "SLUS_215.71"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.71/SLUS_215.71_BG.png",
+    "kind": "background",
+    "bytes": 215065,
+    "width": 640,
+    "height": 480,
+    "sha256": "1670b81ad67866d16d0398f328f2a4b54f3d7dfbaff27bd780a0389174ab55ca",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.71/SLUS_215.71_BG_00.png"
+    },
+    "gameId": "SLUS_215.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.71/SLUS_215.71_BG.png",
+      "kind": "background",
+      "bytes": 215065,
+      "width": 640,
+      "height": 480,
+      "sha256": "1670b81ad67866d16d0398f328f2a4b54f3d7dfbaff27bd780a0389174ab55ca",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.71/SLUS_215.71_BG_00.png"
+      },
+      "gameId": "SLUS_215.71"
+    },
+    {
+      "path": "PS2/SLUS_215.71/SLUS_215.71_BG_01.png",
+      "kind": "background",
+      "bytes": 222267,
+      "width": 640,
+      "height": 480,
+      "sha256": "6535bfb749fede245f104fa4f35d95ef9e0fbc6032a024b79cfe00caf1690d36",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.71/SLUS_215.71_BG_01.png"
+      },
+      "gameId": "SLUS_215.71"
+    },
+    {
+      "path": "PS2/SLUS_215.71/SLUS_215.71_BG_02.png",
+      "kind": "background",
+      "bytes": 205148,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac64646759a49fd305bd4d9d65fc9777698ab063c0816eb85b731ba97b7ec3a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.71/SLUS_215.71_BG_02.png"
+      },
+      "gameId": "SLUS_215.71"
+    },
+    {
+      "path": "PS2/SLUS_215.71/SLUS_215.71_BG_03.png",
+      "kind": "background",
+      "bytes": 154344,
+      "width": 640,
+      "height": 480,
+      "sha256": "ed5e57d05ff1170ac70a4bec23238eaf8846e0814b6d0290083a4e6ef228ffeb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.71/SLUS_215.71_BG_03.png"
+      },
+      "gameId": "SLUS_215.71"
+    },
+    {
+      "path": "PS2/SLUS_215.71/SLUS_215.71_BG_04.png",
+      "kind": "background",
+      "bytes": 208309,
+      "width": 640,
+      "height": 480,
+      "sha256": "67b09a922bcb1a762f9bb8438eefa4e010ea0774669d878ac6b5fa3d5d30fa34",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.71/SLUS_215.71_BG_04.png"
+      },
+      "gameId": "SLUS_215.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Growlanser - Heritage of War"
+}

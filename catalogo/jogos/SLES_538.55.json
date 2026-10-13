@@ -1,0 +1,39 @@
+{
+  "id": "SLES_538.55",
+  "cover": {
+    "path": "PS2/SLES_538.55/SLES_538.55_COV.png",
+    "kind": "cover",
+    "bytes": 106082,
+    "width": 192,
+    "height": 272,
+    "sha256": "cc038a15ef7f1be27e87cd55e1434297a3b04331488bae66307ae10a57e9e19c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53855.jpg"
+    },
+    "gameId": "SLES_538.55"
+  },
+  "disc": {
+    "path": "PS2/SLES_538.55/SLES_538.55_ICO.png",
+    "kind": "disc",
+    "bytes": 11121,
+    "width": 128,
+    "height": 128,
+    "sha256": "1eae0f0d7fa3798c9bbd41f220631764d189571464ffb173b3218a2be77c5680",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_538.55_ICO.png"
+    },
+    "gameId": "SLES_538.55"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Heracles: Battle with the Gods"
+}

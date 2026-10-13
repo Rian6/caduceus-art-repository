@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.11",
+  "cover": {
+    "path": "PS2/SLAJ_250.11/SLAJ_250.11_COV.png",
+    "kind": "cover",
+    "bytes": 89765,
+    "width": 192,
+    "height": 272,
+    "sha256": "a92f885a602ef711e91fd04599676964418ffa513d6fc8936afd474b8897e358",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25011.jpg"
+    },
+    "gameId": "SLAJ_250.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 3"
+}

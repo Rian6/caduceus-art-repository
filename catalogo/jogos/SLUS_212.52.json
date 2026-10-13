@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_212.52",
+  "cover": {
+    "path": "PS2/SLUS_212.52/SLUS_212.52_COV.png",
+    "kind": "cover",
+    "bytes": 112174,
+    "width": 192,
+    "height": 272,
+    "sha256": "3411cf067337d48e883da21a8818964df500a6f63f37c4992bfd02270b47ad4b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21252.jpg"
+    },
+    "gameId": "SLUS_212.52"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.52/SLUS_212.52_ICO.png",
+    "kind": "disc",
+    "bytes": 35071,
+    "width": 256,
+    "height": 256,
+    "sha256": "1641f6fc2a37f50719cd88ded76f75f0c6a81f8dcd2af408efc99f781364facc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.52_ICO.png"
+    },
+    "gameId": "SLUS_212.52"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.52/SLUS_212.52_BG.png",
+    "kind": "background",
+    "bytes": 155983,
+    "width": 640,
+    "height": 480,
+    "sha256": "8f2adf1ada20405a976127d08e07dfd39f515ec11be7191302b3071835ef34c2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.52/SLUS_212.52_BG_00.png"
+    },
+    "gameId": "SLUS_212.52"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.52/SLUS_212.52_BG.png",
+      "kind": "background",
+      "bytes": 155983,
+      "width": 640,
+      "height": 480,
+      "sha256": "8f2adf1ada20405a976127d08e07dfd39f515ec11be7191302b3071835ef34c2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.52/SLUS_212.52_BG_00.png"
+      },
+      "gameId": "SLUS_212.52"
+    },
+    {
+      "path": "PS2/SLUS_212.52/SLUS_212.52_BG_01.png",
+      "kind": "background",
+      "bytes": 68152,
+      "width": 640,
+      "height": 480,
+      "sha256": "b1d4099d1f2aacc85058b0ee7e4e80af95e247220b1d528237c1093c2e002bf8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.52/SLUS_212.52_BG_01.png"
+      },
+      "gameId": "SLUS_212.52"
+    },
+    {
+      "path": "PS2/SLUS_212.52/SLUS_212.52_BG_02.png",
+      "kind": "background",
+      "bytes": 106246,
+      "width": 640,
+      "height": 480,
+      "sha256": "36005f5ae9b98d3228424973e1da71b11fec7020d73f11cce00b0c50c6796f65",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.52/SLUS_212.52_BG_02.png"
+      },
+      "gameId": "SLUS_212.52"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nickelodeon SpongeBob SquarePants: Lights, Camera, Pants!"
+}

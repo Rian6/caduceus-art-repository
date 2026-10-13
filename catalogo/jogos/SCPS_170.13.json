@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_170.13",
+  "cover": {
+    "path": "PS2/SCPS_170.13/SCPS_170.13_COV.png",
+    "kind": "cover",
+    "bytes": 96252,
+    "width": 192,
+    "height": 272,
+    "sha256": "7a86c9d7bb5fcce09ca7ae6d1b4af447d79c7892d947e7b59ae764675cf78172",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-17013.jpg"
+    },
+    "gameId": "SCPS_170.13"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_170.13/SCPS_170.13_BG.png",
+    "kind": "background",
+    "bytes": 256862,
+    "width": 640,
+    "height": 480,
+    "sha256": "490cd1142fb2c01462b107dcc954a83ae8481cf58a534831013899b5cbf1ce7e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_170.13/SCPS_170.13_BG_00.png"
+    },
+    "gameId": "SCPS_170.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_170.13/SCPS_170.13_BG.png",
+      "kind": "background",
+      "bytes": 256862,
+      "width": 640,
+      "height": 480,
+      "sha256": "490cd1142fb2c01462b107dcc954a83ae8481cf58a534831013899b5cbf1ce7e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_170.13/SCPS_170.13_BG_00.png"
+      },
+      "gameId": "SCPS_170.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROGUE GALAXY [DIRECTOR'S CUT]"
+}

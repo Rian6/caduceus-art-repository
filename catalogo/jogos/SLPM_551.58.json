@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.58",
+  "cover": {
+    "path": "PS2/SLPM_551.58/SLPM_551.58_COV.png",
+    "kind": "cover",
+    "bytes": 115332,
+    "width": 192,
+    "height": 272,
+    "sha256": "aede70a5df84228b25288b0b62bdc5d38d1c02a99ba256b601f1a54a18fd3e86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55158.jpg"
+    },
+    "gameId": "SLPM_551.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Yakyuu Spirits 6"
+}

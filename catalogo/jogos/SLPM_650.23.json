@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_650.23",
+  "cover": {
+    "path": "PS2/SLPM_650.23/SLPM_650.23_COV.png",
+    "kind": "cover",
+    "bytes": 88849,
+    "width": 192,
+    "height": 272,
+    "sha256": "77b66eb1dd1ef7f85ce06489fe5defbf7d1e1e5cd5b977646b26f6f22b6e5579",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65023.jpg"
+    },
+    "gameId": "SLPM_650.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_650.23/SLPM_650.23_BG.png",
+    "kind": "background",
+    "bytes": 143641,
+    "width": 640,
+    "height": 480,
+    "sha256": "cb0ad7025c7c1cc78fc4308635e884472c0e7a693cb4a422c8c73aa50b2cdf6f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_650.23/SLPM_650.23_BG_00.png"
+    },
+    "gameId": "SLPM_650.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_650.23/SLPM_650.23_BG.png",
+      "kind": "background",
+      "bytes": 143641,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb0ad7025c7c1cc78fc4308635e884472c0e7a693cb4a422c8c73aa50b2cdf6f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.23/SLPM_650.23_BG_00.png"
+      },
+      "gameId": "SLPM_650.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Devil May Cry: Trial Edition"
+}

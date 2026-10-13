@@ -1,0 +1,24 @@
+{
+  "id": "SCUS_974.88",
+  "cover": {
+    "path": "PS2/SCUS_974.88/SCUS_974.88_COV.png",
+    "kind": "cover",
+    "bytes": 92943,
+    "width": 192,
+    "height": 272,
+    "sha256": "0b0e7435943a06409bed9fb5a4a96562d977556920e8fde349b986f7b3a19f59",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97488.jpg"
+    },
+    "gameId": "SCUS_974.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

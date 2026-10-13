@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.88",
+  "cover": {
+    "path": "PS2/SCAJ_200.88/SCAJ_200.88_COV.png",
+    "kind": "cover",
+    "bytes": 89765,
+    "width": 192,
+    "height": 272,
+    "sha256": "5f29473114c51b9af2b2a49ee9a04fa6a37647ad59065b94ed2bfbef62124a86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20088.jpg"
+    },
+    "gameId": "SCAJ_200.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Uo-7-tsu no Mizu to Densetsu no Nushi"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_254.68",
+  "cover": {
+    "path": "PS2/SLPS_254.68/SLPS_254.68_COV.png",
+    "kind": "cover",
+    "bytes": 108983,
+    "width": 192,
+    "height": 272,
+    "sha256": "c37e1c7c1eae4b452c6d6274c91e92b645a498ea2f76f41bbfa172c68ef0940e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25468.jpg"
+    },
+    "gameId": "SLPS_254.68"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_254.68/SLPS_254.68_BG.png",
+    "kind": "background",
+    "bytes": 205041,
+    "width": 640,
+    "height": 480,
+    "sha256": "6a80eff16eab4d77f1849400c4f546896d0add81e7ea31ae154b754d154d3628",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_254.68/SLPS_254.68_BG_00.png"
+    },
+    "gameId": "SLPS_254.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_254.68/SLPS_254.68_BG.png",
+      "kind": "background",
+      "bytes": 205041,
+      "width": 640,
+      "height": 480,
+      "sha256": "6a80eff16eab4d77f1849400c4f546896d0add81e7ea31ae154b754d154d3628",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.68/SLPS_254.68_BG_00.png"
+      },
+      "gameId": "SLPS_254.68"
+    },
+    {
+      "path": "PS2/SLPS_254.68/SLPS_254.68_BG_01.png",
+      "kind": "background",
+      "bytes": 180792,
+      "width": 640,
+      "height": 480,
+      "sha256": "0627c5f12885b8d4d560fb400adb1125f9516f0822c3c4ca7b2e1c55707e703e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.68/SLPS_254.68_BG_01.png"
+      },
+      "gameId": "SLPS_254.68"
+    },
+    {
+      "path": "PS2/SLPS_254.68/SLPS_254.68_BG_02.png",
+      "kind": "background",
+      "bytes": 220692,
+      "width": 640,
+      "height": 480,
+      "sha256": "33372a4d85339c99ca5cb37dfd1fe375e072ca2fe285c523e2570350176bd754",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.68/SLPS_254.68_BG_02.png"
+      },
+      "gameId": "SLPS_254.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Eien no Aseria: Kono Daichi no Hate de"
+}

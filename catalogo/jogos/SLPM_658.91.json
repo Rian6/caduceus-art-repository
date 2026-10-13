@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.91",
+  "cover": {
+    "path": "PS2/SLPM_658.91/SLPM_658.91_COV.png",
+    "kind": "cover",
+    "bytes": 102077,
+    "width": 192,
+    "height": 272,
+    "sha256": "e2d152d25008910376fa383a37af108bc9d57d8b2b8d8f4b71a5a4f6a2201527",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65891.jpg"
+    },
+    "gameId": "SLPM_658.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sangokushi X"
+}

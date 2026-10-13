@@ -1,0 +1,25 @@
+{
+  "id": "GUST_000.05",
+  "cover": {
+    "path": "PS2/GUST_000.05/GUST_000.05_COV.png",
+    "kind": "cover",
+    "bytes": 109492,
+    "width": 192,
+    "height": 272,
+    "sha256": "8082de0609a9b1a9a2e4955d1757fe1224061a1497ba355455bbc6c9b76323ef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/GUST-00005.jpg"
+    },
+    "gameId": "GUST_000.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ATELIER LILIE PLUS - LILIE NO ATELIER PLUS - SALBERG NO RENKINJUTSUSHI 3 [LIMITED EDITION]"
+}

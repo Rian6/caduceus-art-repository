@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.40",
+  "cover": {
+    "path": "PS2/SLPS_259.40/SLPS_259.40_COV.png",
+    "kind": "cover",
+    "bytes": 105400,
+    "width": 192,
+    "height": 272,
+    "sha256": "a6cb3ce2f7ec77c34c7b6b07784469020e26db5984d9f7540bbf078646093034",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25940.jpg"
+    },
+    "gameId": "SLPS_259.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gendai Daisenryaku: Isshoku Sokuhatsu - Gunji Balance Houkai"
+}

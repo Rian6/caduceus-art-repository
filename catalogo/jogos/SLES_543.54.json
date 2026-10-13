@@ -1,0 +1,64 @@
+{
+  "id": "SLES_543.54",
+  "cover": {
+    "path": "PS2/SLES_543.54/SLES_543.54_COV.png",
+    "kind": "cover",
+    "bytes": 56326,
+    "width": 192,
+    "height": 272,
+    "sha256": "96c92e3150d8e74bb98eba9cbe3720ae39059bfb25fd90ab11889e190b94a342",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54354.jpg"
+    },
+    "gameId": "SLES_543.54"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.54/SLES_543.54_BG.png",
+    "kind": "background",
+    "bytes": 123003,
+    "width": 640,
+    "height": 480,
+    "sha256": "e402e4ca36219679a58290d231093c3e9d1cd9c60595dee7ae2ab066d90eb81d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.54/SLES_543.54_BG_00.png"
+    },
+    "gameId": "SLES_543.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.54/SLES_543.54_BG.png",
+      "kind": "background",
+      "bytes": 123003,
+      "width": 640,
+      "height": 480,
+      "sha256": "e402e4ca36219679a58290d231093c3e9d1cd9c60595dee7ae2ab066d90eb81d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.54/SLES_543.54_BG_00.png"
+      },
+      "gameId": "SLES_543.54"
+    },
+    {
+      "path": "PS2/SLES_543.54/SLES_543.54_BG_01.png",
+      "kind": "background",
+      "bytes": 50705,
+      "width": 640,
+      "height": 480,
+      "sha256": "a5542b0bb6fad6a5db12fe150127c38f05fe13f2ef5a726c43081a273881890e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.54/SLES_543.54_BG_01.png"
+      },
+      "gameId": "SLES_543.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XII"
+}

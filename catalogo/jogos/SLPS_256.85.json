@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_256.85",
+  "cover": {
+    "path": "PS2/SLPS_256.85/SLPS_256.85_COV.png",
+    "kind": "cover",
+    "bytes": 101214,
+    "width": 192,
+    "height": 272,
+    "sha256": "940966f7c610e04acb2fc783676626a9b38cee9dd909902368414e16d21240dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25685.jpg"
+    },
+    "gameId": "SLPS_256.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.85/SLPS_256.85_BG.png",
+    "kind": "background",
+    "bytes": 255065,
+    "width": 640,
+    "height": 480,
+    "sha256": "2c6c49a6db9a8802791748eff139dd3efefa764e0d88f90e8fab87c17f0a74e7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.85/SLPS_256.85_BG_00.png"
+    },
+    "gameId": "SLPS_256.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.85/SLPS_256.85_BG.png",
+      "kind": "background",
+      "bytes": 255065,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c6c49a6db9a8802791748eff139dd3efefa764e0d88f90e8fab87c17f0a74e7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.85/SLPS_256.85_BG_00.png"
+      },
+      "gameId": "SLPS_256.85"
+    },
+    {
+      "path": "PS2/SLPS_256.85/SLPS_256.85_BG_01.png",
+      "kind": "background",
+      "bytes": 150801,
+      "width": 640,
+      "height": 480,
+      "sha256": "371bff2bbe8b28685386036cdd34a0e717d7c0e33e358ba43cc57018da1a1f6e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.85/SLPS_256.85_BG_01.png"
+      },
+      "gameId": "SLPS_256.85"
+    },
+    {
+      "path": "PS2/SLPS_256.85/SLPS_256.85_BG_02.png",
+      "kind": "background",
+      "bytes": 187861,
+      "width": 640,
+      "height": 480,
+      "sha256": "a66ee727f7f156c98896496a19eacd5bfc2cbca62c58d682c3fdda0928425da4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.85/SLPS_256.85_BG_02.png"
+      },
+      "gameId": "SLPS_256.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rurouni Kenshin: Meiji Kenkaku Romantan: Enjou! Kyoto Rinne"
+}

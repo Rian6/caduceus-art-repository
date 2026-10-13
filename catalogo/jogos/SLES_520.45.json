@@ -1,0 +1,65 @@
+{
+  "id": "SLES_520.45",
+  "cover": {
+    "path": "PS2/SLES_520.45/SLES_520.45_COV.png",
+    "kind": "cover",
+    "bytes": 91978,
+    "width": 192,
+    "height": 272,
+    "sha256": "89881b91ed0e873da4bd1e6dfd2fff58f7348b454520912e0c005fc391f4c974",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52045.jpg"
+    },
+    "gameId": "SLES_520.45"
+  },
+  "disc": {
+    "path": "PS2/SLES_520.45/SLES_520.45_ICO.png",
+    "kind": "disc",
+    "bytes": 10414,
+    "width": 128,
+    "height": 128,
+    "sha256": "0da06306dbb00a4fcb37d80d64b40444919b7dc3c970457fd80bc9ecec110cab",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_520.45_ICO.png"
+    },
+    "gameId": "SLES_520.45"
+  },
+  "background": {
+    "path": "PS2/SLES_520.45/SLES_520.45_BG.png",
+    "kind": "background",
+    "bytes": 167263,
+    "width": 640,
+    "height": 480,
+    "sha256": "3826ab7aaf7e9cc90c2324f3bffa63baacac8cb630ec00f8153062bc51feb45b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_520.45/SLES_520.45_BG_00.png"
+    },
+    "gameId": "SLES_520.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_520.45/SLES_520.45_BG.png",
+      "kind": "background",
+      "bytes": 167263,
+      "width": 640,
+      "height": 480,
+      "sha256": "3826ab7aaf7e9cc90c2324f3bffa63baacac8cb630ec00f8153062bc51feb45b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.45/SLES_520.45_BG_00.png"
+      },
+      "gameId": "SLES_520.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GT R-400"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.10",
+  "cover": {
+    "path": "PS2/SCPS_550.10/SCPS_550.10_COV.png",
+    "kind": "cover",
+    "bytes": 121030,
+    "width": 192,
+    "height": 272,
+    "sha256": "1e7fbc57cda0a4edad72413fbdb1182b17a7926a690afacb0a48292799270628",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55010.jpg"
+    },
+    "gameId": "SCPS_550.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRANDIA XTREME"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_508.99",
+  "cover": {
+    "path": "PS2/SLES_508.99/SLES_508.99_COV.png",
+    "kind": "cover",
+    "bytes": 86269,
+    "width": 192,
+    "height": 272,
+    "sha256": "2522dd7b959b821873a7f05653aa0c0df14c3c27e3117bbb9fa4f84af820dfde",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50899.jpg"
+    },
+    "gameId": "SLES_508.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "X-MEN - NEXT DIMENSION"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.92",
+  "cover": {
+    "path": "PS2/SLPS_254.92/SLPS_254.92_COV.png",
+    "kind": "cover",
+    "bytes": 72464,
+    "width": 192,
+    "height": 272,
+    "sha256": "632372e303248cc76236ee5c13663f38366bdf820435ba18247f5c4f1251be57",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25492.jpg"
+    },
+    "gameId": "SLPS_254.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SD Gundam G Generation Seed (Gundam The Best)"
+}

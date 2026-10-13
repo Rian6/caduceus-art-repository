@@ -1,0 +1,90 @@
+{
+  "id": "SLES_522.83",
+  "cover": {
+    "path": "PS2/SLES_522.83/SLES_522.83_COV.png",
+    "kind": "cover",
+    "bytes": 94073,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c2539a5a429f9e16a0627e284222f3b1ac6e0288f692c84d2779a9d9ac95f44",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52283.jpg"
+    },
+    "gameId": "SLES_522.83"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_522.83/SLES_522.83_BG.png",
+    "kind": "background",
+    "bytes": 204819,
+    "width": 640,
+    "height": 480,
+    "sha256": "1d0b0e252a4a535b3203cd5df1dab5eb1d6b1dab44b50f9df7383b726513e592",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_522.83/SLES_522.83_BG_00.png"
+    },
+    "gameId": "SLES_522.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_522.83/SLES_522.83_BG.png",
+      "kind": "background",
+      "bytes": 204819,
+      "width": 640,
+      "height": 480,
+      "sha256": "1d0b0e252a4a535b3203cd5df1dab5eb1d6b1dab44b50f9df7383b726513e592",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.83/SLES_522.83_BG_00.png"
+      },
+      "gameId": "SLES_522.83"
+    },
+    {
+      "path": "PS2/SLES_522.83/SLES_522.83_BG_01.png",
+      "kind": "background",
+      "bytes": 192682,
+      "width": 640,
+      "height": 480,
+      "sha256": "88cca8ac14a6d45e3b4a43d087fdd9c923cc267fcbe8d42dafaea30efe947645",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.83/SLES_522.83_BG_01.png"
+      },
+      "gameId": "SLES_522.83"
+    },
+    {
+      "path": "PS2/SLES_522.83/SLES_522.83_BG_02.png",
+      "kind": "background",
+      "bytes": 195563,
+      "width": 640,
+      "height": 480,
+      "sha256": "7fadfc5292f29987afab5d4e57e648a0668b612f02fa1fd262e4de13a2b3b930",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.83/SLES_522.83_BG_02.png"
+      },
+      "gameId": "SLES_522.83"
+    },
+    {
+      "path": "PS2/SLES_522.83/SLES_522.83_BG_03.png",
+      "kind": "background",
+      "bytes": 208151,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ae6f41c6a0002316def4aea49ecb3691d80bb098c4395ce7525d82799d44205",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.83/SLES_522.83_BG_03.png"
+      },
+      "gameId": "SLES_522.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Terminator 3 - The Redemption"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SLPS_256.91",
+  "cover": {
+    "path": "PS2/SLPS_256.91/SLPS_256.91_COV.png",
+    "kind": "cover",
+    "bytes": 109754,
+    "width": 192,
+    "height": 272,
+    "sha256": "97c5816d909f0eb5e3b60991a3be77738b20413a633a656b43bdb3a44587923e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25691.jpg"
+    },
+    "gameId": "SLPS_256.91"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.91/SLPS_256.91_BG.png",
+    "kind": "background",
+    "bytes": 141498,
+    "width": 640,
+    "height": 480,
+    "sha256": "573ed0caa12e93ad777a2586e69b71b3868a80cda8224eb613a1741347d0db47",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.91/SLPS_256.91_BG_00.png"
+    },
+    "gameId": "SLPS_256.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.91/SLPS_256.91_BG.png",
+      "kind": "background",
+      "bytes": 141498,
+      "width": 640,
+      "height": 480,
+      "sha256": "573ed0caa12e93ad777a2586e69b71b3868a80cda8224eb613a1741347d0db47",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.91/SLPS_256.91_BG_00.png"
+      },
+      "gameId": "SLPS_256.91"
+    },
+    {
+      "path": "PS2/SLPS_256.91/SLPS_256.91_BG_01.png",
+      "kind": "background",
+      "bytes": 210783,
+      "width": 640,
+      "height": 480,
+      "sha256": "c98604c135c2b7a3c23b3af9d17e462fb2b4841516d5ed889d9a5f43fafdf720",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.91/SLPS_256.91_BG_01.png"
+      },
+      "gameId": "SLPS_256.91"
+    },
+    {
+      "path": "PS2/SLPS_256.91/SLPS_256.91_BG_02.png",
+      "kind": "background",
+      "bytes": 167626,
+      "width": 640,
+      "height": 480,
+      "sha256": "e0a61d4134da9e753f137790ac18499136e250e23a9e13aecc2f35d5720a7df0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.91/SLPS_256.91_BG_02.png"
+      },
+      "gameId": "SLPS_256.91"
+    },
+    {
+      "path": "PS2/SLPS_256.91/SLPS_256.91_BG_03.png",
+      "kind": "background",
+      "bytes": 173845,
+      "width": 640,
+      "height": 480,
+      "sha256": "c11f69670ef87d3a3287415ff15a30bf47bae8dc8a58787ef72167aada696b12",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.91/SLPS_256.91_BG_03.png"
+      },
+      "gameId": "SLPS_256.91"
+    },
+    {
+      "path": "PS2/SLPS_256.91/SLPS_256.91_BG_04.png",
+      "kind": "background",
+      "bytes": 180133,
+      "width": 640,
+      "height": 480,
+      "sha256": "8f1380705b2735224dc26d072aca32aa4123dceb2bd1f7f1aa15203ecf8332c4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.91/SLPS_256.91_BG_04.png"
+      },
+      "gameId": "SLPS_256.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Captain Tsubasa"
+}

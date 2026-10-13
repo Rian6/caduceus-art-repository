@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_250.42",
+  "cover": {
+    "path": "PS2/SLPS_250.42/SLPS_250.42_COV.png",
+    "kind": "cover",
+    "bytes": 79440,
+    "width": 192,
+    "height": 272,
+    "sha256": "d8d5e91ce1026e7e0bfbe2a05ec204395fe6a2dbefbb5eb2b911302741a5772a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25042.jpg"
+    },
+    "gameId": "SLPS_250.42"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_250.42/SLPS_250.42_BG.png",
+    "kind": "background",
+    "bytes": 104442,
+    "width": 640,
+    "height": 480,
+    "sha256": "bd064d63ba63e3f2eef26ad1b0d8a1c224fa5280d949c96a010b7624142155cd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.42/SLPS_250.42_BG_00.png"
+    },
+    "gameId": "SLPS_250.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_250.42/SLPS_250.42_BG.png",
+      "kind": "background",
+      "bytes": 104442,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd064d63ba63e3f2eef26ad1b0d8a1c224fa5280d949c96a010b7624142155cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.42/SLPS_250.42_BG_00.png"
+      },
+      "gameId": "SLPS_250.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAKEN SHAO [LIMITED EDITION]"
+}

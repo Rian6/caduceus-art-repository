@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.81",
+  "cover": {
+    "path": "PS2/SLPS_200.81/SLPS_200.81_COV.png",
+    "kind": "cover",
+    "bytes": 86933,
+    "width": 192,
+    "height": 272,
+    "sha256": "99b543331290c8eaa613fcd6d99aa2d935eb08e329871fae6fd9c22cab5ef0aa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20081.jpg"
+    },
+    "gameId": "SLPS_200.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ASHITA NO JOE - TOUCHI TYPING NAMIDA HASHI"
+}

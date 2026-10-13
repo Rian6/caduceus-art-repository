@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_212.77",
+  "cover": {
+    "path": "PS2/SLUS_212.77/SLUS_212.77_COV.png",
+    "kind": "cover",
+    "bytes": 103250,
+    "width": 192,
+    "height": 272,
+    "sha256": "cad74ac1e34f1bfb20db09463db7901135c8da1f66bb500a9a1c234bfc475a06",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21277.jpg"
+    },
+    "gameId": "SLUS_212.77"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.77/SLUS_212.77_ICO.png",
+    "kind": "disc",
+    "bytes": 32576,
+    "width": 256,
+    "height": 256,
+    "sha256": "2bfb91e21a7c488914a8d748a59f4692c9acd66ad783b71333ee9cfded5c0a94",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.77_ICO.png"
+    },
+    "gameId": "SLUS_212.77"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.77/SLUS_212.77_BG.png",
+    "kind": "background",
+    "bytes": 173377,
+    "width": 640,
+    "height": 480,
+    "sha256": "3874c413998dae241466ed506949608eb589c5aec60e1a9566587b44a2d5ee2d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.77/SLUS_212.77_BG_00.png"
+    },
+    "gameId": "SLUS_212.77"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.77/SLUS_212.77_BG.png",
+      "kind": "background",
+      "bytes": 173377,
+      "width": 640,
+      "height": 480,
+      "sha256": "3874c413998dae241466ed506949608eb589c5aec60e1a9566587b44a2d5ee2d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.77/SLUS_212.77_BG_00.png"
+      },
+      "gameId": "SLUS_212.77"
+    },
+    {
+      "path": "PS2/SLUS_212.77/SLUS_212.77_BG_01.png",
+      "kind": "background",
+      "bytes": 142508,
+      "width": 640,
+      "height": 480,
+      "sha256": "370d4732bf31e68f2781280a274a6d373d757204793e1005972e56e9e6db7bb9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.77/SLUS_212.77_BG_01.png"
+      },
+      "gameId": "SLUS_212.77"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Barnyard"
+}

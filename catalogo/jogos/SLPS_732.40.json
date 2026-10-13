@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.40",
+  "cover": {
+    "path": "PS2/SLPS_732.40/SLPS_732.40_COV.png",
+    "kind": "cover",
+    "bytes": 72960,
+    "width": 192,
+    "height": 272,
+    "sha256": "f6631a9909ef1fc96ef2e6a3dd95895748018d83e69b82ffb3152403f1ce34fc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73240.jpg"
+    },
+    "gameId": "SLPS_732.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KATAMARI DAMACY [PLAYSTATION 2 THE BEST REPRINT]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_675.29",
+  "cover": {
+    "path": "PS2/SLPM_675.29/SLPM_675.29_COV.png",
+    "kind": "cover",
+    "bytes": 107254,
+    "width": 192,
+    "height": 272,
+    "sha256": "95e03a69472c9d3a3547ce7b42ff0677d2c4a7b61c3356c8de36a1dd27976553",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-67529.jpg"
+    },
+    "gameId": "SLPM_675.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gun Survivor 3: Dino Crisis"
+}

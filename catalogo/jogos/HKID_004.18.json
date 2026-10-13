@@ -1,0 +1,25 @@
+{
+  "id": "HKID_004.18",
+  "cover": {
+    "path": "PS2/HKID_004.18/HKID_004.18_COV.png",
+    "kind": "cover",
+    "bytes": 60358,
+    "width": 192,
+    "height": 272,
+    "sha256": "5c5fe552fd199a6b178eb7b73c9eff96cc35ea094bf543febf0d7327193a03df",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/HKID_004.18/HKID_004.18_COV.png"
+    },
+    "gameId": "HKID_004.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hiiro no Kakera: Twin Pack"
+}

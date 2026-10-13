@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_620.55",
+  "cover": {
+    "path": "PS2/SLPM_620.55/SLPM_620.55_COV.png",
+    "kind": "cover",
+    "bytes": 97938,
+    "width": 192,
+    "height": 272,
+    "sha256": "8118d60f394a5f342123e79d3f3181b2d8fa1d85915758648dd2a0b9af84b0f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62055.jpg"
+    },
+    "gameId": "SLPM_620.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_620.55/SLPM_620.55_BG.png",
+    "kind": "background",
+    "bytes": 184012,
+    "width": 640,
+    "height": 480,
+    "sha256": "1c0d395790411bee5918958291f6212f5bb89b7b104c90583593936bffc01501",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_620.55/SLPM_620.55_BG_00.png"
+    },
+    "gameId": "SLPM_620.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_620.55/SLPM_620.55_BG.png",
+      "kind": "background",
+      "bytes": 184012,
+      "width": 640,
+      "height": 480,
+      "sha256": "1c0d395790411bee5918958291f6212f5bb89b7b104c90583593936bffc01501",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.55/SLPM_620.55_BG_00.png"
+      },
+      "gameId": "SLPM_620.55"
+    },
+    {
+      "path": "PS2/SLPM_620.55/SLPM_620.55_BG_01.png",
+      "kind": "background",
+      "bytes": 164599,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e18c69c654c0427427f3f5c097d45c4e700cd73e96b46499caae3dae941e31c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.55/SLPM_620.55_BG_01.png"
+      },
+      "gameId": "SLPM_620.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BLOODY ROAR 3"
+}

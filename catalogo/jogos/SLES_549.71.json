@@ -1,0 +1,64 @@
+{
+  "id": "SLES_549.71",
+  "cover": {
+    "path": "PS2/SLES_549.71/SLES_549.71_COV.png",
+    "kind": "cover",
+    "bytes": 109452,
+    "width": 192,
+    "height": 272,
+    "sha256": "88fd1155548477d1da419bf481ec4bcfd505c732fd87660248aaf3ea03530f71",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54971.jpg"
+    },
+    "gameId": "SLES_549.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_549.71/SLES_549.71_BG.png",
+    "kind": "background",
+    "bytes": 209535,
+    "width": 640,
+    "height": 480,
+    "sha256": "8211814e1e84ae46b53ee06239e73f8051038dadd4ec9609dafd9df20f57a18e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.71/SLES_549.71_BG_00.png"
+    },
+    "gameId": "SLES_549.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_549.71/SLES_549.71_BG.png",
+      "kind": "background",
+      "bytes": 209535,
+      "width": 640,
+      "height": 480,
+      "sha256": "8211814e1e84ae46b53ee06239e73f8051038dadd4ec9609dafd9df20f57a18e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.71/SLES_549.71_BG_00.png"
+      },
+      "gameId": "SLES_549.71"
+    },
+    {
+      "path": "PS2/SLES_549.71/SLES_549.71_BG_01.png",
+      "kind": "background",
+      "bytes": 182601,
+      "width": 640,
+      "height": 480,
+      "sha256": "118ab55f157027ced7c2e181b6065151999da1ea5d6e0cdcd6ae926b9fec405c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.71/SLES_549.71_BG_01.png"
+      },
+      "gameId": "SLES_549.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hot Wheels - Beat That!"
+}

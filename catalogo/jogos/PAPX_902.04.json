@@ -1,0 +1,25 @@
+{
+  "id": "PAPX_902.04",
+  "cover": {
+    "path": "PS2/PAPX_902.04/PAPX_902.04_COV.png",
+    "kind": "cover",
+    "bytes": 61208,
+    "width": 192,
+    "height": 272,
+    "sha256": "afdb4eab19315881b5c9b4d58ac9e21b53a7ec5a4f49fff979a8d20d2ef4bf00",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/PAPX_902.04/PAPX_902.04_COV.png"
+    },
+    "gameId": "PAPX_902.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TVDJ"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SLES_531.48",
+  "cover": {
+    "path": "PS2/SLES_531.48/SLES_531.48_COV.png",
+    "kind": "cover",
+    "bytes": 103668,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f99f21c6ec635c1d0ca27fcf6d6586cc64c85a8376fdf0096d09a0d0c18fcbd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53148.jpg"
+    },
+    "gameId": "SLES_531.48"
+  },
+  "disc": {
+    "path": "PS2/SLES_531.48/SLES_531.48_ICO.png",
+    "kind": "disc",
+    "bytes": 12972,
+    "width": 128,
+    "height": 128,
+    "sha256": "e67ba40a1d93251e428527c25f1086127aadda2b11736adcfa39791a46599ecc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_531.48_ICO.png"
+    },
+    "gameId": "SLES_531.48"
+  },
+  "background": {
+    "path": "PS2/SLES_531.48/SLES_531.48_BG.png",
+    "kind": "background",
+    "bytes": 235702,
+    "width": 640,
+    "height": 480,
+    "sha256": "dac3b78abfa46bdff221970bb4a49e15226939a7d141d64a0dbac0924f818be7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.48/SLES_531.48_BG_00.png"
+    },
+    "gameId": "SLES_531.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.48/SLES_531.48_BG.png",
+      "kind": "background",
+      "bytes": 235702,
+      "width": 640,
+      "height": 480,
+      "sha256": "dac3b78abfa46bdff221970bb4a49e15226939a7d141d64a0dbac0924f818be7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.48/SLES_531.48_BG_00.png"
+      },
+      "gameId": "SLES_531.48"
+    },
+    {
+      "path": "PS2/SLES_531.48/SLES_531.48_BG_01.png",
+      "kind": "background",
+      "bytes": 64445,
+      "width": 640,
+      "height": 480,
+      "sha256": "08ec64089e802a1ca1fac243235dd9452a17d16dcfaaca2853f91e006b4710aa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.48/SLES_531.48_BG_01.png"
+      },
+      "gameId": "SLES_531.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fruit Fall"
+}

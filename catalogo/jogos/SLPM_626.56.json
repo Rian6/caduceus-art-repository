@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.56",
+  "cover": {
+    "path": "PS2/SLPM_626.56/SLPM_626.56_COV.png",
+    "kind": "cover",
+    "bytes": 119448,
+    "width": 192,
+    "height": 272,
+    "sha256": "f43f99b043b0594cd737a7b10e170303ab67746eaa23940d84d9572886c5482a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62656.jpg"
+    },
+    "gameId": "SLPM_626.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Ages 2500 Series Vol. 12 - Puyo Puyo Tsuu Perfect Set [Rerelease]"
+}

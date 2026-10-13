@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_666.44",
+  "cover": {
+    "path": "PS2/SLPM_666.44/SLPM_666.44_COV.png",
+    "kind": "cover",
+    "bytes": 87824,
+    "width": 192,
+    "height": 272,
+    "sha256": "96369bd2b947613126889a833a5cb798dcf78ef010bbb6d15cbdfed7c9595a1d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66644.jpg"
+    },
+    "gameId": "SLPM_666.44"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_666.44/SLPM_666.44_BG.png",
+    "kind": "background",
+    "bytes": 183884,
+    "width": 640,
+    "height": 480,
+    "sha256": "52d5e6c2db30d85ed77977183450e78acd8a5f7feeb7be67c424f2953bce7a31",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_666.44/SLPM_666.44_BG_00.png"
+    },
+    "gameId": "SLPM_666.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_666.44/SLPM_666.44_BG.png",
+      "kind": "background",
+      "bytes": 183884,
+      "width": 640,
+      "height": 480,
+      "sha256": "52d5e6c2db30d85ed77977183450e78acd8a5f7feeb7be67c424f2953bce7a31",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.44/SLPM_666.44_BG_00.png"
+      },
+      "gameId": "SLPM_666.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "J-League Pro Soccer Club o Tsukurou! 5"
+}

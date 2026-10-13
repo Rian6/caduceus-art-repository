@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.42",
+  "cover": {
+    "path": "PS2/SLES_553.42/SLES_553.42_COV.png",
+    "kind": "cover",
+    "bytes": 115458,
+    "width": 192,
+    "height": 272,
+    "sha256": "4209b58e3d06248ae5320afaf6e6d346b29d4d47e988c17de321245e72615b60",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.42/SLES_553.42_COV.png"
+    },
+    "gameId": "SLES_553.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hasbro Family Game Night"
+}

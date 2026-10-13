@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_214.39",
+  "cover": {
+    "path": "PS2/SLUS_214.39/SLUS_214.39_COV.png",
+    "kind": "cover",
+    "bytes": 108505,
+    "width": 192,
+    "height": 272,
+    "sha256": "6508e2654deb09e52710e4355e2b83e000626f3c55939ab89a52202f5367db94",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21439.jpg"
+    },
+    "gameId": "SLUS_214.39"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.39/SLUS_214.39_ICO.png",
+    "kind": "disc",
+    "bytes": 32148,
+    "width": 256,
+    "height": 256,
+    "sha256": "8851e12abb19dea89d6aee75c37cf068460ec6be0d640137544a4ca1b3f8322a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.39_ICO.png"
+    },
+    "gameId": "SLUS_214.39"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.39/SLUS_214.39_BG.png",
+    "kind": "background",
+    "bytes": 185551,
+    "width": 640,
+    "height": 480,
+    "sha256": "977cd06739101a0cf840c1117518695d5a5094555c561192a2137c175af893ef",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.39/SLUS_214.39_BG_00.png"
+    },
+    "gameId": "SLUS_214.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.39/SLUS_214.39_BG.png",
+      "kind": "background",
+      "bytes": 185551,
+      "width": 640,
+      "height": 480,
+      "sha256": "977cd06739101a0cf840c1117518695d5a5094555c561192a2137c175af893ef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.39/SLUS_214.39_BG_00.png"
+      },
+      "gameId": "SLUS_214.39"
+    },
+    {
+      "path": "PS2/SLUS_214.39/SLUS_214.39_BG_01.png",
+      "kind": "background",
+      "bytes": 175610,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb80f59376d609394336e003aea14e23e46b38b54a5879369b2af6f6032858bd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.39/SLUS_214.39_BG_01.png"
+      },
+      "gameId": "SLUS_214.39"
+    },
+    {
+      "path": "PS2/SLUS_214.39/SLUS_214.39_BG_02.png",
+      "kind": "background",
+      "bytes": 179495,
+      "width": 640,
+      "height": 480,
+      "sha256": "1ea30c9e73bf36237fef39c6962ba64bc982d8715b96887a96cc63b6311bb939",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.39/SLUS_214.39_BG_02.png"
+      },
+      "gameId": "SLUS_214.39"
+    },
+    {
+      "path": "PS2/SLUS_214.39/SLUS_214.39_BG_03.png",
+      "kind": "background",
+      "bytes": 72836,
+      "width": 640,
+      "height": 480,
+      "sha256": "ba47f78ad7b0ee459f0c54963a73ea7e1b2014cd5b63c75681690c3651715a61",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.39/SLUS_214.39_BG_03.png"
+      },
+      "gameId": "SLUS_214.39"
+    },
+    {
+      "path": "PS2/SLUS_214.39/SLUS_214.39_BG_04.png",
+      "kind": "background",
+      "bytes": 180038,
+      "width": 640,
+      "height": 480,
+      "sha256": "a485b12b412cd66aef5f55fd85d10b5f3761e6dbebef0b28499509bcda7a5f55",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.39/SLUS_214.39_BG_04.png"
+      },
+      "gameId": "SLUS_214.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Destroy All Humans! 2"
+}

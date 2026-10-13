@@ -1,0 +1,64 @@
+{
+  "id": "SLES_537.27",
+  "cover": {
+    "path": "PS2/SLES_537.27/SLES_537.27_COV.png",
+    "kind": "cover",
+    "bytes": 86536,
+    "width": 192,
+    "height": 272,
+    "sha256": "ec14d1857a6a4d6d71ad089fbfab73f2750dbb3c5efdbca82d21ea5ae0b30132",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53727.jpg"
+    },
+    "gameId": "SLES_537.27"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.27/SLES_537.27_BG.png",
+    "kind": "background",
+    "bytes": 190752,
+    "width": 640,
+    "height": 480,
+    "sha256": "fb653ff3df6c7f30f58ac07d6bb13933f7f4a1be76a6e2873c560ba2429ae135",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.27/SLES_537.27_BG_00.png"
+    },
+    "gameId": "SLES_537.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.27/SLES_537.27_BG.png",
+      "kind": "background",
+      "bytes": 190752,
+      "width": 640,
+      "height": 480,
+      "sha256": "fb653ff3df6c7f30f58ac07d6bb13933f7f4a1be76a6e2873c560ba2429ae135",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.27/SLES_537.27_BG_00.png"
+      },
+      "gameId": "SLES_537.27"
+    },
+    {
+      "path": "PS2/SLES_537.27/SLES_537.27_BG_01.png",
+      "kind": "background",
+      "bytes": 207024,
+      "width": 640,
+      "height": 480,
+      "sha256": "4dbf09c5c0132ad6ca361071de4a6ae2f860057b5e864a6edb890164eb1a310c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.27/SLES_537.27_BG_01.png"
+      },
+      "gameId": "SLES_537.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARRY POTTER AND THE GOBLET OF FIRE"
+}

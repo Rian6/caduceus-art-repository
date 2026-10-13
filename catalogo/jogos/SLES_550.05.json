@@ -1,0 +1,64 @@
+{
+  "id": "SLES_550.05",
+  "cover": {
+    "path": "PS2/SLES_550.05/SLES_550.05_COV.png",
+    "kind": "cover",
+    "bytes": 90852,
+    "width": 192,
+    "height": 272,
+    "sha256": "c5ae08944c5b9b9b51a7f315b668509e6eec99196a65447ee34e6452e0448b74",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55005.jpg"
+    },
+    "gameId": "SLES_550.05"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_550.05/SLES_550.05_BG.png",
+    "kind": "background",
+    "bytes": 175546,
+    "width": 640,
+    "height": 480,
+    "sha256": "2598e633fc589598017b02abc09e39f67ceed6ae59536e36ce26b96f18ef1415",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.05/SLES_550.05_BG_00.png"
+    },
+    "gameId": "SLES_550.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.05/SLES_550.05_BG.png",
+      "kind": "background",
+      "bytes": 175546,
+      "width": 640,
+      "height": 480,
+      "sha256": "2598e633fc589598017b02abc09e39f67ceed6ae59536e36ce26b96f18ef1415",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.05/SLES_550.05_BG_00.png"
+      },
+      "gameId": "SLES_550.05"
+    },
+    {
+      "path": "PS2/SLES_550.05/SLES_550.05_BG_01.png",
+      "kind": "background",
+      "bytes": 184133,
+      "width": 640,
+      "height": 480,
+      "sha256": "de570d7bc384b979387a898603b8b8462d72ed7ddafceb142328d60efaf24ff1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.05/SLES_550.05_BG_01.png"
+      },
+      "gameId": "SLES_550.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Need for Speed - ProStreet"
+}

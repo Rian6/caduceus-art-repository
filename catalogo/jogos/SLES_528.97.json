@@ -1,0 +1,25 @@
+{
+  "id": "SLES_528.97",
+  "cover": {
+    "path": "PS2/SLES_528.97/SLES_528.97_COV.png",
+    "kind": "cover",
+    "bytes": 99741,
+    "width": 192,
+    "height": 272,
+    "sha256": "b7721314df745942f366ea36bbf90e06da928154ebae57bebe4f35e5a0206e7c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52897.jpg"
+    },
+    "gameId": "SLES_528.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPONGEBOB - IL FILM"
+}

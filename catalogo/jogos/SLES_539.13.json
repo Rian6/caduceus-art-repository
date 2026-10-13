@@ -1,0 +1,25 @@
+{
+  "id": "SLES_539.13",
+  "cover": {
+    "path": "PS2/SLES_539.13/SLES_539.13_COV.png",
+    "kind": "cover",
+    "bytes": 82456,
+    "width": 192,
+    "height": 272,
+    "sha256": "4af72b0e18a7532d74994986199840e3bbca396fd6832b0d7a223c6b5f4b8555",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53913.jpg"
+    },
+    "gameId": "SLES_539.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Th3 Plan"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.41",
+  "cover": {
+    "path": "PS2/SLPS_200.41/SLPS_200.41_COV.png",
+    "kind": "cover",
+    "bytes": 79359,
+    "width": 192,
+    "height": 272,
+    "sha256": "01afec6cae2a507ae522d393e83c29f8040dd0e3999b563f78e1260f3b79210d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20041.jpg"
+    },
+    "gameId": "SLPS_200.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mahjong Goku Taisei"
+}

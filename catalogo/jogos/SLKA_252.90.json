@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.90",
+  "cover": {
+    "path": "PS2/SLKA_252.90/SLKA_252.90_COV.png",
+    "kind": "cover",
+    "bytes": 105797,
+    "width": 192,
+    "height": 272,
+    "sha256": "7600aa08177af3c349d6e268b6ce941d266894c827aad86ed65a6cdfd552fc44",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25290.jpg"
+    },
+    "gameId": "SLKA_252.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Monkey Ball Deluxe"
+}

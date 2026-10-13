@@ -1,0 +1,39 @@
+{
+  "id": "SLED_508.84",
+  "cover": null,
+  "disc": null,
+  "background": {
+    "path": "PS2/SLED_508.84/SLED_508.84_BG.png",
+    "kind": "background",
+    "bytes": 110147,
+    "width": 640,
+    "height": 480,
+    "sha256": "550a4bfd3ae15ac834327000bae7188596c08154d711fcb78d894f6dee4b55b8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLED_508.84/SLED_508.84_BG_00.png"
+    },
+    "gameId": "SLED_508.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLED_508.84/SLED_508.84_BG.png",
+      "kind": "background",
+      "bytes": 110147,
+      "width": 640,
+      "height": 480,
+      "sha256": "550a4bfd3ae15ac834327000bae7188596c08154d711fcb78d894f6dee4b55b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLED_508.84/SLED_508.84_BG_00.png"
+      },
+      "gameId": "SLED_508.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TimeSplitters 2"
+}

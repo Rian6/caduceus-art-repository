@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_215.36",
+  "cover": {
+    "path": "PS2/SLUS_215.36/SLUS_215.36_COV.png",
+    "kind": "cover",
+    "bytes": 103784,
+    "width": 192,
+    "height": 272,
+    "sha256": "6b4038a87109f4f60bc7110a56fa1896f02b6ebe70f4d39881f841ea4f879bc6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21536.jpg"
+    },
+    "gameId": "SLUS_215.36"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.36/SLUS_215.36_ICO.png",
+    "kind": "disc",
+    "bytes": 31677,
+    "width": 256,
+    "height": 256,
+    "sha256": "68e360761b5839c590c1ddbd9e5ea41f2140e681db00e29a4012573fd0610d15",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.36_ICO.png"
+    },
+    "gameId": "SLUS_215.36"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.36/SLUS_215.36_BG.png",
+    "kind": "background",
+    "bytes": 123558,
+    "width": 640,
+    "height": 480,
+    "sha256": "d5cf7a1bdd7546a8ee5082af84444da8c3ae2eb20ee763aebdc6c55fff6ee665",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.36/SLUS_215.36_BG_00.png"
+    },
+    "gameId": "SLUS_215.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.36/SLUS_215.36_BG.png",
+      "kind": "background",
+      "bytes": 123558,
+      "width": 640,
+      "height": 480,
+      "sha256": "d5cf7a1bdd7546a8ee5082af84444da8c3ae2eb20ee763aebdc6c55fff6ee665",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.36/SLUS_215.36_BG_00.png"
+      },
+      "gameId": "SLUS_215.36"
+    },
+    {
+      "path": "PS2/SLUS_215.36/SLUS_215.36_BG_01.png",
+      "kind": "background",
+      "bytes": 178424,
+      "width": 640,
+      "height": 480,
+      "sha256": "e9ffc785fcc993b9fa6bfd0ed88919c518b7034802a1a6117083ae39ceb10d0c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.36/SLUS_215.36_BG_01.png"
+      },
+      "gameId": "SLUS_215.36"
+    },
+    {
+      "path": "PS2/SLUS_215.36/SLUS_215.36_BG_02.png",
+      "kind": "background",
+      "bytes": 148615,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ec3081502bc1b5ee0ece7f98109ff19023814c0b9f62c2a5ac2d97c73ba9e5a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.36/SLUS_215.36_BG_02.png"
+      },
+      "gameId": "SLUS_215.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Sims 2 - Pets"
+}

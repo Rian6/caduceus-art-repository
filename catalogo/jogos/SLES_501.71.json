@@ -1,0 +1,25 @@
+{
+  "id": "SLES_501.71",
+  "cover": {
+    "path": "PS2/SLES_501.71/SLES_501.71_COV.png",
+    "kind": "cover",
+    "bytes": 83086,
+    "width": 192,
+    "height": 272,
+    "sha256": "43230269edb2885a44601ca51b7c654ca14544065e73bd0b5115b6b9c905e9c9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50171.jpg"
+    },
+    "gameId": "SLES_501.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN National Hockey Night"
+}

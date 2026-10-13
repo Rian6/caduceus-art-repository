@@ -1,0 +1,65 @@
+{
+  "id": "SLES_514.33",
+  "cover": {
+    "path": "PS2/SLES_514.33/SLES_514.33_COV.png",
+    "kind": "cover",
+    "bytes": 78127,
+    "width": 192,
+    "height": 272,
+    "sha256": "95d5fc17531994c0f5af8e9f092d796b69577928f681b856b227f76f7f3ee7e4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51433.jpg"
+    },
+    "gameId": "SLES_514.33"
+  },
+  "disc": {
+    "path": "PS2/SLES_514.33/SLES_514.33_ICO.png",
+    "kind": "disc",
+    "bytes": 12131,
+    "width": 128,
+    "height": 128,
+    "sha256": "f81e3649d6d72ab459993d45e1adf910539b8cfed595166ad508beade4a24eb3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_514.33_ICO.png"
+    },
+    "gameId": "SLES_514.33"
+  },
+  "background": {
+    "path": "PS2/SLES_514.33/SLES_514.33_BG.png",
+    "kind": "background",
+    "bytes": 112428,
+    "width": 640,
+    "height": 480,
+    "sha256": "eea54eaa41f68b363845cae9e66fc9cf598f443b5b6e87218cc336d6342880b2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_514.33/SLES_514.33_BG_00.png"
+    },
+    "gameId": "SLES_514.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_514.33/SLES_514.33_BG.png",
+      "kind": "background",
+      "bytes": 112428,
+      "width": 640,
+      "height": 480,
+      "sha256": "eea54eaa41f68b363845cae9e66fc9cf598f443b5b6e87218cc336d6342880b2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.33/SLES_514.33_BG_00.png"
+      },
+      "gameId": "SLES_514.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ghost Vibration"
+}

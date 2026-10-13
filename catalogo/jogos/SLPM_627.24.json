@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.24",
+  "cover": {
+    "path": "PS2/SLPM_627.24/SLPM_627.24_COV.png",
+    "kind": "cover",
+    "bytes": 74298,
+    "width": 192,
+    "height": 272,
+    "sha256": "14f915a6a3111b36d51e2619b8c31e7f0c7d2d424ed11e1a459679f8306726eb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62724.jpg"
+    },
+    "gameId": "SLPM_627.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE CONVENI 4"
+}

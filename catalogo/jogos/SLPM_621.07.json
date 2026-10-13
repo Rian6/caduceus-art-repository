@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.07",
+  "cover": {
+    "path": "PS2/SLPM_621.07/SLPM_621.07_COV.png",
+    "kind": "cover",
+    "bytes": 105192,
+    "width": 192,
+    "height": 272,
+    "sha256": "24d88ff951370544e0324234f662c18a1c1d9064a8ce1abf648b3da1dc86c435",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62107.jpg"
+    },
+    "gameId": "SLPM_621.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Growlanser III - The Dual Darkness (Limited Edition)"
+}

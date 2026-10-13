@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.12",
+  "cover": {
+    "path": "PS2/SLPM_552.12/SLPM_552.12_COV.png",
+    "kind": "cover",
+    "bytes": 104483,
+    "width": 192,
+    "height": 272,
+    "sha256": "907170c230dc34247e2363289f621719f01feea758e9f4d06c0e7545459d0b86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55212.jpg"
+    },
+    "gameId": "SLPM_552.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JIGOKU SHOUJO MIOYOSUGA [LIMITED EDITION]"
+}

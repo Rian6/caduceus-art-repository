@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.91",
+  "cover": {
+    "path": "PS2/SLPM_652.91/SLPM_652.91_COV.png",
+    "kind": "cover",
+    "bytes": 116083,
+    "width": 192,
+    "height": 272,
+    "sha256": "f01174dbd2e36caf3c8fa022c5b998efa77d02287529580950156468f76d619f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65291.jpg"
+    },
+    "gameId": "SLPM_652.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MA-GI - MARGINAL"
+}

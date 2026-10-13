@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.04",
+  "cover": {
+    "path": "PS2/SLPM_626.04/SLPM_626.04_COV.png",
+    "kind": "cover",
+    "bytes": 98777,
+    "width": 192,
+    "height": 272,
+    "sha256": "2e47d1f975246b8120448d21b7810036f3df7b82b7015888553432374a10c4d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62604.jpg"
+    },
+    "gameId": "SLPM_626.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.076 - THE HANASOU EIGO NO TABI"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_507.94",
+  "cover": {
+    "path": "PS2/SLES_507.94/SLES_507.94_COV.png",
+    "kind": "cover",
+    "bytes": 92848,
+    "width": 192,
+    "height": 272,
+    "sha256": "11dd98b8c1bf05fd826003c1e83dea1ad455572f0f78708ba2203b61f39f9dd3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50794.jpg"
+    },
+    "gameId": "SLES_507.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sven-Goran Eriksson's World Manager 2002"
+}

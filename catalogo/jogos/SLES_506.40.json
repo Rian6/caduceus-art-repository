@@ -1,0 +1,51 @@
+{
+  "id": "SLES_506.40",
+  "cover": {
+    "path": "PS2/SLES_506.40/SLES_506.40_COV.png",
+    "kind": "cover",
+    "bytes": 105097,
+    "width": 192,
+    "height": 272,
+    "sha256": "64e3a4146306a26abf17296d958a84769786f69075f179a5795f94c48605b2fb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50640.jpg"
+    },
+    "gameId": "SLES_506.40"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_506.40/SLES_506.40_BG.png",
+    "kind": "background",
+    "bytes": 168145,
+    "width": 640,
+    "height": 480,
+    "sha256": "0a1e54a57465df57e9604a1e1c0279f4ba8844091d23d86a4ba0e1c3285ab8f2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_506.40/SLES_506.40_BG_00.png"
+    },
+    "gameId": "SLES_506.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_506.40/SLES_506.40_BG.png",
+      "kind": "background",
+      "bytes": 168145,
+      "width": 640,
+      "height": 480,
+      "sha256": "0a1e54a57465df57e9604a1e1c0279f4ba8844091d23d86a4ba0e1c3285ab8f2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.40/SLES_506.40_BG_00.png"
+      },
+      "gameId": "SLES_506.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Salt Lake City 2002 Olympic Winter Games"
+}

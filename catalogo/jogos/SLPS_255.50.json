@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.50",
+  "cover": {
+    "path": "PS2/SLPS_255.50/SLPS_255.50_COV.png",
+    "kind": "cover",
+    "bytes": 93546,
+    "width": 192,
+    "height": 272,
+    "sha256": "ad210fe888b06e437241ed6ebf9ed0f3900d541aba4f6edbade4a4017f8aca27",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25550.jpg"
+    },
+    "gameId": "SLPS_255.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "COWBOY BEBOP - TSUITOU NO YAKYOKU [LIMITED EDITION]"
+}

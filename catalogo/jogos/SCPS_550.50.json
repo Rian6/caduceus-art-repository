@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.50",
+  "cover": {
+    "path": "PS2/SCPS_550.50/SCPS_550.50_COV.png",
+    "kind": "cover",
+    "bytes": 84217,
+    "width": 192,
+    "height": 272,
+    "sha256": "62e5eab2bc051e0e1f0a3916605a62bf5fa3ea4c7611b2db53c9180be8f875a0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55050.jpg"
+    },
+    "gameId": "SCPS_550.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tales of Destiny 2 (Mega Hits)"
+}

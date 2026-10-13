@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_206.75",
+  "cover": {
+    "path": "PS2/SLUS_206.75/SLUS_206.75_COV.png",
+    "kind": "cover",
+    "bytes": 92465,
+    "width": 192,
+    "height": 272,
+    "sha256": "97409357ecfdad32902fd7c4034ddc593e4475939290a8070c28675af5acd969",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20675.jpg"
+    },
+    "gameId": "SLUS_206.75"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.75/SLUS_206.75_ICO.png",
+    "kind": "disc",
+    "bytes": 33413,
+    "width": 256,
+    "height": 256,
+    "sha256": "beddd76f67a11eb26fd6770b7f529ab39d68f2f1dbe23bdb736eeca017d9c89d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.75_ICO.png"
+    },
+    "gameId": "SLUS_206.75"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.75/SLUS_206.75_BG.png",
+    "kind": "background",
+    "bytes": 168388,
+    "width": 640,
+    "height": 480,
+    "sha256": "dc784b50f0ecd8933f3c80df554fdc79252e01bc608c7583c81d0b91206fef25",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.75/SLUS_206.75_BG_00.png"
+    },
+    "gameId": "SLUS_206.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.75/SLUS_206.75_BG.png",
+      "kind": "background",
+      "bytes": 168388,
+      "width": 640,
+      "height": 480,
+      "sha256": "dc784b50f0ecd8933f3c80df554fdc79252e01bc608c7583c81d0b91206fef25",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.75/SLUS_206.75_BG_00.png"
+      },
+      "gameId": "SLUS_206.75"
+    },
+    {
+      "path": "PS2/SLUS_206.75/SLUS_206.75_BG_01.png",
+      "kind": "background",
+      "bytes": 170743,
+      "width": 640,
+      "height": 480,
+      "sha256": "9751b44a9d570659e386bcf289c24973494b30c8815beee74d24cbf0ce810a4d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.75/SLUS_206.75_BG_01.png"
+      },
+      "gameId": "SLUS_206.75"
+    },
+    {
+      "path": "PS2/SLUS_206.75/SLUS_206.75_BG_02.png",
+      "kind": "background",
+      "bytes": 158673,
+      "width": 640,
+      "height": 480,
+      "sha256": "6fb1152c9ca5d89d0a304c6c372eb8531ea9ea9064a47ffe0a471733caacedc5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.75/SLUS_206.75_BG_02.png"
+      },
+      "gameId": "SLUS_206.75"
+    },
+    {
+      "path": "PS2/SLUS_206.75/SLUS_206.75_BG_03.png",
+      "kind": "background",
+      "bytes": 204301,
+      "width": 640,
+      "height": 480,
+      "sha256": "66077fb55f603979422c7cc57946059e5d50951cf0701c11bb6653dbb5f740c2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.75/SLUS_206.75_BG_03.png"
+      },
+      "gameId": "SLUS_206.75"
+    },
+    {
+      "path": "PS2/SLUS_206.75/SLUS_206.75_BG_04.png",
+      "kind": "background",
+      "bytes": 191796,
+      "width": 640,
+      "height": 480,
+      "sha256": "24d18c83cb75a728fce88eb53897b6375e44801f51ad1f22cc6b4cb7120cedee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.75/SLUS_206.75_BG_04.png"
+      },
+      "gameId": "SLUS_206.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Baldur's Gate: Dark Alliance II"
+}

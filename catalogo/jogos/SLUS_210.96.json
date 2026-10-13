@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_210.96",
+  "cover": {
+    "path": "PS2/SLUS_210.96/SLUS_210.96_COV.png",
+    "kind": "cover",
+    "bytes": 113710,
+    "width": 192,
+    "height": 272,
+    "sha256": "cea78f206694729910974f2f27298a12c8fd68bf6420bd28ea0d2157235035b9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21096.jpg"
+    },
+    "gameId": "SLUS_210.96"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.96/SLUS_210.96_ICO.png",
+    "kind": "disc",
+    "bytes": 33931,
+    "width": 256,
+    "height": 256,
+    "sha256": "b3d4f57ff021927c35d1217a1b6a551b19639e3a7045c3d0fdfb1c4c572fb091",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.96_ICO.png"
+    },
+    "gameId": "SLUS_210.96"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.96/SLUS_210.96_BG.png",
+    "kind": "background",
+    "bytes": 176348,
+    "width": 640,
+    "height": 480,
+    "sha256": "2c745108c5695a32ac46868d017a40c62186f803bda5fb408c8b183df1342cb7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.96/SLUS_210.96_BG_00.png"
+    },
+    "gameId": "SLUS_210.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.96/SLUS_210.96_BG.png",
+      "kind": "background",
+      "bytes": 176348,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c745108c5695a32ac46868d017a40c62186f803bda5fb408c8b183df1342cb7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.96/SLUS_210.96_BG_00.png"
+      },
+      "gameId": "SLUS_210.96"
+    },
+    {
+      "path": "PS2/SLUS_210.96/SLUS_210.96_BG_01.png",
+      "kind": "background",
+      "bytes": 178922,
+      "width": 640,
+      "height": 480,
+      "sha256": "d30a3a7c6c0959c3333753864bd5e832c40a945a050c00a4b20f960eeef29e71",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.96/SLUS_210.96_BG_01.png"
+      },
+      "gameId": "SLUS_210.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ape Escape - Pumped & Primed"
+}

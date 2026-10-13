@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.61",
+  "cover": {
+    "path": "PS2/SLPM_621.61/SLPM_621.61_COV.png",
+    "kind": "cover",
+    "bytes": 105588,
+    "width": 192,
+    "height": 272,
+    "sha256": "5298e72e05f35442932d3d4b8fba225dad6e051cf957cafe2afbb44b1cdef036",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62161.jpg"
+    },
+    "gameId": "SLPM_621.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Generation of Chaos - Next"
+}

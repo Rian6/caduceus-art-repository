@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.78",
+  "cover": {
+    "path": "PS2/SCPS_150.78/SCPS_150.78_COV.png",
+    "kind": "cover",
+    "bytes": 101525,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c8f567392badde9d5a265743e85dac4fadb506bad95a0253ac091912a74b2bc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15078.jpg"
+    },
+    "gameId": "SCPS_150.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saru Eye Toy Oosawagi - Wakki Waki Game Tenkomori!!"
+}

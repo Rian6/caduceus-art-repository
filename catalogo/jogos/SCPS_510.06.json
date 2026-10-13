@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_510.06",
+  "cover": {
+    "path": "PS2/SCPS_510.06/SCPS_510.06_COV.png",
+    "kind": "cover",
+    "bytes": 94687,
+    "width": 192,
+    "height": 272,
+    "sha256": "1a03d1c4e2fdd5210ce644b05df8c7309a2becdad8ab31d6fea6438b562501e6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-51006.jpg"
+    },
+    "gameId": "SCPS_510.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ALPINE RACER 3"
+}

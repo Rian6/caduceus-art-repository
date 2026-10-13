@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.24",
+  "cover": {
+    "path": "PS2/SLPM_666.24/SLPM_666.24_COV.png",
+    "kind": "cover",
+    "bytes": 111623,
+    "width": 192,
+    "height": 272,
+    "sha256": "c642f825d2c194ff7834cb3c4fec49389fe5e563e700872327dba128d54e311a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66624.jpg"
+    },
+    "gameId": "SLPM_666.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TSUYO KISS - MIGHTY HEART [PRINCESS COLLECTION]"
+}

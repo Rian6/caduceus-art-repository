@@ -1,0 +1,51 @@
+{
+  "id": "SLES_542.40",
+  "cover": {
+    "path": "PS2/SLES_542.40/SLES_542.40_COV.png",
+    "kind": "cover",
+    "bytes": 84808,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e7d32c51af377873adf86e3651164d78c21c6092e0c9f465a483ec1448201b2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54240.jpg"
+    },
+    "gameId": "SLES_542.40"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_542.40/SLES_542.40_BG.png",
+    "kind": "background",
+    "bytes": 205790,
+    "width": 640,
+    "height": 480,
+    "sha256": "7adbf32a9e6a1dfb7fd971b0b9dd1bbdbe2528091a9aabc63202cbf982e956e7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_542.40/SLES_542.40_BG_00.png"
+    },
+    "gameId": "SLES_542.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_542.40/SLES_542.40_BG.png",
+      "kind": "background",
+      "bytes": 205790,
+      "width": 640,
+      "height": 480,
+      "sha256": "7adbf32a9e6a1dfb7fd971b0b9dd1bbdbe2528091a9aabc63202cbf982e956e7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.40/SLES_542.40_BG_00.png"
+      },
+      "gameId": "SLES_542.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA 07"
+}

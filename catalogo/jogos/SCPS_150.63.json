@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.63",
+  "cover": {
+    "path": "PS2/SCPS_150.63/SCPS_150.63_COV.png",
+    "kind": "cover",
+    "bytes": 96131,
+    "width": 192,
+    "height": 272,
+    "sha256": "efb72cdf08e59dd1e46896c3bc48ae34039da860911f738f72da0f8bb1fcf997",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15063.jpg"
+    },
+    "gameId": "SCPS_150.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Popolocrois Story - Tsuki no Okite no Bouken"
+}

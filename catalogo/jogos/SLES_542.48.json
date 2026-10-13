@@ -1,0 +1,25 @@
+{
+  "id": "SLES_542.48",
+  "cover": {
+    "path": "PS2/SLES_542.48/SLES_542.48_COV.png",
+    "kind": "cover",
+    "bytes": 97960,
+    "width": 192,
+    "height": 272,
+    "sha256": "58289413ed6536062ee168d38a8b87c750dd97804bed2df27a4f3e8c6a259bcf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54248.jpg"
+    },
+    "gameId": "SLES_542.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Madden NFL '07"
+}

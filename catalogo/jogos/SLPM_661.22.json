@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.22",
+  "cover": {
+    "path": "PS2/SLPM_661.22/SLPM_661.22_COV.png",
+    "kind": "cover",
+    "bytes": 77351,
+    "width": 192,
+    "height": 272,
+    "sha256": "2962ddaccfff28c0fc292bed45535c760d19b96d3076e5042c5554771f220e2f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66122.jpg"
+    },
+    "gameId": "SLPM_661.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KINGDOM HEARTS [ULTIMATE HITS]"
+}

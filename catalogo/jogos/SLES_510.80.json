@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.80",
+  "cover": {
+    "path": "PS2/SLES_510.80/SLES_510.80_COV.png",
+    "kind": "cover",
+    "bytes": 75423,
+    "width": 192,
+    "height": 272,
+    "sha256": "af506aa4691051035d2108bf80da450b0e9b553ca2f372c90d97f4ef8062acc1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51080.jpg"
+    },
+    "gameId": "SLES_510.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - AC MILAN"
+}

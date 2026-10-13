@@ -1,0 +1,77 @@
+{
+  "id": "SCES_519.04",
+  "cover": {
+    "path": "PS2/SCES_519.04/SCES_519.04_COV.png",
+    "kind": "cover",
+    "bytes": 106685,
+    "width": 192,
+    "height": 272,
+    "sha256": "c9abe5b19b9c03407075dabe52bd5f01b5107e359f0ef9d38a58e20160920206",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51904.jpg"
+    },
+    "gameId": "SCES_519.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_519.04/SCES_519.04_BG.png",
+    "kind": "background",
+    "bytes": 81926,
+    "width": 640,
+    "height": 480,
+    "sha256": "47c74c962cdbb4681642ed5d2aca0c97175c40baabb6f466197bd46b36071ba9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_519.04/SCES_519.04_BG_00.png"
+    },
+    "gameId": "SCES_519.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_519.04/SCES_519.04_BG.png",
+      "kind": "background",
+      "bytes": 81926,
+      "width": 640,
+      "height": 480,
+      "sha256": "47c74c962cdbb4681642ed5d2aca0c97175c40baabb6f466197bd46b36071ba9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_519.04/SCES_519.04_BG_00.png"
+      },
+      "gameId": "SCES_519.04"
+    },
+    {
+      "path": "PS2/SCES_519.04/SCES_519.04_BG_01.png",
+      "kind": "background",
+      "bytes": 182543,
+      "width": 640,
+      "height": 480,
+      "sha256": "79e62c408715ffc21d27f5441d3b06e25f6e11f8bd2c2c15b86a2f9e33adbe62",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_519.04/SCES_519.04_BG_01.png"
+      },
+      "gameId": "SCES_519.04"
+    },
+    {
+      "path": "PS2/SCES_519.04/SCES_519.04_BG_02.png",
+      "kind": "background",
+      "bytes": 215458,
+      "width": 640,
+      "height": 480,
+      "sha256": "036f3e0152b61f2719b189b0a241bb5cf167d7c82cce7495af8300edde533894",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_519.04/SCES_519.04_BG_02.png"
+      },
+      "gameId": "SCES_519.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOCOM II - U.S. Navy SEALs (With Headset)"
+}

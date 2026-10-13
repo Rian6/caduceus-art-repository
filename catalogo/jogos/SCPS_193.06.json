@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_193.06",
+  "cover": {
+    "path": "PS2/SCPS_193.06/SCPS_193.06_COV.png",
+    "kind": "cover",
+    "bytes": 95913,
+    "width": 192,
+    "height": 272,
+    "sha256": "555cc47b5b266447d8ee5f48adbff6913a2bf99e6f3aca1b2ca0136312c117e7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19306.jpg"
+    },
+    "gameId": "SCPS_193.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DARK CHRONICLE [PLAYSTATION 2 THE BEST REPRINT]"
+}

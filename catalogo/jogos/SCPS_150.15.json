@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.15",
+  "cover": {
+    "path": "PS2/SCPS_150.15/SCPS_150.15_COV.png",
+    "kind": "cover",
+    "bytes": 80173,
+    "width": 192,
+    "height": 272,
+    "sha256": "6543f79144da4c05a6b87626c4ae55b22e6ec1899268f369af4d37df69b9d8eb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15015.jpg"
+    },
+    "gameId": "SCPS_150.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Toro to Kyuujitsu"
+}

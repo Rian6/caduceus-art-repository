@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.35",
+  "cover": {
+    "path": "PS2/SLPM_551.35/SLPM_551.35_COV.png",
+    "kind": "cover",
+    "bytes": 99345,
+    "width": 192,
+    "height": 272,
+    "sha256": "1e3d203849f0d49c2a4644a98f5a63a60dd126a352a0faf77327cdd16170452e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55135.jpg"
+    },
+    "gameId": "SLPM_551.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Grand Theft Auto: Vice City Stories"
+}

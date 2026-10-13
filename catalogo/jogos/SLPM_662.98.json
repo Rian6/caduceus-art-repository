@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.98",
+  "cover": {
+    "path": "PS2/SLPM_662.98/SLPM_662.98_COV.png",
+    "kind": "cover",
+    "bytes": 90192,
+    "width": 192,
+    "height": 272,
+    "sha256": "ac44430af0e93e4368c2bc6a6a36a597f839aa526633804eae68570c9a890f49",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66298.jpg"
+    },
+    "gameId": "SLPM_662.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SEPARATE HEARTS"
+}

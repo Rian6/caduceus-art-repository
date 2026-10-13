@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_217.98",
+  "cover": {
+    "path": "PS2/SLUS_217.98/SLUS_217.98_COV.png",
+    "kind": "cover",
+    "bytes": 108411,
+    "width": 192,
+    "height": 272,
+    "sha256": "175b4d311200e7aa569feb336536daf281d66d2aa4e49f8876443d639a2100ec",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21798.jpg"
+    },
+    "gameId": "SLUS_217.98"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.98/SLUS_217.98_ICO.png",
+    "kind": "disc",
+    "bytes": 32819,
+    "width": 256,
+    "height": 256,
+    "sha256": "2174a571bb116cbeac0a59995d52c9913f398897e9738d611f6e5bcc543dcac3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.98_ICO.png"
+    },
+    "gameId": "SLUS_217.98"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shepherd's Crossing"
+}

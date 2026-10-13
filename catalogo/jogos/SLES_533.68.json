@@ -1,0 +1,65 @@
+{
+  "id": "SLES_533.68",
+  "cover": {
+    "path": "PS2/SLES_533.68/SLES_533.68_COV.png",
+    "kind": "cover",
+    "bytes": 105432,
+    "width": 192,
+    "height": 272,
+    "sha256": "3ec2eba3d15618c8366b43b509daa4ef669421142323e0899ad0de0e26ea6d4d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53368.jpg"
+    },
+    "gameId": "SLES_533.68"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.68/SLES_533.68_ICO.png",
+    "kind": "disc",
+    "bytes": 11752,
+    "width": 128,
+    "height": 128,
+    "sha256": "8f8d81df598e157f2ba148c9ff074578b8add687265959b4c76ad74553fdc568",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.68_ICO.png"
+    },
+    "gameId": "SLES_533.68"
+  },
+  "background": {
+    "path": "PS2/SLES_533.68/SLES_533.68_BG.png",
+    "kind": "background",
+    "bytes": 197004,
+    "width": 640,
+    "height": 480,
+    "sha256": "2517ffd535c3b0b3f99a54cd7ea42d460461b05a4d28a02ec818beec5f021483",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.68/SLES_533.68_BG_00.png"
+    },
+    "gameId": "SLES_533.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.68/SLES_533.68_BG.png",
+      "kind": "background",
+      "bytes": 197004,
+      "width": 640,
+      "height": 480,
+      "sha256": "2517ffd535c3b0b3f99a54cd7ea42d460461b05a4d28a02ec818beec5f021483",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.68/SLES_533.68_BG_00.png"
+      },
+      "gameId": "SLES_533.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Splatter Master"
+}

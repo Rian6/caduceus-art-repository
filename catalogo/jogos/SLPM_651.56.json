@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_651.56",
+  "cover": {
+    "path": "PS2/SLPM_651.56/SLPM_651.56_COV.png",
+    "kind": "cover",
+    "bytes": 104855,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c4759fb23faec2e1ee081d4424431e75af7464b548a2ec34175d52c6fe19d7c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65156.jpg"
+    },
+    "gameId": "SLPM_651.56"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_651.56/SLPM_651.56_BG.png",
+    "kind": "background",
+    "bytes": 176615,
+    "width": 640,
+    "height": 480,
+    "sha256": "114cac126065d5005be8efac991c215c3d42d31d3dc9b24d7615522cabc134ea",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_651.56/SLPM_651.56_BG_00.png"
+    },
+    "gameId": "SLPM_651.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_651.56/SLPM_651.56_BG.png",
+      "kind": "background",
+      "bytes": 176615,
+      "width": 640,
+      "height": 480,
+      "sha256": "114cac126065d5005be8efac991c215c3d42d31d3dc9b24d7615522cabc134ea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_651.56/SLPM_651.56_BG_00.png"
+      },
+      "gameId": "SLPM_651.56"
+    },
+    {
+      "path": "PS2/SLPM_651.56/SLPM_651.56_BG_01.png",
+      "kind": "background",
+      "bytes": 153810,
+      "width": 640,
+      "height": 480,
+      "sha256": "4753451133a73f3166c6f550e8ae2974ae9a274f7d1a9317c12d791a55b514bd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_651.56/SLPM_651.56_BG_01.png"
+      },
+      "gameId": "SLPM_651.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Beatmania IIDX - 6th Style - New Songs Collection"
+}

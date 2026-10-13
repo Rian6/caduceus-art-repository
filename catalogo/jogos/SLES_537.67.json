@@ -1,0 +1,51 @@
+{
+  "id": "SLES_537.67",
+  "cover": {
+    "path": "PS2/SLES_537.67/SLES_537.67_COV.png",
+    "kind": "cover",
+    "bytes": 86145,
+    "width": 192,
+    "height": 272,
+    "sha256": "855a998af44492f666af69c3f613757c5ac8d4def81ef086e8c67040985d4d9d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53767.jpg"
+    },
+    "gameId": "SLES_537.67"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.67/SLES_537.67_BG.png",
+    "kind": "background",
+    "bytes": 195158,
+    "width": 640,
+    "height": 480,
+    "sha256": "198c3501f0c10cbbdc9c5a119f2e32f0b52b3491701302e7888069571361161b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.67/SLES_537.67_BG_00.png"
+    },
+    "gameId": "SLES_537.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.67/SLES_537.67_BG.png",
+      "kind": "background",
+      "bytes": 195158,
+      "width": 640,
+      "height": 480,
+      "sha256": "198c3501f0c10cbbdc9c5a119f2e32f0b52b3491701302e7888069571361161b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.67/SLES_537.67_BG_00.png"
+      },
+      "gameId": "SLES_537.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Magna Carta: Les Larmes de Sang"
+}

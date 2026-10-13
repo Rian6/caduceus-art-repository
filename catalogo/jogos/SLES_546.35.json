@@ -1,0 +1,39 @@
+{
+  "id": "SLES_546.35",
+  "cover": {
+    "path": "PS2/SLES_546.35/SLES_546.35_COV.png",
+    "kind": "cover",
+    "bytes": 92978,
+    "width": 192,
+    "height": 272,
+    "sha256": "49460d2e3cd22068c56da78717662f7b72e7fb8a3676f17b594b60a7f322379d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54635.jpg"
+    },
+    "gameId": "SLES_546.35"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.35/SLES_546.35_ICO.png",
+    "kind": "disc",
+    "bytes": 9957,
+    "width": 128,
+    "height": 128,
+    "sha256": "4de88edcc9215c80cf449c78cdfa0597ae173b022f21b6abcddc045fe75dfa1e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.35_ICO.png"
+    },
+    "gameId": "SLES_546.35"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Top Trumps Adventures Vol. 2 -  Dogs & Dinosaurs"
+}

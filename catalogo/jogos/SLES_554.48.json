@@ -1,0 +1,51 @@
+{
+  "id": "SLES_554.48",
+  "cover": {
+    "path": "PS2/SLES_554.48/SLES_554.48_COV.png",
+    "kind": "cover",
+    "bytes": 102296,
+    "width": 192,
+    "height": 272,
+    "sha256": "776c8b8937ebc2230d552643d250ae4c3a072185f10645c0b541deaa0433c3a4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55448.jpg"
+    },
+    "gameId": "SLES_554.48"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_554.48/SLES_554.48_BG.png",
+    "kind": "background",
+    "bytes": 184860,
+    "width": 640,
+    "height": 480,
+    "sha256": "fa2e181579334e82a590d75b0985c1a769c41d157bd44238789df16b45de467a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_554.48/SLES_554.48_BG_00.png"
+    },
+    "gameId": "SLES_554.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_554.48/SLES_554.48_BG.png",
+      "kind": "background",
+      "bytes": 184860,
+      "width": 640,
+      "height": 480,
+      "sha256": "fa2e181579334e82a590d75b0985c1a769c41d157bd44238789df16b45de467a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.48/SLES_554.48_BG_00.png"
+      },
+      "gameId": "SLES_554.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Indiana Jones and the Staff of Kings"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_554.18",
+  "cover": {
+    "path": "PS2/SLES_554.18/SLES_554.18_COV.png",
+    "kind": "cover",
+    "bytes": 58488,
+    "width": 192,
+    "height": 272,
+    "sha256": "bd9e164f9d3830e2899bad80bcdf0f010f28c4bf2482c09e582012af8148bef7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_554.18/SLES_554.18_COV.png"
+    },
+    "gameId": "SLES_554.18"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_554.18/SLES_554.18_BG.png",
+    "kind": "background",
+    "bytes": 188683,
+    "width": 640,
+    "height": 480,
+    "sha256": "d2d0232ff00b7cdb6f986f66bd77b64b063d381dcd764deb906134fc1fc2a88e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_554.18/SLES_554.18_BG_00.png"
+    },
+    "gameId": "SLES_554.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_554.18/SLES_554.18_BG.png",
+      "kind": "background",
+      "bytes": 188683,
+      "width": 640,
+      "height": 480,
+      "sha256": "d2d0232ff00b7cdb6f986f66bd77b64b063d381dcd764deb906134fc1fc2a88e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.18/SLES_554.18_BG_00.png"
+      },
+      "gameId": "SLES_554.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tube Mania"
+}

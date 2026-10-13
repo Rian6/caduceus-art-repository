@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.74",
+  "cover": {
+    "path": "PS2/SLES_548.74/SLES_548.74_COV.png",
+    "kind": "cover",
+    "bytes": 92865,
+    "width": 192,
+    "height": 272,
+    "sha256": "3de5289853240cc48a997b21ba68e6ba0723edf6b8f7b88e6e20b5be1ab252f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54874.jpg"
+    },
+    "gameId": "SLES_548.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA 08"
+}

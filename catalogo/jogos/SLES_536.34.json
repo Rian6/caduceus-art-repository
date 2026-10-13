@@ -1,0 +1,25 @@
+{
+  "id": "SLES_536.34",
+  "cover": {
+    "path": "PS2/SLES_536.34/SLES_536.34_COV.png",
+    "kind": "cover",
+    "bytes": 66916,
+    "width": 192,
+    "height": 272,
+    "sha256": "ad4f8d98f12828d6ec0398e8dd1a92656c61a13aa1b7308815e8b73ba7d77b60",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.34/SLES_536.34_COV.png"
+    },
+    "gameId": "SLES_536.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nicktoons Unite!"
+}

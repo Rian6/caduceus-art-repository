@@ -1,0 +1,65 @@
+{
+  "id": "SLES_504.95",
+  "cover": {
+    "path": "PS2/SLES_504.95/SLES_504.95_COV.png",
+    "kind": "cover",
+    "bytes": 84309,
+    "width": 192,
+    "height": 272,
+    "sha256": "7bee8deb3f8c7d81b6712462dff2a48a50186a84167ed7b10ddf0cdbfe592d14",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50495.jpg"
+    },
+    "gameId": "SLES_504.95"
+  },
+  "disc": {
+    "path": "PS2/SLES_504.95/SLES_504.95_ICO.png",
+    "kind": "disc",
+    "bytes": 11416,
+    "width": 128,
+    "height": 128,
+    "sha256": "a117f1dfa1eca84fe08d9ae549d052134aa47e399e6209520403ad384b08bba4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_504.95_ICO.png"
+    },
+    "gameId": "SLES_504.95"
+  },
+  "background": {
+    "path": "PS2/SLES_504.95/SLES_504.95_BG.png",
+    "kind": "background",
+    "bytes": 166778,
+    "width": 640,
+    "height": 480,
+    "sha256": "d7544a1122663d99d4ebc0516714515ef21c24e724e016ecff5c578a11fd3928",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_504.95/SLES_504.95_BG_00.png"
+    },
+    "gameId": "SLES_504.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_504.95/SLES_504.95_BG.png",
+      "kind": "background",
+      "bytes": 166778,
+      "width": 640,
+      "height": 480,
+      "sha256": "d7544a1122663d99d4ebc0516714515ef21c24e724e016ecff5c578a11fd3928",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.95/SLES_504.95_BG_00.png"
+      },
+      "gameId": "SLES_504.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Who Wants to Be a Millionaire: 2nd Edition"
+}

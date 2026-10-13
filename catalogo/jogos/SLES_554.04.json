@@ -1,0 +1,25 @@
+{
+  "id": "SLES_554.04",
+  "cover": {
+    "path": "PS2/SLES_554.04/SLES_554.04_COV.png",
+    "kind": "cover",
+    "bytes": 103850,
+    "width": 192,
+    "height": 272,
+    "sha256": "380dd1d294070c551bdf8ca0811186651c5446539a8bdc33e57fb54b35568719",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55404.jpg"
+    },
+    "gameId": "SLES_554.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Naked Brothers Band - The Video Game"
+}

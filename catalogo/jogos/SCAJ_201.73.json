@@ -1,0 +1,129 @@
+{
+  "id": "SCAJ_201.73",
+  "cover": {
+    "path": "PS2/SCAJ_201.73/SCAJ_201.73_COV.png",
+    "kind": "cover",
+    "bytes": 95252,
+    "width": 192,
+    "height": 272,
+    "sha256": "b2ba848a9762264ac20d1d1d27f8e95828c8bc22acd07ac13c980369ea53043e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20173.jpg"
+    },
+    "gameId": "SCAJ_201.73"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG.png",
+    "kind": "background",
+    "bytes": 173401,
+    "width": 640,
+    "height": 480,
+    "sha256": "555485bcd385a8f9069aa91372179d21f1a05a7ac641a58f0b4c94e4aabc1d9c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_00.png"
+    },
+    "gameId": "SCAJ_201.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG.png",
+      "kind": "background",
+      "bytes": 173401,
+      "width": 640,
+      "height": 480,
+      "sha256": "555485bcd385a8f9069aa91372179d21f1a05a7ac641a58f0b4c94e4aabc1d9c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_00.png"
+      },
+      "gameId": "SCAJ_201.73"
+    },
+    {
+      "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_01.png",
+      "kind": "background",
+      "bytes": 182708,
+      "width": 640,
+      "height": 480,
+      "sha256": "01189820033c875f94d71955c220059e14f5d19203ce86f0b5cd1ab74c9afa77",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_01.png"
+      },
+      "gameId": "SCAJ_201.73"
+    },
+    {
+      "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_02.png",
+      "kind": "background",
+      "bytes": 180874,
+      "width": 640,
+      "height": 480,
+      "sha256": "7b1f494caf7c578ccf5cc27cbc27ba040d99423fd4a19be2bf7917d6a0bad25f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_02.png"
+      },
+      "gameId": "SCAJ_201.73"
+    },
+    {
+      "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_03.png",
+      "kind": "background",
+      "bytes": 174887,
+      "width": 640,
+      "height": 480,
+      "sha256": "35a685ca23757efe94880c0cbc471cc57508e02a6fa827eed63c761fe21af9a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_03.png"
+      },
+      "gameId": "SCAJ_201.73"
+    },
+    {
+      "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_04.png",
+      "kind": "background",
+      "bytes": 197525,
+      "width": 640,
+      "height": 480,
+      "sha256": "96acc382b66792ead441dab4ae94f48a1ffeca2a74da7d3d6f60d9eab00e6b5c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_04.png"
+      },
+      "gameId": "SCAJ_201.73"
+    },
+    {
+      "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_05.png",
+      "kind": "background",
+      "bytes": 169684,
+      "width": 640,
+      "height": 480,
+      "sha256": "64811c72ad4677448d7e4f7f63d9890ed65721ffe09fadf6a5799f8a453afdbd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_05.png"
+      },
+      "gameId": "SCAJ_201.73"
+    },
+    {
+      "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_06.png",
+      "kind": "background",
+      "bytes": 162904,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e58df61cde84455916923460bd6671ab533e31dfdfa54abfdffd28caad37eef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_201.73/SCAJ_201.73_BG_06.png"
+      },
+      "gameId": "SCAJ_201.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ace Combat Zero: The Belkan War"
+}

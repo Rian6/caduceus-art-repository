@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.00",
+  "cover": {
+    "path": "PS2/SLPM_669.00/SLPM_669.00_COV.png",
+    "kind": "cover",
+    "bytes": 97729,
+    "width": 192,
+    "height": 272,
+    "sha256": "62f29e3ef95d9df8318a2822abd3e1aa6b48bab6122f24e8d3ac2772198fd7bf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66900.jpg"
+    },
+    "gameId": "SLPM_669.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HOSHIIRO NO OKURIMONO"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.52",
+  "cover": {
+    "path": "PS2/SLPM_661.52/SLPM_661.52_COV.png",
+    "kind": "cover",
+    "bytes": 115844,
+    "width": 192,
+    "height": 272,
+    "sha256": "bbcebe3a2d229d9df258fa854e6b8a84859230e2ae493de15518f88eda758637",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66152.jpg"
+    },
+    "gameId": "SLPM_661.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KONNEKO - KEEP A MEMORY GREEN [LIMITED EDITION]"
+}

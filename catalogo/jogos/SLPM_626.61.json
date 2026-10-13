@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.61",
+  "cover": {
+    "path": "PS2/SLPM_626.61/SLPM_626.61_COV.png",
+    "kind": "cover",
+    "bytes": 90460,
+    "width": 192,
+    "height": 272,
+    "sha256": "220b7df509a6ef20a7ea767c1eac976320cb6067968a566abae9837919525b46",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62661.jpg"
+    },
+    "gameId": "SLPM_626.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Oretachi Game Center Zoku - Terra Crests"
+}

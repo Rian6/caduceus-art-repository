@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.47",
+  "cover": {
+    "path": "PS2/SLES_505.47/SLES_505.47_COV.png",
+    "kind": "cover",
+    "bytes": 92807,
+    "width": 192,
+    "height": 272,
+    "sha256": "c4882f16c358a32a5661b6664ff7c271c7bd2f60c43739075bb05fd9211b2c69",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50547.jpg"
+    },
+    "gameId": "SLES_505.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROGER LEMERRE LA SÉLECTION DES CHAMPIONS 2002"
+}

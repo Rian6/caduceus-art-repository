@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_660.65",
+  "cover": {
+    "path": "PS2/SLPM_660.65/SLPM_660.65_COV.png",
+    "kind": "cover",
+    "bytes": 98257,
+    "width": 192,
+    "height": 272,
+    "sha256": "bfff403d55134b322babd8d2591d562b542374bad1b97ef4945eeb45c819768f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66065.jpg"
+    },
+    "gameId": "SLPM_660.65"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_660.65/SLPM_660.65_BG.png",
+    "kind": "background",
+    "bytes": 171288,
+    "width": 640,
+    "height": 480,
+    "sha256": "0e9e3bbea8ad0f1d1bf04097a4d7563882d5764af6a953ab9a09ba9003d1ea21",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_660.65/SLPM_660.65_BG_00.png"
+    },
+    "gameId": "SLPM_660.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_660.65/SLPM_660.65_BG.png",
+      "kind": "background",
+      "bytes": 171288,
+      "width": 640,
+      "height": 480,
+      "sha256": "0e9e3bbea8ad0f1d1bf04097a4d7563882d5764af6a953ab9a09ba9003d1ea21",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_660.65/SLPM_660.65_BG_00.png"
+      },
+      "gameId": "SLPM_660.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pop'n'Music 11"
+}

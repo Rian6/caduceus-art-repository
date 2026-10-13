@@ -1,0 +1,51 @@
+{
+  "id": "SLES_527.18",
+  "cover": {
+    "path": "PS2/SLES_527.18/SLES_527.18_COV.png",
+    "kind": "cover",
+    "bytes": 99099,
+    "width": 192,
+    "height": 272,
+    "sha256": "e4ee3daee1c07bf3861f46f17c86d60668b6e4a3f09ca3381f73ebe9da26f791",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52718.jpg"
+    },
+    "gameId": "SLES_527.18"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_527.18/SLES_527.18_BG.png",
+    "kind": "background",
+    "bytes": 45638,
+    "width": 640,
+    "height": 480,
+    "sha256": "e98d410f69e69b8819a226510f0db65d48fb155da72fc70df1b1d9f0b9498e31",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_527.18/SLES_527.18_BG_00.png"
+    },
+    "gameId": "SLES_527.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_527.18/SLES_527.18_BG.png",
+      "kind": "background",
+      "bytes": 45638,
+      "width": 640,
+      "height": 480,
+      "sha256": "e98d410f69e69b8819a226510f0db65d48fb155da72fc70df1b1d9f0b9498e31",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_527.18/SLES_527.18_BG_00.png"
+      },
+      "gameId": "SLES_527.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIGHT CLUB"
+}

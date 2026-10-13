@@ -1,0 +1,25 @@
+{
+  "id": "SLES_549.44",
+  "cover": {
+    "path": "PS2/SLES_549.44/SLES_549.44_COV.png",
+    "kind": "cover",
+    "bytes": 92471,
+    "width": 192,
+    "height": 272,
+    "sha256": "64f1c6b0b7a72b62fbd6c4e351351e0f9d69efd3f77e8abf7b814edeb2c39e8c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54944.jpg"
+    },
+    "gameId": "SLES_549.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Princess - Enchanted Journey"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.10",
+  "cover": {
+    "path": "PS2/SLPS_258.10/SLPS_258.10_COV.png",
+    "kind": "cover",
+    "bytes": 113475,
+    "width": 192,
+    "height": 272,
+    "sha256": "707d7f77b75b61cb532b424c41f8968b89ee0b94c48bdf00866ca5baeda7e609",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25810.jpg"
+    },
+    "gameId": "SLPS_258.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEAR MY SUN!! MUSK IKUSEI CAPRICCIO"
+}

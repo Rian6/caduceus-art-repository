@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.82",
+  "cover": {
+    "path": "PS2/SCPS_150.82/SCPS_150.82_COV.png",
+    "kind": "cover",
+    "bytes": 81890,
+    "width": 192,
+    "height": 272,
+    "sha256": "8d205f9c3ee038aa34d22cc0170dcc77245b86848398290e86bfa6eebb245984",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15082.jpg"
+    },
+    "gameId": "SCPS_150.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.82/SCPS_150.82_BG.png",
+    "kind": "background",
+    "bytes": 85905,
+    "width": 640,
+    "height": 480,
+    "sha256": "559e5ac90e3e5f13308a00fda1fe8a353a3bb0560667695fd2b182dffc22ec65",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.82/SCPS_150.82_BG_00.png"
+    },
+    "gameId": "SCPS_150.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.82/SCPS_150.82_BG.png",
+      "kind": "background",
+      "bytes": 85905,
+      "width": 640,
+      "height": 480,
+      "sha256": "559e5ac90e3e5f13308a00fda1fe8a353a3bb0560667695fd2b182dffc22ec65",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.82/SCPS_150.82_BG_00.png"
+      },
+      "gameId": "SCPS_150.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DJ Box"
+}

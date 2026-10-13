@@ -1,0 +1,39 @@
+{
+  "id": "SCES_537.95",
+  "cover": null,
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_537.95/SCES_537.95_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_537.95/SCES_537.95_BG_00.png"
+    },
+    "gameId": "SCES_537.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_537.95/SCES_537.95_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_537.95/SCES_537.95_BG_00.png"
+      },
+      "gameId": "SCES_537.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar '80s"
+}

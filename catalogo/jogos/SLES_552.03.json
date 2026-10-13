@@ -1,0 +1,39 @@
+{
+  "id": "SLES_552.03",
+  "cover": {
+    "path": "PS2/SLES_552.03/SLES_552.03_COV.png",
+    "kind": "cover",
+    "bytes": 93393,
+    "width": 192,
+    "height": 272,
+    "sha256": "99b4728ee4d1fd467c9d0a8af3793d936501a42921b6227e35371fbb1d192364",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55203.jpg"
+    },
+    "gameId": "SLES_552.03"
+  },
+  "disc": {
+    "path": "PS2/SLES_552.03/SLES_552.03_ICO.png",
+    "kind": "disc",
+    "bytes": 11131,
+    "width": 128,
+    "height": 128,
+    "sha256": "faccff5d49fe87de2a0abfdc85c984fb801e752a93c975298dd58ef82298da0d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_552.03_ICO.png"
+    },
+    "gameId": "SLES_552.03"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MY HORSE & ME 2 - RIDING FOR GOLD"
+}

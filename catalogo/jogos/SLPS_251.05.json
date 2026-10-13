@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.05",
+  "cover": {
+    "path": "PS2/SLPS_251.05/SLPS_251.05_COV.png",
+    "kind": "cover",
+    "bytes": 87321,
+    "width": 192,
+    "height": 272,
+    "sha256": "edbb3b85428429cdaefc37961dc74fcd9cedf7bbf21e33088a1ef4fdb63b2a09",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25105.jpg"
+    },
+    "gameId": "SLPS_251.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KINGDOM HEARTS"
+}

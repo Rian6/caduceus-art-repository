@@ -1,0 +1,64 @@
+{
+  "id": "SLES_526.30",
+  "cover": {
+    "path": "PS2/SLES_526.30/SLES_526.30_COV.png",
+    "kind": "cover",
+    "bytes": 98855,
+    "width": 192,
+    "height": 272,
+    "sha256": "29438c088301d915767eb2eadb4e69ceef66b98a9479199d4289779791d31251",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52630.jpg"
+    },
+    "gameId": "SLES_526.30"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_526.30/SLES_526.30_BG.png",
+    "kind": "background",
+    "bytes": 215113,
+    "width": 640,
+    "height": 480,
+    "sha256": "52b5eb280e92d9158392044078ace0e192294f67c5624d157b355ddf9d9916af",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_526.30/SLES_526.30_BG_00.png"
+    },
+    "gameId": "SLES_526.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_526.30/SLES_526.30_BG.png",
+      "kind": "background",
+      "bytes": 215113,
+      "width": 640,
+      "height": 480,
+      "sha256": "52b5eb280e92d9158392044078ace0e192294f67c5624d157b355ddf9d9916af",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.30/SLES_526.30_BG_00.png"
+      },
+      "gameId": "SLES_526.30"
+    },
+    {
+      "path": "PS2/SLES_526.30/SLES_526.30_BG_01.png",
+      "kind": "background",
+      "bytes": 200752,
+      "width": 640,
+      "height": 480,
+      "sha256": "469a7b6cdd17b6df192e1e37cb9a1b9728e8c9b7ab573a58a50ded335b8125e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_526.30/SLES_526.30_BG_01.png"
+      },
+      "gameId": "SLES_526.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Conflict: Vietnam"
+}

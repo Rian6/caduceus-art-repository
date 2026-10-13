@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_206.43",
+  "cover": {
+    "path": "PS2/SLUS_206.43/SLUS_206.43_COV.png",
+    "kind": "cover",
+    "bytes": 82272,
+    "width": 192,
+    "height": 272,
+    "sha256": "0737f0d993f9fb25d56ec627449e1872b6548b5fbb1c862f2ca418d2ff1debe8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20643.jpg"
+    },
+    "gameId": "SLUS_206.43"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.43/SLUS_206.43_ICO.png",
+    "kind": "disc",
+    "bytes": 30228,
+    "width": 256,
+    "height": 256,
+    "sha256": "5b0cadcc46e9b7f9da51d6a6952392435470a3740b3f1ed9e715e34fc0802c81",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.43_ICO.png"
+    },
+    "gameId": "SLUS_206.43"
+  },
+  "background": {
+    "path": "PS2/SLUS_206.43/SLUS_206.43_BG.png",
+    "kind": "background",
+    "bytes": 180930,
+    "width": 640,
+    "height": 480,
+    "sha256": "08505e484abb978bacdfaf5ccb2457933cb2d39c9d74d0b95ba66ffeddad2a82",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.43/SLUS_206.43_BG_00.png"
+    },
+    "gameId": "SLUS_206.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_206.43/SLUS_206.43_BG.png",
+      "kind": "background",
+      "bytes": 180930,
+      "width": 640,
+      "height": 480,
+      "sha256": "08505e484abb978bacdfaf5ccb2457933cb2d39c9d74d0b95ba66ffeddad2a82",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.43/SLUS_206.43_BG_00.png"
+      },
+      "gameId": "SLUS_206.43"
+    },
+    {
+      "path": "PS2/SLUS_206.43/SLUS_206.43_BG_01.png",
+      "kind": "background",
+      "bytes": 156787,
+      "width": 640,
+      "height": 480,
+      "sha256": "b97ef7c235ff52e5411e60535299147827eb0a30a70a96f69ea82421a473624f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.43/SLUS_206.43_BG_01.png"
+      },
+      "gameId": "SLUS_206.43"
+    },
+    {
+      "path": "PS2/SLUS_206.43/SLUS_206.43_BG_02.png",
+      "kind": "background",
+      "bytes": 207762,
+      "width": 640,
+      "height": 480,
+      "sha256": "1725cb7fec1cdbbe77888fab35ecbf64b84a852672b646962625b10627c4bc4b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.43/SLUS_206.43_BG_02.png"
+      },
+      "gameId": "SLUS_206.43"
+    },
+    {
+      "path": "PS2/SLUS_206.43/SLUS_206.43_BG_03.png",
+      "kind": "background",
+      "bytes": 167328,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac7f6d6dba331bedbdf71db63c4e2cd3fb75257aa76c0d19a73aff58f94ce505",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.43/SLUS_206.43_BG_03.png"
+      },
+      "gameId": "SLUS_206.43"
+    },
+    {
+      "path": "PS2/SLUS_206.43/SLUS_206.43_BG_04.png",
+      "kind": "background",
+      "bytes": 152200,
+      "width": 640,
+      "height": 480,
+      "sha256": "8ba2c4ab10ed8091fabb0edcfc6072adba75f29b924765c7626439dccb8ad1b5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_206.43/SLUS_206.43_BG_04.png"
+      },
+      "gameId": "SLUS_206.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Soulcalibur II"
+}

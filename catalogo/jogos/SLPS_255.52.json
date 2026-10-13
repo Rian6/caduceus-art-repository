@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.52",
+  "cover": {
+    "path": "PS2/SLPS_255.52/SLPS_255.52_COV.png",
+    "kind": "cover",
+    "bytes": 91354,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a2bca74e6deb20759f45613d7ed1d35289566cce87997d626f9e375c3fedb59",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25552.jpg"
+    },
+    "gameId": "SLPS_255.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "INUYASHA - JUUSO NO KAMEN [BANDAI THE BEST]"
+}

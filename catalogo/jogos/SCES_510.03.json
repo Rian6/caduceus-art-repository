@@ -1,0 +1,25 @@
+{
+  "id": "SCES_510.03",
+  "cover": {
+    "path": "PS2/SCES_510.03/SCES_510.03_COV.png",
+    "kind": "cover",
+    "bytes": 5135,
+    "width": 192,
+    "height": 272,
+    "sha256": "a063d419b47c00920cd96c223ff43ffa20c09b99c236e491297aca2679ca11d6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_510.03/SCES_510.03_COV.png"
+    },
+    "gameId": "SCES_510.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Network Access Disc"
+}

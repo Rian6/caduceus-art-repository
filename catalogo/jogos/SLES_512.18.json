@@ -1,0 +1,25 @@
+{
+  "id": "SLES_512.18",
+  "cover": {
+    "path": "PS2/SLES_512.18/SLES_512.18_COV.png",
+    "kind": "cover",
+    "bytes": 88529,
+    "width": 192,
+    "height": 272,
+    "sha256": "ee9db2fa0fd7b2d3169cb3c8680f0c14f199d6e7dddd20464de836b9c62b1a5d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51218.jpg"
+    },
+    "gameId": "SLES_512.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harry Potter en de Geheime Kamer"
+}

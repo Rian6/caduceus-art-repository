@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.16",
+  "cover": {
+    "path": "PS2/SLPS_204.16/SLPS_204.16_COV.png",
+    "kind": "cover",
+    "bytes": 115182,
+    "width": 192,
+    "height": 272,
+    "sha256": "4cf953839c54254979d6730f0bee44dedae09028986682dd7752d1978e661ae7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20416.jpg"
+    },
+    "gameId": "SLPS_204.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONMYOU TAISENKI - BYAKKO ENBU [WITH EYETOY]"
+}

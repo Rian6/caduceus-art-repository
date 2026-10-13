@@ -1,0 +1,25 @@
+{
+  "id": "SLES_522.30",
+  "cover": {
+    "path": "PS2/SLES_522.30/SLES_522.30_COV.png",
+    "kind": "cover",
+    "bytes": 94858,
+    "width": 192,
+    "height": 272,
+    "sha256": "a09539d6f6acd5fbcc6795f6a75e7b7314f481f99dc8a84583f1f61e464435de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52230.jpg"
+    },
+    "gameId": "SLES_522.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MUPPETS PARTY CRUISE"
+}

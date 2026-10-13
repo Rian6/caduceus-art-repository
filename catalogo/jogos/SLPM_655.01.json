@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.01",
+  "cover": {
+    "path": "PS2/SLPM_655.01/SLPM_655.01_COV.png",
+    "kind": "cover",
+    "bytes": 98280,
+    "width": 192,
+    "height": 272,
+    "sha256": "27870bbd820eedc049218a317851b5ec4ab7f63aba1674bf4096520c06b8e810",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65501.jpg"
+    },
+    "gameId": "SLPM_655.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Frogger Rescue"
+}

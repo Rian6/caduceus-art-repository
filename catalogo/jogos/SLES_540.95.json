@@ -1,0 +1,51 @@
+{
+  "id": "SLES_540.95",
+  "cover": {
+    "path": "PS2/SLES_540.95/SLES_540.95_COV.png",
+    "kind": "cover",
+    "bytes": 99638,
+    "width": 192,
+    "height": 272,
+    "sha256": "a2aa4a1fa04b01e12d47850d852e43046a2d826317a3a7e69f3ba7c95957370d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54095.jpg"
+    },
+    "gameId": "SLES_540.95"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_540.95/SLES_540.95_BG.png",
+    "kind": "background",
+    "bytes": 198357,
+    "width": 640,
+    "height": 480,
+    "sha256": "20e77517edd73bbdc7ed726c1ca32b5c6037983fe7b4f5a132593e0e677bf9eb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_540.95/SLES_540.95_BG_00.png"
+    },
+    "gameId": "SLES_540.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_540.95/SLES_540.95_BG.png",
+      "kind": "background",
+      "bytes": 198357,
+      "width": 640,
+      "height": 480,
+      "sha256": "20e77517edd73bbdc7ed726c1ca32b5c6037983fe7b4f5a132593e0e677bf9eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.95/SLES_540.95_BG_00.png"
+      },
+      "gameId": "SLES_540.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 5 - Empires"
+}

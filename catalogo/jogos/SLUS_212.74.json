@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_212.74",
+  "cover": {
+    "path": "PS2/SLUS_212.74/SLUS_212.74_COV.png",
+    "kind": "cover",
+    "bytes": 85172,
+    "width": 192,
+    "height": 272,
+    "sha256": "fd805eea9f11d89b5d1010e5456b2a18d11122d1c5b65ab1ad9499cb8687b3e9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21274.jpg"
+    },
+    "gameId": "SLUS_212.74"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.74/SLUS_212.74_ICO.png",
+    "kind": "disc",
+    "bytes": 32310,
+    "width": 256,
+    "height": 256,
+    "sha256": "8fcac771fccca1378badff9ad22553893939a03e9f7fa4dd72e4a054442d3c7c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.74_ICO.png"
+    },
+    "gameId": "SLUS_212.74"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.74/SLUS_212.74_BG.png",
+    "kind": "background",
+    "bytes": 176950,
+    "width": 640,
+    "height": 480,
+    "sha256": "5287144c2e38c6555dfcd45f5665a787ec89f0cce720c560101d9755797e7b9b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.74/SLUS_212.74_BG_00.png"
+    },
+    "gameId": "SLUS_212.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.74/SLUS_212.74_BG.png",
+      "kind": "background",
+      "bytes": 176950,
+      "width": 640,
+      "height": 480,
+      "sha256": "5287144c2e38c6555dfcd45f5665a787ec89f0cce720c560101d9755797e7b9b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.74/SLUS_212.74_BG_00.png"
+      },
+      "gameId": "SLUS_212.74"
+    },
+    {
+      "path": "PS2/SLUS_212.74/SLUS_212.74_BG_01.png",
+      "kind": "background",
+      "bytes": 120966,
+      "width": 640,
+      "height": 480,
+      "sha256": "5e0657642a7f245a3955ce96b629f860b62102fe9966065d8af95ca2b18db822",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.74/SLUS_212.74_BG_01.png"
+      },
+      "gameId": "SLUS_212.74"
+    },
+    {
+      "path": "PS2/SLUS_212.74/SLUS_212.74_BG_02.png",
+      "kind": "background",
+      "bytes": 143313,
+      "width": 640,
+      "height": 480,
+      "sha256": "2eaa04de69b13a0f4a64870d58131e4f3c747f717994f82f143e53262bd30e32",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.74/SLUS_212.74_BG_02.png"
+      },
+      "gameId": "SLUS_212.74"
+    },
+    {
+      "path": "PS2/SLUS_212.74/SLUS_212.74_BG_03.png",
+      "kind": "background",
+      "bytes": 116102,
+      "width": 640,
+      "height": 480,
+      "sha256": "c357d4975eb5eb20a45a9c4d47e6ebfe51ce3048f3724a7da31bff8cadf34004",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.74/SLUS_212.74_BG_03.png"
+      },
+      "gameId": "SLUS_212.74"
+    },
+    {
+      "path": "PS2/SLUS_212.74/SLUS_212.74_BG_04.png",
+      "kind": "background",
+      "bytes": 180946,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e41395a61baef87d515f64725df419881d0bd82e194880d8a6e07fbaa6ebd29",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.74/SLUS_212.74_BG_04.png"
+      },
+      "gameId": "SLUS_212.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OUTRUN 2006 - COAST 2 COAST"
+}

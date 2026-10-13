@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_660.60",
+  "cover": {
+    "path": "PS2/SLPS_660.60/SLPS_660.60_COV.png",
+    "kind": "cover",
+    "bytes": 55511,
+    "width": 192,
+    "height": 272,
+    "sha256": "a3eb5be13fad65878d4da057007bd5ca9941c498641c3311508eb6a7fabc0de0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_660.60/SLPS_660.60_COV.png"
+    },
+    "gameId": "SLPS_660.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Boukoku no Aegis 2035 - Warship Gunner"
+}

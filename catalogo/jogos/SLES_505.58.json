@@ -1,0 +1,25 @@
+{
+  "id": "SLES_505.58",
+  "cover": {
+    "path": "PS2/SLES_505.58/SLES_505.58_COV.png",
+    "kind": "cover",
+    "bytes": 77444,
+    "width": 192,
+    "height": 272,
+    "sha256": "9ecf0f048b6a80dbd9607c85af5074f0934fff70c4c803e903ef36987f3663b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50558.jpg"
+    },
+    "gameId": "SLES_505.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DSF Fussball Manager 2002 (German)"
+}

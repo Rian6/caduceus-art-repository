@@ -1,0 +1,51 @@
+{
+  "id": "SLES_514.71",
+  "cover": {
+    "path": "PS2/SLES_514.71/SLES_514.71_COV.png",
+    "kind": "cover",
+    "bytes": 99349,
+    "width": 192,
+    "height": 272,
+    "sha256": "5fedde21bf65f664cf1d9260d3b21c913b50e0a1fd1fed7f60916bdafb98731d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51471.jpg"
+    },
+    "gameId": "SLES_514.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_514.71/SLES_514.71_BG.png",
+    "kind": "background",
+    "bytes": 228646,
+    "width": 640,
+    "height": 480,
+    "sha256": "2a06d8d43ff8976ad9249f732386fb43fa0bbbd58de3854e2528934eec72741d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_514.71/SLES_514.71_BG_00.png"
+    },
+    "gameId": "SLES_514.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_514.71/SLES_514.71_BG.png",
+      "kind": "background",
+      "bytes": 228646,
+      "width": 640,
+      "height": 480,
+      "sha256": "2a06d8d43ff8976ad9249f732386fb43fa0bbbd58de3854e2528934eec72741d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.71/SLES_514.71_BG_00.png"
+      },
+      "gameId": "SLES_514.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FREEDOM FIGHTERS"
+}

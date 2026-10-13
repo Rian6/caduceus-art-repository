@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.52",
+  "cover": {
+    "path": "PS2/SLPM_650.52/SLPM_650.52_COV.png",
+    "kind": "cover",
+    "bytes": 89526,
+    "width": 192,
+    "height": 272,
+    "sha256": "b6b634a32901b3128e5c04bb99be9dca6b52ac0d14581f20467f0d20a32b3f2a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65052.jpg"
+    },
+    "gameId": "SLPM_650.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guitar Freaks 4th Mix & Drummania 3rd Mix"
+}

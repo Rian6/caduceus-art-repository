@@ -1,0 +1,77 @@
+{
+  "id": "SLES_511.44",
+  "cover": {
+    "path": "PS2/SLES_511.44/SLES_511.44_COV.png",
+    "kind": "cover",
+    "bytes": 100698,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc1b7f13d3e7b31dfcbdb7639e2b3afbea613fffeffcf70e0f13ccd2c2e411e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51144.jpg"
+    },
+    "gameId": "SLES_511.44"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_511.44/SLES_511.44_BG.png",
+    "kind": "background",
+    "bytes": 163027,
+    "width": 640,
+    "height": 480,
+    "sha256": "c6a233047933f31669a1dd2a061687ad079a22fb06ed3577bf261ba196e2d2e3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_511.44/SLES_511.44_BG_00.png"
+    },
+    "gameId": "SLES_511.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_511.44/SLES_511.44_BG.png",
+      "kind": "background",
+      "bytes": 163027,
+      "width": 640,
+      "height": 480,
+      "sha256": "c6a233047933f31669a1dd2a061687ad079a22fb06ed3577bf261ba196e2d2e3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.44/SLES_511.44_BG_00.png"
+      },
+      "gameId": "SLES_511.44"
+    },
+    {
+      "path": "PS2/SLES_511.44/SLES_511.44_BG_01.png",
+      "kind": "background",
+      "bytes": 87174,
+      "width": 640,
+      "height": 480,
+      "sha256": "e73d63456725f8a2454b1b89ddb624acf5ea63712ca5e1202daa2b304d97f90b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.44/SLES_511.44_BG_01.png"
+      },
+      "gameId": "SLES_511.44"
+    },
+    {
+      "path": "PS2/SLES_511.44/SLES_511.44_BG_02.png",
+      "kind": "background",
+      "bytes": 191294,
+      "width": 640,
+      "height": 480,
+      "sha256": "64d1f0833f069d5cc7724b4c29aa5978e0111044fe98a2d44e3a520a414be122",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.44/SLES_511.44_BG_02.png"
+      },
+      "gameId": "SLES_511.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shox - Rally Reinvented"
+}

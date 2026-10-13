@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.38",
+  "cover": {
+    "path": "PS2/SLPS_254.38/SLPS_254.38_COV.png",
+    "kind": "cover",
+    "bytes": 30131,
+    "width": 192,
+    "height": 272,
+    "sha256": "37084fd8edceb733cc65746577f5bdb638d4557c2a82ab6e3228083595d5b822",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25438.jpg"
+    },
+    "gameId": "SLPS_254.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "D-A - White (Limited Edition)"
+}

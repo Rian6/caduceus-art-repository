@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_218.67",
+  "cover": {
+    "path": "PS2/SLUS_218.67/SLUS_218.67_COV.png",
+    "kind": "cover",
+    "bytes": 86480,
+    "width": 192,
+    "height": 272,
+    "sha256": "7cc778e53a21d499b0bb37ec7edb021b4ab1696a58b7c2b87b5972559cf7de31",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21867.jpg"
+    },
+    "gameId": "SLUS_218.67"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.67/SLUS_218.67_ICO.png",
+    "kind": "disc",
+    "bytes": 28130,
+    "width": 256,
+    "height": 256,
+    "sha256": "ca727c2edec81de1bd7c4053839dfe0d058bbfd3254cfe2bc4db3f1e929278c8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.67_ICO.png"
+    },
+    "gameId": "SLUS_218.67"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.67/SLUS_218.67_BG.png",
+    "kind": "background",
+    "bytes": 195865,
+    "width": 640,
+    "height": 480,
+    "sha256": "907eecce40980c06467273763e118b58bb82688ef9648ed500922b095fcb47f4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.67/SLUS_218.67_BG_00.png"
+    },
+    "gameId": "SLUS_218.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.67/SLUS_218.67_BG.png",
+      "kind": "background",
+      "bytes": 195865,
+      "width": 640,
+      "height": 480,
+      "sha256": "907eecce40980c06467273763e118b58bb82688ef9648ed500922b095fcb47f4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.67/SLUS_218.67_BG_00.png"
+      },
+      "gameId": "SLUS_218.67"
+    },
+    {
+      "path": "PS2/SLUS_218.67/SLUS_218.67_BG_01.png",
+      "kind": "background",
+      "bytes": 208727,
+      "width": 640,
+      "height": 480,
+      "sha256": "0c824f085e4209065f21268c4026c6d43897f1469c5f734f2965823bef0f276f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.67/SLUS_218.67_BG_01.png"
+      },
+      "gameId": "SLUS_218.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guitar Hero - Van Halen"
+}

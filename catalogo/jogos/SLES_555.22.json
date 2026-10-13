@@ -1,0 +1,25 @@
+{
+  "id": "SLES_555.22",
+  "cover": {
+    "path": "PS2/SLES_555.22/SLES_555.22_COV.png",
+    "kind": "cover",
+    "bytes": 96691,
+    "width": 192,
+    "height": 272,
+    "sha256": "c122a951ebddc5b30771d5d25d24090127ae07a26c0e331209e2102c763bfd84",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55522.jpg"
+    },
+    "gameId": "SLES_555.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar's Up"
+}

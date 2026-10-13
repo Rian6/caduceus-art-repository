@@ -1,0 +1,64 @@
+{
+  "id": "SCES_523.28",
+  "cover": {
+    "path": "PS2/SCES_523.28/SCES_523.28_COV.png",
+    "kind": "cover",
+    "bytes": 65068,
+    "width": 192,
+    "height": 272,
+    "sha256": "497570a50e3dcb84f388d4df915f288b4c2552ea9081a8abfae977f9bdc080c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52328.jpg"
+    },
+    "gameId": "SCES_523.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_523.28/SCES_523.28_BG.png",
+    "kind": "background",
+    "bytes": 131173,
+    "width": 640,
+    "height": 480,
+    "sha256": "fbf327ea2f463df6eab10363b1bf6635e3bfd5088266a18af4e3438c250f09a5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_523.28/SCES_523.28_BG_00.png"
+    },
+    "gameId": "SCES_523.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_523.28/SCES_523.28_BG.png",
+      "kind": "background",
+      "bytes": 131173,
+      "width": 640,
+      "height": 480,
+      "sha256": "fbf327ea2f463df6eab10363b1bf6635e3bfd5088266a18af4e3438c250f09a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_523.28/SCES_523.28_BG_00.png"
+      },
+      "gameId": "SCES_523.28"
+    },
+    {
+      "path": "PS2/SCES_523.28/SCES_523.28_BG_01.png",
+      "kind": "background",
+      "bytes": 193393,
+      "width": 640,
+      "height": 480,
+      "sha256": "04f3668383196745e47dc18981c051d84213c521843dcf061b8175d589406cef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_523.28/SCES_523.28_BG_01.png"
+      },
+      "gameId": "SCES_523.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FORBIDDEN SIREN"
+}

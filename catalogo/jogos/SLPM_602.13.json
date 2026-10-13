@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_602.13",
+  "cover": {
+    "path": "PS2/SLPM_602.13/SLPM_602.13_COV.png",
+    "kind": "cover",
+    "bytes": 92334,
+    "width": 192,
+    "height": 272,
+    "sha256": "faec09028cba5e49a0013ccb98712eb08ad88e396b068cf1bfb25a63bd310e8d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-60213.jpg"
+    },
+    "gameId": "SLPM_602.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Katamari Damacy"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.49",
+  "cover": {
+    "path": "PS2/SLPM_627.49/SLPM_627.49_COV.png",
+    "kind": "cover",
+    "bytes": 89619,
+    "width": 192,
+    "height": 272,
+    "sha256": "6566dc0b1b67f606dfef60ab6ed75c51fbd92de6888e710fee8c152c8c5f5564",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62749.jpg"
+    },
+    "gameId": "SLPM_627.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jissen Pachi-Slot Hisshouhou! Mister Magic Neo"
+}

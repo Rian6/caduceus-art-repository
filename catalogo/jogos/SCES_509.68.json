@@ -1,0 +1,64 @@
+{
+  "id": "SCES_509.68",
+  "cover": {
+    "path": "PS2/SCES_509.68/SCES_509.68_COV.png",
+    "kind": "cover",
+    "bytes": 83878,
+    "width": 192,
+    "height": 272,
+    "sha256": "94888ffd44a6d38af40c69f4d34a63b9a3fa57ad8b5ce3d7d23c4a98776fe8dc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50968.jpg"
+    },
+    "gameId": "SCES_509.68"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_509.68/SCES_509.68_BG.png",
+    "kind": "background",
+    "bytes": 172982,
+    "width": 640,
+    "height": 480,
+    "sha256": "bc882d809b31c7d310a0b5b50581a3040b3857c30aa2979cd7c4042871f250ab",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_509.68/SCES_509.68_BG_00.png"
+    },
+    "gameId": "SCES_509.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_509.68/SCES_509.68_BG.png",
+      "kind": "background",
+      "bytes": 172982,
+      "width": 640,
+      "height": 480,
+      "sha256": "bc882d809b31c7d310a0b5b50581a3040b3857c30aa2979cd7c4042871f250ab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.68/SCES_509.68_BG_00.png"
+      },
+      "gameId": "SCES_509.68"
+    },
+    {
+      "path": "PS2/SCES_509.68/SCES_509.68_BG_01.png",
+      "kind": "background",
+      "bytes": 110874,
+      "width": 640,
+      "height": 480,
+      "sha256": "433227457bdf1efa4e05add76c18f30ab02de7ebd97203dc080722ee061f899a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.68/SCES_509.68_BG_01.png"
+      },
+      "gameId": "SCES_509.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kingdom Hearts"
+}

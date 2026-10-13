@@ -1,0 +1,51 @@
+{
+  "id": "SLES_509.48",
+  "cover": {
+    "path": "PS2/SLES_509.48/SLES_509.48_COV.png",
+    "kind": "cover",
+    "bytes": 100754,
+    "width": 192,
+    "height": 272,
+    "sha256": "3f1ebf490dded4f4afed6ec4df294c74bededbf78ee302f8b37c3b59acffa2c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50948.jpg"
+    },
+    "gameId": "SLES_509.48"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_509.48/SLES_509.48_BG.png",
+    "kind": "background",
+    "bytes": 168223,
+    "width": 640,
+    "height": 480,
+    "sha256": "be3863f348cfdfd37f6c90904069c3741c710cf32979390a0fc7f4e572c625ec",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_509.48/SLES_509.48_BG_00.png"
+    },
+    "gameId": "SLES_509.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_509.48/SLES_509.48_BG.png",
+      "kind": "background",
+      "bytes": 168223,
+      "width": 640,
+      "height": 480,
+      "sha256": "be3863f348cfdfd37f6c90904069c3741c710cf32979390a0fc7f4e572c625ec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.48/SLES_509.48_BG_00.png"
+      },
+      "gameId": "SLES_509.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Britney's Dance Beat"
+}

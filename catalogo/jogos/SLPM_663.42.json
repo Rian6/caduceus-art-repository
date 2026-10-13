@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.42",
+  "cover": {
+    "path": "PS2/SLPM_663.42/SLPM_663.42_COV.png",
+    "kind": "cover",
+    "bytes": 88517,
+    "width": 192,
+    "height": 272,
+    "sha256": "351e19423aacd24d16f481e44912756ea06f331dd68399bcb7fa4afd509a84e4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66342.jpg"
+    },
+    "gameId": "SLPM_663.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winning Post 7 - Maximum 2006"
+}

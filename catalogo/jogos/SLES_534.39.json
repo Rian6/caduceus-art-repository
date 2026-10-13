@@ -1,0 +1,103 @@
+{
+  "id": "SLES_534.39",
+  "cover": {
+    "path": "PS2/SLES_534.39/SLES_534.39_COV.png",
+    "kind": "cover",
+    "bytes": 103466,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f61d5e00b26da786b49242e4d398f62aea8159f0e3e6ccc448310b3b0175095",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53439.jpg"
+    },
+    "gameId": "SLES_534.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_534.39/SLES_534.39_BG.png",
+    "kind": "background",
+    "bytes": 177404,
+    "width": 640,
+    "height": 480,
+    "sha256": "7767fe87fbcc8afecd0bb3ce1620dfb930a7e9e94240752057fed74561ff6b80",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.39/SLES_534.39_BG_00.png"
+    },
+    "gameId": "SLES_534.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.39/SLES_534.39_BG.png",
+      "kind": "background",
+      "bytes": 177404,
+      "width": 640,
+      "height": 480,
+      "sha256": "7767fe87fbcc8afecd0bb3ce1620dfb930a7e9e94240752057fed74561ff6b80",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.39/SLES_534.39_BG_00.png"
+      },
+      "gameId": "SLES_534.39"
+    },
+    {
+      "path": "PS2/SLES_534.39/SLES_534.39_BG_01.png",
+      "kind": "background",
+      "bytes": 206122,
+      "width": 640,
+      "height": 480,
+      "sha256": "97d4bb6374591a6413982d219af73e17307f64cfbce13362eb4715d1c3478d69",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.39/SLES_534.39_BG_01.png"
+      },
+      "gameId": "SLES_534.39"
+    },
+    {
+      "path": "PS2/SLES_534.39/SLES_534.39_BG_02.png",
+      "kind": "background",
+      "bytes": 111671,
+      "width": 640,
+      "height": 480,
+      "sha256": "16080b751d5f2b216c092ad00bc061f9f9aa3ac5c3770dd0d1036045e1087ed8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.39/SLES_534.39_BG_02.png"
+      },
+      "gameId": "SLES_534.39"
+    },
+    {
+      "path": "PS2/SLES_534.39/SLES_534.39_BG_03.png",
+      "kind": "background",
+      "bytes": 163605,
+      "width": 640,
+      "height": 480,
+      "sha256": "acdd7edae0b0dd49cd04e08fc077aad874fac9372f996d78218281cdae3516a9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.39/SLES_534.39_BG_03.png"
+      },
+      "gameId": "SLES_534.39"
+    },
+    {
+      "path": "PS2/SLES_534.39/SLES_534.39_BG_04.png",
+      "kind": "background",
+      "bytes": 184425,
+      "width": 640,
+      "height": 480,
+      "sha256": "ab03338a24bdcd8e4566917ff9711c21eb3686c81c40d8b7be2de3dc96c52c47",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.39/SLES_534.39_BG_04.png"
+      },
+      "gameId": "SLES_534.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Crash Tag Team Racing"
+}

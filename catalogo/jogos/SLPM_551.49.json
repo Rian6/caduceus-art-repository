@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.49",
+  "cover": {
+    "path": "PS2/SLPM_551.49/SLPM_551.49_COV.png",
+    "kind": "cover",
+    "bytes": 110493,
+    "width": 192,
+    "height": 272,
+    "sha256": "500306b195b66ffe42fd1a8c778ae530c61045479e86fba26ec8a9c1082e2f72",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55149.jpg"
+    },
+    "gameId": "SLPM_551.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LOVE ROOT ZERO - KISS KISS LABYRINTH"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SLES_520.96",
+  "cover": {
+    "path": "PS2/SLES_520.96/SLES_520.96_COV.png",
+    "kind": "cover",
+    "bytes": 105421,
+    "width": 192,
+    "height": 272,
+    "sha256": "5fbb9c87b475fa00b033d322d9a6d5b1f592eec525ed93ebf72cb7030adcf0a0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52096.jpg"
+    },
+    "gameId": "SLES_520.96"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_520.96/SLES_520.96_BG.png",
+    "kind": "background",
+    "bytes": 133300,
+    "width": 640,
+    "height": 480,
+    "sha256": "5680937730d05e8d8157833e13c5647f696987bcecb47690d85d44832eb051c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_520.96/SLES_520.96_BG_00.png"
+    },
+    "gameId": "SLES_520.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_520.96/SLES_520.96_BG.png",
+      "kind": "background",
+      "bytes": 133300,
+      "width": 640,
+      "height": 480,
+      "sha256": "5680937730d05e8d8157833e13c5647f696987bcecb47690d85d44832eb051c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.96/SLES_520.96_BG_00.png"
+      },
+      "gameId": "SLES_520.96"
+    },
+    {
+      "path": "PS2/SLES_520.96/SLES_520.96_BG_01.png",
+      "kind": "background",
+      "bytes": 211393,
+      "width": 640,
+      "height": 480,
+      "sha256": "dbe03848c56e1fe97c4fb0afd45953697a209945fd427b415db2f6e846ccf486",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.96/SLES_520.96_BG_01.png"
+      },
+      "gameId": "SLES_520.96"
+    },
+    {
+      "path": "PS2/SLES_520.96/SLES_520.96_BG_02.png",
+      "kind": "background",
+      "bytes": 181377,
+      "width": 640,
+      "height": 480,
+      "sha256": "338029c3da00aae0dd943bc45534b1328ab6f9ca73b63c91633d38679b065809",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.96/SLES_520.96_BG_02.png"
+      },
+      "gameId": "SLES_520.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIREFIGHTER F.D. 18"
+}

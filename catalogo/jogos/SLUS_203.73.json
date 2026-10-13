@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_203.73",
+  "cover": {
+    "path": "PS2/SLUS_203.73/SLUS_203.73_COV.png",
+    "kind": "cover",
+    "bytes": 55688,
+    "width": 192,
+    "height": 272,
+    "sha256": "22d45962e0a7acdff8ddd04c08d625f5ed047b17692b4ee2b8498e8b63750d78",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20373.jpg"
+    },
+    "gameId": "SLUS_203.73"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.73/SLUS_203.73_ICO.png",
+    "kind": "disc",
+    "bytes": 23611,
+    "width": 256,
+    "height": 256,
+    "sha256": "672bc3692119be0b282af54c0a4e3ae83b8773b2b53322e094b3afd505f87406",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.73_ICO.png"
+    },
+    "gameId": "SLUS_203.73"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.73/SLUS_203.73_BG.png",
+    "kind": "background",
+    "bytes": 206548,
+    "width": 640,
+    "height": 480,
+    "sha256": "b935f9ff35271f22ba37f1e0c7d43b5be6b8b76421058d30b514451fb7f018d7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.73/SLUS_203.73_BG_00.png"
+    },
+    "gameId": "SLUS_203.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.73/SLUS_203.73_BG.png",
+      "kind": "background",
+      "bytes": 206548,
+      "width": 640,
+      "height": 480,
+      "sha256": "b935f9ff35271f22ba37f1e0c7d43b5be6b8b76421058d30b514451fb7f018d7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.73/SLUS_203.73_BG_00.png"
+      },
+      "gameId": "SLUS_203.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEN IN BLACK II - ALIEN ESCAPE"
+}

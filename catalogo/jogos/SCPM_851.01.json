@@ -1,0 +1,25 @@
+{
+  "id": "SCPM_851.01",
+  "cover": {
+    "path": "PS2/SCPM_851.01/SCPM_851.01_COV.png",
+    "kind": "cover",
+    "bytes": 84894,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1b240a17009e4ab90fd48da2a6efcd33691415bdf19025c68cc4f31167c8996",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPM-85101.jpg"
+    },
+    "gameId": "SCPM_851.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "McDonald's Original Happy Disc"
+}

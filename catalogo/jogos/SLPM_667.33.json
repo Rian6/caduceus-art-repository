@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.33",
+  "cover": {
+    "path": "PS2/SLPM_667.33/SLPM_667.33_COV.png",
+    "kind": "cover",
+    "bytes": 102939,
+    "width": 192,
+    "height": 272,
+    "sha256": "d69a0b71533845fe85028b57898b3d32e12be2b47a5c3bed53d2845b570db760",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66733.jpg"
+    },
+    "gameId": "SLPM_667.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "IINAZUKE"
+}

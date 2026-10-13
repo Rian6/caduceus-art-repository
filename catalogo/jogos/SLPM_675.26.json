@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_675.26",
+  "cover": {
+    "path": "PS2/SLPM_675.26/SLPM_675.26_COV.png",
+    "kind": "cover",
+    "bytes": 47091,
+    "width": 192,
+    "height": 272,
+    "sha256": "a177dd69a35716fbcc346cde798236ec479a89035a2f6992cb9b80cee985137b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_675.26/SLPM_675.26_COV.png"
+    },
+    "gameId": "SLPM_675.26"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_675.26/SLPM_675.26_BG.png",
+    "kind": "background",
+    "bytes": 81929,
+    "width": 640,
+    "height": 480,
+    "sha256": "e988d6be0c0e70e538021336303a21c0c6c861128553dfc2b1d480b429131a37",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_675.26/SLPM_675.26_BG_00.png"
+    },
+    "gameId": "SLPM_675.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_675.26/SLPM_675.26_BG.png",
+      "kind": "background",
+      "bytes": 81929,
+      "width": 640,
+      "height": 480,
+      "sha256": "e988d6be0c0e70e538021336303a21c0c6c861128553dfc2b1d480b429131a37",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_675.26/SLPM_675.26_BG_00.png"
+      },
+      "gameId": "SLPM_675.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ghost Vibration"
+}

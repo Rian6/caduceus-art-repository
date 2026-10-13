@@ -1,0 +1,25 @@
+{
+  "id": "SCES_516.77",
+  "cover": {
+    "path": "PS2/SCES_516.77/SCES_516.77_COV.png",
+    "kind": "cover",
+    "bytes": 95254,
+    "width": 192,
+    "height": 272,
+    "sha256": "5e5372ef9788e206112cff5cc2442019ff9e53abc397d7891220eccaf6d5d9c9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51677.jpg"
+    },
+    "gameId": "SCES_516.77"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "My Street"
+}

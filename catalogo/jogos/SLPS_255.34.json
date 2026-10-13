@@ -1,0 +1,91 @@
+{
+  "id": "SLPS_255.34",
+  "cover": {
+    "path": "PS2/SLPS_255.34/SLPS_255.34_COV.png",
+    "kind": "cover",
+    "bytes": 114997,
+    "width": 192,
+    "height": 272,
+    "sha256": "fc38035aea108d1dec8802a7017efe16d8d3853e56f51720157d8dfe2145deaa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25534.jpg"
+    },
+    "gameId": "SLPS_255.34"
+  },
+  "disc": {
+    "path": "PS2/SLPS_255.34/SLPS_255.34_ICO.png",
+    "kind": "disc",
+    "bytes": 9366,
+    "width": 128,
+    "height": 128,
+    "sha256": "d7f39764e239c56b4dc68e4fc58893ca27b9f1f7b01b5870e295e89a2781d11e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_255.34_ICO.png"
+    },
+    "gameId": "SLPS_255.34"
+  },
+  "background": {
+    "path": "PS2/SLPS_255.34/SLPS_255.34_BG.png",
+    "kind": "background",
+    "bytes": 160221,
+    "width": 640,
+    "height": 480,
+    "sha256": "7b9acd081bcf0382ab2725daf0a6c4d7aec274efd17237e676142b9d66758475",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.34/SLPS_255.34_BG_00.png"
+    },
+    "gameId": "SLPS_255.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.34/SLPS_255.34_BG.png",
+      "kind": "background",
+      "bytes": 160221,
+      "width": 640,
+      "height": 480,
+      "sha256": "7b9acd081bcf0382ab2725daf0a6c4d7aec274efd17237e676142b9d66758475",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.34/SLPS_255.34_BG_00.png"
+      },
+      "gameId": "SLPS_255.34"
+    },
+    {
+      "path": "PS2/SLPS_255.34/SLPS_255.34_BG_01.png",
+      "kind": "background",
+      "bytes": 156380,
+      "width": 640,
+      "height": 480,
+      "sha256": "f5f6f6359306e2aa8657fb994cbe37b51bc921ad8d36e3bbb52958f45a97927c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.34/SLPS_255.34_BG_01.png"
+      },
+      "gameId": "SLPS_255.34"
+    },
+    {
+      "path": "PS2/SLPS_255.34/SLPS_255.34_BG_02.png",
+      "kind": "background",
+      "bytes": 123919,
+      "width": 640,
+      "height": 480,
+      "sha256": "0f0ca2fe7da65db2b5e59c7c2ec99c59ae4a0463b835b1962dfbc7f247b5ec83",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.34/SLPS_255.34_BG_02.png"
+      },
+      "gameId": "SLPS_255.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Twinklestar Sprites: La Petite Princesse"
+}

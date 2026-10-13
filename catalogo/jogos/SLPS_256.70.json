@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.70",
+  "cover": {
+    "path": "PS2/SLPS_256.70/SLPS_256.70_COV.png",
+    "kind": "cover",
+    "bytes": 104307,
+    "width": 192,
+    "height": 272,
+    "sha256": "56e3327b51b2a987487c3f3326503c0f37a81bee308d3c9efbae02ad197a8f0f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25670.jpg"
+    },
+    "gameId": "SLPS_256.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCHOOL RUMBLE NI-GAKKI"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.41",
+  "cover": {
+    "path": "PS2/SLPS_732.41/SLPS_732.41_COV.png",
+    "kind": "cover",
+    "bytes": 90669,
+    "width": 192,
+    "height": 272,
+    "sha256": "0e42bdcb347d93bb4145808a8f9158a8232b10a5e1c7c5e66a471b302212975a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73241.jpg"
+    },
+    "gameId": "SLPS_732.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MINNA DAISUKI KATAMARI DAMACY [PLAYSTATION 2 THE BEST]"
+}

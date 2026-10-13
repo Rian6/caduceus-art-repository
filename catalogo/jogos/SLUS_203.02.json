@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_203.02",
+  "cover": {
+    "path": "PS2/SLUS_203.02/SLUS_203.02_COV.png",
+    "kind": "cover",
+    "bytes": 100286,
+    "width": 192,
+    "height": 272,
+    "sha256": "eae22874ca7a909a26e8e0694f224a10a1a46fa437760bc6226d8cac2a2cec04",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20302.jpg"
+    },
+    "gameId": "SLUS_203.02"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.02/SLUS_203.02_ICO.png",
+    "kind": "disc",
+    "bytes": 32398,
+    "width": 256,
+    "height": 256,
+    "sha256": "0f821ea4b5d58625d856ef8c6cacd001b83d173e24c40fe754ac61a6887e1616",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.02_ICO.png"
+    },
+    "gameId": "SLUS_203.02"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.02/SLUS_203.02_BG.png",
+    "kind": "background",
+    "bytes": 179929,
+    "width": 640,
+    "height": 480,
+    "sha256": "92c68adbd367c1dac2c61025847097d9b341b5f0816a2d6cecdf65b5a56ff241",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.02/SLUS_203.02_BG_00.png"
+    },
+    "gameId": "SLUS_203.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.02/SLUS_203.02_BG.png",
+      "kind": "background",
+      "bytes": 179929,
+      "width": 640,
+      "height": 480,
+      "sha256": "92c68adbd367c1dac2c61025847097d9b341b5f0816a2d6cecdf65b5a56ff241",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.02/SLUS_203.02_BG_00.png"
+      },
+      "gameId": "SLUS_203.02"
+    },
+    {
+      "path": "PS2/SLUS_203.02/SLUS_203.02_BG_01.png",
+      "kind": "background",
+      "bytes": 150830,
+      "width": 640,
+      "height": 480,
+      "sha256": "0e9c9fe918ea3978d2edcc5c3e50abe15e35c71fc5946ab6a36bc0c441adeb89",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.02/SLUS_203.02_BG_01.png"
+      },
+      "gameId": "SLUS_203.02"
+    },
+    {
+      "path": "PS2/SLUS_203.02/SLUS_203.02_BG_02.png",
+      "kind": "background",
+      "bytes": 157107,
+      "width": 640,
+      "height": 480,
+      "sha256": "0e7cbcf826d581c38a24f635ac9c499e211a939d934203abab425b21f538ef2b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.02/SLUS_203.02_BG_02.png"
+      },
+      "gameId": "SLUS_203.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "XG3 - Extreme-G Racing"
+}

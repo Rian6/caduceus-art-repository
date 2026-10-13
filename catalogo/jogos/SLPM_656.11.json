@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.11",
+  "cover": {
+    "path": "PS2/SLPM_656.11/SLPM_656.11_COV.png",
+    "kind": "cover",
+    "bytes": 106627,
+    "width": 192,
+    "height": 272,
+    "sha256": "a9371f73789c9114338ffcff441f7b2a45a27f28dc194be5837226326c7fdd22",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65611.jpg"
+    },
+    "gameId": "SLPM_656.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PIZZICATO POLKA - SUISEI GENVA"
+}

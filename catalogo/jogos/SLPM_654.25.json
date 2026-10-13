@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.25",
+  "cover": {
+    "path": "PS2/SLPM_654.25/SLPM_654.25_COV.png",
+    "kind": "cover",
+    "bytes": 96265,
+    "width": 192,
+    "height": 272,
+    "sha256": "b03d783c99d99c67c9ba98c279898d4c04662eceded9d9e7d8cd45f3e246439c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65425.jpg"
+    },
+    "gameId": "SLPM_654.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MOEKAN - MOEKKOJIMA E YOUKOSO [MOEKKO COMPANY]"
+}

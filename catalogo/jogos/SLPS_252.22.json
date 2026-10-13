@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.22",
+  "cover": {
+    "path": "PS2/SLPS_252.22/SLPS_252.22_COV.png",
+    "kind": "cover",
+    "bytes": 119324,
+    "width": 192,
+    "height": 272,
+    "sha256": "ffbdd498b1bc02666d76385445e7c874864d5316f9240dd2b15a49005f9846b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25222.jpg"
+    },
+    "gameId": "SLPS_252.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pia Carrot e Youkoso!! 3 - Round Summer"
+}

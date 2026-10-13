@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.36",
+  "cover": {
+    "path": "PS2/SLPM_661.36/SLPM_661.36_COV.png",
+    "kind": "cover",
+    "bytes": 72362,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a41eca3fc45031c4e5a8c57ec73dcf80840d90319a16e714ebefb8bb40615b4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66136.jpg"
+    },
+    "gameId": "SLPM_661.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Akai Ito (SuperLite 2000 Adventure)"
+}

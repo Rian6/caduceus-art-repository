@@ -1,0 +1,39 @@
+{
+  "id": "SLES_526.16",
+  "cover": {
+    "path": "PS2/SLES_526.16/SLES_526.16_COV.png",
+    "kind": "cover",
+    "bytes": 101093,
+    "width": 192,
+    "height": 272,
+    "sha256": "b6499e018ef6acf2a84c59c6854d08b718b4e3831526f15fb4431970d6ebb6fc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52616.jpg"
+    },
+    "gameId": "SLES_526.16"
+  },
+  "disc": {
+    "path": "PS2/SLES_526.16/SLES_526.16_ICO.png",
+    "kind": "disc",
+    "bytes": 11180,
+    "width": 128,
+    "height": 128,
+    "sha256": "0aef9d665390d79bc7c61caa70e9d38cf5cbfb63a1bf0a69e30acd500cb91f8d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_526.16_ICO.png"
+    },
+    "gameId": "SLES_526.16"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Video Poker & Blackjack"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_544.50",
+  "cover": {
+    "path": "PS2/SLES_544.50/SLES_544.50_COV.png",
+    "kind": "cover",
+    "bytes": 102732,
+    "width": 192,
+    "height": 272,
+    "sha256": "4fd6d9fc85a1743f326cf6ad56045cef6893f7ad5d4239e02cb562eec7516b20",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54450.jpg"
+    },
+    "gameId": "SLES_544.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Chicken Little - Aventures Intergalactiques"
+}

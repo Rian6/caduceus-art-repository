@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.99",
+  "cover": {
+    "path": "PS2/SLPM_668.99/SLPM_668.99_COV.png",
+    "kind": "cover",
+    "bytes": 100539,
+    "width": 192,
+    "height": 272,
+    "sha256": "56656fcf7bedbffdea96c2a9ff0f9dbcb4f8e26c2320a10f6f0923dd5ae8fbbb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66899.jpg"
+    },
+    "gameId": "SLPM_668.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Spectral Gene"
+}

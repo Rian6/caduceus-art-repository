@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_510.01",
+  "cover": {
+    "path": "PS2/SCPS_510.01/SCPS_510.01_COV.png",
+    "kind": "cover",
+    "bytes": 93046,
+    "width": 192,
+    "height": 272,
+    "sha256": "a7cf2c44f549924f902df8bf7fa1ff383b31d6f1c8ee2a6a98c1b6af763bb98f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-51001.jpg"
+    },
+    "gameId": "SCPS_510.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MOTOGP 2"
+}

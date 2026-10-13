@@ -1,0 +1,168 @@
+{
+  "id": "SCES_542.06",
+  "cover": {
+    "path": "PS2/SCES_542.06/SCES_542.06_COV.png",
+    "kind": "cover",
+    "bytes": 98120,
+    "width": 192,
+    "height": 272,
+    "sha256": "1319b3e9aa69fec919bc491258d445b68cffd4f16823c3aca12fe7db767ea904",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54206.jpg"
+    },
+    "gameId": "SCES_542.06"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_542.06/SCES_542.06_BG.png",
+    "kind": "background",
+    "bytes": 202193,
+    "width": 640,
+    "height": 480,
+    "sha256": "5aa44a50691be3dea3b811dc5df02fef2d9f0e782f0e4b8d33da118c36e3026e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_542.06/SCES_542.06_BG_00.png"
+    },
+    "gameId": "SCES_542.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_542.06/SCES_542.06_BG.png",
+      "kind": "background",
+      "bytes": 202193,
+      "width": 640,
+      "height": 480,
+      "sha256": "5aa44a50691be3dea3b811dc5df02fef2d9f0e782f0e4b8d33da118c36e3026e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.06/SCES_542.06_BG_00.png"
+      },
+      "gameId": "SCES_542.06"
+    },
+    {
+      "path": "PS2/SCES_542.06/SCES_542.06_BG_01.png",
+      "kind": "background",
+      "bytes": 214997,
+      "width": 640,
+      "height": 480,
+      "sha256": "9504f655a7c40912029911cfc133fc636791216360a1891ff2a5d13eb3f2ab6b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.06/SCES_542.06_BG_01.png"
+      },
+      "gameId": "SCES_542.06"
+    },
+    {
+      "path": "PS2/SCES_542.06/SCES_542.06_BG_02.png",
+      "kind": "background",
+      "bytes": 198888,
+      "width": 640,
+      "height": 480,
+      "sha256": "13479e803237d7209b07f13ed93fa92d2a054a85fc9f83ef1374fff1ba2dac70",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.06/SCES_542.06_BG_02.png"
+      },
+      "gameId": "SCES_542.06"
+    },
+    {
+      "path": "PS2/SCES_542.06/SCES_542.06_BG_03.png",
+      "kind": "background",
+      "bytes": 221334,
+      "width": 640,
+      "height": 480,
+      "sha256": "c254372bac2060307cc934e937a19477366304e5405e4d756edd2df829820254",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.06/SCES_542.06_BG_03.png"
+      },
+      "gameId": "SCES_542.06"
+    },
+    {
+      "path": "PS2/SCES_542.06/SCES_542.06_BG_04.png",
+      "kind": "background",
+      "bytes": 215277,
+      "width": 640,
+      "height": 480,
+      "sha256": "285a3697e8068f6c4ffde1678e70536418c3327b02a4de92f51ae94c92fe26f3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.06/SCES_542.06_BG_04.png"
+      },
+      "gameId": "SCES_542.06"
+    },
+    {
+      "path": "PS2/SCES_542.06/SCES_542.06_BG_05.png",
+      "kind": "background",
+      "bytes": 235412,
+      "width": 640,
+      "height": 480,
+      "sha256": "bda9625611fe65facdb61773ed19ba5b2eabddf25f507fa7a31f1a33c73a54da",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.06/SCES_542.06_BG_05.png"
+      },
+      "gameId": "SCES_542.06"
+    },
+    {
+      "path": "PS2/SCES_542.06/SCES_542.06_BG_06.png",
+      "kind": "background",
+      "bytes": 216022,
+      "width": 640,
+      "height": 480,
+      "sha256": "a421223ffa801790face6d54c69b599267bbcb2b6e592ea726e032d1cd8724b9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.06/SCES_542.06_BG_06.png"
+      },
+      "gameId": "SCES_542.06"
+    },
+    {
+      "path": "PS2/SCES_542.06/SCES_542.06_BG_07.png",
+      "kind": "background",
+      "bytes": 208056,
+      "width": 640,
+      "height": 480,
+      "sha256": "c2693bc2b8e6ae61a5c8184db053637b85b2d0277815f4dd5aea7e57fa9d1dd6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.06/SCES_542.06_BG_07.png"
+      },
+      "gameId": "SCES_542.06"
+    },
+    {
+      "path": "PS2/SCES_542.06/SCES_542.06_BG_08.png",
+      "kind": "background",
+      "bytes": 206119,
+      "width": 640,
+      "height": 480,
+      "sha256": "35f4497d87bf5e8eac651111039d2f09f2c0a81533acd160633e7220260acaa8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.06/SCES_542.06_BG_08.png"
+      },
+      "gameId": "SCES_542.06"
+    },
+    {
+      "path": "PS2/SCES_542.06/SCES_542.06_BG_09.png",
+      "kind": "background",
+      "bytes": 227400,
+      "width": 640,
+      "height": 480,
+      "sha256": "bc3b3a0213f0900f669aa10d920e8a09d941df3582598fd8cbe0e4f0fd6c4957",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_542.06/SCES_542.06_BG_09.png"
+      },
+      "gameId": "SCES_542.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GOD OF WAR II"
+}

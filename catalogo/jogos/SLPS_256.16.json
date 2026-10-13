@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.16",
+  "cover": {
+    "path": "PS2/SLPS_256.16/SLPS_256.16_COV.png",
+    "kind": "cover",
+    "bytes": 81285,
+    "width": 192,
+    "height": 272,
+    "sha256": "2bae8446e1ce87c4f2f42a37640c3f862d619dd15cb4705119633d4e757052fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25616.jpg"
+    },
+    "gameId": "SLPS_256.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SKI JUMPING PAIRS RELOADED"
+}

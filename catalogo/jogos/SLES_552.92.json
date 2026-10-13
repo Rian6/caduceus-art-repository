@@ -1,0 +1,90 @@
+{
+  "id": "SLES_552.92",
+  "cover": {
+    "path": "PS2/SLES_552.92/SLES_552.92_COV.png",
+    "kind": "cover",
+    "bytes": 81035,
+    "width": 192,
+    "height": 272,
+    "sha256": "681e2c28815cbbf547a2f9aafb2316c07714705455b0599de18ef33b76d10b8e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55292.jpg"
+    },
+    "gameId": "SLES_552.92"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_552.92/SLES_552.92_BG.png",
+    "kind": "background",
+    "bytes": 184656,
+    "width": 640,
+    "height": 480,
+    "sha256": "264425ed6922b56693e1d9e99b279404605d38aea2cc6684ea1627cdc10234b4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_552.92/SLES_552.92_BG_00.png"
+    },
+    "gameId": "SLES_552.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_552.92/SLES_552.92_BG.png",
+      "kind": "background",
+      "bytes": 184656,
+      "width": 640,
+      "height": 480,
+      "sha256": "264425ed6922b56693e1d9e99b279404605d38aea2cc6684ea1627cdc10234b4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.92/SLES_552.92_BG_00.png"
+      },
+      "gameId": "SLES_552.92"
+    },
+    {
+      "path": "PS2/SLES_552.92/SLES_552.92_BG_01.png",
+      "kind": "background",
+      "bytes": 215290,
+      "width": 640,
+      "height": 480,
+      "sha256": "5582bb7b7b8e7b3ce62a16b7378a45caecba5a6abe49ccef5fcc6354d0362648",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.92/SLES_552.92_BG_01.png"
+      },
+      "gameId": "SLES_552.92"
+    },
+    {
+      "path": "PS2/SLES_552.92/SLES_552.92_BG_02.png",
+      "kind": "background",
+      "bytes": 105194,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb6d27a1040e41da53747de79a9ff9121cfa36faec65be5638e5b02fd3aa8179",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.92/SLES_552.92_BG_02.png"
+      },
+      "gameId": "SLES_552.92"
+    },
+    {
+      "path": "PS2/SLES_552.92/SLES_552.92_BG_03.png",
+      "kind": "background",
+      "bytes": 186289,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1d16ef5e167425258ba3d6b8500d7bcc609b2921a96dc1a0f53a41bd0c896aa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.92/SLES_552.92_BG_03.png"
+      },
+      "gameId": "SLES_552.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Samurai Shodown Anthology"
+}

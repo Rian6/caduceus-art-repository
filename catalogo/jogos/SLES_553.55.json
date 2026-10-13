@@ -1,0 +1,77 @@
+{
+  "id": "SLES_553.55",
+  "cover": {
+    "path": "PS2/SLES_553.55/SLES_553.55_COV.png",
+    "kind": "cover",
+    "bytes": 88288,
+    "width": 192,
+    "height": 272,
+    "sha256": "f46d0bd535013f96de62245198d6f7660f9665b1c9a47405538a2a44700aacc4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55355.jpg"
+    },
+    "gameId": "SLES_553.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_553.55/SLES_553.55_BG.png",
+    "kind": "background",
+    "bytes": 100873,
+    "width": 640,
+    "height": 480,
+    "sha256": "d6d96d90f1a7214877c5a48ae105ecbe9c4300a476bd2e4c0a959a4bffc85578",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.55/SLES_553.55_BG_00.png"
+    },
+    "gameId": "SLES_553.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_553.55/SLES_553.55_BG.png",
+      "kind": "background",
+      "bytes": 100873,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6d96d90f1a7214877c5a48ae105ecbe9c4300a476bd2e4c0a959a4bffc85578",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.55/SLES_553.55_BG_00.png"
+      },
+      "gameId": "SLES_553.55"
+    },
+    {
+      "path": "PS2/SLES_553.55/SLES_553.55_BG_01.png",
+      "kind": "background",
+      "bytes": 209900,
+      "width": 640,
+      "height": 480,
+      "sha256": "b8395bf325a53c01305f457ba6025259d38e595f6a249f962648a369deed8f54",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.55/SLES_553.55_BG_01.png"
+      },
+      "gameId": "SLES_553.55"
+    },
+    {
+      "path": "PS2/SLES_553.55/SLES_553.55_BG_02.png",
+      "kind": "background",
+      "bytes": 142951,
+      "width": 640,
+      "height": 480,
+      "sha256": "316b4622038f0e30b858cc8b4fbf301f3a68234d131078757503d974414a99b6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.55/SLES_553.55_BG_02.png"
+      },
+      "gameId": "SLES_553.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Guitar Hero - World Tour"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_536.40",
+  "cover": {
+    "path": "PS2/SLES_536.40/SLES_536.40_COV.png",
+    "kind": "cover",
+    "bytes": 83297,
+    "width": 192,
+    "height": 272,
+    "sha256": "49d1bbaa47514c550c5bdfa922c9c5552d59d90967f855ff5ed871f8778bb93b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53640.jpg"
+    },
+    "gameId": "SLES_536.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Das Große deutsche Fußball-Quiz"
+}

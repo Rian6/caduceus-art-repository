@@ -1,0 +1,142 @@
+{
+  "id": "SLES_511.31",
+  "cover": {
+    "path": "PS2/SLES_511.31/SLES_511.31_COV.png",
+    "kind": "cover",
+    "bytes": 92580,
+    "width": 192,
+    "height": 272,
+    "sha256": "623b02d3a68ee848e94d4408030cf8e698e0b8c66144dd4cb9cfecd945e7f6dd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51131.jpg"
+    },
+    "gameId": "SLES_511.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_511.31/SLES_511.31_BG.png",
+    "kind": "background",
+    "bytes": 210360,
+    "width": 640,
+    "height": 480,
+    "sha256": "00f3923abb79590469e35bc0ff3d326e2b4cfb91caba4742c35fa18016e88ef5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_511.31/SLES_511.31_BG_00.png"
+    },
+    "gameId": "SLES_511.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_511.31/SLES_511.31_BG.png",
+      "kind": "background",
+      "bytes": 210360,
+      "width": 640,
+      "height": 480,
+      "sha256": "00f3923abb79590469e35bc0ff3d326e2b4cfb91caba4742c35fa18016e88ef5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.31/SLES_511.31_BG_00.png"
+      },
+      "gameId": "SLES_511.31"
+    },
+    {
+      "path": "PS2/SLES_511.31/SLES_511.31_BG_01.png",
+      "kind": "background",
+      "bytes": 185295,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c4125dfa886e2b239f43be7f4f31e430aaba17dae791478c3b1442445f64e19",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.31/SLES_511.31_BG_01.png"
+      },
+      "gameId": "SLES_511.31"
+    },
+    {
+      "path": "PS2/SLES_511.31/SLES_511.31_BG_02.png",
+      "kind": "background",
+      "bytes": 155783,
+      "width": 640,
+      "height": 480,
+      "sha256": "fd68da2a3c9473ab3a2a7bc080c14683a46d05c51ce82a25009c2cbdba7f025b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.31/SLES_511.31_BG_02.png"
+      },
+      "gameId": "SLES_511.31"
+    },
+    {
+      "path": "PS2/SLES_511.31/SLES_511.31_BG_03.png",
+      "kind": "background",
+      "bytes": 194401,
+      "width": 640,
+      "height": 480,
+      "sha256": "538ebc04409b349f58c12f4d57c53b280e8083ffb078e55d0bf342b23c87b3de",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.31/SLES_511.31_BG_03.png"
+      },
+      "gameId": "SLES_511.31"
+    },
+    {
+      "path": "PS2/SLES_511.31/SLES_511.31_BG_04.png",
+      "kind": "background",
+      "bytes": 166684,
+      "width": 640,
+      "height": 480,
+      "sha256": "25f45d9b023e2e8c44dec723156b808d750e01a48dbc70cd8056830f44631e39",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.31/SLES_511.31_BG_04.png"
+      },
+      "gameId": "SLES_511.31"
+    },
+    {
+      "path": "PS2/SLES_511.31/SLES_511.31_BG_05.png",
+      "kind": "background",
+      "bytes": 25014,
+      "width": 640,
+      "height": 480,
+      "sha256": "842b0069a9607c1039435cc8bdd20dda912d945d67acfe09f67fa175e845b551",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.31/SLES_511.31_BG_05.png"
+      },
+      "gameId": "SLES_511.31"
+    },
+    {
+      "path": "PS2/SLES_511.31/SLES_511.31_BG_06.png",
+      "kind": "background",
+      "bytes": 128567,
+      "width": 640,
+      "height": 480,
+      "sha256": "aad6283a99d4fad828e37eb95ae6ed187ac03384c201d38e35cba0e9e8a7ca13",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.31/SLES_511.31_BG_06.png"
+      },
+      "gameId": "SLES_511.31"
+    },
+    {
+      "path": "PS2/SLES_511.31/SLES_511.31_BG_07.png",
+      "kind": "background",
+      "bytes": 175001,
+      "width": 640,
+      "height": 480,
+      "sha256": "d1dbf18a8aff74412e1ed22450dc6de9cf4dfd2df91ae9648aab21967cc7bf3f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.31/SLES_511.31_BG_07.png"
+      },
+      "gameId": "SLES_511.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tony Hawk's Pro Skater 4"
+}

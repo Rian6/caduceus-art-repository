@@ -1,0 +1,143 @@
+{
+  "id": "SLUS_212.67",
+  "cover": {
+    "path": "PS2/SLUS_212.67/SLUS_212.67_COV.png",
+    "kind": "cover",
+    "bytes": 115001,
+    "width": 192,
+    "height": 272,
+    "sha256": "5e897c59584f97e09e5c4d393e42c49fcecc70fa33a172950d65059157125c0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21267.jpg"
+    },
+    "gameId": "SLUS_212.67"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.67/SLUS_212.67_ICO.png",
+    "kind": "disc",
+    "bytes": 33677,
+    "width": 256,
+    "height": 256,
+    "sha256": "00137594560deeb83b99da1c55e0b007f59ec5f43b572de739d08497a3d198ab",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.67_ICO.png"
+    },
+    "gameId": "SLUS_212.67"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.67/SLUS_212.67_BG.png",
+    "kind": "background",
+    "bytes": 172411,
+    "width": 640,
+    "height": 480,
+    "sha256": "752ff745584afae95c36c11442d06eb96cc873b712e37eac588432068b613677",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.67/SLUS_212.67_BG_00.png"
+    },
+    "gameId": "SLUS_212.67"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.67/SLUS_212.67_BG.png",
+      "kind": "background",
+      "bytes": 172411,
+      "width": 640,
+      "height": 480,
+      "sha256": "752ff745584afae95c36c11442d06eb96cc873b712e37eac588432068b613677",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.67/SLUS_212.67_BG_00.png"
+      },
+      "gameId": "SLUS_212.67"
+    },
+    {
+      "path": "PS2/SLUS_212.67/SLUS_212.67_BG_01.png",
+      "kind": "background",
+      "bytes": 180491,
+      "width": 640,
+      "height": 480,
+      "sha256": "ae560a6efb470011f2bbd2d8a9e667bdb4bad5a6a53cb70278d3f4bb2b1fdcb4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.67/SLUS_212.67_BG_01.png"
+      },
+      "gameId": "SLUS_212.67"
+    },
+    {
+      "path": "PS2/SLUS_212.67/SLUS_212.67_BG_02.png",
+      "kind": "background",
+      "bytes": 172777,
+      "width": 640,
+      "height": 480,
+      "sha256": "2a1a1c03a4dae926cfd440e0ad42c28f88dfbefb7eeca441641b7f47f7c5979e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.67/SLUS_212.67_BG_02.png"
+      },
+      "gameId": "SLUS_212.67"
+    },
+    {
+      "path": "PS2/SLUS_212.67/SLUS_212.67_BG_03.png",
+      "kind": "background",
+      "bytes": 181996,
+      "width": 640,
+      "height": 480,
+      "sha256": "328e5c2b5033afcdcb1e66583d3297ed6740c9067280f9216bbfa3d9d42c5ae0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.67/SLUS_212.67_BG_03.png"
+      },
+      "gameId": "SLUS_212.67"
+    },
+    {
+      "path": "PS2/SLUS_212.67/SLUS_212.67_BG_04.png",
+      "kind": "background",
+      "bytes": 157847,
+      "width": 640,
+      "height": 480,
+      "sha256": "78703c3cd0b59f20a865bd075e9c3012a0f4602a68860c274ffc46f648ff2100",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.67/SLUS_212.67_BG_04.png"
+      },
+      "gameId": "SLUS_212.67"
+    },
+    {
+      "path": "PS2/SLUS_212.67/SLUS_212.67_BG_05.png",
+      "kind": "background",
+      "bytes": 212085,
+      "width": 640,
+      "height": 480,
+      "sha256": "d084e6f7601358ded6375d51d234d003ff784831c05fea78c3716bb657c6eb46",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.67/SLUS_212.67_BG_05.png"
+      },
+      "gameId": "SLUS_212.67"
+    },
+    {
+      "path": "PS2/SLUS_212.67/SLUS_212.67_BG_06.png",
+      "kind": "background",
+      "bytes": 210970,
+      "width": 640,
+      "height": 480,
+      "sha256": "e513894e891ab426f2378ad24994f7bca23785981f754cdc028e817961b813da",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.67/SLUS_212.67_BG_06.png"
+      },
+      "gameId": "SLUS_212.67"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Need for Speed: Most Wanted"
+}

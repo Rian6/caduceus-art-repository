@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.39",
+  "cover": {
+    "path": "PS2/SLES_548.39/SLES_548.39_COV.png",
+    "kind": "cover",
+    "bytes": 106343,
+    "width": 192,
+    "height": 272,
+    "sha256": "369444a318334d8333d662ba8dfc9775d81072af97dae29880dba7b96108979f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54839.jpg"
+    },
+    "gameId": "SLES_548.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAMBO"
+}

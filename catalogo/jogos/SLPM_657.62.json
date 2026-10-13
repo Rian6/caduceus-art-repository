@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.62",
+  "cover": {
+    "path": "PS2/SLPM_657.62/SLPM_657.62_COV.png",
+    "kind": "cover",
+    "bytes": 106105,
+    "width": 192,
+    "height": 272,
+    "sha256": "6d71124d38988fd43634d461fa7c9f8b2173ce7163bfc29656905c63388af028",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65762.jpg"
+    },
+    "gameId": "SLPM_657.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KATAKAMUNA - USHINAWARETA INGARITSU"
+}

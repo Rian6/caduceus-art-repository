@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_209.99",
+  "cover": {
+    "path": "PS2/SLUS_209.99/SLUS_209.99_COV.png",
+    "kind": "cover",
+    "bytes": 106760,
+    "width": 192,
+    "height": 272,
+    "sha256": "e58e3035a5466a512a4dc8df91f038708ff18b4cc080cf13ec45b7644ff0729e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20999.jpg"
+    },
+    "gameId": "SLUS_209.99"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.99/SLUS_209.99_ICO.png",
+    "kind": "disc",
+    "bytes": 30105,
+    "width": 256,
+    "height": 256,
+    "sha256": "27181abeb48cd09909f6acbc3d22b5a5996e80700afcfe9e98760ce293475453",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.99_ICO.png"
+    },
+    "gameId": "SLUS_209.99"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.99/SLUS_209.99_BG.png",
+    "kind": "background",
+    "bytes": 132909,
+    "width": 640,
+    "height": 480,
+    "sha256": "27a32e2f11b851f728994f5bcd149668e484d116cd1f818982f528b35d27d505",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.99/SLUS_209.99_BG_00.png"
+    },
+    "gameId": "SLUS_209.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.99/SLUS_209.99_BG.png",
+      "kind": "background",
+      "bytes": 132909,
+      "width": 640,
+      "height": 480,
+      "sha256": "27a32e2f11b851f728994f5bcd149668e484d116cd1f818982f528b35d27d505",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.99/SLUS_209.99_BG_00.png"
+      },
+      "gameId": "SLUS_209.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Superstars"
+}

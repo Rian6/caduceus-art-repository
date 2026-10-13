@@ -1,0 +1,39 @@
+{
+  "id": "SLES_545.37",
+  "cover": {
+    "path": "PS2/SLES_545.37/SLES_545.37_COV.png",
+    "kind": "cover",
+    "bytes": 97192,
+    "width": 192,
+    "height": 272,
+    "sha256": "8e4261eeafb0e787172d7a0fc01145267d41f85fa26cb02dcf42ad9449346e2c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54537.jpg"
+    },
+    "gameId": "SLES_545.37"
+  },
+  "disc": {
+    "path": "PS2/SLES_545.37/SLES_545.37_ICO.png",
+    "kind": "disc",
+    "bytes": 10608,
+    "width": 128,
+    "height": 128,
+    "sha256": "dcec8dd94f47a11b02cbeb0f6e2b9a985a59c30989afb792a119bc0493564010",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_545.37_ICO.png"
+    },
+    "gameId": "SLES_545.37"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "K.O. King"
+}

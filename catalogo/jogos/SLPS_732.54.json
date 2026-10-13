@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.54",
+  "cover": {
+    "path": "PS2/SLPS_732.54/SLPS_732.54_COV.png",
+    "kind": "cover",
+    "bytes": 95517,
+    "width": 192,
+    "height": 272,
+    "sha256": "d994df26bdb39d21585275a61c6f319800d832c311418be775809b22422ed024",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73254.jpg"
+    },
+    "gameId": "SLPS_732.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Makai Senki Disgaea 2 (Playstation 2 The Best)"
+}

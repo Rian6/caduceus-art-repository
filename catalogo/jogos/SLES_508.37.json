@@ -1,0 +1,64 @@
+{
+  "id": "SLES_508.37",
+  "cover": {
+    "path": "PS2/SLES_508.37/SLES_508.37_COV.png",
+    "kind": "cover",
+    "bytes": 90857,
+    "width": 192,
+    "height": 272,
+    "sha256": "63011548cf02f810cc7e7ccfde4057cd2d5877e92aa3bbca3747f2b600fb9293",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50837.jpg"
+    },
+    "gameId": "SLES_508.37"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_508.37/SLES_508.37_BG.png",
+    "kind": "background",
+    "bytes": 212650,
+    "width": 640,
+    "height": 480,
+    "sha256": "39afb086d306ecc6454ceea2c76328e103434b7d4e151cea04ea89ec01038ab5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_508.37/SLES_508.37_BG_00.png"
+    },
+    "gameId": "SLES_508.37"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_508.37/SLES_508.37_BG.png",
+      "kind": "background",
+      "bytes": 212650,
+      "width": 640,
+      "height": 480,
+      "sha256": "39afb086d306ecc6454ceea2c76328e103434b7d4e151cea04ea89ec01038ab5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.37/SLES_508.37_BG_00.png"
+      },
+      "gameId": "SLES_508.37"
+    },
+    {
+      "path": "PS2/SLES_508.37/SLES_508.37_BG_01.png",
+      "kind": "background",
+      "bytes": 211702,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a4b2d96ab84560b12d70f8aedf450f3b0d5fd286d5812fbf9eb0ca0901087b5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.37/SLES_508.37_BG_01.png"
+      },
+      "gameId": "SLES_508.37"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Indiana Jones et le Tombeau de L'Empereur"
+}

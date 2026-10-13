@@ -1,0 +1,65 @@
+{
+  "id": "SLES_513.47",
+  "cover": {
+    "path": "PS2/SLES_513.47/SLES_513.47_COV.png",
+    "kind": "cover",
+    "bytes": 71680,
+    "width": 192,
+    "height": 272,
+    "sha256": "25a0dd589bdf8cc1d39016cec8b6f38ef54aaf770e3483c72c7a944af331e57d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51347.jpg"
+    },
+    "gameId": "SLES_513.47"
+  },
+  "disc": {
+    "path": "PS2/SLES_513.47/SLES_513.47_ICO.png",
+    "kind": "disc",
+    "bytes": 7430,
+    "width": 128,
+    "height": 128,
+    "sha256": "73e46ca66481486b2f8f3694326d0ec27c3b32b0250a846539345f6cd325a55b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_513.47_ICO.png"
+    },
+    "gameId": "SLES_513.47"
+  },
+  "background": {
+    "path": "PS2/SLES_513.47/SLES_513.47_BG.png",
+    "kind": "background",
+    "bytes": 182433,
+    "width": 640,
+    "height": 480,
+    "sha256": "38cc9a683e04d71285529634e1c3e2b040c7f0db7354374f1ac31bb7a1c990ce",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_513.47/SLES_513.47_BG_00.png"
+    },
+    "gameId": "SLES_513.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_513.47/SLES_513.47_BG.png",
+      "kind": "background",
+      "bytes": 182433,
+      "width": 640,
+      "height": 480,
+      "sha256": "38cc9a683e04d71285529634e1c3e2b040c7f0db7354374f1ac31bb7a1c990ce",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.47/SLES_513.47_BG_00.png"
+      },
+      "gameId": "SLES_513.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Die Hard: Vendetta"
+}

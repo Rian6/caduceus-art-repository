@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_203.08",
+  "cover": {
+    "path": "PS2/SLUS_203.08/SLUS_203.08_COV.png",
+    "kind": "cover",
+    "bytes": 89378,
+    "width": 192,
+    "height": 272,
+    "sha256": "2c9fc04610cc18091b7362823b0dca3bdcb62cba50415de4c1a87e215ff5eb6b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20308.jpg"
+    },
+    "gameId": "SLUS_203.08"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.08/SLUS_203.08_ICO.png",
+    "kind": "disc",
+    "bytes": 30555,
+    "width": 256,
+    "height": 256,
+    "sha256": "a2fde4659f80fd89d5b1780651964a0aa754734e093b7c8d062c52a71bd44684",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.08_ICO.png"
+    },
+    "gameId": "SLUS_203.08"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN NFL PrimeTime 2002"
+}

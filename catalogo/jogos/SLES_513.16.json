@@ -1,0 +1,207 @@
+{
+  "id": "SLES_513.16",
+  "cover": {
+    "path": "PS2/SLES_513.16/SLES_513.16_COV.png",
+    "kind": "cover",
+    "bytes": 97630,
+    "width": 192,
+    "height": 272,
+    "sha256": "6fe31f61ac67abc3a2a882e38d32a3111951fdb0d9b058081a0a3fd14a0b1359",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51316.jpg"
+    },
+    "gameId": "SLES_513.16"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_513.16/SLES_513.16_BG.png",
+    "kind": "background",
+    "bytes": 119298,
+    "width": 640,
+    "height": 480,
+    "sha256": "29ad1ebfbbb6e1aab00be9a8c738df6f2a626d1e7138dfa3335bace912aba7e5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_00.png"
+    },
+    "gameId": "SLES_513.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG.png",
+      "kind": "background",
+      "bytes": 119298,
+      "width": 640,
+      "height": 480,
+      "sha256": "29ad1ebfbbb6e1aab00be9a8c738df6f2a626d1e7138dfa3335bace912aba7e5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_00.png"
+      },
+      "gameId": "SLES_513.16"
+    },
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_01.png",
+      "kind": "background",
+      "bytes": 139107,
+      "width": 640,
+      "height": 480,
+      "sha256": "b7097f2109c0ae9af804a3cedd5757bb3b3de99e40179bff985d95c95a06c682",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_01.png"
+      },
+      "gameId": "SLES_513.16"
+    },
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_02.png",
+      "kind": "background",
+      "bytes": 134063,
+      "width": 640,
+      "height": 480,
+      "sha256": "0466b7ac46516d5226eec45b7e924019367f8ec30c752464d681bc4069c571e8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_02.png"
+      },
+      "gameId": "SLES_513.16"
+    },
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_03.png",
+      "kind": "background",
+      "bytes": 107367,
+      "width": 640,
+      "height": 480,
+      "sha256": "c15664758305477e5c3bf254f6ab5e0c148c8e70bf52177ed4467952f1b0cb4a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_03.png"
+      },
+      "gameId": "SLES_513.16"
+    },
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_04.png",
+      "kind": "background",
+      "bytes": 148581,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2de9de551d1f9a1415a2de9a07b3eb65b83d80c1a45d7993086044813f5c2ee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_04.png"
+      },
+      "gameId": "SLES_513.16"
+    },
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_05.png",
+      "kind": "background",
+      "bytes": 97475,
+      "width": 640,
+      "height": 480,
+      "sha256": "69d0e6c941627a1c6887e704047bc4ae6dd28e57d1c3a20808b591d6d26964e4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_05.png"
+      },
+      "gameId": "SLES_513.16"
+    },
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_06.png",
+      "kind": "background",
+      "bytes": 45731,
+      "width": 640,
+      "height": 480,
+      "sha256": "fedc9c4508bdadb68756fa671bb27a97fbc2d46b0100ca0dd0cf60c05d264f45",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_06.png"
+      },
+      "gameId": "SLES_513.16"
+    },
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_07.png",
+      "kind": "background",
+      "bytes": 128490,
+      "width": 640,
+      "height": 480,
+      "sha256": "775f8fd425a8e51cb9465d5566ffbfe27bb7319cd617e9283a9d2e1f6c32ff83",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_07.png"
+      },
+      "gameId": "SLES_513.16"
+    },
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_08.png",
+      "kind": "background",
+      "bytes": 96917,
+      "width": 640,
+      "height": 480,
+      "sha256": "f81428d54c2468907d5d7d5fb461cf20dbb7c1c31a4d59fb0cf36d4a0065795c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_08.png"
+      },
+      "gameId": "SLES_513.16"
+    },
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_09.png",
+      "kind": "background",
+      "bytes": 85548,
+      "width": 640,
+      "height": 480,
+      "sha256": "b3a06b1a9500ae0f6b19663b848416bb13e164ded44ead21a65775e2dbe17c7e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_09.png"
+      },
+      "gameId": "SLES_513.16"
+    },
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_10.png",
+      "kind": "background",
+      "bytes": 148876,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a4e4304b012b4bb615aa7bd3a8571ab59a74b2abbf3c88e1d32124f0ac6cb27",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_10.png"
+      },
+      "gameId": "SLES_513.16"
+    },
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_11.png",
+      "kind": "background",
+      "bytes": 164019,
+      "width": 640,
+      "height": 480,
+      "sha256": "f18fa1f220152a289fc25a0a587877dac41b793e34fcc4be6753c0d422ccd1cc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_11.png"
+      },
+      "gameId": "SLES_513.16"
+    },
+    {
+      "path": "PS2/SLES_513.16/SLES_513.16_BG_12.png",
+      "kind": "background",
+      "bytes": 77264,
+      "width": 640,
+      "height": 480,
+      "sha256": "b8b95a5de67a15ebcbc85610c7f986d629925d5fed7ac169b237ac49806ab4b3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.16/SLES_513.16_BG_12.png"
+      },
+      "gameId": "SLES_513.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Grand Theft Auto: Vice City"
+}

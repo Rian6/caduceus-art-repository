@@ -1,0 +1,77 @@
+{
+  "id": "SLPM_669.30",
+  "cover": {
+    "path": "PS2/SLPM_669.30/SLPM_669.30_COV.png",
+    "kind": "cover",
+    "bytes": 101226,
+    "width": 192,
+    "height": 272,
+    "sha256": "d40345bbf3e95d3fad5ee40c35b10a8ec9db69ad24e3c073865f5ff79d710d82",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66930.jpg"
+    },
+    "gameId": "SLPM_669.30"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_669.30/SLPM_669.30_BG.png",
+    "kind": "background",
+    "bytes": 89707,
+    "width": 640,
+    "height": 480,
+    "sha256": "63dd88b1a89da3c1ef8f2f01df9f0cc6f02fb5532578086a45d08ea0c00ee2d5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_669.30/SLPM_669.30_BG_00.png"
+    },
+    "gameId": "SLPM_669.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_669.30/SLPM_669.30_BG.png",
+      "kind": "background",
+      "bytes": 89707,
+      "width": 640,
+      "height": 480,
+      "sha256": "63dd88b1a89da3c1ef8f2f01df9f0cc6f02fb5532578086a45d08ea0c00ee2d5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_669.30/SLPM_669.30_BG_00.png"
+      },
+      "gameId": "SLPM_669.30"
+    },
+    {
+      "path": "PS2/SLPM_669.30/SLPM_669.30_BG_01.png",
+      "kind": "background",
+      "bytes": 201469,
+      "width": 640,
+      "height": 480,
+      "sha256": "bfa5c9a5c141f78a30dbb81d02e02b91131409d1da6ed8f85df6334dfaddfccc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_669.30/SLPM_669.30_BG_01.png"
+      },
+      "gameId": "SLPM_669.30"
+    },
+    {
+      "path": "PS2/SLPM_669.30/SLPM_669.30_BG_02.png",
+      "kind": "background",
+      "bytes": 177753,
+      "width": 640,
+      "height": 480,
+      "sha256": "7b3dc3049a481f6fdd4212f1969165e714bfaa66c9173e66a309350d2bdcf6d2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_669.30/SLPM_669.30_BG_02.png"
+      },
+      "gameId": "SLPM_669.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dance Dance Revolution - SuperNOVA 2"
+}

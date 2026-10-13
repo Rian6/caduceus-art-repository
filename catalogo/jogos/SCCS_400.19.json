@@ -1,0 +1,25 @@
+{
+  "id": "SCCS_400.19",
+  "cover": {
+    "path": "PS2/SCCS_400.19/SCCS_400.19_COV.png",
+    "kind": "cover",
+    "bytes": 74428,
+    "width": 192,
+    "height": 272,
+    "sha256": "037fa2ca1716237635339f61e00ec1f439aeeda41938efba182fc16451b0f192",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCCS-40019.jpg"
+    },
+    "gameId": "SCCS_400.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Formula One 2004"
+}

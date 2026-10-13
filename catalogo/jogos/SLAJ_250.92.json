@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.92",
+  "cover": {
+    "path": "PS2/SLAJ_250.92/SLAJ_250.92_COV.png",
+    "kind": "cover",
+    "bytes": 73049,
+    "width": 192,
+    "height": 272,
+    "sha256": "a621d423cc513e4dcad43d1bbff52b35e218da50d9732468b0e6447f6955f540",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25092.jpg"
+    },
+    "gameId": "SLAJ_250.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 4 (Playstation 2 The Best)"
+}

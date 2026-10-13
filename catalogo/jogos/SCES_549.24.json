@@ -1,0 +1,25 @@
+{
+  "id": "SCES_549.24",
+  "cover": {
+    "path": "PS2/SCES_549.24/SCES_549.24_COV.png",
+    "kind": "cover",
+    "bytes": 104309,
+    "width": 192,
+    "height": 272,
+    "sha256": "4e9087c0fc897bd23ea4fdee1d4a24dbe35fea9fe2846aa003988e6fe36cd7e5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54924.jpg"
+    },
+    "gameId": "SCES_549.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA 08"
+}

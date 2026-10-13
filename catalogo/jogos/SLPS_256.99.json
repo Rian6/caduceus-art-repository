@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.99",
+  "cover": {
+    "path": "PS2/SLPS_256.99/SLPS_256.99_COV.png",
+    "kind": "cover",
+    "bytes": 101320,
+    "width": 192,
+    "height": 272,
+    "sha256": "97e1b76fb1bf3d2bc2343ee836a3f54a5cd9f68835a1dc76dea34645abee6358",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25699.jpg"
+    },
+    "gameId": "SLPS_256.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hisshou Pachinko*Pachi-Slot Kouryoku Series Vol. 8 - CR Matsura Aya"
+}

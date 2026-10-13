@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.43",
+  "cover": {
+    "path": "PS2/SLPS_732.43/SLPS_732.43_COV.png",
+    "kind": "cover",
+    "bytes": 99467,
+    "width": 192,
+    "height": 272,
+    "sha256": "c1ed5ccc6ca6c2ec8616498b495d5b8961c5e8a45f88e56744c4b70e4ee0784b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73243.jpg"
+    },
+    "gameId": "SLPS_732.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NAMCO X CAPCOM [PLAYSTATION 2 THE BEST]"
+}

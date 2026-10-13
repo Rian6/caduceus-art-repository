@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.39",
+  "cover": {
+    "path": "PS2/SLPS_255.39/SLPS_255.39_COV.png",
+    "kind": "cover",
+    "bytes": 62121,
+    "width": 192,
+    "height": 272,
+    "sha256": "56be9439cc4f8b6ccc257f877d97741437c4154f7f48b18970e49ba7f1c35a37",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25539.jpg"
+    },
+    "gameId": "SLPS_255.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCHOOL RUMBLE [DX PACK]"
+}

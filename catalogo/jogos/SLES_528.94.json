@@ -1,0 +1,25 @@
+{
+  "id": "SLES_528.94",
+  "cover": {
+    "path": "PS2/SLES_528.94/SLES_528.94_COV.png",
+    "kind": "cover",
+    "bytes": 107701,
+    "width": 192,
+    "height": 272,
+    "sha256": "18df169aa5f1b2a44e6995f40ac194285b61d0b699e18d0375598eb17f24b0c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52894.jpg"
+    },
+    "gameId": "SLES_528.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE BARD'S TALE"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.18",
+  "cover": {
+    "path": "PS2/SLPS_258.18/SLPS_258.18_COV.png",
+    "kind": "cover",
+    "bytes": 95152,
+    "width": 192,
+    "height": 272,
+    "sha256": "06df30523e2128df6b0ada4e87715cfc889ab45b26bcd762ca8b7c012c483f4d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25818.jpg"
+    },
+    "gameId": "SLPS_258.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BAKUMATSU RENKA - KARYUU KENSHIDEN"
+}

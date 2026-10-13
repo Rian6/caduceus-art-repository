@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.24",
+  "cover": {
+    "path": "PS2/SLPM_659.24/SLPM_659.24_COV.png",
+    "kind": "cover",
+    "bytes": 102548,
+    "width": 192,
+    "height": 272,
+    "sha256": "cb0a841e6260ee18327157a426d220304f626fb69ee874f75f4fd2516505eb9b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65924.jpg"
+    },
+    "gameId": "SLPM_659.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KONO HARETA SORA NO SHITA DE [LIMITED EDITION]"
+}

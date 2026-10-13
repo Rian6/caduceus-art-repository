@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.79",
+  "cover": {
+    "path": "PS2/SLPM_620.79/SLPM_620.79_COV.png",
+    "kind": "cover",
+    "bytes": 94552,
+    "width": 192,
+    "height": 272,
+    "sha256": "d5eccfeb5acc4ca34201c82a85968c0d10008d9a59c77bcc3c73260d188a736b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62079.jpg"
+    },
+    "gameId": "SLPM_620.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Se-Pa 2001"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.22",
+  "cover": {
+    "path": "PS2/SLPS_204.22/SLPS_204.22_COV.png",
+    "kind": "cover",
+    "bytes": 77531,
+    "width": 192,
+    "height": 272,
+    "sha256": "8056fcdcc2dfcfc96a61ccc1a495b612de8c3b085076861ca078d9311701438b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20422.jpg"
+    },
+    "gameId": "SLPS_204.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAYARIGAMI REVENGE - KEISHITYOU KAII JIKEN FILE"
+}

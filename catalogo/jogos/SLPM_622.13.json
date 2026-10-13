@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.13",
+  "cover": {
+    "path": "PS2/SLPM_622.13/SLPM_622.13_COV.png",
+    "kind": "cover",
+    "bytes": 117220,
+    "width": 192,
+    "height": 272,
+    "sha256": "e2ac2be492f44de82c9144f06445042c4f79e9cd012ff967c0a7f53c72b11211",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62213.jpg"
+    },
+    "gameId": "SLPM_622.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ultimate Fighting Championship 2 - Tap-Out"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.79",
+  "cover": {
+    "path": "PS2/SLPM_655.79/SLPM_655.79_COV.png",
+    "kind": "cover",
+    "bytes": 92740,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f5bf4785cb651a85b92d88f98779e9265592f65265a2dac3e7bc2545f6f7aaf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65579.jpg"
+    },
+    "gameId": "SLPM_655.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HOUKAGO NO LOVE BEAT"
+}

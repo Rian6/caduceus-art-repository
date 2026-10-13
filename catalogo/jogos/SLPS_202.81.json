@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.81",
+  "cover": {
+    "path": "PS2/SLPS_202.81/SLPS_202.81_COV.png",
+    "kind": "cover",
+    "bytes": 118028,
+    "width": 192,
+    "height": 272,
+    "sha256": "08aac1aaeb47a0e9cb1dda2c1a4f5f3c768e0b98af834318efebf2768c6c258f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20281.jpg"
+    },
+    "gameId": "SLPS_202.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Monopoly: Mezase!! Daifugou Jinsei!!"
+}

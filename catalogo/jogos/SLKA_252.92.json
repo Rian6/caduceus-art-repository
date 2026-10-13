@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.92",
+  "cover": {
+    "path": "PS2/SLKA_252.92/SLKA_252.92_COV.png",
+    "kind": "cover",
+    "bytes": 55575,
+    "width": 192,
+    "height": 272,
+    "sha256": "85d2a30f9d656def345f6b6a30d8f3246faa9a0f855ababfa88ec6a1bc7b03dd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.92/SLKA_252.92_COV.png"
+    },
+    "gameId": "SLKA_252.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Batman Begins"
+}

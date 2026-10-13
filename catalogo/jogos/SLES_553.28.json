@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.28",
+  "cover": {
+    "path": "PS2/SLES_553.28/SLES_553.28_COV.png",
+    "kind": "cover",
+    "bytes": 101677,
+    "width": 192,
+    "height": 272,
+    "sha256": "887a2947fda7d0366a070ac1848f059cbc7c790a8eb9316212e627aa799b8710",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55328.jpg"
+    },
+    "gameId": "SLES_553.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Millennium European Paintball Series: Championship Paintball 2009"
+}

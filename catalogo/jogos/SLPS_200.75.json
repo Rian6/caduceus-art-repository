@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.75",
+  "cover": {
+    "path": "PS2/SLPS_200.75/SLPS_200.75_COV.png",
+    "kind": "cover",
+    "bytes": 102512,
+    "width": 192,
+    "height": 272,
+    "sha256": "47a7adf27fab03b628bd1fa99be54f6cb98a71270185cdfba789309f92bc2504",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20075.jpg"
+    },
+    "gameId": "SLPS_200.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kikou Heidan J-Phoenix: Joshou-hen"
+}

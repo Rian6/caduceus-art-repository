@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.85",
+  "cover": {
+    "path": "PS2/SCKA_200.85/SCKA_200.85_COV.png",
+    "kind": "cover",
+    "bytes": 88865,
+    "width": 192,
+    "height": 272,
+    "sha256": "b9ea6be95ed2669805e90c0e586931c065c746148776ecbdeecd989da43a0c75",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20085.jpg"
+    },
+    "gameId": "SCKA_200.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MINNA NO TENNIS - EVERYBODY'S TENNIS"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.18",
+  "cover": {
+    "path": "PS2/SCAJ_201.18/SCAJ_201.18_COV.png",
+    "kind": "cover",
+    "bytes": 99144,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c33343d764434727d70eeae1ce9f3afe31671cfa3d687727d3bf12720363211",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20118.jpg"
+    },
+    "gameId": "SCAJ_201.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RADIATA STORIES"
+}

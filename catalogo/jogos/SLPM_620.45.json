@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.45",
+  "cover": {
+    "path": "PS2/SLPM_620.45/SLPM_620.45_COV.png",
+    "kind": "cover",
+    "bytes": 102928,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff84e7dbab3883f8700f8b1265818016283c50fbf02279da1f4c445bfeb33714",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62045.jpg"
+    },
+    "gameId": "SLPM_620.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jikkyou J-League Perfect Striker 3"
+}

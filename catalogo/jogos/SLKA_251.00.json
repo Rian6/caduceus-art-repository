@@ -1,0 +1,64 @@
+{
+  "id": "SLKA_251.00",
+  "cover": {
+    "path": "PS2/SLKA_251.00/SLKA_251.00_COV.png",
+    "kind": "cover",
+    "bytes": 100476,
+    "width": 192,
+    "height": 272,
+    "sha256": "0351859411c931e686b5de3d9e4178761be17113b98a8fbfb5f591f1a4a43860",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25100.jpg"
+    },
+    "gameId": "SLKA_251.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_251.00/SLKA_251.00_BG.png",
+    "kind": "background",
+    "bytes": 206490,
+    "width": 640,
+    "height": 480,
+    "sha256": "ab79886e79fa0855ab8c56cb5ff502128e1390f141bb79ddf1b0d84964db1ee8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.00/SLKA_251.00_BG_00.png"
+    },
+    "gameId": "SLKA_251.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_251.00/SLKA_251.00_BG.png",
+      "kind": "background",
+      "bytes": 206490,
+      "width": 640,
+      "height": 480,
+      "sha256": "ab79886e79fa0855ab8c56cb5ff502128e1390f141bb79ddf1b0d84964db1ee8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.00/SLKA_251.00_BG_00.png"
+      },
+      "gameId": "SLKA_251.00"
+    },
+    {
+      "path": "PS2/SLKA_251.00/SLKA_251.00_BG_01.png",
+      "kind": "background",
+      "bytes": 214189,
+      "width": 640,
+      "height": 480,
+      "sha256": "153c567df1d0491ff545d72a2234ad4a0e5bc63fc3847f996e7eae7ca67cb76b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.00/SLKA_251.00_BG_01.png"
+      },
+      "gameId": "SLKA_251.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Breath of Fire: Dragon Quarter"
+}

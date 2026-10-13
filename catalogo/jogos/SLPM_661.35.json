@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.35",
+  "cover": {
+    "path": "PS2/SLPM_661.35/SLPM_661.35_COV.png",
+    "kind": "cover",
+    "bytes": 81738,
+    "width": 192,
+    "height": 272,
+    "sha256": "146a43bd46ce14c5464c8d4df915d39244cd3b06ce535d8676a406eac8d77e0c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66135.jpg"
+    },
+    "gameId": "SLPM_661.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Tank Museum For Game - Toubu Sensen"
+}

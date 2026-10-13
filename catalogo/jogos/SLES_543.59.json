@@ -1,0 +1,90 @@
+{
+  "id": "SLES_543.59",
+  "cover": {
+    "path": "PS2/SLES_543.59/SLES_543.59_COV.png",
+    "kind": "cover",
+    "bytes": 90100,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc2a87092732f209638371ab386effe7df72b4c72c1dd122faf3588c3177eccd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54359.jpg"
+    },
+    "gameId": "SLES_543.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.59/SLES_543.59_BG.png",
+    "kind": "background",
+    "bytes": 204691,
+    "width": 640,
+    "height": 480,
+    "sha256": "3dcf5ef1cc0712963766634ebd14cb0b3e5884ae3063228acaff17bea79120ba",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.59/SLES_543.59_BG_00.png"
+    },
+    "gameId": "SLES_543.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.59/SLES_543.59_BG.png",
+      "kind": "background",
+      "bytes": 204691,
+      "width": 640,
+      "height": 480,
+      "sha256": "3dcf5ef1cc0712963766634ebd14cb0b3e5884ae3063228acaff17bea79120ba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.59/SLES_543.59_BG_00.png"
+      },
+      "gameId": "SLES_543.59"
+    },
+    {
+      "path": "PS2/SLES_543.59/SLES_543.59_BG_01.png",
+      "kind": "background",
+      "bytes": 182367,
+      "width": 640,
+      "height": 480,
+      "sha256": "6449419f74e45ea89dff4056347e473b71fb0352cf5befdc9acb9a28d9a34a40",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.59/SLES_543.59_BG_01.png"
+      },
+      "gameId": "SLES_543.59"
+    },
+    {
+      "path": "PS2/SLES_543.59/SLES_543.59_BG_02.png",
+      "kind": "background",
+      "bytes": 196019,
+      "width": 640,
+      "height": 480,
+      "sha256": "5d807626a928e768cec0d1102348cf8f7412eb4e5ce3e6ad6c26923a32eeed1e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.59/SLES_543.59_BG_02.png"
+      },
+      "gameId": "SLES_543.59"
+    },
+    {
+      "path": "PS2/SLES_543.59/SLES_543.59_BG_03.png",
+      "kind": "background",
+      "bytes": 196108,
+      "width": 640,
+      "height": 480,
+      "sha256": "43cb649b5a5460ca2bf4c197c9214b01462451b8b4da4bd844df9b41c1276e63",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.59/SLES_543.59_BG_03.png"
+      },
+      "gameId": "SLES_543.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Legend of Spyro - A New Beginning"
+}

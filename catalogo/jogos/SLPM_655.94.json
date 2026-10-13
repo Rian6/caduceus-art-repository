@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.94",
+  "cover": {
+    "path": "PS2/SLPM_655.94/SLPM_655.94_COV.png",
+    "kind": "cover",
+    "bytes": 88859,
+    "width": 192,
+    "height": 272,
+    "sha256": "9440fd91fc936add89587fce8087c47adfe385a12203eabe70dabbf20679ba24",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65594.jpg"
+    },
+    "gameId": "SLPM_655.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Iris no Atelier: Eternal Mana"
+}

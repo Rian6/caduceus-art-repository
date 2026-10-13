@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_204.95",
+  "cover": {
+    "path": "PS2/SLUS_204.95/SLUS_204.95_COV.png",
+    "kind": "cover",
+    "bytes": 100232,
+    "width": 192,
+    "height": 272,
+    "sha256": "6915af77eaa07ec15cd321421ff95d3480e271e3a07424d029b226068094869a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20495.jpg"
+    },
+    "gameId": "SLUS_204.95"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.95/SLUS_204.95_ICO.png",
+    "kind": "disc",
+    "bytes": 30246,
+    "width": 256,
+    "height": 256,
+    "sha256": "9f6d2895aec0a4537df41b612ebc2f750c52ed0eefabd70a9d594f9fbf8da9c2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.95_ICO.png"
+    },
+    "gameId": "SLUS_204.95"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.95/SLUS_204.95_BG.png",
+    "kind": "background",
+    "bytes": 175552,
+    "width": 640,
+    "height": 480,
+    "sha256": "b515a4c18b191a13ae2f983e733fe09c4051ab328473cac73843a10be6c09396",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.95/SLUS_204.95_BG_00.png"
+    },
+    "gameId": "SLUS_204.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.95/SLUS_204.95_BG.png",
+      "kind": "background",
+      "bytes": 175552,
+      "width": 640,
+      "height": 480,
+      "sha256": "b515a4c18b191a13ae2f983e733fe09c4051ab328473cac73843a10be6c09396",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.95/SLUS_204.95_BG_00.png"
+      },
+      "gameId": "SLUS_204.95"
+    },
+    {
+      "path": "PS2/SLUS_204.95/SLUS_204.95_BG_01.png",
+      "kind": "background",
+      "bytes": 215459,
+      "width": 640,
+      "height": 480,
+      "sha256": "bef41a88f3b85e350eef878d8ab1bf22029dd29dc2226b8754f5ba1ef236baba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.95/SLUS_204.95_BG_01.png"
+      },
+      "gameId": "SLUS_204.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Battle Engine Aquila"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.62",
+  "cover": {
+    "path": "PS2/SLPM_658.62/SLPM_658.62_COV.png",
+    "kind": "cover",
+    "bytes": 107296,
+    "width": 192,
+    "height": 272,
+    "sha256": "588fa8a87bf177bf7b60cbdd3783cde98e0b7d3c85e8cefd542458a6a9afe0d5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65862.jpg"
+    },
+    "gameId": "SLPM_658.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PURE PURE MIMI TO SHIPPO NO MONOGATARI"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.01",
+  "cover": {
+    "path": "PS2/SLPS_251.01/SLPS_251.01_COV.png",
+    "kind": "cover",
+    "bytes": 97537,
+    "width": 192,
+    "height": 272,
+    "sha256": "965961405e033b1a284cc3b23d09babac2c19457aca64d898cf3d7cd85e9de6b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25101.jpg"
+    },
+    "gameId": "SLPS_251.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nichibeikan Pro Yakyuu: Final League"
+}

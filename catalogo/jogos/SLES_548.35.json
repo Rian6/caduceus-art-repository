@@ -1,0 +1,64 @@
+{
+  "id": "SLES_548.35",
+  "cover": {
+    "path": "PS2/SLES_548.35/SLES_548.35_COV.png",
+    "kind": "cover",
+    "bytes": 84324,
+    "width": 192,
+    "height": 272,
+    "sha256": "87267e538a4b1b4ba73bb03105d9e1178ed204bacea90083d648e56391d0e764",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54835.jpg"
+    },
+    "gameId": "SLES_548.35"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_548.35/SLES_548.35_BG.png",
+    "kind": "background",
+    "bytes": 154779,
+    "width": 640,
+    "height": 480,
+    "sha256": "94b72fa697134db7d45abfcb0a5baa7e136b2d264a45ca624fa39eb6fd68e93f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.35/SLES_548.35_BG_00.png"
+    },
+    "gameId": "SLES_548.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.35/SLES_548.35_BG.png",
+      "kind": "background",
+      "bytes": 154779,
+      "width": 640,
+      "height": 480,
+      "sha256": "94b72fa697134db7d45abfcb0a5baa7e136b2d264a45ca624fa39eb6fd68e93f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.35/SLES_548.35_BG_00.png"
+      },
+      "gameId": "SLES_548.35"
+    },
+    {
+      "path": "PS2/SLES_548.35/SLES_548.35_BG_01.png",
+      "kind": "background",
+      "bytes": 184731,
+      "width": 640,
+      "height": 480,
+      "sha256": "5590b9c0431a39457f33581208f470b5e3818e4ef688da96c4d2096d8dbe0efe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.35/SLES_548.35_BG_01.png"
+      },
+      "gameId": "SLES_548.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Power Rangers - Super Legends"
+}

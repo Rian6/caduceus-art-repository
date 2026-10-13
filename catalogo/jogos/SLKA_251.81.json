@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.81",
+  "cover": {
+    "path": "PS2/SLKA_251.81/SLKA_251.81_COV.png",
+    "kind": "cover",
+    "bytes": 72774,
+    "width": 192,
+    "height": 272,
+    "sha256": "2b6f9ca440f4c442343c7b23b1b9e452a7a2b5bd4d261733682967e8105be6b9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25181.jpg"
+    },
+    "gameId": "SLKA_251.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ENERGY AIRFORCE AIM STRIKE!"
+}

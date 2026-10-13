@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_654.08",
+  "cover": {
+    "path": "PS2/SLPM_654.08/SLPM_654.08_COV.png",
+    "kind": "cover",
+    "bytes": 126602,
+    "width": 192,
+    "height": 272,
+    "sha256": "85ff1690b103332d84f4d202a55a68e58343195fac04e6949d6abcbd0372ca77",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65408.jpg"
+    },
+    "gameId": "SLPM_654.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_654.08/SLPM_654.08_BG.png",
+    "kind": "background",
+    "bytes": 215267,
+    "width": 640,
+    "height": 480,
+    "sha256": "358c05c8e3a5ea452005b501dd5e39d14fb29d654a8b33955a7f57c113e88aa6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.08/SLPM_654.08_BG_00.png"
+    },
+    "gameId": "SLPM_654.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.08/SLPM_654.08_BG.png",
+      "kind": "background",
+      "bytes": 215267,
+      "width": 640,
+      "height": 480,
+      "sha256": "358c05c8e3a5ea452005b501dd5e39d14fb29d654a8b33955a7f57c113e88aa6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.08/SLPM_654.08_BG_00.png"
+      },
+      "gameId": "SLPM_654.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Growlanser IV - Wayfarer of the Time"
+}

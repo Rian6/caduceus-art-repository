@@ -1,0 +1,77 @@
+{
+  "id": "SLES_538.50",
+  "cover": {
+    "path": "PS2/SLES_538.50/SLES_538.50_COV.png",
+    "kind": "cover",
+    "bytes": 98653,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed4a6003e974c8eaa901f2529667f5ad2178bfa4dac406fec0b0ad3c26e24625",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53850.jpg"
+    },
+    "gameId": "SLES_538.50"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_538.50/SLES_538.50_BG.png",
+    "kind": "background",
+    "bytes": 146627,
+    "width": 640,
+    "height": 480,
+    "sha256": "ab800b7c3e1e05d3763098cf83639f7594ce44d4ff5d2c08641db58990251c29",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_538.50/SLES_538.50_BG_00.png"
+    },
+    "gameId": "SLES_538.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_538.50/SLES_538.50_BG.png",
+      "kind": "background",
+      "bytes": 146627,
+      "width": 640,
+      "height": 480,
+      "sha256": "ab800b7c3e1e05d3763098cf83639f7594ce44d4ff5d2c08641db58990251c29",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.50/SLES_538.50_BG_00.png"
+      },
+      "gameId": "SLES_538.50"
+    },
+    {
+      "path": "PS2/SLES_538.50/SLES_538.50_BG_01.png",
+      "kind": "background",
+      "bytes": 123530,
+      "width": 640,
+      "height": 480,
+      "sha256": "99c41bbd0d3191c06865756b64347dce06a7f58010cdcbadf68a099ba15939db",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.50/SLES_538.50_BG_01.png"
+      },
+      "gameId": "SLES_538.50"
+    },
+    {
+      "path": "PS2/SLES_538.50/SLES_538.50_BG_02.png",
+      "kind": "background",
+      "bytes": 160206,
+      "width": 640,
+      "height": 480,
+      "sha256": "8a76aa59521d8dc34ff854f3fc6f06df6378c34707c6fb846f3f48956d2f91ba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.50/SLES_538.50_BG_02.png"
+      },
+      "gameId": "SLES_538.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Teenage Mutant Ninja Turtles 3: Mutant Nightmare"
+}

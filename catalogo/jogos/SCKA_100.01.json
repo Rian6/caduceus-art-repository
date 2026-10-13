@@ -1,0 +1,51 @@
+{
+  "id": "SCKA_100.01",
+  "cover": {
+    "path": "PS2/SCKA_100.01/SCKA_100.01_COV.png",
+    "kind": "cover",
+    "bytes": 51756,
+    "width": 192,
+    "height": 272,
+    "sha256": "38e5f52c919002733c1a5f70e43e8d0c53b98a03381fa27e1f6f430f98037b1d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_100.01/SCKA_100.01_COV.png"
+    },
+    "gameId": "SCKA_100.01"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_100.01/SCKA_100.01_BG.png",
+    "kind": "background",
+    "bytes": 184879,
+    "width": 640,
+    "height": 480,
+    "sha256": "9d220bed5dff0c51025a71ced5526ed231e0a20b16b85fde7b83d0181790340a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_100.01/SCKA_100.01_BG_00.png"
+    },
+    "gameId": "SCKA_100.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_100.01/SCKA_100.01_BG.png",
+      "kind": "background",
+      "bytes": 184879,
+      "width": 640,
+      "height": 480,
+      "sha256": "9d220bed5dff0c51025a71ced5526ed231e0a20b16b85fde7b83d0181790340a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_100.01/SCKA_100.01_BG_00.png"
+      },
+      "gameId": "SCKA_100.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gangcheol Gigap Sadan - Online Battlefield"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.91",
+  "cover": {
+    "path": "PS2/SLPM_659.91/SLPM_659.91_COV.png",
+    "kind": "cover",
+    "bytes": 84673,
+    "width": 192,
+    "height": 272,
+    "sha256": "c4cdaba8109415695c22577f68fa467545b4e69053adeade184bbeea2ad3293a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65991.jpg"
+    },
+    "gameId": "SLPM_659.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Anubis Zone of the Enders Special Edition (Konami Dendou Collection)"
+}

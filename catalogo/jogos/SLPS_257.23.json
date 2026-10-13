@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.23",
+  "cover": {
+    "path": "PS2/SLPS_257.23/SLPS_257.23_COV.png",
+    "kind": "cover",
+    "bytes": 115314,
+    "width": 192,
+    "height": 272,
+    "sha256": "82aa80f6329be4c83605139d904aa3aa48205c08f091b4f81f8fb3ab510f77f9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25723.jpg"
+    },
+    "gameId": "SLPS_257.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "REIJOU TANTEI OFFICE LOVE JIKEN"
+}

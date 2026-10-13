@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.16",
+  "cover": {
+    "path": "PS2/SLPM_651.16/SLPM_651.16_COV.png",
+    "kind": "cover",
+    "bytes": 98440,
+    "width": 192,
+    "height": 272,
+    "sha256": "02d5c6aad115a4e106c90ea8fc47f5e0b8e3a960129257fc377ac22286897fc6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65116.jpg"
+    },
+    "gameId": "SLPM_651.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ATELIER LILIE PLUS - LILIE NO ATELIER PLUS - SALBERG NO RENKINJUTSUSHI 3"
+}

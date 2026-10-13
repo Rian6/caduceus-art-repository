@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.11",
+  "cover": {
+    "path": "PS2/SLPS_254.11/SLPS_254.11_COV.png",
+    "kind": "cover",
+    "bytes": 104991,
+    "width": 192,
+    "height": 272,
+    "sha256": "7e1887046c159fad48b9a859795a44979b73861996690cbf40bedeecceeb19ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25411.jpg"
+    },
+    "gameId": "SLPS_254.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TO HEART 2 [FIRST PRINT LIMITED EDITION WITH TO HEART] [2 CDS]"
+}

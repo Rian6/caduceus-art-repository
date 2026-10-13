@@ -1,0 +1,24 @@
+{
+  "id": "SCES_546.41",
+  "cover": {
+    "path": "PS2/SCES_546.41/SCES_546.41_COV.png",
+    "kind": "cover",
+    "bytes": 95549,
+    "width": 192,
+    "height": 272,
+    "sha256": "970b7617c38bdf6a86f99f4ed9f7636fbc2742a7b0edb2e855764785e8af532d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54641.jpg"
+    },
+    "gameId": "SCES_546.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

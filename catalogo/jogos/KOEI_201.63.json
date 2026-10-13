@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.63",
+  "cover": {
+    "path": "PS2/KOEI_201.63/KOEI_201.63_COV.png",
+    "kind": "cover",
+    "bytes": 66875,
+    "width": 192,
+    "height": 272,
+    "sha256": "09092907ce94631d6f1cce328ea1e2a86a0686ad944ce96af9e6ee218c7d4887",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/KOEI-20163.jpg"
+    },
+    "gameId": "KOEI_201.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE - YUME NO UKIHASHI SPECIAL [TREASURE BOX]"
+}

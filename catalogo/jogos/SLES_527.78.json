@@ -1,0 +1,25 @@
+{
+  "id": "SLES_527.78",
+  "cover": {
+    "path": "PS2/SLES_527.78/SLES_527.78_COV.png",
+    "kind": "cover",
+    "bytes": 106692,
+    "width": 192,
+    "height": 272,
+    "sha256": "029b00c98af9d7476d92b98ee0d885ac639edef42f5444338616a65e3fecfa62",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52778.jpg"
+    },
+    "gameId": "SLES_527.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Arcade"
+}

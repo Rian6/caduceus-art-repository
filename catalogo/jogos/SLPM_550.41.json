@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_550.41",
+  "cover": {
+    "path": "PS2/SLPM_550.41/SLPM_550.41_COV.png",
+    "kind": "cover",
+    "bytes": 96071,
+    "width": 192,
+    "height": 272,
+    "sha256": "8306e2a238fd4e618087c8835c7385c936c5fbfe31aeb89674836e3f19aa8960",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55041.jpg"
+    },
+    "gameId": "SLPM_550.41"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_550.41/SLPM_550.41_BG.png",
+    "kind": "background",
+    "bytes": 91332,
+    "width": 640,
+    "height": 480,
+    "sha256": "65677a58868a35721651e592a4164ee21214654b40bc82dbb60e48f2e19e5f2d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_550.41/SLPM_550.41_BG_00.png"
+    },
+    "gameId": "SLPM_550.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_550.41/SLPM_550.41_BG.png",
+      "kind": "background",
+      "bytes": 91332,
+      "width": 640,
+      "height": 480,
+      "sha256": "65677a58868a35721651e592a4164ee21214654b40bc82dbb60e48f2e19e5f2d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.41/SLPM_550.41_BG_00.png"
+      },
+      "gameId": "SLPM_550.41"
+    },
+    {
+      "path": "PS2/SLPM_550.41/SLPM_550.41_BG_01.png",
+      "kind": "background",
+      "bytes": 183695,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff740a7d62221450dc387b6ac06d55b5c2c3b5ce1d31ab4b519f101c2623fec1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.41/SLPM_550.41_BG_01.png"
+      },
+      "gameId": "SLPM_550.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KANOKON - ESUII"
+}

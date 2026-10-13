@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.60",
+  "cover": {
+    "path": "PS2/SLPM_652.60/SLPM_652.60_COV.png",
+    "kind": "cover",
+    "bytes": 103910,
+    "width": 192,
+    "height": 272,
+    "sha256": "6786c5349f74d23beb7348cf74c2a9f4bd95f370282702d554e4b7b90a233830",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65260.jpg"
+    },
+    "gameId": "SLPM_652.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gaika no Gouhou - Air Land Force"
+}

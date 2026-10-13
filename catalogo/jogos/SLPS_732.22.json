@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.22",
+  "cover": {
+    "path": "PS2/SLPS_732.22/SLPS_732.22_COV.png",
+    "kind": "cover",
+    "bytes": 81612,
+    "width": 192,
+    "height": 272,
+    "sha256": "b02b9412973ae42e0b3fcfee402e53062d0ea5e77a7367bcedaada1d27b1c926",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73222.jpg"
+    },
+    "gameId": "SLPS_732.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BOKUJOU MONOGATARI - OH! WONDERFUL LIFE [PLAYSTATION 2 THE BEST]"
+}

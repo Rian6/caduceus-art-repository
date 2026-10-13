@@ -1,0 +1,39 @@
+{
+  "id": "SLES_548.03",
+  "cover": {
+    "path": "PS2/SLES_548.03/SLES_548.03_COV.png",
+    "kind": "cover",
+    "bytes": 104714,
+    "width": 192,
+    "height": 272,
+    "sha256": "21bce1e1e7e23f27d1583aeef44303c61bdffa3a01fe7b152da5fb0bdd60c0d4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54803.jpg"
+    },
+    "gameId": "SLES_548.03"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.03/SLES_548.03_ICO.png",
+    "kind": "disc",
+    "bytes": 11229,
+    "width": 128,
+    "height": 128,
+    "sha256": "bbcae583301cb02dd8d4c9859a1f40e8641d77378f21d4d0c6793adaaab041d8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.03_ICO.png"
+    },
+    "gameId": "SLES_548.03"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "They Came From the Skies"
+}

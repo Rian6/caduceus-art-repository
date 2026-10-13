@@ -1,0 +1,25 @@
+{
+  "id": "SLES_508.52",
+  "cover": {
+    "path": "PS2/SLES_508.52/SLES_508.52_COV.png",
+    "kind": "cover",
+    "bytes": 86812,
+    "width": 192,
+    "height": 272,
+    "sha256": "0065532ef88c5db8fbb9f3d093dc431134097cfdffc2a4486c6b9cb1eb5c8c3e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50852.jpg"
+    },
+    "gameId": "SLES_508.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sven-Goran Eriksson's World Challenge"
+}

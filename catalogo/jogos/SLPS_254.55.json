@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.55",
+  "cover": {
+    "path": "PS2/SLPS_254.55/SLPS_254.55_COV.png",
+    "kind": "cover",
+    "bytes": 96851,
+    "width": 192,
+    "height": 272,
+    "sha256": "a9be21695962c8b850a35c429fc51e3a5aeb151aabda3b67a9a7233265f79256",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25455.jpg"
+    },
+    "gameId": "SLPS_254.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sanyo Pachinko Paradise 11 - Shin Umi to Saraba Gintama no Ookami"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_204.85",
+  "cover": {
+    "path": "PS2/SLUS_204.85/SLUS_204.85_COV.png",
+    "kind": "cover",
+    "bytes": 101307,
+    "width": 192,
+    "height": 272,
+    "sha256": "7e367d63dd9e87805ddf98d9fa44022053b2290ca85490e8052170c39f40c3a0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20485.jpg"
+    },
+    "gameId": "SLUS_204.85"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.85/SLUS_204.85_ICO.png",
+    "kind": "disc",
+    "bytes": 30325,
+    "width": 256,
+    "height": 256,
+    "sha256": "b4f1297b3700e7ac7e8645dbb09152905330cb1d806ae7204e4831a75dbef59b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.85_ICO.png"
+    },
+    "gameId": "SLUS_204.85"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.85/SLUS_204.85_BG.png",
+    "kind": "background",
+    "bytes": 222727,
+    "width": 640,
+    "height": 480,
+    "sha256": "3b7daccac7fe27312531b633b463ec0c4980270dc1bbd5ed9ea42259c78eafe1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.85/SLUS_204.85_BG_00.png"
+    },
+    "gameId": "SLUS_204.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.85/SLUS_204.85_BG.png",
+      "kind": "background",
+      "bytes": 222727,
+      "width": 640,
+      "height": 480,
+      "sha256": "3b7daccac7fe27312531b633b463ec0c4980270dc1bbd5ed9ea42259c78eafe1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.85/SLUS_204.85_BG_00.png"
+      },
+      "gameId": "SLUS_204.85"
+    },
+    {
+      "path": "PS2/SLUS_204.85/SLUS_204.85_BG_01.png",
+      "kind": "background",
+      "bytes": 208856,
+      "width": 640,
+      "height": 480,
+      "sha256": "e72a3895eabcb7c5c11ff0db50f155e8c8af15c4c662959e76973ef2e83c4617",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.85/SLUS_204.85_BG_01.png"
+      },
+      "gameId": "SLUS_204.85"
+    },
+    {
+      "path": "PS2/SLUS_204.85/SLUS_204.85_BG_02.png",
+      "kind": "background",
+      "bytes": 224699,
+      "width": 640,
+      "height": 480,
+      "sha256": "576fbfd96c8285ea6875c35614450f5c3b68981e24ed8292e5bca2b7c5071079",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.85/SLUS_204.85_BG_02.png"
+      },
+      "gameId": "SLUS_204.85"
+    },
+    {
+      "path": "PS2/SLUS_204.85/SLUS_204.85_BG_03.png",
+      "kind": "background",
+      "bytes": 203693,
+      "width": 640,
+      "height": 480,
+      "sha256": "409d3b6bbf8d535ef71df64c179510c0ff327cb5631b4c020afa6c67ac4941c2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.85/SLUS_204.85_BG_03.png"
+      },
+      "gameId": "SLUS_204.85"
+    },
+    {
+      "path": "PS2/SLUS_204.85/SLUS_204.85_BG_04.png",
+      "kind": "background",
+      "bytes": 59233,
+      "width": 640,
+      "height": 480,
+      "sha256": "04502821f3ee25d357aae93d016813b3d0f7503d884561d153bc5247c0082e74",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.85/SLUS_204.85_BG_04.png"
+      },
+      "gameId": "SLUS_204.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DINO STALKER"
+}

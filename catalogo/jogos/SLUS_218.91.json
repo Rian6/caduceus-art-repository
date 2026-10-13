@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_218.91",
+  "cover": {
+    "path": "PS2/SLUS_218.91/SLUS_218.91_COV.png",
+    "kind": "cover",
+    "bytes": 99692,
+    "width": 192,
+    "height": 272,
+    "sha256": "b4bebae4919a731670c4e26bdbfaad9a7e1065499d7006ed4dc5017fa090a13f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21891.jpg"
+    },
+    "gameId": "SLUS_218.91"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.91/SLUS_218.91_ICO.png",
+    "kind": "disc",
+    "bytes": 37714,
+    "width": 256,
+    "height": 256,
+    "sha256": "485c80815dac49c423539312ff3b03ccae545f0a18b445bfcd412801b731f8ce",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.91_ICO.png"
+    },
+    "gameId": "SLUS_218.91"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.91/SLUS_218.91_BG.png",
+    "kind": "background",
+    "bytes": 206228,
+    "width": 640,
+    "height": 480,
+    "sha256": "d230c14137e78946da5c1f334910123cc693fa0d0baf4e83f95484853fb9707a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.91/SLUS_218.91_BG_00.png"
+    },
+    "gameId": "SLUS_218.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.91/SLUS_218.91_BG.png",
+      "kind": "background",
+      "bytes": 206228,
+      "width": 640,
+      "height": 480,
+      "sha256": "d230c14137e78946da5c1f334910123cc693fa0d0baf4e83f95484853fb9707a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.91/SLUS_218.91_BG_00.png"
+      },
+      "gameId": "SLUS_218.91"
+    },
+    {
+      "path": "PS2/SLUS_218.91/SLUS_218.91_BG_01.png",
+      "kind": "background",
+      "bytes": 195191,
+      "width": 640,
+      "height": 480,
+      "sha256": "426f99702410a536c89748b916c648536abbd228dec4d844ce8ef8e89545e196",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.91/SLUS_218.91_BG_01.png"
+      },
+      "gameId": "SLUS_218.91"
+    },
+    {
+      "path": "PS2/SLUS_218.91/SLUS_218.91_BG_02.png",
+      "kind": "background",
+      "bytes": 203814,
+      "width": 640,
+      "height": 480,
+      "sha256": "a777beda77d63175926608b0369e1f59bd4ab2a854651487dd098ceae5045455",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.91/SLUS_218.91_BG_02.png"
+      },
+      "gameId": "SLUS_218.91"
+    },
+    {
+      "path": "PS2/SLUS_218.91/SLUS_218.91_BG_03.png",
+      "kind": "background",
+      "bytes": 177962,
+      "width": 640,
+      "height": 480,
+      "sha256": "dac318c0147c6ad8aeb4d8ce4f5664e72cf0c3088b5424592bd86a89fd6864ce",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.91/SLUS_218.91_BG_03.png"
+      },
+      "gameId": "SLUS_218.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney G-Force"
+}

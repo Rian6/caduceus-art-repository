@@ -1,0 +1,64 @@
+{
+  "id": "SCES_504.94",
+  "cover": {
+    "path": "PS2/SCES_504.94/SCES_504.94_COV.png",
+    "kind": "cover",
+    "bytes": 47408,
+    "width": 192,
+    "height": 272,
+    "sha256": "0a11af207ce91274eb3e1696bc68d982a8803e00f45be1985b3af18ad629ac2d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50494.jpg"
+    },
+    "gameId": "SCES_504.94"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_504.94/SCES_504.94_BG.png",
+    "kind": "background",
+    "bytes": 216518,
+    "width": 640,
+    "height": 480,
+    "sha256": "cd98ffb72af98ac411f63f7cdcbf06a763c8bd2dd85892ab126a9f902d29c4d0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_504.94/SCES_504.94_BG_00.png"
+    },
+    "gameId": "SCES_504.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_504.94/SCES_504.94_BG.png",
+      "kind": "background",
+      "bytes": 216518,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd98ffb72af98ac411f63f7cdcbf06a763c8bd2dd85892ab126a9f902d29c4d0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.94/SCES_504.94_BG_00.png"
+      },
+      "gameId": "SCES_504.94"
+    },
+    {
+      "path": "PS2/SCES_504.94/SCES_504.94_BG_01.png",
+      "kind": "background",
+      "bytes": 178417,
+      "width": 640,
+      "height": 480,
+      "sha256": "2fda8c4f50e276d5baf9c7e9b034cd052a16addae1ce44b47656f9dee6c3e2aa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.94/SCES_504.94_BG_01.png"
+      },
+      "gameId": "SCES_504.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy X"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.04",
+  "cover": {
+    "path": "PS2/SLPS_204.04/SLPS_204.04_COV.png",
+    "kind": "cover",
+    "bytes": 107289,
+    "width": 192,
+    "height": 272,
+    "sha256": "a42b756ab9c6027959a9e5ef0547c90c8c53f79d7327fc0b565965d85e3c069f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20404.jpg"
+    },
+    "gameId": "SLPS_204.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rakushou! Pachi-Slot Sengen 2 - Juujika, Deka Dan"
+}

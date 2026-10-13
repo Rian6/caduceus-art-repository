@@ -1,0 +1,117 @@
+{
+  "id": "SLES_533.98",
+  "cover": {
+    "path": "PS2/SLES_533.98/SLES_533.98_COV.png",
+    "kind": "cover",
+    "bytes": 80074,
+    "width": 192,
+    "height": 272,
+    "sha256": "c718c605781b9af23a500acbb5b83409adf0c28be6c4a0c878706ad092d8c47b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53398.jpg"
+    },
+    "gameId": "SLES_533.98"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.98/SLES_533.98_ICO.png",
+    "kind": "disc",
+    "bytes": 10396,
+    "width": 128,
+    "height": 128,
+    "sha256": "148a964036bf89deb52b27bfd225459bd69624bf1b881e49c84e35907782a700",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.98_ICO.png"
+    },
+    "gameId": "SLES_533.98"
+  },
+  "background": {
+    "path": "PS2/SLES_533.98/SLES_533.98_BG.png",
+    "kind": "background",
+    "bytes": 191679,
+    "width": 640,
+    "height": 480,
+    "sha256": "36839a69145ee5c6dd38cf46151846412685cf941e83aa6fb98251c83b9d20e4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.98/SLES_533.98_BG_00.png"
+    },
+    "gameId": "SLES_533.98"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.98/SLES_533.98_BG.png",
+      "kind": "background",
+      "bytes": 191679,
+      "width": 640,
+      "height": 480,
+      "sha256": "36839a69145ee5c6dd38cf46151846412685cf941e83aa6fb98251c83b9d20e4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.98/SLES_533.98_BG_00.png"
+      },
+      "gameId": "SLES_533.98"
+    },
+    {
+      "path": "PS2/SLES_533.98/SLES_533.98_BG_01.png",
+      "kind": "background",
+      "bytes": 228945,
+      "width": 640,
+      "height": 480,
+      "sha256": "8d126004440942ef5285f94a2d3dcef120151ab9a17c8f618311eb6882dd8fc3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.98/SLES_533.98_BG_01.png"
+      },
+      "gameId": "SLES_533.98"
+    },
+    {
+      "path": "PS2/SLES_533.98/SLES_533.98_BG_02.png",
+      "kind": "background",
+      "bytes": 215362,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7bac4b4de9a425fb0aa46ac69cd52b9b89f2aea110b7a59cf9d8b6b8cea0205",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.98/SLES_533.98_BG_02.png"
+      },
+      "gameId": "SLES_533.98"
+    },
+    {
+      "path": "PS2/SLES_533.98/SLES_533.98_BG_03.png",
+      "kind": "background",
+      "bytes": 238239,
+      "width": 640,
+      "height": 480,
+      "sha256": "2d1716b6d9021e7b3fc5383d96572446cedfbca7d3d0c32f452484e3a12e0f09",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.98/SLES_533.98_BG_03.png"
+      },
+      "gameId": "SLES_533.98"
+    },
+    {
+      "path": "PS2/SLES_533.98/SLES_533.98_BG_04.png",
+      "kind": "background",
+      "bytes": 186087,
+      "width": 640,
+      "height": 480,
+      "sha256": "75e162fc1b8ed38a2361a96256fbd1d28186b9ab8fec7735697785d13d8d6c7c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.98/SLES_533.98_BG_04.png"
+      },
+      "gameId": "SLES_533.98"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zombie Zone"
+}

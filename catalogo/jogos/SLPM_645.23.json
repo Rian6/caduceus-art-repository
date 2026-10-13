@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_645.23",
+  "cover": {
+    "path": "PS2/SLPM_645.23/SLPM_645.23_COV.png",
+    "kind": "cover",
+    "bytes": 108032,
+    "width": 192,
+    "height": 272,
+    "sha256": "3149573fee5a3b285210321028df2d76b535d74e0396beae530beb3290d98dc3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-64523.jpg"
+    },
+    "gameId": "SLPM_645.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_645.23/SLPM_645.23_BG.png",
+    "kind": "background",
+    "bytes": 209868,
+    "width": 640,
+    "height": 480,
+    "sha256": "520c67887b1b456522cfa1531cd78eb78195a23ade5b9d86b395c380843ec92b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_645.23/SLPM_645.23_BG_00.png"
+    },
+    "gameId": "SLPM_645.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_645.23/SLPM_645.23_BG.png",
+      "kind": "background",
+      "bytes": 209868,
+      "width": 640,
+      "height": 480,
+      "sha256": "520c67887b1b456522cfa1531cd78eb78195a23ade5b9d86b395c380843ec92b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_645.23/SLPM_645.23_BG_00.png"
+      },
+      "gameId": "SLPM_645.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MARVEL VS CAPCOM 2"
+}

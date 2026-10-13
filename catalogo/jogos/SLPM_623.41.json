@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.41",
+  "cover": {
+    "path": "PS2/SLPM_623.41/SLPM_623.41_COV.png",
+    "kind": "cover",
+    "bytes": 88120,
+    "width": 192,
+    "height": 272,
+    "sha256": "a839c5497e02211fc471fc5396cfac8328984eef3bf1faf9d567f74e3756b05c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62341.jpg"
+    },
+    "gameId": "SLPM_623.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FUSHIGI NO KUNI NO ALICE"
+}

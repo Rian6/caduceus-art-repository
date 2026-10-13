@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.28",
+  "cover": {
+    "path": "PS2/SLPM_622.28/SLPM_622.28_COV.png",
+    "kind": "cover",
+    "bytes": 78727,
+    "width": 192,
+    "height": 272,
+    "sha256": "f20b100e65d38cc92e83adec30d89bbf3856747b1b6a141d04a4065962cf9a9a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62228.jpg"
+    },
+    "gameId": "SLPM_622.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SILPHEED - THE LOST PLANET [CAPKORE]"
+}

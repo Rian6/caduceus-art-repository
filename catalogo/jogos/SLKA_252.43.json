@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_252.43",
+  "cover": {
+    "path": "PS2/SLKA_252.43/SLKA_252.43_COV.png",
+    "kind": "cover",
+    "bytes": 105210,
+    "width": 192,
+    "height": 272,
+    "sha256": "e5ee8c3346119ad3143b54a690d9d9c689d315390b710b6d48981ed566fdccf3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25243.jpg"
+    },
+    "gameId": "SLKA_252.43"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_252.43/SLKA_252.43_BG.png",
+    "kind": "background",
+    "bytes": 233547,
+    "width": 640,
+    "height": 480,
+    "sha256": "7ece38659a13d51fe4b10e25142203a31a4df47fb097a66dc9e33672bf0d29e7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.43/SLKA_252.43_BG_00.png"
+    },
+    "gameId": "SLKA_252.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_252.43/SLKA_252.43_BG.png",
+      "kind": "background",
+      "bytes": 233547,
+      "width": 640,
+      "height": 480,
+      "sha256": "7ece38659a13d51fe4b10e25142203a31a4df47fb097a66dc9e33672bf0d29e7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_252.43/SLKA_252.43_BG_00.png"
+      },
+      "gameId": "SLKA_252.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEDAL OF HONOR - EUROPEAN ASSAULT"
+}

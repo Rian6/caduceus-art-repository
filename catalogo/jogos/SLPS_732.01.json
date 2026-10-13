@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.01",
+  "cover": {
+    "path": "PS2/SLPS_732.01/SLPS_732.01_COV.png",
+    "kind": "cover",
+    "bytes": 79396,
+    "width": 192,
+    "height": 272,
+    "sha256": "dcb24a8032255da7073a55e8dc0750b012a0410c23ed713373df7ce5dc0a9cea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73201.jpg"
+    },
+    "gameId": "SLPS_732.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZERO - AKAI CHOU [PLAYSTATION 2 THE BEST]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.07",
+  "cover": {
+    "path": "PS2/SLPS_732.07/SLPS_732.07_COV.png",
+    "kind": "cover",
+    "bytes": 85258,
+    "width": 192,
+    "height": 272,
+    "sha256": "c904aee2af7d8e01f33e7df438ade17ff577490b78677d1a07862001746bf6a7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73207.jpg"
+    },
+    "gameId": "SLPS_732.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Ball Z (PlayStation 2 the Best)"
+}

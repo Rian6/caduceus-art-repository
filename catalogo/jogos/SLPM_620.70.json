@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.70",
+  "cover": {
+    "path": "PS2/SLPM_620.70/SLPM_620.70_COV.png",
+    "kind": "cover",
+    "bytes": 88416,
+    "width": 192,
+    "height": 272,
+    "sha256": "87b6972dae1dc0a258e5f2e4a272b4c63507fefe16454e2e31dbc6f4c7ac1959",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62070.jpg"
+    },
+    "gameId": "SLPM_620.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Uchu-Jintte Naani?"
+}

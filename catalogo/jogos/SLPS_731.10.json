@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_731.10",
+  "cover": {
+    "path": "PS2/SLPS_731.10/SLPS_731.10_COV.png",
+    "kind": "cover",
+    "bytes": 96872,
+    "width": 192,
+    "height": 272,
+    "sha256": "4482628f991c73ab0d97731aac8bbe7df301acf58e8d990a6934ee61bc8c61fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73110.jpg"
+    },
+    "gameId": "SLPS_731.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin: Appare Sandaime (PlayStation 2 the Best)"
+}

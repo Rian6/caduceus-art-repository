@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_214.49",
+  "cover": {
+    "path": "PS2/SLUS_214.49/SLUS_214.49_COV.png",
+    "kind": "cover",
+    "bytes": 100054,
+    "width": 192,
+    "height": 272,
+    "sha256": "2da37be1a0a40cefe2cd8d90331721746d96f1ade599ddb431dea1856adbe6f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21449.jpg"
+    },
+    "gameId": "SLUS_214.49"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.49/SLUS_214.49_ICO.png",
+    "kind": "disc",
+    "bytes": 35620,
+    "width": 256,
+    "height": 256,
+    "sha256": "664843b195d340629a7c569e721531615ceed20c40e9cf4b143835952b47a7db",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.49_ICO.png"
+    },
+    "gameId": "SLUS_214.49"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.49/SLUS_214.49_BG.png",
+    "kind": "background",
+    "bytes": 181041,
+    "width": 640,
+    "height": 480,
+    "sha256": "e0e153c6ff4f7ba5bbbff0cf4dd43d272b55947e47a5f410a3ae2d0eab5f79df",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.49/SLUS_214.49_BG_00.png"
+    },
+    "gameId": "SLUS_214.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.49/SLUS_214.49_BG.png",
+      "kind": "background",
+      "bytes": 181041,
+      "width": 640,
+      "height": 480,
+      "sha256": "e0e153c6ff4f7ba5bbbff0cf4dd43d272b55947e47a5f410a3ae2d0eab5f79df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.49/SLUS_214.49_BG_00.png"
+      },
+      "gameId": "SLUS_214.49"
+    },
+    {
+      "path": "PS2/SLUS_214.49/SLUS_214.49_BG_01.png",
+      "kind": "background",
+      "bytes": 193310,
+      "width": 640,
+      "height": 480,
+      "sha256": "b538bed869dceed2b1e6b9f141f837797c86f62fa0742945b918444fc45eee92",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.49/SLUS_214.49_BG_01.png"
+      },
+      "gameId": "SLUS_214.49"
+    },
+    {
+      "path": "PS2/SLUS_214.49/SLUS_214.49_BG_02.png",
+      "kind": "background",
+      "bytes": 179973,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d476769df64b871d176fb294c3ceaa80cb3354ba46e4d60766fb152af95cff3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.49/SLUS_214.49_BG_02.png"
+      },
+      "gameId": "SLUS_214.49"
+    },
+    {
+      "path": "PS2/SLUS_214.49/SLUS_214.49_BG_03.png",
+      "kind": "background",
+      "bytes": 189577,
+      "width": 640,
+      "height": 480,
+      "sha256": "9787cdbf3ee58da7e24765b9032a856dc4e9eeeb4d0d1f14db7276ddccae5def",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.49/SLUS_214.49_BG_03.png"
+      },
+      "gameId": "SLUS_214.49"
+    },
+    {
+      "path": "PS2/SLUS_214.49/SLUS_214.49_BG_04.png",
+      "kind": "background",
+      "bytes": 204262,
+      "width": 640,
+      "height": 480,
+      "sha256": "68acc5f0e6eb7ba1dfc8d7180b08029360c2ee72549dcc1f80d63967fc216225",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.49/SLUS_214.49_BG_04.png"
+      },
+      "gameId": "SLUS_214.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Fast and the Furious"
+}

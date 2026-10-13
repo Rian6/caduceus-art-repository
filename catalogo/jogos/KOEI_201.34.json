@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.34",
+  "cover": {
+    "path": "PS2/KOEI_201.34/KOEI_201.34_COV.png",
+    "kind": "cover",
+    "bytes": 78657,
+    "width": 192,
+    "height": 272,
+    "sha256": "b431ffabfb12f7f04026b27e177088c8a2b3b787084a5b09ea1c1b192bf25fc6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/KOEI-20134.jpg"
+    },
+    "gameId": "KOEI_201.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KIN'IRO NO KORUDA 2 - ENCORE [PREMIUM BOX]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_536.35",
+  "cover": {
+    "path": "PS2/SLES_536.35/SLES_536.35_COV.png",
+    "kind": "cover",
+    "bytes": 86676,
+    "width": 192,
+    "height": 272,
+    "sha256": "7190882f4fc921f4933afc98e550b52dd755bd26fd2d80c741d1ed0016fa9308",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53635.jpg"
+    },
+    "gameId": "SLES_536.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NASCAR '06 - Total Team Control"
+}

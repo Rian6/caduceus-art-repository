@@ -1,0 +1,65 @@
+{
+  "id": "SLES_517.85",
+  "cover": {
+    "path": "PS2/SLES_517.85/SLES_517.85_COV.png",
+    "kind": "cover",
+    "bytes": 83803,
+    "width": 192,
+    "height": 272,
+    "sha256": "3b058c26a1e7b6ec574dac97eeea7982d97d79e81d693b0d5fca5fa2f600f4c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51785.jpg"
+    },
+    "gameId": "SLES_517.85"
+  },
+  "disc": {
+    "path": "PS2/SLES_517.85/SLES_517.85_ICO.png",
+    "kind": "disc",
+    "bytes": 11543,
+    "width": 128,
+    "height": 128,
+    "sha256": "da58b1f8af0adac9fa3d4e957ceead2d20ee612b10b072e12c07372321eef5df",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_517.85_ICO.png"
+    },
+    "gameId": "SLES_517.85"
+  },
+  "background": {
+    "path": "PS2/SLES_517.85/SLES_517.85_BG.png",
+    "kind": "background",
+    "bytes": 156974,
+    "width": 640,
+    "height": 480,
+    "sha256": "d388d4c7c29119c8807eedaf306ac88836c06038d24e0e3d28c3b2a3ba510ad1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.85/SLES_517.85_BG_00.png"
+    },
+    "gameId": "SLES_517.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.85/SLES_517.85_BG.png",
+      "kind": "background",
+      "bytes": 156974,
+      "width": 640,
+      "height": 480,
+      "sha256": "d388d4c7c29119c8807eedaf306ac88836c06038d24e0e3d28c3b2a3ba510ad1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.85/SLES_517.85_BG_00.png"
+      },
+      "gameId": "SLES_517.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cool Shot"
+}

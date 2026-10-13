@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.49",
+  "cover": {
+    "path": "PS2/SLES_526.49/SLES_526.49_COV.png",
+    "kind": "cover",
+    "bytes": 86083,
+    "width": 192,
+    "height": 272,
+    "sha256": "0b134b1e246e88b9291eb4e8aa84f43be224c7c8406a65533cdacc78af73cb93",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52649.jpg"
+    },
+    "gameId": "SLES_526.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - Olympique de Marseille"
+}

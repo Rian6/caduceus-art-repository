@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_975.16",
+  "cover": {
+    "path": "PS2/SCUS_975.16/SCUS_975.16_COV.png",
+    "kind": "cover",
+    "bytes": 94985,
+    "width": 192,
+    "height": 272,
+    "sha256": "2c87f27153f1e2a71b0193e0309b305897f88d559fd186f5f7a7bffdb0de4936",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97516.jpg"
+    },
+    "gameId": "SCUS_975.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jak 3 (Greatest Hits)"
+}

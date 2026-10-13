@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.36",
+  "cover": {
+    "path": "PS2/SLPM_621.36/SLPM_621.36_COV.png",
+    "kind": "cover",
+    "bytes": 40541,
+    "width": 192,
+    "height": 272,
+    "sha256": "b2a9ff2d4fea9bee298d6175e1b58fcdc16f45a2953d0363bfddc597e4b99f73",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_621.36/SLPM_621.36_COV.png"
+    },
+    "gameId": "SLPM_621.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NetFront for Delta"
+}

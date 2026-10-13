@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_216.55",
+  "cover": {
+    "path": "PS2/SLUS_216.55/SLUS_216.55_COV.png",
+    "kind": "cover",
+    "bytes": 86210,
+    "width": 192,
+    "height": 272,
+    "sha256": "014cbc021e188bda4ebc738b29488e2257fa4fbbc970ccd5c4cbedeb706d0177",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21655.jpg"
+    },
+    "gameId": "SLUS_216.55"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.55/SLUS_216.55_ICO.png",
+    "kind": "disc",
+    "bytes": 32314,
+    "width": 256,
+    "height": 256,
+    "sha256": "fce16a8950828886a393094ba2814db5e4a12cce95332ebc4e756c5299dd77e7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.55_ICO.png"
+    },
+    "gameId": "SLUS_216.55"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.55/SLUS_216.55_BG.png",
+    "kind": "background",
+    "bytes": 172614,
+    "width": 640,
+    "height": 480,
+    "sha256": "ac9da6b0b47c430da66d90bb8210aa9adb2ea2ce7f931ac524bde2dc33da6716",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.55/SLUS_216.55_BG_00.png"
+    },
+    "gameId": "SLUS_216.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.55/SLUS_216.55_BG.png",
+      "kind": "background",
+      "bytes": 172614,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac9da6b0b47c430da66d90bb8210aa9adb2ea2ce7f931ac524bde2dc33da6716",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.55/SLUS_216.55_BG_00.png"
+      },
+      "gameId": "SLUS_216.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CSI - 3 DIMENSIONS OF MURDER"
+}

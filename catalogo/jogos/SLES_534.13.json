@@ -1,0 +1,25 @@
+{
+  "id": "SLES_534.13",
+  "cover": {
+    "path": "PS2/SLES_534.13/SLES_534.13_COV.png",
+    "kind": "cover",
+    "bytes": 85817,
+    "width": 192,
+    "height": 272,
+    "sha256": "d65eacb5cd09cd267e1b0dedfa65717f39c00c00faa5aaf08cf655d8dd91b111",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53413.jpg"
+    },
+    "gameId": "SLES_534.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "REBEL RAIDERS - OPERATION NIGHTHAWK"
+}

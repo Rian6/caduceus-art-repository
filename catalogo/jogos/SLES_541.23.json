@@ -1,0 +1,64 @@
+{
+  "id": "SLES_541.23",
+  "cover": {
+    "path": "PS2/SLES_541.23/SLES_541.23_COV.png",
+    "kind": "cover",
+    "bytes": 106717,
+    "width": 192,
+    "height": 272,
+    "sha256": "b14c632025bff52e79ad8d2b9038c1c3063ab0f52cb10842e981da2ee3feb655",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54123.jpg"
+    },
+    "gameId": "SLES_541.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.23/SLES_541.23_BG.png",
+    "kind": "background",
+    "bytes": 149836,
+    "width": 640,
+    "height": 480,
+    "sha256": "f717eb62f800b4fe6479d3f9cc94c116e6fdf01614df149bacb462b594dd5dbc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.23/SLES_541.23_BG_00.png"
+    },
+    "gameId": "SLES_541.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.23/SLES_541.23_BG.png",
+      "kind": "background",
+      "bytes": 149836,
+      "width": 640,
+      "height": 480,
+      "sha256": "f717eb62f800b4fe6479d3f9cc94c116e6fdf01614df149bacb462b594dd5dbc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.23/SLES_541.23_BG_00.png"
+      },
+      "gameId": "SLES_541.23"
+    },
+    {
+      "path": "PS2/SLES_541.23/SLES_541.23_BG_01.png",
+      "kind": "background",
+      "bytes": 196582,
+      "width": 640,
+      "height": 480,
+      "sha256": "565d407787f256ea400ac29091ec5f0c90f17f4435f2bb4e43b98bc88c75c9dc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.23/SLES_541.23_BG_01.png"
+      },
+      "gameId": "SLES_541.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Marvel: Ultimate Alliance"
+}

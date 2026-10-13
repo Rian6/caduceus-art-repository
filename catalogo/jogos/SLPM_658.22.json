@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_658.22",
+  "cover": {
+    "path": "PS2/SLPM_658.22/SLPM_658.22_COV.png",
+    "kind": "cover",
+    "bytes": 100878,
+    "width": 192,
+    "height": 272,
+    "sha256": "14402f71a5db793954f326b05030f037f7cf04532b5394e343cafdeb50cf9c6b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65822.jpg"
+    },
+    "gameId": "SLPM_658.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_658.22/SLPM_658.22_BG.png",
+    "kind": "background",
+    "bytes": 158381,
+    "width": 640,
+    "height": 480,
+    "sha256": "f880fc2d752d39dee71abfb29615859eafb4e46932e10c32bb99a917d7dbe8df",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_658.22/SLPM_658.22_BG_00.png"
+    },
+    "gameId": "SLPM_658.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_658.22/SLPM_658.22_BG.png",
+      "kind": "background",
+      "bytes": 158381,
+      "width": 640,
+      "height": 480,
+      "sha256": "f880fc2d752d39dee71abfb29615859eafb4e46932e10c32bb99a917d7dbe8df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.22/SLPM_658.22_BG_00.png"
+      },
+      "gameId": "SLPM_658.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ICHIGO 100% STRAWBERRY DIARY"
+}

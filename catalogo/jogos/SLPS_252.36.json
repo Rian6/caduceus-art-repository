@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.36",
+  "cover": {
+    "path": "PS2/SLPS_252.36/SLPS_252.36_COV.png",
+    "kind": "cover",
+    "bytes": 109859,
+    "width": 192,
+    "height": 272,
+    "sha256": "f6a6854a2fe95847bb05c0c75aacaa3f45428ed520fac6512f445686ee514f0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25236.jpg"
+    },
+    "gameId": "SLPS_252.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FANTASTIC FORTUNE 2"
+}

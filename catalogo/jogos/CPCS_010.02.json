@@ -1,0 +1,25 @@
+{
+  "id": "CPCS_010.02",
+  "cover": {
+    "path": "PS2/CPCS_010.02/CPCS_010.02_COV.png",
+    "kind": "cover",
+    "bytes": 109593,
+    "width": 192,
+    "height": 272,
+    "sha256": "1949dccbcbf46a53f565b0031435d72b93359583efd738ce2fd024c6a1f464ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/CPCS-01002.jpg"
+    },
+    "gameId": "CPCS_010.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUN SURVIVOR 3 - DINO CRISIS [WITH GUNCON2]"
+}

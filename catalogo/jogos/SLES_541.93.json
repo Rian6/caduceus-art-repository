@@ -1,0 +1,64 @@
+{
+  "id": "SLES_541.93",
+  "cover": {
+    "path": "PS2/SLES_541.93/SLES_541.93_COV.png",
+    "kind": "cover",
+    "bytes": 82228,
+    "width": 192,
+    "height": 272,
+    "sha256": "518e916ada584357479b2989ed20a4d69319d56ec8f9f67f212302e62239811a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54193.jpg"
+    },
+    "gameId": "SLES_541.93"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_541.93/SLES_541.93_BG.png",
+    "kind": "background",
+    "bytes": 107660,
+    "width": 640,
+    "height": 480,
+    "sha256": "8bda1a0b23f078ff58764f2be9098fb5ddd95173efe1e1d83cd7ce50314e095e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_541.93/SLES_541.93_BG_00.png"
+    },
+    "gameId": "SLES_541.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_541.93/SLES_541.93_BG.png",
+      "kind": "background",
+      "bytes": 107660,
+      "width": 640,
+      "height": 480,
+      "sha256": "8bda1a0b23f078ff58764f2be9098fb5ddd95173efe1e1d83cd7ce50314e095e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.93/SLES_541.93_BG_00.png"
+      },
+      "gameId": "SLES_541.93"
+    },
+    {
+      "path": "PS2/SLES_541.93/SLES_541.93_BG_01.png",
+      "kind": "background",
+      "bytes": 125772,
+      "width": 640,
+      "height": 480,
+      "sha256": "418c71e5055538377b252998f04d96f719da4ad97f0fdc1847258188d1022ac7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_541.93/SLES_541.93_BG_01.png"
+      },
+      "gameId": "SLES_541.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Carol Vorderman's Sudoku"
+}

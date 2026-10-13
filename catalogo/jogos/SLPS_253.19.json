@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.19",
+  "cover": {
+    "path": "PS2/SLPS_253.19/SLPS_253.19_COV.png",
+    "kind": "cover",
+    "bytes": 69448,
+    "width": 192,
+    "height": 272,
+    "sha256": "b632df46fbeec8f5da477c518af836eed593598a273d02bc0ae2cbe46c1aa9bb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25319.jpg"
+    },
+    "gameId": "SLPS_253.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KERO KERO KING DX PLUS"
+}

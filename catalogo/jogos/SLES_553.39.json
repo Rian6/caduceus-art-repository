@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.39",
+  "cover": {
+    "path": "PS2/SLES_553.39/SLES_553.39_COV.png",
+    "kind": "cover",
+    "bytes": 53555,
+    "width": 192,
+    "height": 272,
+    "sha256": "4629f07704fd690a4e9e571ceba8d81b1bec2d8b7d82eac864617c0095acefe4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.39/SLES_553.39_COV.png"
+    },
+    "gameId": "SLES_553.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL '09"
+}

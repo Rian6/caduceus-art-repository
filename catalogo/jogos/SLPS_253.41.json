@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.41",
+  "cover": {
+    "path": "PS2/SLPS_253.41/SLPS_253.41_COV.png",
+    "kind": "cover",
+    "bytes": 106221,
+    "width": 192,
+    "height": 272,
+    "sha256": "032257ee7fa5ad79da7fefbd7c805d0d14d819d24711622838d7cb2e5669b08c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25341.jpg"
+    },
+    "gameId": "SLPS_253.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Backyard Wrestling - Don't Try This at Home"
+}

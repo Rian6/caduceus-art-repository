@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_253.10",
+  "cover": {
+    "path": "PS2/SLPS_253.10/SLPS_253.10_COV.png",
+    "kind": "cover",
+    "bytes": 97095,
+    "width": 192,
+    "height": 272,
+    "sha256": "7374df46b0d769dc3ee2718e2b2cddb83b2f6656fb20b6868d827213a0e64f4d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25310.jpg"
+    },
+    "gameId": "SLPS_253.10"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_253.10/SLPS_253.10_BG.png",
+    "kind": "background",
+    "bytes": 178222,
+    "width": 640,
+    "height": 480,
+    "sha256": "a87b18dbfdb75e7a206b9b1088c78ca09b4e5ff15bf06ef38ffeffea9da617a1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.10/SLPS_253.10_BG_00.png"
+    },
+    "gameId": "SLPS_253.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.10/SLPS_253.10_BG.png",
+      "kind": "background",
+      "bytes": 178222,
+      "width": 640,
+      "height": 480,
+      "sha256": "a87b18dbfdb75e7a206b9b1088c78ca09b4e5ff15bf06ef38ffeffea9da617a1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.10/SLPS_253.10_BG_00.png"
+      },
+      "gameId": "SLPS_253.10"
+    },
+    {
+      "path": "PS2/SLPS_253.10/SLPS_253.10_BG_01.png",
+      "kind": "background",
+      "bytes": 155991,
+      "width": 640,
+      "height": 480,
+      "sha256": "71173bc5d4a57f0d6bb7bd500773130e19c95f5c3b365341f65adeeec81ea749",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.10/SLPS_253.10_BG_01.png"
+      },
+      "gameId": "SLPS_253.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney-Pixar's Finding Nemo"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.27",
+  "cover": {
+    "path": "PS2/SLKA_250.27/SLKA_250.27_COV.png",
+    "kind": "cover",
+    "bytes": 67034,
+    "width": 192,
+    "height": 272,
+    "sha256": "422ec277e9a26c8588702ed6d7ef30adf589cefc02532c8d7e5649f38e09cf24",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.27/SLKA_250.27_COV.png"
+    },
+    "gameId": "SLKA_250.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Street Vol.2"
+}

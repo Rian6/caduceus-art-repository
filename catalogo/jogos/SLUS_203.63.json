@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_203.63",
+  "cover": {
+    "path": "PS2/SLUS_203.63/SLUS_203.63_COV.png",
+    "kind": "cover",
+    "bytes": 99271,
+    "width": 192,
+    "height": 272,
+    "sha256": "e5ac252f0d9cfa4795a6559862a131625c71b1aaf3f56381a083ee4983604aeb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20363.jpg"
+    },
+    "gameId": "SLUS_203.63"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.63/SLUS_203.63_ICO.png",
+    "kind": "disc",
+    "bytes": 32471,
+    "width": 256,
+    "height": 256,
+    "sha256": "a11e47941ba855748c08f7c3935cb9116d7a0c7276d3b538d8f8013f133d3c28",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.63_ICO.png"
+    },
+    "gameId": "SLUS_203.63"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.63/SLUS_203.63_BG.png",
+    "kind": "background",
+    "bytes": 172112,
+    "width": 640,
+    "height": 480,
+    "sha256": "aa283e159f92a155e975abec98c70d799437c98ab0eaaa6cf2e7418422d1e6cb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.63/SLUS_203.63_BG_00.png"
+    },
+    "gameId": "SLUS_203.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.63/SLUS_203.63_BG.png",
+      "kind": "background",
+      "bytes": 172112,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa283e159f92a155e975abec98c70d799437c98ab0eaaa6cf2e7418422d1e6cb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.63/SLUS_203.63_BG_00.png"
+      },
+      "gameId": "SLUS_203.63"
+    },
+    {
+      "path": "PS2/SLUS_203.63/SLUS_203.63_BG_01.png",
+      "kind": "background",
+      "bytes": 166321,
+      "width": 640,
+      "height": 480,
+      "sha256": "b0c0f192668487c3f801bfbaa254f4e57ca06acc58fe283bf71f85f5711097e8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.63/SLUS_203.63_BG_01.png"
+      },
+      "gameId": "SLUS_203.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLED STORM"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_520.43",
+  "cover": {
+    "path": "PS2/SLES_520.43/SLES_520.43_COV.png",
+    "kind": "cover",
+    "bytes": 94797,
+    "width": 192,
+    "height": 272,
+    "sha256": "b1a29ce5fffe1d303de2b8bfb2c1e0f522e48b25b9c32088524ac005c9eac2bc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52043.jpg"
+    },
+    "gameId": "SLES_520.43"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_520.43/SLES_520.43_BG.png",
+    "kind": "background",
+    "bytes": 189166,
+    "width": 640,
+    "height": 480,
+    "sha256": "e13ece7da584342fd5c2ccc61ad77ae58be67784264d2f7e05ad769617bff5c5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_520.43/SLES_520.43_BG_00.png"
+    },
+    "gameId": "SLES_520.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_520.43/SLES_520.43_BG.png",
+      "kind": "background",
+      "bytes": 189166,
+      "width": 640,
+      "height": 480,
+      "sha256": "e13ece7da584342fd5c2ccc61ad77ae58be67784264d2f7e05ad769617bff5c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.43/SLES_520.43_BG_00.png"
+      },
+      "gameId": "SLES_520.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MX Unleashed"
+}

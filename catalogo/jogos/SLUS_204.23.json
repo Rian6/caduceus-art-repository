@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_204.23",
+  "cover": {
+    "path": "PS2/SLUS_204.23/SLUS_204.23_COV.png",
+    "kind": "cover",
+    "bytes": 89241,
+    "width": 192,
+    "height": 272,
+    "sha256": "9760305db609fc77ce8fe2a6e7cd91f2ad4a26145d5d74ea87771f926fbc9e51",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20423.jpg"
+    },
+    "gameId": "SLUS_204.23"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.23/SLUS_204.23_ICO.png",
+    "kind": "disc",
+    "bytes": 36117,
+    "width": 256,
+    "height": 256,
+    "sha256": "d5a5f340dd933227609c314acf49d5872d0ce776d7447babf0771a100fbf6ae7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.23_ICO.png"
+    },
+    "gameId": "SLUS_204.23"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.23/SLUS_204.23_BG.png",
+    "kind": "background",
+    "bytes": 149118,
+    "width": 640,
+    "height": 480,
+    "sha256": "4891822f766e25e984e6cefba3e13f381d9d7b8e14b4fcd5f88ec0c92b33d3c7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.23/SLUS_204.23_BG_00.png"
+    },
+    "gameId": "SLUS_204.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.23/SLUS_204.23_BG.png",
+      "kind": "background",
+      "bytes": 149118,
+      "width": 640,
+      "height": 480,
+      "sha256": "4891822f766e25e984e6cefba3e13f381d9d7b8e14b4fcd5f88ec0c92b33d3c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.23/SLUS_204.23_BG_00.png"
+      },
+      "gameId": "SLUS_204.23"
+    },
+    {
+      "path": "PS2/SLUS_204.23/SLUS_204.23_BG_01.png",
+      "kind": "background",
+      "bytes": 101641,
+      "width": 640,
+      "height": 480,
+      "sha256": "7fc13a4b027d044cc0b162100ddb6ee6d499a6c08d381543e0c862384303d462",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.23/SLUS_204.23_BG_01.png"
+      },
+      "gameId": "SLUS_204.23"
+    },
+    {
+      "path": "PS2/SLUS_204.23/SLUS_204.23_BG_02.png",
+      "kind": "background",
+      "bytes": 186101,
+      "width": 640,
+      "height": 480,
+      "sha256": "b3752e4cf4301200d7886261d052a088c8d903812ccbb889dfd4d3dedeb51e3d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.23/SLUS_204.23_BG_02.png"
+      },
+      "gameId": "SLUS_204.23"
+    },
+    {
+      "path": "PS2/SLUS_204.23/SLUS_204.23_BG_03.png",
+      "kind": "background",
+      "bytes": 145535,
+      "width": 640,
+      "height": 480,
+      "sha256": "65aef146089e7cbb3b172ceb1ac679af8fd4386ce71896405c3d5c483a2fe4a8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.23/SLUS_204.23_BG_03.png"
+      },
+      "gameId": "SLUS_204.23"
+    },
+    {
+      "path": "PS2/SLUS_204.23/SLUS_204.23_BG_04.png",
+      "kind": "background",
+      "bytes": 144143,
+      "width": 640,
+      "height": 480,
+      "sha256": "c6a89fb93412025ea7cbc12cd7c30bde16ae56ff44c6fdd1e4f3769fe6e06806",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.23/SLUS_204.23_BG_04.png"
+      },
+      "gameId": "SLUS_204.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MORTAL KOMBAT - DEADLY ALLIANCE"
+}

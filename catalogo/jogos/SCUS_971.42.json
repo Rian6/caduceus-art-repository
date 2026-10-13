@@ -1,0 +1,91 @@
+{
+  "id": "SCUS_971.42",
+  "cover": {
+    "path": "PS2/SCUS_971.42/SCUS_971.42_COV.png",
+    "kind": "cover",
+    "bytes": 88170,
+    "width": 192,
+    "height": 272,
+    "sha256": "af30017c3cef25816452601bbbe7849e13c26a0ce6805e039a240e333ba816de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97142.jpg"
+    },
+    "gameId": "SCUS_971.42"
+  },
+  "disc": {
+    "path": "PS2/SCUS_971.42/SCUS_971.42_ICO.png",
+    "kind": "disc",
+    "bytes": 34521,
+    "width": 256,
+    "height": 256,
+    "sha256": "643d8f7f3b6d07f1d76c876322c65036b083fe6f16e1f7e03634d2b80b9cbecb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_971.42_ICO.png"
+    },
+    "gameId": "SCUS_971.42"
+  },
+  "background": {
+    "path": "PS2/SCUS_971.42/SCUS_971.42_BG.png",
+    "kind": "background",
+    "bytes": 140973,
+    "width": 640,
+    "height": 480,
+    "sha256": "6bc0ea5570fe4bf8ddacad4e2381ee5637b17e19bc5a9585c4cfc9538fa1a63e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_971.42/SCUS_971.42_BG_00.png"
+    },
+    "gameId": "SCUS_971.42"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_971.42/SCUS_971.42_BG.png",
+      "kind": "background",
+      "bytes": 140973,
+      "width": 640,
+      "height": 480,
+      "sha256": "6bc0ea5570fe4bf8ddacad4e2381ee5637b17e19bc5a9585c4cfc9538fa1a63e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.42/SCUS_971.42_BG_00.png"
+      },
+      "gameId": "SCUS_971.42"
+    },
+    {
+      "path": "PS2/SCUS_971.42/SCUS_971.42_BG_01.png",
+      "kind": "background",
+      "bytes": 202004,
+      "width": 640,
+      "height": 480,
+      "sha256": "8baeaadbe4f309879691c5bb68a851dad28639fe0d92c1397232adcb84ad0046",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.42/SCUS_971.42_BG_01.png"
+      },
+      "gameId": "SCUS_971.42"
+    },
+    {
+      "path": "PS2/SCUS_971.42/SCUS_971.42_BG_02.png",
+      "kind": "background",
+      "bytes": 143609,
+      "width": 640,
+      "height": 480,
+      "sha256": "d67e123fe4632a9c02454ac774faca9a58bd5c6a69535b77d94e7794ec7550e3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.42/SCUS_971.42_BG_02.png"
+      },
+      "gameId": "SCUS_971.42"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Primal"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_253.60",
+  "cover": {
+    "path": "PS2/SLPS_253.60/SLPS_253.60_COV.png",
+    "kind": "cover",
+    "bytes": 76603,
+    "width": 192,
+    "height": 272,
+    "sha256": "4a4d5599c9802075fa0987c6d8591c516779870d4f86ea90bd43f461a9fe429c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25360.jpg"
+    },
+    "gameId": "SLPS_253.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_253.60/SLPS_253.60_BG.png",
+    "kind": "background",
+    "bytes": 175789,
+    "width": 640,
+    "height": 480,
+    "sha256": "ee5644104f9f9cbc793d7ba01e24b41e1b7c112e43ac3d18373bcd92d543862c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.60/SLPS_253.60_BG_00.png"
+    },
+    "gameId": "SLPS_253.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.60/SLPS_253.60_BG.png",
+      "kind": "background",
+      "bytes": 175789,
+      "width": 640,
+      "height": 480,
+      "sha256": "ee5644104f9f9cbc793d7ba01e24b41e1b7c112e43ac3d18373bcd92d543862c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.60/SLPS_253.60_BG_00.png"
+      },
+      "gameId": "SLPS_253.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Katamari Damacy"
+}

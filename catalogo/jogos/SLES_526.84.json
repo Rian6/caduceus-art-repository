@@ -1,0 +1,39 @@
+{
+  "id": "SLES_526.84",
+  "cover": {
+    "path": "PS2/SLES_526.84/SLES_526.84_COV.png",
+    "kind": "cover",
+    "bytes": 102415,
+    "width": 192,
+    "height": 272,
+    "sha256": "a3df583f3d6eb71a3611a57ebd72590bac9fecf29e3dd84939aa23e926d6426a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52684.jpg"
+    },
+    "gameId": "SLES_526.84"
+  },
+  "disc": {
+    "path": "PS2/SLES_526.84/SLES_526.84_ICO.png",
+    "kind": "disc",
+    "bytes": 10640,
+    "width": 128,
+    "height": 128,
+    "sha256": "184938bfab96d910ef1f580ebec9a5bdcf4b7466e2dd8d7cc619ee464edbc0d6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_526.84_ICO.png"
+    },
+    "gameId": "SLES_526.84"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cyclone Circus - Power Sail Racing"
+}

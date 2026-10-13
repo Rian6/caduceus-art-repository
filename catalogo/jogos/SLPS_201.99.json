@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.99",
+  "cover": {
+    "path": "PS2/SLPS_201.99/SLPS_201.99_COV.png",
+    "kind": "cover",
+    "bytes": 91930,
+    "width": 192,
+    "height": 272,
+    "sha256": "4a05cdf1115b80d4c232e523e371e306ee1bd41cbce20ede6f70b0e796f787a3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20199.jpg"
+    },
+    "gameId": "SLPS_201.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "F1 2002"
+}

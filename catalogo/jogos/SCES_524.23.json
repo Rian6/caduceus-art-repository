@@ -1,0 +1,51 @@
+{
+  "id": "SCES_524.23",
+  "cover": {
+    "path": "PS2/SCES_524.23/SCES_524.23_COV.png",
+    "kind": "cover",
+    "bytes": 94685,
+    "width": 192,
+    "height": 272,
+    "sha256": "35220617de6d186ed2d82b164c9345dc0bd2c5609f2e7c72918a0d3c8e7f9893",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52423.jpg"
+    },
+    "gameId": "SCES_524.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_524.23/SCES_524.23_BG.png",
+    "kind": "background",
+    "bytes": 218378,
+    "width": 640,
+    "height": 480,
+    "sha256": "31278a125bf9e87b131677da0b7a17f8b851038688d6f4b8fd4b7bfec1865ccf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_524.23/SCES_524.23_BG_00.png"
+    },
+    "gameId": "SCES_524.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_524.23/SCES_524.23_BG.png",
+      "kind": "background",
+      "bytes": 218378,
+      "width": 640,
+      "height": 480,
+      "sha256": "31278a125bf9e87b131677da0b7a17f8b851038688d6f4b8fd4b7bfec1865ccf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_524.23/SCES_524.23_BG_00.png"
+      },
+      "gameId": "SCES_524.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SMASH COURT TENNIS - PRO TOURNAMENT 2"
+}

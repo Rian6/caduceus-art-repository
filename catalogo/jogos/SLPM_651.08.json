@@ -1,0 +1,39 @@
+{
+  "id": "SLPM_651.08",
+  "cover": {
+    "path": "PS2/SLPM_651.08/SLPM_651.08_COV.png",
+    "kind": "cover",
+    "bytes": 85483,
+    "width": 192,
+    "height": 272,
+    "sha256": "6f85970b77fcbcf770245114aaaedea9d14be24b5f01db9dba59c8b6e647ab63",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65108.jpg"
+    },
+    "gameId": "SLPM_651.08"
+  },
+  "disc": {
+    "path": "PS2/SLPM_651.08/SLPM_651.08_ICO.png",
+    "kind": "disc",
+    "bytes": 10216,
+    "width": 128,
+    "height": 128,
+    "sha256": "0b87d9b23f76c301ea899518cf023ef2410d8ec19b0e4e05daa81f82b756cdcf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_651.08_ICO.png"
+    },
+    "gameId": "SLPM_651.08"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JET DE GO! 2 - LET'S GO BY AIRLINER"
+}

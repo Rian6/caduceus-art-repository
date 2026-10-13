@@ -1,0 +1,103 @@
+{
+  "id": "SLES_518.97",
+  "cover": {
+    "path": "PS2/SLES_518.97/SLES_518.97_COV.png",
+    "kind": "cover",
+    "bytes": 95581,
+    "width": 192,
+    "height": 272,
+    "sha256": "43e8c42594d0809a0ad50e67490314d7a8982b83f6edd305a814c4c476e45deb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51897.jpg"
+    },
+    "gameId": "SLES_518.97"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_518.97/SLES_518.97_BG.png",
+    "kind": "background",
+    "bytes": 130251,
+    "width": 640,
+    "height": 480,
+    "sha256": "d6a274b0f4f79d31922cef471a0d0b451af37fa137222be2341a5e20d77dc3ae",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.97/SLES_518.97_BG_00.png"
+    },
+    "gameId": "SLES_518.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.97/SLES_518.97_BG.png",
+      "kind": "background",
+      "bytes": 130251,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6a274b0f4f79d31922cef471a0d0b451af37fa137222be2341a5e20d77dc3ae",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.97/SLES_518.97_BG_00.png"
+      },
+      "gameId": "SLES_518.97"
+    },
+    {
+      "path": "PS2/SLES_518.97/SLES_518.97_BG_01.png",
+      "kind": "background",
+      "bytes": 113100,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e4d27926303def0d1f20b17512cbea213a7c475e4d3606d970e39a9624445f5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.97/SLES_518.97_BG_01.png"
+      },
+      "gameId": "SLES_518.97"
+    },
+    {
+      "path": "PS2/SLES_518.97/SLES_518.97_BG_02.png",
+      "kind": "background",
+      "bytes": 165931,
+      "width": 640,
+      "height": 480,
+      "sha256": "f92f60fc0e8e730363422d3da02298ac4e1bdc1e76ed453d6d87860b8809cce9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.97/SLES_518.97_BG_02.png"
+      },
+      "gameId": "SLES_518.97"
+    },
+    {
+      "path": "PS2/SLES_518.97/SLES_518.97_BG_03.png",
+      "kind": "background",
+      "bytes": 151588,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb9c6a03adaf3313b2b6000668b738df7dafb682add698a87686f997caa51bd7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.97/SLES_518.97_BG_03.png"
+      },
+      "gameId": "SLES_518.97"
+    },
+    {
+      "path": "PS2/SLES_518.97/SLES_518.97_BG_04.png",
+      "kind": "background",
+      "bytes": 174500,
+      "width": 640,
+      "height": 480,
+      "sha256": "4c0d99c930dbc6309eccec2d57f53ffb0146253145944a34ca17df4a8c607e80",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.97/SLES_518.97_BG_04.png"
+      },
+      "gameId": "SLES_518.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Simpsons: Hit & Run"
+}

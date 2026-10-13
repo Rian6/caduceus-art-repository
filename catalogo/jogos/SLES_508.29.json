@@ -1,0 +1,25 @@
+{
+  "id": "SLES_508.29",
+  "cover": {
+    "path": "PS2/SLES_508.29/SLES_508.29_COV.png",
+    "kind": "cover",
+    "bytes": 81596,
+    "width": 192,
+    "height": 272,
+    "sha256": "f71d6f90e937d4617de87f8007ce1ce26dec65d8e429b84bc4b332a937e5d1a5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50829.jpg"
+    },
+    "gameId": "SLES_508.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR WARS - LA GUERRA DEI CLONI"
+}

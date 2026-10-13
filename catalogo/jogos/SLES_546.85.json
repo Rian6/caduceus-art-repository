@@ -1,0 +1,39 @@
+{
+  "id": "SLES_546.85",
+  "cover": {
+    "path": "PS2/SLES_546.85/SLES_546.85_COV.png",
+    "kind": "cover",
+    "bytes": 109249,
+    "width": 192,
+    "height": 272,
+    "sha256": "61fa0227ee524aaf47a5a80d02da06581c1540d81ae6a98e277331fb2b73944b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54685.jpg"
+    },
+    "gameId": "SLES_546.85"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.85/SLES_546.85_ICO.png",
+    "kind": "disc",
+    "bytes": 11781,
+    "width": 128,
+    "height": 128,
+    "sha256": "f823aa0febd1f5dd99f750325c60a46a63ac27f78af4a3d2296b4104eb2d4bf2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.85_ICO.png"
+    },
+    "gameId": "SLES_546.85"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HANSEL & GRETEL"
+}

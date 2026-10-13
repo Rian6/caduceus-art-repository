@@ -1,0 +1,77 @@
+{
+  "id": "SLES_532.87",
+  "cover": {
+    "path": "PS2/SLES_532.87/SLES_532.87_COV.png",
+    "kind": "cover",
+    "bytes": 106687,
+    "width": 192,
+    "height": 272,
+    "sha256": "94d9980bcbb04a9547c790e28f36a9f7b70b1e485ae698a498573e507e15ab03",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53287.jpg"
+    },
+    "gameId": "SLES_532.87"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_532.87/SLES_532.87_BG.png",
+    "kind": "background",
+    "bytes": 238315,
+    "width": 640,
+    "height": 480,
+    "sha256": "c7dfb4c4b022c8d2c6a868de60b25f1691c06c8d8b954773080e001336b9396c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_532.87/SLES_532.87_BG_00.png"
+    },
+    "gameId": "SLES_532.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_532.87/SLES_532.87_BG.png",
+      "kind": "background",
+      "bytes": 238315,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7dfb4c4b022c8d2c6a868de60b25f1691c06c8d8b954773080e001336b9396c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.87/SLES_532.87_BG_00.png"
+      },
+      "gameId": "SLES_532.87"
+    },
+    {
+      "path": "PS2/SLES_532.87/SLES_532.87_BG_01.png",
+      "kind": "background",
+      "bytes": 142929,
+      "width": 640,
+      "height": 480,
+      "sha256": "b7d0eac4c3bc6f7b7e963da614664d80151143d3182dc03474d1df566ad91232",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.87/SLES_532.87_BG_01.png"
+      },
+      "gameId": "SLES_532.87"
+    },
+    {
+      "path": "PS2/SLES_532.87/SLES_532.87_BG_02.png",
+      "kind": "background",
+      "bytes": 163122,
+      "width": 640,
+      "height": 480,
+      "sha256": "e9ac29c3121fb907e74853aba5198fb3105cdafe72a71c5a85bc8055325e4198",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_532.87/SLES_532.87_BG_02.png"
+      },
+      "gameId": "SLES_532.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Splinter Cell - Chaos Theory"
+}

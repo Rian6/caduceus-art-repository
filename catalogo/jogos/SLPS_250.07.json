@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_250.07",
+  "cover": {
+    "path": "PS2/SLPS_250.07/SLPS_250.07_COV.png",
+    "kind": "cover",
+    "bytes": 77014,
+    "width": 192,
+    "height": 272,
+    "sha256": "0f47c6a9d7d57b76f33f3b708b8c5306811d59b7e10525cb234e07a6436c9483",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25007.jpg"
+    },
+    "gameId": "SLPS_250.07"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_250.07/SLPS_250.07_BG.png",
+    "kind": "background",
+    "bytes": 155161,
+    "width": 640,
+    "height": 480,
+    "sha256": "a1750ec00fe94f2449507aa84900d30020d714db0d15a4bddb501dbc33134a7b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.07/SLPS_250.07_BG_00.png"
+    },
+    "gameId": "SLPS_250.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_250.07/SLPS_250.07_BG.png",
+      "kind": "background",
+      "bytes": 155161,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1750ec00fe94f2449507aa84900d30020d714db0d15a4bddb501dbc33134a7b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.07/SLPS_250.07_BG_00.png"
+      },
+      "gameId": "SLPS_250.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core 2"
+}

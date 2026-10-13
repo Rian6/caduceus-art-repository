@@ -1,0 +1,51 @@
+{
+  "id": "SLES_511.98",
+  "cover": {
+    "path": "PS2/SLES_511.98/SLES_511.98_COV.png",
+    "kind": "cover",
+    "bytes": 89729,
+    "width": 192,
+    "height": 272,
+    "sha256": "a37d01a38400cc5a0a5f7ae4d95cd86c2dcc600075db5a35f81f2f708a14057e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51198.jpg"
+    },
+    "gameId": "SLES_511.98"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_511.98/SLES_511.98_BG.png",
+    "kind": "background",
+    "bytes": 186670,
+    "width": 640,
+    "height": 480,
+    "sha256": "dd74069b7dd0a5b9d208f8ab1106c4ba77353dec033a41ed6f1d6c60c19d9d3e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_511.98/SLES_511.98_BG_00.png"
+    },
+    "gameId": "SLES_511.98"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_511.98/SLES_511.98_BG.png",
+      "kind": "background",
+      "bytes": 186670,
+      "width": 640,
+      "height": 480,
+      "sha256": "dd74069b7dd0a5b9d208f8ab1106c4ba77353dec033a41ed6f1d6c60c19d9d3e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_511.98/SLES_511.98_BG_00.png"
+      },
+      "gameId": "SLES_511.98"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live 2003"
+}

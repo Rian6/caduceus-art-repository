@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.14",
+  "cover": {
+    "path": "PS2/SLPS_256.14/SLPS_256.14_COV.png",
+    "kind": "cover",
+    "bytes": 90324,
+    "width": 192,
+    "height": 272,
+    "sha256": "06bcefe785ae55d442c778d58a26a00cab755725e8b5c6c8afa84c352d52e59a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25614.jpg"
+    },
+    "gameId": "SLPS_256.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAI-HIME - UNMEI NO KEITOUJU [BEST COLLECTION]"
+}

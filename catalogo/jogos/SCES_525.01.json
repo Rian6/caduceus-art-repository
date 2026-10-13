@@ -1,0 +1,25 @@
+{
+  "id": "SCES_525.01",
+  "cover": {
+    "path": "PS2/SCES_525.01/SCES_525.01_COV.png",
+    "kind": "cover",
+    "bytes": 54946,
+    "width": 192,
+    "height": 272,
+    "sha256": "56bac1b15cd605eebc374b447241824bf13c2cc1aa1e33856f751d934db717b2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_525.01/SCES_525.01_COV.png"
+    },
+    "gameId": "SCES_525.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy: Play 2"
+}

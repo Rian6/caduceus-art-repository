@@ -1,0 +1,25 @@
+{
+  "id": "ALCH_000.05",
+  "cover": {
+    "path": "PS2/ALCH_000.05/ALCH_000.05_COV.png",
+    "kind": "cover",
+    "bytes": 88700,
+    "width": 192,
+    "height": 272,
+    "sha256": "6046f5e792d51a21feccf1d7e1e579beafccf26041c9a9ebdc2a69570c225d2e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/ALCH-00005.jpg"
+    },
+    "gameId": "ALCH_000.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARU NO ASHIOTO - STEP OF SPRING [PAKU PAKU PACK]"
+}

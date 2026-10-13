@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_250.62",
+  "cover": {
+    "path": "PS2/SLPS_250.62/SLPS_250.62_COV.png",
+    "kind": "cover",
+    "bytes": 95864,
+    "width": 192,
+    "height": 272,
+    "sha256": "751a376d0c3e97ece276b6ae5b3299ce2a1835d218470518aa26ba860a923225",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25062.jpg"
+    },
+    "gameId": "SLPS_250.62"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_250.62/SLPS_250.62_BG.png",
+    "kind": "background",
+    "bytes": 200556,
+    "width": 640,
+    "height": 480,
+    "sha256": "befc3f07575aef803b6e8499a34ee43044c5861765df678c05f57103a3467f1b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.62/SLPS_250.62_BG_00.png"
+    },
+    "gameId": "SLPS_250.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_250.62/SLPS_250.62_BG.png",
+      "kind": "background",
+      "bytes": 200556,
+      "width": 640,
+      "height": 480,
+      "sha256": "befc3f07575aef803b6e8499a34ee43044c5861765df678c05f57103a3467f1b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.62/SLPS_250.62_BG_00.png"
+      },
+      "gameId": "SLPS_250.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam - Meguriai Sora"
+}

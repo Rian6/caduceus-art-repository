@@ -1,0 +1,64 @@
+{
+  "id": "SLES_507.55",
+  "cover": {
+    "path": "PS2/SLES_507.55/SLES_507.55_COV.png",
+    "kind": "cover",
+    "bytes": 95482,
+    "width": 192,
+    "height": 272,
+    "sha256": "9b539eae107e25a370bdb92400282fd51154b830664fc8736d3cfc314b11e653",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50755.jpg"
+    },
+    "gameId": "SLES_507.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_507.55/SLES_507.55_BG.png",
+    "kind": "background",
+    "bytes": 96507,
+    "width": 640,
+    "height": 480,
+    "sha256": "0a3dc254f0311be614eac496c7fa85b7d70842dd7b694fe925248f1d17f71275",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.55/SLES_507.55_BG_00.png"
+    },
+    "gameId": "SLES_507.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_507.55/SLES_507.55_BG.png",
+      "kind": "background",
+      "bytes": 96507,
+      "width": 640,
+      "height": 480,
+      "sha256": "0a3dc254f0311be614eac496c7fa85b7d70842dd7b694fe925248f1d17f71275",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.55/SLES_507.55_BG_00.png"
+      },
+      "gameId": "SLES_507.55"
+    },
+    {
+      "path": "PS2/SLES_507.55/SLES_507.55_BG_01.png",
+      "kind": "background",
+      "bytes": 106754,
+      "width": 640,
+      "height": 480,
+      "sha256": "5f3b01b7b65755b8e05f5242c52fcc1f88f9d4f52b99656e0aca29f57e552e8e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.55/SLES_507.55_BG_01.png"
+      },
+      "gameId": "SLES_507.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Simpsons Skateboarding"
+}

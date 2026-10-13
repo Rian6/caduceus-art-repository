@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_201.98",
+  "cover": {
+    "path": "PS2/SLPS_201.98/SLPS_201.98_COV.png",
+    "kind": "cover",
+    "bytes": 100124,
+    "width": 192,
+    "height": 272,
+    "sha256": "e5dd165d6ea8bf58db4191653ee68d51b7e78258f3494cb0e38f6e0ed29fa754",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20198.jpg"
+    },
+    "gameId": "SLPS_201.98"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_201.98/SLPS_201.98_BG.png",
+    "kind": "background",
+    "bytes": 198032,
+    "width": 640,
+    "height": 480,
+    "sha256": "8b5bd2e33b4c3d9c3e89ee202fd25cdf8e265c2c27899be03df6785002137788",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_201.98/SLPS_201.98_BG_00.png"
+    },
+    "gameId": "SLPS_201.98"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_201.98/SLPS_201.98_BG.png",
+      "kind": "background",
+      "bytes": 198032,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b5bd2e33b4c3d9c3e89ee202fd25cdf8e265c2c27899be03df6785002137788",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.98/SLPS_201.98_BG_00.png"
+      },
+      "gameId": "SLPS_201.98"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Raging Bless - Gouma Mokushiroku"
+}

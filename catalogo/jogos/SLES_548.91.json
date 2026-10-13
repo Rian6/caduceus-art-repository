@@ -1,0 +1,39 @@
+{
+  "id": "SLES_548.91",
+  "cover": {
+    "path": "PS2/SLES_548.91/SLES_548.91_COV.png",
+    "kind": "cover",
+    "bytes": 111415,
+    "width": 192,
+    "height": 272,
+    "sha256": "d3de8b3d2e52da35959e7de7db37bf1caba1f3b27144b1fb90cd3bdf021d952b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54891.jpg"
+    },
+    "gameId": "SLES_548.91"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.91/SLES_548.91_ICO.png",
+    "kind": "disc",
+    "bytes": 10820,
+    "width": 128,
+    "height": 128,
+    "sha256": "c62ef83fbf25f98b5dec94ce6e728e3f93f4d8f54ce82da5c98a6b381e732670",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.91_ICO.png"
+    },
+    "gameId": "SLES_548.91"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLEVER KIDS - PONY WORLD"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_150.01",
+  "cover": {
+    "path": "PS2/SCKA_150.01/SCKA_150.01_COV.png",
+    "kind": "cover",
+    "bytes": 88895,
+    "width": 192,
+    "height": 272,
+    "sha256": "60e0a29f1df975f270e014c0e6ab6c2d1ab942fc2710c61ff928e0c4679f1573",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-15001.jpg"
+    },
+    "gameId": "SCKA_150.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BARBARIAN"
+}

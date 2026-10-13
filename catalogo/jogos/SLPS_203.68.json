@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.68",
+  "cover": {
+    "path": "PS2/SLPS_203.68/SLPS_203.68_COV.png",
+    "kind": "cover",
+    "bytes": 93036,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf8f8a29fa1b42cdb1d1a3725f4a4e3587194142349dd1ae60027ba21dfe3a32",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20368.jpg"
+    },
+    "gameId": "SLPS_203.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kaiketsu Zorro Mezase! Itazura Kin"
+}

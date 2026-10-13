@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.14",
+  "cover": {
+    "path": "PS2/SLPM_661.14/SLPM_661.14_COV.png",
+    "kind": "cover",
+    "bytes": 91354,
+    "width": 192,
+    "height": 272,
+    "sha256": "9090406831ffa2d1b493dd8e1f643f5c91b4060205bb2a702cbc55d197cb39ca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66114.jpg"
+    },
+    "gameId": "SLPM_661.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MIZU NO SENRITSU [LIMITED EDITION]"
+}

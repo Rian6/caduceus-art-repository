@@ -1,0 +1,77 @@
+{
+  "id": "SLES_539.10",
+  "cover": {
+    "path": "PS2/SLES_539.10/SLES_539.10_COV.png",
+    "kind": "cover",
+    "bytes": 83871,
+    "width": 192,
+    "height": 272,
+    "sha256": "92edb9c8f620d922047c0edd7f60d5658235184c7bf9f6b6acea91c4cd52ce4c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53910.jpg"
+    },
+    "gameId": "SLES_539.10"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_539.10/SLES_539.10_BG.png",
+    "kind": "background",
+    "bytes": 143976,
+    "width": 640,
+    "height": 480,
+    "sha256": "0ad06fbd442a110e8cb23b08198c52ab01b35f5305693d6671ac8ccc632f364b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.10/SLES_539.10_BG_00.png"
+    },
+    "gameId": "SLES_539.10"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.10/SLES_539.10_BG.png",
+      "kind": "background",
+      "bytes": 143976,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ad06fbd442a110e8cb23b08198c52ab01b35f5305693d6671ac8ccc632f364b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.10/SLES_539.10_BG_00.png"
+      },
+      "gameId": "SLES_539.10"
+    },
+    {
+      "path": "PS2/SLES_539.10/SLES_539.10_BG_01.png",
+      "kind": "background",
+      "bytes": 131423,
+      "width": 640,
+      "height": 480,
+      "sha256": "4d9c14303c18346c02ce1b2ffdac81e9c1902b5bb0b932dc7b4fd8842c3d3525",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.10/SLES_539.10_BG_01.png"
+      },
+      "gameId": "SLES_539.10"
+    },
+    {
+      "path": "PS2/SLES_539.10/SLES_539.10_BG_02.png",
+      "kind": "background",
+      "bytes": 231159,
+      "width": 640,
+      "height": 480,
+      "sha256": "56c0c0c3fee2d66af5407ad3c9a34716781b8879f0d89039f4ff80a91e6ce53b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.10/SLES_539.10_BG_02.png"
+      },
+      "gameId": "SLES_539.10"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Agent Hugo"
+}

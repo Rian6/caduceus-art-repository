@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_209.58",
+  "cover": {
+    "path": "PS2/SLUS_209.58/SLUS_209.58_COV.png",
+    "kind": "cover",
+    "bytes": 98453,
+    "width": 192,
+    "height": 272,
+    "sha256": "a9f797403e96d008d76529fda1c7986acfe9d82659d29069441b4766b22986e7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20958.jpg"
+    },
+    "gameId": "SLUS_209.58"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.58/SLUS_209.58_ICO.png",
+    "kind": "disc",
+    "bytes": 32189,
+    "width": 256,
+    "height": 256,
+    "sha256": "be4fba118aeb7396a8329256d4a1989ee3f3b258a8cea8443b2951b3ec3e8633",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.58_ICO.png"
+    },
+    "gameId": "SLUS_209.58"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.58/SLUS_209.58_BG.png",
+    "kind": "background",
+    "bytes": 231330,
+    "width": 640,
+    "height": 480,
+    "sha256": "c10653c429102318488ca60a2a17521ef83e4ab7dd70bf46a7bfc88041d98b75",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.58/SLUS_209.58_BG_00.png"
+    },
+    "gameId": "SLUS_209.58"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.58/SLUS_209.58_BG.png",
+      "kind": "background",
+      "bytes": 231330,
+      "width": 640,
+      "height": 480,
+      "sha256": "c10653c429102318488ca60a2a17521ef83e4ab7dd70bf46a7bfc88041d98b75",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.58/SLUS_209.58_BG_00.png"
+      },
+      "gameId": "SLUS_209.58"
+    },
+    {
+      "path": "PS2/SLUS_209.58/SLUS_209.58_BG_01.png",
+      "kind": "background",
+      "bytes": 145588,
+      "width": 640,
+      "height": 480,
+      "sha256": "623ecff0273e614789b97d2981fc748c214826890cc37b77769b9f93f2e027cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.58/SLUS_209.58_BG_01.png"
+      },
+      "gameId": "SLUS_209.58"
+    },
+    {
+      "path": "PS2/SLUS_209.58/SLUS_209.58_BG_02.png",
+      "kind": "background",
+      "bytes": 156202,
+      "width": 640,
+      "height": 480,
+      "sha256": "d319beeb89a1592598f1e4182e6bd256809d4f0af5f07297cec1d5eaed530040",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.58/SLUS_209.58_BG_02.png"
+      },
+      "gameId": "SLUS_209.58"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Splinter Cell - Pandora Tomorrow"
+}

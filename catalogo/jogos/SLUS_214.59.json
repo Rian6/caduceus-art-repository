@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_214.59",
+  "cover": {
+    "path": "PS2/SLUS_214.59/SLUS_214.59_COV.png",
+    "kind": "cover",
+    "bytes": 88347,
+    "width": 192,
+    "height": 272,
+    "sha256": "a4ef7066567fffe715dcd198c683c792bc29f246dea27c6416d73cddefe29595",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21459.jpg"
+    },
+    "gameId": "SLUS_214.59"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.59/SLUS_214.59_ICO.png",
+    "kind": "disc",
+    "bytes": 34934,
+    "width": 256,
+    "height": 256,
+    "sha256": "8ba34e6c6497d4d5e50827c49c8b0aef7055ce4443130f06984972815fe095e4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.59_ICO.png"
+    },
+    "gameId": "SLUS_214.59"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NCAA Football '07"
+}

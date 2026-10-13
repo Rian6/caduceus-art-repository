@@ -1,0 +1,25 @@
+{
+  "id": "SLES_542.11",
+  "cover": {
+    "path": "PS2/SLES_542.11/SLES_542.11_COV.png",
+    "kind": "cover",
+    "bytes": 70316,
+    "width": 192,
+    "height": 272,
+    "sha256": "fe91f514a01dd46740ef8d0e8eb57e7627d96731352604cf13e68d398c4e512f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54211.jpg"
+    },
+    "gameId": "SLES_542.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL 2K6"
+}

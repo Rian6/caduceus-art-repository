@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.52",
+  "cover": {
+    "path": "PS2/SLPS_732.52/SLPS_732.52_COV.png",
+    "kind": "cover",
+    "bytes": 88524,
+    "width": 192,
+    "height": 272,
+    "sha256": "c872906b32d5839cb4bac3d01e0efd01b581b640997d6eaa98744be8ddcc1eb9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73252.jpg"
+    },
+    "gameId": "SLPS_732.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TALES OF THE ABYSS [PLAYSTATION 2 THE BEST]"
+}

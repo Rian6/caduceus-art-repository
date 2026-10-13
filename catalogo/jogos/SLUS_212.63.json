@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_212.63",
+  "cover": {
+    "path": "PS2/SLUS_212.63/SLUS_212.63_COV.png",
+    "kind": "cover",
+    "bytes": 99997,
+    "width": 192,
+    "height": 272,
+    "sha256": "8afe26573ce6823463c56790333c3e11d9d54ae5ac44c171b574dfefea7d11fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21263.jpg"
+    },
+    "gameId": "SLUS_212.63"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.63/SLUS_212.63_ICO.png",
+    "kind": "disc",
+    "bytes": 35919,
+    "width": 256,
+    "height": 256,
+    "sha256": "9a01b3b3aeeeeca90ed257127b53c4809d26953c74950252c0cf120b545c8ba4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.63_ICO.png"
+    },
+    "gameId": "SLUS_212.63"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.63/SLUS_212.63_BG.png",
+    "kind": "background",
+    "bytes": 230210,
+    "width": 640,
+    "height": 480,
+    "sha256": "163cb0852f0e586f827a926a9ff69b6d00aa4490c7cc1d1b0804e077c8e1ff9d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.63/SLUS_212.63_BG_00.png"
+    },
+    "gameId": "SLUS_212.63"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.63/SLUS_212.63_BG.png",
+      "kind": "background",
+      "bytes": 230210,
+      "width": 640,
+      "height": 480,
+      "sha256": "163cb0852f0e586f827a926a9ff69b6d00aa4490c7cc1d1b0804e077c8e1ff9d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.63/SLUS_212.63_BG_00.png"
+      },
+      "gameId": "SLUS_212.63"
+    },
+    {
+      "path": "PS2/SLUS_212.63/SLUS_212.63_BG_01.png",
+      "kind": "background",
+      "bytes": 224676,
+      "width": 640,
+      "height": 480,
+      "sha256": "aedcbb21e2351604d930ee86b8ee7a651ffed841f04ed45f9caa0513991846ba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.63/SLUS_212.63_BG_01.png"
+      },
+      "gameId": "SLUS_212.63"
+    },
+    {
+      "path": "PS2/SLUS_212.63/SLUS_212.63_BG_02.png",
+      "kind": "background",
+      "bytes": 59207,
+      "width": 640,
+      "height": 480,
+      "sha256": "2a090b65b0d71547ce5958a4eed36d1a1873d9365487740a075f25a521579154",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.63/SLUS_212.63_BG_02.png"
+      },
+      "gameId": "SLUS_212.63"
+    },
+    {
+      "path": "PS2/SLUS_212.63/SLUS_212.63_BG_03.png",
+      "kind": "background",
+      "bytes": 118361,
+      "width": 640,
+      "height": 480,
+      "sha256": "9258077e66566ad3fbcdf8a27d98b3b4d93fa0ec5cb14c9191743de2a8f32041",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.63/SLUS_212.63_BG_03.png"
+      },
+      "gameId": "SLUS_212.63"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROMANCING SAGA"
+}

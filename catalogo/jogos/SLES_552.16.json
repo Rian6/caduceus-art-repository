@@ -1,0 +1,51 @@
+{
+  "id": "SLES_552.16",
+  "cover": {
+    "path": "PS2/SLES_552.16/SLES_552.16_COV.png",
+    "kind": "cover",
+    "bytes": 98268,
+    "width": 192,
+    "height": 272,
+    "sha256": "c203f7029a89af19643db016f68702a5aae97d3773647a1b380ede4bfae05300",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55216.jpg"
+    },
+    "gameId": "SLES_552.16"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_552.16/SLES_552.16_BG.png",
+    "kind": "background",
+    "bytes": 186329,
+    "width": 640,
+    "height": 480,
+    "sha256": "628b90a35c06d5255492642750421374cd46abe943396401be26b7eb6eee3c88",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_552.16/SLES_552.16_BG_00.png"
+    },
+    "gameId": "SLES_552.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_552.16/SLES_552.16_BG.png",
+      "kind": "background",
+      "bytes": 186329,
+      "width": 640,
+      "height": 480,
+      "sha256": "628b90a35c06d5255492642750421374cd46abe943396401be26b7eb6eee3c88",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_552.16/SLES_552.16_BG_00.png"
+      },
+      "gameId": "SLES_552.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Baroque"
+}

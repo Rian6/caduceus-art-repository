@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.19",
+  "cover": {
+    "path": "PS2/SLPS_732.19/SLPS_732.19_COV.png",
+    "kind": "cover",
+    "bytes": 75115,
+    "width": 192,
+    "height": 272,
+    "sha256": "07f403bcee32c69d619335163b20a984d47d481853a90b9525020e10c71ba501",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73219.jpg"
+    },
+    "gameId": "SLPS_732.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tales of Destiny 2 (Playstation 2 The Best Reprint)"
+}

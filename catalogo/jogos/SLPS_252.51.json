@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.51",
+  "cover": {
+    "path": "PS2/SLPS_252.51/SLPS_252.51_COV.png",
+    "kind": "cover",
+    "bytes": 92996,
+    "width": 192,
+    "height": 272,
+    "sha256": "9440be889c3d38984ba09d61d3b5a65a93b1eb884419604cd7c2e39a935d84a3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25251.jpg"
+    },
+    "gameId": "SLPS_252.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MVP Baseball 2003"
+}

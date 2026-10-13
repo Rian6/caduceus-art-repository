@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.13",
+  "cover": {
+    "path": "PS2/SLPS_257.13/SLPS_257.13_COV.png",
+    "kind": "cover",
+    "bytes": 103648,
+    "width": 192,
+    "height": 272,
+    "sha256": "a71ce8bdd33a21db098478dc45f717f46d27196539eae546a43d207a4e0c839c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25713.jpg"
+    },
+    "gameId": "SLPS_257.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Twinkle Star Sprites - La Petite Princesse (SNK The Best)"
+}

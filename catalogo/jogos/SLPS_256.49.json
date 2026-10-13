@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_256.49",
+  "cover": {
+    "path": "PS2/SLPS_256.49/SLPS_256.49_COV.png",
+    "kind": "cover",
+    "bytes": 108266,
+    "width": 192,
+    "height": 272,
+    "sha256": "d47b9ac3c9eb9fd6414809ab61c21a979d95a9ce08f205b35ba72643abb80a38",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25649.jpg"
+    },
+    "gameId": "SLPS_256.49"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.49/SLPS_256.49_BG.png",
+    "kind": "background",
+    "bytes": 233059,
+    "width": 640,
+    "height": 480,
+    "sha256": "7269e3c1071895d7cd8240e05e0a245d41ad1820d1e018e7ab6edd2f9199bc6e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.49/SLPS_256.49_BG_00.png"
+    },
+    "gameId": "SLPS_256.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.49/SLPS_256.49_BG.png",
+      "kind": "background",
+      "bytes": 233059,
+      "width": 640,
+      "height": 480,
+      "sha256": "7269e3c1071895d7cd8240e05e0a245d41ad1820d1e018e7ab6edd2f9199bc6e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.49/SLPS_256.49_BG_00.png"
+      },
+      "gameId": "SLPS_256.49"
+    },
+    {
+      "path": "PS2/SLPS_256.49/SLPS_256.49_BG_01.png",
+      "kind": "background",
+      "bytes": 170218,
+      "width": 640,
+      "height": 480,
+      "sha256": "959f9e6bb962987ca60b03d8e0d0fd43ad768ec107f111e9d283d4217b404dfb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.49/SLPS_256.49_BG_01.png"
+      },
+      "gameId": "SLPS_256.49"
+    },
+    {
+      "path": "PS2/SLPS_256.49/SLPS_256.49_BG_02.png",
+      "kind": "background",
+      "bytes": 215280,
+      "width": 640,
+      "height": 480,
+      "sha256": "5d46ff8f2197ea08c368eac98bada52530360c3f97b694067c09b334734230c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.49/SLPS_256.49_BG_02.png"
+      },
+      "gameId": "SLPS_256.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Uchuu Keiji Tamashii - The Space Sheriff Spirits"
+}

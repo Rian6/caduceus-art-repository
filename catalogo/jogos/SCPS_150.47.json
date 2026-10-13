@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.47",
+  "cover": {
+    "path": "PS2/SCPS_150.47/SCPS_150.47_COV.png",
+    "kind": "cover",
+    "bytes": 51755,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d620386ae1f9bc4d92166f5b1444c0b0bd981fb0713d1d3a582e85784fa4091",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15047.jpg"
+    },
+    "gameId": "SCPS_150.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dokodemo Issyo - Watashi na Ehon"
+}

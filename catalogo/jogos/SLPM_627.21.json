@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.21",
+  "cover": {
+    "path": "PS2/SLPM_627.21/SLPM_627.21_COV.png",
+    "kind": "cover",
+    "bytes": 84844,
+    "width": 192,
+    "height": 272,
+    "sha256": "d3bfac49aeaf3478d108e7464d5027f1bf2c5d6ed9ad1f93ad6640efe97cdb32",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62721.jpg"
+    },
+    "gameId": "SLPM_627.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ICHIGEKI SACCHUU!! HOIHOI-SAN [KONAMI THE BEST]"
+}

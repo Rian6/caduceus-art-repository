@@ -1,0 +1,91 @@
+{
+  "id": "SCUS_971.29",
+  "cover": {
+    "path": "PS2/SCUS_971.29/SCUS_971.29_COV.png",
+    "kind": "cover",
+    "bytes": 81884,
+    "width": 192,
+    "height": 272,
+    "sha256": "1c5c735da0bf1b336e0d15ebb7d602abcad64bbc574a5fd6895731b38abe40fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97129.jpg"
+    },
+    "gameId": "SCUS_971.29"
+  },
+  "disc": {
+    "path": "PS2/SCUS_971.29/SCUS_971.29_ICO.png",
+    "kind": "disc",
+    "bytes": 35577,
+    "width": 256,
+    "height": 256,
+    "sha256": "915d78d2abb8c010d7dd92264e79ef8398cdf322ae9e0860536063c289e8e152",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_971.29_ICO.png"
+    },
+    "gameId": "SCUS_971.29"
+  },
+  "background": {
+    "path": "PS2/SCUS_971.29/SCUS_971.29_BG.png",
+    "kind": "background",
+    "bytes": 182453,
+    "width": 640,
+    "height": 480,
+    "sha256": "6c38ad97de7242a23e84af655880c875fd0642371ac4cc869bf745fcc4ea04d7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_971.29/SCUS_971.29_BG_00.png"
+    },
+    "gameId": "SCUS_971.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_971.29/SCUS_971.29_BG.png",
+      "kind": "background",
+      "bytes": 182453,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c38ad97de7242a23e84af655880c875fd0642371ac4cc869bf745fcc4ea04d7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.29/SCUS_971.29_BG_00.png"
+      },
+      "gameId": "SCUS_971.29"
+    },
+    {
+      "path": "PS2/SCUS_971.29/SCUS_971.29_BG_01.png",
+      "kind": "background",
+      "bytes": 163597,
+      "width": 640,
+      "height": 480,
+      "sha256": "b77bbd554eab11bc360ffe72d1050cee08baf101902161a291d1d3d95488fc03",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.29/SCUS_971.29_BG_01.png"
+      },
+      "gameId": "SCUS_971.29"
+    },
+    {
+      "path": "PS2/SCUS_971.29/SCUS_971.29_BG_02.png",
+      "kind": "background",
+      "bytes": 188160,
+      "width": 640,
+      "height": 480,
+      "sha256": "32c8dccd4389f6fe084d1c643f52ff11c1dc4a2342596c34ce5cea4661241497",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.29/SCUS_971.29_BG_02.png"
+      },
+      "gameId": "SCUS_971.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Okage: Shadow King"
+}

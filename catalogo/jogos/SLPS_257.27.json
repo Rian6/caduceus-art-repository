@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.27",
+  "cover": {
+    "path": "PS2/SLPS_257.27/SLPS_257.27_COV.png",
+    "kind": "cover",
+    "bytes": 106118,
+    "width": 192,
+    "height": 272,
+    "sha256": "544652a69862c1668a289bd9a22dde11d348ea41bdd2208c69e4246b7f74a61e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25727.jpg"
+    },
+    "gameId": "SLPS_257.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ROUTES PE"
+}

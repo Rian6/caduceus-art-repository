@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.86",
+  "cover": {
+    "path": "PS2/SLPM_550.86/SLPM_550.86_COV.png",
+    "kind": "cover",
+    "bytes": 100010,
+    "width": 192,
+    "height": 272,
+    "sha256": "fa8636b3e817b6babbedc24279ce99b56b180f3d50cf6bb4ebf226b7beada90f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55086.jpg"
+    },
+    "gameId": "SLPM_550.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EVER17 - THE OUT OF INFINITY [RENAI GAME SELECTION]"
+}

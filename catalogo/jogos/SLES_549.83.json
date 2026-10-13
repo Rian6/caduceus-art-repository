@@ -1,0 +1,39 @@
+{
+  "id": "SLES_549.83",
+  "cover": {
+    "path": "PS2/SLES_549.83/SLES_549.83_COV.png",
+    "kind": "cover",
+    "bytes": 103087,
+    "width": 192,
+    "height": 272,
+    "sha256": "59de80aa685c7cbfa7a2c115f3235f340d8036b578ed7b9171be7370de245c79",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54983.jpg"
+    },
+    "gameId": "SLES_549.83"
+  },
+  "disc": {
+    "path": "PS2/SLES_549.83/SLES_549.83_ICO.png",
+    "kind": "disc",
+    "bytes": 10826,
+    "width": 128,
+    "height": 128,
+    "sha256": "f2c63a08024ce14327b331a4f76bc958faf3cc78eacd3c1668f102665c7f6032",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_549.83_ICO.png"
+    },
+    "gameId": "SLES_549.83"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Postman Pat"
+}

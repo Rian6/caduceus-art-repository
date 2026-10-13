@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.12",
+  "cover": {
+    "path": "PS2/SLPS_202.12/SLPS_202.12_COV.png",
+    "kind": "cover",
+    "bytes": 111400,
+    "width": 192,
+    "height": 272,
+    "sha256": "7833b00f073ef9ad16cd7a0e46f84a681a1e78a60500ff9d228ca28c2db3a9f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20212.jpg"
+    },
+    "gameId": "SLPS_202.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Neppachi Gold - CR Monster Mansion"
+}

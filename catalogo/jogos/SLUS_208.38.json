@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_208.38",
+  "cover": {
+    "path": "PS2/SLUS_208.38/SLUS_208.38_COV.png",
+    "kind": "cover",
+    "bytes": 97377,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2be737007384e3af8f571f3b3ef7e9507fec1aafcf3c5abefaada45fe696faa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20838.jpg"
+    },
+    "gameId": "SLUS_208.38"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.38/SLUS_208.38_ICO.png",
+    "kind": "disc",
+    "bytes": 35230,
+    "width": 256,
+    "height": 256,
+    "sha256": "cd64cebf047e7e646ddccbff4704cb7dff0ddc2b967a3d4e74486426a2fcb804",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.38_ICO.png"
+    },
+    "gameId": "SLUS_208.38"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.38/SLUS_208.38_BG.png",
+    "kind": "background",
+    "bytes": 150669,
+    "width": 640,
+    "height": 480,
+    "sha256": "db337d760aa82da6f637a248040469fd962f0f649eb2f7510848dff7c3831a16",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.38/SLUS_208.38_BG_00.png"
+    },
+    "gameId": "SLUS_208.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.38/SLUS_208.38_BG.png",
+      "kind": "background",
+      "bytes": 150669,
+      "width": 640,
+      "height": 480,
+      "sha256": "db337d760aa82da6f637a248040469fd962f0f649eb2f7510848dff7c3831a16",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.38/SLUS_208.38_BG_00.png"
+      },
+      "gameId": "SLUS_208.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "All-Star Baseball 2005 featuring Derek Jeter"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_512.19",
+  "cover": {
+    "path": "PS2/SLES_512.19/SLES_512.19_COV.png",
+    "kind": "cover",
+    "bytes": 95865,
+    "width": 192,
+    "height": 272,
+    "sha256": "a668d4e3beac05cafb12b90f9829c5a0abeb3b674aaf8636d8b1ddff54a9bbea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51219.jpg"
+    },
+    "gameId": "SLES_512.19"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_512.19/SLES_512.19_BG.png",
+    "kind": "background",
+    "bytes": 182547,
+    "width": 640,
+    "height": 480,
+    "sha256": "a0963862a9a71816ce6b7ff6a9c0fa5eca0106003138af297a991abe55646ee0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_512.19/SLES_512.19_BG_00.png"
+    },
+    "gameId": "SLES_512.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_512.19/SLES_512.19_BG.png",
+      "kind": "background",
+      "bytes": 182547,
+      "width": 640,
+      "height": 480,
+      "sha256": "a0963862a9a71816ce6b7ff6a9c0fa5eca0106003138af297a991abe55646ee0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.19/SLES_512.19_BG_00.png"
+      },
+      "gameId": "SLES_512.19"
+    },
+    {
+      "path": "PS2/SLES_512.19/SLES_512.19_BG_01.png",
+      "kind": "background",
+      "bytes": 225557,
+      "width": 640,
+      "height": 480,
+      "sha256": "2736c999001af901eac86086728237c0aa8a319f28cf276f919264cd01224594",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.19/SLES_512.19_BG_01.png"
+      },
+      "gameId": "SLES_512.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harry Potter and the Chamber of Secrets"
+}

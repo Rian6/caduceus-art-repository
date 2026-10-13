@@ -1,0 +1,90 @@
+{
+  "id": "SLES_501.34",
+  "cover": {
+    "path": "PS2/SLES_501.34/SLES_501.34_COV.png",
+    "kind": "cover",
+    "bytes": 107718,
+    "width": 192,
+    "height": 272,
+    "sha256": "d8fe1781838a8f811991011ac292e9bba223de2bc7c85cf9fa94c88bee7f71e5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50134.jpg"
+    },
+    "gameId": "SLES_501.34"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_501.34/SLES_501.34_BG.png",
+    "kind": "background",
+    "bytes": 121106,
+    "width": 640,
+    "height": 480,
+    "sha256": "137626d61dec98165daaef9d639c164c4c2f96c35a416cd95cffdb8dc612b0f1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_501.34/SLES_501.34_BG_00.png"
+    },
+    "gameId": "SLES_501.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_501.34/SLES_501.34_BG.png",
+      "kind": "background",
+      "bytes": 121106,
+      "width": 640,
+      "height": 480,
+      "sha256": "137626d61dec98165daaef9d639c164c4c2f96c35a416cd95cffdb8dc612b0f1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.34/SLES_501.34_BG_00.png"
+      },
+      "gameId": "SLES_501.34"
+    },
+    {
+      "path": "PS2/SLES_501.34/SLES_501.34_BG_01.png",
+      "kind": "background",
+      "bytes": 199169,
+      "width": 640,
+      "height": 480,
+      "sha256": "51909d5a7d7dc8de0d8dc4557a83d4846e9a3cbeffe79b18ee2431c25421c869",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.34/SLES_501.34_BG_01.png"
+      },
+      "gameId": "SLES_501.34"
+    },
+    {
+      "path": "PS2/SLES_501.34/SLES_501.34_BG_02.png",
+      "kind": "background",
+      "bytes": 175985,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff8abe744cef40434e30887b035daea4b30031d1a4d9c0bb125ec735c16b3439",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.34/SLES_501.34_BG_02.png"
+      },
+      "gameId": "SLES_501.34"
+    },
+    {
+      "path": "PS2/SLES_501.34/SLES_501.34_BG_03.png",
+      "kind": "background",
+      "bytes": 176309,
+      "width": 640,
+      "height": 480,
+      "sha256": "633db1465ca669a63e6fd920a7106c9edf048c10103b375ee339ea6727dbfb03",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_501.34/SLES_501.34_BG_03.png"
+      },
+      "gameId": "SLES_501.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONI"
+}

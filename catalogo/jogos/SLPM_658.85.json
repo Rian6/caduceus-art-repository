@@ -1,0 +1,142 @@
+{
+  "id": "SLPM_658.85",
+  "cover": {
+    "path": "PS2/SLPM_658.85/SLPM_658.85_COV.png",
+    "kind": "cover",
+    "bytes": 98287,
+    "width": 192,
+    "height": 272,
+    "sha256": "1118c3497fd7b3ec36e09d551bcbcaa79f7e380c5c14b03f2e6f1ef7c229b52b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65885.jpg"
+    },
+    "gameId": "SLPM_658.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_658.85/SLPM_658.85_BG.png",
+    "kind": "background",
+    "bytes": 96568,
+    "width": 640,
+    "height": 480,
+    "sha256": "78d73af8ca6dc5c7c9bc9bcccc566f7b9b2c862c8764578a4f83f5456778f669",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_658.85/SLPM_658.85_BG_00.png"
+    },
+    "gameId": "SLPM_658.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_658.85/SLPM_658.85_BG.png",
+      "kind": "background",
+      "bytes": 96568,
+      "width": 640,
+      "height": 480,
+      "sha256": "78d73af8ca6dc5c7c9bc9bcccc566f7b9b2c862c8764578a4f83f5456778f669",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.85/SLPM_658.85_BG_00.png"
+      },
+      "gameId": "SLPM_658.85"
+    },
+    {
+      "path": "PS2/SLPM_658.85/SLPM_658.85_BG_01.png",
+      "kind": "background",
+      "bytes": 197866,
+      "width": 640,
+      "height": 480,
+      "sha256": "39157402e1ceebdb3d76b41ec808b5787583166a7d4f17ec84ca9f17e8b934b7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.85/SLPM_658.85_BG_01.png"
+      },
+      "gameId": "SLPM_658.85"
+    },
+    {
+      "path": "PS2/SLPM_658.85/SLPM_658.85_BG_02.png",
+      "kind": "background",
+      "bytes": 245976,
+      "width": 640,
+      "height": 480,
+      "sha256": "a35109d96bc0fcacd7a3fc5917bb0fe84d1c59a5b4d0515d2fc66451ba2ad48b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.85/SLPM_658.85_BG_02.png"
+      },
+      "gameId": "SLPM_658.85"
+    },
+    {
+      "path": "PS2/SLPM_658.85/SLPM_658.85_BG_03.png",
+      "kind": "background",
+      "bytes": 224234,
+      "width": 640,
+      "height": 480,
+      "sha256": "d97643bfd855f34ead74b789e9b456279077551666fd5334e147395ee58f7ef9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.85/SLPM_658.85_BG_03.png"
+      },
+      "gameId": "SLPM_658.85"
+    },
+    {
+      "path": "PS2/SLPM_658.85/SLPM_658.85_BG_04.png",
+      "kind": "background",
+      "bytes": 166094,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3e60dce7587929195f9edc491927756e5626ab9bf1435676f3c6950570dd340",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.85/SLPM_658.85_BG_04.png"
+      },
+      "gameId": "SLPM_658.85"
+    },
+    {
+      "path": "PS2/SLPM_658.85/SLPM_658.85_BG_05.png",
+      "kind": "background",
+      "bytes": 160525,
+      "width": 640,
+      "height": 480,
+      "sha256": "1bc9d4e569284ebd6bb16ae4ace0d5cd71e71e48c067be6c98f9e37571d1e626",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.85/SLPM_658.85_BG_05.png"
+      },
+      "gameId": "SLPM_658.85"
+    },
+    {
+      "path": "PS2/SLPM_658.85/SLPM_658.85_BG_06.png",
+      "kind": "background",
+      "bytes": 175642,
+      "width": 640,
+      "height": 480,
+      "sha256": "d67a0469e704df42de9e3ecfb8b7a6cc188b522f9f08a7ef53db165e11b4ff3e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.85/SLPM_658.85_BG_06.png"
+      },
+      "gameId": "SLPM_658.85"
+    },
+    {
+      "path": "PS2/SLPM_658.85/SLPM_658.85_BG_07.png",
+      "kind": "background",
+      "bytes": 127615,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb80cd5d90a6da50d1c97a4dbd1a7109ab6b939213de6863d9c819a026f0839e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.85/SLPM_658.85_BG_07.png"
+      },
+      "gameId": "SLPM_658.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RUMBLE ROSES"
+}

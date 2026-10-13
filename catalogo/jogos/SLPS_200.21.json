@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.21",
+  "cover": {
+    "path": "PS2/SLPS_200.21/SLPS_200.21_COV.png",
+    "kind": "cover",
+    "bytes": 71297,
+    "width": 192,
+    "height": 272,
+    "sha256": "ce89dc72d233c2f0f8724d1d9f6d56a90572258b36a125b13b8cbe1377b3a413",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20021.jpg"
+    },
+    "gameId": "SLPS_200.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wild Wild Racing"
+}

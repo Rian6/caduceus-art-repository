@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.68",
+  "cover": {
+    "path": "PS2/SCPS_150.68/SCPS_150.68_COV.png",
+    "kind": "cover",
+    "bytes": 80403,
+    "width": 192,
+    "height": 272,
+    "sha256": "21ec05a21f910a383e1c0fb5e5027ee9b1dd1bfc4bab88046fc392d76d8d614e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15068.jpg"
+    },
+    "gameId": "SCPS_150.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MLB 2004"
+}

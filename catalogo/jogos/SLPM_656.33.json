@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.33",
+  "cover": {
+    "path": "PS2/SLPM_656.33/SLPM_656.33_COV.png",
+    "kind": "cover",
+    "bytes": 111904,
+    "width": 192,
+    "height": 272,
+    "sha256": "b0bc46b2e58ad71eb2d86f9a6e3e18f0d2e5fba91ff717431ecbfdc8e54e6e31",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65633.jpg"
+    },
+    "gameId": "SLPM_656.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "I Love Baseball - Pro Yakyu o Koyonaku Aisuru Hitotachi e"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SLPS_254.79",
+  "cover": {
+    "path": "PS2/SLPS_254.79/SLPS_254.79_COV.png",
+    "kind": "cover",
+    "bytes": 103643,
+    "width": 192,
+    "height": 272,
+    "sha256": "ad6d9f6970f1fd13fd8e67b47ed7cb9497033a12cfd4720aaf33ab0d7dd8b435",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25479.jpg"
+    },
+    "gameId": "SLPS_254.79"
+  },
+  "disc": {
+    "path": "PS2/SLPS_254.79/SLPS_254.79_ICO.png",
+    "kind": "disc",
+    "bytes": 9877,
+    "width": 128,
+    "height": 128,
+    "sha256": "41984de3eb5a5f25f45c83d41fc37584c7b639a259c5efcfe33676f04bde1ab5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_254.79_ICO.png"
+    },
+    "gameId": "SLPS_254.79"
+  },
+  "background": {
+    "path": "PS2/SLPS_254.79/SLPS_254.79_BG.png",
+    "kind": "background",
+    "bytes": 129991,
+    "width": 640,
+    "height": 480,
+    "sha256": "e3349ac4bc9666c48ef163b3275ca1139a78a7cbdd742b884136a735214b1833",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_254.79/SLPS_254.79_BG_00.png"
+    },
+    "gameId": "SLPS_254.79"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_254.79/SLPS_254.79_BG.png",
+      "kind": "background",
+      "bytes": 129991,
+      "width": 640,
+      "height": 480,
+      "sha256": "e3349ac4bc9666c48ef163b3275ca1139a78a7cbdd742b884136a735214b1833",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.79/SLPS_254.79_BG_00.png"
+      },
+      "gameId": "SLPS_254.79"
+    },
+    {
+      "path": "PS2/SLPS_254.79/SLPS_254.79_BG_01.png",
+      "kind": "background",
+      "bytes": 203028,
+      "width": 640,
+      "height": 480,
+      "sha256": "68ddadcaa21860f41dc9b6571675a138ff56461a7a3545814323bdcc4f8b7284",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.79/SLPS_254.79_BG_01.png"
+      },
+      "gameId": "SLPS_254.79"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Konjiki no Gashbell!! Yuujou Tag Battle 2"
+}

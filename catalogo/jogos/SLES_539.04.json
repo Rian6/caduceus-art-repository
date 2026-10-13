@@ -1,0 +1,51 @@
+{
+  "id": "SLES_539.04",
+  "cover": {
+    "path": "PS2/SLES_539.04/SLES_539.04_COV.png",
+    "kind": "cover",
+    "bytes": 88314,
+    "width": 192,
+    "height": 272,
+    "sha256": "82733679af62e8b6668651c381face4a3cebb76ae2a8ec50910c4ed87da9ceb9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53904.jpg"
+    },
+    "gameId": "SLES_539.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_539.04/SLES_539.04_BG.png",
+    "kind": "background",
+    "bytes": 191909,
+    "width": 640,
+    "height": 480,
+    "sha256": "7815fe6572031879901cf4174c0fe3a953f8a892ffc1f9877beffae78ce5ecba",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.04/SLES_539.04_BG_00.png"
+    },
+    "gameId": "SLES_539.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_539.04/SLES_539.04_BG.png",
+      "kind": "background",
+      "bytes": 191909,
+      "width": 640,
+      "height": 480,
+      "sha256": "7815fe6572031879901cf4174c0fe3a953f8a892ffc1f9877beffae78ce5ecba",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_539.04/SLES_539.04_BG_00.png"
+      },
+      "gameId": "SLES_539.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DT Racer"
+}

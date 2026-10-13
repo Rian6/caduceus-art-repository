@@ -1,0 +1,168 @@
+{
+  "id": "SLPM_657.36",
+  "cover": {
+    "path": "PS2/SLPM_657.36/SLPM_657.36_COV.png",
+    "kind": "cover",
+    "bytes": 118957,
+    "width": 192,
+    "height": 272,
+    "sha256": "603bc870ea0f539870879122a457e7f6f58eac345515e718f6bbb4978c97b2f4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65736.jpg"
+    },
+    "gameId": "SLPM_657.36"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_657.36/SLPM_657.36_BG.png",
+    "kind": "background",
+    "bytes": 168111,
+    "width": 640,
+    "height": 480,
+    "sha256": "71c82d44318d61f4ba1361d77147ffdea84dbd7a6791d14adde9fb2ffb7d68e5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_657.36/SLPM_657.36_BG_00.png"
+    },
+    "gameId": "SLPM_657.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_657.36/SLPM_657.36_BG.png",
+      "kind": "background",
+      "bytes": 168111,
+      "width": 640,
+      "height": 480,
+      "sha256": "71c82d44318d61f4ba1361d77147ffdea84dbd7a6791d14adde9fb2ffb7d68e5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.36/SLPM_657.36_BG_00.png"
+      },
+      "gameId": "SLPM_657.36"
+    },
+    {
+      "path": "PS2/SLPM_657.36/SLPM_657.36_BG_01.png",
+      "kind": "background",
+      "bytes": 168099,
+      "width": 640,
+      "height": 480,
+      "sha256": "e302dda4338e81bc6deb62a0e6b210d521be56a3e208ebbef67492f75d299c52",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.36/SLPM_657.36_BG_01.png"
+      },
+      "gameId": "SLPM_657.36"
+    },
+    {
+      "path": "PS2/SLPM_657.36/SLPM_657.36_BG_02.png",
+      "kind": "background",
+      "bytes": 177659,
+      "width": 640,
+      "height": 480,
+      "sha256": "59838c3fb882f224ffd0d04be402b8cc086fc3094197d05f1d9aaccc54c483a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.36/SLPM_657.36_BG_02.png"
+      },
+      "gameId": "SLPM_657.36"
+    },
+    {
+      "path": "PS2/SLPM_657.36/SLPM_657.36_BG_03.png",
+      "kind": "background",
+      "bytes": 178489,
+      "width": 640,
+      "height": 480,
+      "sha256": "fbc2334d87b11cf6ddb9a5f6af97dfc819075abf9a79cca744f4ba200ed7dee3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.36/SLPM_657.36_BG_03.png"
+      },
+      "gameId": "SLPM_657.36"
+    },
+    {
+      "path": "PS2/SLPM_657.36/SLPM_657.36_BG_04.png",
+      "kind": "background",
+      "bytes": 183714,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4b88f1e7957927aa991f2fb04ef77c99ee1755130c5d1ae2451e98d96f1b8bd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.36/SLPM_657.36_BG_04.png"
+      },
+      "gameId": "SLPM_657.36"
+    },
+    {
+      "path": "PS2/SLPM_657.36/SLPM_657.36_BG_05.png",
+      "kind": "background",
+      "bytes": 174138,
+      "width": 640,
+      "height": 480,
+      "sha256": "56ff2d74e711d92fdfd9c1f16a10f83091529bfbf33ba1db46d9d2e6febf4324",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.36/SLPM_657.36_BG_05.png"
+      },
+      "gameId": "SLPM_657.36"
+    },
+    {
+      "path": "PS2/SLPM_657.36/SLPM_657.36_BG_06.png",
+      "kind": "background",
+      "bytes": 178564,
+      "width": 640,
+      "height": 480,
+      "sha256": "87827e7d6b567e4e431bd879ed3a0755326f80d0217b690a9736164d38f69419",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.36/SLPM_657.36_BG_06.png"
+      },
+      "gameId": "SLPM_657.36"
+    },
+    {
+      "path": "PS2/SLPM_657.36/SLPM_657.36_BG_07.png",
+      "kind": "background",
+      "bytes": 177808,
+      "width": 640,
+      "height": 480,
+      "sha256": "506fbeb1b11ef351df9ef299bc2d684ba45a66ed73135be3d8630151fa717c4b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.36/SLPM_657.36_BG_07.png"
+      },
+      "gameId": "SLPM_657.36"
+    },
+    {
+      "path": "PS2/SLPM_657.36/SLPM_657.36_BG_08.png",
+      "kind": "background",
+      "bytes": 165372,
+      "width": 640,
+      "height": 480,
+      "sha256": "90c6d4463770af3fb1059e2da8c68bdb40ac4bae0830e8ed31d0a79cb0f53eea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.36/SLPM_657.36_BG_08.png"
+      },
+      "gameId": "SLPM_657.36"
+    },
+    {
+      "path": "PS2/SLPM_657.36/SLPM_657.36_BG_09.png",
+      "kind": "background",
+      "bytes": 185842,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c1be052d389f052e7a794cfb69bd9e032b2d1ed0ec5b41cee77684aa969ca11",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.36/SLPM_657.36_BG_09.png"
+      },
+      "gameId": "SLPM_657.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Aoi no Mamade..."
+}

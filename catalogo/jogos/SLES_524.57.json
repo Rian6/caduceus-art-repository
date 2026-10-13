@@ -1,0 +1,25 @@
+{
+  "id": "SLES_524.57",
+  "cover": {
+    "path": "PS2/SLES_524.57/SLES_524.57_COV.png",
+    "kind": "cover",
+    "bytes": 88157,
+    "width": 192,
+    "height": 272,
+    "sha256": "09ab6a2cf121ca1c1f03b5d1341f214489999dcf2c3d9fb8185a18a214d514fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52457.jpg"
+    },
+    "gameId": "SLES_524.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shrek 2"
+}

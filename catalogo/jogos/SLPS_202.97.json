@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.97",
+  "cover": {
+    "path": "PS2/SLPS_202.97/SLPS_202.97_COV.png",
+    "kind": "cover",
+    "bytes": 49880,
+    "width": 192,
+    "height": 272,
+    "sha256": "2206c1cc05b6813da788151e373386bd254b9247403f9c6cf7a9a4b0c67ab2fa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20297.jpg"
+    },
+    "gameId": "SLPS_202.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TSUKI NO HIKARI - SHIZUMERU KANE NO SATSUJIN [BEST COLLECTION]"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SCES_515.92",
+  "cover": {
+    "path": "PS2/SCES_515.92/SCES_515.92_COV.png",
+    "kind": "cover",
+    "bytes": 94129,
+    "width": 192,
+    "height": 272,
+    "sha256": "898165a29740bbbbad871d71bccdcb5121f957bad38657f24400de1edfd0c48d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51592.jpg"
+    },
+    "gameId": "SCES_515.92"
+  },
+  "disc": {
+    "path": "PS2/SCES_515.92/SCES_515.92_ICO.png",
+    "kind": "disc",
+    "bytes": 9286,
+    "width": 128,
+    "height": 128,
+    "sha256": "ad6b5a95d91070b981e1617f9d963072ae2da9f88f07a8bf3f6e18270e4b35e6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_515.92_ICO.png"
+    },
+    "gameId": "SCES_515.92"
+  },
+  "background": {
+    "path": "PS2/SCES_515.92/SCES_515.92_BG.png",
+    "kind": "background",
+    "bytes": 207055,
+    "width": 640,
+    "height": 480,
+    "sha256": "cc5c9c55e9828debd4c3cd7d1f8bbe1ac7397681d32cc0b912ddf136dba84ae0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_515.92/SCES_515.92_BG_00.png"
+    },
+    "gameId": "SCES_515.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_515.92/SCES_515.92_BG.png",
+      "kind": "background",
+      "bytes": 207055,
+      "width": 640,
+      "height": 480,
+      "sha256": "cc5c9c55e9828debd4c3cd7d1f8bbe1ac7397681d32cc0b912ddf136dba84ae0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_515.92/SCES_515.92_BG_00.png"
+      },
+      "gameId": "SCES_515.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FORMULA ONE 2003"
+}

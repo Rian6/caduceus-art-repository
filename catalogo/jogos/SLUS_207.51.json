@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_207.51",
+  "cover": {
+    "path": "PS2/SLUS_207.51/SLUS_207.51_COV.png",
+    "kind": "cover",
+    "bytes": 104325,
+    "width": 192,
+    "height": 272,
+    "sha256": "e4ead77e4c31694539991590abf352d9556c18ffa4fc4b2d63701849718b567c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20751.jpg"
+    },
+    "gameId": "SLUS_207.51"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.51/SLUS_207.51_ICO.png",
+    "kind": "disc",
+    "bytes": 33544,
+    "width": 256,
+    "height": 256,
+    "sha256": "82f1ea7bda58cd7d9b3a2256979dab188b214eb7e2913520f2f3b84e1b111d8b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.51_ICO.png"
+    },
+    "gameId": "SLUS_207.51"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.51/SLUS_207.51_BG.png",
+    "kind": "background",
+    "bytes": 164588,
+    "width": 640,
+    "height": 480,
+    "sha256": "715892739f81f7f565d0fc51de3b053c379f1157335b4b2dd61cd382dfda66ef",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.51/SLUS_207.51_BG_00.png"
+    },
+    "gameId": "SLUS_207.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.51/SLUS_207.51_BG.png",
+      "kind": "background",
+      "bytes": 164588,
+      "width": 640,
+      "height": 480,
+      "sha256": "715892739f81f7f565d0fc51de3b053c379f1157335b4b2dd61cd382dfda66ef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.51/SLUS_207.51_BG_00.png"
+      },
+      "gameId": "SLUS_207.51"
+    },
+    {
+      "path": "PS2/SLUS_207.51/SLUS_207.51_BG_01.png",
+      "kind": "background",
+      "bytes": 149392,
+      "width": 640,
+      "height": 480,
+      "sha256": "d232f7b3322832c10f46b5b83f9b430d07c21280c0ce08d7b5343e71eabc39bc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.51/SLUS_207.51_BG_01.png"
+      },
+      "gameId": "SLUS_207.51"
+    },
+    {
+      "path": "PS2/SLUS_207.51/SLUS_207.51_BG_02.png",
+      "kind": "background",
+      "bytes": 22925,
+      "width": 640,
+      "height": 480,
+      "sha256": "5948c902d7828716b6c88f7b58e5f8b653c6349f9be769949ddb8939768b049c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.51/SLUS_207.51_BG_02.png"
+      },
+      "gameId": "SLUS_207.51"
+    },
+    {
+      "path": "PS2/SLUS_207.51/SLUS_207.51_BG_03.png",
+      "kind": "background",
+      "bytes": 167816,
+      "width": 640,
+      "height": 480,
+      "sha256": "e7ab17bf85e1fb6f33e26aa27a2730274e68d6a9cf7ca8b458f0b4b600395ec1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.51/SLUS_207.51_BG_03.png"
+      },
+      "gameId": "SLUS_207.51"
+    },
+    {
+      "path": "PS2/SLUS_207.51/SLUS_207.51_BG_04.png",
+      "kind": "background",
+      "bytes": 155494,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6e1dd3c6a53b800470144403ffa5c239b66ec4f5bae3fa77d5ad052384f3a8c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.51/SLUS_207.51_BG_04.png"
+      },
+      "gameId": "SLUS_207.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007 - EVERYTHING OR NOTHING"
+}

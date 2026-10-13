@@ -1,0 +1,103 @@
+{
+  "id": "SLES_529.93",
+  "cover": {
+    "path": "PS2/SLES_529.93/SLES_529.93_COV.png",
+    "kind": "cover",
+    "bytes": 94887,
+    "width": 192,
+    "height": 272,
+    "sha256": "849c5ba663f64357e641dd6d4ddc5c806ec8828a3b4806b0ccba0acfc9eb8155",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52993.jpg"
+    },
+    "gameId": "SLES_529.93"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_529.93/SLES_529.93_BG.png",
+    "kind": "background",
+    "bytes": 113974,
+    "width": 640,
+    "height": 480,
+    "sha256": "9272bbfb78e8290ae26e75309deff4ae0c1382dec8c3bce60415a99a7535f07e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.93/SLES_529.93_BG_00.png"
+    },
+    "gameId": "SLES_529.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.93/SLES_529.93_BG.png",
+      "kind": "background",
+      "bytes": 113974,
+      "width": 640,
+      "height": 480,
+      "sha256": "9272bbfb78e8290ae26e75309deff4ae0c1382dec8c3bce60415a99a7535f07e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.93/SLES_529.93_BG_00.png"
+      },
+      "gameId": "SLES_529.93"
+    },
+    {
+      "path": "PS2/SLES_529.93/SLES_529.93_BG_01.png",
+      "kind": "background",
+      "bytes": 181168,
+      "width": 640,
+      "height": 480,
+      "sha256": "a96fe4a1d0defc8e4cf625f52d888f674b655375b8af91da567f4e870a9b5d01",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.93/SLES_529.93_BG_01.png"
+      },
+      "gameId": "SLES_529.93"
+    },
+    {
+      "path": "PS2/SLES_529.93/SLES_529.93_BG_02.png",
+      "kind": "background",
+      "bytes": 154664,
+      "width": 640,
+      "height": 480,
+      "sha256": "bed271d894487a0afde24c055677133f1bfe7fccf92a902a45d6e0d0030d433d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.93/SLES_529.93_BG_02.png"
+      },
+      "gameId": "SLES_529.93"
+    },
+    {
+      "path": "PS2/SLES_529.93/SLES_529.93_BG_03.png",
+      "kind": "background",
+      "bytes": 154941,
+      "width": 640,
+      "height": 480,
+      "sha256": "3d30cce730928f94ce0af04504021a86f96d86f1c8866b46243b494e66b80679",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.93/SLES_529.93_BG_03.png"
+      },
+      "gameId": "SLES_529.93"
+    },
+    {
+      "path": "PS2/SLES_529.93/SLES_529.93_BG_04.png",
+      "kind": "background",
+      "bytes": 176036,
+      "width": 640,
+      "height": 480,
+      "sha256": "a0cc37f4c7b4946c1167c87225e9db942fe72cb8b790ba36b6f08aadee74a95f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.93/SLES_529.93_BG_04.png"
+      },
+      "gameId": "SLES_529.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TimeSplitters: Future Perfect"
+}

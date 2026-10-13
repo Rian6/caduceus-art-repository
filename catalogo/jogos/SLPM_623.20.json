@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.20",
+  "cover": {
+    "path": "PS2/SLPM_623.20/SLPM_623.20_COV.png",
+    "kind": "cover",
+    "bytes": 98386,
+    "width": 192,
+    "height": 272,
+    "sha256": "67bbc800f8252d580c3d3685270c91e9f5ab2329355fb3542656a6d7fe9ad202",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62320.jpg"
+    },
+    "gameId": "SLPM_623.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "2003-nen Kaimaku: Ganbare Kyuukai-ou: Iwayuru Pro Yakyuu desu ne"
+}

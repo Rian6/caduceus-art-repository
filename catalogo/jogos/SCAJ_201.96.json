@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.96",
+  "cover": {
+    "path": "PS2/SCAJ_201.96/SCAJ_201.96_COV.png",
+    "kind": "cover",
+    "bytes": 66025,
+    "width": 192,
+    "height": 272,
+    "sha256": "3cda8699895baae8aed6dd81aa989f9590c0eba36ec18e6e68c1c68cdf610a39",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20196.jpg"
+    },
+    "gameId": "SCAJ_201.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WANDA TO KYOZOUS [PLAYSTATION 2 THE BEST]"
+}

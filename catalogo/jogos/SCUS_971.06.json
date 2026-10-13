@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_971.06",
+  "cover": {
+    "path": "PS2/SCUS_971.06/SCUS_971.06_COV.png",
+    "kind": "cover",
+    "bytes": 101101,
+    "width": 192,
+    "height": 272,
+    "sha256": "f847fb999092185a6550d3d7855c6b92b7bb5229a5d994b55066186d076b2951",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97106.jpg"
+    },
+    "gameId": "SCUS_971.06"
+  },
+  "disc": {
+    "path": "PS2/SCUS_971.06/SCUS_971.06_ICO.png",
+    "kind": "disc",
+    "bytes": 32068,
+    "width": 256,
+    "height": 256,
+    "sha256": "883b3b3ab99d135e1a398c794c3284d0e448d205a74e154cda3ad29d40c6f556",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_971.06_ICO.png"
+    },
+    "gameId": "SCUS_971.06"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NFL GameDay 2001"
+}

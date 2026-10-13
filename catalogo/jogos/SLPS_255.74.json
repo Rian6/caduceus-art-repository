@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.74",
+  "cover": {
+    "path": "PS2/SLPS_255.74/SLPS_255.74_COV.png",
+    "kind": "cover",
+    "bytes": 98031,
+    "width": 192,
+    "height": 272,
+    "sha256": "2bb7837d48371099e3002dc63a47d2147fa44dda766c822b381ce8f280976dcd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25574.jpg"
+    },
+    "gameId": "SLPS_255.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachi Para 12 - Ooumi to Natsu no Omoide"
+}

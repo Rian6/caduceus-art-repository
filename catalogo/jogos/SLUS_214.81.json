@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_214.81",
+  "cover": {
+    "path": "PS2/SLUS_214.81/SLUS_214.81_COV.png",
+    "kind": "cover",
+    "bytes": 91627,
+    "width": 192,
+    "height": 272,
+    "sha256": "2a8cae96b15e82fbe5a83b7d1babe3f2c438309cb70c2cd9c10f1c44d3c008a4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21481.jpg"
+    },
+    "gameId": "SLUS_214.81"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.81/SLUS_214.81_ICO.png",
+    "kind": "disc",
+    "bytes": 33378,
+    "width": 256,
+    "height": 256,
+    "sha256": "5123ff2d7d6dd468e12a67ab92e9cab281d86518ed4264500aeeb06b86ffcb9e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.81_ICO.png"
+    },
+    "gameId": "SLUS_214.81"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NCAA March Madness '07"
+}

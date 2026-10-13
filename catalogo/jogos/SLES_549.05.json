@@ -1,0 +1,51 @@
+{
+  "id": "SLES_549.05",
+  "cover": {
+    "path": "PS2/SLES_549.05/SLES_549.05_COV.png",
+    "kind": "cover",
+    "bytes": 93621,
+    "width": 192,
+    "height": 272,
+    "sha256": "b7970af1f406b1f746b0c8fbe24983a87d9cfb94803f8cb564873db2c97ab4b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54905.jpg"
+    },
+    "gameId": "SLES_549.05"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_549.05/SLES_549.05_BG.png",
+    "kind": "background",
+    "bytes": 167527,
+    "width": 640,
+    "height": 480,
+    "sha256": "73803375e396da3569e58e730408ced864e477da8680d7115099f9f27b31a3bf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.05/SLES_549.05_BG_00.png"
+    },
+    "gameId": "SLES_549.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_549.05/SLES_549.05_BG.png",
+      "kind": "background",
+      "bytes": 167527,
+      "width": 640,
+      "height": 480,
+      "sha256": "73803375e396da3569e58e730408ced864e477da8680d7115099f9f27b31a3bf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_549.05/SLES_549.05_BG_00.png"
+      },
+      "gameId": "SLES_549.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Les Simpson - Le Jeu"
+}

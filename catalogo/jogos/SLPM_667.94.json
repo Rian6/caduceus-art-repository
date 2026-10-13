@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.94",
+  "cover": {
+    "path": "PS2/SLPM_667.94/SLPM_667.94_COV.png",
+    "kind": "cover",
+    "bytes": 97201,
+    "width": 192,
+    "height": 272,
+    "sha256": "5b02dd82ad280338c81b4bcfb4576b70bb4e1b854601c728f59f9492a7cbb44e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66794.jpg"
+    },
+    "gameId": "SLPM_667.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL GEAR SOLID 3 - SNAKE EATER [METAL GEAR 20TH ANNIVERSARY] [2 DISCS]"
+}

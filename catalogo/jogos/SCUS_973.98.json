@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_973.98",
+  "cover": {
+    "path": "PS2/SCUS_973.98/SCUS_973.98_COV.png",
+    "kind": "cover",
+    "bytes": 54508,
+    "width": 192,
+    "height": 272,
+    "sha256": "16516a8b0a0db05af762efdf1f3cb69170e5ef6a3ff738b18165da659ca92166",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_973.98/SCUS_973.98_COV.png"
+    },
+    "gameId": "SCUS_973.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Siren (DEMO)"
+}

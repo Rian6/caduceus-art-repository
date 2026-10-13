@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.71",
+  "cover": {
+    "path": "PS2/SLPM_660.71/SLPM_660.71_COV.png",
+    "kind": "cover",
+    "bytes": 77603,
+    "width": 192,
+    "height": 272,
+    "sha256": "c1bbd26cf25ca91118cf10e1dd1ada6a23618de954e67c40c439a8c60f16cf9c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66071.jpg"
+    },
+    "gameId": "SLPM_660.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shadow Hearts - From The New World"
+}

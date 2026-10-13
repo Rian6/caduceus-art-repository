@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.56",
+  "cover": {
+    "path": "PS2/SLPM_655.56/SLPM_655.56_COV.png",
+    "kind": "cover",
+    "bytes": 114503,
+    "width": 192,
+    "height": 272,
+    "sha256": "63286416cef5f370bc3e20be2298d3b5eca63ff0371e285f2714d38e7daa98b0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65556.jpg"
+    },
+    "gameId": "SLPM_655.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nobunaga no Yabou -  Tenka Sousei"
+}

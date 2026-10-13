@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_240.08",
+  "cover": {
+    "path": "PS2/SCKA_240.08/SCKA_240.08_COV.png",
+    "kind": "cover",
+    "bytes": 84733,
+    "width": 192,
+    "height": 272,
+    "sha256": "e5aaf7dba71c49a47909fc635ce640df64d397645fa3578f28576bb2ad353923",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-24008.jpg"
+    },
+    "gameId": "SCKA_240.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOCOM - U.S. Navy SEALs"
+}

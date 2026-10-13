@@ -1,0 +1,25 @@
+{
+  "id": "SLES_522.59",
+  "cover": {
+    "path": "PS2/SLES_522.59/SLES_522.59_COV.png",
+    "kind": "cover",
+    "bytes": 100774,
+    "width": 192,
+    "height": 272,
+    "sha256": "b429ea63b675e934be0798446b01021deecdd5e1baeaa097956bd029b7576aa4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52259.jpg"
+    },
+    "gameId": "SLES_522.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Outlaw Volleyball"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_513.90",
+  "cover": {
+    "path": "PS2/SLES_513.90/SLES_513.90_COV.png",
+    "kind": "cover",
+    "bytes": 100150,
+    "width": 192,
+    "height": 272,
+    "sha256": "40bb91478cff542deb260b502a8b92796a6efb5730e3e39edc851ee5dd32e3ce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51390.jpg"
+    },
+    "gameId": "SLES_513.90"
+  },
+  "disc": {
+    "path": "PS2/SLES_513.90/SLES_513.90_ICO.png",
+    "kind": "disc",
+    "bytes": 11847,
+    "width": 128,
+    "height": 128,
+    "sha256": "e6e602a52855fa5f03a8dd153f51e4aa8a3a53cc205157d00594c57f75be9105",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_513.90_ICO.png"
+    },
+    "gameId": "SLES_513.90"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fightbox"
+}

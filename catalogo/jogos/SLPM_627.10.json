@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.10",
+  "cover": {
+    "path": "PS2/SLPM_627.10/SLPM_627.10_COV.png",
+    "kind": "cover",
+    "bytes": 95596,
+    "width": 192,
+    "height": 272,
+    "sha256": "55b5071b783587bf70baeca3dac9c2e18d4596ba283ce03ab4e7754a77459292",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62710.jpg"
+    },
+    "gameId": "SLPM_627.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sangokushi VIII (Koei Teiban Series)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_552.05",
+  "cover": {
+    "path": "PS2/SLES_552.05/SLES_552.05_COV.png",
+    "kind": "cover",
+    "bytes": 103578,
+    "width": 192,
+    "height": 272,
+    "sha256": "7c59a42c9cdbb9f594add1a45d1b0325a9e0e4eef20b9be010d4053e36eb26b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55205.jpg"
+    },
+    "gameId": "SLES_552.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Crash - Mind Over Mutant"
+}

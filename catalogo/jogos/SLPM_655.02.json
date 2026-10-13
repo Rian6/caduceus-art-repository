@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.02",
+  "cover": {
+    "path": "PS2/SLPM_655.02/SLPM_655.02_COV.png",
+    "kind": "cover",
+    "bytes": 80056,
+    "width": 192,
+    "height": 272,
+    "sha256": "9480adcc3f3a9339eefb8f6b7fe336ff7a466078201c3b0a931c20c2520f7c4d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65502.jpg"
+    },
+    "gameId": "SLPM_655.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUNGRAVE [RED BEST SELECTION SERIES]"
+}

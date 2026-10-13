@@ -1,0 +1,51 @@
+{
+  "id": "SLES_516.81",
+  "cover": {
+    "path": "PS2/SLES_516.81/SLES_516.81_COV.png",
+    "kind": "cover",
+    "bytes": 99736,
+    "width": 192,
+    "height": 272,
+    "sha256": "5bf1740ea7635f5630702a970651f475cadbe59c09bef80e5acce68879842259",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51681.jpg"
+    },
+    "gameId": "SLES_516.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_516.81/SLES_516.81_BG.png",
+    "kind": "background",
+    "bytes": 208319,
+    "width": 640,
+    "height": 480,
+    "sha256": "4e12dcce215a9040fe8929ed2cb8e0563f12fed90c8531112a5dd5f24635e147",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_516.81/SLES_516.81_BG_00.png"
+    },
+    "gameId": "SLES_516.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_516.81/SLES_516.81_BG.png",
+      "kind": "background",
+      "bytes": 208319,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e12dcce215a9040fe8929ed2cb8e0563f12fed90c8531112a5dd5f24635e147",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.81/SLES_516.81_BG_00.png"
+      },
+      "gameId": "SLES_516.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Splashdown 2 - Rides Gone Wild"
+}

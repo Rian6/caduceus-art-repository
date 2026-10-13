@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.46",
+  "cover": {
+    "path": "PS2/SLPM_658.46/SLPM_658.46_COV.png",
+    "kind": "cover",
+    "bytes": 110896,
+    "width": 192,
+    "height": 272,
+    "sha256": "e024a5dccc2d1b8916b08b463fac9c4a2dc8ddf3488cb40307c0f78addc92546",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65846.jpg"
+    },
+    "gameId": "SLPM_658.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Lord of the Rings: Nakatsu Kuni Daisanki"
+}

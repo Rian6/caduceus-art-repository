@@ -1,0 +1,51 @@
+{
+  "id": "SLES_507.20",
+  "cover": {
+    "path": "PS2/SLES_507.20/SLES_507.20_COV.png",
+    "kind": "cover",
+    "bytes": 88016,
+    "width": 192,
+    "height": 272,
+    "sha256": "50f65413cd9b3b1cd30c659b8b03db0092fe2c3d67c5d727537a3daa0ef7da93",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50720.jpg"
+    },
+    "gameId": "SLES_507.20"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_507.20/SLES_507.20_BG.png",
+    "kind": "background",
+    "bytes": 160483,
+    "width": 640,
+    "height": 480,
+    "sha256": "c3058a94f577284569dc581fd150b13d712e356dce28412bd4a9f1027d3d7385",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.20/SLES_507.20_BG_00.png"
+    },
+    "gameId": "SLES_507.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_507.20/SLES_507.20_BG.png",
+      "kind": "background",
+      "bytes": 160483,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3058a94f577284569dc581fd150b13d712e356dce28412bd4a9f1027d3d7385",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.20/SLES_507.20_BG_00.png"
+      },
+      "gameId": "SLES_507.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Freestyle Metal X"
+}

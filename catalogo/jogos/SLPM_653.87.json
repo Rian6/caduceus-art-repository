@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.87",
+  "cover": {
+    "path": "PS2/SLPM_653.87/SLPM_653.87_COV.png",
+    "kind": "cover",
+    "bytes": 83385,
+    "width": 192,
+    "height": 272,
+    "sha256": "ef1b80e08c7d860a4ebf0fe9d6e4691b1114f365b07037f9ff987b0aa04775e9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65387.jpg"
+    },
+    "gameId": "SLPM_653.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Aero Dancing 4 - New Generation [Sega The Best 2800]"
+}

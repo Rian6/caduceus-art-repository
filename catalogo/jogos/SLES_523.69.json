@@ -1,0 +1,39 @@
+{
+  "id": "SLES_523.69",
+  "cover": {
+    "path": "PS2/SLES_523.69/SLES_523.69_COV.png",
+    "kind": "cover",
+    "bytes": 117180,
+    "width": 192,
+    "height": 272,
+    "sha256": "6cbd381c6ce0caf2a14f6bc5eb88554d6acceebc9228f401fbfaee1460c8a234",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52369.jpg"
+    },
+    "gameId": "SLES_523.69"
+  },
+  "disc": {
+    "path": "PS2/SLES_523.69/SLES_523.69_ICO.png",
+    "kind": "disc",
+    "bytes": 10546,
+    "width": 128,
+    "height": 128,
+    "sha256": "98f66f4ee886ca9f4483adc655117c82ebcfba20a2f747c07d212a8354e2f7c1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_523.69_ICO.png"
+    },
+    "gameId": "SLES_523.69"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Empires of Atlantis"
+}

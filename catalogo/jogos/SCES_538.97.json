@@ -1,0 +1,64 @@
+{
+  "id": "SCES_538.97",
+  "cover": {
+    "path": "PS2/SCES_538.97/SCES_538.97_COV.png",
+    "kind": "cover",
+    "bytes": 67442,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a3bcdfd5ce8a81ecbd0c9169c207c852464ba558d3a637b0af831c3ba96691f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_538.97/SCES_538.97_COV.png"
+    },
+    "gameId": "SCES_538.97"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_538.97/SCES_538.97_BG.png",
+    "kind": "background",
+    "bytes": 158290,
+    "width": 640,
+    "height": 480,
+    "sha256": "acc54873c1b73b587e7348d5090b161488ee43d8d269d5302795369b7a74b242",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_538.97/SCES_538.97_BG_00.png"
+    },
+    "gameId": "SCES_538.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_538.97/SCES_538.97_BG.png",
+      "kind": "background",
+      "bytes": 158290,
+      "width": 640,
+      "height": 480,
+      "sha256": "acc54873c1b73b587e7348d5090b161488ee43d8d269d5302795369b7a74b242",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_538.97/SCES_538.97_BG_00.png"
+      },
+      "gameId": "SCES_538.97"
+    },
+    {
+      "path": "PS2/SCES_538.97/SCES_538.97_BG_01.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_538.97/SCES_538.97_BG_01.png"
+      },
+      "gameId": "SCES_538.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Rocks!"
+}

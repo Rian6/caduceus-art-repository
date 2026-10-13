@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.35",
+  "cover": {
+    "path": "PS2/KOEI_201.35/KOEI_201.35_COV.png",
+    "kind": "cover",
+    "bytes": 56342,
+    "width": 192,
+    "height": 272,
+    "sha256": "18883619ff67bdbc9c2c22cdbddd8dfd3ac2bd7136b94a9edf80ab6d4ddf4e66",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_201.35/KOEI_201.35_COV.png"
+    },
+    "gameId": "KOEI_201.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kiniro no Corda 2 Encore"
+}

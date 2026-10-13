@@ -1,0 +1,25 @@
+{
+  "id": "SLES_511.01",
+  "cover": {
+    "path": "PS2/SLES_511.01/SLES_511.01_COV.png",
+    "kind": "cover",
+    "bytes": 104349,
+    "width": 192,
+    "height": 272,
+    "sha256": "18a1eaaca6e1e69a58101c7e092ad7d962e658c826eb2e3e84d1cd45848c5ece",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51101.jpg"
+    },
+    "gameId": "SLES_511.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Eggo Mania"
+}

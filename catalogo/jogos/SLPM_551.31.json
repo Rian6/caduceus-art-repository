@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.31",
+  "cover": {
+    "path": "PS2/SLPM_551.31/SLPM_551.31_COV.png",
+    "kind": "cover",
+    "bytes": 91370,
+    "width": 192,
+    "height": 272,
+    "sha256": "1a6d84f7e219947cbcb81b800de2660466fb12928111a1a591473e7268e601b2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55131.jpg"
+    },
+    "gameId": "SLPM_551.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 2009"
+}

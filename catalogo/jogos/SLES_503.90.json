@@ -1,0 +1,25 @@
+{
+  "id": "SLES_503.90",
+  "cover": {
+    "path": "PS2/SLES_503.90/SLES_503.90_COV.png",
+    "kind": "cover",
+    "bytes": 90464,
+    "width": 192,
+    "height": 272,
+    "sha256": "c318b707399364c046632553093b7c538958f37e37ed547a664c36bf0a5ad42f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50390.jpg"
+    },
+    "gameId": "SLES_503.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Driven"
+}

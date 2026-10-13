@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_170.01",
+  "cover": {
+    "path": "PS2/SCPS_170.01/SCPS_170.01_COV.png",
+    "kind": "cover",
+    "bytes": 49311,
+    "width": 192,
+    "height": 272,
+    "sha256": "3465a80739c8a1c45040bf5de4eaf126ca4031a219f894cec636611504b5e81a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-17001.jpg"
+    },
+    "gameId": "SCPS_170.01"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_170.01/SCPS_170.01_BG.png",
+    "kind": "background",
+    "bytes": 162652,
+    "width": 640,
+    "height": 480,
+    "sha256": "f7909e8abaebeea69463d7ca856f83975dbd61f201ea82fe96cfeb7622c15dd1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_170.01/SCPS_170.01_BG_00.png"
+    },
+    "gameId": "SCPS_170.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_170.01/SCPS_170.01_BG.png",
+      "kind": "background",
+      "bytes": 162652,
+      "width": 640,
+      "height": 480,
+      "sha256": "f7909e8abaebeea69463d7ca856f83975dbd61f201ea82fe96cfeb7622c15dd1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_170.01/SCPS_170.01_BG_00.png"
+      },
+      "gameId": "SCPS_170.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 4"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_206.00",
+  "cover": {
+    "path": "PS2/SLUS_206.00/SLUS_206.00_COV.png",
+    "kind": "cover",
+    "bytes": 65391,
+    "width": 192,
+    "height": 272,
+    "sha256": "08cd1fd5548dad3b71157e952e8d527dc4fd5da69f76e437aedaee189f3e52fe",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_206.00/SLUS_206.00_COV.png"
+    },
+    "gameId": "SLUS_206.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SX Superstar"
+}

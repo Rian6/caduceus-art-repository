@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.93",
+  "cover": {
+    "path": "PS2/SLPM_660.93/SLPM_660.93_COV.png",
+    "kind": "cover",
+    "bytes": 93348,
+    "width": 192,
+    "height": 272,
+    "sha256": "dd8f12f791ec879020c9398f6de1b3097312761d405b5d8cf444c1f9ba631e6c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66093.jpg"
+    },
+    "gameId": "SLPM_660.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kessen II (Koei Selection Series)"
+}

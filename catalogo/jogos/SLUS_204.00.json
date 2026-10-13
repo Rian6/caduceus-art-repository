@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_204.00",
+  "cover": {
+    "path": "PS2/SLUS_204.00/SLUS_204.00_COV.png",
+    "kind": "cover",
+    "bytes": 81501,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e420357bd5e1d9bcb0487f0c50f451fa52b25edfe23ee561410ae289a15defc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20400.jpg"
+    },
+    "gameId": "SLUS_204.00"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.00/SLUS_204.00_ICO.png",
+    "kind": "disc",
+    "bytes": 29912,
+    "width": 256,
+    "height": 256,
+    "sha256": "d55191cd788340c5092ebfc52e12185f10f7a2a9140ca6252558e3e5ee195e35",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.00_ICO.png"
+    },
+    "gameId": "SLUS_204.00"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.00/SLUS_204.00_BG.png",
+    "kind": "background",
+    "bytes": 209748,
+    "width": 640,
+    "height": 480,
+    "sha256": "83f8ae9a411153c3b00c4c9dd5b2210c9c2463777cb48484019795aee7599824",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.00/SLUS_204.00_BG_00.png"
+    },
+    "gameId": "SLUS_204.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.00/SLUS_204.00_BG.png",
+      "kind": "background",
+      "bytes": 209748,
+      "width": 640,
+      "height": 480,
+      "sha256": "83f8ae9a411153c3b00c4c9dd5b2210c9c2463777cb48484019795aee7599824",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.00/SLUS_204.00_BG_00.png"
+      },
+      "gameId": "SLUS_204.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mission: Impossible: Operation Surma"
+}

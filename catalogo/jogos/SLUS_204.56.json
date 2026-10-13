@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_204.56",
+  "cover": {
+    "path": "PS2/SLUS_204.56/SLUS_204.56_COV.png",
+    "kind": "cover",
+    "bytes": 107590,
+    "width": 192,
+    "height": 272,
+    "sha256": "62ab4a7ff3f9781affee2d4706b782243cd7e35572a094e60209fc4193123da3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20456.jpg"
+    },
+    "gameId": "SLUS_204.56"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.56/SLUS_204.56_ICO.png",
+    "kind": "disc",
+    "bytes": 29169,
+    "width": 256,
+    "height": 256,
+    "sha256": "27b5aea85f659c0adc4370ed2817073d5a190f0f9992dd1cecfdbb0f9ccb2721",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.56_ICO.png"
+    },
+    "gameId": "SLUS_204.56"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.56/SLUS_204.56_BG.png",
+    "kind": "background",
+    "bytes": 181717,
+    "width": 640,
+    "height": 480,
+    "sha256": "81a96b711af2f122b32a506f674edc4597bfb7ce6d47a2aa6653ba82c1652c6f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.56/SLUS_204.56_BG_00.png"
+    },
+    "gameId": "SLUS_204.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.56/SLUS_204.56_BG.png",
+      "kind": "background",
+      "bytes": 181717,
+      "width": 640,
+      "height": 480,
+      "sha256": "81a96b711af2f122b32a506f674edc4597bfb7ce6d47a2aa6653ba82c1652c6f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.56/SLUS_204.56_BG_00.png"
+      },
+      "gameId": "SLUS_204.56"
+    },
+    {
+      "path": "PS2/SLUS_204.56/SLUS_204.56_BG_01.png",
+      "kind": "background",
+      "bytes": 170828,
+      "width": 640,
+      "height": 480,
+      "sha256": "049b39d9921a92e11279ddec385b54b00713f64999981c1246ce0857ade6053a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.56/SLUS_204.56_BG_01.png"
+      },
+      "gameId": "SLUS_204.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGO Soccer Mania"
+}

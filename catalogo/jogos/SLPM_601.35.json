@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_601.35",
+  "cover": {
+    "path": "PS2/SLPM_601.35/SLPM_601.35_COV.png",
+    "kind": "cover",
+    "bytes": 56314,
+    "width": 192,
+    "height": 272,
+    "sha256": "95dcd65cf6f54f10b1f69abd2a0253031bc996fe4f9465eab07e29cb57c82201",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_601.35/SLPM_601.35_COV.png"
+    },
+    "gameId": "SLPM_601.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shadow of Memories"
+}

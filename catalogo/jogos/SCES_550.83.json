@@ -1,0 +1,65 @@
+{
+  "id": "SCES_550.83",
+  "cover": {
+    "path": "PS2/SCES_550.83/SCES_550.83_COV.png",
+    "kind": "cover",
+    "bytes": 103872,
+    "width": 192,
+    "height": 272,
+    "sha256": "f616f87a4dc582c41fed93f183a9aec0385651ae1974a4146871ae8f53af3ea5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55083.jpg"
+    },
+    "gameId": "SCES_550.83"
+  },
+  "disc": {
+    "path": "PS2/SCES_550.83/SCES_550.83_ICO.png",
+    "kind": "disc",
+    "bytes": 10470,
+    "width": 128,
+    "height": 128,
+    "sha256": "3dbd6bd360e7528b62d31a595094a593222ab69d52a19f6ccd46af78ef7c2080",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_550.83_ICO.png"
+    },
+    "gameId": "SCES_550.83"
+  },
+  "background": {
+    "path": "PS2/SCES_550.83/SCES_550.83_BG.png",
+    "kind": "background",
+    "bytes": 87688,
+    "width": 640,
+    "height": 480,
+    "sha256": "84d66dacd3e12b1e0b8665b291329bba96d2542e590a029ec1efc1df6bbbb378",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_550.83/SCES_550.83_BG_00.png"
+    },
+    "gameId": "SCES_550.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_550.83/SCES_550.83_BG.png",
+      "kind": "background",
+      "bytes": 87688,
+      "width": 640,
+      "height": 480,
+      "sha256": "84d66dacd3e12b1e0b8665b291329bba96d2542e590a029ec1efc1df6bbbb378",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_550.83/SCES_550.83_BG_00.png"
+      },
+      "gameId": "SCES_550.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy Play: PomPom Party"
+}

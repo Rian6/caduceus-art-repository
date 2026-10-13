@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.18",
+  "cover": {
+    "path": "PS2/SLPM_664.18/SLPM_664.18_COV.png",
+    "kind": "cover",
+    "bytes": 121748,
+    "width": 192,
+    "height": 272,
+    "sha256": "64246da45026f69f9d57bd6dd503ab2fb9003ed63873961916b30708743d3956",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66418.jpg"
+    },
+    "gameId": "SLPM_664.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Growlanser V - Generations"
+}

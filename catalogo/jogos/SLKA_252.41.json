@@ -1,0 +1,39 @@
+{
+  "id": "SLKA_252.41",
+  "cover": null,
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_252.41/SLKA_252.41_BG.png",
+    "kind": "background",
+    "bytes": 178451,
+    "width": 640,
+    "height": 480,
+    "sha256": "763d28f43ea600de5907a565e278057325b444caf6e36f3bd048c77e9497d091",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.41/SLKA_252.41_BG_00.png"
+    },
+    "gameId": "SLKA_252.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_252.41/SLKA_252.41_BG.png",
+      "kind": "background",
+      "bytes": 178451,
+      "width": 640,
+      "height": 480,
+      "sha256": "763d28f43ea600de5907a565e278057325b444caf6e36f3bd048c77e9497d091",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_252.41/SLKA_252.41_BG_00.png"
+      },
+      "gameId": "SLKA_252.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Need for Speed: Underground 2"
+}

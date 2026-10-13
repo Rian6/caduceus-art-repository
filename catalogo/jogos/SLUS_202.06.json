@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_202.06",
+  "cover": {
+    "path": "PS2/SLUS_202.06/SLUS_202.06_COV.png",
+    "kind": "cover",
+    "bytes": 104644,
+    "width": 192,
+    "height": 272,
+    "sha256": "226e924b0deb748a65ff4fd4c38eaba34a3ca68f916623abaa2c29ff7a3bbd86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20206.jpg"
+    },
+    "gameId": "SLUS_202.06"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.06/SLUS_202.06_ICO.png",
+    "kind": "disc",
+    "bytes": 34678,
+    "width": 256,
+    "height": 256,
+    "sha256": "c8cc7da6c5f4b5ce8d3f31aa689d7be2f38c4b5dc84b96401ca78b71698a6a08",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.06_ICO.png"
+    },
+    "gameId": "SLUS_202.06"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.06/SLUS_202.06_BG.png",
+    "kind": "background",
+    "bytes": 143157,
+    "width": 640,
+    "height": 480,
+    "sha256": "fec8a54aa057b997e1afae3b99b3b87a9bbef320a6713660b0a6059207298f94",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.06/SLUS_202.06_BG_00.png"
+    },
+    "gameId": "SLUS_202.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.06/SLUS_202.06_BG.png",
+      "kind": "background",
+      "bytes": 143157,
+      "width": 640,
+      "height": 480,
+      "sha256": "fec8a54aa057b997e1afae3b99b3b87a9bbef320a6713660b0a6059207298f94",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.06/SLUS_202.06_BG_00.png"
+      },
+      "gameId": "SLUS_202.06"
+    },
+    {
+      "path": "PS2/SLUS_202.06/SLUS_202.06_BG_01.png",
+      "kind": "background",
+      "bytes": 217109,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac56592fd8c239b204b2ecdd802f601d6cf78db751fb7f0693af129c4d8b5af3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.06/SLUS_202.06_BG_01.png"
+      },
+      "gameId": "SLUS_202.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Army Men - RTS - Real Time Strategy"
+}

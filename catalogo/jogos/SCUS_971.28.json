@@ -1,0 +1,91 @@
+{
+  "id": "SCUS_971.28",
+  "cover": {
+    "path": "PS2/SCUS_971.28/SCUS_971.28_COV.png",
+    "kind": "cover",
+    "bytes": 103624,
+    "width": 192,
+    "height": 272,
+    "sha256": "132f6d21f836e118e7947357a94b5bd910657eb3c893a6de9288586bf35f391f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97128.jpg"
+    },
+    "gameId": "SCUS_971.28"
+  },
+  "disc": {
+    "path": "PS2/SCUS_971.28/SCUS_971.28_ICO.png",
+    "kind": "disc",
+    "bytes": 30971,
+    "width": 256,
+    "height": 256,
+    "sha256": "64ddc41c025428bae3fde811e106865f048fb81732429d5c921b958485363713",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_971.28_ICO.png"
+    },
+    "gameId": "SCUS_971.28"
+  },
+  "background": {
+    "path": "PS2/SCUS_971.28/SCUS_971.28_BG.png",
+    "kind": "background",
+    "bytes": 189327,
+    "width": 640,
+    "height": 480,
+    "sha256": "032a11c6ee520134292b07072861ca6d18e8dceac95d4738cfa4ca4b4618cfbc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_971.28/SCUS_971.28_BG_00.png"
+    },
+    "gameId": "SCUS_971.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_971.28/SCUS_971.28_BG.png",
+      "kind": "background",
+      "bytes": 189327,
+      "width": 640,
+      "height": 480,
+      "sha256": "032a11c6ee520134292b07072861ca6d18e8dceac95d4738cfa4ca4b4618cfbc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.28/SCUS_971.28_BG_00.png"
+      },
+      "gameId": "SCUS_971.28"
+    },
+    {
+      "path": "PS2/SCUS_971.28/SCUS_971.28_BG_01.png",
+      "kind": "background",
+      "bytes": 220288,
+      "width": 640,
+      "height": 480,
+      "sha256": "87a81b37af41480bbad2332f40b70a363c5fbd383b88d395a35e7b60476b1639",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.28/SCUS_971.28_BG_01.png"
+      },
+      "gameId": "SCUS_971.28"
+    },
+    {
+      "path": "PS2/SCUS_971.28/SCUS_971.28_BG_02.png",
+      "kind": "background",
+      "bytes": 160982,
+      "width": 640,
+      "height": 480,
+      "sha256": "6ce262add10ce26017f3992733223316925ba180f428df2b2e44a8040530815d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.28/SCUS_971.28_BG_02.png"
+      },
+      "gameId": "SCUS_971.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Drakan: The Ancients' Gates"
+}

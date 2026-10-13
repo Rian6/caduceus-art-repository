@@ -1,0 +1,78 @@
+{
+  "id": "SLES_518.61",
+  "cover": {
+    "path": "PS2/SLES_518.61/SLES_518.61_COV.png",
+    "kind": "cover",
+    "bytes": 98033,
+    "width": 192,
+    "height": 272,
+    "sha256": "000ca641edbb2acc299342e52cb3d820659a2528ac344433720012eb483961d0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51861.jpg"
+    },
+    "gameId": "SLES_518.61"
+  },
+  "disc": {
+    "path": "PS2/SLES_518.61/SLES_518.61_ICO.png",
+    "kind": "disc",
+    "bytes": 9853,
+    "width": 128,
+    "height": 128,
+    "sha256": "e5de253ffca67e555ddc712930ba2566e16a5fc943659e7a8d198094927b74d5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_518.61_ICO.png"
+    },
+    "gameId": "SLES_518.61"
+  },
+  "background": {
+    "path": "PS2/SLES_518.61/SLES_518.61_BG.png",
+    "kind": "background",
+    "bytes": 245886,
+    "width": 640,
+    "height": 480,
+    "sha256": "f24ff1805405928de6fbea5a7438340a6852a98173cfebaae9a0831cfebca61c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.61/SLES_518.61_BG_00.png"
+    },
+    "gameId": "SLES_518.61"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.61/SLES_518.61_BG.png",
+      "kind": "background",
+      "bytes": 245886,
+      "width": 640,
+      "height": 480,
+      "sha256": "f24ff1805405928de6fbea5a7438340a6852a98173cfebaae9a0831cfebca61c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.61/SLES_518.61_BG_00.png"
+      },
+      "gameId": "SLES_518.61"
+    },
+    {
+      "path": "PS2/SLES_518.61/SLES_518.61_BG_01.png",
+      "kind": "background",
+      "bytes": 133787,
+      "width": 640,
+      "height": 480,
+      "sha256": "c2af38b88afce0af5379078ca1217d5b200797fea4c1078cb3aa753d1a5771b6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.61/SLES_518.61_BG_01.png"
+      },
+      "gameId": "SLES_518.61"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bowling Xciting"
+}

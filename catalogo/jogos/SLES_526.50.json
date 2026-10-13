@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.50",
+  "cover": {
+    "path": "PS2/SLES_526.50/SLES_526.50_COV.png",
+    "kind": "cover",
+    "bytes": 82365,
+    "width": 192,
+    "height": 272,
+    "sha256": "05b1f14c675e3655de212149408d917e9d445e8e07ab7baef091aa518e6f2ebc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52650.jpg"
+    },
+    "gameId": "SLES_526.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - Juventus"
+}

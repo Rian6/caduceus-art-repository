@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_258.55",
+  "cover": {
+    "path": "PS2/SLPS_258.55/SLPS_258.55_COV.png",
+    "kind": "cover",
+    "bytes": 89004,
+    "width": 192,
+    "height": 272,
+    "sha256": "674955067926397397e85f401283964904726bc526ad9c424ab2aad8fcd085d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25855.jpg"
+    },
+    "gameId": "SLPS_258.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_258.55/SLPS_258.55_BG.png",
+    "kind": "background",
+    "bytes": 139310,
+    "width": 640,
+    "height": 480,
+    "sha256": "e869536b2665fdd9300a91d96ce166e766ff685c094c265f1b64c8a838c1c3d9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_258.55/SLPS_258.55_BG_00.png"
+    },
+    "gameId": "SLPS_258.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_258.55/SLPS_258.55_BG.png",
+      "kind": "background",
+      "bytes": 139310,
+      "width": 640,
+      "height": 480,
+      "sha256": "e869536b2665fdd9300a91d96ce166e766ff685c094c265f1b64c8a838c1c3d9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_258.55/SLPS_258.55_BG_00.png"
+      },
+      "gameId": "SLPS_258.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Battle of Sunrise"
+}

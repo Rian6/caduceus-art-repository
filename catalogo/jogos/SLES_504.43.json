@@ -1,0 +1,51 @@
+{
+  "id": "SLES_504.43",
+  "cover": {
+    "path": "PS2/SLES_504.43/SLES_504.43_COV.png",
+    "kind": "cover",
+    "bytes": 100920,
+    "width": 192,
+    "height": 272,
+    "sha256": "56433095ca7dded8078aa9060e4217d383e36348f12f1a55faf5caa8bdefd240",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50443.jpg"
+    },
+    "gameId": "SLES_504.43"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_504.43/SLES_504.43_BG.png",
+    "kind": "background",
+    "bytes": 134340,
+    "width": 640,
+    "height": 480,
+    "sha256": "c2b5269eb1f118eabab13e7c8d5ecc6f5b79316908b9cdab83b803d92d6d12b6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_504.43/SLES_504.43_BG_00.png"
+    },
+    "gameId": "SLES_504.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_504.43/SLES_504.43_BG.png",
+      "kind": "background",
+      "bytes": 134340,
+      "width": 640,
+      "height": 480,
+      "sha256": "c2b5269eb1f118eabab13e7c8d5ecc6f5b79316908b9cdab83b803d92d6d12b6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.43/SLES_504.43_BG_00.png"
+      },
+      "gameId": "SLES_504.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGO RACERS 2"
+}

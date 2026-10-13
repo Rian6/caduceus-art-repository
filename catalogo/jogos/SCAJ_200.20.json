@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.20",
+  "cover": {
+    "path": "PS2/SCAJ_200.20/SCAJ_200.20_COV.png",
+    "kind": "cover",
+    "bytes": 94603,
+    "width": 192,
+    "height": 272,
+    "sha256": "65a1774c9dc47341cfcca3efec6b6eea99d1c4ccdf108c7b14abac0a1ef7ebb7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20020.jpg"
+    },
+    "gameId": "SCAJ_200.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DRAG-ON-DRAGOON"
+}

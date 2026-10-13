@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.82",
+  "cover": {
+    "path": "PS2/SLPM_550.82/SLPM_550.82_COV.png",
+    "kind": "cover",
+    "bytes": 91559,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff6dbee4c2e8f25bc108f44bd5439f2152a1f1a28f285fbc83b35b2a0d6027b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55082.jpg"
+    },
+    "gameId": "SLPM_550.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 5 - Special [2 DISCS]"
+}

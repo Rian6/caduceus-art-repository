@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_658.43",
+  "cover": {
+    "path": "PS2/SLPM_658.43/SLPM_658.43_COV.png",
+    "kind": "cover",
+    "bytes": 94370,
+    "width": 192,
+    "height": 272,
+    "sha256": "5280f0f08567734652a8b35de170ef6488c9b9593ac7a1506dc49f3850d77a47",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65843.jpg"
+    },
+    "gameId": "SLPM_658.43"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_658.43/SLPM_658.43_BG.png",
+    "kind": "background",
+    "bytes": 201778,
+    "width": 640,
+    "height": 480,
+    "sha256": "23fea755a2030d0296df76cc7f4948df3df9d85f375e81328a7f81455f6e6caa",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_658.43/SLPM_658.43_BG_00.png"
+    },
+    "gameId": "SLPM_658.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_658.43/SLPM_658.43_BG.png",
+      "kind": "background",
+      "bytes": 201778,
+      "width": 640,
+      "height": 480,
+      "sha256": "23fea755a2030d0296df76cc7f4948df3df9d85f375e81328a7f81455f6e6caa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.43/SLPM_658.43_BG_00.png"
+      },
+      "gameId": "SLPM_658.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "120 Yen no Haru: 120 Yen Stories"
+}

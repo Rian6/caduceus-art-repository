@@ -1,0 +1,65 @@
+{
+  "id": "SLES_538.99",
+  "cover": {
+    "path": "PS2/SLES_538.99/SLES_538.99_COV.png",
+    "kind": "cover",
+    "bytes": 100287,
+    "width": 192,
+    "height": 272,
+    "sha256": "dadaa06b082066304ce1752078aad2cb441b7da80e7a3eec5ef239a11e500634",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53899.jpg"
+    },
+    "gameId": "SLES_538.99"
+  },
+  "disc": {
+    "path": "PS2/SLES_538.99/SLES_538.99_ICO.png",
+    "kind": "disc",
+    "bytes": 11735,
+    "width": 128,
+    "height": 128,
+    "sha256": "ec9172c16d76b1ac6f5d5ae14ee6f892f70d5f30fe867eab536cfd71c956bce7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_538.99_ICO.png"
+    },
+    "gameId": "SLES_538.99"
+  },
+  "background": {
+    "path": "PS2/SLES_538.99/SLES_538.99_BG.png",
+    "kind": "background",
+    "bytes": 185357,
+    "width": 640,
+    "height": 480,
+    "sha256": "a0f6f28d773b934c7903513030f0fc7b1af36c5577b32913813d9a0b1da0613c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_538.99/SLES_538.99_BG_00.png"
+    },
+    "gameId": "SLES_538.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_538.99/SLES_538.99_BG.png",
+      "kind": "background",
+      "bytes": 185357,
+      "width": 640,
+      "height": 480,
+      "sha256": "a0f6f28d773b934c7903513030f0fc7b1af36c5577b32913813d9a0b1da0613c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.99/SLES_538.99_BG_00.png"
+      },
+      "gameId": "SLES_538.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Evolution Soccer Management"
+}

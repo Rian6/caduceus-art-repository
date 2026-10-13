@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_000.56",
+  "cover": {
+    "path": "PS2/KOEI_000.56/KOEI_000.56_COV.png",
+    "kind": "cover",
+    "bytes": 54661,
+    "width": 192,
+    "height": 272,
+    "sha256": "c60a5e30ee16dee3abe5a5efe74ca12c16367163bd87095e2a8d93573b4a22a5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_000.56/KOEI_000.56_COV.png"
+    },
+    "gameId": "KOEI_000.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "G1 Jockey 4 (Premium Box)"
+}

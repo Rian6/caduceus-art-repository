@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.20",
+  "cover": {
+    "path": "PS2/SLPM_653.20/SLPM_653.20_COV.png",
+    "kind": "cover",
+    "bytes": 104999,
+    "width": 192,
+    "height": 272,
+    "sha256": "3594b910002f6ec63bb09331c346f35b300ab1e52ed91af7a34ea38b6bf6768f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65320.jpg"
+    },
+    "gameId": "SLPM_653.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EVE - BURST ERROR PLUS"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.71",
+  "cover": {
+    "path": "PS2/SLPS_252.71/SLPS_252.71_COV.png",
+    "kind": "cover",
+    "bytes": 105334,
+    "width": 192,
+    "height": 272,
+    "sha256": "77b5090998506cc94194b8fc7252d0a17d876679d4b4b6eba896182baa6d30ce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25271.jpg"
+    },
+    "gameId": "SLPS_252.71"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sidewinder V"
+}

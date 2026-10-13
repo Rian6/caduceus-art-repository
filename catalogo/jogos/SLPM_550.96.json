@@ -1,0 +1,104 @@
+{
+  "id": "SLPM_550.96",
+  "cover": {
+    "path": "PS2/SLPM_550.96/SLPM_550.96_COV.png",
+    "kind": "cover",
+    "bytes": 106709,
+    "width": 192,
+    "height": 272,
+    "sha256": "21ff06058b91c56d6de10551a2fd15d32e807b22502a5ed75ff22f1f7ee9d355",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55096.jpg"
+    },
+    "gameId": "SLPM_550.96"
+  },
+  "disc": {
+    "path": "PS2/SLPM_550.96/SLPM_550.96_ICO.png",
+    "kind": "disc",
+    "bytes": 10489,
+    "width": 128,
+    "height": 128,
+    "sha256": "40745ae063407bf766ad63c7afbbf963aa72faa330403b0a9f09db2e8cd62c91",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_550.96_ICO.png"
+    },
+    "gameId": "SLPM_550.96"
+  },
+  "background": {
+    "path": "PS2/SLPM_550.96/SLPM_550.96_BG.png",
+    "kind": "background",
+    "bytes": 125700,
+    "width": 640,
+    "height": 480,
+    "sha256": "8e92ee9b0ba8037e0912d1f1c3a33235426654ecf27a5b1ad1835740dd49bca3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_550.96/SLPM_550.96_BG_00.png"
+    },
+    "gameId": "SLPM_550.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_550.96/SLPM_550.96_BG.png",
+      "kind": "background",
+      "bytes": 125700,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e92ee9b0ba8037e0912d1f1c3a33235426654ecf27a5b1ad1835740dd49bca3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.96/SLPM_550.96_BG_00.png"
+      },
+      "gameId": "SLPM_550.96"
+    },
+    {
+      "path": "PS2/SLPM_550.96/SLPM_550.96_BG_01.png",
+      "kind": "background",
+      "bytes": 161194,
+      "width": 640,
+      "height": 480,
+      "sha256": "b66daffdcecc3191f9a41862a8e2b5621a878369234dba16ea5f0d6231121d8c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.96/SLPM_550.96_BG_01.png"
+      },
+      "gameId": "SLPM_550.96"
+    },
+    {
+      "path": "PS2/SLPM_550.96/SLPM_550.96_BG_02.png",
+      "kind": "background",
+      "bytes": 159024,
+      "width": 640,
+      "height": 480,
+      "sha256": "f0ace1a30608879d23a726fff6ef22354838f9fc324a8bad31526d70f6c0a0d5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.96/SLPM_550.96_BG_02.png"
+      },
+      "gameId": "SLPM_550.96"
+    },
+    {
+      "path": "PS2/SLPM_550.96/SLPM_550.96_BG_03.png",
+      "kind": "background",
+      "bytes": 180599,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e40f93a465845bc36995747bbc26547903b0b039a0709ecbbbfff3ea17048da",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.96/SLPM_550.96_BG_03.png"
+      },
+      "gameId": "SLPM_550.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Thunder Force VI"
+}

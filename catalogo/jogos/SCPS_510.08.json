@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_510.08",
+  "cover": {
+    "path": "PS2/SCPS_510.08/SCPS_510.08_COV.png",
+    "kind": "cover",
+    "bytes": 86741,
+    "width": 192,
+    "height": 272,
+    "sha256": "aed4b80f5e7b4153e0a9a4c9917efe6462e9b2c8860c1c63b3a0a653893e8506",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-51008.jpg"
+    },
+    "gameId": "SCPS_510.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WAVE RALLY"
+}

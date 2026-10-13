@@ -1,0 +1,64 @@
+{
+  "id": "SLKA_350.04",
+  "cover": {
+    "path": "PS2/SLKA_350.04/SLKA_350.04_COV.png",
+    "kind": "cover",
+    "bytes": 71678,
+    "width": 192,
+    "height": 272,
+    "sha256": "0a5530b6affac4b06d97d01ea1799d4338a1424fd2d7e41990ce6a386dcddf33",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-35004.jpg"
+    },
+    "gameId": "SLKA_350.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_350.04/SLKA_350.04_BG.png",
+    "kind": "background",
+    "bytes": 93206,
+    "width": 640,
+    "height": 480,
+    "sha256": "5f33377e1d3d005acc9e6f45da0aabf63086eeb869b661a7ae21454b8b64a88c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_350.04/SLKA_350.04_BG_00.png"
+    },
+    "gameId": "SLKA_350.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_350.04/SLKA_350.04_BG.png",
+      "kind": "background",
+      "bytes": 93206,
+      "width": 640,
+      "height": 480,
+      "sha256": "5f33377e1d3d005acc9e6f45da0aabf63086eeb869b661a7ae21454b8b64a88c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_350.04/SLKA_350.04_BG_00.png"
+      },
+      "gameId": "SLKA_350.04"
+    },
+    {
+      "path": "PS2/SLKA_350.04/SLKA_350.04_BG_01.png",
+      "kind": "background",
+      "bytes": 185248,
+      "width": 640,
+      "height": 480,
+      "sha256": "f27b8fed48fa92dcca7bf698cd4314d9cefdf311827153e708aa0019632f6286",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_350.04/SLKA_350.04_BG_01.png"
+      },
+      "gameId": "SLKA_350.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sakura Taisen V - Saraba Itoshiki Hito Yo"
+}

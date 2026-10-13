@@ -1,0 +1,77 @@
+{
+  "id": "SLES_538.32",
+  "cover": {
+    "path": "PS2/SLES_538.32/SLES_538.32_COV.png",
+    "kind": "cover",
+    "bytes": 93401,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d6f83b99c117fbfebde5326c1e395a6b5b51581f0cc45f54bb322d06be52beb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53832.jpg"
+    },
+    "gameId": "SLES_538.32"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_538.32/SLES_538.32_BG.png",
+    "kind": "background",
+    "bytes": 172057,
+    "width": 640,
+    "height": 480,
+    "sha256": "5dd0ff86292f8e01956f0672900d5c6a100faf2ea004e18a0dde90889f2aef98",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_538.32/SLES_538.32_BG_00.png"
+    },
+    "gameId": "SLES_538.32"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_538.32/SLES_538.32_BG.png",
+      "kind": "background",
+      "bytes": 172057,
+      "width": 640,
+      "height": 480,
+      "sha256": "5dd0ff86292f8e01956f0672900d5c6a100faf2ea004e18a0dde90889f2aef98",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.32/SLES_538.32_BG_00.png"
+      },
+      "gameId": "SLES_538.32"
+    },
+    {
+      "path": "PS2/SLES_538.32/SLES_538.32_BG_01.png",
+      "kind": "background",
+      "bytes": 101406,
+      "width": 640,
+      "height": 480,
+      "sha256": "4a9b60cb177b11ea0c76ca66a85eaf11d514e0a7eee65ba63f5ddc808f5aa0cb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.32/SLES_538.32_BG_01.png"
+      },
+      "gameId": "SLES_538.32"
+    },
+    {
+      "path": "PS2/SLES_538.32/SLES_538.32_BG_02.png",
+      "kind": "background",
+      "bytes": 157683,
+      "width": 640,
+      "height": 480,
+      "sha256": "cc0eff01e121450e2c58b352b600a7f9ef71483566914c2c1c322961c7b3a2db",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.32/SLES_538.32_BG_02.png"
+      },
+      "gameId": "SLES_538.32"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BloodRayne 2"
+}

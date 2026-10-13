@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.32",
+  "cover": {
+    "path": "PS2/SLPS_201.32/SLPS_201.32_COV.png",
+    "kind": "cover",
+    "bytes": 100508,
+    "width": 192,
+    "height": 272,
+    "sha256": "1604520fbe6c5dee6672f0ce14458243042e817242536176c688791ba4ce60d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20132.jpg"
+    },
+    "gameId": "SLPS_201.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Chenuen no Sangokushi"
+}

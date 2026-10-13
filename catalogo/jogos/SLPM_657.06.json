@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.06",
+  "cover": {
+    "path": "PS2/SLPM_657.06/SLPM_657.06_COV.png",
+    "kind": "cover",
+    "bytes": 99449,
+    "width": 192,
+    "height": 272,
+    "sha256": "cbee841429084c8d299aa2fe63ee0785805ba4fa0925d0185aa68d2aab05d17b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65706.jpg"
+    },
+    "gameId": "SLPM_657.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XI - Promathia no Jubaku (Full set 2004)"
+}

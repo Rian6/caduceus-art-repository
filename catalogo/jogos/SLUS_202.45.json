@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_202.45",
+  "cover": {
+    "path": "PS2/SLUS_202.45/SLUS_202.45_COV.png",
+    "kind": "cover",
+    "bytes": 69056,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a42e5c04b401409ae54753e11e074c66509c2dffc3c9e3cdb46823bd42346c5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20245.jpg"
+    },
+    "gameId": "SLUS_202.45"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.45/SLUS_202.45_ICO.png",
+    "kind": "disc",
+    "bytes": 35144,
+    "width": 256,
+    "height": 256,
+    "sha256": "f0e116b2a1fc4acb92b0ae002885a10ed092789a14618c37143c98415c8eac00",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.45_ICO.png"
+    },
+    "gameId": "SLUS_202.45"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.45/SLUS_202.45_BG.png",
+    "kind": "background",
+    "bytes": 181664,
+    "width": 640,
+    "height": 480,
+    "sha256": "fdc0db33c62af626bdb17d232b7f96aaee0bf70d64ec480d5394e96ff84375d4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.45/SLUS_202.45_BG_00.png"
+    },
+    "gameId": "SLUS_202.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.45/SLUS_202.45_BG.png",
+      "kind": "background",
+      "bytes": 181664,
+      "width": 640,
+      "height": 480,
+      "sha256": "fdc0db33c62af626bdb17d232b7f96aaee0bf70d64ec480d5394e96ff84375d4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.45/SLUS_202.45_BG_00.png"
+      },
+      "gameId": "SLUS_202.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jeremy McGrath Supercross World"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.77",
+  "cover": {
+    "path": "PS2/SLPS_251.77/SLPS_251.77_COV.png",
+    "kind": "cover",
+    "bytes": 103947,
+    "width": 192,
+    "height": 272,
+    "sha256": "e0248a72690867a7995557fa435b30c20e3c0152128aab868311b59eb811a6b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25177.jpg"
+    },
+    "gameId": "SLPS_251.77"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gallop Racer 6 - Revolution"
+}

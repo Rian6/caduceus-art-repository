@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.05",
+  "cover": {
+    "path": "PS2/SLPM_652.05/SLPM_652.05_COV.png",
+    "kind": "cover",
+    "bytes": 75965,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc7f7fb8139dd3b009224e4cd4d5f738f77edbd703e984ffb3c190cc9d1b2173",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65205.jpg"
+    },
+    "gameId": "SLPM_652.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPIDER-MAN"
+}

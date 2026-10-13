@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_213.62",
+  "cover": {
+    "path": "PS2/SLUS_213.62/SLUS_213.62_COV.png",
+    "kind": "cover",
+    "bytes": 108728,
+    "width": 192,
+    "height": 272,
+    "sha256": "dec0be1a1bd8acfb9360942482ed51aa72119fa11997bd5d8a3b2957b6b9ca28",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21362.jpg"
+    },
+    "gameId": "SLUS_213.62"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.62/SLUS_213.62_ICO.png",
+    "kind": "disc",
+    "bytes": 32530,
+    "width": 256,
+    "height": 256,
+    "sha256": "cfb68ee5c08e10eda6c6980720d427c7819ed49741242e08fe0f82fe9c069c29",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.62_ICO.png"
+    },
+    "gameId": "SLUS_213.62"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.62/SLUS_213.62_BG.png",
+    "kind": "background",
+    "bytes": 235031,
+    "width": 640,
+    "height": 480,
+    "sha256": "3f05bce975796633f4bccd8edbc136cdf13b99c2d0d99d9815ecfe0ac6107012",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.62/SLUS_213.62_BG_00.png"
+    },
+    "gameId": "SLUS_213.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.62/SLUS_213.62_BG.png",
+      "kind": "background",
+      "bytes": 235031,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f05bce975796633f4bccd8edbc136cdf13b99c2d0d99d9815ecfe0ac6107012",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.62/SLUS_213.62_BG_00.png"
+      },
+      "gameId": "SLUS_213.62"
+    },
+    {
+      "path": "PS2/SLUS_213.62/SLUS_213.62_BG_01.png",
+      "kind": "background",
+      "bytes": 120095,
+      "width": 640,
+      "height": 480,
+      "sha256": "cf9227309e9cfb7885e0265325f969780e963ec73bd28cdba132c04155ea6e66",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.62/SLUS_213.62_BG_01.png"
+      },
+      "gameId": "SLUS_213.62"
+    },
+    {
+      "path": "PS2/SLUS_213.62/SLUS_213.62_BG_02.png",
+      "kind": "background",
+      "bytes": 227300,
+      "width": 640,
+      "height": 480,
+      "sha256": "8aa1b1888f8dc52f8a8db1440aa2d3efad551d2a33e9f51386dd9111f7103fcf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.62/SLUS_213.62_BG_02.png"
+      },
+      "gameId": "SLUS_213.62"
+    },
+    {
+      "path": "PS2/SLUS_213.62/SLUS_213.62_BG_03.png",
+      "kind": "background",
+      "bytes": 238579,
+      "width": 640,
+      "height": 480,
+      "sha256": "d0b96e81bc3368e3551a3ae7181867d8871c72346cecb2e2f9af7509e1681d08",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.62/SLUS_213.62_BG_03.png"
+      },
+      "gameId": "SLUS_213.62"
+    },
+    {
+      "path": "PS2/SLUS_213.62/SLUS_213.62_BG_04.png",
+      "kind": "background",
+      "bytes": 241355,
+      "width": 640,
+      "height": 480,
+      "sha256": "c8a93294a3feac8835b805daaa2dc6c92240677a49e0bc2fa3255d03f6d5393b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.62/SLUS_213.62_BG_04.png"
+      },
+      "gameId": "SLUS_213.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Onimusha: Dawn of Dreams (Disc 2)"
+}

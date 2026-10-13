@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.57",
+  "cover": {
+    "path": "PS2/SCAJ_200.57/SCAJ_200.57_COV.png",
+    "kind": "cover",
+    "bytes": 81114,
+    "width": 192,
+    "height": 272,
+    "sha256": "8ac79a3e354870e85257e5c849ee42be49899531639bf86c658410804582fc9f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20057.jpg"
+    },
+    "gameId": "SCAJ_200.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FRONT MISSION 4"
+}

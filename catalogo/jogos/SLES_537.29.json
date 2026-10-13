@@ -1,0 +1,77 @@
+{
+  "id": "SLES_537.29",
+  "cover": {
+    "path": "PS2/SLES_537.29/SLES_537.29_COV.png",
+    "kind": "cover",
+    "bytes": 97121,
+    "width": 192,
+    "height": 272,
+    "sha256": "0bb44e757fb7875f496e084f61211824b4f16054befc1c05f7eb9f2af63695b3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53729.jpg"
+    },
+    "gameId": "SLES_537.29"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.29/SLES_537.29_BG.png",
+    "kind": "background",
+    "bytes": 191467,
+    "width": 640,
+    "height": 480,
+    "sha256": "b2f29a712af7492981d0d9996caf51ae3a75b536a4cca9e25bec1ef34e6043ac",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.29/SLES_537.29_BG_00.png"
+    },
+    "gameId": "SLES_537.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.29/SLES_537.29_BG.png",
+      "kind": "background",
+      "bytes": 191467,
+      "width": 640,
+      "height": 480,
+      "sha256": "b2f29a712af7492981d0d9996caf51ae3a75b536a4cca9e25bec1ef34e6043ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.29/SLES_537.29_BG_00.png"
+      },
+      "gameId": "SLES_537.29"
+    },
+    {
+      "path": "PS2/SLES_537.29/SLES_537.29_BG_01.png",
+      "kind": "background",
+      "bytes": 207034,
+      "width": 640,
+      "height": 480,
+      "sha256": "5b9b0627fdeb359143aa4422176b26df252723f37eae9fadd8cbcb430c47ad62",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.29/SLES_537.29_BG_01.png"
+      },
+      "gameId": "SLES_537.29"
+    },
+    {
+      "path": "PS2/SLES_537.29/SLES_537.29_BG_02.png",
+      "kind": "background",
+      "bytes": 203688,
+      "width": 640,
+      "height": 480,
+      "sha256": "95fdcaed91cf15c832521aa060a66dd25fae1c2981dd63a3b90b2e875dbc93ca",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.29/SLES_537.29_BG_02.png"
+      },
+      "gameId": "SLES_537.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BATTLEFIELD 2 - MODERN COMBAT"
+}

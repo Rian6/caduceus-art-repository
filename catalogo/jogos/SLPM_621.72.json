@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.72",
+  "cover": {
+    "path": "PS2/SLPM_621.72/SLPM_621.72_COV.png",
+    "kind": "cover",
+    "bytes": 101949,
+    "width": 192,
+    "height": 272,
+    "sha256": "f5b909626c99791137db25dd2b5c4348bc31613022e3a1784629ed1bea1081fc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62172.jpg"
+    },
+    "gameId": "SLPM_621.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Internet Shogi"
+}

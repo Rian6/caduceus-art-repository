@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_217.97",
+  "cover": {
+    "path": "PS2/SLUS_217.97/SLUS_217.97_COV.png",
+    "kind": "cover",
+    "bytes": 109080,
+    "width": 192,
+    "height": 272,
+    "sha256": "c064d6ba2a62a4cc0782498435980dc8092644d52a0a9256a273e2c7c55c300c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21797.jpg"
+    },
+    "gameId": "SLUS_217.97"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.97/SLUS_217.97_ICO.png",
+    "kind": "disc",
+    "bytes": 34819,
+    "width": 256,
+    "height": 256,
+    "sha256": "0b8bc31449412bb925cb4eb1ae5a3136554375a90212607d2410939bd47b7f06",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.97_ICO.png"
+    },
+    "gameId": "SLUS_217.97"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.97/SLUS_217.97_BG.png",
+    "kind": "background",
+    "bytes": 219420,
+    "width": 640,
+    "height": 480,
+    "sha256": "90f2c33c6d6f266e7f518d1d7560513fbae375cd26e524b0ae759d3b1ebc4b64",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.97/SLUS_217.97_BG_00.png"
+    },
+    "gameId": "SLUS_217.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.97/SLUS_217.97_BG.png",
+      "kind": "background",
+      "bytes": 219420,
+      "width": 640,
+      "height": 480,
+      "sha256": "90f2c33c6d6f266e7f518d1d7560513fbae375cd26e524b0ae759d3b1ebc4b64",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.97/SLUS_217.97_BG_00.png"
+      },
+      "gameId": "SLUS_217.97"
+    },
+    {
+      "path": "PS2/SLUS_217.97/SLUS_217.97_BG_01.png",
+      "kind": "background",
+      "bytes": 182018,
+      "width": 640,
+      "height": 480,
+      "sha256": "03f2daa142275930938bc664f895f09adaad0c403684fb6fe49abe4a5bc362e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.97/SLUS_217.97_BG_01.png"
+      },
+      "gameId": "SLUS_217.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TAK AND THE GUARDIANS OF GROSS"
+}

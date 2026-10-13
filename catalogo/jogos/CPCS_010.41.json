@@ -1,0 +1,25 @@
+{
+  "id": "CPCS_010.41",
+  "cover": {
+    "path": "PS2/CPCS_010.41/CPCS_010.41_COV.png",
+    "kind": "cover",
+    "bytes": 94650,
+    "width": 192,
+    "height": 272,
+    "sha256": "0bd2a117cab88c6df9bb86a224be025a5798fa22799d0425e94ce0a1d04051e4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/CPCS-01041.jpg"
+    },
+    "gameId": "CPCS_010.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FATE/UNLIMITED CODES [SP BOX]"
+}

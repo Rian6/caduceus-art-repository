@@ -1,0 +1,91 @@
+{
+  "id": "SLES_529.55",
+  "cover": {
+    "path": "PS2/SLES_529.55/SLES_529.55_COV.png",
+    "kind": "cover",
+    "bytes": 85171,
+    "width": 192,
+    "height": 272,
+    "sha256": "592aa608537c33e40fc6fc49dbb97ea49475994eeb079cbc9850ddded099fe0e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52955.jpg"
+    },
+    "gameId": "SLES_529.55"
+  },
+  "disc": {
+    "path": "PS2/SLES_529.55/SLES_529.55_ICO.png",
+    "kind": "disc",
+    "bytes": 9140,
+    "width": 128,
+    "height": 128,
+    "sha256": "a73d1a961698f82fbe5337e5f79d5fd6a4f6b420600ae7447117141f8451541d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_529.55_ICO.png"
+    },
+    "gameId": "SLES_529.55"
+  },
+  "background": {
+    "path": "PS2/SLES_529.55/SLES_529.55_BG.png",
+    "kind": "background",
+    "bytes": 117873,
+    "width": 640,
+    "height": 480,
+    "sha256": "4dc235144957d49f17a90d9e858a7067e1ef26019ad3b543175968414c6f7887",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.55/SLES_529.55_BG_00.png"
+    },
+    "gameId": "SLES_529.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.55/SLES_529.55_BG.png",
+      "kind": "background",
+      "bytes": 117873,
+      "width": 640,
+      "height": 480,
+      "sha256": "4dc235144957d49f17a90d9e858a7067e1ef26019ad3b543175968414c6f7887",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.55/SLES_529.55_BG_00.png"
+      },
+      "gameId": "SLES_529.55"
+    },
+    {
+      "path": "PS2/SLES_529.55/SLES_529.55_BG_01.png",
+      "kind": "background",
+      "bytes": 154718,
+      "width": 640,
+      "height": 480,
+      "sha256": "f84c8425ca8eacc839525aa53999a70deaf3410d6bdd8d7a4e63de6b4eb53e36",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.55/SLES_529.55_BG_01.png"
+      },
+      "gameId": "SLES_529.55"
+    },
+    {
+      "path": "PS2/SLES_529.55/SLES_529.55_BG_02.png",
+      "kind": "background",
+      "bytes": 208070,
+      "width": 640,
+      "height": 480,
+      "sha256": "608e674fc420c3c4731afdcdb1ca64d3006f6fb9635955468d7776d4fda6a1b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.55/SLES_529.55_BG_02.png"
+      },
+      "gameId": "SLES_529.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Deadly Strike"
+}

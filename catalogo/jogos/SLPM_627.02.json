@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.02",
+  "cover": {
+    "path": "PS2/SLPM_627.02/SLPM_627.02_COV.png",
+    "kind": "cover",
+    "bytes": 98709,
+    "width": 192,
+    "height": 272,
+    "sha256": "5ef6ea6ced825605f6d01cf828a6038736d33a70c0b47aa5f2a33deb036f99e1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62702.jpg"
+    },
+    "gameId": "SLPM_627.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Momotarou Densetsu 15"
+}

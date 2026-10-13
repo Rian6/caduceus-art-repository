@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_204.03",
+  "cover": {
+    "path": "PS2/SLUS_204.03/SLUS_204.03_COV.png",
+    "kind": "cover",
+    "bytes": 110478,
+    "width": 192,
+    "height": 272,
+    "sha256": "81bf8155814a681381c509372aefbd1dcad61567719c5dcbe2ebaf5946c302d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20403.jpg"
+    },
+    "gameId": "SLUS_204.03"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.03/SLUS_204.03_ICO.png",
+    "kind": "disc",
+    "bytes": 32884,
+    "width": 256,
+    "height": 256,
+    "sha256": "dad0ed339bf278eb632742246cfeba08e238b7361b0e1fc9034c721fedf8fcb8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.03_ICO.png"
+    },
+    "gameId": "SLUS_204.03"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.03/SLUS_204.03_BG.png",
+    "kind": "background",
+    "bytes": 188332,
+    "width": 640,
+    "height": 480,
+    "sha256": "fff8a95fa0b9e461ef7097cac30357e97ac8afad1d67cf642f785ff1ea777fa2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.03/SLUS_204.03_BG_00.png"
+    },
+    "gameId": "SLUS_204.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.03/SLUS_204.03_BG.png",
+      "kind": "background",
+      "bytes": 188332,
+      "width": 640,
+      "height": 480,
+      "sha256": "fff8a95fa0b9e461ef7097cac30357e97ac8afad1d67cf642f785ff1ea777fa2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.03/SLUS_204.03_BG_00.png"
+      },
+      "gameId": "SLUS_204.03"
+    },
+    {
+      "path": "PS2/SLUS_204.03/SLUS_204.03_BG_01.png",
+      "kind": "background",
+      "bytes": 186052,
+      "width": 640,
+      "height": 480,
+      "sha256": "f9790c1deea08d90a2cee4c14640a645630b23e11e756531f7a75fd724cce02f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.03/SLUS_204.03_BG_01.png"
+      },
+      "gameId": "SLUS_204.03"
+    },
+    {
+      "path": "PS2/SLUS_204.03/SLUS_204.03_BG_02.png",
+      "kind": "background",
+      "bytes": 197009,
+      "width": 640,
+      "height": 480,
+      "sha256": "4944b2c7db56b0e57b798fff3e32f3dd7e2bac8547bb123e6b9bdd483242d69f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.03/SLUS_204.03_BG_02.png"
+      },
+      "gameId": "SLUS_204.03"
+    },
+    {
+      "path": "PS2/SLUS_204.03/SLUS_204.03_BG_03.png",
+      "kind": "background",
+      "bytes": 188337,
+      "width": 640,
+      "height": 480,
+      "sha256": "26eea7f47580aa5b00027cea4a977864f258aae65973010d3a16394263d8196d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.03/SLUS_204.03_BG_03.png"
+      },
+      "gameId": "SLUS_204.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Evil Dead: A Fistful of Boomstick"
+}

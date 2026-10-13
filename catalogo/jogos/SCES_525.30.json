@@ -1,0 +1,91 @@
+{
+  "id": "SCES_525.30",
+  "cover": {
+    "path": "PS2/SCES_525.30/SCES_525.30_COV.png",
+    "kind": "cover",
+    "bytes": 91304,
+    "width": 192,
+    "height": 272,
+    "sha256": "a6cdd8df1e7b7675e104add943d94ca070b10cb585f27c9af8359df76396aae9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-52530.jpg"
+    },
+    "gameId": "SCES_525.30"
+  },
+  "disc": {
+    "path": "PS2/SCES_525.30/SCES_525.30_ICO.png",
+    "kind": "disc",
+    "bytes": 10583,
+    "width": 128,
+    "height": 128,
+    "sha256": "6506208b2f8dbf749e2290b683968c02aa7ea7d6d8aa8e6bf51d140f39c7d35e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_525.30_ICO.png"
+    },
+    "gameId": "SCES_525.30"
+  },
+  "background": {
+    "path": "PS2/SCES_525.30/SCES_525.30_BG.png",
+    "kind": "background",
+    "bytes": 206171,
+    "width": 640,
+    "height": 480,
+    "sha256": "c1477962d29c1acfc93b8a55b7498eb2f1f347ef980f51608c9e2846cddfcf34",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_525.30/SCES_525.30_BG_00.png"
+    },
+    "gameId": "SCES_525.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_525.30/SCES_525.30_BG.png",
+      "kind": "background",
+      "bytes": 206171,
+      "width": 640,
+      "height": 480,
+      "sha256": "c1477962d29c1acfc93b8a55b7498eb2f1f347ef980f51608c9e2846cddfcf34",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_525.30/SCES_525.30_BG_00.png"
+      },
+      "gameId": "SCES_525.30"
+    },
+    {
+      "path": "PS2/SCES_525.30/SCES_525.30_BG_01.png",
+      "kind": "background",
+      "bytes": 182372,
+      "width": 640,
+      "height": 480,
+      "sha256": "772cd25e3f16cc930384996bc1fd7a2cb6350cddce2f47eef2a1d6ae19d1fff0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_525.30/SCES_525.30_BG_01.png"
+      },
+      "gameId": "SCES_525.30"
+    },
+    {
+      "path": "PS2/SCES_525.30/SCES_525.30_BG_02.png",
+      "kind": "background",
+      "bytes": 190934,
+      "width": 640,
+      "height": 480,
+      "sha256": "55881b7b0320d63547f8756c41e11affbdfdea02dd89cfb98009e9097c3088ee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_525.30/SCES_525.30_BG_02.png"
+      },
+      "gameId": "SCES_525.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CRISIS ZONE"
+}

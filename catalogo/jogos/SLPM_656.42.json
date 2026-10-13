@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.42",
+  "cover": {
+    "path": "PS2/SLPM_656.42/SLPM_656.42_COV.png",
+    "kind": "cover",
+    "bytes": 89805,
+    "width": 192,
+    "height": 272,
+    "sha256": "b25d3a46b8915674d874e43f7aaf48dad796290bfaf8363ddbf8e6264819eb85",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65642.jpg"
+    },
+    "gameId": "SLPM_656.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Meiwaku Seijin - Panic Maker"
+}

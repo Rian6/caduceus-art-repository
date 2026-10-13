@@ -1,0 +1,91 @@
+{
+  "id": "SLPS_257.18",
+  "cover": {
+    "path": "PS2/SLPS_257.18/SLPS_257.18_COV.png",
+    "kind": "cover",
+    "bytes": 96579,
+    "width": 192,
+    "height": 272,
+    "sha256": "8b0ef3ba4553b8ba30f1ec3c94087d46d4351856aaff04242678c3dcae69a9ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25718.jpg"
+    },
+    "gameId": "SLPS_257.18"
+  },
+  "disc": {
+    "path": "PS2/SLPS_257.18/SLPS_257.18_ICO.png",
+    "kind": "disc",
+    "bytes": 11399,
+    "width": 128,
+    "height": 128,
+    "sha256": "f22cd3866f7cf54f378b8b4276f1e1f5e5bdc36d3de73c371b7e8a8ae358925d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_257.18_ICO.png"
+    },
+    "gameId": "SLPS_257.18"
+  },
+  "background": {
+    "path": "PS2/SLPS_257.18/SLPS_257.18_BG.png",
+    "kind": "background",
+    "bytes": 193339,
+    "width": 640,
+    "height": 480,
+    "sha256": "10902cd6ba97cdbe53e448ab0ae098785306d4937cfb57dc5baa986eb58b754a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.18/SLPS_257.18_BG_00.png"
+    },
+    "gameId": "SLPS_257.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.18/SLPS_257.18_BG.png",
+      "kind": "background",
+      "bytes": 193339,
+      "width": 640,
+      "height": 480,
+      "sha256": "10902cd6ba97cdbe53e448ab0ae098785306d4937cfb57dc5baa986eb58b754a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.18/SLPS_257.18_BG_00.png"
+      },
+      "gameId": "SLPS_257.18"
+    },
+    {
+      "path": "PS2/SLPS_257.18/SLPS_257.18_BG_01.png",
+      "kind": "background",
+      "bytes": 215364,
+      "width": 640,
+      "height": 480,
+      "sha256": "dbe6c942149582a5743f471e4cd5da7f0c117dcedddce6d161143ce1d1101387",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.18/SLPS_257.18_BG_01.png"
+      },
+      "gameId": "SLPS_257.18"
+    },
+    {
+      "path": "PS2/SLPS_257.18/SLPS_257.18_BG_02.png",
+      "kind": "background",
+      "bytes": 133664,
+      "width": 640,
+      "height": 480,
+      "sha256": "75508fec6a9e17e3d65174151395c721747844123c2d1989aecf03992e208221",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.18/SLPS_257.18_BG_02.png"
+      },
+      "gameId": "SLPS_257.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam Seed Destiny - Rengou vs Z.A.F.T. II Plus"
+}

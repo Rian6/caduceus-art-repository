@@ -1,0 +1,64 @@
+{
+  "id": "SLES_542.04",
+  "cover": {
+    "path": "PS2/SLES_542.04/SLES_542.04_COV.png",
+    "kind": "cover",
+    "bytes": 90204,
+    "width": 192,
+    "height": 272,
+    "sha256": "112d03cb7e7557ecf609cca32622a99a381b5d2162ad1b4674dfeffad4c4c32c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54204.jpg"
+    },
+    "gameId": "SLES_542.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_542.04/SLES_542.04_BG.png",
+    "kind": "background",
+    "bytes": 175111,
+    "width": 640,
+    "height": 480,
+    "sha256": "bfabb41463d0d3cc2a7b77a9f56e729818eff52c4c7e8c92631bea2b5e05069c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_542.04/SLES_542.04_BG_00.png"
+    },
+    "gameId": "SLES_542.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_542.04/SLES_542.04_BG.png",
+      "kind": "background",
+      "bytes": 175111,
+      "width": 640,
+      "height": 480,
+      "sha256": "bfabb41463d0d3cc2a7b77a9f56e729818eff52c4c7e8c92631bea2b5e05069c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.04/SLES_542.04_BG_00.png"
+      },
+      "gameId": "SLES_542.04"
+    },
+    {
+      "path": "PS2/SLES_542.04/SLES_542.04_BG_01.png",
+      "kind": "background",
+      "bytes": 160830,
+      "width": 640,
+      "height": 480,
+      "sha256": "697d73be95bbe884f0d1c72930df5f1a1fe93a122df4c2c71060e54a5591ba67",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.04/SLES_542.04_BG_01.png"
+      },
+      "gameId": "SLES_542.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Evolution Soccer 6"
+}

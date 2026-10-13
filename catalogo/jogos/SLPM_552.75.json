@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.75",
+  "cover": {
+    "path": "PS2/SLPM_552.75/SLPM_552.75_COV.png",
+    "kind": "cover",
+    "bytes": 104867,
+    "width": 192,
+    "height": 272,
+    "sha256": "4befd27d39284eebf9d4d6d9458dc1cef43c193081c67eed864330b316464442",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55275.jpg"
+    },
+    "gameId": "SLPM_552.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Slotter Up Core 12 - Ping Pong"
+}

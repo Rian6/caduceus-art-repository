@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.63",
+  "cover": {
+    "path": "PS2/SLKA_252.63/SLKA_252.63_COV.png",
+    "kind": "cover",
+    "bytes": 96164,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e59e450505d440c148c76acdccc294dc18952c0e126ad1554d8e71da395b93c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25263.jpg"
+    },
+    "gameId": "SLKA_252.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NANO BREAKER"
+}

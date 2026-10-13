@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.04",
+  "cover": {
+    "path": "PS2/SLPS_254.04/SLPS_254.04_COV.png",
+    "kind": "cover",
+    "bytes": 104403,
+    "width": 192,
+    "height": 272,
+    "sha256": "cefc98fbad4d2795711176488eb7cc2a37a2f431286af3931a11d4825c537879",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25404.jpg"
+    },
+    "gameId": "SLPS_254.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RPG Tsukuru"
+}

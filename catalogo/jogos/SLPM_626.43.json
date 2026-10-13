@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_626.43",
+  "cover": {
+    "path": "PS2/SLPM_626.43/SLPM_626.43_COV.png",
+    "kind": "cover",
+    "bytes": 118619,
+    "width": 192,
+    "height": 272,
+    "sha256": "b639ea4c2b0f94612b137a2a1e779879c5b54b9e76d59d0d99510c9f07044f92",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62643.jpg"
+    },
+    "gameId": "SLPM_626.43"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_626.43/SLPM_626.43_BG.png",
+    "kind": "background",
+    "bytes": 184158,
+    "width": 640,
+    "height": 480,
+    "sha256": "52f2149fdc7308455b920f59ee776d4277a2a57aa1ae3495d2bdbd6405114d8b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_626.43/SLPM_626.43_BG_00.png"
+    },
+    "gameId": "SLPM_626.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_626.43/SLPM_626.43_BG.png",
+      "kind": "background",
+      "bytes": 184158,
+      "width": 640,
+      "height": 480,
+      "sha256": "52f2149fdc7308455b920f59ee776d4277a2a57aa1ae3495d2bdbd6405114d8b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.43/SLPM_626.43_BG_00.png"
+      },
+      "gameId": "SLPM_626.43"
+    },
+    {
+      "path": "PS2/SLPM_626.43/SLPM_626.43_BG_01.png",
+      "kind": "background",
+      "bytes": 161449,
+      "width": 640,
+      "height": 480,
+      "sha256": "1618e9c05d06c3676e442502ab1c3f5d695859c247dff21afc74befd8fe583ad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.43/SLPM_626.43_BG_01.png"
+      },
+      "gameId": "SLPM_626.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bomberman Land 3"
+}

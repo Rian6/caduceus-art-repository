@@ -1,0 +1,103 @@
+{
+  "id": "SLPM_622.27",
+  "cover": {
+    "path": "PS2/SLPM_622.27/SLPM_622.27_COV.png",
+    "kind": "cover",
+    "bytes": 113718,
+    "width": 192,
+    "height": 272,
+    "sha256": "7cd1647911fff34e8905aeef36b7179b4a945ddadccccd890ab4ea94fc520b0f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62227.jpg"
+    },
+    "gameId": "SLPM_622.27"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_622.27/SLPM_622.27_BG.png",
+    "kind": "background",
+    "bytes": 250182,
+    "width": 640,
+    "height": 480,
+    "sha256": "1e00d72a4e674c018d10e9b71df869a6cb959351112d5607f335baacbcd080c0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_622.27/SLPM_622.27_BG_00.png"
+    },
+    "gameId": "SLPM_622.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_622.27/SLPM_622.27_BG.png",
+      "kind": "background",
+      "bytes": 250182,
+      "width": 640,
+      "height": 480,
+      "sha256": "1e00d72a4e674c018d10e9b71df869a6cb959351112d5607f335baacbcd080c0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_622.27/SLPM_622.27_BG_00.png"
+      },
+      "gameId": "SLPM_622.27"
+    },
+    {
+      "path": "PS2/SLPM_622.27/SLPM_622.27_BG_01.png",
+      "kind": "background",
+      "bytes": 233594,
+      "width": 640,
+      "height": 480,
+      "sha256": "60abd66d6c8f3cf2df8ddd07d9a671d872070c39bf17707ad06bc8280ccc8bdf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_622.27/SLPM_622.27_BG_01.png"
+      },
+      "gameId": "SLPM_622.27"
+    },
+    {
+      "path": "PS2/SLPM_622.27/SLPM_622.27_BG_02.png",
+      "kind": "background",
+      "bytes": 239849,
+      "width": 640,
+      "height": 480,
+      "sha256": "739aade2bdac6f6ae42bb26cabe3d0d424ff1ef209fadda985205e04848fc4ef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_622.27/SLPM_622.27_BG_02.png"
+      },
+      "gameId": "SLPM_622.27"
+    },
+    {
+      "path": "PS2/SLPM_622.27/SLPM_622.27_BG_03.png",
+      "kind": "background",
+      "bytes": 168759,
+      "width": 640,
+      "height": 480,
+      "sha256": "57aa7bdc0d85aa98a4ccc40fc27dbb49532fbc8d8b69e67e6c01197fea5148d7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_622.27/SLPM_622.27_BG_03.png"
+      },
+      "gameId": "SLPM_622.27"
+    },
+    {
+      "path": "PS2/SLPM_622.27/SLPM_622.27_BG_04.png",
+      "kind": "background",
+      "bytes": 209868,
+      "width": 640,
+      "height": 480,
+      "sha256": "520c67887b1b456522cfa1531cd78eb78195a23ade5b9d86b395c380843ec92b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_622.27/SLPM_622.27_BG_04.png"
+      },
+      "gameId": "SLPM_622.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Marvel vs. Capcom 2: New Age of Heroes"
+}

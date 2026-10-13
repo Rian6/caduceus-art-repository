@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_667.54",
+  "cover": {
+    "path": "PS2/SLPM_667.54/SLPM_667.54_COV.png",
+    "kind": "cover",
+    "bytes": 112301,
+    "width": 192,
+    "height": 272,
+    "sha256": "e1871420ffd0e1f4242fed36172a6b37c26a04c25bfea3a6f1e5a2d9e1cf9565",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66754.jpg"
+    },
+    "gameId": "SLPM_667.54"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_667.54/SLPM_667.54_BG.png",
+    "kind": "background",
+    "bytes": 198441,
+    "width": 640,
+    "height": 480,
+    "sha256": "77772a932e24453ec9d07c566e0162c2423e93edec25e16ecb95d1c167d22d2a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_667.54/SLPM_667.54_BG_00.png"
+    },
+    "gameId": "SLPM_667.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_667.54/SLPM_667.54_BG.png",
+      "kind": "background",
+      "bytes": 198441,
+      "width": 640,
+      "height": 480,
+      "sha256": "77772a932e24453ec9d07c566e0162c2423e93edec25e16ecb95d1c167d22d2a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_667.54/SLPM_667.54_BG_00.png"
+      },
+      "gameId": "SLPM_667.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GETSUMENTO HEIKI MINA - FUTATSU NO PROJECT M"
+}

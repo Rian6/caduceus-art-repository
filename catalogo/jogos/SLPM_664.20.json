@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.20",
+  "cover": {
+    "path": "PS2/SLPM_664.20/SLPM_664.20_COV.png",
+    "kind": "cover",
+    "bytes": 75240,
+    "width": 192,
+    "height": 272,
+    "sha256": "27a14c125eeac84fb5f38dd3e7b9a5633cdc2b795ba6ac959bd8b32dd03a0cb0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66420.jpg"
+    },
+    "gameId": "SLPM_664.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FRONT MISSION 4 [ULTIMATE HITS]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.75",
+  "cover": {
+    "path": "PS2/SLPM_650.75/SLPM_650.75_COV.png",
+    "kind": "cover",
+    "bytes": 85566,
+    "width": 192,
+    "height": 272,
+    "sha256": "f3b035d9c1858412e9c41067d058655e1b0140cec017942d911900df3cff8ae4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65075.jpg"
+    },
+    "gameId": "SLPM_650.75"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "K-1 World Grand Prix 2001"
+}

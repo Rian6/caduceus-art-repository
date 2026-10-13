@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.34",
+  "cover": {
+    "path": "PS2/SLPS_732.34/SLPS_732.34_COV.png",
+    "kind": "cover",
+    "bytes": 98307,
+    "width": 192,
+    "height": 272,
+    "sha256": "ebea7060c7a7abc67f58c15e6ec232f8ac5d1e4631ac18f964584b5d0fe353a8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73234.jpg"
+    },
+    "gameId": "SLPS_732.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Z Gundam: AEUG Vs. Titans (PlayStation 2 the Best)"
+}

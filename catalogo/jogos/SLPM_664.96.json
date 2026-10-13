@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.96",
+  "cover": {
+    "path": "PS2/SLPM_664.96/SLPM_664.96_COV.png",
+    "kind": "cover",
+    "bytes": 103032,
+    "width": 192,
+    "height": 272,
+    "sha256": "3390761fa7ca70af3e632f991afff6f5e9440eaf4d772750cec2a8e001ef3233",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66496.jpg"
+    },
+    "gameId": "SLPM_664.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Splinter Cell - Chaos Theory (UbiSoft Best)"
+}

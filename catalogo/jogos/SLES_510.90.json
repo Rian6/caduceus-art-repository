@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.90",
+  "cover": {
+    "path": "PS2/SLES_510.90/SLES_510.90_COV.png",
+    "kind": "cover",
+    "bytes": 96014,
+    "width": 192,
+    "height": 272,
+    "sha256": "7f9dcba22b9a2f18238e757e537c40ef2f66d567f14da2fd2e350b79f1f64022",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51090.jpg"
+    },
+    "gameId": "SLES_510.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - MANCHESTER UNITED"
+}

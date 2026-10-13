@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.84",
+  "cover": {
+    "path": "PS2/SLPS_255.84/SLPS_255.84_COV.png",
+    "kind": "cover",
+    "bytes": 120805,
+    "width": 192,
+    "height": 272,
+    "sha256": "d6bc1f8065b045ee4ea5c88f4c7cb025017eb9412544ca210f5ee3a67b1d6f5f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25584.jpg"
+    },
+    "gameId": "SLPS_255.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONE PIECE - PIRATES' CARNIVAL [PS2 SLIM MULTI-TAP EDITION]"
+}

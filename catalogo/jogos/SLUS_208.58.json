@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_208.58",
+  "cover": {
+    "path": "PS2/SLUS_208.58/SLUS_208.58_COV.png",
+    "kind": "cover",
+    "bytes": 93976,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0fa720808a62807bccfdc8b4bfe0905cb974dddd84731918426028cd20c7284",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20858.jpg"
+    },
+    "gameId": "SLUS_208.58"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.58/SLUS_208.58_ICO.png",
+    "kind": "disc",
+    "bytes": 33256,
+    "width": 256,
+    "height": 256,
+    "sha256": "c97d63cc0632806ff6ff40ca09228470892af2618da05af2062965a09e52abb9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.58_ICO.png"
+    },
+    "gameId": "SLUS_208.58"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.58/SLUS_208.58_BG.png",
+    "kind": "background",
+    "bytes": 95517,
+    "width": 640,
+    "height": 480,
+    "sha256": "6b3328ebb4c2115e07b24303e916de5041322bbafac15fdd894f82ae748c3efb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.58/SLUS_208.58_BG_00.png"
+    },
+    "gameId": "SLUS_208.58"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.58/SLUS_208.58_BG.png",
+      "kind": "background",
+      "bytes": 95517,
+      "width": 640,
+      "height": 480,
+      "sha256": "6b3328ebb4c2115e07b24303e916de5041322bbafac15fdd894f82ae748c3efb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.58/SLUS_208.58_BG_00.png"
+      },
+      "gameId": "SLUS_208.58"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CORVETTE"
+}

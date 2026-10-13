@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_624.03",
+  "cover": {
+    "path": "PS2/SLPM_624.03/SLPM_624.03_COV.png",
+    "kind": "cover",
+    "bytes": 102090,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1775e0893e80f5f39d7249355e6aeb150724c919adf704cc27c9f7df91d2a92",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62403.jpg"
+    },
+    "gameId": "SLPM_624.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.03/SLPM_624.03_BG.png",
+    "kind": "background",
+    "bytes": 205660,
+    "width": 640,
+    "height": 480,
+    "sha256": "491c8557f868900461853f72bb63d41120ea83cdbc4304485438b5bd7a801353",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.03/SLPM_624.03_BG_00.png"
+    },
+    "gameId": "SLPM_624.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.03/SLPM_624.03_BG.png",
+      "kind": "background",
+      "bytes": 205660,
+      "width": 640,
+      "height": 480,
+      "sha256": "491c8557f868900461853f72bb63d41120ea83cdbc4304485438b5bd7a801353",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.03/SLPM_624.03_BG_00.png"
+      },
+      "gameId": "SLPM_624.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cho Aniki - Sei Naru Protein Densetsu"
+}

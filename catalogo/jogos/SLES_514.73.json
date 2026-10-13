@@ -1,0 +1,77 @@
+{
+  "id": "SLES_514.73",
+  "cover": {
+    "path": "PS2/SLES_514.73/SLES_514.73_COV.png",
+    "kind": "cover",
+    "bytes": 104896,
+    "width": 192,
+    "height": 272,
+    "sha256": "7453306a22a337f70655a2f5e67f39049f4e852b5a48d16a741eafe862accb8c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51473.jpg"
+    },
+    "gameId": "SLES_514.73"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_514.73/SLES_514.73_BG.png",
+    "kind": "background",
+    "bytes": 87875,
+    "width": 640,
+    "height": 480,
+    "sha256": "3c4ca212b05322b42280518cb04df0705ddfa694f08cdafdce2bf045a855e3c7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_514.73/SLES_514.73_BG_00.png"
+    },
+    "gameId": "SLES_514.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_514.73/SLES_514.73_BG.png",
+      "kind": "background",
+      "bytes": 87875,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c4ca212b05322b42280518cb04df0705ddfa694f08cdafdce2bf045a855e3c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.73/SLES_514.73_BG_00.png"
+      },
+      "gameId": "SLES_514.73"
+    },
+    {
+      "path": "PS2/SLES_514.73/SLES_514.73_BG_01.png",
+      "kind": "background",
+      "bytes": 220494,
+      "width": 640,
+      "height": 480,
+      "sha256": "dc81ce5ae4f162ae981b0047f6ab6a77ae237d46539d33c98bb63bae842cd4f5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.73/SLES_514.73_BG_01.png"
+      },
+      "gameId": "SLES_514.73"
+    },
+    {
+      "path": "PS2/SLES_514.73/SLES_514.73_BG_02.png",
+      "kind": "background",
+      "bytes": 190756,
+      "width": 640,
+      "height": 480,
+      "sha256": "2b5ba4d78d3873318d3b613c661d192d1fa8c21f539e12e9a61e095250998830",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.73/SLES_514.73_BG_02.png"
+      },
+      "gameId": "SLES_514.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KYA - DARK LINEAGE"
+}

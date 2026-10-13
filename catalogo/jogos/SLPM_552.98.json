@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.98",
+  "cover": {
+    "path": "PS2/SLPM_552.98/SLPM_552.98_COV.png",
+    "kind": "cover",
+    "bytes": 73617,
+    "width": 192,
+    "height": 272,
+    "sha256": "55937217c4c8dbaa8ee9aae053900bbf57bb158167533832d20676a0b8f97d18",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55298.jpg"
+    },
+    "gameId": "SLPM_552.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XI - Adoulin no Makyou"
+}

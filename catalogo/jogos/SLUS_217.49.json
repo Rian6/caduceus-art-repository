@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_217.49",
+  "cover": {
+    "path": "PS2/SLUS_217.49/SLUS_217.49_COV.png",
+    "kind": "cover",
+    "bytes": 103744,
+    "width": 192,
+    "height": 272,
+    "sha256": "13efbb1610f5694ac0df64c6732d8218d544e1f9ecfcf3d9508ce30142784073",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21749.jpg"
+    },
+    "gameId": "SLUS_217.49"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.49/SLUS_217.49_ICO.png",
+    "kind": "disc",
+    "bytes": 31676,
+    "width": 256,
+    "height": 256,
+    "sha256": "633045020a843f6084d42fe75bb3206bdaa2548a5ed657503d448aae07a76541",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.49_ICO.png"
+    },
+    "gameId": "SLUS_217.49"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.49/SLUS_217.49_BG.png",
+    "kind": "background",
+    "bytes": 177459,
+    "width": 640,
+    "height": 480,
+    "sha256": "e47bde74c8f9fdf3d3c218cce0664bcc9a0eed42642d8a3c5b03ffb53c0de424",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.49/SLUS_217.49_BG_00.png"
+    },
+    "gameId": "SLUS_217.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.49/SLUS_217.49_BG.png",
+      "kind": "background",
+      "bytes": 177459,
+      "width": 640,
+      "height": 480,
+      "sha256": "e47bde74c8f9fdf3d3c218cce0664bcc9a0eed42642d8a3c5b03ffb53c0de424",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.49/SLUS_217.49_BG_00.png"
+      },
+      "gameId": "SLUS_217.49"
+    },
+    {
+      "path": "PS2/SLUS_217.49/SLUS_217.49_BG_01.png",
+      "kind": "background",
+      "bytes": 70294,
+      "width": 640,
+      "height": 480,
+      "sha256": "74a6ea3b8382447a521ae8ca8997337994bf5b14e8c277a0ffb2ba0ca89eb8e9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.49/SLUS_217.49_BG_01.png"
+      },
+      "gameId": "SLUS_217.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Garfield: Lasagna World Tour"
+}

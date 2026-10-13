@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_625.81",
+  "cover": {
+    "path": "PS2/SLPM_625.81/SLPM_625.81_COV.png",
+    "kind": "cover",
+    "bytes": 99270,
+    "width": 192,
+    "height": 272,
+    "sha256": "991b7bf17759ae56010892c55ba4fd721fa2d3ecdc4c57d613a90d5fa2c406c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62581.jpg"
+    },
+    "gameId": "SLPM_625.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_625.81/SLPM_625.81_BG.png",
+    "kind": "background",
+    "bytes": 135116,
+    "width": 640,
+    "height": 480,
+    "sha256": "e2abcc7468399e971af705fbba07645bd5adf037dc8eac9d40ff2ba1100fa2a6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_625.81/SLPM_625.81_BG_00.png"
+    },
+    "gameId": "SLPM_625.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_625.81/SLPM_625.81_BG.png",
+      "kind": "background",
+      "bytes": 135116,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2abcc7468399e971af705fbba07645bd5adf037dc8eac9d40ff2ba1100fa2a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_625.81/SLPM_625.81_BG_00.png"
+      },
+      "gameId": "SLPM_625.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "K-1 Premium 2004 - Fighting Dynamite!!"
+}

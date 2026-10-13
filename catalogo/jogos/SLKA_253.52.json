@@ -1,0 +1,39 @@
+{
+  "id": "SLKA_253.52",
+  "cover": {
+    "path": "PS2/SLKA_253.52/SLKA_253.52_COV.png",
+    "kind": "cover",
+    "bytes": 109139,
+    "width": 192,
+    "height": 272,
+    "sha256": "cf94a20831735ca54bb726751a9fb72842e34e4c478b08f18226ccef9125eb10",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25352.jpg"
+    },
+    "gameId": "SLKA_253.52"
+  },
+  "disc": {
+    "path": "PS2/SLKA_253.52/SLKA_253.52_ICO.png",
+    "kind": "disc",
+    "bytes": 11106,
+    "width": 128,
+    "height": 128,
+    "sha256": "dfbeac46c1d5c01de815c448876286ad3fa8db8769a1f72e99564c7160098c46",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLKA_253.52_ICO.png"
+    },
+    "gameId": "SLKA_253.52"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FULLMETAL ALCHEMIST - HAGANE NO RENKINJUTSUSHI - DREAM CARNIVAL"
+}

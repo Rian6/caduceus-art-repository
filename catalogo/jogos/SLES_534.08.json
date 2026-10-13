@@ -1,0 +1,104 @@
+{
+  "id": "SLES_534.08",
+  "cover": {
+    "path": "PS2/SLES_534.08/SLES_534.08_COV.png",
+    "kind": "cover",
+    "bytes": 89001,
+    "width": 192,
+    "height": 272,
+    "sha256": "df8f46b3b6350f14527b2190c906780df649c3cc9ffc1852fd9acf024b041243",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53408.jpg"
+    },
+    "gameId": "SLES_534.08"
+  },
+  "disc": {
+    "path": "PS2/SLES_534.08/SLES_534.08_ICO.png",
+    "kind": "disc",
+    "bytes": 9326,
+    "width": 128,
+    "height": 128,
+    "sha256": "63611351b5046c80285b30c4b4a603b74888ac85f20c4d8142abbe0d28b6a024",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_534.08_ICO.png"
+    },
+    "gameId": "SLES_534.08"
+  },
+  "background": {
+    "path": "PS2/SLES_534.08/SLES_534.08_BG.png",
+    "kind": "background",
+    "bytes": 172914,
+    "width": 640,
+    "height": 480,
+    "sha256": "78fb04e33c3436bf9e86025b4cf6060086ce8b9d9c33ee9121997224e2348602",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.08/SLES_534.08_BG_00.png"
+    },
+    "gameId": "SLES_534.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.08/SLES_534.08_BG.png",
+      "kind": "background",
+      "bytes": 172914,
+      "width": 640,
+      "height": 480,
+      "sha256": "78fb04e33c3436bf9e86025b4cf6060086ce8b9d9c33ee9121997224e2348602",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.08/SLES_534.08_BG_00.png"
+      },
+      "gameId": "SLES_534.08"
+    },
+    {
+      "path": "PS2/SLES_534.08/SLES_534.08_BG_01.png",
+      "kind": "background",
+      "bytes": 146056,
+      "width": 640,
+      "height": 480,
+      "sha256": "67cdc79842e3538996b1708ec4b91f2cb3d82f0124b1f76d314ac99b4f7b6418",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.08/SLES_534.08_BG_01.png"
+      },
+      "gameId": "SLES_534.08"
+    },
+    {
+      "path": "PS2/SLES_534.08/SLES_534.08_BG_02.png",
+      "kind": "background",
+      "bytes": 188888,
+      "width": 640,
+      "height": 480,
+      "sha256": "a379f5914101496c8492a960ef0535fdcdd871067fd212195a01a45e1d869ec4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.08/SLES_534.08_BG_02.png"
+      },
+      "gameId": "SLES_534.08"
+    },
+    {
+      "path": "PS2/SLES_534.08/SLES_534.08_BG_03.png",
+      "kind": "background",
+      "bytes": 174557,
+      "width": 640,
+      "height": 480,
+      "sha256": "6bb6d8937fe9a9a5f799b97b168fdfdb675a04a253c091d8bb52fc2b373388ef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.08/SLES_534.08_BG_03.png"
+      },
+      "gameId": "SLES_534.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fighting Angels"
+}

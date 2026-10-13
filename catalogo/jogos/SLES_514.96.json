@@ -1,0 +1,90 @@
+{
+  "id": "SLES_514.96",
+  "cover": {
+    "path": "PS2/SLES_514.96/SLES_514.96_COV.png",
+    "kind": "cover",
+    "bytes": 103745,
+    "width": 192,
+    "height": 272,
+    "sha256": "932f0e090f3fe497d3d3be2f6551d4b5a3a634684f71a937823634ef01f18b86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51496.jpg"
+    },
+    "gameId": "SLES_514.96"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_514.96/SLES_514.96_BG.png",
+    "kind": "background",
+    "bytes": 227532,
+    "width": 640,
+    "height": 480,
+    "sha256": "9ad8fdb8e39445ae9ed06f90b4d85132781b8035560ab5e9ddcb188639f489b1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_514.96/SLES_514.96_BG_00.png"
+    },
+    "gameId": "SLES_514.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_514.96/SLES_514.96_BG.png",
+      "kind": "background",
+      "bytes": 227532,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ad8fdb8e39445ae9ed06f90b4d85132781b8035560ab5e9ddcb188639f489b1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.96/SLES_514.96_BG_00.png"
+      },
+      "gameId": "SLES_514.96"
+    },
+    {
+      "path": "PS2/SLES_514.96/SLES_514.96_BG_01.png",
+      "kind": "background",
+      "bytes": 90393,
+      "width": 640,
+      "height": 480,
+      "sha256": "66e683cc3f2f27e9c9086cfd73dc58d3dbc7739109e43a7bc240993e331a9d45",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.96/SLES_514.96_BG_01.png"
+      },
+      "gameId": "SLES_514.96"
+    },
+    {
+      "path": "PS2/SLES_514.96/SLES_514.96_BG_02.png",
+      "kind": "background",
+      "bytes": 194600,
+      "width": 640,
+      "height": 480,
+      "sha256": "ce0a175009d884c6ad2ae90758b2902e1f46e96e3fd90b1b4b35930a288aada7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.96/SLES_514.96_BG_02.png"
+      },
+      "gameId": "SLES_514.96"
+    },
+    {
+      "path": "PS2/SLES_514.96/SLES_514.96_BG_03.png",
+      "kind": "background",
+      "bytes": 203219,
+      "width": 640,
+      "height": 480,
+      "sha256": "868030304e1d14d0eed63a8d61cc5b7da0540e61f625968aebe5937bd54c7376",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.96/SLES_514.96_BG_03.png"
+      },
+      "gameId": "SLES_514.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Breath of Fire: Dragon Quarter"
+}

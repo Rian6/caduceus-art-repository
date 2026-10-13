@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.85",
+  "cover": {
+    "path": "PS2/SLPM_552.85/SLPM_552.85_COV.png",
+    "kind": "cover",
+    "bytes": 119892,
+    "width": 192,
+    "height": 272,
+    "sha256": "185d2c8ce852b418e5a55389666d57c12fce0b3a1beb2f07614a798e322e2905",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55285.jpg"
+    },
+    "gameId": "SLPM_552.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CRIMSON EMPIRE"
+}

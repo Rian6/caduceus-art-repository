@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.16",
+  "cover": {
+    "path": "PS2/SLPS_201.16/SLPS_201.16_COV.png",
+    "kind": "cover",
+    "bytes": 68427,
+    "width": 192,
+    "height": 272,
+    "sha256": "3c083868231a9d7a0fd0948fefbd66cc460ffa49f9a2ae225c514ef9b39a0a9a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20116.jpg"
+    },
+    "gameId": "SLPS_201.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Nihongo Daijiten"
+}

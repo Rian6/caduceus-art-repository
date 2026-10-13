@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.35",
+  "cover": {
+    "path": "PS2/SLPS_732.35/SLPS_732.35_COV.png",
+    "kind": "cover",
+    "bytes": 96489,
+    "width": 192,
+    "height": 272,
+    "sha256": "efab6df868db99cb5d9487cae2c5aa6832af34b9a880195a603119609b8fecb8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73235.jpg"
+    },
+    "gameId": "SLPS_732.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Ball Z - Budokai 3 (Playstation 2 The Best)"
+}

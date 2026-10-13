@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.17",
+  "cover": {
+    "path": "PS2/SLPM_552.17/SLPM_552.17_COV.png",
+    "kind": "cover",
+    "bytes": 111730,
+    "width": 192,
+    "height": 272,
+    "sha256": "7bf9946d69075654314bf7638e1ee0625520446a74cb4785c961f5cfe572531a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55217.jpg"
+    },
+    "gameId": "SLPM_552.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Hisui no Shizuku - Hiiro no Kakera 2"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_549.49",
+  "cover": {
+    "path": "PS2/SLES_549.49/SLES_549.49_COV.png",
+    "kind": "cover",
+    "bytes": 105280,
+    "width": 192,
+    "height": 272,
+    "sha256": "1932253374eae6a41b3296cb479e81c4db083124738ac4d73d740418858a0a1a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54949.jpg"
+    },
+    "gameId": "SLES_549.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CATZ"
+}

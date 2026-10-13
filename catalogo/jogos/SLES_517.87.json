@@ -1,0 +1,77 @@
+{
+  "id": "SLES_517.87",
+  "cover": {
+    "path": "PS2/SLES_517.87/SLES_517.87_COV.png",
+    "kind": "cover",
+    "bytes": 99411,
+    "width": 192,
+    "height": 272,
+    "sha256": "023cd119c8c706df7df6529019c7a47a935179c84272a17598ff132d1ef30545",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51787.jpg"
+    },
+    "gameId": "SLES_517.87"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_517.87/SLES_517.87_BG.png",
+    "kind": "background",
+    "bytes": 210680,
+    "width": 640,
+    "height": 480,
+    "sha256": "7b4f6bd204fdb171fd521d0f2c6fe9aaf11309e631dad2f6f6b08d58486aa7c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.87/SLES_517.87_BG_00.png"
+    },
+    "gameId": "SLES_517.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.87/SLES_517.87_BG.png",
+      "kind": "background",
+      "bytes": 210680,
+      "width": 640,
+      "height": 480,
+      "sha256": "7b4f6bd204fdb171fd521d0f2c6fe9aaf11309e631dad2f6f6b08d58486aa7c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.87/SLES_517.87_BG_00.png"
+      },
+      "gameId": "SLES_517.87"
+    },
+    {
+      "path": "PS2/SLES_517.87/SLES_517.87_BG_01.png",
+      "kind": "background",
+      "bytes": 238550,
+      "width": 640,
+      "height": 480,
+      "sha256": "1b50072328a286b2fc85e6495d570444a205e7e331cf81638c807fc6d2c1a9bd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.87/SLES_517.87_BG_01.png"
+      },
+      "gameId": "SLES_517.87"
+    },
+    {
+      "path": "PS2/SLES_517.87/SLES_517.87_BG_02.png",
+      "kind": "background",
+      "bytes": 196651,
+      "width": 640,
+      "height": 480,
+      "sha256": "2afd5a7f2789682b5456fb00d367444018bd8f6272422671557d35aa49c917d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.87/SLES_517.87_BG_02.png"
+      },
+      "gameId": "SLES_517.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Harry Potter: Quidditch World Cup"
+}

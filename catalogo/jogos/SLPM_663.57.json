@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_663.57",
+  "cover": {
+    "path": "PS2/SLPM_663.57/SLPM_663.57_COV.png",
+    "kind": "cover",
+    "bytes": 107552,
+    "width": 192,
+    "height": 272,
+    "sha256": "77198e2a7ecf0083b6a67a82f23603d69e8504fa755012084a7c53833fa02c82",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66357.jpg"
+    },
+    "gameId": "SLPM_663.57"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_663.57/SLPM_663.57_BG.png",
+    "kind": "background",
+    "bytes": 193300,
+    "width": 640,
+    "height": 480,
+    "sha256": "904df9b7509e2798200b881829cc234dab2ad975878aa3c9f14e39017b5eb20e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_663.57/SLPM_663.57_BG_00.png"
+    },
+    "gameId": "SLPM_663.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_663.57/SLPM_663.57_BG.png",
+      "kind": "background",
+      "bytes": 193300,
+      "width": 640,
+      "height": 480,
+      "sha256": "904df9b7509e2798200b881829cc234dab2ad975878aa3c9f14e39017b5eb20e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_663.57/SLPM_663.57_BG_00.png"
+      },
+      "gameId": "SLPM_663.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rozen Maiden: Duellwalzer"
+}

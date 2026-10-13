@@ -1,0 +1,25 @@
+{
+  "id": "SLES_514.59",
+  "cover": {
+    "path": "PS2/SLES_514.59/SLES_514.59_COV.png",
+    "kind": "cover",
+    "bytes": 84956,
+    "width": 192,
+    "height": 272,
+    "sha256": "21852269dfe47981a1a3e9e536947123e8ec41084c9d015f50982a4de989dfe6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51459.jpg"
+    },
+    "gameId": "SLES_514.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Roger Lemerre - La Selection des Champions 2004"
+}

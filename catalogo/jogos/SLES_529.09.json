@@ -1,0 +1,65 @@
+{
+  "id": "SLES_529.09",
+  "cover": {
+    "path": "PS2/SLES_529.09/SLES_529.09_COV.png",
+    "kind": "cover",
+    "bytes": 71240,
+    "width": 192,
+    "height": 272,
+    "sha256": "e7b1bd053e49ae145bf36eb8294d7452181b82b0936b4b352a25f8abc029a278",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52909.jpg"
+    },
+    "gameId": "SLES_529.09"
+  },
+  "disc": {
+    "path": "PS2/SLES_529.09/SLES_529.09_ICO.png",
+    "kind": "disc",
+    "bytes": 10115,
+    "width": 128,
+    "height": 128,
+    "sha256": "f20527131d6515ecc1221d4ea78cfcc7f2512735d5868b67612b992a38999765",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_529.09_ICO.png"
+    },
+    "gameId": "SLES_529.09"
+  },
+  "background": {
+    "path": "PS2/SLES_529.09/SLES_529.09_BG.png",
+    "kind": "background",
+    "bytes": 79710,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a7e3053f30692bae63afc4161237422daf1220b5b48d1d2700a883593c64773",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.09/SLES_529.09_BG_00.png"
+    },
+    "gameId": "SLES_529.09"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.09/SLES_529.09_BG.png",
+      "kind": "background",
+      "bytes": 79710,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a7e3053f30692bae63afc4161237422daf1220b5b48d1d2700a883593c64773",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.09/SLES_529.09_BG_00.png"
+      },
+      "gameId": "SLES_529.09"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "UEFA Champions League 2004-2005"
+}

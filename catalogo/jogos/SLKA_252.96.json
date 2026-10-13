@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.96",
+  "cover": {
+    "path": "PS2/SLKA_252.96/SLKA_252.96_COV.png",
+    "kind": "cover",
+    "bytes": 111992,
+    "width": 192,
+    "height": 272,
+    "sha256": "f717c4b3e28c9c947803fe2b5f140861b2e66492f45fd52fd135fbe2fb2af862",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25296.jpg"
+    },
+    "gameId": "SLKA_252.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "INUYASHA - OKUGI RANBU"
+}

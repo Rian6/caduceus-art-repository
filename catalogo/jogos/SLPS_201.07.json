@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.07",
+  "cover": {
+    "path": "PS2/SLPS_201.07/SLPS_201.07_COV.png",
+    "kind": "cover",
+    "bytes": 95592,
+    "width": 192,
+    "height": 272,
+    "sha256": "da0bab983aa3e297f95aa1bd908d8e09901b73612a779303ef5fa244b1decde7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20107.jpg"
+    },
+    "gameId": "SLPS_201.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA STREET"
+}

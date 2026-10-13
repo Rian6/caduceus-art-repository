@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.24",
+  "cover": {
+    "path": "PS2/SLPM_665.24/SLPM_665.24_COV.png",
+    "kind": "cover",
+    "bytes": 113173,
+    "width": 192,
+    "height": 272,
+    "sha256": "f002ec462f6d0039b28566afe9fd336bdf7416c6e11a6b3af34a4dab661e26f7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66524.jpg"
+    },
+    "gameId": "SLPM_665.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Angelique Etoile (Koei the Best)"
+}

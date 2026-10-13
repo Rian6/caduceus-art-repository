@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.06",
+  "cover": {
+    "path": "PS2/SLPS_203.06/SLPS_203.06_COV.png",
+    "kind": "cover",
+    "bytes": 96632,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ba6ef439d394c8f087a1a4991e960df7ce61eb6d0e81202fa1a2d805c633bef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20306.jpg"
+    },
+    "gameId": "SLPS_203.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SLOTTER UP MANIA 2 - KOKUCHI NO KIWAME! JUGGLER SPECIAL"
+}

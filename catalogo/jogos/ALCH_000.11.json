@@ -1,0 +1,25 @@
+{
+  "id": "ALCH_000.11",
+  "cover": {
+    "path": "PS2/ALCH_000.11/ALCH_000.11_COV.png",
+    "kind": "cover",
+    "bytes": 104966,
+    "width": 192,
+    "height": 272,
+    "sha256": "65601678c5d6a9b409e7b52a7648d0f62fad9c6d068cc1f588328d6c8f5d7ed8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/ALCH-00011.jpg"
+    },
+    "gameId": "ALCH_000.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PURE X CURE RE:COVERY [KOI NO KYUUKYUU SET]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.90",
+  "cover": {
+    "path": "PS2/SLPS_204.90/SLPS_204.90_COV.png",
+    "kind": "cover",
+    "bytes": 109533,
+    "width": 192,
+    "height": 272,
+    "sha256": "e61d8da62f15490689da8e0059428ab6f64bf74c3efea5ec330ea6d0857af1fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20490.jpg"
+    },
+    "gameId": "SLPS_204.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachi-Slot Club Collection - IM Juggler EX - Juggler Selection"
+}

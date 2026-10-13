@@ -1,0 +1,51 @@
+{
+  "id": "SLES_556.45",
+  "cover": {
+    "path": "PS2/SLES_556.45/SLES_556.45_COV.png",
+    "kind": "cover",
+    "bytes": 89879,
+    "width": 192,
+    "height": 272,
+    "sha256": "e79352c17527ab5c1402258861f37ec3539c7f4c878920ca19627167552a839c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55645.jpg"
+    },
+    "gameId": "SLES_556.45"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_556.45/SLES_556.45_BG.png",
+    "kind": "background",
+    "bytes": 145313,
+    "width": 640,
+    "height": 480,
+    "sha256": "30e03b7dd79a0e1dc46ab5590499c0646ce33feda666cecd7f5c00cbc669dd7d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_556.45/SLES_556.45_BG_00.png"
+    },
+    "gameId": "SLES_556.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_556.45/SLES_556.45_BG.png",
+      "kind": "background",
+      "bytes": 145313,
+      "width": 640,
+      "height": 480,
+      "sha256": "30e03b7dd79a0e1dc46ab5590499c0646ce33feda666cecd7f5c00cbc669dd7d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.45/SLES_556.45_BG_00.png"
+      },
+      "gameId": "SLES_556.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA 2K11"
+}

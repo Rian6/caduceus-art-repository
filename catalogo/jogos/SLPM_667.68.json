@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.68",
+  "cover": {
+    "path": "PS2/SLPM_667.68/SLPM_667.68_COV.png",
+    "kind": "cover",
+    "bytes": 92386,
+    "width": 192,
+    "height": 272,
+    "sha256": "6c6035b3aebc8d255f396ff6d1e498908df0bfa155427847cb78f4f4dc50b037",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66768.jpg"
+    },
+    "gameId": "SLPM_667.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Missing  Parts Side A - The Tantei Stories (Best Version)"
+}

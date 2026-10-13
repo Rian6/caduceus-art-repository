@@ -1,0 +1,24 @@
+{
+  "id": "PKP2_007.02",
+  "cover": {
+    "path": "PS2/PKP2_007.02/PKP2_007.02_COV.png",
+    "kind": "cover",
+    "bytes": 105598,
+    "width": 192,
+    "height": 272,
+    "sha256": "b36d43aaefca6317ce3bcd9bcf8a197d0fdcee87ee70d1a04a5ea79a705cff9c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PKP2-00702.jpg"
+    },
+    "gameId": "PKP2_007.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

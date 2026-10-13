@@ -1,0 +1,25 @@
+{
+  "id": "SLES_510.94",
+  "cover": {
+    "path": "PS2/SLES_510.94/SLES_510.94_COV.png",
+    "kind": "cover",
+    "bytes": 77316,
+    "width": 192,
+    "height": 272,
+    "sha256": "55a74d5885cd48525fb439e4a709a2784171f6be2f815628c247cb36e9e87dd7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51094.jpg"
+    },
+    "gameId": "SLES_510.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - FC INTERNAZIONALE"
+}

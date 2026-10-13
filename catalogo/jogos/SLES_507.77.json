@@ -1,0 +1,51 @@
+{
+  "id": "SLES_507.77",
+  "cover": {
+    "path": "PS2/SLES_507.77/SLES_507.77_COV.png",
+    "kind": "cover",
+    "bytes": 68245,
+    "width": 192,
+    "height": 272,
+    "sha256": "70f370de997c2aff08fc6b2c1244de8c0d9cdcc258a5997dad4a28cdfc0bbf59",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50777.jpg"
+    },
+    "gameId": "SLES_507.77"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_507.77/SLES_507.77_BG.png",
+    "kind": "background",
+    "bytes": 174224,
+    "width": 640,
+    "height": 480,
+    "sha256": "c398918f694cdef30482792b6b3589ae05f37aa2c0e50ec74aed41cb1df488dd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.77/SLES_507.77_BG_00.png"
+    },
+    "gameId": "SLES_507.77"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_507.77/SLES_507.77_BG.png",
+      "kind": "background",
+      "bytes": 174224,
+      "width": 640,
+      "height": 480,
+      "sha256": "c398918f694cdef30482792b6b3589ae05f37aa2c0e50ec74aed41cb1df488dd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.77/SLES_507.77_BG_00.png"
+      },
+      "gameId": "SLES_507.77"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Battle Engine Aquila"
+}

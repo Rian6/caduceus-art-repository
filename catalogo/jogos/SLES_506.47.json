@@ -1,0 +1,64 @@
+{
+  "id": "SLES_506.47",
+  "cover": {
+    "path": "PS2/SLES_506.47/SLES_506.47_COV.png",
+    "kind": "cover",
+    "bytes": 91549,
+    "width": 192,
+    "height": 272,
+    "sha256": "5473b45009c194f8739050cbbdbe8fe49d2d2d06ca0ebcfedd92414e1f4a8e02",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50647.jpg"
+    },
+    "gameId": "SLES_506.47"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_506.47/SLES_506.47_BG.png",
+    "kind": "background",
+    "bytes": 104480,
+    "width": 640,
+    "height": 480,
+    "sha256": "4aef77243eb46cd8efb8ad441cde51c4578fdc0718d3b391f45bcd1e803c07c1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_506.47/SLES_506.47_BG_00.png"
+    },
+    "gameId": "SLES_506.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_506.47/SLES_506.47_BG.png",
+      "kind": "background",
+      "bytes": 104480,
+      "width": 640,
+      "height": 480,
+      "sha256": "4aef77243eb46cd8efb8ad441cde51c4578fdc0718d3b391f45bcd1e803c07c1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.47/SLES_506.47_BG_00.png"
+      },
+      "gameId": "SLES_506.47"
+    },
+    {
+      "path": "PS2/SLES_506.47/SLES_506.47_BG_01.png",
+      "kind": "background",
+      "bytes": 172478,
+      "width": 640,
+      "height": 480,
+      "sha256": "7fe52505fda46be14076a395c7936d4ae1b57c549c280df30b6de7caa53272d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_506.47/SLES_506.47_BG_01.png"
+      },
+      "gameId": "SLES_506.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Casper - Spirit Dimensions"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.87",
+  "cover": {
+    "path": "PS2/SLPS_254.87/SLPS_254.87_COV.png",
+    "kind": "cover",
+    "bytes": 61427,
+    "width": 192,
+    "height": 272,
+    "sha256": "baee2f6829620ca0ae0ab5e0e3257f0edd4de4f1274aad8c6792fbae36649342",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25487.jpg"
+    },
+    "gameId": "SLPS_254.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam - Meguriai Sora (Gundam The Best)"
+}

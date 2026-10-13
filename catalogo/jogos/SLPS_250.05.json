@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.05",
+  "cover": {
+    "path": "PS2/SLPS_250.05/SLPS_250.05_COV.png",
+    "kind": "cover",
+    "bytes": 116523,
+    "width": 192,
+    "height": 272,
+    "sha256": "25b5d850a14f230cdf3c253d0c82df4a07f7d11cae9711d960566cf6aad5b556",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25005.jpg"
+    },
+    "gameId": "SLPS_250.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rock'n'Mega Stage"
+}

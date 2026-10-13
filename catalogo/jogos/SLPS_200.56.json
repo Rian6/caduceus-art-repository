@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.56",
+  "cover": {
+    "path": "PS2/SLPS_200.56/SLPS_200.56_COV.png",
+    "kind": "cover",
+    "bytes": 95577,
+    "width": 192,
+    "height": 272,
+    "sha256": "d9a3f28c05fa4d3039048ae31c8fc3d936f1ef2fc411de83d5367915a57b0bb6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20056.jpg"
+    },
+    "gameId": "SLPS_200.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Colorio Hagaki Print"
+}

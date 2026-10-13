@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.47",
+  "cover": {
+    "path": "PS2/SLPS_202.47/SLPS_202.47_COV.png",
+    "kind": "cover",
+    "bytes": 75318,
+    "width": 192,
+    "height": 272,
+    "sha256": "71999965a7039fdf3a003f7ce81b7cd84b7afcb561db777004e007b483cf65c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20247.jpg"
+    },
+    "gameId": "SLPS_202.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LOTUS CHALLENGE"
+}

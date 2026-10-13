@@ -1,0 +1,64 @@
+{
+  "id": "SLES_509.30",
+  "cover": {
+    "path": "PS2/SLES_509.30/SLES_509.30_COV.png",
+    "kind": "cover",
+    "bytes": 115022,
+    "width": 192,
+    "height": 272,
+    "sha256": "495726314184812273655222a4febfe3091509caa0805360392ad53da2972b0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50930.jpg"
+    },
+    "gameId": "SLES_509.30"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_509.30/SLES_509.30_BG.png",
+    "kind": "background",
+    "bytes": 59106,
+    "width": 640,
+    "height": 480,
+    "sha256": "7a621e137284bb565ecf1e29ff7b28b25d8a4944ace4d813dc58969162f1f51c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_509.30/SLES_509.30_BG_00.png"
+    },
+    "gameId": "SLES_509.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_509.30/SLES_509.30_BG.png",
+      "kind": "background",
+      "bytes": 59106,
+      "width": 640,
+      "height": 480,
+      "sha256": "7a621e137284bb565ecf1e29ff7b28b25d8a4944ace4d813dc58969162f1f51c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.30/SLES_509.30_BG_00.png"
+      },
+      "gameId": "SLES_509.30"
+    },
+    {
+      "path": "PS2/SLES_509.30/SLES_509.30_BG_01.png",
+      "kind": "background",
+      "bytes": 196299,
+      "width": 640,
+      "height": 480,
+      "sha256": "d07566de4bab2425b526fde022159886f22ff18f0d1afc92645d637837b5e239",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.30/SLES_509.30_BG_01.png"
+      },
+      "gameId": "SLES_509.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DINO STALKER"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.06",
+  "cover": {
+    "path": "PS2/SLES_548.06/SLES_548.06_COV.png",
+    "kind": "cover",
+    "bytes": 97956,
+    "width": 192,
+    "height": 272,
+    "sha256": "50108fca5a92f5a3c530a8fc268c6184dacc526e35e0ad738f8868cc9d402922",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54806.jpg"
+    },
+    "gameId": "SLES_548.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Thrillville - Off the Rails"
+}

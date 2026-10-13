@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_218.57",
+  "cover": {
+    "path": "PS2/SLUS_218.57/SLUS_218.57_COV.png",
+    "kind": "cover",
+    "bytes": 107153,
+    "width": 192,
+    "height": 272,
+    "sha256": "76ea68e261d91b728a264d542cda84ea0bbf74f115302a9e3ef1d4421e1e909c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21857.jpg"
+    },
+    "gameId": "SLUS_218.57"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.57/SLUS_218.57_ICO.png",
+    "kind": "disc",
+    "bytes": 35793,
+    "width": 256,
+    "height": 256,
+    "sha256": "2deb9adfeb15198ea1dc2126c9819f22cedc68bda36dbc156f8e11d6bad0e705",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.57_ICO.png"
+    },
+    "gameId": "SLUS_218.57"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.57/SLUS_218.57_BG.png",
+    "kind": "background",
+    "bytes": 232484,
+    "width": 640,
+    "height": 480,
+    "sha256": "914b09401850525dcc4596ec0604797424b5657a52e1fb8e01b8997935496842",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.57/SLUS_218.57_BG_00.png"
+    },
+    "gameId": "SLUS_218.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.57/SLUS_218.57_BG.png",
+      "kind": "background",
+      "bytes": 232484,
+      "width": 640,
+      "height": 480,
+      "sha256": "914b09401850525dcc4596ec0604797424b5657a52e1fb8e01b8997935496842",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.57/SLUS_218.57_BG_00.png"
+      },
+      "gameId": "SLUS_218.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Short Track Racing: Trading Paint"
+}

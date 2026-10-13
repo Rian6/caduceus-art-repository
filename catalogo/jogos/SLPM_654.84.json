@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.84",
+  "cover": {
+    "path": "PS2/SLPM_654.84/SLPM_654.84_COV.png",
+    "kind": "cover",
+    "bytes": 29744,
+    "width": 192,
+    "height": 272,
+    "sha256": "e3768d0bdf7b4df8458872312eec27696b73a157c0c83b9bacd97f520db2aa92",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65484.jpg"
+    },
+    "gameId": "SLPM_654.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WISP - Word Image Sound Play"
+}

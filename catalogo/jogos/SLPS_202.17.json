@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.17",
+  "cover": {
+    "path": "PS2/SLPS_202.17/SLPS_202.17_COV.png",
+    "kind": "cover",
+    "bytes": 117512,
+    "width": 192,
+    "height": 272,
+    "sha256": "3972d7c1d0383c43f1fa203fa7f0a672a7cfde91a2cf387780219f80e7dff1be",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20217.jpg"
+    },
+    "gameId": "SLPS_202.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hokka Hoka Sentou"
+}

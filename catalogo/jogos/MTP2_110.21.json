@@ -1,0 +1,24 @@
+{
+  "id": "MTP2_110.21",
+  "cover": {
+    "path": "PS2/MTP2_110.21/MTP2_110.21_COV.png",
+    "kind": "cover",
+    "bytes": 75019,
+    "width": 192,
+    "height": 272,
+    "sha256": "23b1bac792002b7ed255a76125c1c483590a311840237400eec35e00c7bffae4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/MTP2-11021.jpg"
+    },
+    "gameId": "MTP2_110.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

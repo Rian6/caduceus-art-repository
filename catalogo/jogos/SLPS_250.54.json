@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.54",
+  "cover": {
+    "path": "PS2/SLPS_250.54/SLPS_250.54_COV.png",
+    "kind": "cover",
+    "bytes": 93225,
+    "width": 192,
+    "height": 272,
+    "sha256": "489a9b1120d4d390c11474ce307d5046d930f4a2aca1f57b9939ea6e26b6248c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25054.jpg"
+    },
+    "gameId": "SLPS_250.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TAMAMAYU MONOGATARI 2"
+}

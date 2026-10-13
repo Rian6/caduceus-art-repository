@@ -1,0 +1,39 @@
+{
+  "id": "SLES_547.92",
+  "cover": {
+    "path": "PS2/SLES_547.92/SLES_547.92_COV.png",
+    "kind": "cover",
+    "bytes": 105811,
+    "width": 192,
+    "height": 272,
+    "sha256": "0da007f5c6d17c158320830cde21113dcd9e5b0f46af4dc71d8e855c69b43a1d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54792.jpg"
+    },
+    "gameId": "SLES_547.92"
+  },
+  "disc": {
+    "path": "PS2/SLES_547.92/SLES_547.92_ICO.png",
+    "kind": "disc",
+    "bytes": 12092,
+    "width": 128,
+    "height": 128,
+    "sha256": "ed37b1cba65abfe4a02440c0837beb6b33bbaf02eafe6ec8c3f57bb97b2fd7f2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_547.92_ICO.png"
+    },
+    "gameId": "SLES_547.92"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Wrestling Championship"
+}

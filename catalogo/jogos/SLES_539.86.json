@@ -1,0 +1,25 @@
+{
+  "id": "SLES_539.86",
+  "cover": {
+    "path": "PS2/SLES_539.86/SLES_539.86_COV.png",
+    "kind": "cover",
+    "bytes": 60852,
+    "width": 192,
+    "height": 272,
+    "sha256": "3956ee452e52ee4cc9cd250bfd44ac86a78a76f6dcbb72acfa5ea0775c1f5d53",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_539.86/SLES_539.86_COV.png"
+    },
+    "gameId": "SLES_539.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamWorks' La Gang del Bosco (Over the hedge)"
+}

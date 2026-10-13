@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.97",
+  "cover": {
+    "path": "PS2/SLPS_256.97/SLPS_256.97_COV.png",
+    "kind": "cover",
+    "bytes": 110953,
+    "width": 192,
+    "height": 272,
+    "sha256": "f3a047ec7231ede5727767a168fdade85e2914bf7f37b6cc5087e20716f8f091",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25697.jpg"
+    },
+    "gameId": "SLPS_256.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hisshou Pachinko*Pachi-Slot Kouryoku Series Vol. 7 - CR Fever Powerful Zero"
+}

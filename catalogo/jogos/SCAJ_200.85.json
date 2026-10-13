@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.85",
+  "cover": {
+    "path": "PS2/SCAJ_200.85/SCAJ_200.85_COV.png",
+    "kind": "cover",
+    "bytes": 94262,
+    "width": 192,
+    "height": 272,
+    "sha256": "50118213393b49c84ab08bb00a067833c51b2097ce2eba89873b5f039cb26b9d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20085.jpg"
+    },
+    "gameId": "SCAJ_200.85"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sakura Zakashobotai"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.30",
+  "cover": {
+    "path": "PS2/SLPM_655.30/SLPM_655.30_COV.png",
+    "kind": "cover",
+    "bytes": 89557,
+    "width": 192,
+    "height": 272,
+    "sha256": "7adf70f4f6e65df42b3fe2f1ae6b46e935dfd18c969af1ed8575598ff52fb599",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65530.jpg"
+    },
+    "gameId": "SLPM_655.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "J-League Pro Soccer Club o Tsukurou! '04"
+}

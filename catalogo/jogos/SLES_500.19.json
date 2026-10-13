@@ -1,0 +1,51 @@
+{
+  "id": "SLES_500.19",
+  "cover": {
+    "path": "PS2/SLES_500.19/SLES_500.19_COV.png",
+    "kind": "cover",
+    "bytes": 105843,
+    "width": 192,
+    "height": 272,
+    "sha256": "2dd89c7a93525cfb2f718342c20e843da5223123fad0361274cfbc23c000577e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50019.jpg"
+    },
+    "gameId": "SLES_500.19"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_500.19/SLES_500.19_BG.png",
+    "kind": "background",
+    "bytes": 207177,
+    "width": 640,
+    "height": 480,
+    "sha256": "b5bf2cc378bbfb5ecb6bd32019d59872f95740d5a5506264248a133e2d34cdc7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.19/SLES_500.19_BG_00.png"
+    },
+    "gameId": "SLES_500.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.19/SLES_500.19_BG.png",
+      "kind": "background",
+      "bytes": 207177,
+      "width": 640,
+      "height": 480,
+      "sha256": "b5bf2cc378bbfb5ecb6bd32019d59872f95740d5a5506264248a133e2d34cdc7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.19/SLES_500.19_BG_00.png"
+      },
+      "gameId": "SLES_500.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KESSEN"
+}

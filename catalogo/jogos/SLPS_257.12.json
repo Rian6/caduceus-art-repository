@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.12",
+  "cover": {
+    "path": "PS2/SLPS_257.12/SLPS_257.12_COV.png",
+    "kind": "cover",
+    "bytes": 99942,
+    "width": 192,
+    "height": 272,
+    "sha256": "161662e82f990f1c21750f4268407a55b09232118ea1aa56bae6210b789f5714",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25712.jpg"
+    },
+    "gameId": "SLPS_257.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters - Neowave (SNK Best Collection)"
+}

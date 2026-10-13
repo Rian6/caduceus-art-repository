@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.59",
+  "cover": {
+    "path": "PS2/SLPS_257.59/SLPS_257.59_COV.png",
+    "kind": "cover",
+    "bytes": 32998,
+    "width": 192,
+    "height": 272,
+    "sha256": "6cb48e0aa7ec43b9f83c48f35c26b8f99a464c62a5e7cc7488035f97a4673cc4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25759.jpg"
+    },
+    "gameId": "SLPS_257.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shiju Hachi"
+}

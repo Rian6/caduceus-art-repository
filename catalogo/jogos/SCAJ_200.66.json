@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.66",
+  "cover": {
+    "path": "PS2/SCAJ_200.66/SCAJ_200.66_COV.png",
+    "kind": "cover",
+    "bytes": 52577,
+    "width": 192,
+    "height": 272,
+    "sha256": "c691b71173b243ebc04e23eea6162905017e99c7ebc5e9c798d1a0a80d687fea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20066.jpg"
+    },
+    "gameId": "SCAJ_200.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 4 - Prologue"
+}

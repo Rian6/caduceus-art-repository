@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_611.37",
+  "cover": {
+    "path": "PS2/SLPM_611.37/SLPM_611.37_COV.png",
+    "kind": "cover",
+    "bytes": 60682,
+    "width": 192,
+    "height": 272,
+    "sha256": "af8fcfe3fe20ad6cb3f1800718a2f2377e790d47cd84042f22ee98048295f0bf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_611.37/SLPM_611.37_COV.png"
+    },
+    "gameId": "SLPM_611.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Rally 2006"
+}

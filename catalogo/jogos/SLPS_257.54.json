@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.54",
+  "cover": {
+    "path": "PS2/SLPS_257.54/SLPS_257.54_COV.png",
+    "kind": "cover",
+    "bytes": 100975,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e5d5ea02ad61171ffc26df4794cd2666c6491ebeaa6cff04142a0c64792b2f6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25754.jpg"
+    },
+    "gameId": "SLPS_257.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KINO NO TABI II - THE BEAUTIFUL WORLD [DENGEKI SP]"
+}

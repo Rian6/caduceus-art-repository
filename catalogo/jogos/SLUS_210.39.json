@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_210.39",
+  "cover": {
+    "path": "PS2/SLUS_210.39/SLUS_210.39_COV.png",
+    "kind": "cover",
+    "bytes": 75103,
+    "width": 192,
+    "height": 272,
+    "sha256": "9bdc54148bfa8dd07595155e6561f866ecb35159b9cdac261398f6c95651042a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21039.jpg"
+    },
+    "gameId": "SLUS_210.39"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.39/SLUS_210.39_ICO.png",
+    "kind": "disc",
+    "bytes": 27549,
+    "width": 256,
+    "height": 256,
+    "sha256": "8dba7d251968d62e3d512c8040a9165b462cfa14764dd30ca83d4db9d6c02f6d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.39_ICO.png"
+    },
+    "gameId": "SLUS_210.39"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.39/SLUS_210.39_BG.png",
+    "kind": "background",
+    "bytes": 170426,
+    "width": 640,
+    "height": 480,
+    "sha256": "ecebb38b1237ceac2246350392c7258e6cfe8cf63d999bfa375c666869f4cdc2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.39/SLUS_210.39_BG_00.png"
+    },
+    "gameId": "SLUS_210.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.39/SLUS_210.39_BG.png",
+      "kind": "background",
+      "bytes": 170426,
+      "width": 640,
+      "height": 480,
+      "sha256": "ecebb38b1237ceac2246350392c7258e6cfe8cf63d999bfa375c666869f4cdc2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.39/SLUS_210.39_BG_00.png"
+      },
+      "gameId": "SLUS_210.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOCA RACE DRIVER 2 - THE ULTIMATE RACING SIMULATOR"
+}

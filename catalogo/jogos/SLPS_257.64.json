@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_257.64",
+  "cover": {
+    "path": "PS2/SLPS_257.64/SLPS_257.64_COV.png",
+    "kind": "cover",
+    "bytes": 100393,
+    "width": 192,
+    "height": 272,
+    "sha256": "932678bc750e814bf015838f791fabca4a700c4e7b3dcf012ff10947afaab569",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25764.jpg"
+    },
+    "gameId": "SLPS_257.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_257.64/SLPS_257.64_BG.png",
+    "kind": "background",
+    "bytes": 194301,
+    "width": 640,
+    "height": 480,
+    "sha256": "caaf1dc7fabf817008a8cef676f59ced78b2f58b1f678234a78354c36c3a105a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.64/SLPS_257.64_BG_00.png"
+    },
+    "gameId": "SLPS_257.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.64/SLPS_257.64_BG.png",
+      "kind": "background",
+      "bytes": 194301,
+      "width": 640,
+      "height": 480,
+      "sha256": "caaf1dc7fabf817008a8cef676f59ced78b2f58b1f678234a78354c36c3a105a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.64/SLPS_257.64_BG_00.png"
+      },
+      "gameId": "SLPS_257.64"
+    },
+    {
+      "path": "PS2/SLPS_257.64/SLPS_257.64_BG_01.png",
+      "kind": "background",
+      "bytes": 195058,
+      "width": 640,
+      "height": 480,
+      "sha256": "757343fa7c7a7dd43208aa1e141a02001d687be671414f3bf44ced50e6c30b68",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.64/SLPS_257.64_BG_01.png"
+      },
+      "gameId": "SLPS_257.64"
+    },
+    {
+      "path": "PS2/SLPS_257.64/SLPS_257.64_BG_02.png",
+      "kind": "background",
+      "bytes": 158185,
+      "width": 640,
+      "height": 480,
+      "sha256": "e7498e37f556869a21e04a5ac8e04575d9455d679e37e4fc80accccdbe791c26",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.64/SLPS_257.64_BG_02.png"
+      },
+      "gameId": "SLPS_257.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Busou Renkin - Youkoso Papillon Park e"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.10",
+  "cover": {
+    "path": "PS2/SLPS_200.10/SLPS_200.10_COV.png",
+    "kind": "cover",
+    "bytes": 67556,
+    "width": 192,
+    "height": 272,
+    "sha256": "33c17135a74a8e7804f358f051a742436251c3914f4b5005ce33598c97381cb6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20010.jpg"
+    },
+    "gameId": "SLPS_200.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gekikuukan Pro Baseball - The End of the Century 1999"
+}

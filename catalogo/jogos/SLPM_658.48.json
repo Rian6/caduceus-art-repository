@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.48",
+  "cover": {
+    "path": "PS2/SLPM_658.48/SLPM_658.48_COV.png",
+    "kind": "cover",
+    "bytes": 98982,
+    "width": 192,
+    "height": 272,
+    "sha256": "2c919772d99c7af93dd3b7bc955f21140a2b6d4cbb19f93e449bcef1205abe19",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65848.jpg"
+    },
+    "gameId": "SLPM_658.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SORAIRO NO FUUKIN REMIX"
+}

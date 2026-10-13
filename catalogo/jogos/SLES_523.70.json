@@ -1,0 +1,39 @@
+{
+  "id": "SLES_523.70",
+  "cover": {
+    "path": "PS2/SLES_523.70/SLES_523.70_COV.png",
+    "kind": "cover",
+    "bytes": 105536,
+    "width": 192,
+    "height": 272,
+    "sha256": "c910e1a26a708ff8f2a01b1051ff14e2673f44fd641e3be43a8f2304bf3e06e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52370.jpg"
+    },
+    "gameId": "SLES_523.70"
+  },
+  "disc": {
+    "path": "PS2/SLES_523.70/SLES_523.70_ICO.png",
+    "kind": "disc",
+    "bytes": 10751,
+    "width": 128,
+    "height": 128,
+    "sha256": "9222a89185dd25932b3d597f9707d34149a283f0e8cca64d6a900f41e1d53cbc",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_523.70_ICO.png"
+    },
+    "gameId": "SLES_523.70"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE MOUSE POLICE"
+}

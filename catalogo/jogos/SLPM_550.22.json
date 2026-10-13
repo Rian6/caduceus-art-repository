@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.22",
+  "cover": {
+    "path": "PS2/SLPM_550.22/SLPM_550.22_COV.png",
+    "kind": "cover",
+    "bytes": 63053,
+    "width": 192,
+    "height": 272,
+    "sha256": "e00c92ef4e925c44a1019913240fe54fcc4093f54612bc76bdd3fce254819074",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55022.jpg"
+    },
+    "gameId": "SLPM_550.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XII (Ultimate Hits)"
+}

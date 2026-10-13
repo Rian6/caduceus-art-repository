@@ -1,0 +1,90 @@
+{
+  "id": "SLES_531.45",
+  "cover": {
+    "path": "PS2/SLES_531.45/SLES_531.45_COV.png",
+    "kind": "cover",
+    "bytes": 93303,
+    "width": 192,
+    "height": 272,
+    "sha256": "8acc57deaf2ee48a6d0149274f2cbcb53b7dbec79259e6d00ac0fadab8175cfa",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53145.jpg"
+    },
+    "gameId": "SLES_531.45"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_531.45/SLES_531.45_BG.png",
+    "kind": "background",
+    "bytes": 201790,
+    "width": 640,
+    "height": 480,
+    "sha256": "a1578eb426a21df9d4cb514f5cf6ec33174eb5facdffe44b0b28df7e8f5eb4f0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.45/SLES_531.45_BG_00.png"
+    },
+    "gameId": "SLES_531.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.45/SLES_531.45_BG.png",
+      "kind": "background",
+      "bytes": 201790,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1578eb426a21df9d4cb514f5cf6ec33174eb5facdffe44b0b28df7e8f5eb4f0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.45/SLES_531.45_BG_00.png"
+      },
+      "gameId": "SLES_531.45"
+    },
+    {
+      "path": "PS2/SLES_531.45/SLES_531.45_BG_01.png",
+      "kind": "background",
+      "bytes": 211215,
+      "width": 640,
+      "height": 480,
+      "sha256": "47df149699bfa19be96745584f978b954ff29d7a69f5b9d2612c255b18ea72bd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.45/SLES_531.45_BG_01.png"
+      },
+      "gameId": "SLES_531.45"
+    },
+    {
+      "path": "PS2/SLES_531.45/SLES_531.45_BG_02.png",
+      "kind": "background",
+      "bytes": 170325,
+      "width": 640,
+      "height": 480,
+      "sha256": "8f5d347e5be64c4c2e5449d35bd43ec856d24c6f1da1197452943a051b46efab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.45/SLES_531.45_BG_02.png"
+      },
+      "gameId": "SLES_531.45"
+    },
+    {
+      "path": "PS2/SLES_531.45/SLES_531.45_BG_03.png",
+      "kind": "background",
+      "bytes": 195962,
+      "width": 640,
+      "height": 480,
+      "sha256": "c806ae4cb02fe038020603606bb19fb65f4b6c1e9e8903b3fd64fc253f5f7b4a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.45/SLES_531.45_BG_03.png"
+      },
+      "gameId": "SLES_531.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FANTASTIC 4"
+}

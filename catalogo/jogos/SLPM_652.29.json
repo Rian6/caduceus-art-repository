@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.29",
+  "cover": {
+    "path": "PS2/SLPM_652.29/SLPM_652.29_COV.png",
+    "kind": "cover",
+    "bytes": 107597,
+    "width": 192,
+    "height": 272,
+    "sha256": "6854dcd938d041c393c2ea877a808d6a8174dcaf6e48e338ec8d5b91740e19ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65229.jpg"
+    },
+    "gameId": "SLPM_652.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Army Men - Air Attack 2"
+}

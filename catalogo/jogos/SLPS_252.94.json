@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.94",
+  "cover": {
+    "path": "PS2/SLPS_252.94/SLPS_252.94_COV.png",
+    "kind": "cover",
+    "bytes": 98171,
+    "width": 192,
+    "height": 272,
+    "sha256": "96da0cefa0ee4db81754dd497385e5b3e75fb1c3a2157beef8359f8cea85804a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25294.jpg"
+    },
+    "gameId": "SLPS_252.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "UCHUU NO STELLVIA"
+}

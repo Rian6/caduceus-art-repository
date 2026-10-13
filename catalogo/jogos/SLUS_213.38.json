@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_213.38",
+  "cover": {
+    "path": "PS2/SLUS_213.38/SLUS_213.38_COV.png",
+    "kind": "cover",
+    "bytes": 80082,
+    "width": 192,
+    "height": 272,
+    "sha256": "22db4453eb2f3c5efaa03eee566cf891ad8ea9ada8c28de0bc38e65c5860aca2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21338.jpg"
+    },
+    "gameId": "SLUS_213.38"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.38/SLUS_213.38_ICO.png",
+    "kind": "disc",
+    "bytes": 34055,
+    "width": 256,
+    "height": 256,
+    "sha256": "8138772fa5c0ca80d77e5235c839b1519e57446af864425c7f647d650815d3a1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.38_ICO.png"
+    },
+    "gameId": "SLUS_213.38"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.38/SLUS_213.38_BG.png",
+    "kind": "background",
+    "bytes": 174763,
+    "width": 640,
+    "height": 480,
+    "sha256": "b5457bfc540e7c9eea562f099738c07dc301edd675d6e03c0fe6634ec3cd5057",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.38/SLUS_213.38_BG_00.png"
+    },
+    "gameId": "SLUS_213.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.38/SLUS_213.38_BG.png",
+      "kind": "background",
+      "bytes": 174763,
+      "width": 640,
+      "height": 480,
+      "sha256": "b5457bfc540e7c9eea562f099738c07dc301edd675d6e03c0fe6634ec3cd5057",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.38/SLUS_213.38_BG_00.png"
+      },
+      "gameId": "SLUS_213.38"
+    },
+    {
+      "path": "PS2/SLUS_213.38/SLUS_213.38_BG_01.png",
+      "kind": "background",
+      "bytes": 194303,
+      "width": 640,
+      "height": 480,
+      "sha256": "bcaeb6144b0d538b6bd92ebf2072166343d98b7f5823a3fb853ae4524c39a82e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.38/SLUS_213.38_BG_01.png"
+      },
+      "gameId": "SLUS_213.38"
+    },
+    {
+      "path": "PS2/SLUS_213.38/SLUS_213.38_BG_02.png",
+      "kind": "background",
+      "bytes": 178339,
+      "width": 640,
+      "height": 480,
+      "sha256": "68d7a78b492750f642db8314018ae9c6ad7656d1ec03182b32176d151499df9e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.38/SLUS_213.38_BG_02.png"
+      },
+      "gameId": "SLUS_213.38"
+    },
+    {
+      "path": "PS2/SLUS_213.38/SLUS_213.38_BG_03.png",
+      "kind": "background",
+      "bytes": 203477,
+      "width": 640,
+      "height": 480,
+      "sha256": "7c45386da55147b4033ff8af2eab1af465f3cff4f4656bfb70d562d13f322994",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.38/SLUS_213.38_BG_03.png"
+      },
+      "gameId": "SLUS_213.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core: Last Raven"
+}

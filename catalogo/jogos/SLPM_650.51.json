@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_650.51",
+  "cover": {
+    "path": "PS2/SLPM_650.51/SLPM_650.51_COV.png",
+    "kind": "cover",
+    "bytes": 102866,
+    "width": 192,
+    "height": 272,
+    "sha256": "078b8cf6cca4fb7c98763b0043952fc79cd0620ee235830c88ecb63220adf6d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65051.jpg"
+    },
+    "gameId": "SLPM_650.51"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_650.51/SLPM_650.51_BG.png",
+    "kind": "background",
+    "bytes": 170516,
+    "width": 640,
+    "height": 480,
+    "sha256": "21204eeb8e7affd43baf595d859820da53cd9e31e8a62d8a77938c0be686a24b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_650.51/SLPM_650.51_BG_00.png"
+    },
+    "gameId": "SLPM_650.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_650.51/SLPM_650.51_BG.png",
+      "kind": "background",
+      "bytes": 170516,
+      "width": 640,
+      "height": 480,
+      "sha256": "21204eeb8e7affd43baf595d859820da53cd9e31e8a62d8a77938c0be686a24b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.51/SLPM_650.51_BG_00.png"
+      },
+      "gameId": "SLPM_650.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SILENT HILL 2"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SLES_554.74",
+  "cover": {
+    "path": "PS2/SLES_554.74/SLES_554.74_COV.png",
+    "kind": "cover",
+    "bytes": 110038,
+    "width": 192,
+    "height": 272,
+    "sha256": "08ae721e10d71bb9c9bb04fce2d5d359bb9ec59c8f8ed63192b47797aacd9e6a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55474.jpg"
+    },
+    "gameId": "SLES_554.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_554.74/SLES_554.74_BG.png",
+    "kind": "background",
+    "bytes": 201578,
+    "width": 640,
+    "height": 480,
+    "sha256": "154f281ce4e23e5271b3a6186973a707a5fcf2f501f29ac3c02d719db4e3b344",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_554.74/SLES_554.74_BG_00.png"
+    },
+    "gameId": "SLES_554.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_554.74/SLES_554.74_BG.png",
+      "kind": "background",
+      "bytes": 201578,
+      "width": 640,
+      "height": 480,
+      "sha256": "154f281ce4e23e5271b3a6186973a707a5fcf2f501f29ac3c02d719db4e3b344",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.74/SLES_554.74_BG_00.png"
+      },
+      "gameId": "SLES_554.74"
+    },
+    {
+      "path": "PS2/SLES_554.74/SLES_554.74_BG_01.png",
+      "kind": "background",
+      "bytes": 208567,
+      "width": 640,
+      "height": 480,
+      "sha256": "9e5f58fd5970dc025d8d024b8ae401fcb9e68c56a45edf45629aede50da23b31",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.74/SLES_554.74_BG_01.png"
+      },
+      "gameId": "SLES_554.74"
+    },
+    {
+      "path": "PS2/SLES_554.74/SLES_554.74_BG_02.png",
+      "kind": "background",
+      "bytes": 221831,
+      "width": 640,
+      "height": 480,
+      "sha256": "1e753c278f9b253c2cf052f67e8033a4658adbcbc1e96676d7c1037f27ef50fd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.74/SLES_554.74_BG_02.png"
+      },
+      "gameId": "SLES_554.74"
+    },
+    {
+      "path": "PS2/SLES_554.74/SLES_554.74_BG_03.png",
+      "kind": "background",
+      "bytes": 118361,
+      "width": 640,
+      "height": 480,
+      "sha256": "7b0e8ee85923f9278ea92e39f482ba2988b11ebf92cbc3c5bb72d19f9658f203",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.74/SLES_554.74_BG_03.png"
+      },
+      "gameId": "SLES_554.74"
+    },
+    {
+      "path": "PS2/SLES_554.74/SLES_554.74_BG_04.png",
+      "kind": "background",
+      "bytes": 159187,
+      "width": 640,
+      "height": 480,
+      "sha256": "8011661fabac3c49874f36c255ddda352d45665fabf8d59c60a8e02dfabb24b8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.74/SLES_554.74_BG_04.png"
+      },
+      "gameId": "SLES_554.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Megami Tensei - Persona 4 FES"
+}

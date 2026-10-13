@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.26",
+  "cover": {
+    "path": "PS2/SLPM_621.26/SLPM_621.26_COV.png",
+    "kind": "cover",
+    "bytes": 108033,
+    "width": 192,
+    "height": 272,
+    "sha256": "8886bda8bbc85a6f3232a257940c9717c256e9972007f33bb02806ecfaef6c1b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62126.jpg"
+    },
+    "gameId": "SLPM_621.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HYPER SPORTS 2002 WINTER"
+}

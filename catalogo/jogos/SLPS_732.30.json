@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.30",
+  "cover": {
+    "path": "PS2/SLPS_732.30/SLPS_732.30_COV.png",
+    "kind": "cover",
+    "bytes": 89740,
+    "width": 192,
+    "height": 272,
+    "sha256": "266ead9f5c0611ced39f8ac2bc7c5ab5f1af05bfecf34e7e12de9125db80e214",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73230.jpg"
+    },
+    "gameId": "SLPS_732.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": ".HACK VOL.1 X VOl.2 [PLAYSTATION 2 THE BEST] [2 DISCS]"
+}

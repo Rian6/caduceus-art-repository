@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_741.02",
+  "cover": {
+    "path": "PS2/SLPM_741.02/SLPM_741.02_COV.png",
+    "kind": "cover",
+    "bytes": 96015,
+    "width": 192,
+    "height": 272,
+    "sha256": "eb6ebe50832e9ec398da4117f94f666a81c6806b4e383baba451fdc7a6bc3e12",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74102.jpg"
+    },
+    "gameId": "SLPM_741.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MOMOTAROU DENSETSU 12 - WEST JAPAN HEN [PLAYSTATION2 THE BEST]"
+}

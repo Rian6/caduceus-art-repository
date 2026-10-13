@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.55",
+  "cover": {
+    "path": "PS2/SLPM_664.55/SLPM_664.55_COV.png",
+    "kind": "cover",
+    "bytes": 87941,
+    "width": 192,
+    "height": 272,
+    "sha256": "b05694f9a47e034003bfb2e1f5c6c9dcf35ed2bad75e9340773acc7c49085ebb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66455.jpg"
+    },
+    "gameId": "SLPM_664.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Spectral Force - Radical Elements (IF Collection)"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_110.06",
+  "cover": {
+    "path": "PS2/SCPS_110.06/SCPS_110.06_COV.png",
+    "kind": "cover",
+    "bytes": 95393,
+    "width": 192,
+    "height": 272,
+    "sha256": "9da7c5028596a8d17c3af9f7c4e3d1669c6abe15307a41b842252e7d25c6c5e3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11006.jpg"
+    },
+    "gameId": "SCPS_110.06"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_110.06/SCPS_110.06_BG.png",
+    "kind": "background",
+    "bytes": 126465,
+    "width": 640,
+    "height": 480,
+    "sha256": "625538ab922f07e9b26c9ec5198fe81755e86041957909c0d0e32637590bbf38",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_110.06/SCPS_110.06_BG_00.png"
+    },
+    "gameId": "SCPS_110.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_110.06/SCPS_110.06_BG.png",
+      "kind": "background",
+      "bytes": 126465,
+      "width": 640,
+      "height": 480,
+      "sha256": "625538ab922f07e9b26c9ec5198fe81755e86041957909c0d0e32637590bbf38",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_110.06/SCPS_110.06_BG_00.png"
+      },
+      "gameId": "SCPS_110.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sky Gunner"
+}

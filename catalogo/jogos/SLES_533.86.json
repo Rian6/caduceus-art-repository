@@ -1,0 +1,51 @@
+{
+  "id": "SLES_533.86",
+  "cover": {
+    "path": "PS2/SLES_533.86/SLES_533.86_COV.png",
+    "kind": "cover",
+    "bytes": 108556,
+    "width": 192,
+    "height": 272,
+    "sha256": "5993baa83c4bec3d0d97cc4bc9673ecced5f778cf76b4ba04ce49c20f339daa5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53386.jpg"
+    },
+    "gameId": "SLES_533.86"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_533.86/SLES_533.86_BG.png",
+    "kind": "background",
+    "bytes": 217893,
+    "width": 640,
+    "height": 480,
+    "sha256": "3cdb65182bc62bf2be32a4ae4ea21145817d76fbab8a05e585154ecfda98b163",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.86/SLES_533.86_BG_00.png"
+    },
+    "gameId": "SLES_533.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.86/SLES_533.86_BG.png",
+      "kind": "background",
+      "bytes": 217893,
+      "width": 640,
+      "height": 480,
+      "sha256": "3cdb65182bc62bf2be32a4ae4ea21145817d76fbab8a05e585154ecfda98b163",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.86/SLES_533.86_BG_00.png"
+      },
+      "gameId": "SLES_533.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Charlie and the Chocolate Factory"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_545.82",
+  "cover": {
+    "path": "PS2/SLES_545.82/SLES_545.82_COV.png",
+    "kind": "cover",
+    "bytes": 86704,
+    "width": 192,
+    "height": 272,
+    "sha256": "db4ae997c20325d0feb6bb9231d9d99651bbfc8e44cdb48187225b4e284e560a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54582.jpg"
+    },
+    "gameId": "SLES_545.82"
+  },
+  "disc": {
+    "path": "PS2/SLES_545.82/SLES_545.82_ICO.png",
+    "kind": "disc",
+    "bytes": 12059,
+    "width": 128,
+    "height": 128,
+    "sha256": "45c07782e658498f07f7a001fd71cdc737b037a492df3c33351910fe320bc401",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_545.82_ICO.png"
+    },
+    "gameId": "SLES_545.82"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "International Tennis Pro"
+}

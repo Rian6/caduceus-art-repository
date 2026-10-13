@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.22",
+  "cover": {
+    "path": "PS2/SLPM_659.22/SLPM_659.22_COV.png",
+    "kind": "cover",
+    "bytes": 101848,
+    "width": 192,
+    "height": 272,
+    "sha256": "92f9dc6e0e43908f8f83ddd021183a54e07a61c8901315515c687bf441536181",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65922.jpg"
+    },
+    "gameId": "SLPM_659.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Aikagi: Nukumori to Hidamari no Naka de"
+}

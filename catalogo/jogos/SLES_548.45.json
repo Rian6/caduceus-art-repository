@@ -1,0 +1,25 @@
+{
+  "id": "SLES_548.45",
+  "cover": {
+    "path": "PS2/SLES_548.45/SLES_548.45_COV.png",
+    "kind": "cover",
+    "bytes": 92376,
+    "width": 192,
+    "height": 272,
+    "sha256": "2b405e3e352e3ccca76d13e63897bdd200933fa5ea033c57c76c6f1ab55843d4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54845.jpg"
+    },
+    "gameId": "SLES_548.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Warriors Orochi"
+}

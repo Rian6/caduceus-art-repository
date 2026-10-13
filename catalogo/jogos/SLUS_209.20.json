@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_209.20",
+  "cover": {
+    "path": "PS2/SLUS_209.20/SLUS_209.20_COV.png",
+    "kind": "cover",
+    "bytes": 82972,
+    "width": 192,
+    "height": 272,
+    "sha256": "94fca2a7695a2c0d125ee7e5e8cf581b7c9deaa609c577892866e47391f0a061",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20920.jpg"
+    },
+    "gameId": "SLUS_209.20"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.20/SLUS_209.20_ICO.png",
+    "kind": "disc",
+    "bytes": 27825,
+    "width": 256,
+    "height": 256,
+    "sha256": "64db49ee0c2d8aa03da6dec79fbe1b843a23ae30cc5372e229ef59d3dc6b4465",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.20_ICO.png"
+    },
+    "gameId": "SLUS_209.20"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.20/SLUS_209.20_BG.png",
+    "kind": "background",
+    "bytes": 75358,
+    "width": 640,
+    "height": 480,
+    "sha256": "92c0f0bae9ff42b8bb56f8b4c2756ca58e76328d03f2266edda16db757e5092c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.20/SLUS_209.20_BG_00.png"
+    },
+    "gameId": "SLUS_209.20"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.20/SLUS_209.20_BG.png",
+      "kind": "background",
+      "bytes": 75358,
+      "width": 640,
+      "height": 480,
+      "sha256": "92c0f0bae9ff42b8bb56f8b4c2756ca58e76328d03f2266edda16db757e5092c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.20/SLUS_209.20_BG_00.png"
+      },
+      "gameId": "SLUS_209.20"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN NBA 2K5"
+}

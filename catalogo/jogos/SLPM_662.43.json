@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.43",
+  "cover": {
+    "path": "PS2/SLPM_662.43/SLPM_662.43_COV.png",
+    "kind": "cover",
+    "bytes": 99430,
+    "width": 192,
+    "height": 272,
+    "sha256": "47a11115fe5dd5d7330290e5f9ec5ecf82d88f32e25bf5f0423bf6af8a855107",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66243.jpg"
+    },
+    "gameId": "SLPM_662.43"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Galaxy Angel II - Zettairyouiki no Tobira"
+}

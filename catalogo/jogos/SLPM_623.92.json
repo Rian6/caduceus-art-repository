@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.92",
+  "cover": {
+    "path": "PS2/SLPM_623.92/SLPM_623.92_COV.png",
+    "kind": "cover",
+    "bytes": 103539,
+    "width": 192,
+    "height": 272,
+    "sha256": "d834a62319ea3414967e28afdbe820753bd4b18ae9cd851e7badc9a5c120dda7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62392.jpg"
+    },
+    "gameId": "SLPM_623.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "G1 Jockey 3 - 2003"
+}

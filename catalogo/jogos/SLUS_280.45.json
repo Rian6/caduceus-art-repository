@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_280.45",
+  "cover": {
+    "path": "PS2/SLUS_280.45/SLUS_280.45_COV.png",
+    "kind": "cover",
+    "bytes": 78792,
+    "width": 192,
+    "height": 272,
+    "sha256": "ad47b14c4a1a6243713fb5e34a9adf64f7f6d7dccec8f62d07456e723276c184",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-28045.jpg"
+    },
+    "gameId": "SLUS_280.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Megami Tensei: Nocturne (Trade Demo)"
+}

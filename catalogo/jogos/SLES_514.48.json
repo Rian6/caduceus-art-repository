@@ -1,0 +1,103 @@
+{
+  "id": "SLES_514.48",
+  "cover": {
+    "path": "PS2/SLES_514.48/SLES_514.48_COV.png",
+    "kind": "cover",
+    "bytes": 57906,
+    "width": 192,
+    "height": 272,
+    "sha256": "0d8fe2b4e2c91968f7dc70494212c8a96dbb4c5506c01bfeaca2184e1b2a5bf0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51448.jpg"
+    },
+    "gameId": "SLES_514.48"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_514.48/SLES_514.48_BG.png",
+    "kind": "background",
+    "bytes": 214986,
+    "width": 640,
+    "height": 480,
+    "sha256": "34bcad31d8afe749aed5ffb525abb70144a97177fa5de103e09cf68043ece4e6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_514.48/SLES_514.48_BG_00.png"
+    },
+    "gameId": "SLES_514.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_514.48/SLES_514.48_BG.png",
+      "kind": "background",
+      "bytes": 214986,
+      "width": 640,
+      "height": 480,
+      "sha256": "34bcad31d8afe749aed5ffb525abb70144a97177fa5de103e09cf68043ece4e6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.48/SLES_514.48_BG_00.png"
+      },
+      "gameId": "SLES_514.48"
+    },
+    {
+      "path": "PS2/SLES_514.48/SLES_514.48_BG_01.png",
+      "kind": "background",
+      "bytes": 120591,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f743a5641c3b000244afc51da2d343d0a4d121ea17cf30e12443e4dddda3d77",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.48/SLES_514.48_BG_01.png"
+      },
+      "gameId": "SLES_514.48"
+    },
+    {
+      "path": "PS2/SLES_514.48/SLES_514.48_BG_02.png",
+      "kind": "background",
+      "bytes": 166701,
+      "width": 640,
+      "height": 480,
+      "sha256": "b0e3696b1201b780e31868bda686e041f763d5e1bb1461cffe304db6200cdab8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.48/SLES_514.48_BG_02.png"
+      },
+      "gameId": "SLES_514.48"
+    },
+    {
+      "path": "PS2/SLES_514.48/SLES_514.48_BG_03.png",
+      "kind": "background",
+      "bytes": 77803,
+      "width": 640,
+      "height": 480,
+      "sha256": "6071cda5109eaf01c14751422bf451cc796dc3096e0b7f650a8f9337c749c72f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.48/SLES_514.48_BG_03.png"
+      },
+      "gameId": "SLES_514.48"
+    },
+    {
+      "path": "PS2/SLES_514.48/SLES_514.48_BG_04.png",
+      "kind": "background",
+      "bytes": 209338,
+      "width": 640,
+      "height": 480,
+      "sha256": "8e41890d3a902557b4d062009df52d6f8344549f668ef66ecd307f01e8fdc1fc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.48/SLES_514.48_BG_04.png"
+      },
+      "gameId": "SLES_514.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Resident Evil: Dead Aim"
+}

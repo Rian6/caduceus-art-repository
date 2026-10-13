@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_001.13",
+  "cover": {
+    "path": "PS2/KOEI_001.13/KOEI_001.13_COV.png",
+    "kind": "cover",
+    "bytes": 63773,
+    "width": 192,
+    "height": 272,
+    "sha256": "2160faf865ed076b699f93aabae7a7c2a710b9691cf454a5dc694a94f19b168c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_001.13/KOEI_001.13_COV.png"
+    },
+    "gameId": "KOEI_001.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Musou 2 & Sengoku Musou 2 Empires Premium Box"
+}

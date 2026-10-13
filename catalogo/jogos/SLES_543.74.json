@@ -1,0 +1,39 @@
+{
+  "id": "SLES_543.74",
+  "cover": {
+    "path": "PS2/SLES_543.74/SLES_543.74_COV.png",
+    "kind": "cover",
+    "bytes": 87952,
+    "width": 192,
+    "height": 272,
+    "sha256": "b91c23cd53054eccdc93f4a39fe0b5120585b09a7da9dd0716d2d0df7dda57ae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54374.jpg"
+    },
+    "gameId": "SLES_543.74"
+  },
+  "disc": {
+    "path": "PS2/SLES_543.74/SLES_543.74_ICO.png",
+    "kind": "disc",
+    "bytes": 11570,
+    "width": 128,
+    "height": 128,
+    "sha256": "a4b71e8c1b924c4994cd2c08f0ea3dc96e2963ef06cadd5bcc79ca56abe9311e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_543.74_ICO.png"
+    },
+    "gameId": "SLES_543.74"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RTL Winter Games 2007"
+}

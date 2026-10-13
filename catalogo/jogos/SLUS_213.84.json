@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_213.84",
+  "cover": {
+    "path": "PS2/SLUS_213.84/SLUS_213.84_COV.png",
+    "kind": "cover",
+    "bytes": 118411,
+    "width": 192,
+    "height": 272,
+    "sha256": "53e02328a2b695610275e3461a802e8cd4ffcd012d6fdd70574d1c662b824906",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21384.jpg"
+    },
+    "gameId": "SLUS_213.84"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.84/SLUS_213.84_ICO.png",
+    "kind": "disc",
+    "bytes": 32616,
+    "width": 256,
+    "height": 256,
+    "sha256": "efb033e17fc3a6d20a59746208704659e91af15b779afc4da9f8559be3cbdcc9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.84_ICO.png"
+    },
+    "gameId": "SLUS_213.84"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.84/SLUS_213.84_BG.png",
+    "kind": "background",
+    "bytes": 169805,
+    "width": 640,
+    "height": 480,
+    "sha256": "dd07c27d23a924504db601f6b5ad6cee58f8f705d8ec17a11efed19fa4d65c0f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.84/SLUS_213.84_BG_00.png"
+    },
+    "gameId": "SLUS_213.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.84/SLUS_213.84_BG.png",
+      "kind": "background",
+      "bytes": 169805,
+      "width": 640,
+      "height": 480,
+      "sha256": "dd07c27d23a924504db601f6b5ad6cee58f8f705d8ec17a11efed19fa4d65c0f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.84/SLUS_213.84_BG_00.png"
+      },
+      "gameId": "SLUS_213.84"
+    },
+    {
+      "path": "PS2/SLUS_213.84/SLUS_213.84_BG_01.png",
+      "kind": "background",
+      "bytes": 205594,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c1ed117215e1f4be723a25882cc3279da684f6db1d1850cc7256db8f941e496",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.84/SLUS_213.84_BG_01.png"
+      },
+      "gameId": "SLUS_213.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cabela's Alaskan Adventures"
+}

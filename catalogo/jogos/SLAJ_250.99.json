@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.99",
+  "cover": {
+    "path": "PS2/SLAJ_250.99/SLAJ_250.99_COV.png",
+    "kind": "cover",
+    "bytes": 85161,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ec33efeb858abfc8fbdf8380ff96f1a987c5d09aa099e5dcbf348459c9e16dd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25099.jpg"
+    },
+    "gameId": "SLAJ_250.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live '08"
+}

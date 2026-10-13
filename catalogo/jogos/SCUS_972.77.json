@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_972.77",
+  "cover": {
+    "path": "PS2/SCUS_972.77/SCUS_972.77_COV.png",
+    "kind": "cover",
+    "bytes": 94060,
+    "width": 192,
+    "height": 272,
+    "sha256": "a3606318c1520612afb51e2918985ab93cc1094ff80f04f86743d5ecf1015ab4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97277.jpg"
+    },
+    "gameId": "SCUS_972.77"
+  },
+  "disc": {
+    "path": "PS2/SCUS_972.77/SCUS_972.77_ICO.png",
+    "kind": "disc",
+    "bytes": 34162,
+    "width": 256,
+    "height": 256,
+    "sha256": "8a7e90717b0a1c12cef3ed802f092db24e912ed174927eec457ebe2887c8de96",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_972.77_ICO.png"
+    },
+    "gameId": "SCUS_972.77"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NCAA Gamebreaker 2004"
+}

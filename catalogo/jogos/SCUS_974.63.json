@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_974.63",
+  "cover": {
+    "path": "PS2/SCUS_974.63/SCUS_974.63_COV.png",
+    "kind": "cover",
+    "bytes": 93688,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f0e1e0103d204bc9f4712a78e4eca7eb656a18c79dda962889e926454cbc447",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97463.jpg"
+    },
+    "gameId": "SCUS_974.63"
+  },
+  "disc": {
+    "path": "PS2/SCUS_974.63/SCUS_974.63_ICO.png",
+    "kind": "disc",
+    "bytes": 28231,
+    "width": 256,
+    "height": 256,
+    "sha256": "7986895fe2f8cdf667a85395e49afb82027f9357be9fc4b066fdcdc9539b68b4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_974.63_ICO.png"
+    },
+    "gameId": "SCUS_974.63"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Tour Soccer 2006"
+}

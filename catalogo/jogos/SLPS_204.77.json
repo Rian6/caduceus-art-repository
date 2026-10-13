@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.77",
+  "cover": {
+    "path": "PS2/SLPS_204.77/SLPS_204.77_COV.png",
+    "kind": "cover",
+    "bytes": 69903,
+    "width": 192,
+    "height": 272,
+    "sha256": "cc83914b1b21824472b4668473f55c4b10d3fb3dee583508b3c3593b3f2459c4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20477.jpg"
+    },
+    "gameId": "SLPS_204.77"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fish Eyes 3 (Super Best Collection)"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLES_513.98",
+  "cover": {
+    "path": "PS2/SLES_513.98/SLES_513.98_COV.png",
+    "kind": "cover",
+    "bytes": 101429,
+    "width": 192,
+    "height": 272,
+    "sha256": "29e350b3b56a7b252cf46a0b98406abe8f1a72f607014dcf836ae42dae118dc7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51398.jpg"
+    },
+    "gameId": "SLES_513.98"
+  },
+  "disc": {
+    "path": "PS2/SLES_513.98/SLES_513.98_ICO.png",
+    "kind": "disc",
+    "bytes": 13051,
+    "width": 128,
+    "height": 128,
+    "sha256": "a468f2484ba1d633933d83f8ea69c067a51f6eb8ee6bb7a37827a88010ca7502",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_513.98_ICO.png"
+    },
+    "gameId": "SLES_513.98"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Championship Snooker 2003"
+}

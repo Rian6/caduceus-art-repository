@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.08",
+  "cover": {
+    "path": "PS2/SLPS_201.08/SLPS_201.08_COV.png",
+    "kind": "cover",
+    "bytes": 94919,
+    "width": 192,
+    "height": 272,
+    "sha256": "3fa8a5cf2f341e4dfb1c4b2cf113570678d983c3c365f4758dedda72f5a921da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20108.jpg"
+    },
+    "gameId": "SLPS_201.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Quake III - Revolution"
+}

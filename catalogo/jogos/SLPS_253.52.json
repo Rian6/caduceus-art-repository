@@ -1,0 +1,117 @@
+{
+  "id": "SLPS_253.52",
+  "cover": {
+    "path": "PS2/SLPS_253.52/SLPS_253.52_COV.png",
+    "kind": "cover",
+    "bytes": 103215,
+    "width": 192,
+    "height": 272,
+    "sha256": "6b05b3f11f32a886d7cf0123b1f0758c5bbcd6aaaec3e74765d02c85d371dd30",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25352.jpg"
+    },
+    "gameId": "SLPS_253.52"
+  },
+  "disc": {
+    "path": "PS2/SLPS_253.52/SLPS_253.52_ICO.png",
+    "kind": "disc",
+    "bytes": 10470,
+    "width": 128,
+    "height": 128,
+    "sha256": "f5f0b514a35230bb4c8337156152cf4fa1f99cf3631b0701fd671d0394a21fc4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_253.52_ICO.png"
+    },
+    "gameId": "SLPS_253.52"
+  },
+  "background": {
+    "path": "PS2/SLPS_253.52/SLPS_253.52_BG.png",
+    "kind": "background",
+    "bytes": 164927,
+    "width": 640,
+    "height": 480,
+    "sha256": "318b7155191d6bf6c497572201132911a3731c680804221011bbe41b47261d97",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_253.52/SLPS_253.52_BG_00.png"
+    },
+    "gameId": "SLPS_253.52"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_253.52/SLPS_253.52_BG.png",
+      "kind": "background",
+      "bytes": 164927,
+      "width": 640,
+      "height": 480,
+      "sha256": "318b7155191d6bf6c497572201132911a3731c680804221011bbe41b47261d97",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.52/SLPS_253.52_BG_00.png"
+      },
+      "gameId": "SLPS_253.52"
+    },
+    {
+      "path": "PS2/SLPS_253.52/SLPS_253.52_BG_01.png",
+      "kind": "background",
+      "bytes": 173453,
+      "width": 640,
+      "height": 480,
+      "sha256": "958c89dc10f66ee5309ccf383cc7570ed773535364519a787e4da611228e304f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.52/SLPS_253.52_BG_01.png"
+      },
+      "gameId": "SLPS_253.52"
+    },
+    {
+      "path": "PS2/SLPS_253.52/SLPS_253.52_BG_02.png",
+      "kind": "background",
+      "bytes": 190281,
+      "width": 640,
+      "height": 480,
+      "sha256": "86788dcc5ac4e432a34415c34273894a2aa60b8077fd1abb3f01603eaa1984fa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.52/SLPS_253.52_BG_02.png"
+      },
+      "gameId": "SLPS_253.52"
+    },
+    {
+      "path": "PS2/SLPS_253.52/SLPS_253.52_BG_03.png",
+      "kind": "background",
+      "bytes": 197364,
+      "width": 640,
+      "height": 480,
+      "sha256": "9c857cbd5b44ed697f566eecba9aae9c6d41b72ed313aa5b140192422a9a7d7b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.52/SLPS_253.52_BG_03.png"
+      },
+      "gameId": "SLPS_253.52"
+    },
+    {
+      "path": "PS2/SLPS_253.52/SLPS_253.52_BG_04.png",
+      "kind": "background",
+      "bytes": 193950,
+      "width": 640,
+      "height": 480,
+      "sha256": "b05b4ef28bab78a02b166113d3a25f69f6678e073c763baa39c8a1c5f14ea7ce",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_253.52/SLPS_253.52_BG_04.png"
+      },
+      "gameId": "SLPS_253.52"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Espgaluda"
+}

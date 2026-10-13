@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_208.57",
+  "cover": {
+    "path": "PS2/SLUS_208.57/SLUS_208.57_COV.png",
+    "kind": "cover",
+    "bytes": 89265,
+    "width": 192,
+    "height": 272,
+    "sha256": "3edbdc497653091df21f3bdabe431321993bcc96ccc23cd8694e74ef6f623993",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20857.jpg"
+    },
+    "gameId": "SLUS_208.57"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.57/SLUS_208.57_ICO.png",
+    "kind": "disc",
+    "bytes": 34343,
+    "width": 256,
+    "height": 256,
+    "sha256": "679ee67619e0d07882f0d690f0144988900402d8463ac7f4cd37f7645088ad7d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.57_ICO.png"
+    },
+    "gameId": "SLUS_208.57"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.57/SLUS_208.57_BG.png",
+    "kind": "background",
+    "bytes": 219018,
+    "width": 640,
+    "height": 480,
+    "sha256": "c0592bab768437b586e3574d5f4a3fa9b0921fe5e37e3d3fae9dd2651073f73d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.57/SLUS_208.57_BG_00.png"
+    },
+    "gameId": "SLUS_208.57"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.57/SLUS_208.57_BG.png",
+      "kind": "background",
+      "bytes": 219018,
+      "width": 640,
+      "height": 480,
+      "sha256": "c0592bab768437b586e3574d5f4a3fa9b0921fe5e37e3d3fae9dd2651073f73d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.57/SLUS_208.57_BG_00.png"
+      },
+      "gameId": "SLUS_208.57"
+    },
+    {
+      "path": "PS2/SLUS_208.57/SLUS_208.57_BG_01.png",
+      "kind": "background",
+      "bytes": 73435,
+      "width": 640,
+      "height": 480,
+      "sha256": "a24e133206c76945e69f8987c488aaa0f1450c684da232b90f7df198559ae7f6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.57/SLUS_208.57_BG_01.png"
+      },
+      "gameId": "SLUS_208.57"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fight Club"
+}

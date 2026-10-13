@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.48",
+  "cover": {
+    "path": "PS2/SLPM_654.48/SLPM_654.48_COV.png",
+    "kind": "cover",
+    "bytes": 91743,
+    "width": 192,
+    "height": 272,
+    "sha256": "c04bd4607704e00258f1805a9580db868618ebfeec5c13ede1241ad1f8b02249",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65448.jpg"
+    },
+    "gameId": "SLPM_654.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CAMBRIAN QTS - KASEKI NI NATTEMO"
+}

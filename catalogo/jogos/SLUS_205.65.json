@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_205.65",
+  "cover": {
+    "path": "PS2/SLUS_205.65/SLUS_205.65_COV.png",
+    "kind": "cover",
+    "bytes": 100203,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1154097126d2170506e18f7a6438c3cd38f1b6956f0a5ff542f491ed4c50cb0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20565.jpg"
+    },
+    "gameId": "SLUS_205.65"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.65/SLUS_205.65_ICO.png",
+    "kind": "disc",
+    "bytes": 33931,
+    "width": 256,
+    "height": 256,
+    "sha256": "e40b8d8ee6817f8de2dda5c24aabc01c260cc944d632b3725ce95548193252b7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.65_ICO.png"
+    },
+    "gameId": "SLUS_205.65"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.65/SLUS_205.65_BG.png",
+    "kind": "background",
+    "bytes": 267160,
+    "width": 640,
+    "height": 480,
+    "sha256": "709c15fb46dc8d64cac66d199201e10c945ded25f0e23c3733ee8ea69c19ffeb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.65/SLUS_205.65_BG_00.png"
+    },
+    "gameId": "SLUS_205.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.65/SLUS_205.65_BG.png",
+      "kind": "background",
+      "bytes": 267160,
+      "width": 640,
+      "height": 480,
+      "sha256": "709c15fb46dc8d64cac66d199201e10c945ded25f0e23c3733ee8ea69c19ffeb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.65/SLUS_205.65_BG_00.png"
+      },
+      "gameId": "SLUS_205.65"
+    },
+    {
+      "path": "PS2/SLUS_205.65/SLUS_205.65_BG_01.png",
+      "kind": "background",
+      "bytes": 149197,
+      "width": 640,
+      "height": 480,
+      "sha256": "898a00ee0c30ffcdc4772a30792b318d7fe5016aa7272503a06d5fea9177e20e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.65/SLUS_205.65_BG_01.png"
+      },
+      "gameId": "SLUS_205.65"
+    },
+    {
+      "path": "PS2/SLUS_205.65/SLUS_205.65_BG_02.png",
+      "kind": "background",
+      "bytes": 236077,
+      "width": 640,
+      "height": 480,
+      "sha256": "67bf029a5e9b1be85806c89b3d3039241ade5d7c3916e900a07024e2b8335ec9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.65/SLUS_205.65_BG_02.png"
+      },
+      "gameId": "SLUS_205.65"
+    },
+    {
+      "path": "PS2/SLUS_205.65/SLUS_205.65_BG_03.png",
+      "kind": "background",
+      "bytes": 189627,
+      "width": 640,
+      "height": 480,
+      "sha256": "0b3d93b97f65a19d6991c2d77cd8df632d487ac8fa0ba5e5399d63e5215f4e97",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.65/SLUS_205.65_BG_03.png"
+      },
+      "gameId": "SLUS_205.65"
+    },
+    {
+      "path": "PS2/SLUS_205.65/SLUS_205.65_BG_04.png",
+      "kind": "background",
+      "bytes": 168570,
+      "width": 640,
+      "height": 480,
+      "sha256": "e63d2a472a0a55c61aa8f2df8a6decfe0850518155f474e7f56dbbdaa78c7d21",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.65/SLUS_205.65_BG_04.png"
+      },
+      "gameId": "SLUS_205.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CHAMPIONS OF NORRATH"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_535.10",
+  "cover": {
+    "path": "PS2/SLES_535.10/SLES_535.10_COV.png",
+    "kind": "cover",
+    "bytes": 84179,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f2fe3f9fa5fd0bc7d5da5004acfc402fda31f195a5fe259a90af17ba84c91cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53510.jpg"
+    },
+    "gameId": "SLES_535.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Madden NFL '06"
+}

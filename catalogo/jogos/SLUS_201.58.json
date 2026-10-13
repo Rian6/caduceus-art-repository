@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_201.58",
+  "cover": {
+    "path": "PS2/SLUS_201.58/SLUS_201.58_COV.png",
+    "kind": "cover",
+    "bytes": 112472,
+    "width": 192,
+    "height": 272,
+    "sha256": "2abd8ae819021c8957e7d90873ac2f056b3eaf6a29c9688ccce1e654135b7e15",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20158.jpg"
+    },
+    "gameId": "SLUS_201.58"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.58/SLUS_201.58_ICO.png",
+    "kind": "disc",
+    "bytes": 33916,
+    "width": 256,
+    "height": 256,
+    "sha256": "e0b321f91cc5af2e878577b58c0511e44cf9f045b2119df41ba2b71c26ec8e34",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.58_ICO.png"
+    },
+    "gameId": "SLUS_201.58"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.58/SLUS_201.58_BG.png",
+    "kind": "background",
+    "bytes": 233926,
+    "width": 640,
+    "height": 480,
+    "sha256": "7bf4dc4e5025b8b1e1d817aacddf46e1eb48a1d82f828849eca7959843d06163",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.58/SLUS_201.58_BG_00.png"
+    },
+    "gameId": "SLUS_201.58"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.58/SLUS_201.58_BG.png",
+      "kind": "background",
+      "bytes": 233926,
+      "width": 640,
+      "height": 480,
+      "sha256": "7bf4dc4e5025b8b1e1d817aacddf46e1eb48a1d82f828849eca7959843d06163",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.58/SLUS_201.58_BG_00.png"
+      },
+      "gameId": "SLUS_201.58"
+    },
+    {
+      "path": "PS2/SLUS_201.58/SLUS_201.58_BG_01.png",
+      "kind": "background",
+      "bytes": 220109,
+      "width": 640,
+      "height": 480,
+      "sha256": "69049fd5072d1e12a5d1d9348e9fdac6516c756ffd82b6ebd6c8b0b628993eb6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.58/SLUS_201.58_BG_01.png"
+      },
+      "gameId": "SLUS_201.58"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Heroes of Might and Magic - Quest for the DragonBone Staff"
+}

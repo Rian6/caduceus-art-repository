@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_214.06",
+  "cover": {
+    "path": "PS2/SLUS_214.06/SLUS_214.06_COV.png",
+    "kind": "cover",
+    "bytes": 36063,
+    "width": 192,
+    "height": 272,
+    "sha256": "106e10f7f069dadebf46197210dd880635d02b22485aa45251be912f5b7a3802",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21406.jpg"
+    },
+    "gameId": "SLUS_214.06"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.06/SLUS_214.06_ICO.png",
+    "kind": "disc",
+    "bytes": 17677,
+    "width": 256,
+    "height": 256,
+    "sha256": "f6b227cefdf58c9641fa4190c69956db19ae007840a6a327281a348da5e61e97",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.06_ICO.png"
+    },
+    "gameId": "SLUS_214.06"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.06/SLUS_214.06_BG.png",
+    "kind": "background",
+    "bytes": 198748,
+    "width": 640,
+    "height": 480,
+    "sha256": "eaadcc103042d2acdd68ac6b028dcf1b2eb97873a96ac847fc53750900afec18",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.06/SLUS_214.06_BG_00.png"
+    },
+    "gameId": "SLUS_214.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.06/SLUS_214.06_BG.png",
+      "kind": "background",
+      "bytes": 198748,
+      "width": 640,
+      "height": 480,
+      "sha256": "eaadcc103042d2acdd68ac6b028dcf1b2eb97873a96ac847fc53750900afec18",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.06/SLUS_214.06_BG_00.png"
+      },
+      "gameId": "SLUS_214.06"
+    },
+    {
+      "path": "PS2/SLUS_214.06/SLUS_214.06_BG_01.png",
+      "kind": "background",
+      "bytes": 175132,
+      "width": 640,
+      "height": 480,
+      "sha256": "6225cfd233dcf3c3f02bd9921f86c7f157bea3f08c0cada9d06ea2a741bb7eed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.06/SLUS_214.06_BG_01.png"
+      },
+      "gameId": "SLUS_214.06"
+    },
+    {
+      "path": "PS2/SLUS_214.06/SLUS_214.06_BG_02.png",
+      "kind": "background",
+      "bytes": 18392,
+      "width": 640,
+      "height": 480,
+      "sha256": "93bb17cebbb6069474998b0a1426d36de38ea8ee5cd7e60331273e5d84e84c99",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.06/SLUS_214.06_BG_02.png"
+      },
+      "gameId": "SLUS_214.06"
+    },
+    {
+      "path": "PS2/SLUS_214.06/SLUS_214.06_BG_03.png",
+      "kind": "background",
+      "bytes": 227812,
+      "width": 640,
+      "height": 480,
+      "sha256": "46607f4b063a302f62631798da12bdf58e994f2faae69787c9fc9e47aef213c1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.06/SLUS_214.06_BG_03.png"
+      },
+      "gameId": "SLUS_214.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Godfather: The Game (Limited Edition)"
+}

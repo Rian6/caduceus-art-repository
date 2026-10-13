@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_212.05",
+  "cover": {
+    "path": "PS2/SLUS_212.05/SLUS_212.05_COV.png",
+    "kind": "cover",
+    "bytes": 95970,
+    "width": 192,
+    "height": 272,
+    "sha256": "9d6e9f11c28f41c19553c5dd0ff5d1a2e06825561196171e73ee5bfab044a2b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21205.jpg"
+    },
+    "gameId": "SLUS_212.05"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.05/SLUS_212.05_ICO.png",
+    "kind": "disc",
+    "bytes": 28086,
+    "width": 256,
+    "height": 256,
+    "sha256": "6552cfce25964301c05d2461803d01f4b6c6a45bd0d8613c7167952577f1848a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.05_ICO.png"
+    },
+    "gameId": "SLUS_212.05"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.05/SLUS_212.05_BG.png",
+    "kind": "background",
+    "bytes": 224245,
+    "width": 640,
+    "height": 480,
+    "sha256": "43773740b66452f96012655cb1fab3758ba91fdea7c73b726e9515ec3366506d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.05/SLUS_212.05_BG_00.png"
+    },
+    "gameId": "SLUS_212.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.05/SLUS_212.05_BG.png",
+      "kind": "background",
+      "bytes": 224245,
+      "width": 640,
+      "height": 480,
+      "sha256": "43773740b66452f96012655cb1fab3758ba91fdea7c73b726e9515ec3366506d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.05/SLUS_212.05_BG_00.png"
+      },
+      "gameId": "SLUS_212.05"
+    },
+    {
+      "path": "PS2/SLUS_212.05/SLUS_212.05_BG_01.png",
+      "kind": "background",
+      "bytes": 201768,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c954ebedb28fb0ae74a425e9a846bd7d604e8b32248b2618d0045ffd688a1a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.05/SLUS_212.05_BG_01.png"
+      },
+      "gameId": "SLUS_212.05"
+    },
+    {
+      "path": "PS2/SLUS_212.05/SLUS_212.05_BG_02.png",
+      "kind": "background",
+      "bytes": 156875,
+      "width": 640,
+      "height": 480,
+      "sha256": "a7ee3ae474e3c10ece1ec0293f89ec1278c3a114be4d8e44771dcc80c312777e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.05/SLUS_212.05_BG_02.png"
+      },
+      "gameId": "SLUS_212.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AEON FLUX"
+}

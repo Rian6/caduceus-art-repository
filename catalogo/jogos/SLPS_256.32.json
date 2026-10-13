@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_256.32",
+  "cover": {
+    "path": "PS2/SLPS_256.32/SLPS_256.32_COV.png",
+    "kind": "cover",
+    "bytes": 116647,
+    "width": 192,
+    "height": 272,
+    "sha256": "e9c6a89268b8dba7e868c7664cc37af0ca9cff764ae5c2e75a6e04637746b8bc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25632.jpg"
+    },
+    "gameId": "SLPS_256.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.097 - THE KOI NO ENGINE"
+}

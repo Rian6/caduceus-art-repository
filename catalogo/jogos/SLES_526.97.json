@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.97",
+  "cover": {
+    "path": "PS2/SLES_526.97/SLES_526.97_COV.png",
+    "kind": "cover",
+    "bytes": 50856,
+    "width": 192,
+    "height": 272,
+    "sha256": "5de69789f0b92cd1166bd14c0eb581335c6ddaad7f41dd7b65b2812a7b1db5da",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_526.97/SLES_526.97_COV.png"
+    },
+    "gameId": "SLES_526.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mánager de Liga 2005"
+}

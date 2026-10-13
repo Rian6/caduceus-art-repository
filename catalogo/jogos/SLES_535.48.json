@@ -1,0 +1,91 @@
+{
+  "id": "SLES_535.48",
+  "cover": {
+    "path": "PS2/SLES_535.48/SLES_535.48_COV.png",
+    "kind": "cover",
+    "bytes": 105062,
+    "width": 192,
+    "height": 272,
+    "sha256": "060eb70f117c26f94c367220e048a214abc7ce35e48df636a5db52373a974682",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53548.jpg"
+    },
+    "gameId": "SLES_535.48"
+  },
+  "disc": {
+    "path": "PS2/SLES_535.48/SLES_535.48_ICO.png",
+    "kind": "disc",
+    "bytes": 11407,
+    "width": 128,
+    "height": 128,
+    "sha256": "83851a2a3bdc21666880b195727df9ba364ffce5612577a5dc4cb0a58b249c6e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_535.48_ICO.png"
+    },
+    "gameId": "SLES_535.48"
+  },
+  "background": {
+    "path": "PS2/SLES_535.48/SLES_535.48_BG.png",
+    "kind": "background",
+    "bytes": 164752,
+    "width": 640,
+    "height": 480,
+    "sha256": "5941e97fe6db3c412b1dce45a051066d7a719b03b9166327b87edcb73ca2b5f9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.48/SLES_535.48_BG_00.png"
+    },
+    "gameId": "SLES_535.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.48/SLES_535.48_BG.png",
+      "kind": "background",
+      "bytes": 164752,
+      "width": 640,
+      "height": 480,
+      "sha256": "5941e97fe6db3c412b1dce45a051066d7a719b03b9166327b87edcb73ca2b5f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.48/SLES_535.48_BG_00.png"
+      },
+      "gameId": "SLES_535.48"
+    },
+    {
+      "path": "PS2/SLES_535.48/SLES_535.48_BG_01.png",
+      "kind": "background",
+      "bytes": 151325,
+      "width": 640,
+      "height": 480,
+      "sha256": "874f2dacea1b9867de2dacf95488b0ce577d88ca2f32befcd7ded8b4641220e5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.48/SLES_535.48_BG_01.png"
+      },
+      "gameId": "SLES_535.48"
+    },
+    {
+      "path": "PS2/SLES_535.48/SLES_535.48_BG_02.png",
+      "kind": "background",
+      "bytes": 172771,
+      "width": 640,
+      "height": 480,
+      "sha256": "2047faddadee5e6df42ce1bde8e32070382a517eeda3e3ff60d7a7128660d2d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.48/SLES_535.48_BG_02.png"
+      },
+      "gameId": "SLES_535.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gigawing Generations"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_550.39",
+  "cover": {
+    "path": "PS2/SLES_550.39/SLES_550.39_COV.png",
+    "kind": "cover",
+    "bytes": 80604,
+    "width": 192,
+    "height": 272,
+    "sha256": "a16705a3f152974b3dc0d9e763fd160bb9f97c2a65554f2ae70da18de506d32f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55039.jpg"
+    },
+    "gameId": "SLES_550.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_550.39/SLES_550.39_BG.png",
+    "kind": "background",
+    "bytes": 187955,
+    "width": 640,
+    "height": 480,
+    "sha256": "2be9e5c131b52e3f5a86870f286090d72771b03712282a1f506af2d253c457bc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.39/SLES_550.39_BG_00.png"
+    },
+    "gameId": "SLES_550.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.39/SLES_550.39_BG.png",
+      "kind": "background",
+      "bytes": 187955,
+      "width": 640,
+      "height": 480,
+      "sha256": "2be9e5c131b52e3f5a86870f286090d72771b03712282a1f506af2d253c457bc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.39/SLES_550.39_BG_00.png"
+      },
+      "gameId": "SLES_550.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rock Band"
+}

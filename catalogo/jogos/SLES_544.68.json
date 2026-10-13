@@ -1,0 +1,39 @@
+{
+  "id": "SLES_544.68",
+  "cover": {
+    "path": "PS2/SLES_544.68/SLES_544.68_COV.png",
+    "kind": "cover",
+    "bytes": 54206,
+    "width": 192,
+    "height": 272,
+    "sha256": "8c8749552156c4ae2504acc396bb7fecd6d3c280e10c745c03f8902acb74e190",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54468.jpg"
+    },
+    "gameId": "SLES_544.68"
+  },
+  "disc": {
+    "path": "PS2/SLES_544.68/SLES_544.68_ICO.png",
+    "kind": "disc",
+    "bytes": 10260,
+    "width": 128,
+    "height": 128,
+    "sha256": "5f1577435fb7606bf2f4d822bfb874e7164a1ca736f399dadcdacccc5e211649",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_544.68_ICO.png"
+    },
+    "gameId": "SLES_544.68"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Crazy Chicken X"
+}

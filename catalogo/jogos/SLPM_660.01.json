@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.01",
+  "cover": {
+    "path": "PS2/SLPM_660.01/SLPM_660.01_COV.png",
+    "kind": "cover",
+    "bytes": 109197,
+    "width": 192,
+    "height": 272,
+    "sha256": "e036866f96120ec78178ad9c2f1d515f30a3c220e89a64a70a9bc8acea7b7f6f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66001.jpg"
+    },
+    "gameId": "SLPM_660.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CHOCOLAT MAID CAFE CURIO"
+}

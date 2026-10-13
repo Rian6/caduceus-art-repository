@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_218.88",
+  "cover": {
+    "path": "PS2/SLUS_218.88/SLUS_218.88_COV.png",
+    "kind": "cover",
+    "bytes": 102065,
+    "width": 192,
+    "height": 272,
+    "sha256": "8ff1c1e845399730b17ce2657e9ee0250184ce6f9ad4e95116d931f0df1f7eca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21888.jpg"
+    },
+    "gameId": "SLUS_218.88"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.88/SLUS_218.88_ICO.png",
+    "kind": "disc",
+    "bytes": 33826,
+    "width": 256,
+    "height": 256,
+    "sha256": "479b1fe0aae8d01bd03cebacd75fbe22ef884438770bba2b37bfd66cf17d53ad",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.88_ICO.png"
+    },
+    "gameId": "SLUS_218.88"
+  },
+  "background": {
+    "path": "PS2/SLUS_218.88/SLUS_218.88_BG.png",
+    "kind": "background",
+    "bytes": 177252,
+    "width": 640,
+    "height": 480,
+    "sha256": "11ce8428c82d10231cefbbcebcad1d14fbc3164b2b57db7ab3d2b15a3bc8a032",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_218.88/SLUS_218.88_BG_00.png"
+    },
+    "gameId": "SLUS_218.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_218.88/SLUS_218.88_BG.png",
+      "kind": "background",
+      "bytes": 177252,
+      "width": 640,
+      "height": 480,
+      "sha256": "11ce8428c82d10231cefbbcebcad1d14fbc3164b2b57db7ab3d2b15a3bc8a032",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_218.88/SLUS_218.88_BG_00.png"
+      },
+      "gameId": "SLUS_218.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rock Band - Track Pack - Country"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.63",
+  "cover": {
+    "path": "PS2/SLPM_624.63/SLPM_624.63_COV.png",
+    "kind": "cover",
+    "bytes": 79750,
+    "width": 192,
+    "height": 272,
+    "sha256": "c380cc99fb58c36d98f5ef0894f2ad09abdb7ddb6337a142317a620d94a93393",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62463.jpg"
+    },
+    "gameId": "SLPM_624.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Loop Sequencer - Music Generator"
+}

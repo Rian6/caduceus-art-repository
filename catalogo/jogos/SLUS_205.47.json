@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_205.47",
+  "cover": {
+    "path": "PS2/SLUS_205.47/SLUS_205.47_COV.png",
+    "kind": "cover",
+    "bytes": 111156,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e0fd2a41f1ccb77d7737ea170c9a8edf47d5b576ce68c0298deb9365c1f652a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20547.jpg"
+    },
+    "gameId": "SLUS_205.47"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.47/SLUS_205.47_ICO.png",
+    "kind": "disc",
+    "bytes": 33095,
+    "width": 256,
+    "height": 256,
+    "sha256": "2c2f3e1f3f9f9358e947f1080d34e57b9aae139a0a51cbed34ea300c3bdd5872",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.47_ICO.png"
+    },
+    "gameId": "SLUS_205.47"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.47/SLUS_205.47_BG.png",
+    "kind": "background",
+    "bytes": 165174,
+    "width": 640,
+    "height": 480,
+    "sha256": "a240ed579c7d406ef54eaf391e8cf8a6599a7ef88a87d865c9023b8408669be3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.47/SLUS_205.47_BG_00.png"
+    },
+    "gameId": "SLUS_205.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.47/SLUS_205.47_BG.png",
+      "kind": "background",
+      "bytes": 165174,
+      "width": 640,
+      "height": 480,
+      "sha256": "a240ed579c7d406ef54eaf391e8cf8a6599a7ef88a87d865c9023b8408669be3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.47/SLUS_205.47_BG_00.png"
+      },
+      "gameId": "SLUS_205.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cubix Robots for Everyone: Showdown"
+}

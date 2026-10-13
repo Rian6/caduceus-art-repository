@@ -1,0 +1,77 @@
+{
+  "id": "SLES_551.48",
+  "cover": {
+    "path": "PS2/SLES_551.48/SLES_551.48_COV.png",
+    "kind": "cover",
+    "bytes": 85839,
+    "width": 192,
+    "height": 272,
+    "sha256": "82585bd9b2812c744df2c4295ca8df593bfb306c0d2927daca3909c126a5e46e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55148.jpg"
+    },
+    "gameId": "SLES_551.48"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_551.48/SLES_551.48_BG.png",
+    "kind": "background",
+    "bytes": 181987,
+    "width": 640,
+    "height": 480,
+    "sha256": "d096ff63eae6940cd3a06d6b578b756a47ebf401aa197b309eada02525b66c7d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_551.48/SLES_551.48_BG_00.png"
+    },
+    "gameId": "SLES_551.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_551.48/SLES_551.48_BG.png",
+      "kind": "background",
+      "bytes": 181987,
+      "width": 640,
+      "height": 480,
+      "sha256": "d096ff63eae6940cd3a06d6b578b756a47ebf401aa197b309eada02525b66c7d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.48/SLES_551.48_BG_00.png"
+      },
+      "gameId": "SLES_551.48"
+    },
+    {
+      "path": "PS2/SLES_551.48/SLES_551.48_BG_01.png",
+      "kind": "background",
+      "bytes": 149874,
+      "width": 640,
+      "height": 480,
+      "sha256": "eeb34b385b6972b0c2c388393fe14d7eb6d97bf332e567572efadb200acede4f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.48/SLES_551.48_BG_01.png"
+      },
+      "gameId": "SLES_551.48"
+    },
+    {
+      "path": "PS2/SLES_551.48/SLES_551.48_BG_02.png",
+      "kind": "background",
+      "bytes": 200767,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7895b2fff15948d2bbe9da1cd5c2051bd2192b38472de397f7f0d2ffce13598",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_551.48/SLES_551.48_BG_02.png"
+      },
+      "gameId": "SLES_551.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SBK-08 - Superbike World Championship"
+}

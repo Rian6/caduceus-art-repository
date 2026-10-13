@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.65",
+  "cover": {
+    "path": "PS2/SLPM_662.65/SLPM_662.65_COV.png",
+    "kind": "cover",
+    "bytes": 81303,
+    "width": 192,
+    "height": 272,
+    "sha256": "4443275d548c4e16d2474ae076ab5413105e9a3bf93e174858881ea0b398350d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66265.jpg"
+    },
+    "gameId": "SLPM_662.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Canvas 2 -Niji-Iro no Sketch"
+}

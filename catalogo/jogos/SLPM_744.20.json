@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_744.20",
+  "cover": {
+    "path": "PS2/SLPM_744.20/SLPM_744.20_COV.png",
+    "kind": "cover",
+    "bytes": 95515,
+    "width": 192,
+    "height": 272,
+    "sha256": "037bef808dc29dea3c382da7c3c245ad6f1d7d4cf84c6e602107d4c27ffe82c5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74420.jpg"
+    },
+    "gameId": "SLPM_744.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "INITIAL D SPECIAL STAGE [PLAYSTATION 2 THE BEST]"
+}

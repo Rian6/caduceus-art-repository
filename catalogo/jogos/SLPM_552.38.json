@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_552.38",
+  "cover": {
+    "path": "PS2/SLPM_552.38/SLPM_552.38_COV.png",
+    "kind": "cover",
+    "bytes": 98619,
+    "width": 192,
+    "height": 272,
+    "sha256": "bdffc67bb0de490603fdf872d046ccc5155b0d08d0eb4ed0bd8575ba26d98110",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55238.jpg"
+    },
+    "gameId": "SLPM_552.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FATE/UNLIMITED CODES [BEST PRICE]"
+}

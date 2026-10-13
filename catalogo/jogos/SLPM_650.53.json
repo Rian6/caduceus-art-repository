@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_650.53",
+  "cover": {
+    "path": "PS2/SLPM_650.53/SLPM_650.53_COV.png",
+    "kind": "cover",
+    "bytes": 85120,
+    "width": 192,
+    "height": 272,
+    "sha256": "b694eab6559233ea9f3822365a59a8cf1dbc8a35834f30863cc188a3b67c07b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65053.jpg"
+    },
+    "gameId": "SLPM_650.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_650.53/SLPM_650.53_BG.png",
+    "kind": "background",
+    "bytes": 218164,
+    "width": 640,
+    "height": 480,
+    "sha256": "50c81fa211168c8e4bd0036b735095f5c65574ce355628ecbc096489111f5c1a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_650.53/SLPM_650.53_BG_00.png"
+    },
+    "gameId": "SLPM_650.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_650.53/SLPM_650.53_BG.png",
+      "kind": "background",
+      "bytes": 218164,
+      "width": 640,
+      "height": 480,
+      "sha256": "50c81fa211168c8e4bd0036b735095f5c65574ce355628ecbc096489111f5c1a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_650.53/SLPM_650.53_BG_00.png"
+      },
+      "gameId": "SLPM_650.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHIN SANGOKU MUSOU 2"
+}

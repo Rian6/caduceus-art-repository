@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_300.04",
+  "cover": {
+    "path": "PS2/SCAJ_300.04/SCAJ_300.04_COV.png",
+    "kind": "cover",
+    "bytes": 87602,
+    "width": 192,
+    "height": 272,
+    "sha256": "2f20755a61c591317509412eacc18c65c4336cf1daa673c40c5c2bd795fd0559",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-30004.jpg"
+    },
+    "gameId": "SCAJ_300.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Waga Ryuu o Miyo - Pride of the Dragon Peace"
+}

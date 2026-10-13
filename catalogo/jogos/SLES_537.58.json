@@ -1,0 +1,25 @@
+{
+  "id": "SLES_537.58",
+  "cover": {
+    "path": "PS2/SLES_537.58/SLES_537.58_COV.png",
+    "kind": "cover",
+    "bytes": 83865,
+    "width": 192,
+    "height": 272,
+    "sha256": "a37ef83ec4ae144208a86922f2b6c3a69197f190241ff0e2e3d086b03f29cb49",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53758.jpg"
+    },
+    "gameId": "SLES_537.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sniper Elite"
+}

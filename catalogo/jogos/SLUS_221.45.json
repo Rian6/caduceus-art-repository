@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_221.45",
+  "cover": {
+    "path": "PS2/SLUS_221.45/SLUS_221.45_COV.png",
+    "kind": "cover",
+    "bytes": 57552,
+    "width": 192,
+    "height": 272,
+    "sha256": "ecda0c7017e3a9404153605909cb3b55989965209b9e2bfdeafe666adeb306a6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_221.45/SLUS_221.45_COV.png"
+    },
+    "gameId": "SLUS_221.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Suikoden Tactics"
+}

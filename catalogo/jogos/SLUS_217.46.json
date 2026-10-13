@@ -1,0 +1,169 @@
+{
+  "id": "SLUS_217.46",
+  "cover": {
+    "path": "PS2/SLUS_217.46/SLUS_217.46_COV.png",
+    "kind": "cover",
+    "bytes": 112331,
+    "width": 192,
+    "height": 272,
+    "sha256": "5ed3be086273e7c2419307e2ddf6b0860c9a3f5354ef5943eba17c61464d5bf3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21746.jpg"
+    },
+    "gameId": "SLUS_217.46"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.46/SLUS_217.46_ICO.png",
+    "kind": "disc",
+    "bytes": 31185,
+    "width": 256,
+    "height": 256,
+    "sha256": "353d15caaa7654dc148b293ba7c32b3bb68c9d884d1dc5caf00d47c2e90f255b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.46_ICO.png"
+    },
+    "gameId": "SLUS_217.46"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.46/SLUS_217.46_BG.png",
+    "kind": "background",
+    "bytes": 255377,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a8387c9f782b7d76fa22aefb8c73c51785ac2494a7d8e76e6378eff68c7b280",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.46/SLUS_217.46_BG_00.png"
+    },
+    "gameId": "SLUS_217.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.46/SLUS_217.46_BG.png",
+      "kind": "background",
+      "bytes": 255377,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a8387c9f782b7d76fa22aefb8c73c51785ac2494a7d8e76e6378eff68c7b280",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.46/SLUS_217.46_BG_00.png"
+      },
+      "gameId": "SLUS_217.46"
+    },
+    {
+      "path": "PS2/SLUS_217.46/SLUS_217.46_BG_01.png",
+      "kind": "background",
+      "bytes": 204556,
+      "width": 640,
+      "height": 480,
+      "sha256": "753e2e41e1d39367c77e2f7ee74fd09558f5bb1f4fbc3525e0fb0671cdf8db7b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.46/SLUS_217.46_BG_01.png"
+      },
+      "gameId": "SLUS_217.46"
+    },
+    {
+      "path": "PS2/SLUS_217.46/SLUS_217.46_BG_02.png",
+      "kind": "background",
+      "bytes": 232665,
+      "width": 640,
+      "height": 480,
+      "sha256": "c598d309b7120a05f2909245183e1ebacdd04e1154d07ed4b0b2ecbc7c315cb9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.46/SLUS_217.46_BG_02.png"
+      },
+      "gameId": "SLUS_217.46"
+    },
+    {
+      "path": "PS2/SLUS_217.46/SLUS_217.46_BG_03.png",
+      "kind": "background",
+      "bytes": 220236,
+      "width": 640,
+      "height": 480,
+      "sha256": "1af332e39d2672e2be8b7f85c3615ddcbb3ab458c82bccfb72ae721ad2f18823",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.46/SLUS_217.46_BG_03.png"
+      },
+      "gameId": "SLUS_217.46"
+    },
+    {
+      "path": "PS2/SLUS_217.46/SLUS_217.46_BG_04.png",
+      "kind": "background",
+      "bytes": 187830,
+      "width": 640,
+      "height": 480,
+      "sha256": "fafb9cc6bb9bb80f55d6fbd1c847ea0f8528393f31f3bf41bf50e8b493e33c2c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.46/SLUS_217.46_BG_04.png"
+      },
+      "gameId": "SLUS_217.46"
+    },
+    {
+      "path": "PS2/SLUS_217.46/SLUS_217.46_BG_05.png",
+      "kind": "background",
+      "bytes": 198013,
+      "width": 640,
+      "height": 480,
+      "sha256": "b46cf527cb06ab964ab486c5f04582de9bcd2d10d278786a14b30b668f8bae95",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.46/SLUS_217.46_BG_05.png"
+      },
+      "gameId": "SLUS_217.46"
+    },
+    {
+      "path": "PS2/SLUS_217.46/SLUS_217.46_BG_06.png",
+      "kind": "background",
+      "bytes": 258988,
+      "width": 640,
+      "height": 480,
+      "sha256": "574a6c444003dfb1214b384cce4e6c6cb93a5e51bf89f7c1f2b53d9ecf904983",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.46/SLUS_217.46_BG_06.png"
+      },
+      "gameId": "SLUS_217.46"
+    },
+    {
+      "path": "PS2/SLUS_217.46/SLUS_217.46_BG_07.png",
+      "kind": "background",
+      "bytes": 145132,
+      "width": 640,
+      "height": 480,
+      "sha256": "acb171b547f1cb019a5dbcea77ad5e0c69f3dae526284d3f41507aa375b50ea3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.46/SLUS_217.46_BG_07.png"
+      },
+      "gameId": "SLUS_217.46"
+    },
+    {
+      "path": "PS2/SLUS_217.46/SLUS_217.46_BG_08.png",
+      "kind": "background",
+      "bytes": 192038,
+      "width": 640,
+      "height": 480,
+      "sha256": "939c9557e3e1e45623aef6ba3b2de3264d4a2f1632196967d6705113afc8df23",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.46/SLUS_217.46_BG_08.png"
+      },
+      "gameId": "SLUS_217.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Call of Duty: World at War: Final Fronts"
+}

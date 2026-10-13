@@ -1,0 +1,65 @@
+{
+  "id": "SLES_538.21",
+  "cover": {
+    "path": "PS2/SLES_538.21/SLES_538.21_COV.png",
+    "kind": "cover",
+    "bytes": 90882,
+    "width": 192,
+    "height": 272,
+    "sha256": "d75554cc255248b4321ad85a2e102a2358b7f932d32e825498ca3b40e2e7bfbf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53821.jpg"
+    },
+    "gameId": "SLES_538.21"
+  },
+  "disc": {
+    "path": "PS2/SLES_538.21/SLES_538.21_ICO.png",
+    "kind": "disc",
+    "bytes": 10646,
+    "width": 128,
+    "height": 128,
+    "sha256": "a3e015789343f97e176a27d534107aa1531886193decc1cabd6a9eec59b00fa3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_538.21_ICO.png"
+    },
+    "gameId": "SLES_538.21"
+  },
+  "background": {
+    "path": "PS2/SLES_538.21/SLES_538.21_BG.png",
+    "kind": "background",
+    "bytes": 202814,
+    "width": 640,
+    "height": 480,
+    "sha256": "27422383c174221c735cd28f8a73c65e42d49f80bdbd8d78e478074845deee66",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_538.21/SLES_538.21_BG_00.png"
+    },
+    "gameId": "SLES_538.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_538.21/SLES_538.21_BG.png",
+      "kind": "background",
+      "bytes": 202814,
+      "width": 640,
+      "height": 480,
+      "sha256": "27422383c174221c735cd28f8a73c65e42d49f80bdbd8d78e478074845deee66",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_538.21/SLES_538.21_BG_00.png"
+      },
+      "gameId": "SLES_538.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Radio Helicopter II"
+}

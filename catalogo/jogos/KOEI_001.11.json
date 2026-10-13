@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_001.11",
+  "cover": {
+    "path": "PS2/KOEI_001.11/KOEI_001.11_COV.png",
+    "kind": "cover",
+    "bytes": 102949,
+    "width": 192,
+    "height": 272,
+    "sha256": "aec48ada24c2a2985245fb1ca38cde11c1c70004ac19ddb275e8260c307430ea",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/KOEI-00111.jpg"
+    },
+    "gameId": "KOEI_001.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE - HACHIYOUSHOU [TWIN PACK]"
+}

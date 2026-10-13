@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.30",
+  "cover": {
+    "path": "PS2/SLPM_653.30/SLPM_653.30_COV.png",
+    "kind": "cover",
+    "bytes": 99154,
+    "width": 192,
+    "height": 272,
+    "sha256": "db7256968f9dd8ba6925cbb5b2d6269d9e5713d7dae967133ad19013abc532fc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65330.jpg"
+    },
+    "gameId": "SLPM_653.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Akudaikan 2"
+}

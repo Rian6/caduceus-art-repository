@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_211.45",
+  "cover": {
+    "path": "PS2/SLUS_211.45/SLUS_211.45_COV.png",
+    "kind": "cover",
+    "bytes": 100089,
+    "width": 192,
+    "height": 272,
+    "sha256": "37c3fac06a079c734f3bde88c199f180319f0b97b8c4ece1aecab34fa052a95f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21145.jpg"
+    },
+    "gameId": "SLUS_211.45"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.45/SLUS_211.45_ICO.png",
+    "kind": "disc",
+    "bytes": 36678,
+    "width": 256,
+    "height": 256,
+    "sha256": "77abad7ed6e6ba726ddd42b513c84b38c1f4b98d0a5ad1efef1c5c004b8143af",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.45_ICO.png"
+    },
+    "gameId": "SLUS_211.45"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.45/SLUS_211.45_BG.png",
+    "kind": "background",
+    "bytes": 206862,
+    "width": 640,
+    "height": 480,
+    "sha256": "c9b8a9bfbd7d6acffbbf4363a24c04da541950e1ab5499808cdc556095294327",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.45/SLUS_211.45_BG_00.png"
+    },
+    "gameId": "SLUS_211.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.45/SLUS_211.45_BG.png",
+      "kind": "background",
+      "bytes": 206862,
+      "width": 640,
+      "height": 480,
+      "sha256": "c9b8a9bfbd7d6acffbbf4363a24c04da541950e1ab5499808cdc556095294327",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.45/SLUS_211.45_BG_00.png"
+      },
+      "gameId": "SLUS_211.45"
+    },
+    {
+      "path": "PS2/SLUS_211.45/SLUS_211.45_BG_01.png",
+      "kind": "background",
+      "bytes": 58523,
+      "width": 640,
+      "height": 480,
+      "sha256": "1381c20356b9915e8ed69abd52e738033a6031ff5a264a778d14549fb440e7f8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.45/SLUS_211.45_BG_01.png"
+      },
+      "gameId": "SLUS_211.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Full Spectrum Warrior"
+}

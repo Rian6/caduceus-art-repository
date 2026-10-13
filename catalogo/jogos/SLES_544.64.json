@@ -1,0 +1,91 @@
+{
+  "id": "SLES_544.64",
+  "cover": {
+    "path": "PS2/SLES_544.64/SLES_544.64_COV.png",
+    "kind": "cover",
+    "bytes": 99172,
+    "width": 192,
+    "height": 272,
+    "sha256": "2eecf70b5fbe3aca700ff0014043be154e649acc44ac63389e65eba4d1103e14",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54464.jpg"
+    },
+    "gameId": "SLES_544.64"
+  },
+  "disc": {
+    "path": "PS2/SLES_544.64/SLES_544.64_ICO.png",
+    "kind": "disc",
+    "bytes": 9398,
+    "width": 128,
+    "height": 128,
+    "sha256": "d365d59489615c428d7eb20415a906555a5937a1bfecfacc9233fbe8983aa2de",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_544.64_ICO.png"
+    },
+    "gameId": "SLES_544.64"
+  },
+  "background": {
+    "path": "PS2/SLES_544.64/SLES_544.64_BG.png",
+    "kind": "background",
+    "bytes": 202244,
+    "width": 640,
+    "height": 480,
+    "sha256": "6d07ad1c729cb9a38e2979ff1c7cda9630f5ac2d98ddca81e4ba5239b0b1b735",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.64/SLES_544.64_BG_00.png"
+    },
+    "gameId": "SLES_544.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.64/SLES_544.64_BG.png",
+      "kind": "background",
+      "bytes": 202244,
+      "width": 640,
+      "height": 480,
+      "sha256": "6d07ad1c729cb9a38e2979ff1c7cda9630f5ac2d98ddca81e4ba5239b0b1b735",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.64/SLES_544.64_BG_00.png"
+      },
+      "gameId": "SLES_544.64"
+    },
+    {
+      "path": "PS2/SLES_544.64/SLES_544.64_BG_01.png",
+      "kind": "background",
+      "bytes": 198975,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f96f769652b1a66eecbdec78786fb9d265acbc729374c71c686ccf650ebfb43",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.64/SLES_544.64_BG_01.png"
+      },
+      "gameId": "SLES_544.64"
+    },
+    {
+      "path": "PS2/SLES_544.64/SLES_544.64_BG_02.png",
+      "kind": "background",
+      "bytes": 210801,
+      "width": 640,
+      "height": 480,
+      "sha256": "dbbd2e1a96db8b91de730a7d42a9f5c0e992c15de5b0035e0a19bbbc8b28b3af",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.64/SLES_544.64_BG_02.png"
+      },
+      "gameId": "SLES_544.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Global Defence Force"
+}

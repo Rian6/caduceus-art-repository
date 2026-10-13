@@ -1,0 +1,25 @@
+{
+  "id": "SLES_546.32",
+  "cover": {
+    "path": "PS2/SLES_546.32/SLES_546.32_COV.png",
+    "kind": "cover",
+    "bytes": 103169,
+    "width": 192,
+    "height": 272,
+    "sha256": "d76b4c34901f507dc85e15c2d7c7eef7f6cd39676fea03fdff8d2ce604ebf8c5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54632.jpg"
+    },
+    "gameId": "SLES_546.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MTV Pimp My Ride"
+}

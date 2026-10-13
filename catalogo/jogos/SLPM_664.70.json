@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.70",
+  "cover": {
+    "path": "PS2/SLPM_664.70/SLPM_664.70_COV.png",
+    "kind": "cover",
+    "bytes": 89474,
+    "width": 192,
+    "height": 272,
+    "sha256": "74b8aaace3569ab37e6e7e029a0e93dbba40502ade573d1d018e0defd92a4b59",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66470.jpg"
+    },
+    "gameId": "SLPM_664.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LOVE*COM - PUNCH DE COURT"
+}

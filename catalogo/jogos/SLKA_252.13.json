@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_252.13",
+  "cover": {
+    "path": "PS2/SLKA_252.13/SLKA_252.13_COV.png",
+    "kind": "cover",
+    "bytes": 109471,
+    "width": 192,
+    "height": 272,
+    "sha256": "f0995520e4cab6e84e3d48fd630d213d69c888d66f68661449a578e8347c92ca",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25213.jpg"
+    },
+    "gameId": "SLKA_252.13"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_252.13/SLKA_252.13_BG.png",
+    "kind": "background",
+    "bytes": 116130,
+    "width": 640,
+    "height": 480,
+    "sha256": "6aad751c9dabc12805021ea4e91dcfafc81639627fbb794a74c8a643cc66ef8b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.13/SLKA_252.13_BG_00.png"
+    },
+    "gameId": "SLKA_252.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_252.13/SLKA_252.13_BG.png",
+      "kind": "background",
+      "bytes": 116130,
+      "width": 640,
+      "height": 480,
+      "sha256": "6aad751c9dabc12805021ea4e91dcfafc81639627fbb794a74c8a643cc66ef8b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_252.13/SLKA_252.13_BG_00.png"
+      },
+      "gameId": "SLKA_252.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Berserk: Millennium Falcon: Sennen Teikoku no Taka-hen: Seima Senki no Shou"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SLPM_666.28",
+  "cover": {
+    "path": "PS2/SLPM_666.28/SLPM_666.28_COV.png",
+    "kind": "cover",
+    "bytes": 88970,
+    "width": 192,
+    "height": 272,
+    "sha256": "275dfd916b4c8d2f5cbd06b766ebcc1dcb06a707238310e1384f107dc98d814e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66628.jpg"
+    },
+    "gameId": "SLPM_666.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_666.28/SLPM_666.28_BG.png",
+    "kind": "background",
+    "bytes": 142050,
+    "width": 640,
+    "height": 480,
+    "sha256": "3b056a0861acfb6eb1e8b3cf54eb5238e7af802d7e85a11892fb112e1e8607fd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_666.28/SLPM_666.28_BG_00.png"
+    },
+    "gameId": "SLPM_666.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_666.28/SLPM_666.28_BG.png",
+      "kind": "background",
+      "bytes": 142050,
+      "width": 640,
+      "height": 480,
+      "sha256": "3b056a0861acfb6eb1e8b3cf54eb5238e7af802d7e85a11892fb112e1e8607fd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.28/SLPM_666.28_BG_00.png"
+      },
+      "gameId": "SLPM_666.28"
+    },
+    {
+      "path": "PS2/SLPM_666.28/SLPM_666.28_BG_01.png",
+      "kind": "background",
+      "bytes": 90890,
+      "width": 640,
+      "height": 480,
+      "sha256": "87ed09dcbb3a9535fcd86dde05f52495fe17e42abfa86d93301ef36ac248db37",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.28/SLPM_666.28_BG_01.png"
+      },
+      "gameId": "SLPM_666.28"
+    },
+    {
+      "path": "PS2/SLPM_666.28/SLPM_666.28_BG_02.png",
+      "kind": "background",
+      "bytes": 99866,
+      "width": 640,
+      "height": 480,
+      "sha256": "eae0526cfe0740d2e9fdf2a3a262c06f3b2e7a8992fdce5451088d02759b6ea5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.28/SLPM_666.28_BG_02.png"
+      },
+      "gameId": "SLPM_666.28"
+    },
+    {
+      "path": "PS2/SLPM_666.28/SLPM_666.28_BG_03.png",
+      "kind": "background",
+      "bytes": 176642,
+      "width": 640,
+      "height": 480,
+      "sha256": "b2aafc40cd59c80c1f53e741f5f35963fb16c20c5526af0870955038b02a34a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.28/SLPM_666.28_BG_03.png"
+      },
+      "gameId": "SLPM_666.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OUTRUN 2 SP - SPECIAL TOURS [LIMITED EDITION]"
+}

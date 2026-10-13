@@ -1,0 +1,51 @@
+{
+  "id": "SLES_537.04",
+  "cover": {
+    "path": "PS2/SLES_537.04/SLES_537.04_COV.png",
+    "kind": "cover",
+    "bytes": 87978,
+    "width": 192,
+    "height": 272,
+    "sha256": "bfe3566cb2c2688b9aac2469ebe6bcff24c20ace065752d29fa5ecb83a2f67f0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53704.jpg"
+    },
+    "gameId": "SLES_537.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.04/SLES_537.04_BG.png",
+    "kind": "background",
+    "bytes": 201050,
+    "width": 640,
+    "height": 480,
+    "sha256": "d7129f3933e9d70cc8726896662bdb39b894f03433fbea274550149d5166eb8f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.04/SLES_537.04_BG_00.png"
+    },
+    "gameId": "SLES_537.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.04/SLES_537.04_BG.png",
+      "kind": "background",
+      "bytes": 201050,
+      "width": 640,
+      "height": 480,
+      "sha256": "d7129f3933e9d70cc8726896662bdb39b894f03433fbea274550149d5166eb8f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.04/SLES_537.04_BG_00.png"
+      },
+      "gameId": "SLES_537.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PETER JACKSON'S KING KONG - THE OFFICIAL GAME OF THE MOVIE"
+}

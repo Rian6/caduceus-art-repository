@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_624.60",
+  "cover": {
+    "path": "PS2/SLPM_624.60/SLPM_624.60_COV.png",
+    "kind": "cover",
+    "bytes": 71186,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f4a18efb6408520d839e47fe695aa8781937004a7ad87aff29e846f10a8db6c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62460.jpg"
+    },
+    "gameId": "SLPM_624.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAKONIWA TETSUDOU BLUETRAIN TOKKYUUHEN [SUPERLITE 2000 VOL. 17]"
+}

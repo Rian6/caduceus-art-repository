@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.08",
+  "cover": {
+    "path": "PS2/SLPS_250.08/SLPS_250.08_COV.png",
+    "kind": "cover",
+    "bytes": 85143,
+    "width": 192,
+    "height": 272,
+    "sha256": "f2ab5adfffb75c5361b8d598da3ec9acb772ef238cecdbe3d0657e3535f75fad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25008.jpg"
+    },
+    "gameId": "SLPS_250.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SORCEROUS STABBER ORPHEN"
+}

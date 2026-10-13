@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.87",
+  "cover": {
+    "path": "PS2/SLPM_666.87/SLPM_666.87_COV.png",
+    "kind": "cover",
+    "bytes": 103674,
+    "width": 192,
+    "height": 272,
+    "sha256": "fbf55072466651427aa30dd1583e87c811992e278d9e38180bd12321d275f516",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66687.jpg"
+    },
+    "gameId": "SLPM_666.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hiiro no Kakera - Ano Sora no Shita de"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_507.79",
+  "cover": {
+    "path": "PS2/SLES_507.79/SLES_507.79_COV.png",
+    "kind": "cover",
+    "bytes": 100002,
+    "width": 192,
+    "height": 272,
+    "sha256": "00dab4d5c6806cafb3d36d769a47f28c510ad1e019b9b1f6f9e605dcf5edaf3f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50779.jpg"
+    },
+    "gameId": "SLES_507.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN NBA 2Night 2002"
+}

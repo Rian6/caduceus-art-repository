@@ -1,0 +1,116 @@
+{
+  "id": "SLAJ_250.60",
+  "cover": {
+    "path": "PS2/SLAJ_250.60/SLAJ_250.60_COV.png",
+    "kind": "cover",
+    "bytes": 99909,
+    "width": 192,
+    "height": 272,
+    "sha256": "2cffcef5be0d395fb70574e65d769971a2053b84f69d1d41308203474d4de9e6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25060.jpg"
+    },
+    "gameId": "SLAJ_250.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG.png",
+    "kind": "background",
+    "bytes": 193048,
+    "width": 640,
+    "height": 480,
+    "sha256": "90b4956c5dac18396aae1ef26b8145586e563630678f5414a09908b0d19c640b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG_00.png"
+    },
+    "gameId": "SLAJ_250.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG.png",
+      "kind": "background",
+      "bytes": 193048,
+      "width": 640,
+      "height": 480,
+      "sha256": "90b4956c5dac18396aae1ef26b8145586e563630678f5414a09908b0d19c640b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG_00.png"
+      },
+      "gameId": "SLAJ_250.60"
+    },
+    {
+      "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG_01.png",
+      "kind": "background",
+      "bytes": 180711,
+      "width": 640,
+      "height": 480,
+      "sha256": "8421d4aef7dde50d03af2160fe19a541b1c3a494c1092f6bc517c7791f67caa9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG_01.png"
+      },
+      "gameId": "SLAJ_250.60"
+    },
+    {
+      "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG_02.png",
+      "kind": "background",
+      "bytes": 184725,
+      "width": 640,
+      "height": 480,
+      "sha256": "bb68ba75f5dea68bd7b731369bb7c4cc7a6f9b6f80434b440ee50d66da459d03",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG_02.png"
+      },
+      "gameId": "SLAJ_250.60"
+    },
+    {
+      "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG_03.png",
+      "kind": "background",
+      "bytes": 183888,
+      "width": 640,
+      "height": 480,
+      "sha256": "416c082d7367c742f4ed24a7a1097495d35c8662c1df01ab182606da5b47538a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG_03.png"
+      },
+      "gameId": "SLAJ_250.60"
+    },
+    {
+      "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG_04.png",
+      "kind": "background",
+      "bytes": 178237,
+      "width": 640,
+      "height": 480,
+      "sha256": "9141b91557c405612b09a78802de370634e82b9fc4895cca7a2f15f2ef653d4f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG_04.png"
+      },
+      "gameId": "SLAJ_250.60"
+    },
+    {
+      "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG_05.png",
+      "kind": "background",
+      "bytes": 217511,
+      "width": 640,
+      "height": 480,
+      "sha256": "4a06453af8f5a56fe6d3604e93c3cc72105dfda39d82eb73c7150fdc7b7c4072",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLAJ_250.60/SLAJ_250.60_BG_05.png"
+      },
+      "gameId": "SLAJ_250.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Juuouki: Project Altered Beast"
+}

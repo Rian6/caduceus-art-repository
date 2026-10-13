@@ -1,0 +1,65 @@
+{
+  "id": "SLES_510.56",
+  "cover": {
+    "path": "PS2/SLES_510.56/SLES_510.56_COV.png",
+    "kind": "cover",
+    "bytes": 84611,
+    "width": 192,
+    "height": 272,
+    "sha256": "29e0593f69c0da5b10f4eee7ba49f3ec7dad1d2c6c9bf5a9445ef99dc63caa8e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51056.jpg"
+    },
+    "gameId": "SLES_510.56"
+  },
+  "disc": {
+    "path": "PS2/SLES_510.56/SLES_510.56_ICO.png",
+    "kind": "disc",
+    "bytes": 9058,
+    "width": 128,
+    "height": 128,
+    "sha256": "a3f94899661c0f57742aa49575c00e7725960aa6e01513fcfd5bcd2b77117505",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_510.56_ICO.png"
+    },
+    "gameId": "SLES_510.56"
+  },
+  "background": {
+    "path": "PS2/SLES_510.56/SLES_510.56_BG.png",
+    "kind": "background",
+    "bytes": 186433,
+    "width": 640,
+    "height": 480,
+    "sha256": "2fdf974e2419746db1da149982bdb617742346017e7e0cf747b0716b41181cc2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_510.56/SLES_510.56_BG_00.png"
+    },
+    "gameId": "SLES_510.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_510.56/SLES_510.56_BG.png",
+      "kind": "background",
+      "bytes": 186433,
+      "width": 640,
+      "height": 480,
+      "sha256": "2fdf974e2419746db1da149982bdb617742346017e7e0cf747b0716b41181cc2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_510.56/SLES_510.56_BG_00.png"
+      },
+      "gameId": "SLES_510.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fighting Fury"
+}

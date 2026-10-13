@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.97",
+  "cover": {
+    "path": "PS2/SLPM_654.97/SLPM_654.97_COV.png",
+    "kind": "cover",
+    "bytes": 61437,
+    "width": 192,
+    "height": 272,
+    "sha256": "68ddc772ed1f2516c19f3e586d96e239c23c1982e2bcc75eff87925e34941d60",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65497.jpg"
+    },
+    "gameId": "SLPM_654.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 7 International (Adidas Premium Package)"
+}

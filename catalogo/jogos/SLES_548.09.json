@@ -1,0 +1,39 @@
+{
+  "id": "SLES_548.09",
+  "cover": {
+    "path": "PS2/SLES_548.09/SLES_548.09_COV.png",
+    "kind": "cover",
+    "bytes": 86400,
+    "width": 192,
+    "height": 272,
+    "sha256": "fbb736c87e4a3e8cf5871435fdd14bd8a087a094beb62aa2a768c2c089a8943c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54809.jpg"
+    },
+    "gameId": "SLES_548.09"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.09/SLES_548.09_ICO.png",
+    "kind": "disc",
+    "bytes": 11166,
+    "width": 128,
+    "height": 128,
+    "sha256": "050a42843df9f53b63af878d0d843b8f2d0f1efcbce935d9aae71b9642af51c4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.09_ICO.png"
+    },
+    "gameId": "SLES_548.09"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Charlotte's Web"
+}

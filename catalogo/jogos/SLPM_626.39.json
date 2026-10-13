@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.39",
+  "cover": {
+    "path": "PS2/SLPM_626.39/SLPM_626.39_COV.png",
+    "kind": "cover",
+    "bytes": 98643,
+    "width": 192,
+    "height": 272,
+    "sha256": "c0647559d295e8836b7bd1cf9c808550da519c618e1d3bbd79a591c309e67db6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62639.jpg"
+    },
+    "gameId": "SLPM_626.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mahjong Taikai III (Koei Selection)"
+}

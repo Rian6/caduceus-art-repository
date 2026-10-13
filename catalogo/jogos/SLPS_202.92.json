@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.92",
+  "cover": {
+    "path": "PS2/SLPS_202.92/SLPS_202.92_COV.png",
+    "kind": "cover",
+    "bytes": 93666,
+    "width": 192,
+    "height": 272,
+    "sha256": "115ff033be3766110e8d064c33c3288ae6147ac36e388b5fc3926ee39f686a92",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20292.jpg"
+    },
+    "gameId": "SLPS_202.92"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JISSEN PACHI-SLOT HISSHOUHOU! SAVANNA PARK DX"
+}

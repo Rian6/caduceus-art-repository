@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_209.97",
+  "cover": {
+    "path": "PS2/SLUS_209.97/SLUS_209.97_COV.png",
+    "kind": "cover",
+    "bytes": 102970,
+    "width": 192,
+    "height": 272,
+    "sha256": "d56aebd5d56477bbfcf5a02ef69fe97e71394e1b23106bd4d1691c1b44aee4a1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20997.jpg"
+    },
+    "gameId": "SLUS_209.97"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.97/SLUS_209.97_ICO.png",
+    "kind": "disc",
+    "bytes": 31387,
+    "width": 256,
+    "height": 256,
+    "sha256": "3cf09e3f530bb52d061bd5120237395e1dee1251afc73e78410448a8c7f04d10",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.97_ICO.png"
+    },
+    "gameId": "SLUS_209.97"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.97/SLUS_209.97_BG.png",
+    "kind": "background",
+    "bytes": 152541,
+    "width": 640,
+    "height": 480,
+    "sha256": "512b16285527ef01b5bcf627a23a4fd36f7e5872c4aa4cf2e475d69f34c8253b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.97/SLUS_209.97_BG_00.png"
+    },
+    "gameId": "SLUS_209.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.97/SLUS_209.97_BG.png",
+      "kind": "background",
+      "bytes": 152541,
+      "width": 640,
+      "height": 480,
+      "sha256": "512b16285527ef01b5bcf627a23a4fd36f7e5872c4aa4cf2e475d69f34c8253b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.97/SLUS_209.97_BG_00.png"
+      },
+      "gameId": "SLUS_209.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Midway Arcade Treasures 2"
+}

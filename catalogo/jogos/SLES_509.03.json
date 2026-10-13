@@ -1,0 +1,39 @@
+{
+  "id": "SLES_509.03",
+  "cover": {
+    "path": "PS2/SLES_509.03/SLES_509.03_COV.png",
+    "kind": "cover",
+    "bytes": 78491,
+    "width": 192,
+    "height": 272,
+    "sha256": "dc028ab752ba3c5cc8ca47fa50dca13e58fc284a8929c7817dd79fa540f7dd49",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50903.jpg"
+    },
+    "gameId": "SLES_509.03"
+  },
+  "disc": {
+    "path": "PS2/SLES_509.03/SLES_509.03_ICO.png",
+    "kind": "disc",
+    "bytes": 10641,
+    "width": 128,
+    "height": 128,
+    "sha256": "e9de43c729a442a2e4177eb468d280db3ef1ad2afd6ca1961112b7a9aa317045",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_509.03_ICO.png"
+    },
+    "gameId": "SLES_509.03"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mega Race 3"
+}

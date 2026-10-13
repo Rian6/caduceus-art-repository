@@ -1,0 +1,64 @@
+{
+  "id": "SLES_529.43",
+  "cover": {
+    "path": "PS2/SLES_529.43/SLES_529.43_COV.png",
+    "kind": "cover",
+    "bytes": 84070,
+    "width": 192,
+    "height": 272,
+    "sha256": "4ac6d45d3c0cb3e87c2c71f8284ae0720655fd804a6aef7e3a54354821919356",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52943.jpg"
+    },
+    "gameId": "SLES_529.43"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_529.43/SLES_529.43_BG.png",
+    "kind": "background",
+    "bytes": 169377,
+    "width": 640,
+    "height": 480,
+    "sha256": "cdaee0d2ac9298699a0a81defd63aa1dd97ce3dc2f052a432fee1f19ece282ac",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_529.43/SLES_529.43_BG_00.png"
+    },
+    "gameId": "SLES_529.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_529.43/SLES_529.43_BG.png",
+      "kind": "background",
+      "bytes": 169377,
+      "width": 640,
+      "height": 480,
+      "sha256": "cdaee0d2ac9298699a0a81defd63aa1dd97ce3dc2f052a432fee1f19ece282ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.43/SLES_529.43_BG_00.png"
+      },
+      "gameId": "SLES_529.43"
+    },
+    {
+      "path": "PS2/SLES_529.43/SLES_529.43_BG_01.png",
+      "kind": "background",
+      "bytes": 157380,
+      "width": 640,
+      "height": 480,
+      "sha256": "f376aa228569d88bbc2becbd3869e93a48947d3425eb208c6f596b8d8f85ab65",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_529.43/SLES_529.43_BG_01.png"
+      },
+      "gameId": "SLES_529.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN NFL 2K5"
+}

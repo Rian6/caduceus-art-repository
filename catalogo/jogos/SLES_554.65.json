@@ -1,0 +1,39 @@
+{
+  "id": "SLES_554.65",
+  "cover": {
+    "path": "PS2/SLES_554.65/SLES_554.65_COV.png",
+    "kind": "cover",
+    "bytes": 79299,
+    "width": 192,
+    "height": 272,
+    "sha256": "281014e375ced7893c31df4572ef6fce87cb063d443b6c782b72f596314ca430",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55465.jpg"
+    },
+    "gameId": "SLES_554.65"
+  },
+  "disc": {
+    "path": "PS2/SLES_554.65/SLES_554.65_ICO.png",
+    "kind": "disc",
+    "bytes": 10584,
+    "width": 128,
+    "height": 128,
+    "sha256": "832391ffeab81512dd61f813af9a91596a16be5699c98b041ab2474c2a7a2926",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_554.65_ICO.png"
+    },
+    "gameId": "SLES_554.65"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Real Madrid: The Game"
+}

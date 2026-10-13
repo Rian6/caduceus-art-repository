@@ -1,0 +1,51 @@
+{
+  "id": "SCES_505.95",
+  "cover": {
+    "path": "PS2/SCES_505.95/SCES_505.95_COV.png",
+    "kind": "cover",
+    "bytes": 75382,
+    "width": 192,
+    "height": 272,
+    "sha256": "b1cea2df8327c81be6b605d5c50959c6a03ccc02c91017e60d4688cc7379c1c8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50595.jpg"
+    },
+    "gameId": "SCES_505.95"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_505.95/SCES_505.95_BG.png",
+    "kind": "background",
+    "bytes": 166071,
+    "width": 640,
+    "height": 480,
+    "sha256": "33e38a9d5034086b97ed2e3692a1cb546d804c22387a80098146a005c47a0195",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_505.95/SCES_505.95_BG_00.png"
+    },
+    "gameId": "SCES_505.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_505.95/SCES_505.95_BG.png",
+      "kind": "background",
+      "bytes": 166071,
+      "width": 640,
+      "height": 480,
+      "sha256": "33e38a9d5034086b97ed2e3692a1cb546d804c22387a80098146a005c47a0195",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_505.95/SCES_505.95_BG_00.png"
+      },
+      "gameId": "SCES_505.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar Monsters, Inc.: Scare Island"
+}

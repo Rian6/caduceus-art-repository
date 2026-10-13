@@ -1,0 +1,51 @@
+{
+  "id": "SLES_531.07",
+  "cover": {
+    "path": "PS2/SLES_531.07/SLES_531.07_COV.png",
+    "kind": "cover",
+    "bytes": 104887,
+    "width": 192,
+    "height": 272,
+    "sha256": "1041421a2a102385f631501e986dd3f101717864918fdc26a05ea18fad68a5ac",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53107.jpg"
+    },
+    "gameId": "SLES_531.07"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_531.07/SLES_531.07_BG.png",
+    "kind": "background",
+    "bytes": 220942,
+    "width": 640,
+    "height": 480,
+    "sha256": "9a222865a02772ec848e08256bfa8a184c5b73aace147ec76fe03d04d08fbf54",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_531.07/SLES_531.07_BG_00.png"
+    },
+    "gameId": "SLES_531.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_531.07/SLES_531.07_BG.png",
+      "kind": "background",
+      "bytes": 220942,
+      "width": 640,
+      "height": 480,
+      "sha256": "9a222865a02772ec848e08256bfa8a184c5b73aace147ec76fe03d04d08fbf54",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_531.07/SLES_531.07_BG_00.png"
+      },
+      "gameId": "SLES_531.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cabela's Big Game Hunter 2005"
+}

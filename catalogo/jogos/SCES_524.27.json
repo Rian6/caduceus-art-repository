@@ -1,0 +1,25 @@
+{
+  "id": "SCES_524.27",
+  "cover": {
+    "path": "PS2/SCES_524.27/SCES_524.27_COV.png",
+    "kind": "cover",
+    "bytes": 50577,
+    "width": 192,
+    "height": 272,
+    "sha256": "0071d9d7dc1ca540a06b04bfe3506f0476b3af939c90c4ada70a3ed956ef3d7e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_524.27/SCES_524.27_COV.png"
+    },
+    "gameId": "SCES_524.27"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "This is Football 2005"
+}

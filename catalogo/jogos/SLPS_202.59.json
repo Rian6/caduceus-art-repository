@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.59",
+  "cover": {
+    "path": "PS2/SLPS_202.59/SLPS_202.59_COV.png",
+    "kind": "cover",
+    "bytes": 117799,
+    "width": 192,
+    "height": 272,
+    "sha256": "28baa1bda325a6a8a8dc4a70e8c9c5062c6ada0879cd5f290b7b48e1662b76a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20259.jpg"
+    },
+    "gameId": "SLPS_202.59"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KOTOBA NO PUZZLE - MOJIPITTAN"
+}

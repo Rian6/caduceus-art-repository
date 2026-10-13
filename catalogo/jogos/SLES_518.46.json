@@ -1,0 +1,25 @@
+{
+  "id": "SLES_518.46",
+  "cover": {
+    "path": "PS2/SLES_518.46/SLES_518.46_COV.png",
+    "kind": "cover",
+    "bytes": 106127,
+    "width": 192,
+    "height": 272,
+    "sha256": "323bfcadf2604ef7f3c3b017d6b109278535236a9841e5aa6443e043dbb5f366",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51846.jpg"
+    },
+    "gameId": "SLES_518.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Deutschland sucht den Superstar"
+}

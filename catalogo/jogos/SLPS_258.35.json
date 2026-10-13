@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.35",
+  "cover": {
+    "path": "PS2/SLPS_258.35/SLPS_258.35_COV.png",
+    "kind": "cover",
+    "bytes": 108816,
+    "width": 192,
+    "height": 272,
+    "sha256": "d15c5acae6a371b57b744667c3e6cc31900a588e243c95792f61d50550ee10ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25835.jpg"
+    },
+    "gameId": "SLPS_258.35"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Super Robot Taisen Original Generation Gaiden (Limited Collection Figure Box)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.32",
+  "cover": {
+    "path": "PS2/SLPS_253.32/SLPS_253.32_COV.png",
+    "kind": "cover",
+    "bytes": 89325,
+    "width": 192,
+    "height": 272,
+    "sha256": "ef243c5011f1221343d9b7ab2791fc19443f6781aba8efb2bd1dd53b11e42459",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25332.jpg"
+    },
+    "gameId": "SLPS_253.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Snow (Limited Edition)"
+}

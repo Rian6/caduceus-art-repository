@@ -1,0 +1,64 @@
+{
+  "id": "SLES_515.81",
+  "cover": {
+    "path": "PS2/SLES_515.81/SLES_515.81_COV.png",
+    "kind": "cover",
+    "bytes": 92558,
+    "width": 192,
+    "height": 272,
+    "sha256": "e7896311a98e0bfab13dfa1827562842565d5663b5e7b61e778d0715d77e2de0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51581.jpg"
+    },
+    "gameId": "SLES_515.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_515.81/SLES_515.81_BG.png",
+    "kind": "background",
+    "bytes": 208326,
+    "width": 640,
+    "height": 480,
+    "sha256": "7695147a10116d589a95e125cdc7f438b3d70ea55e9398c25827163a49766db2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_515.81/SLES_515.81_BG_00.png"
+    },
+    "gameId": "SLES_515.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_515.81/SLES_515.81_BG.png",
+      "kind": "background",
+      "bytes": 208326,
+      "width": 640,
+      "height": 480,
+      "sha256": "7695147a10116d589a95e125cdc7f438b3d70ea55e9398c25827163a49766db2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.81/SLES_515.81_BG_00.png"
+      },
+      "gameId": "SLES_515.81"
+    },
+    {
+      "path": "PS2/SLES_515.81/SLES_515.81_BG_01.png",
+      "kind": "background",
+      "bytes": 167540,
+      "width": 640,
+      "height": 480,
+      "sha256": "a65b0b0ebb038f71ee6320d1d1d5eedc1015c75cd00fa926247ede67e4207ec4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.81/SLES_515.81_BG_01.png"
+      },
+      "gameId": "SLES_515.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEAD TO RIGHTS"
+}

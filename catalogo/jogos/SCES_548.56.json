@@ -1,0 +1,51 @@
+{
+  "id": "SCES_548.56",
+  "cover": {
+    "path": "PS2/SCES_548.56/SCES_548.56_COV.png",
+    "kind": "cover",
+    "bytes": 64936,
+    "width": 192,
+    "height": 272,
+    "sha256": "2fe8e872ade34eaf60a94369d5d11e9dc65c83320026d5807a03da302e32d7d5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_548.56/SCES_548.56_COV.png"
+    },
+    "gameId": "SCES_548.56"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_548.56/SCES_548.56_BG.png",
+    "kind": "background",
+    "bytes": 162027,
+    "width": 640,
+    "height": 480,
+    "sha256": "3c4930e8efe77020ae5c24553bfbae652894e1f661562f122138a7c5980821fb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_548.56/SCES_548.56_BG_00.png"
+    },
+    "gameId": "SCES_548.56"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_548.56/SCES_548.56_BG.png",
+      "kind": "background",
+      "bytes": 162027,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c4930e8efe77020ae5c24553bfbae652894e1f661562f122138a7c5980821fb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_548.56/SCES_548.56_BG_00.png"
+      },
+      "gameId": "SCES_548.56"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Hollywood Quiz"
+}

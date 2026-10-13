@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.84",
+  "cover": {
+    "path": "PS2/SLPS_204.84/SLPS_204.84_COV.png",
+    "kind": "cover",
+    "bytes": 112109,
+    "width": 192,
+    "height": 272,
+    "sha256": "45820fa16685643927660d9f341b8afa7007c7c47d431f5ed960ce327915fe58",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20484.jpg"
+    },
+    "gameId": "SLPS_204.84"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 ULTIMATE SERIES VOL.34 - SAKIGAKE!! OTOKOJUKU"
+}

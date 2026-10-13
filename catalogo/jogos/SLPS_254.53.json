@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.53",
+  "cover": {
+    "path": "PS2/SLPS_254.53/SLPS_254.53_COV.png",
+    "kind": "cover",
+    "bytes": 102442,
+    "width": 192,
+    "height": 272,
+    "sha256": "08e603814495fac90e91a588f287190fe63963255663cb529b2b6f8155007f97",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25453.jpg"
+    },
+    "gameId": "SLPS_254.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DIGIMON WORLD X"
+}

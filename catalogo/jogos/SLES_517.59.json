@@ -1,0 +1,77 @@
+{
+  "id": "SLES_517.59",
+  "cover": {
+    "path": "PS2/SLES_517.59/SLES_517.59_COV.png",
+    "kind": "cover",
+    "bytes": 100351,
+    "width": 192,
+    "height": 272,
+    "sha256": "c0d84656ccad9f0f16103fdbd4800b6f547d4e0c36ccd80be332af97f303a313",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51759.jpg"
+    },
+    "gameId": "SLES_517.59"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_517.59/SLES_517.59_BG.png",
+    "kind": "background",
+    "bytes": 216082,
+    "width": 640,
+    "height": 480,
+    "sha256": "a40e6e396b211e9efdeaed3f9cc9c4dc7aa9c143655dba74e9d5594a5dd32e64",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.59/SLES_517.59_BG_00.png"
+    },
+    "gameId": "SLES_517.59"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.59/SLES_517.59_BG.png",
+      "kind": "background",
+      "bytes": 216082,
+      "width": 640,
+      "height": 480,
+      "sha256": "a40e6e396b211e9efdeaed3f9cc9c4dc7aa9c143655dba74e9d5594a5dd32e64",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.59/SLES_517.59_BG_00.png"
+      },
+      "gameId": "SLES_517.59"
+    },
+    {
+      "path": "PS2/SLES_517.59/SLES_517.59_BG_01.png",
+      "kind": "background",
+      "bytes": 189522,
+      "width": 640,
+      "height": 480,
+      "sha256": "adb2fe3ac35380c76d73e7402e1c8f2f835b11bbdbccabe515c8e07ec29ac8da",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.59/SLES_517.59_BG_01.png"
+      },
+      "gameId": "SLES_517.59"
+    },
+    {
+      "path": "PS2/SLES_517.59/SLES_517.59_BG_02.png",
+      "kind": "background",
+      "bytes": 155592,
+      "width": 640,
+      "height": 480,
+      "sha256": "7ba150431e05d6cb1fed4c3599c6ad827d2534e7543551abacf21bab5284ba70",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.59/SLES_517.59_BG_02.png"
+      },
+      "gameId": "SLES_517.59"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Maximo vs Army of Zin"
+}

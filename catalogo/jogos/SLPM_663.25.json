@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_663.25",
+  "cover": {
+    "path": "PS2/SLPM_663.25/SLPM_663.25_COV.png",
+    "kind": "cover",
+    "bytes": 104208,
+    "width": 192,
+    "height": 272,
+    "sha256": "c76ab2de8f10888e3b617f90de463f78dc760a76d35e7eefe7a2f91f59c11d05",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66325.jpg"
+    },
+    "gameId": "SLPM_663.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Castlevania (Konami Dendou Collection)"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLES_521.22",
+  "cover": {
+    "path": "PS2/SLES_521.22/SLES_521.22_COV.png",
+    "kind": "cover",
+    "bytes": 111895,
+    "width": 192,
+    "height": 272,
+    "sha256": "1d07469ae17d1eaf4f11ca3b4c084b3171e7f4c70df7a1e8466d92782492ed64",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52122.jpg"
+    },
+    "gameId": "SLES_521.22"
+  },
+  "disc": {
+    "path": "PS2/SLES_521.22/SLES_521.22_ICO.png",
+    "kind": "disc",
+    "bytes": 10956,
+    "width": 128,
+    "height": 128,
+    "sha256": "484bb07ac21840b000a79a0eb69696da3dbf2145ca8c92cb2b27ecae2c5a0e85",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_521.22_ICO.png"
+    },
+    "gameId": "SLES_521.22"
+  },
+  "background": {
+    "path": "PS2/SLES_521.22/SLES_521.22_BG.png",
+    "kind": "background",
+    "bytes": 122603,
+    "width": 640,
+    "height": 480,
+    "sha256": "3ebf14646da9cd87ceeb2e19d9b3cc62b8f67de344e62f9c8719946b2e8f7ce3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_521.22/SLES_521.22_BG_00.png"
+    },
+    "gameId": "SLES_521.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_521.22/SLES_521.22_BG.png",
+      "kind": "background",
+      "bytes": 122603,
+      "width": 640,
+      "height": 480,
+      "sha256": "3ebf14646da9cd87ceeb2e19d9b3cc62b8f67de344e62f9c8719946b2e8f7ce3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_521.22/SLES_521.22_BG_00.png"
+      },
+      "gameId": "SLES_521.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Crime Life - Gang Wars"
+}

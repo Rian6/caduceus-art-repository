@@ -1,0 +1,51 @@
+{
+  "id": "SCKA_200.27",
+  "cover": {
+    "path": "PS2/SCKA_200.27/SCKA_200.27_COV.png",
+    "kind": "cover",
+    "bytes": 74423,
+    "width": 192,
+    "height": 272,
+    "sha256": "445f2d1a8fdf25c13599f4d04c1c0c24c307b273c085601d12322e5fbf87fbab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20027.jpg"
+    },
+    "gameId": "SCKA_200.27"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.27/SCKA_200.27_BG.png",
+    "kind": "background",
+    "bytes": 167217,
+    "width": 640,
+    "height": 480,
+    "sha256": "bda337874b7b94c233e2abdcc7b9707c9185dd33e86704ea813efc491d7da3d4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.27/SCKA_200.27_BG_00.png"
+    },
+    "gameId": "SCKA_200.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.27/SCKA_200.27_BG.png",
+      "kind": "background",
+      "bytes": 167217,
+      "width": 640,
+      "height": 480,
+      "sha256": "bda337874b7b94c233e2abdcc7b9707c9185dd33e86704ea813efc491d7da3d4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.27/SCKA_200.27_BG_00.png"
+      },
+      "gameId": "SCKA_200.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KOUKAKU KIDOUTAI - STAND ALONE COMPLEX"
+}

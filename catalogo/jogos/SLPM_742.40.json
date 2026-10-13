@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.40",
+  "cover": {
+    "path": "PS2/SLPM_742.40/SLPM_742.40_COV.png",
+    "kind": "cover",
+    "bytes": 91588,
+    "width": 192,
+    "height": 272,
+    "sha256": "4ff7e3d1da647a2a7c32c90062535b7b7ebaa21a68e5ab2cdd461fe12121741f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74240.jpg"
+    },
+    "gameId": "SLPM_742.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tengai Makyou III - Namida (Playstation 2 The Best)"
+}

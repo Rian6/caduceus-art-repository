@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_667.48",
+  "cover": {
+    "path": "PS2/SLPM_667.48/SLPM_667.48_COV.png",
+    "kind": "cover",
+    "bytes": 99724,
+    "width": 192,
+    "height": 272,
+    "sha256": "1b79176d58ab1f8b2cc3f262193dd87b68735c3b8bc7fcfa2c6007130d9cf09f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66748.jpg"
+    },
+    "gameId": "SLPM_667.48"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_667.48/SLPM_667.48_BG.png",
+    "kind": "background",
+    "bytes": 571512,
+    "width": 640,
+    "height": 480,
+    "sha256": "0fb64f34f97ba07f18333d7ae1c533186a402961bab79748c8f683c96dcd0759",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_667.48/SLPM_667.48_BG_00.png"
+    },
+    "gameId": "SLPM_667.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_667.48/SLPM_667.48_BG.png",
+      "kind": "background",
+      "bytes": 571512,
+      "width": 640,
+      "height": 480,
+      "sha256": "0fb64f34f97ba07f18333d7ae1c533186a402961bab79748c8f683c96dcd0759",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_667.48/SLPM_667.48_BG_00.png"
+      },
+      "gameId": "SLPM_667.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mana-Khemia: Gakuen no Renkinjutsushi-tachi"
+}

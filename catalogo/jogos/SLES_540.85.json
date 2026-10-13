@@ -1,0 +1,77 @@
+{
+  "id": "SLES_540.85",
+  "cover": {
+    "path": "PS2/SLES_540.85/SLES_540.85_COV.png",
+    "kind": "cover",
+    "bytes": 88877,
+    "width": 192,
+    "height": 272,
+    "sha256": "cc21689d538e4ff294597fef0d9eced1a0c3078aadc4deb16c3355e4e4f74603",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54085.jpg"
+    },
+    "gameId": "SLES_540.85"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_540.85/SLES_540.85_BG.png",
+    "kind": "background",
+    "bytes": 164922,
+    "width": 640,
+    "height": 480,
+    "sha256": "fcaa14d54626766834e83dae28a7629cc07ff6c0da8344bec696836f61ced1f6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_540.85/SLES_540.85_BG_00.png"
+    },
+    "gameId": "SLES_540.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_540.85/SLES_540.85_BG.png",
+      "kind": "background",
+      "bytes": 164922,
+      "width": 640,
+      "height": 480,
+      "sha256": "fcaa14d54626766834e83dae28a7629cc07ff6c0da8344bec696836f61ced1f6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.85/SLES_540.85_BG_00.png"
+      },
+      "gameId": "SLES_540.85"
+    },
+    {
+      "path": "PS2/SLES_540.85/SLES_540.85_BG_01.png",
+      "kind": "background",
+      "bytes": 148517,
+      "width": 640,
+      "height": 480,
+      "sha256": "4172dbe373f995ed8369decea68b26ee02f8f77f921c9c487fc05bf72833f1e3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.85/SLES_540.85_BG_01.png"
+      },
+      "gameId": "SLES_540.85"
+    },
+    {
+      "path": "PS2/SLES_540.85/SLES_540.85_BG_02.png",
+      "kind": "background",
+      "bytes": 231635,
+      "width": 640,
+      "height": 480,
+      "sha256": "f081ed5e1b25e6592753621a9620a5c5ff2798819db410aa8e3cc0f9dec612b1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_540.85/SLES_540.85_BG_02.png"
+      },
+      "gameId": "SLES_540.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Street Fighter Alpha Anthology"
+}

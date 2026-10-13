@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.30",
+  "cover": {
+    "path": "PS2/SLPS_257.30/SLPS_257.30_COV.png",
+    "kind": "cover",
+    "bytes": 69860,
+    "width": 192,
+    "height": 272,
+    "sha256": "c802f31669177c69b8f3ae0f46bdbe5fa8abc7c6ad515702c348e1c2e8c8a4b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25730.jpg"
+    },
+    "gameId": "SLPS_257.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core (Machine Side Box)"
+}

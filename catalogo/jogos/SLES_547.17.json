@@ -1,0 +1,65 @@
+{
+  "id": "SLES_547.17",
+  "cover": {
+    "path": "PS2/SLES_547.17/SLES_547.17_COV.png",
+    "kind": "cover",
+    "bytes": 105882,
+    "width": 192,
+    "height": 272,
+    "sha256": "b929d7a0a7b4e27cbf5d0025e9204876816a3e956df6bd1e85ccb39ed54ccbce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54717.jpg"
+    },
+    "gameId": "SLES_547.17"
+  },
+  "disc": {
+    "path": "PS2/SLES_547.17/SLES_547.17_ICO.png",
+    "kind": "disc",
+    "bytes": 12287,
+    "width": 128,
+    "height": 128,
+    "sha256": "55ddf7dde4598ce9888aa3cf6c81b4ba560957b8253997523391582ad5bb38a8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_547.17_ICO.png"
+    },
+    "gameId": "SLES_547.17"
+  },
+  "background": {
+    "path": "PS2/SLES_547.17/SLES_547.17_BG.png",
+    "kind": "background",
+    "bytes": 190160,
+    "width": 640,
+    "height": 480,
+    "sha256": "d6c7de8ddd015aadbd54fe322bfadca490b76aa25376f4ee0ec99644af89e76b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_547.17/SLES_547.17_BG_00.png"
+    },
+    "gameId": "SLES_547.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_547.17/SLES_547.17_BG.png",
+      "kind": "background",
+      "bytes": 190160,
+      "width": 640,
+      "height": 480,
+      "sha256": "d6c7de8ddd015aadbd54fe322bfadca490b76aa25376f4ee0ec99644af89e76b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.17/SLES_547.17_BG_00.png"
+      },
+      "gameId": "SLES_547.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Power Volleyball"
+}

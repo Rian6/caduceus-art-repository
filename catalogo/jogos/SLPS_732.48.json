@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.48",
+  "cover": {
+    "path": "PS2/SLPS_732.48/SLPS_732.48_COV.png",
+    "kind": "cover",
+    "bytes": 87604,
+    "width": 192,
+    "height": 272,
+    "sha256": "c957d67345719f2b7e851f0b8571eb80efd27585741045d14b59ff8a2e3c577d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73248.jpg"
+    },
+    "gameId": "SLPS_732.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kagero II - Dark Illusion (Playstation 2 The Best)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.60",
+  "cover": {
+    "path": "PS2/SLPS_201.60/SLPS_201.60_COV.png",
+    "kind": "cover",
+    "bytes": 101651,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a83aea506182f0b6df075b66fd54fa9992f23f7583291e8062e2a441f3c9f93",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20160.jpg"
+    },
+    "gameId": "SLPS_201.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S TARZAN FREERIDE"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_520.21",
+  "cover": {
+    "path": "PS2/SLES_520.21/SLES_520.21_COV.png",
+    "kind": "cover",
+    "bytes": 100200,
+    "width": 192,
+    "height": 272,
+    "sha256": "093f41534baf51861752b20c0bb9c5a92a7f24b593d7e179e10f1f2415593912",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52021.jpg"
+    },
+    "gameId": "SLES_520.21"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_520.21/SLES_520.21_BG.png",
+    "kind": "background",
+    "bytes": 220850,
+    "width": 640,
+    "height": 480,
+    "sha256": "8d218dad5fec8c2f52434640a97d8f35b0d5175faec1270574ef1d88faf8b05d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_520.21/SLES_520.21_BG_00.png"
+    },
+    "gameId": "SLES_520.21"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_520.21/SLES_520.21_BG.png",
+      "kind": "background",
+      "bytes": 220850,
+      "width": 640,
+      "height": 480,
+      "sha256": "8d218dad5fec8c2f52434640a97d8f35b0d5175faec1270574ef1d88faf8b05d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_520.21/SLES_520.21_BG_00.png"
+      },
+      "gameId": "SLES_520.21"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Il Signore degli Anelli: Il ritorno del Re"
+}

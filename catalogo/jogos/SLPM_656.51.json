@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.51",
+  "cover": {
+    "path": "PS2/SLPM_656.51/SLPM_656.51_COV.png",
+    "kind": "cover",
+    "bytes": 93328,
+    "width": 192,
+    "height": 272,
+    "sha256": "8a387d0eb043d3e4f2ad2b0926fac2680909bc794fcfd3a4ad2c987c9708b7c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65651.jpg"
+    },
+    "gameId": "SLPM_656.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kowloon Youma Gakuenki"
+}

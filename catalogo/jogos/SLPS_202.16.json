@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.16",
+  "cover": {
+    "path": "PS2/SLPS_202.16/SLPS_202.16_COV.png",
+    "kind": "cover",
+    "bytes": 86934,
+    "width": 192,
+    "height": 272,
+    "sha256": "be81d7a5e7c1803d6ea734821a07de4336a46b34547b6b11a82ab63deff65f37",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20216.jpg"
+    },
+    "gameId": "SLPS_202.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Air Ranger: Rescue Helicopter (Reprint)"
+}

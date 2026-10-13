@@ -1,0 +1,25 @@
+{
+  "id": "SLES_549.23",
+  "cover": {
+    "path": "PS2/SLES_549.23/SLES_549.23_COV.png",
+    "kind": "cover",
+    "bytes": 58184,
+    "width": 192,
+    "height": 272,
+    "sha256": "82c05a3f6ecee10ec021b139238a673d1865ba620221ba9a49a0187f9b28eb99",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_549.23/SLES_549.23_COV.png"
+    },
+    "gameId": "SLES_549.23"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bob the Builder"
+}

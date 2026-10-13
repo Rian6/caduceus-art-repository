@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.03",
+  "cover": {
+    "path": "PS2/SLPS_202.03/SLPS_202.03_COV.png",
+    "kind": "cover",
+    "bytes": 120514,
+    "width": 192,
+    "height": 272,
+    "sha256": "e6ec7a8e07067d47b3c5ff3e833d34926bf225786be9b570be19e28b7373979b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20203.jpg"
+    },
+    "gameId": "SLPS_202.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sanyo Pachinko Paradise 7: Edokko Gen-san"
+}

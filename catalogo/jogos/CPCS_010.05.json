@@ -1,0 +1,25 @@
+{
+  "id": "CPCS_010.05",
+  "cover": {
+    "path": "PS2/CPCS_010.05/CPCS_010.05_COV.png",
+    "kind": "cover",
+    "bytes": 105431,
+    "width": 192,
+    "height": 272,
+    "sha256": "b5c4bc143f6caeb47e36c33ba3cd2010aa41799931b9c18eb5b85dfdc743b922",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/CPCS-01005.jpg"
+    },
+    "gameId": "CPCS_010.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUN SURVIVOR 4 - BIOHAZARD - HEROES NEVER DIE [WITH GUNCON 2]"
+}

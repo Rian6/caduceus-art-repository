@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_654.73",
+  "cover": {
+    "path": "PS2/SLPM_654.73/SLPM_654.73_COV.png",
+    "kind": "cover",
+    "bytes": 96547,
+    "width": 192,
+    "height": 272,
+    "sha256": "d65a067b10a3e0f27bb233c94602997a2d263f943c53eae06745f35fb7486c41",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65473.jpg"
+    },
+    "gameId": "SLPM_654.73"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_654.73/SLPM_654.73_BG.png",
+    "kind": "background",
+    "bytes": 149688,
+    "width": 640,
+    "height": 480,
+    "sha256": "dae09400a6805ae0a62860332d93076755d227821a462d1a82784b9bb86fac78",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_654.73/SLPM_654.73_BG_00.png"
+    },
+    "gameId": "SLPM_654.73"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_654.73/SLPM_654.73_BG.png",
+      "kind": "background",
+      "bytes": 149688,
+      "width": 640,
+      "height": 480,
+      "sha256": "dae09400a6805ae0a62860332d93076755d227821a462d1a82784b9bb86fac78",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_654.73/SLPM_654.73_BG_00.png"
+      },
+      "gameId": "SLPM_654.73"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FULLMETAL ALCHEMIST - HAGANE NO RENKINJUTSUSHI - TOBENAI TENSHI"
+}

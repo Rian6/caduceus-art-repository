@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.24",
+  "cover": {
+    "path": "PS2/SLPM_653.24/SLPM_653.24_COV.png",
+    "kind": "cover",
+    "bytes": 91608,
+    "width": 192,
+    "height": 272,
+    "sha256": "9ca8c2fe2bafce8e31113f2d15e7d3a2e2d083a713c41232ce8a1173ac1de73c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65324.jpg"
+    },
+    "gameId": "SLPM_653.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GREGORY HORROR SHOW"
+}

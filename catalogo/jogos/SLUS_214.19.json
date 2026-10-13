@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_214.19",
+  "cover": {
+    "path": "PS2/SLUS_214.19/SLUS_214.19_COV.png",
+    "kind": "cover",
+    "bytes": 79740,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ab15c2ce9861fca43b9d438ecf6c82afa234afece77ae0848f4f04e2fab2535",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21419.jpg"
+    },
+    "gameId": "SLUS_214.19"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.19/SLUS_214.19_ICO.png",
+    "kind": "disc",
+    "bytes": 37349,
+    "width": 256,
+    "height": 256,
+    "sha256": "4352e84318a05241b0a90ad14369bc5b5fb5eb5f069ceccfdd9f0fc7d33e8f57",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.19_ICO.png"
+    },
+    "gameId": "SLUS_214.19"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.19/SLUS_214.19_BG.png",
+    "kind": "background",
+    "bytes": 181915,
+    "width": 640,
+    "height": 480,
+    "sha256": "538078845865844e448279c7ba1938e7c814ef14d94530f9203cb39d8ad3cede",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.19/SLUS_214.19_BG_00.png"
+    },
+    "gameId": "SLUS_214.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.19/SLUS_214.19_BG.png",
+      "kind": "background",
+      "bytes": 181915,
+      "width": 640,
+      "height": 480,
+      "sha256": "538078845865844e448279c7ba1938e7c814ef14d94530f9203cb39d8ad3cede",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.19/SLUS_214.19_BG_00.png"
+      },
+      "gameId": "SLUS_214.19"
+    },
+    {
+      "path": "PS2/SLUS_214.19/SLUS_214.19_BG_01.png",
+      "kind": "background",
+      "bytes": 202196,
+      "width": 640,
+      "height": 480,
+      "sha256": "f2f2b2fd4f4900b045c22c312a0c6badb56ccd3ac6cdf035fff05d5fdac481a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.19/SLUS_214.19_BG_01.png"
+      },
+      "gameId": "SLUS_214.19"
+    },
+    {
+      "path": "PS2/SLUS_214.19/SLUS_214.19_BG_02.png",
+      "kind": "background",
+      "bytes": 177443,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b1f82b6c74aec3d7f9e2462677adfceda89db326fee1f8f5d81b6c5184452ed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.19/SLUS_214.19_BG_02.png"
+      },
+      "gameId": "SLUS_214.19"
+    },
+    {
+      "path": "PS2/SLUS_214.19/SLUS_214.19_BG_03.png",
+      "kind": "background",
+      "bytes": 162818,
+      "width": 640,
+      "height": 480,
+      "sha256": "b541b89a62018b845769d45d0bfaf840ba2e016b2d2f8580962191fbe7473315",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.19/SLUS_214.19_BG_03.png"
+      },
+      "gameId": "SLUS_214.19"
+    },
+    {
+      "path": "PS2/SLUS_214.19/SLUS_214.19_BG_04.png",
+      "kind": "background",
+      "bytes": 214845,
+      "width": 640,
+      "height": 480,
+      "sha256": "d85e8bc3b22c7023a4c3c33196f9a778fd7acbd58c00a95cd902341cd79fd8a3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.19/SLUS_214.19_BG_04.png"
+      },
+      "gameId": "SLUS_214.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dirge of Cerberus: Final Fantasy VII"
+}

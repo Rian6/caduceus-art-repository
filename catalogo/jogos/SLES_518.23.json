@@ -1,0 +1,64 @@
+{
+  "id": "SLES_518.23",
+  "cover": {
+    "path": "PS2/SLES_518.23/SLES_518.23_COV.png",
+    "kind": "cover",
+    "bytes": 92712,
+    "width": 192,
+    "height": 272,
+    "sha256": "899ad7ee1a0f656e8fde5121f11ed653cb759bb5e37be4f295ed89e827470b14",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51823.jpg"
+    },
+    "gameId": "SLES_518.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_518.23/SLES_518.23_BG.png",
+    "kind": "background",
+    "bytes": 198052,
+    "width": 640,
+    "height": 480,
+    "sha256": "e4333478625cd40b79b230fecee1177e7735b662ede77e01db3536490f76f621",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.23/SLES_518.23_BG_00.png"
+    },
+    "gameId": "SLES_518.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.23/SLES_518.23_BG.png",
+      "kind": "background",
+      "bytes": 198052,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4333478625cd40b79b230fecee1177e7735b662ede77e01db3536490f76f621",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.23/SLES_518.23_BG_00.png"
+      },
+      "gameId": "SLES_518.23"
+    },
+    {
+      "path": "PS2/SLES_518.23/SLES_518.23_BG_01.png",
+      "kind": "background",
+      "bytes": 211279,
+      "width": 640,
+      "height": 480,
+      "sha256": "3400f409f9e82e73aed48742ad818243a94be4836fc11923c3172980e8bbee75",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.23/SLES_518.23_BG_01.png"
+      },
+      "gameId": "SLES_518.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hunter: The Reckoning: Wayward"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_974.20",
+  "cover": {
+    "path": "PS2/SCUS_974.20/SCUS_974.20_COV.png",
+    "kind": "cover",
+    "bytes": 97818,
+    "width": 192,
+    "height": 272,
+    "sha256": "6ff9938c17bc8e2eda63427af2691c9769698bb4a69d23717a816e32e24b4a02",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97420.jpg"
+    },
+    "gameId": "SCUS_974.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jampack Demo Disc Volume 12"
+}

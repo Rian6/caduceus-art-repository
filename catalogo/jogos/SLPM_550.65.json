@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.65",
+  "cover": {
+    "path": "PS2/SLPM_550.65/SLPM_550.65_COV.png",
+    "kind": "cover",
+    "bytes": 107831,
+    "width": 192,
+    "height": 272,
+    "sha256": "126a2bd9e08bbc3450b7af771ed62510a65235f2665eb2129041344bb38e0fb8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55065.jpg"
+    },
+    "gameId": "SLPM_550.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kamiyo Gakuen Genkouroku: Kuru-Nu-Gi-A"
+}

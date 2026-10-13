@@ -1,0 +1,25 @@
+{
+  "id": "TCPS_101.81",
+  "cover": {
+    "path": "PS2/TCPS_101.81/TCPS_101.81_COV.png",
+    "kind": "cover",
+    "bytes": 68730,
+    "width": 192,
+    "height": 272,
+    "sha256": "78a717a5e73963b0ae8e6c91874813be9f52c259a93658f936f55272b9011c7c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/TCPS_101.81/TCPS_101.81_COV.png"
+    },
+    "gameId": "TCPS_101.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rozen Maiden ~ Gebetgarten"
+}

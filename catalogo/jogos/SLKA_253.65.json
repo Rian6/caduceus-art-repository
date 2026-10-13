@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.65",
+  "cover": {
+    "path": "PS2/SLKA_253.65/SLKA_253.65_COV.png",
+    "kind": "cover",
+    "bytes": 90221,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf655dd076b4d1aaf3513459f2624370f41c3485d135c487a1db3d762d170173",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25365.jpg"
+    },
+    "gameId": "SLKA_253.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WWE SmackDown vs. Raw 2008"
+}

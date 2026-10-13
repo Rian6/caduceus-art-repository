@@ -1,0 +1,104 @@
+{
+  "id": "SLPM_627.17",
+  "cover": {
+    "path": "PS2/SLPM_627.17/SLPM_627.17_COV.png",
+    "kind": "cover",
+    "bytes": 106152,
+    "width": 192,
+    "height": 272,
+    "sha256": "1f03674e59ea5cb34a5cd4169c33123d5dbb38630fa1249d7bf6fb960b701c88",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62717.jpg"
+    },
+    "gameId": "SLPM_627.17"
+  },
+  "disc": {
+    "path": "PS2/SLPM_627.17/SLPM_627.17_ICO.png",
+    "kind": "disc",
+    "bytes": 10572,
+    "width": 128,
+    "height": 128,
+    "sha256": "7b9ebfe41afd1c23b846e0609c689f97fd26bfe666c90097a25659fd9cc7b6e9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_627.17_ICO.png"
+    },
+    "gameId": "SLPM_627.17"
+  },
+  "background": {
+    "path": "PS2/SLPM_627.17/SLPM_627.17_BG.png",
+    "kind": "background",
+    "bytes": 185492,
+    "width": 640,
+    "height": 480,
+    "sha256": "71dd1bc4a698738e90fa87367e9772abe433ea020d263a136612a7c6631f9f5c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_627.17/SLPM_627.17_BG_00.png"
+    },
+    "gameId": "SLPM_627.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_627.17/SLPM_627.17_BG.png",
+      "kind": "background",
+      "bytes": 185492,
+      "width": 640,
+      "height": 480,
+      "sha256": "71dd1bc4a698738e90fa87367e9772abe433ea020d263a136612a7c6631f9f5c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.17/SLPM_627.17_BG_00.png"
+      },
+      "gameId": "SLPM_627.17"
+    },
+    {
+      "path": "PS2/SLPM_627.17/SLPM_627.17_BG_01.png",
+      "kind": "background",
+      "bytes": 186744,
+      "width": 640,
+      "height": 480,
+      "sha256": "fe2a52c73e879f9152e21351bf1ca5cbe907b3fb279190968d8b53bdf8d84853",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.17/SLPM_627.17_BG_01.png"
+      },
+      "gameId": "SLPM_627.17"
+    },
+    {
+      "path": "PS2/SLPM_627.17/SLPM_627.17_BG_02.png",
+      "kind": "background",
+      "bytes": 218803,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9e67d81969cec557236b10dd4ee056ef820f079015372949e63560360e14269",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.17/SLPM_627.17_BG_02.png"
+      },
+      "gameId": "SLPM_627.17"
+    },
+    {
+      "path": "PS2/SLPM_627.17/SLPM_627.17_BG_03.png",
+      "kind": "background",
+      "bytes": 188505,
+      "width": 640,
+      "height": 480,
+      "sha256": "f9a093b54caa99933017d5ce2441ef5bab5cca387fc1ad62617216d6bc342a16",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.17/SLPM_627.17_BG_03.png"
+      },
+      "gameId": "SLPM_627.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SEGA AGES 2500 SERIES VOL.26 - DYNAMITE DEKA"
+}

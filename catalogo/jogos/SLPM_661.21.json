@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.21",
+  "cover": {
+    "path": "PS2/SLPM_661.21/SLPM_661.21_COV.png",
+    "kind": "cover",
+    "bytes": 96877,
+    "width": 192,
+    "height": 272,
+    "sha256": "a2b9d3e5e363d82565f0e6ab3d4423f72243126964e8c0691ac799871f0aad09",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66121.jpg"
+    },
+    "gameId": "SLPM_661.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPIDER-MAN 2 [TAITO BEST]"
+}

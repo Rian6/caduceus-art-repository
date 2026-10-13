@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_259.47",
+  "cover": {
+    "path": "PS2/SLPS_259.47/SLPS_259.47_COV.png",
+    "kind": "cover",
+    "bytes": 102918,
+    "width": 192,
+    "height": 272,
+    "sha256": "0c2d12eab6d644d66dba0f05db83a5cd56a99fa2d939ec1ea8e0447aac55dddf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25947.jpg"
+    },
+    "gameId": "SLPS_259.47"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_259.47/SLPS_259.47_BG.png",
+    "kind": "background",
+    "bytes": 161154,
+    "width": 640,
+    "height": 480,
+    "sha256": "9201d4f099e5fb112069aad2262582dc581515df4431652844541508e33ef2f1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_259.47/SLPS_259.47_BG_00.png"
+    },
+    "gameId": "SLPS_259.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_259.47/SLPS_259.47_BG.png",
+      "kind": "background",
+      "bytes": 161154,
+      "width": 640,
+      "height": 480,
+      "sha256": "9201d4f099e5fb112069aad2262582dc581515df4431652844541508e33ef2f1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_259.47/SLPS_259.47_BG_00.png"
+      },
+      "gameId": "SLPS_259.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Summon Night Gran-These - Horobi no Ken to Yakusoku no Kishi"
+}

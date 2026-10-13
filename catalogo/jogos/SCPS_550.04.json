@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.04",
+  "cover": {
+    "path": "PS2/SCPS_550.04/SCPS_550.04_COV.png",
+    "kind": "cover",
+    "bytes": 109440,
+    "width": 192,
+    "height": 272,
+    "sha256": "c50c3e31fc19bea9ec4a6d19ddeab3a0021caca83cb2a85db4f3a285ac092a2a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55004.jpg"
+    },
+    "gameId": "SCPS_550.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JAK X DAXTER - KYUUSEKAI NO ISAN"
+}

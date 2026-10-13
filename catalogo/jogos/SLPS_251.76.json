@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.76",
+  "cover": {
+    "path": "PS2/SLPS_251.76/SLPS_251.76_COV.png",
+    "kind": "cover",
+    "bytes": 84854,
+    "width": 192,
+    "height": 272,
+    "sha256": "1800edb2b09506fe6f4a01b01b82413ef779a147215a0bb5bf68b351a1cc00a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25176.jpg"
+    },
+    "gameId": "SLPS_251.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NEO ATLAS III [ARTDINK THE BEST CHOICE]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.53",
+  "cover": {
+    "path": "PS2/SLPS_258.53/SLPS_258.53_COV.png",
+    "kind": "cover",
+    "bytes": 102091,
+    "width": 192,
+    "height": 272,
+    "sha256": "5da49be5806e6a53a8514ddfb80bb3b5b8b6f723cc95b094a875542846171bb7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25853.jpg"
+    },
+    "gameId": "SLPS_258.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 14 - Pachinko Kamen Rider - Shocker Zenmetsu Daisakusen"
+}

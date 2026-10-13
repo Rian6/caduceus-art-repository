@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_690.04",
+  "cover": {
+    "path": "PS2/SLPM_690.04/SLPM_690.04_COV.png",
+    "kind": "cover",
+    "bytes": 87420,
+    "width": 192,
+    "height": 272,
+    "sha256": "62ffbf8268a832c516e7730b7c2901e8e8146fbf7dccc30826463f376f4232fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-69004.jpg"
+    },
+    "gameId": "SLPM_690.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EGBrowser Light for I-O Data Device, Inc."
+}

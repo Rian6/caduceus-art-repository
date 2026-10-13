@@ -1,0 +1,64 @@
+{
+  "id": "SLES_519.54",
+  "cover": {
+    "path": "PS2/SLES_519.54/SLES_519.54_COV.png",
+    "kind": "cover",
+    "bytes": 50183,
+    "width": 192,
+    "height": 272,
+    "sha256": "9b9219aa7b5415f4644ca8e13cbeaa5d52761635f15b68e79aef8f571ddd929e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51954.jpg"
+    },
+    "gameId": "SLES_519.54"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_519.54/SLES_519.54_BG.png",
+    "kind": "background",
+    "bytes": 43341,
+    "width": 640,
+    "height": 480,
+    "sha256": "6905812f25d27518a9e1f6f421fc174c2aeb5e1ed749725e5032251a067c684b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.54/SLES_519.54_BG_00.png"
+    },
+    "gameId": "SLES_519.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.54/SLES_519.54_BG.png",
+      "kind": "background",
+      "bytes": 43341,
+      "width": 640,
+      "height": 480,
+      "sha256": "6905812f25d27518a9e1f6f421fc174c2aeb5e1ed749725e5032251a067c684b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.54/SLES_519.54_BG_00.png"
+      },
+      "gameId": "SLES_519.54"
+    },
+    {
+      "path": "PS2/SLES_519.54/SLES_519.54_BG_01.png",
+      "kind": "background",
+      "bytes": 251316,
+      "width": 640,
+      "height": 480,
+      "sha256": "d8259a45f493988d39084897e283c0ae0b488b23f2ee4eab217ea1717d58f2c0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.54/SLES_519.54_BG_01.png"
+      },
+      "gameId": "SLES_519.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Max Payne 2: The Fall of Max Payne"
+}

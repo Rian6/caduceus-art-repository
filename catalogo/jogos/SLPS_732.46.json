@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.46",
+  "cover": {
+    "path": "PS2/SLPS_732.46/SLPS_732.46_COV.png",
+    "kind": "cover",
+    "bytes": 87576,
+    "width": 192,
+    "height": 272,
+    "sha256": "0ccdef40a5092df2764eb5659659de905c726b088052ddbd483aadfa2e5644cc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73246.jpg"
+    },
+    "gameId": "SLPS_732.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GUNDAM TRUE ODYSSEY - USHINAWARETA G NO DENSETSU [PLAYSTATION 2 THE BEST]"
+}

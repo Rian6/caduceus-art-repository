@@ -1,0 +1,77 @@
+{
+  "id": "SLES_554.82",
+  "cover": {
+    "path": "PS2/SLES_554.82/SLES_554.82_COV.png",
+    "kind": "cover",
+    "bytes": 108878,
+    "width": 192,
+    "height": 272,
+    "sha256": "43b1ae90454973bb6c083692103fcad8205870c238a80f5182697a498bf72b07",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55482.jpg"
+    },
+    "gameId": "SLES_554.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_554.82/SLES_554.82_BG.png",
+    "kind": "background",
+    "bytes": 194437,
+    "width": 640,
+    "height": 480,
+    "sha256": "429226a52bbc3b57eca2268e0b64949e82702e2bdbbd0dbaa5c41b8bf2c84e60",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_554.82/SLES_554.82_BG_00.png"
+    },
+    "gameId": "SLES_554.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_554.82/SLES_554.82_BG.png",
+      "kind": "background",
+      "bytes": 194437,
+      "width": 640,
+      "height": 480,
+      "sha256": "429226a52bbc3b57eca2268e0b64949e82702e2bdbbd0dbaa5c41b8bf2c84e60",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.82/SLES_554.82_BG_00.png"
+      },
+      "gameId": "SLES_554.82"
+    },
+    {
+      "path": "PS2/SLES_554.82/SLES_554.82_BG_01.png",
+      "kind": "background",
+      "bytes": 125078,
+      "width": 640,
+      "height": 480,
+      "sha256": "a5ae4e88721d25224cedf21743a1e4a4f850ffc00d99fe8f7fd8f90598b07269",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.82/SLES_554.82_BG_01.png"
+      },
+      "gameId": "SLES_554.82"
+    },
+    {
+      "path": "PS2/SLES_554.82/SLES_554.82_BG_02.png",
+      "kind": "background",
+      "bytes": 201576,
+      "width": 640,
+      "height": 480,
+      "sha256": "1cf79626855c3bb637c3829b135901dd38e1f8c5cdddf2032c655b1a81d23004",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.82/SLES_554.82_BG_02.png"
+      },
+      "gameId": "SLES_554.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Naruto Shippuden - Ultimate Ninja 4"
+}

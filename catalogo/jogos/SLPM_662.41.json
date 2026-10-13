@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.41",
+  "cover": {
+    "path": "PS2/SLPM_662.41/SLPM_662.41_COV.png",
+    "kind": "cover",
+    "bytes": 101851,
+    "width": 192,
+    "height": 272,
+    "sha256": "8516d79be7fa5de2178dd4c21b00de7b602ce28310b3aadd9ae0e1b7e338e527",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66241.jpg"
+    },
+    "gameId": "SLPM_662.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jissen Pachinko Hisshouhou! CR Hokuto no Ken"
+}

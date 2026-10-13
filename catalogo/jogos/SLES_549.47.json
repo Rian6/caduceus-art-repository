@@ -1,0 +1,25 @@
+{
+  "id": "SLES_549.47",
+  "cover": {
+    "path": "PS2/SLES_549.47/SLES_549.47_COV.png",
+    "kind": "cover",
+    "bytes": 100884,
+    "width": 192,
+    "height": 272,
+    "sha256": "1a70a78a36ef3b12555c60f3094adb210dab556bcd15504e3b5cf6553c89814b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54947.jpg"
+    },
+    "gameId": "SLES_549.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dogz"
+}

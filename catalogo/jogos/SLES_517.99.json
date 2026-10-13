@@ -1,0 +1,103 @@
+{
+  "id": "SLES_517.99",
+  "cover": {
+    "path": "PS2/SLES_517.99/SLES_517.99_COV.png",
+    "kind": "cover",
+    "bytes": 71939,
+    "width": 192,
+    "height": 272,
+    "sha256": "93695cb0186e5fa9f089a54c73e304a3d993273eecb76cb23f39e3adf387ab00",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51799.jpg"
+    },
+    "gameId": "SLES_517.99"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_517.99/SLES_517.99_BG.png",
+    "kind": "background",
+    "bytes": 174206,
+    "width": 640,
+    "height": 480,
+    "sha256": "7ad369fe1adb5f052318af70fef8cc911162558c743e9561b201bcff01135537",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.99/SLES_517.99_BG_00.png"
+    },
+    "gameId": "SLES_517.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.99/SLES_517.99_BG.png",
+      "kind": "background",
+      "bytes": 174206,
+      "width": 640,
+      "height": 480,
+      "sha256": "7ad369fe1adb5f052318af70fef8cc911162558c743e9561b201bcff01135537",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.99/SLES_517.99_BG_00.png"
+      },
+      "gameId": "SLES_517.99"
+    },
+    {
+      "path": "PS2/SLES_517.99/SLES_517.99_BG_01.png",
+      "kind": "background",
+      "bytes": 189940,
+      "width": 640,
+      "height": 480,
+      "sha256": "10f1d680d9a78bc6990709e259cb8a62db3fdfd096fcdbef07e7443c5fae6653",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.99/SLES_517.99_BG_01.png"
+      },
+      "gameId": "SLES_517.99"
+    },
+    {
+      "path": "PS2/SLES_517.99/SLES_517.99_BG_02.png",
+      "kind": "background",
+      "bytes": 167328,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac7f6d6dba331bedbdf71db63c4e2cd3fb75257aa76c0d19a73aff58f94ce505",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.99/SLES_517.99_BG_02.png"
+      },
+      "gameId": "SLES_517.99"
+    },
+    {
+      "path": "PS2/SLES_517.99/SLES_517.99_BG_03.png",
+      "kind": "background",
+      "bytes": 57918,
+      "width": 640,
+      "height": 480,
+      "sha256": "71c2b60a41325b0386affee7633d9a5f1c43ad7ddd1f689c7839b0e83a4c251a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.99/SLES_517.99_BG_03.png"
+      },
+      "gameId": "SLES_517.99"
+    },
+    {
+      "path": "PS2/SLES_517.99/SLES_517.99_BG_04.png",
+      "kind": "background",
+      "bytes": 228439,
+      "width": 640,
+      "height": 480,
+      "sha256": "898842e64637b1dcb464509263af693d8c207070236e361693b3a4b3120426ec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.99/SLES_517.99_BG_04.png"
+      },
+      "gameId": "SLES_517.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOUL CALIBUR II"
+}

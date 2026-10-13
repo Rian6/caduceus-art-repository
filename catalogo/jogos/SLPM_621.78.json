@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.78",
+  "cover": {
+    "path": "PS2/SLPM_621.78/SLPM_621.78_COV.png",
+    "kind": "cover",
+    "bytes": 101195,
+    "width": 192,
+    "height": 272,
+    "sha256": "f25232de6b9e37db4cae8370a579f6aae811120904b8b857a60ac2a4a19bae5d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62178.jpg"
+    },
+    "gameId": "SLPM_621.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Internet Igo"
+}

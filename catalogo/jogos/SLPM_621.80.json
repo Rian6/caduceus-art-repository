@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.80",
+  "cover": {
+    "path": "PS2/SLPM_621.80/SLPM_621.80_COV.png",
+    "kind": "cover",
+    "bytes": 64224,
+    "width": 192,
+    "height": 272,
+    "sha256": "a5d9596ad047adb092105e4c451575eb13e2c4bab3a79a9241e4b0888e51dc15",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62180.jpg"
+    },
+    "gameId": "SLPM_621.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 HONKAKU SHIKOU VOL.001 - THE SHOGI"
+}

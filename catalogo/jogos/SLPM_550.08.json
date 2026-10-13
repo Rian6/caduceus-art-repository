@@ -1,0 +1,117 @@
+{
+  "id": "SLPM_550.08",
+  "cover": {
+    "path": "PS2/SLPM_550.08/SLPM_550.08_COV.png",
+    "kind": "cover",
+    "bytes": 129886,
+    "width": 192,
+    "height": 272,
+    "sha256": "d86c8c575fdd5d46413af41e9e8ba254e9c57dc3d26f5f6feae1c87a827b69d8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55008.jpg"
+    },
+    "gameId": "SLPM_550.08"
+  },
+  "disc": {
+    "path": "PS2/SLPM_550.08/SLPM_550.08_ICO.png",
+    "kind": "disc",
+    "bytes": 12315,
+    "width": 128,
+    "height": 128,
+    "sha256": "93f11d1e65c8ee8815ffa5700d1ffc99fdb178b01b0161d8f6938b13181fccf1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_550.08_ICO.png"
+    },
+    "gameId": "SLPM_550.08"
+  },
+  "background": {
+    "path": "PS2/SLPM_550.08/SLPM_550.08_BG.png",
+    "kind": "background",
+    "bytes": 178037,
+    "width": 640,
+    "height": 480,
+    "sha256": "ff6218baa174ea834cef270d5b0a468897a2f35ec260d694c225fd09872b4758",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_550.08/SLPM_550.08_BG_00.png"
+    },
+    "gameId": "SLPM_550.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_550.08/SLPM_550.08_BG.png",
+      "kind": "background",
+      "bytes": 178037,
+      "width": 640,
+      "height": 480,
+      "sha256": "ff6218baa174ea834cef270d5b0a468897a2f35ec260d694c225fd09872b4758",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.08/SLPM_550.08_BG_00.png"
+      },
+      "gameId": "SLPM_550.08"
+    },
+    {
+      "path": "PS2/SLPM_550.08/SLPM_550.08_BG_01.png",
+      "kind": "background",
+      "bytes": 126110,
+      "width": 640,
+      "height": 480,
+      "sha256": "7a7353e4183e2bb7542850801ee3db6a6ee2c4f2d128268d179988665baf9cbf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.08/SLPM_550.08_BG_01.png"
+      },
+      "gameId": "SLPM_550.08"
+    },
+    {
+      "path": "PS2/SLPM_550.08/SLPM_550.08_BG_02.png",
+      "kind": "background",
+      "bytes": 211799,
+      "width": 640,
+      "height": 480,
+      "sha256": "834a1321aa976d6dca6f9869b990fc967077d48f6c9147de39ca090c70c38012",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.08/SLPM_550.08_BG_02.png"
+      },
+      "gameId": "SLPM_550.08"
+    },
+    {
+      "path": "PS2/SLPM_550.08/SLPM_550.08_BG_03.png",
+      "kind": "background",
+      "bytes": 234918,
+      "width": 640,
+      "height": 480,
+      "sha256": "92616eeb55247f3f88220160b57b7d18498b3848232ef3a9cd14ed7bf803222b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.08/SLPM_550.08_BG_03.png"
+      },
+      "gameId": "SLPM_550.08"
+    },
+    {
+      "path": "PS2/SLPM_550.08/SLPM_550.08_BG_04.png",
+      "kind": "background",
+      "bytes": 199595,
+      "width": 640,
+      "height": 480,
+      "sha256": "c93f2b389d3ad4f97b8403ca9fd47250795020b006044023c1df1869aaccf668",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_550.08/SLPM_550.08_BG_04.png"
+      },
+      "gameId": "SLPM_550.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SENGOKU BASARA X"
+}

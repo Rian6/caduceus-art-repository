@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_214.45",
+  "cover": {
+    "path": "PS2/SLUS_214.45/SLUS_214.45_COV.png",
+    "kind": "cover",
+    "bytes": 107396,
+    "width": 192,
+    "height": 272,
+    "sha256": "b27c924c8f0da013361356ef644428c729e2250553b65fe061bbb27b6c90205b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21445.jpg"
+    },
+    "gameId": "SLUS_214.45"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.45/SLUS_214.45_ICO.png",
+    "kind": "disc",
+    "bytes": 35857,
+    "width": 256,
+    "height": 256,
+    "sha256": "54037fb620fbc10f58c741d11359985bbe993ce1deaff1dcaab557420d8236e9",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.45_ICO.png"
+    },
+    "gameId": "SLUS_214.45"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.45/SLUS_214.45_BG.png",
+    "kind": "background",
+    "bytes": 187573,
+    "width": 640,
+    "height": 480,
+    "sha256": "fffd58fd1a84a526150742dc9b7c56430e67a45f81c561a6535d90c313c34184",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.45/SLUS_214.45_BG_00.png"
+    },
+    "gameId": "SLUS_214.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.45/SLUS_214.45_BG.png",
+      "kind": "background",
+      "bytes": 187573,
+      "width": 640,
+      "height": 480,
+      "sha256": "fffd58fd1a84a526150742dc9b7c56430e67a45f81c561a6535d90c313c34184",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.45/SLUS_214.45_BG_00.png"
+      },
+      "gameId": "SLUS_214.45"
+    },
+    {
+      "path": "PS2/SLUS_214.45/SLUS_214.45_BG_01.png",
+      "kind": "background",
+      "bytes": 213641,
+      "width": 640,
+      "height": 480,
+      "sha256": "2b8d8ca210bcbe115269b0cb625b75f3ca050e5bf529190b69ce9d2b33698182",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.45/SLUS_214.45_BG_01.png"
+      },
+      "gameId": "SLUS_214.45"
+    },
+    {
+      "path": "PS2/SLUS_214.45/SLUS_214.45_BG_02.png",
+      "kind": "background",
+      "bytes": 152441,
+      "width": 640,
+      "height": 480,
+      "sha256": "139221c7c6e26fd635dd9659d51ef87e3244e56475edd833bf0ab1a8ef293aad",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.45/SLUS_214.45_BG_02.png"
+      },
+      "gameId": "SLUS_214.45"
+    },
+    {
+      "path": "PS2/SLUS_214.45/SLUS_214.45_BG_03.png",
+      "kind": "background",
+      "bytes": 209239,
+      "width": 640,
+      "height": 480,
+      "sha256": "986f95df53fe697b52d5c5aaaac2ac299491c837b3bd747147674a55dc450c64",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.45/SLUS_214.45_BG_03.png"
+      },
+      "gameId": "SLUS_214.45"
+    },
+    {
+      "path": "PS2/SLUS_214.45/SLUS_214.45_BG_04.png",
+      "kind": "background",
+      "bytes": 192201,
+      "width": 640,
+      "height": 480,
+      "sha256": "78a5925e2ff839d8a33072c6e2ab097fb0a240c48a33f45ac1e41371d0af0cb6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.45/SLUS_214.45_BG_04.png"
+      },
+      "gameId": "SLUS_214.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ar tonelico - Melody of Elemia"
+}

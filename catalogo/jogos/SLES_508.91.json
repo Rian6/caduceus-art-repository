@@ -1,0 +1,25 @@
+{
+  "id": "SLES_508.91",
+  "cover": {
+    "path": "PS2/SLES_508.91/SLES_508.91_COV.png",
+    "kind": "cover",
+    "bytes": 88504,
+    "width": 192,
+    "height": 272,
+    "sha256": "aba441fe832a65c7ea385af7de9f5d3f91151413f1b363ae75571e7ba32d2e0b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50891.jpg"
+    },
+    "gameId": "SLES_508.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGAIA 2 - DUEL SAGA"
+}

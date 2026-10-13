@@ -1,0 +1,117 @@
+{
+  "id": "SLPM_666.75",
+  "cover": {
+    "path": "PS2/SLPM_666.75/SLPM_666.75_COV.png",
+    "kind": "cover",
+    "bytes": 109303,
+    "width": 192,
+    "height": 272,
+    "sha256": "19dbed3e51fed13c91ecc5b1b6a0cbcee2c05231fbca8cf2a5e6f13cc6a5ba81",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66675.jpg"
+    },
+    "gameId": "SLPM_666.75"
+  },
+  "disc": {
+    "path": "PS2/SLPM_666.75/SLPM_666.75_ICO.png",
+    "kind": "disc",
+    "bytes": 10809,
+    "width": 128,
+    "height": 128,
+    "sha256": "06aa946d0af54c9e98217be96c81f203cacc9a6055609a97c7e64acc0e5adda5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_666.75_ICO.png"
+    },
+    "gameId": "SLPM_666.75"
+  },
+  "background": {
+    "path": "PS2/SLPM_666.75/SLPM_666.75_BG.png",
+    "kind": "background",
+    "bytes": 190676,
+    "width": 640,
+    "height": 480,
+    "sha256": "96c87f2d48fc55a2f519cde8d8e0300667b5f13e380ccc4da6f48edfe0806f4e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_666.75/SLPM_666.75_BG_00.png"
+    },
+    "gameId": "SLPM_666.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_666.75/SLPM_666.75_BG.png",
+      "kind": "background",
+      "bytes": 190676,
+      "width": 640,
+      "height": 480,
+      "sha256": "96c87f2d48fc55a2f519cde8d8e0300667b5f13e380ccc4da6f48edfe0806f4e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.75/SLPM_666.75_BG_00.png"
+      },
+      "gameId": "SLPM_666.75"
+    },
+    {
+      "path": "PS2/SLPM_666.75/SLPM_666.75_BG_01.png",
+      "kind": "background",
+      "bytes": 202768,
+      "width": 640,
+      "height": 480,
+      "sha256": "5e7e77a45534c286f1ae25c2b2376c90fa696d963dde6faea9a0e40610a74ecc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.75/SLPM_666.75_BG_01.png"
+      },
+      "gameId": "SLPM_666.75"
+    },
+    {
+      "path": "PS2/SLPM_666.75/SLPM_666.75_BG_02.png",
+      "kind": "background",
+      "bytes": 177222,
+      "width": 640,
+      "height": 480,
+      "sha256": "ef6a37a586396f941981634b424cc9c6d945cc3dbfbdb8e533c7b2c297ec02fa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.75/SLPM_666.75_BG_02.png"
+      },
+      "gameId": "SLPM_666.75"
+    },
+    {
+      "path": "PS2/SLPM_666.75/SLPM_666.75_BG_03.png",
+      "kind": "background",
+      "bytes": 186917,
+      "width": 640,
+      "height": 480,
+      "sha256": "01694c7d170635c968195f9df758e97c602ed01b7177b4af14d37a3b62066bb0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.75/SLPM_666.75_BG_03.png"
+      },
+      "gameId": "SLPM_666.75"
+    },
+    {
+      "path": "PS2/SLPM_666.75/SLPM_666.75_BG_04.png",
+      "kind": "background",
+      "bytes": 223375,
+      "width": 640,
+      "height": 480,
+      "sha256": "c8b683406a3b135d678e338722950b5ef68b6c2d748312f2d2aaf3d0d320ccb7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_666.75/SLPM_666.75_BG_04.png"
+      },
+      "gameId": "SLPM_666.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kingdom Hearts II: Final Mix"
+}

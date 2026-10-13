@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.17",
+  "cover": {
+    "path": "PS2/SLKA_251.17/SLKA_251.17_COV.png",
+    "kind": "cover",
+    "bytes": 56001,
+    "width": 192,
+    "height": 272,
+    "sha256": "6aa5d8d8521daa1bc3b83c99a5d9011227418179f1b85b032d82f0cbb257cf9f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.17/SLKA_251.17_COV.png"
+    },
+    "gameId": "SLKA_251.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 7 International"
+}

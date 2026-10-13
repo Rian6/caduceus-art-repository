@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.48",
+  "cover": {
+    "path": "PS2/SCAJ_201.48/SCAJ_201.48_COV.png",
+    "kind": "cover",
+    "bytes": 82471,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ab2287ee59df6e1399520d65aa314c18bd9adf26e2c14a103b0e817447213c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20148.jpg"
+    },
+    "gameId": "SCAJ_201.48"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tokyo Bus Annai 2"
+}

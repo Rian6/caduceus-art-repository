@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.99",
+  "cover": {
+    "path": "PS2/SLPM_666.99/SLPM_666.99_COV.png",
+    "kind": "cover",
+    "bytes": 65424,
+    "width": 192,
+    "height": 272,
+    "sha256": "b7fb64cf4157cd98c16b4eb0b888abb022b70aa49cef7c682a9a45663f5acb6f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_666.99/SLPM_666.99_COV.png"
+    },
+    "gameId": "SLPM_666.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kin'iro no Corda 2"
+}

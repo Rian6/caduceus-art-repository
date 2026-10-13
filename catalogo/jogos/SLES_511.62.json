@@ -1,0 +1,25 @@
+{
+  "id": "SLES_511.62",
+  "cover": {
+    "path": "PS2/SLES_511.62/SLES_511.62_COV.png",
+    "kind": "cover",
+    "bytes": 101448,
+    "width": 192,
+    "height": 272,
+    "sha256": "c782871ca8bc2a56522d1207bf26bf7862977ee1fe880b74ca8efb994d212aad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51162.jpg"
+    },
+    "gameId": "SLES_511.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METROPOLISMANIA"
+}

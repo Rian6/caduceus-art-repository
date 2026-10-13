@@ -1,0 +1,25 @@
+{
+  "id": "ALCH_000.28",
+  "cover": {
+    "path": "PS2/ALCH_000.28/ALCH_000.28_COV.png",
+    "kind": "cover",
+    "bytes": 114660,
+    "width": 192,
+    "height": 272,
+    "sha256": "bcc21e3247d0235ab8597f75dec5a2232495e38848f7b0310c01b592af8e7aa4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/ALCH-00028.jpg"
+    },
+    "gameId": "ALCH_000.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HANA TO OTOME NI SHUKUFUKU WO - HARUKAZE NO OKURIMONO [SAINT BOX]"
+}

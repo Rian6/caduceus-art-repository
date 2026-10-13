@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_251.25",
+  "cover": {
+    "path": "PS2/SLKA_251.25/SLKA_251.25_COV.png",
+    "kind": "cover",
+    "bytes": 93754,
+    "width": 192,
+    "height": 272,
+    "sha256": "a5761311eaf2e927a2793edb7881d8cb9e8a7fbbb8ab299b68e729e5958905e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25125.jpg"
+    },
+    "gameId": "SLKA_251.25"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_251.25/SLKA_251.25_BG.png",
+    "kind": "background",
+    "bytes": 167929,
+    "width": 640,
+    "height": 480,
+    "sha256": "1c80d4c79be6b77f67ebb93398423d8326b2aa9018ec30bc44f1e629796af1c3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.25/SLKA_251.25_BG_00.png"
+    },
+    "gameId": "SLKA_251.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_251.25/SLKA_251.25_BG.png",
+      "kind": "background",
+      "bytes": 167929,
+      "width": 640,
+      "height": 480,
+      "sha256": "1c80d4c79be6b77f67ebb93398423d8326b2aa9018ec30bc44f1e629796af1c3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.25/SLKA_251.25_BG_00.png"
+      },
+      "gameId": "SLKA_251.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SVC CHAOS - SNK VS CAPCOM"
+}

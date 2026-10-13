@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.51",
+  "cover": {
+    "path": "PS2/SLPM_621.51/SLPM_621.51_COV.png",
+    "kind": "cover",
+    "bytes": 81691,
+    "width": 192,
+    "height": 272,
+    "sha256": "c72b811deead2181e22c569c053d2ad085ec62f78a1a2a7039d3517e2a8f1ddd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62151.jpg"
+    },
+    "gameId": "SLPM_621.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JIKKYOU G1 STABLE 2"
+}

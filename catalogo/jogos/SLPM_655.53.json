@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.53",
+  "cover": {
+    "path": "PS2/SLPM_655.53/SLPM_655.53_COV.png",
+    "kind": "cover",
+    "bytes": 107356,
+    "width": 192,
+    "height": 272,
+    "sha256": "41e8a3e8d58e25eb785254b5295c974bfeaafea798a2ca1498400875fd458a1a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65553.jpg"
+    },
+    "gameId": "SLPM_655.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL WOLF REV"
+}

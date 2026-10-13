@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.55",
+  "cover": {
+    "path": "PS2/SLPM_622.55/SLPM_622.55_COV.png",
+    "kind": "cover",
+    "bytes": 85107,
+    "width": 192,
+    "height": 272,
+    "sha256": "fb2fa74cfc072e52de363fbb7b6740e46919ff2a54e32c7ffd548fb337f74407",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62255.jpg"
+    },
+    "gameId": "SLPM_622.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Starting Five"
+}

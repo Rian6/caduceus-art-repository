@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.91",
+  "cover": {
+    "path": "PS2/SLPM_662.91/SLPM_662.91_COV.png",
+    "kind": "cover",
+    "bytes": 97648,
+    "width": 192,
+    "height": 272,
+    "sha256": "ddad27b901fd19e516160e45c9ed540d51aa1d98ad41deae08d312ef35f9c3ff",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66291.jpg"
+    },
+    "gameId": "SLPM_662.91"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tenka-bito"
+}

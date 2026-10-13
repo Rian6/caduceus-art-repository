@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_216.87",
+  "cover": {
+    "path": "PS2/SLUS_216.87/SLUS_216.87_COV.png",
+    "kind": "cover",
+    "bytes": 70541,
+    "width": 192,
+    "height": 272,
+    "sha256": "3836de5199c444af5753001a5a2947b1bbd6920eed9ea7593ee09468d6ac8e4c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21687.jpg"
+    },
+    "gameId": "SLUS_216.87"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.87/SLUS_216.87_ICO.png",
+    "kind": "disc",
+    "bytes": 31880,
+    "width": 256,
+    "height": 256,
+    "sha256": "6e5bcf164b678673bbb13b5d60489a4aa66d9e6391b1157dcae4c8274747b45b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.87_ICO.png"
+    },
+    "gameId": "SLUS_216.87"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.87/SLUS_216.87_BG.png",
+    "kind": "background",
+    "bytes": 134580,
+    "width": 640,
+    "height": 480,
+    "sha256": "a1b8f2cfa4b02ac042296a0296ec8762799daf2c4d632c56a9ae17a86a865e17",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.87/SLUS_216.87_BG_00.png"
+    },
+    "gameId": "SLUS_216.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.87/SLUS_216.87_BG.png",
+      "kind": "background",
+      "bytes": 134580,
+      "width": 640,
+      "height": 480,
+      "sha256": "a1b8f2cfa4b02ac042296a0296ec8762799daf2c4d632c56a9ae17a86a865e17",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.87/SLUS_216.87_BG_00.png"
+      },
+      "gameId": "SLUS_216.87"
+    },
+    {
+      "path": "PS2/SLUS_216.87/SLUS_216.87_BG_01.png",
+      "kind": "background",
+      "bytes": 187489,
+      "width": 640,
+      "height": 480,
+      "sha256": "01aba77702a865bdd8bf9d4979fe33c1ab942ca4ea43d9597dfa3dab11610170",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.87/SLUS_216.87_BG_01.png"
+      },
+      "gameId": "SLUS_216.87"
+    },
+    {
+      "path": "PS2/SLUS_216.87/SLUS_216.87_BG_02.png",
+      "kind": "background",
+      "bytes": 177313,
+      "width": 640,
+      "height": 480,
+      "sha256": "be8d21f6ed98d51355f51abd03b8c3e93b55af800c832f76c360a0395676dd6d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.87/SLUS_216.87_BG_02.png"
+      },
+      "gameId": "SLUS_216.87"
+    },
+    {
+      "path": "PS2/SLUS_216.87/SLUS_216.87_BG_03.png",
+      "kind": "background",
+      "bytes": 165739,
+      "width": 640,
+      "height": 480,
+      "sha256": "597bec9e295cc10603c137b24d9ff6041734376d4a96647def21b8db91691fd7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.87/SLUS_216.87_BG_03.png"
+      },
+      "gameId": "SLUS_216.87"
+    },
+    {
+      "path": "PS2/SLUS_216.87/SLUS_216.87_BG_04.png",
+      "kind": "background",
+      "bytes": 157876,
+      "width": 640,
+      "height": 480,
+      "sha256": "84b4a86f5b646ab12d08194f9c915b6913e6528736b3fb1b8c965fe99e24ecea",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.87/SLUS_216.87_BG_04.png"
+      },
+      "gameId": "SLUS_216.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters XI"
+}

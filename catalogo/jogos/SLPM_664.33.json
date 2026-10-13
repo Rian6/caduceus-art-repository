@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.33",
+  "cover": {
+    "path": "PS2/SLPM_664.33/SLPM_664.33_COV.png",
+    "kind": "cover",
+    "bytes": 110706,
+    "width": 192,
+    "height": 272,
+    "sha256": "64c2a43a5f4ed8a598c9f0c12f8533f917d99dca5ccc93d04371ca813cf8ea7e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66433.jpg"
+    },
+    "gameId": "SLPM_664.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TAMAYURA - MITAMAOKURI NO UTA"
+}

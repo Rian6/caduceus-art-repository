@@ -1,0 +1,25 @@
+{
+  "id": "SCES_516.13",
+  "cover": {
+    "path": "PS2/SCES_516.13/SCES_516.13_COV.png",
+    "kind": "cover",
+    "bytes": 90324,
+    "width": 192,
+    "height": 272,
+    "sha256": "77d6ba98f81c59db3248fc60832ecf4b0a46461e06a3bf07cfedc7cf4ed62f79",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51613.jpg"
+    },
+    "gameId": "SCES_516.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "This Is Football 2004"
+}

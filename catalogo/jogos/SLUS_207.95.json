@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_207.95",
+  "cover": {
+    "path": "PS2/SLUS_207.95/SLUS_207.95_COV.png",
+    "kind": "cover",
+    "bytes": 102005,
+    "width": 192,
+    "height": 272,
+    "sha256": "195ac52dc48b4a88f1396f1bdd4635f0f38d03f2028c808726f9e54b176fb6a7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20795.jpg"
+    },
+    "gameId": "SLUS_207.95"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.95/SLUS_207.95_ICO.png",
+    "kind": "disc",
+    "bytes": 34197,
+    "width": 256,
+    "height": 256,
+    "sha256": "990e19f6b32e2fc71d2d58c514707e06444ad8b5993cf16a50f0427fa1d24dca",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.95_ICO.png"
+    },
+    "gameId": "SLUS_207.95"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.95/SLUS_207.95_BG.png",
+    "kind": "background",
+    "bytes": 137270,
+    "width": 640,
+    "height": 480,
+    "sha256": "9f3345e6ac6455bd94894586e2693f6c498e296b08624f40ab46d3dded09cea0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.95/SLUS_207.95_BG_00.png"
+    },
+    "gameId": "SLUS_207.95"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.95/SLUS_207.95_BG.png",
+      "kind": "background",
+      "bytes": 137270,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f3345e6ac6455bd94894586e2693f6c498e296b08624f40ab46d3dded09cea0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.95/SLUS_207.95_BG_00.png"
+      },
+      "gameId": "SLUS_207.95"
+    },
+    {
+      "path": "PS2/SLUS_207.95/SLUS_207.95_BG_01.png",
+      "kind": "background",
+      "bytes": 126383,
+      "width": 640,
+      "height": 480,
+      "sha256": "0fc3531f7852eaf32ce3665ec094f7b4627cbca6983ce85b459e1facd02f90f1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.95/SLUS_207.95_BG_01.png"
+      },
+      "gameId": "SLUS_207.95"
+    },
+    {
+      "path": "PS2/SLUS_207.95/SLUS_207.95_BG_02.png",
+      "kind": "background",
+      "bytes": 168703,
+      "width": 640,
+      "height": 480,
+      "sha256": "aeed43cdcc45466fb099192211fc2e31a898c40882f2094df373485328aefadb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.95/SLUS_207.95_BG_02.png"
+      },
+      "gameId": "SLUS_207.95"
+    },
+    {
+      "path": "PS2/SLUS_207.95/SLUS_207.95_BG_03.png",
+      "kind": "background",
+      "bytes": 159343,
+      "width": 640,
+      "height": 480,
+      "sha256": "ba7846e729306191d09803e7b193aa53334c46e92f6e596ead8f2adb6c0c5185",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.95/SLUS_207.95_BG_03.png"
+      },
+      "gameId": "SLUS_207.95"
+    },
+    {
+      "path": "PS2/SLUS_207.95/SLUS_207.95_BG_04.png",
+      "kind": "background",
+      "bytes": 191792,
+      "width": 640,
+      "height": 480,
+      "sha256": "54deb2e7e9c865fea2ebfcf6005c3bf3b3f6dfe0f19125f06a90527c83ec77b1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.95/SLUS_207.95_BG_04.png"
+      },
+      "gameId": "SLUS_207.95"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bloody Roar 4"
+}

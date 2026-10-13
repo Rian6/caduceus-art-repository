@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_203.78",
+  "cover": {
+    "path": "PS2/SLUS_203.78/SLUS_203.78_COV.png",
+    "kind": "cover",
+    "bytes": 109730,
+    "width": 192,
+    "height": 272,
+    "sha256": "adf2c6713cc497f12ebf646bada9e9c04895a91bbe86633ee8d1f4543ea22a43",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20378.jpg"
+    },
+    "gameId": "SLUS_203.78"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.78/SLUS_203.78_ICO.png",
+    "kind": "disc",
+    "bytes": 36084,
+    "width": 256,
+    "height": 256,
+    "sha256": "3f6c0d9054f4ab184a4178780b98b23568247a9245b373b6fb9ce67ced6dab22",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.78_ICO.png"
+    },
+    "gameId": "SLUS_203.78"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Salt Lake 2002"
+}

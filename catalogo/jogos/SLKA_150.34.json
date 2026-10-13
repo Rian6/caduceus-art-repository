@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_150.34",
+  "cover": {
+    "path": "PS2/SLKA_150.34/SLKA_150.34_COV.png",
+    "kind": "cover",
+    "bytes": 96812,
+    "width": 192,
+    "height": 272,
+    "sha256": "3fca95463ff6f8237baf33fd93122490519a480a7fb3a3b789c14ade0e96d514",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-15034.jpg"
+    },
+    "gameId": "SLKA_150.34"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KINNIKUMAN GENERATIONS"
+}

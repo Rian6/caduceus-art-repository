@@ -1,0 +1,142 @@
+{
+  "id": "SCES_532.02",
+  "cover": {
+    "path": "PS2/SCES_532.02/SCES_532.02_COV.png",
+    "kind": "cover",
+    "bytes": 100845,
+    "width": 192,
+    "height": 272,
+    "sha256": "5cae9a92425e3009fcfa57b29b1088bb77b89303c240aa4f7e7a1ddd71e214eb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53202.jpg"
+    },
+    "gameId": "SCES_532.02"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_532.02/SCES_532.02_BG.png",
+    "kind": "background",
+    "bytes": 182814,
+    "width": 640,
+    "height": 480,
+    "sha256": "9151cae8c409e54c3da52ebea7d9eedbb1f84adfb44220c4f4efa2548608fe28",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_532.02/SCES_532.02_BG_00.png"
+    },
+    "gameId": "SCES_532.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_532.02/SCES_532.02_BG.png",
+      "kind": "background",
+      "bytes": 182814,
+      "width": 640,
+      "height": 480,
+      "sha256": "9151cae8c409e54c3da52ebea7d9eedbb1f84adfb44220c4f4efa2548608fe28",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.02/SCES_532.02_BG_00.png"
+      },
+      "gameId": "SCES_532.02"
+    },
+    {
+      "path": "PS2/SCES_532.02/SCES_532.02_BG_01.png",
+      "kind": "background",
+      "bytes": 77217,
+      "width": 640,
+      "height": 480,
+      "sha256": "5e904caa25842b795146b95b6863b9ffca8842686da8569779a8e9a4aafaf9d4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.02/SCES_532.02_BG_01.png"
+      },
+      "gameId": "SCES_532.02"
+    },
+    {
+      "path": "PS2/SCES_532.02/SCES_532.02_BG_02.png",
+      "kind": "background",
+      "bytes": 239272,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ed0ca4c1237f9fe0598810ad9415f325df7f37c429a4bb34a907a69c6f29a61",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.02/SCES_532.02_BG_02.png"
+      },
+      "gameId": "SCES_532.02"
+    },
+    {
+      "path": "PS2/SCES_532.02/SCES_532.02_BG_03.png",
+      "kind": "background",
+      "bytes": 114063,
+      "width": 640,
+      "height": 480,
+      "sha256": "5be0ad419e611c3f44d18247ba033aad9cca4032fdc8d50d470c7479336b8aec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.02/SCES_532.02_BG_03.png"
+      },
+      "gameId": "SCES_532.02"
+    },
+    {
+      "path": "PS2/SCES_532.02/SCES_532.02_BG_04.png",
+      "kind": "background",
+      "bytes": 203384,
+      "width": 640,
+      "height": 480,
+      "sha256": "13d37384133851345c115a6f755d36f289a3496c3e999ca2434d2b070452d50e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.02/SCES_532.02_BG_04.png"
+      },
+      "gameId": "SCES_532.02"
+    },
+    {
+      "path": "PS2/SCES_532.02/SCES_532.02_BG_05.png",
+      "kind": "background",
+      "bytes": 190778,
+      "width": 640,
+      "height": 480,
+      "sha256": "b6cef4e5fdda29e0cf3bd614c222cd92b6fc523c59f95dc45d939a49ff40bff3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.02/SCES_532.02_BG_05.png"
+      },
+      "gameId": "SCES_532.02"
+    },
+    {
+      "path": "PS2/SCES_532.02/SCES_532.02_BG_06.png",
+      "kind": "background",
+      "bytes": 128099,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d2a1506dcf0a4356edc175ee315acac4c338d5f4df8eb6e9898255c88637cf4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.02/SCES_532.02_BG_06.png"
+      },
+      "gameId": "SCES_532.02"
+    },
+    {
+      "path": "PS2/SCES_532.02/SCES_532.02_BG_07.png",
+      "kind": "background",
+      "bytes": 182978,
+      "width": 640,
+      "height": 480,
+      "sha256": "5f70f9ae794437124bed3693212965886deaf8a68c9801300038565e8ee9bc1f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_532.02/SCES_532.02_BG_07.png"
+      },
+      "gameId": "SCES_532.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tekken 5"
+}

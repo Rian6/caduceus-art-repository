@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.51",
+  "cover": {
+    "path": "PS2/SLPS_250.51/SLPS_250.51_COV.png",
+    "kind": "cover",
+    "bytes": 78782,
+    "width": 192,
+    "height": 272,
+    "sha256": "d8952e7b6a3b4ef25a3b26eb73f12f97aa20a10f3ddceb8baa90052d12fda00b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25051.jpg"
+    },
+    "gameId": "SLPS_250.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MISSING BLUE"
+}

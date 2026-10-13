@@ -1,0 +1,25 @@
+{
+  "id": "ALCH_000.01",
+  "cover": {
+    "path": "PS2/ALCH_000.01/ALCH_000.01_COV.png",
+    "kind": "cover",
+    "bytes": 100690,
+    "width": 192,
+    "height": 272,
+    "sha256": "d9cb9d27fcf68d0d6f9c1bda6e6adcd62b663f53501ea00a211c739675046bde",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/ALCH-00001.jpg"
+    },
+    "gameId": "ALCH_000.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KATAKAMUNA - USHINAWARETA INGARITSU [DELUXE PACK]"
+}

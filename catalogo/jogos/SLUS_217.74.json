@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_217.74",
+  "cover": {
+    "path": "PS2/SLUS_217.74/SLUS_217.74_COV.png",
+    "kind": "cover",
+    "bytes": 103147,
+    "width": 192,
+    "height": 272,
+    "sha256": "ee68b9591513ec31ef9111d9ea744f254c90cb4e9b12795b846180d950e0eb18",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21774.jpg"
+    },
+    "gameId": "SLUS_217.74"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.74/SLUS_217.74_ICO.png",
+    "kind": "disc",
+    "bytes": 32123,
+    "width": 256,
+    "height": 256,
+    "sha256": "2a9d262ab49c6731090e64e744801ab9b2dfaebd6345c625e8c6b48ac482fd02",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.74_ICO.png"
+    },
+    "gameId": "SLUS_217.74"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.74/SLUS_217.74_BG.png",
+    "kind": "background",
+    "bytes": 208729,
+    "width": 640,
+    "height": 480,
+    "sha256": "1be6c665069778f6e7d8da156259ee7feac20ef8a94f978b0cb4f0fd24fe323d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.74/SLUS_217.74_BG_00.png"
+    },
+    "gameId": "SLUS_217.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.74/SLUS_217.74_BG.png",
+      "kind": "background",
+      "bytes": 208729,
+      "width": 640,
+      "height": 480,
+      "sha256": "1be6c665069778f6e7d8da156259ee7feac20ef8a94f978b0cb4f0fd24fe323d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.74/SLUS_217.74_BG_00.png"
+      },
+      "gameId": "SLUS_217.74"
+    },
+    {
+      "path": "PS2/SLUS_217.74/SLUS_217.74_BG_01.png",
+      "kind": "background",
+      "bytes": 177981,
+      "width": 640,
+      "height": 480,
+      "sha256": "abaab8a36fd8b4a95136229e199deba68fd8ff1883345f08a2bd9b4149a7ce3b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.74/SLUS_217.74_BG_01.png"
+      },
+      "gameId": "SLUS_217.74"
+    },
+    {
+      "path": "PS2/SLUS_217.74/SLUS_217.74_BG_02.png",
+      "kind": "background",
+      "bytes": 180037,
+      "width": 640,
+      "height": 480,
+      "sha256": "5e87e849b2dce5a35c8c188aba2edf62a28a8d394dd47ad79f4153caa748ce18",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.74/SLUS_217.74_BG_02.png"
+      },
+      "gameId": "SLUS_217.74"
+    },
+    {
+      "path": "PS2/SLUS_217.74/SLUS_217.74_BG_03.png",
+      "kind": "background",
+      "bytes": 261284,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2d97460d08721604f5c7b2fb2d15f5a464069172b6491ded9baf2db1cb9a460",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.74/SLUS_217.74_BG_03.png"
+      },
+      "gameId": "SLUS_217.74"
+    },
+    {
+      "path": "PS2/SLUS_217.74/SLUS_217.74_BG_04.png",
+      "kind": "background",
+      "bytes": 203273,
+      "width": 640,
+      "height": 480,
+      "sha256": "3264070c54cad900043c57075643db506dd565c6eace791b4d3dc5c50dc15e68",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.74/SLUS_217.74_BG_04.png"
+      },
+      "gameId": "SLUS_217.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 6"
+}

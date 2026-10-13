@@ -1,0 +1,25 @@
+{
+  "id": "GUST_000.04",
+  "cover": {
+    "path": "PS2/GUST_000.04/GUST_000.04_COV.png",
+    "kind": "cover",
+    "bytes": 65248,
+    "width": 192,
+    "height": 272,
+    "sha256": "83595df4ea37405f966e04b42d0e90183526bd2219e58a8ce268f6bc17714bef",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/GUST_000.04/GUST_000.04_COV.png"
+    },
+    "gameId": "GUST_000.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Atelier Iris - Eternal Mana 2 (Premium Box)"
+}

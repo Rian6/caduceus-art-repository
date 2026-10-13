@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.73",
+  "cover": {
+    "path": "PS2/SLPS_204.73/SLPS_204.73_COV.png",
+    "kind": "cover",
+    "bytes": 96322,
+    "width": 192,
+    "height": 272,
+    "sha256": "edabb51150c13e13d8351e3dd2e79e2cb74e7896f942d794936507b6fdd6c8d2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20473.jpg"
+    },
+    "gameId": "SLPS_204.73"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.104 - The Robot Tsukuruuze!  - Gekitou! Robot Fight"
+}

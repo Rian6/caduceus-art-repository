@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.36",
+  "cover": {
+    "path": "PS2/SLPM_551.36/SLPM_551.36_COV.png",
+    "kind": "cover",
+    "bytes": 103286,
+    "width": 192,
+    "height": 272,
+    "sha256": "795bb2f15ed59ee969ec0742a131fd7820471f6f6a7e3ee988e02d37c79c36e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55136.jpg"
+    },
+    "gameId": "SLPM_551.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLEAR - ATARASHII KAZE NO FUKU OKA DE"
+}

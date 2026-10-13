@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.56",
+  "cover": {
+    "path": "PS2/SLES_526.56/SLES_526.56_COV.png",
+    "kind": "cover",
+    "bytes": 91786,
+    "width": 192,
+    "height": 272,
+    "sha256": "081be6b3f44ef36eddbe68a7bbe55c79ae24b2f72239b2ca36c3d8413961540c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52656.jpg"
+    },
+    "gameId": "SLES_526.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - AC Milan"
+}

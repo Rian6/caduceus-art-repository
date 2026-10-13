@@ -1,0 +1,25 @@
+{
+  "id": "SLES_508.54",
+  "cover": {
+    "path": "PS2/SLES_508.54/SLES_508.54_COV.png",
+    "kind": "cover",
+    "bytes": 80255,
+    "width": 192,
+    "height": 272,
+    "sha256": "7f2baecb7ab93d0a575cc3939320807e2fad749563beca46cd5585b4ce6f4d38",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50854.jpg"
+    },
+    "gameId": "SLES_508.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WM Nationalspieler"
+}

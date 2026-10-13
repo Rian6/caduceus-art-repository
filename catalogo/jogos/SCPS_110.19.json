@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.19",
+  "cover": {
+    "path": "PS2/SCPS_110.19/SCPS_110.19_COV.png",
+    "kind": "cover",
+    "bytes": 95924,
+    "width": 192,
+    "height": 272,
+    "sha256": "ebdd0ba7f6faad9fd2abec534ec562e7976b39074589377dfa4d6c01fce773af",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11019.jpg"
+    },
+    "gameId": "SCPS_110.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BRAVO MUSIC - CHOU-MEIKYOKUBAN [LIMITED EDITION] [2 DISCS]"
+}

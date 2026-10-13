@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.30",
+  "cover": {
+    "path": "PS2/SLPS_201.30/SLPS_201.30_COV.png",
+    "kind": "cover",
+    "bytes": 85823,
+    "width": 192,
+    "height": 272,
+    "sha256": "6798af9800d2dc6fb2443fcb51177c1453199e0f85ee4eb8023b7f6cd5c852da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20130.jpg"
+    },
+    "gameId": "SLPS_201.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Best Play Pro Yakyuu"
+}

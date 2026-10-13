@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.57",
+  "cover": {
+    "path": "PS2/SLPM_666.57/SLPM_666.57_COV.png",
+    "kind": "cover",
+    "bytes": 97151,
+    "width": 192,
+    "height": 272,
+    "sha256": "292ddd34eea1839aeb1dfc73480b83d3831ba208ef4d5a60dcc21b03f70ea22b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66657.jpg"
+    },
+    "gameId": "SLPM_666.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou 3  - Mushouden (Koei Teiban Series)"
+}

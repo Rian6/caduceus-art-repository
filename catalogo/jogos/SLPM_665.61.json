@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.61",
+  "cover": {
+    "path": "PS2/SLPM_665.61/SLPM_665.61_COV.png",
+    "kind": "cover",
+    "bytes": 75940,
+    "width": 192,
+    "height": 272,
+    "sha256": "b16a56e682234635857d2077b29f53a3729a41633cd2ea5a6e1a41371c189ee7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66561.jpg"
+    },
+    "gameId": "SLPM_665.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live 06 (EA Best Hits)"
+}

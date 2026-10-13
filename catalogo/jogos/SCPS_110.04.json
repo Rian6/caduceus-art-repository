@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.04",
+  "cover": {
+    "path": "PS2/SCPS_110.04/SCPS_110.04_COV.png",
+    "kind": "cover",
+    "bytes": 78323,
+    "width": 192,
+    "height": 272,
+    "sha256": "b8226bc14c71e05dc5bff078c1df7dbda24d6f26462f25bc6ac56aa68f6c81f0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11004.jpg"
+    },
+    "gameId": "SCPS_110.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bikkuri Mouse"
+}

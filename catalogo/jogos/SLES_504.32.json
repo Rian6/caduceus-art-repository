@@ -1,0 +1,103 @@
+{
+  "id": "SLES_504.32",
+  "cover": {
+    "path": "PS2/SLES_504.32/SLES_504.32_COV.png",
+    "kind": "cover",
+    "bytes": 77593,
+    "width": 192,
+    "height": 272,
+    "sha256": "955292fb95ad2795778261cd8b8d5911c1524c939557cee41032da3069183f80",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50432.jpg"
+    },
+    "gameId": "SLES_504.32"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_504.32/SLES_504.32_BG.png",
+    "kind": "background",
+    "bytes": 164795,
+    "width": 640,
+    "height": 480,
+    "sha256": "0843698cc4217930199182b741652eb7ba28926b353143d5f84eab8086f00bc4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_504.32/SLES_504.32_BG_00.png"
+    },
+    "gameId": "SLES_504.32"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_504.32/SLES_504.32_BG.png",
+      "kind": "background",
+      "bytes": 164795,
+      "width": 640,
+      "height": 480,
+      "sha256": "0843698cc4217930199182b741652eb7ba28926b353143d5f84eab8086f00bc4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.32/SLES_504.32_BG_00.png"
+      },
+      "gameId": "SLES_504.32"
+    },
+    {
+      "path": "PS2/SLES_504.32/SLES_504.32_BG_01.png",
+      "kind": "background",
+      "bytes": 208409,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ed4988a1afd8af49754a08910cf2dd6cc6e97db77f7bcec82182a72df389269",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.32/SLES_504.32_BG_01.png"
+      },
+      "gameId": "SLES_504.32"
+    },
+    {
+      "path": "PS2/SLES_504.32/SLES_504.32_BG_02.png",
+      "kind": "background",
+      "bytes": 157578,
+      "width": 640,
+      "height": 480,
+      "sha256": "13140de99c2e29ef79412c55cbd082939f665902222feab3966cbd31cb3b54e2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.32/SLES_504.32_BG_02.png"
+      },
+      "gameId": "SLES_504.32"
+    },
+    {
+      "path": "PS2/SLES_504.32/SLES_504.32_BG_03.png",
+      "kind": "background",
+      "bytes": 74371,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7c34b002a42bf1405a5f185c1ad131c2fa75a019e63b2e5d369cce2894327ab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.32/SLES_504.32_BG_03.png"
+      },
+      "gameId": "SLES_504.32"
+    },
+    {
+      "path": "PS2/SLES_504.32/SLES_504.32_BG_04.png",
+      "kind": "background",
+      "bytes": 188285,
+      "width": 640,
+      "height": 480,
+      "sha256": "c4d2c7906532202425614e0dc2670c87e91995b805142f17c1df138b6aed0efa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.32/SLES_504.32_BG_04.png"
+      },
+      "gameId": "SLES_504.32"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tony Hawk's Pro Skater 3"
+}

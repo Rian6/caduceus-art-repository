@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_200.14",
+  "cover": {
+    "path": "PS2/SLUS_200.14/SLUS_200.14_COV.png",
+    "kind": "cover",
+    "bytes": 105447,
+    "width": 192,
+    "height": 272,
+    "sha256": "21d881b1b972975844a12e537f7fd90a945e990d36969367645ccdbb2dab7e88",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20014.jpg"
+    },
+    "gameId": "SLUS_200.14"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.14/SLUS_200.14_ICO.png",
+    "kind": "disc",
+    "bytes": 38976,
+    "width": 256,
+    "height": 256,
+    "sha256": "77216c1918f0e7394fdaff22d53966a0f725bd16f0e65552c323e2f598ed7135",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.14_ICO.png"
+    },
+    "gameId": "SLUS_200.14"
+  },
+  "background": {
+    "path": "PS2/SLUS_200.14/SLUS_200.14_BG.png",
+    "kind": "background",
+    "bytes": 190708,
+    "width": 640,
+    "height": 480,
+    "sha256": "6b91e1c7683c8a0e66bca9faa0cee40f73fd4b668b51071fae219df8e0c2ae14",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_200.14/SLUS_200.14_BG_00.png"
+    },
+    "gameId": "SLUS_200.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_200.14/SLUS_200.14_BG.png",
+      "kind": "background",
+      "bytes": 190708,
+      "width": 640,
+      "height": 480,
+      "sha256": "6b91e1c7683c8a0e66bca9faa0cee40f73fd4b668b51071fae219df8e0c2ae14",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.14/SLUS_200.14_BG_00.png"
+      },
+      "gameId": "SLUS_200.14"
+    },
+    {
+      "path": "PS2/SLUS_200.14/SLUS_200.14_BG_01.png",
+      "kind": "background",
+      "bytes": 218806,
+      "width": 640,
+      "height": 480,
+      "sha256": "65ce2dcb1a6ab9a55223359bcf85ed4a68337b6a906dc5a20d565fea1756e280",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.14/SLUS_200.14_BG_01.png"
+      },
+      "gameId": "SLUS_200.14"
+    },
+    {
+      "path": "PS2/SLUS_200.14/SLUS_200.14_BG_02.png",
+      "kind": "background",
+      "bytes": 131040,
+      "width": 640,
+      "height": 480,
+      "sha256": "a2429b79d144280f28924309eb53e0f78501783030495b4d922e30a9924cb90f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.14/SLUS_200.14_BG_02.png"
+      },
+      "gameId": "SLUS_200.14"
+    },
+    {
+      "path": "PS2/SLUS_200.14/SLUS_200.14_BG_03.png",
+      "kind": "background",
+      "bytes": 171405,
+      "width": 640,
+      "height": 480,
+      "sha256": "57c93d4763f19d4cd5568736d1b3d2811257d25913a7e9031032549ab65d2ce3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.14/SLUS_200.14_BG_03.png"
+      },
+      "gameId": "SLUS_200.14"
+    },
+    {
+      "path": "PS2/SLUS_200.14/SLUS_200.14_BG_04.png",
+      "kind": "background",
+      "bytes": 195512,
+      "width": 640,
+      "height": 480,
+      "sha256": "6860d3d54f9b92ccde1f9cc237c761191c06be2ac512fef991b27ff8429526dc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.14/SLUS_200.14_BG_04.png"
+      },
+      "gameId": "SLUS_200.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core 2"
+}

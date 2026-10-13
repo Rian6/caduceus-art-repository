@@ -1,0 +1,64 @@
+{
+  "id": "SLES_522.84",
+  "cover": {
+    "path": "PS2/SLES_522.84/SLES_522.84_COV.png",
+    "kind": "cover",
+    "bytes": 103302,
+    "width": 192,
+    "height": 272,
+    "sha256": "333cc27d76224534b142aef9f664df47040ffb3bc0161663d52a140e2671ae71",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52284.jpg"
+    },
+    "gameId": "SLES_522.84"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_522.84/SLES_522.84_BG.png",
+    "kind": "background",
+    "bytes": 227414,
+    "width": 640,
+    "height": 480,
+    "sha256": "b56a051c69e372c719897c4f28dfc1fb33e2d848b1d501e704e8003cb36385fe",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_522.84/SLES_522.84_BG_00.png"
+    },
+    "gameId": "SLES_522.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_522.84/SLES_522.84_BG.png",
+      "kind": "background",
+      "bytes": 227414,
+      "width": 640,
+      "height": 480,
+      "sha256": "b56a051c69e372c719897c4f28dfc1fb33e2d848b1d501e704e8003cb36385fe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.84/SLES_522.84_BG_00.png"
+      },
+      "gameId": "SLES_522.84"
+    },
+    {
+      "path": "PS2/SLES_522.84/SLES_522.84_BG_01.png",
+      "kind": "background",
+      "bytes": 125760,
+      "width": 640,
+      "height": 480,
+      "sha256": "88d9fe33b953e39364a1d0d0789fc4afa5a26044f06795fbd6c4e7a4d64fab5b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.84/SLES_522.84_BG_01.png"
+      },
+      "gameId": "SLES_522.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEADLY SKIES III"
+}

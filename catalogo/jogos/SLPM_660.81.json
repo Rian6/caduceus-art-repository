@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.81",
+  "cover": {
+    "path": "PS2/SLPM_660.81/SLPM_660.81_COV.png",
+    "kind": "cover",
+    "bytes": 99619,
+    "width": 192,
+    "height": 272,
+    "sha256": "f4dba5843c7868f6386c1e6b4f5948118d5057c22d4b508c51c9e40f6817f1e2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66081.jpg"
+    },
+    "gameId": "SLPM_660.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ATELIER IRIS - ETERNAL MANA [GUST BEST PRICE]"
+}

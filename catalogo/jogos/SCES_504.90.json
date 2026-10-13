@@ -1,0 +1,90 @@
+{
+  "id": "SCES_504.90",
+  "cover": {
+    "path": "PS2/SCES_504.90/SCES_504.90_COV.png",
+    "kind": "cover",
+    "bytes": 46571,
+    "width": 192,
+    "height": 272,
+    "sha256": "88552ad082033f0aa5b5fa5f562ada4c7cb2e448d94ed87c630decda3cf89418",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50490.jpg"
+    },
+    "gameId": "SCES_504.90"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_504.90/SCES_504.90_BG.png",
+    "kind": "background",
+    "bytes": 209731,
+    "width": 640,
+    "height": 480,
+    "sha256": "af7d4a1b14db3e265c72932f74d889f2d85c9b44f2b93c7bea2615a34b8ee38d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_504.90/SCES_504.90_BG_00.png"
+    },
+    "gameId": "SCES_504.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_504.90/SCES_504.90_BG.png",
+      "kind": "background",
+      "bytes": 209731,
+      "width": 640,
+      "height": 480,
+      "sha256": "af7d4a1b14db3e265c72932f74d889f2d85c9b44f2b93c7bea2615a34b8ee38d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.90/SCES_504.90_BG_00.png"
+      },
+      "gameId": "SCES_504.90"
+    },
+    {
+      "path": "PS2/SCES_504.90/SCES_504.90_BG_01.png",
+      "kind": "background",
+      "bytes": 37799,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ceedc5ea9f61fabf0da188b6063c55a710746391cd6dab8d3ef855d48f5d254",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.90/SCES_504.90_BG_01.png"
+      },
+      "gameId": "SCES_504.90"
+    },
+    {
+      "path": "PS2/SCES_504.90/SCES_504.90_BG_02.png",
+      "kind": "background",
+      "bytes": 86791,
+      "width": 640,
+      "height": 480,
+      "sha256": "9374796f27bb8dd3d4fed9bffb22a1d1939dd44af9e5221423fdd9875543211f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.90/SCES_504.90_BG_02.png"
+      },
+      "gameId": "SCES_504.90"
+    },
+    {
+      "path": "PS2/SCES_504.90/SCES_504.90_BG_03.png",
+      "kind": "background",
+      "bytes": 222718,
+      "width": 640,
+      "height": 480,
+      "sha256": "52984b6d19ec52c9e42ac13ba37b7bf3571dcb8a14da5cd6266071dd7a6814ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_504.90/SCES_504.90_BG_03.png"
+      },
+      "gameId": "SCES_504.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy X"
+}

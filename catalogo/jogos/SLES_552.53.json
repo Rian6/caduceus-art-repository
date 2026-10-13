@@ -1,0 +1,25 @@
+{
+  "id": "SLES_552.53",
+  "cover": {
+    "path": "PS2/SLES_552.53/SLES_552.53_COV.png",
+    "kind": "cover",
+    "bytes": 83565,
+    "width": 192,
+    "height": 272,
+    "sha256": "5ebf52d7597b59a26761e7fbf408f7d4be6810a585ef2876698204811cd2048b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55253.jpg"
+    },
+    "gameId": "SLES_552.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA 2K9"
+}

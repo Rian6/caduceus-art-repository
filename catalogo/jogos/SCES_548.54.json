@@ -1,0 +1,25 @@
+{
+  "id": "SCES_548.54",
+  "cover": {
+    "path": "PS2/SCES_548.54/SCES_548.54_COV.png",
+    "kind": "cover",
+    "bytes": 63086,
+    "width": 192,
+    "height": 272,
+    "sha256": "7e8560182b251857d33ff4e12bbde4194f8d31dbc93ed322ccc4f07a6d0e3ab4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_548.54/SCES_548.54_COV.png"
+    },
+    "gameId": "SCES_548.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Hollywood Quiz"
+}

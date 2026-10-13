@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_254.47",
+  "cover": {
+    "path": "PS2/SLPS_254.47/SLPS_254.47_COV.png",
+    "kind": "cover",
+    "bytes": 100088,
+    "width": 192,
+    "height": 272,
+    "sha256": "ac99095600b8469ab63d26b9320ebf36d2488e66475fdaae5872f969e4b85f8f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25447.jpg"
+    },
+    "gameId": "SLPS_254.47"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_254.47/SLPS_254.47_BG.png",
+    "kind": "background",
+    "bytes": 197916,
+    "width": 640,
+    "height": 480,
+    "sha256": "3aff060cc138f4e5147d2cd922d3f070bf612e2d284da65d518edf19ed4b937c",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_254.47/SLPS_254.47_BG_00.png"
+    },
+    "gameId": "SLPS_254.47"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_254.47/SLPS_254.47_BG.png",
+      "kind": "background",
+      "bytes": 197916,
+      "width": 640,
+      "height": 480,
+      "sha256": "3aff060cc138f4e5147d2cd922d3f070bf612e2d284da65d518edf19ed4b937c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.47/SLPS_254.47_BG_00.png"
+      },
+      "gameId": "SLPS_254.47"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Top o Nerae! GunBuster"
+}

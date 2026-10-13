@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_212.64",
+  "cover": {
+    "path": "PS2/SLUS_212.64/SLUS_212.64_COV.png",
+    "kind": "cover",
+    "bytes": 84718,
+    "width": 192,
+    "height": 272,
+    "sha256": "7044cb09feadb3d9e649acb810df4583f93fc5439df2a058f96e15acc96522d1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21264.jpg"
+    },
+    "gameId": "SLUS_212.64"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.64/SLUS_212.64_ICO.png",
+    "kind": "disc",
+    "bytes": 29729,
+    "width": 256,
+    "height": 256,
+    "sha256": "d1d1b2013d082c3405b5fa4bac9aac6ae6734f7aa63e6589ef7ad2b13ac6f1ef",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.64_ICO.png"
+    },
+    "gameId": "SLUS_212.64"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.64/SLUS_212.64_BG.png",
+    "kind": "background",
+    "bytes": 194214,
+    "width": 640,
+    "height": 480,
+    "sha256": "1d3810b04fd4798cc4602f9a3a6d64629c584888640de179dd32de234165d61b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.64/SLUS_212.64_BG_00.png"
+    },
+    "gameId": "SLUS_212.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.64/SLUS_212.64_BG.png",
+      "kind": "background",
+      "bytes": 194214,
+      "width": 640,
+      "height": 480,
+      "sha256": "1d3810b04fd4798cc4602f9a3a6d64629c584888640de179dd32de234165d61b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.64/SLUS_212.64_BG_00.png"
+      },
+      "gameId": "SLUS_212.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tiger Woods PGA Tour '06"
+}

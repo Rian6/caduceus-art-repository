@@ -1,0 +1,25 @@
+{
+  "id": "SLES_507.11",
+  "cover": {
+    "path": "PS2/SLES_507.11/SLES_507.11_COV.png",
+    "kind": "cover",
+    "bytes": 89923,
+    "width": 192,
+    "height": 272,
+    "sha256": "008dda95bf8a563dc2285554d09dc56a6665e4fa7bdb2ac742c452a505b4a930",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50711.jpg"
+    },
+    "gameId": "SLES_507.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RedCard"
+}

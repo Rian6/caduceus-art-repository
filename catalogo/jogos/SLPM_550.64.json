@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.64",
+  "cover": {
+    "path": "PS2/SLPM_550.64/SLPM_550.64_COV.png",
+    "kind": "cover",
+    "bytes": 106035,
+    "width": 192,
+    "height": 272,
+    "sha256": "1637fbff3fc5617f8cbf835f20d57aeace116382b1767f2e8a34550641bf8d13",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55064.jpg"
+    },
+    "gameId": "SLPM_550.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAKUOKI - SHINSENGUMI KITAN"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_204.16",
+  "cover": {
+    "path": "PS2/SLUS_204.16/SLUS_204.16_COV.png",
+    "kind": "cover",
+    "bytes": 54898,
+    "width": 192,
+    "height": 272,
+    "sha256": "fd0897b9c9b6bef6f79a2c766df0873c8f779bdb3e68d170ba26164be8472cac",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20416.jpg"
+    },
+    "gameId": "SLUS_204.16"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.16/SLUS_204.16_ICO.png",
+    "kind": "disc",
+    "bytes": 30789,
+    "width": 256,
+    "height": 256,
+    "sha256": "eca378873b026ecc8dccfd659a1b642f1c8de079be9ffd413daa990012d210f6",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.16_ICO.png"
+    },
+    "gameId": "SLUS_204.16"
+  },
+  "background": {
+    "path": "PS2/SLUS_204.16/SLUS_204.16_BG.png",
+    "kind": "background",
+    "bytes": 157816,
+    "width": 640,
+    "height": 480,
+    "sha256": "ec0bdd4a46db528abfb0e3aece184a75db73b913d473ea85e4ca8e520328364e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_204.16/SLUS_204.16_BG_00.png"
+    },
+    "gameId": "SLUS_204.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_204.16/SLUS_204.16_BG.png",
+      "kind": "background",
+      "bytes": 157816,
+      "width": 640,
+      "height": 480,
+      "sha256": "ec0bdd4a46db528abfb0e3aece184a75db73b913d473ea85e4ca8e520328364e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.16/SLUS_204.16_BG_00.png"
+      },
+      "gameId": "SLUS_204.16"
+    },
+    {
+      "path": "PS2/SLUS_204.16/SLUS_204.16_BG_01.png",
+      "kind": "background",
+      "bytes": 151158,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a1bb9e96a1d39716679f01d2a3fbe545319a09dca403c7db0942aa10d381826",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_204.16/SLUS_204.16_BG_01.png"
+      },
+      "gameId": "SLUS_204.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HEADHUNTER"
+}

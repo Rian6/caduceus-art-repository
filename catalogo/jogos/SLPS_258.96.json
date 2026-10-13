@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.96",
+  "cover": {
+    "path": "PS2/SLPS_258.96/SLPS_258.96_COV.png",
+    "kind": "cover",
+    "bytes": 126394,
+    "width": 192,
+    "height": 272,
+    "sha256": "306575da93d820cc227cc5f6624388dd201e1d49fba0dd5fdfd815d206323207",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25896.jpg"
+    },
+    "gameId": "SLPS_258.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Moe Moe 2-ji Daisenryaku Deluxe"
+}

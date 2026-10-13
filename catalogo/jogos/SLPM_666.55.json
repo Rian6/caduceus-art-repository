@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.55",
+  "cover": {
+    "path": "PS2/SLPM_666.55/SLPM_666.55_COV.png",
+    "kind": "cover",
+    "bytes": 102217,
+    "width": 192,
+    "height": 272,
+    "sha256": "12f09b0314592f9de96348c142d343a1c9aa1d06fe845625373ed7495efefc0d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66655.jpg"
+    },
+    "gameId": "SLPM_666.55"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE - HACHIYOUSHOU [KOEI THE BEST]"
+}

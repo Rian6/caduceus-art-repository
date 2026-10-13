@@ -1,0 +1,25 @@
+{
+  "id": "SLES_504.31",
+  "cover": {
+    "path": "PS2/SLES_504.31/SLES_504.31_COV.png",
+    "kind": "cover",
+    "bytes": 82867,
+    "width": 192,
+    "height": 272,
+    "sha256": "2e938fa3dec56e9f1b8dbcaeda03730857697179de14ef974df610bafce4654c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50431.jpg"
+    },
+    "gameId": "SLES_504.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "F1 2001"
+}

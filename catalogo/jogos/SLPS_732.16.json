@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.16",
+  "cover": {
+    "path": "PS2/SLPS_732.16/SLPS_732.16_COV.png",
+    "kind": "cover",
+    "bytes": 78967,
+    "width": 192,
+    "height": 272,
+    "sha256": "71928906722ad641be7a52b1c51259489055c04266925c8de3964ffa6d17f06e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73216.jpg"
+    },
+    "gameId": "SLPS_732.16"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAGNA CARTA [PLAYSTATION 2 THE BEST]"
+}

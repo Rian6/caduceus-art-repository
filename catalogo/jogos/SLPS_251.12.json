@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.12",
+  "cover": {
+    "path": "PS2/SLPS_251.12/SLPS_251.12_COV.png",
+    "kind": "cover",
+    "bytes": 102551,
+    "width": 192,
+    "height": 272,
+    "sha256": "c350e3f88a253a957a31c4d7ecfde891611d7347590180c198ee55ee6bda9fc6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25112.jpg"
+    },
+    "gameId": "SLPS_251.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core 3"
+}

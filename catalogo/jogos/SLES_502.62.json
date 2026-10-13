@@ -1,0 +1,25 @@
+{
+  "id": "SLES_502.62",
+  "cover": {
+    "path": "PS2/SLES_502.62/SLES_502.62_COV.png",
+    "kind": "cover",
+    "bytes": 91237,
+    "width": 192,
+    "height": 272,
+    "sha256": "1deff6e890cd002fda44e984d35889dab7300ab98dcdf1e4c7d9676db7f5889f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50262.jpg"
+    },
+    "gameId": "SLES_502.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Destruction League - War Jets"
+}

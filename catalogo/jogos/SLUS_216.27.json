@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_216.27",
+  "cover": {
+    "path": "PS2/SLUS_216.27/SLUS_216.27_COV.png",
+    "kind": "cover",
+    "bytes": 26689,
+    "width": 192,
+    "height": 272,
+    "sha256": "23fdc3de76b036bd37fa698fde5fe4c9c00d4f4e4ce00ae9b8ff1df056c0c269",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21627.jpg"
+    },
+    "gameId": "SLUS_216.27"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.27/SLUS_216.27_ICO.png",
+    "kind": "disc",
+    "bytes": 22451,
+    "width": 256,
+    "height": 256,
+    "sha256": "1ff9f6124315727acefdaef4ed317c5362c3559f993f8ad136db4b0a31cec668",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.27_ICO.png"
+    },
+    "gameId": "SLUS_216.27"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.27/SLUS_216.27_BG.png",
+    "kind": "background",
+    "bytes": 153447,
+    "width": 640,
+    "height": 480,
+    "sha256": "1f940e65d19bd9d66c4d175ccc08ad85e372930fab6c2ea597239a33768a6a18",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.27/SLUS_216.27_BG_00.png"
+    },
+    "gameId": "SLUS_216.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.27/SLUS_216.27_BG.png",
+      "kind": "background",
+      "bytes": 153447,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f940e65d19bd9d66c4d175ccc08ad85e372930fab6c2ea597239a33768a6a18",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.27/SLUS_216.27_BG_00.png"
+      },
+      "gameId": "SLUS_216.27"
+    },
+    {
+      "path": "PS2/SLUS_216.27/SLUS_216.27_BG_01.png",
+      "kind": "background",
+      "bytes": 164040,
+      "width": 640,
+      "height": 480,
+      "sha256": "e5c14ba1d79de8f261dc265e598d91190859d4bc5f14527f0ed3fa6b3b6a042f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.27/SLUS_216.27_BG_01.png"
+      },
+      "gameId": "SLUS_216.27"
+    },
+    {
+      "path": "PS2/SLUS_216.27/SLUS_216.27_BG_02.png",
+      "kind": "background",
+      "bytes": 18428,
+      "width": 640,
+      "height": 480,
+      "sha256": "03e32348a9d75a0ca5b9e1b9c5a37cd3f5d4810ab594f23950c37369865befd6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.27/SLUS_216.27_BG_02.png"
+      },
+      "gameId": "SLUS_216.27"
+    },
+    {
+      "path": "PS2/SLUS_216.27/SLUS_216.27_BG_03.png",
+      "kind": "background",
+      "bytes": 211025,
+      "width": 640,
+      "height": 480,
+      "sha256": "72293734af207aa71d980dbf1b9153b8c234329aef8cd054f17e836a49b02e1b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.27/SLUS_216.27_BG_03.png"
+      },
+      "gameId": "SLUS_216.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jackass - The Game"
+}

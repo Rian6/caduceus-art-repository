@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.39",
+  "cover": {
+    "path": "PS2/SLPM_622.39/SLPM_622.39_COV.png",
+    "kind": "cover",
+    "bytes": 78603,
+    "width": 192,
+    "height": 272,
+    "sha256": "7b1ed89fe603790c151ac11f5cf2a4b7b377aeeae738b201055b6ffcbfead270",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62239.jpg"
+    },
+    "gameId": "SLPM_622.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Supercar Street Challange"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.50",
+  "cover": {
+    "path": "PS2/SLKA_252.50/SLKA_252.50_COV.png",
+    "kind": "cover",
+    "bytes": 56083,
+    "width": 192,
+    "height": 272,
+    "sha256": "529d487dd2bbed3c8102efa1b7dcd7897fe2be7cdf6385e870581b3211675b67",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.50/SLKA_252.50_COV.png"
+    },
+    "gameId": "SLKA_252.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "007 - Goldeneye - Rogue Agent"
+}

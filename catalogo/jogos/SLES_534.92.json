@@ -1,0 +1,64 @@
+{
+  "id": "SLES_534.92",
+  "cover": {
+    "path": "PS2/SLES_534.92/SLES_534.92_COV.png",
+    "kind": "cover",
+    "bytes": 100457,
+    "width": 192,
+    "height": 272,
+    "sha256": "61c0da2bd4b57b19a9d9e16d1984f3218ca0f6c88def6e5e87fe7b7df6bb0675",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53492.jpg"
+    },
+    "gameId": "SLES_534.92"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_534.92/SLES_534.92_BG.png",
+    "kind": "background",
+    "bytes": 202532,
+    "width": 640,
+    "height": 480,
+    "sha256": "c58bed5d41412bfc937a812dc8d856de679ec7104b051a3b29e881182775379a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.92/SLES_534.92_BG_00.png"
+    },
+    "gameId": "SLES_534.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.92/SLES_534.92_BG.png",
+      "kind": "background",
+      "bytes": 202532,
+      "width": 640,
+      "height": 480,
+      "sha256": "c58bed5d41412bfc937a812dc8d856de679ec7104b051a3b29e881182775379a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.92/SLES_534.92_BG_00.png"
+      },
+      "gameId": "SLES_534.92"
+    },
+    {
+      "path": "PS2/SLES_534.92/SLES_534.92_BG_01.png",
+      "kind": "background",
+      "bytes": 165194,
+      "width": 640,
+      "height": 480,
+      "sha256": "615ddd1decd34febe9d6e500533be8eb899959e08a94d4a821670bb0a414baca",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.92/SLES_534.92_BG_01.png"
+      },
+      "gameId": "SLES_534.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOTAL OVERDOSE"
+}

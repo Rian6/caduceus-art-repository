@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_250.43",
+  "cover": {
+    "path": "PS2/SLKA_250.43/SLKA_250.43_COV.png",
+    "kind": "cover",
+    "bytes": 96413,
+    "width": 192,
+    "height": 272,
+    "sha256": "8818366f03c4b007bb9fd842e5a4e6eb5eb2cd63a08c273ba77b2f745be78693",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25043.jpg"
+    },
+    "gameId": "SLKA_250.43"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_250.43/SLKA_250.43_BG.png",
+    "kind": "background",
+    "bytes": 200208,
+    "width": 640,
+    "height": 480,
+    "sha256": "3df6d60cf600fdad075730e8d608dd4fb30ab126b01ba95a3e4ce2b8785624c2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_250.43/SLKA_250.43_BG_00.png"
+    },
+    "gameId": "SLKA_250.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_250.43/SLKA_250.43_BG.png",
+      "kind": "background",
+      "bytes": 200208,
+      "width": 640,
+      "height": 480,
+      "sha256": "3df6d60cf600fdad075730e8d608dd4fb30ab126b01ba95a3e4ce2b8785624c2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_250.43/SLKA_250.43_BG_00.png"
+      },
+      "gameId": "SLKA_250.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Virtua Fighter 4 - Evolution"
+}

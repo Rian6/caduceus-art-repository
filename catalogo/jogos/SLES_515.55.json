@@ -1,0 +1,65 @@
+{
+  "id": "SLES_515.55",
+  "cover": {
+    "path": "PS2/SLES_515.55/SLES_515.55_COV.png",
+    "kind": "cover",
+    "bytes": 99625,
+    "width": 192,
+    "height": 272,
+    "sha256": "6df8316cfc99179ca0da83e8f462b86e0e6eeab581a7ba76406bdc84428d387f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51555.jpg"
+    },
+    "gameId": "SLES_515.55"
+  },
+  "disc": {
+    "path": "PS2/SLES_515.55/SLES_515.55_ICO.png",
+    "kind": "disc",
+    "bytes": 10913,
+    "width": 128,
+    "height": 128,
+    "sha256": "2e3a3ccf21bef0b565e5aad328c2c45db5d79af60652197897ac8ac305682be4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_515.55_ICO.png"
+    },
+    "gameId": "SLES_515.55"
+  },
+  "background": {
+    "path": "PS2/SLES_515.55/SLES_515.55_BG.png",
+    "kind": "background",
+    "bytes": 245226,
+    "width": 640,
+    "height": 480,
+    "sha256": "771e4e56182ccce6701d68f8ba5b90d30b2d57e13bb389c0fb43e9b613e55694",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_515.55/SLES_515.55_BG_00.png"
+    },
+    "gameId": "SLES_515.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_515.55/SLES_515.55_BG.png",
+      "kind": "background",
+      "bytes": 245226,
+      "width": 640,
+      "height": 480,
+      "sha256": "771e4e56182ccce6701d68f8ba5b90d30b2d57e13bb389c0fb43e9b613e55694",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_515.55/SLES_515.55_BG_00.png"
+      },
+      "gameId": "SLES_515.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pinball"
+}

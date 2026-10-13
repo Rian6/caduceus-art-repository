@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.36",
+  "cover": {
+    "path": "PS2/SLPM_669.36/SLPM_669.36_COV.png",
+    "kind": "cover",
+    "bytes": 99770,
+    "width": 192,
+    "height": 272,
+    "sha256": "1366051580603698ab65f50b40b5184f662f0e2449c8fd4a36f65a848a23e82d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66936.jpg"
+    },
+    "gameId": "SLPM_669.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NIGHT WIZARD THE VIDEO GAME - DENIAL OF THE WORLD"
+}

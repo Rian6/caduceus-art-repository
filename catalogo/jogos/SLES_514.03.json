@@ -1,0 +1,25 @@
+{
+  "id": "SLES_514.03",
+  "cover": {
+    "path": "PS2/SLES_514.03/SLES_514.03_COV.png",
+    "kind": "cover",
+    "bytes": 83769,
+    "width": 192,
+    "height": 272,
+    "sha256": "b78339bdac3286cb4301bfc26cbad5c61d26bb8a35a4aa72af25495cd2f6b60b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51403.jpg"
+    },
+    "gameId": "SLES_514.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENCHU - LA COLÈRE DIVINE"
+}

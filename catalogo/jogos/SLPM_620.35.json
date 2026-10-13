@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_620.35",
+  "cover": {
+    "path": "PS2/SLPM_620.35/SLPM_620.35_COV.png",
+    "kind": "cover",
+    "bytes": 86530,
+    "width": 192,
+    "height": 272,
+    "sha256": "4bc2fa15a918fbb2b9497d83cd3a8b35ac54411a87809f8587967ac625dc3af9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62035.jpg"
+    },
+    "gameId": "SLPM_620.35"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_620.35/SLPM_620.35_BG.png",
+    "kind": "background",
+    "bytes": 181224,
+    "width": 640,
+    "height": 480,
+    "sha256": "78c7a72053bcd6005a9adca8e2c1e1b8eed96078408addbd8c6a75d3bec1c529",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_620.35/SLPM_620.35_BG_00.png"
+    },
+    "gameId": "SLPM_620.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_620.35/SLPM_620.35_BG.png",
+      "kind": "background",
+      "bytes": 181224,
+      "width": 640,
+      "height": 480,
+      "sha256": "78c7a72053bcd6005a9adca8e2c1e1b8eed96078408addbd8c6a75d3bec1c529",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_620.35/SLPM_620.35_BG_00.png"
+      },
+      "gameId": "SLPM_620.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ikuze! Onsen Takkyuu!"
+}

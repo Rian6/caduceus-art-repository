@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.66",
+  "cover": {
+    "path": "PS2/SLPM_658.66/SLPM_658.66_COV.png",
+    "kind": "cover",
+    "bytes": 83841,
+    "width": 192,
+    "height": 272,
+    "sha256": "34d5b1472dd6f2cd3b410fcad5904942ff66108be3d1e3888a2c85b75371e2d0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65866.jpg"
+    },
+    "gameId": "SLPM_658.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DOKO E IKUNO ANO HI HAKURU ASHITA E"
+}

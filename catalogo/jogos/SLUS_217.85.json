@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_217.85",
+  "cover": {
+    "path": "PS2/SLUS_217.85/SLUS_217.85_COV.png",
+    "kind": "cover",
+    "bytes": 105023,
+    "width": 192,
+    "height": 272,
+    "sha256": "4b840cd1c3ead961e39112d9e02753c5333e67280fee40e83d26a5555a056d2b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21785.jpg"
+    },
+    "gameId": "SLUS_217.85"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.85/SLUS_217.85_ICO.png",
+    "kind": "disc",
+    "bytes": 32020,
+    "width": 256,
+    "height": 256,
+    "sha256": "07d06e9f37414a8bfad1ba85f615de7cd3d867305dc9006ad87191dfc06526d0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.85_ICO.png"
+    },
+    "gameId": "SLUS_217.85"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.85/SLUS_217.85_BG.png",
+    "kind": "background",
+    "bytes": 98444,
+    "width": 640,
+    "height": 480,
+    "sha256": "df3f22eff1ae05dc87e90a61367409b02610f8a5d8baee18c4d48ee52b46d606",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.85/SLUS_217.85_BG_00.png"
+    },
+    "gameId": "SLUS_217.85"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.85/SLUS_217.85_BG.png",
+      "kind": "background",
+      "bytes": 98444,
+      "width": 640,
+      "height": 480,
+      "sha256": "df3f22eff1ae05dc87e90a61367409b02610f8a5d8baee18c4d48ee52b46d606",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.85/SLUS_217.85_BG_00.png"
+      },
+      "gameId": "SLUS_217.85"
+    },
+    {
+      "path": "PS2/SLUS_217.85/SLUS_217.85_BG_01.png",
+      "kind": "background",
+      "bytes": 155759,
+      "width": 640,
+      "height": 480,
+      "sha256": "18969e002c18b76a86a1a019798ddebe580106ba8a210b61bd918a1aa3f25755",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.85/SLUS_217.85_BG_01.png"
+      },
+      "gameId": "SLUS_217.85"
+    },
+    {
+      "path": "PS2/SLUS_217.85/SLUS_217.85_BG_02.png",
+      "kind": "background",
+      "bytes": 185627,
+      "width": 640,
+      "height": 480,
+      "sha256": "ccd2381b1ba2e71b7e3338b9f016d8e7dacdf6e78e18f81a115ec3c85941292d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.85/SLUS_217.85_BG_02.png"
+      },
+      "gameId": "SLUS_217.85"
+    },
+    {
+      "path": "PS2/SLUS_217.85/SLUS_217.85_BG_03.png",
+      "kind": "background",
+      "bytes": 200056,
+      "width": 640,
+      "height": 480,
+      "sha256": "582846bcb8b5f06ce74323114f12aa2065e9224920bedbe6299a7ee74f489e11",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.85/SLUS_217.85_BG_03.png"
+      },
+      "gameId": "SLUS_217.85"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGO Batman: The Videogame"
+}

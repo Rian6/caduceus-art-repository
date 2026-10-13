@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.09",
+  "cover": {
+    "path": "PS2/SLKA_252.09/SLKA_252.09_COV.png",
+    "kind": "cover",
+    "bytes": 57134,
+    "width": 192,
+    "height": 272,
+    "sha256": "8eaab20d174ec7d7575d3ec29fe8be8d82531db1cd459c56cab2c41f5d4c0506",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.09/SLKA_252.09_COV.png"
+    },
+    "gameId": "SLKA_252.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fifa 2005"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SCES_534.49",
+  "cover": {
+    "path": "PS2/SCES_534.49/SCES_534.49_COV.png",
+    "kind": "cover",
+    "bytes": 91032,
+    "width": 192,
+    "height": 272,
+    "sha256": "3030f195a5a3ae122a5940858fe599f2eb00d27c16e19762e9a3fadebb5ff2f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53449.jpg"
+    },
+    "gameId": "SCES_534.49"
+  },
+  "disc": {
+    "path": "PS2/SCES_534.49/SCES_534.49_ICO.png",
+    "kind": "disc",
+    "bytes": 10406,
+    "width": 128,
+    "height": 128,
+    "sha256": "3dbf806e0856eac3dce7e50d56c93c182522ed53fd5a1bcbd877ce6f821d1fef",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_534.49_ICO.png"
+    },
+    "gameId": "SCES_534.49"
+  },
+  "background": {
+    "path": "PS2/SCES_534.49/SCES_534.49_BG.png",
+    "kind": "background",
+    "bytes": 142431,
+    "width": 640,
+    "height": 480,
+    "sha256": "044a969a2dad06ae896cb13121ef194b2e3b2349ac4dd3b9490d6a5606326c72",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_534.49/SCES_534.49_BG_00.png"
+    },
+    "gameId": "SCES_534.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_534.49/SCES_534.49_BG.png",
+      "kind": "background",
+      "bytes": 142431,
+      "width": 640,
+      "height": 480,
+      "sha256": "044a969a2dad06ae896cb13121ef194b2e3b2349ac4dd3b9490d6a5606326c72",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_534.49/SCES_534.49_BG_00.png"
+      },
+      "gameId": "SCES_534.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AFL Premiership 2005"
+}

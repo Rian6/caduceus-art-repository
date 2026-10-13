@@ -1,0 +1,25 @@
+{
+  "id": "SLES_545.44",
+  "cover": {
+    "path": "PS2/SLES_545.44/SLES_545.44_COV.png",
+    "kind": "cover",
+    "bytes": 94193,
+    "width": 192,
+    "height": 272,
+    "sha256": "97e5a4566dded4c1ad36da41b596b0e60c53f7d0b9f908c46574bba2f7d2d29f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54544.jpg"
+    },
+    "gameId": "SLES_545.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gun Club"
+}

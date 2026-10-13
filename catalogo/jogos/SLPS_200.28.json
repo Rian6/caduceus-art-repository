@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.28",
+  "cover": {
+    "path": "PS2/SLPS_200.28/SLPS_200.28_COV.png",
+    "kind": "cover",
+    "bytes": 95589,
+    "width": 192,
+    "height": 272,
+    "sha256": "49a7886ee258c962ef3468d7bb179ba123bd702369210657b9562a8462e0a123",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20028.jpg"
+    },
+    "gameId": "SLPS_200.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GameSelect 5 Wa"
+}

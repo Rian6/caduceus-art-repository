@@ -1,0 +1,78 @@
+{
+  "id": "SLPS_255.30",
+  "cover": {
+    "path": "PS2/SLPS_255.30/SLPS_255.30_COV.png",
+    "kind": "cover",
+    "bytes": 107895,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1917d1476ff2a6cc6f4cbdc20631769ce7603babe8f432d059cd7d13b440ddf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25530.jpg"
+    },
+    "gameId": "SLPS_255.30"
+  },
+  "disc": {
+    "path": "PS2/SLPS_255.30/SLPS_255.30_ICO.png",
+    "kind": "disc",
+    "bytes": 10114,
+    "width": 128,
+    "height": 128,
+    "sha256": "b27737f981e88df34c43e908be57f4ee68be161b854fb22318eadd94bfdd593e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_255.30_ICO.png"
+    },
+    "gameId": "SLPS_255.30"
+  },
+  "background": {
+    "path": "PS2/SLPS_255.30/SLPS_255.30_BG.png",
+    "kind": "background",
+    "bytes": 163903,
+    "width": 640,
+    "height": 480,
+    "sha256": "e2583576f94af0dd7fe66b6831b7b051d1c47e1bbcc55bf5f4e925c244782fe4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.30/SLPS_255.30_BG_00.png"
+    },
+    "gameId": "SLPS_255.30"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.30/SLPS_255.30_BG.png",
+      "kind": "background",
+      "bytes": 163903,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2583576f94af0dd7fe66b6831b7b051d1c47e1bbcc55bf5f4e925c244782fe4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.30/SLPS_255.30_BG_00.png"
+      },
+      "gameId": "SLPS_255.30"
+    },
+    {
+      "path": "PS2/SLPS_255.30/SLPS_255.30_BG_01.png",
+      "kind": "background",
+      "bytes": 222706,
+      "width": 640,
+      "height": 480,
+      "sha256": "a4f06d0bcb45345a280224c0bbb6d2100d45ced47aaaf9f3e3bae8825e72b0c1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.30/SLPS_255.30_BG_01.png"
+      },
+      "gameId": "SLPS_255.30"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GA-ROU-DEN BREAKBLOW"
+}

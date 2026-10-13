@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.46",
+  "cover": {
+    "path": "PS2/SLPS_201.46/SLPS_201.46_COV.png",
+    "kind": "cover",
+    "bytes": 70646,
+    "width": 192,
+    "height": 272,
+    "sha256": "e00039e2c6e05231b462fabf97b5491b4be4825b7e1eb489627564f2db80bebf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20146.jpg"
+    },
+    "gameId": "SLPS_201.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TVware Jouhou Kakumei Series: Pro Atlas for TV: Kinki"
+}

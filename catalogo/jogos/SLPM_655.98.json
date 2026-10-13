@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_655.98",
+  "cover": {
+    "path": "PS2/SLPM_655.98/SLPM_655.98_COV.png",
+    "kind": "cover",
+    "bytes": 106699,
+    "width": 192,
+    "height": 272,
+    "sha256": "bdf67ca706a2961a8b173de0ac8eb4bc55ccce6a9cdb0ea032f3bed84502108d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65598.jpg"
+    },
+    "gameId": "SLPM_655.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENSHOU GAKUEN GENSOUROKU"
+}

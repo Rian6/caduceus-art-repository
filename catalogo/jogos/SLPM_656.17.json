@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.17",
+  "cover": {
+    "path": "PS2/SLPM_656.17/SLPM_656.17_COV.png",
+    "kind": "cover",
+    "bytes": 98019,
+    "width": 192,
+    "height": 272,
+    "sha256": "bd6854c9d6faf82397f88f19fed376782ea5e29bf4e4385bac2bb0d42009416c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65617.jpg"
+    },
+    "gameId": "SLPM_656.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "BOUKEN JIDAI KATSUGEKI GOEMON [KONAMI DENDO COLLECTION]"
+}

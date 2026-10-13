@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_291.80",
+  "cover": {
+    "path": "PS2/SLUS_291.80/SLUS_291.80_COV.png",
+    "kind": "cover",
+    "bytes": 71401,
+    "width": 192,
+    "height": 272,
+    "sha256": "7f7519f75c82b36c030f4f9df8b1aef15ccbb80380690d021d2f4f55066c4bf7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-29180.jpg"
+    },
+    "gameId": "SLUS_291.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Black (DEMO)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.49",
+  "cover": {
+    "path": "PS2/KOEI_201.49/KOEI_201.49_COV.png",
+    "kind": "cover",
+    "bytes": 73961,
+    "width": 192,
+    "height": 272,
+    "sha256": "696967bb33aded22607b1df5f1cd21bbb597bc25292b7918c228c57441ca2b70",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/KOEI-20149.jpg"
+    },
+    "gameId": "KOEI_201.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HARUKANARU TOKI NO NAKA DE 4 [TREASURE BOX]"
+}

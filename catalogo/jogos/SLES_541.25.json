@@ -1,0 +1,39 @@
+{
+  "id": "SLES_541.25",
+  "cover": {
+    "path": "PS2/SLES_541.25/SLES_541.25_COV.png",
+    "kind": "cover",
+    "bytes": 103957,
+    "width": 192,
+    "height": 272,
+    "sha256": "15aac7d160852dc03e9ba620531985c432722656bf7ab796088b80a76129a96b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54125.jpg"
+    },
+    "gameId": "SLES_541.25"
+  },
+  "disc": {
+    "path": "PS2/SLES_541.25/SLES_541.25_ICO.png",
+    "kind": "disc",
+    "bytes": 10822,
+    "width": 128,
+    "height": 128,
+    "sha256": "c0b9a982b1e297a68f9d9d9d5bc0260584a434fb343cd610d011783a21bcf64b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_541.25_ICO.png"
+    },
+    "gameId": "SLES_541.25"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Robin Hood's Quest"
+}

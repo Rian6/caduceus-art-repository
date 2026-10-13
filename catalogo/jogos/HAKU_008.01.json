@@ -1,0 +1,25 @@
+{
+  "id": "HAKU_008.01",
+  "cover": {
+    "path": "PS2/HAKU_008.01/HAKU_008.01_COV.png",
+    "kind": "cover",
+    "bytes": 96256,
+    "width": 192,
+    "height": 272,
+    "sha256": "0d3b1147db047d00d8841704ecfdb5fc1ec2220231ae39d3ea0dbf4523ec903c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/HAKU-00801.jpg"
+    },
+    "gameId": "HAKU_008.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAKUOKI - TWIN PACK"
+}

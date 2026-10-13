@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.98",
+  "cover": {
+    "path": "PS2/SLES_553.98/SLES_553.98_COV.png",
+    "kind": "cover",
+    "bytes": 93265,
+    "width": 192,
+    "height": 272,
+    "sha256": "36ceddc1881e60a851f44784c4b19923ebbe319f41ce7df47be3a9945e50725d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55398.jpg"
+    },
+    "gameId": "SLES_553.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney High School Musical 3: Senior Year Dance!"
+}

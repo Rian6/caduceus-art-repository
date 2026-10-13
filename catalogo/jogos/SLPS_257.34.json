@@ -1,0 +1,117 @@
+{
+  "id": "SLPS_257.34",
+  "cover": {
+    "path": "PS2/SLPS_257.34/SLPS_257.34_COV.png",
+    "kind": "cover",
+    "bytes": 111944,
+    "width": 192,
+    "height": 272,
+    "sha256": "8c5d05f3db384d90de7c2ef6597ece9b100dadb4fb94481a596f6d55e58dcf87",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25734.jpg"
+    },
+    "gameId": "SLPS_257.34"
+  },
+  "disc": {
+    "path": "PS2/SLPS_257.34/SLPS_257.34_ICO.png",
+    "kind": "disc",
+    "bytes": 11270,
+    "width": 128,
+    "height": 128,
+    "sha256": "0a4753bf8b919b1758b750166fca828b90c362571fa525ec6866f5fcb4f452cb",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_257.34_ICO.png"
+    },
+    "gameId": "SLPS_257.34"
+  },
+  "background": {
+    "path": "PS2/SLPS_257.34/SLPS_257.34_BG.png",
+    "kind": "background",
+    "bytes": 178850,
+    "width": 640,
+    "height": 480,
+    "sha256": "6055e6a8f24bae2e381d88af8ef2ff75049837cdc2f51b00c5d41eaa892858c8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.34/SLPS_257.34_BG_00.png"
+    },
+    "gameId": "SLPS_257.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.34/SLPS_257.34_BG.png",
+      "kind": "background",
+      "bytes": 178850,
+      "width": 640,
+      "height": 480,
+      "sha256": "6055e6a8f24bae2e381d88af8ef2ff75049837cdc2f51b00c5d41eaa892858c8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.34/SLPS_257.34_BG_00.png"
+      },
+      "gameId": "SLPS_257.34"
+    },
+    {
+      "path": "PS2/SLPS_257.34/SLPS_257.34_BG_01.png",
+      "kind": "background",
+      "bytes": 156007,
+      "width": 640,
+      "height": 480,
+      "sha256": "ca24cfa0a50002ca35fcaa24149e11d29c82bc2a73b600fcf407c54eb57b394b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.34/SLPS_257.34_BG_01.png"
+      },
+      "gameId": "SLPS_257.34"
+    },
+    {
+      "path": "PS2/SLPS_257.34/SLPS_257.34_BG_02.png",
+      "kind": "background",
+      "bytes": 186430,
+      "width": 640,
+      "height": 480,
+      "sha256": "e8c9e6978f0df1864e12695bac217dba663a51dbd5219f3b1629dea315028bbf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.34/SLPS_257.34_BG_02.png"
+      },
+      "gameId": "SLPS_257.34"
+    },
+    {
+      "path": "PS2/SLPS_257.34/SLPS_257.34_BG_03.png",
+      "kind": "background",
+      "bytes": 152261,
+      "width": 640,
+      "height": 480,
+      "sha256": "a73303e2b62710da62849c6668c0aaf3dd54d782d38a20722733960d67af3abe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.34/SLPS_257.34_BG_03.png"
+      },
+      "gameId": "SLPS_257.34"
+    },
+    {
+      "path": "PS2/SLPS_257.34/SLPS_257.34_BG_04.png",
+      "kind": "background",
+      "bytes": 136710,
+      "width": 640,
+      "height": 480,
+      "sha256": "5e2160ca5034fc0d069a4e926d982b34d0c3758c105e16d15ea094d13e1dc3e3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.34/SLPS_257.34_BG_04.png"
+      },
+      "gameId": "SLPS_257.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Battle of Yuu Yuu Hakusho: Shitou! Ankoku Bujutsukai: 120% (Full Power)"
+}

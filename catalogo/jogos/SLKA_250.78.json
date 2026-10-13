@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.78",
+  "cover": {
+    "path": "PS2/SLKA_250.78/SLKA_250.78_COV.png",
+    "kind": "cover",
+    "bytes": 93989,
+    "width": 192,
+    "height": 272,
+    "sha256": "d6492a853e9a3b3b1f8392da7d7786875d79e2769f5bdb52d0b770d9b696a522",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25078.jpg"
+    },
+    "gameId": "SLKA_250.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RAYMAN 3 - HOODLUM HAVOC"
+}

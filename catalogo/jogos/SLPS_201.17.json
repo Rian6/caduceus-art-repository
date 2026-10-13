@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.17",
+  "cover": {
+    "path": "PS2/SLPS_201.17/SLPS_201.17_COV.png",
+    "kind": "cover",
+    "bytes": 100294,
+    "width": 192,
+    "height": 272,
+    "sha256": "12f6f36928b4f4c80eb72b6d45b6d64ff6f55cff459f45240869f188f1de4a40",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20117.jpg"
+    },
+    "gameId": "SLPS_201.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taikyoku Mahjong: Net de Ron!"
+}

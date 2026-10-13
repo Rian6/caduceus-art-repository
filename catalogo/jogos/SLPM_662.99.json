@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_662.99",
+  "cover": {
+    "path": "PS2/SLPM_662.99/SLPM_662.99_COV.png",
+    "kind": "cover",
+    "bytes": 92416,
+    "width": 192,
+    "height": 272,
+    "sha256": "21a1b5c54a8fd2b216c8d69af3be6384872eb76d1c3047251a31a2f3e42b9a0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66299.jpg"
+    },
+    "gameId": "SLPM_662.99"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_662.99/SLPM_662.99_BG.png",
+    "kind": "background",
+    "bytes": 156577,
+    "width": 640,
+    "height": 480,
+    "sha256": "d35fdbd8c054bc7db40ec1aeb3ac5148fa1ee5de8b7305ba2b280dd15127f1bf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_662.99/SLPM_662.99_BG_00.png"
+    },
+    "gameId": "SLPM_662.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_662.99/SLPM_662.99_BG.png",
+      "kind": "background",
+      "bytes": 156577,
+      "width": 640,
+      "height": 480,
+      "sha256": "d35fdbd8c054bc7db40ec1aeb3ac5148fa1ee5de8b7305ba2b280dd15127f1bf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.99/SLPM_662.99_BG_00.png"
+      },
+      "gameId": "SLPM_662.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zero Shikikan Josentoki Ni"
+}

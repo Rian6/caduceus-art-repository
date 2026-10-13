@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_551.97",
+  "cover": {
+    "path": "PS2/SLPM_551.97/SLPM_551.97_COV.png",
+    "kind": "cover",
+    "bytes": 74023,
+    "width": 192,
+    "height": 272,
+    "sha256": "83f38e3ddfeb53ad81d705b713fc0db4533fa054c449b1c390186f0c6d8d0183",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55197.jpg"
+    },
+    "gameId": "SLPM_551.97"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_551.97/SLPM_551.97_BG.png",
+    "kind": "background",
+    "bytes": 172835,
+    "width": 640,
+    "height": 480,
+    "sha256": "714eae847320af8c36a96ff03300d49f614195f1ea1f16fdb201b920e3ef95e0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_551.97/SLPM_551.97_BG_00.png"
+    },
+    "gameId": "SLPM_551.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_551.97/SLPM_551.97_BG.png",
+      "kind": "background",
+      "bytes": 172835,
+      "width": 640,
+      "height": 480,
+      "sha256": "714eae847320af8c36a96ff03300d49f614195f1ea1f16fdb201b920e3ef95e0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_551.97/SLPM_551.97_BG_00.png"
+      },
+      "gameId": "SLPM_551.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Memories Off 6: Next Relation"
+}

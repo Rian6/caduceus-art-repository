@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_213.83",
+  "cover": {
+    "path": "PS2/SLUS_213.83/SLUS_213.83_COV.png",
+    "kind": "cover",
+    "bytes": 93278,
+    "width": 192,
+    "height": 272,
+    "sha256": "6b2b667ea4100f90bf4da71a533a3b3191057ae124934444ad5c11052eee8ab9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21383.jpg"
+    },
+    "gameId": "SLUS_213.83"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.83/SLUS_213.83_ICO.png",
+    "kind": "disc",
+    "bytes": 29585,
+    "width": 256,
+    "height": 256,
+    "sha256": "2b9a3b428a4fd80a53413b1f36c4930352b7b952acd7dbb8f19832a0acab533e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.83_ICO.png"
+    },
+    "gameId": "SLUS_213.83"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.83/SLUS_213.83_BG.png",
+    "kind": "background",
+    "bytes": 170446,
+    "width": 640,
+    "height": 480,
+    "sha256": "91204c174744049a6190c507a4d4f18c95940415cb521d7ad85e2fc4f8ccf9c5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.83/SLUS_213.83_BG_00.png"
+    },
+    "gameId": "SLUS_213.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.83/SLUS_213.83_BG.png",
+      "kind": "background",
+      "bytes": 170446,
+      "width": 640,
+      "height": 480,
+      "sha256": "91204c174744049a6190c507a4d4f18c95940415cb521d7ad85e2fc4f8ccf9c5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.83/SLUS_213.83_BG_00.png"
+      },
+      "gameId": "SLUS_213.83"
+    },
+    {
+      "path": "PS2/SLUS_213.83/SLUS_213.83_BG_01.png",
+      "kind": "background",
+      "bytes": 181566,
+      "width": 640,
+      "height": 480,
+      "sha256": "13b22d802dca52bd7ead63f0f18a4c9b2237a6c8d17a8bfd33f486747527b237",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.83/SLUS_213.83_BG_01.png"
+      },
+      "gameId": "SLUS_213.83"
+    },
+    {
+      "path": "PS2/SLUS_213.83/SLUS_213.83_BG_02.png",
+      "kind": "background",
+      "bytes": 172178,
+      "width": 640,
+      "height": 480,
+      "sha256": "141c872ac423aeaac1ab9015369dfe04055de5444b0399c4395ad01fd75a5639",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.83/SLUS_213.83_BG_02.png"
+      },
+      "gameId": "SLUS_213.83"
+    },
+    {
+      "path": "PS2/SLUS_213.83/SLUS_213.83_BG_03.png",
+      "kind": "background",
+      "bytes": 148103,
+      "width": 640,
+      "height": 480,
+      "sha256": "fb936f2c806e9918d2669bbfa46e734a346a20799bda58a21a42a9745abe4f74",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.83/SLUS_213.83_BG_03.png"
+      },
+      "gameId": "SLUS_213.83"
+    },
+    {
+      "path": "PS2/SLUS_213.83/SLUS_213.83_BG_04.png",
+      "kind": "background",
+      "bytes": 216289,
+      "width": 640,
+      "height": 480,
+      "sha256": "aa3c82a960cc5c3507908fca50dd938091ed5ee0b8e1a3384bc2f42a104b0d8a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.83/SLUS_213.83_BG_04.png"
+      },
+      "gameId": "SLUS_213.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIGHT NIGHT ROUND 3"
+}

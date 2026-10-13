@@ -1,0 +1,25 @@
+{
+  "id": "SLES_512.82",
+  "cover": {
+    "path": "PS2/SLES_512.82/SLES_512.82_COV.png",
+    "kind": "cover",
+    "bytes": 89846,
+    "width": 192,
+    "height": 272,
+    "sha256": "82cd855704fa6ffbdd6083e7fd5f15d4bc27d6ae28712455c282be106cebf4f5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51282.jpg"
+    },
+    "gameId": "SLES_512.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tiger Woods PGA Tour 2003"
+}

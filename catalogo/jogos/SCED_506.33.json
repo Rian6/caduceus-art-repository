@@ -1,0 +1,25 @@
+{
+  "id": "SCED_506.33",
+  "cover": {
+    "path": "PS2/SCED_506.33/SCED_506.33_COV.png",
+    "kind": "cover",
+    "bytes": 77973,
+    "width": 192,
+    "height": 272,
+    "sha256": "e44b4fb5d2566f3b46a18cf7fa4d4acb9cc0582d0af0f1185414023170679a56",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCED-50633.jpg"
+    },
+    "gameId": "SCED_506.33"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gravity Sucks (DEMOS)"
+}

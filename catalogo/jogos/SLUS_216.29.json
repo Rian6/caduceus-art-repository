@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_216.29",
+  "cover": {
+    "path": "PS2/SLUS_216.29/SLUS_216.29_COV.png",
+    "kind": "cover",
+    "bytes": 89775,
+    "width": 192,
+    "height": 272,
+    "sha256": "79da80b8bebe1b504275a8eaee33b7e8f5c5d6eb91706c4190fbaf6a352bdebc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21629.jpg"
+    },
+    "gameId": "SLUS_216.29"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.29/SLUS_216.29_ICO.png",
+    "kind": "disc",
+    "bytes": 27873,
+    "width": 256,
+    "height": 256,
+    "sha256": "dab2a8bb8d774203b93a5f19ab7cd9830cd0a31edbc9d7bfbab8e116e63dd05b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.29_ICO.png"
+    },
+    "gameId": "SLUS_216.29"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.29/SLUS_216.29_BG.png",
+    "kind": "background",
+    "bytes": 163735,
+    "width": 640,
+    "height": 480,
+    "sha256": "91ec92507f78c8c0e65fbb22a2aa0f23ba6087811fef5da2471b3d32b9d4382a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.29/SLUS_216.29_BG_00.png"
+    },
+    "gameId": "SLUS_216.29"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.29/SLUS_216.29_BG.png",
+      "kind": "background",
+      "bytes": 163735,
+      "width": 640,
+      "height": 480,
+      "sha256": "91ec92507f78c8c0e65fbb22a2aa0f23ba6087811fef5da2471b3d32b9d4382a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.29/SLUS_216.29_BG_00.png"
+      },
+      "gameId": "SLUS_216.29"
+    },
+    {
+      "path": "PS2/SLUS_216.29/SLUS_216.29_BG_01.png",
+      "kind": "background",
+      "bytes": 200943,
+      "width": 640,
+      "height": 480,
+      "sha256": "4c4425fbb61b93cd43af4eea33dc44bc5cb0192239f587b64ac46ffb21e1d3e4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.29/SLUS_216.29_BG_01.png"
+      },
+      "gameId": "SLUS_216.29"
+    },
+    {
+      "path": "PS2/SLUS_216.29/SLUS_216.29_BG_02.png",
+      "kind": "background",
+      "bytes": 163564,
+      "width": 640,
+      "height": 480,
+      "sha256": "25980683a6bfa16ecd65bc824e7a4f5c56cd55bc5bc4c32c8708cf49c591991c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.29/SLUS_216.29_BG_02.png"
+      },
+      "gameId": "SLUS_216.29"
+    },
+    {
+      "path": "PS2/SLUS_216.29/SLUS_216.29_BG_03.png",
+      "kind": "background",
+      "bytes": 175032,
+      "width": 640,
+      "height": 480,
+      "sha256": "f7323f0e2f39611449a3170836e0194d4322180c91eb9b3ffc85157cc4bafc91",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.29/SLUS_216.29_BG_03.png"
+      },
+      "gameId": "SLUS_216.29"
+    },
+    {
+      "path": "PS2/SLUS_216.29/SLUS_216.29_BG_04.png",
+      "kind": "background",
+      "bytes": 147258,
+      "width": 640,
+      "height": 480,
+      "sha256": "153230f1ba2f3269c9b3578d21c64e6b9f797cea2a58a50659dc54190e24ab65",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.29/SLUS_216.29_BG_04.png"
+      },
+      "gameId": "SLUS_216.29"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Samurai Showdown Anthology"
+}

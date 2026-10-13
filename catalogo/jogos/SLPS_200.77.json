@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.77",
+  "cover": {
+    "path": "PS2/SLPS_200.77/SLPS_200.77_COV.png",
+    "kind": "cover",
+    "bytes": 78075,
+    "width": 192,
+    "height": 272,
+    "sha256": "f5632128dcb3579e1ddb86d5353fe28552e5ff29fbd2516efccbdbf73d8a9f45",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20077.jpg"
+    },
+    "gameId": "SLPS_200.77"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pilot Nina Rou! 2"
+}

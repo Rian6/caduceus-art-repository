@@ -1,0 +1,25 @@
+{
+  "id": "SCES_517.25",
+  "cover": {
+    "path": "PS2/SCES_517.25/SCES_517.25_COV.png",
+    "kind": "cover",
+    "bytes": 105074,
+    "width": 192,
+    "height": 272,
+    "sha256": "8265d13a674012ccab0bc89839da667086f2e26c90313391bbeb89a75be3804e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-51725.jpg"
+    },
+    "gameId": "SCES_517.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EverQuest: Online Adventures"
+}

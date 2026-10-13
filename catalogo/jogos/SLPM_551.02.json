@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.02",
+  "cover": {
+    "path": "PS2/SLPM_551.02/SLPM_551.02_COV.png",
+    "kind": "cover",
+    "bytes": 101269,
+    "width": 192,
+    "height": 272,
+    "sha256": "b23b4fc7060b5be41e83a8a313668fcf9e1c6e525769f7257ef19c8d3a39b2ab",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55102.jpg"
+    },
+    "gameId": "SLPM_551.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PIA CARROT E YOUKOSO!! G.P. GAKUEN PRINCESS"
+}

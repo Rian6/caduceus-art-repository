@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.10",
+  "cover": {
+    "path": "PS2/SLPS_259.10/SLPS_259.10_COV.png",
+    "kind": "cover",
+    "bytes": 84073,
+    "width": 192,
+    "height": 272,
+    "sha256": "b3bc7abfb339b541ca75234c31f9f2f81d9b5a9787e719b2be15ae1305f07a88",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25910.jpg"
+    },
+    "gameId": "SLPS_259.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KATEIKYOUSHI HITMAN REBORN! DREAM HYPER BATTLE! [BEST COLLECTION]"
+}

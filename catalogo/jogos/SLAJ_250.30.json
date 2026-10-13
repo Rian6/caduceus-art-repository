@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.30",
+  "cover": {
+    "path": "PS2/SLAJ_250.30/SLAJ_250.30_COV.png",
+    "kind": "cover",
+    "bytes": 105729,
+    "width": 192,
+    "height": 272,
+    "sha256": "f77a649782fae1ab3f9dc9094df61bdde9c51378dddeba5d39ee70c19d0d85e8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25030.jpg"
+    },
+    "gameId": "SLAJ_250.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEDAL OF HONOR - RISING SUN"
+}

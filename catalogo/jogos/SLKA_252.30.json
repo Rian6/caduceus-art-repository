@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.30",
+  "cover": {
+    "path": "PS2/SLKA_252.30/SLKA_252.30_COV.png",
+    "kind": "cover",
+    "bytes": 56284,
+    "width": 192,
+    "height": 272,
+    "sha256": "32c65d5386bdefb6369274ee4b41415bf2af70ed5f921e93ca8196cba022ca7d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.30/SLKA_252.30_COV.png"
+    },
+    "gameId": "SLKA_252.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Def Jam - Fight for N.Y."
+}

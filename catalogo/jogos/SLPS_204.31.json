@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.31",
+  "cover": {
+    "path": "PS2/SLPS_204.31/SLPS_204.31_COV.png",
+    "kind": "cover",
+    "bytes": 95372,
+    "width": 192,
+    "height": 272,
+    "sha256": "10e78383cb3ae5ada93ed7ea68815a47b8291839eab793e6d22a399e5e099ff2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20431.jpg"
+    },
+    "gameId": "SLPS_204.31"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.086 - THE MENKYOU SHUTOKU SIMULATION"
+}

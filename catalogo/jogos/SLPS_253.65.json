@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.65",
+  "cover": {
+    "path": "PS2/SLPS_253.65/SLPS_253.65_COV.png",
+    "kind": "cover",
+    "bytes": 98695,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ffae8b33e17be3dbaa1a521e6b5803251617f7231b573be3d6399bd992fe8f2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25365.jpg"
+    },
+    "gameId": "SLPS_253.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MISSING BLUE [BEST PRICE]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.68",
+  "cover": {
+    "path": "PS2/SLPS_255.68/SLPS_255.68_COV.png",
+    "kind": "cover",
+    "bytes": 80773,
+    "width": 192,
+    "height": 272,
+    "sha256": "b869092a8b93ee9eda716a737f3c1793043d9b944e067f8153533cdb0fb4caa5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25568.jpg"
+    },
+    "gameId": "SLPS_255.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KERORO GUNSOU - MEROMERO BATTLE ROYALE [BANDAI THE BEST]"
+}

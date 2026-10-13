@@ -1,0 +1,65 @@
+{
+  "id": "SLES_518.50",
+  "cover": {
+    "path": "PS2/SLES_518.50/SLES_518.50_COV.png",
+    "kind": "cover",
+    "bytes": 107975,
+    "width": 192,
+    "height": 272,
+    "sha256": "f541ffc9a547e4384ae941813c5d3ba3791e7ef593b7ede370cfedef59a00c58",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51850.jpg"
+    },
+    "gameId": "SLES_518.50"
+  },
+  "disc": {
+    "path": "PS2/SLES_518.50/SLES_518.50_ICO.png",
+    "kind": "disc",
+    "bytes": 9668,
+    "width": 128,
+    "height": 128,
+    "sha256": "009d6c63450ad9bd58897aa9826678f238d4339cf930c02ec3c0d2a643a2f817",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_518.50_ICO.png"
+    },
+    "gameId": "SLES_518.50"
+  },
+  "background": {
+    "path": "PS2/SLES_518.50/SLES_518.50_BG.png",
+    "kind": "background",
+    "bytes": 73297,
+    "width": 640,
+    "height": 480,
+    "sha256": "40b51d99c896c876b39aaedcc6efaba242259d4c76c8e321918f2e8a43366b0a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.50/SLES_518.50_BG_00.png"
+    },
+    "gameId": "SLES_518.50"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.50/SLES_518.50_BG.png",
+      "kind": "background",
+      "bytes": 73297,
+      "width": 640,
+      "height": 480,
+      "sha256": "40b51d99c896c876b39aaedcc6efaba242259d4c76c8e321918f2e8a43366b0a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.50/SLES_518.50_BG_00.png"
+      },
+      "gameId": "SLES_518.50"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Basketball Xciting"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.79",
+  "cover": {
+    "path": "PS2/SLPM_621.79/SLPM_621.79_COV.png",
+    "kind": "cover",
+    "bytes": 62198,
+    "width": 192,
+    "height": 272,
+    "sha256": "f696f3c08c201426e9a65bed76ee49c32ce23e2ef59baa98ca569165f7a443c8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62179.jpg"
+    },
+    "gameId": "SLPM_621.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 HONKAKU SHIKOU VOL.002 - THE IGO"
+}

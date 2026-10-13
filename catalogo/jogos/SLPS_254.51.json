@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.51",
+  "cover": {
+    "path": "PS2/SLPS_254.51/SLPS_254.51_COV.png",
+    "kind": "cover",
+    "bytes": 69900,
+    "width": 192,
+    "height": 272,
+    "sha256": "14fc766e6eec75d21dfd954162bfd49527b8ec41fe5e943f3120a4bea288bfac",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25451.jpg"
+    },
+    "gameId": "SLPS_254.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FLOWER, SUN AND RAIN (HANA TO TAIYOU TO AME TO) [BEST COLLECTION]"
+}

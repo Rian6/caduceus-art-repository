@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_201.81",
+  "cover": {
+    "path": "PS2/SLUS_201.81/SLUS_201.81_COV.png",
+    "kind": "cover",
+    "bytes": 109751,
+    "width": 192,
+    "height": 272,
+    "sha256": "b9c962587b6add6f16f5850871ffadf6eed1684d1da38b5320d175c79159f702",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20181.jpg"
+    },
+    "gameId": "SLUS_201.81"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.81/SLUS_201.81_ICO.png",
+    "kind": "disc",
+    "bytes": 31352,
+    "width": 256,
+    "height": 256,
+    "sha256": "d7f64d1580015b58332499e23e69f22568bb8f720988917b739b052827533095",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.81_ICO.png"
+    },
+    "gameId": "SLUS_201.81"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.81/SLUS_201.81_BG.png",
+    "kind": "background",
+    "bytes": 149960,
+    "width": 640,
+    "height": 480,
+    "sha256": "1ccdf10b3635c7d17e779dce177a60be9e73b44ef47aefd289960489d668bbdb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.81/SLUS_201.81_BG_00.png"
+    },
+    "gameId": "SLUS_201.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.81/SLUS_201.81_BG.png",
+      "kind": "background",
+      "bytes": 149960,
+      "width": 640,
+      "height": 480,
+      "sha256": "1ccdf10b3635c7d17e779dce177a60be9e73b44ef47aefd289960489d668bbdb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.81/SLUS_201.81_BG_00.png"
+      },
+      "gameId": "SLUS_201.81"
+    },
+    {
+      "path": "PS2/SLUS_201.81/SLUS_201.81_BG_01.png",
+      "kind": "background",
+      "bytes": 186397,
+      "width": 640,
+      "height": 480,
+      "sha256": "60a962ce4fb762a0a881896bcc92acaeee7ae914efe1726016022c98ff3a241a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.81/SLUS_201.81_BG_01.png"
+      },
+      "gameId": "SLUS_201.81"
+    },
+    {
+      "path": "PS2/SLUS_201.81/SLUS_201.81_BG_02.png",
+      "kind": "background",
+      "bytes": 165989,
+      "width": 640,
+      "height": 480,
+      "sha256": "e097f066d8768053acbe1d6c63e9287492ca5e1baeedca7df8deb25c8f09c287",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.81/SLUS_201.81_BG_02.png"
+      },
+      "gameId": "SLUS_201.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Escape from Monkey Island"
+}

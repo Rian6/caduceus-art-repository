@@ -1,0 +1,90 @@
+{
+  "id": "SLPM_627.18",
+  "cover": {
+    "path": "PS2/SLPM_627.18/SLPM_627.18_COV.png",
+    "kind": "cover",
+    "bytes": 98761,
+    "width": 192,
+    "height": 272,
+    "sha256": "576fec386e51938ebec947fee6b7f1e12d212b4ad111a539952d895c49957de3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62718.jpg"
+    },
+    "gameId": "SLPM_627.18"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_627.18/SLPM_627.18_BG.png",
+    "kind": "background",
+    "bytes": 185628,
+    "width": 640,
+    "height": 480,
+    "sha256": "877941aa755e6df9ace8430600f767523b7d58b996753d179fa8baf05cc6e7cc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_627.18/SLPM_627.18_BG_00.png"
+    },
+    "gameId": "SLPM_627.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_627.18/SLPM_627.18_BG.png",
+      "kind": "background",
+      "bytes": 185628,
+      "width": 640,
+      "height": 480,
+      "sha256": "877941aa755e6df9ace8430600f767523b7d58b996753d179fa8baf05cc6e7cc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.18/SLPM_627.18_BG_00.png"
+      },
+      "gameId": "SLPM_627.18"
+    },
+    {
+      "path": "PS2/SLPM_627.18/SLPM_627.18_BG_01.png",
+      "kind": "background",
+      "bytes": 193110,
+      "width": 640,
+      "height": 480,
+      "sha256": "43eeab90c4f6c90e2f78ef9e94fc51ecfda5c20dcf622f48f2a0dd10e36368a9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.18/SLPM_627.18_BG_01.png"
+      },
+      "gameId": "SLPM_627.18"
+    },
+    {
+      "path": "PS2/SLPM_627.18/SLPM_627.18_BG_02.png",
+      "kind": "background",
+      "bytes": 238125,
+      "width": 640,
+      "height": 480,
+      "sha256": "5900dd94a3c252168d71495f457c3eb9e8da5b715fd88c17034005a3000a1c4e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.18/SLPM_627.18_BG_02.png"
+      },
+      "gameId": "SLPM_627.18"
+    },
+    {
+      "path": "PS2/SLPM_627.18/SLPM_627.18_BG_03.png",
+      "kind": "background",
+      "bytes": 216828,
+      "width": 640,
+      "height": 480,
+      "sha256": "cc2cc7bf401dade00e78d81e2080cfd187f33c1a960fc8c6156b37944e3e0347",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.18/SLPM_627.18_BG_03.png"
+      },
+      "gameId": "SLPM_627.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Ages 2500 Series Vol. 27: Panzer Dragoon"
+}

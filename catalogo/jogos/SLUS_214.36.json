@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_214.36",
+  "cover": {
+    "path": "PS2/SLUS_214.36/SLUS_214.36_COV.png",
+    "kind": "cover",
+    "bytes": 97879,
+    "width": 192,
+    "height": 272,
+    "sha256": "e03de07634db780957ea862599aa9dd3a3992425d99e515b9be9601b8cf9737a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21436.jpg"
+    },
+    "gameId": "SLUS_214.36"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.36/SLUS_214.36_ICO.png",
+    "kind": "disc",
+    "bytes": 33796,
+    "width": 256,
+    "height": 256,
+    "sha256": "d3b1aa758c047b8cb34267feb7fa25db6f4e973f29657ba70dcde33bb052886e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.36_ICO.png"
+    },
+    "gameId": "SLUS_214.36"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.36/SLUS_214.36_BG.png",
+    "kind": "background",
+    "bytes": 169566,
+    "width": 640,
+    "height": 480,
+    "sha256": "bb7e59ea30d34cde14e9d1fa49242827ae7e21e027fe096d739af941eb52e144",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.36/SLUS_214.36_BG_00.png"
+    },
+    "gameId": "SLUS_214.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.36/SLUS_214.36_BG.png",
+      "kind": "background",
+      "bytes": 169566,
+      "width": 640,
+      "height": 480,
+      "sha256": "bb7e59ea30d34cde14e9d1fa49242827ae7e21e027fe096d739af941eb52e144",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.36/SLUS_214.36_BG_00.png"
+      },
+      "gameId": "SLUS_214.36"
+    },
+    {
+      "path": "PS2/SLUS_214.36/SLUS_214.36_BG_01.png",
+      "kind": "background",
+      "bytes": 164795,
+      "width": 640,
+      "height": 480,
+      "sha256": "62c0eacbc59d9b31ce9c239282065a2c076bfe02d7020712811dadeb300c0007",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.36/SLUS_214.36_BG_01.png"
+      },
+      "gameId": "SLUS_214.36"
+    },
+    {
+      "path": "PS2/SLUS_214.36/SLUS_214.36_BG_02.png",
+      "kind": "background",
+      "bytes": 157295,
+      "width": 640,
+      "height": 480,
+      "sha256": "69918828ef6d1ec8c2ccd12a13cc492503bcecb4e4d67d14d08167613c906c52",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.36/SLUS_214.36_BG_02.png"
+      },
+      "gameId": "SLUS_214.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Just Cause"
+}

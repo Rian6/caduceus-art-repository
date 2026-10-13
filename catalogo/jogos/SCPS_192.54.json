@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_192.54",
+  "cover": {
+    "path": "PS2/SCPS_192.54/SCPS_192.54_COV.png",
+    "kind": "cover",
+    "bytes": 87150,
+    "width": 192,
+    "height": 272,
+    "sha256": "a95e07155eab58f5348ce3543941fe0bbaac4c174b5eaa9653035b6887876de2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-19254.jpg"
+    },
+    "gameId": "SCPS_192.54"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rogue Galaxy: Director's Cut (PlayStation 2 the Best)"
+}

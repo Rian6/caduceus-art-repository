@@ -1,0 +1,64 @@
+{
+  "id": "SLKA_252.65",
+  "cover": {
+    "path": "PS2/SLKA_252.65/SLKA_252.65_COV.png",
+    "kind": "cover",
+    "bytes": 87046,
+    "width": 192,
+    "height": 272,
+    "sha256": "23bfe52469a4226fb89533cf3aa548d50e4cd2ec0feeaff5066d281f1fdaf41b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25265.jpg"
+    },
+    "gameId": "SLKA_252.65"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_252.65/SLKA_252.65_BG.png",
+    "kind": "background",
+    "bytes": 167394,
+    "width": 640,
+    "height": 480,
+    "sha256": "0b4770fc3238f588d5e3b5c4a2519f2687bd53ad56108cede9fa71c26da12889",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_252.65/SLKA_252.65_BG_00.png"
+    },
+    "gameId": "SLKA_252.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_252.65/SLKA_252.65_BG.png",
+      "kind": "background",
+      "bytes": 167394,
+      "width": 640,
+      "height": 480,
+      "sha256": "0b4770fc3238f588d5e3b5c4a2519f2687bd53ad56108cede9fa71c26da12889",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_252.65/SLKA_252.65_BG_00.png"
+      },
+      "gameId": "SLKA_252.65"
+    },
+    {
+      "path": "PS2/SLKA_252.65/SLKA_252.65_BG_01.png",
+      "kind": "background",
+      "bytes": 176694,
+      "width": 640,
+      "height": 480,
+      "sha256": "03ad690ce2bdf52bf12704a1035fb5a4edf8ae0585cb5bf1c33cda3be4c83e6b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_252.65/SLKA_252.65_BG_01.png"
+      },
+      "gameId": "SLKA_252.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Devil May Cry 3"
+}

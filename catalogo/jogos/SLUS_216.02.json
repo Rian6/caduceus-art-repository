@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_216.02",
+  "cover": {
+    "path": "PS2/SLUS_216.02/SLUS_216.02_COV.png",
+    "kind": "cover",
+    "bytes": 98660,
+    "width": 192,
+    "height": 272,
+    "sha256": "8f84a04b29bd8b1c807cad56ec0d57291c0985d1493b3ebc239d558a96a5f414",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21602.jpg"
+    },
+    "gameId": "SLUS_216.02"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.02/SLUS_216.02_ICO.png",
+    "kind": "disc",
+    "bytes": 37659,
+    "width": 256,
+    "height": 256,
+    "sha256": "623d83f547779f7ad4069f557c5da970f41390542cecdaac44d45587daa6f15a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.02_ICO.png"
+    },
+    "gameId": "SLUS_216.02"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.02/SLUS_216.02_BG.png",
+    "kind": "background",
+    "bytes": 163560,
+    "width": 640,
+    "height": 480,
+    "sha256": "1484a0cf0fdd56740f6fef9729fc539acca7d1779b5b754b343394c38fa78a10",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.02/SLUS_216.02_BG_00.png"
+    },
+    "gameId": "SLUS_216.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.02/SLUS_216.02_BG.png",
+      "kind": "background",
+      "bytes": 163560,
+      "width": 640,
+      "height": 480,
+      "sha256": "1484a0cf0fdd56740f6fef9729fc539acca7d1779b5b754b343394c38fa78a10",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.02/SLUS_216.02_BG_00.png"
+      },
+      "gameId": "SLUS_216.02"
+    },
+    {
+      "path": "PS2/SLUS_216.02/SLUS_216.02_BG_01.png",
+      "kind": "background",
+      "bytes": 175566,
+      "width": 640,
+      "height": 480,
+      "sha256": "7ab1bfec72b08df87f3ef79995b2e00b48ae0366030691eaa9291837554523a9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.02/SLUS_216.02_BG_01.png"
+      },
+      "gameId": "SLUS_216.02"
+    },
+    {
+      "path": "PS2/SLUS_216.02/SLUS_216.02_BG_02.png",
+      "kind": "background",
+      "bytes": 117943,
+      "width": 640,
+      "height": 480,
+      "sha256": "1a1f6f833797a51dfe51ec5e368d97b79fdf336aae635051c4984b71fec7956e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.02/SLUS_216.02_BG_02.png"
+      },
+      "gameId": "SLUS_216.02"
+    },
+    {
+      "path": "PS2/SLUS_216.02/SLUS_216.02_BG_03.png",
+      "kind": "background",
+      "bytes": 191264,
+      "width": 640,
+      "height": 480,
+      "sha256": "afbb5be3863133b3844fbbc2a51a63cb79e7b67a1dc45ddfc2c86c4f5db3b62e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.02/SLUS_216.02_BG_03.png"
+      },
+      "gameId": "SLUS_216.02"
+    },
+    {
+      "path": "PS2/SLUS_216.02/SLUS_216.02_BG_04.png",
+      "kind": "background",
+      "bytes": 240903,
+      "width": 640,
+      "height": 480,
+      "sha256": "f0e4302bb4243316346607148746d3d0bf8ab3d062ff24a5491bb1905d2ebe76",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.02/SLUS_216.02_BG_04.png"
+      },
+      "gameId": "SLUS_216.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Transformers: The Game"
+}

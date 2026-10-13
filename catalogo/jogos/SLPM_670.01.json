@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_670.01",
+  "cover": {
+    "path": "PS2/SLPM_670.01/SLPM_670.01_COV.png",
+    "kind": "cover",
+    "bytes": 52263,
+    "width": 192,
+    "height": 272,
+    "sha256": "d5a103ca7d9179da4a805aa0e6b89a8e4836f0b3a3ea113352157029692c5f51",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-67001.jpg"
+    },
+    "gameId": "SLPM_670.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Wonder Zone"
+}

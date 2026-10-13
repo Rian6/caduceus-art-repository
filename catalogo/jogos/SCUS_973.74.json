@@ -1,0 +1,51 @@
+{
+  "id": "SCUS_973.74",
+  "cover": {
+    "path": "PS2/SCUS_973.74/SCUS_973.74_COV.png",
+    "kind": "cover",
+    "bytes": 94290,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d8712ec3315bf79b3a990bc4bddb08deb17be3d213bc24d06f06a0132e1d6de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97374.jpg"
+    },
+    "gameId": "SCUS_973.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCUS_973.74/SCUS_973.74_BG.png",
+    "kind": "background",
+    "bytes": 125277,
+    "width": 640,
+    "height": 480,
+    "sha256": "ce2d3b4b4530ad160ad014b0ff6ce0b9e0ac9f5b3c3b02f9f32c9559e1904ae5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_973.74/SCUS_973.74_BG_00.png"
+    },
+    "gameId": "SCUS_973.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_973.74/SCUS_973.74_BG.png",
+      "kind": "background",
+      "bytes": 125277,
+      "width": 640,
+      "height": 480,
+      "sha256": "ce2d3b4b4530ad160ad014b0ff6ce0b9e0ac9f5b3c3b02f9f32c9559e1904ae5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_973.74/SCUS_973.74_BG_00.png"
+      },
+      "gameId": "SCUS_973.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ratchet & Clank: Going Commando + Jak II"
+}

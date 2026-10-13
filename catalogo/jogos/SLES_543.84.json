@@ -1,0 +1,103 @@
+{
+  "id": "SLES_543.84",
+  "cover": {
+    "path": "PS2/SLES_543.84/SLES_543.84_COV.png",
+    "kind": "cover",
+    "bytes": 97689,
+    "width": 192,
+    "height": 272,
+    "sha256": "f9ed73b8aa4d9ddbe7ddc3430b5bca7a49e16b3884821c09f21e467feb9b092d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54384.jpg"
+    },
+    "gameId": "SLES_543.84"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_543.84/SLES_543.84_BG.png",
+    "kind": "background",
+    "bytes": 190248,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a84e11f2e71cb85e7089cf100c4ac7152df02a0de61d1a2e57412bbce465d72",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_543.84/SLES_543.84_BG_00.png"
+    },
+    "gameId": "SLES_543.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_543.84/SLES_543.84_BG.png",
+      "kind": "background",
+      "bytes": 190248,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a84e11f2e71cb85e7089cf100c4ac7152df02a0de61d1a2e57412bbce465d72",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.84/SLES_543.84_BG_00.png"
+      },
+      "gameId": "SLES_543.84"
+    },
+    {
+      "path": "PS2/SLES_543.84/SLES_543.84_BG_01.png",
+      "kind": "background",
+      "bytes": 206348,
+      "width": 640,
+      "height": 480,
+      "sha256": "b6e1a526fcf2c036e01b2cab5c9e8d1a45ff2afa541366936a7e8e58ca8aa992",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.84/SLES_543.84_BG_01.png"
+      },
+      "gameId": "SLES_543.84"
+    },
+    {
+      "path": "PS2/SLES_543.84/SLES_543.84_BG_02.png",
+      "kind": "background",
+      "bytes": 192798,
+      "width": 640,
+      "height": 480,
+      "sha256": "7fbec638d88177fcbfa7dd1e17629726dbebdaf61ec6ba4aaafb9b74d4417ddc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.84/SLES_543.84_BG_02.png"
+      },
+      "gameId": "SLES_543.84"
+    },
+    {
+      "path": "PS2/SLES_543.84/SLES_543.84_BG_03.png",
+      "kind": "background",
+      "bytes": 72836,
+      "width": 640,
+      "height": 480,
+      "sha256": "ba47f78ad7b0ee459f0c54963a73ea7e1b2014cd5b63c75681690c3651715a61",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.84/SLES_543.84_BG_03.png"
+      },
+      "gameId": "SLES_543.84"
+    },
+    {
+      "path": "PS2/SLES_543.84/SLES_543.84_BG_04.png",
+      "kind": "background",
+      "bytes": 204479,
+      "width": 640,
+      "height": 480,
+      "sha256": "248df090ca7099ef907c1adb56fd51d0f440adabde14a96e96fba8ef28ffc0c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_543.84/SLES_543.84_BG_04.png"
+      },
+      "gameId": "SLES_543.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Destroy All Humans! 2"
+}

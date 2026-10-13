@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_621.54",
+  "cover": {
+    "path": "PS2/SLPM_621.54/SLPM_621.54_COV.png",
+    "kind": "cover",
+    "bytes": 92189,
+    "width": 192,
+    "height": 272,
+    "sha256": "f2e83b65dea53c0d2ebac8cdff96405b87336690db7f76b91c188503f5d43514",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62154.jpg"
+    },
+    "gameId": "SLPM_621.54"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_621.54/SLPM_621.54_BG.png",
+    "kind": "background",
+    "bytes": 155798,
+    "width": 640,
+    "height": 480,
+    "sha256": "9bea5dba1ed8575631167e2b5928466dba580286eac6643c90fc1b7d3b0393a6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_621.54/SLPM_621.54_BG_00.png"
+    },
+    "gameId": "SLPM_621.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_621.54/SLPM_621.54_BG.png",
+      "kind": "background",
+      "bytes": 155798,
+      "width": 640,
+      "height": 480,
+      "sha256": "9bea5dba1ed8575631167e2b5928466dba580286eac6643c90fc1b7d3b0393a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_621.54/SLPM_621.54_BG_00.png"
+      },
+      "gameId": "SLPM_621.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DDR Max - Dance Dance Revolution 6th Mix"
+}

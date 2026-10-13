@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.29",
+  "cover": {
+    "path": "PS2/SLPM_658.29/SLPM_658.29_COV.png",
+    "kind": "cover",
+    "bytes": 83663,
+    "width": 192,
+    "height": 272,
+    "sha256": "d51be25e48d86f156cf22d72ac25cded482dd9f748ff1e8c7e5c1e8ba9f9553a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65829.jpg"
+    },
+    "gameId": "SLPM_658.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ys: Napishtim no Hako"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.62",
+  "cover": {
+    "path": "PS2/SLPS_251.62/SLPS_251.62_COV.png",
+    "kind": "cover",
+    "bytes": 83453,
+    "width": 192,
+    "height": 272,
+    "sha256": "991de32bb69e6e43846713765f0663b05ca30f9070f44ee6832f9a11ced3cd75",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25162.jpg"
+    },
+    "gameId": "SLPS_251.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Uchuu Senkan Yamato - Ankoku Seidan Teikoku no Gyakushuu"
+}

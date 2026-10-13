@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.74",
+  "cover": {
+    "path": "PS2/SLPM_657.74/SLPM_657.74_COV.png",
+    "kind": "cover",
+    "bytes": 107709,
+    "width": 192,
+    "height": 272,
+    "sha256": "ef0d0f88c008314824cd74b031e88566c985cb0286bf9bc0509b9da841b48371",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65774.jpg"
+    },
+    "gameId": "SLPM_657.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DDR FESTIVAL - DANCE DANCE REVOLUTION [WITH DDR CONTROLLER 2]"
+}

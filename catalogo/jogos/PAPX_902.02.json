@@ -1,0 +1,25 @@
+{
+  "id": "PAPX_902.02",
+  "cover": {
+    "path": "PS2/PAPX_902.02/PAPX_902.02_COV.png",
+    "kind": "cover",
+    "bytes": 64117,
+    "width": 192,
+    "height": 272,
+    "sha256": "27799aff5ae4c4cab3be6735de6221f3270c46d5f790bf8f57a7b16431d3821a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PAPX-90202.jpg"
+    },
+    "gameId": "PAPX_902.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "I.Q Remix+: Intelligent Qube"
+}

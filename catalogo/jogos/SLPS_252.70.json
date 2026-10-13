@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.70",
+  "cover": {
+    "path": "PS2/SLPS_252.70/SLPS_252.70_COV.png",
+    "kind": "cover",
+    "bytes": 113053,
+    "width": 192,
+    "height": 272,
+    "sha256": "9003583e28414b0c1406e6820e13449a67ce0919fa663525e8cb6b9908d5ec1b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25270.jpg"
+    },
+    "gameId": "SLPS_252.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sunrise World War"
+}

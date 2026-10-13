@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.58",
+  "cover": {
+    "path": "PS2/SLPS_258.58/SLPS_258.58_COV.png",
+    "kind": "cover",
+    "bytes": 87908,
+    "width": 192,
+    "height": 272,
+    "sha256": "c016a3faa1fa8ecc7d2bbe27cad22953ca0eba4f28352985eec9d6d51af5c951",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25858.jpg"
+    },
+    "gameId": "SLPS_258.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHAKUGAN NO SHANA [DENGEKI SP]"
+}

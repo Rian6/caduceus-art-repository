@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.64",
+  "cover": {
+    "path": "PS2/SLPS_255.64/SLPS_255.64_COV.png",
+    "kind": "cover",
+    "bytes": 89363,
+    "width": 192,
+    "height": 272,
+    "sha256": "5f89e06d09ecce0040d2a6159d5b3159a81b2895fed46e2a63c6e6c23e8f92f0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25564.jpg"
+    },
+    "gameId": "SLPS_255.64"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gallop Racer 8 - Live Horse Racing"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SLES_537.17",
+  "cover": {
+    "path": "PS2/SLES_537.17/SLES_537.17_COV.png",
+    "kind": "cover",
+    "bytes": 106044,
+    "width": 192,
+    "height": 272,
+    "sha256": "cd2fd2d87057757244d3457d80e6fdbe07e3bff154dcc302d69911760eae9c58",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53717.jpg"
+    },
+    "gameId": "SLES_537.17"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.17/SLES_537.17_BG.png",
+    "kind": "background",
+    "bytes": 167320,
+    "width": 640,
+    "height": 480,
+    "sha256": "e1b3aab52d3e2506e018e4ab8dd5f94d35dd5b887c309f87f7b062e88a34fe73",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.17/SLES_537.17_BG_00.png"
+    },
+    "gameId": "SLES_537.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.17/SLES_537.17_BG.png",
+      "kind": "background",
+      "bytes": 167320,
+      "width": 640,
+      "height": 480,
+      "sha256": "e1b3aab52d3e2506e018e4ab8dd5f94d35dd5b887c309f87f7b062e88a34fe73",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.17/SLES_537.17_BG_00.png"
+      },
+      "gameId": "SLES_537.17"
+    },
+    {
+      "path": "PS2/SLES_537.17/SLES_537.17_BG_01.png",
+      "kind": "background",
+      "bytes": 175516,
+      "width": 640,
+      "height": 480,
+      "sha256": "706b2423a38c78f1fd877d68aba065e0b959bc08645170392121243ae4f09bf9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.17/SLES_537.17_BG_01.png"
+      },
+      "gameId": "SLES_537.17"
+    },
+    {
+      "path": "PS2/SLES_537.17/SLES_537.17_BG_02.png",
+      "kind": "background",
+      "bytes": 209397,
+      "width": 640,
+      "height": 480,
+      "sha256": "facd6e38e0e076b4b22e77e3e4e1c8f37bc09765042f0b3724dd8b817480cd90",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.17/SLES_537.17_BG_02.png"
+      },
+      "gameId": "SLES_537.17"
+    },
+    {
+      "path": "PS2/SLES_537.17/SLES_537.17_BG_03.png",
+      "kind": "background",
+      "bytes": 179398,
+      "width": 640,
+      "height": 480,
+      "sha256": "d953824ae5c0c7b31a827cc401e1d350c4d7ecf2f257f7c7d138aceb594181b7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.17/SLES_537.17_BG_03.png"
+      },
+      "gameId": "SLES_537.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Midnight Club 3 - DUB Edition Remix"
+}

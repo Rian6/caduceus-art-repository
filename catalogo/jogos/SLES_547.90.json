@@ -1,0 +1,51 @@
+{
+  "id": "SLES_547.90",
+  "cover": {
+    "path": "PS2/SLES_547.90/SLES_547.90_COV.png",
+    "kind": "cover",
+    "bytes": 111148,
+    "width": 192,
+    "height": 272,
+    "sha256": "ffb221b81ef9e1e9aed91002637ae48377679130ff748ed2d6e4e97fe8b0c306",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54790.jpg"
+    },
+    "gameId": "SLES_547.90"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_547.90/SLES_547.90_BG.png",
+    "kind": "background",
+    "bytes": 210274,
+    "width": 640,
+    "height": 480,
+    "sha256": "a36b912b8c196dd2ab41baeb9f0ce76947d904fd596d5f0a3b68b1ee11d495fe",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_547.90/SLES_547.90_BG_00.png"
+    },
+    "gameId": "SLES_547.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_547.90/SLES_547.90_BG.png",
+      "kind": "background",
+      "bytes": 210274,
+      "width": 640,
+      "height": 480,
+      "sha256": "a36b912b8c196dd2ab41baeb9f0ce76947d904fd596d5f0a3b68b1ee11d495fe",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.90/SLES_547.90_BG_00.png"
+      },
+      "gameId": "SLES_547.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Art of Fighting Anthology"
+}

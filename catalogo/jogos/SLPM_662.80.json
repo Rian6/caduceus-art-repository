@@ -1,0 +1,117 @@
+{
+  "id": "SLPM_662.80",
+  "cover": {
+    "path": "PS2/SLPM_662.80/SLPM_662.80_COV.png",
+    "kind": "cover",
+    "bytes": 113869,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1269508ad92c5f66bd745e420db913c1e86cc47c6865248d85fdb29609782eb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66280.jpg"
+    },
+    "gameId": "SLPM_662.80"
+  },
+  "disc": {
+    "path": "PS2/SLPM_662.80/SLPM_662.80_ICO.png",
+    "kind": "disc",
+    "bytes": 9414,
+    "width": 128,
+    "height": 128,
+    "sha256": "bfb20c0bac3962e52ba72d9951e2e4ccd3a71018850adeead1a3d8c1b4ce973a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_662.80_ICO.png"
+    },
+    "gameId": "SLPM_662.80"
+  },
+  "background": {
+    "path": "PS2/SLPM_662.80/SLPM_662.80_BG.png",
+    "kind": "background",
+    "bytes": 214826,
+    "width": 640,
+    "height": 480,
+    "sha256": "fbeaef6d554dabd07a86b7a1f64a8607fcd35a42ee7b2c8707ad304eef3fbb58",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_662.80/SLPM_662.80_BG_00.png"
+    },
+    "gameId": "SLPM_662.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_662.80/SLPM_662.80_BG.png",
+      "kind": "background",
+      "bytes": 214826,
+      "width": 640,
+      "height": 480,
+      "sha256": "fbeaef6d554dabd07a86b7a1f64a8607fcd35a42ee7b2c8707ad304eef3fbb58",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.80/SLPM_662.80_BG_00.png"
+      },
+      "gameId": "SLPM_662.80"
+    },
+    {
+      "path": "PS2/SLPM_662.80/SLPM_662.80_BG_01.png",
+      "kind": "background",
+      "bytes": 205883,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c1a4f26afdfee4c4c48e98a46d84a51039e08c960e35b3402265b419b9caf41",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.80/SLPM_662.80_BG_01.png"
+      },
+      "gameId": "SLPM_662.80"
+    },
+    {
+      "path": "PS2/SLPM_662.80/SLPM_662.80_BG_02.png",
+      "kind": "background",
+      "bytes": 263745,
+      "width": 640,
+      "height": 480,
+      "sha256": "39e95ed3b30bd1b3db564f06af116980ccfdac3d3691b38a9682f0f41a555f2b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.80/SLPM_662.80_BG_02.png"
+      },
+      "gameId": "SLPM_662.80"
+    },
+    {
+      "path": "PS2/SLPM_662.80/SLPM_662.80_BG_03.png",
+      "kind": "background",
+      "bytes": 211957,
+      "width": 640,
+      "height": 480,
+      "sha256": "fbb13c53aebfe5a1cf17c7fd45e7c890c286b02857eeca9ae08e392bfd11a5fc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.80/SLPM_662.80_BG_03.png"
+      },
+      "gameId": "SLPM_662.80"
+    },
+    {
+      "path": "PS2/SLPM_662.80/SLPM_662.80_BG_04.png",
+      "kind": "background",
+      "bytes": 196906,
+      "width": 640,
+      "height": 480,
+      "sha256": "f512fdefe8235283bf87a9c9e303e15eb76f744373198d7fb03613db26f208e4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_662.80/SLPM_662.80_BG_04.png"
+      },
+      "gameId": "SLPM_662.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Monster Hunter 2"
+}

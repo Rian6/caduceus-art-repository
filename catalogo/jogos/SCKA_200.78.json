@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.78",
+  "cover": {
+    "path": "PS2/SCKA_200.78/SCKA_200.78_COV.png",
+    "kind": "cover",
+    "bytes": 80546,
+    "width": 192,
+    "height": 272,
+    "sha256": "6958b7b66e3e741367d8a06539cffc18510743fa706c0097ee5d4faf071b76d1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20078.jpg"
+    },
+    "gameId": "SCKA_200.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KILLZONE [PLAYSTATION 2 BIG HIT SERIES]"
+}

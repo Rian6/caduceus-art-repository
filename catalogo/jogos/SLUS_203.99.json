@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_203.99",
+  "cover": {
+    "path": "PS2/SLUS_203.99/SLUS_203.99_COV.png",
+    "kind": "cover",
+    "bytes": 111498,
+    "width": 192,
+    "height": 272,
+    "sha256": "2f543d5a368db2f4acad84c8cfa78d06c59d149d691eb2598e1d65347497e854",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20399.jpg"
+    },
+    "gameId": "SLUS_203.99"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.99/SLUS_203.99_ICO.png",
+    "kind": "disc",
+    "bytes": 27832,
+    "width": 256,
+    "height": 256,
+    "sha256": "25f0881830118094b900d089ae8f8590916b53b1f7583e023763446a41ac84f5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.99_ICO.png"
+    },
+    "gameId": "SLUS_203.99"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.99/SLUS_203.99_BG.png",
+    "kind": "background",
+    "bytes": 186486,
+    "width": 640,
+    "height": 480,
+    "sha256": "81eff42f59b6bfdb0e5bde68d4f8f3cf8bdb0fd18368dd5e4a9b4d23576f4fb4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.99/SLUS_203.99_BG_00.png"
+    },
+    "gameId": "SLUS_203.99"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.99/SLUS_203.99_BG.png",
+      "kind": "background",
+      "bytes": 186486,
+      "width": 640,
+      "height": 480,
+      "sha256": "81eff42f59b6bfdb0e5bde68d4f8f3cf8bdb0fd18368dd5e4a9b4d23576f4fb4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.99/SLUS_203.99_BG_00.png"
+      },
+      "gameId": "SLUS_203.99"
+    },
+    {
+      "path": "PS2/SLUS_203.99/SLUS_203.99_BG_01.png",
+      "kind": "background",
+      "bytes": 251922,
+      "width": 640,
+      "height": 480,
+      "sha256": "8747b5644636384288f125d174e06c2bd9d310dd9fd1bba2aebc96304af3411a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.99/SLUS_203.99_BG_01.png"
+      },
+      "gameId": "SLUS_203.99"
+    },
+    {
+      "path": "PS2/SLUS_203.99/SLUS_203.99_BG_02.png",
+      "kind": "background",
+      "bytes": 220675,
+      "width": 640,
+      "height": 480,
+      "sha256": "5ce47113ef9b056d66ee51eee35610500e1d42b1421325625f27b567a7bf2371",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.99/SLUS_203.99_BG_02.png"
+      },
+      "gameId": "SLUS_203.99"
+    },
+    {
+      "path": "PS2/SLUS_203.99/SLUS_203.99_BG_03.png",
+      "kind": "background",
+      "bytes": 203344,
+      "width": 640,
+      "height": 480,
+      "sha256": "d926b9d8bb2c1e8514b18a699df979f9e00398df40b9a58e1270269e6ef1af55",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.99/SLUS_203.99_BG_03.png"
+      },
+      "gameId": "SLUS_203.99"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MTX Mototrax"
+}

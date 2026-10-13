@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_213.98",
+  "cover": {
+    "path": "PS2/SLUS_213.98/SLUS_213.98_COV.png",
+    "kind": "cover",
+    "bytes": 108487,
+    "width": 192,
+    "height": 272,
+    "sha256": "4224f1274d1d449ed22167b7d675f15811b98f3d5090774db941ace66ed8580c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21398.jpg"
+    },
+    "gameId": "SLUS_213.98"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.98/SLUS_213.98_ICO.png",
+    "kind": "disc",
+    "bytes": 35047,
+    "width": 256,
+    "height": 256,
+    "sha256": "d84463e8168289bdbbf949db6337b257cdd0bc53ab02fe8737d145bee7a89df8",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.98_ICO.png"
+    },
+    "gameId": "SLUS_213.98"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.98/SLUS_213.98_BG.png",
+    "kind": "background",
+    "bytes": 198357,
+    "width": 640,
+    "height": 480,
+    "sha256": "20e77517edd73bbdc7ed726c1ca32b5c6037983fe7b4f5a132593e0e677bf9eb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.98/SLUS_213.98_BG_00.png"
+    },
+    "gameId": "SLUS_213.98"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.98/SLUS_213.98_BG.png",
+      "kind": "background",
+      "bytes": 198357,
+      "width": 640,
+      "height": 480,
+      "sha256": "20e77517edd73bbdc7ed726c1ca32b5c6037983fe7b4f5a132593e0e677bf9eb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.98/SLUS_213.98_BG_00.png"
+      },
+      "gameId": "SLUS_213.98"
+    },
+    {
+      "path": "PS2/SLUS_213.98/SLUS_213.98_BG_01.png",
+      "kind": "background",
+      "bytes": 206057,
+      "width": 640,
+      "height": 480,
+      "sha256": "ef858220ea52ced3bae2d7ef497cff8041150d07b766cce0cd4f6ac6c330a6e1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.98/SLUS_213.98_BG_01.png"
+      },
+      "gameId": "SLUS_213.98"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 5: Empires"
+}

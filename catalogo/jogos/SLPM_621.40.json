@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.40",
+  "cover": {
+    "path": "PS2/SLPM_621.40/SLPM_621.40_COV.png",
+    "kind": "cover",
+    "bytes": 105053,
+    "width": 192,
+    "height": 272,
+    "sha256": "a2203d67bf251a14d15b5f77d5ae88433b2beee3807680ccee83edd2aa6b7c56",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62140.jpg"
+    },
+    "gameId": "SLPM_621.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cyber Jansou: Toufuusou-hen"
+}

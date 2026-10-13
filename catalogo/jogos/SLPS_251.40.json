@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.40",
+  "cover": {
+    "path": "PS2/SLPS_251.40/SLPS_251.40_COV.png",
+    "kind": "cover",
+    "bytes": 90459,
+    "width": 192,
+    "height": 272,
+    "sha256": "27497f6748e2df492e791649838a622ba3a614f4085efbde7cad8becd6321dda",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25140.jpg"
+    },
+    "gameId": "SLPS_251.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Baldur's Gate: Dark Alliance"
+}

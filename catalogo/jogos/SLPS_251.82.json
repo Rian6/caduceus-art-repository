@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.82",
+  "cover": {
+    "path": "PS2/SLPS_251.82/SLPS_251.82_COV.png",
+    "kind": "cover",
+    "bytes": 114056,
+    "width": 192,
+    "height": 272,
+    "sha256": "533f5e6505bf9a64e785f5eed4813ba4812e829cdf805c288814f1a3c29d0b07",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25182.jpg"
+    },
+    "gameId": "SLPS_251.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Idol Janshi R: Jan Guru Project"
+}

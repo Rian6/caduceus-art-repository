@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.97",
+  "cover": {
+    "path": "PS2/SLPS_201.97/SLPS_201.97_COV.png",
+    "kind": "cover",
+    "bytes": 100638,
+    "width": 192,
+    "height": 272,
+    "sha256": "c3fef9a14bcd524745632d04de0cdd00487e1873e1b2126e81392f8a595292d0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20197.jpg"
+    },
+    "gameId": "SLPS_201.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Surfing Air Show with RatBoy"
+}

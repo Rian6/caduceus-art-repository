@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_211.00",
+  "cover": {
+    "path": "PS2/SLUS_211.00/SLUS_211.00_COV.png",
+    "kind": "cover",
+    "bytes": 98274,
+    "width": 192,
+    "height": 272,
+    "sha256": "7eb31c1bc8431962835d69b6db8108b7cb1688b9345090843969b69afea8ab6f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21100.jpg"
+    },
+    "gameId": "SLUS_211.00"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.00/SLUS_211.00_ICO.png",
+    "kind": "disc",
+    "bytes": 29755,
+    "width": 256,
+    "height": 256,
+    "sha256": "22164411eacf46b2fd018db4f6021f4fdfd34b76b88695470c376e851ad55b6f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.00_ICO.png"
+    },
+    "gameId": "SLUS_211.00"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NCAA March Madness 2005"
+}

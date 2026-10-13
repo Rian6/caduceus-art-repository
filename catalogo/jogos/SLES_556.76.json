@@ -1,0 +1,129 @@
+{
+  "id": "SLES_556.76",
+  "cover": {
+    "path": "PS2/SLES_556.76/SLES_556.76_COV.png",
+    "kind": "cover",
+    "bytes": 82856,
+    "width": 192,
+    "height": 272,
+    "sha256": "d7218a4272ecf21da61a2066bb145fb42ddc8eba0f41fd7064b574aec0343209",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55676.jpg"
+    },
+    "gameId": "SLES_556.76"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_556.76/SLES_556.76_BG.png",
+    "kind": "background",
+    "bytes": 20966,
+    "width": 640,
+    "height": 480,
+    "sha256": "ef6f7c5cbad5e8909d73ef12f2398bed93c530231de4a2d966c8a11b09b041a9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_556.76/SLES_556.76_BG_00.png"
+    },
+    "gameId": "SLES_556.76"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_556.76/SLES_556.76_BG.png",
+      "kind": "background",
+      "bytes": 20966,
+      "width": 640,
+      "height": 480,
+      "sha256": "ef6f7c5cbad5e8909d73ef12f2398bed93c530231de4a2d966c8a11b09b041a9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.76/SLES_556.76_BG_00.png"
+      },
+      "gameId": "SLES_556.76"
+    },
+    {
+      "path": "PS2/SLES_556.76/SLES_556.76_BG_01.png",
+      "kind": "background",
+      "bytes": 182024,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb69898d01b6525edf8ff751a0aadb3f6d422d607eebfae89b088d35a9a0184e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.76/SLES_556.76_BG_01.png"
+      },
+      "gameId": "SLES_556.76"
+    },
+    {
+      "path": "PS2/SLES_556.76/SLES_556.76_BG_02.png",
+      "kind": "background",
+      "bytes": 143319,
+      "width": 640,
+      "height": 480,
+      "sha256": "25cfa2b4b32e1a5a79480aa0006a047761b33aa48fc068b1ad9eef4ce725cf74",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.76/SLES_556.76_BG_02.png"
+      },
+      "gameId": "SLES_556.76"
+    },
+    {
+      "path": "PS2/SLES_556.76/SLES_556.76_BG_03.png",
+      "kind": "background",
+      "bytes": 178482,
+      "width": 640,
+      "height": 480,
+      "sha256": "effc90157982074bf652a7c6d055c577b8499bc762e08d0f999fc4d806c95373",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.76/SLES_556.76_BG_03.png"
+      },
+      "gameId": "SLES_556.76"
+    },
+    {
+      "path": "PS2/SLES_556.76/SLES_556.76_BG_04.png",
+      "kind": "background",
+      "bytes": 159238,
+      "width": 640,
+      "height": 480,
+      "sha256": "658efa09f96716c9b7a49f4b7bed58638b000fc7eb9865df6b2134208d28dc7d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.76/SLES_556.76_BG_04.png"
+      },
+      "gameId": "SLES_556.76"
+    },
+    {
+      "path": "PS2/SLES_556.76/SLES_556.76_BG_05.png",
+      "kind": "background",
+      "bytes": 176062,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f38ed56b3bc0bf741349f50b432b3afdbdbc93df838ed9a739d95e58f3200d3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.76/SLES_556.76_BG_05.png"
+      },
+      "gameId": "SLES_556.76"
+    },
+    {
+      "path": "PS2/SLES_556.76/SLES_556.76_BG_06.png",
+      "kind": "background",
+      "bytes": 135814,
+      "width": 640,
+      "height": 480,
+      "sha256": "722689d946b6da421f73e4af1a3f980034f8fe73093a1bbe5555f289df418e21",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.76/SLES_556.76_BG_06.png"
+      },
+      "gameId": "SLES_556.76"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Evolution Soccer 2014"
+}

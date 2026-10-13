@@ -1,0 +1,64 @@
+{
+  "id": "SLES_545.83",
+  "cover": {
+    "path": "PS2/SLES_545.83/SLES_545.83_COV.png",
+    "kind": "cover",
+    "bytes": 99389,
+    "width": 192,
+    "height": 272,
+    "sha256": "385bc14f13d5b0ecc457a31d60a07f02428a1869a8bb7803afafa6c4bee593dd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54583.jpg"
+    },
+    "gameId": "SLES_545.83"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_545.83/SLES_545.83_BG.png",
+    "kind": "background",
+    "bytes": 183418,
+    "width": 640,
+    "height": 480,
+    "sha256": "546f5197b8b55287f12c013391010b428218b5b4dfc361fc85a1f224bdaf197b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.83/SLES_545.83_BG_00.png"
+    },
+    "gameId": "SLES_545.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_545.83/SLES_545.83_BG.png",
+      "kind": "background",
+      "bytes": 183418,
+      "width": 640,
+      "height": 480,
+      "sha256": "546f5197b8b55287f12c013391010b428218b5b4dfc361fc85a1f224bdaf197b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.83/SLES_545.83_BG_00.png"
+      },
+      "gameId": "SLES_545.83"
+    },
+    {
+      "path": "PS2/SLES_545.83/SLES_545.83_BG_01.png",
+      "kind": "background",
+      "bytes": 176293,
+      "width": 640,
+      "height": 480,
+      "sha256": "d48454aec64ef997dbcb7a16f9b6517055b8134d5de10cfa29f0c46e7c00b5cf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.83/SLES_545.83_BG_01.png"
+      },
+      "gameId": "SLES_545.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Surf's Up"
+}

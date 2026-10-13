@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.89",
+  "cover": {
+    "path": "PS2/SLPM_622.89/SLPM_622.89_COV.png",
+    "kind": "cover",
+    "bytes": 103729,
+    "width": 192,
+    "height": 272,
+    "sha256": "fdcc4ec582e81fa7521893b60ec42b21a340fb8a593e13816841b8a714ecaf04",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62289.jpg"
+    },
+    "gameId": "SLPM_622.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GLOBAL FOLKTALE [IF COLLECTION]"
+}

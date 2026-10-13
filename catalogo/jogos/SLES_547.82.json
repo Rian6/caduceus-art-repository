@@ -1,0 +1,103 @@
+{
+  "id": "SLES_547.82",
+  "cover": {
+    "path": "PS2/SLES_547.82/SLES_547.82_COV.png",
+    "kind": "cover",
+    "bytes": 87321,
+    "width": 192,
+    "height": 272,
+    "sha256": "330290c71d1279b615fda56c72a6a62163fd3ac583fc2bdc56b0352455391c60",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54782.jpg"
+    },
+    "gameId": "SLES_547.82"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_547.82/SLES_547.82_BG.png",
+    "kind": "background",
+    "bytes": 152931,
+    "width": 640,
+    "height": 480,
+    "sha256": "960f169020035e3ed95999083c1c2d8f502eda67013929193d3d88970d5a66f5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_547.82/SLES_547.82_BG_00.png"
+    },
+    "gameId": "SLES_547.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_547.82/SLES_547.82_BG.png",
+      "kind": "background",
+      "bytes": 152931,
+      "width": 640,
+      "height": 480,
+      "sha256": "960f169020035e3ed95999083c1c2d8f502eda67013929193d3d88970d5a66f5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.82/SLES_547.82_BG_00.png"
+      },
+      "gameId": "SLES_547.82"
+    },
+    {
+      "path": "PS2/SLES_547.82/SLES_547.82_BG_01.png",
+      "kind": "background",
+      "bytes": 183352,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b42f89d19708e901527a4624fc4d1ead99e9e50b5eb6ba27a1110a38085e49e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.82/SLES_547.82_BG_01.png"
+      },
+      "gameId": "SLES_547.82"
+    },
+    {
+      "path": "PS2/SLES_547.82/SLES_547.82_BG_02.png",
+      "kind": "background",
+      "bytes": 173116,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e7ef87778e624df6be9e911cedb0990ba44142f16e66c27f38b1a6d6dd31e5f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.82/SLES_547.82_BG_02.png"
+      },
+      "gameId": "SLES_547.82"
+    },
+    {
+      "path": "PS2/SLES_547.82/SLES_547.82_BG_03.png",
+      "kind": "background",
+      "bytes": 170232,
+      "width": 640,
+      "height": 480,
+      "sha256": "144c89463a461e8af77e67f4e5af78f94e3807234e803e98f3a1e5c1c6cee39a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.82/SLES_547.82_BG_03.png"
+      },
+      "gameId": "SLES_547.82"
+    },
+    {
+      "path": "PS2/SLES_547.82/SLES_547.82_BG_04.png",
+      "kind": "background",
+      "bytes": 116255,
+      "width": 640,
+      "height": 480,
+      "sha256": "64fc5351e053bfe8d4a6b4ecf449d824b89f1d987c05953fc85bb22beff66ddf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.82/SLES_547.82_BG_04.png"
+      },
+      "gameId": "SLES_547.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OBSCURE II"
+}

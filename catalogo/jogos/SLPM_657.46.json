@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.46",
+  "cover": {
+    "path": "PS2/SLPM_657.46/SLPM_657.46_COV.png",
+    "kind": "cover",
+    "bytes": 84842,
+    "width": 192,
+    "height": 272,
+    "sha256": "311438e796cd78c6452485391fbece0d2f7427e8e7c1fd62f627315c220e5a08",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65746.jpg"
+    },
+    "gameId": "SLPM_657.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fifa Total Football 2"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_659.75",
+  "cover": {
+    "path": "PS2/SLPM_659.75/SLPM_659.75_COV.png",
+    "kind": "cover",
+    "bytes": 86412,
+    "width": 192,
+    "height": 272,
+    "sha256": "173039988d6e15edb58b8565062565782c97c2f000afe2ab22735f721ea01170",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65975.jpg"
+    },
+    "gameId": "SLPM_659.75"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_659.75/SLPM_659.75_BG.png",
+    "kind": "background",
+    "bytes": 154907,
+    "width": 640,
+    "height": 480,
+    "sha256": "704fda7bbefcdad1a343f7e8cda03af6c8cf1e5245a9ba7f7d219d30ef8b42be",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_659.75/SLPM_659.75_BG_00.png"
+    },
+    "gameId": "SLPM_659.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_659.75/SLPM_659.75_BG.png",
+      "kind": "background",
+      "bytes": 154907,
+      "width": 640,
+      "height": 480,
+      "sha256": "704fda7bbefcdad1a343f7e8cda03af6c8cf1e5245a9ba7f7d219d30ef8b42be",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.75/SLPM_659.75_BG_00.png"
+      },
+      "gameId": "SLPM_659.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WRC 4 - The Official Game of the FIA World Rally Championshi<p><td class=\"col4\"> </td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLPM-66334</td><td class=\"col3\"> WRC 4 - The Official Game of the FIA World Rally Championshi (Spike The Best)</td><td class=\"col4\"> </td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLPM-66239</td><td class=\"col3\"> Wrestle Angels - Survivor</td><td class=\"col4\"> </td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLPM-66927</td><td class=\"col3\"> Wrestle Angels - Survivor (Good Price)</td><td class=\"col4\"> </td></tr><tr><td class=\"col5\" style=\"background-color: #FFD700\"><a target=\"jlist2\" style=\"text-decoration: none\" href=\"games2/SLPM-55058.html\">INFO</a></td><td class=\"col6\" style=\"background-color: #E8E8E8\">SLPM-55058</td><td class=\"col7\" style=\"background-color: #E8E8E8\"> WRESTLE ANGELS - SURVIVOR 2</td><td class=\"col8\" style=\"background-color: #E8E8E8\"> [J]</td></tr><tr><td class=\"col5\" style=\"background-color: #FFD700\"><a target=\"jlist2\" style=\"text-decoration: none\" href=\"games2/SLPM-55056.html\">INFO</a></td><td class=\"col6\" style=\"background-color: #E8E8E8\">SLPM-55056</td><td class=\"col7\" style=\"background-color: #E8E8E8\"> WRESTLE ANGELS - SURVIVOR 2 [LIMITED EDITION]</td><td class=\"col8\" style=\"background-color: #E8E8E8\"> [J]</td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLPM-66401</td><td class=\"col3\"> Wrestle Kingdom</td><td class=\"col4\"> </td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLPM-66714</td><td class=\"col3\"> Wrestle Kingdom 2 - Pro Wrestling Sekai Taisen</td><td class=\"col4\"> </td></tr><tr><td class=\"col5\" style=\"background-color: #FFD700\"><a target=\"jlist2\" style=\"text-decoration: none\" href=\"games2/SLPM-62046.html\">INFO</a></td><td class=\"col6\" style=\"background-color: #E8E8E8\">SLPM-62046</td><td class=\"col7\" style=\"background-color: #E8E8E8\"> WTA TOUR TENNIS</td><td class=\"col8\" style=\"background-color: #E8E8E8\"> [J]</td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLKA-25244</td><td class=\"col3\"> WWE SmackDown vs. RAW</td><td class=\"col4\"> (K)</td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLKA-25318</td><td class=\"col3\"> WWE SmackDown vs. RAW 2006</td><td class=\"col4\"> (K)</td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLKA-25168</td><td class=\"col3\"> WWE SmackDown vs. RAW 2007</td><td class=\"col4\"> (K)</td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLPM-66627</td><td class=\"col3\"> WWE SmackDown vs. RAW 2007</td><td class=\"col4\"> </td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLKA-25365</td><td class=\"col3\"> WWE SmackDown vs. Raw 2008</td><td class=\"col4\"> (K)</td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLPM-66863</td><td class=\"col3\"> WWE SmackDown vs. RAW 2008</td><td class=\"col4\"> </td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLKA-25451</td><td class=\"col3\"> WWE SmackDown vs. Raw 2008 (BigHit Series)</td><td class=\"col4\"> (K)</td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLKA-25448</td><td class=\"col3\"> WWE SmackDown vs. RAW 2009</td><td class=\"col4\"> </td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLKA-25030</td><td class=\"col3\"> WWE SmackDown! - Shut your mouth</td><td class=\"col4\"> (E)</td></tr><tr><td class=\"col1\"></td><td class=\"col2\">SLKA-25116</td><td class=\"col3\"> WWE Smackdown! Here Comes the Pain </td><td class=\"col4\"> (E)</td></tr></p>"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_658.94",
+  "cover": {
+    "path": "PS2/SLPM_658.94/SLPM_658.94_COV.png",
+    "kind": "cover",
+    "bytes": 98954,
+    "width": 192,
+    "height": 272,
+    "sha256": "776713d3041273b8f8811d1012a9fa56c22e1b77043e697a1de4e93684dde78c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65894.jpg"
+    },
+    "gameId": "SLPM_658.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Winning Post 6 - 2005-nendoban"
+}

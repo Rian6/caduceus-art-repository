@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_212.13",
+  "cover": {
+    "path": "PS2/SLUS_212.13/SLUS_212.13_COV.png",
+    "kind": "cover",
+    "bytes": 92474,
+    "width": 192,
+    "height": 272,
+    "sha256": "cbee5ad825461565c4d5d462e5d21491057d129a2a209efe92a8af318fe1b8f4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21213.jpg"
+    },
+    "gameId": "SLUS_212.13"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.13/SLUS_212.13_ICO.png",
+    "kind": "disc",
+    "bytes": 30997,
+    "width": 256,
+    "height": 256,
+    "sha256": "64c09d9350d11c35a6b354a7c06b332b08ff08bf9167004ce2e19020e2206299",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.13_ICO.png"
+    },
+    "gameId": "SLUS_212.13"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.13/SLUS_212.13_BG.png",
+    "kind": "background",
+    "bytes": 165325,
+    "width": 640,
+    "height": 480,
+    "sha256": "7699474e6d765e0d3bc677edd55832fc79479f30d5374cec0e48fbef8732716e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.13/SLUS_212.13_BG_00.png"
+    },
+    "gameId": "SLUS_212.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.13/SLUS_212.13_BG.png",
+      "kind": "background",
+      "bytes": 165325,
+      "width": 640,
+      "height": 480,
+      "sha256": "7699474e6d765e0d3bc677edd55832fc79479f30d5374cec0e48fbef8732716e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.13/SLUS_212.13_BG_00.png"
+      },
+      "gameId": "SLUS_212.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Madden NFL '06"
+}

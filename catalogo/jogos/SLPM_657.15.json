@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.15",
+  "cover": {
+    "path": "PS2/SLPM_657.15/SLPM_657.15_COV.png",
+    "kind": "cover",
+    "bytes": 108423,
+    "width": 192,
+    "height": 272,
+    "sha256": "ff6420a593df0c3309c203a672df71ef938000c09b137089f6ff42f147f28b38",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65715.jpg"
+    },
+    "gameId": "SLPM_657.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Angelique Etoile"
+}

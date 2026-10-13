@@ -1,0 +1,104 @@
+{
+  "id": "SLPM_669.26",
+  "cover": {
+    "path": "PS2/SLPM_669.26/SLPM_669.26_COV.png",
+    "kind": "cover",
+    "bytes": 75941,
+    "width": 192,
+    "height": 272,
+    "sha256": "fbccf46ad1722e858222cf5f8b71502fb08a86a51a2affd3bc4a62f42bf7fe99",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66926.jpg"
+    },
+    "gameId": "SLPM_669.26"
+  },
+  "disc": {
+    "path": "PS2/SLPM_669.26/SLPM_669.26_ICO.png",
+    "kind": "disc",
+    "bytes": 10169,
+    "width": 128,
+    "height": 128,
+    "sha256": "b41a2fa34436121256d833f4d9f888ccabac1ed675d808c63875029e1e81cdb0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_669.26_ICO.png"
+    },
+    "gameId": "SLPM_669.26"
+  },
+  "background": {
+    "path": "PS2/SLPM_669.26/SLPM_669.26_BG.png",
+    "kind": "background",
+    "bytes": 96445,
+    "width": 640,
+    "height": 480,
+    "sha256": "9edc31cb7df99e075a2495faad9aa19a1ff5c6504e11298f82de272433b0669e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_669.26/SLPM_669.26_BG_00.png"
+    },
+    "gameId": "SLPM_669.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_669.26/SLPM_669.26_BG.png",
+      "kind": "background",
+      "bytes": 96445,
+      "width": 640,
+      "height": 480,
+      "sha256": "9edc31cb7df99e075a2495faad9aa19a1ff5c6504e11298f82de272433b0669e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_669.26/SLPM_669.26_BG_00.png"
+      },
+      "gameId": "SLPM_669.26"
+    },
+    {
+      "path": "PS2/SLPM_669.26/SLPM_669.26_BG_01.png",
+      "kind": "background",
+      "bytes": 156614,
+      "width": 640,
+      "height": 480,
+      "sha256": "8d4e5c8cb281d2a6499dc16f9b2027ce323600318eef7c7aa70e110a020cb4be",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_669.26/SLPM_669.26_BG_01.png"
+      },
+      "gameId": "SLPM_669.26"
+    },
+    {
+      "path": "PS2/SLPM_669.26/SLPM_669.26_BG_02.png",
+      "kind": "background",
+      "bytes": 124539,
+      "width": 640,
+      "height": 480,
+      "sha256": "3f8288b4b8fe5d93abcf1bcedd9fb8d74f2a8fc28b18949fcb4f6224527bf37c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_669.26/SLPM_669.26_BG_02.png"
+      },
+      "gameId": "SLPM_669.26"
+    },
+    {
+      "path": "PS2/SLPM_669.26/SLPM_669.26_BG_03.png",
+      "kind": "background",
+      "bytes": 136224,
+      "width": 640,
+      "height": 480,
+      "sha256": "d0ea2e0ac005396a99ee82eac3d45ada7d1d7506c1e3fc084ac413a61725874e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_669.26/SLPM_669.26_BG_03.png"
+      },
+      "gameId": "SLPM_669.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NiGHTS into Dreams..."
+}

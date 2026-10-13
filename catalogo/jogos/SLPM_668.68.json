@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.68",
+  "cover": {
+    "path": "PS2/SLPM_668.68/SLPM_668.68_COV.png",
+    "kind": "cover",
+    "bytes": 79783,
+    "width": 192,
+    "height": 272,
+    "sha256": "4ab2998e1b817c4e084ebcbaef50163060e5f2fd1593706fda203a4dc2f6419d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66868.jpg"
+    },
+    "gameId": "SLPM_668.68"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Splinter Cell - Nijuu Spy (UbiSoft Best)"
+}

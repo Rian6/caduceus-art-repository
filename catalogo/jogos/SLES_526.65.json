@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.65",
+  "cover": {
+    "path": "PS2/SLES_526.65/SLES_526.65_COV.png",
+    "kind": "cover",
+    "bytes": 92954,
+    "width": 192,
+    "height": 272,
+    "sha256": "3518629a984fb80076b42b6d2dbb2244f2dcacfe8e4de24630e67b05f4aba1cf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52665.jpg"
+    },
+    "gameId": "SLES_526.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - Celtic FC"
+}

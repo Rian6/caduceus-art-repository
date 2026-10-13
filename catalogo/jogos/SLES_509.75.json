@@ -1,0 +1,103 @@
+{
+  "id": "SLES_509.75",
+  "cover": {
+    "path": "PS2/SLES_509.75/SLES_509.75_COV.png",
+    "kind": "cover",
+    "bytes": 79332,
+    "width": 192,
+    "height": 272,
+    "sha256": "a150d9b930ef1d6078a63e24a5c6c3c8f7b048c31681d6b2ae2b713885244913",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50975.jpg"
+    },
+    "gameId": "SLES_509.75"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_509.75/SLES_509.75_BG.png",
+    "kind": "background",
+    "bytes": 230769,
+    "width": 640,
+    "height": 480,
+    "sha256": "5e23d4502d9739442808e27ed580a7fe2a7c5a7007c67634ba7cf3cbe1103198",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_509.75/SLES_509.75_BG_00.png"
+    },
+    "gameId": "SLES_509.75"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_509.75/SLES_509.75_BG.png",
+      "kind": "background",
+      "bytes": 230769,
+      "width": 640,
+      "height": 480,
+      "sha256": "5e23d4502d9739442808e27ed580a7fe2a7c5a7007c67634ba7cf3cbe1103198",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.75/SLES_509.75_BG_00.png"
+      },
+      "gameId": "SLES_509.75"
+    },
+    {
+      "path": "PS2/SLES_509.75/SLES_509.75_BG_01.png",
+      "kind": "background",
+      "bytes": 177951,
+      "width": 640,
+      "height": 480,
+      "sha256": "969f49400115ae0decc998726f3012d51711a495cbade886e1d419337d516387",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.75/SLES_509.75_BG_01.png"
+      },
+      "gameId": "SLES_509.75"
+    },
+    {
+      "path": "PS2/SLES_509.75/SLES_509.75_BG_02.png",
+      "kind": "background",
+      "bytes": 176890,
+      "width": 640,
+      "height": 480,
+      "sha256": "ec722733c05cb6ae4f0727f720794eae7a347820d631022d909bdebe458bba28",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.75/SLES_509.75_BG_02.png"
+      },
+      "gameId": "SLES_509.75"
+    },
+    {
+      "path": "PS2/SLES_509.75/SLES_509.75_BG_03.png",
+      "kind": "background",
+      "bytes": 209144,
+      "width": 640,
+      "height": 480,
+      "sha256": "ca4a98c48beb69af66feb6eb697bb62a659635196e3b602f2aa8ddc4ec47c79f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.75/SLES_509.75_BG_03.png"
+      },
+      "gameId": "SLES_509.75"
+    },
+    {
+      "path": "PS2/SLES_509.75/SLES_509.75_BG_04.png",
+      "kind": "background",
+      "bytes": 212391,
+      "width": 640,
+      "height": 480,
+      "sha256": "b4bdde5487d6ca9c98c4fdef3b6d031a1315dbda1796172ca49c60303aee6b88",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_509.75/SLES_509.75_BG_04.png"
+      },
+      "gameId": "SLES_509.75"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Thing"
+}

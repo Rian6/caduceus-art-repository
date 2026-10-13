@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_661.24",
+  "cover": {
+    "path": "PS2/SLPM_661.24/SLPM_661.24_COV.png",
+    "kind": "cover",
+    "bytes": 43859,
+    "width": 192,
+    "height": 272,
+    "sha256": "e02c3a3d5cbc57056c9b691a8e5af079c672aa8735b4d05439214ee0af6ee9a7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66124.jpg"
+    },
+    "gameId": "SLPM_661.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FINAL FANTASY X [ULTIMATE HITS]"
+}

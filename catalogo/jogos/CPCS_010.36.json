@@ -1,0 +1,25 @@
+{
+  "id": "CPCS_010.36",
+  "cover": {
+    "path": "PS2/CPCS_010.36/CPCS_010.36_COV.png",
+    "kind": "cover",
+    "bytes": 114925,
+    "width": 192,
+    "height": 272,
+    "sha256": "a74329b0681b97eec90c59cdd7d90e0b890738a82427a233b074a6fc359c3de9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/CPCS-01036.jpg"
+    },
+    "gameId": "CPCS_010.36"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SENGOKU BASARA X [LIMITED EDITION]"
+}

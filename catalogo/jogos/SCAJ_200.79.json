@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.79",
+  "cover": {
+    "path": "PS2/SCAJ_200.79/SCAJ_200.79_COV.png",
+    "kind": "cover",
+    "bytes": 79109,
+    "width": 192,
+    "height": 272,
+    "sha256": "6807bd6f081f4d511d45e2e37b893449b957acee6f8828f9e1486fc70ad07334",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20079.jpg"
+    },
+    "gameId": "SCAJ_200.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Katamari Damacy"
+}

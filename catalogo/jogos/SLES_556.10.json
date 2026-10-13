@@ -1,0 +1,25 @@
+{
+  "id": "SLES_556.10",
+  "cover": {
+    "path": "PS2/SLES_556.10/SLES_556.10_COV.png",
+    "kind": "cover",
+    "bytes": 99222,
+    "width": 192,
+    "height": 272,
+    "sha256": "b812d7f5772de52feb5947bc0613e5937dd225c242fb1b3d1c0bd8250ea24f59",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55610.jpg"
+    },
+    "gameId": "SLES_556.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Springdale"
+}

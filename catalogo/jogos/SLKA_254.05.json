@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_254.05",
+  "cover": {
+    "path": "PS2/SLKA_254.05/SLKA_254.05_COV.png",
+    "kind": "cover",
+    "bytes": 88075,
+    "width": 192,
+    "height": 272,
+    "sha256": "6fb9b7bc90c3e0e010ae1634b2496c3de04119cd34dd821bcc6bd3eeed559774",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25405.jpg"
+    },
+    "gameId": "SLKA_254.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRIMGRIMOIRE"
+}

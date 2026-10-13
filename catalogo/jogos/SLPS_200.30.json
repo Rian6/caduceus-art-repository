@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.30",
+  "cover": {
+    "path": "PS2/SLPS_200.30/SLPS_200.30_COV.png",
+    "kind": "cover",
+    "bytes": 70516,
+    "width": 192,
+    "height": 272,
+    "sha256": "821cbc253e67bd05abc549312d4feb69c43c4baf09eeb107633a25c4393faafc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20030.jpg"
+    },
+    "gameId": "SLPS_200.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shanghai: The Four Elements"
+}

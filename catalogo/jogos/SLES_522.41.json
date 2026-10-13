@@ -1,0 +1,65 @@
+{
+  "id": "SLES_522.41",
+  "cover": {
+    "path": "PS2/SLES_522.41/SLES_522.41_COV.png",
+    "kind": "cover",
+    "bytes": 97013,
+    "width": 192,
+    "height": 272,
+    "sha256": "6af46f732ca83109d1bf7509d34af601e82ac607871cf3de6107ee5aa330da68",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52241.jpg"
+    },
+    "gameId": "SLES_522.41"
+  },
+  "disc": {
+    "path": "PS2/SLES_522.41/SLES_522.41_ICO.png",
+    "kind": "disc",
+    "bytes": 11709,
+    "width": 128,
+    "height": 128,
+    "sha256": "480372249a45e0e94d2b80594a7cb94e3781632a45596332a86bd8e774a11791",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_522.41_ICO.png"
+    },
+    "gameId": "SLES_522.41"
+  },
+  "background": {
+    "path": "PS2/SLES_522.41/SLES_522.41_BG.png",
+    "kind": "background",
+    "bytes": 143581,
+    "width": 640,
+    "height": 480,
+    "sha256": "b7e6f4950984f4f566883f309edaf39e0a276e4743c06058e6263014af81b829",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_522.41/SLES_522.41_BG_00.png"
+    },
+    "gameId": "SLES_522.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_522.41/SLES_522.41_BG.png",
+      "kind": "background",
+      "bytes": 143581,
+      "width": 640,
+      "height": 480,
+      "sha256": "b7e6f4950984f4f566883f309edaf39e0a276e4743c06058e6263014af81b829",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_522.41/SLES_522.41_BG_00.png"
+      },
+      "gameId": "SLES_522.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Myth Makers - Orbs of Doom"
+}

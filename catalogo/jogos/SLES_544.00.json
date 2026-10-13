@@ -1,0 +1,64 @@
+{
+  "id": "SLES_544.00",
+  "cover": {
+    "path": "PS2/SLES_544.00/SLES_544.00_COV.png",
+    "kind": "cover",
+    "bytes": 104533,
+    "width": 192,
+    "height": 272,
+    "sha256": "4bf815cc8599f3c06de037ec428753a1a70259e2b139b491bc4b0aacb21d2869",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54400.jpg"
+    },
+    "gameId": "SLES_544.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_544.00/SLES_544.00_BG.png",
+    "kind": "background",
+    "bytes": 176204,
+    "width": 640,
+    "height": 480,
+    "sha256": "2a646a8270316775d0406304f181fa87ec7b1c6eb610589594bab2c8ee8e1657",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.00/SLES_544.00_BG_00.png"
+    },
+    "gameId": "SLES_544.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.00/SLES_544.00_BG.png",
+      "kind": "background",
+      "bytes": 176204,
+      "width": 640,
+      "height": 480,
+      "sha256": "2a646a8270316775d0406304f181fa87ec7b1c6eb610589594bab2c8ee8e1657",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.00/SLES_544.00_BG_00.png"
+      },
+      "gameId": "SLES_544.00"
+    },
+    {
+      "path": "PS2/SLES_544.00/SLES_544.00_BG_01.png",
+      "kind": "background",
+      "bytes": 147566,
+      "width": 640,
+      "height": 480,
+      "sha256": "43e2e61ff82b373ca7a7182d132bc89a143f6f63168a84c39fa86362d6d80a38",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.00/SLES_544.00_BG_01.png"
+      },
+      "gameId": "SLES_544.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SPONGEBOB SQUAREPANTS - CREATURE FROM THE KRUSTY KRAB"
+}

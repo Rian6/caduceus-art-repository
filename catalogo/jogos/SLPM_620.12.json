@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.12",
+  "cover": {
+    "path": "PS2/SLPM_620.12/SLPM_620.12_COV.png",
+    "kind": "cover",
+    "bytes": 78517,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ddc58c9a820fa5827833d1c0ba19d15133590e23b5d901f27301bb1197d650b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62012.jpg"
+    },
+    "gameId": "SLPM_620.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Keyboardmania"
+}

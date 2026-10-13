@@ -1,0 +1,78 @@
+{
+  "id": "SLES_534.06",
+  "cover": {
+    "path": "PS2/SLES_534.06/SLES_534.06_COV.png",
+    "kind": "cover",
+    "bytes": 98816,
+    "width": 192,
+    "height": 272,
+    "sha256": "529341a159be02e0a21be8bb49dd2c5951d47d379f4563da30f2d710dd1b80e3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53406.jpg"
+    },
+    "gameId": "SLES_534.06"
+  },
+  "disc": {
+    "path": "PS2/SLES_534.06/SLES_534.06_ICO.png",
+    "kind": "disc",
+    "bytes": 11050,
+    "width": 128,
+    "height": 128,
+    "sha256": "a662df5e1dae7ee8e3d09b5f073a8dfc29985b536b3d10ac83367f581303d54c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_534.06_ICO.png"
+    },
+    "gameId": "SLES_534.06"
+  },
+  "background": {
+    "path": "PS2/SLES_534.06/SLES_534.06_BG.png",
+    "kind": "background",
+    "bytes": 165670,
+    "width": 640,
+    "height": 480,
+    "sha256": "b148f1116cb458650a511e6537a53cd85f1d1a1f2b67e2d8c25cc8713eda0def",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.06/SLES_534.06_BG_00.png"
+    },
+    "gameId": "SLES_534.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.06/SLES_534.06_BG.png",
+      "kind": "background",
+      "bytes": 165670,
+      "width": 640,
+      "height": 480,
+      "sha256": "b148f1116cb458650a511e6537a53cd85f1d1a1f2b67e2d8c25cc8713eda0def",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.06/SLES_534.06_BG_00.png"
+      },
+      "gameId": "SLES_534.06"
+    },
+    {
+      "path": "PS2/SLES_534.06/SLES_534.06_BG_01.png",
+      "kind": "background",
+      "bytes": 133568,
+      "width": 640,
+      "height": 480,
+      "sha256": "349f2aed0ae9acacbc443b20835aef7f02f87547c64d1ddcf3fdee44040bb57d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.06/SLES_534.06_BG_01.png"
+      },
+      "gameId": "SLES_534.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Party Girls"
+}

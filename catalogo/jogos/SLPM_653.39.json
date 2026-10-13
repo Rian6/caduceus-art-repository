@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_653.39",
+  "cover": {
+    "path": "PS2/SLPM_653.39/SLPM_653.39_COV.png",
+    "kind": "cover",
+    "bytes": 53585,
+    "width": 192,
+    "height": 272,
+    "sha256": "62105bda8849a490541f21a4806924850fda9866e0eee15a7d2a8222af8e1663",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65339.jpg"
+    },
+    "gameId": "SLPM_653.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Akudaikan (Global the Best)"
+}

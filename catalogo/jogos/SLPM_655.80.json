@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_655.80",
+  "cover": {
+    "path": "PS2/SLPM_655.80/SLPM_655.80_COV.png",
+    "kind": "cover",
+    "bytes": 104553,
+    "width": 192,
+    "height": 272,
+    "sha256": "e040e6a80aac8a0eca7f49c1cff34d4b9bc3876b5647cd7f7bf74c715f6649ed",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65580.jpg"
+    },
+    "gameId": "SLPM_655.80"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_655.80/SLPM_655.80_BG.png",
+    "kind": "background",
+    "bytes": 174205,
+    "width": 640,
+    "height": 480,
+    "sha256": "ddc8344be8114ea670a1a24124bc461036ed0f2220489bbfdb2f92afd99637f6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_655.80/SLPM_655.80_BG_00.png"
+    },
+    "gameId": "SLPM_655.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_655.80/SLPM_655.80_BG.png",
+      "kind": "background",
+      "bytes": 174205,
+      "width": 640,
+      "height": 480,
+      "sha256": "ddc8344be8114ea670a1a24124bc461036ed0f2220489bbfdb2f92afd99637f6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_655.80/SLPM_655.80_BG_00.png"
+      },
+      "gameId": "SLPM_655.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CRASH BANDICOOT - BAKUSOU! NITRO KART"
+}

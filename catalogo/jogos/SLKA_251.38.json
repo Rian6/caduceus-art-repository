@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_251.38",
+  "cover": {
+    "path": "PS2/SLKA_251.38/SLKA_251.38_COV.png",
+    "kind": "cover",
+    "bytes": 64932,
+    "width": 192,
+    "height": 272,
+    "sha256": "6388226833bcb862d0116d9fcf884c2620e4a36da8cf263aee77990e62654cbf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.38/SLKA_251.38_COV.png"
+    },
+    "gameId": "SLKA_251.38"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_251.38/SLKA_251.38_BG.png",
+    "kind": "background",
+    "bytes": 215601,
+    "width": 640,
+    "height": 480,
+    "sha256": "f6e0b194c1612dfb3192ac21710c838a2f52741d397bc587b278c5eeea9125a4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.38/SLKA_251.38_BG_00.png"
+    },
+    "gameId": "SLKA_251.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_251.38/SLKA_251.38_BG.png",
+      "kind": "background",
+      "bytes": 215601,
+      "width": 640,
+      "height": 480,
+      "sha256": "f6e0b194c1612dfb3192ac21710c838a2f52741d397bc587b278c5eeea9125a4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_251.38/SLKA_251.38_BG_00.png"
+      },
+      "gameId": "SLKA_251.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": ".Hack Vol.2 - Mutation"
+}

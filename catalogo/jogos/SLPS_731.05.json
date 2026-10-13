@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_731.05",
+  "cover": {
+    "path": "PS2/SLPS_731.05/SLPS_731.05_COV.png",
+    "kind": "cover",
+    "bytes": 98917,
+    "width": 192,
+    "height": 272,
+    "sha256": "8dc59b49eb927e7b7385edfaffe115693faa28248453bb0180c47cf3b7c95ebd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73105.jpg"
+    },
+    "gameId": "SLPS_731.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KINNIKUMAN GENERATIONS [PLAYSTATION 2 THE BEST]"
+}

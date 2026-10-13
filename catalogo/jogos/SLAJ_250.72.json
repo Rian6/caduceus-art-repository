@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.72",
+  "cover": {
+    "path": "PS2/SLAJ_250.72/SLAJ_250.72_COV.png",
+    "kind": "cover",
+    "bytes": 66584,
+    "width": 192,
+    "height": 272,
+    "sha256": "06a1b15c28ac1d2b9c7eaa3b577bbe5e4dc00f979c2cb541c1edc514f5755952",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLAJ_250.72/SLAJ_250.72_COV.png"
+    },
+    "gameId": "SLAJ_250.72"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Matrix - Path of Neo"
+}

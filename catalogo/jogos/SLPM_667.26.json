@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.26",
+  "cover": {
+    "path": "PS2/SLPM_667.26/SLPM_667.26_COV.png",
+    "kind": "cover",
+    "bytes": 106545,
+    "width": 192,
+    "height": 272,
+    "sha256": "917e82fa45546f7c7024ee04ebec8a97d74f58f209498958f29e98734bd22b31",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66726.jpg"
+    },
+    "gameId": "SLPM_667.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "OJOUSAMA KUMIKYOKU - SWEET CONCERT"
+}

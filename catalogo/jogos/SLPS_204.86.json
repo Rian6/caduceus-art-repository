@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_204.86",
+  "cover": {
+    "path": "PS2/SLPS_204.86/SLPS_204.86_COV.png",
+    "kind": "cover",
+    "bytes": 124048,
+    "width": 192,
+    "height": 272,
+    "sha256": "ce5a585e8ea131fa75527bf8027cbea1f047be0e14befa661a460903407638c0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20486.jpg"
+    },
+    "gameId": "SLPS_204.86"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_204.86/SLPS_204.86_BG.png",
+    "kind": "background",
+    "bytes": 145317,
+    "width": 640,
+    "height": 480,
+    "sha256": "7cad1ec0be5fc55f5b80a07366377da60ffc28d040b5da7bade6252f62bb1fc6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_204.86/SLPS_204.86_BG_00.png"
+    },
+    "gameId": "SLPS_204.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_204.86/SLPS_204.86_BG.png",
+      "kind": "background",
+      "bytes": 145317,
+      "width": 640,
+      "height": 480,
+      "sha256": "7cad1ec0be5fc55f5b80a07366377da60ffc28d040b5da7bade6252f62bb1fc6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.86/SLPS_204.86_BG_00.png"
+      },
+      "gameId": "SLPS_204.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taiko no Tatsujin - Doka! to Oomori Nanadaim"
+}

@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_215.94",
+  "cover": {
+    "path": "PS2/SLUS_215.94/SLUS_215.94_COV.png",
+    "kind": "cover",
+    "bytes": 96140,
+    "width": 192,
+    "height": 272,
+    "sha256": "7a654568ffb162c40c85477c285d258933d919e79792b2a8b619f168be1a8d00",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21594.jpg"
+    },
+    "gameId": "SLUS_215.94"
+  },
+  "disc": {
+    "path": "PS2/SLUS_215.94/SLUS_215.94_ICO.png",
+    "kind": "disc",
+    "bytes": 31849,
+    "width": 256,
+    "height": 256,
+    "sha256": "14d6103255838144b82d9c8585966bb90c19c92789d3c306320473185751dce3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_215.94_ICO.png"
+    },
+    "gameId": "SLUS_215.94"
+  },
+  "background": {
+    "path": "PS2/SLUS_215.94/SLUS_215.94_BG.png",
+    "kind": "background",
+    "bytes": 72851,
+    "width": 640,
+    "height": 480,
+    "sha256": "af23fc570343fb4abf54b39a4927ecd73d3360d1bfbf7c4154e750cff7b2bbe2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_215.94/SLUS_215.94_BG_00.png"
+    },
+    "gameId": "SLUS_215.94"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_215.94/SLUS_215.94_BG.png",
+      "kind": "background",
+      "bytes": 72851,
+      "width": 640,
+      "height": 480,
+      "sha256": "af23fc570343fb4abf54b39a4927ecd73d3360d1bfbf7c4154e750cff7b2bbe2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.94/SLUS_215.94_BG_00.png"
+      },
+      "gameId": "SLUS_215.94"
+    },
+    {
+      "path": "PS2/SLUS_215.94/SLUS_215.94_BG_01.png",
+      "kind": "background",
+      "bytes": 112776,
+      "width": 640,
+      "height": 480,
+      "sha256": "2a8ddb8d2a2863cf20d45fc8a04abfc0b4dec142684bc874f3fc181e25168a4c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.94/SLUS_215.94_BG_01.png"
+      },
+      "gameId": "SLUS_215.94"
+    },
+    {
+      "path": "PS2/SLUS_215.94/SLUS_215.94_BG_02.png",
+      "kind": "background",
+      "bytes": 246470,
+      "width": 640,
+      "height": 480,
+      "sha256": "13a1228d8b59a044f650e56fb9bea0a386cc8ff045907e4371b8643609d7d187",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.94/SLUS_215.94_BG_02.png"
+      },
+      "gameId": "SLUS_215.94"
+    },
+    {
+      "path": "PS2/SLUS_215.94/SLUS_215.94_BG_03.png",
+      "kind": "background",
+      "bytes": 177654,
+      "width": 640,
+      "height": 480,
+      "sha256": "a6a49efac072c2a74ac171db74766fc75e3dd62b82c646b540232339636f2ee9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_215.94/SLUS_215.94_BG_03.png"
+      },
+      "gameId": "SLUS_215.94"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Naruto - Uzumaki Chronicles 2"
+}

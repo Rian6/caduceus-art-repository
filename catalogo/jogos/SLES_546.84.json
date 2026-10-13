@@ -1,0 +1,39 @@
+{
+  "id": "SLES_546.84",
+  "cover": {
+    "path": "PS2/SLES_546.84/SLES_546.84_COV.png",
+    "kind": "cover",
+    "bytes": 95719,
+    "width": 192,
+    "height": 272,
+    "sha256": "2615a5f87ba3d06bdcacc60707f0a3ce78848db4c4fa4b8a22c624a6bcfe00ae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54684.jpg"
+    },
+    "gameId": "SLES_546.84"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.84/SLES_546.84_ICO.png",
+    "kind": "disc",
+    "bytes": 11693,
+    "width": 128,
+    "height": 128,
+    "sha256": "70159056fb662a3c7b75dca9de9962deceb5638bf9f3e6c54a43a09916069911",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.84_ICO.png"
+    },
+    "gameId": "SLES_546.84"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Peter Pan"
+}

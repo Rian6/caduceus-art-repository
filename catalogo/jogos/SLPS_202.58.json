@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.58",
+  "cover": {
+    "path": "PS2/SLPS_202.58/SLPS_202.58_COV.png",
+    "kind": "cover",
+    "bytes": 98125,
+    "width": 192,
+    "height": 272,
+    "sha256": "b911297726ab0a3a11bf813772d1eed43b37110622e632d820626983cef0fec1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20258.jpg"
+    },
+    "gameId": "SLPS_202.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yamasa Digi World 4 - Penguin Paradise, Crazy Shaman R, Zakzak Senryoubako R, Destroyer XX, King Pulsar"
+}

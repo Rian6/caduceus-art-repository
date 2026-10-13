@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.57",
+  "cover": {
+    "path": "PS2/SLPS_257.57/SLPS_257.57_COV.png",
+    "kind": "cover",
+    "bytes": 82769,
+    "width": 192,
+    "height": 272,
+    "sha256": "9db360cb51e549b0574fd1e64bb9433d8092f22e176badb3c96192ad72572c4f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25757.jpg"
+    },
+    "gameId": "SLPS_257.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NANATSUIRO DROPS PURE!! [LIMITED EDITION]"
+}

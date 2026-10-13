@@ -1,0 +1,65 @@
+{
+  "id": "SCES_546.39",
+  "cover": {
+    "path": "PS2/SCES_546.39/SCES_546.39_COV.png",
+    "kind": "cover",
+    "bytes": 94936,
+    "width": 192,
+    "height": 272,
+    "sha256": "7c17bab57656c73888399b14fdbb891de640496f1a7c4503d5f57e5b381834c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54639.jpg"
+    },
+    "gameId": "SCES_546.39"
+  },
+  "disc": {
+    "path": "PS2/SCES_546.39/SCES_546.39_ICO.png",
+    "kind": "disc",
+    "bytes": 11251,
+    "width": 128,
+    "height": 128,
+    "sha256": "51f76f5b741174b84c79dedbc4a141cb0ff33f71971aca69bb785a8a5c1429d1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_546.39_ICO.png"
+    },
+    "gameId": "SCES_546.39"
+  },
+  "background": {
+    "path": "PS2/SCES_546.39/SCES_546.39_BG.png",
+    "kind": "background",
+    "bytes": 191898,
+    "width": 640,
+    "height": 480,
+    "sha256": "91001bdeda69aa23c449d2e142fb02794bebba13ec40cbb2dd45d66a72260398",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_546.39/SCES_546.39_BG_00.png"
+    },
+    "gameId": "SCES_546.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_546.39/SCES_546.39_BG.png",
+      "kind": "background",
+      "bytes": 191898,
+      "width": 640,
+      "height": 480,
+      "sha256": "91001bdeda69aa23c449d2e142fb02794bebba13ec40cbb2dd45d66a72260398",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_546.39/SCES_546.39_BG_00.png"
+      },
+      "gameId": "SCES_546.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "AFL Premiership 2007"
+}

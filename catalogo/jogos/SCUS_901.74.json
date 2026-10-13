@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_901.74",
+  "cover": {
+    "path": "PS2/SCUS_901.74/SCUS_901.74_COV.png",
+    "kind": "cover",
+    "bytes": 56266,
+    "width": 192,
+    "height": 272,
+    "sha256": "1b2c779eb70d0481f7cbad32885e0caf283c6071fac967b47bc713b69aab2e1d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-90174.jpg"
+    },
+    "gameId": "SCUS_901.74"
+  },
+  "disc": {
+    "path": "PS2/SCUS_901.74/SCUS_901.74_ICO.png",
+    "kind": "disc",
+    "bytes": 28472,
+    "width": 256,
+    "height": 256,
+    "sha256": "a2c59c42d205f0dd87b3861996dd2ee1d48065850a0f54fbef386e8311c54aa5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_901.74_ICO.png"
+    },
+    "gameId": "SCUS_901.74"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney/Pixar Toy Story 3"
+}

@@ -1,0 +1,103 @@
+{
+  "id": "SLES_553.52",
+  "cover": {
+    "path": "PS2/SLES_553.52/SLES_553.52_COV.png",
+    "kind": "cover",
+    "bytes": 80974,
+    "width": 192,
+    "height": 272,
+    "sha256": "0118134434b35f58ee5fd24f88f84acdca2ffabd2dbfa9c92025bfe45d365449",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55352.jpg"
+    },
+    "gameId": "SLES_553.52"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_553.52/SLES_553.52_BG.png",
+    "kind": "background",
+    "bytes": 168267,
+    "width": 640,
+    "height": 480,
+    "sha256": "37dc2496a305838f14fc98d8da08c96d991423b6a0b069020a54e1a45e42d4ac",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.52/SLES_553.52_BG_00.png"
+    },
+    "gameId": "SLES_553.52"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_553.52/SLES_553.52_BG.png",
+      "kind": "background",
+      "bytes": 168267,
+      "width": 640,
+      "height": 480,
+      "sha256": "37dc2496a305838f14fc98d8da08c96d991423b6a0b069020a54e1a45e42d4ac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.52/SLES_553.52_BG_00.png"
+      },
+      "gameId": "SLES_553.52"
+    },
+    {
+      "path": "PS2/SLES_553.52/SLES_553.52_BG_01.png",
+      "kind": "background",
+      "bytes": 190701,
+      "width": 640,
+      "height": 480,
+      "sha256": "b0363f976d6c0c30d77b3bbf2342bf3bfd0f53d550d9c189ed96df57e52b11df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.52/SLES_553.52_BG_01.png"
+      },
+      "gameId": "SLES_553.52"
+    },
+    {
+      "path": "PS2/SLES_553.52/SLES_553.52_BG_02.png",
+      "kind": "background",
+      "bytes": 164089,
+      "width": 640,
+      "height": 480,
+      "sha256": "0aa24fff8f4817f570467c3da3330859dc7bf1bcbe7f1fcaf5863038558e309d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.52/SLES_553.52_BG_02.png"
+      },
+      "gameId": "SLES_553.52"
+    },
+    {
+      "path": "PS2/SLES_553.52/SLES_553.52_BG_03.png",
+      "kind": "background",
+      "bytes": 167142,
+      "width": 640,
+      "height": 480,
+      "sha256": "c2edb225ce315a3f26210344dee7025fef024e96b060490828ced9bafe118a79",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.52/SLES_553.52_BG_03.png"
+      },
+      "gameId": "SLES_553.52"
+    },
+    {
+      "path": "PS2/SLES_553.52/SLES_553.52_BG_04.png",
+      "kind": "background",
+      "bytes": 177230,
+      "width": 640,
+      "height": 480,
+      "sha256": "61f38d240c08582fa85f1f866ee58e0990ccd359189b0eec6ea4bfc9e9b77ab8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.52/SLES_553.52_BG_04.png"
+      },
+      "gameId": "SLES_553.52"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Need for Speed Undercover (Russian)"
+}

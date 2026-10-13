@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_621.60",
+  "cover": {
+    "path": "PS2/SLPM_621.60/SLPM_621.60_COV.png",
+    "kind": "cover",
+    "bytes": 68010,
+    "width": 192,
+    "height": 272,
+    "sha256": "017d34206eb589e4064f27cf6f0adc61e37c4e4213cecc17a8ab67543a370fbc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62160.jpg"
+    },
+    "gameId": "SLPM_621.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 SERIES VOL.04 - THE DOUBLE MAHJONG PUZZLE"
+}

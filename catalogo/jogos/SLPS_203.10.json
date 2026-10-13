@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.10",
+  "cover": {
+    "path": "PS2/SLPS_203.10/SLPS_203.10_COV.png",
+    "kind": "cover",
+    "bytes": 89765,
+    "width": 192,
+    "height": 272,
+    "sha256": "892a07fb1dd206dad1e57fb0a3a3cc45d070f55e0e20113468653ffbde99e5e5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20310.jpg"
+    },
+    "gameId": "SLPS_203.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mahjong Hiryu Densetsu - Tenpai"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_974.10",
+  "cover": {
+    "path": "PS2/SCUS_974.10/SCUS_974.10_COV.png",
+    "kind": "cover",
+    "bytes": 66627,
+    "width": 192,
+    "height": 272,
+    "sha256": "5347c5ae21f98fbdf96c031765536732967e33a5b54af5e9c768fb3b9643d987",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_974.10/SCUS_974.10_COV.png"
+    },
+    "gameId": "SCUS_974.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jampack Demo Disc Volume 10"
+}

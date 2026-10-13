@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_208.93",
+  "cover": {
+    "path": "PS2/SLUS_208.93/SLUS_208.93_COV.png",
+    "kind": "cover",
+    "bytes": 50617,
+    "width": 192,
+    "height": 272,
+    "sha256": "3653bafebad90cffbb3f029f220b1320da9d49e7ce2ba22d14c5b426e1133f54",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20893.jpg"
+    },
+    "gameId": "SLUS_208.93"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.93/SLUS_208.93_ICO.png",
+    "kind": "disc",
+    "bytes": 28413,
+    "width": 256,
+    "height": 256,
+    "sha256": "d5e4269997fe0cff4fdb0e068d26d3a398c577eb20060238cc7f938155a6a205",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.93_ICO.png"
+    },
+    "gameId": "SLUS_208.93"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.93/SLUS_208.93_BG.png",
+    "kind": "background",
+    "bytes": 207605,
+    "width": 640,
+    "height": 480,
+    "sha256": "dfc33b538c48c9595364f65a4635c85a840eadd6833394760beeef8c2289ae76",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.93/SLUS_208.93_BG_00.png"
+    },
+    "gameId": "SLUS_208.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.93/SLUS_208.93_BG.png",
+      "kind": "background",
+      "bytes": 207605,
+      "width": 640,
+      "height": 480,
+      "sha256": "dfc33b538c48c9595364f65a4635c85a840eadd6833394760beeef8c2289ae76",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.93/SLUS_208.93_BG_00.png"
+      },
+      "gameId": "SLUS_208.93"
+    },
+    {
+      "path": "PS2/SLUS_208.93/SLUS_208.93_BG_01.png",
+      "kind": "background",
+      "bytes": 114487,
+      "width": 640,
+      "height": 480,
+      "sha256": "4281451ab3f0452a4eba803467e8e0527c876904d774e7d0436dd9635a5d9659",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.93/SLUS_208.93_BG_01.png"
+      },
+      "gameId": "SLUS_208.93"
+    },
+    {
+      "path": "PS2/SLUS_208.93/SLUS_208.93_BG_02.png",
+      "kind": "background",
+      "bytes": 111310,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7099080aa8ce4d5b75b3f7082174ac23fffe46f248dc71b182d1e7b47c074aa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.93/SLUS_208.93_BG_02.png"
+      },
+      "gameId": "SLUS_208.93"
+    },
+    {
+      "path": "PS2/SLUS_208.93/SLUS_208.93_BG_03.png",
+      "kind": "background",
+      "bytes": 223180,
+      "width": 640,
+      "height": 480,
+      "sha256": "641f65eb76b5a1df2ad3cdf58d2035a0b06e628ca74e1ab1a3cd826bd1d84009",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.93/SLUS_208.93_BG_03.png"
+      },
+      "gameId": "SLUS_208.93"
+    },
+    {
+      "path": "PS2/SLUS_208.93/SLUS_208.93_BG_04.png",
+      "kind": "background",
+      "bytes": 193329,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b25ef149b80db640f5984c49e6c9deed7e4b172273ce6c9103e94afa278b9fc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.93/SLUS_208.93_BG_04.png"
+      },
+      "gameId": "SLUS_208.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Way of the Samurai 2"
+}

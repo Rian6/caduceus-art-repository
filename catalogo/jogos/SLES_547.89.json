@@ -1,0 +1,25 @@
+{
+  "id": "SLES_547.89",
+  "cover": {
+    "path": "PS2/SLES_547.89/SLES_547.89_COV.png",
+    "kind": "cover",
+    "bytes": 109948,
+    "width": 192,
+    "height": 272,
+    "sha256": "22bd45883678f29a45413665f0033e0198a118eca4cae20e7d42ba49196013cc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54789.jpg"
+    },
+    "gameId": "SLES_547.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Beta Bloc"
+}

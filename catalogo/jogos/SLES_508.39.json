@@ -1,0 +1,64 @@
+{
+  "id": "SLES_508.39",
+  "cover": {
+    "path": "PS2/SLES_508.39/SLES_508.39_COV.png",
+    "kind": "cover",
+    "bytes": 86850,
+    "width": 192,
+    "height": 272,
+    "sha256": "44f9a3a79a403c759d819203e19a4b71f0febbaaeffe056f916c41def46e69fb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50839.jpg"
+    },
+    "gameId": "SLES_508.39"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_508.39/SLES_508.39_BG.png",
+    "kind": "background",
+    "bytes": 211702,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a4b2d96ab84560b12d70f8aedf450f3b0d5fd286d5812fbf9eb0ca0901087b5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_508.39/SLES_508.39_BG_00.png"
+    },
+    "gameId": "SLES_508.39"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_508.39/SLES_508.39_BG.png",
+      "kind": "background",
+      "bytes": 211702,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a4b2d96ab84560b12d70f8aedf450f3b0d5fd286d5812fbf9eb0ca0901087b5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.39/SLES_508.39_BG_00.png"
+      },
+      "gameId": "SLES_508.39"
+    },
+    {
+      "path": "PS2/SLES_508.39/SLES_508.39_BG_01.png",
+      "kind": "background",
+      "bytes": 212650,
+      "width": 640,
+      "height": 480,
+      "sha256": "39afb086d306ecc6454ceea2c76328e103434b7d4e151cea04ea89ec01038ab5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_508.39/SLES_508.39_BG_01.png"
+      },
+      "gameId": "SLES_508.39"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Indiana Jones e la Tomba dell'Imperatore"
+}

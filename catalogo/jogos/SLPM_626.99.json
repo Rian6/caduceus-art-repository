@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.99",
+  "cover": {
+    "path": "PS2/SLPM_626.99/SLPM_626.99_COV.png",
+    "kind": "cover",
+    "bytes": 79254,
+    "width": 192,
+    "height": 272,
+    "sha256": "d3df9fec2c5730cc93e04446102e3508ac2ca7aff2a41b3c5cf738395552c33f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62699.jpg"
+    },
+    "gameId": "SLPM_626.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cardinal Arc - Konton no Fuusatsu (IF Collection)"
+}

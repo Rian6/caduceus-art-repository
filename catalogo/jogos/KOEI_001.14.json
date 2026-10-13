@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_001.14",
+  "cover": {
+    "path": "PS2/KOEI_001.14/KOEI_001.14_COV.png",
+    "kind": "cover",
+    "bytes": 57901,
+    "width": 192,
+    "height": 272,
+    "sha256": "ae9cf9ecb3996922c205c0e34eacf6d7644439e507ea2fe6c1488c10dafba7d1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/KOEI_001.14/KOEI_001.14_COV.png"
+    },
+    "gameId": "KOEI_001.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shin Sangoku Musou Series Collection Gekan  [5 DISCS]"
+}

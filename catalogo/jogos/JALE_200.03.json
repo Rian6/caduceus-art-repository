@@ -1,0 +1,25 @@
+{
+  "id": "JALE_200.03",
+  "cover": {
+    "path": "PS2/JALE_200.03/JALE_200.03_COV.png",
+    "kind": "cover",
+    "bytes": 113241,
+    "width": 192,
+    "height": 272,
+    "sha256": "f91df7391a76bc410d495153abc8da2a64bf0fdd48515eb664b5450e59167cb1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/JALE-20003.jpg"
+    },
+    "gameId": "JALE_200.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DREAM AUDITION [LIMITED EDITION]"
+}

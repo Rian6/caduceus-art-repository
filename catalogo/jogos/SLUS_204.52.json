@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_204.52",
+  "cover": {
+    "path": "PS2/SLUS_204.52/SLUS_204.52_COV.png",
+    "kind": "cover",
+    "bytes": 114011,
+    "width": 192,
+    "height": 272,
+    "sha256": "73e8b359cbe51350490a0635373ffdb468b19e1a604edb8bc159526466c84eb7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20452.jpg"
+    },
+    "gameId": "SLUS_204.52"
+  },
+  "disc": {
+    "path": "PS2/SLUS_204.52/SLUS_204.52_ICO.png",
+    "kind": "disc",
+    "bytes": 34053,
+    "width": 256,
+    "height": 256,
+    "sha256": "808c78df21ea1650b2e14c4d390365376577c5d4259fa20a773f6725c57597de",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_204.52_ICO.png"
+    },
+    "gameId": "SLUS_204.52"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Egg Mania: Eggstreme Madness"
+}

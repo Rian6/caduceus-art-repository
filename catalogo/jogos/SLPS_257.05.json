@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.05",
+  "cover": {
+    "path": "PS2/SLPS_257.05/SLPS_257.05_COV.png",
+    "kind": "cover",
+    "bytes": 98092,
+    "width": 192,
+    "height": 272,
+    "sha256": "a23d09c51502340616b9eca911cd9bb410569ba6e51184daaf631bf52cd32c00",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25705.jpg"
+    },
+    "gameId": "SLPS_257.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EUREKA SEVEN - NEW WAVE GRADUATION [WELCOME PRICE 2800]"
+}

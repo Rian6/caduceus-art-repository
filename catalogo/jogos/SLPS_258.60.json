@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_258.60",
+  "cover": {
+    "path": "PS2/SLPS_258.60/SLPS_258.60_COV.png",
+    "kind": "cover",
+    "bytes": 116128,
+    "width": 192,
+    "height": 272,
+    "sha256": "09158221e66c98ef861ed7fb3a6aa344a025bdd3eeae636c2825608dd438232e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25860.jpg"
+    },
+    "gameId": "SLPS_258.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_258.60/SLPS_258.60_BG.png",
+    "kind": "background",
+    "bytes": 195532,
+    "width": 640,
+    "height": 480,
+    "sha256": "0fb554458ad02c2ed5e68a24be4b0c5db1fc68443d37a8af15863c65a62d2277",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_258.60/SLPS_258.60_BG_00.png"
+    },
+    "gameId": "SLPS_258.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_258.60/SLPS_258.60_BG.png",
+      "kind": "background",
+      "bytes": 195532,
+      "width": 640,
+      "height": 480,
+      "sha256": "0fb554458ad02c2ed5e68a24be4b0c5db1fc68443d37a8af15863c65a62d2277",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_258.60/SLPS_258.60_BG_00.png"
+      },
+      "gameId": "SLPS_258.60"
+    },
+    {
+      "path": "PS2/SLPS_258.60/SLPS_258.60_BG_01.png",
+      "kind": "background",
+      "bytes": 185906,
+      "width": 640,
+      "height": 480,
+      "sha256": "3bd09b1c3601542fc415ad4bc2f85dbb40931a2fb25b0cbc89a3018e499d91bc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_258.60/SLPS_258.60_BG_01.png"
+      },
+      "gameId": "SLPS_258.60"
+    },
+    {
+      "path": "PS2/SLPS_258.60/SLPS_258.60_BG_02.png",
+      "kind": "background",
+      "bytes": 156227,
+      "width": 640,
+      "height": 480,
+      "sha256": "c4a68e40f7efad486d26bab23eedf74062af6be55d8f11ec8614df7489fa60ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_258.60/SLPS_258.60_BG_02.png"
+      },
+      "gameId": "SLPS_258.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CODE GEASS - LELOUCH OF THE REBELLION - LOST COLORS"
+}

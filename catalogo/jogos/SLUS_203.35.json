@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_203.35",
+  "cover": {
+    "path": "PS2/SLUS_203.35/SLUS_203.35_COV.png",
+    "kind": "cover",
+    "bytes": 89295,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ed721d59e7f3690ad9baced5ba9c371417bd34b842a1939d92df3261e21935e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20335.jpg"
+    },
+    "gameId": "SLUS_203.35"
+  },
+  "disc": {
+    "path": "PS2/SLUS_203.35/SLUS_203.35_ICO.png",
+    "kind": "disc",
+    "bytes": 27585,
+    "width": 256,
+    "height": 256,
+    "sha256": "df0d5fcab17d478c7b995df1af8ddaa50a92b98cb580ab17c15bf3f5f1921ebe",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_203.35_ICO.png"
+    },
+    "gameId": "SLUS_203.35"
+  },
+  "background": {
+    "path": "PS2/SLUS_203.35/SLUS_203.35_BG.png",
+    "kind": "background",
+    "bytes": 17614,
+    "width": 640,
+    "height": 480,
+    "sha256": "ea94b2dc5e761db101f49ac0403adb175a0ef6d85e7e6c9c5e36bc4e835df75e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_203.35/SLUS_203.35_BG_00.png"
+    },
+    "gameId": "SLUS_203.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_203.35/SLUS_203.35_BG.png",
+      "kind": "background",
+      "bytes": 17614,
+      "width": 640,
+      "height": 480,
+      "sha256": "ea94b2dc5e761db101f49ac0403adb175a0ef6d85e7e6c9c5e36bc4e835df75e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.35/SLUS_203.35_BG_00.png"
+      },
+      "gameId": "SLUS_203.35"
+    },
+    {
+      "path": "PS2/SLUS_203.35/SLUS_203.35_BG_01.png",
+      "kind": "background",
+      "bytes": 166631,
+      "width": 640,
+      "height": 480,
+      "sha256": "4403e1b8a05f5a3d748ec1a03d282a512271293384b05d01e9db1145dae4f470",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.35/SLUS_203.35_BG_01.png"
+      },
+      "gameId": "SLUS_203.35"
+    },
+    {
+      "path": "PS2/SLUS_203.35/SLUS_203.35_BG_02.png",
+      "kind": "background",
+      "bytes": 218641,
+      "width": 640,
+      "height": 480,
+      "sha256": "9891e97934500b4f9a801aab2c55736fba2540cb4b16c2d99a84fccf1d69011c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_203.35/SLUS_203.35_BG_02.png"
+      },
+      "gameId": "SLUS_203.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mat Hoffman's Pro BMX 2"
+}

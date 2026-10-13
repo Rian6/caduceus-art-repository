@@ -1,0 +1,39 @@
+{
+  "id": "SLES_539.22",
+  "cover": {
+    "path": "PS2/SLES_539.22/SLES_539.22_COV.png",
+    "kind": "cover",
+    "bytes": 97853,
+    "width": 192,
+    "height": 272,
+    "sha256": "b7abe65b3240234754c19922518e1e714404ebe365f681882c423aeb1f4c8168",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53922.jpg"
+    },
+    "gameId": "SLES_539.22"
+  },
+  "disc": {
+    "path": "PS2/SLES_539.22/SLES_539.22_ICO.png",
+    "kind": "disc",
+    "bytes": 12923,
+    "width": 128,
+    "height": 128,
+    "sha256": "443400a1fb4b7840810b2914e7d8351e7564d5bb4ccfc10c9cf9247e3dd9bd26",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_539.22_ICO.png"
+    },
+    "gameId": "SLES_539.22"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Carwash Tycoon"
+}

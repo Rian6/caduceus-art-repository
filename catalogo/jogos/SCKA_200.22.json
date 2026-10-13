@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.22",
+  "cover": {
+    "path": "PS2/SCKA_200.22/SCKA_200.22_COV.png",
+    "kind": "cover",
+    "bytes": 52699,
+    "width": 192,
+    "height": 272,
+    "sha256": "740763e74924e73473834055471e0fd654dd8c6b2ff382915e4071cd1fd5c90d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20022.jpg"
+    },
+    "gameId": "SCKA_200.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Gran Turismo 4 - Prologue"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.42",
+  "cover": {
+    "path": "PS2/SLKA_253.42/SLKA_253.42_COV.png",
+    "kind": "cover",
+    "bytes": 54727,
+    "width": 192,
+    "height": 272,
+    "sha256": "a59298979f4fe95119fa5d1cf1a6a160014287ec3719d5b1b454a895ee1b3965",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25342.jpg"
+    },
+    "gameId": "SLKA_253.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "RYUU GA GOTOKU"
+}

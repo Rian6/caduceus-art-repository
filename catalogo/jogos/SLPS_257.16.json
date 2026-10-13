@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_257.16",
+  "cover": {
+    "path": "PS2/SLPS_257.16/SLPS_257.16_COV.png",
+    "kind": "cover",
+    "bytes": 102930,
+    "width": 192,
+    "height": 272,
+    "sha256": "84fb8fc7e78eb7fe54d4d174637072b1156bbbc0f37db27d511d22a374a2d902",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25716.jpg"
+    },
+    "gameId": "SLPS_257.16"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_257.16/SLPS_257.16_BG.png",
+    "kind": "background",
+    "bytes": 157246,
+    "width": 640,
+    "height": 480,
+    "sha256": "d9bbf3e421ffcd09277ce9268f3082f928573383ea5a70ce4e6c547d08eff45f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.16/SLPS_257.16_BG_00.png"
+    },
+    "gameId": "SLPS_257.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.16/SLPS_257.16_BG.png",
+      "kind": "background",
+      "bytes": 157246,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9bbf3e421ffcd09277ce9268f3082f928573383ea5a70ce4e6c547d08eff45f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.16/SLPS_257.16_BG_00.png"
+      },
+      "gameId": "SLPS_257.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Digimon Savers - Another Mission"
+}

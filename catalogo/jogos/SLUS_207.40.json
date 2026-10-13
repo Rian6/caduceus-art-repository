@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_207.40",
+  "cover": {
+    "path": "PS2/SLUS_207.40/SLUS_207.40_COV.png",
+    "kind": "cover",
+    "bytes": 110106,
+    "width": 192,
+    "height": 272,
+    "sha256": "1b949da64fab9c8526b21d82219d08b8837e79d3dc9208fd7c3f4e7a8deb42e7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20740.jpg"
+    },
+    "gameId": "SLUS_207.40"
+  },
+  "disc": {
+    "path": "PS2/SLUS_207.40/SLUS_207.40_ICO.png",
+    "kind": "disc",
+    "bytes": 30827,
+    "width": 256,
+    "height": 256,
+    "sha256": "c2ee1da51efa18e203e46f7ad254dc5dec9fd3dc547508c007e4c95c64a0e4df",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_207.40_ICO.png"
+    },
+    "gameId": "SLUS_207.40"
+  },
+  "background": {
+    "path": "PS2/SLUS_207.40/SLUS_207.40_BG.png",
+    "kind": "background",
+    "bytes": 220103,
+    "width": 640,
+    "height": 480,
+    "sha256": "f8ca77e40e9caf696821583c1dd1f02cd4ccc0a329c52d2d1ee8d149148c2157",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_207.40/SLUS_207.40_BG_00.png"
+    },
+    "gameId": "SLUS_207.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_207.40/SLUS_207.40_BG.png",
+      "kind": "background",
+      "bytes": 220103,
+      "width": 640,
+      "height": 480,
+      "sha256": "f8ca77e40e9caf696821583c1dd1f02cd4ccc0a329c52d2d1ee8d149148c2157",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.40/SLUS_207.40_BG_00.png"
+      },
+      "gameId": "SLUS_207.40"
+    },
+    {
+      "path": "PS2/SLUS_207.40/SLUS_207.40_BG_01.png",
+      "kind": "background",
+      "bytes": 218023,
+      "width": 640,
+      "height": 480,
+      "sha256": "0d18b7e40e123b554d22e1cb4bd11c97480b1238f13f8723392836c0e8079980",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.40/SLUS_207.40_BG_01.png"
+      },
+      "gameId": "SLUS_207.40"
+    },
+    {
+      "path": "PS2/SLUS_207.40/SLUS_207.40_BG_02.png",
+      "kind": "background",
+      "bytes": 140535,
+      "width": 640,
+      "height": 480,
+      "sha256": "a9cc357d80f37f52a606c11fefda6818dd523fe4d1872a0f50993e27b4840b0e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.40/SLUS_207.40_BG_02.png"
+      },
+      "gameId": "SLUS_207.40"
+    },
+    {
+      "path": "PS2/SLUS_207.40/SLUS_207.40_BG_03.png",
+      "kind": "background",
+      "bytes": 173160,
+      "width": 640,
+      "height": 480,
+      "sha256": "a072a4b17cb9bf1b7d12a61164044bf5e8aa8913b005f1d153e68a3c9bb206a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_207.40/SLUS_207.40_BG_03.png"
+      },
+      "gameId": "SLUS_207.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Mobile Suit Gundam - Encounters in Space"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_252.00",
+  "cover": {
+    "path": "PS2/SLPS_252.00/SLPS_252.00_COV.png",
+    "kind": "cover",
+    "bytes": 54315,
+    "width": 192,
+    "height": 272,
+    "sha256": "849b96aa9f5a864aaa489b2e6e38ffa6b2ddda9622fdc2e255802bca28e66656",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25200.jpg"
+    },
+    "gameId": "SLPS_252.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Final Fantasy XI"
+}

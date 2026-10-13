@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.18",
+  "cover": {
+    "path": "PS2/SLPM_654.18/SLPM_654.18_COV.png",
+    "kind": "cover",
+    "bytes": 114962,
+    "width": 192,
+    "height": 272,
+    "sha256": "67b66d31f83adbdd5698bf1674215c60193a06807846496668f156a77af141a0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65418.jpg"
+    },
+    "gameId": "SLPM_654.18"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KELLY SLATER'S PRO SURFER 2003"
+}

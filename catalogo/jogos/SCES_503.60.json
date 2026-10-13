@@ -1,0 +1,103 @@
+{
+  "id": "SCES_503.60",
+  "cover": {
+    "path": "PS2/SCES_503.60/SCES_503.60_COV.png",
+    "kind": "cover",
+    "bytes": 68570,
+    "width": 192,
+    "height": 272,
+    "sha256": "867de5344e916c7d6b80f71f6e7c2b48dd5d3a9cd486b8253ef30934e7e49b86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50360.jpg"
+    },
+    "gameId": "SCES_503.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_503.60/SCES_503.60_BG.png",
+    "kind": "background",
+    "bytes": 182023,
+    "width": 640,
+    "height": 480,
+    "sha256": "4341e3ce36330d11361aeb04172f58697c62f2546bf555e9a30438bad54e0c8d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_503.60/SCES_503.60_BG_00.png"
+    },
+    "gameId": "SCES_503.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_503.60/SCES_503.60_BG.png",
+      "kind": "background",
+      "bytes": 182023,
+      "width": 640,
+      "height": 480,
+      "sha256": "4341e3ce36330d11361aeb04172f58697c62f2546bf555e9a30438bad54e0c8d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_503.60/SCES_503.60_BG_00.png"
+      },
+      "gameId": "SCES_503.60"
+    },
+    {
+      "path": "PS2/SCES_503.60/SCES_503.60_BG_01.png",
+      "kind": "background",
+      "bytes": 232226,
+      "width": 640,
+      "height": 480,
+      "sha256": "d2096b1f2e918bef6b23528f5247f0b95cfb519d4168e059741e89b9927616ed",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_503.60/SCES_503.60_BG_01.png"
+      },
+      "gameId": "SCES_503.60"
+    },
+    {
+      "path": "PS2/SCES_503.60/SCES_503.60_BG_02.png",
+      "kind": "background",
+      "bytes": 157127,
+      "width": 640,
+      "height": 480,
+      "sha256": "90ef0ec4096b9e055234f656ea289a8796be66516f585073713d79d1be9d5567",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_503.60/SCES_503.60_BG_02.png"
+      },
+      "gameId": "SCES_503.60"
+    },
+    {
+      "path": "PS2/SCES_503.60/SCES_503.60_BG_03.png",
+      "kind": "background",
+      "bytes": 175188,
+      "width": 640,
+      "height": 480,
+      "sha256": "f618880b3a641f0f425f9d0e8ed0ed8a35b18aec9bd63a67d82a8dfdc4b25b55",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_503.60/SCES_503.60_BG_03.png"
+      },
+      "gameId": "SCES_503.60"
+    },
+    {
+      "path": "PS2/SCES_503.60/SCES_503.60_BG_04.png",
+      "kind": "background",
+      "bytes": 190582,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f925a1f7438e3f4687631386b949c42dbdd613723881764b75061f3989ae28a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_503.60/SCES_503.60_BG_04.png"
+      },
+      "gameId": "SCES_503.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Twisted Metal: Black"
+}

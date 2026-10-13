@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_626.11",
+  "cover": {
+    "path": "PS2/SLPM_626.11/SLPM_626.11_COV.png",
+    "kind": "cover",
+    "bytes": 101605,
+    "width": 192,
+    "height": 272,
+    "sha256": "ae44fc7fb94a012ffc911314adb37dbf4fe69ecd748cb52542967e88920f98f5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62611.jpg"
+    },
+    "gameId": "SLPM_626.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TAISEN HOT GIMMICK - AXES-JONG [LIMITED EDITION]"
+}

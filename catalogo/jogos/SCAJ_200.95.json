@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.95",
+  "cover": {
+    "path": "PS2/SCAJ_200.95/SCAJ_200.95_COV.png",
+    "kind": "cover",
+    "bytes": 67105,
+    "width": 192,
+    "height": 272,
+    "sha256": "41f12b884eb714cc6ac79574ce6c0b92f65dfbb849fab17e2d725a34a772bfe4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20095.jpg"
+    },
+    "gameId": "SCAJ_200.95"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Digital Devil Saga - Avatar Tuner"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_547.00",
+  "cover": {
+    "path": "PS2/SLES_547.00/SLES_547.00_COV.png",
+    "kind": "cover",
+    "bytes": 98893,
+    "width": 192,
+    "height": 272,
+    "sha256": "1fcdb453ca58c8445249bfe90e8ee9c83fff44d86f789c5a4077d9eed26b922c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54700.jpg"
+    },
+    "gameId": "SLES_547.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_547.00/SLES_547.00_BG.png",
+    "kind": "background",
+    "bytes": 173030,
+    "width": 640,
+    "height": 480,
+    "sha256": "41e853679f411cfd9c3c5c5b2dcb265315c99e217b8e9a4784ed30f75c5a444d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_547.00/SLES_547.00_BG_00.png"
+    },
+    "gameId": "SLES_547.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_547.00/SLES_547.00_BG.png",
+      "kind": "background",
+      "bytes": 173030,
+      "width": 640,
+      "height": 480,
+      "sha256": "41e853679f411cfd9c3c5c5b2dcb265315c99e217b8e9a4784ed30f75c5a444d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.00/SLES_547.00_BG_00.png"
+      },
+      "gameId": "SLES_547.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SXR: Snow X Racing"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_255.66",
+  "cover": {
+    "path": "PS2/SLPS_255.66/SLPS_255.66_COV.png",
+    "kind": "cover",
+    "bytes": 103251,
+    "width": 192,
+    "height": 272,
+    "sha256": "23333889bd364651f6c7e5651d3b4ffd2583c3b530cab89c18d458ac97692867",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25566.jpg"
+    },
+    "gameId": "SLPS_255.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SIMPLE 2000 ULTIMATE SERIES VOL.27 - HOUKAGO NO LOVE BEAT"
+}

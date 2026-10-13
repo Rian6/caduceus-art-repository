@@ -1,0 +1,117 @@
+{
+  "id": "SLES_537.68",
+  "cover": {
+    "path": "PS2/SLES_537.68/SLES_537.68_COV.png",
+    "kind": "cover",
+    "bytes": 104024,
+    "width": 192,
+    "height": 272,
+    "sha256": "4fcca187ae4a7dccb852db00b9264f7621f696656f7178229fbf163f39befe71",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53768.jpg"
+    },
+    "gameId": "SLES_537.68"
+  },
+  "disc": {
+    "path": "PS2/SLES_537.68/SLES_537.68_ICO.png",
+    "kind": "disc",
+    "bytes": 10168,
+    "width": 128,
+    "height": 128,
+    "sha256": "9f5f73d99482818902a417e4b34cbc43e3a898dd7d02a8608d6bda3f6a1d33fe",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_537.68_ICO.png"
+    },
+    "gameId": "SLES_537.68"
+  },
+  "background": {
+    "path": "PS2/SLES_537.68/SLES_537.68_BG.png",
+    "kind": "background",
+    "bytes": 112773,
+    "width": 640,
+    "height": 480,
+    "sha256": "c0f2187c04d5a0f8efb5dd252cc008758e977eb5a704663410582dfd519816bc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.68/SLES_537.68_BG_00.png"
+    },
+    "gameId": "SLES_537.68"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.68/SLES_537.68_BG.png",
+      "kind": "background",
+      "bytes": 112773,
+      "width": 640,
+      "height": 480,
+      "sha256": "c0f2187c04d5a0f8efb5dd252cc008758e977eb5a704663410582dfd519816bc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.68/SLES_537.68_BG_00.png"
+      },
+      "gameId": "SLES_537.68"
+    },
+    {
+      "path": "PS2/SLES_537.68/SLES_537.68_BG_01.png",
+      "kind": "background",
+      "bytes": 142208,
+      "width": 640,
+      "height": 480,
+      "sha256": "bc0fa9da2cedce669a1fe48916f1f08fd92932e1bb96a38a8252eb6b6e23c1b6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.68/SLES_537.68_BG_01.png"
+      },
+      "gameId": "SLES_537.68"
+    },
+    {
+      "path": "PS2/SLES_537.68/SLES_537.68_BG_02.png",
+      "kind": "background",
+      "bytes": 211167,
+      "width": 640,
+      "height": 480,
+      "sha256": "9c23e954f514e041533b712207eac3b1264b62cfd1cc1c5e5d5ac172a697f940",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.68/SLES_537.68_BG_02.png"
+      },
+      "gameId": "SLES_537.68"
+    },
+    {
+      "path": "PS2/SLES_537.68/SLES_537.68_BG_03.png",
+      "kind": "background",
+      "bytes": 170841,
+      "width": 640,
+      "height": 480,
+      "sha256": "ef2a7a1c547e50f80b29f5e65f2b1401fa698f8835dd1113981ebfefa5d84d43",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.68/SLES_537.68_BG_03.png"
+      },
+      "gameId": "SLES_537.68"
+    },
+    {
+      "path": "PS2/SLES_537.68/SLES_537.68_BG_04.png",
+      "kind": "background",
+      "bytes": 240199,
+      "width": 640,
+      "height": 480,
+      "sha256": "8cf9e00df99464a62e0475c3656757967a0a3759e70995684e3bbc0fdadb583e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.68/SLES_537.68_BG_04.png"
+      },
+      "gameId": "SLES_537.68"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Sword of Etheria"
+}

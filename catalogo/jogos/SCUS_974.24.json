@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_974.24",
+  "cover": {
+    "path": "PS2/SCUS_974.24/SCUS_974.24_COV.png",
+    "kind": "cover",
+    "bytes": 75162,
+    "width": 192,
+    "height": 272,
+    "sha256": "272bc49a6b88dcc1632810abc34532aa2de4c9a642c5c1a59d3ed601675bc827",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97424.jpg"
+    },
+    "gameId": "SCUS_974.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PS2 Kiosk Q3-Q4 2005"
+}

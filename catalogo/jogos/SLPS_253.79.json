@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_253.79",
+  "cover": {
+    "path": "PS2/SLPS_253.79/SLPS_253.79_COV.png",
+    "kind": "cover",
+    "bytes": 111700,
+    "width": 192,
+    "height": 272,
+    "sha256": "068541059a0c7b4167bee8fca0b7b07917b0c317e0aced00fdb84f91769b82b6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25379.jpg"
+    },
+    "gameId": "SLPS_253.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TOKYO MAJIN GAKUEN - KAIHOUJYOU KEFUROKOU"
+}

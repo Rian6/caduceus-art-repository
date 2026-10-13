@@ -1,0 +1,51 @@
+{
+  "id": "SCES_544.97",
+  "cover": {
+    "path": "PS2/SCES_544.97/SCES_544.97_COV.png",
+    "kind": "cover",
+    "bytes": 98885,
+    "width": 192,
+    "height": 272,
+    "sha256": "850efd4fba094960a3faec929e2f95cb9e25865f1ff2e0efa147c8db746d44e6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54497.jpg"
+    },
+    "gameId": "SCES_544.97"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_544.97/SCES_544.97_BG.png",
+    "kind": "background",
+    "bytes": 179012,
+    "width": 640,
+    "height": 480,
+    "sha256": "122934cbf24f52f880e2749c465ddf4eac7bcc0b2cd750524500708a4519b3bc",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_544.97/SCES_544.97_BG_00.png"
+    },
+    "gameId": "SCES_544.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_544.97/SCES_544.97_BG.png",
+      "kind": "background",
+      "bytes": 179012,
+      "width": 640,
+      "height": 480,
+      "sha256": "122934cbf24f52f880e2749c465ddf4eac7bcc0b2cd750524500708a4519b3bc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_544.97/SCES_544.97_BG_00.png"
+      },
+      "gameId": "SCES_544.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! Le Méga Quiz"
+}

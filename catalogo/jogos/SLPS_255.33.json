@@ -1,0 +1,90 @@
+{
+  "id": "SLPS_255.33",
+  "cover": {
+    "path": "PS2/SLPS_255.33/SLPS_255.33_COV.png",
+    "kind": "cover",
+    "bytes": 93087,
+    "width": 192,
+    "height": 272,
+    "sha256": "15a94c988cc2563175aa3a0219aaffea3e86d3968fe3dff947ef2f6748d77bbd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25533.jpg"
+    },
+    "gameId": "SLPS_255.33"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_255.33/SLPS_255.33_BG.png",
+    "kind": "background",
+    "bytes": 195364,
+    "width": 640,
+    "height": 480,
+    "sha256": "75035562b0c61c8819aab094de9ca75d4a3370d1d26d15363f8628429372b678",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_255.33/SLPS_255.33_BG_00.png"
+    },
+    "gameId": "SLPS_255.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_255.33/SLPS_255.33_BG.png",
+      "kind": "background",
+      "bytes": 195364,
+      "width": 640,
+      "height": 480,
+      "sha256": "75035562b0c61c8819aab094de9ca75d4a3370d1d26d15363f8628429372b678",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.33/SLPS_255.33_BG_00.png"
+      },
+      "gameId": "SLPS_255.33"
+    },
+    {
+      "path": "PS2/SLPS_255.33/SLPS_255.33_BG_01.png",
+      "kind": "background",
+      "bytes": 180749,
+      "width": 640,
+      "height": 480,
+      "sha256": "c56d55ed33e39ec53730f2f0cfc5b5f2fbfc6891b7b73ef24d8484245cd0d697",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.33/SLPS_255.33_BG_01.png"
+      },
+      "gameId": "SLPS_255.33"
+    },
+    {
+      "path": "PS2/SLPS_255.33/SLPS_255.33_BG_02.png",
+      "kind": "background",
+      "bytes": 174347,
+      "width": 640,
+      "height": 480,
+      "sha256": "e49457516c73a522b0deb4c2e52907de00392d7982fb633991e16964ca55fab6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.33/SLPS_255.33_BG_02.png"
+      },
+      "gameId": "SLPS_255.33"
+    },
+    {
+      "path": "PS2/SLPS_255.33/SLPS_255.33_BG_03.png",
+      "kind": "background",
+      "bytes": 172876,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f99f087ebcdc33b2effb9c1936deaf2e1f8ee3036db0be37f23fd2067b2289f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_255.33/SLPS_255.33_BG_03.png"
+      },
+      "gameId": "SLPS_255.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TALES OF LEGENDIA"
+}

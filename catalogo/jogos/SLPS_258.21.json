@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.21",
+  "cover": {
+    "path": "PS2/SLPS_258.21/SLPS_258.21_COV.png",
+    "kind": "cover",
+    "bytes": 83823,
+    "width": 192,
+    "height": 272,
+    "sha256": "50f51ab03ffb9eed51fc0c039d3e96977159310e2f33330eb41aff003b9b3ee1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25821.jpg"
+    },
+    "gameId": "SLPS_258.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUZUMIYA HARUCHI NO TOMADOI [LIMITED EDITION]"
+}

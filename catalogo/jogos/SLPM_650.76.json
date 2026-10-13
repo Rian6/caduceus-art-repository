@@ -1,0 +1,39 @@
+{
+  "id": "SLPM_650.76",
+  "cover": {
+    "path": "PS2/SLPM_650.76/SLPM_650.76_COV.png",
+    "kind": "cover",
+    "bytes": 85815,
+    "width": 192,
+    "height": 272,
+    "sha256": "a29cd0c7f88f50379d4e37d896eae4f0982dbbca0c3cf9a59510206bab3c4a5d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65076.jpg"
+    },
+    "gameId": "SLPM_650.76"
+  },
+  "disc": {
+    "path": "PS2/SLPM_650.76/SLPM_650.76_ICO.png",
+    "kind": "disc",
+    "bytes": 11982,
+    "width": 128,
+    "height": 128,
+    "sha256": "19a03031331c522834ccc3011a029050d46186480fdb49ce5c1d6f1f9c48b4f0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_650.76_ICO.png"
+    },
+    "gameId": "SLPM_650.76"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kidou Senshi Gundam - Renpou vs. Zeon DX"
+}

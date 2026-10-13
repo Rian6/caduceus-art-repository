@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_150.37",
+  "cover": {
+    "path": "PS2/SLKA_150.37/SLKA_150.37_COV.png",
+    "kind": "cover",
+    "bytes": 80618,
+    "width": 192,
+    "height": 272,
+    "sha256": "bd86004207c5f89435b4f0d6964c62d32eed2dd681b7b146375afbe85f80739f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-15037.jpg"
+    },
+    "gameId": "SLKA_150.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TENGAI PREMIUM PACKAGE"
+}

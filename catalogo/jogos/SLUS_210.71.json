@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_210.71",
+  "cover": {
+    "path": "PS2/SLUS_210.71/SLUS_210.71_COV.png",
+    "kind": "cover",
+    "bytes": 107064,
+    "width": 192,
+    "height": 272,
+    "sha256": "79715bc8ef2cc3033648df9530a8bf3d245ea4c7775ff7d2d8f6a033ec22def7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21071.jpg"
+    },
+    "gameId": "SLUS_210.71"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.71/SLUS_210.71_ICO.png",
+    "kind": "disc",
+    "bytes": 34494,
+    "width": 256,
+    "height": 256,
+    "sha256": "ae690f1ade540412eda10396ec9f07c0d403d01f70070a697cd1e1ba9b777b18",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.71_ICO.png"
+    },
+    "gameId": "SLUS_210.71"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.71/SLUS_210.71_BG.png",
+    "kind": "background",
+    "bytes": 141262,
+    "width": 640,
+    "height": 480,
+    "sha256": "dac0f3a60c3c67110b205233732ccbd105e2c5e9ae75ca27f38a570708386fd5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.71/SLUS_210.71_BG_00.png"
+    },
+    "gameId": "SLUS_210.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.71/SLUS_210.71_BG.png",
+      "kind": "background",
+      "bytes": 141262,
+      "width": 640,
+      "height": 480,
+      "sha256": "dac0f3a60c3c67110b205233732ccbd105e2c5e9ae75ca27f38a570708386fd5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.71/SLUS_210.71_BG_00.png"
+      },
+      "gameId": "SLUS_210.71"
+    },
+    {
+      "path": "PS2/SLUS_210.71/SLUS_210.71_BG_01.png",
+      "kind": "background",
+      "bytes": 200349,
+      "width": 640,
+      "height": 480,
+      "sha256": "4ae0ead48ca02495adfc6da4fbc48f2557568ba1c7dc4c389a051042d65b71f1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.71/SLUS_210.71_BG_01.png"
+      },
+      "gameId": "SLUS_210.71"
+    },
+    {
+      "path": "PS2/SLUS_210.71/SLUS_210.71_BG_02.png",
+      "kind": "background",
+      "bytes": 201575,
+      "width": 640,
+      "height": 480,
+      "sha256": "03bf865a42115dafdffb2c67f97561229519f958417796bb2c2c920c4f4a7919",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.71/SLUS_210.71_BG_02.png"
+      },
+      "gameId": "SLUS_210.71"
+    },
+    {
+      "path": "PS2/SLUS_210.71/SLUS_210.71_BG_03.png",
+      "kind": "background",
+      "bytes": 169846,
+      "width": 640,
+      "height": 480,
+      "sha256": "d82b22196d25dc18b10e96e2e285f978a2b047bf26cd2bcf7ead07f382ed6d16",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.71/SLUS_210.71_BG_03.png"
+      },
+      "gameId": "SLUS_210.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE NIGHTMARE OF DRUAGA - FUSHIGINO DUNGEON"
+}

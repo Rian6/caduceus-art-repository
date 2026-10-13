@@ -1,0 +1,77 @@
+{
+  "id": "SLPM_624.46",
+  "cover": {
+    "path": "PS2/SLPM_624.46/SLPM_624.46_COV.png",
+    "kind": "cover",
+    "bytes": 99859,
+    "width": 192,
+    "height": 272,
+    "sha256": "012f23285d5a171ac45e9bec1e689a093740413e7aa0e1f0fbf61c0dc03aff0d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62446.jpg"
+    },
+    "gameId": "SLPM_624.46"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_624.46/SLPM_624.46_BG.png",
+    "kind": "background",
+    "bytes": 217156,
+    "width": 640,
+    "height": 480,
+    "sha256": "a2e8f8f671017fa81ac314bbe1901771da2c19269f59a2e98b7c00de2a86e3e9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.46/SLPM_624.46_BG_00.png"
+    },
+    "gameId": "SLPM_624.46"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.46/SLPM_624.46_BG.png",
+      "kind": "background",
+      "bytes": 217156,
+      "width": 640,
+      "height": 480,
+      "sha256": "a2e8f8f671017fa81ac314bbe1901771da2c19269f59a2e98b7c00de2a86e3e9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.46/SLPM_624.46_BG_00.png"
+      },
+      "gameId": "SLPM_624.46"
+    },
+    {
+      "path": "PS2/SLPM_624.46/SLPM_624.46_BG_01.png",
+      "kind": "background",
+      "bytes": 162018,
+      "width": 640,
+      "height": 480,
+      "sha256": "2dc8c500dbb82411c11904e9962136d7a977eaa2b7296f0ce9148625f9139b91",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.46/SLPM_624.46_BG_01.png"
+      },
+      "gameId": "SLPM_624.46"
+    },
+    {
+      "path": "PS2/SLPM_624.46/SLPM_624.46_BG_02.png",
+      "kind": "background",
+      "bytes": 196515,
+      "width": 640,
+      "height": 480,
+      "sha256": "d7e735d639cb24485acfb7ab677e378b75626db3c36a15bceedf1a176a9878fc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.46/SLPM_624.46_BG_02.png"
+      },
+      "gameId": "SLPM_624.46"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Ages 2500 Series Vol. 10: After Burner II"
+}

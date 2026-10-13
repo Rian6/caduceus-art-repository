@@ -1,0 +1,25 @@
+{
+  "id": "SLES_518.40",
+  "cover": {
+    "path": "PS2/SLES_518.40/SLES_518.40_COV.png",
+    "kind": "cover",
+    "bytes": 103360,
+    "width": 192,
+    "height": 272,
+    "sha256": "fcb48ee1e26c2d30643b3cf57a332683ed3caff247ec616ae2044f21e027e365",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51840.jpg"
+    },
+    "gameId": "SLES_518.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL Hitz Pro"
+}

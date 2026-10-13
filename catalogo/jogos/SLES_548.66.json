@@ -1,0 +1,39 @@
+{
+  "id": "SLES_548.66",
+  "cover": {
+    "path": "PS2/SLES_548.66/SLES_548.66_COV.png",
+    "kind": "cover",
+    "bytes": 100499,
+    "width": 192,
+    "height": 272,
+    "sha256": "29a39fdbdeccdf1fa95359817a9ac8ea873315c7434e490965437cff03ff02c2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54866.jpg"
+    },
+    "gameId": "SLES_548.66"
+  },
+  "disc": {
+    "path": "PS2/SLES_548.66/SLES_548.66_ICO.png",
+    "kind": "disc",
+    "bytes": 12793,
+    "width": 128,
+    "height": 128,
+    "sha256": "739129d99d2b284aba0bb4bb7619e45a373c9f68b020c47d028a263809349b17",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_548.66_ICO.png"
+    },
+    "gameId": "SLES_548.66"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Game Galaxy 2"
+}

@@ -1,0 +1,77 @@
+{
+  "id": "SLES_553.74",
+  "cover": {
+    "path": "PS2/SLES_553.74/SLES_553.74_COV.png",
+    "kind": "cover",
+    "bytes": 101246,
+    "width": 192,
+    "height": 272,
+    "sha256": "67a2b99148d7917446b9dd2b7aab4cc50a4925a10ce5c3a876a15472a0f9018b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55374.jpg"
+    },
+    "gameId": "SLES_553.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_553.74/SLES_553.74_BG.png",
+    "kind": "background",
+    "bytes": 167801,
+    "width": 640,
+    "height": 480,
+    "sha256": "4deaef95bcb621d06291cc56aea22efacab32f1a63508392f194b80fe2db2d25",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.74/SLES_553.74_BG_00.png"
+    },
+    "gameId": "SLES_553.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_553.74/SLES_553.74_BG.png",
+      "kind": "background",
+      "bytes": 167801,
+      "width": 640,
+      "height": 480,
+      "sha256": "4deaef95bcb621d06291cc56aea22efacab32f1a63508392f194b80fe2db2d25",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.74/SLES_553.74_BG_00.png"
+      },
+      "gameId": "SLES_553.74"
+    },
+    {
+      "path": "PS2/SLES_553.74/SLES_553.74_BG_01.png",
+      "kind": "background",
+      "bytes": 168395,
+      "width": 640,
+      "height": 480,
+      "sha256": "6fae284e4e594017361b461ca250f307b45757679b0f8b0865ea1065f50e5177",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.74/SLES_553.74_BG_01.png"
+      },
+      "gameId": "SLES_553.74"
+    },
+    {
+      "path": "PS2/SLES_553.74/SLES_553.74_BG_02.png",
+      "kind": "background",
+      "bytes": 193808,
+      "width": 640,
+      "height": 480,
+      "sha256": "cca9d505fb2dc8eba0bd01a2acfec1a737b157d78e9660e7765f7819b1abcf07",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.74/SLES_553.74_BG_02.png"
+      },
+      "gameId": "SLES_553.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamWorks Madagascar: Escape 2 Africa"
+}

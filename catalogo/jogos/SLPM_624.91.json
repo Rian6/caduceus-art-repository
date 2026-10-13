@@ -1,0 +1,104 @@
+{
+  "id": "SLPM_624.91",
+  "cover": {
+    "path": "PS2/SLPM_624.91/SLPM_624.91_COV.png",
+    "kind": "cover",
+    "bytes": 102477,
+    "width": 192,
+    "height": 272,
+    "sha256": "143ec96d1d9545db6a9292f8a2e8e29a01fbcff07170b091e50730e970bb36f0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62491.jpg"
+    },
+    "gameId": "SLPM_624.91"
+  },
+  "disc": {
+    "path": "PS2/SLPM_624.91/SLPM_624.91_ICO.png",
+    "kind": "disc",
+    "bytes": 11046,
+    "width": 128,
+    "height": 128,
+    "sha256": "51a1b582157aeab546b154c5a351bb84d45ff0a2dac5e61abb11f18057cc7754",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_624.91_ICO.png"
+    },
+    "gameId": "SLPM_624.91"
+  },
+  "background": {
+    "path": "PS2/SLPM_624.91/SLPM_624.91_BG.png",
+    "kind": "background",
+    "bytes": 188340,
+    "width": 640,
+    "height": 480,
+    "sha256": "77dbeadf21b16a497eb6f024d37a0b8a78d90e79e2a50b60559c69958c9a563d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_624.91/SLPM_624.91_BG_00.png"
+    },
+    "gameId": "SLPM_624.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_624.91/SLPM_624.91_BG.png",
+      "kind": "background",
+      "bytes": 188340,
+      "width": 640,
+      "height": 480,
+      "sha256": "77dbeadf21b16a497eb6f024d37a0b8a78d90e79e2a50b60559c69958c9a563d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.91/SLPM_624.91_BG_00.png"
+      },
+      "gameId": "SLPM_624.91"
+    },
+    {
+      "path": "PS2/SLPM_624.91/SLPM_624.91_BG_01.png",
+      "kind": "background",
+      "bytes": 67440,
+      "width": 640,
+      "height": 480,
+      "sha256": "77fefdc50a07aa5dad6064d83a31859f35b9b43f3fa9ec0fe0c5efc83004c99f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.91/SLPM_624.91_BG_01.png"
+      },
+      "gameId": "SLPM_624.91"
+    },
+    {
+      "path": "PS2/SLPM_624.91/SLPM_624.91_BG_02.png",
+      "kind": "background",
+      "bytes": 158697,
+      "width": 640,
+      "height": 480,
+      "sha256": "adb60dffe260298ab21cddaefa38d924c7795d8b973194ae14589d473d159828",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.91/SLPM_624.91_BG_02.png"
+      },
+      "gameId": "SLPM_624.91"
+    },
+    {
+      "path": "PS2/SLPM_624.91/SLPM_624.91_BG_03.png",
+      "kind": "background",
+      "bytes": 206599,
+      "width": 640,
+      "height": 480,
+      "sha256": "196830c00fd77396d26b2899f493ba1015bda0b900454bc6d3e02213524cbf3d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_624.91/SLPM_624.91_BG_03.png"
+      },
+      "gameId": "SLPM_624.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rockman: Power Battle Fighters"
+}

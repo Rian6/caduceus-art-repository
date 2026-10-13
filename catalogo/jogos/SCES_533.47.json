@@ -1,0 +1,25 @@
+{
+  "id": "SCES_533.47",
+  "cover": {
+    "path": "PS2/SCES_533.47/SCES_533.47_COV.png",
+    "kind": "cover",
+    "bytes": 88190,
+    "width": 192,
+    "height": 272,
+    "sha256": "8cab898d47b669e1f43a8934e2dbc3ec9dea3b187105113b0562fbccb0d677da",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53347.jpg"
+    },
+    "gameId": "SCES_533.47"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SpyToy"
+}

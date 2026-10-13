@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.12",
+  "cover": {
+    "path": "PS2/SLPS_732.12/SLPS_732.12_COV.png",
+    "kind": "cover",
+    "bytes": 97055,
+    "width": 192,
+    "height": 272,
+    "sha256": "7b64ff7f92257b4f8da7b63d8495e44e9c837b31235239bf220db033f81e867e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73212.jpg"
+    },
+    "gameId": "SLPS_732.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NARUTO - NARUTIMATE HERO [PLAYSTATION 2 THE BEST]"
+}

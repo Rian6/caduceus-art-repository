@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.18",
+  "cover": {
+    "path": "PS2/SCPS_150.18/SCPS_150.18_COV.png",
+    "kind": "cover",
+    "bytes": 74286,
+    "width": 192,
+    "height": 272,
+    "sha256": "80b27430ef3bd620956937fe48d94f01a0331a4a9fe5d0f42a60f9361dcda0c6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15018.jpg"
+    },
+    "gameId": "SCPS_150.18"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.18/SCPS_150.18_BG.png",
+    "kind": "background",
+    "bytes": 253419,
+    "width": 640,
+    "height": 480,
+    "sha256": "663bc70d19cff9b142ac659abdb97ebdae741ab1ecd695cfab20d9ffd2026df3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.18/SCPS_150.18_BG_00.png"
+    },
+    "gameId": "SCPS_150.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.18/SCPS_150.18_BG.png",
+      "kind": "background",
+      "bytes": 253419,
+      "width": 640,
+      "height": 480,
+      "sha256": "663bc70d19cff9b142ac659abdb97ebdae741ab1ecd695cfab20d9ffd2026df3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.18/SCPS_150.18_BG_00.png"
+      },
+      "gameId": "SCPS_150.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Yamanote Sen - Train Simulator Real"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.61",
+  "cover": {
+    "path": "PS2/SCAJ_201.61/SCAJ_201.61_COV.png",
+    "kind": "cover",
+    "bytes": 74822,
+    "width": 192,
+    "height": 272,
+    "sha256": "73ada59e4176ba161a3481d7411c1bafbc55a04370eedaf4a55a80854deca37b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20161.jpg"
+    },
+    "gameId": "SCAJ_201.61"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Siren 2"
+}

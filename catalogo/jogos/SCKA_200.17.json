@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.17",
+  "cover": {
+    "path": "PS2/SCKA_200.17/SCKA_200.17_COV.png",
+    "kind": "cover",
+    "bytes": 52190,
+    "width": 192,
+    "height": 272,
+    "sha256": "27655e0472d1408b54e9c5305066d2c8e82510c6770d0da73a19c9ea0c02be91",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.17/SCKA_200.17_COV.png"
+    },
+    "gameId": "SCKA_200.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy - Play"
+}

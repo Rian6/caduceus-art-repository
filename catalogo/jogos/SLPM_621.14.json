@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_621.14",
+  "cover": {
+    "path": "PS2/SLPM_621.14/SLPM_621.14_COV.png",
+    "kind": "cover",
+    "bytes": 101042,
+    "width": 192,
+    "height": 272,
+    "sha256": "25e80174e422231c6e6d658f9c7471d7142a06277482d92b8dce6b5e43eed98d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62114.jpg"
+    },
+    "gameId": "SLPM_621.14"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_621.14/SLPM_621.14_BG.png",
+    "kind": "background",
+    "bytes": 183402,
+    "width": 640,
+    "height": 480,
+    "sha256": "ea8c3a6c1c2fc0f87ed4be709af41043eb2a92055255f65d7389a8b12c984343",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_621.14/SLPM_621.14_BG_00.png"
+    },
+    "gameId": "SLPM_621.14"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_621.14/SLPM_621.14_BG.png",
+      "kind": "background",
+      "bytes": 183402,
+      "width": 640,
+      "height": 480,
+      "sha256": "ea8c3a6c1c2fc0f87ed4be709af41043eb2a92055255f65d7389a8b12c984343",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_621.14/SLPM_621.14_BG_00.png"
+      },
+      "gameId": "SLPM_621.14"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CRASH BANDICOOT 4 - SAKURETSU! MAJIN POWER"
+}

@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "games": 10986,
+    "assets": 28202,
+    "bytes": 3603827718,
+    "withCover": 10944,
+    "withDisc": 2599,
+    "withBackground": 5959,
+    "byKind": {
+      "cover": 10944,
+      "background": 14659,
+      "disc": 2599
+    },
+    "unmapped": 0,
+    "errors": 0
+  },
+  "errors": [],
+  "unmapped": []
+}

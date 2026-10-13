@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.20",
+  "cover": {
+    "path": "PS2/SLPM_742.20/SLPM_742.20_COV.png",
+    "kind": "cover",
+    "bytes": 88570,
+    "width": 192,
+    "height": 272,
+    "sha256": "bee47d0a3abe4ca01762bdda77c36ce4d71da0ba497cb3d00f2c96a93449c512",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74220.jpg"
+    },
+    "gameId": "SLPM_742.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KENGO 3 [PLAYSTATION 2 THE BEST]"
+}

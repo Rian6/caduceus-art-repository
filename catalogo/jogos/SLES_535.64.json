@@ -1,0 +1,103 @@
+{
+  "id": "SLES_535.64",
+  "cover": {
+    "path": "PS2/SLES_535.64/SLES_535.64_COV.png",
+    "kind": "cover",
+    "bytes": 101883,
+    "width": 192,
+    "height": 272,
+    "sha256": "c0bdcee7c46ed0ef76f9acb8644d7daee6ad55632712838538120487f93bd996",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53564.jpg"
+    },
+    "gameId": "SLES_535.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_535.64/SLES_535.64_BG.png",
+    "kind": "background",
+    "bytes": 187366,
+    "width": 640,
+    "height": 480,
+    "sha256": "49fc0d45767691cc6db34509ed025d02deec272b6add5bfa0a8687612b7265a6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_535.64/SLES_535.64_BG_00.png"
+    },
+    "gameId": "SLES_535.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_535.64/SLES_535.64_BG.png",
+      "kind": "background",
+      "bytes": 187366,
+      "width": 640,
+      "height": 480,
+      "sha256": "49fc0d45767691cc6db34509ed025d02deec272b6add5bfa0a8687612b7265a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.64/SLES_535.64_BG_00.png"
+      },
+      "gameId": "SLES_535.64"
+    },
+    {
+      "path": "PS2/SLES_535.64/SLES_535.64_BG_01.png",
+      "kind": "background",
+      "bytes": 220393,
+      "width": 640,
+      "height": 480,
+      "sha256": "2b5cf13a827c7cb9a8b51b11130772978c021f2a29109a40854ce898acdcf71a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.64/SLES_535.64_BG_01.png"
+      },
+      "gameId": "SLES_535.64"
+    },
+    {
+      "path": "PS2/SLES_535.64/SLES_535.64_BG_02.png",
+      "kind": "background",
+      "bytes": 214900,
+      "width": 640,
+      "height": 480,
+      "sha256": "350a66ab4e353f0d96b0d6aa43e089660bd772f546eecc38bb482a9e17b16124",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.64/SLES_535.64_BG_02.png"
+      },
+      "gameId": "SLES_535.64"
+    },
+    {
+      "path": "PS2/SLES_535.64/SLES_535.64_BG_03.png",
+      "kind": "background",
+      "bytes": 214584,
+      "width": 640,
+      "height": 480,
+      "sha256": "381f9d47e9ae17c8efa360b929c51e42eb92520a5fb97934af1e5a72ff9525a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.64/SLES_535.64_BG_03.png"
+      },
+      "gameId": "SLES_535.64"
+    },
+    {
+      "path": "PS2/SLES_535.64/SLES_535.64_BG_04.png",
+      "kind": "background",
+      "bytes": 168501,
+      "width": 640,
+      "height": 480,
+      "sha256": "1fd389449f0b7909d4855ec336304b7254dc2206b4c82014f70512459c94391b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_535.64/SLES_535.64_BG_04.png"
+      },
+      "gameId": "SLES_535.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Darkwatch"
+}

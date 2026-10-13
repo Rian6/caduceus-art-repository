@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_205.43",
+  "cover": {
+    "path": "PS2/SLUS_205.43/SLUS_205.43_COV.png",
+    "kind": "cover",
+    "bytes": 85969,
+    "width": 192,
+    "height": 272,
+    "sha256": "9bf631324b1f32ca9e061ad3c318afc269f193b5c8e34270be02dd4a2b1b3310",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20543.jpg"
+    },
+    "gameId": "SLUS_205.43"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.43/SLUS_205.43_ICO.png",
+    "kind": "disc",
+    "bytes": 30272,
+    "width": 256,
+    "height": 256,
+    "sha256": "e1ab26df26abe230f6ddc8951594f0b32653d6c5e799e929acb4c597a526de13",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.43_ICO.png"
+    },
+    "gameId": "SLUS_205.43"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.43/SLUS_205.43_BG.png",
+    "kind": "background",
+    "bytes": 145718,
+    "width": 640,
+    "height": 480,
+    "sha256": "cf8fa4e0b3755aeb39de14f350add3d3360dc76572945e350221b860f187fc79",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.43/SLUS_205.43_BG_00.png"
+    },
+    "gameId": "SLUS_205.43"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.43/SLUS_205.43_BG.png",
+      "kind": "background",
+      "bytes": 145718,
+      "width": 640,
+      "height": 480,
+      "sha256": "cf8fa4e0b3755aeb39de14f350add3d3360dc76572945e350221b860f187fc79",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.43/SLUS_205.43_BG_00.png"
+      },
+      "gameId": "SLUS_205.43"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Document of Metal Gear Solid 2"
+}

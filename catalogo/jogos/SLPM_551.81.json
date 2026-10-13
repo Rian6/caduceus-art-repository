@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_551.81",
+  "cover": {
+    "path": "PS2/SLPM_551.81/SLPM_551.81_COV.png",
+    "kind": "cover",
+    "bytes": 77880,
+    "width": 192,
+    "height": 272,
+    "sha256": "deec1005300f1dee0d1e0be138a6a017a8c42e80b350bba74e5520e9412b2142",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55181.jpg"
+    },
+    "gameId": "SLPM_551.81"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLANNAD [BEST VERSION]"
+}

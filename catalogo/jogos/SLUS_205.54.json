@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_205.54",
+  "cover": {
+    "path": "PS2/SLUS_205.54/SLUS_205.54_COV.png",
+    "kind": "cover",
+    "bytes": 83157,
+    "width": 192,
+    "height": 272,
+    "sha256": "5834b069fef8069a6747baec2f3a74a84346b349a8de24120dd544027eaf7191",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20554.jpg"
+    },
+    "gameId": "SLUS_205.54"
+  },
+  "disc": {
+    "path": "PS2/SLUS_205.54/SLUS_205.54_ICO.png",
+    "kind": "disc",
+    "bytes": 34189,
+    "width": 256,
+    "height": 256,
+    "sha256": "8259d1a7636499ed0d93d03d01927835fe81e961526ad1906748cb9906299f5c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_205.54_ICO.png"
+    },
+    "gameId": "SLUS_205.54"
+  },
+  "background": {
+    "path": "PS2/SLUS_205.54/SLUS_205.54_BG.png",
+    "kind": "background",
+    "bytes": 127461,
+    "width": 640,
+    "height": 480,
+    "sha256": "58f4caf9f15abfcb3c4d5868b642ad20794cf0d600d706b29769afa08f7115cf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_205.54/SLUS_205.54_BG_00.png"
+    },
+    "gameId": "SLUS_205.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_205.54/SLUS_205.54_BG.png",
+      "kind": "background",
+      "bytes": 127461,
+      "width": 640,
+      "height": 480,
+      "sha256": "58f4caf9f15abfcb3c4d5868b642ad20794cf0d600d706b29769afa08f7115cf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.54/SLUS_205.54_BG_00.png"
+      },
+      "gameId": "SLUS_205.54"
+    },
+    {
+      "path": "PS2/SLUS_205.54/SLUS_205.54_BG_01.png",
+      "kind": "background",
+      "bytes": 134430,
+      "width": 640,
+      "height": 480,
+      "sha256": "2ab62efcad4cb6f6a4e3d3b60b20e33e72778aeb77148490b03ddf4511ee7c4a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.54/SLUS_205.54_BG_01.png"
+      },
+      "gameId": "SLUS_205.54"
+    },
+    {
+      "path": "PS2/SLUS_205.54/SLUS_205.54_BG_02.png",
+      "kind": "background",
+      "bytes": 222053,
+      "width": 640,
+      "height": 480,
+      "sha256": "a8786527916d4f14f7199fe1b01288e6091a12034ad40149d0af0283f672df87",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.54/SLUS_205.54_BG_02.png"
+      },
+      "gameId": "SLUS_205.54"
+    },
+    {
+      "path": "PS2/SLUS_205.54/SLUS_205.54_BG_03.png",
+      "kind": "background",
+      "bytes": 116338,
+      "width": 640,
+      "height": 480,
+      "sha256": "276511c9c3f9f10617410b18627b2703eb511e1433fa250e2aa331a9b2e3fe15",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.54/SLUS_205.54_BG_03.png"
+      },
+      "gameId": "SLUS_205.54"
+    },
+    {
+      "path": "PS2/SLUS_205.54/SLUS_205.54_BG_04.png",
+      "kind": "background",
+      "bytes": 112624,
+      "width": 640,
+      "height": 480,
+      "sha256": "865cc5b8ec30635f3aa4ae932a4cb802c5ce1da934814976d1124f6b94b4409f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_205.54/SLUS_205.54_BG_04.png"
+      },
+      "gameId": "SLUS_205.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Metal Gear Solid 2 - Substance"
+}

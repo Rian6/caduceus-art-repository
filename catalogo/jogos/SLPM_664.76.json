@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.76",
+  "cover": {
+    "path": "PS2/SLPM_664.76/SLPM_664.76_COV.png",
+    "kind": "cover",
+    "bytes": 99789,
+    "width": 192,
+    "height": 272,
+    "sha256": "4a7dfdd016ec229d947a64ac34b97273a10d103cfef85a0a66f5d2843f1a99ee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66476.jpg"
+    },
+    "gameId": "SLPM_664.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jissen Pachinko Hisshouhou! CR Salaryman Kintarou"
+}

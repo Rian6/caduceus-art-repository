@@ -1,0 +1,64 @@
+{
+  "id": "SLPM_611.06",
+  "cover": {
+    "path": "PS2/SLPM_611.06/SLPM_611.06_COV.png",
+    "kind": "cover",
+    "bytes": 66561,
+    "width": 192,
+    "height": 272,
+    "sha256": "fe23763aebd6d490be934f39cb24929085a65367b0ad32b1b09ed9e48546b53f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_611.06/SLPM_611.06_COV.png"
+    },
+    "gameId": "SLPM_611.06"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_611.06/SLPM_611.06_BG.png",
+    "kind": "background",
+    "bytes": 175642,
+    "width": 640,
+    "height": 480,
+    "sha256": "d67a0469e704df42de9e3ecfb8b7a6cc188b522f9f08a7ef53db165e11b4ff3e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_611.06/SLPM_611.06_BG_00.png"
+    },
+    "gameId": "SLPM_611.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_611.06/SLPM_611.06_BG.png",
+      "kind": "background",
+      "bytes": 175642,
+      "width": 640,
+      "height": 480,
+      "sha256": "d67a0469e704df42de9e3ecfb8b7a6cc188b522f9f08a7ef53db165e11b4ff3e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_611.06/SLPM_611.06_BG_00.png"
+      },
+      "gameId": "SLPM_611.06"
+    },
+    {
+      "path": "PS2/SLPM_611.06/SLPM_611.06_BG_01.png",
+      "kind": "background",
+      "bytes": 218526,
+      "width": 640,
+      "height": 480,
+      "sha256": "65157f73d35faddc72f7c7e93bcedfb038aa96a6bd0626b77859e809f97e0aa8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_611.06/SLPM_611.06_BG_01.png"
+      },
+      "gameId": "SLPM_611.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rumble Roses (Demo)"
+}

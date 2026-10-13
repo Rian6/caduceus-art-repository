@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_216.93",
+  "cover": {
+    "path": "PS2/SLUS_216.93/SLUS_216.93_COV.png",
+    "kind": "cover",
+    "bytes": 108617,
+    "width": 192,
+    "height": 272,
+    "sha256": "cff4133f97f8f04fdfb6f35549435ad08ff94e79b74aae96a453fb8ec98317db",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21693.jpg"
+    },
+    "gameId": "SLUS_216.93"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.93/SLUS_216.93_ICO.png",
+    "kind": "disc",
+    "bytes": 31733,
+    "width": 256,
+    "height": 256,
+    "sha256": "1f283e3b9916ca27c6d57c8b58ba8c43b895f96d8bc63174e6ef9efae2846527",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.93_ICO.png"
+    },
+    "gameId": "SLUS_216.93"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.93/SLUS_216.93_BG.png",
+    "kind": "background",
+    "bytes": 177627,
+    "width": 640,
+    "height": 480,
+    "sha256": "d1017c87e11f1a6d4ccb764270890304bc0d456be236750bf956961b6f4a60ff",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.93/SLUS_216.93_BG_00.png"
+    },
+    "gameId": "SLUS_216.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.93/SLUS_216.93_BG.png",
+      "kind": "background",
+      "bytes": 177627,
+      "width": 640,
+      "height": 480,
+      "sha256": "d1017c87e11f1a6d4ccb764270890304bc0d456be236750bf956961b6f4a60ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.93/SLUS_216.93_BG_00.png"
+      },
+      "gameId": "SLUS_216.93"
+    },
+    {
+      "path": "PS2/SLUS_216.93/SLUS_216.93_BG_01.png",
+      "kind": "background",
+      "bytes": 123290,
+      "width": 640,
+      "height": 480,
+      "sha256": "dcfc9113febb5eabed490206c05f1d79b9feb60614440ab5b7bbf7b47ded9adc",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.93/SLUS_216.93_BG_01.png"
+      },
+      "gameId": "SLUS_216.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "7 Wonders of the Ancient World"
+}

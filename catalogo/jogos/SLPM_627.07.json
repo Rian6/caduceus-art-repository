@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.07",
+  "cover": {
+    "path": "PS2/SLPM_627.07/SLPM_627.07_COV.png",
+    "kind": "cover",
+    "bytes": 90716,
+    "width": 192,
+    "height": 272,
+    "sha256": "da5ec0323b2c60ea10065acd8b644f4ce7106a22f2bb99138f046eec827347f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62707.jpg"
+    },
+    "gameId": "SLPM_627.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Oretachi Geesen Zoku: Rabio Lepus"
+}

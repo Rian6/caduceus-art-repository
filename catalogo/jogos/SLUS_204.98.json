@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_204.98",
+  "cover": {
+    "path": "PS2/SLUS_204.98/SLUS_204.98_COV.png",
+    "kind": "cover",
+    "bytes": 104042,
+    "width": 192,
+    "height": 272,
+    "sha256": "d1fa19bdc8db9a705ec5b90fb9d5d9e7f1d38d1ab88a9c724339eaf99bc9869f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20498.jpg"
+    },
+    "gameId": "SLUS_204.98"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Auto Modellista (Volume 1.0)"
+}

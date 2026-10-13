@@ -1,0 +1,143 @@
+{
+  "id": "SCES_508.89",
+  "cover": {
+    "path": "PS2/SCES_508.89/SCES_508.89_COV.png",
+    "kind": "cover",
+    "bytes": 99041,
+    "width": 192,
+    "height": 272,
+    "sha256": "70b5efe7c7ac04b402f94c57150ff09302ec7509f6b7675f01547608b4065aee",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50889.jpg"
+    },
+    "gameId": "SCES_508.89"
+  },
+  "disc": {
+    "path": "PS2/SCES_508.89/SCES_508.89_ICO.png",
+    "kind": "disc",
+    "bytes": 11127,
+    "width": 128,
+    "height": 128,
+    "sha256": "6deae7bad5595f1f5d89dc41a832428a2e9c22331529d44f25b2b7bc6ed2f3bf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_508.89_ICO.png"
+    },
+    "gameId": "SCES_508.89"
+  },
+  "background": {
+    "path": "PS2/SCES_508.89/SCES_508.89_BG.png",
+    "kind": "background",
+    "bytes": 232436,
+    "width": 640,
+    "height": 480,
+    "sha256": "b99e88f97bb276b9a8640f29cc333aab2e68c9a6d276f5c04457763afef3975d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_508.89/SCES_508.89_BG_00.png"
+    },
+    "gameId": "SCES_508.89"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_508.89/SCES_508.89_BG.png",
+      "kind": "background",
+      "bytes": 232436,
+      "width": 640,
+      "height": 480,
+      "sha256": "b99e88f97bb276b9a8640f29cc333aab2e68c9a6d276f5c04457763afef3975d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_508.89/SCES_508.89_BG_00.png"
+      },
+      "gameId": "SCES_508.89"
+    },
+    {
+      "path": "PS2/SCES_508.89/SCES_508.89_BG_01.png",
+      "kind": "background",
+      "bytes": 182775,
+      "width": 640,
+      "height": 480,
+      "sha256": "8dc774b9a13c45db9013c6ad787f94183b2388ffd91f1dc73f7585153ae21d27",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_508.89/SCES_508.89_BG_01.png"
+      },
+      "gameId": "SCES_508.89"
+    },
+    {
+      "path": "PS2/SCES_508.89/SCES_508.89_BG_02.png",
+      "kind": "background",
+      "bytes": 461290,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb93b2268e0125f2d89106a0ac9135779ffe04869115afe5faced8e2e204ab58",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_508.89/SCES_508.89_BG_02.png"
+      },
+      "gameId": "SCES_508.89"
+    },
+    {
+      "path": "PS2/SCES_508.89/SCES_508.89_BG_03.png",
+      "kind": "background",
+      "bytes": 190994,
+      "width": 640,
+      "height": 480,
+      "sha256": "3b6e8348d67d7bfb3e15f20c857629468c15f96330063b78cee98135115dd972",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_508.89/SCES_508.89_BG_03.png"
+      },
+      "gameId": "SCES_508.89"
+    },
+    {
+      "path": "PS2/SCES_508.89/SCES_508.89_BG_04.png",
+      "kind": "background",
+      "bytes": 206803,
+      "width": 640,
+      "height": 480,
+      "sha256": "c5a8a03646c348de92c24ca7bff757633cd7a3c90eb2f8b4b470a5fdd488a5e4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_508.89/SCES_508.89_BG_04.png"
+      },
+      "gameId": "SCES_508.89"
+    },
+    {
+      "path": "PS2/SCES_508.89/SCES_508.89_BG_05.png",
+      "kind": "background",
+      "bytes": 49074,
+      "width": 640,
+      "height": 480,
+      "sha256": "48089674c722c6c9c6d1b812b84a9a4675d158f689fcbe3773ea9cdd6edf4d33",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_508.89/SCES_508.89_BG_05.png"
+      },
+      "gameId": "SCES_508.89"
+    },
+    {
+      "path": "PS2/SCES_508.89/SCES_508.89_BG_06.png",
+      "kind": "background",
+      "bytes": 185881,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf489f036144f802f2394a6d8d317c2b45cb2482eac46c54ae75c7385f07f9d3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_508.89/SCES_508.89_BG_06.png"
+      },
+      "gameId": "SCES_508.89"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ninja Assault"
+}

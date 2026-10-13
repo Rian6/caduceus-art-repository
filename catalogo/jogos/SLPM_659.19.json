@@ -1,0 +1,104 @@
+{
+  "id": "SLPM_659.19",
+  "cover": {
+    "path": "PS2/SLPM_659.19/SLPM_659.19_COV.png",
+    "kind": "cover",
+    "bytes": 111948,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e5e11ec4aa819e7485d088bce0e8e5c23b94f748b3776a1b89534c355981982",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65919.jpg"
+    },
+    "gameId": "SLPM_659.19"
+  },
+  "disc": {
+    "path": "PS2/SLPM_659.19/SLPM_659.19_ICO.png",
+    "kind": "disc",
+    "bytes": 9893,
+    "width": 128,
+    "height": 128,
+    "sha256": "9d425b81378f91fe443cea8182f6ace3ff74834550d2e2f79a7a2feb6fa8d8d0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_659.19_ICO.png"
+    },
+    "gameId": "SLPM_659.19"
+  },
+  "background": {
+    "path": "PS2/SLPM_659.19/SLPM_659.19_BG.png",
+    "kind": "background",
+    "bytes": 167986,
+    "width": 640,
+    "height": 480,
+    "sha256": "1267bf89065cea4b19fb094c1a90d94b02e16ea15a7f9210e7edc002420a8cd3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_659.19/SLPM_659.19_BG_00.png"
+    },
+    "gameId": "SLPM_659.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_659.19/SLPM_659.19_BG.png",
+      "kind": "background",
+      "bytes": 167986,
+      "width": 640,
+      "height": 480,
+      "sha256": "1267bf89065cea4b19fb094c1a90d94b02e16ea15a7f9210e7edc002420a8cd3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.19/SLPM_659.19_BG_00.png"
+      },
+      "gameId": "SLPM_659.19"
+    },
+    {
+      "path": "PS2/SLPM_659.19/SLPM_659.19_BG_01.png",
+      "kind": "background",
+      "bytes": 179178,
+      "width": 640,
+      "height": 480,
+      "sha256": "81d282f3b5f6bbaec17201329362d549afbaf164aba08baf21b6c31f0701828a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.19/SLPM_659.19_BG_01.png"
+      },
+      "gameId": "SLPM_659.19"
+    },
+    {
+      "path": "PS2/SLPM_659.19/SLPM_659.19_BG_02.png",
+      "kind": "background",
+      "bytes": 190377,
+      "width": 640,
+      "height": 480,
+      "sha256": "507cad074d4c20fe6bdbd73cb4c9cd7f5e02a0109ab19d7cb0c9282b3cd35588",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.19/SLPM_659.19_BG_02.png"
+      },
+      "gameId": "SLPM_659.19"
+    },
+    {
+      "path": "PS2/SLPM_659.19/SLPM_659.19_BG_03.png",
+      "kind": "background",
+      "bytes": 184017,
+      "width": 640,
+      "height": 480,
+      "sha256": "6a0728abab2cda6a79c6f346f68b415e9521d29670c7d9b24373bd19f28761f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_659.19/SLPM_659.19_BG_03.png"
+      },
+      "gameId": "SLPM_659.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE RUMBLE FISH"
+}

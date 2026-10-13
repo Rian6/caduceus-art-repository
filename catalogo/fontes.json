@@ -1,0 +1,34 @@
+[
+  {
+    "id": "xlenore-ps2-covers",
+    "url": "https://github.com/xlenore/ps2-covers",
+    "commit": "08a8734ee31aca74a7471425f73384f16e29ecbc",
+    "scope": "PS2 only"
+  },
+  {
+    "id": "luden-opl-art",
+    "url": "https://github.com/Luden02/psx-ps2-opl-art-database",
+    "commit": "e14b9abce3cc42a06bb4ad2e4056e289c8872a07",
+    "scope": "PS2 only"
+  },
+  {
+    "id": "local-disc-pack",
+    "location": "D:\\CAPAS_CD",
+    "archives": [
+      {
+        "name": "NTSC Hi-Res 8-bit.zip",
+        "bytes": 78216158,
+        "sha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d"
+      },
+      {
+        "name": "Region Update.zip",
+        "bytes": 8902069,
+        "sha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784"
+      }
+    ],
+    "references": [
+      "https://archive.org/details/ntsc-hi-res-8-bit",
+      "https://forums.launchbox-app.com/files/file/3228-abeezys-sony-playstation-2-disc-fronts/"
+    ]
+  }
+]

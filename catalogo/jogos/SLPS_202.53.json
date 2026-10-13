@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.53",
+  "cover": {
+    "path": "PS2/SLPS_202.53/SLPS_202.53_COV.png",
+    "kind": "cover",
+    "bytes": 80459,
+    "width": 192,
+    "height": 272,
+    "sha256": "6ff86804c6e5500968c61df35a8fe5cc915d66b10ff32eb1b663a87db7857076",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20253.jpg"
+    },
+    "gameId": "SLPS_202.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pachitte Chonmage Tatsujin 2 - CR Jurassic Park"
+}

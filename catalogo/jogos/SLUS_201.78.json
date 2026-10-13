@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_201.78",
+  "cover": {
+    "path": "PS2/SLUS_201.78/SLUS_201.78_COV.png",
+    "kind": "cover",
+    "bytes": 100139,
+    "width": 192,
+    "height": 272,
+    "sha256": "6b3c7499b6a78db4e2e561174f2906f4fd29b76297ab600f839a6b321eff6bde",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20178.jpg"
+    },
+    "gameId": "SLUS_201.78"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.78/SLUS_201.78_ICO.png",
+    "kind": "disc",
+    "bytes": 34223,
+    "width": 256,
+    "height": 256,
+    "sha256": "589bee8d3f33aa13d164a663176e9dfa21c1fe10fda466569ba8e1b0e1065b20",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.78_ICO.png"
+    },
+    "gameId": "SLUS_201.78"
+  },
+  "background": {
+    "path": "PS2/SLUS_201.78/SLUS_201.78_BG.png",
+    "kind": "background",
+    "bytes": 186017,
+    "width": 640,
+    "height": 480,
+    "sha256": "ce49ef445ed7cfa104aa570b85f6b8caf6a5b30e4de838e2df1d1ad1985e90a8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_201.78/SLUS_201.78_BG_00.png"
+    },
+    "gameId": "SLUS_201.78"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_201.78/SLUS_201.78_BG.png",
+      "kind": "background",
+      "bytes": 186017,
+      "width": 640,
+      "height": 480,
+      "sha256": "ce49ef445ed7cfa104aa570b85f6b8caf6a5b30e4de838e2df1d1ad1985e90a8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_201.78/SLUS_201.78_BG_00.png"
+      },
+      "gameId": "SLUS_201.78"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Giants - Citizen Kabuto"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_507.12",
+  "cover": {
+    "path": "PS2/SLES_507.12/SLES_507.12_COV.png",
+    "kind": "cover",
+    "bytes": 89485,
+    "width": 192,
+    "height": 272,
+    "sha256": "717bc8d06236591e8e66180f1aeaad36eedb4bf4a1950454bb5abf58219415b4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50712.jpg"
+    },
+    "gameId": "SLES_507.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL Hitz 20-03"
+}

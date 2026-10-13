@@ -1,0 +1,25 @@
+{
+  "id": "SLES_554.60",
+  "cover": {
+    "path": "PS2/SLES_554.60/SLES_554.60_COV.png",
+    "kind": "cover",
+    "bytes": 63257,
+    "width": 192,
+    "height": 272,
+    "sha256": "81e79a3ff0d172ce52c2149ba8a7ff12073d3ede8d8dc0fa8d24c6ec8a3aa21a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_554.60/SLES_554.60_COV.png"
+    },
+    "gameId": "SLES_554.60"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DreamWorks' Shrek's Carnival Craze - Party Games"
+}

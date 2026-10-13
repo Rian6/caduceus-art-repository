@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_212.01",
+  "cover": {
+    "path": "PS2/SLUS_212.01/SLUS_212.01_COV.png",
+    "kind": "cover",
+    "bytes": 108146,
+    "width": 192,
+    "height": 272,
+    "sha256": "25e78f2de90dec74dc8f94505f45628a6164cce00c7d14f32201a5dcd9a3362d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21201.jpg"
+    },
+    "gameId": "SLUS_212.01"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.01/SLUS_212.01_ICO.png",
+    "kind": "disc",
+    "bytes": 35928,
+    "width": 256,
+    "height": 256,
+    "sha256": "ce8ce870a77cf3f8444d4b05b7bcaa4e4f4f73f619a84a0127ab2ecd3188a1a0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.01_ICO.png"
+    },
+    "gameId": "SLUS_212.01"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.01/SLUS_212.01_BG.png",
+    "kind": "background",
+    "bytes": 212501,
+    "width": 640,
+    "height": 480,
+    "sha256": "a9582275ba375b652e9032984fa393d487e9b696cdb334f635b6589d391006c6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.01/SLUS_212.01_BG_00.png"
+    },
+    "gameId": "SLUS_212.01"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.01/SLUS_212.01_BG.png",
+      "kind": "background",
+      "bytes": 212501,
+      "width": 640,
+      "height": 480,
+      "sha256": "a9582275ba375b652e9032984fa393d487e9b696cdb334f635b6589d391006c6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.01/SLUS_212.01_BG_00.png"
+      },
+      "gameId": "SLUS_212.01"
+    },
+    {
+      "path": "PS2/SLUS_212.01/SLUS_212.01_BG_01.png",
+      "kind": "background",
+      "bytes": 172876,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f99f087ebcdc33b2effb9c1936deaf2e1f8ee3036db0be37f23fd2067b2289f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.01/SLUS_212.01_BG_01.png"
+      },
+      "gameId": "SLUS_212.01"
+    },
+    {
+      "path": "PS2/SLUS_212.01/SLUS_212.01_BG_02.png",
+      "kind": "background",
+      "bytes": 174347,
+      "width": 640,
+      "height": 480,
+      "sha256": "e49457516c73a522b0deb4c2e52907de00392d7982fb633991e16964ca55fab6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.01/SLUS_212.01_BG_02.png"
+      },
+      "gameId": "SLUS_212.01"
+    },
+    {
+      "path": "PS2/SLUS_212.01/SLUS_212.01_BG_03.png",
+      "kind": "background",
+      "bytes": 180749,
+      "width": 640,
+      "height": 480,
+      "sha256": "c56d55ed33e39ec53730f2f0cfc5b5f2fbfc6891b7b73ef24d8484245cd0d697",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.01/SLUS_212.01_BG_03.png"
+      },
+      "gameId": "SLUS_212.01"
+    },
+    {
+      "path": "PS2/SLUS_212.01/SLUS_212.01_BG_04.png",
+      "kind": "background",
+      "bytes": 195364,
+      "width": 640,
+      "height": 480,
+      "sha256": "75035562b0c61c8819aab094de9ca75d4a3370d1d26d15363f8628429372b678",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.01/SLUS_212.01_BG_04.png"
+      },
+      "gameId": "SLUS_212.01"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TALES OF LEGENDIA"
+}

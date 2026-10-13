@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.40",
+  "cover": {
+    "path": "PS2/SLPS_202.40/SLPS_202.40_COV.png",
+    "kind": "cover",
+    "bytes": 78503,
+    "width": 192,
+    "height": 272,
+    "sha256": "634858dec07ca902919c79603bf8cb8a10c8e358123d5287a3afcc79f4e8fa97",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20240.jpg"
+    },
+    "gameId": "SLPS_202.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jissen Pachi-Slot Hisshouhou! Moujuu-Oh! S"
+}

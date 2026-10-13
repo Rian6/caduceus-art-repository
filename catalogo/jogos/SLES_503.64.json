@@ -1,0 +1,51 @@
+{
+  "id": "SLES_503.64",
+  "cover": {
+    "path": "PS2/SLES_503.64/SLES_503.64_COV.png",
+    "kind": "cover",
+    "bytes": 71206,
+    "width": 192,
+    "height": 272,
+    "sha256": "25cae8707d47072d89294ddb8b957d0e9a68d7942b8b04904801f3b4720ddede",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50364.jpg"
+    },
+    "gameId": "SLES_503.64"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_503.64/SLES_503.64_BG.png",
+    "kind": "background",
+    "bytes": 203358,
+    "width": 640,
+    "height": 480,
+    "sha256": "eb89023fa0860a214c01141d57eb972fe51819ee9ebb543889dcdfa00faaf471",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_503.64/SLES_503.64_BG_00.png"
+    },
+    "gameId": "SLES_503.64"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_503.64/SLES_503.64_BG.png",
+      "kind": "background",
+      "bytes": 203358,
+      "width": 640,
+      "height": 480,
+      "sha256": "eb89023fa0860a214c01141d57eb972fe51819ee9ebb543889dcdfa00faaf471",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_503.64/SLES_503.64_BG_00.png"
+      },
+      "gameId": "SLES_503.64"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "City Crisis"
+}

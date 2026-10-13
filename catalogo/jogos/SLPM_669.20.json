@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.20",
+  "cover": {
+    "path": "PS2/SLPM_669.20/SLPM_669.20_COV.png",
+    "kind": "cover",
+    "bytes": 108205,
+    "width": 192,
+    "height": 272,
+    "sha256": "49ce749f562e60d3f59746f0f15ad9af2ce25dad553afc4c4ebd3a3d7fd12a8e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66920.jpg"
+    },
+    "gameId": "SLPM_669.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HOSHIFUL - HOSHI NO FURU MACHI"
+}

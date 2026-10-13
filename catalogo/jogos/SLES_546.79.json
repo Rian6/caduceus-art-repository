@@ -1,0 +1,25 @@
+{
+  "id": "SLES_546.79",
+  "cover": {
+    "path": "PS2/SLES_546.79/SLES_546.79_COV.png",
+    "kind": "cover",
+    "bytes": 97707,
+    "width": 192,
+    "height": 272,
+    "sha256": "ec3413a0997b5433ed07cf62e8292930fd5382975f70131c3b3c4a04990700e4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54679.jpg"
+    },
+    "gameId": "SLES_546.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Meet the Robinsons"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_200.56",
+  "cover": {
+    "path": "PS2/SCKA_200.56/SCKA_200.56_COV.png",
+    "kind": "cover",
+    "bytes": 57222,
+    "width": 192,
+    "height": 272,
+    "sha256": "8390e3e567c091988b154c2d8bd2aa22b4f5fb1ebb031c6065ada5d4afaba425",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.56/SCKA_200.56_COV.png"
+    },
+    "gameId": "SCKA_200.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LuluRara (With USB Microphone)"
+}

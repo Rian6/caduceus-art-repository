@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.56",
+  "cover": {
+    "path": "PS2/SLPM_662.56/SLPM_662.56_COV.png",
+    "kind": "cover",
+    "bytes": 77457,
+    "width": 192,
+    "height": 272,
+    "sha256": "02e51c3fb5754ae89175c7fac55ecf6977505c913697dd78397df8c3de2e773c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66256.jpg"
+    },
+    "gameId": "SLPM_662.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NANA [KONAMI THE BEST]"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SCES_509.28",
+  "cover": {
+    "path": "PS2/SCES_509.28/SCES_509.28_COV.png",
+    "kind": "cover",
+    "bytes": 96209,
+    "width": 192,
+    "height": 272,
+    "sha256": "628851d6e7b926da0380087b2bd5e401e9cb52abb6cddb1991bcb6f437e5b42d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-50928.jpg"
+    },
+    "gameId": "SCES_509.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_509.28/SCES_509.28_BG.png",
+    "kind": "background",
+    "bytes": 212542,
+    "width": 640,
+    "height": 480,
+    "sha256": "6b54b1565f21505deb35305034cb0b671f03771361b83a8c2406d769dad84e00",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_509.28/SCES_509.28_BG_00.png"
+    },
+    "gameId": "SCES_509.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_509.28/SCES_509.28_BG.png",
+      "kind": "background",
+      "bytes": 212542,
+      "width": 640,
+      "height": 480,
+      "sha256": "6b54b1565f21505deb35305034cb0b671f03771361b83a8c2406d769dad84e00",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.28/SCES_509.28_BG_00.png"
+      },
+      "gameId": "SCES_509.28"
+    },
+    {
+      "path": "PS2/SCES_509.28/SCES_509.28_BG_01.png",
+      "kind": "background",
+      "bytes": 169975,
+      "width": 640,
+      "height": 480,
+      "sha256": "9591ec4acc5946e24927f8fa9c24a1406533ce5a48a1dcfa467a1b420eaf0c16",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_509.28/SCES_509.28_BG_01.png"
+      },
+      "gameId": "SCES_509.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOCOM: U.S. Navy SEALs"
+}

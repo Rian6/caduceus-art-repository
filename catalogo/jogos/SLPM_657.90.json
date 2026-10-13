@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_657.90",
+  "cover": {
+    "path": "PS2/SLPM_657.90/SLPM_657.90_COV.png",
+    "kind": "cover",
+    "bytes": 98156,
+    "width": 192,
+    "height": 272,
+    "sha256": "951a1c33567f5da2f6b073b278bdfffb0dea02c8309a4f5fee10646b71e7a5b0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65790.jpg"
+    },
+    "gameId": "SLPM_657.90"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_657.90/SLPM_657.90_BG.png",
+    "kind": "background",
+    "bytes": 192123,
+    "width": 640,
+    "height": 480,
+    "sha256": "947f5ea1a1b0c5fe51dab66a5148504dd9132aec053f447a2c11c3b43df2198a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_657.90/SLPM_657.90_BG_00.png"
+    },
+    "gameId": "SLPM_657.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_657.90/SLPM_657.90_BG.png",
+      "kind": "background",
+      "bytes": 192123,
+      "width": 640,
+      "height": 480,
+      "sha256": "947f5ea1a1b0c5fe51dab66a5148504dd9132aec053f447a2c11c3b43df2198a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_657.90/SLPM_657.90_BG_00.png"
+      },
+      "gameId": "SLPM_657.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL GEAR SOLID 3 - SNAKE EATER"
+}

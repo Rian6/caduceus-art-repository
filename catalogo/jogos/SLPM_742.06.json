@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_742.06",
+  "cover": {
+    "path": "PS2/SLPM_742.06/SLPM_742.06_COV.png",
+    "kind": "cover",
+    "bytes": 75303,
+    "width": 192,
+    "height": 272,
+    "sha256": "f2282d28e3d699fcbcf1c304d4aa02fb5d65c1c83883c387a6738396a82686ed",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-74206.jpg"
+    },
+    "gameId": "SLPM_742.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ONIMUSHA [PLAYSTATION 2 THE BEST]"
+}

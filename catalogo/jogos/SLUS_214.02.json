@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_214.02",
+  "cover": {
+    "path": "PS2/SLUS_214.02/SLUS_214.02_COV.png",
+    "kind": "cover",
+    "bytes": 111528,
+    "width": 192,
+    "height": 272,
+    "sha256": "57a79c6e4c0332cb46a58d1302fe8f6d6b8892def0b440125b5a7a3d35d96f8d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21402.jpg"
+    },
+    "gameId": "SLUS_214.02"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.02/SLUS_214.02_ICO.png",
+    "kind": "disc",
+    "bytes": 34178,
+    "width": 256,
+    "height": 256,
+    "sha256": "c75405a2c927b602d5ef71381b3d520190b3910d1462686d0048d045f95da645",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.02_ICO.png"
+    },
+    "gameId": "SLUS_214.02"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.02/SLUS_214.02_BG.png",
+    "kind": "background",
+    "bytes": 227043,
+    "width": 640,
+    "height": 480,
+    "sha256": "fee9646b38a3f19fb19265242e2df2fea631cb47c200fefe9d6c34bb86cacef8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.02/SLUS_214.02_BG_00.png"
+    },
+    "gameId": "SLUS_214.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.02/SLUS_214.02_BG.png",
+      "kind": "background",
+      "bytes": 227043,
+      "width": 640,
+      "height": 480,
+      "sha256": "fee9646b38a3f19fb19265242e2df2fea631cb47c200fefe9d6c34bb86cacef8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.02/SLUS_214.02_BG_00.png"
+      },
+      "gameId": "SLUS_214.02"
+    },
+    {
+      "path": "PS2/SLUS_214.02/SLUS_214.02_BG_01.png",
+      "kind": "background",
+      "bytes": 171191,
+      "width": 640,
+      "height": 480,
+      "sha256": "1fec4be44cd8f4f2560ceee3822b56318d738f9c416cd2d62e4c970cf4f6f76f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.02/SLUS_214.02_BG_01.png"
+      },
+      "gameId": "SLUS_214.02"
+    },
+    {
+      "path": "PS2/SLUS_214.02/SLUS_214.02_BG_02.png",
+      "kind": "background",
+      "bytes": 177834,
+      "width": 640,
+      "height": 480,
+      "sha256": "c9f3fd1107b688871aa28987629f719a46f701ec949a00076405025282c7a762",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.02/SLUS_214.02_BG_02.png"
+      },
+      "gameId": "SLUS_214.02"
+    },
+    {
+      "path": "PS2/SLUS_214.02/SLUS_214.02_BG_03.png",
+      "kind": "background",
+      "bytes": 111021,
+      "width": 640,
+      "height": 480,
+      "sha256": "b397d3550a06b9a50baf273d98f758b4c378a7b2c519470012473c2be7f66a73",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.02/SLUS_214.02_BG_03.png"
+      },
+      "gameId": "SLUS_214.02"
+    },
+    {
+      "path": "PS2/SLUS_214.02/SLUS_214.02_BG_04.png",
+      "kind": "background",
+      "bytes": 114507,
+      "width": 640,
+      "height": 480,
+      "sha256": "fd82a80585d45d0a29e8e0f76fe1b16343cd3c7f5768fa3c55d5b7413488fa65",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.02/SLUS_214.02_BG_04.png"
+      },
+      "gameId": "SLUS_214.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MICRO MACHINES V4"
+}

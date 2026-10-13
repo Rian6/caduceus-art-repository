@@ -1,0 +1,25 @@
+{
+  "id": "SLES_545.03",
+  "cover": {
+    "path": "PS2/SLES_545.03/SLES_545.03_COV.png",
+    "kind": "cover",
+    "bytes": 57273,
+    "width": 192,
+    "height": 272,
+    "sha256": "9a8e154bc10084754964ccdb2648af739fc66ee9832deba95dcc611d84395a4a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.03/SLES_545.03_COV.png"
+    },
+    "gameId": "SLES_545.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hard Rock Casino"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SLPS_201.28",
+  "cover": {
+    "path": "PS2/SLPS_201.28/SLPS_201.28_COV.png",
+    "kind": "cover",
+    "bytes": 98534,
+    "width": 192,
+    "height": 272,
+    "sha256": "5644883fb2092c1cc9a7637aa0583d19bfc54157bd4acc5910392ca386bc018d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20128.jpg"
+    },
+    "gameId": "SLPS_201.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_201.28/SLPS_201.28_BG.png",
+    "kind": "background",
+    "bytes": 162517,
+    "width": 640,
+    "height": 480,
+    "sha256": "94c790581d170c5e459faff0a913e1eb79afef58f91171699f77fd456cea1be2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_201.28/SLPS_201.28_BG_00.png"
+    },
+    "gameId": "SLPS_201.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_201.28/SLPS_201.28_BG.png",
+      "kind": "background",
+      "bytes": 162517,
+      "width": 640,
+      "height": 480,
+      "sha256": "94c790581d170c5e459faff0a913e1eb79afef58f91171699f77fd456cea1be2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.28/SLPS_201.28_BG_00.png"
+      },
+      "gameId": "SLPS_201.28"
+    },
+    {
+      "path": "PS2/SLPS_201.28/SLPS_201.28_BG_01.png",
+      "kind": "background",
+      "bytes": 101002,
+      "width": 640,
+      "height": 480,
+      "sha256": "30c8b00cea4f42c8e43572344ff8465b13d8fd1502514da795d9c9fc945497e7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.28/SLPS_201.28_BG_01.png"
+      },
+      "gameId": "SLPS_201.28"
+    },
+    {
+      "path": "PS2/SLPS_201.28/SLPS_201.28_BG_02.png",
+      "kind": "background",
+      "bytes": 130827,
+      "width": 640,
+      "height": 480,
+      "sha256": "f25ae5d1de8964027e6c1dce5db97d4ae2f413e3c00d67592b86f97c32b1b046",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.28/SLPS_201.28_BG_02.png"
+      },
+      "gameId": "SLPS_201.28"
+    },
+    {
+      "path": "PS2/SLPS_201.28/SLPS_201.28_BG_03.png",
+      "kind": "background",
+      "bytes": 136718,
+      "width": 640,
+      "height": 480,
+      "sha256": "7a63a7ce94baf18c3e4fcae2b939ff47b25f39f7c8b41e2a657d9ea96f9ed581",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.28/SLPS_201.28_BG_03.png"
+      },
+      "gameId": "SLPS_201.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MARL DE JIGSAW [LIMITED EDITION]"
+}

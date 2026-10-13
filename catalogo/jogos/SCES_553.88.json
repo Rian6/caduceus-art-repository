@@ -1,0 +1,64 @@
+{
+  "id": "SCES_553.88",
+  "cover": {
+    "path": "PS2/SCES_553.88/SCES_553.88_COV.png",
+    "kind": "cover",
+    "bytes": 103269,
+    "width": 192,
+    "height": 272,
+    "sha256": "431e3b313d6547bb006624db2c1b0669343621103acf5dd809af85c26893813b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55388.jpg"
+    },
+    "gameId": "SCES_553.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_553.88/SCES_553.88_BG.png",
+    "kind": "background",
+    "bytes": 131744,
+    "width": 640,
+    "height": 480,
+    "sha256": "f9fa5a48900ed3bdb333836f0c6e75cb1f854dc824ad5e0bf92c44cc4c8976d3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_553.88/SCES_553.88_BG_00.png"
+    },
+    "gameId": "SCES_553.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_553.88/SCES_553.88_BG.png",
+      "kind": "background",
+      "bytes": 131744,
+      "width": 640,
+      "height": 480,
+      "sha256": "f9fa5a48900ed3bdb333836f0c6e75cb1f854dc824ad5e0bf92c44cc4c8976d3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_553.88/SCES_553.88_BG_00.png"
+      },
+      "gameId": "SCES_553.88"
+    },
+    {
+      "path": "PS2/SCES_553.88/SCES_553.88_BG_01.png",
+      "kind": "background",
+      "bytes": 116439,
+      "width": 640,
+      "height": 480,
+      "sha256": "91c5d5a5af15d2f1440172505cc8074e77045a80811762a8ceafa58a7e90e84d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_553.88/SCES_553.88_BG_01.png"
+      },
+      "gameId": "SCES_553.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! ¿Que Sabes de tu Pais?"
+}

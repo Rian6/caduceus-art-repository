@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.50",
+  "cover": {
+    "path": "PS2/SLPS_203.50/SLPS_203.50_COV.png",
+    "kind": "cover",
+    "bytes": 98695,
+    "width": 192,
+    "height": 272,
+    "sha256": "1f727e24036126974ded9f51a1fdac0b00ebc02235b05886a504f184031ddb9e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20350.jpg"
+    },
+    "gameId": "SLPS_203.50"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Soccer Life"
+}

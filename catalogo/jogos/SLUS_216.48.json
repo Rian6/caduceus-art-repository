@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_216.48",
+  "cover": {
+    "path": "PS2/SLUS_216.48/SLUS_216.48_COV.png",
+    "kind": "cover",
+    "bytes": 102338,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf9ce37644a46d7b1c087f9669e5eef624fa121844b7eeae303e0feac01261d6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21648.jpg"
+    },
+    "gameId": "SLUS_216.48"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.48/SLUS_216.48_ICO.png",
+    "kind": "disc",
+    "bytes": 31542,
+    "width": 256,
+    "height": 256,
+    "sha256": "3ca90402d489a9df496322b00702e63ab30da31cdb34d4c474f8a00c081e29a7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.48_ICO.png"
+    },
+    "gameId": "SLUS_216.48"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA Soccer 08"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_514.36",
+  "cover": {
+    "path": "PS2/SLES_514.36/SLES_514.36_COV.png",
+    "kind": "cover",
+    "bytes": 94529,
+    "width": 192,
+    "height": 272,
+    "sha256": "7ae9a33128f843c6c8aacd426ce31b12b266ae09787d9410a7426b2ff5aebbc0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51436.jpg"
+    },
+    "gameId": "SLES_514.36"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_514.36/SLES_514.36_BG.png",
+    "kind": "background",
+    "bytes": 233296,
+    "width": 640,
+    "height": 480,
+    "sha256": "aead42b398e81ddbf280599085a54d6cd9642014d5c39da4b52a1d380890fa26",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_514.36/SLES_514.36_BG_00.png"
+    },
+    "gameId": "SLES_514.36"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_514.36/SLES_514.36_BG.png",
+      "kind": "background",
+      "bytes": 233296,
+      "width": 640,
+      "height": 480,
+      "sha256": "aead42b398e81ddbf280599085a54d6cd9642014d5c39da4b52a1d380890fa26",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.36/SLES_514.36_BG_00.png"
+      },
+      "gameId": "SLES_514.36"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Chessmaster"
+}

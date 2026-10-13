@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_250.98",
+  "cover": {
+    "path": "PS2/SLPS_250.98/SLPS_250.98_COV.png",
+    "kind": "cover",
+    "bytes": 89081,
+    "width": 192,
+    "height": 272,
+    "sha256": "af77f1d6133edea8d08cfffb9dcb994379209aef0ad9f9aad298dbf10d8f8131",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25098.jpg"
+    },
+    "gameId": "SLPS_250.98"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_250.98/SLPS_250.98_BG.png",
+    "kind": "background",
+    "bytes": 182993,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a4c0078e5b77e7a915d6ce3ed3e40a19ade0fb296edeaadca3529f0694f33b4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_250.98/SLPS_250.98_BG_00.png"
+    },
+    "gameId": "SLPS_250.98"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_250.98/SLPS_250.98_BG.png",
+      "kind": "background",
+      "bytes": 182993,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a4c0078e5b77e7a915d6ce3ed3e40a19ade0fb296edeaadca3529f0694f33b4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.98/SLPS_250.98_BG_00.png"
+      },
+      "gameId": "SLPS_250.98"
+    },
+    {
+      "path": "PS2/SLPS_250.98/SLPS_250.98_BG_01.png",
+      "kind": "background",
+      "bytes": 219193,
+      "width": 640,
+      "height": 480,
+      "sha256": "a242d459353f234db03b69207be37b98106033420e2601a0b7705dc0b3339b2b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_250.98/SLPS_250.98_BG_01.png"
+      },
+      "gameId": "SLPS_250.98"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Air Ranger 2 - Rescue Helicopter (Reprint)"
+}

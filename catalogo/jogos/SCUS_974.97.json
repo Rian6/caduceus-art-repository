@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_974.97",
+  "cover": {
+    "path": "PS2/SCUS_974.97/SCUS_974.97_COV.png",
+    "kind": "cover",
+    "bytes": 76279,
+    "width": 192,
+    "height": 272,
+    "sha256": "eee6bdb0008667e32ff183ea1c34d306754d5155091706a5c581e94a2cce0f9e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97497.jpg"
+    },
+    "gameId": "SCUS_974.97"
+  },
+  "disc": {
+    "path": "PS2/SCUS_974.97/SCUS_974.97_ICO.png",
+    "kind": "disc",
+    "bytes": 28951,
+    "width": 256,
+    "height": 256,
+    "sha256": "e979a45e8fc49c32e55ce3245535e2a7afe48663b5afaae20fbffd99ef58c9ae",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_974.97_ICO.png"
+    },
+    "gameId": "SCUS_974.97"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy - Kinetic (With EyeToy)"
+}

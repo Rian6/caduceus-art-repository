@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_250.12",
+  "cover": {
+    "path": "PS2/SCAJ_250.12/SCAJ_250.12_COV.png",
+    "kind": "cover",
+    "bytes": 28616,
+    "width": 192,
+    "height": 272,
+    "sha256": "0761da8b7ee86614b5a8ec32057abda2f72a3baac13e8c37b94f4c210911f9cd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-25012.jpg"
+    },
+    "gameId": "SCAJ_250.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FINAL FANTASY X-2"
+}

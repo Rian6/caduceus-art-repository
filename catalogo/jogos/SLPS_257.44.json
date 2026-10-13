@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_257.44",
+  "cover": {
+    "path": "PS2/SLPS_257.44/SLPS_257.44_COV.png",
+    "kind": "cover",
+    "bytes": 126080,
+    "width": 192,
+    "height": 272,
+    "sha256": "a868970b227b0b00b97896d3e673155c9627335f20c7b03cdeaf5d2786ef3cc6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25744.jpg"
+    },
+    "gameId": "SLPS_257.44"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_257.44/SLPS_257.44_BG.png",
+    "kind": "background",
+    "bytes": 220180,
+    "width": 640,
+    "height": 480,
+    "sha256": "fded3555af3a79e6b124531ea2bd3ff4f90b5c66970da85549bfa71df2aa401f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.44/SLPS_257.44_BG_00.png"
+    },
+    "gameId": "SLPS_257.44"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.44/SLPS_257.44_BG.png",
+      "kind": "background",
+      "bytes": 220180,
+      "width": 640,
+      "height": 480,
+      "sha256": "fded3555af3a79e6b124531ea2bd3ff4f90b5c66970da85549bfa71df2aa401f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.44/SLPS_257.44_BG_00.png"
+      },
+      "gameId": "SLPS_257.44"
+    },
+    {
+      "path": "PS2/SLPS_257.44/SLPS_257.44_BG_01.png",
+      "kind": "background",
+      "bytes": 213079,
+      "width": 640,
+      "height": 480,
+      "sha256": "cdebab93a45f20b7827b0801840c68e730ae5441541eba68dad116e52412e544",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.44/SLPS_257.44_BG_01.png"
+      },
+      "gameId": "SLPS_257.44"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SAINT SEIYA - MEIOU HADES JUUNIKYUU HEN"
+}

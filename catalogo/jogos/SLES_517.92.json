@@ -1,0 +1,64 @@
+{
+  "id": "SLES_517.92",
+  "cover": {
+    "path": "PS2/SLES_517.92/SLES_517.92_COV.png",
+    "kind": "cover",
+    "bytes": 97133,
+    "width": 192,
+    "height": 272,
+    "sha256": "5c376fd2ee1be86d71cafdb5e2e20ac130e9d160fc8ca5543fd19aa35f38958f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51792.jpg"
+    },
+    "gameId": "SLES_517.92"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_517.92/SLES_517.92_BG.png",
+    "kind": "background",
+    "bytes": 149110,
+    "width": 640,
+    "height": 480,
+    "sha256": "5a090f0efef76f6969ed2acec1d1a8017f18af178968f8b38ca0576ef818c642",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_517.92/SLES_517.92_BG_00.png"
+    },
+    "gameId": "SLES_517.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_517.92/SLES_517.92_BG.png",
+      "kind": "background",
+      "bytes": 149110,
+      "width": 640,
+      "height": 480,
+      "sha256": "5a090f0efef76f6969ed2acec1d1a8017f18af178968f8b38ca0576ef818c642",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.92/SLES_517.92_BG_00.png"
+      },
+      "gameId": "SLES_517.92"
+    },
+    {
+      "path": "PS2/SLES_517.92/SLES_517.92_BG_01.png",
+      "kind": "background",
+      "bytes": 101790,
+      "width": 640,
+      "height": 480,
+      "sha256": "f909d27c08e0b3c3119ce634169db020009d129b878477ba8f2ad2b596deb4c3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_517.92/SLES_517.92_BG_01.png"
+      },
+      "gameId": "SLES_517.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Aliens vs. Predator – Extinction"
+}

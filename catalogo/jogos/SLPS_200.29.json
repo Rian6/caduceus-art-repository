@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.29",
+  "cover": {
+    "path": "PS2/SLPS_200.29/SLPS_200.29_COV.png",
+    "kind": "cover",
+    "bytes": 77140,
+    "width": 192,
+    "height": 272,
+    "sha256": "d9b99d8c4c22986d7d87da4a0ce677380297aa26d5ce6d13a621e60bafc74ccb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20029.jpg"
+    },
+    "gameId": "SLPS_200.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Surfroid - Densetsu no Surfer"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_539.01",
+  "cover": {
+    "path": "PS2/SLES_539.01/SLES_539.01_COV.png",
+    "kind": "cover",
+    "bytes": 84545,
+    "width": 192,
+    "height": 272,
+    "sha256": "02e45018477d08fb8e5ccf5095fe66eeb4b0620344419baf8f48436f9464e72a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53901.jpg"
+    },
+    "gameId": "SLES_539.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Torino 2006"
+}

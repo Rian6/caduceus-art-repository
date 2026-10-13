@@ -1,0 +1,51 @@
+{
+  "id": "SLES_525.04",
+  "cover": {
+    "path": "PS2/SLES_525.04/SLES_525.04_COV.png",
+    "kind": "cover",
+    "bytes": 97650,
+    "width": 192,
+    "height": 272,
+    "sha256": "29a87b1e09cc85e3f8f287d2e3c9fa0a47ed4c5b3b24dc33758587ebfa100e08",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52504.jpg"
+    },
+    "gameId": "SLES_525.04"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_525.04/SLES_525.04_BG.png",
+    "kind": "background",
+    "bytes": 201367,
+    "width": 640,
+    "height": 480,
+    "sha256": "cd24e4692b1c7f2d75747ce3e777de231202ab08e9a38904f226e6e761a5c5d3",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_525.04/SLES_525.04_BG_00.png"
+    },
+    "gameId": "SLES_525.04"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_525.04/SLES_525.04_BG.png",
+      "kind": "background",
+      "bytes": 201367,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd24e4692b1c7f2d75747ce3e777de231202ab08e9a38904f226e6e761a5c5d3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_525.04/SLES_525.04_BG_00.png"
+      },
+      "gameId": "SLES_525.04"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Trivial Pursuit: Unhinged"
+}

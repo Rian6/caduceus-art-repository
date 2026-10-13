@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.53",
+  "cover": {
+    "path": "PS2/SLAJ_250.53/SLAJ_250.53_COV.png",
+    "kind": "cover",
+    "bytes": 86471,
+    "width": 192,
+    "height": 272,
+    "sha256": "53720fabfe9fc11b2716fab3d558ca72bc62762bb1106f02051065854d299aae",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25053.jpg"
+    },
+    "gameId": "SLAJ_250.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Burnout 3 - Takedown"
+}

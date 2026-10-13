@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_656.62",
+  "cover": {
+    "path": "PS2/SLPM_656.62/SLPM_656.62_COV.png",
+    "kind": "cover",
+    "bytes": 94202,
+    "width": 192,
+    "height": 272,
+    "sha256": "e5d3eb77003328ecf8a57b6c695796cbb2385148ec3a59671f4316039fcf2947",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65662.jpg"
+    },
+    "gameId": "SLPM_656.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Spider-Man 2"
+}

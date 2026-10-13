@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.44",
+  "cover": {
+    "path": "PS2/SLPM_622.44/SLPM_622.44_COV.png",
+    "kind": "cover",
+    "bytes": 89276,
+    "width": 192,
+    "height": 272,
+    "sha256": "102dea544a9e6424713a8eec4c824ba64c027211ce03f59c6bc64180e60e381a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62244.jpg"
+    },
+    "gameId": "SLPM_622.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Choro Q - HG 3"
+}

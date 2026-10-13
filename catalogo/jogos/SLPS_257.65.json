@@ -1,0 +1,117 @@
+{
+  "id": "SLPS_257.65",
+  "cover": {
+    "path": "PS2/SLPS_257.65/SLPS_257.65_COV.png",
+    "kind": "cover",
+    "bytes": 107976,
+    "width": 192,
+    "height": 272,
+    "sha256": "6fb8de49763e90876058d714e188add43c8cf818f5e96bc6d0ddca37a7143df0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25765.jpg"
+    },
+    "gameId": "SLPS_257.65"
+  },
+  "disc": {
+    "path": "PS2/SLPS_257.65/SLPS_257.65_ICO.png",
+    "kind": "disc",
+    "bytes": 9775,
+    "width": 128,
+    "height": 128,
+    "sha256": "1bccea0614e2ffe3e740b7d264a635dff81e5370260261877ac6239fe2723f50",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_257.65_ICO.png"
+    },
+    "gameId": "SLPS_257.65"
+  },
+  "background": {
+    "path": "PS2/SLPS_257.65/SLPS_257.65_BG.png",
+    "kind": "background",
+    "bytes": 162340,
+    "width": 640,
+    "height": 480,
+    "sha256": "2e72af95d830a3f2a75b0a8ff72d3cbdbd13d934fbe13c4b45928fd07d080fc6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_257.65/SLPS_257.65_BG_00.png"
+    },
+    "gameId": "SLPS_257.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_257.65/SLPS_257.65_BG.png",
+      "kind": "background",
+      "bytes": 162340,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e72af95d830a3f2a75b0a8ff72d3cbdbd13d934fbe13c4b45928fd07d080fc6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.65/SLPS_257.65_BG_00.png"
+      },
+      "gameId": "SLPS_257.65"
+    },
+    {
+      "path": "PS2/SLPS_257.65/SLPS_257.65_BG_01.png",
+      "kind": "background",
+      "bytes": 234080,
+      "width": 640,
+      "height": 480,
+      "sha256": "d701bc7893dd92edfe5eac635913ff872cbbc1983f612fbed1c5e4ef764902ae",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.65/SLPS_257.65_BG_01.png"
+      },
+      "gameId": "SLPS_257.65"
+    },
+    {
+      "path": "PS2/SLPS_257.65/SLPS_257.65_BG_02.png",
+      "kind": "background",
+      "bytes": 199679,
+      "width": 640,
+      "height": 480,
+      "sha256": "d4086f309f802964dafd691129a135af518b319c3bdc864cade5178755703279",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.65/SLPS_257.65_BG_02.png"
+      },
+      "gameId": "SLPS_257.65"
+    },
+    {
+      "path": "PS2/SLPS_257.65/SLPS_257.65_BG_03.png",
+      "kind": "background",
+      "bytes": 172422,
+      "width": 640,
+      "height": 480,
+      "sha256": "0134c6830b65e4d1b05141eff1ca7856e7b23c163c524b7496401b2b2c0ef0ce",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.65/SLPS_257.65_BG_03.png"
+      },
+      "gameId": "SLPS_257.65"
+    },
+    {
+      "path": "PS2/SLPS_257.65/SLPS_257.65_BG_04.png",
+      "kind": "background",
+      "bytes": 128550,
+      "width": 640,
+      "height": 480,
+      "sha256": "a4a3927c643fae1bcde71dea1d207e7312c68f9709b2a0263c8efea14a1a474f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_257.65/SLPS_257.65_BG_04.png"
+      },
+      "gameId": "SLPS_257.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KOF: Maximum Impact Regulation \"A\""
+}

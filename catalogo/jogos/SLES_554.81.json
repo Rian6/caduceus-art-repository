@@ -1,0 +1,64 @@
+{
+  "id": "SLES_554.81",
+  "cover": {
+    "path": "PS2/SLES_554.81/SLES_554.81_COV.png",
+    "kind": "cover",
+    "bytes": 108328,
+    "width": 192,
+    "height": 272,
+    "sha256": "c55bb6db68f08563b23b4b8e3e859420e1549531c11bb7a49e8fd08af6041b0f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55481.jpg"
+    },
+    "gameId": "SLES_554.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_554.81/SLES_554.81_BG.png",
+    "kind": "background",
+    "bytes": 84121,
+    "width": 640,
+    "height": 480,
+    "sha256": "490c496ce0e1b3a6beb8185c472152224d92352eb3dc867670397ebf927ce03b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_554.81/SLES_554.81_BG_00.png"
+    },
+    "gameId": "SLES_554.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_554.81/SLES_554.81_BG.png",
+      "kind": "background",
+      "bytes": 84121,
+      "width": 640,
+      "height": 480,
+      "sha256": "490c496ce0e1b3a6beb8185c472152224d92352eb3dc867670397ebf927ce03b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.81/SLES_554.81_BG_00.png"
+      },
+      "gameId": "SLES_554.81"
+    },
+    {
+      "path": "PS2/SLES_554.81/SLES_554.81_BG_01.png",
+      "kind": "background",
+      "bytes": 170196,
+      "width": 640,
+      "height": 480,
+      "sha256": "9fb98fb29c3b65b3eb80ed9fdc62a8d46e99b991b67c3e5b4aa48e37b06929d5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.81/SLES_554.81_BG_01.png"
+      },
+      "gameId": "SLES_554.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Naruto Shippuden - Ultimate Ninja 4"
+}

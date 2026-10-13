@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.76",
+  "cover": {
+    "path": "PS2/SCPS_150.76/SCPS_150.76_COV.png",
+    "kind": "cover",
+    "bytes": 86545,
+    "width": 192,
+    "height": 272,
+    "sha256": "0d80a3f2f25ea281409839db5463ba8a6431493dbf81314f42d6c786aafe10e8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15076.jpg"
+    },
+    "gameId": "SCPS_150.76"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EyeToy: Furi Furi Dance Tengoku"
+}

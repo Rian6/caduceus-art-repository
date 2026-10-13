@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_211.05",
+  "cover": {
+    "path": "PS2/SLUS_211.05/SLUS_211.05_COV.png",
+    "kind": "cover",
+    "bytes": 112938,
+    "width": 192,
+    "height": 272,
+    "sha256": "3e53f47cb37807c43a9cf9f5f626c134cdcb78df28a64167ba70e9e2999cb996",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21105.jpg"
+    },
+    "gameId": "SLUS_211.05"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.05/SLUS_211.05_ICO.png",
+    "kind": "disc",
+    "bytes": 36512,
+    "width": 256,
+    "height": 256,
+    "sha256": "298af03e63b1bd3fe0c6af92e0a55e18946b901b00f9d9ce1fbe97c8614fffaf",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.05_ICO.png"
+    },
+    "gameId": "SLUS_211.05"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.05/SLUS_211.05_BG.png",
+    "kind": "background",
+    "bytes": 180437,
+    "width": 640,
+    "height": 480,
+    "sha256": "0fa6e6fa8f334e8d45d70e675501e81334bc69d221000d4f64dc6d4350f2ad24",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.05/SLUS_211.05_BG_00.png"
+    },
+    "gameId": "SLUS_211.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.05/SLUS_211.05_BG.png",
+      "kind": "background",
+      "bytes": 180437,
+      "width": 640,
+      "height": 480,
+      "sha256": "0fa6e6fa8f334e8d45d70e675501e81334bc69d221000d4f64dc6d4350f2ad24",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.05/SLUS_211.05_BG_00.png"
+      },
+      "gameId": "SLUS_211.05"
+    },
+    {
+      "path": "PS2/SLUS_211.05/SLUS_211.05_BG_01.png",
+      "kind": "background",
+      "bytes": 210720,
+      "width": 640,
+      "height": 480,
+      "sha256": "27d7708f611c79424f1bcc89c3f9f01deca243f6d009caeaa7351cb75063ce41",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.05/SLUS_211.05_BG_01.png"
+      },
+      "gameId": "SLUS_211.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Ghost Recon 2"
+}

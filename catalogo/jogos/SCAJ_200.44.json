@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.44",
+  "cover": {
+    "path": "PS2/SCAJ_200.44/SCAJ_200.44_COV.png",
+    "kind": "cover",
+    "bytes": 76081,
+    "width": 192,
+    "height": 272,
+    "sha256": "ca8d5e48d09034bb3ad21d786b8bce656472b91359cf748f2a03a100f08ef19e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20044.jpg"
+    },
+    "gameId": "SCAJ_200.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LARA CROFT - TOMB RAIDER - UTSUKUSHIKI TOUBOUSHA"
+}

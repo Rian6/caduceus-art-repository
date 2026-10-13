@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.10",
+  "cover": {
+    "path": "PS2/SLPS_254.10/SLPS_254.10_COV.png",
+    "kind": "cover",
+    "bytes": 98748,
+    "width": 192,
+    "height": 272,
+    "sha256": "03033e9c5b23c232ce8e2a86befaa5786e7a66219722f6228737cbab48e413bd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25410.jpg"
+    },
+    "gameId": "SLPS_254.10"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FUTAKOI"
+}

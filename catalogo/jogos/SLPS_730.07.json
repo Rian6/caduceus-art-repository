@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_730.07",
+  "cover": {
+    "path": "PS2/SLPS_730.07/SLPS_730.07_COV.png",
+    "kind": "cover",
+    "bytes": 48706,
+    "width": 192,
+    "height": 272,
+    "sha256": "6f5af5c19d4443c8d7269394809ff5ebbfba2360122ad96f2ba259f69129c1d9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_730.07/SLPS_730.07_COV.png"
+    },
+    "gameId": "SLPS_730.07"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kamaitachi no Yoru 2: Kangoku-jima no Warabe-uta: Special Eizou"
+}

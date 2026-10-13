@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_623.54",
+  "cover": {
+    "path": "PS2/SLPM_623.54/SLPM_623.54_COV.png",
+    "kind": "cover",
+    "bytes": 108796,
+    "width": 192,
+    "height": 272,
+    "sha256": "6a1a14ea146f651f8e6f1aab274f6c8377affdcc185a07285cff97a67dc9a1a1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62354.jpg"
+    },
+    "gameId": "SLPM_623.54"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_623.54/SLPM_623.54_BG.png",
+    "kind": "background",
+    "bytes": 78925,
+    "width": 640,
+    "height": 480,
+    "sha256": "63ca403cbd45ecebf7cdc7f385368b9e383295b74e6dd3da0f4da0c8f7799d36",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_623.54/SLPM_623.54_BG_00.png"
+    },
+    "gameId": "SLPM_623.54"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_623.54/SLPM_623.54_BG.png",
+      "kind": "background",
+      "bytes": 78925,
+      "width": 640,
+      "height": 480,
+      "sha256": "63ca403cbd45ecebf7cdc7f385368b9e383295b74e6dd3da0f4da0c8f7799d36",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_623.54/SLPM_623.54_BG_00.png"
+      },
+      "gameId": "SLPM_623.54"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Space Invaders 25th Anniversary"
+}

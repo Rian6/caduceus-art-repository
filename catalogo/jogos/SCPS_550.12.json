@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.12",
+  "cover": {
+    "path": "PS2/SCPS_550.12/SCPS_550.12_COV.png",
+    "kind": "cover",
+    "bytes": 106730,
+    "width": 192,
+    "height": 272,
+    "sha256": "3522c1aa5f15f6d602dada6d56cc18383fba0a0f1de643513dbbc87126b4bd2f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55012.jpg"
+    },
+    "gameId": "SCPS_550.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRANDIA II"
+}

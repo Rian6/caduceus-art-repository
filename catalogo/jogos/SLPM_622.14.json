@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_622.14",
+  "cover": {
+    "path": "PS2/SLPM_622.14/SLPM_622.14_COV.png",
+    "kind": "cover",
+    "bytes": 78595,
+    "width": 192,
+    "height": 272,
+    "sha256": "062df13a00c71d8ff37884d9f55abf3d54cfefe37076b10eed496d4294a6e57b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62214.jpg"
+    },
+    "gameId": "SLPM_622.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Everblue 2"
+}

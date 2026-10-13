@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.37",
+  "cover": {
+    "path": "PS2/SLPS_250.37/SLPS_250.37_COV.png",
+    "kind": "cover",
+    "bytes": 90801,
+    "width": 192,
+    "height": 272,
+    "sha256": "25d03a3b1d2d0eaad91c4e933ca02e346094f14722fb7db61ed4249f02bab8b1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25037.jpg"
+    },
+    "gameId": "SLPS_250.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Velvet File Plus"
+}

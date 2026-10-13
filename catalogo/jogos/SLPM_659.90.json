@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_659.90",
+  "cover": {
+    "path": "PS2/SLPM_659.90/SLPM_659.90_COV.png",
+    "kind": "cover",
+    "bytes": 92883,
+    "width": 192,
+    "height": 272,
+    "sha256": "926206ed88882f093c0cbd0c8fb9e31115fe786de1a26f9885b7518da42a1fe0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65990.jpg"
+    },
+    "gameId": "SLPM_659.90"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NEO CONTRA [KONAMI DENDOU SELECTION]"
+}

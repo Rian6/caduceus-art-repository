@@ -1,0 +1,51 @@
+{
+  "id": "SLES_500.80",
+  "cover": {
+    "path": "PS2/SLES_500.80/SLES_500.80_COV.png",
+    "kind": "cover",
+    "bytes": 86380,
+    "width": 192,
+    "height": 272,
+    "sha256": "c8c67800eaa66d223ce3123d016bf2de6624bcf400444bd29368843d3f31e16c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50080.jpg"
+    },
+    "gameId": "SLES_500.80"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_500.80/SLES_500.80_BG.png",
+    "kind": "background",
+    "bytes": 193034,
+    "width": 640,
+    "height": 480,
+    "sha256": "c079399b525ef325f15f5dc1ee59fec6b21924370a0520120ca0734cb467ab70",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.80/SLES_500.80_BG_00.png"
+    },
+    "gameId": "SLES_500.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_500.80/SLES_500.80_BG.png",
+      "kind": "background",
+      "bytes": 193034,
+      "width": 640,
+      "height": 480,
+      "sha256": "c079399b525ef325f15f5dc1ee59fec6b21924370a0520120ca0734cb467ab70",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_500.80/SLES_500.80_BG_00.png"
+      },
+      "gameId": "SLES_500.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Hoopz"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.89",
+  "cover": {
+    "path": "PS2/SLPM_664.89/SLPM_664.89_COV.png",
+    "kind": "cover",
+    "bytes": 98959,
+    "width": 192,
+    "height": 272,
+    "sha256": "1551d8620fcba2a67b49a7d8399c40c1863269dd3896a786f06fd564b89a7872",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66489.jpg"
+    },
+    "gameId": "SLPM_664.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MABINO STYLE [2800 COLLECTION]"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "SCUS_971.97",
+  "cover": {
+    "path": "PS2/SCUS_971.97/SCUS_971.97_COV.png",
+    "kind": "cover",
+    "bytes": 111635,
+    "width": 192,
+    "height": 272,
+    "sha256": "46b93086a6c251b3d1dcb3c08bc5afe2397d8fcc8d0912d3015a0be44ccabc0e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97197.jpg"
+    },
+    "gameId": "SCUS_971.97"
+  },
+  "disc": {
+    "path": "PS2/SCUS_971.97/SCUS_971.97_ICO.png",
+    "kind": "disc",
+    "bytes": 33081,
+    "width": 256,
+    "height": 256,
+    "sha256": "393f5a9e45d6bf76c60211c8a9d9ed4c36ccec4028bf6a6200721c3e664c744c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_971.97_ICO.png"
+    },
+    "gameId": "SCUS_971.97"
+  },
+  "background": {
+    "path": "PS2/SCUS_971.97/SCUS_971.97_BG.png",
+    "kind": "background",
+    "bytes": 207890,
+    "width": 640,
+    "height": 480,
+    "sha256": "1d0aff75ba45f416eb8eaeb61bf579f848c59f24dfb15bbfe54b6bc5633df946",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCUS_971.97/SCUS_971.97_BG_00.png"
+    },
+    "gameId": "SCUS_971.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCUS_971.97/SCUS_971.97_BG.png",
+      "kind": "background",
+      "bytes": 207890,
+      "width": 640,
+      "height": 480,
+      "sha256": "1d0aff75ba45f416eb8eaeb61bf579f848c59f24dfb15bbfe54b6bc5633df946",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.97/SCUS_971.97_BG_00.png"
+      },
+      "gameId": "SCUS_971.97"
+    },
+    {
+      "path": "PS2/SCUS_971.97/SCUS_971.97_BG_01.png",
+      "kind": "background",
+      "bytes": 190006,
+      "width": 640,
+      "height": 480,
+      "sha256": "06589148c7a2f492c6ecd24d134a36d256f2fc011cb5bb60f0af2b26aa3e6ed7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCUS_971.97/SCUS_971.97_BG_01.png"
+      },
+      "gameId": "SCUS_971.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "War of the Monsters"
+}

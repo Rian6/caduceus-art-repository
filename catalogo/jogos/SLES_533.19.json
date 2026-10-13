@@ -1,0 +1,103 @@
+{
+  "id": "SLES_533.19",
+  "cover": {
+    "path": "PS2/SLES_533.19/SLES_533.19_COV.png",
+    "kind": "cover",
+    "bytes": 70732,
+    "width": 192,
+    "height": 272,
+    "sha256": "432fff22c6cd70fe079a5865de55f264528e1092783e0fa141c19188238f61f3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53319.jpg"
+    },
+    "gameId": "SLES_533.19"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_533.19/SLES_533.19_BG.png",
+    "kind": "background",
+    "bytes": 112820,
+    "width": 640,
+    "height": 480,
+    "sha256": "6cfab7e241dac62577ac57660333671544217c4da7e8ea514c0ca3f645d5df84",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.19/SLES_533.19_BG_00.png"
+    },
+    "gameId": "SLES_533.19"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.19/SLES_533.19_BG.png",
+      "kind": "background",
+      "bytes": 112820,
+      "width": 640,
+      "height": 480,
+      "sha256": "6cfab7e241dac62577ac57660333671544217c4da7e8ea514c0ca3f645d5df84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.19/SLES_533.19_BG_00.png"
+      },
+      "gameId": "SLES_533.19"
+    },
+    {
+      "path": "PS2/SLES_533.19/SLES_533.19_BG_01.png",
+      "kind": "background",
+      "bytes": 232656,
+      "width": 640,
+      "height": 480,
+      "sha256": "2532573f0eff6f15c12ffe62ef24dd21696239216a8e293dc3cb9778153d82de",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.19/SLES_533.19_BG_01.png"
+      },
+      "gameId": "SLES_533.19"
+    },
+    {
+      "path": "PS2/SLES_533.19/SLES_533.19_BG_02.png",
+      "kind": "background",
+      "bytes": 155124,
+      "width": 640,
+      "height": 480,
+      "sha256": "02b001d032127e4e261eeeef0c9a8208aa2139742f7941eb1e9d9f886c630a40",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.19/SLES_533.19_BG_02.png"
+      },
+      "gameId": "SLES_533.19"
+    },
+    {
+      "path": "PS2/SLES_533.19/SLES_533.19_BG_03.png",
+      "kind": "background",
+      "bytes": 209915,
+      "width": 640,
+      "height": 480,
+      "sha256": "8cae7dfb867fbcad22d7ba6c94cf32afabdfaee45dfb7101060f6f73a6ce630c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.19/SLES_533.19_BG_03.png"
+      },
+      "gameId": "SLES_533.19"
+    },
+    {
+      "path": "PS2/SLES_533.19/SLES_533.19_BG_04.png",
+      "kind": "background",
+      "bytes": 130420,
+      "width": 640,
+      "height": 480,
+      "sha256": "f92c7b47fae2817d0c71f11a3c7d651a1a0da32c032ce166d11af7095cd0d455",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.19/SLES_533.19_BG_04.png"
+      },
+      "gameId": "SLES_533.19"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Resident Evil - Outbreak - File #2"
+}

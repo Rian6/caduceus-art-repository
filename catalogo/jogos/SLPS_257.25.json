@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.25",
+  "cover": {
+    "path": "PS2/SLPS_257.25/SLPS_257.25_COV.png",
+    "kind": "cover",
+    "bytes": 69252,
+    "width": 192,
+    "height": 272,
+    "sha256": "0768ce3bcac14238e6d69cf507eb5c2bf25d784df78aca28a6f49a7acdfb0966",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25725.jpg"
+    },
+    "gameId": "SLPS_257.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "King'S Field - Dark Side Box"
+}

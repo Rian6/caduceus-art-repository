@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.79",
+  "cover": {
+    "path": "PS2/SLPM_550.79/SLPM_550.79_COV.png",
+    "kind": "cover",
+    "bytes": 95222,
+    "width": 192,
+    "height": 272,
+    "sha256": "31fd39312e0642c60b85d0190ef4ab1845f095b042d3995d0ed9e9280b2374cd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55079.jpg"
+    },
+    "gameId": "SLPM_550.79"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SCARLETT - NICHIJOU NO KYOUKAISEN"
+}

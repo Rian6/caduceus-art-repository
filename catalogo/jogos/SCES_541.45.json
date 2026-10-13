@@ -1,0 +1,104 @@
+{
+  "id": "SCES_541.45",
+  "cover": {
+    "path": "PS2/SCES_541.45/SCES_541.45_COV.png",
+    "kind": "cover",
+    "bytes": 98151,
+    "width": 192,
+    "height": 272,
+    "sha256": "b179c28daa870ba230182ba6aee2c71ded2f2f4ff4fff9d508cc0f46193a5e94",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54145.jpg"
+    },
+    "gameId": "SCES_541.45"
+  },
+  "disc": {
+    "path": "PS2/SCES_541.45/SCES_541.45_ICO.png",
+    "kind": "disc",
+    "bytes": 11386,
+    "width": 128,
+    "height": 128,
+    "sha256": "5b9a30f0b3a153fb118bafd65d6752f471174e9a5749373af062e83197464630",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_541.45_ICO.png"
+    },
+    "gameId": "SCES_541.45"
+  },
+  "background": {
+    "path": "PS2/SCES_541.45/SCES_541.45_BG.png",
+    "kind": "background",
+    "bytes": 98471,
+    "width": 640,
+    "height": 480,
+    "sha256": "fb78e7b4500239bcc7d5a42849c0527eda841f335b97252d7489ae8fe388774f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_541.45/SCES_541.45_BG_00.png"
+    },
+    "gameId": "SCES_541.45"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_541.45/SCES_541.45_BG.png",
+      "kind": "background",
+      "bytes": 98471,
+      "width": 640,
+      "height": 480,
+      "sha256": "fb78e7b4500239bcc7d5a42849c0527eda841f335b97252d7489ae8fe388774f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_541.45/SCES_541.45_BG_00.png"
+      },
+      "gameId": "SCES_541.45"
+    },
+    {
+      "path": "PS2/SCES_541.45/SCES_541.45_BG_01.png",
+      "kind": "background",
+      "bytes": 170940,
+      "width": 640,
+      "height": 480,
+      "sha256": "73fd9e591d56422b3186fbd3e98d5e974033e882073851f7d3c2f8ebbe77701f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_541.45/SCES_541.45_BG_01.png"
+      },
+      "gameId": "SCES_541.45"
+    },
+    {
+      "path": "PS2/SCES_541.45/SCES_541.45_BG_02.png",
+      "kind": "background",
+      "bytes": 41479,
+      "width": 640,
+      "height": 480,
+      "sha256": "9c584ffa6448645613f32def3be9248e2370b8dc346f912f0d993efb90c71490",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_541.45/SCES_541.45_BG_02.png"
+      },
+      "gameId": "SCES_541.45"
+    },
+    {
+      "path": "PS2/SCES_541.45/SCES_541.45_BG_03.png",
+      "kind": "background",
+      "bytes": 142319,
+      "width": 640,
+      "height": 480,
+      "sha256": "46915a7507ccd5364aaf919da18c120700b70754946f12f257b41dcb9fb0fc96",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_541.45/SCES_541.45_BG_03.png"
+      },
+      "gameId": "SCES_541.45"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEMMINGS"
+}

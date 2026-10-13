@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_209.49",
+  "cover": {
+    "path": "PS2/SLUS_209.49/SLUS_209.49_COV.png",
+    "kind": "cover",
+    "bytes": 106511,
+    "width": 192,
+    "height": 272,
+    "sha256": "9370eb7059dcf0f0180aa12aa392c9cc7f268a156b9bbeb6acd16b17b8a333ce",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20949.jpg"
+    },
+    "gameId": "SLUS_209.49"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.49/SLUS_209.49_ICO.png",
+    "kind": "disc",
+    "bytes": 36188,
+    "width": 256,
+    "height": 256,
+    "sha256": "2c129a106343b8cae4a4a212db4ee1254c9cba3980a3f6b36b469978c5154031",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_209.49_ICO.png"
+    },
+    "gameId": "SLUS_209.49"
+  },
+  "background": {
+    "path": "PS2/SLUS_209.49/SLUS_209.49_BG.png",
+    "kind": "background",
+    "bytes": 197315,
+    "width": 640,
+    "height": 480,
+    "sha256": "9beb11218f04645dd28df30ca86164044e16d10773c114823d604272852ee232",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_209.49/SLUS_209.49_BG_00.png"
+    },
+    "gameId": "SLUS_209.49"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_209.49/SLUS_209.49_BG.png",
+      "kind": "background",
+      "bytes": 197315,
+      "width": 640,
+      "height": 480,
+      "sha256": "9beb11218f04645dd28df30ca86164044e16d10773c114823d604272852ee232",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.49/SLUS_209.49_BG_00.png"
+      },
+      "gameId": "SLUS_209.49"
+    },
+    {
+      "path": "PS2/SLUS_209.49/SLUS_209.49_BG_01.png",
+      "kind": "background",
+      "bytes": 208934,
+      "width": 640,
+      "height": 480,
+      "sha256": "cb6a331b9362760afe4b02579ada62211e386975da04d4415d2d352928147013",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.49/SLUS_209.49_BG_01.png"
+      },
+      "gameId": "SLUS_209.49"
+    },
+    {
+      "path": "PS2/SLUS_209.49/SLUS_209.49_BG_02.png",
+      "kind": "background",
+      "bytes": 210365,
+      "width": 640,
+      "height": 480,
+      "sha256": "0de87f17b55bc10312d93d79ac60fe4850579c54bb0325a05cc4f16c52194cb7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.49/SLUS_209.49_BG_02.png"
+      },
+      "gameId": "SLUS_209.49"
+    },
+    {
+      "path": "PS2/SLUS_209.49/SLUS_209.49_BG_03.png",
+      "kind": "background",
+      "bytes": 184512,
+      "width": 640,
+      "height": 480,
+      "sha256": "b576ae3ac5d4dfa77be047d66c0b68f25888672261086bb87293f52e0c5ad46a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.49/SLUS_209.49_BG_03.png"
+      },
+      "gameId": "SLUS_209.49"
+    },
+    {
+      "path": "PS2/SLUS_209.49/SLUS_209.49_BG_04.png",
+      "kind": "background",
+      "bytes": 132037,
+      "width": 640,
+      "height": 480,
+      "sha256": "87eec3e9029c74b4b2796ae1b93edceec87a568b7d43cc996790e8fa12d4c133",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_209.49/SLUS_209.49_BG_04.png"
+      },
+      "gameId": "SLUS_209.49"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Street Fighter Anniversary Collection"
+}

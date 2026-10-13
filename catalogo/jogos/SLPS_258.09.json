@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.09",
+  "cover": {
+    "path": "PS2/SLPS_258.09/SLPS_258.09_COV.png",
+    "kind": "cover",
+    "bytes": 107878,
+    "width": 192,
+    "height": 272,
+    "sha256": "6cf7812abd122ea0333c027a7d7360da8b17944ec428fd275a64a657e9835266",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25809.jpg"
+    },
+    "gameId": "SLPS_258.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GINTAMA GIN-SAN TO ISSHO! BOKU NO KABUKI MACHI NIKKI"
+}

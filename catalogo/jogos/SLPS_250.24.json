@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_250.24",
+  "cover": {
+    "path": "PS2/SLPS_250.24/SLPS_250.24_COV.png",
+    "kind": "cover",
+    "bytes": 77966,
+    "width": 192,
+    "height": 272,
+    "sha256": "59b09756909f45c4a5c73b8a5aa9ad22174b60856e3266d0ba4ec097e42aff90",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25024.jpg"
+    },
+    "gameId": "SLPS_250.24"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DISNEY'S DINOSAUR"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_514.41",
+  "cover": {
+    "path": "PS2/SLES_514.41/SLES_514.41_COV.png",
+    "kind": "cover",
+    "bytes": 82833,
+    "width": 192,
+    "height": 272,
+    "sha256": "af4e3aff0ac715b2022adb590764ae32474eb29509dbd5c469ce28d4e391cbd1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51441.jpg"
+    },
+    "gameId": "SLES_514.41"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_514.41/SLES_514.41_BG.png",
+    "kind": "background",
+    "bytes": 174860,
+    "width": 640,
+    "height": 480,
+    "sha256": "431ced732513cf5ae1a97159ca9ce0008c947df3850a830e43cb0ced542ba600",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_514.41/SLES_514.41_BG_00.png"
+    },
+    "gameId": "SLES_514.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_514.41/SLES_514.41_BG.png",
+      "kind": "background",
+      "bytes": 174860,
+      "width": 640,
+      "height": 480,
+      "sha256": "431ced732513cf5ae1a97159ca9ce0008c947df3850a830e43cb0ced542ba600",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_514.41/SLES_514.41_BG_00.png"
+      },
+      "gameId": "SLES_514.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 3: Xtreme Legends"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLES_516.22",
+  "cover": {
+    "path": "PS2/SLES_516.22/SLES_516.22_COV.png",
+    "kind": "cover",
+    "bytes": 103436,
+    "width": 192,
+    "height": 272,
+    "sha256": "c214b7bcd7f88b7c8ea82b717afd6bf7a46055dfa304f622a291d61a02a295e4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51622.jpg"
+    },
+    "gameId": "SLES_516.22"
+  },
+  "disc": {
+    "path": "PS2/SLES_516.22/SLES_516.22_ICO.png",
+    "kind": "disc",
+    "bytes": 11347,
+    "width": 128,
+    "height": 128,
+    "sha256": "e2593b05e9f32f7fd3a959327ebe9dbe4fc2017ba48be9bb8b695f69600628be",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_516.22_ICO.png"
+    },
+    "gameId": "SLES_516.22"
+  },
+  "background": {
+    "path": "PS2/SLES_516.22/SLES_516.22_BG.png",
+    "kind": "background",
+    "bytes": 184106,
+    "width": 640,
+    "height": 480,
+    "sha256": "8976d89803fb33f98aaa3bef3312e25ea47770b50ae40c85f986187364ef30ef",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_516.22/SLES_516.22_BG_00.png"
+    },
+    "gameId": "SLES_516.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_516.22/SLES_516.22_BG.png",
+      "kind": "background",
+      "bytes": 184106,
+      "width": 640,
+      "height": 480,
+      "sha256": "8976d89803fb33f98aaa3bef3312e25ea47770b50ae40c85f986187364ef30ef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.22/SLES_516.22_BG_00.png"
+      },
+      "gameId": "SLES_516.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Maxi Quiz du Foot Français"
+}

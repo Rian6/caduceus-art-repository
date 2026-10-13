@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_150.42",
+  "cover": {
+    "path": "PS2/SCPS_150.42/SCPS_150.42_COV.png",
+    "kind": "cover",
+    "bytes": 56000,
+    "width": 192,
+    "height": 272,
+    "sha256": "daccf05654d558e59f6e9c501fa66c337890595158a0e5bf101651281fe16f91",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.42/SCPS_150.42_COV.png"
+    },
+    "gameId": "SCPS_150.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DekaVoice"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "PAPX_905.02",
+  "cover": {
+    "path": "PS2/PAPX_905.02/PAPX_905.02_COV.png",
+    "kind": "cover",
+    "bytes": 52400,
+    "width": 192,
+    "height": 272,
+    "sha256": "ef61a674a9f56b99e1203323cc04238ef3ee98d469b74bcde786418c1066c130",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/PAPX_905.02/PAPX_905.02_COV.png"
+    },
+    "gameId": "PAPX_905.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Yamanote-sen: Train Simulator Real"
+}

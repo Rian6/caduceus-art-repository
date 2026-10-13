@@ -1,0 +1,77 @@
+{
+  "id": "SLPM_627.26",
+  "cover": {
+    "path": "PS2/SLPM_627.26/SLPM_627.26_COV.png",
+    "kind": "cover",
+    "bytes": 95927,
+    "width": 192,
+    "height": 272,
+    "sha256": "115401d4ceafcdfd4b286feb88d8bdc4b3dacdb81fb7d439c2de557b9f7fb113",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62726.jpg"
+    },
+    "gameId": "SLPM_627.26"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_627.26/SLPM_627.26_BG.png",
+    "kind": "background",
+    "bytes": 183141,
+    "width": 640,
+    "height": 480,
+    "sha256": "13219a5409401276f68e92d4793da08d46a1f39280d796c7f4b5a1d612c8a044",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_627.26/SLPM_627.26_BG_00.png"
+    },
+    "gameId": "SLPM_627.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_627.26/SLPM_627.26_BG.png",
+      "kind": "background",
+      "bytes": 183141,
+      "width": 640,
+      "height": 480,
+      "sha256": "13219a5409401276f68e92d4793da08d46a1f39280d796c7f4b5a1d612c8a044",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.26/SLPM_627.26_BG_00.png"
+      },
+      "gameId": "SLPM_627.26"
+    },
+    {
+      "path": "PS2/SLPM_627.26/SLPM_627.26_BG_01.png",
+      "kind": "background",
+      "bytes": 113939,
+      "width": 640,
+      "height": 480,
+      "sha256": "fa63a294317842a046fc8df8e3f058860a8c9755a9aeec760bcfe4435047a706",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.26/SLPM_627.26_BG_01.png"
+      },
+      "gameId": "SLPM_627.26"
+    },
+    {
+      "path": "PS2/SLPM_627.26/SLPM_627.26_BG_02.png",
+      "kind": "background",
+      "bytes": 118275,
+      "width": 640,
+      "height": 480,
+      "sha256": "e2e7170d417d9b89cae0eada56945f1ecdb2411c876c6997cb9a34ac8421f4f1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_627.26/SLPM_627.26_BG_02.png"
+      },
+      "gameId": "SLPM_627.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHOOTING LOVE - TRIZEAL"
+}

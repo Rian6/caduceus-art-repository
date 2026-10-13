@@ -1,0 +1,78 @@
+{
+  "id": "SLES_518.65",
+  "cover": {
+    "path": "PS2/SLES_518.65/SLES_518.65_COV.png",
+    "kind": "cover",
+    "bytes": 93787,
+    "width": 192,
+    "height": 272,
+    "sha256": "e035043025caca4d041241c172d5c32267c0a9ca84256500b5dbfbc302b6f6d9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51865.jpg"
+    },
+    "gameId": "SLES_518.65"
+  },
+  "disc": {
+    "path": "PS2/SLES_518.65/SLES_518.65_ICO.png",
+    "kind": "disc",
+    "bytes": 9571,
+    "width": 128,
+    "height": 128,
+    "sha256": "fc7f81ed619c510745ef174a0aa3099561907576d7b15d31c4df7a01dd0b5da7",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_518.65_ICO.png"
+    },
+    "gameId": "SLES_518.65"
+  },
+  "background": {
+    "path": "PS2/SLES_518.65/SLES_518.65_BG.png",
+    "kind": "background",
+    "bytes": 171059,
+    "width": 640,
+    "height": 480,
+    "sha256": "51f8e1921e482ac70f46be9fd2b884ee2d7e69b891ea0c7da314b151096be447",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.65/SLES_518.65_BG_00.png"
+    },
+    "gameId": "SLES_518.65"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.65/SLES_518.65_BG.png",
+      "kind": "background",
+      "bytes": 171059,
+      "width": 640,
+      "height": 480,
+      "sha256": "51f8e1921e482ac70f46be9fd2b884ee2d7e69b891ea0c7da314b151096be447",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.65/SLES_518.65_BG_00.png"
+      },
+      "gameId": "SLES_518.65"
+    },
+    {
+      "path": "PS2/SLES_518.65/SLES_518.65_BG_01.png",
+      "kind": "background",
+      "bytes": 146861,
+      "width": 640,
+      "height": 480,
+      "sha256": "aee5f5dbf2931f1cecefa9e18934dbe11c7bf081d8847a913833cb5afeccae17",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.65/SLES_518.65_BG_01.png"
+      },
+      "gameId": "SLES_518.65"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HEARTBEAT BOXING"
+}

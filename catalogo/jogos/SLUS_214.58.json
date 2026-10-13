@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_214.58",
+  "cover": {
+    "path": "PS2/SLUS_214.58/SLUS_214.58_COV.png",
+    "kind": "cover",
+    "bytes": 91576,
+    "width": 192,
+    "height": 272,
+    "sha256": "96ac61dce86d9809caeefe85a30d5381aab0157b84e23478a88f570b127d1347",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21458.jpg"
+    },
+    "gameId": "SLUS_214.58"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.58/SLUS_214.58_ICO.png",
+    "kind": "disc",
+    "bytes": 32076,
+    "width": 256,
+    "height": 256,
+    "sha256": "46c32f926acca3a2e2721cc99b5f95a6fe94ce54108fd5e7ef5cadb60915f565",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.58_ICO.png"
+    },
+    "gameId": "SLUS_214.58"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL '07"
+}

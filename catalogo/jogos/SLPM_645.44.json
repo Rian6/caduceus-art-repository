@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_645.44",
+  "cover": {
+    "path": "PS2/SLPM_645.44/SLPM_645.44_COV.png",
+    "kind": "cover",
+    "bytes": 104037,
+    "width": 192,
+    "height": 272,
+    "sha256": "e1f71ccb94a00dca56c0978189e9825a848e67147aac1f737ba7351ae99a2cfc",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-64544.jpg"
+    },
+    "gameId": "SLPM_645.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TETSU 1 - DENSHA DE BATTLE! WORLD GRAND PRIX"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_201.33",
+  "cover": {
+    "path": "PS2/SLUS_201.33/SLUS_201.33_COV.png",
+    "kind": "cover",
+    "bytes": 97463,
+    "width": 192,
+    "height": 272,
+    "sha256": "7daffd69ba8e733ecde0e8d179e29f8d0d2b1a478878d1dbd2d29e8cff18762b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20133.jpg"
+    },
+    "gameId": "SLUS_201.33"
+  },
+  "disc": {
+    "path": "PS2/SLUS_201.33/SLUS_201.33_ICO.png",
+    "kind": "disc",
+    "bytes": 31493,
+    "width": 256,
+    "height": 256,
+    "sha256": "c8029d8c6f2b1ef0babe29f39cf1d4a3de84d13ded6a687c02dbb973cc052eb3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_201.33_ICO.png"
+    },
+    "gameId": "SLUS_201.33"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "High Heat Major League Baseball 2002"
+}

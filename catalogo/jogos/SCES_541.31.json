@@ -1,0 +1,90 @@
+{
+  "id": "SCES_541.31",
+  "cover": {
+    "path": "PS2/SCES_541.31/SCES_541.31_COV.png",
+    "kind": "cover",
+    "bytes": 89187,
+    "width": 192,
+    "height": 272,
+    "sha256": "aa25d24cdbb755a471d12dcfe29bcf29d1132af467e589548b1ca096ef482ecf",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-54131.jpg"
+    },
+    "gameId": "SCES_541.31"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_541.31/SCES_541.31_BG.png",
+    "kind": "background",
+    "bytes": 154547,
+    "width": 640,
+    "height": 480,
+    "sha256": "59dda410b1160b061751bb8e0edd1b17755a87818d4102ab076ecbe8bda76dae",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_541.31/SCES_541.31_BG_00.png"
+    },
+    "gameId": "SCES_541.31"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_541.31/SCES_541.31_BG.png",
+      "kind": "background",
+      "bytes": 154547,
+      "width": 640,
+      "height": 480,
+      "sha256": "59dda410b1160b061751bb8e0edd1b17755a87818d4102ab076ecbe8bda76dae",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_541.31/SCES_541.31_BG_00.png"
+      },
+      "gameId": "SCES_541.31"
+    },
+    {
+      "path": "PS2/SCES_541.31/SCES_541.31_BG_01.png",
+      "kind": "background",
+      "bytes": 162329,
+      "width": 640,
+      "height": 480,
+      "sha256": "cea1eca5ea13bfe02464277de03153e222b3399e69a21ff06f645e4eabf6ac0d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_541.31/SCES_541.31_BG_01.png"
+      },
+      "gameId": "SCES_541.31"
+    },
+    {
+      "path": "PS2/SCES_541.31/SCES_541.31_BG_02.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_541.31/SCES_541.31_BG_02.png"
+      },
+      "gameId": "SCES_541.31"
+    },
+    {
+      "path": "PS2/SCES_541.31/SCES_541.31_BG_03.png",
+      "kind": "background",
+      "bytes": 185012,
+      "width": 640,
+      "height": 480,
+      "sha256": "bf03c3f5b74ccf6b06ba91875ca284c118077fb66df1306f8ca37d1db11e28b9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_541.31/SCES_541.31_BG_03.png"
+      },
+      "gameId": "SCES_541.31"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Anthems"
+}

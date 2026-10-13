@@ -1,0 +1,51 @@
+{
+  "id": "SLKA_253.33",
+  "cover": {
+    "path": "PS2/SLKA_253.33/SLKA_253.33_COV.png",
+    "kind": "cover",
+    "bytes": 91476,
+    "width": 192,
+    "height": 272,
+    "sha256": "ed91d6ba642b934312b35c446f91fb29a8e11a4fa09d1bb4c7969dd002905a63",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25333.jpg"
+    },
+    "gameId": "SLKA_253.33"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLKA_253.33/SLKA_253.33_BG.png",
+    "kind": "background",
+    "bytes": 172516,
+    "width": 640,
+    "height": 480,
+    "sha256": "c5d7afd36d721d15d1922104b394c63db89dcee7ac36df4cd8e46ec22f1c9f47",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.33/SLKA_253.33_BG_00.png"
+    },
+    "gameId": "SLKA_253.33"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLKA_253.33/SLKA_253.33_BG.png",
+      "kind": "background",
+      "bytes": 172516,
+      "width": 640,
+      "height": 480,
+      "sha256": "c5d7afd36d721d15d1922104b394c63db89dcee7ac36df4cd8e46ec22f1c9f47",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLKA_253.33/SLKA_253.33_BG_00.png"
+      },
+      "gameId": "SLKA_253.33"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL SLUG COMPLETE"
+}

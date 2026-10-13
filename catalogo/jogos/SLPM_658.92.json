@@ -1,0 +1,104 @@
+{
+  "id": "SLPM_658.92",
+  "cover": {
+    "path": "PS2/SLPM_658.92/SLPM_658.92_COV.png",
+    "kind": "cover",
+    "bytes": 81007,
+    "width": 192,
+    "height": 272,
+    "sha256": "01f8be1093a35703505ca3f8158c82ccbaffca4936640279352a273db6a841e4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65892.jpg"
+    },
+    "gameId": "SLPM_658.92"
+  },
+  "disc": {
+    "path": "PS2/SLPM_658.92/SLPM_658.92_ICO.png",
+    "kind": "disc",
+    "bytes": 10864,
+    "width": 128,
+    "height": 128,
+    "sha256": "79408ce214f0aa235da0eb03e78354227ef9447200dde9de17281261e5e390ae",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_658.92_ICO.png"
+    },
+    "gameId": "SLPM_658.92"
+  },
+  "background": {
+    "path": "PS2/SLPM_658.92/SLPM_658.92_BG.png",
+    "kind": "background",
+    "bytes": 149399,
+    "width": 640,
+    "height": 480,
+    "sha256": "7ca04be32fc1d45832ed0b50ac97b5400bd31c47d9c86d19243d7974be1b6bf8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_658.92/SLPM_658.92_BG_00.png"
+    },
+    "gameId": "SLPM_658.92"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_658.92/SLPM_658.92_BG.png",
+      "kind": "background",
+      "bytes": 149399,
+      "width": 640,
+      "height": 480,
+      "sha256": "7ca04be32fc1d45832ed0b50ac97b5400bd31c47d9c86d19243d7974be1b6bf8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.92/SLPM_658.92_BG_00.png"
+      },
+      "gameId": "SLPM_658.92"
+    },
+    {
+      "path": "PS2/SLPM_658.92/SLPM_658.92_BG_01.png",
+      "kind": "background",
+      "bytes": 191321,
+      "width": 640,
+      "height": 480,
+      "sha256": "a4cb460054779b74c8ea0eb24a1f9619c694d00aea65a63e8037652cdd3a3f1d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.92/SLPM_658.92_BG_01.png"
+      },
+      "gameId": "SLPM_658.92"
+    },
+    {
+      "path": "PS2/SLPM_658.92/SLPM_658.92_BG_02.png",
+      "kind": "background",
+      "bytes": 206533,
+      "width": 640,
+      "height": 480,
+      "sha256": "cf22846bb2692ca79e1dbd6a94cb73d364a907b62e4fcb0ad499fb25b71888b9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.92/SLPM_658.92_BG_02.png"
+      },
+      "gameId": "SLPM_658.92"
+    },
+    {
+      "path": "PS2/SLPM_658.92/SLPM_658.92_BG_03.png",
+      "kind": "background",
+      "bytes": 166056,
+      "width": 640,
+      "height": 480,
+      "sha256": "66ce1001416b4a544b6d58923d0be5522407f225ea2ee7fd1c3d39ae2b3096a0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_658.92/SLPM_658.92_BG_03.png"
+      },
+      "gameId": "SLPM_658.92"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zill O'll Infinite"
+}

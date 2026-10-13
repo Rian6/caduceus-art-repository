@@ -1,0 +1,51 @@
+{
+  "id": "SLES_550.18",
+  "cover": {
+    "path": "PS2/SLES_550.18/SLES_550.18_COV.png",
+    "kind": "cover",
+    "bytes": 73558,
+    "width": 192,
+    "height": 272,
+    "sha256": "2f6f1e8715f436a9e5a53c47ad37b952b64f0f5363d0dc5cb1c69f95c347899e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55018.jpg"
+    },
+    "gameId": "SLES_550.18"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_550.18/SLES_550.18_BG.png",
+    "kind": "background",
+    "bytes": 188422,
+    "width": 640,
+    "height": 480,
+    "sha256": "4acd0e30da782ef96d9dc9db79f0be23a163b9e586cad0822dfebbaf691006d1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_550.18/SLES_550.18_BG_00.png"
+    },
+    "gameId": "SLES_550.18"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_550.18/SLES_550.18_BG.png",
+      "kind": "background",
+      "bytes": 188422,
+      "width": 640,
+      "height": 480,
+      "sha256": "4acd0e30da782ef96d9dc9db79f0be23a163b9e586cad0822dfebbaf691006d1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_550.18/SLES_550.18_BG_00.png"
+      },
+      "gameId": "SLES_550.18"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHIN MEGAMI TENSEI - PERSONA 3"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.66",
+  "cover": {
+    "path": "PS2/SLPM_654.66/SLPM_654.66_COV.png",
+    "kind": "cover",
+    "bytes": 84821,
+    "width": 192,
+    "height": 272,
+    "sha256": "64594c7af6f9669b115a26fe8775125c99b185a0cbbba76460c43e4d09e0aa89",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65466.jpg"
+    },
+    "gameId": "SLPM_654.66"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yomigaeri - Refrain"
+}

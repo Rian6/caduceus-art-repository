@@ -1,0 +1,25 @@
+{
+  "id": "SCES_550.96",
+  "cover": {
+    "path": "PS2/SCES_550.96/SCES_550.96_COV.png",
+    "kind": "cover",
+    "bytes": 104128,
+    "width": 192,
+    "height": 272,
+    "sha256": "277e9e0a686d721b817eeb70054e1af3a97b2773d1878487c47675be5a53ad7d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55096.jpg"
+    },
+    "gameId": "SCES_550.96"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! The Pop Quiz"
+}

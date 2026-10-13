@@ -1,0 +1,64 @@
+{
+  "id": "SLPS_201.81",
+  "cover": {
+    "path": "PS2/SLPS_201.81/SLPS_201.81_COV.png",
+    "kind": "cover",
+    "bytes": 94687,
+    "width": 192,
+    "height": 272,
+    "sha256": "1a03d1c4e2fdd5210ce644b05df8c7309a2becdad8ab31d6fea6438b562501e6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20181.jpg"
+    },
+    "gameId": "SLPS_201.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_201.81/SLPS_201.81_BG.png",
+    "kind": "background",
+    "bytes": 156395,
+    "width": 640,
+    "height": 480,
+    "sha256": "3eb64a0fd9daa79fa41aaa01b13784bb1429c76b0cbae70c40ff9e283546a73f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_201.81/SLPS_201.81_BG_00.png"
+    },
+    "gameId": "SLPS_201.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_201.81/SLPS_201.81_BG.png",
+      "kind": "background",
+      "bytes": 156395,
+      "width": 640,
+      "height": 480,
+      "sha256": "3eb64a0fd9daa79fa41aaa01b13784bb1429c76b0cbae70c40ff9e283546a73f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.81/SLPS_201.81_BG_00.png"
+      },
+      "gameId": "SLPS_201.81"
+    },
+    {
+      "path": "PS2/SLPS_201.81/SLPS_201.81_BG_01.png",
+      "kind": "background",
+      "bytes": 172150,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3fc5220f07721790c789446585a618884aeb92e16048ddd7faec6d36eab967c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_201.81/SLPS_201.81_BG_01.png"
+      },
+      "gameId": "SLPS_201.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ALPINE RACER 3"
+}

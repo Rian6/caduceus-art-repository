@@ -1,0 +1,25 @@
+{
+  "id": "SLES_526.62",
+  "cover": {
+    "path": "PS2/SLES_526.62/SLES_526.62_COV.png",
+    "kind": "cover",
+    "bytes": 94560,
+    "width": 192,
+    "height": 272,
+    "sha256": "c92d3b95a8acbcd90937271ea2efb0f7d51025ac2adacc9d0abae1b70101900e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52662.jpg"
+    },
+    "gameId": "SLES_526.62"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Club Football 2005 - Newcastle United"
+}

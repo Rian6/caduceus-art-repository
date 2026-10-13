@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_212.97",
+  "cover": {
+    "path": "PS2/SLUS_212.97/SLUS_212.97_COV.png",
+    "kind": "cover",
+    "bytes": 107448,
+    "width": 192,
+    "height": 272,
+    "sha256": "51e89f4f435a30931e6ce3b7ccd6e957225cce2b4a1cc29a5196313b6b37c593",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21297.jpg"
+    },
+    "gameId": "SLUS_212.97"
+  },
+  "disc": {
+    "path": "PS2/SLUS_212.97/SLUS_212.97_ICO.png",
+    "kind": "disc",
+    "bytes": 35354,
+    "width": 256,
+    "height": 256,
+    "sha256": "df24de0fa944c3d33d1e132f1bcdb8a492b8021f286bda93981d8090d6effe4d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_212.97_ICO.png"
+    },
+    "gameId": "SLUS_212.97"
+  },
+  "background": {
+    "path": "PS2/SLUS_212.97/SLUS_212.97_BG.png",
+    "kind": "background",
+    "bytes": 242762,
+    "width": 640,
+    "height": 480,
+    "sha256": "1e877b95d803e83912e6ab05e649e809b1b9ca587199082d0156f4531bcddbae",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_212.97/SLUS_212.97_BG_00.png"
+    },
+    "gameId": "SLUS_212.97"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_212.97/SLUS_212.97_BG.png",
+      "kind": "background",
+      "bytes": 242762,
+      "width": 640,
+      "height": 480,
+      "sha256": "1e877b95d803e83912e6ab05e649e809b1b9ca587199082d0156f4531bcddbae",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.97/SLUS_212.97_BG_00.png"
+      },
+      "gameId": "SLUS_212.97"
+    },
+    {
+      "path": "PS2/SLUS_212.97/SLUS_212.97_BG_01.png",
+      "kind": "background",
+      "bytes": 115030,
+      "width": 640,
+      "height": 480,
+      "sha256": "ac8664c4f5706ca2450d9d06cc978cb2822296f8079771b7ab17231668d60e41",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.97/SLUS_212.97_BG_01.png"
+      },
+      "gameId": "SLUS_212.97"
+    },
+    {
+      "path": "PS2/SLUS_212.97/SLUS_212.97_BG_02.png",
+      "kind": "background",
+      "bytes": 230109,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f02f6ef1106969fb6ddcc0a2b53d15dfb52f27ef65814ae33380e7a53a857a3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.97/SLUS_212.97_BG_02.png"
+      },
+      "gameId": "SLUS_212.97"
+    },
+    {
+      "path": "PS2/SLUS_212.97/SLUS_212.97_BG_03.png",
+      "kind": "background",
+      "bytes": 103045,
+      "width": 640,
+      "height": 480,
+      "sha256": "a7a8933d16584bf37d74535d316654adeb8d6216a3faec962d5e576927879349",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.97/SLUS_212.97_BG_03.png"
+      },
+      "gameId": "SLUS_212.97"
+    },
+    {
+      "path": "PS2/SLUS_212.97/SLUS_212.97_BG_04.png",
+      "kind": "background",
+      "bytes": 206438,
+      "width": 640,
+      "height": 480,
+      "sha256": "707723290e3ec61b1b9db76ac24eeb8be48217a3316d0de5f60c1ef3e8da4f72",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_212.97/SLUS_212.97_BG_04.png"
+      },
+      "gameId": "SLUS_212.97"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEVIL KINGS"
+}

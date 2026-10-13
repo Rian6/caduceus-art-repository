@@ -1,0 +1,25 @@
+{
+  "id": "SLES_500.58",
+  "cover": {
+    "path": "PS2/SLES_500.58/SLES_500.58_COV.png",
+    "kind": "cover",
+    "bytes": 105675,
+    "width": 192,
+    "height": 272,
+    "sha256": "0f8c1bac448ec78fbefb5a7bb4e51c1b3c16129f3a11f22883f8eab3ffe8bb33",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50058.jpg"
+    },
+    "gameId": "SLES_500.58"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dynasty Warriors 2"
+}

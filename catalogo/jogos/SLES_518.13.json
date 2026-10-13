@@ -1,0 +1,65 @@
+{
+  "id": "SLES_518.13",
+  "cover": {
+    "path": "PS2/SLES_518.13/SLES_518.13_COV.png",
+    "kind": "cover",
+    "bytes": 99848,
+    "width": 192,
+    "height": 272,
+    "sha256": "9d943acdb68e9dc8ff1303feb6be05d9f3e6f04036375b401713a1621bfd55b2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51813.jpg"
+    },
+    "gameId": "SLES_518.13"
+  },
+  "disc": {
+    "path": "PS2/SLES_518.13/SLES_518.13_ICO.png",
+    "kind": "disc",
+    "bytes": 11995,
+    "width": 128,
+    "height": 128,
+    "sha256": "435abe235f630ca91c1899e5903422a97859d84ec87815aa8938af9a20e0ab06",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_518.13_ICO.png"
+    },
+    "gameId": "SLES_518.13"
+  },
+  "background": {
+    "path": "PS2/SLES_518.13/SLES_518.13_BG.png",
+    "kind": "background",
+    "bytes": 149833,
+    "width": 640,
+    "height": 480,
+    "sha256": "58d78c0a17d7e6ac381fc1c31745eb19efb04b81af2aa1c9d706c00c17767e05",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.13/SLES_518.13_BG_00.png"
+    },
+    "gameId": "SLES_518.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.13/SLES_518.13_BG.png",
+      "kind": "background",
+      "bytes": 149833,
+      "width": 640,
+      "height": 480,
+      "sha256": "58d78c0a17d7e6ac381fc1c31745eb19efb04b81af2aa1c9d706c00c17767e05",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.13/SLES_518.13_BG_00.png"
+      },
+      "gameId": "SLES_518.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "EUROPEAN TENNIS PRO"
+}

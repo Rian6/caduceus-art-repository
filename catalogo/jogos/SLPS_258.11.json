@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.11",
+  "cover": {
+    "path": "PS2/SLPS_258.11/SLPS_258.11_COV.png",
+    "kind": "cover",
+    "bytes": 83634,
+    "width": 192,
+    "height": 272,
+    "sha256": "182e9d7866e8f24d37ec77893369eca3d6520f04f442144d09b579136ce47090",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25811.jpg"
+    },
+    "gameId": "SLPS_258.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HAPPINESS! DE-LUCKS [BEST COLLECTION]"
+}

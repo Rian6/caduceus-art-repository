@@ -1,0 +1,24 @@
+{
+  "id": "MJP2_006.05",
+  "cover": {
+    "path": "PS2/MJP2_006.05/MJP2_006.05_COV.png",
+    "kind": "cover",
+    "bytes": 107596,
+    "width": 192,
+    "height": 272,
+    "sha256": "606c937038b755cd54744eace3055d198ca1d6eb344fd27860a2851d07603a8b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/MJP2-00605.jpg"
+    },
+    "gameId": "MJP2_006.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": []
+}

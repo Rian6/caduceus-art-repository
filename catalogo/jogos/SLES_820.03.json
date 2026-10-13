@@ -1,0 +1,25 @@
+{
+  "id": "SLES_820.03",
+  "cover": {
+    "path": "PS2/SLES_820.03/SLES_820.03_COV.png",
+    "kind": "cover",
+    "bytes": 83165,
+    "width": 192,
+    "height": 272,
+    "sha256": "5c0c39bc2b0635ac27718e2ee9c772c71bee3600e242e981cdae490d86edf680",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-82003.jpg"
+    },
+    "gameId": "SLES_820.03"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUMMONER"
+}

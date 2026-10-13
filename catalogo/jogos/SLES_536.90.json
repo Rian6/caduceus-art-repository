@@ -1,0 +1,64 @@
+{
+  "id": "SLES_536.90",
+  "cover": {
+    "path": "PS2/SLES_536.90/SLES_536.90_COV.png",
+    "kind": "cover",
+    "bytes": 98614,
+    "width": 192,
+    "height": 272,
+    "sha256": "c9325645c143ce002881eaccfae4d569b0b9b8e2a47c7b16e5fd8edbba263e3a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53690.jpg"
+    },
+    "gameId": "SLES_536.90"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_536.90/SLES_536.90_BG.png",
+    "kind": "background",
+    "bytes": 151834,
+    "width": 640,
+    "height": 480,
+    "sha256": "8b53f7fa38f5c2c333829313e3f6a286cb97368673d1b8d6f7218fb4fe984537",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_536.90/SLES_536.90_BG_00.png"
+    },
+    "gameId": "SLES_536.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_536.90/SLES_536.90_BG.png",
+      "kind": "background",
+      "bytes": 151834,
+      "width": 640,
+      "height": 480,
+      "sha256": "8b53f7fa38f5c2c333829313e3f6a286cb97368673d1b8d6f7218fb4fe984537",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.90/SLES_536.90_BG_00.png"
+      },
+      "gameId": "SLES_536.90"
+    },
+    {
+      "path": "PS2/SLES_536.90/SLES_536.90_BG_01.png",
+      "kind": "background",
+      "bytes": 184916,
+      "width": 640,
+      "height": 480,
+      "sha256": "e4a21db3adae400c0641200cdb9d08a7d8f851dd0d460a77e352779bdf097ff0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_536.90/SLES_536.90_BG_01.png"
+      },
+      "gameId": "SLES_536.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MAKAI KINGDOM - CHRONICLES OF THE SACRED TOME"
+}

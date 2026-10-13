@@ -1,0 +1,25 @@
+{
+  "id": "SLES_517.20",
+  "cover": {
+    "path": "PS2/SLES_517.20/SLES_517.20_COV.png",
+    "kind": "cover",
+    "bytes": 99926,
+    "width": 192,
+    "height": 272,
+    "sha256": "39a3d4c3c6bca6db14cbfb0d5f60d1e48f7feb8ede4acbba9e9f22b22e174f2c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51720.jpg"
+    },
+    "gameId": "SLES_517.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Extreme Skate Adventure"
+}

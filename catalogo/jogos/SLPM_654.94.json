@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_654.94",
+  "cover": {
+    "path": "PS2/SLPM_654.94/SLPM_654.94_COV.png",
+    "kind": "cover",
+    "bytes": 96827,
+    "width": 192,
+    "height": 272,
+    "sha256": "b7ca15caa4c7cae89ab2e4a54151eeac53be06b05aeee707d0a6daea7b5560e4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65494.jpg"
+    },
+    "gameId": "SLPM_654.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Fuun Shinshengumi"
+}

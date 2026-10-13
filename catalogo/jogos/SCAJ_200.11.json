@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.11",
+  "cover": {
+    "path": "PS2/SCAJ_200.11/SCAJ_200.11_COV.png",
+    "kind": "cover",
+    "bytes": 82815,
+    "width": 192,
+    "height": 272,
+    "sha256": "6edcb3f1ba0dbd650d35387330274f84eb84980b0d2af1ca2ce06738de8e6fbe",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20011.jpg"
+    },
+    "gameId": "SCAJ_200.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core 3 - Silent Line"
+}

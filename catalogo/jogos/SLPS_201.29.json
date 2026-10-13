@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.29",
+  "cover": {
+    "path": "PS2/SLPS_201.29/SLPS_201.29_COV.png",
+    "kind": "cover",
+    "bytes": 99015,
+    "width": 192,
+    "height": 272,
+    "sha256": "9b6283004535f801c36c4f93292163f62f9f72ce08c0ee50ff451530d93f778d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20129.jpg"
+    },
+    "gameId": "SLPS_201.29"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MARL DE JIGSAW"
+}

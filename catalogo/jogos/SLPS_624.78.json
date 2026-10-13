@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_624.78",
+  "cover": {
+    "path": "PS2/SLPS_624.78/SLPS_624.78_COV.png",
+    "kind": "cover",
+    "bytes": 58939,
+    "width": 192,
+    "height": 272,
+    "sha256": "52f81af32f2f9989809d81ec6f9756c300e81e65481de4c554a176749ec15704",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_624.78/SLPS_624.78_COV.png"
+    },
+    "gameId": "SLPS_624.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bomberman Kart DX"
+}

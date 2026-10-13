@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.19",
+  "cover": {
+    "path": "PS2/SLPM_623.19/SLPM_623.19_COV.png",
+    "kind": "cover",
+    "bytes": 112381,
+    "width": 192,
+    "height": 272,
+    "sha256": "ee5cadbdc14401a18c1da8fc434afc33954238753168da090872be144b03ee63",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62319.jpg"
+    },
+    "gameId": "SLPM_623.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sangokushi VIII With Power-Up Kit"
+}

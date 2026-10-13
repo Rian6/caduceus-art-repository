@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.19",
+  "cover": {
+    "path": "PS2/SLPS_202.19/SLPS_202.19_COV.png",
+    "kind": "cover",
+    "bytes": 97001,
+    "width": 192,
+    "height": 272,
+    "sha256": "7e7702f9178c299d9b4ed59083ab2146d2b2c72634634bcbe9bae8124dfc9ff3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20219.jpg"
+    },
+    "gameId": "SLPS_202.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tsukande! Mawashite! Dossun Pazuru Egg Mania"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.12",
+  "cover": {
+    "path": "PS2/SLPS_204.12/SLPS_204.12_COV.png",
+    "kind": "cover",
+    "bytes": 92878,
+    "width": 192,
+    "height": 272,
+    "sha256": "a2791a1f84ae6d19bbfd324cbbbbadd31ebfab35de8312446589f8a04729ef79",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20412.jpg"
+    },
+    "gameId": "SLPS_204.12"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HISSATSU PACHINKO STATION V10 - RERERE NI OMAKASE"
+}

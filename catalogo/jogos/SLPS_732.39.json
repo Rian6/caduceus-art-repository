@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.39",
+  "cover": {
+    "path": "PS2/SLPS_732.39/SLPS_732.39_COV.png",
+    "kind": "cover",
+    "bytes": 92918,
+    "width": 192,
+    "height": 272,
+    "sha256": "f65d4170f51a7fb5bdabd3bbf0dd3ebd433410e1aabf9672947b8a8dad8b7e00",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73239.jpg"
+    },
+    "gameId": "SLPS_732.39"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Yu Yu Hakusho Forever (Playstation 2 The Best)"
+}

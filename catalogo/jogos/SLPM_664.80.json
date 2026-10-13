@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_664.80",
+  "cover": {
+    "path": "PS2/SLPM_664.80/SLPM_664.80_COV.png",
+    "kind": "cover",
+    "bytes": 89930,
+    "width": 192,
+    "height": 272,
+    "sha256": "e8a137dec8934c4d18901fdf18a971d0862ff9e1e4b87910b1c5de2da57a5e04",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66480.jpg"
+    },
+    "gameId": "SLPM_664.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Quest V - Tenkuu no Hayanome (Ultimate Hits)"
+}

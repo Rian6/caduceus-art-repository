@@ -1,0 +1,51 @@
+{
+  "id": "PBPX_955.17",
+  "cover": {
+    "path": "PS2/PBPX_955.17/PBPX_955.17_COV.png",
+    "kind": "cover",
+    "bytes": 55432,
+    "width": 192,
+    "height": 272,
+    "sha256": "fcc593e4904aff916cd4f88c4981ef3af54a549222cdf47f8c72b9d868fde6f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/PBPX-95517.jpg"
+    },
+    "gameId": "PBPX_955.17"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/PBPX_955.17/PBPX_955.17_BG.png",
+    "kind": "background",
+    "bytes": 194798,
+    "width": 640,
+    "height": 480,
+    "sha256": "772dcbe220bd2faa47fa83777bc785fc475f750ba72ed85496eab2bc60dfb035",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/PBPX_955.17/PBPX_955.17_BG_00.png"
+    },
+    "gameId": "PBPX_955.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/PBPX_955.17/PBPX_955.17_BG.png",
+      "kind": "background",
+      "bytes": 194798,
+      "width": 640,
+      "height": 480,
+      "sha256": "772dcbe220bd2faa47fa83777bc785fc475f750ba72ed85496eab2bc60dfb035",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/PBPX_955.17/PBPX_955.17_BG_00.png"
+      },
+      "gameId": "PBPX_955.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Network Adaptor Start-Up Disc"
+}

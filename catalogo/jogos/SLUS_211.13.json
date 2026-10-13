@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_211.13",
+  "cover": {
+    "path": "PS2/SLUS_211.13/SLUS_211.13_COV.png",
+    "kind": "cover",
+    "bytes": 108778,
+    "width": 192,
+    "height": 272,
+    "sha256": "cbeceb4917105864db225f3077001ff2fbbf76d2ba29a0092058ea6a786a9b0a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21113.jpg"
+    },
+    "gameId": "SLUS_211.13"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.13/SLUS_211.13_ICO.png",
+    "kind": "disc",
+    "bytes": 33648,
+    "width": 256,
+    "height": 256,
+    "sha256": "8c447d01d462f7a5680925e786d6d2f608c333109919f9df68220b288995ee66",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.13_ICO.png"
+    },
+    "gameId": "SLUS_211.13"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.13/SLUS_211.13_BG.png",
+    "kind": "background",
+    "bytes": 247177,
+    "width": 640,
+    "height": 480,
+    "sha256": "570cabb908a465378f56b0282392900cb6586756154760dae65c6f175571d471",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.13/SLUS_211.13_BG_00.png"
+    },
+    "gameId": "SLUS_211.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.13/SLUS_211.13_BG.png",
+      "kind": "background",
+      "bytes": 247177,
+      "width": 640,
+      "height": 480,
+      "sha256": "570cabb908a465378f56b0282392900cb6586756154760dae65c6f175571d471",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.13/SLUS_211.13_BG_00.png"
+      },
+      "gameId": "SLUS_211.13"
+    },
+    {
+      "path": "PS2/SLUS_211.13/SLUS_211.13_BG_01.png",
+      "kind": "background",
+      "bytes": 208975,
+      "width": 640,
+      "height": 480,
+      "sha256": "22650d083c512684f22b70955a3314c8297925682e4bedd28189c70af92245a7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.13/SLUS_211.13_BG_01.png"
+      },
+      "gameId": "SLUS_211.13"
+    },
+    {
+      "path": "PS2/SLUS_211.13/SLUS_211.13_BG_02.png",
+      "kind": "background",
+      "bytes": 191575,
+      "width": 640,
+      "height": 480,
+      "sha256": "eca0481ac822c7da837c393f632c9938aef95692abaa02af007c61f16d339115",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.13/SLUS_211.13_BG_02.png"
+      },
+      "gameId": "SLUS_211.13"
+    },
+    {
+      "path": "PS2/SLUS_211.13/SLUS_211.13_BG_03.png",
+      "kind": "background",
+      "bytes": 252116,
+      "width": 640,
+      "height": 480,
+      "sha256": "161bd4eee0c4fd58fdd024718c362f09bf7b997abd6bb36bbd2f987fc971bddf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.13/SLUS_211.13_BG_03.png"
+      },
+      "gameId": "SLUS_211.13"
+    },
+    {
+      "path": "PS2/SLUS_211.13/SLUS_211.13_BG_04.png",
+      "kind": "background",
+      "bytes": 227320,
+      "width": 640,
+      "height": 480,
+      "sha256": "32b6fb920c4a728b8646a0ae8991c6e362efccfc99ba2780ef75aa92af0f8ffb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.13/SLUS_211.13_BG_04.png"
+      },
+      "gameId": "SLUS_211.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ATELIER IRIS - ETERNAL MANA"
+}

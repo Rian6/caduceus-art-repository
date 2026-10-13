@@ -1,0 +1,90 @@
+{
+  "id": "SLES_537.03",
+  "cover": {
+    "path": "PS2/SLES_537.03/SLES_537.03_COV.png",
+    "kind": "cover",
+    "bytes": 81473,
+    "width": 192,
+    "height": 272,
+    "sha256": "53edca2d8e0ccd323de96b2dede7a63c432007d161ca47cdfa36aaef4ddae65b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53703.jpg"
+    },
+    "gameId": "SLES_537.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_537.03/SLES_537.03_BG.png",
+    "kind": "background",
+    "bytes": 195620,
+    "width": 640,
+    "height": 480,
+    "sha256": "18a9791fe3d331c779f77b698ddd30f0e41659b7e7ae17662192bd05e6829864",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_537.03/SLES_537.03_BG_00.png"
+    },
+    "gameId": "SLES_537.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_537.03/SLES_537.03_BG.png",
+      "kind": "background",
+      "bytes": 195620,
+      "width": 640,
+      "height": 480,
+      "sha256": "18a9791fe3d331c779f77b698ddd30f0e41659b7e7ae17662192bd05e6829864",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.03/SLES_537.03_BG_00.png"
+      },
+      "gameId": "SLES_537.03"
+    },
+    {
+      "path": "PS2/SLES_537.03/SLES_537.03_BG_01.png",
+      "kind": "background",
+      "bytes": 195159,
+      "width": 640,
+      "height": 480,
+      "sha256": "a32ddddc16b2068ac3da30da662ed774fa1356eb75b5d5b557dbbbaf9e51eaac",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.03/SLES_537.03_BG_01.png"
+      },
+      "gameId": "SLES_537.03"
+    },
+    {
+      "path": "PS2/SLES_537.03/SLES_537.03_BG_02.png",
+      "kind": "background",
+      "bytes": 207812,
+      "width": 640,
+      "height": 480,
+      "sha256": "d0da379fee86f3cb8e372ed14c929089dc9ff89fb21a3fb4cb18f83a888e6a36",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.03/SLES_537.03_BG_02.png"
+      },
+      "gameId": "SLES_537.03"
+    },
+    {
+      "path": "PS2/SLES_537.03/SLES_537.03_BG_03.png",
+      "kind": "background",
+      "bytes": 173462,
+      "width": 640,
+      "height": 480,
+      "sha256": "bdddcfcc3ed00bc1a65882fb68ef2fdcf91f45405cd28176db561a78ba538f2a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_537.03/SLES_537.03_BG_03.png"
+      },
+      "gameId": "SLES_537.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PETER JACKSON'S KING KONG - THE OFFICIAL GAME OF THE MOVIE"
+}

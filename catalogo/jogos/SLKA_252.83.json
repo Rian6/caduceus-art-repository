@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_252.83",
+  "cover": {
+    "path": "PS2/SLKA_252.83/SLKA_252.83_COV.png",
+    "kind": "cover",
+    "bytes": 92016,
+    "width": 192,
+    "height": 272,
+    "sha256": "392cd47cbace5199fe1b3f396ae23baa953f414862e5632aec90d3b84687bace",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25283.jpg"
+    },
+    "gameId": "SLKA_252.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Juiced"
+}

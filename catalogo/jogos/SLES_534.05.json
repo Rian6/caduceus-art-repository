@@ -1,0 +1,90 @@
+{
+  "id": "SLES_534.05",
+  "cover": {
+    "path": "PS2/SLES_534.05/SLES_534.05_COV.png",
+    "kind": "cover",
+    "bytes": 106570,
+    "width": 192,
+    "height": 272,
+    "sha256": "0cfc3e08e63dc38f8041199d6dfa9d0861e4c9daaee1e5e844e24e5017214e58",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53405.jpg"
+    },
+    "gameId": "SLES_534.05"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_534.05/SLES_534.05_BG.png",
+    "kind": "background",
+    "bytes": 130404,
+    "width": 640,
+    "height": 480,
+    "sha256": "e116362238e33eab7f3caa6bb47309809e6fde6638c2569525ec8e60656dc5e7",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.05/SLES_534.05_BG_00.png"
+    },
+    "gameId": "SLES_534.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.05/SLES_534.05_BG.png",
+      "kind": "background",
+      "bytes": 130404,
+      "width": 640,
+      "height": 480,
+      "sha256": "e116362238e33eab7f3caa6bb47309809e6fde6638c2569525ec8e60656dc5e7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.05/SLES_534.05_BG_00.png"
+      },
+      "gameId": "SLES_534.05"
+    },
+    {
+      "path": "PS2/SLES_534.05/SLES_534.05_BG_01.png",
+      "kind": "background",
+      "bytes": 168168,
+      "width": 640,
+      "height": 480,
+      "sha256": "4f70d0d80e4602a2ec76118a9e3b625321dedf4c38f18c8a90abcb8275663a89",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.05/SLES_534.05_BG_01.png"
+      },
+      "gameId": "SLES_534.05"
+    },
+    {
+      "path": "PS2/SLES_534.05/SLES_534.05_BG_02.png",
+      "kind": "background",
+      "bytes": 186784,
+      "width": 640,
+      "height": 480,
+      "sha256": "9b02e1b2e2ea700e51810a79dd8cb600d068a57cb0e49b1f2dffd79c2b645b65",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.05/SLES_534.05_BG_02.png"
+      },
+      "gameId": "SLES_534.05"
+    },
+    {
+      "path": "PS2/SLES_534.05/SLES_534.05_BG_03.png",
+      "kind": "background",
+      "bytes": 210258,
+      "width": 640,
+      "height": 480,
+      "sha256": "188b1a0fd0da00b07bd4234169c6cdd855615091d1615cec71e0ef21a2023530",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.05/SLES_534.05_BG_03.png"
+      },
+      "gameId": "SLES_534.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DIGIMON WORLD 4"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLES_507.51",
+  "cover": {
+    "path": "PS2/SLES_507.51/SLES_507.51_COV.png",
+    "kind": "cover",
+    "bytes": 101250,
+    "width": 192,
+    "height": 272,
+    "sha256": "747abc7cd593f15cf7356b64715c4d96447dc83a53c95d70aac7bc9d65235076",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50751.jpg"
+    },
+    "gameId": "SLES_507.51"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_507.51/SLES_507.51_BG.png",
+    "kind": "background",
+    "bytes": 159225,
+    "width": 640,
+    "height": 480,
+    "sha256": "3c8403825353cbd88d46f5a09394f7bf08c2543e44d9626a5b33233c84c8fb31",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_507.51/SLES_507.51_BG_00.png"
+    },
+    "gameId": "SLES_507.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_507.51/SLES_507.51_BG.png",
+      "kind": "background",
+      "bytes": 159225,
+      "width": 640,
+      "height": 480,
+      "sha256": "3c8403825353cbd88d46f5a09394f7bf08c2543e44d9626a5b33233c84c8fb31",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_507.51/SLES_507.51_BG_00.png"
+      },
+      "gameId": "SLES_507.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HERDY GERDY"
+}

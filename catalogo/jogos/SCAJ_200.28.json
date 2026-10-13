@@ -1,0 +1,51 @@
+{
+  "id": "SCAJ_200.28",
+  "cover": {
+    "path": "PS2/SCAJ_200.28/SCAJ_200.28_COV.png",
+    "kind": "cover",
+    "bytes": 84217,
+    "width": 192,
+    "height": 272,
+    "sha256": "62e5eab2bc051e0e1f0a3916605a62bf5fa3ea4c7611b2db53c9180be8f875a0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20028.jpg"
+    },
+    "gameId": "SCAJ_200.28"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCAJ_200.28/SCAJ_200.28_BG.png",
+    "kind": "background",
+    "bytes": 192968,
+    "width": 640,
+    "height": 480,
+    "sha256": "80c657c731812fc26140982bfb5c99046f7397c1aa2e88c901dfe1293b468fd1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCAJ_200.28/SCAJ_200.28_BG_00.png"
+    },
+    "gameId": "SCAJ_200.28"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCAJ_200.28/SCAJ_200.28_BG.png",
+      "kind": "background",
+      "bytes": 192968,
+      "width": 640,
+      "height": 480,
+      "sha256": "80c657c731812fc26140982bfb5c99046f7397c1aa2e88c901dfe1293b468fd1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCAJ_200.28/SCAJ_200.28_BG_00.png"
+      },
+      "gameId": "SCAJ_200.28"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tales of Destiny 2"
+}

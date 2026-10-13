@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_627.40",
+  "cover": {
+    "path": "PS2/SLPM_627.40/SLPM_627.40_COV.png",
+    "kind": "cover",
+    "bytes": 97315,
+    "width": 192,
+    "height": 272,
+    "sha256": "ef465882e264e479f2246b0d968afb41bd61fbc3d25a2cada44b0e723deb2556",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62740.jpg"
+    },
+    "gameId": "SLPM_627.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Saikyo Shogi Gekisashi Special"
+}

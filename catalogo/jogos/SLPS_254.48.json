@@ -1,0 +1,77 @@
+{
+  "id": "SLPS_254.48",
+  "cover": {
+    "path": "PS2/SLPS_254.48/SLPS_254.48_COV.png",
+    "kind": "cover",
+    "bytes": 83367,
+    "width": 192,
+    "height": 272,
+    "sha256": "123985bf5b6c99e215ba67bb2fed4c5b0ad718ec90aaeb5efeec863319fff298",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25448.jpg"
+    },
+    "gameId": "SLPS_254.48"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_254.48/SLPS_254.48_BG.png",
+    "kind": "background",
+    "bytes": 147497,
+    "width": 640,
+    "height": 480,
+    "sha256": "6bfd3c57fad9a6387303a4b9d4521f03b5f7cc1b6b4087890e29733494674b25",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_254.48/SLPS_254.48_BG_00.png"
+    },
+    "gameId": "SLPS_254.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_254.48/SLPS_254.48_BG.png",
+      "kind": "background",
+      "bytes": 147497,
+      "width": 640,
+      "height": 480,
+      "sha256": "6bfd3c57fad9a6387303a4b9d4521f03b5f7cc1b6b4087890e29733494674b25",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.48/SLPS_254.48_BG_00.png"
+      },
+      "gameId": "SLPS_254.48"
+    },
+    {
+      "path": "PS2/SLPS_254.48/SLPS_254.48_BG_01.png",
+      "kind": "background",
+      "bytes": 150213,
+      "width": 640,
+      "height": 480,
+      "sha256": "872dcb6e24d703fe5f4c89557d9a830b8f1bdc564f1514eca45a3f25858eec10",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.48/SLPS_254.48_BG_01.png"
+      },
+      "gameId": "SLPS_254.48"
+    },
+    {
+      "path": "PS2/SLPS_254.48/SLPS_254.48_BG_02.png",
+      "kind": "background",
+      "bytes": 170618,
+      "width": 640,
+      "height": 480,
+      "sha256": "c6adf6b262968f0a1a4d46ab74cbcdd4be3dae9f5408f5930ebadc56ab6f21ef",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_254.48/SLPS_254.48_BG_02.png"
+      },
+      "gameId": "SLPS_254.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The King of Fighters '94 - Re-Bout (Special Edition)"
+}

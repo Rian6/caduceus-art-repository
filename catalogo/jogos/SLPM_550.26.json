@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_550.26",
+  "cover": {
+    "path": "PS2/SLPM_550.26/SLPM_550.26_COV.png",
+    "kind": "cover",
+    "bytes": 109859,
+    "width": 192,
+    "height": 272,
+    "sha256": "d263946c80db13b804661033b82ef39b4ffebaa452becf855f3170a74b1186b4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-55026.jpg"
+    },
+    "gameId": "SLPM_550.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shirogane no Soleil: Contract to the Future - Mirai e no Keiyaku"
+}

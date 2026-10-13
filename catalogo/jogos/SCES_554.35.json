@@ -1,0 +1,77 @@
+{
+  "id": "SCES_554.35",
+  "cover": {
+    "path": "PS2/SCES_554.35/SCES_554.35_COV.png",
+    "kind": "cover",
+    "bytes": 68668,
+    "width": 192,
+    "height": 272,
+    "sha256": "913c27bce5be385643c7fb316acf4bbf30dc059547bd034ce9b096d4e9a7c85b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55435.jpg"
+    },
+    "gameId": "SCES_554.35"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_554.35/SCES_554.35_BG.png",
+    "kind": "background",
+    "bytes": 188962,
+    "width": 640,
+    "height": 480,
+    "sha256": "551ceac5c430a0b45c629b55152c36c7c88582e40d478e061a765134025a4a3e",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_554.35/SCES_554.35_BG_00.png"
+    },
+    "gameId": "SCES_554.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_554.35/SCES_554.35_BG.png",
+      "kind": "background",
+      "bytes": 188962,
+      "width": 640,
+      "height": 480,
+      "sha256": "551ceac5c430a0b45c629b55152c36c7c88582e40d478e061a765134025a4a3e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_554.35/SCES_554.35_BG_00.png"
+      },
+      "gameId": "SCES_554.35"
+    },
+    {
+      "path": "PS2/SCES_554.35/SCES_554.35_BG_01.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_554.35/SCES_554.35_BG_01.png"
+      },
+      "gameId": "SCES_554.35"
+    },
+    {
+      "path": "PS2/SCES_554.35/SCES_554.35_BG_02.png",
+      "kind": "background",
+      "bytes": 183175,
+      "width": 640,
+      "height": 480,
+      "sha256": "bd93c16253dcaae6c9e332a888a94457bc4533a0a600a45c3ed4a7eea25d00a6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_554.35/SCES_554.35_BG_02.png"
+      },
+      "gameId": "SCES_554.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Abba"
+}

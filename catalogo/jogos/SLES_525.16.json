@@ -1,0 +1,39 @@
+{
+  "id": "SLES_525.16",
+  "cover": {
+    "path": "PS2/SLES_525.16/SLES_525.16_COV.png",
+    "kind": "cover",
+    "bytes": 91331,
+    "width": 192,
+    "height": 272,
+    "sha256": "116a720fcbdade037360298c602c5e64a84e56c277e8f56153e0438ed44ec7d5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52516.jpg"
+    },
+    "gameId": "SLES_525.16"
+  },
+  "disc": {
+    "path": "PS2/SLES_525.16/SLES_525.16_ICO.png",
+    "kind": "disc",
+    "bytes": 10573,
+    "width": 128,
+    "height": 128,
+    "sha256": "4f4c0cd95263b0265da77d233783f0e56245a8d0e1e21ef1ae48c3782e632d8d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_525.16_ICO.png"
+    },
+    "gameId": "SLES_525.16"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Fighting"
+}

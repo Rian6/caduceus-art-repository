@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_206.91",
+  "cover": {
+    "path": "PS2/SLUS_206.91/SLUS_206.91_COV.png",
+    "kind": "cover",
+    "bytes": 111791,
+    "width": 192,
+    "height": 272,
+    "sha256": "b57444bc8742b6eeee049873c6395377c466f0d0340c1a3bb8caef88a5e25179",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20691.jpg"
+    },
+    "gameId": "SLUS_206.91"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.91/SLUS_206.91_ICO.png",
+    "kind": "disc",
+    "bytes": 31754,
+    "width": 256,
+    "height": 256,
+    "sha256": "ce0c656cf980d2a9ef2e14beaa2d8126cbbe7a432bd748a32361d8a9964e8ce1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.91_ICO.png"
+    },
+    "gameId": "SLUS_206.91"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NHL Hitz Pro"
+}

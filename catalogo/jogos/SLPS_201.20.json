@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.20",
+  "cover": {
+    "path": "PS2/SLPS_201.20/SLPS_201.20_COV.png",
+    "kind": "cover",
+    "bytes": 81276,
+    "width": 192,
+    "height": 272,
+    "sha256": "ecbd2f46615f5f32770ab558d078a0f12a4075a55187fffb58394af88e95a9f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20120.jpg"
+    },
+    "gameId": "SLPS_201.20"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "F1 2001"
+}

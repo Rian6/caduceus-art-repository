@@ -1,0 +1,25 @@
+{
+  "id": "SCUS_975.09",
+  "cover": {
+    "path": "PS2/SCUS_975.09/SCUS_975.09_COV.png",
+    "kind": "cover",
+    "bytes": 96557,
+    "width": 192,
+    "height": 272,
+    "sha256": "e16a524d7c296a370094237d7fbfdb7773f2e600d4a7af9f962f930753a55971",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97509.jpg"
+    },
+    "gameId": "SCUS_975.09"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Jak II (Greatest Hits)"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCED_540.44",
+  "cover": {
+    "path": "PS2/SCED_540.44/SCED_540.44_COV.png",
+    "kind": "cover",
+    "bytes": 104646,
+    "width": 192,
+    "height": 272,
+    "sha256": "27219db89877fb836d4c16e285f5ef14f7f884eca770f62978fcf1551723b50c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCED-54044.jpg"
+    },
+    "gameId": "SCED_540.44"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Official PlayStation 2 Magazine Demo 72"
+}

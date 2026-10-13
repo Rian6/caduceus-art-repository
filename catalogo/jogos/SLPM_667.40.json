@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_667.40",
+  "cover": {
+    "path": "PS2/SLPM_667.40/SLPM_667.40_COV.png",
+    "kind": "cover",
+    "bytes": 87020,
+    "width": 192,
+    "height": 272,
+    "sha256": "3cc6fcc9bffb2d9bd195cf0dd3713d6bf23d876046d49279a719494643b32a34",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66740.jpg"
+    },
+    "gameId": "SLPM_667.40"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sentou Kokka Kai - Legend  - Phase of Combat (Deluxe Pack)"
+}

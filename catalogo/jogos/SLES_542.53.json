@@ -1,0 +1,51 @@
+{
+  "id": "SLES_542.53",
+  "cover": {
+    "path": "PS2/SLES_542.53/SLES_542.53_COV.png",
+    "kind": "cover",
+    "bytes": 82796,
+    "width": 192,
+    "height": 272,
+    "sha256": "8de1262c4b7f4b481b8f95974a6272d112f0473be8cd4209c26695f52588636c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54253.jpg"
+    },
+    "gameId": "SLES_542.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_542.53/SLES_542.53_BG.png",
+    "kind": "background",
+    "bytes": 176219,
+    "width": 640,
+    "height": 480,
+    "sha256": "70cda5e8d496d1ab831ed36e49b03bbb4f9ca4fb4cfd92a5cf0374ef17271ca2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_542.53/SLES_542.53_BG_00.png"
+    },
+    "gameId": "SLES_542.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_542.53/SLES_542.53_BG.png",
+      "kind": "background",
+      "bytes": 176219,
+      "width": 640,
+      "height": 480,
+      "sha256": "70cda5e8d496d1ab831ed36e49b03bbb4f9ca4fb4cfd92a5cf0374ef17271ca2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.53/SLES_542.53_BG_00.png"
+      },
+      "gameId": "SLES_542.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tiger Woods PGA Tour 07"
+}

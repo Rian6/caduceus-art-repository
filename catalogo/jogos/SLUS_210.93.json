@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_210.93",
+  "cover": {
+    "path": "PS2/SLUS_210.93/SLUS_210.93_COV.png",
+    "kind": "cover",
+    "bytes": 98727,
+    "width": 192,
+    "height": 272,
+    "sha256": "e44e2c20e0341a0a4ff810e690aa4ddac78746ee642257ab3f1c9ac2bc87a010",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21093.jpg"
+    },
+    "gameId": "SLUS_210.93"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.93/SLUS_210.93_ICO.png",
+    "kind": "disc",
+    "bytes": 33544,
+    "width": 256,
+    "height": 256,
+    "sha256": "4389b649069e9ffe03fd7549c48f466d4b410c99aeb1d33ca443b5d02c613436",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.93_ICO.png"
+    },
+    "gameId": "SLUS_210.93"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.93/SLUS_210.93_BG.png",
+    "kind": "background",
+    "bytes": 189668,
+    "width": 640,
+    "height": 480,
+    "sha256": "a5e5e8edc59053efd12dcef55e3bca0dcf96989eeba25544a0815ed14cf42b74",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.93/SLUS_210.93_BG_00.png"
+    },
+    "gameId": "SLUS_210.93"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.93/SLUS_210.93_BG.png",
+      "kind": "background",
+      "bytes": 189668,
+      "width": 640,
+      "height": 480,
+      "sha256": "a5e5e8edc59053efd12dcef55e3bca0dcf96989eeba25544a0815ed14cf42b74",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.93/SLUS_210.93_BG_00.png"
+      },
+      "gameId": "SLUS_210.93"
+    },
+    {
+      "path": "PS2/SLUS_210.93/SLUS_210.93_BG_01.png",
+      "kind": "background",
+      "bytes": 170795,
+      "width": 640,
+      "height": 480,
+      "sha256": "d4d89ea09502455e14ff72900a48f5607129a456d01c979528d864e5220d163b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.93/SLUS_210.93_BG_01.png"
+      },
+      "gameId": "SLUS_210.93"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Worms Forts - Under Siege!"
+}

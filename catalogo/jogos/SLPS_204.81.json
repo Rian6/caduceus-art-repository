@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_204.81",
+  "cover": {
+    "path": "PS2/SLPS_204.81/SLPS_204.81_COV.png",
+    "kind": "cover",
+    "bytes": 77804,
+    "width": 192,
+    "height": 272,
+    "sha256": "4efc1a6ab015faca1f94aa31543b45a9557bc5622d5236be6ea6d728d39c0629",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20481.jpg"
+    },
+    "gameId": "SLPS_204.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_204.81/SLPS_204.81_BG.png",
+    "kind": "background",
+    "bytes": 203791,
+    "width": 640,
+    "height": 480,
+    "sha256": "6c42beda367527580c240a74811a4499d8028fe82c9b585dbac50491758805df",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_204.81/SLPS_204.81_BG_00.png"
+    },
+    "gameId": "SLPS_204.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_204.81/SLPS_204.81_BG.png",
+      "kind": "background",
+      "bytes": 203791,
+      "width": 640,
+      "height": 480,
+      "sha256": "6c42beda367527580c240a74811a4499d8028fe82c9b585dbac50491758805df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_204.81/SLPS_204.81_BG_00.png"
+      },
+      "gameId": "SLPS_204.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.112 - The Tousou Highway 2: Road Warrior 2050"
+}

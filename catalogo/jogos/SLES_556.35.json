@@ -1,0 +1,103 @@
+{
+  "id": "SLES_556.35",
+  "cover": {
+    "path": "PS2/SLES_556.35/SLES_556.35_COV.png",
+    "kind": "cover",
+    "bytes": 103094,
+    "width": 192,
+    "height": 272,
+    "sha256": "f98a91a3f032b98c518a3870a6e5af64fd69d1824d1b6fa688c2a84a5e35b790",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55635.jpg"
+    },
+    "gameId": "SLES_556.35"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_556.35/SLES_556.35_BG.png",
+    "kind": "background",
+    "bytes": 157844,
+    "width": 640,
+    "height": 480,
+    "sha256": "4f506eec30d87da572c1edc450a064e3f7e332449386d9b55b9a00fe0cab70b5",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_556.35/SLES_556.35_BG_00.png"
+    },
+    "gameId": "SLES_556.35"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_556.35/SLES_556.35_BG.png",
+      "kind": "background",
+      "bytes": 157844,
+      "width": 640,
+      "height": 480,
+      "sha256": "4f506eec30d87da572c1edc450a064e3f7e332449386d9b55b9a00fe0cab70b5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.35/SLES_556.35_BG_00.png"
+      },
+      "gameId": "SLES_556.35"
+    },
+    {
+      "path": "PS2/SLES_556.35/SLES_556.35_BG_01.png",
+      "kind": "background",
+      "bytes": 198323,
+      "width": 640,
+      "height": 480,
+      "sha256": "9650157759650b23344a60f2061c7395cddb9bd0be1296e1d26dae08788cb976",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.35/SLES_556.35_BG_01.png"
+      },
+      "gameId": "SLES_556.35"
+    },
+    {
+      "path": "PS2/SLES_556.35/SLES_556.35_BG_02.png",
+      "kind": "background",
+      "bytes": 175201,
+      "width": 640,
+      "height": 480,
+      "sha256": "260873a5e28ab3af800c0b1037aa3b78d4ba0ee2369ebb25f9a29c5d8f44e055",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.35/SLES_556.35_BG_02.png"
+      },
+      "gameId": "SLES_556.35"
+    },
+    {
+      "path": "PS2/SLES_556.35/SLES_556.35_BG_03.png",
+      "kind": "background",
+      "bytes": 180312,
+      "width": 640,
+      "height": 480,
+      "sha256": "d8c6cd873ef7cc9778e3833f485f0e791192487e5445766d9914113c3d75ef84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.35/SLES_556.35_BG_03.png"
+      },
+      "gameId": "SLES_556.35"
+    },
+    {
+      "path": "PS2/SLES_556.35/SLES_556.35_BG_04.png",
+      "kind": "background",
+      "bytes": 205913,
+      "width": 640,
+      "height": 480,
+      "sha256": "507541a69123a59908d5d3d1cf19307b42e7000254a166567233aef9b677de9a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.35/SLES_556.35_BG_04.png"
+      },
+      "gameId": "SLES_556.35"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WWE SmackDown! vs RAW 2011"
+}

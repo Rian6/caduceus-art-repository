@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.06",
+  "cover": {
+    "path": "PS2/SLPM_668.06/SLPM_668.06_COV.png",
+    "kind": "cover",
+    "bytes": 114791,
+    "width": 192,
+    "height": 272,
+    "sha256": "ee6a2a816681be6d1509a827c273061a9ae82fb375d543e553a654130612c4e4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66806.jpg"
+    },
+    "gameId": "SLPM_668.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHUFFLE! ON THE STAGE [KADOKAWA THE BEST]"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "SLUS_216.82",
+  "cover": {
+    "path": "PS2/SLUS_216.82/SLUS_216.82_COV.png",
+    "kind": "cover",
+    "bytes": 82905,
+    "width": 192,
+    "height": 272,
+    "sha256": "db7aedeb7d4b324cfaf3b909f0fde4c4d0843002517e89b5eafea9e69b52c8f1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21682.jpg"
+    },
+    "gameId": "SLUS_216.82"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.82/SLUS_216.82_ICO.png",
+    "kind": "disc",
+    "bytes": 28479,
+    "width": 256,
+    "height": 256,
+    "sha256": "11c32c491523fd75bd1c87cdba2d89fe5a610a20e259d88e15ee74fad62161e2",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.82_ICO.png"
+    },
+    "gameId": "SLUS_216.82"
+  },
+  "background": {
+    "path": "PS2/SLUS_216.82/SLUS_216.82_BG.png",
+    "kind": "background",
+    "bytes": 156899,
+    "width": 640,
+    "height": 480,
+    "sha256": "1157bdb3484d28cc0a65cefad6028a59c9a1701bb03bca516bd0d66c0a29bd30",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_216.82/SLUS_216.82_BG_00.png"
+    },
+    "gameId": "SLUS_216.82"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_216.82/SLUS_216.82_BG.png",
+      "kind": "background",
+      "bytes": 156899,
+      "width": 640,
+      "height": 480,
+      "sha256": "1157bdb3484d28cc0a65cefad6028a59c9a1701bb03bca516bd0d66c0a29bd30",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.82/SLUS_216.82_BG_00.png"
+      },
+      "gameId": "SLUS_216.82"
+    },
+    {
+      "path": "PS2/SLUS_216.82/SLUS_216.82_BG_01.png",
+      "kind": "background",
+      "bytes": 105753,
+      "width": 640,
+      "height": 480,
+      "sha256": "77f3d752fc0e49b35f6ab80f551c39af8d3c73b10b4bfe616b796b77a86cfd7b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.82/SLUS_216.82_BG_01.png"
+      },
+      "gameId": "SLUS_216.82"
+    },
+    {
+      "path": "PS2/SLUS_216.82/SLUS_216.82_BG_02.png",
+      "kind": "background",
+      "bytes": 206537,
+      "width": 640,
+      "height": 480,
+      "sha256": "f7e9860672113d910d3e8b5200144854c48d64bba1a946165eccad843259305b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_216.82/SLUS_216.82_BG_02.png"
+      },
+      "gameId": "SLUS_216.82"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rock Band"
+}

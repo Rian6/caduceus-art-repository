@@ -1,0 +1,65 @@
+{
+  "id": "SLES_504.62",
+  "cover": {
+    "path": "PS2/SLES_504.62/SLES_504.62_COV.png",
+    "kind": "cover",
+    "bytes": 83529,
+    "width": 192,
+    "height": 272,
+    "sha256": "e8e3096ea4393a06ca741d8fc42e740472a39956d85e7c7e082fd4c72d84cfc6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50462.jpg"
+    },
+    "gameId": "SLES_504.62"
+  },
+  "disc": {
+    "path": "PS2/SLES_504.62/SLES_504.62_ICO.png",
+    "kind": "disc",
+    "bytes": 12630,
+    "width": 128,
+    "height": 128,
+    "sha256": "65cd22a779247e9b0e53cac40f241919c5fe9b7960bc05b1e4b01a38826b326f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_504.62_ICO.png"
+    },
+    "gameId": "SLES_504.62"
+  },
+  "background": {
+    "path": "PS2/SLES_504.62/SLES_504.62_BG.png",
+    "kind": "background",
+    "bytes": 194694,
+    "width": 640,
+    "height": 480,
+    "sha256": "627b70456eb56155ae76a8c7e953af3f7e60c9cd415fe9d1d1f96e7010925b81",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_504.62/SLES_504.62_BG_00.png"
+    },
+    "gameId": "SLES_504.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_504.62/SLES_504.62_BG.png",
+      "kind": "background",
+      "bytes": 194694,
+      "width": 640,
+      "height": 480,
+      "sha256": "627b70456eb56155ae76a8c7e953af3f7e60c9cd415fe9d1d1f96e7010925b81",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_504.62/SLES_504.62_BG_00.png"
+      },
+      "gameId": "SLES_504.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pro Evolution Soccer"
+}

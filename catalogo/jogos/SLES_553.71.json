@@ -1,0 +1,51 @@
+{
+  "id": "SLES_553.71",
+  "cover": {
+    "path": "PS2/SLES_553.71/SLES_553.71_COV.png",
+    "kind": "cover",
+    "bytes": 98174,
+    "width": 192,
+    "height": 272,
+    "sha256": "2d6cec09fc773272b7daa078f4a9f653d7bce8724a5f414b2fa4a7106578d806",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55371.jpg"
+    },
+    "gameId": "SLES_553.71"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_553.71/SLES_553.71_BG.png",
+    "kind": "background",
+    "bytes": 184934,
+    "width": 640,
+    "height": 480,
+    "sha256": "cf8d42f26a768ba03641ec310e48f5f866797fe9227a1a93c431a02113584252",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_553.71/SLES_553.71_BG_00.png"
+    },
+    "gameId": "SLES_553.71"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_553.71/SLES_553.71_BG.png",
+      "kind": "background",
+      "bytes": 184934,
+      "width": 640,
+      "height": 480,
+      "sha256": "cf8d42f26a768ba03641ec310e48f5f866797fe9227a1a93c431a02113584252",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_553.71/SLES_553.71_BG_00.png"
+      },
+      "gameId": "SLES_553.71"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Barbie - Horse Adventure - Riding Camps"
+}

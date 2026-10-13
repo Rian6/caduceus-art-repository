@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_217.37",
+  "cover": {
+    "path": "PS2/SLUS_217.37/SLUS_217.37_COV.png",
+    "kind": "cover",
+    "bytes": 90181,
+    "width": 192,
+    "height": 272,
+    "sha256": "094206098baf2e1895fe5c2703d315cd49fcb82ed5396429ab81d5425bd65b29",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21737.jpg"
+    },
+    "gameId": "SLUS_217.37"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.37/SLUS_217.37_ICO.png",
+    "kind": "disc",
+    "bytes": 32189,
+    "width": 256,
+    "height": 256,
+    "sha256": "02afa45bc4fd7a4f8bc2794384347d9e319f385074b2b1eca31da7f6d49b8749",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.37_ICO.png"
+    },
+    "gameId": "SLUS_217.37"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Riding Star"
+}

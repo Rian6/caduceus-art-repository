@@ -1,0 +1,51 @@
+{
+  "id": "SLES_530.03",
+  "cover": {
+    "path": "PS2/SLES_530.03/SLES_530.03_COV.png",
+    "kind": "cover",
+    "bytes": 93561,
+    "width": 192,
+    "height": 272,
+    "sha256": "ae75e4e2fdf78cdec3a1ed0c99b8c81613b71c1f156c675c4f0b825c6c5ba33b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53003.jpg"
+    },
+    "gameId": "SLES_530.03"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_530.03/SLES_530.03_BG.png",
+    "kind": "background",
+    "bytes": 199147,
+    "width": 640,
+    "height": 480,
+    "sha256": "dbb4a62bbaa276dd8b620843a60e48e878bf1ebda304470a3ddfae86c371f653",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_530.03/SLES_530.03_BG_00.png"
+    },
+    "gameId": "SLES_530.03"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_530.03/SLES_530.03_BG.png",
+      "kind": "background",
+      "bytes": 199147,
+      "width": 640,
+      "height": 480,
+      "sha256": "dbb4a62bbaa276dd8b620843a60e48e878bf1ebda304470a3ddfae86c371f653",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_530.03/SLES_530.03_BG_00.png"
+      },
+      "gameId": "SLES_530.03"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Samurai Warriors - Xtreme Legends"
+}

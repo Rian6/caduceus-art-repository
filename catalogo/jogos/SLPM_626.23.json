@@ -1,0 +1,91 @@
+{
+  "id": "SLPM_626.23",
+  "cover": {
+    "path": "PS2/SLPM_626.23/SLPM_626.23_COV.png",
+    "kind": "cover",
+    "bytes": 103094,
+    "width": 192,
+    "height": 272,
+    "sha256": "bdbc6b289404e3373238f423902a68038ac3ba2e0d00ae51b5122f421480b803",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62623.jpg"
+    },
+    "gameId": "SLPM_626.23"
+  },
+  "disc": {
+    "path": "PS2/SLPM_626.23/SLPM_626.23_ICO.png",
+    "kind": "disc",
+    "bytes": 9493,
+    "width": 128,
+    "height": 128,
+    "sha256": "aa4021716e13d26f74853072574144733aac9e2d6f9c5edff1db18dcde22bdf3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_626.23_ICO.png"
+    },
+    "gameId": "SLPM_626.23"
+  },
+  "background": {
+    "path": "PS2/SLPM_626.23/SLPM_626.23_BG.png",
+    "kind": "background",
+    "bytes": 161365,
+    "width": 640,
+    "height": 480,
+    "sha256": "60e177ce6518ef16f53cfaeb360e9bbf1e56464024c32cc1a0a9dfce7ac59286",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_626.23/SLPM_626.23_BG_00.png"
+    },
+    "gameId": "SLPM_626.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_626.23/SLPM_626.23_BG.png",
+      "kind": "background",
+      "bytes": 161365,
+      "width": 640,
+      "height": 480,
+      "sha256": "60e177ce6518ef16f53cfaeb360e9bbf1e56464024c32cc1a0a9dfce7ac59286",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.23/SLPM_626.23_BG_00.png"
+      },
+      "gameId": "SLPM_626.23"
+    },
+    {
+      "path": "PS2/SLPM_626.23/SLPM_626.23_BG_01.png",
+      "kind": "background",
+      "bytes": 206687,
+      "width": 640,
+      "height": 480,
+      "sha256": "4952467413c67cc93f3da5eadc851ad259a1d22a08e355b7a83f3e8976f2ce7b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.23/SLPM_626.23_BG_01.png"
+      },
+      "gameId": "SLPM_626.23"
+    },
+    {
+      "path": "PS2/SLPM_626.23/SLPM_626.23_BG_02.png",
+      "kind": "background",
+      "bytes": 177310,
+      "width": 640,
+      "height": 480,
+      "sha256": "01a61edd9e7ab33b97a245b13a75b3f4acaf0d76a49e8eed90c0f317d81c7511",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.23/SLPM_626.23_BG_02.png"
+      },
+      "gameId": "SLPM_626.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Elemental Gelade: Matoe, Suifuu no Tsurugi"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_502.65",
+  "cover": {
+    "path": "PS2/SLES_502.65/SLES_502.65_COV.png",
+    "kind": "cover",
+    "bytes": 98506,
+    "width": 192,
+    "height": 272,
+    "sha256": "09f55c3881f105d8c0fc7defd79404d1dd02eefd55fcd134cedbe6b45d319825",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50265.jpg"
+    },
+    "gameId": "SLES_502.65"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hype - The Time Quest"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.19",
+  "cover": {
+    "path": "PS2/SLAJ_250.19/SLAJ_250.19_COV.png",
+    "kind": "cover",
+    "bytes": 62419,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a983c151177edab53de71721831efaa5d3e2c236800e0fe891464096e1b9da9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLAJ_250.19/SLAJ_250.19_COV.png"
+    },
+    "gameId": "SLAJ_250.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Lord of the Rings: The Return of the King"
+}

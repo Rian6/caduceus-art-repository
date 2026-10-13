@@ -1,0 +1,77 @@
+{
+  "id": "SLES_516.86",
+  "cover": {
+    "path": "PS2/SLES_516.86/SLES_516.86_COV.png",
+    "kind": "cover",
+    "bytes": 90925,
+    "width": 192,
+    "height": 272,
+    "sha256": "0801ea59910d20d9d82a63ad136063a16c9131dbf10a3d17e0f2deb2c3640b72",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51686.jpg"
+    },
+    "gameId": "SLES_516.86"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_516.86/SLES_516.86_BG.png",
+    "kind": "background",
+    "bytes": 216843,
+    "width": 640,
+    "height": 480,
+    "sha256": "2853d6596db9ced00590464d3ce56ff46842e53e0cfb450a635e56f1c2f9a356",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_516.86/SLES_516.86_BG_00.png"
+    },
+    "gameId": "SLES_516.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_516.86/SLES_516.86_BG.png",
+      "kind": "background",
+      "bytes": 216843,
+      "width": 640,
+      "height": 480,
+      "sha256": "2853d6596db9ced00590464d3ce56ff46842e53e0cfb450a635e56f1c2f9a356",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.86/SLES_516.86_BG_00.png"
+      },
+      "gameId": "SLES_516.86"
+    },
+    {
+      "path": "PS2/SLES_516.86/SLES_516.86_BG_01.png",
+      "kind": "background",
+      "bytes": 218570,
+      "width": 640,
+      "height": 480,
+      "sha256": "db04b04fbb53f27c326abcce33fc047579c5df1b577a0b538954579ae6498d93",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.86/SLES_516.86_BG_01.png"
+      },
+      "gameId": "SLES_516.86"
+    },
+    {
+      "path": "PS2/SLES_516.86/SLES_516.86_BG_02.png",
+      "kind": "background",
+      "bytes": 192669,
+      "width": 640,
+      "height": 480,
+      "sha256": "06d01072581bc681d826cb4fea0e3339bf0ac0d312890e1bd20492abbf2b3a1c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.86/SLES_516.86_BG_02.png"
+      },
+      "gameId": "SLES_516.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Pitfall: The Lost Expedition"
+}

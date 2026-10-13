@@ -1,0 +1,39 @@
+{
+  "id": "SLES_553.46",
+  "cover": {
+    "path": "PS2/SLES_553.46/SLES_553.46_COV.png",
+    "kind": "cover",
+    "bytes": 75752,
+    "width": 192,
+    "height": 272,
+    "sha256": "b9e34b17c80bc9e5df3d1f151584afd56df4b82ec4fb6750b6eb9ecbb7768068",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55346.jpg"
+    },
+    "gameId": "SLES_553.46"
+  },
+  "disc": {
+    "path": "PS2/SLES_553.46/SLES_553.46_ICO.png",
+    "kind": "disc",
+    "bytes": 11293,
+    "width": 128,
+    "height": 128,
+    "sha256": "d327501f8061763020119279a944b924de4b4e0c9b01d51c03207761c96686a0",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_553.46_ICO.png"
+    },
+    "gameId": "SLES_553.46"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rugby League 2 - World Cup Edition"
+}

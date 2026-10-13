@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.53",
+  "cover": {
+    "path": "PS2/SLPM_669.53/SLPM_669.53_COV.png",
+    "kind": "cover",
+    "bytes": 100505,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf574e4b5f46b3cdb1a1418d708194ea5e89eff404c384892f0ddb0fd0087ad3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66953.jpg"
+    },
+    "gameId": "SLPM_669.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Musou Orochi: Maou Sairin"
+}

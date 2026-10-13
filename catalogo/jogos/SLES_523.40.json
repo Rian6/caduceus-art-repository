@@ -1,0 +1,65 @@
+{
+  "id": "SLES_523.40",
+  "cover": {
+    "path": "PS2/SLES_523.40/SLES_523.40_COV.png",
+    "kind": "cover",
+    "bytes": 104934,
+    "width": 192,
+    "height": 272,
+    "sha256": "ae2a3cf2e471a13fe71c3d17348ecab0607652debc0be0a96bc88dbd9369a050",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52340.jpg"
+    },
+    "gameId": "SLES_523.40"
+  },
+  "disc": {
+    "path": "PS2/SLES_523.40/SLES_523.40_ICO.png",
+    "kind": "disc",
+    "bytes": 11868,
+    "width": 128,
+    "height": 128,
+    "sha256": "fa15a6b88a9b2fdceb93f3b12c04d7624f0a5ee718ed4fc26ee0816b5ffd1268",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_523.40_ICO.png"
+    },
+    "gameId": "SLES_523.40"
+  },
+  "background": {
+    "path": "PS2/SLES_523.40/SLES_523.40_BG.png",
+    "kind": "background",
+    "bytes": 249680,
+    "width": 640,
+    "height": 480,
+    "sha256": "3232d9bfa084d505b8974556a70d44109dae698d804e1948a79c05a3f6d6af54",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.40/SLES_523.40_BG_00.png"
+    },
+    "gameId": "SLES_523.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.40/SLES_523.40_BG.png",
+      "kind": "background",
+      "bytes": 249680,
+      "width": 640,
+      "height": 480,
+      "sha256": "3232d9bfa084d505b8974556a70d44109dae698d804e1948a79c05a3f6d6af54",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.40/SLES_523.40_BG_00.png"
+      },
+      "gameId": "SLES_523.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rollercoaster World"
+}

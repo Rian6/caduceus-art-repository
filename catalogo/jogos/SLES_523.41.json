@@ -1,0 +1,64 @@
+{
+  "id": "SLES_523.41",
+  "cover": {
+    "path": "PS2/SLES_523.41/SLES_523.41_COV.png",
+    "kind": "cover",
+    "bytes": 81259,
+    "width": 192,
+    "height": 272,
+    "sha256": "c6c1351f0765d401f1d178b0770cde408b2ab0f010cb82e598bd3645baa2ba06",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52341.jpg"
+    },
+    "gameId": "SLES_523.41"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_523.41/SLES_523.41_BG.png",
+    "kind": "background",
+    "bytes": 160739,
+    "width": 640,
+    "height": 480,
+    "sha256": "0396dcc15ad438eedb64eebf5f69e18d3bfe5df755626f17c55c1c14772c667b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.41/SLES_523.41_BG_00.png"
+    },
+    "gameId": "SLES_523.41"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.41/SLES_523.41_BG.png",
+      "kind": "background",
+      "bytes": 160739,
+      "width": 640,
+      "height": 480,
+      "sha256": "0396dcc15ad438eedb64eebf5f69e18d3bfe5df755626f17c55c1c14772c667b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.41/SLES_523.41_BG_00.png"
+      },
+      "gameId": "SLES_523.41"
+    },
+    {
+      "path": "PS2/SLES_523.41/SLES_523.41_BG_01.png",
+      "kind": "background",
+      "bytes": 84437,
+      "width": 640,
+      "height": 480,
+      "sha256": "8d5e6ecdf9a23a939479f2a40edc8b2727c66da6ddb2e38f250dc9aec89bf6e4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.41/SLES_523.41_BG_01.png"
+      },
+      "gameId": "SLES_523.41"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The X-Files: Resist or Serve"
+}

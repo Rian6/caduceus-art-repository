@@ -1,0 +1,78 @@
+{
+  "id": "SLUS_202.17",
+  "cover": {
+    "path": "PS2/SLUS_202.17/SLUS_202.17_COV.png",
+    "kind": "cover",
+    "bytes": 104947,
+    "width": 192,
+    "height": 272,
+    "sha256": "eccbda63b06d34c3519b869bcce3f1315db7b128cba768307decf5e1d7b53b27",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20217.jpg"
+    },
+    "gameId": "SLUS_202.17"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.17/SLUS_202.17_ICO.png",
+    "kind": "disc",
+    "bytes": 33652,
+    "width": 256,
+    "height": 256,
+    "sha256": "907a85a001abd626854ef8154d7f4d60dc14ba06808c63022c3498cf434f0bba",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.17_ICO.png"
+    },
+    "gameId": "SLUS_202.17"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.17/SLUS_202.17_BG.png",
+    "kind": "background",
+    "bytes": 227798,
+    "width": 640,
+    "height": 480,
+    "sha256": "64c2932d10ea9537a91df7c6a930e432b510690e13d35593414232cfd27eb03b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.17/SLUS_202.17_BG_00.png"
+    },
+    "gameId": "SLUS_202.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.17/SLUS_202.17_BG.png",
+      "kind": "background",
+      "bytes": 227798,
+      "width": 640,
+      "height": 480,
+      "sha256": "64c2932d10ea9537a91df7c6a930e432b510690e13d35593414232cfd27eb03b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.17/SLUS_202.17_BG_00.png"
+      },
+      "gameId": "SLUS_202.17"
+    },
+    {
+      "path": "PS2/SLUS_202.17/SLUS_202.17_BG_01.png",
+      "kind": "background",
+      "bytes": 205369,
+      "width": 640,
+      "height": 480,
+      "sha256": "1f570f5d662263cc6b0034b389e82e17c2b850d057185d66f7a08793fa5f212d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.17/SLUS_202.17_BG_01.png"
+      },
+      "gameId": "SLUS_202.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Arctic Thunder"
+}

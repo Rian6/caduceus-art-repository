@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_218.89",
+  "cover": {
+    "path": "PS2/SLUS_218.89/SLUS_218.89_COV.png",
+    "kind": "cover",
+    "bytes": 101024,
+    "width": 192,
+    "height": 272,
+    "sha256": "668e9aa6c51ee5284e5e722023eb4e31f5df1f591d61078fc463695d85aa65c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21889.jpg"
+    },
+    "gameId": "SLUS_218.89"
+  },
+  "disc": {
+    "path": "PS2/SLUS_218.89/SLUS_218.89_ICO.png",
+    "kind": "disc",
+    "bytes": 35474,
+    "width": 256,
+    "height": 256,
+    "sha256": "aaa7a95cdb4a4a1edfd0169db1d7adc6ab00a148183cedd9a87bdea0fc89a87e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_218.89_ICO.png"
+    },
+    "gameId": "SLUS_218.89"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Rock Band: Metal Track Pack"
+}

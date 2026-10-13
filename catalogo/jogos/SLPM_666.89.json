@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_666.89",
+  "cover": {
+    "path": "PS2/SLPM_666.89/SLPM_666.89_COV.png",
+    "kind": "cover",
+    "bytes": 98341,
+    "width": 192,
+    "height": 272,
+    "sha256": "5c9f32d1ba9d8c17d7c6fdf090a079d35b4e5de910ee71761d183ceeb034a73c",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66689.jpg"
+    },
+    "gameId": "SLPM_666.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "PERSONA 3 FES [APPEND EDITION]"
+}

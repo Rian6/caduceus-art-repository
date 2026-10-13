@@ -1,0 +1,39 @@
+{
+  "id": "SLES_536.32",
+  "cover": {
+    "path": "PS2/SLES_536.32/SLES_536.32_COV.png",
+    "kind": "cover",
+    "bytes": 72993,
+    "width": 192,
+    "height": 272,
+    "sha256": "e4b6782a20c733ff1cb991737b082f3cd89a2fe0f29e94de585203afbb0ed0a3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53632.jpg"
+    },
+    "gameId": "SLES_536.32"
+  },
+  "disc": {
+    "path": "PS2/SLES_536.32/SLES_536.32_ICO.png",
+    "kind": "disc",
+    "bytes": 8279,
+    "width": 128,
+    "height": 128,
+    "sha256": "cc73229bada632025f9c7fa8bb9be73667bb53e26ec25a4bbdc75f16880d3260",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_536.32_ICO.png"
+    },
+    "gameId": "SLES_536.32"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dance UK - XL Party"
+}

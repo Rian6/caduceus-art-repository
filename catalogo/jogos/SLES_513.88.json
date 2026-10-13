@@ -1,0 +1,51 @@
+{
+  "id": "SLES_513.88",
+  "cover": {
+    "path": "PS2/SLES_513.88/SLES_513.88_COV.png",
+    "kind": "cover",
+    "bytes": 91940,
+    "width": 192,
+    "height": 272,
+    "sha256": "6e8106cf7a42b1aac77a42d264bf1f4303e3773cddb57bc143c91d7f2a4db662",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51388.jpg"
+    },
+    "gameId": "SLES_513.88"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_513.88/SLES_513.88_BG.png",
+    "kind": "background",
+    "bytes": 192547,
+    "width": 640,
+    "height": 480,
+    "sha256": "1bc2861a99c7ff72dd35a33750cfda928715d8c318b8bb0bd5d33fa54c5a9bff",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_513.88/SLES_513.88_BG_00.png"
+    },
+    "gameId": "SLES_513.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_513.88/SLES_513.88_BG.png",
+      "kind": "background",
+      "bytes": 192547,
+      "width": 640,
+      "height": 480,
+      "sha256": "1bc2861a99c7ff72dd35a33750cfda928715d8c318b8bb0bd5d33fa54c5a9bff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.88/SLES_513.88_BG_00.png"
+      },
+      "gameId": "SLES_513.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sega Bass Fishing Duel"
+}

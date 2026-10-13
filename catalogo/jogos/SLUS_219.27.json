@@ -1,0 +1,130 @@
+{
+  "id": "SLUS_219.27",
+  "cover": {
+    "path": "PS2/SLUS_219.27/SLUS_219.27_COV.png",
+    "kind": "cover",
+    "bytes": 104197,
+    "width": 192,
+    "height": 272,
+    "sha256": "7a3d4844c10a6db90a3a4b6a5b4911e0ceb81c0bbc82558e85c888a7c0013648",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21927.jpg"
+    },
+    "gameId": "SLUS_219.27"
+  },
+  "disc": {
+    "path": "PS2/SLUS_219.27/SLUS_219.27_ICO.png",
+    "kind": "disc",
+    "bytes": 31046,
+    "width": 256,
+    "height": 256,
+    "sha256": "f9720ce05461f3673161422f07367be4294fb1871471c53a385f4316e4831d4a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_219.27_ICO.png"
+    },
+    "gameId": "SLUS_219.27"
+  },
+  "background": {
+    "path": "PS2/SLUS_219.27/SLUS_219.27_BG.png",
+    "kind": "background",
+    "bytes": 167513,
+    "width": 640,
+    "height": 480,
+    "sha256": "27ad8ed5c8c147be4346e5b30a95f3cece939bf447f7a976b0f8959b5186f380",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_219.27/SLUS_219.27_BG_00.png"
+    },
+    "gameId": "SLUS_219.27"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_219.27/SLUS_219.27_BG.png",
+      "kind": "background",
+      "bytes": 167513,
+      "width": 640,
+      "height": 480,
+      "sha256": "27ad8ed5c8c147be4346e5b30a95f3cece939bf447f7a976b0f8959b5186f380",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.27/SLUS_219.27_BG_00.png"
+      },
+      "gameId": "SLUS_219.27"
+    },
+    {
+      "path": "PS2/SLUS_219.27/SLUS_219.27_BG_01.png",
+      "kind": "background",
+      "bytes": 202388,
+      "width": 640,
+      "height": 480,
+      "sha256": "2c2eaa1d18cace8b93f39b3cf1b025ea5f885cdfb9ee8ade8daace35ca3aaa54",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.27/SLUS_219.27_BG_01.png"
+      },
+      "gameId": "SLUS_219.27"
+    },
+    {
+      "path": "PS2/SLUS_219.27/SLUS_219.27_BG_02.png",
+      "kind": "background",
+      "bytes": 133973,
+      "width": 640,
+      "height": 480,
+      "sha256": "63b6f955a69cc706f77103c404b14f6d345ef07ecf3b532480a293b0f8d8fff0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.27/SLUS_219.27_BG_02.png"
+      },
+      "gameId": "SLUS_219.27"
+    },
+    {
+      "path": "PS2/SLUS_219.27/SLUS_219.27_BG_03.png",
+      "kind": "background",
+      "bytes": 185425,
+      "width": 640,
+      "height": 480,
+      "sha256": "4e4dc5e85b15eb16f8f7e3a8ed7dec4629c55333aa3d5d1c571620bd991fadd9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.27/SLUS_219.27_BG_03.png"
+      },
+      "gameId": "SLUS_219.27"
+    },
+    {
+      "path": "PS2/SLUS_219.27/SLUS_219.27_BG_04.png",
+      "kind": "background",
+      "bytes": 137790,
+      "width": 640,
+      "height": 480,
+      "sha256": "250d787bed9bce874b79451ab46d26ac94aee9d79fcdf7a9116da4b6e65cefbb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.27/SLUS_219.27_BG_04.png"
+      },
+      "gameId": "SLUS_219.27"
+    },
+    {
+      "path": "PS2/SLUS_219.27/SLUS_219.27_BG_05.png",
+      "kind": "background",
+      "bytes": 162365,
+      "width": 640,
+      "height": 480,
+      "sha256": "83ab050a73a01d69f8caa4d27054eb4a1e949ac6292f918edcaaf349f4403402",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_219.27/SLUS_219.27_BG_05.png"
+      },
+      "gameId": "SLUS_219.27"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sakura Wars: So Long, My Love (Disc 1) (English Voice Over)"
+}

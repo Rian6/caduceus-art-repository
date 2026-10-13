@@ -1,0 +1,64 @@
+{
+  "id": "SLES_523.96",
+  "cover": {
+    "path": "PS2/SLES_523.96/SLES_523.96_COV.png",
+    "kind": "cover",
+    "bytes": 78125,
+    "width": 192,
+    "height": 272,
+    "sha256": "229f34df72ac6d56e85a003e17266302fcb6e92e9d188efd5ee8c6d29c062f17",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52396.jpg"
+    },
+    "gameId": "SLES_523.96"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_523.96/SLES_523.96_BG.png",
+    "kind": "background",
+    "bytes": 163832,
+    "width": 640,
+    "height": 480,
+    "sha256": "3e3058065c7fb4587c19df4f3ea55d1e81caef08b81702f3497f1a3410b6576d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_523.96/SLES_523.96_BG_00.png"
+    },
+    "gameId": "SLES_523.96"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_523.96/SLES_523.96_BG.png",
+      "kind": "background",
+      "bytes": 163832,
+      "width": 640,
+      "height": 480,
+      "sha256": "3e3058065c7fb4587c19df4f3ea55d1e81caef08b81702f3497f1a3410b6576d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.96/SLES_523.96_BG_00.png"
+      },
+      "gameId": "SLES_523.96"
+    },
+    {
+      "path": "PS2/SLES_523.96/SLES_523.96_BG_01.png",
+      "kind": "background",
+      "bytes": 72015,
+      "width": 640,
+      "height": 480,
+      "sha256": "7e55daf68177389697d3b889e8b89816771a4ce45252c7252c468538e9f6c37d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_523.96/SLES_523.96_BG_01.png"
+      },
+      "gameId": "SLES_523.96"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "UEFA Euro 2004: Portugal"
+}

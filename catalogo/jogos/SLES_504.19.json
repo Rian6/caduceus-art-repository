@@ -1,0 +1,25 @@
+{
+  "id": "SLES_504.19",
+  "cover": {
+    "path": "PS2/SLES_504.19/SLES_504.19_COV.png",
+    "kind": "cover",
+    "bytes": 76355,
+    "width": 192,
+    "height": 272,
+    "sha256": "bc9b973134dc4cf3158acf9dd835c703ff5e9664b0106f33e2c0768ea83e3550",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50419.jpg"
+    },
+    "gameId": "SLES_504.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Supercar Street Challenge"
+}

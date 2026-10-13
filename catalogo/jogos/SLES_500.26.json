@@ -1,0 +1,25 @@
+{
+  "id": "SLES_500.26",
+  "cover": {
+    "path": "PS2/SLES_500.26/SLES_500.26_COV.png",
+    "kind": "cover",
+    "bytes": 60098,
+    "width": 192,
+    "height": 272,
+    "sha256": "43cd4e644aa52578746bda2ad3bf6f8e552127febaffe06e7ca7efb126d2a6de",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_500.26/SLES_500.26_COV.png"
+    },
+    "gameId": "SLES_500.26"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live 2001"
+}

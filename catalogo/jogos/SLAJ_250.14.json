@@ -1,0 +1,25 @@
+{
+  "id": "SLAJ_250.14",
+  "cover": {
+    "path": "PS2/SLAJ_250.14/SLAJ_250.14_COV.png",
+    "kind": "cover",
+    "bytes": 116266,
+    "width": 192,
+    "height": 272,
+    "sha256": "0103914725d4b53406f9201eabb0b73762cd3f10e0a8025a9bc79c543fae646e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLAJ-25014.jpg"
+    },
+    "gameId": "SLAJ_250.14"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CYBER TROOPERS - VIRTUAL-ON MARZ"
+}

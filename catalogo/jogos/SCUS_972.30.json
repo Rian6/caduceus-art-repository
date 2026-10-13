@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_972.30",
+  "cover": {
+    "path": "PS2/SCUS_972.30/SCUS_972.30_COV.png",
+    "kind": "cover",
+    "bytes": 104042,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a83754d93cdd1824af7aea626f734a9f0dd2e27bf1585c9624941d66a794886",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97230.jpg"
+    },
+    "gameId": "SCUS_972.30"
+  },
+  "disc": {
+    "path": "PS2/SCUS_972.30/SCUS_972.30_ICO.png",
+    "kind": "disc",
+    "bytes": 38160,
+    "width": 256,
+    "height": 256,
+    "sha256": "f050ca60a03df2ddd0c91e377caa4b4e6829684db92b29b807ab282c55d3ef1f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_972.30_ICO.png"
+    },
+    "gameId": "SCUS_972.30"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SOCOM 3: U.S. Navy SEALs (Greatest Hits)"
+}

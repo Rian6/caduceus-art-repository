@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_202.34",
+  "cover": {
+    "path": "PS2/SLUS_202.34/SLUS_202.34_COV.png",
+    "kind": "cover",
+    "bytes": 94492,
+    "width": 192,
+    "height": 272,
+    "sha256": "3fdd70fe6ea25b9022e2cc5252c62eefd905902d01581444fa4c2c68cee92920",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20234.jpg"
+    },
+    "gameId": "SLUS_202.34"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.34/SLUS_202.34_ICO.png",
+    "kind": "disc",
+    "bytes": 31566,
+    "width": 256,
+    "height": 256,
+    "sha256": "38e4981b0aaed4ee3779f0621cff594e7fd9bd757d0df46307fb2fb53d4e45f4",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.34_ICO.png"
+    },
+    "gameId": "SLUS_202.34"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.34/SLUS_202.34_BG.png",
+    "kind": "background",
+    "bytes": 232126,
+    "width": 640,
+    "height": 480,
+    "sha256": "47dfeeb22579c85eff07456b768d604f3f634cb91d7abea296248066f5c406f8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.34/SLUS_202.34_BG_00.png"
+    },
+    "gameId": "SLUS_202.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.34/SLUS_202.34_BG.png",
+      "kind": "background",
+      "bytes": 232126,
+      "width": 640,
+      "height": 480,
+      "sha256": "47dfeeb22579c85eff07456b768d604f3f634cb91d7abea296248066f5c406f8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.34/SLUS_202.34_BG_00.png"
+      },
+      "gameId": "SLUS_202.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MX Rider"
+}

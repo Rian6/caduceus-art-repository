@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_652.55",
+  "cover": {
+    "path": "PS2/SLPM_652.55/SLPM_652.55_COV.png",
+    "kind": "cover",
+    "bytes": 98819,
+    "width": 192,
+    "height": 272,
+    "sha256": "49ffbb060e4289d9ac3b2dab8eb16c15c1a50676f790467671296170dc5766b8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65255.jpg"
+    },
+    "gameId": "SLPM_652.55"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_652.55/SLPM_652.55_BG.png",
+    "kind": "background",
+    "bytes": 221127,
+    "width": 640,
+    "height": 480,
+    "sha256": "31e4729f00896a818dc1777bc9cb883e01d1a9687d684e67d2f3e11170c730f6",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_652.55/SLPM_652.55_BG_00.png"
+    },
+    "gameId": "SLPM_652.55"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_652.55/SLPM_652.55_BG.png",
+      "kind": "background",
+      "bytes": 221127,
+      "width": 640,
+      "height": 480,
+      "sha256": "31e4729f00896a818dc1777bc9cb883e01d1a9687d684e67d2f3e11170c730f6",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_652.55/SLPM_652.55_BG_00.png"
+      },
+      "gameId": "SLPM_652.55"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CHOBITS - CHIIDAKE NO HITO"
+}

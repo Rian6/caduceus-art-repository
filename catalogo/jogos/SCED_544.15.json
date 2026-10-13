@@ -1,0 +1,25 @@
+{
+  "id": "SCED_544.15",
+  "cover": {
+    "path": "PS2/SCED_544.15/SCED_544.15_COV.png",
+    "kind": "cover",
+    "bytes": 63381,
+    "width": 192,
+    "height": 272,
+    "sha256": "af034ef7aaf42b42c406f443b916ad292c5f4fcc2455d1d04fdf8547b742d638",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCED_544.15/SCED_544.15_COV.png"
+    },
+    "gameId": "SCED_544.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Official PlayStation 2 Magazine Demo 90"
+}

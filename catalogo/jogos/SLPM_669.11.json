@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_669.11",
+  "cover": {
+    "path": "PS2/SLPM_669.11/SLPM_669.11_COV.png",
+    "kind": "cover",
+    "bytes": 87968,
+    "width": 192,
+    "height": 272,
+    "sha256": "785dc158add72345e38d19d851367203ecf8a88fcd0cd5ac2cf8c1f3c7ce2dde",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66911.jpg"
+    },
+    "gameId": "SLPM_669.11"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FINALIST [PRINCESS SOFT COLLECTION]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_657.57",
+  "cover": {
+    "path": "PS2/SLPM_657.57/SLPM_657.57_COV.png",
+    "kind": "cover",
+    "bytes": 102588,
+    "width": 192,
+    "height": 272,
+    "sha256": "a2843cc675f923fc6f1f682bebe009fbe92f387da8a47468c52e64c7a6f586d1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65757.jpg"
+    },
+    "gameId": "SLPM_657.57"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEDAL OF HONOR - RISING SUN [EA BEST HITS]"
+}

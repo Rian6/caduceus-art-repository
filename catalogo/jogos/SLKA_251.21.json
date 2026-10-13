@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_251.21",
+  "cover": {
+    "path": "PS2/SLKA_251.21/SLKA_251.21_COV.png",
+    "kind": "cover",
+    "bytes": 57874,
+    "width": 192,
+    "height": 272,
+    "sha256": "826aff57ddbfa270f51444ec62b9b126ee8bc0fa7cf082cab60ba8e03944e2ae",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_251.21/SLKA_251.21_COV.png"
+    },
+    "gameId": "SLKA_251.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Vexx"
+}

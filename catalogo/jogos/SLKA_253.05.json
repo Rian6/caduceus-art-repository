@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.05",
+  "cover": {
+    "path": "PS2/SLKA_253.05/SLKA_253.05_COV.png",
+    "kind": "cover",
+    "bytes": 58211,
+    "width": 192,
+    "height": 272,
+    "sha256": "b32774a9e4636677cc1545f43d85533f8b69933d5da370efe68dbbf39ccab5c1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_253.05/SLKA_253.05_COV.png"
+    },
+    "gameId": "SLKA_253.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Taito Memories Gekan"
+}

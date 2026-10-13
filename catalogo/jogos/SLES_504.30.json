@@ -1,0 +1,25 @@
+{
+  "id": "SLES_504.30",
+  "cover": {
+    "path": "PS2/SLES_504.30/SLES_504.30_COV.png",
+    "kind": "cover",
+    "bytes": 85998,
+    "width": 192,
+    "height": 272,
+    "sha256": "9c518bea6bef486f704eb5016af4b451388dc4770a11440635b5ffd5ead9e062",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50430.jpg"
+    },
+    "gameId": "SLES_504.30"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN Winter X-Game Skateboarding"
+}

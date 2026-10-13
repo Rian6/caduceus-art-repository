@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_213.24",
+  "cover": {
+    "path": "PS2/SLUS_213.24/SLUS_213.24_COV.png",
+    "kind": "cover",
+    "bytes": 101011,
+    "width": 192,
+    "height": 272,
+    "sha256": "2246c72147e66b534b218118488691a1d1863049a6f8dbdeabbd4ce7417efa16",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21324.jpg"
+    },
+    "gameId": "SLUS_213.24"
+  },
+  "disc": {
+    "path": "PS2/SLUS_213.24/SLUS_213.24_ICO.png",
+    "kind": "disc",
+    "bytes": 34997,
+    "width": 256,
+    "height": 256,
+    "sha256": "54a04eccc5e85acb77ca64665ebb2a34b8190a661003c74ebc4b6412296d318a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_213.24_ICO.png"
+    },
+    "gameId": "SLUS_213.24"
+  },
+  "background": {
+    "path": "PS2/SLUS_213.24/SLUS_213.24_BG.png",
+    "kind": "background",
+    "bytes": 164935,
+    "width": 640,
+    "height": 480,
+    "sha256": "5eeb01485b3f73871c6735cd849c375722a3b148dba69be52e30eed5a3dd04f1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_213.24/SLUS_213.24_BG_00.png"
+    },
+    "gameId": "SLUS_213.24"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_213.24/SLUS_213.24_BG.png",
+      "kind": "background",
+      "bytes": 164935,
+      "width": 640,
+      "height": 480,
+      "sha256": "5eeb01485b3f73871c6735cd849c375722a3b148dba69be52e30eed5a3dd04f1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_213.24/SLUS_213.24_BG_00.png"
+      },
+      "gameId": "SLUS_213.24"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Major League Baseball 2K5 (World Series Edition)"
+}

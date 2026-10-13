@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_216.49",
+  "cover": {
+    "path": "PS2/SLUS_216.49/SLUS_216.49_COV.png",
+    "kind": "cover",
+    "bytes": 88589,
+    "width": 192,
+    "height": 272,
+    "sha256": "503545b1153b29b1d40a39349d9966384fd969df6b2a111139d6cb224beaae80",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21649.jpg"
+    },
+    "gameId": "SLUS_216.49"
+  },
+  "disc": {
+    "path": "PS2/SLUS_216.49/SLUS_216.49_ICO.png",
+    "kind": "disc",
+    "bytes": 34371,
+    "width": 256,
+    "height": 256,
+    "sha256": "d3a5ec4afddadbbcc517fe0d2d0b9b7415713f14abd2c6a668f5d2b42d7164f1",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_216.49_ICO.png"
+    },
+    "gameId": "SLUS_216.49"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NBA Live '08"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPS_256.40",
+  "cover": {
+    "path": "PS2/SLPS_256.40/SLPS_256.40_COV.png",
+    "kind": "cover",
+    "bytes": 86505,
+    "width": 192,
+    "height": 272,
+    "sha256": "712786ffdfbeb3fcf2f6d7d2e42dd62625f40b9de89a5c73b02895478857660b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25640.jpg"
+    },
+    "gameId": "SLPS_256.40"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPS_256.40/SLPS_256.40_BG.png",
+    "kind": "background",
+    "bytes": 167536,
+    "width": 640,
+    "height": 480,
+    "sha256": "cfa0c0fdcd3a8d540517d43f02d49602558ed5077aa060325ae4934acd4434b4",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_256.40/SLPS_256.40_BG_00.png"
+    },
+    "gameId": "SLPS_256.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_256.40/SLPS_256.40_BG.png",
+      "kind": "background",
+      "bytes": 167536,
+      "width": 640,
+      "height": 480,
+      "sha256": "cfa0c0fdcd3a8d540517d43f02d49602558ed5077aa060325ae4934acd4434b4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_256.40/SLPS_256.40_BG_00.png"
+      },
+      "gameId": "SLPS_256.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Xenosaga Episode III - Also Sprach Zarathustra [2 DISCS]"
+}

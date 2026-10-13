@@ -1,0 +1,77 @@
+{
+  "id": "SCES_550.60",
+  "cover": {
+    "path": "PS2/SCES_550.60/SCES_550.60_COV.png",
+    "kind": "cover",
+    "bytes": 44245,
+    "width": 192,
+    "height": 272,
+    "sha256": "aad294f0d3f870007fc15c8679f28ab2f8be11b90e9264a2b0601b8d263788ec",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_550.60/SCES_550.60_COV.png"
+    },
+    "gameId": "SCES_550.60"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCES_550.60/SCES_550.60_BG.png",
+    "kind": "background",
+    "bytes": 74440,
+    "width": 640,
+    "height": 480,
+    "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_550.60/SCES_550.60_BG_00.png"
+    },
+    "gameId": "SCES_550.60"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_550.60/SCES_550.60_BG.png",
+      "kind": "background",
+      "bytes": 74440,
+      "width": 640,
+      "height": 480,
+      "sha256": "da8eb8d2e643089af91bf95f44a92984fc802de10576d51ec4ab7c3fe2bee4c9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_550.60/SCES_550.60_BG_00.png"
+      },
+      "gameId": "SCES_550.60"
+    },
+    {
+      "path": "PS2/SCES_550.60/SCES_550.60_BG_01.png",
+      "kind": "background",
+      "bytes": 207298,
+      "width": 640,
+      "height": 480,
+      "sha256": "e9d7ea77ed17e4106b3d804f9e92956afeb4e709c5b1dc8d5e7e5610ec887991",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_550.60/SCES_550.60_BG_01.png"
+      },
+      "gameId": "SCES_550.60"
+    },
+    {
+      "path": "PS2/SCES_550.60/SCES_550.60_BG_02.png",
+      "kind": "background",
+      "bytes": 91806,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c9d096f99141b443ecb806fcff9b28d9c4dee79abb4ba1a6e753dad93e7a17e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_550.60/SCES_550.60_BG_02.png"
+      },
+      "gameId": "SCES_550.60"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SingStar Summer Party"
+}

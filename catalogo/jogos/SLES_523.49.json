@@ -1,0 +1,39 @@
+{
+  "id": "SLES_523.49",
+  "cover": {
+    "path": "PS2/SLES_523.49/SLES_523.49_COV.png",
+    "kind": "cover",
+    "bytes": 77883,
+    "width": 192,
+    "height": 272,
+    "sha256": "e885b7707acaf1e1d85a809d8f80d922413028d4e4877eebcc294b3e9390370b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52349.jpg"
+    },
+    "gameId": "SLES_523.49"
+  },
+  "disc": {
+    "path": "PS2/SLES_523.49/SLES_523.49_ICO.png",
+    "kind": "disc",
+    "bytes": 9819,
+    "width": 128,
+    "height": 128,
+    "sha256": "813e689be2556c6a41e940356f26e1394d3592e7afaf7313e36965c50f49ba62",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_523.49_ICO.png"
+    },
+    "gameId": "SLES_523.49"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "INTERNATIONAL GOLF PRO"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.21",
+  "cover": {
+    "path": "PS2/SLPS_257.21/SLPS_257.21_COV.png",
+    "kind": "cover",
+    "bytes": 102588,
+    "width": 192,
+    "height": 272,
+    "sha256": "8accd7e77d02cac6267c5ccafc6f4ac6598b020b859ed1929f1daf855a3ad559",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25721.jpg"
+    },
+    "gameId": "SLPS_257.21"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HIMEHIBI - PRINCESS DAYS"
+}

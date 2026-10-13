@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.22",
+  "cover": {
+    "path": "PS2/SLPS_203.22/SLPS_203.22_COV.png",
+    "kind": "cover",
+    "bytes": 74345,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2bc74ebc99cba362ca2b18bda01a0fe39d9624b685630bf06de69bd634ee3eb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20322.jpg"
+    },
+    "gameId": "SLPS_203.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Netsu Chu! Pro Baseball 2003 - Aki no Night Matsuri"
+}

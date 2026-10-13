@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_204.99",
+  "cover": {
+    "path": "PS2/SLPS_204.99/SLPS_204.99_COV.png",
+    "kind": "cover",
+    "bytes": 76007,
+    "width": 192,
+    "height": 272,
+    "sha256": "fdd7fc62516ab67df73da1a1fa8b42f8964b5b6d21ada6a6b3f8d102bd4d0dad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20499.jpg"
+    },
+    "gameId": "SLPS_204.99"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Inaka Kurashi - Nan no Shima no Monogatari (Super Best Collection)"
+}

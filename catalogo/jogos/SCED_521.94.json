@@ -1,0 +1,25 @@
+{
+  "id": "SCED_521.94",
+  "cover": {
+    "path": "PS2/SCED_521.94/SCED_521.94_COV.png",
+    "kind": "cover",
+    "bytes": 87888,
+    "width": 192,
+    "height": 272,
+    "sha256": "a752029ad8ff63f78f15b884e6983de2ba311958c7e6f6cc65ca1b0ec7dc75b5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCED-52194.jpg"
+    },
+    "gameId": "SCED_521.94"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Official PlayStation 2 Magazine-UK Special Edition 19: 2004 Classics Hitlist"
+}

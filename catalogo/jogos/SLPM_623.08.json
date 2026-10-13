@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_623.08",
+  "cover": {
+    "path": "PS2/SLPM_623.08/SLPM_623.08_COV.png",
+    "kind": "cover",
+    "bytes": 73754,
+    "width": 192,
+    "height": 272,
+    "sha256": "8fe0108c676b1e670c145dd1ffd709309039700a13a3efc9e1ffc90be4d3579d",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62308.jpg"
+    },
+    "gameId": "SLPM_623.08"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_623.08/SLPM_623.08_BG.png",
+    "kind": "background",
+    "bytes": 155580,
+    "width": 640,
+    "height": 480,
+    "sha256": "d2e59760860dd2983da66a963c3e0a51abbdfa4dfe84afe2da8c483ca2e6fef8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_623.08/SLPM_623.08_BG_00.png"
+    },
+    "gameId": "SLPM_623.08"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_623.08/SLPM_623.08_BG.png",
+      "kind": "background",
+      "bytes": 155580,
+      "width": 640,
+      "height": 480,
+      "sha256": "d2e59760860dd2983da66a963c3e0a51abbdfa4dfe84afe2da8c483ca2e6fef8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_623.08/SLPM_623.08_BG_00.png"
+      },
+      "gameId": "SLPM_623.08"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.24 - The Bowling Hyper"
+}

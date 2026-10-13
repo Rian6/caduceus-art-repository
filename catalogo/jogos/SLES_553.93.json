@@ -1,0 +1,25 @@
+{
+  "id": "SLES_553.93",
+  "cover": {
+    "path": "PS2/SLES_553.93/SLES_553.93_COV.png",
+    "kind": "cover",
+    "bytes": 83999,
+    "width": 192,
+    "height": 272,
+    "sha256": "c3a0369898fbe7ddbdf95cb6cc41da718666ad783ddbbfaf7f87610b6b3f6bc0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55393.jpg"
+    },
+    "gameId": "SLES_553.93"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Disney's Sing It"
+}

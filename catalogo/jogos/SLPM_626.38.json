@@ -1,0 +1,142 @@
+{
+  "id": "SLPM_626.38",
+  "cover": {
+    "path": "PS2/SLPM_626.38/SLPM_626.38_COV.png",
+    "kind": "cover",
+    "bytes": 89969,
+    "width": 192,
+    "height": 272,
+    "sha256": "a5df7b610059a4dd9d9114e522fd59e5f2a513cdc682732f708b3b8f9f80270f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62638.jpg"
+    },
+    "gameId": "SLPM_626.38"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_626.38/SLPM_626.38_BG.png",
+    "kind": "background",
+    "bytes": 215362,
+    "width": 640,
+    "height": 480,
+    "sha256": "c7bac4b4de9a425fb0aa46ac69cd52b9b89f2aea110b7a59cf9d8b6b8cea0205",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_626.38/SLPM_626.38_BG_00.png"
+    },
+    "gameId": "SLPM_626.38"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_626.38/SLPM_626.38_BG.png",
+      "kind": "background",
+      "bytes": 215362,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7bac4b4de9a425fb0aa46ac69cd52b9b89f2aea110b7a59cf9d8b6b8cea0205",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.38/SLPM_626.38_BG_00.png"
+      },
+      "gameId": "SLPM_626.38"
+    },
+    {
+      "path": "PS2/SLPM_626.38/SLPM_626.38_BG_01.png",
+      "kind": "background",
+      "bytes": 186087,
+      "width": 640,
+      "height": 480,
+      "sha256": "75e162fc1b8ed38a2361a96256fbd1d28186b9ab8fec7735697785d13d8d6c7c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.38/SLPM_626.38_BG_01.png"
+      },
+      "gameId": "SLPM_626.38"
+    },
+    {
+      "path": "PS2/SLPM_626.38/SLPM_626.38_BG_02.png",
+      "kind": "background",
+      "bytes": 215488,
+      "width": 640,
+      "height": 480,
+      "sha256": "eac84605d81c2635eb8259d5b060ff74a0e363babddda7f106f50e2092b6b06c",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.38/SLPM_626.38_BG_02.png"
+      },
+      "gameId": "SLPM_626.38"
+    },
+    {
+      "path": "PS2/SLPM_626.38/SLPM_626.38_BG_03.png",
+      "kind": "background",
+      "bytes": 191679,
+      "width": 640,
+      "height": 480,
+      "sha256": "36839a69145ee5c6dd38cf46151846412685cf941e83aa6fb98251c83b9d20e4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.38/SLPM_626.38_BG_03.png"
+      },
+      "gameId": "SLPM_626.38"
+    },
+    {
+      "path": "PS2/SLPM_626.38/SLPM_626.38_BG_04.png",
+      "kind": "background",
+      "bytes": 228945,
+      "width": 640,
+      "height": 480,
+      "sha256": "8d126004440942ef5285f94a2d3dcef120151ab9a17c8f618311eb6882dd8fc3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.38/SLPM_626.38_BG_04.png"
+      },
+      "gameId": "SLPM_626.38"
+    },
+    {
+      "path": "PS2/SLPM_626.38/SLPM_626.38_BG_05.png",
+      "kind": "background",
+      "bytes": 238239,
+      "width": 640,
+      "height": 480,
+      "sha256": "2d1716b6d9021e7b3fc5383d96572446cedfbca7d3d0c32f452484e3a12e0f09",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.38/SLPM_626.38_BG_05.png"
+      },
+      "gameId": "SLPM_626.38"
+    },
+    {
+      "path": "PS2/SLPM_626.38/SLPM_626.38_BG_06.png",
+      "kind": "background",
+      "bytes": 212895,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ab2b149e0c03598c500a140ebdf60921baa5f53191159d0b06b8ad3e24b0efd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.38/SLPM_626.38_BG_06.png"
+      },
+      "gameId": "SLPM_626.38"
+    },
+    {
+      "path": "PS2/SLPM_626.38/SLPM_626.38_BG_07.png",
+      "kind": "background",
+      "bytes": 259385,
+      "width": 640,
+      "height": 480,
+      "sha256": "5cd50e57d54b1ba3beddfc5f2dd18b26282770c29a8a233a8c804f70f45bcb24",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_626.38/SLPM_626.38_BG_07.png"
+      },
+      "gameId": "SLPM_626.38"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Simple 2000 Series  Vol.80 - The Oneechamploo  - The Neechan Toketsuban"
+}

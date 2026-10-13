@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_201.17",
+  "cover": {
+    "path": "PS2/SCAJ_201.17/SCAJ_201.17_COV.png",
+    "kind": "cover",
+    "bytes": 87364,
+    "width": 192,
+    "height": 272,
+    "sha256": "80673eaf8322a016cfa96acaee8efc32c2834e500acfa5b6a463fa97376ef10e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20117.jpg"
+    },
+    "gameId": "SCAJ_201.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FUUN BAKUMATSUDEN"
+}

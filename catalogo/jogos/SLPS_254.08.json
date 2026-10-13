@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.08",
+  "cover": {
+    "path": "PS2/SLPS_254.08/SLPS_254.08_COV.png",
+    "kind": "cover",
+    "bytes": 90781,
+    "width": 192,
+    "height": 272,
+    "sha256": "71728812bbf24cf8b3c69d32aa919e5102de573f4bd6c207f25707a8e8919007",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25408.jpg"
+    },
+    "gameId": "SLPS_254.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Armored Core - Nine Breaker"
+}

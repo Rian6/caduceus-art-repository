@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.82",
+  "cover": {
+    "path": "PS2/SLPS_201.82/SLPS_201.82_COV.png",
+    "kind": "cover",
+    "bytes": 101977,
+    "width": 192,
+    "height": 272,
+    "sha256": "72444e470cc8bd3606e8642c705a62f93c7e1f44a97ce5a5bb4b5fda5b266d69",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20182.jpg"
+    },
+    "gameId": "SLPS_201.82"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Real Bass Fishing - Top Angler"
+}

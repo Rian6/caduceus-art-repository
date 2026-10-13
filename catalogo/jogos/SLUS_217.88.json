@@ -1,0 +1,143 @@
+{
+  "id": "SLUS_217.88",
+  "cover": {
+    "path": "PS2/SLUS_217.88/SLUS_217.88_COV.png",
+    "kind": "cover",
+    "bytes": 99359,
+    "width": 192,
+    "height": 272,
+    "sha256": "72e042f8d66c0837bc3b5744fdd762a7344bcc5a197a9de83f0d3d33d1584799",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21788.jpg"
+    },
+    "gameId": "SLUS_217.88"
+  },
+  "disc": {
+    "path": "PS2/SLUS_217.88/SLUS_217.88_ICO.png",
+    "kind": "disc",
+    "bytes": 36816,
+    "width": 256,
+    "height": 256,
+    "sha256": "b0d514f358e2fd50535afc7c1d4f6db5535acf5e63f0833e7283bf18eadb7e6d",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_217.88_ICO.png"
+    },
+    "gameId": "SLUS_217.88"
+  },
+  "background": {
+    "path": "PS2/SLUS_217.88/SLUS_217.88_BG.png",
+    "kind": "background",
+    "bytes": 181011,
+    "width": 640,
+    "height": 480,
+    "sha256": "26bbb6dbc6ddc6b5faaf969df9d0ed3bfffbd4fde3d3854f4241dc1939cc8065",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_217.88/SLUS_217.88_BG_00.png"
+    },
+    "gameId": "SLUS_217.88"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_217.88/SLUS_217.88_BG.png",
+      "kind": "background",
+      "bytes": 181011,
+      "width": 640,
+      "height": 480,
+      "sha256": "26bbb6dbc6ddc6b5faaf969df9d0ed3bfffbd4fde3d3854f4241dc1939cc8065",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.88/SLUS_217.88_BG_00.png"
+      },
+      "gameId": "SLUS_217.88"
+    },
+    {
+      "path": "PS2/SLUS_217.88/SLUS_217.88_BG_01.png",
+      "kind": "background",
+      "bytes": 172252,
+      "width": 640,
+      "height": 480,
+      "sha256": "5deffed82fe759bdbfcc640fa3e2cc7c842c0183b53c06bae0e2aed2c8dc19e0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.88/SLUS_217.88_BG_01.png"
+      },
+      "gameId": "SLUS_217.88"
+    },
+    {
+      "path": "PS2/SLUS_217.88/SLUS_217.88_BG_02.png",
+      "kind": "background",
+      "bytes": 179029,
+      "width": 640,
+      "height": 480,
+      "sha256": "c8b74aaeda2222f78fb67a994780a78855adb0ea43a501daaa2f102e45f46b7b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.88/SLUS_217.88_BG_02.png"
+      },
+      "gameId": "SLUS_217.88"
+    },
+    {
+      "path": "PS2/SLUS_217.88/SLUS_217.88_BG_03.png",
+      "kind": "background",
+      "bytes": 107253,
+      "width": 640,
+      "height": 480,
+      "sha256": "d804d8c24ef10b1a0f68304dc251dc5eb738d2e7e3f2ddba07c9780e83d31c6d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.88/SLUS_217.88_BG_03.png"
+      },
+      "gameId": "SLUS_217.88"
+    },
+    {
+      "path": "PS2/SLUS_217.88/SLUS_217.88_BG_04.png",
+      "kind": "background",
+      "bytes": 147252,
+      "width": 640,
+      "height": 480,
+      "sha256": "89cb90b170bc92edfba37993056a506bfa26e66bde668f5515f784ca062a7a2d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.88/SLUS_217.88_BG_04.png"
+      },
+      "gameId": "SLUS_217.88"
+    },
+    {
+      "path": "PS2/SLUS_217.88/SLUS_217.88_BG_05.png",
+      "kind": "background",
+      "bytes": 170179,
+      "width": 640,
+      "height": 480,
+      "sha256": "ed91bc3eaddac91be15701bf364659feb6e73ee0736831a014ea59cd1be5b9f3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.88/SLUS_217.88_BG_05.png"
+      },
+      "gameId": "SLUS_217.88"
+    },
+    {
+      "path": "PS2/SLUS_217.88/SLUS_217.88_BG_06.png",
+      "kind": "background",
+      "bytes": 122887,
+      "width": 640,
+      "height": 480,
+      "sha256": "c3f9d6b4a0126f994843e6ebc8e51ef0c4e21ef5b617b5147bc8ceecc6228cd2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_217.88/SLUS_217.88_BG_06.png"
+      },
+      "gameId": "SLUS_217.88"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ar Tornelico 2 - Melody of Metafalica"
+}

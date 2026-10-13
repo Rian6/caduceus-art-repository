@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_725.01",
+  "cover": {
+    "path": "PS2/SLPS_725.01/SLPS_725.01_COV.png",
+    "kind": "cover",
+    "bytes": 48187,
+    "width": 192,
+    "height": 272,
+    "sha256": "ae1f0dc2e2a66f136ec428b800edd2d715b59287280a7b45e929d2c16cfbdc98",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-72501.jpg"
+    },
+    "gameId": "SLPS_725.01"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FINAL FANTASY X [MEGA HITS]"
+}

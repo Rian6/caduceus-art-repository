@@ -1,0 +1,51 @@
+{
+  "id": "SCKA_200.51",
+  "cover": {
+    "path": "PS2/SCKA_200.51/SCKA_200.51_COV.png",
+    "kind": "cover",
+    "bytes": 81050,
+    "width": 192,
+    "height": 272,
+    "sha256": "3a7e09653c1ae149c2b06f9a875b45e0413b45dff681dc5b3c51ece0e87d5488",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20051.jpg"
+    },
+    "gameId": "SCKA_200.51"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCKA_200.51/SCKA_200.51_BG.png",
+    "kind": "background",
+    "bytes": 64316,
+    "width": 640,
+    "height": 480,
+    "sha256": "8058ae7473797635925fd349a5c37f4de3ba00c162948a83197e6d197cdae254",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_200.51/SCKA_200.51_BG_00.png"
+    },
+    "gameId": "SCKA_200.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCKA_200.51/SCKA_200.51_BG.png",
+      "kind": "background",
+      "bytes": 64316,
+      "width": 640,
+      "height": 480,
+      "sha256": "8058ae7473797635925fd349a5c37f4de3ba00c162948a83197e6d197cdae254",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCKA_200.51/SCKA_200.51_BG_00.png"
+      },
+      "gameId": "SCKA_200.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MINNA DAISUKI KATAMARI DAMACY"
+}

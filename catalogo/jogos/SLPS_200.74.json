@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.74",
+  "cover": {
+    "path": "PS2/SLPS_200.74/SLPS_200.74_COV.png",
+    "kind": "cover",
+    "bytes": 95218,
+    "width": 192,
+    "height": 272,
+    "sha256": "7694e8889ce866312c03b8e426770fc191208161be88289b08e84bddab511f3b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20074.jpg"
+    },
+    "gameId": "SLPS_200.74"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kousoku Tanigawa Shogi"
+}

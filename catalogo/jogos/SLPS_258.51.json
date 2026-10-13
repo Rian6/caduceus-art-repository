@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_258.51",
+  "cover": {
+    "path": "PS2/SLPS_258.51/SLPS_258.51_COV.png",
+    "kind": "cover",
+    "bytes": 55152,
+    "width": 192,
+    "height": 272,
+    "sha256": "81adb5aed99ac5158ad58985245ecf9264eac528da59a8aa6e8dee7ef28687f8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25851.jpg"
+    },
+    "gameId": "SLPS_258.51"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZETTAI ZETSUMEI TOSHI 2 - ITETSUITA KIOKUTACHI [IREM COLLECTION]"
+}

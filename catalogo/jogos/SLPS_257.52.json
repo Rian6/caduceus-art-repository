@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.52",
+  "cover": {
+    "path": "PS2/SLPS_257.52/SLPS_257.52_COV.png",
+    "kind": "cover",
+    "bytes": 96533,
+    "width": 192,
+    "height": 272,
+    "sha256": "88408177c49a5859c6c8704d72a11c2d1f5cc54d255a33fd0eef51192b8796c0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25752.jpg"
+    },
+    "gameId": "SLPS_257.52"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GAKUEN UTOPIA MANABI STRAIGHT! KIRAKIRA HAPPY FESTA!"
+}

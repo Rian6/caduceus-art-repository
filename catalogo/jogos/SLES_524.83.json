@@ -1,0 +1,25 @@
+{
+  "id": "SLES_524.83",
+  "cover": {
+    "path": "PS2/SLES_524.83/SLES_524.83_COV.png",
+    "kind": "cover",
+    "bytes": 87342,
+    "width": 192,
+    "height": 272,
+    "sha256": "ad8298e2357df45e5bc31e3b275280ff87504821c9ce679b43a60468cdc9ec52",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52483.jpg"
+    },
+    "gameId": "SLES_524.83"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Championship Pool 2004"
+}

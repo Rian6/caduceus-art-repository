@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_203.87",
+  "cover": {
+    "path": "PS2/SLPS_203.87/SLPS_203.87_COV.png",
+    "kind": "cover",
+    "bytes": 64284,
+    "width": 192,
+    "height": 272,
+    "sha256": "174d7ae93c71934fa3cea75d816e3390c1f38aa11ca3ab1b765e2f59394bcc73",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_203.87/SLPS_203.87_COV.png"
+    },
+    "gameId": "SLPS_203.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shogi 4 (Value 2000 Series)"
+}

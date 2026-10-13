@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_254.80",
+  "cover": {
+    "path": "PS2/SLKA_254.80/SLKA_254.80_COV.png",
+    "kind": "cover",
+    "bytes": 63854,
+    "width": 192,
+    "height": 272,
+    "sha256": "be45715e28ce62cd179ca98d874488ee2a05fb735b2e83d21a700db46a6d2331",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLKA_254.80/SLKA_254.80_COV.png"
+    },
+    "gameId": "SLKA_254.80"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Soccer Winning Eleven 2012"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLES_516.25",
+  "cover": {
+    "path": "PS2/SLES_516.25/SLES_516.25_COV.png",
+    "kind": "cover",
+    "bytes": 91764,
+    "width": 192,
+    "height": 272,
+    "sha256": "1d11793c89e4b7631d0ad58f8fb1b270aaf3e4f4da9a171317630f686b11bdeb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51625.jpg"
+    },
+    "gameId": "SLES_516.25"
+  },
+  "disc": {
+    "path": "PS2/SLES_516.25/SLES_516.25_ICO.png",
+    "kind": "disc",
+    "bytes": 10395,
+    "width": 128,
+    "height": 128,
+    "sha256": "2928ee84dcc9ab96d79984e876ffdb0bfeb2a096869b0a63baeaa3d158545f26",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_516.25_ICO.png"
+    },
+    "gameId": "SLES_516.25"
+  },
+  "background": {
+    "path": "PS2/SLES_516.25/SLES_516.25_BG.png",
+    "kind": "background",
+    "bytes": 171772,
+    "width": 640,
+    "height": 480,
+    "sha256": "9f864997ec108889b065491cd16edb36df879cfda53bc68977d46f5dd21f9321",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_516.25/SLES_516.25_BG_00.png"
+    },
+    "gameId": "SLES_516.25"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_516.25/SLES_516.25_BG.png",
+      "kind": "background",
+      "bytes": 171772,
+      "width": 640,
+      "height": 480,
+      "sha256": "9f864997ec108889b065491cd16edb36df879cfda53bc68977d46f5dd21f9321",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_516.25/SLES_516.25_BG_00.png"
+      },
+      "gameId": "SLES_516.25"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ultimate Mindgames"
+}

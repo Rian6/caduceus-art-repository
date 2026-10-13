@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_200.13",
+  "cover": {
+    "path": "PS2/SLUS_200.13/SLUS_200.13_COV.png",
+    "kind": "cover",
+    "bytes": 100451,
+    "width": 192,
+    "height": 272,
+    "sha256": "9e4676351c3a0c5e72301c8a3bdc1965d9ab950d012ff69a9844f7ade1d69e1e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20013.jpg"
+    },
+    "gameId": "SLUS_200.13"
+  },
+  "disc": {
+    "path": "PS2/SLUS_200.13/SLUS_200.13_ICO.png",
+    "kind": "disc",
+    "bytes": 32172,
+    "width": 256,
+    "height": 256,
+    "sha256": "867fcbff8fd173767cd978de0826e29c620d8840fbcfdd3795b5e94db048001a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_200.13_ICO.png"
+    },
+    "gameId": "SLUS_200.13"
+  },
+  "background": {
+    "path": "PS2/SLUS_200.13/SLUS_200.13_BG.png",
+    "kind": "background",
+    "bytes": 208409,
+    "width": 640,
+    "height": 480,
+    "sha256": "0ed4988a1afd8af49754a08910cf2dd6cc6e97db77f7bcec82182a72df389269",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_200.13/SLUS_200.13_BG_00.png"
+    },
+    "gameId": "SLUS_200.13"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_200.13/SLUS_200.13_BG.png",
+      "kind": "background",
+      "bytes": 208409,
+      "width": 640,
+      "height": 480,
+      "sha256": "0ed4988a1afd8af49754a08910cf2dd6cc6e97db77f7bcec82182a72df389269",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.13/SLUS_200.13_BG_00.png"
+      },
+      "gameId": "SLUS_200.13"
+    },
+    {
+      "path": "PS2/SLUS_200.13/SLUS_200.13_BG_01.png",
+      "kind": "background",
+      "bytes": 188285,
+      "width": 640,
+      "height": 480,
+      "sha256": "c4d2c7906532202425614e0dc2670c87e91995b805142f17c1df138b6aed0efa",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.13/SLUS_200.13_BG_01.png"
+      },
+      "gameId": "SLUS_200.13"
+    },
+    {
+      "path": "PS2/SLUS_200.13/SLUS_200.13_BG_02.png",
+      "kind": "background",
+      "bytes": 74371,
+      "width": 640,
+      "height": 480,
+      "sha256": "c7c34b002a42bf1405a5f185c1ad131c2fa75a019e63b2e5d369cce2894327ab",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.13/SLUS_200.13_BG_02.png"
+      },
+      "gameId": "SLUS_200.13"
+    },
+    {
+      "path": "PS2/SLUS_200.13/SLUS_200.13_BG_03.png",
+      "kind": "background",
+      "bytes": 164795,
+      "width": 640,
+      "height": 480,
+      "sha256": "0843698cc4217930199182b741652eb7ba28926b353143d5f84eab8086f00bc4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.13/SLUS_200.13_BG_03.png"
+      },
+      "gameId": "SLUS_200.13"
+    },
+    {
+      "path": "PS2/SLUS_200.13/SLUS_200.13_BG_04.png",
+      "kind": "background",
+      "bytes": 157578,
+      "width": 640,
+      "height": 480,
+      "sha256": "13140de99c2e29ef79412c55cbd082939f665902222feab3966cbd31cb3b54e2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_200.13/SLUS_200.13_BG_04.png"
+      },
+      "gameId": "SLUS_200.13"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tony Hawk's Pro Skater 3"
+}

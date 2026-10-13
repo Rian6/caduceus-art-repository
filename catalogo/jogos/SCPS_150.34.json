@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_150.34",
+  "cover": {
+    "path": "PS2/SCPS_150.34/SCPS_150.34_COV.png",
+    "kind": "cover",
+    "bytes": 95895,
+    "width": 192,
+    "height": 272,
+    "sha256": "dd8c1773c79f4faf868e7552a7dd89512adb33466e14c2b3d860958be329c9c1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-15034.jpg"
+    },
+    "gameId": "SCPS_150.34"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_150.34/SCPS_150.34_BG.png",
+    "kind": "background",
+    "bytes": 119558,
+    "width": 640,
+    "height": 480,
+    "sha256": "ceeebcc9ecba4c301c60554654f513785c805c34f3247c44b8bec46c56d117d8",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_150.34/SCPS_150.34_BG_00.png"
+    },
+    "gameId": "SCPS_150.34"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_150.34/SCPS_150.34_BG.png",
+      "kind": "background",
+      "bytes": 119558,
+      "width": 640,
+      "height": 480,
+      "sha256": "ceeebcc9ecba4c301c60554654f513785c805c34f3247c44b8bec46c56d117d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_150.34/SCPS_150.34_BG_00.png"
+      },
+      "gameId": "SCPS_150.34"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "This is Football 2003"
+}

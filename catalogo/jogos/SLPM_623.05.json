@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_623.05",
+  "cover": {
+    "path": "PS2/SLPM_623.05/SLPM_623.05_COV.png",
+    "kind": "cover",
+    "bytes": 62465,
+    "width": 192,
+    "height": 272,
+    "sha256": "46a087838b887524f1170668a149bd8b9c7175ddc9ee5d32097b93707de278a6",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62305.jpg"
+    },
+    "gameId": "SLPM_623.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SuperLite 2000 Vol. 4 - Othello"
+}

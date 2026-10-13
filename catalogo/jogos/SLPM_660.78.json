@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.78",
+  "cover": {
+    "path": "PS2/SLPM_660.78/SLPM_660.78_COV.png",
+    "kind": "cover",
+    "bytes": 100026,
+    "width": 192,
+    "height": 272,
+    "sha256": "49f75fdea4933ca4217e158c6d1f14082c7f7785ba2c7b66fb2299b8e3bd380b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66078.jpg"
+    },
+    "gameId": "SLPM_660.78"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WHITE PRINCESS THE SECOND"
+}

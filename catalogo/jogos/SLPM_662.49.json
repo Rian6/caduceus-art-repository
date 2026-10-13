@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_662.49",
+  "cover": {
+    "path": "PS2/SLPM_662.49/SLPM_662.49_COV.png",
+    "kind": "cover",
+    "bytes": 103659,
+    "width": 192,
+    "height": 272,
+    "sha256": "5fde37b5ae559120b0bf867d23fa572e2544d01b6daa13e8bcf2242569ecd47f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66249.jpg"
+    },
+    "gameId": "SLPM_662.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Growlanser V - Generations (Limited Edition)"
+}

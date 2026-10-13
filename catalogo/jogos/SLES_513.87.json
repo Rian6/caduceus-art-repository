@@ -1,0 +1,51 @@
+{
+  "id": "SLES_513.87",
+  "cover": {
+    "path": "PS2/SLES_513.87/SLES_513.87_COV.png",
+    "kind": "cover",
+    "bytes": 98403,
+    "width": 192,
+    "height": 272,
+    "sha256": "c7e5efaf8f5e8baa5a5376bca74a39bc0d38d4b9e43acf4dcf8c1a81edb7dfef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51387.jpg"
+    },
+    "gameId": "SLES_513.87"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_513.87/SLES_513.87_BG.png",
+    "kind": "background",
+    "bytes": 116971,
+    "width": 640,
+    "height": 480,
+    "sha256": "3d537f2fbbaa7e1f01d7af26faddcb48530ecd6cc5a892a22ecbd9ce1a2a61e0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_513.87/SLES_513.87_BG_00.png"
+    },
+    "gameId": "SLES_513.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_513.87/SLES_513.87_BG.png",
+      "kind": "background",
+      "bytes": 116971,
+      "width": 640,
+      "height": 480,
+      "sha256": "3d537f2fbbaa7e1f01d7af26faddcb48530ecd6cc5a892a22ecbd9ce1a2a61e0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_513.87/SLES_513.87_BG_00.png"
+      },
+      "gameId": "SLES_513.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "World Racing"
+}

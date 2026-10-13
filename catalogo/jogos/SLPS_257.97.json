@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_257.97",
+  "cover": {
+    "path": "PS2/SLPS_257.97/SLPS_257.97_COV.png",
+    "kind": "cover",
+    "bytes": 122354,
+    "width": 192,
+    "height": 272,
+    "sha256": "8675ee29d3d6d77e54d29f5ffb5c4ce6326a5db6814e5fc9c18f49ae64348251",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25797.jpg"
+    },
+    "gameId": "SLPS_257.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ikki Tousen: Shining Dragon (Gentei Bakuretsu Pack)"
+}

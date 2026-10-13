@@ -1,0 +1,25 @@
+{
+  "id": "KOEI_201.53",
+  "cover": {
+    "path": "PS2/KOEI_201.53/KOEI_201.53_COV.png",
+    "kind": "cover",
+    "bytes": 76927,
+    "width": 192,
+    "height": 272,
+    "sha256": "44fcf3b1b309b91108b22f1f0846817deeabfcb0db58dd039bda2fe6b253bef2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/KOEI-20153.jpg"
+    },
+    "gameId": "KOEI_201.53"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NEO ANGELIQUE - FULL VOICE [SUPER PREMIUM BOX]"
+}

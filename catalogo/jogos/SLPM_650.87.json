@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_650.87",
+  "cover": {
+    "path": "PS2/SLPM_650.87/SLPM_650.87_COV.png",
+    "kind": "cover",
+    "bytes": 86701,
+    "width": 192,
+    "height": 272,
+    "sha256": "ecf3531800d162d83e965ce021e9e82e54c16b2de4538a6a81cf29453747331a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65087.jpg"
+    },
+    "gameId": "SLPM_650.87"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "A Visual Mix: Ayumi Hamasaki Dome Tour 2001 A (Disc 2)"
+}

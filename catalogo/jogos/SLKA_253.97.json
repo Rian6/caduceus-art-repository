@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_253.97",
+  "cover": {
+    "path": "PS2/SLKA_253.97/SLKA_253.97_COV.png",
+    "kind": "cover",
+    "bytes": 127755,
+    "width": 192,
+    "height": 272,
+    "sha256": "345caeefde1e15fa635834679e62ed5477cbe86ef197ae329b36210ff1c5f9c3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25397.jpg"
+    },
+    "gameId": "SLKA_253.97"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Dragon Ball Z - Sparkiing! NEO"
+}

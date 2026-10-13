@@ -1,0 +1,51 @@
+{
+  "id": "SLES_518.62",
+  "cover": {
+    "path": "PS2/SLES_518.62/SLES_518.62_COV.png",
+    "kind": "cover",
+    "bytes": 110193,
+    "width": 192,
+    "height": 272,
+    "sha256": "157b0d8d0e35d26213d425218f2423aa60cb8cd8483a0919256bc58cbbd807d4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51862.jpg"
+    },
+    "gameId": "SLES_518.62"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_518.62/SLES_518.62_BG.png",
+    "kind": "background",
+    "bytes": 164168,
+    "width": 640,
+    "height": 480,
+    "sha256": "35e570c17f7bc7ab09ce42d236dc1b7cafe8d90bc116192aab6d71a3ba5e25a0",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.62/SLES_518.62_BG_00.png"
+    },
+    "gameId": "SLES_518.62"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.62/SLES_518.62_BG.png",
+      "kind": "background",
+      "bytes": 164168,
+      "width": 640,
+      "height": 480,
+      "sha256": "35e570c17f7bc7ab09ce42d236dc1b7cafe8d90bc116192aab6d71a3ba5e25a0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.62/SLES_518.62_BG_00.png"
+      },
+      "gameId": "SLES_518.62"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bass Master Fishing"
+}

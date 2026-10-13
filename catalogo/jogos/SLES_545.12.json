@@ -1,0 +1,90 @@
+{
+  "id": "SLES_545.12",
+  "cover": {
+    "path": "PS2/SLES_545.12/SLES_545.12_COV.png",
+    "kind": "cover",
+    "bytes": 56207,
+    "width": 192,
+    "height": 272,
+    "sha256": "2a53919d30be74acc8859b6b5337d081c1d26b58038d374975e8534d5d200839",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.12/SLES_545.12_COV.png"
+    },
+    "gameId": "SLES_545.12"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_545.12/SLES_545.12_BG.png",
+    "kind": "background",
+    "bytes": 228926,
+    "width": 640,
+    "height": 480,
+    "sha256": "3e915d2fcbb018c794ceab7491b387fae0c6aac58d9728d4ae6b86ea4cd84121",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.12/SLES_545.12_BG_00.png"
+    },
+    "gameId": "SLES_545.12"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_545.12/SLES_545.12_BG.png",
+      "kind": "background",
+      "bytes": 228926,
+      "width": 640,
+      "height": 480,
+      "sha256": "3e915d2fcbb018c794ceab7491b387fae0c6aac58d9728d4ae6b86ea4cd84121",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.12/SLES_545.12_BG_00.png"
+      },
+      "gameId": "SLES_545.12"
+    },
+    {
+      "path": "PS2/SLES_545.12/SLES_545.12_BG_01.png",
+      "kind": "background",
+      "bytes": 185820,
+      "width": 640,
+      "height": 480,
+      "sha256": "9e3760cca5d73cb0c8b6023e8b85fad931a06854b685094a6039352b75276328",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.12/SLES_545.12_BG_01.png"
+      },
+      "gameId": "SLES_545.12"
+    },
+    {
+      "path": "PS2/SLES_545.12/SLES_545.12_BG_02.png",
+      "kind": "background",
+      "bytes": 248726,
+      "width": 640,
+      "height": 480,
+      "sha256": "9ea0b9097e01bb5ff2e845eabec2ec15b453c4384d02b53343ac05402dde60be",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.12/SLES_545.12_BG_02.png"
+      },
+      "gameId": "SLES_545.12"
+    },
+    {
+      "path": "PS2/SLES_545.12/SLES_545.12_BG_03.png",
+      "kind": "background",
+      "bytes": 137954,
+      "width": 640,
+      "height": 480,
+      "sha256": "470ebb5798a1c4e24b11b24ae75c75c01a4c58b6e8c60fedf32244150c66f20a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.12/SLES_545.12_BG_03.png"
+      },
+      "gameId": "SLES_545.12"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "UEFA Champions League 2006-2007"
+}

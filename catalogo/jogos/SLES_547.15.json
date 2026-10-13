@@ -1,0 +1,64 @@
+{
+  "id": "SLES_547.15",
+  "cover": {
+    "path": "PS2/SLES_547.15/SLES_547.15_COV.png",
+    "kind": "cover",
+    "bytes": 92487,
+    "width": 192,
+    "height": 272,
+    "sha256": "4b6102fdcb328920c9b09ed88679b86f882c944f60512cc6fc62c1180d2815d3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54715.jpg"
+    },
+    "gameId": "SLES_547.15"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_547.15/SLES_547.15_BG.png",
+    "kind": "background",
+    "bytes": 155950,
+    "width": 640,
+    "height": 480,
+    "sha256": "2b451917885b6a66ddc2a11713a5eeaa228e3255bb21d841af270640feb98ede",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_547.15/SLES_547.15_BG_00.png"
+    },
+    "gameId": "SLES_547.15"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_547.15/SLES_547.15_BG.png",
+      "kind": "background",
+      "bytes": 155950,
+      "width": 640,
+      "height": 480,
+      "sha256": "2b451917885b6a66ddc2a11713a5eeaa228e3255bb21d841af270640feb98ede",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.15/SLES_547.15_BG_00.png"
+      },
+      "gameId": "SLES_547.15"
+    },
+    {
+      "path": "PS2/SLES_547.15/SLES_547.15_BG_01.png",
+      "kind": "background",
+      "bytes": 165346,
+      "width": 640,
+      "height": 480,
+      "sha256": "841458c59221582674f1a470803bbb56a7c2afe9c225ce46ce2d75db2b68e6ff",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_547.15/SLES_547.15_BG_01.png"
+      },
+      "gameId": "SLES_547.15"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tony Hawk's Downhill Jam"
+}

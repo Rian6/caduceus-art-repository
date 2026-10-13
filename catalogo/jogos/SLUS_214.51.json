@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_214.51",
+  "cover": {
+    "path": "PS2/SLUS_214.51/SLUS_214.51_COV.png",
+    "kind": "cover",
+    "bytes": 107764,
+    "width": 192,
+    "height": 272,
+    "sha256": "21b595acfc0be2273de43511eae3d1350dd0c64dbe6d4ba444db9d712621dd6a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21451.jpg"
+    },
+    "gameId": "SLUS_214.51"
+  },
+  "disc": {
+    "path": "PS2/SLUS_214.51/SLUS_214.51_ICO.png",
+    "kind": "disc",
+    "bytes": 34570,
+    "width": 256,
+    "height": 256,
+    "sha256": "670dedfa2fac6a3db1c363fe85ba5d6148b6afd5f797f044564fd272a4b0bd3f",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_214.51_ICO.png"
+    },
+    "gameId": "SLUS_214.51"
+  },
+  "background": {
+    "path": "PS2/SLUS_214.51/SLUS_214.51_BG.png",
+    "kind": "background",
+    "bytes": 178858,
+    "width": 640,
+    "height": 480,
+    "sha256": "f9a273dc5c8f8d3a07ab179b869373e1cadce0b0cc9ae1865d8fa9ae2ff3d9ee",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_214.51/SLUS_214.51_BG_00.png"
+    },
+    "gameId": "SLUS_214.51"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_214.51/SLUS_214.51_BG.png",
+      "kind": "background",
+      "bytes": 178858,
+      "width": 640,
+      "height": 480,
+      "sha256": "f9a273dc5c8f8d3a07ab179b869373e1cadce0b0cc9ae1865d8fa9ae2ff3d9ee",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_214.51/SLUS_214.51_BG_00.png"
+      },
+      "gameId": "SLUS_214.51"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Grim Adventures of Billy & Mandy"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "SLES_548.22",
+  "cover": {
+    "path": "PS2/SLES_548.22/SLES_548.22_COV.png",
+    "kind": "cover",
+    "bytes": 100899,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d7ab1a67fe5dc289e3599b4fd4d435fdd07100737dae953f2b83f93fa423e3a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54822.jpg"
+    },
+    "gameId": "SLES_548.22"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_548.22/SLES_548.22_BG.png",
+    "kind": "background",
+    "bytes": 208705,
+    "width": 640,
+    "height": 480,
+    "sha256": "4ebdebe5d513bcf9585a0d4681084dafc41b536c64f9a30fa128bffa58fbd2f9",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_548.22/SLES_548.22_BG_00.png"
+    },
+    "gameId": "SLES_548.22"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_548.22/SLES_548.22_BG.png",
+      "kind": "background",
+      "bytes": 208705,
+      "width": 640,
+      "height": 480,
+      "sha256": "4ebdebe5d513bcf9585a0d4681084dafc41b536c64f9a30fa128bffa58fbd2f9",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.22/SLES_548.22_BG_00.png"
+      },
+      "gameId": "SLES_548.22"
+    },
+    {
+      "path": "PS2/SLES_548.22/SLES_548.22_BG_01.png",
+      "kind": "background",
+      "bytes": 142950,
+      "width": 640,
+      "height": 480,
+      "sha256": "854f256a524699ec3523357d514109f46b057f8f920f5e0c7649b0064c963be5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_548.22/SLES_548.22_BG_01.png"
+      },
+      "gameId": "SLES_548.22"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Atelier Iris 3 – Grand Phantasm"
+}

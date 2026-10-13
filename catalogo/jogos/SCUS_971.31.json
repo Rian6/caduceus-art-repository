@@ -1,0 +1,39 @@
+{
+  "id": "SCUS_971.31",
+  "cover": {
+    "path": "PS2/SCUS_971.31/SCUS_971.31_COV.png",
+    "kind": "cover",
+    "bytes": 85289,
+    "width": 192,
+    "height": 272,
+    "sha256": "3ce961f0be98556b33265cbf6491ff518cece55ae0c9d3c15281ff4196363419",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCUS-97131.jpg"
+    },
+    "gameId": "SCUS_971.31"
+  },
+  "disc": {
+    "path": "PS2/SCUS_971.31/SCUS_971.31_ICO.png",
+    "kind": "disc",
+    "bytes": 32102,
+    "width": 256,
+    "height": 256,
+    "sha256": "dd9a173da7eac2606ec9248d2ad5dd052c593adee2f6ebdd42a46f40abad4975",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SCUS_971.31_ICO.png"
+    },
+    "gameId": "SCUS_971.31"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "NFL GameDay 2002"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_520.22",
+  "cover": {
+    "path": "PS2/SLES_520.22/SLES_520.22_COV.png",
+    "kind": "cover",
+    "bytes": 75313,
+    "width": 192,
+    "height": 272,
+    "sha256": "dcaf8eebb6f46face8225c654c4f5dc3f4f068086b6edc25cf60ec7788e6099b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-52022.jpg"
+    },
+    "gameId": "SLES_520.22"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Total Club Manager 2004"
+}

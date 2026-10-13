@@ -1,0 +1,65 @@
+{
+  "id": "SLPS_259.16",
+  "cover": {
+    "path": "PS2/SLPS_259.16/SLPS_259.16_COV.png",
+    "kind": "cover",
+    "bytes": 87662,
+    "width": 192,
+    "height": 272,
+    "sha256": "843b60e1ea03b810d66d76e19fdc7bd8e8a5cb6593df4267d66ec89274a13374",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25916.jpg"
+    },
+    "gameId": "SLPS_259.16"
+  },
+  "disc": {
+    "path": "PS2/SLPS_259.16/SLPS_259.16_ICO.png",
+    "kind": "disc",
+    "bytes": 10879,
+    "width": 128,
+    "height": 128,
+    "sha256": "cbaa9497fa1f2656c38ace35679cadcdafb39626aa9ac74df410e91c2639d992",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPS_259.16_ICO.png"
+    },
+    "gameId": "SLPS_259.16"
+  },
+  "background": {
+    "path": "PS2/SLPS_259.16/SLPS_259.16_BG.png",
+    "kind": "background",
+    "bytes": 191528,
+    "width": 640,
+    "height": 480,
+    "sha256": "dc7125278aa4f8f830f7405af312155f74a4176971dc68390c5b73311b902cc1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPS_259.16/SLPS_259.16_BG_00.png"
+    },
+    "gameId": "SLPS_259.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPS_259.16/SLPS_259.16_BG.png",
+      "kind": "background",
+      "bytes": 191528,
+      "width": 640,
+      "height": 480,
+      "sha256": "dc7125278aa4f8f830f7405af312155f74a4176971dc68390c5b73311b902cc1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPS_259.16/SLPS_259.16_BG_00.png"
+      },
+      "gameId": "SLPS_259.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shinjuku no Ookami"
+}

@@ -1,0 +1,90 @@
+{
+  "id": "SLES_544.23",
+  "cover": {
+    "path": "PS2/SLES_544.23/SLES_544.23_COV.png",
+    "kind": "cover",
+    "bytes": 84383,
+    "width": 192,
+    "height": 272,
+    "sha256": "98ea5d2c02b392ab2bc724ed70ea60ba5dc364dc5b66d6589afa450f3ce7ba9f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54423.jpg"
+    },
+    "gameId": "SLES_544.23"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_544.23/SLES_544.23_BG.png",
+    "kind": "background",
+    "bytes": 206177,
+    "width": 640,
+    "height": 480,
+    "sha256": "928c9a2a7776e963444b5ff689cc40008b022139c3d04df89a254ff5a5865c84",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.23/SLES_544.23_BG_00.png"
+    },
+    "gameId": "SLES_544.23"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.23/SLES_544.23_BG.png",
+      "kind": "background",
+      "bytes": 206177,
+      "width": 640,
+      "height": 480,
+      "sha256": "928c9a2a7776e963444b5ff689cc40008b022139c3d04df89a254ff5a5865c84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.23/SLES_544.23_BG_00.png"
+      },
+      "gameId": "SLES_544.23"
+    },
+    {
+      "path": "PS2/SLES_544.23/SLES_544.23_BG_01.png",
+      "kind": "background",
+      "bytes": 223016,
+      "width": 640,
+      "height": 480,
+      "sha256": "69e25cdffe88798e9e984fc4443a0e5c746382231e33938fd0071967c8f2cbf7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.23/SLES_544.23_BG_01.png"
+      },
+      "gameId": "SLES_544.23"
+    },
+    {
+      "path": "PS2/SLES_544.23/SLES_544.23_BG_02.png",
+      "kind": "background",
+      "bytes": 219784,
+      "width": 640,
+      "height": 480,
+      "sha256": "f817f3a25bbd26abdb9bd5306f6d3a9a2f12a55525223722c26d84a78ad0f63b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.23/SLES_544.23_BG_02.png"
+      },
+      "gameId": "SLES_544.23"
+    },
+    {
+      "path": "PS2/SLES_544.23/SLES_544.23_BG_03.png",
+      "kind": "background",
+      "bytes": 123763,
+      "width": 640,
+      "height": 480,
+      "sha256": "cd20b5126fb3e4f05919985e8de773b447a1f03e84f8a0f1329141b78aa2f535",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.23/SLES_544.23_BG_03.png"
+      },
+      "gameId": "SLES_544.23"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "JUSTICE LEAGUE HEROES"
+}

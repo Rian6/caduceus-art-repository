@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.38",
+  "cover": {
+    "path": "PS2/SLPM_668.38/SLPM_668.38_COV.png",
+    "kind": "cover",
+    "bytes": 112983,
+    "width": 192,
+    "height": 272,
+    "sha256": "25501af169ea14ffe1b8a4dba6075d0d151b246ea757ff68cc8d337984311de2",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66838.jpg"
+    },
+    "gameId": "SLPM_668.38"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FANTASTIC FORTUNE 2 - TRIPLE STAR [BEST HIT SELECTION]"
+}

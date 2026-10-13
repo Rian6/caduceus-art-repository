@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_734.06",
+  "cover": {
+    "path": "PS2/SLPS_734.06/SLPS_734.06_COV.png",
+    "kind": "cover",
+    "bytes": 79389,
+    "width": 192,
+    "height": 272,
+    "sha256": "7a00878de99158bbfeb2f8e0c26c98114b16df0f0a4b872c086f07417cc52890",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73406.jpg"
+    },
+    "gameId": "SLPS_734.06"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "DEAD OR ALIVE 2 - HARDCORE [PLAYSTATION 2 THE BEST]"
+}

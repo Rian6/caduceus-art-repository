@@ -1,0 +1,51 @@
+{
+  "id": "SLES_542.17",
+  "cover": {
+    "path": "PS2/SLES_542.17/SLES_542.17_COV.png",
+    "kind": "cover",
+    "bytes": 94815,
+    "width": 192,
+    "height": 272,
+    "sha256": "331a8960fe1a072495b949b18d0e639a5cea2bfb375740a230625dd4bc0ac7fd",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54217.jpg"
+    },
+    "gameId": "SLES_542.17"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_542.17/SLES_542.17_BG.png",
+    "kind": "background",
+    "bytes": 193654,
+    "width": 640,
+    "height": 480,
+    "sha256": "b7f419cc58e24a6aeb1378a820671353c75c558b5597e1f3b6102b21282b780d",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_542.17/SLES_542.17_BG_00.png"
+    },
+    "gameId": "SLES_542.17"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_542.17/SLES_542.17_BG.png",
+      "kind": "background",
+      "bytes": 193654,
+      "width": 640,
+      "height": 480,
+      "sha256": "b7f419cc58e24a6aeb1378a820671353c75c558b5597e1f3b6102b21282b780d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_542.17/SLES_542.17_BG_00.png"
+      },
+      "gameId": "SLES_542.17"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MONSTER HOUSE"
+}

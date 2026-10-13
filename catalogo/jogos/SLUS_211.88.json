@@ -1,0 +1,25 @@
+{
+  "id": "SLUS_211.88",
+  "cover": {
+    "path": "PS2/SLUS_211.88/SLUS_211.88_COV.png",
+    "kind": "cover",
+    "bytes": 107850,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea02073058a0b2137eb00aa1b5feacd05b854c3ab2f0b487652131afe5f535fb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21188.jpg"
+    },
+    "gameId": "SLUS_211.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "America's Army - Rise of a Soldier"
+}

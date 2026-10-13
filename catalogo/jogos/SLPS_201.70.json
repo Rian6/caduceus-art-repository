@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_201.70",
+  "cover": {
+    "path": "PS2/SLPS_201.70/SLPS_201.70_COV.png",
+    "kind": "cover",
+    "bytes": 83035,
+    "width": 192,
+    "height": 272,
+    "sha256": "c71882df081d9277e808305ad3a60105eef5e6ac40b7bd2ac35731b4e40e7137",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20170.jpg"
+    },
+    "gameId": "SLPS_201.70"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "WAVE RALLY"
+}

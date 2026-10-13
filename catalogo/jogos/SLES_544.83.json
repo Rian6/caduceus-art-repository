@@ -1,0 +1,77 @@
+{
+  "id": "SLES_544.83",
+  "cover": {
+    "path": "PS2/SLES_544.83/SLES_544.83_COV.png",
+    "kind": "cover",
+    "bytes": 93978,
+    "width": 192,
+    "height": 272,
+    "sha256": "89ccebe086e2ee0714b770b1572ec332c850c8b091c161d16aac97139dbfb7d5",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54483.jpg"
+    },
+    "gameId": "SLES_544.83"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_544.83/SLES_544.83_BG.png",
+    "kind": "background",
+    "bytes": 147053,
+    "width": 640,
+    "height": 480,
+    "sha256": "1822f0d65e98c4c7e9d6615e1db76a4f714d2386ae849507cd745fd574c976c1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_544.83/SLES_544.83_BG_00.png"
+    },
+    "gameId": "SLES_544.83"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_544.83/SLES_544.83_BG.png",
+      "kind": "background",
+      "bytes": 147053,
+      "width": 640,
+      "height": 480,
+      "sha256": "1822f0d65e98c4c7e9d6615e1db76a4f714d2386ae849507cd745fd574c976c1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.83/SLES_544.83_BG_00.png"
+      },
+      "gameId": "SLES_544.83"
+    },
+    {
+      "path": "PS2/SLES_544.83/SLES_544.83_BG_01.png",
+      "kind": "background",
+      "bytes": 168498,
+      "width": 640,
+      "height": 480,
+      "sha256": "d306933d89378e0f1959e4ac4ea56709ddd48c5d283c6213d938c96c0399c988",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.83/SLES_544.83_BG_01.png"
+      },
+      "gameId": "SLES_544.83"
+    },
+    {
+      "path": "PS2/SLES_544.83/SLES_544.83_BG_02.png",
+      "kind": "background",
+      "bytes": 181041,
+      "width": 640,
+      "height": 480,
+      "sha256": "e0e153c6ff4f7ba5bbbff0cf4dd43d272b55947e47a5f410a3ae2d0eab5f79df",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_544.83/SLES_544.83_BG_02.png"
+      },
+      "gameId": "SLES_544.83"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "THE FAST & THE FURIOUS"
+}

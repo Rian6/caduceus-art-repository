@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_732.17",
+  "cover": {
+    "path": "PS2/SLPS_732.17/SLPS_732.17_COV.png",
+    "kind": "cover",
+    "bytes": 88720,
+    "width": 192,
+    "height": 272,
+    "sha256": "f4800cddc8de017dfdd831c907e0385e31aeb8b6fc4156399ba9139f2e01ea40",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-73217.jpg"
+    },
+    "gameId": "SLPS_732.17"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tales of Symphonia (Playstation 2 The Best)"
+}

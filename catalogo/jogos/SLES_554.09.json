@@ -1,0 +1,65 @@
+{
+  "id": "SLES_554.09",
+  "cover": {
+    "path": "PS2/SLES_554.09/SLES_554.09_COV.png",
+    "kind": "cover",
+    "bytes": 70242,
+    "width": 192,
+    "height": 272,
+    "sha256": "ea7ae65ca587e5f1b040b56ace027b8e307ac53d64ed435954b28c4cdfe7dff4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55409.jpg"
+    },
+    "gameId": "SLES_554.09"
+  },
+  "disc": {
+    "path": "PS2/SLES_554.09/SLES_554.09_ICO.png",
+    "kind": "disc",
+    "bytes": 12210,
+    "width": 128,
+    "height": 128,
+    "sha256": "106b10686c630afbbae3a3b0cfcbb9e15db3ebc9ca262984c7735120d556c973",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_554.09_ICO.png"
+    },
+    "gameId": "SLES_554.09"
+  },
+  "background": {
+    "path": "PS2/SLES_554.09/SLES_554.09_BG.png",
+    "kind": "background",
+    "bytes": 189254,
+    "width": 640,
+    "height": 480,
+    "sha256": "2e4016b4e8f11806bdaa5bae986413eb9ae1c9ec1652f29ccd5e2ed136128521",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_554.09/SLES_554.09_BG_00.png"
+    },
+    "gameId": "SLES_554.09"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_554.09/SLES_554.09_BG.png",
+      "kind": "background",
+      "bytes": 189254,
+      "width": 640,
+      "height": 480,
+      "sha256": "2e4016b4e8f11806bdaa5bae986413eb9ae1c9ec1652f29ccd5e2ed136128521",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_554.09/SLES_554.09_BG_00.png"
+      },
+      "gameId": "SLES_554.09"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "TT Superbikes - Legends"
+}

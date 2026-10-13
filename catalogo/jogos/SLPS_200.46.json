@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.46",
+  "cover": {
+    "path": "PS2/SLPS_200.46/SLPS_200.46_COV.png",
+    "kind": "cover",
+    "bytes": 89830,
+    "width": 192,
+    "height": 272,
+    "sha256": "d2edca9800c1a394c29210d4e925778db20aa5a3a30087c22bceb1b2d0025457",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20046.jpg"
+    },
+    "gameId": "SLPS_200.46"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Kuusen"
+}

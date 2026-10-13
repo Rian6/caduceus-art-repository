@@ -1,0 +1,64 @@
+{
+  "id": "SLES_519.81",
+  "cover": {
+    "path": "PS2/SLES_519.81/SLES_519.81_COV.png",
+    "kind": "cover",
+    "bytes": 73466,
+    "width": 192,
+    "height": 272,
+    "sha256": "3886bc29efab69cca4a18ebe9ad21f720e8504fac870e566e50dd1b3aa91155a",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51981.jpg"
+    },
+    "gameId": "SLES_519.81"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_519.81/SLES_519.81_BG.png",
+    "kind": "background",
+    "bytes": 221197,
+    "width": 640,
+    "height": 480,
+    "sha256": "958bffa81efc3ba7a9c82f654ef80e388ad8ad044ec5b28008a2d8280f6309de",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_519.81/SLES_519.81_BG_00.png"
+    },
+    "gameId": "SLES_519.81"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_519.81/SLES_519.81_BG.png",
+      "kind": "background",
+      "bytes": 221197,
+      "width": 640,
+      "height": 480,
+      "sha256": "958bffa81efc3ba7a9c82f654ef80e388ad8ad044ec5b28008a2d8280f6309de",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.81/SLES_519.81_BG_00.png"
+      },
+      "gameId": "SLES_519.81"
+    },
+    {
+      "path": "PS2/SLES_519.81/SLES_519.81_BG_01.png",
+      "kind": "background",
+      "bytes": 229545,
+      "width": 640,
+      "height": 480,
+      "sha256": "8c49f12f2bbf049be11c201f8a44e1e9dc7db1e3ffacf911fc6b919796a022a8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_519.81/SLES_519.81_BG_01.png"
+      },
+      "gameId": "SLES_519.81"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ShellShock - Nam '67"
+}

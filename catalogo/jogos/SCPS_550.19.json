@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_550.19",
+  "cover": {
+    "path": "PS2/SCPS_550.19/SCPS_550.19_COV.png",
+    "kind": "cover",
+    "bytes": 82780,
+    "width": 192,
+    "height": 272,
+    "sha256": "42ad9351e04d48cb17b17d9ae95e9a410ce0b9ac87f674d622ff6661fb1a7f8b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-55019.jpg"
+    },
+    "gameId": "SCPS_550.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "STAR OCEAN - TILL THE END OF TIME"
+}

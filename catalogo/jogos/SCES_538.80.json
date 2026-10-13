@@ -1,0 +1,65 @@
+{
+  "id": "SCES_538.80",
+  "cover": {
+    "path": "PS2/SCES_538.80/SCES_538.80_COV.png",
+    "kind": "cover",
+    "bytes": 97653,
+    "width": 192,
+    "height": 272,
+    "sha256": "95a39e695f6c305bc5f852f682fac8d6ffdde9b3c25676e855b54c97517fa83f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-53880.jpg"
+    },
+    "gameId": "SCES_538.80"
+  },
+  "disc": {
+    "path": "PS2/SCES_538.80/SCES_538.80_ICO.png",
+    "kind": "disc",
+    "bytes": 10390,
+    "width": 128,
+    "height": 128,
+    "sha256": "5fa0a12442f504d9b4c4cb2ca78d920156513d116bd24135d4de358810cb9fa5",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SCES_538.80_ICO.png"
+    },
+    "gameId": "SCES_538.80"
+  },
+  "background": {
+    "path": "PS2/SCES_538.80/SCES_538.80_BG.png",
+    "kind": "background",
+    "bytes": 175163,
+    "width": 640,
+    "height": 480,
+    "sha256": "f810df4e2aea51379808258427840f1ca2fb0b0d247f9bed307eeb4e069ec529",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCES_538.80/SCES_538.80_BG_00.png"
+    },
+    "gameId": "SCES_538.80"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCES_538.80/SCES_538.80_BG.png",
+      "kind": "background",
+      "bytes": 175163,
+      "width": 640,
+      "height": 480,
+      "sha256": "f810df4e2aea51379808258427840f1ca2fb0b0d247f9bed307eeb4e069ec529",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCES_538.80/SCES_538.80_BG_00.png"
+      },
+      "gameId": "SCES_538.80"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Buzz! The Big Quiz"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_209.14",
+  "cover": {
+    "path": "PS2/SLUS_209.14/SLUS_209.14_COV.png",
+    "kind": "cover",
+    "bytes": 100406,
+    "width": 192,
+    "height": 272,
+    "sha256": "064199352080378869040f265f3db88f6f8ce1a5532d0098a487ebc9137acc72",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20914.jpg"
+    },
+    "gameId": "SLUS_209.14"
+  },
+  "disc": {
+    "path": "PS2/SLUS_209.14/SLUS_209.14_ICO.png",
+    "kind": "disc",
+    "bytes": 9748,
+    "width": 128,
+    "height": 128,
+    "sha256": "2369853702e1f753291899aabb1f062f79098157fc6e8836d7ed28e569bd030b",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLUS_209.14_ICO.png"
+    },
+    "gameId": "SLUS_209.14"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Ribbit King Plus! (Bonus Disc)"
+}

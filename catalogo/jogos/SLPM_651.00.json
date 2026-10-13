@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.00",
+  "cover": {
+    "path": "PS2/SLPM_651.00/SLPM_651.00_COV.png",
+    "kind": "cover",
+    "bytes": 89839,
+    "width": 192,
+    "height": 272,
+    "sha256": "d8fdcea7ef472e0fbfa7acf5002a1cc86f694d708a3eca346499f6b2ec874ad0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65100.jpg"
+    },
+    "gameId": "SLPM_651.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Onimusha 2"
+}

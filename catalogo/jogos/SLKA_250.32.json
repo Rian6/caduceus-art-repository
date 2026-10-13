@@ -1,0 +1,25 @@
+{
+  "id": "SLKA_250.32",
+  "cover": {
+    "path": "PS2/SLKA_250.32/SLKA_250.32_COV.png",
+    "kind": "cover",
+    "bytes": 79022,
+    "width": 192,
+    "height": 272,
+    "sha256": "75e488741197df2f5bc9f11eff223efa16152d23e794508de549b3315f571a34",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLKA-25032.jpg"
+    },
+    "gameId": "SLKA_250.32"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Enter The Matrix"
+}

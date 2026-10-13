@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_201.25",
+  "cover": {
+    "path": "PS2/SCKA_201.25/SCKA_201.25_COV.png",
+    "kind": "cover",
+    "bytes": 75463,
+    "width": 192,
+    "height": 272,
+    "sha256": "830cc8d2cbd8bcaef6d0aa3c04ee01762f116b3c765d527d71e66b50f5cb6c6b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20125.jpg"
+    },
+    "gameId": "SCKA_201.25"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "KATAMARI DAMACY [BIG HIT SERIES]"
+}

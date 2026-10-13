@@ -1,0 +1,78 @@
+{
+  "id": "SLES_533.61",
+  "cover": {
+    "path": "PS2/SLES_533.61/SLES_533.61_COV.png",
+    "kind": "cover",
+    "bytes": 97237,
+    "width": 192,
+    "height": 272,
+    "sha256": "6a13c204b59c14a68df6115c911a1269418297716a9347b4cf0edac0f2127925",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53361.jpg"
+    },
+    "gameId": "SLES_533.61"
+  },
+  "disc": {
+    "path": "PS2/SLES_533.61/SLES_533.61_ICO.png",
+    "kind": "disc",
+    "bytes": 10364,
+    "width": 128,
+    "height": 128,
+    "sha256": "dc1c9cadcdd23106d6c39672d34a5f4706fd9b26c360ae82136e0538c6c45215",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_533.61_ICO.png"
+    },
+    "gameId": "SLES_533.61"
+  },
+  "background": {
+    "path": "PS2/SLES_533.61/SLES_533.61_BG.png",
+    "kind": "background",
+    "bytes": 206140,
+    "width": 640,
+    "height": 480,
+    "sha256": "a0669f8721d9d6060f9b866c588793268ffd20d208463bb3f0d49c549dcb312a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_533.61/SLES_533.61_BG_00.png"
+    },
+    "gameId": "SLES_533.61"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_533.61/SLES_533.61_BG.png",
+      "kind": "background",
+      "bytes": 206140,
+      "width": 640,
+      "height": 480,
+      "sha256": "a0669f8721d9d6060f9b866c588793268ffd20d208463bb3f0d49c549dcb312a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.61/SLES_533.61_BG_00.png"
+      },
+      "gameId": "SLES_533.61"
+    },
+    {
+      "path": "PS2/SLES_533.61/SLES_533.61_BG_01.png",
+      "kind": "background",
+      "bytes": 213554,
+      "width": 640,
+      "height": 480,
+      "sha256": "750fef8fb648861ddf26398d083279a3ff10c0c4a4d483ee27331beebc1d59b4",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_533.61/SLES_533.61_BG_01.png"
+      },
+      "gameId": "SLES_533.61"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Stealth Force - The War on Terror"
+}

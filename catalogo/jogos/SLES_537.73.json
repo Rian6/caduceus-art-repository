@@ -1,0 +1,39 @@
+{
+  "id": "SLES_537.73",
+  "cover": {
+    "path": "PS2/SLES_537.73/SLES_537.73_COV.png",
+    "kind": "cover",
+    "bytes": 112794,
+    "width": 192,
+    "height": 272,
+    "sha256": "4419f2b5d2e42362a1a259b255e138f2cbeaa202a772c9f65cf2b246ee846d2b",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53773.jpg"
+    },
+    "gameId": "SLES_537.73"
+  },
+  "disc": {
+    "path": "PS2/SLES_537.73/SLES_537.73_ICO.png",
+    "kind": "disc",
+    "bytes": 12805,
+    "width": 128,
+    "height": 128,
+    "sha256": "0d15144fe88b083639bc23ce9357b5913aedab3d35b230ae1a2d7b60ca008f1e",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_537.73_ICO.png"
+    },
+    "gameId": "SLES_537.73"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cartoon Kingdom"
+}

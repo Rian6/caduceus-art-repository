@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_652.02",
+  "cover": {
+    "path": "PS2/SLPM_652.02/SLPM_652.02_COV.png",
+    "kind": "cover",
+    "bytes": 95442,
+    "width": 192,
+    "height": 272,
+    "sha256": "5d1a86235085233e22ce6cc159835226cae53f6790e6df658be037b4b4927989",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65202.jpg"
+    },
+    "gameId": "SLPM_652.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "K-1 World Grand Prix 2002"
+}

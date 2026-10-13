@@ -1,0 +1,65 @@
+{
+  "id": "SLES_545.90",
+  "cover": {
+    "path": "PS2/SLES_545.90/SLES_545.90_COV.png",
+    "kind": "cover",
+    "bytes": 116654,
+    "width": 192,
+    "height": 272,
+    "sha256": "ce9ec3fa4b5f543d13d2c3134a58c48dcb6b3c963e4ddf2fc4970b8d3d38a4c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54590.jpg"
+    },
+    "gameId": "SLES_545.90"
+  },
+  "disc": {
+    "path": "PS2/SLES_545.90/SLES_545.90_ICO.png",
+    "kind": "disc",
+    "bytes": 11774,
+    "width": 128,
+    "height": 128,
+    "sha256": "bf98234040f1966986d97c590ffbe4faeb3b1d8d05c45705c6ca921a1fd01f02",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_545.90_ICO.png"
+    },
+    "gameId": "SLES_545.90"
+  },
+  "background": {
+    "path": "PS2/SLES_545.90/SLES_545.90_BG.png",
+    "kind": "background",
+    "bytes": 238637,
+    "width": 640,
+    "height": 480,
+    "sha256": "ea288a7057bf0312b7c39c8645aec1aa859e50928712e62f014092e2b98273b1",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_545.90/SLES_545.90_BG_00.png"
+    },
+    "gameId": "SLES_545.90"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_545.90/SLES_545.90_BG.png",
+      "kind": "background",
+      "bytes": 238637,
+      "width": 640,
+      "height": 480,
+      "sha256": "ea288a7057bf0312b7c39c8645aec1aa859e50928712e62f014092e2b98273b1",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_545.90/SLES_545.90_BG_00.png"
+      },
+      "gameId": "SLES_545.90"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hard Knock High"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "SLUS_210.40",
+  "cover": {
+    "path": "PS2/SLUS_210.40/SLUS_210.40_COV.png",
+    "kind": "cover",
+    "bytes": 69418,
+    "width": 192,
+    "height": 272,
+    "sha256": "1d8f6fcb07f7fe7e87ca6e7674c4077c85b12a5568cac647fd37fc13fdfa9214",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21040.jpg"
+    },
+    "gameId": "SLUS_210.40"
+  },
+  "disc": {
+    "path": "PS2/SLUS_210.40/SLUS_210.40_ICO.png",
+    "kind": "disc",
+    "bytes": 34734,
+    "width": 256,
+    "height": 256,
+    "sha256": "9deec601c4b99c0a13cfef681cdaf0e3fb6600e4979c2ef36577f709c3357eca",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_210.40_ICO.png"
+    },
+    "gameId": "SLUS_210.40"
+  },
+  "background": {
+    "path": "PS2/SLUS_210.40/SLUS_210.40_BG.png",
+    "kind": "background",
+    "bytes": 215268,
+    "width": 640,
+    "height": 480,
+    "sha256": "2fd59f79a93967bcf9ce3b767d717f77a375ac02e50db463ad52ed0d364a2923",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_210.40/SLUS_210.40_BG_00.png"
+    },
+    "gameId": "SLUS_210.40"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_210.40/SLUS_210.40_BG.png",
+      "kind": "background",
+      "bytes": 215268,
+      "width": 640,
+      "height": 480,
+      "sha256": "2fd59f79a93967bcf9ce3b767d717f77a375ac02e50db463ad52ed0d364a2923",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_210.40/SLUS_210.40_BG_00.png"
+      },
+      "gameId": "SLUS_210.40"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Shield"
+}

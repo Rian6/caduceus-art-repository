@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_665.42",
+  "cover": {
+    "path": "PS2/SLPM_665.42/SLPM_665.42_COV.png",
+    "kind": "cover",
+    "bytes": 94060,
+    "width": 192,
+    "height": 272,
+    "sha256": "f291b5755d671c64239fec89cca845d883c35a0dd7f8e09375c807156ebb59d0",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66542.jpg"
+    },
+    "gameId": "SLPM_665.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Musou 2 Empires"
+}

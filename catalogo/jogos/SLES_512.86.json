@@ -1,0 +1,77 @@
+{
+  "id": "SLES_512.86",
+  "cover": {
+    "path": "PS2/SLES_512.86/SLES_512.86_COV.png",
+    "kind": "cover",
+    "bytes": 93419,
+    "width": 192,
+    "height": 272,
+    "sha256": "3ae375a83280422e68dffe397dd71c5a9b0d073674a1ad6493f18413f3fd80df",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51286.jpg"
+    },
+    "gameId": "SLES_512.86"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_512.86/SLES_512.86_BG.png",
+    "kind": "background",
+    "bytes": 195928,
+    "width": 640,
+    "height": 480,
+    "sha256": "bb740f953f1db55f47bf397a0202f14b0abd9a955e7c4e484bd8f2bf1d52dc84",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_512.86/SLES_512.86_BG_00.png"
+    },
+    "gameId": "SLES_512.86"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_512.86/SLES_512.86_BG.png",
+      "kind": "background",
+      "bytes": 195928,
+      "width": 640,
+      "height": 480,
+      "sha256": "bb740f953f1db55f47bf397a0202f14b0abd9a955e7c4e484bd8f2bf1d52dc84",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.86/SLES_512.86_BG_00.png"
+      },
+      "gameId": "SLES_512.86"
+    },
+    {
+      "path": "PS2/SLES_512.86/SLES_512.86_BG_01.png",
+      "kind": "background",
+      "bytes": 121039,
+      "width": 640,
+      "height": 480,
+      "sha256": "011a697ca0d97608adf513ff03bb97c609992d526ebca738f50e39bda85db8d8",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.86/SLES_512.86_BG_01.png"
+      },
+      "gameId": "SLES_512.86"
+    },
+    {
+      "path": "PS2/SLES_512.86/SLES_512.86_BG_02.png",
+      "kind": "background",
+      "bytes": 190689,
+      "width": 640,
+      "height": 480,
+      "sha256": "d80b60103a0ec7431e745537160bf4a8457fcf909f580aa18abcbb315cd92f07",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_512.86/SLES_512.86_BG_02.png"
+      },
+      "gameId": "SLES_512.86"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "X2 - Wolverine's Revenge"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SCPS_110.05",
+  "cover": {
+    "path": "PS2/SCPS_110.05/SCPS_110.05_COV.png",
+    "kind": "cover",
+    "bytes": 90734,
+    "width": 192,
+    "height": 272,
+    "sha256": "4313663694389704ad4f3de66bae4f7abfd68044cd63787c678c9b3d457597d8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCPS-11005.jpg"
+    },
+    "gameId": "SCPS_110.05"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sagashi ni Ikouyo - Go to Find It!"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.41",
+  "cover": {
+    "path": "PS2/SLPM_620.41/SLPM_620.41_COV.png",
+    "kind": "cover",
+    "bytes": 83086,
+    "width": 192,
+    "height": 272,
+    "sha256": "43230269edb2885a44601ca51b7c654ca14544065e73bd0b5115b6b9c905e9c9",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62041.jpg"
+    },
+    "gameId": "SLPM_620.41"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ESPN National Hockey Night"
+}

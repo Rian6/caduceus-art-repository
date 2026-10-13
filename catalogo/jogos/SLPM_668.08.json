@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_668.08",
+  "cover": {
+    "path": "PS2/SLPM_668.08/SLPM_668.08_COV.png",
+    "kind": "cover",
+    "bytes": 101803,
+    "width": 192,
+    "height": 272,
+    "sha256": "c58f201757cb92858f1c55de48db7a9fae145d864e68529120602a196a6931ef",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66808.jpg"
+    },
+    "gameId": "SLPM_668.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tom Clancy's Ghost Recon - Advanced Warfighter (UbiSoft Best)"
+}

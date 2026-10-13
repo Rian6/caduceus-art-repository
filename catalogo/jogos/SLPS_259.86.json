@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.86",
+  "cover": {
+    "path": "PS2/SLPS_259.86/SLPS_259.86_COV.png",
+    "kind": "cover",
+    "bytes": 76336,
+    "width": 192,
+    "height": 272,
+    "sha256": "eae5ed7296ba6e6f688f9f9bc7d173f13cf21b17d7f5bf245636f712d359e365",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25986.jpg"
+    },
+    "gameId": "SLPS_259.86"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LARA CROFT - TOMB RAIDER - UNDERWORLD [SPIKE THE BEST]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_552.89",
+  "cover": {
+    "path": "PS2/SLES_552.89/SLES_552.89_COV.png",
+    "kind": "cover",
+    "bytes": 105054,
+    "width": 192,
+    "height": 272,
+    "sha256": "587bb486240b08316d15305453ecd748617df3be883192e98674292565de47c3",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55289.jpg"
+    },
+    "gameId": "SLES_552.89"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Go Diego Go - Safari Rescue"
+}

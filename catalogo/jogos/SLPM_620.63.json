@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_620.63",
+  "cover": {
+    "path": "PS2/SLPM_620.63/SLPM_620.63_COV.png",
+    "kind": "cover",
+    "bytes": 67554,
+    "width": 192,
+    "height": 272,
+    "sha256": "df606a2aef726b1222071ed348c27daf946864766b439863375fbeb3709ca222",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62063.jpg"
+    },
+    "gameId": "SLPM_620.63"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRADIUS III & IV [KONAMI THE BEST]"
+}

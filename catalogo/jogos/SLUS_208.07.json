@@ -1,0 +1,130 @@
+{
+  "id": "SLUS_208.07",
+  "cover": {
+    "path": "PS2/SLUS_208.07/SLUS_208.07_COV.png",
+    "kind": "cover",
+    "bytes": 98378,
+    "width": 192,
+    "height": 272,
+    "sha256": "b2dfa9c313259123970ba48abc925f2e52abdd934a0a6b7dcac4dfac06a3f844",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20807.jpg"
+    },
+    "gameId": "SLUS_208.07"
+  },
+  "disc": {
+    "path": "PS2/SLUS_208.07/SLUS_208.07_ICO.png",
+    "kind": "disc",
+    "bytes": 29644,
+    "width": 256,
+    "height": 256,
+    "sha256": "526e31ea2758723789a2b73c16a4fe4a507c37f6e94fef80980be14c201ab734",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_208.07_ICO.png"
+    },
+    "gameId": "SLUS_208.07"
+  },
+  "background": {
+    "path": "PS2/SLUS_208.07/SLUS_208.07_BG.png",
+    "kind": "background",
+    "bytes": 89460,
+    "width": 640,
+    "height": 480,
+    "sha256": "bbd7985b0e6b737811ef242ed0aaeb6db2cf5ce1acdae122179d30dea15cee8a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_208.07/SLUS_208.07_BG_00.png"
+    },
+    "gameId": "SLUS_208.07"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_208.07/SLUS_208.07_BG.png",
+      "kind": "background",
+      "bytes": 89460,
+      "width": 640,
+      "height": 480,
+      "sha256": "bbd7985b0e6b737811ef242ed0aaeb6db2cf5ce1acdae122179d30dea15cee8a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.07/SLUS_208.07_BG_00.png"
+      },
+      "gameId": "SLUS_208.07"
+    },
+    {
+      "path": "PS2/SLUS_208.07/SLUS_208.07_BG_01.png",
+      "kind": "background",
+      "bytes": 175271,
+      "width": 640,
+      "height": 480,
+      "sha256": "c76f661b686244bae85c90f0b1db8a4c62a7221b900630385d3d4a83e33fbf7d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.07/SLUS_208.07_BG_01.png"
+      },
+      "gameId": "SLUS_208.07"
+    },
+    {
+      "path": "PS2/SLUS_208.07/SLUS_208.07_BG_02.png",
+      "kind": "background",
+      "bytes": 64508,
+      "width": 640,
+      "height": 480,
+      "sha256": "5ba4e21821e0fbde0775015a001f24f77baec0e73ad420d57469c3c5aa8abf9a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.07/SLUS_208.07_BG_02.png"
+      },
+      "gameId": "SLUS_208.07"
+    },
+    {
+      "path": "PS2/SLUS_208.07/SLUS_208.07_BG_03.png",
+      "kind": "background",
+      "bytes": 93837,
+      "width": 640,
+      "height": 480,
+      "sha256": "eca5d929ff669d5dfc10029162910638eb13e3a91d94535e84e24fab5e976a9e",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.07/SLUS_208.07_BG_03.png"
+      },
+      "gameId": "SLUS_208.07"
+    },
+    {
+      "path": "PS2/SLUS_208.07/SLUS_208.07_BG_04.png",
+      "kind": "background",
+      "bytes": 104351,
+      "width": 640,
+      "height": 480,
+      "sha256": "850dd0371c51d3a4b71808bbab9cb6d28ce52789982fcbfc7bc940acdf6b93c0",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.07/SLUS_208.07_BG_04.png"
+      },
+      "gameId": "SLUS_208.07"
+    },
+    {
+      "path": "PS2/SLUS_208.07/SLUS_208.07_BG_05.png",
+      "kind": "background",
+      "bytes": 89172,
+      "width": 640,
+      "height": 480,
+      "sha256": "e3487a7a627b7891aa9897e501379056218d8f173ad94cf26fa6cfd8fa1dd0c7",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_208.07/SLUS_208.07_BG_05.png"
+      },
+      "gameId": "SLUS_208.07"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Space Channel 5: Special Edition (Disc 2)"
+}

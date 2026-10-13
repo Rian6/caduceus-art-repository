@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_201.00",
+  "cover": {
+    "path": "PS2/SCKA_201.00/SCKA_201.00_COV.png",
+    "kind": "cover",
+    "bytes": 59115,
+    "width": 192,
+    "height": 272,
+    "sha256": "bd6e663bd683dcb3cdc0bbc4f8e3a7dc0bdcd7ec542c87b84bb1b13e8f979cdb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCKA_201.00/SCKA_201.00_COV.png"
+    },
+    "gameId": "SCKA_201.00"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Tales of Destiny"
+}

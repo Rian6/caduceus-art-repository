@@ -1,0 +1,64 @@
+{
+  "id": "SLES_518.74",
+  "cover": {
+    "path": "PS2/SLES_518.74/SLES_518.74_COV.png",
+    "kind": "cover",
+    "bytes": 103475,
+    "width": 192,
+    "height": 272,
+    "sha256": "bf31dd7f792534cdc1e50b7773b3a63c5bd68e8702ca52700d5a7a166d8eb948",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51874.jpg"
+    },
+    "gameId": "SLES_518.74"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_518.74/SLES_518.74_BG.png",
+    "kind": "background",
+    "bytes": 128386,
+    "width": 640,
+    "height": 480,
+    "sha256": "d92e20619e3bcf1377edd6601ff1707d89a9c26e84bea3db389aff2b3138d2bb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_518.74/SLES_518.74_BG_00.png"
+    },
+    "gameId": "SLES_518.74"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_518.74/SLES_518.74_BG.png",
+      "kind": "background",
+      "bytes": 128386,
+      "width": 640,
+      "height": 480,
+      "sha256": "d92e20619e3bcf1377edd6601ff1707d89a9c26e84bea3db389aff2b3138d2bb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.74/SLES_518.74_BG_00.png"
+      },
+      "gameId": "SLES_518.74"
+    },
+    {
+      "path": "PS2/SLES_518.74/SLES_518.74_BG_01.png",
+      "kind": "background",
+      "bytes": 122162,
+      "width": 640,
+      "height": 480,
+      "sha256": "a9c52f2fb7cbc1867f74d9ce1f2df211a756e3946857fda36502de2ce49f31af",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_518.74/SLES_518.74_BG_01.png"
+      },
+      "gameId": "SLES_518.74"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MEDAL OF HONOR - SOLEIL LEVANT"
+}

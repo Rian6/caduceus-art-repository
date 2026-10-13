@@ -1,0 +1,65 @@
+{
+  "id": "SLES_534.00",
+  "cover": {
+    "path": "PS2/SLES_534.00/SLES_534.00_COV.png",
+    "kind": "cover",
+    "bytes": 63123,
+    "width": 192,
+    "height": 272,
+    "sha256": "51fbd64992517843dda8e8bd61574ace110aff4ea63f99efa6f678eb581b86ad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53400.jpg"
+    },
+    "gameId": "SLES_534.00"
+  },
+  "disc": {
+    "path": "PS2/SLES_534.00/SLES_534.00_ICO.png",
+    "kind": "disc",
+    "bytes": 9379,
+    "width": 128,
+    "height": 128,
+    "sha256": "440a766f545ba16e66940cf53f3a28580e6aef540f0624903dde1db28c9302c3",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_534.00_ICO.png"
+    },
+    "gameId": "SLES_534.00"
+  },
+  "background": {
+    "path": "PS2/SLES_534.00/SLES_534.00_BG.png",
+    "kind": "background",
+    "bytes": 179944,
+    "width": 640,
+    "height": 480,
+    "sha256": "6da3a6dc68fd9d70e7716d5c6d20b7b83c22b72c19b71a6a6096e426dd2da03a",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_534.00/SLES_534.00_BG_00.png"
+    },
+    "gameId": "SLES_534.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_534.00/SLES_534.00_BG.png",
+      "kind": "background",
+      "bytes": 179944,
+      "width": 640,
+      "height": 480,
+      "sha256": "6da3a6dc68fd9d70e7716d5c6d20b7b83c22b72c19b71a6a6096e426dd2da03a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_534.00/SLES_534.00_BG_00.png"
+      },
+      "gameId": "SLES_534.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Shogun's Blade"
+}

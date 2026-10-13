@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_259.37",
+  "cover": {
+    "path": "PS2/SLPS_259.37/SLPS_259.37_COV.png",
+    "kind": "cover",
+    "bytes": 95264,
+    "width": 192,
+    "height": 272,
+    "sha256": "59eb5a7565586172c0184d404bf847551201165127a88a01f7b6f637a3017628",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25937.jpg"
+    },
+    "gameId": "SLPS_259.37"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "METAL SLUG COMPLETE [SNK BEST COLLECTION]"
+}

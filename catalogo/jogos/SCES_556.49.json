@@ -1,0 +1,25 @@
+{
+  "id": "SCES_556.49",
+  "cover": {
+    "path": "PS2/SCES_556.49/SCES_556.49_COV.png",
+    "kind": "cover",
+    "bytes": 93017,
+    "width": 192,
+    "height": 272,
+    "sha256": "e969a292acd404138f0601624973a68ea838b3b561fa7b80d6afe222cd5f7297",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCES-55649.jpg"
+    },
+    "gameId": "SCES_556.49"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Cart Kings"
+}

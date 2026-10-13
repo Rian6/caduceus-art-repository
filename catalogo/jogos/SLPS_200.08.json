@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_200.08",
+  "cover": {
+    "path": "PS2/SLPS_200.08/SLPS_200.08_COV.png",
+    "kind": "cover",
+    "bytes": 82649,
+    "width": 192,
+    "height": 272,
+    "sha256": "c2a701b807c35dd95af367c6f3f0143616f16650443a19168cf83089c03092de",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20008.jpg"
+    },
+    "gameId": "SLPS_200.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Morita Shogi"
+}

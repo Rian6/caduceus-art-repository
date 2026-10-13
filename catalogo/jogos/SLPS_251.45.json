@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_251.45",
+  "cover": {
+    "path": "PS2/SLPS_251.45/SLPS_251.45_COV.png",
+    "kind": "cover",
+    "bytes": 104170,
+    "width": 192,
+    "height": 272,
+    "sha256": "ffa5fcb50ac3722be40c5b1fc022cefa6a054eb4795faa777c5f944455359514",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25145.jpg"
+    },
+    "gameId": "SLPS_251.45"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "HOOLIGAN - KIMI NO NAKA NO YUUKI [LIMITED EDITION]"
+}

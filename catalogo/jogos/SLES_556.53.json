@@ -1,0 +1,64 @@
+{
+  "id": "SLES_556.53",
+  "cover": {
+    "path": "PS2/SLES_556.53/SLES_556.53_COV.png",
+    "kind": "cover",
+    "bytes": 94793,
+    "width": 192,
+    "height": 272,
+    "sha256": "f4deb16e14882400369426b7553e9a9d0a94555f719bf5ab3615c737f51e8e8f",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-55653.jpg"
+    },
+    "gameId": "SLES_556.53"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_556.53/SLES_556.53_BG.png",
+    "kind": "background",
+    "bytes": 125266,
+    "width": 640,
+    "height": 480,
+    "sha256": "60c5fcf9423acc87a394a32a83f9dcf40cb11539ec749abb197cb2c3d1a04adf",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_556.53/SLES_556.53_BG_00.png"
+    },
+    "gameId": "SLES_556.53"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_556.53/SLES_556.53_BG.png",
+      "kind": "background",
+      "bytes": 125266,
+      "width": 640,
+      "height": 480,
+      "sha256": "60c5fcf9423acc87a394a32a83f9dcf40cb11539ec749abb197cb2c3d1a04adf",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.53/SLES_556.53_BG_00.png"
+      },
+      "gameId": "SLES_556.53"
+    },
+    {
+      "path": "PS2/SLES_556.53/SLES_556.53_BG_01.png",
+      "kind": "background",
+      "bytes": 206589,
+      "width": 640,
+      "height": 480,
+      "sha256": "4043c1247d0640680a5bd67f27c19fddeb8646124e76c54c50510ecb599f4b17",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_556.53/SLES_556.53_BG_01.png"
+      },
+      "gameId": "SLES_556.53"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "FIFA 12"
+}

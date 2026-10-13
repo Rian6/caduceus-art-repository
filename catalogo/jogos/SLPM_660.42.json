@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_660.42",
+  "cover": {
+    "path": "PS2/SLPM_660.42/SLPM_660.42_COV.png",
+    "kind": "cover",
+    "bytes": 99750,
+    "width": 192,
+    "height": 272,
+    "sha256": "b662241b93fdad7f256aa2eb8d509e4ff91db4d2e1facac9f5b95b9a9a3ad3db",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66042.jpg"
+    },
+    "gameId": "SLPM_660.42"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Brother in Arms - Road to Hill 30"
+}

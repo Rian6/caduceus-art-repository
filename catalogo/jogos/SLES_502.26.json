@@ -1,0 +1,64 @@
+{
+  "id": "SLES_502.26",
+  "cover": {
+    "path": "PS2/SLES_502.26/SLES_502.26_COV.png",
+    "kind": "cover",
+    "bytes": 101776,
+    "width": 192,
+    "height": 272,
+    "sha256": "856083422b2ce43ae8f7c2d43a9cb5f9506eb8d44fdcdf33054ad28ea54389c7",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50226.jpg"
+    },
+    "gameId": "SLES_502.26"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_502.26/SLES_502.26_BG.png",
+    "kind": "background",
+    "bytes": 215877,
+    "width": 640,
+    "height": 480,
+    "sha256": "dcb0ddbc49d190271d40ba7cf4e9fdb9ff33dc8355898ad4b24fd6b04bbdf5fd",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_502.26/SLES_502.26_BG_00.png"
+    },
+    "gameId": "SLES_502.26"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_502.26/SLES_502.26_BG.png",
+      "kind": "background",
+      "bytes": 215877,
+      "width": 640,
+      "height": 480,
+      "sha256": "dcb0ddbc49d190271d40ba7cf4e9fdb9ff33dc8355898ad4b24fd6b04bbdf5fd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.26/SLES_502.26_BG_00.png"
+      },
+      "gameId": "SLES_502.26"
+    },
+    {
+      "path": "PS2/SLES_502.26/SLES_502.26_BG_01.png",
+      "kind": "background",
+      "bytes": 212534,
+      "width": 640,
+      "height": 480,
+      "sha256": "02aea15b04f6aa9a8419fce73e1377c6b4d19067308ac8679b7e0c4d1592b22b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_502.26/SLES_502.26_BG_01.png"
+      },
+      "gameId": "SLES_502.26"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Escape from Monkey Island"
+}

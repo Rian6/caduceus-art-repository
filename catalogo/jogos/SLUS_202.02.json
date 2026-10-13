@@ -1,0 +1,117 @@
+{
+  "id": "SLUS_202.02",
+  "cover": {
+    "path": "PS2/SLUS_202.02/SLUS_202.02_COV.png",
+    "kind": "cover",
+    "bytes": 45453,
+    "width": 192,
+    "height": 272,
+    "sha256": "45d95f26dbc07718ab34b23b9ab922235e5504174ebe488b21537400d5403d51",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20202.jpg"
+    },
+    "gameId": "SLUS_202.02"
+  },
+  "disc": {
+    "path": "PS2/SLUS_202.02/SLUS_202.02_ICO.png",
+    "kind": "disc",
+    "bytes": 27702,
+    "width": 256,
+    "height": 256,
+    "sha256": "6b3d77a2ff7de273ed5fe8546ad4c4b76c32e7e33be9af2464ee5dee3f9e5924",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_202.02_ICO.png"
+    },
+    "gameId": "SLUS_202.02"
+  },
+  "background": {
+    "path": "PS2/SLUS_202.02/SLUS_202.02_BG.png",
+    "kind": "background",
+    "bytes": 125635,
+    "width": 640,
+    "height": 480,
+    "sha256": "4fbe65c58dac0c49789545cbfea30c3ea898690ccb74dd5192a94ef62379d4fb",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_202.02/SLUS_202.02_BG_00.png"
+    },
+    "gameId": "SLUS_202.02"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_202.02/SLUS_202.02_BG.png",
+      "kind": "background",
+      "bytes": 125635,
+      "width": 640,
+      "height": 480,
+      "sha256": "4fbe65c58dac0c49789545cbfea30c3ea898690ccb74dd5192a94ef62379d4fb",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.02/SLUS_202.02_BG_00.png"
+      },
+      "gameId": "SLUS_202.02"
+    },
+    {
+      "path": "PS2/SLUS_202.02/SLUS_202.02_BG_01.png",
+      "kind": "background",
+      "bytes": 239503,
+      "width": 640,
+      "height": 480,
+      "sha256": "de4d3eb5256be6f2602557a53d632c9a870e264fcf3602c12bacc60f475c312a",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.02/SLUS_202.02_BG_01.png"
+      },
+      "gameId": "SLUS_202.02"
+    },
+    {
+      "path": "PS2/SLUS_202.02/SLUS_202.02_BG_02.png",
+      "kind": "background",
+      "bytes": 116069,
+      "width": 640,
+      "height": 480,
+      "sha256": "d9869baba9049070c3e1a9d64577e0b1885adf4a7a1c73805fe19b888fc3510f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.02/SLUS_202.02_BG_02.png"
+      },
+      "gameId": "SLUS_202.02"
+    },
+    {
+      "path": "PS2/SLUS_202.02/SLUS_202.02_BG_03.png",
+      "kind": "background",
+      "bytes": 122169,
+      "width": 640,
+      "height": 480,
+      "sha256": "66f3da75c881f4d5f9ba63ff7545de9a20370546d4e718e25a5bcf012fa04ead",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.02/SLUS_202.02_BG_03.png"
+      },
+      "gameId": "SLUS_202.02"
+    },
+    {
+      "path": "PS2/SLUS_202.02/SLUS_202.02_BG_04.png",
+      "kind": "background",
+      "bytes": 141085,
+      "width": 640,
+      "height": 480,
+      "sha256": "af971b9e1b552cf911f216646f9e72f23124f3bf87779b168841f60562eec52d",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_202.02/SLUS_202.02_BG_04.png"
+      },
+      "gameId": "SLUS_202.02"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CRAZY TAXI"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLES_507.15",
+  "cover": {
+    "path": "PS2/SLES_507.15/SLES_507.15_COV.png",
+    "kind": "cover",
+    "bytes": 102272,
+    "width": 192,
+    "height": 272,
+    "sha256": "5a26d0d59411800e74d700ea6be36882212d44558c2d5b358dfea2ce8e495037",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-50715.jpg"
+    },
+    "gameId": "SLES_507.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "GRAVITY GAMES BIKE - STREET. VERT. DIRT."
+}

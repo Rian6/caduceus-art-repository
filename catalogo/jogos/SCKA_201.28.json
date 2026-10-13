@@ -1,0 +1,25 @@
+{
+  "id": "SCKA_201.28",
+  "cover": {
+    "path": "PS2/SCKA_201.28/SCKA_201.28_COV.png",
+    "kind": "cover",
+    "bytes": 77783,
+    "width": 192,
+    "height": 272,
+    "sha256": "5c7a61152c6d7639dfddccba5bdfb2c32221060ab039804741db3f23c35ecc74",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCKA-20128.jpg"
+    },
+    "gameId": "SCKA_201.28"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "ZERO - AKAI CHOU [BIG HIT SERIES]"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPM_651.19",
+  "cover": {
+    "path": "PS2/SLPM_651.19/SLPM_651.19_COV.png",
+    "kind": "cover",
+    "bytes": 97754,
+    "width": 192,
+    "height": 272,
+    "sha256": "916db49d0d94e47a9113a993ee4ceab78ab9e539e3a0bc2146f3597adfcb4023",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-65119.jpg"
+    },
+    "gameId": "SLPM_651.19"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SHINE - KOTOBA O TSUMUIDE [LIMITED EDITION]"
+}

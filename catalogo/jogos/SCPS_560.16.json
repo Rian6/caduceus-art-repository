@@ -1,0 +1,51 @@
+{
+  "id": "SCPS_560.16",
+  "cover": {
+    "path": "PS2/SCPS_560.16/SCPS_560.16_COV.png",
+    "kind": "cover",
+    "bytes": 57698,
+    "width": 192,
+    "height": 272,
+    "sha256": "85963ad2ca918a12d6d5f2cc512726545ab8a568de801e40cf77d1bca8a12ea2",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_560.16/SCPS_560.16_COV.png"
+    },
+    "gameId": "SCPS_560.16"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SCPS_560.16/SCPS_560.16_BG.png",
+    "kind": "background",
+    "bytes": 136040,
+    "width": 640,
+    "height": 480,
+    "sha256": "be40903cc0a03626fb332ba6fd8520b36e4159364c589087e919283d0a5b0b93",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SCPS_560.16/SCPS_560.16_BG_00.png"
+    },
+    "gameId": "SCPS_560.16"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SCPS_560.16/SCPS_560.16_BG.png",
+      "kind": "background",
+      "bytes": 136040,
+      "width": 640,
+      "height": 480,
+      "sha256": "be40903cc0a03626fb332ba6fd8520b36e4159364c589087e919283d0a5b0b93",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SCPS_560.16/SCPS_560.16_BG_00.png"
+      },
+      "gameId": "SCPS_560.16"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Extreme Racing - Axel Impact"
+}

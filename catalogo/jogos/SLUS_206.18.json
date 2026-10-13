@@ -1,0 +1,39 @@
+{
+  "id": "SLUS_206.18",
+  "cover": {
+    "path": "PS2/SLUS_206.18/SLUS_206.18_COV.png",
+    "kind": "cover",
+    "bytes": 94296,
+    "width": 192,
+    "height": 272,
+    "sha256": "305c5a728cb05a6e27aaf77d9ab41f7a7f116dd900e9cf6562a3ab8a55f1efb1",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-20618.jpg"
+    },
+    "gameId": "SLUS_206.18"
+  },
+  "disc": {
+    "path": "PS2/SLUS_206.18/SLUS_206.18_ICO.png",
+    "kind": "disc",
+    "bytes": 35387,
+    "width": 256,
+    "height": 256,
+    "sha256": "4e37e7ffcf4fa839ead08f0cc949165215b790e086d85f4bb7da1bf0f68ad343",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_206.18_ICO.png"
+    },
+    "gameId": "SLUS_206.18"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MLB Slugfest 2004"
+}

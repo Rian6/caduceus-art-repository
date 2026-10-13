@@ -1,0 +1,25 @@
+{
+  "id": "SLES_543.13",
+  "cover": {
+    "path": "PS2/SLES_543.13/SLES_543.13_COV.png",
+    "kind": "cover",
+    "bytes": 108279,
+    "width": 192,
+    "height": 272,
+    "sha256": "4aae2b3046d41129ec8e488fdd1c3f9933098ec161b347c26f14a783ee51e8eb",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54313.jpg"
+    },
+    "gameId": "SLES_543.13"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "LEGEND OF THE DRAGON"
+}

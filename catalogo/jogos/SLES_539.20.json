@@ -1,0 +1,39 @@
+{
+  "id": "SLES_539.20",
+  "cover": {
+    "path": "PS2/SLES_539.20/SLES_539.20_COV.png",
+    "kind": "cover",
+    "bytes": 84635,
+    "width": 192,
+    "height": 272,
+    "sha256": "69e2799eb050d35582ec544deba1cd358592abfd197cd31a698e33a84ffec397",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-53920.jpg"
+    },
+    "gameId": "SLES_539.20"
+  },
+  "disc": {
+    "path": "PS2/SLES_539.20/SLES_539.20_ICO.png",
+    "kind": "disc",
+    "bytes": 10869,
+    "width": 128,
+    "height": 128,
+    "sha256": "5b39edfcdd53d476664a54b20ecf0ceb4389bf19946d20724c673ac335d05a33",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_539.20_ICO.png"
+    },
+    "gameId": "SLES_539.20"
+  },
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Speed Machines 3"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_254.88",
+  "cover": {
+    "path": "PS2/SLPS_254.88/SLPS_254.88_COV.png",
+    "kind": "cover",
+    "bytes": 67133,
+    "width": 192,
+    "height": 272,
+    "sha256": "528c99e8473608e450a96180b920a3c8b89975a3f985be90e176814719df6418",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-25488.jpg"
+    },
+    "gameId": "SLPS_254.88"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Zeonic Front - Kidou Senshi Gundam 0079 (Gundam The Best)"
+}

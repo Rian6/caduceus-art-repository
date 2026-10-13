@@ -1,0 +1,51 @@
+{
+  "id": "SLES_609.00",
+  "cover": {
+    "path": "PS2/SLES_609.00/SLES_609.00_COV.png",
+    "kind": "cover",
+    "bytes": 52940,
+    "width": 192,
+    "height": 272,
+    "sha256": "c17fc28527561807326f21c2059044007ee58acad76c8f079fa22d8e6ece9478",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_609.00/SLES_609.00_COV.png"
+    },
+    "gameId": "SLES_609.00"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_609.00/SLES_609.00_BG.png",
+    "kind": "background",
+    "bytes": 91885,
+    "width": 640,
+    "height": 480,
+    "sha256": "72450c56c8a39fe36414f1055a09cefe96ecd059540d1265d434c3e6510d2f45",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_609.00/SLES_609.00_BG_00.png"
+    },
+    "gameId": "SLES_609.00"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_609.00/SLES_609.00_BG.png",
+      "kind": "background",
+      "bytes": 91885,
+      "width": 640,
+      "height": 480,
+      "sha256": "72450c56c8a39fe36414f1055a09cefe96ecd059540d1265d434c3e6510d2f45",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_609.00/SLES_609.00_BG_00.png"
+      },
+      "gameId": "SLES_609.00"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Hermes - Run A La Carte"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.08",
+  "cover": {
+    "path": "PS2/SLPS_202.08/SLPS_202.08_COV.png",
+    "kind": "cover",
+    "bytes": 109843,
+    "width": 192,
+    "height": 272,
+    "sha256": "a0393a192970e6849b0352343ca902e6e26347f9366632a573a85f428782393e",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20208.jpg"
+    },
+    "gameId": "SLPS_202.08"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Boku wa Chiisai"
+}

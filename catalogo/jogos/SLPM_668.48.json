@@ -1,0 +1,103 @@
+{
+  "id": "SLPM_668.48",
+  "cover": {
+    "path": "PS2/SLPM_668.48/SLPM_668.48_COV.png",
+    "kind": "cover",
+    "bytes": 108019,
+    "width": 192,
+    "height": 272,
+    "sha256": "d91c0acee6d0d0ec0b153cceabfcc3db1832b36b8a9f2d9963a0715a901a8607",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66848.jpg"
+    },
+    "gameId": "SLPM_668.48"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_668.48/SLPM_668.48_BG.png",
+    "kind": "background",
+    "bytes": 198685,
+    "width": 640,
+    "height": 480,
+    "sha256": "510aebcce027119f9af4a620604d135d1adf024345e0de9c014a73406e589d3b",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_668.48/SLPM_668.48_BG_00.png"
+    },
+    "gameId": "SLPM_668.48"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_668.48/SLPM_668.48_BG.png",
+      "kind": "background",
+      "bytes": 198685,
+      "width": 640,
+      "height": 480,
+      "sha256": "510aebcce027119f9af4a620604d135d1adf024345e0de9c014a73406e589d3b",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_668.48/SLPM_668.48_BG_00.png"
+      },
+      "gameId": "SLPM_668.48"
+    },
+    {
+      "path": "PS2/SLPM_668.48/SLPM_668.48_BG_01.png",
+      "kind": "background",
+      "bytes": 251816,
+      "width": 640,
+      "height": 480,
+      "sha256": "5ff81ce60211669645e592ae68f811cb8dfe8d49b5c5431ca110882c9a8585cd",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_668.48/SLPM_668.48_BG_01.png"
+      },
+      "gameId": "SLPM_668.48"
+    },
+    {
+      "path": "PS2/SLPM_668.48/SLPM_668.48_BG_02.png",
+      "kind": "background",
+      "bytes": 152099,
+      "width": 640,
+      "height": 480,
+      "sha256": "57f7887df240ca86dba7b3eabc1225052f608286bd959fd268f358c140a26772",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_668.48/SLPM_668.48_BG_02.png"
+      },
+      "gameId": "SLPM_668.48"
+    },
+    {
+      "path": "PS2/SLPM_668.48/SLPM_668.48_BG_03.png",
+      "kind": "background",
+      "bytes": 184110,
+      "width": 640,
+      "height": 480,
+      "sha256": "c2b8b8352b7c681abaf420e59a1e7017a4ab27a33804dbf9b93ac7ba5349e412",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_668.48/SLPM_668.48_BG_03.png"
+      },
+      "gameId": "SLPM_668.48"
+    },
+    {
+      "path": "PS2/SLPM_668.48/SLPM_668.48_BG_04.png",
+      "kind": "background",
+      "bytes": 237447,
+      "width": 640,
+      "height": 480,
+      "sha256": "085b78a5e0bf91d009d8a48c9dade45b7fd70c31ba4586469f3cf7694118c614",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_668.48/SLPM_668.48_BG_04.png"
+      },
+      "gameId": "SLPM_668.48"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Sengoku Basara 2: Heroes"
+}

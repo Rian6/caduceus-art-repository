@@ -1,0 +1,51 @@
+{
+  "id": "SLES_510.84",
+  "cover": {
+    "path": "PS2/SLES_510.84/SLES_510.84_COV.png",
+    "kind": "cover",
+    "bytes": 93840,
+    "width": 192,
+    "height": 272,
+    "sha256": "b785e6af6b6de7f4c7fd15152abe56969e457066dc3473df8e21f45701d28961",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-51084.jpg"
+    },
+    "gameId": "SLES_510.84"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLES_510.84/SLES_510.84_BG.png",
+    "kind": "background",
+    "bytes": 194059,
+    "width": 640,
+    "height": 480,
+    "sha256": "cec40a11288f09fffccde55a59533bd09c3108ca2521223094d87d98cfef0197",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_510.84/SLES_510.84_BG_00.png"
+    },
+    "gameId": "SLES_510.84"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_510.84/SLES_510.84_BG.png",
+      "kind": "background",
+      "bytes": 194059,
+      "width": 640,
+      "height": 480,
+      "sha256": "cec40a11288f09fffccde55a59533bd09c3108ca2521223094d87d98cfef0197",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_510.84/SLES_510.84_BG_00.png"
+      },
+      "gameId": "SLES_510.84"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "CLUB FOOTBALL - FC BAYERN MUNCHEN"
+}

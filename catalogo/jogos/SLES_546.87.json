@@ -1,0 +1,104 @@
+{
+  "id": "SLES_546.87",
+  "cover": {
+    "path": "PS2/SLES_546.87/SLES_546.87_COV.png",
+    "kind": "cover",
+    "bytes": 98784,
+    "width": 192,
+    "height": 272,
+    "sha256": "4f258888724264bb0fbeee837a2de1858bcc844ee03f8a249dfd4a232e1cc6ad",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLES-54687.jpg"
+    },
+    "gameId": "SLES_546.87"
+  },
+  "disc": {
+    "path": "PS2/SLES_546.87/SLES_546.87_ICO.png",
+    "kind": "disc",
+    "bytes": 10554,
+    "width": 128,
+    "height": 128,
+    "sha256": "46262d16ce6ce2dc68435c86151c74a777a27655c38c0bb50a2790a1b0ae8d9c",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLES_546.87_ICO.png"
+    },
+    "gameId": "SLES_546.87"
+  },
+  "background": {
+    "path": "PS2/SLES_546.87/SLES_546.87_BG.png",
+    "kind": "background",
+    "bytes": 179310,
+    "width": 640,
+    "height": 480,
+    "sha256": "c06f333a9898f73931db78a549a60abbe430c713000bd08f07c72f83d97703ec",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLES_546.87/SLES_546.87_BG_00.png"
+    },
+    "gameId": "SLES_546.87"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLES_546.87/SLES_546.87_BG.png",
+      "kind": "background",
+      "bytes": 179310,
+      "width": 640,
+      "height": 480,
+      "sha256": "c06f333a9898f73931db78a549a60abbe430c713000bd08f07c72f83d97703ec",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.87/SLES_546.87_BG_00.png"
+      },
+      "gameId": "SLES_546.87"
+    },
+    {
+      "path": "PS2/SLES_546.87/SLES_546.87_BG_01.png",
+      "kind": "background",
+      "bytes": 182371,
+      "width": 640,
+      "height": 480,
+      "sha256": "a3c722270f8dbe9612e66e735c26f69ba99216764a9be47c05de382973d50a07",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.87/SLES_546.87_BG_01.png"
+      },
+      "gameId": "SLES_546.87"
+    },
+    {
+      "path": "PS2/SLES_546.87/SLES_546.87_BG_02.png",
+      "kind": "background",
+      "bytes": 145432,
+      "width": 640,
+      "height": 480,
+      "sha256": "f4a4cd1c5abffdbf0e57b573ad1dd8ae9f49abb7f117b558d22f385e6a007f68",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.87/SLES_546.87_BG_02.png"
+      },
+      "gameId": "SLES_546.87"
+    },
+    {
+      "path": "PS2/SLES_546.87/SLES_546.87_BG_03.png",
+      "kind": "background",
+      "bytes": 167678,
+      "width": 640,
+      "height": 480,
+      "sha256": "07295acc607cffe1337d47da0896dca5eec06cc3cc2bc5dd019232e42fe7c5a5",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLES_546.87/SLES_546.87_BG_03.png"
+      },
+      "gameId": "SLES_546.87"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Spectral vs Generation"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "SLPM_668.91",
+  "cover": {
+    "path": "PS2/SLPM_668.91/SLPM_668.91_COV.png",
+    "kind": "cover",
+    "bytes": 92273,
+    "width": 192,
+    "height": 272,
+    "sha256": "6a44638410b25cf7e61bba2653e99b15cc3dd4a1abc6c9da40f7366ddcd6f333",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-66891.jpg"
+    },
+    "gameId": "SLPM_668.91"
+  },
+  "disc": null,
+  "background": {
+    "path": "PS2/SLPM_668.91/SLPM_668.91_BG.png",
+    "kind": "background",
+    "bytes": 158125,
+    "width": 640,
+    "height": 480,
+    "sha256": "50347845ca74ed151b2c773de13ebed2eee8d8eb9d9a6d2a707b2e145b4de620",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_668.91/SLPM_668.91_BG_00.png"
+    },
+    "gameId": "SLPM_668.91"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_668.91/SLPM_668.91_BG.png",
+      "kind": "background",
+      "bytes": 158125,
+      "width": 640,
+      "height": 480,
+      "sha256": "50347845ca74ed151b2c773de13ebed2eee8d8eb9d9a6d2a707b2e145b4de620",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_668.91/SLPM_668.91_BG_00.png"
+      },
+      "gameId": "SLPM_668.91"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "MYSELF YOURSELF [LIMITED EDITION]"
+}

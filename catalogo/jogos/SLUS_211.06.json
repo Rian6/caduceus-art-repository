@@ -1,0 +1,104 @@
+{
+  "id": "SLUS_211.06",
+  "cover": {
+    "path": "PS2/SLUS_211.06/SLUS_211.06_COV.png",
+    "kind": "cover",
+    "bytes": 90217,
+    "width": 192,
+    "height": 272,
+    "sha256": "26b6200ad8e645a0c954d3deae68922e57a3ab8228a47b58d9edd091eae712d8",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLUS-21106.jpg"
+    },
+    "gameId": "SLUS_211.06"
+  },
+  "disc": {
+    "path": "PS2/SLUS_211.06/SLUS_211.06_ICO.png",
+    "kind": "disc",
+    "bytes": 32657,
+    "width": 256,
+    "height": 256,
+    "sha256": "a1e23b9dc3d7602d50a35584b62300ec1f7826e1fcee573d87b846968285e578",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "NTSC Hi-Res 8-bit.zip",
+      "archiveSha256": "98e7f62915933733684d919a936f6c87a1c70d822e5fe00786366d049571d40d",
+      "path": "NTSC Hi-Res 8-bit/256x256 named/SLUS_211.06_ICO.png"
+    },
+    "gameId": "SLUS_211.06"
+  },
+  "background": {
+    "path": "PS2/SLUS_211.06/SLUS_211.06_BG.png",
+    "kind": "background",
+    "bytes": 151565,
+    "width": 640,
+    "height": 480,
+    "sha256": "f9b7591bb0089bec5c3104e0d68fc1a3e620386a82501459ecf47d03cdd6c980",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLUS_211.06/SLUS_211.06_BG_00.png"
+    },
+    "gameId": "SLUS_211.06"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLUS_211.06/SLUS_211.06_BG.png",
+      "kind": "background",
+      "bytes": 151565,
+      "width": 640,
+      "height": 480,
+      "sha256": "f9b7591bb0089bec5c3104e0d68fc1a3e620386a82501459ecf47d03cdd6c980",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.06/SLUS_211.06_BG_00.png"
+      },
+      "gameId": "SLUS_211.06"
+    },
+    {
+      "path": "PS2/SLUS_211.06/SLUS_211.06_BG_01.png",
+      "kind": "background",
+      "bytes": 139475,
+      "width": 640,
+      "height": 480,
+      "sha256": "4fa569c82f7cde4abd843eeb3cc258f3545b09b5a9f18a2b17403ebea569b9d2",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.06/SLUS_211.06_BG_01.png"
+      },
+      "gameId": "SLUS_211.06"
+    },
+    {
+      "path": "PS2/SLUS_211.06/SLUS_211.06_BG_02.png",
+      "kind": "background",
+      "bytes": 225312,
+      "width": 640,
+      "height": 480,
+      "sha256": "a46c40947770fbb573ed373e407536c1092c9b1a519765fde4d2e328f492ece3",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.06/SLUS_211.06_BG_02.png"
+      },
+      "gameId": "SLUS_211.06"
+    },
+    {
+      "path": "PS2/SLUS_211.06/SLUS_211.06_BG_03.png",
+      "kind": "background",
+      "bytes": 146275,
+      "width": 640,
+      "height": 480,
+      "sha256": "fb02edd01b4abe01706ae7cfbdae12eccbb6078233368f4e0c5a9ad547183b68",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLUS_211.06/SLUS_211.06_BG_03.png"
+      },
+      "gameId": "SLUS_211.06"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "True Crime: New York City"
+}

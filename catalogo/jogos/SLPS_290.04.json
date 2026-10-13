@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_290.04",
+  "cover": {
+    "path": "PS2/SLPS_290.04/SLPS_290.04_COV.png",
+    "kind": "cover",
+    "bytes": 103544,
+    "width": 192,
+    "height": 272,
+    "sha256": "14a44104af544b936a9d61dd530e9aa0fed759b362033d849d31814df1339dac",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-29004.jpg"
+    },
+    "gameId": "SLPS_290.04"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "The Lord of the Rings: Futatsu no Tou"
+}

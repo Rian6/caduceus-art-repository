@@ -1,0 +1,25 @@
+{
+  "id": "SLPS_202.02",
+  "cover": {
+    "path": "PS2/SLPS_202.02/SLPS_202.02_COV.png",
+    "kind": "cover",
+    "bytes": 111284,
+    "width": 192,
+    "height": 272,
+    "sha256": "d7a65045c6c7db8b92598cdc1b39d6dc4fa57fe6e9df265100b932ff04170c86",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPS-20202.jpg"
+    },
+    "gameId": "SLPS_202.02"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Coloball 2002"
+}

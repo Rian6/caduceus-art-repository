@@ -1,0 +1,25 @@
+{
+  "id": "ALCH_000.15",
+  "cover": {
+    "path": "PS2/ALCH_000.15/ALCH_000.15_COV.png",
+    "kind": "cover",
+    "bytes": 106617,
+    "width": 192,
+    "height": 272,
+    "sha256": "1ea117ff7906a74bf9192177afd6c86c41ae53bad827c1f6a5d9931f32681604",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/ALCH-00015.jpg"
+    },
+    "gameId": "ALCH_000.15"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "SUGAR+SPICE! - ANOKO NO SUTEKI NA NANIMOKAMO [FIRST PRESS LIMITED EDITION]"
+}

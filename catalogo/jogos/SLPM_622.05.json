@@ -1,0 +1,65 @@
+{
+  "id": "SLPM_622.05",
+  "cover": {
+    "path": "PS2/SLPM_622.05/SLPM_622.05_COV.png",
+    "kind": "cover",
+    "bytes": 99489,
+    "width": 192,
+    "height": 272,
+    "sha256": "36812984381e5ced60ca2c8cbdf0fa767395a5cf40d2f9b0556c7d9872556f64",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SLPM-62205.jpg"
+    },
+    "gameId": "SLPM_622.05"
+  },
+  "disc": {
+    "path": "PS2/SLPM_622.05/SLPM_622.05_ICO.png",
+    "kind": "disc",
+    "bytes": 11498,
+    "width": 128,
+    "height": 128,
+    "sha256": "935656d6bfadecd085d8af8fe491e9e9c458dfb957fec15c29ec85d0cfc8648a",
+    "source": {
+      "id": "local-disc-pack",
+      "archive": "Region Update.zip",
+      "archiveSha256": "ab72505fbf5606b3fd98cebc55919fe567c5b49b6e52a8ec84638337e5c80784",
+      "path": "+Region Update/syntax_X/ART/SLPM_622.05_ICO.png"
+    },
+    "gameId": "SLPM_622.05"
+  },
+  "background": {
+    "path": "PS2/SLPM_622.05/SLPM_622.05_BG.png",
+    "kind": "background",
+    "bytes": 212351,
+    "width": 640,
+    "height": 480,
+    "sha256": "3d6c8101bd37844f06474dfe3d8647ec9fccb9af10a1e9833347a6a4bb2f118f",
+    "source": {
+      "id": "luden-opl-art",
+      "path": "PS2/SLPM_622.05/SLPM_622.05_BG_00.png"
+    },
+    "gameId": "SLPM_622.05"
+  },
+  "backgrounds": [
+    {
+      "path": "PS2/SLPM_622.05/SLPM_622.05_BG.png",
+      "kind": "background",
+      "bytes": 212351,
+      "width": 640,
+      "height": 480,
+      "sha256": "3d6c8101bd37844f06474dfe3d8647ec9fccb9af10a1e9833347a6a4bb2f118f",
+      "source": {
+        "id": "luden-opl-art",
+        "path": "PS2/SLPM_622.05/SLPM_622.05_BG_00.png"
+      },
+      "gameId": "SLPM_622.05"
+    }
+  ],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Virtua Cop Re-Birth"
+}

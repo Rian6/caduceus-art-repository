@@ -1,0 +1,25 @@
+{
+  "id": "SCAJ_200.56",
+  "cover": {
+    "path": "PS2/SCAJ_200.56/SCAJ_200.56_COV.png",
+    "kind": "cover",
+    "bytes": 95439,
+    "width": 192,
+    "height": 272,
+    "sha256": "7cf20afde11a07d74a308338085f2c7560a0156af3f451eed2f59459a2470be4",
+    "source": {
+      "id": "xlenore-ps2-covers",
+      "path": "covers/default/SCAJ-20056.jpg"
+    },
+    "gameId": "SCAJ_200.56"
+  },
+  "disc": null,
+  "background": null,
+  "backgrounds": [],
+  "alternatives": {
+    "covers": [],
+    "discs": []
+  },
+  "extras": [],
+  "title": "Bujingai"
+}
