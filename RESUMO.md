@@ -1,6 +1,6 @@
 # Entrega — 13/10/2026
 
-Esta é a pasta pronta para criar o seu repositório de artes do Caduceus.
+Base de artes do [repositório Caduceus](https://github.com/Rian6/caduceus-art-repository).
 
 | Conteúdo | Quantidade |
 | --- | ---: |
@@ -21,13 +21,13 @@ Os originais, capas 3D e demais extras foram preservados em
 Os clones das fontes estão separados em `D:\caduceus-art-sources`.
 
 Leia [README.md](README.md) para usar a base offline e [PUBLICAR.md](PUBLICAR.md)
-para criar commits e publicar. O plano divide as artes em **9 lotes de até
-400 MiB**, mantendo todos os arquivos de cada código juntos. O Git foi
-inicializado em `main`; não há commits, remoto configurado ou publicação feita.
+para preparar uma nova distribuição. O envio inicial divide as artes em
+**9 lotes de até 400 MiB**, mantendo todos os arquivos de cada código juntos.
+O Git utiliza `main` e o remoto `Rian6/caduceus-art-repository`.
 
 As 28.202 imagens e as referências dos manifestos passaram na validação de
 formatos, dimensões, tamanhos e SHA-256, sem erros.
 O instalador foi testado em uma pasta temporária. O envio em lotes foi testado
 contra um repositório Git temporário local. A pasta `ART` dos seus jogos está
-preservada. A origem do servidor Caduceus será alterada quando você fornecer
-o endereço do seu repositório.
+preservada. O código do servidor Caduceus foi configurado para buscar capas,
+discos e fundos deste repositório. Downloads ausentes preservam as artes locais.

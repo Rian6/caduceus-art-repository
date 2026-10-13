@@ -12,7 +12,9 @@ busque diretamente os PNGs nos caminhos `PS2/<codigo>/...`.
 
 ## Preparação local
 
-O Git local já foi inicializado na branch `main`, sem commits ou endereço remoto.
+O envio inicial desta base foi preparado na branch `main` para
+`https://github.com/Rian6/caduceus-art-repository`. Os comandos de preparação
+abaixo servem para uma nova distribuição ainda sem commits.
 O script abaixo, sem opções, somente mostra o plano; não grava commits nem envia arquivos:
 
 ```powershell
@@ -35,7 +37,7 @@ de cada código juntas e coloca o catálogo no último commit.
 Crie um repositório remoto **vazio**, e configure a URL:
 
 ```powershell
-git remote add origin https://github.com/USUARIO/REPOSITORIO.git
+git remote add origin https://github.com/Rian6/caduceus-art-repository.git
 python tools/git_batches.py --push
 ```
 
